@@ -1,7 +1,17 @@
 [
   {
     "id" : 1,
-    "en" : "I'm sure you will pull off the competition",
-    "fa" : "من مطمئن هستم که شما رقابت را پشت سر می گذاری"
+    "en" : "I'm sure you will pull off the competition.",
+    "fa" : ".من مطمئن هستم که شما رقابت را پشت سر می گذاری"
+  },
+  {
+    "id" : 2,
+    "en" : "What took you so long?",
+    "fa" : "چرا اینقدر طولش دادی؟"
+  },
+  {
+    "id" : 3,
+    "en" : "Let’s get something straight.",
+    "fa" : ".بزار یک چیزی را رک مشخص کنیم"
   },
 ]
