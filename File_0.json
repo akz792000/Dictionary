@@ -18,7 +18,7 @@
     "id": 4,
     "en": "Take your umbrella, it might rain",
     "fa": "چترت را ببر، ممکن است باران ببارد"
-  },  
+  },
   {
     "id": 5,
     "en": "One way or another",
@@ -53,5 +53,115 @@
     "id": 11,
     "en": "What did you do that for?",
     "fa": "اون کار را برای چی انجام دادی؟"
-  }  
+  },
+  {
+    "id": 12,
+    "en": "There is a little misunderstanding",
+    "fa": "کمی سوء تفاهم وجود دارد"
+  },
+  {
+    "id": 13,
+    "en": "If I knew I would tell you.",
+    "fa": "اگه میدونستم بهت میگفتم"
+  },
+  {
+    "id": 14,
+    "en": "I was just out grocery shopping",
+    "fa": "من تازه بیرون رفته بودم برای خرید مواد غذایی"
+  },
+  {
+    "id": 15,
+    "en": "Speaking of which",
+    "fa": "حالا که بحثش شد"
+  },
+  {
+    "id": 16,
+    "en": "How far is your school from here?",
+    "fa": "مدرسه شما تا اینجا چقدر فاصله دارد؟"
+  },
+  {
+    "id": 17,
+    "en": "Who do we believe?",
+    "fa": "چه کسی را باور کنیم؟"
+  },
+  {
+    "id": 18,
+    "en": "Who has called?",
+    "fa": "چه کسی تماس گرفته است؟"
+  },
+  {
+    "id": 19,
+    "en": "Who is she to you?",
+    "fa": "او با تو چه صنمی دارد؟"
+  },
+  {
+    "id": 20,
+    "en": "Unfortunately, we will not be moving forward with your request",
+    "fa": "متاسفانه ما به درخواست شما ادامه نمی دهیم"
+  },
+  {
+    "id": 21,
+    "en": "Please roll down the window",
+    "fa": "لطفا پنجره را پایین بیاورید"
+  },
+  {
+    "id": 22,
+    "en": "I am not doubting how strong you are by any means",
+    "fa": "من به هیچ وجه شک ندارم که چقدر قوی هستی."
+  },
+  {
+    "id": 23,
+    "en": "Can I possibly take two of those plates from you?",
+    "fa": "آیا می توانم دو تا از آن بشقاب ها (وزنه) را از شما بگیرم؟"
+  },
+  {
+    "id": 24,
+    "en": "I got married",
+    "fa": "من ازدواج کردم"
+  },
+  {
+    "id": 25,
+    "en": "I got divorced",
+    "fa": "من طلاق گرفتم"
+  },
+  {
+    "id": 26,
+    "en": "I got sick",
+    "fa": "من مریض شدم"
+  },
+  {
+    "id": 27,
+    "en": "I got shy",
+    "fa": "من خجالتی شدم"
+  },
+  {
+    "id": 28,
+    "en": "I got older",
+    "fa": "من بزرگتر شدم"
+  },
+  {
+    "id": 29,
+    "en": "I got fired",
+    "fa": "من اخراج شدم"
+  },
+  {
+    "id": 30,
+    "en": "I got hired",
+    "fa": "من استخدام شدم"
+  },
+  {
+    "id": 31,
+    "en": "I got upset",
+    "fa": "من ناراحت شدم"
+  },
+  {
+    "id": 32,
+    "en": "I got happy",
+    "fa": "من خوشحال شدم"
+  },
+  {
+    "id": 32,
+    "en": "I got home",
+    "fa": "من اومدم خانه"
+  }
 ]
