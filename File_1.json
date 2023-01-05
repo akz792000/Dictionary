@@ -2,7 +2,7 @@
   {
     "id": 100,
     "en": "Keep me posted",
-    "fa": "مرا در جریان بگذار"
+    "fa": "مرا در جریان بزار"
   },
   {
     "id": 101,
@@ -17,17 +17,17 @@
   {
     "id": 103,
     "en": "Be careful not to fall down",
-    "fa": "مراقب باشید زمین نخورید"
+    "fa": "مراقب باش زمین نخوری"
   },
   {
     "id": 104,
     "en": "How long have you had this problem?",
-    "fa": "چه مدت است که این مشکل را دارید؟"
+    "fa": "چه مدته که این مشکل را داری؟"
   },
   {
     "id": 105,
     "en": "Make yourself at home",
-    "fa": "راحت باشید"
+    "fa": "راحت باش"
   },
   {
     "id": 106,
@@ -38,5 +38,125 @@
     "id": 107,
     "en": "When are you due?",
     "fa": "کی فارغ میشی؟ (زایمان)"
+  },
+  {
+    "id": 108,
+    "en": "Don't say that I have no sentiment",
+    "fa": "نگو که من هیچ احساسی ندارم"
+  },
+  {
+    "id": 109,
+    "en": "How late are you open?",
+    "fa": "تا کی باز هستی؟"
+  },
+  {
+    "id": 110,
+    "en": "I'll take the kids to the park later",
+    "fa": "من بچه ها را بعدا پارک می برم"
+  },
+  {
+    "id": 111,
+    "en": "From time to time",
+    "fa": "گاهی اوقات"
+  },
+  {
+    "id": 112,
+    "en": "No offense",
+    "fa": "جسارت نباشه"
+  },
+  {
+    "id": 113,
+    "en": "Why are you acting so weird?",
+    "fa": "چرا اینقدر عجیب رفتار میکنی؟"
+  },
+  {
+    "id": 114,
+    "en": "Don't make excuses",
+    "fa": "بهانه نیار"
+  },
+  {
+    "id": 115,
+    "en": "I hope you get well soon",
+    "fa": "امیدوارم هرچه زودتر خوب شی"
+  },
+  {
+    "id": 116,
+    "en": "Did you talk to him?",
+    "fa": "باهاش صحبت کردی؟"
+  },
+  {
+    "id": 117,
+    "en": "Don't make it worse",
+    "fa": "بدترش نکن"
+  },
+  {
+    "id": 118,
+    "en": "What makes you so sure?",
+    "fa": "از کجا اینقدر مطمئنی؟"
+  },
+  {
+    "id": 119,
+    "en": "Could you lend me your book for a few days?",
+    "fa": "میتونی کتابت رو برای چند روز بهم قرض بدی؟"
+  },
+  {
+    "id": 120,
+    "en": "Only on one condition",
+    "fa": "بلی فقط به یک شرط"
+  },
+  {
+    "id": 121,
+    "en": "I have so much to do",
+    "fa": "خیلی کار دارم"
+  },
+  {
+    "id": 122,
+    "en": "Who gave you my number?",
+    "fa": "کی شمارم رو بهت داد؟"
+  },
+  {
+    "id": 123,
+    "en": "Like I said",
+    "fa": "همانطور که گفتم"
+  },
+  {
+    "id": 124,
+    "en": "He was nothing compared to you",
+    "fa": "او در مقایسه با تو هیچ چیز نبود"
+  },
+  {
+    "id": 125,
+    "en": "Put yourself in my place",
+    "fa": "خودت را بزار جای من"
+  },
+  {
+    "id": 126,
+    "en": "Anyway, I am on your side",
+    "fa": "به هر حال من طرف تو هستم"
+  },
+  {
+    "id": 127,
+    "en": "Please drop me off",
+    "fa": "لطفا من را پیاده کن"
+  },
+  {
+    "id": 128,
+    "en": "I overslept",
+    "fa": "من خواب موندم"
+  },
+  {
+    "id": 129,
+    "en": "Could you wait a little longer please?",
+    "fa": "میتونی کمی بیشتر صبر کنی؟"
+  },
+  {
+    "id": 130,
+    "en": "I am looking forward to seeing you",
+    "fa": "من منتظر دیدن شما هستم"
+  },
+  {
+    "id": 131,
+    "en": "I want you gone by the time I get back",
+    "fa": "من می خوام زمانی که برگشستم، رفته باشی"
   }
 ]
