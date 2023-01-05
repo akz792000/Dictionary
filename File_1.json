@@ -1,10 +1,5 @@
 [
   {
-    "id": 100,
-    "en": "Keep me posted",
-    "fa": "مرا در جریان بزار"
-  },
-  {
     "id": 101,
     "en": "I can’t take it anymore",
     "fa": "دیگه نمیتونم تحملش کنم"
@@ -158,5 +153,150 @@
     "id": 131,
     "en": "I want you gone by the time I get back",
     "fa": "من می خوام زمانی که برگشستم، رفته باشی"
+  },
+  {
+    "id": 132,
+    "en": "You weren't supposed to be home",
+    "fa": "قرار نبود تو خونه باشی"
+  },
+  {
+    "id": 133,
+    "en": "I never had hair on my back till I started shaving",
+    "fa": "من هیچ وقت روی پشتم مو نداشتم تا اینکه شروع به اصلاح کردم"
+  },
+  {
+    "id": 134,
+    "en": "I have to shave my armpits",
+    "fa": "باید زیر بغلم را اصلاح کنم"
+  },
+  {
+    "id": 135,
+    "en": "No matter what happens",
+    "fa": "مهم نیست چه اتفاقی می افتد"
+  },
+  {
+    "id": 136,
+    "en": "It is good to see you again",
+    "fa": "خوشحالم دوباره شما را می بینم"
+  },
+  {
+    "id": 137,
+    "en": "What do you think of her?",
+    "fa": "راجع بهش چی فکر میکنی؟"
+  },
+  {
+    "id": 138,
+    "en": "I am getting sick",
+    "fa": "دارم مریض میشم"
+  },
+  {
+    "id": 139,
+    "en": "I have to lose some weight",
+    "fa": "من باید کمی وزن کم کنم"
+  },
+  {
+    "id": 140,
+    "en": "Don't forget to take the letters to the boss",
+    "fa": "فراموش نکنی نامه ها را برای رئیس ببری"
+  },
+  {
+    "id": 141,
+    "en": "How long does it take?",
+    "fa": "چقدر طول می کشد؟"
+  },
+  {
+    "id": 142,
+    "en": "It takes about two hours",
+    "fa": "حدود دو ساعت طول می کشد"
+  },
+  {
+    "id": 143,
+    "en": "It won't take long",
+    "fa": "زیاد طول نمیکشه"
+  },
+  {
+    "id": 144,
+    "en": "Tell the truth I can take it.",
+    "fa": "حقیقت رو بگو من تحملش رو دارم"
+  },
+  {
+    "id": 145,
+    "en": "Why don't you take a few days off?",
+    "fa": "چرا چند روز مرخصی نمیگیری؟"
+  },
+  {
+    "id": 146,
+    "en": "I want to take tomorrow off",
+    "fa": "میخوام فردا برم مرخصی"
+  },
+  {
+    "id": 147,
+    "en": "I am in charge of here",
+    "fa": "من مسئول اینجا هستم"
+  },
+  {
+    "id": 148,
+    "en": "Let's take a break",
+    "fa": "بیا استراحت کنیم"
+  },
+  {
+    "id": 149,
+    "en": "Come back with good news",
+    "fa": "با خبرهای خوب برگرد"
+  },
+  {
+    "id": 150,
+    "en": "Did anybody call me?",
+    "fa": "کسی به من زنگ نزد؟"
+  },
+  {
+    "id": 151,
+    "en": "Take your shoes off",
+    "fa": "کفش هایت را در بیاور"
+  },
+  {
+    "id": 152,
+    "en": "Why don't you take your coat off",
+    "fa": "چرا کتت را در نمی آوری"
+  },
+  {
+    "id": 153,
+    "en": "Can I exchange this shirt for a larger size?",
+    "fa": "آیا می تونم این پیراهن را با سایز بزرگتر عوض کنم؟"
+  },
+  {
+    "id": 154,
+    "en": "Where did that accident take place?",
+    "fa": "اون تصادف کجا اتفاق افتاد؟"
+  },
+  {
+    "id": 155,
+    "en": "I made it myself",
+    "fa": "خودم درستش کردم"
+  },
+  {
+    "id": 156,
+    "en": "Turn it down/up",
+    "fa": "آن را کم/زیاد کن"
+  },
+  {
+    "id": 157,
+    "en": "How dare you talk to me like that?",
+    "fa": "چطور جرات میکنی با من اینطوری حرف بزنی؟"
+  },
+  {
+    "id": 158,
+    "en": "Worthy opponent",
+    "fa": "حریف شایسته"
+  },
+  {
+    "id": 159,
+    "en": "Our battle will be legendary",
+    "fa": "نبرد ما افسانه ای خواهد بود"
+  },
+  {
+    "id": 160,
+    "en": "Unlike anything the world has ever seen",
+    "fa": "بر خلاف هر چیزی که دنیا تا به حال دیده"
   }
 ]

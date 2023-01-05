@@ -173,5 +173,200 @@
     "id": 35,
     "en": "Get off me",
     "fa": "از روم بلند شو"
+  },
+  {
+    "id": 36,
+    "en": "Get out from here",
+    "fa": "از اینجا برو بیرون"
+  },
+  {
+    "id": 37,
+    "en": "Keep your eyes open",
+    "fa": "چشمات رو باز کن (مراقب باش)"
+  },
+  {
+    "id": 38,
+    "en": "Do not make decisions when you are angry",
+    "fa": "وقتی عصبانی هستید تصمیم نگیرید"
+  },
+  {
+    "id": 39,
+    "en": "I’d rather stay at home",
+    "fa": "ترجیح می دهم در خانه بمانم"
+  },
+  {
+    "id": 40,
+    "en": "Is there something wrong with your table?",
+    "fa": "آیا میز شما مشکلی دارد؟"
+  },
+  {
+    "id": 41,
+    "en": "I did everything I could.",
+    "fa": "من هر کاری تونستم کردم"
+  },
+  {
+    "id": 42,
+    "en": "If you don't mind, Call me once you get home.",
+    "fa": "اگر ناراحت نمیشی. وقتی رسیدی خونه با من تماس بگیر"
+  },
+  {
+    "id": 43,
+    "en": "How can I get in touch with you?",
+    "fa": "چگونه می توانم با شما در تماس باشم؟"
+  },
+  {
+    "id": 44,
+    "en": "What else can I tell you?",
+    "fa": "دیگه چی می تونم بهت بگم؟"
+  },
+  {
+    "id": 45,
+    "en": "I was born and grew up here",
+    "fa": "من اینجا به دنیا آمدم و بزرگ شدم"
+  },
+  {
+    "id": 46,
+    "en": "How do you know you are not looking at her?",
+    "fa": "از کجا میدونی که بهش نگاه نمیکنی؟"
+  },
+  {
+    "id": 47,
+    "en": "Thanks for taking care of my son",
+    "fa": "ممنون که مراقب پسرم بودی"
+  },
+  {
+    "id": 48,
+    "en": "Get lost from here",
+    "fa": "از اینجا گم شو"
+  },
+  {
+    "id": 49,
+    "en": "Don't make me get out of the car",
+    "fa": "مجبورم نکن از ماشین پیاده شم"
+  },
+  {
+    "id": 50,
+    "en": "So I will help you as much as I can",
+    "fa": "پس تا جایی که بتوانم به شما کمک خواهم کرد"
+  },
+  {
+    "id": 51,
+    "en": "It's easy money",
+    "fa": "این پول بادآورده است"
+  },
+  {
+    "id": 52,
+    "en": "Keep in mind I am short-handed",
+    "fa": "یادت باشه من دست تنهام."
+  },
+  {
+    "id": 53,
+    "en": "I wish I had a sister",
+    "fa": "کاش یک خواهر داشتم"
+  },
+  {
+    "id": 54,
+    "en": "Do you have these in black?",
+    "fa": "اینا رو مشکی داری؟"
+  },
+  {
+    "id": 55,
+    "en": "There is always a way",
+    "fa": "همیشه یک راهی هست"
+  },
+  {
+    "id": 56,
+    "en": "Is this car for sale?",
+    "fa": "این ماشین برای فروش هست؟"
+  },
+  {
+    "id": 57,
+    "en": "It was worth the risk",
+    "fa": "به ریسکش می ارزید"
+  },
+  {
+    "id": 58,
+    "en": "It's worth nothing",
+    "fa": "ارزش ندارد"
+  },
+  {
+    "id": 59,
+    "en": "What if we get lost?",
+    "fa": "اگر گم شدیم چی؟"
+  },
+  {
+    "id": 60,
+    "en": "He looks older than he is",
+    "fa": "او بزرگتر از سنش به نظر می رسه"
+  },
+  {
+    "id": 61,
+    "en": "What else did he tell you?",
+    "fa": " دیگه چی بهت گفت؟"
+  },
+  {
+    "id": 62,
+    "en": "Does anybody here know Ali’s phone number?",
+    "fa": "کسی اینجا شماره تلفن علی رو میدونه؟"
+  },
+  {
+    "id": 63,
+    "en": "Each time I come here, I learn something new",
+    "fa": "هر بار که به اینجا می آیم، چیز جدیدی یاد می گیرم"
+  },
+  {
+    "id": 64,
+    "en": "Never mind",
+    "fa": "بیخیال"
+  },
+  {
+    "id": 65,
+    "en": "He's got a big mouth",
+    "fa": "اون دهن لقه"
+  },
+  {
+    "id": 66,
+    "en": "As far as I am concerned",
+    "fa": "تا جایی که به من مربوط می شود"
+  },
+  {
+    "id": 67,
+    "en": "It can't hurt to know",
+    "fa": "دانستن آن ضرری ندارد"
+  },
+  {
+    "id": 68,
+    "en": "I mean it",
+    "fa": "جدی میگم"
+  },
+  {
+    "id": 69,
+    "en": "I didn't mean it",
+    "fa": "منظوری نداشتم"
+  },
+  {
+    "id": 70,
+    "en": "Don’t get excited?",
+    "fa": "هیجان زده نشو؟"
+  },
+  {
+    "id": 71,
+    "en": "We have so much to talk about",
+    "fa": "ما حرفهای زیادی برای گفتن داریم"
+  },
+  {
+    "id": 72,
+    "en": "You won't regret it",
+    "fa": "پشیمان نخواهید شد"
+  },
+  {
+    "id": 73,
+    "en": "I can't thank you enough",
+    "fa": "من نمی توانم به اندازه کافی از شما تشکر کنم"
+  },
+  {
+    "id": 74,
+    "en": "Keep me posted",
+    "fa": "مرا در جریان بزار"
   }
 ]
