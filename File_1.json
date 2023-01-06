@@ -16,8 +16,8 @@
   },
   {
     "id": 104,
-    "en": "How long have you had this problem?",
-    "fa": "چه مدته که این مشکل را داری؟"
+    "en": "How long have you had this symptoms?",
+    "fa": "چه مدته که این علایم را داری؟"
   },
   {
     "id": 105,
@@ -328,5 +328,75 @@
     "id": 166,
     "en": "He makes a lot of money",
     "fa": "اون خیلی پول درمیاره"
+  },
+  {
+    "id": 167,
+    "en": "I am so lucky to have you in y life",
+    "fa": "خیلی خوش شانسم که تو رو تو زندگیم دارم"
+  },
+  {
+    "id": 168,
+    "en": "Don't go anywhere",
+    "fa": "جایی نرو"
+  },
+  {
+    "id": 169,
+    "en": "I've hear so much about you",
+    "fa": "خیلی در موردت شنیدم"
+  },
+  {
+    "id": 170,
+    "en": "Money talks",
+    "fa": "پول حلال مشگلاته"
+  },
+  {
+    "id": 171,
+    "en": "I didn't have a chance to tell you",
+    "fa": "فرصت نکردم بهت بگم"
+  },
+  {
+    "id": 172,
+    "en": "Why do you look so nervous?",
+    "fa": "چرا انقدر مضطرب به نظر میای؟"
+  },
+  {
+    "id": 173,
+    "en": "Just my luck",
+    "fa": "به خشکی شانس"
+  },
+  {
+    "id": 174,
+    "en": "Call in sick",
+    "fa": "زنگ بزن بگو مریض شدی"
+  },
+  {
+    "id": 175,
+    "en": "I stuck in the traffic",
+    "fa": "تو ترافیک گیر کردم"
+  },
+  {
+    "id": 176,
+    "en": "Pass me the salt please",
+    "fa": "لطفا نمک رو بده من"
+  },
+  {
+    "id": 177,
+    "en": "How old do you think she is?",
+    "fa": "فکر می کنی چند سالشه؟"
+  },
+  {
+    "id": 178,
+    "en": "I am sorry for what I did yesterday",
+    "fa": "به خاطر کاری که دیروز کردم متاسفم"
+  },
+  {
+    "id": 179,
+    "en": "Please accept my apologies",
+    "fa": "لطفا معذرت خواهی مرا بپذیرید"
+  },
+  {
+    "id": 180,
+    "en": "It's to late to apologize",
+    "fa": "برای معذرت خواهی خیلی دیره"
   }
 ]
