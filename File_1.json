@@ -191,8 +191,8 @@
   },
   {
     "id": 139,
-    "en": "I have to lose some weight",
-    "fa": "من باید کمی وزن کم کنم"
+    "en": "I am getting fat and I have to lose some weight",
+    "fa": "دارم چاق می شم و من باید کمی وزن کم کنم"
   },
   {
     "id": 140,
@@ -298,5 +298,35 @@
     "id": 160,
     "en": "Unlike anything the world has ever seen",
     "fa": "بر خلاف هر چیزی که دنیا تا به حال دیده"
+  },
+  {
+    "id": 161,
+    "en": "I had a fever and chills last night",
+    "fa": "دیشب تب و لرز داشتم"
+  },
+  {
+    "id": 162,
+    "en": "My patient started with diarrhea",
+    "fa": "مریضم با اسهال شروع شد"
+  },
+  {
+    "id": 163,
+    "en": "It is possible to prescribe me a pus dryer (antibiotic)",
+    "fa": "امکان دارد برام چرک خشک کن بنویسید (آنتی بیوتیک)"
+  },
+  {
+    "id": 164,
+    "en": "It's getting dark",
+    "fa": "داره تاریک میشه"
+  },
+  {
+    "id": 165,
+    "en": "This is unacceptable",
+    "fa": "این قابل قبول نیست"
+  },
+  {
+    "id": 166,
+    "en": "He makes a lot of money",
+    "fa": "اون خیلی پول درمیاره"
   }
 ]

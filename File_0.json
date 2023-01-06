@@ -368,5 +368,100 @@
     "id": 74,
     "en": "Keep me posted",
     "fa": "مرا در جریان بزار"
+  },
+  {
+    "id": 75,
+    "en": "Are you taking any medicine now?",
+    "fa": "آیا الان دارو مصرف میکنی"
+  },
+  {
+    "id": 76,
+    "en": "someone calls for Ambulance",
+    "fa": "یه نفر زنگ بزنه آمبولانس"
+  },
+  {
+    "id": 77,
+    "en": "I've got a fever",
+    "fa": "تب دارم"
+  },
+  {
+    "id": 78,
+    "en": "I've got a sore throat",
+    "fa": "گلوم درد میکنه"
+  },
+  {
+    "id": 79,
+    "en": "I've got an earache",
+    "fa": "گوش درد دارم"
+  },
+  {
+    "id": 80,
+    "en": "I've got blocked nose",
+    "fa": "بینیم گرفته"
+  },
+  {
+    "id": 81,
+    "en": "I have a runny nose.",
+    "fa": "آب ریزش بینی دارم"
+  },
+  {
+    "id": 82,
+    "en": "I cough",
+    "fa": "سرفه میکنم"
+  },
+  {
+    "id": 83,
+    "en": "I sneeze",
+    "fa": "عطسه میکنم"
+  },
+  {
+    "id": 84,
+    "en": "Could you roll up your sleeves?",
+    "fa": "میتونی آستین تان را بالا بزنید؟"
+  },
+  {
+    "id": 85,
+    "en": "I'm going to take your blood pressure",
+    "fa": "می خوام فشار خونتون را بگیرم"
+  },
+  {
+    "id": 86,
+    "en": "Take two of these pills three times a day",
+    "fa": "دو تا از این قرصها رو ۳ بار در روز بخورید"
+  },
+  {
+    "id": 87,
+    "en": "Get to the point",
+    "fa": "برو سر اصل مطلب"
+  },
+  {
+    "id": 88,
+    "en": "It's only a rumor",
+    "fa": "فقط یک شایعه است"
+  },
+  {
+    "id": 89,
+    "en": "Is that all?",
+    "fa": "فقط همین؟"
+  },
+  {
+    "id": 90,
+    "en": "Hurry up",
+    "fa": "عجله کن"
+  },
+  {
+    "id": 91,
+    "en": "Take your time",
+    "fa": "عجله نکن"
+  },
+  {
+    "id": 92,
+    "en": "How long does it take to get a passport?",
+    "fa": "گرفتن پاسپورت چقدر طول میکشه؟"
+  },
+  {
+    "id": 93,
+    "en": "What happened to the rest of it?",
+    "fa": "بقیش چی شد؟"
   }
 ]
