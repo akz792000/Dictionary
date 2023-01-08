@@ -1,502 +1,352 @@
 [
   {
-    "id": 101,
-    "en": "I can’t take it anymore",
-    "fa": "دیگه نمیتونم تحملش کنم"
+    "id": 201,
+    "en": "You'll soon get used to it",
+    "fa": "زود بهش عادت می کنی"
   },
   {
-    "id": 102,
-    "en": "Keep in touch",
-    "fa": "در تماس باش"
+    "id": 202,
+    "en": "Do you take credit card?",
+    "fa": "کارت اعتباری می گیرید؟"
   },
   {
-    "id": 103,
-    "en": "Be careful not to fall down",
-    "fa": "مراقب باش زمین نخوری"
+    "id": 203,
+    "en": "I don't want to hear about it anymore",
+    "fa": "دیگه نمی خوام درباره اش بشنوم"
   },
   {
-    "id": 104,
-    "en": "How long have you had this symptoms?",
-    "fa": "چه مدته که این علایم را داری؟"
+    "id": 204,
+    "en": "What's the matter with you?",
+    "fa": "چت شده؟"
   },
   {
-    "id": 105,
-    "en": "Make yourself at home",
-    "fa": "راحت باش"
+    "id": 205,
+    "en": "Nobody came to visit me when I was sick",
+    "fa": "هیچکس نیومد منو ببینه وقتی مریض بودم"
   },
   {
-    "id": 106,
-    "en": "Congratulations to both of you",
-    "fa": "تبریک به هر دوی شما"
+    "id": 206,
+    "en": "It took me two hours to get there",
+    "fa": "دو ساعت طول کشید تا برسم اینجا"
   },
   {
-    "id": 107,
-    "en": "When are you due?",
-    "fa": "کی فارغ میشی؟ (زایمان)"
+    "id": 207,
+    "en": "I really don't know how to thank you",
+    "fa": "من واقعا نمیدونم چطور ازتون تشکر کنم"
   },
   {
-    "id": 108,
-    "en": "Don't say that I have no sentiment",
-    "fa": "نگو که من هیچ احساسی ندارم"
+    "id": 208,
+    "en": "I'll be with you in a moment",
+    "fa": "من تا یک لحظه دیگر با شما خواهم بود"
   },
   {
-    "id": 109,
-    "en": "How late are you open?",
-    "fa": "تا کی باز هستی؟"
+    "id": 209,
+    "en": "I am getting ready as fast as I can",
+    "fa": "من تا جایی که میتونم دارم سریع آماده می شوم"
   },
   {
-    "id": 110,
-    "en": "I'll take the kids to the park later",
-    "fa": "من بچه ها را بعدا پارک می برم"
+    "id": 210,
+    "en": "Don't you think so?",
+    "fa": "اینجور فکر نمی کنی؟"
   },
   {
-    "id": 111,
-    "en": "From time to time",
-    "fa": "گاهی اوقات"
+    "id": 211,
+    "en": "I prefer to stay here instead of going to a hotel",
+    "fa": "من ترجیح می دهم به جای رفتن به هتل در اینجا بمانم"
   },
   {
-    "id": 112,
-    "en": "No offense",
-    "fa": "جسارت نباشه"
+    "id": 212,
+    "en": "Did anybody else call me?",
+    "fa": "آیا کسی دیگه بهم زنگ زد؟"
   },
   {
-    "id": 113,
-    "en": "Why are you acting so weird?",
-    "fa": "چرا اینقدر عجیب رفتار میکنی؟"
+    "id": 213,
+    "en": "Now ask me if anybody else knows about that? Does anybody else know about that?",
+    "fa": "حال از من بپرسید که آیا شخص دیگری در مورد آن اطلاع دارد؟ آیا شخص دیگری از این موضوع اطلاع دارد؟"
   },
   {
-    "id": 114,
-    "en": "Don't make excuses",
-    "fa": "بهانه نیار"
+    "id": 214,
+    "en": "You'll need five meters of linen to make that tablecloth",
+    "fa": "شما برای تهیه آن سفره به پنج متر پارچه کتانی نیاز خواهید داشت"
   },
   {
-    "id": 115,
-    "en": "I hope you get well soon",
-    "fa": "امیدوارم هرچه زودتر خوب شی"
+    "id": 215,
+    "en": "That's very kind of you",
+    "fa": "واقعا لطف دارید"
   },
   {
-    "id": 116,
-    "en": "Did you talk to him?",
-    "fa": "باهاش صحبت کردی؟"
+    "id": 216,
+    "en": "How do you come by it?",
+    "fa": "چطور باهاش کنار میای؟"
   },
   {
-    "id": 117,
-    "en": "Don't make it worse",
-    "fa": "بدترش نکن"
+    "id": 217,
+    "en": "When did you come here? I came here on Sunday",
+    "fa": "کی به اینجا آمدی؟ یکشنبه به اینجا آمدم"
   },
   {
-    "id": 118,
-    "en": "What makes you so sure?",
-    "fa": "از کجا اینقدر مطمئنی؟"
+    "id": 218,
+    "en": "I prefer coffee to tea",
+    "fa": "من قهوه رو به چایی ترجیح میدم"
   },
   {
-    "id": 119,
-    "en": "Could you lend me your book for a few days?",
-    "fa": "میتونی کتابت رو برای چند روز بهم قرض بدی؟"
+    "id": 219,
+    "en": "I'm sorry for being so late",
+    "fa": "متاسفم که اینقدر دیر آمدم"
   },
   {
-    "id": 120,
-    "en": "Only on one condition",
-    "fa": "بلی فقط به یک شرط"
+    "id": 220,
+    "en": "I want to buy a hair removal cream",
+    "fa": "من می خواهم یک کرم موبر خریداری کنم"
   },
   {
-    "id": 121,
-    "en": "I have so much to do",
-    "fa": "خیلی کار دارم"
+    "id": 221,
+    "en": "Stop quarreling with your sister",
+    "fa": "از دعوا با خواهرت دست بردار"
   },
   {
-    "id": 122,
-    "en": "Who gave you my number?",
-    "fa": "کی شمارم رو بهت داد؟"
+    "id": 222,
+    "en": "What kind of coursework would I have to do?",
+    "fa": "چه نوع کار (در طول دوره) باید انجام دهم؟"
   },
   {
-    "id": 123,
-    "en": "Like I said",
-    "fa": "همانطور که گفتم"
+    "id": 223,
+    "en": "If I ever met him, I would probably ask for his autograph",
+    "fa": "اگر او را ببینم احتمالا ازش امضاش را می خوام"
   },
   {
-    "id": 124,
-    "en": "He was nothing compared to you",
-    "fa": "او در مقایسه با تو هیچ چیز نبود"
+    "id": 224,
+    "en": "Ever since I got here, you have been nothing but negative",
+    "fa": "از زمانی که اینجا رسیدم، تو چیزی جز منفی نگری نبودی"
   },
   {
-    "id": 125,
-    "en": "Put yourself in my place",
-    "fa": "خودت را بزار جای من"
+    "id": 225,
+    "en": "It has been a joy having you at my house this weekend",
+    "fa": "بودن شما آخر این هفته در خانه من باعث خوشحالی است"
   },
   {
-    "id": 126,
-    "en": "Anyway, I am on your side",
-    "fa": "به هر حال من طرف تو هستم"
+    "id": 226,
+    "en": "What are you up to this weekend?",
+    "fa": "این آخر هفته چیکار میکنی؟"
   },
   {
-    "id": 127,
-    "en": "Please drop me off",
-    "fa": "لطفا من را پیاده کن"
+    "id": 227,
+    "en": "Go straight ahead until you see a big blue sign on your right, take the exit after that and then turn left",
+    "fa": "مستقیم برو تا وقتی یک علامت بزرگ آبی در سمت راست خودت ببینی، پس از آن خروجی را برو (بگیرید) و سپس به سمت چپ بپیچ"
   },
   {
-    "id": 128,
-    "en": "I overslept",
-    "fa": "من خواب موندم"
+    "id": 228,
+    "en": "Are you paying interest on the loans?",
+    "fa": "آیا برای وامها بهره میدی؟"
   },
   {
-    "id": 129,
-    "en": "Could you wait a little longer please?",
-    "fa": "میتونی کمی بیشتر صبر کنی؟"
+    "id": 229,
+    "en": "Everybody was in the meeting when I got there",
+    "fa": "همه تو جلسه بودن وقتی من به جلسه رسیدم"
   },
   {
-    "id": 130,
-    "en": "I am looking forward to seeing you",
-    "fa": "من منتظر دیدن شما هستم"
+    "id": 230,
+    "en": "What is the duration of the tenancy?",
+    "fa": "مدت اجاره چقدر است؟"
   },
   {
-    "id": 131,
-    "en": "I want you gone by the time I get back",
-    "fa": "من می خوام زمانی که برگشستم، رفته باشی"
+    "id": 231,
+    "en": "I am always on time",
+    "fa": "من همیشه سر وقت هستم"
   },
   {
-    "id": 132,
-    "en": "You weren't supposed to be home",
-    "fa": "قرار نبود تو خونه باشی"
+    "id": 232,
+    "en": "I took a deep breath to steady my nerves",
+    "fa": "نفس عمیقی کشیدم تا اعصابم رو آروم کنم"
   },
   {
-    "id": 133,
-    "en": "I never had hair on my back till I started shaving",
-    "fa": "من هیچ وقت روی پشتم مو نداشتم تا اینکه شروع به اصلاح کردم"
+    "id": 233,
+    "en": "We are unable to comply with your request",
+    "fa": "ما نمیتوانیم درخواست شما را برآورده کنیم"
   },
   {
-    "id": 134,
-    "en": "I have to shave my armpits",
-    "fa": "باید زیر بغلم را اصلاح کنم"
+    "id": 234,
+    "en": "Frankly, I think the Internet is overrated",
+    "fa": "صادقانه من فکر می کنم به اینترنت زیاد اهمیت داده شده است"
   },
   {
-    "id": 135,
-    "en": "No matter what happens",
-    "fa": "مهم نیست چه اتفاقی می افتد"
+    "id": 235,
+    "en": "Do you take sugar with your tea?",
+    "fa": "آیا با چایت شکر مصرف می کنید؟"
   },
   {
-    "id": 136,
-    "en": "It is good to see you again",
-    "fa": "خوشحالم دوباره شما را می بینم"
+    "id": 236,
+    "en": "She was carrying a tray of drinks",
+    "fa": "او سینی نوشیدنی را حمل می کرد"
   },
   {
-    "id": 137,
-    "en": "What do you think of her?",
-    "fa": "راجع بهش چی فکر میکنی؟"
+    "id": 237,
+    "en": "A good dog can deter burglars",
+    "fa": "یک سگ خوب می تونه جلوی سارقان را بگیرد"
   },
   {
-    "id": 138,
-    "en": "I am getting sick",
-    "fa": "دارم مریض میشم"
+    "id": 238,
+    "en": "How far is the edge of the universe?",
+    "fa": "لبه کیهان چقدر است؟"
   },
   {
-    "id": 139,
-    "en": "I am getting fat and I have to lose some weight",
-    "fa": "دارم چاق می شم و من باید کمی وزن کم کنم"
+    "id": 239,
+    "en": "Anyway, I keep my fingers crossed for you",
+    "fa": "به هرحال, برات آرزوی موفقیت میکنم"
   },
   {
-    "id": 140,
-    "en": "Don't forget to take the letters to the boss",
-    "fa": "فراموش نکنی نامه ها را برای رئیس ببری"
+    "id": 240,
+    "en": "Does anyone have a headache pain reliever?",
+    "fa": "کسی مسکن سردرد داره؟"
   },
   {
-    "id": 141,
-    "en": "How long does it take?",
-    "fa": "چقدر طول می کشد؟"
+    "id": 241,
+    "en": "Fines for dropping litter",
+    "fa": "جریمه برای ریختن آشغال"
   },
   {
-    "id": 142,
-    "en": "It takes about two hours",
-    "fa": "حدود دو ساعت طول می کشد"
+    "id": 242,
+    "en": "The train was due at 9, but it didn't get in until 10",
+    "fa": "قطار قرار بود ساعت 9 بیاید اما تا ساعت 10 نیامد"
   },
   {
-    "id": 143,
-    "en": "It won't take long",
-    "fa": "زیاد طول نمیکشه"
+    "id": 243,
+    "en": "His father was bedridden for three weeks and I do not know how long he will last",
+    "fa": "پدرش سه هفته بستری بود و نمی دانم او تا کی دوام خواهد آورد؟."
   },
   {
-    "id": 144,
-    "en": "Tell the truth I can take it.",
-    "fa": "حقیقت رو بگو من تحملش رو دارم"
+    "id": 244,
+    "en": "I have a mortgage on my house",
+    "fa": "من یک وام رو خونه دارم"
   },
   {
-    "id": 145,
-    "en": "Why don't you take a few days off?",
-    "fa": "چرا چند روز مرخصی نمیگیری؟"
+    "id": 245,
+    "en": "I almost fell over your hairdryer on the way to the bathroom",
+    "fa": "در راه دستشویی نزدیک بود روی سشوارت بیفتم"
   },
   {
-    "id": 146,
-    "en": "I want to take tomorrow off",
-    "fa": "میخوام فردا برم مرخصی"
+    "id": 246,
+    "en": "I would like you to tidy up a bit first, your things are all over the house",
+    "fa": "دوست دارم اول یه ذره مرتب کنی، وسایلت همه جای خونه هست"
   },
   {
-    "id": 147,
-    "en": "I am in charge of here",
-    "fa": "من مسئول اینجا هستم"
+    "id": 247,
+    "en": "It will be ready by next friday",
+    "fa": "تا جمعه آینده آماده است"
   },
   {
-    "id": 148,
-    "en": "Let's take a break",
-    "fa": "بیا استراحت کنیم"
+    "id": 248,
+    "en": "Get rid of it",
+    "fa": "از شرش خلاص شو"
   },
   {
-    "id": 149,
-    "en": "Come back with good news",
-    "fa": "با خبرهای خوب برگرد"
+    "id": 249,
+    "en": "Do you know that that means?",
+    "fa": "میدونی این یعنی؟"
   },
   {
-    "id": 150,
-    "en": "Did anybody call me?",
-    "fa": "کسی به من زنگ نزد؟"
+    "id": 250,
+    "en": "You have my word",
+    "fa": "بهت قول میدم"
   },
   {
-    "id": 151,
-    "en": "Take your shoes off",
-    "fa": "کفش هایت را در بیاور"
+    "id": 251,
+    "en": "Is there anyone else there?",
+    "fa": "آیا کس دیگری آنجا هست؟"
   },
   {
-    "id": 152,
-    "en": "Why don't you take your coat off",
-    "fa": "چرا کتت را در نمی آوری"
+    "id": 252,
+    "en": "How much money do you have with you now?",
+    "fa": "الان چقدر پول با خودت داری؟"
   },
   {
-    "id": 153,
-    "en": "Can I exchange this shirt for a larger size?",
-    "fa": "آیا می تونم این پیراهن را با سایز بزرگتر عوض کنم؟"
+    "id": 253,
+    "en": "It's not that easy",
+    "fa": "به این آسونیا نیست"
   },
   {
-    "id": 154,
-    "en": "Where did that accident take place?",
-    "fa": "اون تصادف کجا اتفاق افتاد؟"
+    "id": 254,
+    "en": "I thought you were talking to me",
+    "fa": "فکر کردم داری با من حرف میزنی"
   },
   {
-    "id": 155,
-    "en": "I made it myself",
-    "fa": "خودم درستش کردم"
+    "id": 255,
+    "en": "Please leave a message",
+    "fa": "لطفا پیام بگذارید"
   },
   {
-    "id": 156,
-    "en": "Turn it down/up",
-    "fa": "آن را کم/زیاد کن"
+    "id": 256,
+    "en": "Where was it made?",
+    "fa": "ساخت کجاست؟"
   },
   {
-    "id": 157,
-    "en": "How dare you talk to me like that?",
-    "fa": "چطور جرات میکنی با من اینطوری حرف بزنی؟"
+    "id": 257,
+    "en": "What is it made of?",
+    "fa": "از چی ساخته شده؟"
   },
   {
-    "id": 158,
-    "en": "Worthy opponent",
-    "fa": "حریف شایسته"
+    "id": 258,
+    "en": "May I know the reason, please?",
+    "fa": "میشه دلیلشو بدونم لطفا؟"
   },
   {
-    "id": 159,
-    "en": "Our battle will be legendary",
-    "fa": "نبرد ما افسانه ای خواهد بود"
+    "id": 259,
+    "en": "I will always remember you",
+    "fa": "همیشه به یادت خواهم بود"
   },
   {
-    "id": 160,
-    "en": "Unlike anything the world has ever seen",
-    "fa": "بر خلاف هر چیزی که دنیا تا به حال دیده"
+    "id": 260,
+    "en": "Mind your own business",
+    "fa": "سرت به کار خودت باشه"
   },
   {
-    "id": 161,
-    "en": "I had a fever and chills last night",
-    "fa": "دیشب تب و لرز داشتم"
+    "id": 261,
+    "en": "Let's take a walk",
+    "fa": "بیا قدم بزنیم"
   },
   {
-    "id": 162,
-    "en": "My patient started with diarrhea",
-    "fa": "مریضم با اسهال شروع شد"
+    "id": 262,
+    "en": "I should have called first",
+    "fa": "باید اول زنگ میزدم"
   },
   {
-    "id": 163,
-    "en": "It is possible to prescribe me a pus dryer (antibiotic)",
-    "fa": "امکان دارد برام چرک خشک کن بنویسید (آنتی بیوتیک)"
+    "id": 263,
+    "en": "Money doesn't bring happiness",
+    "fa": "پول خوشبختی نمی آورد"
   },
   {
-    "id": 164,
-    "en": "It's getting dark",
-    "fa": "داره تاریک میشه"
+    "id": 264,
+    "en": "Better luck next time",
+    "fa": "انشالله دفعه بعد"
   },
   {
-    "id": 165,
-    "en": "This is unacceptable",
-    "fa": "این قابل قبول نیست"
+    "id": 265,
+    "en": "Keep the change",
+    "fa": "بقیه اش مال خودت"
   },
   {
-    "id": 166,
-    "en": "He makes a lot of money",
-    "fa": "اون خیلی پول درمیاره"
+    "id": 266,
+    "en": "I don't know where he goes",
+    "fa": "نمی دانم کجا می ره"
   },
   {
-    "id": 167,
-    "en": "I am so lucky to have you in y life",
-    "fa": "خیلی خوش شانسم که تو رو تو زندگیم دارم"
+    "id": 267,
+    "en": "ّI can't believe you haven't seen this movie yet",
+    "fa": "باورم نمیشه هنوز این فیلم رو ندیدی"
   },
   {
-    "id": 168,
-    "en": "Don't go anywhere",
-    "fa": "جایی نرو"
+    "id": 268,
+    "en": "I screwed up",
+    "fa": "گند زدم"
   },
   {
-    "id": 169,
-    "en": "I've hear so much about you",
-    "fa": "خیلی در موردت شنیدم"
+    "id": 269,
+    "en": "Keep your opinion to yourself",
+    "fa": "نظرت را برای خودت نگه دار"
   },
   {
-    "id": 170,
-    "en": "Money talks",
-    "fa": "پول حلال مشگلاته"
-  },
-  {
-    "id": 171,
-    "en": "I didn't have a chance to tell you",
-    "fa": "فرصت نکردم بهت بگم"
-  },
-  {
-    "id": 172,
-    "en": "Why do you look so nervous?",
-    "fa": "چرا انقدر مضطرب به نظر میای؟"
-  },
-  {
-    "id": 173,
-    "en": "Just my luck",
-    "fa": "به خشکی شانس"
-  },
-  {
-    "id": 174,
-    "en": "Call in sick",
-    "fa": "زنگ بزن بگو مریض شدی"
-  },
-  {
-    "id": 175,
-    "en": "I stuck in the traffic",
-    "fa": "تو ترافیک گیر کردم"
-  },
-  {
-    "id": 176,
-    "en": "Pass me the salt please",
-    "fa": "لطفا نمک رو بده من"
-  },
-  {
-    "id": 177,
-    "en": "How old do you think she is?",
-    "fa": "فکر می کنی چند سالشه؟"
-  },
-  {
-    "id": 178,
-    "en": "I am sorry for what I did yesterday",
-    "fa": "به خاطر کاری که دیروز کردم متاسفم"
-  },
-  {
-    "id": 179,
-    "en": "Please accept my apologies",
-    "fa": "لطفا معذرت خواهی مرا بپذیرید"
-  },
-  {
-    "id": 180,
-    "en": "It's to late to apologize",
-    "fa": "برای معذرت خواهی خیلی دیره"
-  },
-  {
-    "id": 181,
-    "en": "You have changed a lot",
-    "fa": "خیلی تغییر کردی"
-  },
-  {
-    "id": 182,
-    "en": "It doesn't concern you",
-    "fa": "به تو ربطی نداره"
-  },
-  {
-    "id": 183,
-    "en": "I am sorry I didn't catch your name",
-    "fa": "متاسفم اسمت رو متوجه نشدم"
-  },
-  {
-    "id": 184,
-    "en": "It's only by appointment",
-    "fa": "فقط با تعیین وقت قبلی"
-  },
-  {
-    "id": 185,
-    "en": "Why is he so upset?",
-    "fa": "چرا او اینقدر ناراحت است؟"
-  },
-  {
-    "id": 186,
-    "en": "It was easier than I thought",
-    "fa": "راحت تر از چیزی بود که فکر می کردم"
-  },
-  {
-    "id": 187,
-    "en": "It makes no difference",
-    "fa": "هیچ فرقی نداره"
-  },
-  {
-    "id": 188,
-    "en": "Now we are even",
-    "fa": "حالا بی حسابیم"
-  },
-  {
-    "id": 189,
-    "en": "Take my advice",
-    "fa": "نصیحت من را بپذیر"
-  },
-  {
-    "id": 190,
-    "en": "It's for you own good",
-    "fa": "به نفع خودته"
-  },
-  {
-    "id": 191,
-    "en": "It was just a waste of time",
-    "fa": "فقط وقت طلف کردن بود"
-  },
-  {
-    "id": 192,
-    "en": "What's wrong with it?",
-    "fa": "مشکلش چیه؟"
-  },
-  {
-    "id": 193,
-    "en": "I want all of it",
-    "fa": "همه اش رو می خوام"
-  },
-  {
-    "id": 194,
-    "en": "Whose turn is it? It's my turn",
-    "fa": "نوبت کیه؟ نوبت منه"
-  },
-  {
-    "id": 195,
-    "en": "I am very proud of you",
-    "fa": "من خیلی به تو افتخار میکنم"
-  },
-  {
-    "id": 196,
-    "en": "How many people are there in your family?",
-    "fa": "خانواده ات چند نفر است"
-  },
-  {
-    "id": 197,
-    "en": "Thanks for having us",
-    "fa": "ممنون که دعوتمون کردید"
-  },
-  {
-    "id": 198,
-    "en": "I can't believe you have done this",
-    "fa": "نمی توانم باور کنم که این کار را کردی"
-  },
-  {
-    "id": 199,
-    "en": "I think about you all the time",
-    "fa": "همش به تو فکر می کنم"
-  },
-  {
-    "id": 200,
-    "en": "It wasn't like this before",
-    "fa": "قبلا اینجوری نبود"
+    "id": 270,
+    "en": "Most children like chocolate",
+    "fa": "بیشتر بچه ها شکلات دوست دارند"
   }
 ]
