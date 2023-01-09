@@ -11,13 +11,13 @@
   },
   {
     "id": 3,
-    "en": "Let’s get something straight",
+    "en": "Let's get something straight",
     "fa": "بزار یک چیزی را رک مشخص کنیم"
   },
   {
     "id": 4,
     "en": "Take your umbrella, it might rain",
-    "fa": "چترت را ببر، ممکن است باران ببارد"
+    "fa": "چترت را ببر، ممکن است باران بباره"
   },
   {
     "id": 5,
@@ -32,7 +32,7 @@
   {
     "id": 7,
     "en": "Get off my back",
-    "fa": "دست از سر من بردار"
+    "fa": "دست از سرم بردار"
   },
   {
     "id": 8,
@@ -42,7 +42,7 @@
   {
     "id": 9,
     "en": "Have you been waiting here for a long time?",
-    "fa": "خیلی وقته اینجا منتظرید؟"
+    "fa": "خیلی وقته اینجا منتظری؟"
   },
   {
     "id": 10,
@@ -57,7 +57,7 @@
   {
     "id": 12,
     "en": "There is a little misunderstanding",
-    "fa": "کمی سوء تفاهم وجود دارد"
+    "fa": "کمی سوء تفاهم وجود داره"
   },
   {
     "id": 13,
@@ -67,7 +67,7 @@
   {
     "id": 14,
     "en": "I was just out for grocery shopping",
-    "fa": "من تازه بیرون بودم برای خرید مواد غذایی"
+    "fa": "من تازه برای خرید مواد غذایی بیرون بودم"
   },
   {
     "id": 15,
@@ -87,32 +87,32 @@
   {
     "id": 18,
     "en": "Who has called?",
-    "fa": "چه کسی تماس گرفته است؟"
+    "fa": "چه کسی تماس گرفته؟"
   },
   {
     "id": 19,
     "en": "Who is she to you?",
-    "fa": "او با تو چه صنمی دارد؟"
+    "fa": "او با تو چه صنمی داره؟"
   },
   {
     "id": 20,
     "en": "Unfortunately, we will not be moving forward with your request",
-    "fa": "متاسفانه ما به درخواست شما ادامه نمی دهیم"
+    "fa": "متاسفانه ما به درخواست شما ادامه نمیدیم"
   },
   {
     "id": 21,
     "en": "Please roll down the window",
-    "fa": "لطفا پنجره را پایین بیاورید"
+    "fa": "لطفا پنجره را پایین بیار"
   },
   {
     "id": 22,
     "en": "I am not doubting how strong you are by any means",
-    "fa": "من به هیچ وجه شک ندارم که چقدر قوی هستی."
+    "fa": "من به هیچ وجه شک ندارم که چقدر قوی هستی"
   },
   {
     "id": 23,
     "en": "Can I possibly take two of those plates from you?",
-    "fa": "آیا می توانم دو تا از آن بشقاب ها (وزنه) را از شما بگیرم؟"
+    "fa": "آیا می تونم دو تا از اون بشقاب ها (وزنه) را از شما بگیرم؟"
   },
   {
     "id": 24,
@@ -182,17 +182,17 @@
   {
     "id": 37,
     "en": "Keep your eyes open",
-    "fa": "چشمات رو باز کن (مراقب باش)"
+    "fa": "چشمات رو باز کن"
   },
   {
     "id": 38,
     "en": "Do not make decisions when you are angry",
-    "fa": "وقتی عصبانی هستید تصمیم نگیرید"
+    "fa": "وقتی عصبانی هستی تصمیم نگیر"
   },
   {
     "id": 39,
-    "en": "I’d rather stay at home",
-    "fa": "ترجیح می دهم در خانه بمانم"
+    "en": "I'd rather stay at home",
+    "fa": "ترجیح می دم خانه بمانم"
   },
   {
     "id": 40,
@@ -201,13 +201,13 @@
   },
   {
     "id": 41,
-    "en": "I did everything I could.",
+    "en": "I did everything I could",
     "fa": "من هر کاری تونستم کردم"
   },
   {
     "id": 42,
-    "en": "If you don't mind, Call me once you get home.",
-    "fa": "اگر ناراحت نمیشی. وقتی رسیدی خونه با من تماس بگیر"
+    "en": "If you don't mind, Call me once you get home",
+    "fa": "اگر ناراحت نمیشی, وقتی رسیدی خونه با من تماس بگیر"
   },
   {
     "id": 43,
@@ -227,7 +227,7 @@
   {
     "id": 46,
     "en": "How do you know you are not looking at her?",
-    "fa": "از کجا میدونی که بهش نگاه نمیکنی؟"
+    "fa": "از کجا میدونی بهش نگاه نمیکنی؟"
   },
   {
     "id": 47,
@@ -247,7 +247,7 @@
   {
     "id": 50,
     "en": "So I will help you as much as I can",
-    "fa": "پس تا جایی که بتوانم به شما کمک خواهم کرد"
+    "fa": "پس تا جایی که بتونم کمکت خواهم کرد"
   },
   {
     "id": 51,
@@ -257,7 +257,7 @@
   {
     "id": 52,
     "en": "Keep in mind I am short-handed",
-    "fa": "یادت باشه من دست تنهام."
+    "fa": "یادت باشه من دست تنهام"
   },
   {
     "id": 53,
@@ -287,12 +287,12 @@
   {
     "id": 58,
     "en": "It's worth nothing",
-    "fa": "ارزش ندارد"
+    "fa": "ارزش نداره"
   },
   {
     "id": 59,
     "en": "What if we get lost?",
-    "fa": "اگر گم شدیم چی؟"
+    "fa": "اگر گم شیم چی؟"
   },
   {
     "id": 60,
@@ -302,11 +302,11 @@
   {
     "id": 61,
     "en": "What else did he tell you?",
-    "fa": " دیگه چی بهت گفت؟"
+    "fa": "دیگه چی بهت گفت؟"
   },
   {
     "id": 62,
-    "en": "Does anybody here know Ali’s phone number?",
+    "en": "Does anybody here know Ali's phone number?",
     "fa": "کسی اینجا شماره تلفن علی رو میدونه؟"
   },
   {
@@ -327,7 +327,7 @@
   {
     "id": 66,
     "en": "As far as I am concerned",
-    "fa": "تا جایی که به من مربوط می شود"
+    "fa": "تا جایی که به من مربوط می شه"
   },
   {
     "id": 67,
@@ -346,7 +346,7 @@
   },
   {
     "id": 70,
-    "en": "Don’t get excited?",
+    "en": "Don't get excited?",
     "fa": "هیجان زده نشو؟"
   },
   {
@@ -396,12 +396,12 @@
   },
   {
     "id": 80,
-    "en": "I've got blocked nose",
+    "en": "I've got a blocked nose",
     "fa": "بینیم گرفته"
   },
   {
     "id": 81,
-    "en": "I have a runny nose.",
+    "en": "I have a runny nose",
     "fa": "آب ریزش بینی دارم"
   },
   {
@@ -501,7 +501,7 @@
   },
   {
     "id": 101,
-    "en": "I can’t take it anymore",
+    "en": "I can't take it anymore",
     "fa": "دیگه نمیتونم تحملش کنم"
   },
   {
@@ -702,7 +702,7 @@
   {
     "id": 141,
     "en": "How long does it take?",
-    "fa": "چقدر طول می کشد؟"
+    "fa": "چقدر طول می کشه؟"
   },
   {
     "id": 142,
@@ -716,7 +716,7 @@
   },
   {
     "id": 144,
-    "en": "Tell the truth I can take it.",
+    "en": "Tell the truth I can take it",
     "fa": "حقیقت رو بگو من تحملش رو دارم"
   },
   {
@@ -727,7 +727,7 @@
   {
     "id": 146,
     "en": "I want to take tomorrow off",
-    "fa": "میخوام فردا برم مرخصی"
+    "fa": "میخوام فردا را مرخصی بگیرم"
   },
   {
     "id": 147,
@@ -747,12 +747,12 @@
   {
     "id": 150,
     "en": "Did anybody call me?",
-    "fa": "کسی به من زنگ نزد؟"
+    "fa": "کسی به من زنگ زد؟"
   },
   {
     "id": 151,
     "en": "Take your shoes off",
-    "fa": "کفش هایت را در بیاور"
+    "fa": "کفش هات را در بیار"
   },
   {
     "id": 152,
@@ -831,7 +831,7 @@
   },
   {
     "id": 167,
-    "en": "I am so lucky to have you in y life",
+    "en": "I am so lucky to have you in my life",
     "fa": "خیلی خوش شانسم که تو رو تو زندگیم دارم"
   },
   {
@@ -841,7 +841,7 @@
   },
   {
     "id": 169,
-    "en": "I've hear so much about you",
+    "en": "I've heard so much about you",
     "fa": "خیلی در موردت شنیدم"
   },
   {
@@ -896,7 +896,7 @@
   },
   {
     "id": 180,
-    "en": "It's to late to apologize",
+    "en": "It's too late to apologize",
     "fa": "برای معذرت خواهی خیلی دیره"
   },
   {
@@ -922,12 +922,12 @@
   {
     "id": 185,
     "en": "Why is he so upset?",
-    "fa": "چرا او اینقدر ناراحت است؟"
+    "fa": "چرا او اینقدر ناراحته؟"
   },
   {
     "id": 186,
     "en": "It was easier than I thought",
-    "fa": "راحت تر از چیزی بود که فکر می کردم"
+    "fa": "راحت تر از اون چیزی بود که فکر می کردم"
   },
   {
     "id": 187,
