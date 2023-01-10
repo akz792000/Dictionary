@@ -87,7 +87,7 @@
   {
     "id": 218,
     "en": "I prefer coffee to tea",
-    "fa": "من قهوه رو به چایی ترجیح میدم"
+    "fa": "من قهوه را به چایی ترجیح میدم"
   },
   {
     "id": 219,
@@ -112,7 +112,7 @@
   {
     "id": 223,
     "en": "If I ever met him, I would probably ask for his autograph",
-    "fa": "اگر او را ببینم احتمالا ازش امضاش را می خوام"
+    "fa": "اگر اونو ببینم احتمالا ازش امضاش را می خوام"
   },
   {
     "id": 224,
@@ -157,12 +157,12 @@
   {
     "id": 232,
     "en": "I took a deep breath to steady my nerves",
-    "fa": "نفس عمیقی کشیدم تا اعصابم رو آروم کنم"
+    "fa": "نفس عمیقی کشیدم تا اعصابم را آروم کنم"
   },
   {
     "id": 233,
     "en": "We are unable to comply with your request",
-    "fa": "ما نمیتوانیم درخواست شما را برآورده کنیم"
+    "fa": "ما نمیتونیم درخواست شما را اجابت کنیم"
   },
   {
     "id": 234,
@@ -332,7 +332,7 @@
   {
     "id": 267,
     "en": "ّI can't believe you haven't seen this movie yet",
-    "fa": "باورم نمیشه هنوز این فیلم رو ندیدی"
+    "fa": "باورم نمیشه هنوز این فیلم را ندیدی"
   },
   {
     "id": 268,
@@ -397,7 +397,7 @@
   {
     "id": 280,
     "en": "I can't promise, but I'll do my best",
-    "fa": "نمی توانم قول بدهم، اما تمام تلاشم را می کنم"
+    "fa": "نمی تونم قول بدهم، اما تمام تلاشم را می کنم"
   },
   {
     "id": 281,
@@ -457,7 +457,7 @@
   {
     "id": 292,
     "en": "I was wondering if I could borrow your car",
-    "fa": "داشتم فکر میکردم آیا میتونم ماشینت رو قرض بگیرم"
+    "fa": "داشتم فکر میکردم آیا میتونم ماشینت را قرض بگیرم"
   },
   {
     "id": 293,
@@ -498,5 +498,255 @@
     "id": 300,
     "en": "Enough is enough",
     "fa": "بسه دیگه"
+  },
+  {
+    "id": 301,
+    "en": "Is it too much to ask?",
+    "fa": "آیا درخواست زیادی؟"
+  },
+  {
+    "id": 302,
+    "en": "I'll make it up to you",
+    "fa": "برات جبرانش می کنم"
+  },
+  {
+    "id": 303,
+    "en": "I take back my word",
+    "fa": "حرفم را پس می گیرم"
+  },
+  {
+    "id": 304,
+    "en": "ّI take back everything I said",
+    "fa": "هر چی گفتم را پس می گیرم"
+  },
+  {
+    "id": 305,
+    "en": "There's nothing left",
+    "fa": "هیچی نمونده"
+  },
+  {
+    "id": 306,
+    "en": "You did this on purpose",
+    "fa": "تو عمدا این کار را کردی"
+  },
+  {
+    "id": 307,
+    "en": "I don't have my driving license with me",
+    "fa": "گواهینامه رانندگیم همراهم نیست"
+  },
+  {
+    "id": 308,
+    "en": "Why don't you trust them?",
+    "fa": "چرا بهشون اعتماد نداری؟"
+  },
+  {
+    "id": 309,
+    "en": "Everything will be all right",
+    "fa": "همه چیز درست میشه"
+  },
+  {
+    "id": 310,
+    "en": "Tell me what you did?",
+    "fa": "بهم بگو چیکار کردی؟"
+  },
+  {
+    "id": 311,
+    "en": "There are a lot of grocery stores here, but we can't find one",
+    "fa": "اینجا تعداد زیادی خواربار فروشی وجود داره، اما ما نمی تونیم یکی را پیدا کنیم"
+  },
+  {
+    "id": 312,
+    "en": "I became overweight",
+    "fa": "من اضافه وزن پیدا کردم"
+  },
+  {
+    "id": 313,
+    "en": "I'll be there in a half an hour",
+    "fa": "نیم ساعت دیگه میام"
+  },
+  {
+    "id": 314,
+    "en": "Have you been to the new mall yet?",
+    "fa": "آیا اخیرا پاساژ جدیده بودی؟"
+  },
+  {
+    "id": 315,
+    "en": "What time do you usually get up in the morning?",
+    "fa": "معمولا صبح ساعت چند بلند می شوی؟"
+  },
+  {
+    "id": 316,
+    "en": "I ran out of petrol",
+    "fa": "من بنزین تمام کردم"
+  },
+  {
+    "id": 317,
+    "en": "I feel queasy",
+    "fa": "من احساس تهوع دارم"
+  },
+  {
+    "id": 318,
+    "en": "When did you arrive in London?",
+    "fa": "کی به لندن رسیدی؟"
+  },
+  {
+    "id": 319,
+    "en": "He got into trouble for telling a lie",
+    "fa": "او به خاطر اینکه یک دروغ گفت در دردسر افتاد"
+  },
+  {
+    "id": 320,
+    "en": "Has your son read Harry Potter yet?",
+    "fa": "آیا اخیرا پسرت هری پاتر را خوانده؟"
+  },
+  {
+    "id": 321,
+    "en": "Can you wake me up at 7 o'clock",
+    "fa": "می تونی منو ساعت 7 بیدار کنی"
+  },
+  {
+    "id": 322,
+    "en": "I never buy anything red",
+    "fa": "من هیچ وقت قرمز نمی خرم"
+  },
+  {
+    "id": 323,
+    "en": "When are you going on vacation?",
+    "fa": "کی میری تعطیلات؟"
+  },
+  {
+    "id": 324,
+    "en": "I am taking a vacation tomorrow",
+    "fa": "من دارم فردا مرخصی میگیرم"
+  },
+  {
+    "id": 325,
+    "en": "She is used to living alone",
+    "fa": "او عادت داره تنها زندگی کنه"
+  },
+  {
+    "id": 326,
+    "en": "I don't care what you say",
+    "fa": "اهمیتی نمیدم چی داری میگی"
+  },
+  {
+    "id": 327,
+    "en": "Something's bothering her",
+    "fa": "یه چیزی اذیتش میکنه"
+  },
+  {
+    "id": 328,
+    "en": "I'll give it another shot",
+    "fa": "یه امتحان دیگه میکنم"
+  },
+  {
+    "id": 329,
+    "en": "Don't get me wrong",
+    "fa": "منظور من را اشتباه برداشت نکن"
+  },
+  {
+    "id": 330,
+    "en": "That's why we're here",
+    "fa": "برای همینه اینجام"
+  },
+  {
+    "id": 331,
+    "en": "What size do you wear?",
+    "fa": "شما چه سایزی می پوشید؟"
+  },
+  {
+    "id": 332,
+    "en": "How does she know you",
+    "fa": "اون تو را چطور میشناسه؟"
+  },
+  {
+    "id": 333,
+    "en": "Prevention is better than cure",
+    "fa": "پیشگیری بهتر از درمان است"
+  },
+  {
+    "id": 334,
+    "en": "Don't mess with me",
+    "fa": "با من کل کل نکن"
+  },
+  {
+    "id": 335,
+    "en": "I take after my father",
+    "fa": "به پدرم رفتم"
+  },
+  {
+    "id": 336,
+    "en": "I don't know anything about their relationship",
+    "fa": "من از رابطه آنها چیزی نمی دانم"
+  },
+  {
+    "id": 337,
+    "en": "It's not fair",
+    "fa": "عادلانه نیست"
+  },
+  {
+    "id": 338,
+    "en": "Like what",
+    "fa": "مثلا چی"
+  },
+  {
+    "id": 339,
+    "en": "I don't think so",
+    "fa": "اینطور فکر نمی کنم"
+  },
+  {
+    "id": 340,
+    "en": "Do whatever it takes",
+    "fa": "هر کاری که لازم است انجام بده"
+  },
+  {
+    "id": 341,
+    "en": "I don't want to be rude",
+    "fa": "نمی خوام بی ادب باشم"
+  },
+  {
+    "id": 342,
+    "en": "I remember everything",
+    "fa": "همه چیز یادمه"
+  },
+  {
+    "id": 343,
+    "en": "If you were me, what would you do?",
+    "fa": "اگه جای من بودی چیکار میکردی؟"
+  },
+  {
+    "id": 344,
+    "en": "Long time no see",
+    "fa": "خیلی وقته ندیدمت"
+  },
+  {
+    "id": 345,
+    "en": "I didn't think about it",
+    "fa": "بهش فکر نکردم"
+  },
+  {
+    "id": 346,
+    "en": "What made you come here?",
+    "fa": "چی باعث شد که بیای اینجا؟"
+  },
+  {
+    "id": 347,
+    "en": "He has lost a lot of weight",
+    "fa": "او وزن زیادی از دست داده"
+  },
+  {
+    "id": 348,
+    "en": "Who told you this?",
+    "fa": "کی بهت گفت؟"
+  },
+  {
+    "id": 349,
+    "en": "Do whatever he tells you",
+    "fa": "هر چی بهت میگه انجام بده"
+  },
+  {
+    "id": 350,
+    "en": "Can you hear me?",
+    "fa": "صدام میاد؟"
   }
 ]
