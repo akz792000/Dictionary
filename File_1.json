@@ -748,5 +748,255 @@
     "id": 350,
     "en": "Can you hear me?",
     "fa": "صدام میاد؟"
+  },
+  {
+    "id": 351,
+    "en": "She is talking to herself",
+    "fa": "داره با خودش حرف میزنه"
+  },
+  {
+    "id": 352,
+    "en": "Are you waiting for someone?",
+    "fa": "منتظر کسی هستی؟"
+  },
+  {
+    "id": 353,
+    "en": "In the middle of nowhere",
+    "fa": "وسط ناکجا آباد"
+  },
+  {
+    "id": 354,
+    "en": "Thanks for caring",
+    "fa": "ممنون که اهمیت میدی"
+  },
+  {
+    "id": 355,
+    "en": "Can you keep them busy?",
+    "fa": "آیا می تونی مشغولشون کنی؟"
+  },
+  {
+    "id": 356,
+    "en": "Did I wake you?",
+    "fa": "بیدارت کردم؟"
+  },
+  {
+    "id": 357,
+    "en": "Sorry for calling you so late",
+    "fa": "ببخشید که اینقدر دیر زنگ زدم"
+  },
+  {
+    "id": 358,
+    "en": "Is there anything I can do for you?",
+    "fa": "آیا کاری هست که بتونم برات انجام بدم؟"
+  },
+  {
+    "id": 359,
+    "en": "This is from all of us",
+    "fa": "این از طرف همه ماست"
+  },
+  {
+    "id": 360,
+    "en": "Can you lend me some money?",
+    "fa": "میتونی کمی پول بهم قرض بدی؟"
+  },
+  {
+    "id": 361,
+    "en": "Better late than never",
+    "fa": "دیر رسیدن بهتر از هرگز نرسیدن است"
+  },
+  {
+    "id": 362,
+    "en": "I didn't hear what you said",
+    "fa": "نشنیدم چی گفتی"
+  },
+  {
+    "id": 363,
+    "en": "It sounds good",
+    "fa": "خوب به نظر میاد"
+  },
+  {
+    "id": 364,
+    "en": "It won't happen again",
+    "fa": "دیگه تکرار نمیشه"
+  },
+  {
+    "id": 365,
+    "en": "I can write as much as I can read",
+    "fa": "من می توانم به همان اندازه که بخونم بنویسم"
+  },
+  {
+    "id": 366,
+    "en": "Last year wasn't as cold as this year in Shiraz",
+    "fa": "پارسال مثل امسال در شیراز سرد نبود"
+  },
+  {
+    "id": 367,
+    "en": "Can you pick me up at the hotel?",
+    "fa": "می تونی هتل بیای دنبالم؟"
+  },
+  {
+    "id": 368,
+    "en": "Please speak slowly",
+    "fa": "لطفا آهسته صحبت کن"
+  },
+  {
+    "id": 369,
+    "en": "I am talking on the phone",
+    "fa": "دارم تلفن صحبت می کنم"
+  },
+  {
+    "id": 370,
+    "en": "Your book is the same as mine",
+    "fa": "کتاب شما هم مثل کتاب منه"
+  },
+  {
+    "id": 371,
+    "en": "When does her flight arrive?",
+    "fa": "پرواز او کی می رسد؟"
+  },
+  {
+    "id": 372,
+    "en": "Her flight arrives at a quarter to nine",
+    "fa": "پرواز او ساعت یک ربع به نه می رسد"
+  },
+  {
+    "id": 373,
+    "en": "What is the interest rate?",
+    "fa": "نرخ بهره چقدره؟"
+  },
+  {
+    "id": 374,
+    "en": "I am paying too much interest",
+    "fa": "من سود زیادی دارم پرداخت می کنم"
+  },
+  {
+    "id": 375,
+    "en": "How much is your monthly payment?",
+    "fa": "پرداخت ماهانه شما چقدر است؟"
+  },
+  {
+    "id": 376,
+    "en": "Until things settle down",
+    "fa": "تا آبها از آسیاب بیفته"
+  },
+  {
+    "id": 377,
+    "en": "Can you please forgive me?",
+    "fa": "میشه لطفا منو ببخشید؟"
+  },
+  {
+    "id": 378,
+    "en": "That is exactly what I said earlier",
+    "fa": "دقیقاً همان چیزی است که قبلاً گفتم"
+  },
+  {
+    "id": 379,
+    "en": "I can take care of myself",
+    "fa": "من میتوانم از خودم مراقبت کنم"
+  },
+  {
+    "id": 380,
+    "en": "What about the rest?",
+    "fa": "بقیه چی؟"
+  },
+  {
+    "id": 381,
+    "en": "It's your call",
+    "fa": "تصمیم توئه"
+  },
+  {
+    "id": 382,
+    "en": "Dig in",
+    "fa": "بزن تو رگ"
+  },
+  {
+    "id": 383,
+    "en": "Why are you like this?",
+    "fa": "چرا اینطوری هستی؟"
+  },
+  {
+    "id": 384,
+    "en": "Can you turn off the light please?",
+    "fa": "میشه لطفا چراغ رو خاموش کنی؟"
+  },
+  {
+    "id": 385,
+    "en": "Don't take it personally?",
+    "fa": "به خودت نگیر"
+  },
+  {
+    "id": 386,
+    "en": "Keep out of reach of children",
+    "fa": "دور از دسترس کودکان نگه دارید"
+  },
+  {
+    "id": 387,
+    "en": "I apologize for everything",
+    "fa": "من برای همه چیز عذرخواهی می کنم"
+  },
+  {
+    "id": 388,
+    "en": "We're not done here",
+    "fa": "کار ما اینجا تمام نشده"
+  },
+  {
+    "id": 389,
+    "en": "I don't want to get married, I want to stay single",
+    "fa": "نمی خواهم ازدواج کنم، می خواهم مجرد بمانم"
+  },
+  {
+    "id": 390,
+    "en": "The elevator is out of order",
+    "fa": "آسانسور خرابه"
+  },
+  {
+    "id": 391,
+    "en": "The meeting has been canceled",
+    "fa": "جلسه لغو شده"
+  },
+  {
+    "id": 392,
+    "en": "I just need a chance",
+    "fa": "فقط یک فرصت می خوام"
+  },
+  {
+    "id": 393,
+    "en": "All I am saying is ...",
+    "fa": "تمام حرفم اینه که ..."
+  },
+  {
+    "id": 394,
+    "en": "Did everything go well?",
+    "fa": "همه چیز خوب پیش رفت؟"
+  },
+  {
+    "id": 395,
+    "en": "I can make the payment on time if I get a loan",
+    "fa": "در صورت دریافت وام می توانم به موقع پرداخت کنم"
+  },
+  {
+    "id": 396,
+    "en": "How much does it cost in sum?",
+    "fa": "در مجموع چقدر هزینه دارد؟"
+  },
+  {
+    "id": 397,
+    "en": "I'm calling about your ad for the apartment for rent",
+    "fa": "من در مورد تبلیغ شما برای آپارتمان اجاره تماس می گیرم"
+  },
+  {
+    "id": 398,
+    "en": "Wash the floor with a mop and bucket and warm soapy water and vacuum the carpets",
+    "fa": "زمین را با یک طی و سطل و آب صابون گرم بشویید و فرش ها را جارو برقی کن"
+  },
+  {
+    "id": 399,
+    "en": "I didn't get around to doing all of my homework so I have to get up much earlier",
+    "fa": "من نرسیدم کارم را انجام بدم بنابراین  باید خیلی زودتر بلند شم"
+  },
+  {
+    "id": 400,
+    "en": "Peel and halve the pears",
+    "fa": "گلابی ها را پوست گرفته و نصف کنید"
   }
 ]
