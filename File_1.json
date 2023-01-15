@@ -350,23 +350,28 @@
     "fa": "می ترسم اینطور باشه"
   },
   {
-    "id": 472,
+    "id": 471,
     "en": "I'm afraid to do it",
     "fa": "میترسم انجامش بدم"
   },
   {
-    "id": 473,
+    "id": 472,
     "en": "I'm afraid, I can't",
     "fa": "میترسم نتونم"
   },
   {
-    "id": 474,
+    "id": 473,
     "en": "You left the door ajar",
     "fa": "در را بازگذاشتی"
   },
   {
-    "id": 475,
+    "id": 474,
     "en": "Draw the curtains",
     "fa": "پرده ها رو بکش"
+  },
+  {
+    "id": 475,
+    "en": "I would say so",
+    "fa": "منم اینطور می گم"
   }
 ]
