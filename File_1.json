@@ -2,7 +2,7 @@
   {
     "id": 401,
     "en": "Is Germany worth visiting?",
-    "fa": "آیا آلمان ارزش دیدن دارد؟"
+    "fa": "آیا آلمان ارزش دیدن داره؟"
   },
   {
     "id": 402,
@@ -22,7 +22,7 @@
   {
     "id": 405,
     "en": "Didn't I tell you not to go out?",
-    "fa": "بهت نگفتم نرو بیرون؟"
+    "fa": "بهت نگفتم بیرون نرو"
   },
   {
     "id": 406,
@@ -52,7 +52,7 @@
   {
     "id": 411,
     "en": "I wish I could",
-    "fa": "ای کاش میتوانستم"
+    "fa": "ای کاش میتونستم"
   },
   {
     "id": 412,
@@ -62,7 +62,7 @@
   {
     "id": 413,
     "en": "By the way",
-    "fa": "راستی, در ضمن"
+    "fa": "در ضمن"
   },
   {
     "id": 414,
@@ -72,7 +72,7 @@
   {
     "id": 415,
     "en": "Let me show it to you",
-    "fa": "بذار نشونت بدم"
+    "fa": "بذار بهت نشون بدم"
   },
   {
     "id": 416,
@@ -498,5 +498,165 @@
     "id": 500,
     "en": "Whatever happens",
     "fa": "هر اتفاقی بیفته"
+  },
+  {
+    "id": 501,
+    "en": "Please excuse me I don't mean to be rude",
+    "fa": "ببخشید قصد بی ادبی ندارم"
+  },
+  {
+    "id": 502,
+    "en": "He came by the apartment (came to the apartment) right after you left",
+    "fa": "او بلافاصله بعد از رفتن شما به آپارتمان آمد"
+  },
+  {
+    "id": 503,
+    "en": "I was only gone 20 minutes",
+    "fa": "فقط 20 دقیقه نبودم"
+  },
+  {
+    "id": 504,
+    "en": "It's not as bad as it sounds",
+    "fa": "آنقدر هم که به نظر میاد بد نیست"
+  },
+  {
+    "id": 505,
+    "en": "I asked him how he came by the money (get the money), but he wouldn't tell me",
+    "fa": "از او پرسیدم که چگونه این پول بدست آوردی، اما او به من نگفت"
+  },
+  {
+    "id": 506,
+    "en": "What are you waiting for?",
+    "fa": "منتظر چی هستی؟"
+  },
+  {
+    "id": 507,
+    "en": "I thought you would help me but you didn't",
+    "fa": "فکر می کردم به من کمک می کنی اما نکردی"
+  },
+  {
+    "id": 508,
+    "en": "You look tired",
+    "fa": "خسته به نظر میای"
+  },
+  {
+    "id": 509,
+    "en": "Get ready",
+    "fa": "آماده شو"
+  },
+  {
+    "id": 510,
+    "en": "What are you thinking about?",
+    "fa": "به چی فکر میکنی؟"
+  },
+  {
+    "id": 511,
+    "en": "Is it actually true to some degree?",
+    "fa": "آیا واقعاً تا حدی درسته؟"
+  },
+  {
+    "id": 512,
+    "en": "I was just informed",
+    "fa": "همین الان مطلع شدم"
+  },
+  {
+    "id": 513,
+    "en": "It's really sore",
+    "fa": "واقعاً دردناک است"
+  },
+  {
+    "id": 514,
+    "en": "He said can you tell me exactly where it hurts",
+    "fa": "گفت میشه دقیقا بگی کجا درد میکنه"
+  },
+  {
+    "id": 515,
+    "en": "I used to think people switch jobs for money only",
+    "fa": "من قبلاً فکر می کردم مردم فقط برای پول شغلشون را عوض می کنند "
+  },
+  {
+    "id": 516,
+    "en": "I believe most people are looking for respect and mental peace",
+    "fa": "معتقدم اکثر مردم به دنبال احترام و آرامش روانی هستند"
+  },
+  {
+    "id": 517,
+    "en": "Does it have any side effect?",
+    "fa": "عوارض جانبی هم داره؟"
+  },
+  {
+    "id": 518,
+    "en": "How could you do this to me?",
+    "fa": "چطور تونستی این کار رو با من بکنی؟"
+  },
+  {
+    "id": 519,
+    "en": "What's going on here?",
+    "fa": "اینجا چه خبره؟"
+  },
+  {
+    "id": 520,
+    "en": "It wasn't your fault",
+    "fa": "تقصیر تو نبود"
+  },
+  {
+    "id": 521,
+    "en": "What are you worried about?",
+    "fa": "درباره چی نگرانی؟"
+  },
+  {
+    "id": 522,
+    "en": "I owe you an apology",
+    "fa": "یک عذرخواهی به شما بدهکارم"
+  },
+  {
+    "id": 523,
+    "en": "What do you do in your free time?",
+    "fa": "در اوقات فراغت چه کار می کنی؟"
+  },
+  {
+    "id": 524,
+    "en": "Don't you know who I am",
+    "fa": "نمیدونی کی هستم"
+  },
+  {
+    "id": 525,
+    "en": "Are you following me?",
+    "fa": "منو دنبال میکنی؟"
+  },
+  {
+    "id": 526,
+    "en": "I have a bad feeling",
+    "fa": "حس بدی دارم"
+  },
+  {
+    "id": 527,
+    "en": "What do you do for a living?",
+    "fa": "برای امرار معاش چه کار می کنی؟"
+  },
+  {
+    "id": 528,
+    "en": "I just want to make sure",
+    "fa": "فقط میخوام مطمئن بشم"
+  },
+  {
+    "id": 529,
+    "en": "I was about to die",
+    "fa": "داشتم می مردم"
+  },
+  {
+    "id": 530,
+    "en": "How far along are you?",
+    "fa": "چند وقت بارداری؟"
+  },
+  {
+    "id": 531,
+    "en": "You framed me",
+    "fa": "برام پاپوش دوختی"
+  },
+  {
+    "id": 532,
+    "en": "I am getting dressed",
+    "fa": "چند وقت بارداری؟"
   }
 ]

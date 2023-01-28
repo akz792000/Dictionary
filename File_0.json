@@ -372,7 +372,7 @@
   {
     "id": 75,
     "en": "Are you taking any medicine now?",
-    "fa": "آیا الان دارو مصرف میکنی"
+    "fa": "آیا الان داری دارو مصرف میکنی؟"
   },
   {
     "id": 76,
@@ -411,8 +411,8 @@
   },
   {
     "id": 83,
-    "en": "I sneeze",
-    "fa": "عطسه میکنم"
+    "en": "Have you ever seen tiger sneezing?",
+    "fa": "آیا تا به حال عطسه ببر را دیده اید؟"
   },
   {
     "id": 84,
@@ -652,7 +652,7 @@
   {
     "id": 131,
     "en": "I want you gone by the time I get back",
-    "fa": "من می خوام زمانی که برگشستم، رفته باشی"
+    "fa": "من می خوام زمانی که برگشتم، رفته باشی"
   },
   {
     "id": 132,
@@ -677,7 +677,7 @@
   {
     "id": 136,
     "en": "It is good to see you again",
-    "fa": "خوشحالم دوباره شما را می بینم"
+    "fa": "خوشحالم که دوباره می بینمت"
   },
   {
     "id": 137,
@@ -1137,7 +1137,7 @@
   {
     "id": 228,
     "en": "Are you paying interest on the loans?",
-    "fa": "آیا برای وامها بهره میدی؟"
+    "fa": "آیا داری برای وامها بهره میدی؟"
   },
   {
     "id": 229,
@@ -1217,7 +1217,7 @@
   {
     "id": 244,
     "en": "I have a mortgage on my house",
-    "fa": "من یک وام رو خونه دارم"
+    "fa": "من یک وام رو خونم دارم"
   },
   {
     "id": 245,
@@ -1331,7 +1331,7 @@
   },
   {
     "id": 267,
-    "en": "ّI can't believe you haven't seen this movie yet",
+    "en": "I can't believe you haven't seen this movie yet",
     "fa": "باورم نمیشه هنوز این فیلم را ندیدی"
   },
   {
@@ -1412,7 +1412,7 @@
   {
     "id": 283,
     "en": "I want something to drink with you",
-    "fa": "من می خوام با شما چیزی بنوشم"
+    "fa": "من چیزی می خوام تا با شما بنوشم"
   },
   {
     "id": 284,
