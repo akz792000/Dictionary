@@ -622,7 +622,7 @@
   {
     "id": 525,
     "en": "Are you following me?",
-    "fa": "منو دنبال میکنی؟"
+    "fa": "داری منو دنبال میکنی؟"
   },
   {
     "id": 526,
@@ -658,5 +658,95 @@
     "id": 532,
     "en": "I am getting dressed",
     "fa": "چند وقت بارداری؟"
+  },
+  {
+    "id": 533,
+    "en": "You can make it",
+    "fa": "از پسش برمیای"
+  },
+  {
+    "id": 534,
+    "en": "You're ungrateful",
+    "fa": "تو قدرنشناسی"
+  },
+  {
+    "id": 535,
+    "en": "Is this seat taken?",
+    "fa": "این صندلی گرفته شده؟"
+  },
+  {
+    "id": 536,
+    "en": "Excuse me, Have we met before?",
+    "fa": "ببخشید، آیا قبلاً همدیگر را ملاقات کرده ایم؟"
+  },
+  {
+    "id": 537,
+    "en": "She'll be grumpy if you wake her up from her nap",
+    "fa": "بدخلق خواهد شد اگر او را از خواب بیدارش کنید"
+  },
+  {
+    "id": 538,
+    "en": "Don't you see what is written here?",
+    "fa": "نمیبینی اینجا چی نوشته؟"
+  },
+  {
+    "id": 539,
+    "en": "I think it's a right choice",
+    "fa": "به نظرم انتخاب درستیه"
+  },
+  {
+    "id": 540,
+    "en": "That's all I know",
+    "fa": "این تمام چیزی است که میدانم"
+  },
+  {
+    "id": 541,
+    "en": "What do you do when you get bored?",
+    "fa": "وقتی حوصله ات سر میره چه می کنی؟"
+  },
+  {
+    "id": 542,
+    "en": "My work is piling up",
+    "fa": "کارام داره تلنبار میشه"
+  },
+  {
+    "id": 543,
+    "en": "Why didn't you say something?",
+    "fa": "چرا چیزی نگفتی؟"
+  },
+  {
+    "id": 544,
+    "en": "Why the long face?",
+    "fa": "چرا اخمات تو همه؟"
+  },
+  {
+    "id": 545,
+    "en": "Please speak one at a time",
+    "fa": "لطفا یکی یکی صحبت کنید"
+  },
+  {
+    "id": 546,
+    "en": "Do you know what time you have to go?",
+    "fa": "آیا می دانید چه ساعتی باید برید؟"
+  },
+  {
+    "id": 547,
+    "en": "I get in a car",
+    "fa": "سوار ماشین میشم"
+  },
+  {
+    "id": 548,
+    "en": "I got out of the car",
+    "fa": "از ماشین پیاده شدم"
+  },
+  {
+    "id": 549,
+    "en": "I get on a bus/train/plane",
+    "fa": "سوار اتوبوس/قطار/هواپیما می شم"
+  },
+  {
+    "id": 550,
+    "en": "I get off a bus/train/plane",
+    "fa": "از اتوبوس/قطار/هواپیما پیاده می شم"
   }
 ]
