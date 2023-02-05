@@ -1142,7 +1142,7 @@
   {
     "id": 229,
     "en": "Everybody was in the meeting when I got there",
-    "fa": "همه تو جلسه بودن وقتی من به جلسه رسیدم"
+    "fa": "همه تو جلسه بودن وقتی من به آنجا رسیدم"
   },
   {
     "id": 230,
@@ -1241,8 +1241,8 @@
   },
   {
     "id": 249,
-    "en": "Is it too much to ask?",
-    "fa": "تقاضای زیادیه؟"
+    "en": "I need a power stripe",
+    "fa": "من نیاز به رابط برق دارم"
   },
   {
     "id": 250,
@@ -1642,12 +1642,12 @@
   {
     "id": 329,
     "en": "Don't get me wrong",
-    "fa": "منظور من را اشتباه برداشت نکن"
+    "fa": "منظورم را اشتباه برداشت نکن"
   },
   {
     "id": 330,
     "en": "That's why we're here",
-    "fa": "برای همینه اینجام"
+    "fa": "برای همینه اینجایم"
   },
   {
     "id": 331,
@@ -1797,7 +1797,7 @@
   {
     "id": 360,
     "en": "Can you lend me some money?",
-    "fa": "میتونی کمی پول بهم قرض بدی؟"
+    "fa": "میتونی مقداری پول بهم قرض بدی؟"
   },
   {
     "id": 361,
@@ -1827,7 +1827,7 @@
   {
     "id": 366,
     "en": "Last year wasn't as cold as this year in Shiraz",
-    "fa": "پارسال مثل امسال در شیراز سرد نبود"
+    "fa": "پارسال به سردی امسال شیراز نبود"
   },
   {
     "id": 367,
@@ -1847,7 +1847,7 @@
   {
     "id": 370,
     "en": "Your book is the same as mine",
-    "fa": "کتاب شما هم مثل کتاب منه"
+    "fa": "کتاب شما هم مثل مال منه"
   },
   {
     "id": 371,
@@ -1887,7 +1887,7 @@
   {
     "id": 378,
     "en": "That is exactly what I said earlier",
-    "fa": "دقیقاً همان چیزی است که قبلاً گفتم"
+    "fa": "دقیقاً همان چیزی است که زودتر گفتم"
   },
   {
     "id": 379,
@@ -1962,7 +1962,7 @@
   {
     "id": 393,
     "en": "All I am saying is ...",
-    "fa": "تمام حرفم اینه که ..."
+    "fa": "تمام چیزی که می گویم این است که ..."
   },
   {
     "id": 394,
@@ -1986,8 +1986,8 @@
   },
   {
     "id": 398,
-    "en": "Wash the floor with a mop and bucket and warm soapy water and vacuum the carpets",
-    "fa": "زمین را با یک طی و سطل و آب صابون گرم بشویید و فرش ها را جارو برقی کن"
+    "en": "Wash the floor with a mop, bucket and warm soapy water then vacuum the carpets",
+    "fa": "زمین را با یک طی, سطل و آب صابون گرم بشویید سپس فرش ها را جارو برقی کن"
   },
   {
     "id": 399,

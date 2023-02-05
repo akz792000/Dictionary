@@ -102,7 +102,7 @@
   {
     "id": 421,
     "en": "How long does it take to go by bus?",
-    "fa": "با اتوبوس چقدر طول می کشد؟"
+    "fa": "چقدر طول می کشد تا با اتوبوس بروی؟"
   },
   {
     "id": 422,
@@ -112,7 +112,7 @@
   {
     "id": 423,
     "en": "I try not to let my problems at work carry over into my private life",
-    "fa": "من سعی می کنم اجازه ندهم مشکلاتم در محل کار به زندگی خصوصیم بیاورم"
+    "fa": "من سعی می کنم اجازه ندهم مشکلاتم در محل کار به زندگی خصوصیم منتقل بشه"
   },
   {
     "id": 424,
@@ -748,5 +748,85 @@
     "id": 550,
     "en": "I get off a bus/train/plane",
     "fa": "از اتوبوس/قطار/هواپیما پیاده می شم"
+  },
+  {
+    "id": 551,
+    "en": "With whom do you share with?",
+    "fa": "با چه کسی به اشتراک می گذارید؟"
+  },
+  {
+    "id": 552,
+    "en": "Pop the trunk",
+    "fa": "صندوق عقب را باز کنید"
+  },
+  {
+    "id": 553,
+    "en": "Step on the gas",
+    "fa": "پا روی گاز بگذار"
+  },
+  {
+    "id": 554,
+    "en": "Honk the horn",
+    "fa": "بوق را به صدا در بیاور"
+  },
+  {
+    "id": 555,
+    "en": "I told my boss I needed a pay rise and three other companies were chasing me",
+    "fa": "به رئیسم گفتم که نیاز به افزایش حقوق دارم و سه شرکت دیگر دنبال من هستند"
+  },
+  {
+    "id": 556,
+    "en": "Who did Ali see?",
+    "fa": "علی  چه کسی را دید؟"
+  },
+  {
+    "id": 557,
+    "en": "Who saw Ilia?",
+    "fa": "چه کسی ایلیا را دید؟"
+  },
+  {
+    "id": 558,
+    "en": "I want you to listen to your conscience",
+    "fa": "ن می خواهم شما به وجدان خود گوش دهید."
+  },
+  {
+    "id": 559,
+    "en": "I sometimes take a little sugar",
+    "fa": "من گاهی کمی شکر مصرف می کنم."
+  },
+  {
+    "id": 560,
+    "en": "How high can a helium balloon float?",
+    "fa": "یک بالون هلیومی چقدر می تواند بالا برود؟"
+  },
+  {
+    "id": 561,
+    "en": "What is your major?",
+    "fa": "رشته شما چیست؟"
+  },
+  {
+    "id": 562,
+    "en": "I hope our paths will cross again in the near future, and wish you and your company continued success",
+    "fa": "امیدوارم در آینده نزدیک مسیرهای ما دوباره تلاقی پیدا کند و برای شما و شرکتتان آرزوی موفقیت روزافزون دارم"
+  },
+  {
+    "id": 563,
+    "en": "Rip out the paper",
+    "fa": "کاغذ را پاره کن"
+  },
+  {
+    "id": 564,
+    "en": "Fold the paper",
+    "fa": "کاغذ را تا کن"
+  },
+  {
+    "id": 565,
+    "en": "Tear apart the paper",
+    "fa": "کاغذ را پاره کن"
+  },
+  {
+    "id": 566,
+    "en": "Crumble the paper",
+    "fa": "کاغذ را مجاله کن"
   }
 ]
