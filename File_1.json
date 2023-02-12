@@ -1,832 +1,442 @@
 [
   {
-    "id": 401,
-    "en": "Is Germany worth visiting?",
-    "fa": "آیا آلمان ارزش دیدن داره؟"
-  },
-  {
-    "id": 402,
-    "en": "What do you suggest?",
-    "fa": "چی پیشنهاد میدی؟"
-  },
-  {
-    "id": 403,
-    "en": "Fasten your seat belt (Buckle up)",
-    "fa": "کمربندت را ببند"
-  },
-  {
-    "id": 404,
-    "en": "The greatest wealth is health",
-    "fa": "بزرگترین ثروت سلامتی است"
-  },
-  {
-    "id": 405,
-    "en": "Didn't I tell you not to go out?",
-    "fa": "بهت نگفتم بیرون نرو"
-  },
-  {
-    "id": 406,
-    "en": "There is nothing wrong with your laptop",
-    "fa": "لپ تاپ شما هیچ مشکلی ندارد"
-  },
-  {
-    "id": 407,
-    "en": "What the hell do you want me to do?",
-    "fa": "می خوای چه غلطی بکنم؟"
-  },
-  {
-    "id": 408,
-    "en": "Needless to say",
-    "fa": "نیازی به گفتن نیست"
-  },
-  {
-    "id": 409,
-    "en": "I have called him several times since morning",
-    "fa": "از صبح چندین بار با او تماس گرفتم"
-  },
-  {
-    "id": 410,
-    "en": "There's something on your face",
-    "fa": "یه چیزی روی صورتت هست"
-  },
-  {
-    "id": 411,
-    "en": "I wish I could",
-    "fa": "ای کاش میتونستم"
-  },
-  {
-    "id": 412,
-    "en": "Didn't you hear what I said?",
-    "fa": "نشنیدی چی گفتم؟"
-  },
-  {
-    "id": 413,
-    "en": "By the way",
-    "fa": "در ضمن"
-  },
-  {
-    "id": 414,
-    "en": "Will you be home late tonight?",
-    "fa": "آیا دیر خانه خواهی بود؟"
-  },
-  {
-    "id": 415,
-    "en": "Let me show it to you",
-    "fa": "بذار بهت نشون بدم"
-  },
-  {
-    "id": 416,
-    "en": "Has anyone been to see him in the hospital?",
-    "fa": "آیا کسی برای دیدن او به بیمارستان رفته؟"
-  },
-  {
-    "id": 417,
-    "en": "I need to wear my shoes in",
-    "fa": "من باید کفش هایم را بپوشم"
-  },
-  {
-    "id": 418,
-    "en": "I put on my hat",
-    "fa": "کلاه سرم گذاشتم"
-  },
-  {
-    "id": 419,
-    "en": "I take off my hat",
-    "fa": "کلاه از سرم در آوردم"
-  },
-  {
-    "id": 420,
-    "en": "Shall I try this shirt on?",
-    "fa": "می تونم این پیراهن را تست کنم"
-  },
-  {
-    "id": 421,
-    "en": "How long does it take to go by bus?",
-    "fa": "چقدر طول می کشد تا با اتوبوس بروی؟"
-  },
-  {
-    "id": 422,
-    "en": "What color shirt do you want to buy?",
-    "fa": "چه پیراهنی رنگی را می خواهید بخرید؟"
-  },
-  {
-    "id": 423,
-    "en": "I try not to let my problems at work carry over into my private life",
-    "fa": "من سعی می کنم اجازه ندهم مشکلاتم در محل کار به زندگی خصوصیم منتقل بشه"
-  },
-  {
-    "id": 424,
-    "en": "I am going to try bungee jumping, but I get cold feet",
-    "fa": "من قصد دارم پرش بانجی را امتحان کنم، اما می ترسم"
-  },
-  {
-    "id": 425,
-    "en": "How much is a letter with a stamp to Iran?",
-    "fa": "یک نامه با یک تمبر به ایران چند است؟"
-  },
-  {
-    "id": 426,
-    "en": "It was busy last time",
-    "fa": "دفعه آخر مشغول بود"
-  },
-  {
-    "id": 427,
-    "en": "Try again in a few minutes",
-    "fa": "چند دقیقه دیگه دوباره امتحان کن"
-  },
-  {
-    "id": 428,
-    "en": "I tried a few times but the number is still busy",
-    "fa": "یه چند دفعه امتحان کردم اما شماره هنوز اشغاله"
-  },
-  {
-    "id": 429,
-    "en": "I write a lot of letters as much as I can",
-    "fa": "من یه عالمه نامه تا اونجایی که می تونم مینویسم"
-  },
-  {
-    "id": 430,
-    "en": "What time does our meeting start?",
-    "fa": "جلسمون چه ساعتی شروع می شود؟"
-  },
-  {
-    "id": 431,
-    "en": "It's sometimes difficult to talk to children",
-    "fa": "صحبت با کودکان گاهی دشوار است"
-  },
-  {
-    "id": 432,
-    "en": "How is your headache?",
-    "fa": "سر دردت چطوره؟"
-  },
-  {
-    "id": 433,
-    "en": "My head is aching",
-    "fa": "سرم داره درد می کند"
-  },
-  {
-    "id": 434,
-    "en": "Can you write it down for me on paper, please?",
-    "fa": "میتونی برام روی کاغذ بنویسیش, لطفا؟"
-  },
-  {
-    "id": 435,
-    "en": "Look, it's snowing",
-    "fa": "نگاه کن داره برف میاد"
-  },
-  {
-    "id": 436,
-    "en": "I called him but he didn't pick up",
-    "fa": "بهش زنگ زدم اما برنداشت"
-  },
-  {
-    "id": 437,
-    "en": "I am broke",
-    "fa": "پول ندارم (ورشکسته)"
-  },
-  {
-    "id": 438,
-    "en": "This is the best movie that I have ever seen",
-    "fa": "این بهترین فیلمیه که تا به حال دیدم"
-  },
-  {
-    "id": 439,
-    "en": "Let it go",
-    "fa": "ولش کن"
-  },
-  {
-    "id": 440,
-    "en": "Do you always talk like this?",
-    "fa": "همیشه اینطوری حرف میزنی؟"
-  },
-  {
-    "id": 441,
-    "en": "It's not that hard",
-    "fa": "آنقدرها هم سخت نیست"
-  },
-  {
-    "id": 442,
-    "en": "Do I look that bad?",
-    "fa": "آیا آنقدر بد به نظر میام؟"
-  },
-  {
-    "id": 443,
-    "en": "I don't mean to disrespect",
-    "fa": "قصد بی احترامی ندارم"
-  },
-  {
-    "id": 444,
-    "en": "Don't be like that",
-    "fa": "اون جوری نباش"
-  },
-  {
-    "id": 445,
-    "en": "Time is more valuable than money",
-    "fa": "زمان ارزشمندتر از پوله"
-  },
-  {
-    "id": 446,
-    "en": "This is the house where I grew up in",
-    "fa": "این  خانه ای است که من در آن بزرگ شدم"
-  },
-  {
-    "id": 447,
-    "en": "What were you thinking?",
-    "fa": "داشتی به چی فکر میکردی؟"
-  },
-  {
-    "id": 448,
-    "en": "You are making a big deal out of it",
-    "fa": "خیلی داری بزرگش میکنی "
-  },
-  {
-    "id": 449,
-    "en": "I love you more than anything in the world",
-    "fa": "من تو را بیشتر از هر چیزی در دنیا دوست دارم"
-  },
-  {
-    "id": 450,
-    "en": "Sooner or later",
-    "fa": "دیر یا زود"
-  },
-  {
-    "id": 451,
-    "en": "Man dies after masturbating 62 times straight",
-    "fa": "مردی پس از 62 بار خودارضایی مرد"
-  },
-  {
-    "id": 452,
-    "en": "Everyone else was convinced, but I remained skeptical",
-    "fa": "همه متقاعد شده بودند، اما من همچنان شک داشتم"
-  },
-  {
-    "id": 453,
-    "en": "You pulled it off",
-    "fa": "تو از پسش براومدی"
-  },
-  {
-    "id": 454,
-    "en": "So I wanna quote one of his jokes",
-    "fa": "بنابراین می خوام یکی از شوخیاش را نقل کنم"
-  },
-  {
-    "id": 455,
-    "en": "May I join you?",
-    "fa": "میشه بهتون ملحق شم؟"
-  },
-  {
-    "id": 456,
-    "en": "May I have a word?",
-    "fa": "میشه یه چیزی بگم؟"
-  },
-  {
-    "id": 457,
-    "en": "May I ask a favor?",
-    "fa": "میشه یه خواهشی کنم؟"
-  },
-  {
-    "id": 458,
-    "en": "May I have your attention?",
-    "fa": "میشه توجهتون رو بدید به من؟"
-  },
-  {
-    "id": 459,
-    "en": "Who cut the cheese?",
-    "fa": "کی چسید؟"
-  },
-  {
-    "id": 460,
-    "en": "Nature is calling me",
-    "fa": "جیش دارم"
-  },
-  {
-    "id": 461,
-    "en": "I am on my period",
-    "fa": "پریودم"
-  },
-  {
-    "id": 462,
-    "en": "I feel bloated",
-    "fa": "احساس نفخ می کنم"
-  },
-  {
-    "id": 463,
-    "en": "He is on the edge",
-    "fa": "اعصاب نداره"
-  },
-  {
-    "id": 464,
-    "en": "How dare you suggest such a thing?",
-    "fa": "چطور جرات داری چنین چیزی را پیشنهاد کنی؟"
-  },
-  {
-    "id": 465,
-    "en": "How dare you interfere in my life?",
-    "fa": "چطور جرات داری تو زندگی من دخالت کنی؟"
-  },
-  {
-    "id": 466,
-    "en": "How dare you disobey me?",
-    "fa": "چطور جرات داری از من سرپیچی کنی؟"
-  },
-  {
-    "id": 467,
-    "en": "How dare you accuse me of lying?",
-    "fa": "چطور جرات داری منو متهم کنی به دروغ؟"
-  },
-  {
-    "id": 468,
-    "en": "I'm afraid of you",
-    "fa": "من می ترسم ازت"
-  },
-  {
-    "id": 469,
-    "en": "I'm afraid for you",
-    "fa": "من نگرانتم"
-  },
-  {
-    "id": 470,
-    "en": "I'm afraid so",
-    "fa": "می ترسم اینطور باشه"
-  },
-  {
-    "id": 471,
-    "en": "I'm afraid to do it",
-    "fa": "میترسم انجامش بدم"
-  },
-  {
-    "id": 472,
-    "en": "I'm afraid, I can't",
-    "fa": "میترسم نتونم"
-  },
-  {
-    "id": 473,
-    "en": "You left the door ajar",
-    "fa": "در را بازگذاشتی"
-  },
-  {
-    "id": 474,
-    "en": "Draw the curtains",
-    "fa": "پرده ها رو بکش"
-  },
-  {
-    "id": 475,
-    "en": "I would say so",
-    "fa": "منم اینطور می گم"
-  },
-  {
-    "id": 476,
-    "en": "Look at how massive this ant is compared to my hand",
-    "fa": "ببین این مورچه در مقایسه با دست من چقدر بزرگه"
-  },
-  {
-    "id": 477,
-    "en": "I am not even gonna think of how painful a bite from this ant would be",
-    "fa": "حتی به این فکر نمی کنم که گاز گرفتن این مورچه چقدر دردناک خواهد بود"
-  },
-  {
-    "id": 478,
-    "en": "Did you just run out of gas?",
-    "fa": "الان بنزینت تموم شده؟"
-  },
-  {
-    "id": 479,
-    "en": "The battery lasts well",
-    "fa": "باتری خوب دوام میاره"
-  },
-  {
-    "id": 480,
-    "en": "I wanna thank me for trying to do more right than wrong",
-    "fa": "میخواهم از خودم تشکر کنم که سعی کردم کارهای درست را بیشتر از اشتباه انجام بدم"
-  },
-  {
-    "id": 481,
-    "en": "I wanna thank me for always being a giver and trying to give more than I receive",
-    "fa": "میخواهم از خودم تشکر کنم که همیشه بخشنده بودم و سعی کردم بیشتر از چیزی که دریافت میکنم بدم"
-  },
-  {
-    "id": 482,
-    "en": "It's an expression",
-    "fa": "این یک اصطلاحه"
-  },
-  {
-    "id": 483,
-    "en": "Better safe than sorry",
-    "fa": "احتیاط شرط عقله"
-  },
-  {
-    "id": 484,
-    "en": "Do you know each other?",
-    "fa": "همدیگر را می شناسید؟"
-  },
-  {
-    "id": 485,
-    "en": "How did you find me?",
-    "fa": "چطور منو پیدا کردی؟"
-  },
-  {
-    "id": 486,
-    "en": "Was your problem solved?",
-    "fa": "مشکلت حل شد؟"
-  },
-  {
-    "id": 487,
-    "en": "Was anybody hurt in the accident?",
-    "fa": "آیا کسی در تصادف آسیب دیده؟"
-  },
-  {
-    "id": 488,
-    "en": "Like it or not",
-    "fa": "بخوای نخوای"
-  },
-  {
-    "id": 489,
-    "en": "Don't be late again",
-    "fa": "ديگه دير نكن"
-  },
-  {
-    "id": 490,
-    "en": "We are here to help you",
-    "fa": "ما اینجاییم که کمکت کنیم"
-  },
-  {
-    "id": 491,
-    "en": "Send him in",
-    "fa": "بفرستش داخل"
-  },
-  {
-    "id": 492,
-    "en": "Simple as that",
-    "fa": "به همین سادگی"
-  },
-  {
-    "id": 493,
-    "en": "Now you try",
-    "fa": "حالا تو امتحان کن"
-  },
-  {
-    "id": 494,
-    "en": "Do you know what this means?",
-    "fa": "می دونی این یعنی چی؟"
-  },
-  {
-    "id": 495,
-    "en": "We are ahead of schedule",
-    "fa": "ما جلوتر از برنامه ایم"
-  },
-  {
-    "id": 496,
-    "en": "Do you know who they are?",
-    "fa": "میدانی اونا کی هستند؟"
-  },
-  {
-    "id": 497,
-    "en": "How does it taste?",
-    "fa": "مزه اش چطوره؟"
-  },
-  {
-    "id": 498,
-    "en": "We must do something",
-    "fa": "باید یه کاری بکنیم"
-  },
-  {
-    "id": 499,
-    "en": "What did you learn in school today?",
-    "fa": "امروز تو مدرسه چی یاد گرفتی؟"
-  },
-  {
-    "id": 500,
-    "en": "Whatever happens",
-    "fa": "هر اتفاقی بیفته"
-  },
-  {
     "id": 501,
-    "en": "Please excuse me I don't mean to be rude",
-    "fa": "ببخشید قصد بی ادبی ندارم"
+    "fa": "ببخشید قصد بی ادبی ندارم",
+    "en": "Please excuse me I don't mean to be rude"
   },
   {
     "id": 502,
-    "en": "He came by the apartment (came to the apartment) right after you left",
-    "fa": "او بلافاصله بعد از رفتن شما به آپارتمان آمد"
+    "fa": "او بلافاصله بعد از رفتن شما به آپارتمان آمد",
+    "en": "He came by the apartment (came to the apartment) right after you left"
   },
   {
     "id": 503,
-    "en": "I was only gone 20 minutes",
-    "fa": "فقط 20 دقیقه نبودم"
+    "fa": "فقط 20 دقیقه نبودم",
+    "en": "I was only gone 20 minutes"
   },
   {
     "id": 504,
-    "en": "It's not as bad as it sounds",
-    "fa": "آنقدر هم که به نظر میاد بد نیست"
+    "fa": "آنقدر هم که به نظر میاد بد نیست",
+    "en": "It's not as bad as it sounds"
   },
   {
     "id": 505,
-    "en": "I asked him how he came by the money (get the money), but he wouldn't tell me",
-    "fa": "از او پرسیدم که چگونه این پول بدست آوردی، اما او به من نگفت"
+    "fa": "از او پرسیدم که چگونه این پول بدست آوردی، اما او به من نگفت",
+    "en": "I asked him how he came by the money (get the money), but he wouldn't tell me"
   },
   {
     "id": 506,
-    "en": "What are you waiting for?",
-    "fa": "منتظر چی هستی؟"
+    "fa": "منتظر چی هستی؟",
+    "en": "What are you waiting for?"
   },
   {
     "id": 507,
-    "en": "I thought you would help me but you didn't",
-    "fa": "فکر می کردم به من کمک می کنی اما نکردی"
+    "fa": "فکر می کردم به من کمک می کنی اما نکردی",
+    "en": "I thought you would help me but you didn't"
   },
   {
     "id": 508,
-    "en": "You look tired",
-    "fa": "خسته به نظر میای"
+    "fa": "خسته به نظر میای",
+    "en": "You look tired"
   },
   {
     "id": 509,
-    "en": "Get ready",
-    "fa": "آماده شو"
+    "fa": "آماده شو",
+    "en": "Get ready"
   },
   {
     "id": 510,
-    "en": "What are you thinking about?",
-    "fa": "به چی فکر میکنی؟"
+    "fa": "به چی فکر میکنی؟",
+    "en": "What are you thinking about?"
   },
   {
     "id": 511,
-    "en": "Is it actually true to some degree?",
-    "fa": "آیا واقعاً تا حدی درسته؟"
+    "fa": "آیا واقعاً تا حدی درسته؟",
+    "en": "Is it actually true to some degree?"
   },
   {
     "id": 512,
-    "en": "I was just informed",
-    "fa": "همین الان مطلع شدم"
+    "fa": "همین الان مطلع شدم",
+    "en": "I was just informed"
   },
   {
     "id": 513,
-    "en": "It's really sore",
-    "fa": "واقعاً دردناک است"
+    "fa": "واقعاً دردناک است",
+    "en": "It's really sore"
   },
   {
     "id": 514,
-    "en": "He said can you tell me exactly where it hurts",
-    "fa": "گفت میشه دقیقا بگی کجا درد میکنه"
+    "fa": "گفت میشه دقیقا بگی کجا درد میکنه",
+    "en": "He said can you tell me exactly where it hurts"
   },
   {
     "id": 515,
-    "en": "I used to think people switch jobs for money only",
-    "fa": "من قبلاً فکر می کردم مردم فقط برای پول شغلشون را عوض می کنند "
+    "fa": "من قبلاً فکر می کردم مردم فقط برای پول شغلشون را عوض می کنند ",
+    "en": "I used to think people switch jobs for money only"
   },
   {
     "id": 516,
-    "en": "I believe most people are looking for respect and mental peace",
-    "fa": "معتقدم اکثر مردم به دنبال احترام و آرامش روانی هستند"
+    "fa": "معتقدم اکثر مردم به دنبال احترام و آرامش روانی هستند",
+    "en": "I believe most people are looking for respect and mental peace"
   },
   {
     "id": 517,
-    "en": "Does it have any side effect?",
-    "fa": "عوارض جانبی هم داره؟"
+    "fa": "عوارض جانبی هم داره؟",
+    "en": "Does it have any side effect?"
   },
   {
     "id": 518,
-    "en": "How could you do this to me?",
-    "fa": "چطور تونستی این کار رو با من بکنی؟"
+    "fa": "چطور تونستی این کار رو با من بکنی؟",
+    "en": "How could you do this to me?"
   },
   {
     "id": 519,
-    "en": "What's going on here?",
-    "fa": "اینجا چه خبره؟"
+    "fa": "اینجا چه خبره؟",
+    "en": "What's going on here?"
   },
   {
     "id": 520,
-    "en": "It wasn't your fault",
-    "fa": "تقصیر تو نبود"
+    "fa": "تقصیر تو نبود",
+    "en": "It wasn't your fault"
   },
   {
     "id": 521,
-    "en": "What are you worried about?",
-    "fa": "درباره چی نگرانی؟"
+    "fa": "درباره چی نگرانی؟",
+    "en": "What are you worried about?"
   },
   {
     "id": 522,
-    "en": "I owe you an apology",
-    "fa": "یک عذرخواهی به شما بدهکارم"
+    "fa": "یک عذرخواهی به شما بدهکارم",
+    "en": "I owe you an apology"
   },
   {
     "id": 523,
-    "en": "What do you do in your free time?",
-    "fa": "در اوقات فراغت چه کار می کنی؟"
+    "fa": "در اوقات فراغت چه کار می کنی؟",
+    "en": "What do you do in your free time?"
   },
   {
     "id": 524,
-    "en": "Don't you know who I am",
-    "fa": "نمیدونی کی هستم"
+    "fa": "نمیدونی کی هستم",
+    "en": "Don't you know who I am"
   },
   {
     "id": 525,
-    "en": "Are you following me?",
-    "fa": "داری منو دنبال میکنی؟"
+    "fa": "داری منو دنبال میکنی؟",
+    "en": "Are you following me?"
   },
   {
     "id": 526,
-    "en": "I have a bad feeling",
-    "fa": "حس بدی دارم"
+    "fa": "حس بدی دارم",
+    "en": "I have a bad feeling"
   },
   {
     "id": 527,
-    "en": "What do you do for a living?",
-    "fa": "برای امرار معاش چه کار می کنی؟"
+    "fa": "برای امرار معاش چه کار می کنی؟",
+    "en": "What do you do for a living?"
   },
   {
     "id": 528,
-    "en": "I just want to make sure",
-    "fa": "فقط میخوام مطمئن بشم"
+    "fa": "فقط میخوام مطمئن بشم",
+    "en": "I just want to make sure"
   },
   {
     "id": 529,
-    "en": "I was about to die",
-    "fa": "داشتم می مردم"
+    "fa": "داشتم می مردم",
+    "en": "I was about to die"
   },
   {
     "id": 530,
-    "en": "How far along are you?",
-    "fa": "چند وقت بارداری؟"
+    "fa": "چند وقت بارداری؟",
+    "en": "How far along are you?"
   },
   {
     "id": 531,
-    "en": "You framed me",
-    "fa": "برام پاپوش دوختی"
+    "fa": "برام پاپوش دوختی",
+    "en": "You framed me"
   },
   {
     "id": 532,
-    "en": "I am getting dressed",
-    "fa": "چند وقت بارداری؟"
+    "fa": "چند وقت بارداری؟",
+    "en": "I am getting dressed"
   },
   {
     "id": 533,
-    "en": "You can make it",
-    "fa": "از پسش برمیای"
+    "fa": "از پسش برمیای",
+    "en": "You can make it"
   },
   {
     "id": 534,
-    "en": "You're ungrateful",
-    "fa": "تو قدرنشناسی"
+    "fa": "تو قدرنشناسی",
+    "en": "You're ungrateful"
   },
   {
     "id": 535,
-    "en": "Is this seat taken?",
-    "fa": "این صندلی گرفته شده؟"
+    "fa": "این صندلی گرفته شده؟",
+    "en": "Is this seat taken?"
   },
   {
     "id": 536,
-    "en": "Excuse me, Have we met before?",
-    "fa": "ببخشید، آیا قبلاً همدیگر را ملاقات کرده ایم؟"
+    "fa": "ببخشید، آیا قبلاً همدیگر را ملاقات کرده ایم؟",
+    "en": "Excuse me, Have we met before?"
   },
   {
     "id": 537,
-    "en": "She'll be grumpy if you wake her up from her nap",
-    "fa": "بدخلق خواهد شد اگر او را از خواب بیدارش کنید"
+    "fa": "بدخلق خواهد شد اگر او را از خواب بیدارش کنید",
+    "en": "She'll be grumpy if you wake her up from her nap"
   },
   {
     "id": 538,
-    "en": "Don't you see what is written here?",
-    "fa": "نمیبینی اینجا چی نوشته؟"
+    "fa": "نمیبینی اینجا چی نوشته؟",
+    "en": "Don't you see what is written here?"
   },
   {
     "id": 539,
-    "en": "I think it's a right choice",
-    "fa": "به نظرم انتخاب درستیه"
+    "fa": "به نظرم انتخاب درستیه",
+    "en": "I think it's a right choice"
   },
   {
     "id": 540,
-    "en": "That's all I know",
-    "fa": "این تمام چیزی است که میدانم"
+    "fa": "این تمام چیزی است که میدانم",
+    "en": "That's all I know"
   },
   {
     "id": 541,
-    "en": "What do you do when you get bored?",
-    "fa": "وقتی حوصله ات سر میره چه می کنی؟"
+    "fa": "وقتی حوصله ات سر میره چه می کنی؟",
+    "en": "What do you do when you get bored?"
   },
   {
     "id": 542,
-    "en": "My work is piling up",
-    "fa": "کارام داره تلنبار میشه"
+    "fa": "کارام داره تلنبار میشه",
+    "en": "My work is piling up"
   },
   {
     "id": 543,
-    "en": "Why didn't you say something?",
-    "fa": "چرا چیزی نگفتی؟"
+    "fa": "چرا چیزی نگفتی؟",
+    "en": "Why didn't you say something?"
   },
   {
     "id": 544,
-    "en": "Why the long face?",
-    "fa": "چرا اخمات تو همه؟"
+    "fa": "چرا اخمات تو همه؟",
+    "en": "Why the long face?"
   },
   {
     "id": 545,
-    "en": "Please speak one at a time",
-    "fa": "لطفا یکی یکی صحبت کنید"
+    "fa": "لطفا یکی یکی صحبت کنید",
+    "en": "Please speak one at a time"
   },
   {
     "id": 546,
-    "en": "Do you know what time you have to go?",
-    "fa": "آیا می دانید چه ساعتی باید برید؟"
+    "fa": "آیا می دانید چه ساعتی باید برید؟",
+    "en": "Do you know what time you have to go?"
   },
   {
     "id": 547,
-    "en": "I get in a car",
-    "fa": "سوار ماشین میشم"
+    "fa": "سوار ماشین میشم",
+    "en": "I get in a car"
   },
   {
     "id": 548,
-    "en": "I got out of the car",
-    "fa": "از ماشین پیاده شدم"
+    "fa": "از ماشین پیاده شدم",
+    "en": "I got out of the car"
   },
   {
     "id": 549,
-    "en": "I get on a bus/train/plane",
-    "fa": "سوار اتوبوس/قطار/هواپیما می شم"
+    "fa": "سوار اتوبوس/قطار/هواپیما می شم",
+    "en": "I get on a bus/train/plane"
   },
   {
     "id": 550,
-    "en": "I get off a bus/train/plane",
-    "fa": "از اتوبوس/قطار/هواپیما پیاده می شم"
+    "fa": "از اتوبوس/قطار/هواپیما پیاده می شم",
+    "en": "I get off a bus/train/plane"
   },
   {
     "id": 551,
-    "en": "With whom do you share with?",
-    "fa": "با چه کسی به اشتراک می گذارید؟"
+    "fa": "با چه کسی به اشتراک می گذارید؟",
+    "en": "With whom do you share with?"
   },
   {
     "id": 552,
-    "en": "Pop the trunk",
-    "fa": "صندوق عقب را باز کنید"
+    "fa": "صندوق عقب را باز کنید",
+    "en": "Pop the trunk"
   },
   {
     "id": 553,
-    "en": "Step on the gas",
-    "fa": "پا روی گاز بگذار"
+    "fa": "پا روی گاز بگذار",
+    "en": "Step on the gas"
   },
   {
     "id": 554,
-    "en": "Honk the horn",
-    "fa": "بوق را به صدا در بیاور"
+    "fa": "بوق را به صدا در بیاور",
+    "en": "Honk the horn"
   },
   {
     "id": 555,
-    "en": "I told my boss I needed a pay rise and three other companies were chasing me",
-    "fa": "به رئیسم گفتم که نیاز به افزایش حقوق دارم و سه شرکت دیگر دنبال من هستند"
+    "fa": "به رئیسم گفتم که نیاز به افزایش حقوق دارم و سه شرکت دیگر دنبال من هستند",
+    "en": "I told my boss I needed a pay rise and three other companies were chasing me"
   },
   {
     "id": 556,
-    "en": "Who did Ali see?",
-    "fa": "علی  چه کسی را دید؟"
+    "fa": "علی  چه کسی را دید؟",
+    "en": "Who did Ali see?"
   },
   {
     "id": 557,
-    "en": "Who saw Ilia?",
-    "fa": "چه کسی ایلیا را دید؟"
+    "fa": "چه کسی ایلیا را دید؟",
+    "en": "Who saw Ilia?"
   },
   {
     "id": 558,
-    "en": "I want you to listen to your conscience",
-    "fa": "ن می خواهم شما به وجدان خود گوش دهید."
+    "fa": "ن می خواهم شما به وجدان خود گوش دهید.",
+    "en": "I want you to listen to your conscience"
   },
   {
     "id": 559,
-    "en": "I sometimes take a little sugar",
-    "fa": "من گاهی کمی شکر مصرف می کنم."
+    "fa": "من گاهی کمی شکر مصرف می کنم.",
+    "en": "I sometimes take a little sugar"
   },
   {
     "id": 560,
-    "en": "How high can a helium balloon float?",
-    "fa": "یک بالون هلیومی چقدر می تواند بالا برود؟"
+    "fa": "یک بالون هلیومی چقدر می تواند بالا برود؟",
+    "en": "How high can a helium balloon float?"
   },
   {
     "id": 561,
-    "en": "What is your major?",
-    "fa": "رشته شما چیست؟"
+    "fa": "رشته شما چیست؟",
+    "en": "What is your major?"
   },
   {
     "id": 562,
-    "en": "I hope our paths will cross again in the near future, and wish you and your company continued success",
-    "fa": "امیدوارم در آینده نزدیک مسیرهای ما دوباره تلاقی پیدا کند و برای شما و شرکتتان آرزوی موفقیت روزافزون دارم"
+    "fa": "امیدوارم در آینده نزدیک مسیرهای ما دوباره تلاقی پیدا کند و برای شما و شرکتتان آرزوی موفقیت روزافزون دارم",
+    "en": "I hope our paths will cross again in the near future, and wish you and your company continued success"
   },
   {
     "id": 563,
-    "en": "Rip out the paper",
-    "fa": "کاغذ را پاره کن"
+    "fa": "کاغذ را پاره کن",
+    "en": "Rip out the paper"
   },
   {
     "id": 564,
-    "en": "Fold the paper",
-    "fa": "کاغذ را تا کن"
+    "fa": "کاغذ را تا کن",
+    "en": "Fold the paper"
   },
   {
     "id": 565,
-    "en": "Tear apart the paper",
-    "fa": "کاغذ را پاره کن"
+    "fa": "کاغذ را پاره کن",
+    "en": "Tear apart the paper"
   },
   {
     "id": 566,
-    "en": "Crumble the paper",
-    "fa": "کاغذ را مجاله کن"
+    "fa": "کاغذ را مچاله کن",
+    "en": "Crumble the paper"
+  },
+  {
+    "id": 567,
+    "fa": "برام اهمیت نداره",
+    "en": "I don't give a shit"
+  },
+  {
+    "id": 568,
+    "fa": "کسی داره روی این کار می کنه؟",
+    "en": "Is anybody working on this?"
+  },
+  {
+    "id": 569,
+    "fa": "من رفتم",
+    "en": "I am off"
+  },
+  {
+    "id": 570,
+    "fa": "دستم بنده",
+    "en": "I am tied up"
+  },
+  {
+    "id": 571,
+    "fa": "دو دلم",
+    "en": "I am torn"
+  },
+  {
+    "id": 572,
+    "fa": "من برگشتم",
+    "en": "I am back"
+  },
+  {
+    "id": 573,
+    "fa": "من این هشدار را سرکوب خواهم کرد",
+    "en": "I will suppress this alert"
+  },
+  {
+    "id": 574,
+    "fa": "امروز از خانه کار خواهم کرد, من هنوز کم و بیش تب دارم",
+    "en": "I will be working from home today, I still have on and off fever"
+  },
+  {
+    "id": 575,
+    "fa": "چشمات رو برگردون",
+    "en": "Avert your eyes"
+  },
+  {
+    "id": 576,
+    "fa": "چه رو مخی (اعصابی) تو؟",
+    "en": "What a nerve you are?"
+  },
+  {
+    "id": 577,
+    "fa": "من هم نمیتونم وصل بشم",
+    "en": "I can not connect as well"
+  },
+  {
+    "id": 578,
+    "fa": "این برعکس است",
+    "en": "It's other way around"
+  },
+  {
+    "id": 579,
+    "fa": "به احتمال زیاد",
+    "en": "Most likely"
+  },
+  {
+    "id": 580,
+    "fa": "چیزی باقی مانده؟",
+    "en": "Is there anything left"
+  },
+  {
+    "id": 581,
+    "fa": "من دارم لباس می شورم",
+    "en": "I am doing the laundry"
+  },
+  {
+    "id": 582,
+    "fa": "زمستان و تابستان آنجا برعکسه",
+    "en": "The winter and the summer are the other way round there"
+  },
+  {
+    "id": 583,
+    "fa": "حدس می زنم این بک مورد نادر است",
+    "en": "This is the edge case I guess"
+  },
+  {
+    "id": 584,
+    "fa": "دارم تختم را مرتب می کنم",
+    "en": "I am making my bed"
+  },
+  {
+    "id": 585,
+    "fa": "مردم آن چیزی که فکر می کردم نیستند",
+    "en": "People aren't what I thought they were"
+  },
+  {
+    "id": 586,
+    "fa": "پشتم را خم میکنم و به نظر میرسه که تسلیم هستم",
+    "en": "I am gonna curl my back over and look like I'm being submissive"
+  },
+  {
+    "id": 587,
+    "fa": "مدرسه چه ساعتی تعطیل می شه؟",
+    "en": "What time does the school close?"
+  },
+  {
+    "id": 588,
+    "fa": "اخراج در گوگل و سایر شرکت های فناوری چه معنایی برای سایر صنایع دارد؟",
+    "en": "What layoffs at Google and other tech companies mean for other industries?"
   }
 ]
