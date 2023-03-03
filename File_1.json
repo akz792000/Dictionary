@@ -1,7 +1,7 @@
 [
   {
     "id": 501,
-    "fa": "ببخشید قصد بی ادبی ندارم",
+    "fa": "لطفا ببخشید منو قصد بی ادبی ندارم",
     "en": "Please excuse me I don't mean to be rude"
   },
   {
@@ -21,7 +21,7 @@
   },
   {
     "id": 505,
-    "fa": "از او پرسیدم که چگونه این پول بدست آوردی، اما او به من نگفت",
+    "fa": "از او (مرد) پرسیدم که چگونه این پول بدست آوردی، اما او به من نگفت",
     "en": "I asked him how he came by the money (get the money), but he wouldn't tell me"
   },
   {
@@ -498,5 +498,10 @@
     "id": 600,
     "fa": "چه چیزی شما را اینجا آورد؟",
     "en": "What brings you here?"
+  },
+  {
+    "id": 601,
+    "fa": "اگر جای تو بودم این کار را نمی کردم",
+    "en": "If I were you, I would not do this"
   }
 ]
