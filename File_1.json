@@ -11,7 +11,7 @@
   },
   {
     "id": 503,
-    "fa": "فقط 20 دقیقه نبودم",
+    "fa": "من فقط 20 دقیقه رفته بودم",
     "en": "I was only gone 20 minutes"
   },
   {
@@ -22,7 +22,7 @@
   {
     "id": 505,
     "fa": "از او (مرد) پرسیدم که چگونه این پول بدست آوردی، اما او به من نگفت",
-    "en": "I asked him how he came by the money (get the money), but he wouldn't tell me"
+    "en": "I asked him how he came by the money (get the money), but he didn't tell me"
   },
   {
     "id": 506,
@@ -46,7 +46,7 @@
   },
   {
     "id": 510,
-    "fa": "به چی فکر میکنی؟",
+    "fa": "به چی داری فکر میکنی؟",
     "en": "What are you thinking about?"
   },
   {
@@ -66,17 +66,17 @@
   },
   {
     "id": 514,
-    "fa": "گفت میشه دقیقا بگی کجا درد میکنه",
+    "fa": "گفت (مرد) میشه دقیقا بگی کجا درد میکنه",
     "en": "He said can you tell me exactly where it hurts"
   },
   {
     "id": 515,
-    "fa": "من قبلاً فکر می کردم مردم فقط برای پول شغلشون را عوض می کنند ",
+    "fa": "من فکر می کردم مردم فقط برای پول شغلها را عوض می کنند ",
     "en": "I used to think people switch jobs for money only"
   },
   {
     "id": 516,
-    "fa": "معتقدم اکثر مردم به دنبال احترام و آرامش روانی هستند",
+    "fa": "معتقدم اکثر مردم به دنبال احترام و آرامش ذهنی هستند",
     "en": "I believe most people are looking for respect and mental peace"
   },
   {
@@ -156,7 +156,7 @@
   },
   {
     "id": 532,
-    "fa": "چند وقت بارداری؟",
+    "fa": "دارم لباس میپوشم",
     "en": "I am getting dressed"
   },
   {
@@ -181,7 +181,7 @@
   },
   {
     "id": 537,
-    "fa": "بدخلق خواهد شد اگر او را از خواب بیدارش کنید",
+    "fa": "بد خلق خواهد شد اگر او را از خوابش بیدار کنی",
     "en": "She'll be grumpy if you wake her up from her nap"
   },
   {
@@ -271,12 +271,12 @@
   },
   {
     "id": 555,
-    "fa": "به رئیسم گفتم که نیاز به افزایش حقوق دارم و سه شرکت دیگر دنبال من هستند",
+    "fa": "به رئیسم گفتم که نیاز به افزایش حقوق دارم و سه شرکت دیگر دنبال من می گشتند",
     "en": "I told my boss I needed a pay rise and three other companies were chasing me"
   },
   {
     "id": 556,
-    "fa": "علی  چه کسی را دید؟",
+    "fa": "علی چه کسی را دید؟",
     "en": "Who did Ali see?"
   },
   {
@@ -286,7 +286,7 @@
   },
   {
     "id": 558,
-    "fa": "ن می خواهم شما به وجدان خود گوش دهید.",
+    "fa": "می خواهم شما به وجدان خود گوش دهید",
     "en": "I want you to listen to your conscience"
   },
   {
@@ -311,7 +311,7 @@
   },
   {
     "id": 563,
-    "fa": "کاغذ را پاره کن",
+    "fa": "کاغذ را پاره کن (با خشونت)",
     "en": "Rip out the paper"
   },
   {
@@ -341,8 +341,8 @@
   },
   {
     "id": 569,
-    "fa": "من رفتم",
-    "en": "I am off"
+    "fa": "من به رختخواب می روم",
+    "en": "I am off to bed"
   },
   {
     "id": 570,
@@ -426,7 +426,7 @@
   },
   {
     "id": 586,
-    "fa": "پشتم را خم میکنم و به نظر میرسه که تسلیم هستم",
+    "fa": "من قصد دارم که پشتم را خم کنم و به نظر میرسه که تسلیم هستم",
     "en": "I am gonna curl my back over and look like I'm being submissive"
   },
   {
@@ -436,7 +436,7 @@
   },
   {
     "id": 588,
-    "fa": "اخراج در گوگل و سایر شرکت های فناوری چه معنایی برای سایر صنایع دارد؟",
+    "fa": "اخراجها در گوگل و سایر شرکت های فناوری چه معنایی برای سایر صنایع دارد؟",
     "en": "What layoffs at Google and other tech companies mean for other industries?"
   },
   {
@@ -451,18 +451,18 @@
   },
   {
     "id": 591,
-    "fa": "تفنگت را بزار زمین و هولش بده سمت من",
+    "fa": "تفنگت را بزار پایین و هولش بده سمت من",
     "en": "Put your gun down and slide it to me"
   },
   {
     "id": 592,
-    "fa": "اشکالی ندارد اگر من کلاه رو سرم بزارم",
+    "fa": "اشکالی ندارد اگر من کلاهم رو سرم بزارم",
     "en": "You don't mind if I put on my hat"
   },
   {
     "id": 593,
-    "fa": "لطفا اون سیگار را خاموش می کنی؟",
-    "en": "Will you put that cigarette out, please?"
+    "fa": "لطفا اون سیگار را خاموش کن",
+    "en": "Please put that cigarette out"
   },
   {
     "id": 594,
@@ -503,5 +503,35 @@
     "id": 601,
     "fa": "اگر جای تو بودم این کار را نمی کردم",
     "en": "If I were you, I would not do this"
+  },
+  {
+    "id": 602,
+    "fa": "تاکسی گرفتی برای آرایشگاه",
+    "en": "Do you take a taxi to the hairdresser?"
+  },
+  {
+    "id": 603,
+    "fa": "ماشینت راه همسایه ما را مسدود کرده",
+    "en": "Your car is blocking our neighbor's driveway"
+  },
+  {
+    "id": 604,
+    "fa": "من چیزی برای خجالت ندارم",
+    "en": "I don't have anything to be ashamed of"
+  },
+  {
+    "id": 605,
+    "fa": "اولین چیزی شما بد خواهد بود، اما نمی توانید بدون اینکه اولین چیزی را بسازید، به صدمین دست پیدا کنید",
+    "en": "Your first anything will be bad but you can't make your 100th without making your first"
+  },
+  {
+    "id": 606,
+    "fa": "منیت خود را کنار بگذارید",
+    "en": "Put your ego aside"
+  },
+  {
+    "id": 607,
+    "fa": "من مطلع هستم",
+    "en": "I am informed"
   }
 ]
