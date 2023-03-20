@@ -1,7 +1,7 @@
 [
   {
     "id": 501,
-    "fa": "لطفا ببخشید منو قصد بی ادبی ندارم",
+    "fa": "لطفا منو ببخشید قصد بی ادبی ندارم",
     "en": "Please excuse me I don't mean to be rude"
   },
   {
@@ -533,5 +533,70 @@
     "id": 607,
     "fa": "من مطلع هستم",
     "en": "I am informed"
+  },
+  {
+    "id": 608,
+    "fa": "آیا می خواهید بدانید خودروی شما چقدر ارزش دارد؟",
+    "en": "Would you like to know how much your vehicle is worth?"
+  },
+  {
+    "id": 606,
+    "fa": "فیلم آنقدر خسته کننده بود که در حین آن سر تکان دادم",
+    "en": "The film was so tedious that I nodded off during it"
+  },
+  {
+    "id": 610,
+    "fa": "تلاشت رو بکن",
+    "en": "Take your shot"
+  },
+  {
+    "id": 611,
+    "fa": "یا بگیرش یا ولش کن",
+    "en": "Take it or leave it"
+  },
+  {
+    "id": 612,
+    "fa": "میخوام موهامو کوتاه کنم",
+    "en": "I wanna have my hair cut"
+  },
+  {
+    "id": 613,
+    "fa": "منم همینو میخواستم بگم",
+    "en": "I was about to say the same thing"
+  },
+  {
+    "id": 614,
+    "fa": "غر زدن فایده ای نداره",
+    "en": "It's no use whining"
+  },
+  {
+    "id": 615,
+    "fa": "چرا صدات گرفته؟",
+    "en": "Why is your voice hoarse?"
+  },
+  {
+    "id": 616,
+    "fa": "بلندتر صحبت کن",
+    "en": "Speak up"
+  },
+  {
+    "id": 617,
+    "fa": "زیر لب صحبت نکن",
+    "en": "Don't mumble"
+  },
+  {
+    "id": 618,
+    "fa": "با خودت چی غرغر میکنی؟",
+    "en": "What are you muttering to yourself?"
+  },
+  {
+    "id": 619,
+    "fa": "اگر سالانه ۱۰۰ هزار دلار درآمد دارید (می سازید)، چقدر از شوهرتان انتظار دارید که درآمد داشته باشد؟",
+    "en": "If you are making 100k a year, how much would you expect your man to make?"
+  },
+  {
+    "id": 620,
+    "fa": "من در طبقه بالا یا پایین زندگی نمی کنم، من در طبقه همکف زندگی می کنم",
+    "en": "I do not live upstairs or downstairs, I live on the ground floor"
   }
 ]
