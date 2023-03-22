@@ -31,8 +31,9 @@
   },
   {
     "id": 507,
-    "fa": "فکر می کردم به من کمک می کنی اما نکردی",
-    "en": "I thought you would help me but you didn't"
+    "fa": "فکر می کردم به من کمک خواهی کرد اما نکردی",
+    "en": "I thought you would help me but you didn't",
+    "desc": "The use of \"would\" indicates that the speaker is describing their thoughts or beliefs about the future, rather than a certainty or fact."
   },
   {
     "id": 508,
@@ -66,12 +67,12 @@
   },
   {
     "id": 514,
-    "fa": "گفت (مرد) میشه دقیقا بگی کجا درد میکنه",
+    "fa": "گفت (مرد) میشه دقیقا به من بگی کجا درد میکنه",
     "en": "He said can you tell me exactly where it hurts"
   },
   {
     "id": 515,
-    "fa": "من فکر می کردم مردم فقط برای پول شغلها را عوض می کنند ",
+    "fa": "من عادت داشتم که اینطور فکر کنم مردم فقط برای پول شغلها را عوض می کنند ",
     "en": "I used to think people switch jobs for money only"
   },
   {
@@ -181,7 +182,7 @@
   },
   {
     "id": 537,
-    "fa": "بد خلق خواهد شد اگر او را از خوابش بیدار کنی",
+    "fa": "او (زن) بد خلق خواهد شد اگر او را از چرتش بیدار کنی",
     "en": "She'll be grumpy if you wake her up from her nap"
   },
   {
@@ -207,7 +208,8 @@
   {
     "id": 542,
     "fa": "کارام داره تلنبار میشه",
-    "en": "My work is piling up"
+    "en": "My work is piling up",
+    "desc": "\"My work\" is a singular noun phrase that refers to all the tasks and responsibilities that the speaker needs to complete, which are piling up or accumulating over time."
   },
   {
     "id": 543,
@@ -366,7 +368,7 @@
   },
   {
     "id": 574,
-    "fa": "امروز از خانه کار خواهم کرد, من هنوز کم و بیش تب دارم",
+    "fa": "من قراره امروز از خانه کار کنم, من هنوز کم و بیش تب دارم",
     "en": "I will be working from home today, I still have on and off fever"
   },
   {
@@ -598,5 +600,20 @@
     "id": 620,
     "fa": "من در طبقه بالا یا پایین زندگی نمی کنم، من در طبقه همکف زندگی می کنم",
     "en": "I do not live upstairs or downstairs, I live on the ground floor"
+  },
+  {
+    "id": 621,
+    "fa": "لطفاً دریغ نکنید در تماس با من اگر شما سوالات دیگری دارید",
+    "en": "Please don't hesitate to reach me out if you have any further questions"
+  },
+  {
+    "id": 622,
+    "fa": "لطفا اگر در مورد چیز دیگری به کمک نیاز دارید به من اطلاع دهید",
+    "en": "Please let me know if you need assistance with anything else"
+  },
+  {
+    "id": 623,
+    "fa": "این یک کار سخت است",
+    "en": "It is a daunting task"
   }
 ]
