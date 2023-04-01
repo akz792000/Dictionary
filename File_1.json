@@ -67,7 +67,7 @@
   },
   {
     "id": 514,
-    "fa": "گفت (مرد) میشه دقیقا به من بگی کجا درد میکنه",
+    "fa": "گفت (مرد) میشه به من بگی دقیقا کجا درد میکنه",
     "en": "He said can you tell me exactly where it hurts"
   },
   {
@@ -413,7 +413,7 @@
   },
   {
     "id": 583,
-    "fa": "حدس می زنم این بک مورد نادر است",
+    "fa": "حدس می زنم این یک مورد نادر است",
     "en": "This is the edge case I guess"
   },
   {
@@ -513,7 +513,7 @@
   },
   {
     "id": 603,
-    "fa": "ماشینت راه همسایه ما را مسدود کرده",
+    "fa": "ماشینت راه ماشین همسایه ما را مسدود کرده",
     "en": "Your car is blocking our neighbor's driveway"
   },
   {
@@ -613,7 +613,67 @@
   },
   {
     "id": 623,
-    "fa": "این یک کار سخت است",
+    "fa": "این یک کار طاقت فرسا است",
     "en": "It is a daunting task"
+  },
+  {
+    "id": 624,
+    "fa": "لطفاً راه های جایگزین برای آمدن به دفتر یا رسیدن به مقصد نهایی خود در سراسر کشور را در نظر بگیرید",
+    "en": "Please consider alternative ways of coming to the office or reaching your final destination nationwide"
+  },
+  {
+    "id": 625,
+    "fa": "با خیال راحت با من تماس بگیر",
+    "en": "Feel free to call me"
+  },
+  {
+    "id": 626,
+    "fa": "با خیال راحت سر بزنید (ملاقات کردن)",
+    "en": "Feel free to come around"
+  },
+  {
+    "id": 627,
+    "fa": "شاید من زودتر از تو این کار را کردم",
+    "en": "Maybe I did it earlier than you"
+  },
+  {
+    "id": 628,
+    "fa": "چرا باید خودم را عذاب بدهم که اینطور تلفظ کنم",
+    "en": "Why should I torture myself to pronounce like this"
+  },
+  {
+    "id": 629,
+    "fa": "او در کنار من است",
+    "en": "He is next to me"
+  },
+  {
+    "id": 630,
+    "fa": "مدتی طول کشید تا از دست دادن پدرم کنار بیایم",
+    "en": "It took me a while to get over the loss of my father"
+  },
+  {
+    "id": 631,
+    "fa": "رهبری به معنای مسئول بودن نیست. رهبری مراقبت از کسانی است که شما مسئولیت آنان را بر عهده دارید",
+    "en": "Leadership is not about being in charge. Leadership is about taking care of those in your charge"
+  },
+  {
+    "id": 632,
+    "fa": "من به رانندگی در سمت راست عادت کردم",
+    "en": "I get used to driving on the right"
+  },
+  {
+    "id": 633,
+    "fa": "چرا برخی از کارمندان چندش آور هرگز اخراج نمی شوند؟",
+    "en": "Why do some horrible employees never get fired?"
+  },
+  {
+    "id": 634,
+    "fa": "من کف پام صافه",
+    "en": "I have flat soles"
+  },
+  {
+    "id": 635,
+    "fa": "فکر میکردم او واقعاً از من خوشش میآد، اما روز بعد به من بی مهلی کرد",
+    "en": "I thought he really liked me, but the next day he gave me the cold shoulder"
   }
 ]
