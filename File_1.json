@@ -77,12 +77,12 @@
   },
   {
     "id": 516,
-    "fa": "معتقدم اکثر مردم به دنبال احترام و آرامش ذهنی هستند",
+    "fa": "معتقدم اکثر مردم دارن به دنبال احترام و آرامش ذهنی می گردند",
     "en": "I believe most people are looking for respect and mental peace"
   },
   {
     "id": 517,
-    "fa": "عوارض جانبی هم داره؟",
+    "fa": "هرگونه عوارض جانبی هم داره؟",
     "en": "Does it have any side effect?"
   },
   {
@@ -207,7 +207,7 @@
   },
   {
     "id": 542,
-    "fa": "کارام داره تلنبار میشه",
+    "fa": "کارم داره تلنبار میشه",
     "en": "My work is piling up",
     "desc": "\"My work\" is a singular noun phrase that refers to all the tasks and responsibilities that the speaker needs to complete, which are piling up or accumulating over time."
   },
@@ -673,7 +673,17 @@
   },
   {
     "id": 635,
-    "fa": "فکر میکردم او واقعاً از من خوشش میآد، اما روز بعد به من بی مهلی کرد",
+    "fa": "فکر میکردم او (مرد) واقعاً از من خوشش میاد، اما روز بعد به من بی مهلی کرد",
     "en": "I thought he really liked me, but the next day he gave me the cold shoulder"
+  },
+  {
+    "id": 636,
+    "fa": "توپ های تنیس روی میز چگونه ساخته می شوند؟",
+    "en": "How table tennis balls are made?"
+  },
+  {
+    "id": 637,
+    "fa": "علی در کدام ایالت بایرن است؟",
+    "en": "In which state in Bavaria is Ali?"
   }
 ]
