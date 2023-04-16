@@ -106,7 +106,7 @@
   },
   {
     "id": 22,
-    "fa": "من به هیچ وجه شک ندارم که چقدر قوی هستی",
+    "fa": "من به هیچ وجه شک نمی کنم که چقدر قوی هستی",
     "en": "I am not doubting how strong you are by any means"
   },
   {
@@ -222,7 +222,8 @@
   {
     "id": 45,
     "fa": "من اینجا به دنیا آمدم و بزرگ شدم",
-    "en": "I was born and grown up here"
+    "en": "I was born and grow up here",
+    "desc": "The verb \"to be grown up\" is not typically used in the passive voice, and it is not clear who or what is doing the growing up. It is more natural to use the active voice and say \"I grew up here\" to convey the same meaning. Additionally, \"born\" is not typically used in the present tense."
   },
   {
     "id": 46,
@@ -2191,7 +2192,7 @@
   },
   {
     "id": 439,
-    "fa": "ولش کن",
+    "fa": "بزار بره",
     "en": "Let it go"
   },
   {
