@@ -7,16 +7,121 @@
   {
     "id": 10002,
     "en": "Good day",
-    "de": "Guten Tag"
+    "de": "Guten tag"
   },
   {
     "id": 10003,
     "en": "Good evening",
-    "de": "Guten Abend"
+    "de": "Guten abend"
   },
   {
     "id": 10004,
     "en": "Good night",
     "de": "Gute nacht"
+  },
+  {
+    "id": 10005,
+    "en": "Bye",
+    "de": "Tschüss"
+  },
+  {
+    "id": 10006,
+    "en": "Excuse me",
+    "de": "Entschuldigung"
+  },
+  {
+    "id": 10007,
+    "en": "Hope to see you",
+    "de": "Auf Wiedersehen"
+  },
+  {
+    "id": 10008,
+    "en": "Hope to hear you",
+    "de": "Auf Wiederhören"
+  },
+  {
+    "id": 10009,
+    "en": "No Problem",
+    "de": "Kein Problem!"
+  },
+  {
+    "id": 10010,
+    "en": "Where do you come from?",
+    "de": "Woher kommst du?"
+  },
+  {
+    "id": 10011,
+    "en": "Who are you?",
+    "de": "Wer bist du?"
+  },
+  {
+    "id": 10012,
+    "en": "Which ones do you know?",
+    "de": "Welche kennen Sie?"
+  },
+  {
+    "id": 10013,
+    "en": "Who says that?",
+    "de": "Wer sagt das?"
+  },
+  {
+    "id": 10014,
+    "en": "Where do you live now?",
+    "de": "Wo wohnst du jetzt?"
+  },
+  {
+    "id": 10015,
+    "en": "What's your name?",
+    "de": "Wie heißt du?"
+  },
+  {
+    "id": 10016,
+    "en": "My name is Ali",
+    "de": "Ich heiße Ali"
+  },
+  {
+    "id": 10017,
+    "en": "What is your first name?",
+    "de": "Wie ist Ihr Vorname?"
+  },
+  {
+    "id": 10018,
+    "en": "My name is Ali and I come from Iran and now live in Munich.",
+    "de": "Ich heiße Ali und komme aus dem Iran und wohne jetzt in München"
+  },
+  {
+    "id": 10019,
+    "en": "Welcome!",
+    "de": "Herzlich willkommen!"
+  },
+  {
+    "id": 10020,
+    "en": "One more time slowly please",
+    "de": "Bitte noch einmal langsam"
+  },
+  {
+    "id": 10021,
+    "en": "The phone number is wrong",
+    "de": "Die Telefonnummer ist falsch"
+  },
+  {
+    "id": 10022,
+    "en": "Don't ask questions",
+    "de": "Stell keine Fragen"
+  },
+  {
+    "id": 10023,
+    "en": "Get well soon!",
+    "de": "Gute Besserung!"
+  },
+  {
+    "id": 10024,
+    "en": "Where are these people coming from?",
+    "de": "Woher kommen die Personen?"
+  },
+  {
+    "id": 10025,
+    "en": "Registration in the company",
+    "de": "Anmeldung in der Firma"
   }
 ]
