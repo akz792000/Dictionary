@@ -1,0 +1,22 @@
+[
+  {
+    "id": 10001,
+    "en": "Good Morning",
+    "de": "Guten morgen"
+  },
+  {
+    "id": 10002,
+    "en": "Good day",
+    "de": "Guten Tag"
+  },
+  {
+    "id": 10003,
+    "en": "Good evening",
+    "de": "Guten Abend"
+  },
+  {
+    "id": 10004,
+    "en": "Good night",
+    "de": "Gute nacht"
+  }
+]

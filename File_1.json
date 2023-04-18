@@ -685,5 +685,52 @@
     "id": 637,
     "fa": "علی در کدام ایالت بایرن است؟",
     "en": "In which state in Bavaria is Ali?"
+  },
+  {
+    "id": 638,
+    "fa": "خیلی لوس و بی مزه است",
+    "en": "That is way too cheesy"
+  },
+  {
+    "id": 639,
+    "fa": "من واقعا نمی دانم این فیلم ها چگونه ساخته شده اند",
+    "en": "I don't really know how these films were made"
+  },
+  {
+    "id": 640,
+    "fa": "روز اول فیلمبرداری تام, چه کردیم؟",
+    "en": "The first day of shooting Tom what did we do?"
+  },
+  {
+    "id": 641,
+    "fa": "از ساختمان پریدیم",
+    "en": "We jumped off the building",
+    "desc": "The word \"off\" is a preposition that is used to indicate movement from a surface, and in this case, it indicates the action of jumping away from the surface of the building.\n\nOn the other hand, \"of\" is a preposition that indicates a relationship between two nouns or pronouns, such as \"the roof of the building.\" Using \"of\" instead of \"off\" in this sentence would be grammatically incorrect and would change the meaning of the sentence."
+  },
+  {
+    "id": 642,
+    "fa": "باورم نمیشه که تسلیم شدی",
+    "en": "I can't believe you caved",
+    "desc": "If someone had a strong opinion about a particular issue, but ultimately changed their mind and agreed with someone else's viewpoint, the other person might say \"I can't believe you caved.\" This expression implies that the person who changed their mind was weak or lacked conviction in their beliefs."
+  },
+  {
+    "id": 643,
+    "fa": "من تکامل را رد نمی کنم",
+    "en": "I am not denying evolution"
+  },
+  {
+    "id": 644,
+    "fa": "آیا داری به من می گی که آنقدر به طور باورنکردنی مغرور هستی که نمی تونی قبول کنی که احتمال ناچیزی وجود دارد که در این مورد اشتباه کنی؟",
+    "en": "Are you telling me that you are so unbelievably arrogant that you can't admit that there is a teeny tiny possibility that you could be wrong about this?"
+  },
+  {
+    "id": 645,
+    "fa": "رفیق بی صدا هستی",
+    "en": "You are on mute buddy"
+  },
+  {
+    "id": 646,
+    "fa": "این از طرف من خواهد بود",
+    "en": "That would be it from my site"
   }
 ]
