@@ -192,7 +192,8 @@
   {
     "id": 39,
     "fa": "ترجیح می دم خانه بمانم",
-    "en": "I'd rather stay at home"
+    "en": "I'd rather stay at home",
+    "desc": "\"I would rather stay at home\" and \"I would prefer to stay at home\" have a similar meaning and both express a preference for staying at home. However, \"rather\" implies a stronger preference than \"prefer to\"."
   },
   {
     "id": 40,
@@ -372,7 +373,7 @@
   },
   {
     "id": 75,
-    "fa": "آیا الان داری دارو مصرف میکنی؟",
+    "fa": "آیا الان داری هر دارویی را مصرف میکنی؟",
     "en": "Are you taking any medicine now?"
   },
   {
@@ -462,7 +463,7 @@
   },
   {
     "id": 93,
-    "fa": "بقیش چی شد؟",
+    "fa": "چه اتفاقی افتاد برای بقیش؟",
     "en": "What happened to the rest of it?"
   },
   {
@@ -597,7 +598,7 @@
   },
   {
     "id": 120,
-    "fa": "بلی فقط به یک شرط",
+    "fa": "فقط به یک شرط",
     "en": "Only on one condition"
   },
   {
@@ -723,7 +724,8 @@
   {
     "id": 145,
     "fa": "چرا چند روز مرخصی نمیگیری؟",
-    "en": "Why don't you take a few days off?"
+    "en": "Why don't you take a few days off?",
+    "desc": "Both \"Why don't you take a few days off\" and \"Why don't you take some days off\" express a similar idea of suggesting someone to take a break from work or other obligations for a certain number of days.\n\nThe main difference between the two sentences is the specific number of days being suggested. \"A few\" implies a small, indefinite number of days, usually between two to four, whereas \"some\" is more general and can refer to any number of days."
   },
   {
     "id": 146,
@@ -1018,7 +1020,8 @@
   {
     "id": 204,
     "fa": "چت شده؟",
-    "en": "What's the matter with you?"
+    "en": "What's the matter with you?",
+    "desc": "In contrast, \"What is matter with you?\" would not be considered correct English. The phrase is missing the article \"the\" and sounds awkward and incomplete."
   },
   {
     "id": 205,
@@ -1027,7 +1030,7 @@
   },
   {
     "id": 206,
-    "fa": "دو ساعت طول کشید تا برسم اونجا",
+    "fa": "دو ساعت طول کشید برای من تا برسم اونجا",
     "en": "It took me two hours to get there"
   },
   {
@@ -1203,7 +1206,7 @@
   {
     "id": 241,
     "fa": "جریمه برای ریختن آشغال",
-    "en": "Fines for dropping litter"
+    "en": "Fine for dropping litter"
   },
   {
     "id": 242,
@@ -1218,7 +1221,8 @@
   {
     "id": 244,
     "fa": "من یک وام رو خونم دارم",
-    "en": "I have a mortgage on my house"
+    "en": "I have a mortgage on my house",
+    "desc": "A mortgage is a type of loan that's used to finance property"
   },
   {
     "id": 245,
@@ -1348,7 +1352,8 @@
   {
     "id": 270,
     "fa": "بیشتر بچه ها شکلات دوست دارند",
-    "en": "Most children like chocolate"
+    "en": "Most children like chocolate",
+    "desc": "Instead of most children if we used most of the children it means that you are talking about a specific group of children"
   },
   {
     "id": 271,
@@ -1603,7 +1608,8 @@
   {
     "id": 321,
     "fa": "می تونی منو ساعت 7 بیدار کنی",
-    "en": "Can you wake me up at 7 o'clock"
+    "en": "Can you wake me up at 7 o'clock",
+    "desc": "\"Wake up\" is about the transition from sleeping to being awake, while \"Get up\" is about physically leaving the bed or chair to start the day's activities"
   },
   {
     "id": 322,
@@ -1617,8 +1623,8 @@
   },
   {
     "id": 324,
-    "fa": "من دارم فردا مرخصی میگیرم",
-    "en": "I am taking a vacation tomorrow"
+    "fa": "سیستم خرابه",
+    "en": "The system sucks"
   },
   {
     "id": 325,
@@ -1897,7 +1903,7 @@
   },
   {
     "id": 380,
-    "fa": "بقیه چی؟",
+    "fa": "بقیه اش چی؟",
     "en": "What about the rest?"
   },
   {
@@ -1962,7 +1968,7 @@
   },
   {
     "id": 393,
-    "fa": "تمام چیزی که دارم می گم این است که ...",
+    "fa": "تمام چیزی که دارم می گم این است ...",
     "en": "All I am saying is ..."
   },
   {
@@ -2103,7 +2109,8 @@
   {
     "id": 421,
     "fa": "چقدر طول می کشد تا با اتوبوس بروی؟",
-    "en": "How long does it take to go by bus?"
+    "en": "How long does it take to go by bus?",
+    "desc": "the main difference between the two phrases is that \"How long does it take?\" is asking about the duration of time, while \"How much does it take?\" is asking about the amount of resources or materials required."
   },
   {
     "id": 422,

@@ -67,7 +67,7 @@
   },
   {
     "id": 514,
-    "fa": "گفت (مرد) میشه به من بگی دقیقا کجا درد میکنه",
+    "fa": "گفت (مرد) میتونی به من بگی دقیقا کجا درد میکنه",
     "en": "He said can you tell me exactly where it hurts"
   },
   {
@@ -133,7 +133,8 @@
   {
     "id": 527,
     "fa": "برای امرار معاش چه کار می کنی؟",
-    "en": "What do you do for a living?"
+    "en": "What do you do for a living?",
+    "desc": "The correct phrase is \"What do you do for a living?\" The addition of the article \"a\" is important because it is part of the idiomatic expression \"for a living,\" which means \"what is your job or profession?\""
   },
   {
     "id": 528,
@@ -193,7 +194,7 @@
   {
     "id": 539,
     "fa": "به نظرم انتخاب درستیه",
-    "en": "I think it's a right choice"
+    "en": "I guess it's a right choice"
   },
   {
     "id": 540,
@@ -508,7 +509,7 @@
   },
   {
     "id": 602,
-    "fa": "یه تاکسی گرفتی برای آرایشگاه",
+    "fa": "یه تاکسی گرفتی برای اون آرایشگاه",
     "en": "Do you take a taxi to the hairdresser?"
   },
   {
@@ -613,8 +614,9 @@
   },
   {
     "id": 623,
-    "fa": "این یک کار طاقت فرسا است",
-    "en": "It is a daunting task"
+    "fa": "این یک کار طاقت فرسا (دلهره آور) است",
+    "en": "It is a daunting task",
+    "desc" : "Seeming difficult to deal with in anticipation; intimidating."
   },
   {
     "id": 624,
@@ -698,8 +700,8 @@
   },
   {
     "id": 640,
-    "fa": "روز اول فیلمبرداری تام, چه کردیم؟",
-    "en": "The first day of shooting Tom what did we do?"
+    "fa": "هرگز اولین شرکت خود را که به شما فرصتی برای شروع کارتان داد فراموش نکنید",
+    "en": "Never forget your 1st company that gave you chance to start your career"
   },
   {
     "id": 641,
@@ -732,5 +734,15 @@
     "id": 646,
     "fa": "این از طرف من خواهد بود",
     "en": "That would be it from my site"
+  },
+  {
+    "id": 647,
+    "fa": "به دلیل اعتصاب در روز جمعه در ترددهای بین شهری و منطقه ای در سراسر کشور تاخیر و لغو قطار وجود دارد",
+    "en": "Due to a strike there will be delays and train cancellations in long-distance and regional traffic nationwide on Friday"
+  },
+  {
+    "id": 648,
+    "fa": "چقدر برای خرید یک ماشین جدید نیاز است؟",
+    "en": "How much does it take to buy a new car?"
   }
 ]
