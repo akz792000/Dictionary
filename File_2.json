@@ -123,5 +123,17 @@
     "id": 10025,
     "en": "Registration in the company",
     "de": "Anmeldung in der Firma"
+  },
+  {
+    "id": 10026,
+    "en": "Do you read with pleasure? Ja, I read with pleasure",
+    "de": "Liest (لیست) du gerne (گِرنِ)? Ja, Ich lese (لیزِ) gerne",
+    "desc": "Gerne: glad, with pleasure (adverb)"
+  },
+  {
+    "id": 10027,
+    "en": "Which type of books do you read? I mainly read biographies",
+    "de": "Welche (وِلچِ) Art von (فُن) Büchern (بًشِرن) liest du? Ich lese hauptsächlich (هاپت زِشلیش) Biografien (بیوگ قافین)",
+    "desc": "Art: type - hauptsächlich: mainly (adverb)"
   }
 ]
