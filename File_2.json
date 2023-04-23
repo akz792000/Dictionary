@@ -22,22 +22,22 @@
   {
     "id": 10005,
     "en": "Bye",
-    "de": "Tschüss"
+    "de": "Tschüss (چ)"
   },
   {
     "id": 10006,
     "en": "Excuse me",
-    "de": "Entschuldigung"
+    "de": "Entschuldigung (چ)"
   },
   {
     "id": 10007,
     "en": "Hope to see you",
-    "de": "Auf Wiedersehen"
+    "de": "Auf Wiedersehen (ویدازین)"
   },
   {
     "id": 10008,
     "en": "Hope to hear you",
-    "de": "Auf Wiederhören"
+    "de": "Auf Wiederhören (ویداهُقِن)"
   },
   {
     "id": 10009,
@@ -47,42 +47,42 @@
   {
     "id": 10010,
     "en": "Where do you come from?",
-    "de": "Woher kommst du?"
+    "de": "Woher kommst du? (وُهِ کُمست دو)"
   },
   {
     "id": 10011,
     "en": "Who are you?",
-    "de": "Wer bist du?"
+    "de": "Wer bist du? (وِر بیست دو)"
   },
   {
     "id": 10012,
     "en": "Which ones do you know?",
-    "de": "Welche kennen Sie?"
+    "de": "Welche (وِلشِ) kennen Sie?"
   },
   {
     "id": 10013,
     "en": "Who says that?",
-    "de": "Wer sagt das?"
+    "de": "Wer sagt (زاگت) das?"
   },
   {
     "id": 10014,
     "en": "Where do you live now?",
-    "de": "Wo wohnst du jetzt?"
+    "de": "Wo wohnst (وُنست) du jetzt? (یِتست)"
   },
   {
     "id": 10015,
     "en": "What's your name?",
-    "de": "Wie heißt du?"
+    "de": "Wie heißt (هایست) du?"
   },
   {
     "id": 10016,
     "en": "My name is Ali",
-    "de": "Ich heiße Ali"
+    "de": "Ich heiße (هایسِ) Ali"
   },
   {
     "id": 10017,
     "en": "What is your first name?",
-    "de": "Wie ist Ihr Vorname?"
+    "de": "Wie ist Ihr (ای یا) Vorname?"
   },
   {
     "id": 10018,
@@ -97,7 +97,7 @@
   {
     "id": 10020,
     "en": "One more time slowly please",
-    "de": "Bitte noch einmal langsam"
+    "de": "Bitte noch einmal langsam (لانگ زام)"
   },
   {
     "id": 10021,
@@ -107,17 +107,17 @@
   {
     "id": 10022,
     "en": "Don't ask questions",
-    "de": "Stell keine Fragen"
+    "de": "Stell (اِشتِل) keine Fragen (فِقاگِن)"
   },
   {
     "id": 10023,
     "en": "Get well soon!",
-    "de": "Gute Besserung!"
+    "de": "Gute Besserung! (بِسِقًنگ)"
   },
   {
     "id": 10024,
     "en": "Where are these people coming from?",
-    "de": "Woher kommen die Personen?"
+    "de": "Woher (وُه) kommen die Personen? (پِرزُنِن)"
   },
   {
     "id": 10025,
@@ -135,5 +135,20 @@
     "en": "Which type of books do you read? I mainly read biographies",
     "de": "Welche (وِلچِ) Art von (فُن) Büchern (بًشِرن) liest du? Ich lese hauptsächlich (هاپت زِشلیش) Biografien (بیوگ قافین)",
     "desc": "Art: type - hauptsächlich: mainly (adverb)"
+  },
+  {
+    "id": 10028,
+    "en": "Are you angry? No, I'm not angry",
+    "de": "Bist du wütend? (ووتِند) Nein, Ich bin nicht (نیشت) wütend"
+  },
+  {
+    "id": 10029,
+    "en": "I was just lost in thought",
+    "de": "Ich war (وا) nur (نو) in Gedanken versunken (فِزونکِن)"
+  },
+  {
+    "id": 10030,
+    "en": "It seemed like something was bothering you earlier",
+    "de": "Es schien (شین), als (آلس) ob dich (دیش) vorhin (فُهین) etwas beunruhigt (بِ اون قو ایشت) hat (هات)"
   }
 ]
