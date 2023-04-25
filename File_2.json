@@ -57,32 +57,32 @@
   {
     "id": 10012,
     "en": "Which ones do you know?",
-    "de": "Welche (وِلشِ) kennen Sie?"
+    "de": "Welche kennen Sie? (وِلشِ)"
   },
   {
     "id": 10013,
     "en": "Who says that?",
-    "de": "Wer sagt (زاگت) das?"
+    "de": "Wer sagt das? (زاگت)"
   },
   {
     "id": 10014,
     "en": "Where do you live now?",
-    "de": "Wo wohnst (وُنست) du jetzt? (یِتست)"
+    "de": "Wo wohnst du jetzt? (وُنست) (یِتست)"
   },
   {
     "id": 10015,
     "en": "What's your name?",
-    "de": "Wie heißt (هایست) du?"
+    "de": "Wie heißt du? (هایست)"
   },
   {
     "id": 10016,
     "en": "My name is Ali",
-    "de": "Ich heiße (هایسِ) Ali"
+    "de": "Ich heiße Ali (هایسِ)"
   },
   {
     "id": 10017,
     "en": "What is your first name?",
-    "de": "Wie ist Ihr (ای یا) Vorname?"
+    "de": "Wie ist Ihr Vorname? (ای یا)"
   },
   {
     "id": 10018,
@@ -107,7 +107,7 @@
   {
     "id": 10022,
     "en": "Don't ask questions",
-    "de": "Stell (اِشتِل) keine Fragen (فِقاگِن)"
+    "de": "Stell keine Fragen (اِشتِل) (فِقاگِن)"
   },
   {
     "id": 10023,
@@ -117,7 +117,7 @@
   {
     "id": 10024,
     "en": "Where are these people coming from?",
-    "de": "Woher (وُه) kommen die Personen? (پِرزُنِن)"
+    "de": "Woher kommen die Personen? (وُه) (پِرزُنِن)"
   },
   {
     "id": 10025,
@@ -127,28 +127,59 @@
   {
     "id": 10026,
     "en": "Do you read with pleasure? Ja, I read with pleasure",
-    "de": "Liest (لیست) du gerne (گِرنِ)? Ja, Ich lese (لیزِ) gerne",
+    "de": "Liest du gerne? Ja, Ich lese gerne (لیست) (گِرنِ) (لیزِ)",
     "desc": "Gerne: glad, with pleasure (adverb)"
   },
   {
     "id": 10027,
     "en": "Which type of books do you read? I mainly read biographies",
-    "de": "Welche (وِلچِ) Art von (فُن) Büchern (بًشِرن) liest du? Ich lese hauptsächlich (هاپت زِشلیش) Biografien (بیوگ قافین)",
+    "de": "Welche Art von Büchern liest du? Ich lese hauptsächlich Biografien (بیوگ قافین) (وِلچِ) (فُن) (بًشِرن) (هاپت زِشلیش)",
     "desc": "Art: type - hauptsächlich: mainly (adverb)"
   },
   {
     "id": 10028,
     "en": "Are you angry? No, I'm not angry",
-    "de": "Bist du wütend? (ووتِند) Nein, Ich bin nicht (نیشت) wütend"
+    "de": "Bist du wütend? Nein, Ich bin nicht wütend (ووتِند) (نیشت)"
   },
   {
     "id": 10029,
     "en": "I was just lost in thought",
-    "de": "Ich war (وا) nur (نو) in Gedanken versunken (فِزونکِن)"
+    "de": "Ich war nur in Gedanken versunken (وا) (فِزونکِن) (نو)"
   },
   {
     "id": 10030,
     "en": "It seemed like something was bothering you earlier",
-    "de": "Es schien (شین), als (آلس) ob dich (دیش) vorhin (فُهین) etwas beunruhigt (بِ اون قو ایشت) hat (هات)"
+    "de": "Es schien, als ob dich vorhin etwas beunruhigt hat (هات) (شین) (آلس) (دیش) (فُهین) (بِ اون قو ایشت)"
+  },
+  {
+    "id": 10031,
+    "en": "See you later",
+    "de": "Bis Später (اِشپِتا)"
+  },
+  {
+    "id": 10032,
+    "en": "See you tomorrow",
+    "de": "Bis morgen"
+  },
+  {
+    "id": 10033,
+    "en": "How are you doing? Good, and you? Bad",
+    "de": "Wie geht es dir? Gut, und dir? Schlecht (informal) (اِش لِشت) (گوت دیِ) (وی گِت اِس دیِ)"
+  },
+  {
+    "id": 10034,
+    "en": "How are you doing?",
+    "de": "Wie geht es Ihnen? (formal) (وی گِت اِس اینِن)"
+  },
+  {
+    "id": 10035,
+    "en": "I am Ali",
+    "de": "Ich bin Ali"
+  },
+  {
+    "id": 10036,
+    "en": "Where do you come from?",
+    "de": "Wo kommst du her? (هیِ)",
+    "desc": "Woher kommst du? ← That's the verb kommen.\n\nWo kommst du her? ← That's the verb herkommen.\n\nThe meaning is similar."
   }
 ]
