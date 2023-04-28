@@ -148,8 +148,8 @@
   },
   {
     "id": 10030,
-    "en": "It seemed like something was bothering you earlier",
-    "de": "Es schien, als ob dich vorhin etwas beunruhigt hat (هات) (شین) (آلس) (دیش) (فُهین) (بِ اون قو ایشت)"
+    "en": "I am tired",
+    "de": "Ich bin müde"
   },
   {
     "id": 10031,
@@ -163,13 +163,13 @@
   },
   {
     "id": 10033,
-    "en": "How are you doing? Good, and you? Bad",
-    "de": "Wie geht es dir? Gut, und dir? Schlecht (informal) (اِش لِشت) (گوت دیِ) (وی گِت اِس دیِ)"
+    "en": "How are you doing? (informal) Good, and you? Bad",
+    "de": "Wie geht es dir? Gut, und dir? Schlecht (اِش لِشت) (گوت دیِ) (وی گِت اِس دیِ)"
   },
   {
     "id": 10034,
-    "en": "How are you doing?",
-    "de": "Wie geht es Ihnen? (formal) (وی گِت اِس اینِن)"
+    "en": "How are you doing? (formal)",
+    "de": "Wie geht es Ihnen? (وی گِت اِس اینِن)"
   },
   {
     "id": 10035,
@@ -178,8 +178,44 @@
   },
   {
     "id": 10036,
-    "en": "Where do you come from?",
-    "de": "Wo kommst du her? (هیِ)",
+    "en": "Where do you come from? I come from Germany. Funny, I do too",
+    "de": "Wo kommst du her? Ich komme aus Deutschland. Witzig, ich auch (هیِ) (ویتزیش ایش آوخ)",
     "desc": "Woher kommst du? ← That's the verb kommen.\n\nWo kommst du her? ← That's the verb herkommen.\n\nThe meaning is similar."
+  },
+  {
+    "id": 10037,
+    "en": "I am cold",
+    "de": "Mir ist kalt (میِ)"
+  },
+  {
+    "id": 10038,
+    "en": "I am warm",
+    "de": "Mir ist warm (میِ)"
+  },
+  {
+    "id": 10039,
+    "en": "I am hungry",
+    "de": "Ich habe Hunger"
+  },
+  {
+    "id": 10040,
+    "en": "I am thirsty",
+    "de": "Ich habe Durst"
+  },
+  {
+    "id": 10041,
+    "en": "I am full",
+    "de": "Ich bin satt (زات)"
+  },
+  {
+    "id": 10042,
+    "en": "I have to go to the loo",
+    "de": "Ich muss aufs Klo (آفس) (کُلُ)"
+  },
+  {
+    "id": 10043,
+    "en": "I am looking for a toilet",
+    "de": "Ich suche eine Toilette"
   }
+
 ]

@@ -604,7 +604,7 @@
   },
   {
     "id": 621,
-    "fa": "لطفاً دریغ نکنید در تماس با من اگر شما سوالات دیگری دارید",
+    "fa": "لطفاً دریغ نکنید در تماس با من اگر شما سوالات دیگر بیشتری دارید",
     "en": "Please don't hesitate to reach me out if you have any further questions"
   },
   {
@@ -744,5 +744,25 @@
     "id": 648,
     "fa": "چقدر برای خرید یک ماشین جدید نیاز است؟",
     "en": "How much does it take to buy a new car?"
+  },
+  {
+    "id": 649,
+    "fa": "تلاش برای اینکه او درباره احساساتش صحبت کند، مثل کشیدن دندان است",
+    "en": "Trying to get him to talk about his feelings is like pulling teeth"
+  },
+  {
+    "id": 650,
+    "fa": "دکتر چند سال پیش دندان های آسیاب بالای من را کشید",
+    "en": "The doctor pulled my upper molars a few years ago"
+  },
+  {
+    "id": 651,
+    "fa": "لطفا در هنگام پیاده شدن به رانندگان و دوچرخه سواران توجه کنید",
+    "en": "Please pay attention to Motorists and Cyclists when getting off"
+  },
+  {
+    "id": 652,
+    "fa": "چقدر طول می کشد تا نوبت من شه؟",
+    "en": "How long will it take for my turn?"
   }
 ]
