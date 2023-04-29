@@ -56,7 +56,7 @@
   },
   {
     "id": 10012,
-    "en": "Which ones do you know?",
+    "en": "Which ones do you know? (formal)",
     "de": "Welche kennen Sie? (وِلشِ)"
   },
   {
@@ -66,22 +66,22 @@
   },
   {
     "id": 10014,
-    "en": "Where do you live now?",
+    "en": "Where do you live now? (informal)",
     "de": "Wo wohnst du jetzt? (وُنست) (یِتست)"
   },
   {
     "id": 10015,
-    "en": "What's your name?",
+    "en": "What's your name? (informal)",
     "de": "Wie heißt du? (هایست)"
   },
   {
     "id": 10016,
-    "en": "My name is Ali",
-    "de": "Ich heiße Ali (هایسِ)"
+    "en": "My name is Ilia",
+    "de": "Ich heiße Ilia (هایسِ)"
   },
   {
     "id": 10017,
-    "en": "What is your first name?",
+    "en": "What's your first name? (plural)",
     "de": "Wie ist Ihr Vorname? (ای یا)"
   },
   {
@@ -185,7 +185,8 @@
   {
     "id": 10037,
     "en": "I am cold",
-    "de": "Mir ist kalt (میِ)"
+    "de": "Mir ist kalt (میِ)",
+    "desc": "In German, the verb \"haben\" (to have) is often used to express physical states and needs, such as hunger, thirst, or pain. So, when you say \"Ich habe Hunger,\" you are literally saying \"I have hunger\" in English.\n\nOn the other hand, the phrase \"Mir ist kalt\" (literally, \"to me is cold\") is used to express sensations such as cold or warmth, rather than physical needs. This construction uses the dative case, which is used to indicate the indirect object of a sentence. In this case, \"mir\" (to me) is the indirect object, and \"kalt\" (cold) is the subject of the sentence."
   },
   {
     "id": 10038,
@@ -195,7 +196,8 @@
   {
     "id": 10039,
     "en": "I am hungry",
-    "de": "Ich habe Hunger"
+    "de": "Ich habe Hunger",
+    "desc": "\n\"Ich habe\" is the correct and standard form of \"I have\" in German. However, in spoken language or informal writing, it's common to use the contracted form \"Ich hab\" instead of \"Ich habe\"."
   },
   {
     "id": 10040,
@@ -216,6 +218,55 @@
     "id": 10043,
     "en": "I am looking for a toilet",
     "de": "Ich suche eine Toilette"
+  },
+  {
+    "id": 10044,
+    "en": "May I quickly use your toilet?",
+    "de": "Darf ich kurz Ihre Toilette benutzen? (ایقِ)"
+  },
+  {
+    "id": 10045,
+    "en": "How much is it?",
+    "de": "Wie viel kostet das? (وی فیل کُستت داس)"
+  },
+  {
+    "id": 10046,
+    "en": "It costs one euro",
+    "de": "Das kostet einen Euro"
+  },
+  {
+    "id": 10047,
+    "en": "That is cheap",
+    "de": "Das ist billig (بیلیش)"
+  },
+  {
+    "id": 10048,
+    "en": "That is expensive",
+    "de": "Das ist teuer (تُیا)"
+  },
+  {
+    "id": 10049,
+    "en": "Can I pay with card?",
+    "de": "Kann ich mit Karte zahlen? (کان)"
+  },
+  {
+    "id": 10050,
+    "en": "What does this cost?",
+    "de": "Was kostet das?"
+  },
+  {
+    "id": 10051,
+    "en": "You have an appointment tomorrow (formal)",
+    "de": "Sie haben morgen einen Termin"
+  },
+  {
+    "id": 10052,
+    "en": "Parents are responsible for their children!",
+    "de": "Eltern haften für ihre Kinder!"
+  },
+  {
+    "id": 10053,
+    "en": "Hello everyone",
+    "de": "Hallo zusammen"
   }
-
 ]

@@ -139,7 +139,8 @@
   {
     "id": 528,
     "fa": "فقط میخوام مطمئن بشم",
-    "en": "I just want to make sure"
+    "en": "I just want to make sure",
+    "desc": "\"I wanna make sure\" implies that the speaker is going to take some action to ensure that something is true or certain. It suggests that the speaker is actively involved in the process of making sure, and may be checking or verifying something to confirm it.\n\nOn the other hand, \"I wanna be sure\" simply expresses the desire for certainty without necessarily implying any specific action on the part of the speaker. It suggests that the speaker wants to be certain about something, but may not be actively involved in the process of making sure."
   },
   {
     "id": 529,
@@ -255,7 +256,7 @@
   {
     "id": 551,
     "fa": "با چه کسی به اشتراک می گذارید؟",
-    "en": "With whom do you share with?"
+    "en": "With whom do you share?"
   },
   {
     "id": 552,
@@ -340,7 +341,8 @@
   {
     "id": 568,
     "fa": "کسی داره روی این کار می کنه؟",
-    "en": "Is anybody working on this?"
+    "en": "Is anybody working on this?",
+    "desc": "The main difference between \"anyone\" and \"anybody\" is their usage in certain contexts. \"Anyone\" is more commonly used in formal contexts, while \"anybody\" is more commonly used in informal contexts. For example, in a job interview, it would be more appropriate to use \"anyone\" when asking if there are any questions, while in casual conversation with friends, \"anybody\" would be more common.\n\nAnother subtle difference is that \"anyone\" may be used to refer to a group of people, while \"anybody\" is generally used to refer to an individual. For example, \"Anyone who wants to participate can sign up\" refers to a group of people, while \"Does anybody want to come with me?\" refers to an individual person."
   },
   {
     "id": 569,
@@ -509,7 +511,7 @@
   },
   {
     "id": 602,
-    "fa": "یه تاکسی گرفتی برای اون آرایشگاه",
+    "fa": "یه تاکسی گرفتی برای اون آرایشگاه؟",
     "en": "Do you take a taxi to the hairdresser?"
   },
   {
@@ -594,7 +596,7 @@
   },
   {
     "id": 619,
-    "fa": "اگر سالانه ۱۰۰ هزار دلار درآمد دارید (می سازید)، چقدر از شوهرتان انتظار دارید که درآمد داشته باشد؟",
+    "fa": "اگر سالانه ۱۰۰ هزار دلار درآمد دارید (می سازید)، چقدر از مردتان انتظار دارید که درآمد داشته باشد؟",
     "en": "If you are making 100k a year, how much would you expect your man to make?"
   },
   {
@@ -616,7 +618,7 @@
     "id": 623,
     "fa": "این یک کار طاقت فرسا (دلهره آور) است",
     "en": "It is a daunting task",
-    "desc" : "Seeming difficult to deal with in anticipation; intimidating."
+    "desc": "Seeming difficult to deal with in anticipation; intimidating."
   },
   {
     "id": 624,
@@ -711,7 +713,7 @@
   },
   {
     "id": 642,
-    "fa": "باورم نمیشه که تسلیم شدی",
+    "fa": "نمی تونم باور کنم که تسلیم شدی",
     "en": "I can't believe you caved",
     "desc": "If someone had a strong opinion about a particular issue, but ultimately changed their mind and agreed with someone else's viewpoint, the other person might say \"I can't believe you caved.\" This expression implies that the person who changed their mind was weak or lacked conviction in their beliefs."
   },
@@ -742,12 +744,12 @@
   },
   {
     "id": 648,
-    "fa": "چقدر برای خرید یک ماشین جدید نیاز است؟",
+    "fa": "چقدر می بره برای خرید یک ماشین جدید؟",
     "en": "How much does it take to buy a new car?"
   },
   {
     "id": 649,
-    "fa": "تلاش برای اینکه او درباره احساساتش صحبت کند، مثل کشیدن دندان است",
+    "fa": "تلاش برای اینکه او (مرد) درباره احساساتش صحبت کند، مثل کشیدن دندان است",
     "en": "Trying to get him to talk about his feelings is like pulling teeth"
   },
   {
@@ -764,5 +766,42 @@
     "id": 652,
     "fa": "چقدر طول می کشد تا نوبت من شه؟",
     "en": "How long will it take for my turn?"
+  },
+  {
+    "id": 653,
+    "fa": "من مایلم یک رزرو هتل انجام دهم",
+    "en": "I would like to make a hotel reservation"
+  },
+  {
+    "id": 654,
+    "fa": "تا 7 روز قبل از ورود می توانید بدون پرداخت هزینه کنسلی کنسل کنید",
+    "en": "You can cancel without paying cancellation fee until 7 days before arrival"
+  },
+  {
+    "id": 655,
+    "fa": "آیا پولم را پس خواهم گرفت؟",
+    "en": "Will I have my money back?"
+  },
+  {
+    "id": 656,
+    "fa": "یک نفر کیف پولش را روی میز گذاشت",
+    "en": "Someone left their wallet on the table",
+    "desc": "\"Someone\" and \"somebody\" are interchangeable and are used to refer to an unspecified person in a positive, specific or definite manner."
+  },
+  {
+    "id": 657,
+    "fa": "کسی باید کلیدهای مرا گرفته باشد",
+    "en": "Somebody must have taken my keys"
+  },
+  {
+    "id": 658,
+    "fa": "کسی سوالی داره؟",
+    "en": "Does anyone have any questions?",
+    "spec": "\"Anyone\" is used to refer to an unspecified person in a negative or indefinite manner."
+  },
+  {
+    "id": 659,
+    "fa": "به هر حال، به طور خلاصه، من به خاطر نوشتن گرافیتی روی کابین های دستشویی اخراج شدم",
+    "en": "Anyway, long short story, I got expelled for writing graffiti on bathroom stalls",
   }
 ]
