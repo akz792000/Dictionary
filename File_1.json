@@ -803,5 +803,163 @@
     "id": 659,
     "fa": "به هر حال، به طور خلاصه، من به خاطر نوشتن گرافیتی روی کابین های دستشویی اخراج شدم",
     "en": "Anyway, long short story, I got expelled for writing graffiti on bathroom stalls"
+  },
+  {
+    "id": 660,
+    "fa": "دخالت نکن",
+    "en": "Stay out of it"
+  },
+  {
+    "id": 661,
+    "fa": "آب قطعه",
+    "en": "The water is cut off"
+  },
+  {
+    "id": 662,
+    "fa": "اینترنت قطعه",
+    "en": "The internet is down"
+  },
+  {
+    "id": 663,
+    "fa": "برق رفته",
+    "en": "The power is out"
+  },
+  {
+    "id": 664,
+    "fa": "برای چی بود؟",
+    "en": "What was that for?"
+  },
+  {
+    "id": 665,
+    "fa": "اما هنوز هم درد دارد",
+    "en": "But it still hurts"
+  },
+  {
+    "id": 666,
+    "fa": "متاسفم که توی ذوقت میزنم",
+    "en": "I'm sorry to burst your bubble"
+  },
+  {
+    "id": 667,
+    "fa": "آیا می دانید چرا به این می گویند دستشویی و حمام نیست یا دستشویی (در هواپیما) نیست؟",
+    "en": "Do you know why this is called restroom and not bathroom or not lavatory?",
+    "desc": "Restroom is used for public spaces while bathroom for the house ones where there is usually a bathtub. Lavatory is restroom on a plane"
+  },
+  {
+    "id": 668,
+    "fa": "به چی زل زدی؟",
+    "en": "What are you staring at?"
+  },
+  {
+    "id": 669,
+    "fa": "خجالت نمی کشی؟",
+    "en": "Have you no shame?"
+  },
+  {
+    "id": 670,
+    "fa": "آیا قهری؟",
+    "en": "Are you sulking?"
+  },
+  {
+    "id": 671,
+    "fa": "بزن کنار! دارم بالا میارم",
+    "en": "Pull over! I'm gonna barf!"
+  },
+  {
+    "id": 672,
+    "fa": "خیلی منحرفی",
+    "en": "You're such a perv"
+  },
+  {
+    "id": 673,
+    "fa": "خیلی گرسنه ام",
+    "en": "I'm starving"
+  },
+  {
+    "id": 674,
+    "fa": "من کاملاً سیرم",
+    "en": "I'm stuffed"
+  },
+  {
+    "id": 675,
+    "fa": "بر عهده من است",
+    "en": "It's on me"
+  },
+  {
+    "id": 676,
+    "fa": "کمک خواستن تسلیم شدن نیست، امتناع از تسلیم شدن است",
+    "en": "Asking for help isn't giving up, it's refusing to give up"
+  },
+  {
+    "id": 677,
+    "fa": "بهترین توصیه ای که می تونی به خود جوان ترت بگی چیه؟",
+    "en": "What is the best piece of advice you'd tell to your younger self?"
+  },
+  {
+    "id": 678,
+    "fa": "خانواده من الان در حال خوردن شام هستند",
+    "en": "My family is having supper now",
+    "desc": "\"Dinner\" traditionally referred to the main meal of the day, which was eaten in the early afternoon. In some cultures, such as the United Kingdom, \"dinner\" is still used to refer to the main meal of the day, typically eaten in the evening.\n\n\"Supper,\" on the other hand, traditionally referred to a lighter meal that was eaten in the evening. In some regions, such as the southern United States, \"supper\" is still used to refer to the evening meal."
+  },
+  {
+    "id": 679,
+    "fa": "من هیچ سرنخی ندارم",
+    "en": "I have no clue"
+  },
+  {
+    "id": 680,
+    "fa": "میتونم رد شم؟",
+    "en": "Can I get by?"
+  },
+  {
+    "id": 681,
+    "fa": "بذار رد شم",
+    "en": "Let me through"
+  },
+  {
+    "id": 682 ,
+    "fa": "من سرتاپا گوشم",
+    "en": "I'm all ears"
+  },
+  {
+    "id": 683,
+    "fa": "دیگه بسمه",
+    "en": "I have had it"
+  },
+  {
+    "id": 684,
+    "fa": "حالم از اینا بهم میخوره",
+    "en": "I am so sick of these guys"
+  },
+  {
+    "id": 685,
+    "fa": "پاهات بو می ده",
+    "en": "Your feet stink"
+  },
+  {
+    "id": 686,
+    "fa": "ناراحت نمیشی رانندگی کنی",
+    "en": "Would you mind driving?"
+  },
+  {
+    "id": 687,
+    "fa": "دلم پرمیزنه برای یه سفر جاده ای",
+    "en": "I wouldn't give for going on a road trip"
+  },
+  {
+    "id": 688,
+    "fa": "اینجوری با بی احترامی با من صحبت نکن",
+    "en": "Don't sass me like that",
+    "desc": "The phrase \"Don't sass me like that\" is a colloquial way of asking someone not to speak to you in a disrespectful or impertinent manner. \"Sass\" is a term that refers to cheeky or impudent talk or behavior."
+  },
+  {
+    "id": 689,
+    "fa": "برسونمت",
+    "en": "You need a lift?"
+  },
+  {
+    "id": 690,
+    "fa": "زباله ها را ببر بیرون",
+    "en": "Take out the garbage"
   }
 ]
