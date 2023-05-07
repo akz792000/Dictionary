@@ -986,7 +986,7 @@
   },
   {
     "id": 695,
-    "fa": "زبان ها با سرعتی بی سابقه در حال مرگ هستند",
+    "fa": "زبان ها با نرخ بی سابقه ای در حال مرگ هستند",
     "en": "Languages are dying at an unprecedented rate"
   },
   {
@@ -1041,7 +1041,77 @@
   },
   {
     "id": 706,
-    "fa": "بیایین همت کنیم",
-    "en": "Let's buckle down"
+    "fa": "تو نیاز داری که همت و مطالعه سخت کنی اگر می خواهی امتحان را پاس کنی",
+    "en": "You need to buckle down and study harder if you want to pass this test"
+  },
+  {
+    "id": 707,
+    "fa": "بگذار فقط کلاه تو را صاف کنم",
+    "en": "Let me just straighten out your helmet"
+  },
+  {
+    "id": 708,
+    "fa": "شلوارت رو بپوش",
+    "en": "Put on your pants"
+  },
+  {
+    "id": 709,
+    "fa": "دکمه هات رو ببن",
+    "en": "Button up"
+  },
+  {
+    "id": 710,
+    "fa": "میشه زیپمو ببندی؟",
+    "en": "Could you zip me up?"
+  },
+  {
+    "id": 711,
+    "fa": "زیپت بازه",
+    "en": "Your fly is open"
+  },
+  {
+    "id": 712,
+    "fa": "دارم لباسمو درمیارم",
+    "en": "I'm getting undressed"
+  },
+  {
+    "id": 713,
+    "fa": "وقت خود را با دیدن این نمایش تلف نکن",
+    "en": "Don't waste your time watching this show"
+  },
+  {
+    "id": 714,
+    "fa": "من در حال شستن ظرف ها هستم",
+    "en": "I am doing the dishes"
+  },
+  {
+    "id": 715,
+    "fa": "دارم گردگیری میکنم",
+    "en": "I am dusting"
+  },
+  {
+    "id": 716,
+    "fa": "دارم زمین را جارو می کنم",
+    "en": "I am sweeping the floor"
+  },
+  {
+    "id": 717,
+    "fa": "تو محشری",
+    "en": "You rock"
+  },
+  {
+    "id": 718,
+    "fa": "دمت گرم",
+    "en": "Way to go"
+  },
+  {
+    "id": 719,
+    "fa": "عجله کن, دیرمون شد",
+    "en": "Chop-chop, we are late"
+  },
+  {
+    "id": 720,
+    "fa": "او (زن) به من این احساس را نمی دهد که تنها چیزی که مانع خوشحالی او می شود من هستم",
+    "en": "She doesn't make me feel like the only thing stopping her from being happy is me"
   }
 ]
