@@ -37,7 +37,7 @@
   {
     "id": 10008,
     "en": "Hope to hear you",
-    "de": "Auf Wiederhören (ویداهُقِن)"
+    "de": "Auf Wiederhören (ویداهُرِن)"
   },
   {
     "id": 10009,
@@ -107,7 +107,7 @@
   {
     "id": 10022,
     "en": "Don't ask questions",
-    "de": "Stell keine Fragen (اِشتِل) (فِقاگِن)"
+    "de": "Stell keine Fragen (اِشتِل) (فِراگِن)"
   },
   {
     "id": 10023,
@@ -144,7 +144,8 @@
   {
     "id": 10029,
     "en": "I was just lost in thought",
-    "de": "Ich war nur in Gedanken versunken (وا) (فِزونکِن) (نو)"
+    "de": "Ich war nur in Gedanken versunken (وا) (فِزونکِن) (نو)",
+    "desc": "Gedanken = اندیشه ها - versunken = غرق شده"
   },
   {
     "id": 10030,
@@ -179,7 +180,7 @@
   {
     "id": 10036,
     "en": "Where do you come from? I come from Germany. Funny, I do too",
-    "de": "Wo kommst du her? Ich komme aus Deutschland. Witzig, ich auch (هیِ) (ویتزیش ایش آوخ)",
+    "de": "Wo kommst du her? Ich komme aus Deutschland. Witzig, ich auch (هیِ) (ویتزیگ ایش آوخ)",
     "desc": "Woher kommst du? ← That's the verb kommen.\n\nWo kommst du her? ← That's the verb herkommen.\n\nThe meaning is similar."
   },
   {
@@ -237,7 +238,7 @@
   {
     "id": 10047,
     "en": "That is cheap",
-    "de": "Das ist billig (بیلیش)"
+    "de": "Das ist billig (بیلیگ)"
   },
   {
     "id": 10048,
@@ -273,5 +274,35 @@
     "id": 10054,
     "en": "Please do not speak to the driver",
     "de": "Bitte den Fahrer nicht ansprechen (نیشت)"
+  },
+  {
+    "id": 10055,
+    "en": "the personal pronoun (I, you, he(M)-she(F)-it(N), we, you, they",
+    "de": "das Personalpronomen (ich, du, er(M)-sie(F)-es(N), wir (ویِ), ihr (ایِ), sie-Sie (Respekt)"
+  },
+  {
+    "id": 10056,
+    "en": "the infinitive (n, en)",
+    "de": "der infinitiv (n, en)"
+  },
+  {
+    "id": 10057,
+    "en": "say",
+    "de": "sagen (sage - sagst - sagt - sagen - sagt - sagen)"
+  },
+  {
+    "id": 10058,
+    "en": "work",
+    "de": "arbeiten (arbeite - arbeitest - arbeitet - arbeiten - arbeitet - arbeiten)"
+  },
+  {
+    "id": 10059,
+    "en": "eat",
+    "de": "essen (esse - isst - isst - essen - esst - essen) (اِسن)"
+  },
+  {
+    "id": 10060,
+    "en": "ask",
+    "de": "fragen (frage - fragst - fragt - fragen - fragt - fragen) (فراگن)"
   }
 ]
