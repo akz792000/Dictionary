@@ -288,11 +288,33 @@
   {
     "id": 10057,
     "en": "Weak verbs (افعال باقاعده)",
-    "de": "Schwache Verben (regelmäßig) \n ich + e \n du + st \n er/sie/es + t \n wir + en/n \n ihr + t \n sie/Sie + en/n (رِگل مِسیگ) (شوآخه وربن)"
+    "de": "Schwache Verben (regelmäßig) (رِگل مِسیگ) (شوآخه وربن)",
+    "desc": "\n ich + e \n du + st \n er/sie/es + t \n wir + en/n \n ihr + t \n sie/Sie + en/n"
   },
   {
     "id": 10058,
     "en": "Strong verbs (افعال بی قاعده)",
     "de": "Schtarke Verben (unregelmäßig) (اون رِگل مِسیگ) (اشتارکه وربن)"
+  },
+  {
+    "id": 10059,
+    "en": "Article",
+    "de": "Artikel \n Nominative Der(M)/Die(F)/Das(N) \n Akkusative Den(M)/Die(F)/Das(N) \n Dativ      Dem(M)/Der(F)/Dem(N)",
+    "desc": "Subjective => Nominative (فاعلی, چه کسی ,چه چیزی) \n Objective => Akkusative (مفعول بی واسطه, چه کسی را, چه چیزی را) \n Objective => Dativ (مفعول با واسطه, به چه کسی, به چه چیزی)"
+  },
+  {
+    "id": 10060,
+    "en": "The man goes",
+    "de": "der Mann geht"
+  },
+  {
+    "id": 10061,
+    "en": "I see the man",
+    "de": "ich sehe den Mann"
+  },
+  {
+    "id": 10062,
+    "en": "Peter tells the man",
+    "de": "Peter sagt dem Mann"
   }
 ]
