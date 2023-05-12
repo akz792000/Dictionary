@@ -218,7 +218,7 @@
   {
     "id": 10043,
     "en": "I am looking for a toilet",
-    "de": "Ich suche eine Toilette"
+    "de": "Ich suche eine Toilette (زوخه)"
   },
   {
     "id": 10044,
@@ -233,7 +233,7 @@
   {
     "id": 10046,
     "en": "It costs one euro",
-    "de": "Das kostet einen Euro"
+    "de": "Das kostet einen Euro (اُیرُ)"
   },
   {
     "id": 10047,
@@ -248,7 +248,7 @@
   {
     "id": 10049,
     "en": "Can I pay with card?",
-    "de": "Kann ich mit Karte zahlen? (کان)"
+    "de": "Kann ich mit Karte zahlen?"
   },
   {
     "id": 10050,
@@ -287,97 +287,12 @@
   },
   {
     "id": 10057,
-    "en": "say",
-    "de": "sage \n sagst (زاگست) \n sagt \n sagen \n sagt \n sagen (زاگن)"
-  },
-  {
-    "id": 10058,
-    "en": "work",
-    "de": "arbeite \n arbeitest \n arbeitet \n arbeiten \n arbeitet \n arbeiten (آربایتن)"
-  },
-  {
-    "id": 10059,
-    "en": "eat",
-    "de": "esse \n isst \n isst \n essen \n esst \n essen (اِسن)"
-  },
-  {
-    "id": 10060,
-    "en": "ask",
-    "de": "frage (فراگست) \n fragst \n fragt \n fragen \n fragt \n fragen (فراگن)"
-  },
-  {
-    "id": 10061,
     "en": "Weak verbs (افعال باقاعده)",
     "de": "Schwache Verben (regelmäßig) \n ich + e \n du + st \n er/sie/es + t \n wir + en/n \n ihr + t \n sie/Sie + en/n (رِگل مِسیگ) (شوآخه وربن)"
   },
   {
-    "id": 10062,
-    "en": "Do, Make",
-    "de": "mache (فراگست) \n machst \n macht \n machen \n macht \n machen (فراگن)"
-  },
-  {
-    "id": 10063,
-    "en": "See",
-    "de": "sehe (زیِ) \n siehst (زیست) \n sieht (زیت) \n sehen \n seht (زیت) \n sehen (زی ان)"
-  },
-  {
-    "id": 10064,
-    "en": "Sleep",
-    "de": "schlafe (اِشلافِ) \n schläfst (اِشلفست) \n (اِشلفت) schläft \n schlafen \n schlaft (اِشلافت) \n schlafen (اِشلافن)"
-  },
-  {
-    "id": 10065,
-    "en": "Go",
-    "de": "gehe (گِ اِ) \n gehst (گِست) \n (گِت) geht \n gehen \n geht (گِت) \n gehen (گِ اِن)"
-  },
-  {
-    "id": 10066,
+    "id": 10058,
     "en": "Strong verbs (افعال بی قاعده)",
     "de": "Schtarke Verben (unregelmäßig) (اون رِگل مِسیگ) (اشتارکه وربن)"
-  },
-  {
-    "id": 10067,
-    "en": "Can",
-    "de": "kann (کَن) \n Kannst (کَنست) \n kann \n können \n könnt \n können"
-  },
-  {
-    "id": 10068,
-    "en": "Will",
-    "de": "will \n willst \n will \n wollen \n wollt \n wollen"
-  },
-  {
-    "id": 10069,
-    "en": "Want, Wish",
-    "de": "möchte (مُچت) \n möchtest (مُچتست) \n möchte (مُچتِ) \n möchten \n möchtet (مُچتت) \n möchten"
-  },
-  {
-    "id": 10070,
-    "en": "Be allowed",
-    "de": "darf (دارف) \n darfst \n darft \n dürfen \n dürft \n dürfen"
-  },
-  {
-    "id": 10071,
-    "en": "Must",
-    "de": "muss \n musst \n muss \n müssen \n müsst \n müssen"
-  },
-  {
-    "id": 10072,
-    "en": "Should",
-    "de": "soll \n sollst \n soll \n sollen \n sollt \n sollen"
-  },
-  {
-    "id": 10073,
-    "en": "Have",
-    "de": "habe \n hast \n hat \n haben \n habt \n haben"
-  },
-  {
-    "id": 10074,
-    "en": "Be",
-    "de": "bin \n bist \n ist \n sind \n seid \n sind"
-  },
-  {
-    "id": 10075,
-    "en": "Become",
-    "de": "werde \n wirst \n wird \n werden \n werdet \n werden"
   }
 ]
