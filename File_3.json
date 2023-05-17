@@ -1,107 +1,107 @@
 [
   {
     "id": 20001,
-    "en": "say",
-    "de": "\n sage \n sagst (زاگست) \n sagt \n sagen \n sagt \n sagen (زاگن)"
-  },
-  {
-    "id": 20002,
     "en": "work",
     "de": "\n arbeite \n arbeitest \n arbeitet \n arbeiten \n arbeitet \n arbeiten (آربایتن)"
   },
   {
-    "id": 20003,
-    "en": "eat",
-    "de": "\n esse \n isst \n isst \n essen \n esst \n essen (اِسن)"
-  },
-  {
-    "id": 20004,
-    "en": "ask",
-    "de": "\n frage (فراگست) \n fragst \n fragt \n fragen \n fragt \n fragen (فراگن)"
-  },
-  {
-    "id": 20005,
-    "en": "Do, Make",
-    "de": "\n mache \n machst \n macht \n machen \n macht \n machen (ماخن)"
-  },
-  {
-    "id": 20006,
-    "en": "See",
-    "de": "\n sehe (زیِ) \n siehst (زیست) \n sieht (زیت) \n sehen \n seht (زیت) \n sehen (زی ان)"
-  },
-  {
-    "id": 20007,
-    "en": "Sleep",
-    "de": "\n schlafe (اِشلافِ) \n schläfst (اِشلفست) \n (اِشلفت) schläft \n schlafen \n schlaft (اِشلافت) \n schlafen (اِشلافن)"
-  },
-  {
-    "id": 20008,
-    "en": "Go",
-    "de": "\n gehe (گِ اِ) \n gehst (گِست) \n (گِت) geht \n gehen \n geht (گِت) \n gehen (گِ اِن)"
-  },
-  {
-    "id": 20009,
-    "en": "Can",
-    "de": "\n kann (کَن) \n Kannst (کَنست) \n kann \n können \n könnt \n können"
-  },
-  {
-    "id": 20010,
-    "en": "Will",
-    "de": "\n will \n willst \n will \n wollen \n wollt \n wollen"
-  },
-  {
-    "id": 20011,
-    "en": "Want, Wish",
-    "de": "\n möchte (مُچت) \n möchtest (مُچتست) \n möchte (مُچتِ) \n möchten \n möchtet (مُچتت) \n möchten"
-  },
-  {
-    "id": 20012,
-    "en": "Be allowed",
-    "de": "\n darf (دارف) \n darfst \n darft \n dürfen \n dürft \n dürfen"
-  },
-  {
-    "id": 20013,
-    "en": "Must",
-    "de": "\n muss \n musst \n muss \n müssen \n müsst \n müssen"
-  },
-  {
-    "id": 20014,
-    "en": "Should",
-    "de": "\n soll \n sollst \n soll \n sollen \n sollt \n sollen (زُلِن)"
-  },
-  {
-    "id": 20015,
-    "en": "Have",
-    "de": "\n habe \n hast \n hat \n haben \n habt \n haben"
-  },
-  {
-    "id": 20016,
+    "id": 20002,
     "en": "Be",
     "de": "\n bin \n bist \n ist \n sind \n seid \n sind"
   },
   {
-    "id": 20017,
-    "en": "Become",
-    "de": "\n werde \n wirst \n wird \n werden \n werdet \n werden"
+    "id": 20003,
+    "en": "Be allowed",
+    "de": "\n darf (دارف) \n darfst \n darft \n dürfen \n dürft \n dürfen"
   },
   {
-    "id": 20018,
+    "id": 20004,
+    "en": "eat",
+    "de": "\n esse \n isst \n isst \n essen \n esst \n essen (اِسن)"
+  },
+  {
+    "id": 20005,
+    "en": "ask",
+    "de": "\n frage (فراگست) \n fragst \n fragt \n fragen \n fragt \n fragen (فراگن)"
+  },
+  {
+    "id": 20006,
+    "en": "Go",
+    "de": "\n gehe (گِ اِ) \n gehst (گِست) \n (گِت) geht \n gehen \n geht (گِت) \n gehen (گِ اِن)"
+  },
+  {
+    "id": 20007,
+    "en": "Have",
+    "de": "\n habe \n hast \n hat \n haben \n habt \n haben"
+  },
+  {
+    "id": 20008,
     "en": "Be called",
     "de": "\n heiße \n heißt \n heißt \n heißen \n heißt \n heißen (هایسن) \n"
   },
   {
-    "id": 20019,
+    "id": 20009,
     "en": "Hear",
     "de": "\n höre \n hörst \n hört \n hören \n hört \n hören \n"
   },
   {
-    "id": 20020,
+    "id": 20010,
+    "en": "Can",
+    "de": "\n kann (کَن) \n Kannst (کَنست) \n kann \n können \n könnt \n können"
+  },
+  {
+    "id": 20011,
+    "en": "Come",
+    "de": "\n komme \n kommst \n kommt \n kommen \n kommt \n kommen \n"
+  },
+  {
+    "id": 20012,
     "en": "Read",
     "de": "\n lese (لیزِ) \n liest (لیست) \n liest \n lesen (لیزن) \n lest (لِست) \n lesen \n"
   },
   {
+    "id": 20013,
+    "en": "Do, Make",
+    "de": "\n mache \n machst \n macht \n machen \n macht \n machen (ماخن)"
+  },
+  {
+    "id": 20014,
+    "en": "Must",
+    "de": "\n muss \n musst \n muss \n müssen \n müsst \n müssen"
+  },
+  {
+    "id": 20015,
+    "en": "Want, Wish",
+    "de": "\n möchte (مُچت) \n möchtest (مُچتست) \n möchte (مُچتِ) \n möchten \n möchtet (مُچتت) \n möchten"
+  },
+  {
+    "id": 20016,
+    "en": "say",
+    "de": "\n sage \n sagst (زاگست) \n sagt \n sagen \n sagt \n sagen (زاگن)"
+  },
+  {
+    "id": 20017,
+    "en": "Sleep",
+    "de": "\n schlafe (اِشلافِ) \n schläfst (اِشلفست) \n (اِشلفت) schläft \n schlafen \n schlaft (اِشلافت) \n schlafen (اِشلافن)"
+  },
+  {
+    "id": 20018,
+    "en": "See",
+    "de": "\n sehe (زیِ) \n siehst (زیست) \n sieht (زیت) \n sehen \n seht (زیت) \n sehen (زی ان)"
+  },
+  {
+    "id": 20019,
+    "en": "Should",
+    "de": "\n soll \n sollst \n soll \n sollen \n sollt \n sollen (زُلِن)"
+  },
+  {
+    "id": 20020,
+    "en": "Become",
+    "de": "\n werde \n wirst \n wird \n werden \n werdet \n werden"
+  },
+  {
     "id": 20021,
-    "en": "Come",
-    "de": "\n komme \n kommst \n kommt \n kommen \n kommt \n kommen \n"
+    "en": "Will",
+    "de": "\n will \n willst \n will \n wollen \n wollt \n wollen"
   }
 ]

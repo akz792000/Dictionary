@@ -112,7 +112,7 @@
   {
     "id": 10023,
     "en": "Get well soon!",
-    "de": "Gute Besserung! (بِسِقًنگ)"
+    "de": "Gute Besserung! (بِسرُنگ)"
   },
   {
     "id": 10024,
@@ -277,8 +277,8 @@
   },
   {
     "id": 10055,
-    "en": "the personal pronoun (I, you, he(M)/she(F)/it(N), we, you, they",
-    "de": "das Personalpronomen (ich, du, er(M)/sie(F)/es(N), wir (ویِ), ihr (ایِ), sie-Sie (Respekt)"
+    "en": "Subject pronoun \n I, you, he(M)/she(F)/it(N), we, you, they",
+    "de": "Subjekt Pronomen \n ich, du, er(M)/sie(F)/es(N), wir (ویِ), ihr (ایِ), sie-Sie"
   },
   {
     "id": 10056,
@@ -328,5 +328,92 @@
     "en": "I give the books to my friends",
     "de": "Ich gebe den Freunden die Bücher",
     "desc": "به اسامی در حالت جمع داتیوی یک n به انتهایشان اضافه می شود غیر از اسامی که به n و s ختم میشود"
+  },
+  {
+    "id": 10065,
+    "en": "I'm learning German",
+    "de": "Ich lerne Deutsch",
+    "desc": "جمله اصلی - فاعل + فعل"
+  },
+  {
+    "id": 10066,
+    "en": "You see the car",
+    "de": "Du siehst das Auto"
+  },
+  {
+    "id": 10067,
+    "en": "You are human (formal)",
+    "de": "Ihr seid Mensch"
+  },
+  {
+    "id": 10068,
+    "en": "My brother is teacher",
+    "de": "Mein bruder ist Lehre"
+  },
+  {
+    "id": 10069,
+    "en": "She is beautiful",
+    "de": "Sie ist schön"
+  },
+  {
+    "id": 10070,
+    "en": "We work every day",
+    "de": "Wie arbeiten jeden tag"
+  },
+  {
+    "id": 10071,
+    "en": "Object pronoun - Akkusative \n me, you, him(M)/her(F)/it(N), us, you, them",
+    "de": "Objektpronomen - Akkusative \n mich, dich, ihn(M)(این)/sie(F)/es(N), uns (اونس), euch (اویچ), sie-Sie",
+    "desc": "بی واسطه - چه چیزی را - چه کسی را"
+  },
+  {
+    "id": 10072,
+    "en": "Object pronoun - Dativ \n me, you, him(M)/her(F)/it(N), us, you, them",
+    "de": "Objektpronomen - Dativ \n mir (میِ), dir (دیِ), ihm(M)(ایم)/ihr(F)(اییِ)/ihm(N), uns (اونس), euch (اویچ), ihnen-Ihnen (اینن)",
+    "desc": "با واسطه - به چه چیزی - به چه کسی"
+  },
+  {
+    "id": 10073,
+    "en": "I write a letter to you",
+    "de": "Ich schreibe dir einen Brief",
+    "desc": "Subject + Verb + DAT + AKK"
+  },
+  {
+    "id": 10074,
+    "en": "He gives me his book",
+    "de": "Er gibt mir sein Buch",
+    "desc": "Subject + Verb + DAT + AKK"
+  },
+  {
+    "id": 10075,
+    "en": "You say the boss the information",
+    "de": "Ihr sagt dem Chef den Bescheid",
+    "desc": "Subject + Verb + DAT + AKK"
+  },
+  {
+    "id": 10076,
+    "en": "You show him the table",
+    "de": "Du zeigst ihm den Tisch",
+    "desc": "Subject + Verb + DAT + AKK"
+  },
+  {
+    "id": 10077,
+    "en": "I write a letter to you (Emphasis)",
+    "de": "Einen Brief schreibe ich dir "
+  },
+  {
+    "id": 10078,
+    "en": "He gives me his book (Emphasis)",
+    "de": "mir gibt er sein Buch"
+  },
+  {
+    "id": 10079,
+    "en": "You say the boss the information (Emphasis)",
+    "de": "Dem Chef sagt ihr den Bescheid"
+  },
+  {
+    "id": 10080,
+    "en": "You show him the table (Emphasis)",
+    "de": "Den Tisch zeigst du ihm"
   }
 ]

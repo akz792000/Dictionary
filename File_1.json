@@ -720,7 +720,7 @@
   },
   {
     "id": 643,
-    "fa": "من تکامل را رد نمی کنم",
+    "fa": "من دارم تکامل را رد نمی کنم",
     "en": "I am not denying evolution"
   },
   {
@@ -939,8 +939,9 @@
   },
   {
     "id": 686,
-    "fa": "ناراحت نمیشی رانندگی کنی؟",
-    "en": "Would you mind driving?"
+    "fa": "ناراحت نمیشی رانندگی کنی؟ من احساس خستگی می کنم و ممنون می شوم اگر بتوانید فرمان را بگیرید",
+    "en": "Would you mind driving? I'm feeling tired and would appreciate it if you could take the wheel",
+    "desc": "\"Would you mind driving?\": This is a question asking if the person is willing to drive. It is a polite way to inquire if they have any objection or if it would be a problem for them to drive.\n\n\"You don't mind driving\": This is a statement assuming or confirming that the person is willing to drive. It suggests that the speaker believes the person is okay with driving and does not have any objections.\n\nIn summary, the first phrase asks for permission or willingness to drive, while the second phrase assumes or confirms the person's willingness to drive."
   },
   {
     "id": 687,
@@ -965,8 +966,8 @@
   },
   {
     "id": 691,
-    "fa": "متاسفم رفیق، اما فقط به این دلیل که شما آناناس را روی پیتزای خود می پسندید به این معنی نیست که برابری می کند با مزه خوب - این کاملاً اختیاری است!",
-    "en": "Sorry dude, but just because you like pineapple on your pizza doesn't mean that equates to good taste - that's totally arbitrary!"
+    "fa": "مخالفان رژیم مورد بازداشت، شکنجه و اعدام خودسرانه قرار گرفته بودند",
+    "en": "Opponents of the regime had been subject to arbitrary detention, torture and execution"
   },
   {
     "id": 692,
@@ -1221,7 +1222,7 @@
   },
   {
     "id": 742,
-    "fa": "میشه شما را به همسرم معرفی کنم؟",
+    "fa": "ممکنه شما را به همسرم معرفی کنم؟",
     "en": "May I introduce you to my wife?"
   },
   {
@@ -1266,12 +1267,27 @@
   },
   {
     "id": 751,
-    "fa": "خوشبختانه, قبل از ازدواج توانستم تمام بدهی هایم را بپردازم",
+    "fa": "خوشبختانه، قبل از ازدواج موفق شدم (مدیریت) تمام بدهی هایم را بپردازم",
     "en": "Thankfully, I managed to pay off all my debts before we got married"
   },
   {
     "id": 752,
     "fa": "دندانپزشک پس از کشیدن دندان من از یک بخیه استفاده کرد تا برش را با دقت ببندد",
     "en": "The dentist used a stitch to carefully close the incision after extracting my tooth (این سیژن)"
+  },
+  {
+    "id": 753,
+    "fa": "من تصادفی شنیدم که این زوج در مورد سالگردشان صحبت می کنند، بنابراین فکر کردم آنها را غافلگیر کنم",
+    "en": "I overheard this couple talk about their anniversary so I thought I'd surprise them"
+  },
+  {
+    "id": 754,
+    "fa": "اینجا آنتن نمیده",
+    "en": "No bars here"
+  },
+  {
+    "id": 755,
+    "fa": "صدات داره قطع و وصل میشه",
+    "en": "You're breaking up"
   }
 ]
