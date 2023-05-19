@@ -277,8 +277,8 @@
   },
   {
     "id": 10055,
-    "en": "Subject pronoun \n I, you, he(M)/she(F)/it(N), we, you, they",
-    "de": "Subjekt Pronomen \n ich, du, er(M)/sie(F)/es(N), wir (ویِ), ihr (ایِ), sie-Sie"
+    "en": "Subject pronoun \n\n I, you, he(M)/she(F)/it(N), we, you, they",
+    "de": "Subjekt Pronomen \n\n ich, du, er(M)/sie(F)/es(N), wir (ویِ), ihr (ایِ), sie-Sie"
   },
   {
     "id": 10056,
@@ -299,24 +299,24 @@
   {
     "id": 10059,
     "en": "the definite article",
-    "de": "der bestimmte artikel (بشتیمت) \n Nominative der(M)/die(F)/das(N)/die(P) \n Akkusative den(M)/die(F)/das(N)/die(P) \n Dativ      dem(M)/der(F)/dem(N)/den(P)",
-    "desc": "Subjective => Nominative (فاعلی, چه کسی ,چه چیزی) \n Objective => Akkusative (مفعول بی واسطه, چه کسی را, چه چیزی را) \n Objective => Dativ (مفعول با واسطه, به چه کسی, به چه چیزی)"
+    "de": "der bestimmte artikel (بشتیمت) \n\n Nominative der(M)/die(F)/das(N)/die(P) \n Akkusative den(M)/die(F)/das(N)/die(P) \n Dativ      dem(M)/der(F)/dem(N)/den(P)",
+    "desc": "Subjective => Nominative (فاعلی, چه کسی ,چه چیزی) \n\n Objective => Akkusative (مفعول بی واسطه, چه کسی را, چه چیزی را) \n Objective => Dativ (مفعول با واسطه, به چه کسی, به چه چیزی)"
   },
   {
     "id": 10060,
     "en": "the indefinite article",
-    "de": "der unbestimmte artikel (اون بشتیمت) \n Nominative ein(M)/eine(F)/ein(N)/-(P) \n Akkusative einen(M)/eine(F)/ein(N)/-(P) \n Dativ      einem(M)/einer(F)/einem(N)/-(P)",
-    "desc": "Subjective => Nominative (فاعلی, چه کسی ,چه چیزی) \n Objective => Akkusative (مفعول بی واسطه, چه کسی را, چه چیزی را) \n Objective => Dativ (مفعول با واسطه, به چه کسی, به چه چیزی)"
+    "de": "der unbestimmte artikel (اون بشتیمت) \n\n Nominative ein(M)/eine(F)/ein(N)/-(P) \n Akkusative einen(M)/eine(F)/ein(N)/-(P) \n Dativ      einem(M)/einer(F)/einem(N)/-(P)",
+    "desc": "Subjective => Nominative (فاعلی, چه کسی ,چه چیزی) \n\n Objective => Akkusative (مفعول بی واسطه, چه کسی را, چه چیزی را) \n Objective => Dativ (مفعول با واسطه, به چه کسی, به چه چیزی)"
   },
   {
     "id": 10061,
     "en": "The man goes",
-    "de": "der Mann geht"
+    "de": "der Mann geht (گت)"
   },
   {
     "id": 10062,
     "en": "I see the man",
-    "de": "Ich sehe den Mann"
+    "de": "Ich sehe den Mann (زیِ)"
   },
   {
     "id": 10063,
@@ -326,12 +326,12 @@
   {
     "id": 10064,
     "en": "I give the books to my friends",
-    "de": "Ich gebe den Freunden die Bücher",
+    "de": "Ich gebe den Freunden die Bücher (ایچ گِبِ دن فرویدن دی بوشا)",
     "desc": "به اسامی در حالت جمع داتیوی یک n به انتهایشان اضافه می شود غیر از اسامی که به n و s ختم میشود"
   },
   {
     "id": 10065,
-    "en": "I'm learning German",
+    "en": "I learn German",
     "de": "Ich lerne Deutsch",
     "desc": "جمله اصلی - فاعل + فعل"
   },
@@ -343,12 +343,12 @@
   {
     "id": 10067,
     "en": "You are human (formal)",
-    "de": "Ihr seid Mensch"
+    "de": "Ihr seid Mensch (ایِ زاید منش)"
   },
   {
     "id": 10068,
     "en": "My brother is teacher",
-    "de": "Mein bruder ist Lehre"
+    "de": "Mein bruder ist Lehre (لیرِ)"
   },
   {
     "id": 10069,
@@ -358,62 +358,97 @@
   {
     "id": 10070,
     "en": "We work every day",
-    "de": "Wie arbeiten jeden tag"
+    "de": "Wie arbeiten jeden tag (ویِ آربایتن یِدن تاگ)"
   },
   {
     "id": 10071,
-    "en": "Object pronoun - Akkusative \n me, you, him(M)/her(F)/it(N), us, you, them",
-    "de": "Objektpronomen - Akkusative \n mich, dich, ihn(M)(این)/sie(F)/es(N), uns (اونس), euch (اویچ), sie-Sie",
+    "en": "Object pronoun - Akkusative \n\n me, you, him(M)/her(F)/it(N), us, you, them",
+    "de": "Objektpronomen (آبیکت پرونومن) - Akkusative \n\n mich, dich, ihn(M)(این)/sie(F)/es(N), uns (اونس), euch (اویچ), sie-Sie",
     "desc": "بی واسطه - چه چیزی را - چه کسی را"
   },
   {
     "id": 10072,
-    "en": "Object pronoun - Dativ \n me, you, him(M)/her(F)/it(N), us, you, them",
-    "de": "Objektpronomen - Dativ \n mir (میِ), dir (دیِ), ihm(M)(ایم)/ihr(F)(اییِ)/ihm(N), uns (اونس), euch (اویچ), ihnen-Ihnen (اینن)",
+    "en": "Object pronoun - Dativ \n\n me, you, him(M)/her(F)/it(N), us, you, them",
+    "de": "Objektpronomen (آبیکت پرونومن) - Dativ \n\n mir (میِ), dir (دیِ), ihm(M)(ایم)/ihr(F)(اییِ)/ihm(N), uns (اونس), euch (اویچ), ihnen-Ihnen (اینن)",
     "desc": "با واسطه - به چه چیزی - به چه کسی"
   },
   {
     "id": 10073,
     "en": "I write a letter to you",
-    "de": "Ich schreibe dir einen Brief",
+    "de": "Ich schreibe dir einen Brief (ایچ شرایب دیِ آینن بریف)",
     "desc": "Subject + Verb + DAT + AKK"
   },
   {
     "id": 10074,
     "en": "He gives me his book",
-    "de": "Er gibt mir sein Buch",
+    "de": "Er gibt mir sein Buch ( ار گیبت میِ زاین بوخ)",
     "desc": "Subject + Verb + DAT + AKK"
   },
   {
     "id": 10075,
     "en": "You say the boss the information",
-    "de": "Ihr sagt dem Chef den Bescheid",
+    "de": "Ihr sagt dem Chef den Bescheid (ایِ زاگت دم شف دن بشاید)",
     "desc": "Subject + Verb + DAT + AKK"
   },
   {
     "id": 10076,
     "en": "You show him the table",
-    "de": "Du zeigst ihm den Tisch",
+    "de": "Du zeigst ihm den Tisch (دو زاگست ایم دن تیش)",
     "desc": "Subject + Verb + DAT + AKK"
   },
   {
     "id": 10077,
     "en": "I write a letter to you (Emphasis)",
-    "de": "Einen Brief schreibe ich dir "
+    "de": "Einen Brief schreibe ich dir (آینن بریف شرایب ایچ دیِ)"
   },
   {
     "id": 10078,
     "en": "He gives me his book (Emphasis)",
-    "de": "mir gibt er sein Buch"
+    "de": "mir gibt er sein Buch (میِ گیبت ار زاین بوخ)"
   },
   {
     "id": 10079,
     "en": "You say the boss the information (Emphasis)",
-    "de": "Dem Chef sagt ihr den Bescheid"
+    "de": "Dem Chef sagt ihr den Bescheid (دم شف زاگت ایِ دن بشاید)"
   },
   {
     "id": 10080,
     "en": "You show him the table (Emphasis)",
-    "de": "Den Tisch zeigst du ihm"
+    "de": "Den Tisch zeigst du ihm (دن تیش زاگست دو ایم)"
+  },
+  {
+    "id": 10081,
+    "en": "I see. Do I see? What do I see? When do I see?",
+    "de": "Ich sehe (زیِ). Sehe ich? Was sehe ich? Wann sehe ich?"
+  },
+  {
+    "id": 10082,
+    "en": "You work as a teacher. Do you work as a teacher? Where do you work as a teacher?",
+    "de": "Du arbeitest als Lehre. Arbeitest du als Lehre? Wo arbeitest du als Lehre?"
+  },
+  {
+    "id": 10083,
+    "en": "She writes a letter. Does she write a letter? Why does she write a letter?",
+    "de": "Sie schreibt einen Brief. Schreibt sie einen Brief? Warum schreibt sie einen Brief?"
+  },
+  {
+    "id": 10084,
+    "en": "We go to the cinema. Do we go to the cinema? How do we go to the cinema?",
+    "de": "Wir gehen (گِ اِن) ins Kino. Gehen wir ins Kino? Wie gehen wir ins Kino?"
+  },
+  {
+    "id": 10085,
+    "en": "He likes to do his homework. Does he like to do his homework? How does he like to do his homework?",
+    "de": "Er macht gerne seine Hausaufgabe. Macht er gerne seine Hausaufgabe? Wie Macht er gerne seine Hausaufgabe?"
+  },
+  {
+    "id": 10086,
+    "en": "I must go to school tomorrow. Must I go to school tomorrow? Where must I go tomorrow?",
+    "de": "Ich muss morgen zur Schule gehen. Muss ich morgen zur Schule gehen? (گِ اِن) Wohin muss ich morgen gehen?"
+  },
+  {
+    "id": 10087,
+    "en": "We learn German diligently. Do we diligently learn German? What do we diligently learn?",
+    "de": "Wir lernen fleißig Deutsch. Lernen wir fleißig Deutsch? Was lernen wir fleißig?"
   }
 ]
