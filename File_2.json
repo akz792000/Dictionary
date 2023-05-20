@@ -51,7 +51,7 @@
   },
   {
     "id": 10011,
-    "en": "Who are you?",
+    "en": "Who are you? (informal)",
     "de": "Wer bist du? (وِر بیست دو)"
   },
   {
@@ -455,5 +455,10 @@
     "id": 10088,
     "en": "Monday, Tuesday, Wednesday, Thursday, Friday, Saturday, Sunday",
     "de": "Montag, Dienstag, Mittwoch, Donnerstag, Freitag, Samstag, Sonntag"
+  },
+  {
+    "id": 10089,
+    "en": "I can't speak German well",
+    "de": "Ich kann nicht gut Deutsch sprechen"
   }
 ]

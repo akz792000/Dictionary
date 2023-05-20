@@ -966,8 +966,8 @@
   },
   {
     "id": 691,
-    "fa": "مخالفان رژیم مورد بازداشت، شکنجه و اعدام خودسرانه قرار گرفته بودند",
-    "en": "Opponents of the regime had been subject to arbitrary detention, torture and execution"
+    "fa": "آیا دلیلی برای انتخاب مقصد خود داشتید یا خودسرانه بود؟",
+    "en": "Did you have a reason for choosing your destination or was it arbitrary?"
   },
   {
     "id": 692,
@@ -1267,7 +1267,7 @@
   },
   {
     "id": 751,
-    "fa": "خوشبختانه، قبل از ازدواج موفق شدم (مدیریت) تمام بدهی هایم را بپردازم",
+    "fa": "خوشبختانه، موفق شدم (مدیریت) تمام بدهی هایم را بپردازم, قبل از اینکه ما ازدواج کنیم",
     "en": "Thankfully, I managed to pay off all my debts before we got married"
   },
   {
@@ -1299,5 +1299,65 @@
     "id": 758,
     "fa": "باور کن، من نمی خواهم آن مردی باشم که در مقابل تو قرار دارد",
     "en": "Believe me, I wouldn't want to be the guy who's up against you"
+  },
+  {
+    "id": 759,
+    "fa": "ایتالیا در کدام قاره است؟",
+    "en": "What continent is Italy in?"
+  },
+  {
+    "id": 760,
+    "fa": "من می خواهم مرخصی ساعتی بگیرم",
+    "en": "I want to take hourly leave"
+  },
+  {
+    "id": 761,
+    "fa": "پس از اتمام پروژه، هیجان زده شدم از دریافت دستمزد برای سخت کوشیم",
+    "en": "After completing the project, I was thrilled to get paid for my hard work"
+  },
+  {
+    "id": 762,
+    "fa": "من از پمپ دوچرخه برای باد کردن لاستیک های دوچرخم استفاده کردم",
+    "en": "I used a bicycle pump to inflate the tires of my bike"
+  },
+  {
+    "id": 763,
+    "fa": "او (مرد) به نفع پسرش استعفا داد",
+    "en": "He abdicated in favour of his son"
+  },
+  {
+    "id": 764,
+    "fa": "ما در واقع هیچ جای خالی نداریم",
+    "en": "We actually have no vacancies"
+  },
+  {
+    "id": 765,
+    "fa": "میشه گوشی بدی به مامان؟",
+    "en": "Can you put mom on?"
+  },
+  {
+    "id": 766,
+    "fa": "او (زن) گوشیو بر نمی داره",
+    "en": "She's not picking up"
+  },
+  {
+    "id": 767,
+    "fa": "صبر کن (گوشی دستت)",
+    "en": "Hang on"
+  },
+  {
+    "id": 768,
+    "fa": "خط مشغوله",
+    "en": "The line is engaged"
+  },
+  {
+    "id": 769,
+    "fa": "نمی تونم وصل بشم",
+    "en": "I can't get through"
+  },
+  {
+    "id": 770,
+    "fa": "تلفن را قطع نکن",
+    "en": "Don't hang up"
   }
 ]
