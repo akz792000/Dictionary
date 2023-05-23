@@ -475,5 +475,51 @@
     "id": 10092,
     "en": "We see you",
     "de": "Wir sehen dich"
+  },
+  {
+    "id": 10093,
+    "en": "Not and None",
+    "de": "Nicht and Kein",
+    "desc": "اگر اسم یا مفعول در جمله داشته باشیم که بدون حرف تعریف و یا با حرف تعربف نامعین باشد \n در این صورت جملع با kein منفی میشود که قبل از اسم آمده و صرف می شود \n در غبر این صورت جمله با nicht منفی میشود و جای آن یا بعد از فعل یا بعد از قید و یا قبل از اسم با حرف تعریف معین است "
+  },
+  {
+    "id": 10094,
+    "en": "I eat \n I do not eat",
+    "de": "Ich esse \n Ich esse nicht (نیشت)"
+  },
+  {
+    "id": 10095,
+    "en": "He comes today \n He doesn't come today",
+    "de": "Er kommt heute \n Er kommt heute nicht"
+  },
+  {
+    "id": 10096,
+    "en": "The cell phone lies on the table \n The cell phone doesn't lie on the table",
+    "de": "Das Handy liegt auf dem Tisch \n Das Handy liegt nicht auf dem Tisch (لیگت)"
+  },
+  {
+    "id": 10097,
+    "en": "I give you the book \n I don't give you the book",
+    "de": "Ich gebe dir das Buch \n Ich gebe dir nicht das Buch"
+  },
+  {
+    "id": 10098,
+    "en": "I give you a book \n I give you no book",
+    "de": "Ich gebe dir ein Buch \n Ich gebe dir nicht kein Buch"
+  },
+  {
+    "id": 10099,
+    "en": "I give you a flower \n I don't give you a flower",
+    "de": "Ich gebe dir eine Blume (بلومِ) \n Ich gebe dir keine Blume"
+  },
+  {
+    "id": 10100,
+    "en": "I drink beer \n I do not drink beer",
+    "de": "Ich trinke Bier \n Ich trinke kein Bier"
+  },
+  {
+    "id": 10101,
+    "en": "I drink wine \n I don't drink wine",
+    "de": "Ich trinke Wein \n Ich trinke keinen Wein"
   }
 ]

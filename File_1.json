@@ -6,7 +6,7 @@
   },
   {
     "id": 502,
-    "fa": "او بلافاصله بعد از رفتن شما به آپارتمان آمد",
+    "fa": "او (مرد) بلافاصله بعد از رفتن شما به آپارتمان آمد",
     "en": "He came by the apartment (came to the apartment) right after you left"
   },
   {
@@ -21,7 +21,7 @@
   },
   {
     "id": 505,
-    "fa": "من از او (مرد) پرسیدم که چگونه این پول بدست آوردی، اما او (مرد) به من نگفت",
+    "fa": "من از او (مرد) پرسیدم که چگونه این پول بدست آوردی، اما او به من نگفت",
     "en": "I asked him how he came by the money (get the money), but he didn't tell me"
   },
   {
@@ -648,7 +648,7 @@
   },
   {
     "id": 629,
-    "fa": "او در کنار من است",
+    "fa": "او (مرد) در کنار من است",
     "en": "He is next to me"
   },
   {
@@ -1017,7 +1017,7 @@
   },
   {
     "id": 701,
-    "fa": "من تو را روی اسپیکر می گذارم",
+    "fa": "من تو را روی اسپیکر خواهم گذاشت",
     "en": "I'll put you on speaker"
   },
   {
@@ -1218,7 +1218,8 @@
   {
     "id": 741,
     "fa": "متاسفم که مزاحم شما شدم",
-    "en": "I'm sorry to have troubled you"
+    "en": "I'm sorry to have troubled you",
+    "desc": "In this sentence, \"I'm sorry\" expresses an apology or regret, indicating that the speaker acknowledges causing inconvenience or difficulty. \"To have troubled you\" is an infinitive phrase that functions as the object of the sentence. It suggests that the speaker is sorry for the trouble they have caused to the person being addressed."
   },
   {
     "id": 742,
@@ -1278,7 +1279,7 @@
   {
     "id": 753,
     "fa": "من تصادفی شنیدم که این زوج در مورد سالگردشان صحبت می کنند، بنابراین فکر کردم آنها را غافلگیر کنم",
-    "en": "I overheard this couple talk about their anniversary so I thought I'd surprise them"
+    "en": "I overheard this couple talking about their anniversary so I thought I'd surprise them"
   },
   {
     "id": 754,
@@ -1337,7 +1338,7 @@
   },
   {
     "id": 765,
-    "fa": "میشه گوشی بدی به مامان؟",
+    "fa": "میتونی گوشی بدی به مامان؟",
     "en": "Can you put mom on?"
   },
   {
@@ -1364,5 +1365,40 @@
     "id": 770,
     "fa": "تلفن را قطع نکن",
     "en": "Don't hang up"
+  },
+  {
+    "id": 771,
+    "fa": "با یک صدم این مبلغ میتونم براتون انجام بدم",
+    "en": "I can do it for you for one hundredth of this amount"
+  },
+  {
+    "id": 772,
+    "fa": "اسم کوچک خود را چگونه هجی می کنید؟",
+    "en": "How do you spell your first name?"
+  },
+  {
+    "id": 773,
+    "fa": "تاریخ و محل تولدت کی هست؟",
+    "en": "What is your date and place of birth?"
+  },
+  {
+    "id": 774,
+    "fa": "از آنجایی که همه خواهر و برادرهایش (زن) بسیار بزرگتر بودند، او اغلب در کودکی کسی را نداشت که با او بازی کند",
+    "en": "As all her siblings were much older, she often had no one to play with as a child"
+  },
+  {
+    "id": 775,
+    "fa": "من خواهرزاده و برادرزاده ام را دوست دارم",
+    "en": "I like my niece and nephew"
+  },
+  {
+    "id": 776,
+    "fa": "مادرم خیلی به عروس و دامادش احترام می گذارد",
+    "en": "My mother respects her daughter-in-law and son-in-law very much"
+  },
+  {
+    "id": 777,
+    "fa": "همسرم با برادر شوهر و خواهرشوهرش رابطه خوبی دارد",
+    "en": "My wife has a good relationship with her brother-in-law and sister-in-law"
   }
 ]
