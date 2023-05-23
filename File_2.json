@@ -106,8 +106,8 @@
   },
   {
     "id": 10022,
-    "en": "Don't ask questions",
-    "de": "Stell keine Fragen (اِشتِل) (فِراگِن)"
+    "en": "I eat a salad",
+    "de": "Ich esse einen Salat"
   },
   {
     "id": 10023,
@@ -126,20 +126,20 @@
   },
   {
     "id": 10026,
-    "en": "Do you read with pleasure? Ja, I read with pleasure",
-    "de": "Liest du gerne? Ja, Ich lese gerne (لیست) (گِرنِ) (لیزِ)",
+    "en": "Do you read with pleasure? \n Yes, I read with pleasure",
+    "de": "Liest du gerne? \n Ja, Ich lese gerne (لیست) (گِرنِ) (لیزِ)",
     "desc": "Gerne: glad, with pleasure (adverb)"
   },
   {
     "id": 10027,
-    "en": "Which type of books do you read? I mainly read biographies",
-    "de": "Welche Art von Büchern liest du? Ich lese hauptsächlich Biografien (بیوگ رافین) (وِلچِ) (فُن) (بًشِرن) (هاپت زِشلیش)",
+    "en": "Which type of books do you read? \n I mainly read biographies",
+    "de": "Welche Art von Büchern liest du? \n Ich lese hauptsächlich Biografien (بیوگ رافین) (وِلچِ) (فُن) (بًشِرن) (هاپت زِشلیش)",
     "desc": "Art: type - hauptsächlich: mainly (adverb)"
   },
   {
     "id": 10028,
-    "en": "Are you angry? No, I'm not angry",
-    "de": "Bist du wütend? Nein, Ich bin nicht wütend (ووتِند) (نیشت)"
+    "en": "Are you angry? \n No, I'm not angry",
+    "de": "Bist du wütend? Nein, \n Ich bin nicht wütend (ووتِند) (نیشت)"
   },
   {
     "id": 10029,
@@ -179,8 +179,8 @@
   },
   {
     "id": 10036,
-    "en": "Where do you come from? I come from Germany. Funny, I do too",
-    "de": "Wo kommst du her? Ich komme aus Deutschland. Witzig, ich auch (هیِ) (ویتزیگ ایش آوخ)",
+    "en": "Where do you come from? \n I come from Germany. Funny, I do too",
+    "de": "Wo kommst du her? \n Ich komme aus Deutschland. Witzig, ich auch (هیِ) (ویتزیگ ایش آوخ)",
     "desc": "Woher kommst du? ← That's the verb kommen.\n\nWo kommst du her? ← That's the verb herkommen.\n\nThe meaning is similar."
   },
   {
@@ -418,47 +418,62 @@
   },
   {
     "id": 10081,
-    "en": "I see. Do I see? What do I see? When do I see?",
-    "de": "Ich sehe (زیِ). Sehe ich? Was sehe ich? Wann sehe ich?"
+    "en": "I see. \n Do I see? \n What do I see? \n When do I see?",
+    "de": "Ich sehe (زیِ). \n Sehe ich? \n Was sehe ich? \n Wann sehe ich?"
   },
   {
     "id": 10082,
-    "en": "You work as a teacher. Do you work as a teacher? Where do you work as a teacher?",
-    "de": "Du arbeitest als Lehre. Arbeitest du als Lehre? Wo arbeitest du als Lehre?"
+    "en": "You work as a teacher. \n Do you work as a teacher? \n Where do you work as a teacher?",
+    "de": "Du arbeitest als Lehre. \n Arbeitest du als Lehre? \n Wo arbeitest du als Lehre?"
   },
   {
     "id": 10083,
-    "en": "She writes a letter. Does she write a letter? Why does she write a letter?",
-    "de": "Sie schreibt einen Brief. Schreibt sie einen Brief? Warum schreibt sie einen Brief?"
+    "en": "She writes a letter. \n Does she write a letter? \n Why does she write a letter?",
+    "de": "Sie schreibt einen Brief. \n Schreibt sie einen Brief? \n Warum schreibt sie einen Brief?"
   },
   {
     "id": 10084,
-    "en": "We go to the cinema. Do we go to the cinema? How do we go to the cinema?",
-    "de": "Wir gehen (گِ اِن) ins Kino. Gehen wir ins Kino? Wie gehen wir ins Kino?"
+    "en": "We go to the cinema. \n Do we go to the cinema? \n How do we go to the cinema?",
+    "de": "Wir gehen (گِ اِن) ins Kino. \n Gehen wir ins Kino? \n Wie gehen wir ins Kino?"
   },
   {
     "id": 10085,
-    "en": "He likes to do his homework. Does he like to do his homework? How does he like to do his homework?",
-    "de": "Er macht gerne seine Hausaufgabe. Macht er gerne seine Hausaufgabe? Wie Macht er gerne seine Hausaufgabe?"
+    "en": "He likes to do his homework. \n Does he like to do his homework? \n How does he like to do his homework?",
+    "de": "Er macht gerne seine Hausaufgabe. \n Macht er gerne seine Hausaufgabe? \n Wie Macht er gerne seine Hausaufgabe?"
   },
   {
     "id": 10086,
-    "en": "I must go to school tomorrow. Must I go to school tomorrow? Where must I go tomorrow?",
-    "de": "Ich muss morgen zur Schule gehen. Muss ich morgen zur Schule gehen? (گِ اِن) Wohin muss ich morgen gehen?"
+    "en": "I must go to school tomorrow. \n Must I go to school tomorrow? \n Where must I go tomorrow?",
+    "de": "Ich muss morgen zur Schule gehen. \n Muss ich morgen zur Schule gehen? (گبهن) \n Wohin muss ich morgen gehen?"
   },
   {
     "id": 10087,
-    "en": "We learn German diligently. Do we diligently learn German? What do we diligently learn?",
-    "de": "Wir lernen fleißig Deutsch. Lernen wir fleißig Deutsch? Was lernen wir fleißig?"
+    "en": "We learn German diligently. \n Do we diligently learn German? \n What do we diligently learn?",
+    "de": "Wir lernen fleißig Deutsch. \n Lernen wir fleißig Deutsch? \n Was lernen wir fleißig?"
   },
   {
     "id": 10088,
-    "en": "Monday, Tuesday, Wednesday, Thursday, Friday, Saturday, Sunday",
-    "de": "Montag, Dienstag, Mittwoch, Donnerstag, Freitag, Samstag, Sonntag"
+    "en": "Monday \n Tuesday \n Wednesday \n Thursday \n Friday \n Saturday \n Sunday",
+    "de": "Montag \n Dienstag \n Mittwoch \n Donnerstag \n Freitag \n Samstag \n Sonntag"
   },
   {
     "id": 10089,
     "en": "I can't speak German well",
     "de": "Ich kann nicht gut Deutsch sprechen"
+  },
+  {
+    "id": 10090,
+    "en": "I give you my suitcase",
+    "de": "Ich gebe dir meinen Koffer"
+  },
+  {
+    "id": 10091,
+    "en": "You ask the teacher the question",
+    "de": "Ihr fragt der Lehrerin die Frage"
+  },
+  {
+    "id": 10092,
+    "en": "We see you",
+    "de": "Wir sehen dich"
   }
 ]

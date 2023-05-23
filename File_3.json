@@ -1,7 +1,7 @@
 [
   {
     "id": 20001,
-    "en": "work",
+    "en": "Work",
     "de": "\n arbeite \n arbeitest \n arbeitet \n arbeiten \n arbeitet \n arbeiten (آربایتن)"
   },
   {
@@ -16,18 +16,18 @@
   },
   {
     "id": 20004,
-    "en": "eat",
+    "en": "Eat",
     "de": "\n esse \n isst \n isst \n essen \n esst \n essen (اِسن)"
   },
   {
     "id": 20005,
-    "en": "ask",
+    "en": "Ask",
     "de": "\n frage (فراگست) \n fragst \n fragt \n fragen \n fragt \n fragen (فراگن)"
   },
   {
     "id": 20006,
     "en": "Go",
-    "de": "\n gehe (گِ اِ) \n gehst (گِست) \n (گِت) geht \n gehen \n geht (گِت) \n gehen (گِ اِن)"
+    "de": "\n gehe (گیهِ) \n gehst (گیست) \n geht (گیت) \n gehen \n geht \n gehen (گبهن)"
   },
   {
     "id": 20007,
@@ -76,7 +76,7 @@
   },
   {
     "id": 20016,
-    "en": "say",
+    "en": "Say",
     "de": "\n sage \n sagst (زاگست) \n sagt \n sagen \n sagt \n sagen (زاگن)"
   },
   {
@@ -87,7 +87,7 @@
   {
     "id": 20018,
     "en": "See",
-    "de": "\n sehe (زیِ) \n siehst (زیست) \n sieht (زیت) \n sehen \n seht (زیت) \n sehen (زی ان)"
+    "de": "\n sehe (زیهِ) \n siehst (زیست) \n sieht (زیت) \n sehen \n seht (زیت) \n sehen (زیهِن)"
   },
   {
     "id": 20019,
