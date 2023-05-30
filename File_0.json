@@ -244,7 +244,8 @@
   {
     "id": 49,
     "fa": "مجبورم نکن از ماشین پیاده شم",
-    "en": "Don't make me get out of the car"
+    "en": "Don't make me get out of the car",
+    "desc": "\"Make + object + (to) + verb\": In this construction, the word \"to\" is optional. It can be used after the object if the following verb requires it"
   },
   {
     "id": 50,
@@ -1572,7 +1573,7 @@
   },
   {
     "id": 314,
-    "fa": "آیا اخیرا پاساژ جدیده بودی؟",
+    "fa": "آیا تا به حال به مرکز خرید جدید رفته ای؟",
     "en": "Have you been to the new mall yet?"
   },
   {

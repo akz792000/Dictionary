@@ -126,20 +126,20 @@
   },
   {
     "id": 10026,
-    "en": "Do you read with pleasure? \n Yes, I read with pleasure",
-    "de": "Liest du gerne? \n Ja, Ich lese gerne (لیست) (گِرنِ) (لیزِ)",
+    "en": "\n Do you read with pleasure? \n Yes, I read with pleasure",
+    "de": "\n Liest du gerne? \n Ja, Ich lese gerne (لیست) (گِرنِ) (لیزِ)",
     "desc": "Gerne: glad, with pleasure (adverb)"
   },
   {
     "id": 10027,
-    "en": "Which type of books do you read? \n I mainly read biographies",
-    "de": "Welche Art von Büchern liest du? \n Ich lese hauptsächlich Biografien (بیوگ رافین) (وِلچِ) (فُن) (بًشِرن) (هاپت زِشلیش)",
+    "en": "\n Which type of books do you read? \n I mainly read biographies",
+    "de": "\n Welche Art von Büchern liest du? \n Ich lese hauptsächlich Biografien (بیوگ رافین) (وِلچِ) (فُن) (بًشِرن) (هاپت زِشلیش)",
     "desc": "Art: type - hauptsächlich: mainly (adverb)"
   },
   {
     "id": 10028,
-    "en": "Are you angry? \n No, I'm not angry",
-    "de": "Bist du wütend? Nein, \n Ich bin nicht wütend (ووتِند) (نیشت)"
+    "en": "\n Are you angry? \n No, I'm not angry",
+    "de": "\n Bist du wütend? Nein, \n Ich bin nicht wütend (ووتِند) (نیشت)"
   },
   {
     "id": 10029,
@@ -179,8 +179,8 @@
   },
   {
     "id": 10036,
-    "en": "Where do you come from? \n I come from Germany. Funny, I do too",
-    "de": "Wo kommst du her? \n Ich komme aus Deutschland. Witzig, ich auch (هیِ) (ویتزیگ ایش آوخ)",
+    "en": "\n Where do you come from? \n I come from Germany. Funny, I do too",
+    "de": "\n Wo kommst du her? \n Ich komme aus Deutschland. Witzig, ich auch (هیِ) (ویتزیگ ایش آوخ)",
     "desc": "Woher kommst du? ← That's the verb kommen.\n\nWo kommst du her? ← That's the verb herkommen.\n\nThe meaning is similar."
   },
   {
@@ -277,8 +277,8 @@
   },
   {
     "id": 10055,
-    "en": "Subject pronoun \n\n I, you, he(M)/she(F)/it(N), we, you, they",
-    "de": "Subjekt Pronomen \n\n ich, du, er(M)/sie(F)/es(N), wir (ویِ), ihr (ایِ), sie-Sie"
+    "en": "\n Subject pronoun \n\n I, you, he(M)/she(F)/it(N), we, you, they",
+    "de": "\n Subjekt Pronomen \n\n ich, du, er(M)/sie(F)/es(N), wir (ویِ), ihr (ایِ), sie-Sie"
   },
   {
     "id": 10056,
@@ -299,13 +299,13 @@
   {
     "id": 10059,
     "en": "the definite article",
-    "de": "der bestimmte artikel (بشتیمت) \n\n Nominative der(M)/die(F)/das(N)/die(P) \n Akkusative den(M)/die(F)/das(N)/die(P) \n Dativ      dem(M)/der(F)/dem(N)/den(P)",
+    "de": "\n der bestimmte artikel (بشتیمت) \n\n Nominative der(M)/die(F)/das(N)/die(P) \n Akkusative den(M)/die(F)/das(N)/die(P) \n Dativ      dem(M)/der(F)/dem(N)/den(P)",
     "desc": "Subjective => Nominative (فاعلی, چه کسی ,چه چیزی) \n\n Objective => Akkusative (مفعول بی واسطه, چه کسی را, چه چیزی را) \n Objective => Dativ (مفعول با واسطه, به چه کسی, به چه چیزی)"
   },
   {
     "id": 10060,
     "en": "the indefinite article",
-    "de": "der unbestimmte artikel (اون بشتیمت) \n\n Nominative ein(M)/eine(F)/ein(N)/-(P) \n Akkusative einen(M)/eine(F)/ein(N)/-(P) \n Dativ      einem(M)/einer(F)/einem(N)/-(P)",
+    "de": "\n der unbestimmte artikel (اون بشتیمت) \n\n Nominative ein(M)/eine(F)/ein(N)/-(P) \n Akkusative einen(M)/eine(F)/ein(N)/-(P) \n Dativ      einem(M)/einer(F)/einem(N)/-(P)",
     "desc": "Subjective => Nominative (فاعلی, چه کسی ,چه چیزی) \n\n Objective => Akkusative (مفعول بی واسطه, چه کسی را, چه چیزی را) \n Objective => Dativ (مفعول با واسطه, به چه کسی, به چه چیزی)"
   },
   {
@@ -348,7 +348,7 @@
   {
     "id": 10068,
     "en": "My brother is teacher",
-    "de": "Mein bruder ist Lehre (لیرِ)"
+    "de": "Mein bruder ist Lehrer (لیرِ)"
   },
   {
     "id": 10069,
@@ -362,14 +362,14 @@
   },
   {
     "id": 10071,
-    "en": "Object pronoun - Akkusative \n\n me, you, him(M)/her(F)/it(N), us, you, them",
-    "de": "Objektpronomen (آبیکت پرونومن) - Akkusative \n\n mich, dich, ihn(M)(این)/sie(F)/es(N), uns (اونس), euch (اویچ), sie-Sie",
+    "en": "\n Object pronoun - Akkusative \n\n me, you, him(M)/her(F)/it(N), us, you, them",
+    "de": "\n Objektpronomen (آبیکت پرونومن) - Akkusative \n\n mich, dich, ihn(M)(این)/sie(F)/es(N), uns (اونس), euch (اویچ), sie-Sie",
     "desc": "بی واسطه - چه چیزی را - چه کسی را"
   },
   {
     "id": 10072,
-    "en": "Object pronoun - Dativ \n\n me, you, him(M)/her(F)/it(N), us, you, them",
-    "de": "Objektpronomen (آبیکت پرونومن) - Dativ \n\n mir (میِ), dir (دیِ), ihm(M)(ایم)/ihr(F)(اییِ)/ihm(N), uns (اونس), euch (اویچ), ihnen-Ihnen (اینن)",
+    "en": "\n Object pronoun - Dativ \n\n me, you, him(M)/her(F)/it(N), us, you, them",
+    "de": "\n Objektpronomen (آبیکت پرونومن) - Dativ \n\n mir (میِ), dir (دیِ), ihm(M)(ایم)/ihr(F)(اییِ)/ihm(N), uns (اونس), euch (اویچ), ihnen-Ihnen (اینن)",
     "desc": "با واسطه - به چه چیزی - به چه کسی"
   },
   {
@@ -418,43 +418,43 @@
   },
   {
     "id": 10081,
-    "en": "I see. \n Do I see? \n What do I see? \n When do I see?",
-    "de": "Ich sehe (زیِ). \n Sehe ich? \n Was sehe ich? \n Wann sehe ich?"
+    "en": "\n I see. \n Do I see? \n What do I see? \n When do I see?",
+    "de": "\n Ich sehe (زیِ). \n Sehe ich? \n Was sehe ich? \n Wann sehe ich?"
   },
   {
     "id": 10082,
-    "en": "You work as a teacher. \n Do you work as a teacher? \n Where do you work as a teacher?",
-    "de": "Du arbeitest als Lehre. \n Arbeitest du als Lehre? \n Wo arbeitest du als Lehre?"
+    "en": "\n You work as a teacher. \n Do you work as a teacher? \n Where do you work as a teacher?",
+    "de": "\n Du arbeitest als Lehre. \n Arbeitest du als Lehre? \n Wo arbeitest du als Lehre?"
   },
   {
     "id": 10083,
-    "en": "She writes a letter. \n Does she write a letter? \n Why does she write a letter?",
-    "de": "Sie schreibt einen Brief. \n Schreibt sie einen Brief? \n Warum schreibt sie einen Brief?"
+    "en": "\n She writes a letter. \n Does she write a letter? \n Why does she write a letter?",
+    "de": "\n Sie schreibt einen Brief. \n Schreibt sie einen Brief? \n Warum schreibt sie einen Brief?"
   },
   {
     "id": 10084,
-    "en": "We go to the cinema. \n Do we go to the cinema? \n How do we go to the cinema?",
-    "de": "Wir gehen (گِ اِن) ins Kino. \n Gehen wir ins Kino? \n Wie gehen wir ins Kino?"
+    "en": "\n We go to the cinema. \n Do we go to the cinema? \n How do we go to the cinema?",
+    "de": "\n Wir gehen (گِ اِن) ins Kino. \n Gehen wir ins Kino? \n Wie gehen wir ins Kino?"
   },
   {
     "id": 10085,
-    "en": "He likes to do his homework. \n Does he like to do his homework? \n How does he like to do his homework?",
-    "de": "Er macht gerne seine Hausaufgabe. \n Macht er gerne seine Hausaufgabe? \n Wie Macht er gerne seine Hausaufgabe?"
+    "en": "\n He likes to do his homework. \n Does he like to do his homework? \n How does he like to do his homework?",
+    "de": "\n Er macht gerne seine Hausaufgabe. \n Macht er gerne seine Hausaufgabe? \n Wie Macht er gerne seine Hausaufgabe?"
   },
   {
     "id": 10086,
-    "en": "I must go to school tomorrow. \n Must I go to school tomorrow? \n Where must I go tomorrow?",
-    "de": "Ich muss morgen zur Schule gehen. \n Muss ich morgen zur Schule gehen? (گبهن) \n Wohin muss ich morgen gehen?"
+    "en": "\n I must go to school tomorrow. \n Must I go to school tomorrow? \n Where must I go tomorrow?",
+    "de": "\n Ich muss morgen zur Schule gehen. \n Muss ich morgen zur Schule gehen? (گبهن) \n Wohin muss ich morgen gehen?"
   },
   {
     "id": 10087,
-    "en": "We learn German diligently. \n Do we diligently learn German? \n What do we diligently learn?",
-    "de": "Wir lernen fleißig Deutsch. \n Lernen wir fleißig Deutsch? \n Was lernen wir fleißig?"
+    "en": "\n We learn German diligently. \n Do we diligently learn German? \n What do we diligently learn?",
+    "de": "\n Wir lernen fleißig Deutsch. \n Lernen wir fleißig Deutsch? \n Was lernen wir fleißig?"
   },
   {
     "id": 10088,
-    "en": "Monday \n Tuesday \n Wednesday \n Thursday \n Friday \n Saturday \n Sunday",
-    "de": "Montag \n Dienstag \n Mittwoch \n Donnerstag \n Freitag \n Samstag \n Sonntag"
+    "en": "\n Monday \n Tuesday \n Wednesday \n Thursday \n Friday \n Saturday \n Sunday",
+    "de": "\n Montag \n Dienstag \n Mittwoch \n Donnerstag \n Freitag \n Samstag \n Sonntag"
   },
   {
     "id": 10089,
@@ -484,42 +484,42 @@
   },
   {
     "id": 10094,
-    "en": "I eat \n I do not eat",
-    "de": "Ich esse \n Ich esse nicht (نیشت)"
+    "en": "\n I eat \n I do not eat",
+    "de": "\n Ich esse \n Ich esse nicht (نیشت)"
   },
   {
     "id": 10095,
-    "en": "He comes today \n He doesn't come today",
-    "de": "Er kommt heute \n Er kommt heute nicht"
+    "en": "\n He comes today \n He doesn't come today",
+    "de": "\n Er kommt heute \n Er kommt heute nicht"
   },
   {
     "id": 10096,
-    "en": "The cell phone lies on the table \n The cell phone doesn't lie on the table",
-    "de": "Das Handy liegt auf dem Tisch \n Das Handy liegt nicht auf dem Tisch (لیگت)"
+    "en": "\n The cell phone lies on the table \n The cell phone doesn't lie on the table",
+    "de": "\n Das Handy liegt auf dem Tisch \n Das Handy liegt nicht auf dem Tisch (لیگت)"
   },
   {
     "id": 10097,
-    "en": "I give you the book \n I don't give you the book",
-    "de": "Ich gebe dir das Buch \n Ich gebe dir nicht das Buch"
+    "en": "\n I give you the book \n I don't give you the book",
+    "de": "\n Ich gebe dir das Buch \n Ich gebe dir nicht das Buch"
   },
   {
     "id": 10098,
-    "en": "I give you a book \n I give you no book",
-    "de": "Ich gebe dir ein Buch \n Ich gebe dir nicht kein Buch"
+    "en": "\n I give you a book \n I give you no book",
+    "de": "\n Ich gebe dir ein Buch \n Ich gebe dir nicht kein Buch"
   },
   {
     "id": 10099,
-    "en": "I give you a flower \n I don't give you a flower",
-    "de": "Ich gebe dir eine Blume (بلومِ) \n Ich gebe dir keine Blume"
+    "en": "\n I give you a flower \n I don't give you a flower",
+    "de": "\n Ich gebe dir eine Blume (بلومِ) \n Ich gebe dir keine Blume"
   },
   {
     "id": 10100,
-    "en": "I drink beer \n I do not drink beer",
-    "de": "Ich trinke Bier \n Ich trinke kein Bier"
+    "en": "\n I drink beer \n I do not drink beer",
+    "de": "\n Ich trinke Bier \n Ich trinke kein Bier"
   },
   {
     "id": 10101,
-    "en": "I drink wine \n I don't drink wine",
-    "de": "Ich trinke Wein \n Ich trinke keinen Wein"
+    "en": "\n I drink wine \n I don't drink wine",
+    "de": "\n Ich trinke Wein \n Ich trinke keinen Wein"
   }
 ]

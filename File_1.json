@@ -413,7 +413,7 @@
   {
     "id": 582,
     "fa": "زمستان و تابستان آنجا برعکسه",
-    "en": "The winter and the summer are the other way round there"
+    "en": "The winter and the summer are the other way around there"
   },
   {
     "id": 583,
@@ -433,7 +433,7 @@
   {
     "id": 586,
     "fa": "من قصد دارم که پشتم را خم کنم و به نظر میرسه که تسلیم هستم",
-    "en": "I am gonna curl my back over and look like I'm being submissive"
+    "en": "I am gonna curl my back over and it looks like I'm being submissive"
   },
   {
     "id": 587,
@@ -689,7 +689,8 @@
   {
     "id": 637,
     "fa": "علی در کدام ایالت بایرن است؟",
-    "en": "In which state in Bavaria is Ali?"
+    "en": "In which state in Bavaria is Ali?",
+    "desc": "Both sentence structures are acceptable and commonly used for asking about the location of a place or person. The choice between \"In which state is Ali?\" and \"Which state is Ali in?\" as well as \"What continent is Italy in?\" and \"In what continent is Italy?\" is a matter of personal preference and style. Both forms are grammatically correct and convey the same meaning."
   },
   {
     "id": 638,
@@ -735,7 +736,7 @@
   },
   {
     "id": 646,
-    "fa": "این از طرف من خواهد بود",
+    "fa": "آن از طرف من خواهد بود",
     "en": "That would be it from my site"
   },
   {
@@ -765,7 +766,7 @@
   },
   {
     "id": 652,
-    "fa": "چقدر طول می کشد تا نوبت من شه؟",
+    "fa": "چقدر طول خواهد کشید تا نوبت من شه؟",
     "en": "How long will it take for my turn?"
   },
   {
@@ -1118,7 +1119,8 @@
   {
     "id": 721,
     "fa": "او (زن) همیشه به هر سوالی پاسخ رک می دهد",
-    "en": "She always gives a straight answer to every question"
+    "en": "She always gives a straight answer to every question",
+    "desc": "In English, the most common sentence structure is subject + verb + object. This structure is known as a basic declarative sentence. \n Adverbs can be placed before or after the verb they modify. In this case, \"always\" comes before the verb \"gives\" to indicate that the action of giving a straight answer is consistently performed. So, the corrected sentence structure is subject + adverb + verb + object."
   },
   {
     "id": 722,
@@ -1219,7 +1221,7 @@
     "id": 741,
     "fa": "متاسفم که مزاحم شما شدم",
     "en": "I'm sorry to have troubled you",
-    "desc": "In this sentence, \"I'm sorry\" expresses an apology or regret, indicating that the speaker acknowledges causing inconvenience or difficulty. \"To have troubled you\" is an infinitive phrase that functions as the object of the sentence. It suggests that the speaker is sorry for the trouble they have caused to the person being addressed."
+    "desc": "In this sentence, \"I am sorry\" expresses regret or apology, and \"to have troubled you\" provides additional information about the action for which the speaker is sorry. The infinitive phrase \"to have troubled you\" functions as the direct object or complement of the verb \"sorry,\" specifying the reason or cause for the apology.\n\nThe structure \"to + have + past participle\" is commonly used in English to express actions or events that occurred in the past. In this case, it indicates that the speaker is apologizing for causing trouble or inconvenience to the person being addressed."
   },
   {
     "id": 742,
@@ -1400,5 +1402,247 @@
     "id": 777,
     "fa": "همسرم با برادر شوهر و خواهرشوهرش رابطه خوبی دارد",
     "en": "My wife has a good relationship with her brother-in-law and sister-in-law"
+  },
+  {
+    "id": 778,
+    "fa": "او (مرد) در پی یک تصادف رانندگی بد شکل شد",
+    "en": "He was disfigured following a car accident"
+  },
+  {
+    "id": 779,
+    "fa": "تیشرتم چروک شده",
+    "en": "My t-shirt is creased"
+  },
+  {
+    "id": 780,
+    "fa": "باید بند کفشم را ببندم",
+    "en": "I need to tie my shoelaces (شو لی سِس)"
+  },
+  {
+    "id": 781,
+    "fa": "از همه چیز راضی هستی؟",
+    "en": "Is everything to your satisfaction?"
+  },
+  {
+    "id": 782,
+    "fa": "اوضاع تغییر کرده است",
+    "en": "Things have changed"
+  },
+  {
+    "id": 783,
+    "fa": "چی تو ذهنت است؟",
+    "en": "What do you have in your mind?"
+  },
+  {
+    "id": 784,
+    "fa": "چیزی که او (مرد) گفت درست نیست",
+    "en": "What he said is not true"
+  },
+  {
+    "id": 785,
+    "fa": "زیر دوش بودم",
+    "en": "I was in the shower"
+  },
+  {
+    "id": 786,
+    "fa": "باید از اینجا برم بیرون",
+    "en": "I gotta get out of here",
+    "desc": "I have got to get out of here"
+  },
+  {
+    "id": 787,
+    "fa": "داره دیرم میشه",
+    "en": "I am running late"
+  },
+  {
+    "id": 788,
+    "fa": "فیلم ساعت چند شروع می شود؟",
+    "en": "What time does the movie begin?"
+  },
+  {
+    "id": 789,
+    "fa": "برای شام چی پیشنهاد میکنید؟",
+    "en": "What do you recommend for dinner?"
+  },
+  {
+    "id": 790,
+    "fa": "صدات رو بیار پایین",
+    "en": "Keep your voice down or Lower your voice"
+  },
+  {
+    "id": 791,
+    "fa": "هدف اسپرینت یه کم واضح نیست",
+    "en": "The sprint goal is a little fluffy",
+    "desc": "\nIn the context of project management and agile development methodologies, the sentence \"The sprint goal is a little fluffy\" suggests that the sprint goal, which is the objective or target for a specific iteration of work within a project, lacks clarity or specificity."
+  },
+  {
+    "id": 792,
+    "fa": "بعضی وقت ها بعد از ناهار هوس می کنم یک تکه شکلات بخورم",
+    "en": "Sometimes I get an urge to eat a piece of chocolate after lunch"
+  },
+  {
+    "id": 793,
+    "fa": "چیزی که من را در مورد او (مرد) آزار می دهد، بی خیالی اوست",
+    "en": "What annoys me about him is his complacency (کام پلی سنسی)"
+  },
+  {
+    "id": 794,
+    "fa": "هرچه دامنه واژگان خود را بیشتر گسترش دهید، مطمئن تر و طبیعی تر در زبان انگلیسی به نظر خواهید بود",
+    "en": "The more you expand your vocabulary range, the more confident and natural you will sound in English"
+  },
+  {
+    "id": 795,
+    "fa": "قیمت های بالا بسیاری از زوج های جوان را از خرید خانه منصرف می کند",
+    "en": "High prices are deterring many young couples from buying houses"
+  },
+  {
+    "id": 796,
+    "fa": "رفتار بی پروا او باعث شد تا از مدرسه محروم شود",
+    "en": "His reckless behavior is what caused him to be suspended from school"
+  },
+  {
+    "id": 797,
+    "fa": "آیا می تونیم صورتحسابمون را داشته باشیم؟",
+    "en": "Could we have our bill please?"
+  },
+  {
+    "id": 798,
+    "fa": "معلم کنار تخته است",
+    "en": "The teacher is next to the board"
+  },
+  {
+    "id": 799,
+    "fa": "کره زمین روی قفسه کتاب است",
+    "en": "The globe is on the bookcase"
+  },
+  {
+    "id": 800,
+    "fa": "یک ساعت روی دیوار هست",
+    "en": "There's a clock on the wall"
+  },
+  {
+    "id": 801,
+    "fa": "دستیار معلم ساعتی را بالای تابلوی اعلانات گذاشت",
+    "en": "The teacher's aide put a clock above the bulletin board"
+  },
+  {
+    "id": 802,
+    "fa": "من سطل زباله، پاک کن، تراش، دفتر مارپیچ، کلاسور، کاغذ گراف، خط کش، گچ و پونز می خرم",
+    "en": "I buy wastebasket, eraser, sharpener, spiral notebook (اسپایرل), binder (بایندر), graph paper, ruler, chalk (چاک) and thumbtack (ثام تک)"
+  },
+  {
+    "id": 803,
+    "fa": "بنشینید",
+    "en": "Take your seat"
+  },
+  {
+    "id": 804,
+    "fa": "پاسخ را مرور کنید",
+    "en": "Go over the answer"
+  },
+  {
+    "id": 805,
+    "fa": "تکالیف خود را تحویل دهید",
+    "en": "Hand in your homework"
+  },
+  {
+    "id": 806,
+    "fa": "معنی کلمه را پیدا کنید",
+    "en": "Look up the word"
+  },
+  {
+    "id": 807,
+    "fa": "یادداشت بردارید",
+    "en": "Take notes"
+  },
+  {
+    "id": 808,
+    "fa": "تکه کاغذ را بیرون بیاورید",
+    "en": "Take out the piece of paper"
+  },
+  {
+    "id": 809,
+    "fa": "تست ها را دست به دست کنید",
+    "en": "Pass out the tests"
+  },
+  {
+    "id": 810,
+    "fa": "جای خالی را پر کنید",
+    "en": "Fill in the blank"
+  },
+  {
+    "id": 811,
+    "fa": "کلمه را خط بکشید",
+    "en": "Cross out the word"
+  },
+  {
+    "id": 812,
+    "fa": "حروف کلمه را مرتب کنید",
+    "en": "Unscramble the word"
+  },
+  {
+    "id": 813,
+    "fa": "کلمات را به ترتیب قرار دهید",
+    "en": "Put the words in order"
+  },
+  {
+    "id": 814,
+    "fa": "شما هر روز چه کار می کنید؟ بلند می شوم، دوش می گیرم و دندان هایم را مسواک می زنم",
+    "en": "What do you do everyday? I get up, take a shower and brush my teeth"
+  },
+  {
+    "id": 815,
+    "fa": "او (زن) آرایش می کند و موهایش را شانه می کند",
+    "en": "She puts on make-up and combs her hair"
+  },
+  {
+    "id": 816,
+    "fa": "او ظرف ها را می شست، اتو می کشد و به نوزاد غذا می دهد",
+    "en": "She washes the dishes, irons, and feeds the baby"
+  },
+  {
+    "id": 817,
+    "fa": "داریم میرسیم خونه",
+    "en": "We're getting home"
+  },
+  {
+    "id": 818,
+    "fa": "اگر عجله نکنید قطار را از دست خواهید داد",
+    "en": "If you don't hurry you will miss the train"
+  },
+  {
+    "id": 819,
+    "fa": "آن چیزی که به نظر می رسد نیست",
+    "en": "It's not what it looks like"
+  },
+  {
+    "id": 820,
+    "fa": "پیشاپیش تولدت مبارک",
+    "en": "Happy birthday in advance"
+  },
+  {
+    "id": 821,
+    "fa": "با آرزوی موفقیت برای همه شما در مسابقات باقی مانده، صرف نظر از اینکه در کدام مسیر هستید",
+    "en": "Good Luck to all of you in your remaining matches, regardless on which track your are"
+  },
+  {
+    "id": 822,
+    "fa": "وقتی افراد نامناسبی را ترقی می دهی، بهترین افراد خود را از دست می دهید",
+    "en": "When you promote the wrong people, you begin to lose your best people"
+  },
+  {
+    "id": 823,
+    "fa": "چرا من  ( از شدت درد یا ترس ) عقب کشیدم",
+    "en": "Why didn't I flinch?"
+  },
+  {
+    "id": 824,
+    "fa": "به همسرم گفتم که برای یک عکس ژست بگیرد",
+    "en": "I told my boss to pose for a picture"
+  },
+  {
+    "id": 825,
+    "fa": "شترمرغ بزرگترین پرنده جهان است, قد می کشد تا ۲.۷ متر و وزنش بالا می رود تا ۱۴۵ کیلوگرم",
+    "en": "The Ostrich is the largest bird in the world, standing up to 2.7 meters tall and weighing up to 145 kilograms"
   }
 ]
