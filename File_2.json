@@ -127,7 +127,7 @@
   {
     "id": 10026,
     "en": "\n Do you read with pleasure? \n Yes, I read with pleasure",
-    "de": "\n Liest du gerne? \n Ja, Ich lese gerne (لیست) (گِرنِ) (لیزِ)",
+    "de": "\n Liest du gerne? \n Ja, Ich lese gerne (لیست) (گِرنِ) (لِ ز)",
     "desc": "Gerne: glad, with pleasure (adverb)"
   },
   {
@@ -316,7 +316,7 @@
   {
     "id": 10062,
     "en": "I see the man",
-    "de": "Ich sehe den Mann (زیِ)"
+    "de": "Ich sehe den Mann (زِ اِ)"
   },
   {
     "id": 10063,
@@ -521,5 +521,10 @@
     "id": 10101,
     "en": "\n I drink wine \n I don't drink wine",
     "de": "\n Ich trinke Wein \n Ich trinke keinen Wein"
+  },
+  {
+    "id": 10102,
+    "en": "I want 2 kilos of mutton and 1 kilo of veal",
+    "de": "Ich möchte 2 Kilo Hammelfleisch und 1 Kilo Kalbfleisch"
   }
 ]

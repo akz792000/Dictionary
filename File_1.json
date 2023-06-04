@@ -688,8 +688,8 @@
   },
   {
     "id": 637,
-    "fa": "علی در کدام ایالت بایرن است؟",
-    "en": "In which state in Bavaria is Ali?",
+    "fa": "علی در کدام ایالت آلمان است؟",
+    "en": "In which state in Germany is Ali?",
     "desc": "Both sentence structures are acceptable and commonly used for asking about the location of a place or person. The choice between \"In which state is Ali?\" and \"Which state is Ali in?\" as well as \"What continent is Italy in?\" and \"In what continent is Italy?\" is a matter of personal preference and style. Both forms are grammatically correct and convey the same meaning."
   },
   {
@@ -737,7 +737,8 @@
   {
     "id": 646,
     "fa": "آن از طرف من خواهد بود",
-    "en": "That would be it from my site"
+    "en": "That would be it from my site",
+    "desc": "The phrase \"That would be it from my side\" is commonly used to indicate that the speaker has nothing more to add or contribute to the conversation or situation. It implies that the speaker has said or done everything they intended to and has no further input."
   },
   {
     "id": 647,
@@ -979,7 +980,7 @@
     "id": 693,
     "fa": "ما ممکن است به آنها برای آنچه می دانند اعتبار کافی قائل نباشیم",
     "en": "We may not be giving them enough credit for what they know",
-    "desc": "\nThe phrase \"may not give them\" is in the simple present tense, and suggests a general or habitual action. It implies that the subject (e.g., \"we\") does not give credit to the individuals being discussed on a regular or consistent basis.\n\nIn contrast, the phrase \"may not be giving them\" is in the present continuous tense, and suggests an ongoing action that is happening at the present moment. It implies that the subject may not currently be giving credit to the individuals being discussed, but leaves open the possibility that they may do so in the future or have done so in the past."
+    "desc": "\"We may not be giving them enough credit for what they know.\"\nThis sentence suggests an ongoing or continuous action of not giving enough credit. It implies that there is a pattern or tendency of underestimating or undervaluing their knowledge.\n\n\"We may not give them enough credit for what they know.\"\nThis sentence presents a more general statement about not giving enough credit. It does not specifically imply a continuous action, but rather suggests that there may be instances or situations where credit is not adequately given."
   },
   {
     "id": 694,
@@ -1119,7 +1120,7 @@
   {
     "id": 721,
     "fa": "او (زن) همیشه به هر سوالی پاسخ رک می دهد",
-    "en": "She always gives a straight answer to every question",
+    "en": "She always gives a straight answer to any question",
     "desc": "In English, the most common sentence structure is subject + verb + object. This structure is known as a basic declarative sentence. \n Adverbs can be placed before or after the verb they modify. In this case, \"always\" comes before the verb \"gives\" to indicate that the action of giving a straight answer is consistently performed. So, the corrected sentence structure is subject + adverb + verb + object."
   },
   {
@@ -1411,12 +1412,13 @@
   {
     "id": 779,
     "fa": "تیشرتم چروک شده",
-    "en": "My t-shirt is creased"
+    "en": "My t-shirt is creased (/ˈkriːst/)"
   },
   {
     "id": 780,
     "fa": "باید بند کفشم را ببندم",
-    "en": "I need to tie my shoelaces (شو لی سِس)"
+    "en": "I need to tie my shoelaces (شو لی سِس)",
+    "desc": "\"I need to tie my shoelaces\" implies that it would be beneficial or necessary for the person to tie their shoelaces. It suggests a personal need or preference, emphasizing that it would be advantageous or appropriate to do so.\n\n\"I have to tie my shoelaces\" expresses a stronger sense of obligation or requirement. It indicates that there is a necessity or compulsion for the person to tie their shoelaces. It suggests that it is essential or mandatory to perform the action."
   },
   {
     "id": 781,
@@ -1426,7 +1428,8 @@
   {
     "id": 782,
     "fa": "اوضاع تغییر کرده است",
-    "en": "Things have changed"
+    "en": "Things have changed",
+    "desc": "The phrase \"Things have changed\" implies that there has been a general alteration or shift in circumstances or situations. It suggests that the state of things is different from what it was before, without specifying who or what caused the change.\n\nOn the other hand, \"Things have been changed\" suggests that someone or something has intentionally made alterations to the state of things. It implies that an external force or agent has actively brought about the change.\n\nIn summary, \"Things have changed\" focuses on the outcome of a general alteration, while \"Things have been changed\" highlights the action or intervention that caused the alteration."
   },
   {
     "id": 783,
@@ -1492,8 +1495,9 @@
   },
   {
     "id": 795,
-    "fa": "قیمت های بالا بسیاری از زوج های جوان را از خرید خانه منصرف می کند",
-    "en": "High prices are deterring many young couples from buying houses"
+    "fa": "قیمت های بالا دارد بسیاری از زوج های جوان را از خرید خانه ها منصرف می کند",
+    "en": "High prices are deterring many young couples from buying houses",
+    "desc": "By using the plural form, it conveys the idea that there are multiple potential houses that young couples could buy, but they are being deterred by the high prices. It implies a broader impact on the housing market, affecting a range of houses rather than just one specific house."
   },
   {
     "id": 796,
@@ -1542,7 +1546,7 @@
   },
   {
     "id": 805,
-    "fa": "تکالیف خود را تحویل دهید",
+    "fa": "تکلیف خود را تحویل دهید",
     "en": "Hand in your homework"
   },
   {
@@ -1622,27 +1626,152 @@
   },
   {
     "id": 821,
-    "fa": "با آرزوی موفقیت برای همه شما در مسابقات باقی مانده، صرف نظر از اینکه در کدام مسیر هستید",
+    "fa": "با آرزوی موفقیت برای همه شما در مسابقات باقی ماندهتان، صرف نظر از اینکه در کدام مسیر هستید",
     "en": "Good Luck to all of you in your remaining matches, regardless on which track your are"
   },
   {
     "id": 822,
-    "fa": "وقتی افراد نامناسبی را ترقی می دهی، بهترین افراد خود را از دست می دهید",
+    "fa": "وقتی افراد نامناسبی را ترقی می دهی، شما شروع می کنید به از دست دادن بهترین افراد خود",
     "en": "When you promote the wrong people, you begin to lose your best people"
   },
   {
     "id": 823,
-    "fa": "چرا من  ( از شدت درد یا ترس ) عقب کشیدم",
+    "fa": "چرا من  ( از شدت درد یا ترس ) عقب نکشیدم",
     "en": "Why didn't I flinch?"
   },
   {
     "id": 824,
-    "fa": "به همسرم گفتم که برای یک عکس ژست بگیرد",
+    "fa": "به رئیسم گفتم که برای یک عکس ژست بگیرد",
     "en": "I told my boss to pose for a picture"
   },
   {
     "id": 825,
     "fa": "شترمرغ بزرگترین پرنده جهان است, قد می کشد تا ۲.۷ متر و وزنش بالا می رود تا ۱۴۵ کیلوگرم",
     "en": "The Ostrich is the largest bird in the world, standing up to 2.7 meters tall and weighing up to 145 kilograms"
+  },
+  {
+    "id": 826,
+    "fa": "هرگز از طرف من صحبت نکن",
+    "en": "Never speak on my behalf"
+  },
+  {
+    "id": 827,
+    "fa": "پیراهن یک نقطه لکه دار کوچک رویش داشت",
+    "en": "The shirt had a small stained spot on it"
+  },
+  {
+    "id": 828,
+    "fa": "اینم یه دستمال",
+    "en": "Here's a napkin"
+  },
+  {
+    "id": 829,
+    "fa": "سعی کنید دهان خود را پاک کنید",
+    "en": "Try to wipe your mouth"
+  },
+  {
+    "id": 830,
+    "fa": "وقتی کار همکارم تمام شد، پیش شما خواهد آمد",
+    "en": "When my colleague is done, he will come to you"
+  },
+  {
+    "id": 831,
+    "fa": "توالت ها گرفته",
+    "en": "Toilets are clogged"
+  },
+  {
+    "id": 832,
+    "fa": "شلنگ را می کشم",
+    "en": "I yank the hose (یَنک) (هًز)"
+  },
+  {
+    "id": 833,
+    "fa": "دروازه را می کوبم",
+    "en": "I slam the gate"
+  },
+  {
+    "id": 834,
+    "fa": "من حشره را له می کنم",
+    "en": "I smash the bug"
+  },
+  {
+    "id": 835,
+    "fa": "من می تونم چشم غره برم",
+    "en": "I can roll my eyes"
+  },
+  {
+    "id": 836,
+    "fa": "می تونم اخم کنم",
+    "en": "I can frown"
+  },
+  {
+    "id": 837,
+    "fa": "میتونم چشمک بزنم",
+    "en": "I can wink"
+  },
+  {
+    "id": 838,
+    "fa": "من می تونم پلک بزنم",
+    "en": "I can blink"
+  },
+  {
+    "id": 839,
+    "fa": "من هنوز نمی توانم باهاش کنار بیام",
+    "en": "I still can't get over it"
+  },
+  {
+    "id": 840,
+    "fa": "محض اطلاعت, داری اشتباه میکنی",
+    "en": "For your information, you're making a mistake"
+  },
+  {
+    "id": 841,
+    "fa": "یه چیزی پیش اومد",
+    "en": "Something came up"
+  },
+  {
+    "id": 842,
+    "fa": "چیز دیگری هست که بخواهی به ما بگی؟",
+    "en": "Is there anything else you want to tell us"
+  },
+  {
+    "id": 843,
+    "fa": "همه جا جز اینجا",
+    "en": "Everywhere but here"
+  },
+  {
+    "id": 844,
+    "fa": "پشت هر مرد موفقی یک زن است",
+    "en": "Behind every successful man there is a woman"
+  },
+  {
+    "id": 845,
+    "fa": "از کجا تماس می گیرید؟",
+    "en": "Where are you calling from?"
+  },
+  {
+    "id": 846,
+    "fa": "طاقت بیار اونجا",
+    "en": "Hang in there"
+  },
+  {
+    "id": 847,
+    "fa": "قبلا اینجا بودی؟",
+    "en": "Have you been here before?"
+  },
+  {
+    "id": 848,
+    "fa": "من چیزی نگفتم. مطمئنی؟",
+    "en": "I didn't say anything. Are you sure?"
+  },
+  {
+    "id": 849,
+    "fa": "او (مرد) همیشه کار درست را انجام می دهد",
+    "en": "He always does the right thing"
+  },
+  {
+    "id": 850,
+    "fa": "آخرین باری که به اینجا آمدی کی بود؟",
+    "en": "When was the last time you came here?"
   }
 ]
