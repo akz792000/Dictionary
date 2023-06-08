@@ -1533,8 +1533,8 @@
   },
   {
     "id": 802,
-    "fa": "من سطل زباله، پاک کن، تراش، دفتر مارپیچ، کلاسور، کاغذ گراف، خط کش، گچ و پونز می خرم",
-    "en": "I buy wastebasket, eraser, sharpener, spiral notebook (اسپایرل), binder (بایندر), graph paper, ruler, chalk (چاک) and thumbtack (ثام تک)"
+    "fa": "من سطل زباله، پاک کن، تراش، کاغذ گراف، خط کش می خرم",
+    "en": "I buy wastebasket, eraser, sharpener, graph paper, ruler"
   },
   {
     "id": 803,
@@ -1825,5 +1825,120 @@
     "id": 860,
     "fa": "من از یک متر برای اندازه گیری دقیق طول اتاق استفاده کردم",
     "en": "I used a tape measure to measure the length of the room accurately"
+  },
+  {
+    "id": 861,
+    "fa": "دود نیست, گاز بیهوشی است",
+    "en": "It's not smoke, it's anesthetic gas"
+  },
+  {
+    "id": 862,
+    "fa": "شما این را از کجا گرفتی؟",
+    "en": "Where did you get this from?"
+  },
+  {
+    "id": 863,
+    "fa": "او (مرد) و من همسن هستیم",
+    "en": "He and I are the same age"
+  },
+  {
+    "id": 864,
+    "fa": "اول از همه",
+    "en": "First things first"
+  },
+  {
+    "id": 865,
+    "fa": "خوش برگشتی",
+    "en": "Welcome back"
+  },
+  {
+    "id": 866,
+    "fa": "از کی تا حالا؟",
+    "en": "Since when?"
+  },
+  {
+    "id": 867,
+    "fa": "او (مرد) یکی از بهترین دوستان من است",
+    "en": "He is one of my best friends"
+  },
+  {
+    "id": 868,
+    "fa": "تو یک دروغگو هستی",
+    "en": "You're a lier"
+  },
+  {
+    "id": 869,
+    "fa": "هممون هم فکر هستیم",
+    "en": "We're all on the same page"
+  },
+  {
+    "id": 870,
+    "fa": "با عقل جور در نمیاد",
+    "en": "It doesn't make sense"
+  },
+  {
+    "id": 871,
+    "fa": "نزدیکترین کافی شاپ کجاست؟",
+    "en": "Where is the nearest coffee shop?"
+  },
+  {
+    "id": 872,
+    "fa": "چند وقته ازدواج کرده اید؟",
+    "en": "How long have you been married?"
+  },
+  {
+    "id": 873,
+    "fa": "مدام از خودم می پرسم",
+    "en": "I keep asking myself"
+  },
+  {
+    "id": 874,
+    "fa": "چرا این اتفاق افتاد؟",
+    "en": "Why did this happen?"
+  },
+  {
+    "id": 875,
+    "fa": "تا حالا در مورد آن شنیده اید؟",
+    "en": "Have you ever heard of it?"
+  },
+  {
+    "id": 876,
+    "fa": "خواستن توانستن است",
+    "en": "When there is a will there is a way"
+  },
+  {
+    "id": 877,
+    "fa": "مهم نیست او (مرد) چه می گوید",
+    "en": "It doesn't matter what he says"
+  },
+  {
+    "id": 878,
+    "fa": "اصلا شنیدی چی گفتم؟",
+    "en": "Did you even hear what I said?"
+  },
+  {
+    "id": 879,
+    "fa": "این بستگی به نگاه شما دارد",
+    "en": "That depends on how you look at it"
+  },
+  {
+    "id": 880,
+    "fa": "کسی خانه هست؟",
+    "en": "Is there anybody home?"
+  },
+  {
+    "id": 881,
+    "fa": "او یادداشت های خود را در یک دفترچه سیم پیچ مرتب کرد و در یک کلاسور ذخیره کرد.",
+    "en": "She organized her notes in a spiral notebook (اسپایرل) and stored it in a binder (بایندر)"
+  },
+  {
+    "id": 882,
+    "fa": "معلم روی تخته سیاه با گچ نوشت",
+    "en": "The teacher wrote on the blackboard with chalk (چاک)"
+  },
+  {
+    "id": 883,
+    "fa": "او (مرد) سند را با یک پونز به تابلوی اعلانات سنجاق کرد",
+    "en": "He pinned the document to the bulletin board with a thumbtack (ثام تک)"
   }
 ]
