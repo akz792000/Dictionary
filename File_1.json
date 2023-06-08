@@ -1050,7 +1050,8 @@
   {
     "id": 707,
     "fa": "بگذار فقط کلاه تو را صاف کنم",
-    "en": "Let me just straighten out your helmet"
+    "en": "Let me just straighten out your helmet",
+    "desc": "\"Let me straighten your helmet\": This sentence suggests that the helmet may be misaligned or not sitting properly on the person's head. By using \"straighten,\" it implies the action of adjusting the position or alignment of the helmet to make it sit correctly.\n\n\"Let me straighten out your helmet\": This sentence conveys a similar meaning to the first sentence, but the addition of \"out\" suggests that there may be some disorder or irregularity in the current state of the helmet. Using \"straighten out\" implies not only adjusting the alignment but also resolving any issues or irregularities with the helmet."
   },
   {
     "id": 708,
@@ -1131,7 +1132,8 @@
   {
     "id": 723,
     "fa": "سعی کردم موهای مجعدم را صاف کنم، اما همیشه به حالت طبیعی خود برمی گشت",
-    "en": "I tried to straighten my curly hair, but it always reverted back to its natural state"
+    "en": "I tried to straighten my curly hair, but it always reverted back to its natural state",
+    "desc": "To summarize, \"straighten out\" suggests addressing tangled or unruly aspects of curly hair while making it straight, whereas \"straighten\" refers to the act of making curly hair straight without emphasizing any additional complexities."
   },
   {
     "id": 724,
@@ -1418,7 +1420,7 @@
     "id": 780,
     "fa": "باید بند کفشم را ببندم",
     "en": "I need to tie my shoelaces (شو لی سِس)",
-    "desc": "\"I need to tie my shoelaces\" implies that it would be beneficial or necessary for the person to tie their shoelaces. It suggests a personal need or preference, emphasizing that it would be advantageous or appropriate to do so.\n\n\"I have to tie my shoelaces\" expresses a stronger sense of obligation or requirement. It indicates that there is a necessity or compulsion for the person to tie their shoelaces. It suggests that it is essential or mandatory to perform the action."
+    "desc": "In summary, \"I need to tie my shoelaces\" implies a personal preference or benefit, while \"I have to tie my shoelaces\" indicates a stronger obligation or requirement."
   },
   {
     "id": 781,
@@ -1536,7 +1538,7 @@
   },
   {
     "id": 803,
-    "fa": "بنشینید",
+    "fa": "روی صندلیت بنشین",
     "en": "Take your seat"
   },
   {
@@ -1671,7 +1673,7 @@
   },
   {
     "id": 830,
-    "fa": "وقتی کار همکارم تمام شد، پیش شما خواهد آمد",
+    "fa": "وقتی کار همکارم تمام شد، او (مرد) پیش شما خواهد آمد",
     "en": "When my colleague is done, he will come to you"
   },
   {
@@ -1682,7 +1684,7 @@
   {
     "id": 832,
     "fa": "شلنگ را می کشم",
-    "en": "I yank the hose (یَنک) (هًز)"
+    "en": "I yank the hose (یَنک) (هُز)"
   },
   {
     "id": 833,
@@ -1716,7 +1718,7 @@
   },
   {
     "id": 839,
-    "fa": "من هنوز نمی توانم باهاش کنار بیام",
+    "fa": "من هنوز نمی توانم بیخیالش بشم",
     "en": "I still can't get over it"
   },
   {
@@ -1746,7 +1748,7 @@
   },
   {
     "id": 845,
-    "fa": "از کجا تماس می گیرید؟",
+    "fa": "از کجا داری تماس می گیری؟",
     "en": "Where are you calling from?"
   },
   {
@@ -1773,5 +1775,55 @@
     "id": 850,
     "fa": "آخرین باری که به اینجا آمدی کی بود؟",
     "en": "When was the last time you came here?"
+  },
+  {
+    "id": 851,
+    "fa": "ممکن است گهگاه قطعی اتصال اینترنت وجود داشته باشد",
+    "en": "There may be occasional internet connection outages"
+  },
+  {
+    "id": 852,
+    "fa": "می توانید آن را در کابینت پیدا کنید",
+    "en": "You can find it in the cabinet"
+  },
+  {
+    "id": 853,
+    "fa": "به یک مخلوط کن نیاز داری",
+    "en": "You need a blender"
+  },
+  {
+    "id": 854,
+    "fa": "میشه دقیق تر باشی",
+    "en": "Could you be more specific"
+  },
+  {
+    "id": 855,
+    "fa": "در تگزاس، ما هرگز چیزی جز فقیر نبودیم",
+    "en": "in Texas, we were never anything but poor"
+  },
+  {
+    "id": 856,
+    "fa": "برای سفت کردن پیچ ها از آچار استفاده کردم",
+    "en": "I used a wrench to tighten the bolts"
+  },
+  {
+    "id": 857,
+    "fa": "میخ را به دیوار کوبیدم تا عکسی آویزان کنم",
+    "en": "I hammered the nail into the wall to hang a picture"
+  },
+  {
+    "id": 858,
+    "fa": "برای سفت کردن پیچ درون مبل از پیچ گوشتی استفاده کردم",
+    "en": "I used a screwdriver to tighten the screw in the furniture"
+  },
+  {
+    "id": 859,
+    "fa": "من از انبردست برای گرفتن و پیچاندن محکم سیم استفاده کردم",
+    "en": "I used pliers to grip and twist the wire tightly"
+  },
+  {
+    "id": 860,
+    "fa": "من از یک متر برای اندازه گیری دقیق طول اتاق استفاده کردم",
+    "en": "I used a tape measure to measure the length of the room accurately"
   }
 ]
