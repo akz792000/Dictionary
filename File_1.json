@@ -542,7 +542,7 @@
   },
   {
     "id": 608,
-    "fa": "آیا می خواهید بدانید خودروی شما چقدر ارزش دارد؟",
+    "fa": "آیا دوست دارید (مودبانه) بدانید خودروی شما چقدر ارزش دارد؟",
     "en": "Would you like to know how much your vehicle is worth?"
   },
   {
@@ -607,7 +607,7 @@
   },
   {
     "id": 621,
-    "fa": "لطفاً دریغ نکنید در تماس با من اگر شما سوالات دیگر بیشتری دارید",
+    "fa": "لطفاً تردید نکنید در تماس با من اگر شما سوالات دیگر بیشتری دارید",
     "en": "Please don't hesitate to reach me out if you have any further questions"
   },
   {
@@ -1435,7 +1435,7 @@
   },
   {
     "id": 783,
-    "fa": "چی تو ذهنت است؟",
+    "fa": "چی تو ذهنت داری؟",
     "en": "What do you have in your mind?"
   },
   {
@@ -1456,8 +1456,9 @@
   },
   {
     "id": 787,
-    "fa": "داره دیرم میشه",
-    "en": "I am running late"
+    "fa": "به دلیل ترافیک سنگین داره برای جلسه دیرم میشه, بنابراین باید عجله کنم",
+    "en": "I am running late for the meeting due to heavy traffic, so I'll have to hurry",
+    "desc": " \"I am running late\" implies an ongoing delay and suggests an effort to catch up, while \"I am late\" indicates that the delay has already occurred without emphasizing any further action to address it."
   },
   {
     "id": 788,
@@ -1503,7 +1504,7 @@
   },
   {
     "id": 796,
-    "fa": "رفتار بی پروا او باعث شد تا از مدرسه محروم شود",
+    "fa": "رفتار بی پروا او (مرد)  چیزی است باعث شد تا از مدرسه محروم شود",
     "en": "His reckless behavior is what caused him to be suspended from school"
   },
   {
@@ -1533,8 +1534,8 @@
   },
   {
     "id": 802,
-    "fa": "من سطل زباله، پاک کن، تراش، کاغذ گراف، خط کش می خرم",
-    "en": "I buy wastebasket, eraser, sharpener, graph paper, ruler"
+    "fa": "من سطل زباله، پاک کن، تراش، کاغذ گراف و خط کش می خرم",
+    "en": "I buy wastebasket, eraser, sharpener, graph paper and ruler"
   },
   {
     "id": 803,
@@ -1733,7 +1734,7 @@
   },
   {
     "id": 842,
-    "fa": "چیز دیگری هست که بخواهی به ما بگی؟",
+    "fa": "چیز دیگری هست بخواهی به ما بگی؟",
     "en": "Is there anything else you want to tell us"
   },
   {
@@ -1853,7 +1854,7 @@
   },
   {
     "id": 866,
-    "fa": "از کی تا حالا؟",
+    "fa": "از کی؟",
     "en": "Since when?"
   },
   {
@@ -1928,7 +1929,7 @@
   },
   {
     "id": 881,
-    "fa": "او یادداشت های خود را در یک دفترچه سیم پیچ مرتب کرد و در یک کلاسور ذخیره کرد.",
+    "fa": "او یادداشت های خود را در یک دفترچه سیم پیچ سازماندهی کرد و در یک کلاسور ذخیره کرد.",
     "en": "She organized her notes in a spiral notebook (اسپایرل) and stored it in a binder (بایندر)"
   },
   {
@@ -1940,5 +1941,40 @@
     "id": 883,
     "fa": "او (مرد) سند را با یک پونز به تابلوی اعلانات سنجاق کرد",
     "en": "He pinned the document to the bulletin board with a thumbtack (ثام تک)"
+  },
+  {
+    "id": 884,
+    "fa": "آیا پول خود را در بانک خود نگه می دارید یا در خانه؟",
+    "en": "Do you keep your money in your bank or at home?"
+  },
+  {
+    "id": 885,
+    "fa": "داره دیر میشه و من هنوز خیلی کار دارم",
+    "en": "It's getting late, and I still have a lot of work to do"
+  },
+  {
+    "id": 886,
+    "fa": "دیروز یک ساعت در آسانسور گیر کردم. کاملا خسته کننده بود",
+    "en": "I got stuck in the elevator for an hour yesterday. It was quite frustrating"
+  },
+  {
+    "id": 887,
+    "fa": "باید درب بطری را بردارم و محتویات آن را بیرون بیاورم",
+    "en": "I need to take off the bottle cap and take out the contents"
+  },
+  {
+    "id": 888,
+    "fa": "باید آب را داخل بطری بزارم و درب آن را بزارم تا در بسته (مهر و موم) بماند",
+    "en": "I need to put in the water into the bottle and put on the cap to keep it sealed"
+  },
+  {
+    "id": 889,
+    "fa": "در طول طوفان، تگرگ شیشه جلوی من را خرد کرد و نیازم شد آن را تعویض کنم",
+    "en": "During the storm, the hailstones shattered my windshield, requiring me to replace it"
+  },
+  {
+    "id": 890,
+    "fa": "فعلا خداحافظ",
+    "en": "Bye for now"
   }
 ]

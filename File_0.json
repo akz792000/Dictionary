@@ -875,8 +875,8 @@
   },
   {
     "id": 175,
-    "fa": "تو ترافیک گیر کردم",
-    "en": "I stuck in the traffic"
+    "fa": "من الان تو ترافیک گیر کردم و نمی توانم به موقع به قرار ملاقات برسم",
+    "en": "I am stuck in traffic now, and I can't get to the appointment on time"
   },
   {
     "id": 176,
@@ -2001,7 +2001,8 @@
   {
     "id": 399,
     "fa": "من نرسیدم تمام مشقهام را انجام بدم بنابراین  باید خیلی زودتر بلندشم",
-    "en": "I didn't get around to doing all of my homework so I have to get up much earlier"
+    "en": "I didn't get around to doing all of my homework so I have to get up much earlier",
+    "desc": "In this case, \"homework\" is an uncountable noun, so it doesn't have a plural form. Therefore, you should use \"homework\" instead of \"homeworks\" when referring to multiple assignments or tasks."
   },
   {
     "id": 400,
