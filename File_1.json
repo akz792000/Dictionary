@@ -1456,7 +1456,7 @@
   },
   {
     "id": 787,
-    "fa": "به دلیل ترافیک سنگین داره برای جلسه دیرم میشه, بنابراین باید عجله کنم",
+    "fa": "داره برای جلسه دیرم میشه به دلیل ترافیک سنگین, بنابراین باید عجله کنم",
     "en": "I am running late for the meeting due to heavy traffic, so I'll have to hurry",
     "desc": " \"I am running late\" implies an ongoing delay and suggests an effort to catch up, while \"I am late\" indicates that the delay has already occurred without emphasizing any further action to address it."
   },
@@ -1615,7 +1615,8 @@
   {
     "id": 818,
     "fa": "اگر عجله نکنید قطار را از دست خواهید داد",
-    "en": "If you don't hurry you will miss the train"
+    "en": "If you don't hurry you will miss the train",
+    "desc": "while both \"hurry\" and \"hurry up\" convey a need for speed and prompt action, \"hurry up\" is more forceful and commanding in nature, often used to urge someone to act with greater haste."
   },
   {
     "id": 819,
@@ -1900,7 +1901,8 @@
   {
     "id": 875,
     "fa": "تا حالا در مورد آن شنیده اید؟",
-    "en": "Have you ever heard of it?"
+    "en": "Have you ever heard of it?",
+    "desc": "\"Have you ever heard of it?\" asks about general awareness, while \"Have you ever heard about it?\" focuses on specific information or news related to the subject."
   },
   {
     "id": 876,
@@ -1929,7 +1931,7 @@
   },
   {
     "id": 881,
-    "fa": "او یادداشت های خود را در یک دفترچه سیم پیچ سازماندهی کرد و در یک کلاسور ذخیره کرد.",
+    "fa": "او (زن) یادداشت های خود را در یک دفترچه سیم پیچ سازماندهی کرد و در یک کلاسور ذخیره کرد",
     "en": "She organized her notes in a spiral notebook (اسپایرل) and stored it in a binder (بایندر)"
   },
   {
@@ -1950,7 +1952,8 @@
   {
     "id": 885,
     "fa": "داره دیر میشه و من هنوز خیلی کار دارم",
-    "en": "It's getting late, and I still have a lot of work to do"
+    "en": "It's getting late, and I still have a lot of work to do",
+    "desc": "In this case, \"work\" is an uncountable noun when used in the sense of tasks, responsibilities, or assignments. Therefore, it doesn't take the plural form \"works.\" When referring to a large amount of work in general, it is more appropriate to use the singular form \"work\" in this context."
   },
   {
     "id": 886,
@@ -1969,12 +1972,213 @@
   },
   {
     "id": 889,
-    "fa": "در طول طوفان، تگرگ شیشه جلوی من را خرد کرد و نیازم شد آن را تعویض کنم",
+    "fa": "در طول طوفان، تگرگها شیشه جلوی من را خرد کرد و نیازم شد آن را تعویض کنم",
     "en": "During the storm, the hailstones shattered my windshield, requiring me to replace it"
   },
   {
     "id": 890,
     "fa": "فعلا خداحافظ",
     "en": "Bye for now"
+  },
+  {
+    "id": 891,
+    "fa": "این آخرین هشدارت است",
+    "en": "This is your last warning"
+  },
+  {
+    "id": 892,
+    "fa": "فقط یک روز معمولی در دریاچه",
+    "en": "Just a casual day at the lake"
+  },
+  {
+    "id": 893,
+    "fa": "اگر از من می پرسی, او پیداش میشه",
+    "en": "If you ask me, He'll turn up"
+  },
+  {
+    "id": 894,
+    "fa": "خیلی متاسفم کنترلم را از دست دادم",
+    "en": "I'm very sorry I lost my control"
+  },
+  {
+    "id": 895,
+    "fa": "از آخرین باری که همدیگر را دیدیم خیلی گذشته",
+    "en": "It has been a long time since we last met"
+  },
+  {
+    "id": 896,
+    "fa": "کلاس چندمی؟",
+    "en": "Which grade are you in?"
+  },
+  {
+    "id": 897,
+    "fa": "چرا زودتر به من زنگ نزدی؟",
+    "en": "Why didn't you call me sooner?"
+  },
+  {
+    "id": 898,
+    "fa": "نوبت کیه ظرف ها را بشوره؟",
+    "en": "Whose turn is it to do the dishes?"
+  },
+  {
+    "id": 899,
+    "fa": "من نمی دانم مشکل شما چیست؟",
+    "en": "I don't know what your problem is?"
+  },
+  {
+    "id": 900,
+    "fa": "اصلاً نمی دانم چه بگویم؟",
+    "en": "I don't even know what to say?"
+  },
+  {
+    "id": 901,
+    "fa": "من دلایل خودمو دارم",
+    "en": "I have my own reasons"
+  },
+  {
+    "id": 902,
+    "fa": "منم اندازه تو می دونم",
+    "en": "Your guess is as good as mine"
+  },
+  {
+    "id": 903,
+    "fa": "همه طرف شما هستند",
+    "en": "Everybody is on your side"
+  },
+  {
+    "id": 904,
+    "fa": "چه شرم آور! آرام باش",
+    "en": "What a shame! Calm down"
+  },
+  {
+    "id": 905,
+    "fa": "چه فایده ای دارد؟",
+    "en": "What's the point?"
+  },
+  {
+    "id": 906,
+    "fa": "در مورد کی حرف می زنی؟",
+    "en": "Who are you talking about?"
+  },
+  {
+    "id": 907,
+    "fa": "ما یک توافقی داشتیم. نه، من در مورد چیزی توافق نکردم",
+    "en": "We had an agreement. No, I didn't agree on anything"
+  },
+  {
+    "id": 908,
+    "fa": "هر طور راحتی",
+    "en": "Suit yourself"
+  },
+  {
+    "id": 909,
+    "fa": "او (مرد) امروز از بیمارستان مرخص میشه",
+    "en": "He'll be discharged from hospital today"
+  },
+  {
+    "id": 910,
+    "fa": "کاری که باید را انجام بده",
+    "en": "Do what you have to do"
+  },
+  {
+    "id": 911,
+    "fa": "Dependabot بسته های داخلی را به روزرسانی نمی کند",
+    "en": "Dependabot is not bumping internal packages"
+  },
+  {
+    "id": 912,
+    "fa": "چرا سرعت (لعنتی) اینقدر کم است؟",
+    "en": "Why the heck velocity is so low?"
+  },
+  {
+    "id": 913,
+    "fa": "به عنوان یک پزشک، نفرت انگیزترین درخواستی که تا به حال از یک بیمار دریافت کرده اید چیست؟",
+    "en": "As a doctor, what is the most obnoxious request you ever received from a patient?"
+  },
+  {
+    "id": 914,
+    "fa": "هرگز نمی توانستم تصور کنم که باید همه چیزهایی که داشتم را رها کنم",
+    "en": "I could've never imagined that I would have to give up everything I had"
+  },
+  {
+    "id": 915,
+    "fa": "خجالتی نباش",
+    "en": "Don't be shy"
+  },
+  {
+    "id": 916,
+    "fa": "این برای عذرخواهی بابت آخرین برخوردمان است",
+    "en": "This is to apologize for our last encounter"
+  },
+  {
+    "id": 917,
+    "fa": "من کار اشتباهی کردم",
+    "en": "I did a wrong thing"
+  },
+  {
+    "id": 918,
+    "fa": "من بلافاصله برمی گردم",
+    "en": "I'll be right back"
+  },
+  {
+    "id": 919,
+    "fa": "میتوانم کمکت کنم",
+    "en": "I can help you out",
+    "desc": "\"I can help you out\" and \"I can help you\" indicate a willingness to assist, \"I can help you out\" suggests a more committed or extensive level of aid."
+  },
+  {
+    "id": 920,
+    "fa": "من تو را خواهم بخشید اما فقط به یک شرط",
+    "en": "I'll forgive you but only on one condition"
+  },
+  {
+    "id": 921,
+    "fa": "آنچه را که درست است انجام دهید، مهم نیست که زندگی چگونه پیش می رود و سرنوشت به خاطر آن از شما تشکر خواهد کرد",
+    "en": "Do what is right, no matter how life goes and fate will thank you for it"
+  },
+  {
+    "id": 922,
+    "fa": "او (مرد) 100 هزار دلار به عنوان کمک برای او (زن) جمع آوری کرد",
+    "en": "He raised 100K dollars in aid for her"
+  },
+  {
+    "id": 923,
+    "fa": "این چیزی است که وقتی زندگی به شما یک نشانه روشن می دهد اتفاق می افتد",
+    "en": "That's what happens when life gives you a bright sign"
+  },
+  {
+    "id": 924,
+    "fa": "کوچکترین گونه پستاندار جهان کدام است؟",
+    "en": "What is the world's smallest species of mammal?"
+  },
+  {
+    "id": 925,
+    "fa": "چطور شد که دیشب در مهمانی حضور نداشتی؟",
+    "en": "How come you didn't attend the party last night?"
+  },
+  {
+    "id": 926,
+    "fa": "هر کی یک کلید داره. چطور تو یکی نداری؟",
+    "en": "Everyone has a key. How come you don't have one?"
+  },
+  {
+    "id": 927,
+    "fa": "شروع روزتان با دویدن در اوایل صبح راهی عالی برای اطمینان از اینکه روزتان بدتر از آنچه شروع شده است نمی شود",
+    "en": "Starting your day with an early morning run is a great way to make sure your day can't get any worse than it started"
+  },
+  {
+    "id": 928,
+    "fa": "این گربه روی دم خود می ایستد تا پاهای کوچک خود را از سرما دور نگه دارد",
+    "en": "This cat stands on its tail to keep its little feet off the cold"
+  },
+  {
+    "id": 929,
+    "fa": "چگونه می توانم شما را متقاعد کنم که از الکل دوری کنی؟",
+    "en": "How can I persuade you to keep off alcohol?"
+  },
+  {
+    "id": 930,
+    "fa": "سعی می کنم صرفه جو باشم",
+    "en": "I try to be frugal"
   }
 ]

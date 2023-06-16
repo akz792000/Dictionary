@@ -514,12 +514,12 @@
   },
   {
     "id": 10100,
-    "en": "\n I drink beer \n I do not drink beer",
+    "en": "\n I drink beer \n I drink no beer",
     "de": "\n Ich trinke Bier \n Ich trinke kein Bier"
   },
   {
     "id": 10101,
-    "en": "\n I drink wine \n I don't drink wine",
+    "en": "\n I drink wine \n I drink no wine",
     "de": "\n Ich trinke Wein \n Ich trinke keinen Wein"
   },
   {
