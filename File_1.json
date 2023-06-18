@@ -1,8 +1,8 @@
 [
   {
     "id": 501,
-    "fa": "لطفا منو ببخشید قصد گستاخی ندارم",
-    "en": "Please excuse me I don't mean to be rude"
+    "fa": "لطفا منو ببخشید, قصد گستاخی ندارم",
+    "en": "Please excuse me, I don't mean to be rude"
   },
   {
     "id": 502,
@@ -2180,5 +2180,107 @@
     "id": 930,
     "fa": "سعی می کنم صرفه جو باشم",
     "en": "I try to be frugal"
+  },
+  {
+    "id": 931,
+    "fa": "کارفرمای فعلی من به شرط عدم استعفا به من حقوق بالاتری پیشنهاد داد",
+    "en": "My current employer just offered me a higher salary on the condition that I don't resign"
+  },
+  {
+    "id": 932,
+    "fa": "فردا صبح چطور؟",
+    "en": "How about tomorrow morning?"
+  },
+  {
+    "id": 933,
+    "fa": "چرا الان اینو داری به من میگی؟",
+    "en": "Why are you telling me this now?"
+  },
+  {
+    "id": 934,
+    "fa": "چیزی برای از دست دادن ندارم",
+    "en": "I have nothing to lose"
+  },
+  {
+    "id": 935,
+    "fa": "بچه هات خانه هستند؟",
+    "en": "Are your kids home?"
+  },
+  {
+    "id": 936,
+    "fa": "امیدوارم ناراحت نشی",
+    "en": "I hope you don't mind"
+  },
+  {
+    "id": 937,
+    "fa": "کی چای میخواد؟",
+    "en": "Who wants tea?"
+  },
+  {
+    "id": 938,
+    "fa": "یهویی",
+    "en": "Out of the blue"
+  },
+  {
+    "id": 939,
+    "fa": "چطور انگلیسی یاد گرفتی؟",
+    "en": "How did you learn english?"
+  },
+  {
+    "id": 940,
+    "fa": "چه شکلی است؟",
+    "en": "What's it like?"
+  },
+  {
+    "id": 941,
+    "fa": "هر کاری کردم برای خانواده انجام دادم",
+    "en": "Whatever I did, I did for the family"
+  },
+  {
+    "id": 942,
+    "fa": "دنیای بی رحمی است",
+    "en": "It's a cruel world"
+  },
+  {
+    "id": 943,
+    "fa": "چه مدت آنجا ماندی؟",
+    "en": "How long did you stay there?"
+  },
+  {
+    "id": 944,
+    "fa": "چرا این سوال را از من پرسیدی؟",
+    "en": "Why did you ask me that question?"
+  },
+  {
+    "id": 945,
+    "fa": "بزرگ شو",
+    "en": "Grow up"
+  },
+  {
+    "id": 946,
+    "fa": "کاش می تونستم بمونم",
+    "en": "I wish I could stay"
+  },
+  {
+    "id": 947,
+    "fa": "دستت را از روی شانه ام بردار",
+    "en": "Take your hand off my shoulder",
+    "desc": " \"Take your hand off my shoulder\" is a more polite and neutral way of asking someone to remove their hand, while \"Get your hand off my shoulder\" is a more direct and forceful demand."
+  },
+  {
+    "id": 948,
+    "fa": "اون (مرد) بر نمیگرده",
+    "en": "He's not coming back",
+    "desc": "\"He's not coming back\" emphasizes the ongoing absence and suggests that the person will not return in the future. \"He does not come back\" indicates a general statement about the person's habit of not returning. The choice between the two phrases depends on the intended context and timeframe of the person's absence."
+  },
+  {
+    "id": 949,
+    "fa": "ماشین لباسشویی ما دوباره خراب شده است",
+    "en": "Our washing machine has broken down again"
+  },
+  {
+    "id": 950,
+    "fa": "چند تا بچه داری؟",
+    "en": "How many children do you have?"
   }
 ]
