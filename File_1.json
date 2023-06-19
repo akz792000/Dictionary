@@ -180,7 +180,7 @@
   },
   {
     "id": 536,
-    "fa": "ببخشید، آیا قبلاً همدیگر را ملاقات کرده ایم؟",
+    "fa": "ببخشید، آیا قبلاً ملاقات کرده ایم؟",
     "en": "Excuse me, Have we met before?"
   },
   {
@@ -1457,7 +1457,7 @@
   {
     "id": 787,
     "fa": "داره برای جلسه دیرم میشه به دلیل ترافیک سنگین, بنابراین باید عجله کنم",
-    "en": "I am running late for the meeting due to heavy traffic, so I'll have to hurry",
+    "en": "I am running late for the meeting due to heavy traffic, so I have to hurry",
     "desc": " \"I am running late\" implies an ongoing delay and suggests an effort to catch up, while \"I am late\" indicates that the delay has already occurred without emphasizing any further action to address it."
   },
   {
@@ -1992,7 +1992,7 @@
   },
   {
     "id": 893,
-    "fa": "اگر از من می پرسی, او پیداش میشه",
+    "fa": "اگر از من می پرسی, او (مرد) پیداش خواهد شد",
     "en": "If you ask me, He'll turn up"
   },
   {
@@ -2028,7 +2028,8 @@
   {
     "id": 900,
     "fa": "اصلاً نمی دانم چه بگویم؟",
-    "en": "I don't even know what to say?"
+    "en": "I don't even know what to say?",
+    "desc": "In English, the standard word order for negation is to place the word \"not\" immediately after the auxiliary verb \"do.\" In this case, \"do\" is used as an auxiliary verb to form the negation, and \"even\" is an adverb modifying the verb \"know.\""
   },
   {
     "id": 901,
@@ -2037,7 +2038,7 @@
   },
   {
     "id": 902,
-    "fa": "منم اندازه تو می دونم",
+    "fa": "حدس شما به خوبی من است",
     "en": "Your guess is as good as mine"
   },
   {
@@ -2072,7 +2073,7 @@
   },
   {
     "id": 909,
-    "fa": "او (مرد) امروز از بیمارستان مرخص میشه",
+    "fa": "او (مرد) امروز از بیمارستان مرخص خواهد شد",
     "en": "He'll be discharged from hospital today"
   },
   {
@@ -2117,7 +2118,7 @@
   },
   {
     "id": 918,
-    "fa": "من بلافاصله برمی گردم",
+    "fa": "من بلافاصله برخواهم گشت",
     "en": "I'll be right back"
   },
   {
@@ -2184,7 +2185,7 @@
   {
     "id": 931,
     "fa": "کارفرمای فعلی من به شرط عدم استعفا به من حقوق بالاتری پیشنهاد داد",
-    "en": "My current employer just offered me a higher salary on the condition that I don't resign"
+    "en": "My current employer offered me a higher salary on the condition that I don't resign"
   },
   {
     "id": 932,
@@ -2248,7 +2249,7 @@
   },
   {
     "id": 944,
-    "fa": "چرا این سوال را از من پرسیدی؟",
+    "fa": "چرا آن سوال را از من پرسیدی؟",
     "en": "Why did you ask me that question?"
   },
   {
@@ -2282,5 +2283,115 @@
     "id": 950,
     "fa": "چند تا بچه داری؟",
     "en": "How many children do you have?"
+  },
+  {
+    "id": 951,
+    "fa": "این دقیقاً برعکس آنچه قبلاً داشتیم تلفظ می شود",
+    "en": "This is pronounced exactly the opposite way from what we had before"
+  },
+  {
+    "id": 952,
+    "fa": "من پیشنهاد آنها را دریافت کردم، اما از شرایط راضی نیستم، بنابراین قراره یک پیشنهاد متقابل آماده کنم",
+    "en": "I received their offer, but I'm not satisfied with the terms, so I'll be preparing a counteroffer"
+  },
+  {
+    "id": 953,
+    "fa": "گم شو",
+    "en": "Get lost"
+  },
+  {
+    "id": 954,
+    "fa": "چه ولگرد مغروری",
+    "en": "What a proud tramp"
+  },
+  {
+    "id": 955,
+    "fa": "از من دور باش",
+    "en": "Stay away from me"
+  },
+  {
+    "id": 956,
+    "fa": "از راه دور انجامش بده",
+    "en": "Do it from distance"
+  },
+  {
+    "id": 957,
+    "fa": "میخوای به من مشت بزنی؟",
+    "en": "Are you going to punch me?"
+  },
+  {
+    "id": 958,
+    "fa": "می توانم تصور کنم که مادرم چقدر از دیدن من هیجان زده خواهد شد",
+    "en": "I can imagine how excited my mom will be to see me"
+  },
+  {
+    "id": 959,
+    "fa": "او (زن) احتمالا فکر می کند که من مرده ام",
+    "en": "She probably thinks I'm dead by now"
+  },
+  {
+    "id": 960,
+    "fa": "او (مرد) ورشکست شد و سر از خیابان درآورد",
+    "en": "He went bankrupt and ended up on the streets"
+  },
+  {
+    "id": 961,
+    "fa": "عجله نکن",
+    "en": "Do not rush"
+  },
+  {
+    "id": 962,
+    "fa": "سعی نکن من را به گریه بیاندازی",
+    "en": "Don't try to make me cry"
+  },
+  {
+    "id": 963,
+    "fa": "شخصی اجناس دزدی را به سمساری من آورده است",
+    "en": "Someone has brought (برات) stolen goods to my pawnshop (پان)"
+  },
+  {
+    "id": 964,
+    "fa": "من به 50 باکس رضایت خواهم داد",
+    "en": "I'll settle for 50 box"
+  },
+  {
+    "id": 965,
+    "fa": "بفرمایید، اینم از این",
+    "en": "There you go"
+  },
+  {
+    "id": 966,
+    "fa": "او (زن) تا چهارشنبه در تعطیلات است",
+    "en": "She is on vacation till wednesday"
+  },
+  {
+    "id": 967,
+    "fa": "من عادت داشتم به انجام دادن آنچه وجدانم به من می گفت",
+    "en": "I used to do what my conscience told me to do"
+  },
+  {
+    "id": 968,
+    "fa": "اونجا چی داری؟",
+    "en": "What have you got there?"
+  },
+  {
+    "id": 969,
+    "fa": "اینو از کجا آوردی",
+    "en": "Where did you get this?"
+  },
+  {
+    "id": 970,
+    "fa": "آیا چشم پزشکی اطفال می شناسید؟",
+    "en": "Do you know a pediatric (/ˌpidiˈætrɪk/) ophthalmology? (/ˌɑːpθəˈmɑːlədʒi/)"
+  },
+  {
+    "id": 971,
+    "fa": "یک تکه گوشت را سیخ می زنم",
+    "en": "I am skewering a cube of beef on the skewer (/ˈskjuːər/)"
+  },
+  {
+    "id": 972,
+    "fa": "من به شما کمک خواهم کرد تا غذای خود را تازه نگه دارید",
+    "en": "I will help you to keep your food fresh"
   }
 ]
