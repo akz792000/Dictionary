@@ -111,7 +111,7 @@
   },
   {
     "id": 23,
-    "fa": "آیا می تونم دو تا از اون بشقاب ها (وزنه) را از شما بگیرم؟",
+    "fa": "آیا امکان دارد بتوانم دو تا از اون بشقاب ها (وزنه) را از شما بگیرم؟",
     "en": "Can I possibly take two of those plates from you?"
   },
   {
@@ -741,7 +741,8 @@
   {
     "id": 148,
     "fa": "بیا استراحت کنیم",
-    "en": "Let's take a break"
+    "en": "Let's take a break",
+    "desc": "\nIn the phrase \"let's,\" the word \"let's\" is a contraction of \"let us.\" It is commonly used in English to suggest or propose that a group of people should do something together.\n\n\"Let's\" is a first-person plural imperative form, implying an invitation or suggestion for joint action. It combines the verb \"let\" (allowing or permitting) with the pronoun \"us\" (referring to the speaker and at least one other person)."
   },
   {
     "id": 149,
@@ -1227,7 +1228,7 @@
   },
   {
     "id": 245,
-    "fa": "در راه دستشویی نزدیک بود روی سشوارت بیفتم",
+    "fa": "من تقریبا روی سشوارت افتادم در راه دستشویی",
     "en": "I almost fell over your hairdryer on the way to the bathroom"
   },
   {
@@ -2509,5 +2510,2546 @@
     "id": 500,
     "fa": "هر اتفاقی بیفته",
     "en": "Whatever happens"
+  },
+  {
+    "id": 501,
+    "fa": "لطفا منو ببخشید, قصد گستاخی ندارم",
+    "en": "Please excuse me, I don't mean to be rude"
+  },
+  {
+    "id": 502,
+    "fa": "او (مرد) بلافاصله بعد از رفتن شما به آپارتمان آمد",
+    "en": "He came by the apartment (came to the apartment) right after you left"
+  },
+  {
+    "id": 503,
+    "fa": "من فقط 20 دقیقه رفته بودم",
+    "en": "I was only gone 20 minutes"
+  },
+  {
+    "id": 504,
+    "fa": "آنقدر هم که به نظر میاد بد نیست",
+    "en": "It's not as bad as it sounds"
+  },
+  {
+    "id": 505,
+    "fa": "من از او (مرد) پرسیدم که چگونه این پول بدست آوردی، اما او به من نگفت",
+    "en": "I asked him how he came by the money (get the money), but he didn't tell me"
+  },
+  {
+    "id": 506,
+    "fa": "منتظر چی هستی؟",
+    "en": "What are you waiting for?"
+  },
+  {
+    "id": 507,
+    "fa": "فکر می کردم به من کمک خواهی کرد اما نکردی",
+    "en": "I thought you would help me but you didn't",
+    "desc": "The use of \"would\" indicates that the speaker is describing their thoughts or beliefs about the future, rather than a certainty or fact."
+  },
+  {
+    "id": 508,
+    "fa": "خسته به نظر میای",
+    "en": "You look tired"
+  },
+  {
+    "id": 509,
+    "fa": "آماده شو",
+    "en": "Get ready"
+  },
+  {
+    "id": 510,
+    "fa": "به چی داری فکر میکنی؟",
+    "en": "What are you thinking about?"
+  },
+  {
+    "id": 511,
+    "fa": "آیا واقعاً تا حدی درسته؟",
+    "en": "Is it actually true to some degree?"
+  },
+  {
+    "id": 512,
+    "fa": "همین الان مطلع شدم",
+    "en": "I was just informed"
+  },
+  {
+    "id": 513,
+    "fa": "واقعاً دردناک است",
+    "en": "It's really sore",
+    "desc": "It means that something, such as a body part, is experiencing physical pain or discomfort"
+  },
+  {
+    "id": 514,
+    "fa": "گفت (مرد) میتونی به من بگی دقیقا کجا درد میکنه",
+    "en": "He said can you tell me exactly where it hurts"
+  },
+  {
+    "id": 515,
+    "fa": "من عادت داشتم که اینطور فکر کنم مردم فقط برای پول شغلها را عوض می کنند ",
+    "en": "I used to think people switch jobs for money only"
+  },
+  {
+    "id": 516,
+    "fa": "معتقدم اکثر مردم دارن به دنبال احترام و آرامش ذهنی می گردند",
+    "en": "I believe most people are looking for respect and mental peace"
+  },
+  {
+    "id": 517,
+    "fa": "هرگونه عوارض جانبی هم داره؟",
+    "en": "Does it have any side effect?"
+  },
+  {
+    "id": 518,
+    "fa": "چطور تونستی این کار رو با من بکنی؟",
+    "en": "How could you do this to me?"
+  },
+  {
+    "id": 519,
+    "fa": "اینجا چه خبره؟",
+    "en": "What's going on here?"
+  },
+  {
+    "id": 520,
+    "fa": "تقصیر تو نبود",
+    "en": "It wasn't your fault"
+  },
+  {
+    "id": 521,
+    "fa": "درباره چی نگرانی؟",
+    "en": "What are you worried about?"
+  },
+  {
+    "id": 522,
+    "fa": "یک عذرخواهی به شما بدهکارم",
+    "en": "I owe you an apology"
+  },
+  {
+    "id": 523,
+    "fa": "در اوقات فراغت چه کار می کنی؟",
+    "en": "What do you do in your free time?"
+  },
+  {
+    "id": 524,
+    "fa": "نمیدونی کی هستم",
+    "en": "Don't you know who I am"
+  },
+  {
+    "id": 525,
+    "fa": "داری منو دنبال میکنی؟",
+    "en": "Are you following me?"
+  },
+  {
+    "id": 526,
+    "fa": "حس بدی دارم",
+    "en": "I have a bad feeling"
+  },
+  {
+    "id": 527,
+    "fa": "برای امرار معاش چه کار می کنی؟",
+    "en": "What do you do for a living?",
+    "desc": "The correct phrase is \"What do you do for a living?\" The addition of the article \"a\" is important because it is part of the idiomatic expression \"for a living,\" which means \"what is your job or profession?\""
+  },
+  {
+    "id": 528,
+    "fa": "فقط میخوام مطمئن بشم",
+    "en": "I just want to make sure",
+    "desc": "\"I wanna make sure\" implies that the speaker is going to take some action to ensure that something is true or certain. It suggests that the speaker is actively involved in the process of making sure, and may be checking or verifying something to confirm it.\n\nOn the other hand, \"I wanna be sure\" simply expresses the desire for certainty without necessarily implying any specific action on the part of the speaker. It suggests that the speaker wants to be certain about something, but may not be actively involved in the process of making sure."
+  },
+  {
+    "id": 529,
+    "fa": "داشتم می مردم",
+    "en": "I was about to die"
+  },
+  {
+    "id": 530,
+    "fa": "چند وقت بارداری؟",
+    "en": "How far along are you?"
+  },
+  {
+    "id": 531,
+    "fa": "برام پاپوش دوختی",
+    "en": "You framed me"
+  },
+  {
+    "id": 532,
+    "fa": "دارم لباس میپوشم",
+    "en": "I am getting dressed"
+  },
+  {
+    "id": 533,
+    "fa": "از پسش برمیای",
+    "en": "You can make it"
+  },
+  {
+    "id": 534,
+    "fa": "تو قدرنشناسی",
+    "en": "You're ungrateful"
+  },
+  {
+    "id": 535,
+    "fa": "این صندلی گرفته شده؟",
+    "en": "Is this seat taken?"
+  },
+  {
+    "id": 536,
+    "fa": "ببخشید، آیا قبلاً ملاقات کرده ایم؟",
+    "en": "Excuse me, Have we met before?"
+  },
+  {
+    "id": 537,
+    "fa": "او (زن) بد خلق خواهد شد اگر او را از چرتش بیدار کنی",
+    "en": "She'll be grumpy if you wake her up from her nap"
+  },
+  {
+    "id": 538,
+    "fa": "نمیبینی اینجا چی نوشته؟",
+    "en": "Don't you see what is written here?"
+  },
+  {
+    "id": 539,
+    "fa": "به نظرم انتخاب درستیه",
+    "en": "I guess it's a right choice"
+  },
+  {
+    "id": 540,
+    "fa": "این تمام چیزی است که میدانم",
+    "en": "That's all I know"
+  },
+  {
+    "id": 541,
+    "fa": "وقتی حوصله ات سر میره چه می کنی؟",
+    "en": "What do you do when you get bored?"
+  },
+  {
+    "id": 542,
+    "fa": "کارم داره تلنبار میشه",
+    "en": "My work is piling up",
+    "desc": "\"My work\" is a singular noun phrase that refers to all the tasks and responsibilities that the speaker needs to complete, which are piling up or accumulating over time."
+  },
+  {
+    "id": 543,
+    "fa": "چرا چیزی نگفتی؟",
+    "en": "Why didn't you say something?"
+  },
+  {
+    "id": 544,
+    "fa": "چرا اخمات تو همه؟",
+    "en": "Why the long face?"
+  },
+  {
+    "id": 545,
+    "fa": "لطفا یکی یکی صحبت کنید",
+    "en": "Please speak one at a time"
+  },
+  {
+    "id": 546,
+    "fa": "آیا می دانید چه ساعتی باید برید؟",
+    "en": "Do you know what time you have to go?"
+  },
+  {
+    "id": 547,
+    "fa": "سوار ماشین میشم",
+    "en": "I get in a car"
+  },
+  {
+    "id": 548,
+    "fa": "از ماشین پیاده شدم",
+    "en": "I got out of the car"
+  },
+  {
+    "id": 549,
+    "fa": "سوار اتوبوس/قطار/هواپیما می شم",
+    "en": "I get on a bus/train/plane"
+  },
+  {
+    "id": 550,
+    "fa": "از اتوبوس/قطار/هواپیما پیاده می شم",
+    "en": "I get off a bus/train/plane"
+  },
+  {
+    "id": 551,
+    "fa": "با چه کسی به اشتراک می گذارید؟",
+    "en": "With whom do you share?"
+  },
+  {
+    "id": 552,
+    "fa": "صندوق عقب را باز کنید",
+    "en": "Pop the trunk"
+  },
+  {
+    "id": 553,
+    "fa": "پا روی گاز بگذار",
+    "en": "Step on the gas"
+  },
+  {
+    "id": 554,
+    "fa": "بوق را به صدا در بیاور",
+    "en": "Honk the horn"
+  },
+  {
+    "id": 555,
+    "fa": "به رئیسم گفتم که نیاز به افزایش حقوق دارم و سه شرکت دیگر دنبال من می گشتند",
+    "en": "I told my boss I needed a pay rise and three other companies were chasing me"
+  },
+  {
+    "id": 556,
+    "fa": "علی چه کسی را دید؟",
+    "en": "Who did Ali see?"
+  },
+  {
+    "id": 557,
+    "fa": "چه کسی ایلیا را دید؟",
+    "en": "Who saw Ilia?"
+  },
+  {
+    "id": 558,
+    "fa": "می خواهم شما به وجدان خود گوش دهید",
+    "en": "I want you to listen to your conscience"
+  },
+  {
+    "id": 559,
+    "fa": "من گاهی کمی شکر مصرف می کنم.",
+    "en": "I sometimes take a little sugar"
+  },
+  {
+    "id": 560,
+    "fa": "یک بالون هلیومی چقدر می تواند بالا برود؟",
+    "en": "How high can a helium balloon float?"
+  },
+  {
+    "id": 561,
+    "fa": "رشته شما چیست؟",
+    "en": "What is your major?"
+  },
+  {
+    "id": 562,
+    "fa": "امیدوارم در آینده نزدیک مسیرهای ما دوباره تلاقی پیدا کند و برای شما و شرکتتان آرزوی موفقیت روزافزون دارم",
+    "en": "I hope our paths will cross again in the near future, and wish you and your company continued success"
+  },
+  {
+    "id": 563,
+    "fa": "کاغذ را پاره کن (با خشونت)",
+    "en": "Rip out the paper"
+  },
+  {
+    "id": 564,
+    "fa": "کاغذ را تا کن",
+    "en": "Fold the paper"
+  },
+  {
+    "id": 565,
+    "fa": "کاغذ را پاره کن",
+    "en": "Tear apart the paper"
+  },
+  {
+    "id": 566,
+    "fa": "کاغذ را مچاله کن",
+    "en": "Crumble the paper"
+  },
+  {
+    "id": 567,
+    "fa": "برام اهمیت نداره",
+    "en": "I don't give a shit"
+  },
+  {
+    "id": 568,
+    "fa": "کسی داره روی این کار می کنه؟",
+    "en": "Is anybody working on this?",
+    "desc": "The main difference between \"anyone\" and \"anybody\" is their usage in certain contexts. \"Anyone\" is more commonly used in formal contexts, while \"anybody\" is more commonly used in informal contexts. For example, in a job interview, it would be more appropriate to use \"anyone\" when asking if there are any questions, while in casual conversation with friends, \"anybody\" would be more common.\n\nAnother subtle difference is that \"anyone\" may be used to refer to a group of people, while \"anybody\" is generally used to refer to an individual. For example, \"Anyone who wants to participate can sign up\" refers to a group of people, while \"Does anybody want to come with me?\" refers to an individual person."
+  },
+  {
+    "id": 569,
+    "fa": "من به رختخواب می روم",
+    "en": "I am off to bed"
+  },
+  {
+    "id": 570,
+    "fa": "دستم بنده",
+    "en": "I am tied up"
+  },
+  {
+    "id": 571,
+    "fa": "دو دلم",
+    "en": "I am torn"
+  },
+  {
+    "id": 572,
+    "fa": "من برگشتم",
+    "en": "I am back"
+  },
+  {
+    "id": 573,
+    "fa": "من این هشدار را سرکوب خواهم کرد",
+    "en": "I will suppress this alert"
+  },
+  {
+    "id": 574,
+    "fa": "من قراره امروز از خانه کار کنم, من هنوز کم و بیش تب دارم",
+    "en": "I will be working from home today, I still have on and off fever"
+  },
+  {
+    "id": 575,
+    "fa": "چشمات رو برگردون",
+    "en": "Avert your eyes"
+  },
+  {
+    "id": 576,
+    "fa": "چه رو مخی (اعصابی) تو؟",
+    "en": "What a nerve you are?"
+  },
+  {
+    "id": 577,
+    "fa": "من هم نمیتونم وصل بشم",
+    "en": "I can not connect as well"
+  },
+  {
+    "id": 578,
+    "fa": "این برعکس است",
+    "en": "It's other way around"
+  },
+  {
+    "id": 579,
+    "fa": "به احتمال زیاد",
+    "en": "Most likely"
+  },
+  {
+    "id": 580,
+    "fa": "چیزی باقی مانده؟",
+    "en": "Is there anything left"
+  },
+  {
+    "id": 581,
+    "fa": "(ماشین لباسشویی) من دارم لباس می شورم",
+    "en": "I am doing the laundry"
+  },
+  {
+    "id": 582,
+    "fa": "زمستان و تابستان آنجا برعکسه",
+    "en": "The winter and the summer are the other way around there"
+  },
+  {
+    "id": 583,
+    "fa": "حدس می زنم این یک مورد نادر است",
+    "en": "This is the edge case I guess"
+  },
+  {
+    "id": 584,
+    "fa": "دارم تختم را مرتب می کنم",
+    "en": "I am making my bed"
+  },
+  {
+    "id": 585,
+    "fa": "مردم آن چیزی که فکر می کردم نیستند",
+    "en": "People aren't what I thought they were"
+  },
+  {
+    "id": 586,
+    "fa": "من قصد دارم که پشتم را خم کنم و به نظر میرسه که تسلیم هستم",
+    "en": "I am gonna curl my back over and it looks like I'm being submissive"
+  },
+  {
+    "id": 587,
+    "fa": "مدرسه چه ساعتی تعطیل می شه؟",
+    "en": "What time does the school close?"
+  },
+  {
+    "id": 588,
+    "fa": "اخراجها در گوگل و سایر شرکت های فناوری چه معنایی برای سایر صنایع دارد؟",
+    "en": "What layoffs at Google and other tech companies mean for other industries?"
+  },
+  {
+    "id": 589,
+    "fa": "من معمولا آن (موهام) را کمی بلند تر در بالا میزارم، اما جاهای دیگر را بسیار کوتاه میزارم",
+    "en": "I usually wear it a little longer on the top, but pretty short everywhere else"
+  },
+  {
+    "id": 590,
+    "fa": "آن یکی کمی از بودجه من خارج است. آیا چیزی در محدوده پنجاه دلار دارید؟",
+    "en": "That one is a little out of my budget. Do you have anything in fifty-dollar range?"
+  },
+  {
+    "id": 591,
+    "fa": "تفنگت را بزار پایین و هولش بده سمت من",
+    "en": "Put your gun down and slide it to me"
+  },
+  {
+    "id": 592,
+    "fa": "اشکالی ندارد اگر من کلاهم رو سرم بزارم",
+    "en": "You don't mind if I put on my hat"
+  },
+  {
+    "id": 593,
+    "fa": "لطفا اون سیگار را خاموش کن",
+    "en": "Please put that cigarette out"
+  },
+  {
+    "id": 594,
+    "fa": "جدی میگی؟",
+    "en": "Are you for real?"
+  },
+  {
+    "id": 595,
+    "fa": "امکان نداره",
+    "en": "No way"
+  },
+  {
+    "id": 596,
+    "fa": "به جون خودم",
+    "en": "Cross my heart"
+  },
+  {
+    "id": 597,
+    "fa": "من سرزنشت نمی کنم",
+    "en": "I don't blame you"
+  },
+  {
+    "id": 598,
+    "fa": "نقطه ضعفت رو میدونم",
+    "en": "I know your weak spot"
+  },
+  {
+    "id": 599,
+    "fa": "پام گرفته",
+    "en": "My leg cramped"
+  },
+  {
+    "id": 600,
+    "fa": "چه چیزی شما را اینجا آورد؟",
+    "en": "What brings you here?"
+  },
+  {
+    "id": 601,
+    "fa": "اگر جای تو بودم این کار را نمی کردم",
+    "en": "If I were you, I would not do this"
+  },
+  {
+    "id": 602,
+    "fa": "یه تاکسی گرفتی برای اون آرایشگاه؟",
+    "en": "Do you take a taxi to the hairdresser?"
+  },
+  {
+    "id": 603,
+    "fa": "ماشینت راه ماشین همسایه ما را داره مسدود می کنه",
+    "en": "Your car is blocking our neighbor's driveway"
+  },
+  {
+    "id": 604,
+    "fa": "من چیزی برای خجالت ندارم",
+    "en": "I don't have anything to be ashamed of"
+  },
+  {
+    "id": 605,
+    "fa": "اولین هر چیز شما بد خواهد بود، اما نمی توانید بدون اینکه اولین چیزی را بسازید، به صدمین دست پیدا کنید",
+    "en": "Your first anything will be bad but you can't make your 100th without making your first"
+  },
+  {
+    "id": 606,
+    "fa": "منیت خود را کنار بگذارید",
+    "en": "Put your ego aside"
+  },
+  {
+    "id": 607,
+    "fa": "من مطلع هستم",
+    "en": "I am informed"
+  },
+  {
+    "id": 608,
+    "fa": "آیا دوست دارید (مودبانه) بدانید خودروی شما چقدر ارزش دارد؟",
+    "en": "Would you like to know how much your vehicle is worth?"
+  },
+  {
+    "id": 609,
+    "fa": "فیلم آنقدر خسته کننده بود که در حین آن سر تکان دادم",
+    "en": "The film was so tedious that I nodded off during it"
+  },
+  {
+    "id": 610,
+    "fa": "تلاشت رو بکن",
+    "en": "Take your shot"
+  },
+  {
+    "id": 611,
+    "fa": "یا بگیرش یا ولش کن",
+    "en": "Take it or leave it"
+  },
+  {
+    "id": 612,
+    "fa": "میخوام موهامو کوتاه کنم",
+    "en": "I wanna have my hair cut"
+  },
+  {
+    "id": 613,
+    "fa": "منم همینو میخواستم بگم",
+    "en": "I was about to say the same thing"
+  },
+  {
+    "id": 614,
+    "fa": "غر زدن فایده ای نداره",
+    "en": "It's no use whining"
+  },
+  {
+    "id": 615,
+    "fa": "چرا صدات گرفته؟",
+    "en": "Why is your voice hoarse?"
+  },
+  {
+    "id": 616,
+    "fa": "بلندتر صحبت کن",
+    "en": "Speak up"
+  },
+  {
+    "id": 617,
+    "fa": "زیر لب صحبت نکن",
+    "en": "Don't mumble"
+  },
+  {
+    "id": 618,
+    "fa": "با خودت چی غرغر میکنی؟",
+    "en": "What are you muttering to yourself?"
+  },
+  {
+    "id": 619,
+    "fa": "اگر سالانه ۱۰۰ هزار دلار درآمد دارید (می سازید)، چقدر از مردتان انتظار دارید که درآمد داشته باشد؟",
+    "en": "If you are making 100k a year, how much would you expect your man to make?"
+  },
+  {
+    "id": 620,
+    "fa": "من در طبقه بالا یا پایین زندگی نمی کنم، من در طبقه همکف زندگی می کنم",
+    "en": "I do not live upstairs or downstairs, I live on the ground floor"
+  },
+  {
+    "id": 621,
+    "fa": "لطفاً تردید نکنید در تماس با من اگر شما سوالات دیگر بیشتری دارید",
+    "en": "Please don't hesitate to reach me out if you have any further questions"
+  },
+  {
+    "id": 622,
+    "fa": "لطفا اگر در مورد چیز دیگری به کمک نیاز دارید به من اطلاع دهید",
+    "en": "Please let me know if you need assistance with anything else"
+  },
+  {
+    "id": 623,
+    "fa": "این یک کار طاقت فرسا (دلهره آور) است",
+    "en": "It is a daunting task",
+    "desc": "Seeming difficult to deal with in anticipation; intimidating."
+  },
+  {
+    "id": 624,
+    "fa": "لطفاً راه های جایگزین برای آمدن به دفتر یا رسیدن به مقصد نهایی خود در سراسر کشور را در نظر بگیرید",
+    "en": "Please consider alternative ways of coming to the office or reaching your final destination nationwide"
+  },
+  {
+    "id": 625,
+    "fa": "با خیال راحت با من تماس بگیر",
+    "en": "Feel free to call me"
+  },
+  {
+    "id": 626,
+    "fa": "با خیال راحت سر بزنید (ملاقات کردن)",
+    "en": "Feel free to come around"
+  },
+  {
+    "id": 627,
+    "fa": "شاید من زودتر از تو این کار را کردم",
+    "en": "Maybe I did it earlier than you"
+  },
+  {
+    "id": 628,
+    "fa": "چرا باید خودم را عذاب بدهم که اینطور تلفظ کنم",
+    "en": "Why should I torture myself to pronounce like this"
+  },
+  {
+    "id": 629,
+    "fa": "او (مرد) در کنار من است",
+    "en": "He is next to me"
+  },
+  {
+    "id": 630,
+    "fa": "مدتی طول کشید تا از دست دادن پدرم کنار بیایم",
+    "en": "It took me a while to get over the loss of my father"
+  },
+  {
+    "id": 631,
+    "fa": "رهبری به معنای مسئول بودن نیست. رهبری مراقبت از کسانی است که شما مسئولیت آنان را بر عهده دارید",
+    "en": "Leadership is not about being in charge. Leadership is about taking care of those in your charge"
+  },
+  {
+    "id": 632,
+    "fa": "من به رانندگی در سمت راست عادت کردم",
+    "en": "I get used to driving on the right"
+  },
+  {
+    "id": 633,
+    "fa": "چرا برخی از کارمندان چندش آور هرگز اخراج نمی شوند؟",
+    "en": "Why do some horrible employees never get fired?"
+  },
+  {
+    "id": 634,
+    "fa": "من کف پام صافه",
+    "en": "I have flat soles"
+  },
+  {
+    "id": 635,
+    "fa": "فکر میکردم او (مرد) واقعاً از من خوشش میاد، اما روز بعد به من بی مهلی کرد",
+    "en": "I thought he really liked me, but the next day he gave me the cold shoulder"
+  },
+  {
+    "id": 636,
+    "fa": "توپ های تنیس روی میز چگونه ساخته می شوند؟",
+    "en": "How table tennis balls are made?"
+  },
+  {
+    "id": 637,
+    "fa": "علی در کدام ایالت آلمان است؟",
+    "en": "In which state in Germany is Ali?",
+    "desc": "Both sentence structures are acceptable and commonly used for asking about the location of a place or person. The choice between \"In which state is Ali?\" and \"Which state is Ali in?\" as well as \"What continent is Italy in?\" and \"In what continent is Italy?\" is a matter of personal preference and style. Both forms are grammatically correct and convey the same meaning."
+  },
+  {
+    "id": 638,
+    "fa": "خیلی لوس و بی مزه است",
+    "en": "That is way too cheesy"
+  },
+  {
+    "id": 639,
+    "fa": "من واقعا نمی دانم این فیلم ها چگونه ساخته شده اند",
+    "en": "I don't really know how these films were made"
+  },
+  {
+    "id": 640,
+    "fa": "هرگز اولین شرکت خود را که به شما فرصتی برای شروع کارتان داد فراموش نکنید",
+    "en": "Never forget your 1st company that gave you chance to start your career"
+  },
+  {
+    "id": 641,
+    "fa": "از ساختمان پریدیم",
+    "en": "We jumped off the building",
+    "desc": "The word \"off\" is a preposition that is used to indicate movement from a surface, and in this case, it indicates the action of jumping away from the surface of the building.\n\nOn the other hand, \"of\" is a preposition that indicates a relationship between two nouns or pronouns, such as \"the roof of the building.\" Using \"of\" instead of \"off\" in this sentence would be grammatically incorrect and would change the meaning of the sentence."
+  },
+  {
+    "id": 642,
+    "fa": "نمی تونم باور کنم که تسلیم شدی",
+    "en": "I can't believe you caved",
+    "desc": "If someone had a strong opinion about a particular issue, but ultimately changed their mind and agreed with someone else's viewpoint, the other person might say \"I can't believe you caved.\" This expression implies that the person who changed their mind was weak or lacked conviction in their beliefs."
+  },
+  {
+    "id": 643,
+    "fa": "من دارم تکامل را رد نمی کنم",
+    "en": "I am not denying evolution"
+  },
+  {
+    "id": 644,
+    "fa": "آیا داری به من می گی که آنقدر به طور باورنکردنی مغرور هستی که نمی تونی قبول کنی که احتمال ناچیزی وجود دارد که در این مورد اشتباه کنی؟",
+    "en": "Are you telling me that you are so unbelievably arrogant that you can't admit that there is a teeny tiny possibility that you could be wrong about this?"
+  },
+  {
+    "id": 645,
+    "fa": "رفیق بی صدا هستی",
+    "en": "You are on mute buddy"
+  },
+  {
+    "id": 646,
+    "fa": "آن از طرف من خواهد بود",
+    "en": "That would be it from my site",
+    "desc": "The phrase \"That would be it from my side\" is commonly used to indicate that the speaker has nothing more to add or contribute to the conversation or situation. It implies that the speaker has said or done everything they intended to and has no further input."
+  },
+  {
+    "id": 647,
+    "fa": "به دلیل اعتصاب وجود دارد تاخیرها و لغو قطارها در ترددهای مسافت طولانی و بین شهری در سراسر کشور در روز جمعه",
+    "en": "Due to a strike there will be delays and train cancellations in long-distance and regional traffic nationwide on Friday"
+  },
+  {
+    "id": 648,
+    "fa": "چقدر می بره برای خرید یک ماشین جدید؟",
+    "en": "How much does it take to buy a new car?"
+  },
+  {
+    "id": 649,
+    "fa": "تلاش برای اینکه او (مرد) درباره احساساتش صحبت کند، مثل کشیدن دندان ها است",
+    "en": "Trying to get him to talk about his feelings is like pulling teeth"
+  },
+  {
+    "id": 650,
+    "fa": "دکتر چند سال پیش دندان های آسیاب بالای من را کشید",
+    "en": "The doctor pulled my upper molars a few years ago"
+  },
+  {
+    "id": 651,
+    "fa": "لطفا در هنگام پیاده شدن به رانندگان و دوچرخه سواران توجه کنید",
+    "en": "Please pay attention to Motorists and Cyclists when getting off"
+  },
+  {
+    "id": 652,
+    "fa": "چقدر طول خواهد کشید تا نوبت من شه؟",
+    "en": "How long will it take for my turn?"
+  },
+  {
+    "id": 653,
+    "fa": "من مایلم یک رزرو هتل انجام دهم",
+    "en": "I would like to make a hotel reservation"
+  },
+  {
+    "id": 654,
+    "fa": "تا 7 روز قبل از ورود می توانید بدون پرداخت هزینه کنسلی کنسل کنید",
+    "en": "You can cancel without paying cancellation fee until 7 days before arrival"
+  },
+  {
+    "id": 655,
+    "fa": "آیا پولم را پس خواهم گرفت؟",
+    "en": "Will I have my money back?"
+  },
+  {
+    "id": 656,
+    "fa": "یک نفر کیف پولش را روی میز جا گذاشت",
+    "en": "Someone left their wallet on the table",
+    "desc": "\"Someone\" and \"somebody\" are interchangeable and are used to refer to an unspecified person in a positive, specific or definite manner."
+  },
+  {
+    "id": 657,
+    "fa": "کسی باید کلیدهای مرا گرفته باشد",
+    "en": "Somebody must have taken my keys"
+  },
+  {
+    "id": 658,
+    "fa": "کسی سوالی داره؟",
+    "en": "Does anyone have any questions?",
+    "desc": "\"Anyone\" is used to refer to an unspecified person in a negative or indefinite manner."
+  },
+  {
+    "id": 659,
+    "fa": "به هر حال، به طور خلاصه، من به خاطر نوشتن گرافیتی روی کابین های دستشویی اخراج شدم",
+    "en": "Anyway, long short story, I got expelled for writing graffiti on bathroom stalls"
+  },
+  {
+    "id": 660,
+    "fa": "دخالت نکن",
+    "en": "Stay out of it"
+  },
+  {
+    "id": 661,
+    "fa": "آب قطعه",
+    "en": "The water is cut off"
+  },
+  {
+    "id": 662,
+    "fa": "اینترنت قطعه",
+    "en": "The internet is down"
+  },
+  {
+    "id": 663,
+    "fa": "برق رفته",
+    "en": "The power is out"
+  },
+  {
+    "id": 664,
+    "fa": "برای چی بود؟",
+    "en": "What was that for?"
+  },
+  {
+    "id": 665,
+    "fa": "اما هنوز هم درد دارد",
+    "en": "But it still hurts"
+  },
+  {
+    "id": 666,
+    "fa": "متاسفم که توی ذوقت میزنم",
+    "en": "I'm sorry to burst your bubble"
+  },
+  {
+    "id": 667,
+    "fa": "آیا می دانید چرا به این می گویند دستشویی و حمام نیست یا دستشویی (در هواپیما) نیست؟",
+    "en": "Do you know why this is called restroom and not bathroom or not lavatory?",
+    "desc": "Restroom is used for public spaces while bathroom for the house ones where there is usually a bathtub. Lavatory is restroom on a plane"
+  },
+  {
+    "id": 668,
+    "fa": "به چی زل زدی؟",
+    "en": "What are you staring at?"
+  },
+  {
+    "id": 669,
+    "fa": "خجالت نمی کشی؟",
+    "en": "Have you no shame?"
+  },
+  {
+    "id": 670,
+    "fa": "آیا قهری؟",
+    "en": "Are you sulking?"
+  },
+  {
+    "id": 671,
+    "fa": "بزن کنار! دارم بالا میارم",
+    "en": "Pull over! I'm gonna barf!"
+  },
+  {
+    "id": 672,
+    "fa": "خیلی منحرفی",
+    "en": "You're such a perv"
+  },
+  {
+    "id": 673,
+    "fa": "خیلی گرسنه ام",
+    "en": "I'm starving"
+  },
+  {
+    "id": 674,
+    "fa": "من کاملاً سیرم",
+    "en": "I'm stuffed"
+  },
+  {
+    "id": 675,
+    "fa": "بر عهده من است",
+    "en": "It's on me"
+  },
+  {
+    "id": 676,
+    "fa": "کمک خواستن تسلیم شدن نیست، امتناع از تسلیم شدن است",
+    "en": "Asking for help isn't giving up, it's refusing to give up"
+  },
+  {
+    "id": 677,
+    "fa": "بهترین توصیه ای که می تونی به خود جوان ترت بگی چیه؟",
+    "en": "What is the best piece of advice you'd tell to your younger self?"
+  },
+  {
+    "id": 678,
+    "fa": "خانواده من الان در حال خوردن شام هستند",
+    "en": "My family is having supper now",
+    "desc": "\"Dinner\" traditionally referred to the main meal of the day, which was eaten in the early afternoon. In some cultures, such as the United Kingdom, \"dinner\" is still used to refer to the main meal of the day, typically eaten in the evening.\n\n\"Supper,\" on the other hand, traditionally referred to a lighter meal that was eaten in the evening. In some regions, such as the southern United States, \"supper\" is still used to refer to the evening meal."
+  },
+  {
+    "id": 679,
+    "fa": "من هیچ سرنخی ندارم",
+    "en": "I have no clue"
+  },
+  {
+    "id": 680,
+    "fa": "میتونم رد شم؟",
+    "en": "Can I get by?"
+  },
+  {
+    "id": 681,
+    "fa": "بذار رد شم",
+    "en": "Let me through"
+  },
+  {
+    "id": 682,
+    "fa": "من سرتا پا گوشم",
+    "en": "I'm all ears"
+  },
+  {
+    "id": 683,
+    "fa": "دیگه بسمه",
+    "en": "I have had it"
+  },
+  {
+    "id": 684,
+    "fa": "حالم از این بچه ها خیلی بهم میخوره",
+    "en": "I am so sick of these guys"
+  },
+  {
+    "id": 685,
+    "fa": "پاهات بو می ده",
+    "en": "Your feet stink"
+  },
+  {
+    "id": 686,
+    "fa": "ناراحت نمیشی رانندگی کنی؟ من احساس خستگی می کنم و ممنون می شوم اگر بتوانید فرمان را بگیرید",
+    "en": "Would you mind driving? I'm feeling tired and would appreciate it if you could take the wheel",
+    "desc": "\"Would you mind driving?\": This is a question asking if the person is willing to drive. It is a polite way to inquire if they have any objection or if it would be a problem for them to drive.\n\n\"You don't mind driving\": This is a statement assuming or confirming that the person is willing to drive. It suggests that the speaker believes the person is okay with driving and does not have any objections.\n\nIn summary, the first phrase asks for permission or willingness to drive, while the second phrase assumes or confirms the person's willingness to drive."
+  },
+  {
+    "id": 687,
+    "fa": "بگذارید اینطوری بگم",
+    "en": "Let me put it this way"
+  },
+  {
+    "id": 688,
+    "fa": "اینجوری با بی احترامی با من صحبت نکن",
+    "en": "Don't sass me like that",
+    "desc": "The phrase \"Don't sass me like that\" is a colloquial way of asking someone not to speak to you in a disrespectful or impertinent manner. \"Sass\" is a term that refers to cheeky or impudent talk or behavior."
+  },
+  {
+    "id": 689,
+    "fa": "برسونمت؟",
+    "en": "You need a lift?"
+  },
+  {
+    "id": 690,
+    "fa": "زباله را ببر بیرون",
+    "en": "Take out the garbage"
+  },
+  {
+    "id": 691,
+    "fa": "آیا دلیلی برای انتخاب مقصد خود داشتید یا خودسرانه بود؟",
+    "en": "Did you have a reason for choosing your destination or was it arbitrary?"
+  },
+  {
+    "id": 692,
+    "fa": "کاپوت را باز کن",
+    "en": "Pop the hood"
+  },
+  {
+    "id": 693,
+    "fa": "ما ممکن است به آنها برای آنچه می دانند اعتبار کافی قائل نباشیم",
+    "en": "We may not be giving them enough credit for what they know",
+    "desc": "\"We may not be giving them enough credit for what they know.\"\nThis sentence suggests an ongoing or continuous action of not giving enough credit. It implies that there is a pattern or tendency of underestimating or undervaluing their knowledge.\n\n\"We may not give them enough credit for what they know.\"\nThis sentence presents a more general statement about not giving enough credit. It does not specifically imply a continuous action, but rather suggests that there may be instances or situations where credit is not adequately given."
+  },
+  {
+    "id": 694,
+    "fa": "راهم را گم کردم",
+    "en": "I've lost my way"
+  },
+  {
+    "id": 695,
+    "fa": "زبان ها با نرخ بی سابقه ای در حال مرگ هستند",
+    "en": "Languages are dying at an unprecedented rate"
+  },
+  {
+    "id": 696,
+    "fa": "انگلیسی زبان بلامنازع جهانی است",
+    "en": "English is the undisputed global language"
+  },
+  {
+    "id": 697,
+    "fa": "من به همراه دوستم توسط کناف استخدام شدم",
+    "en": "I was recruited by the Knauf along with my friend"
+  },
+  {
+    "id": 698,
+    "fa": "تی شرتت برعکس است",
+    "en": "Your t-shirt's inside out"
+  },
+  {
+    "id": 699,
+    "fa": "برای مراقبت از چین و چروک از چه چیزی استفاده می کنید؟",
+    "en": "What do you use to take care of your wrinkles?"
+  },
+  {
+    "id": 700,
+    "fa": "من کارتن های شیر را پیدا نمی کنم. موجودی آنها تمام شده است",
+    "en": "I can't find cartons of milk. They are out of stock"
+  },
+  {
+    "id": 701,
+    "fa": "من تو را روی اسپیکر خواهم گذاشت",
+    "en": "I'll put you on speaker"
+  },
+  {
+    "id": 702,
+    "fa": "تمام شب را بیدار بودم",
+    "en": "I was up all night"
+  },
+  {
+    "id": 703,
+    "fa": "حرفت یادت نره",
+    "en": "Hold that thought"
+  },
+  {
+    "id": 704,
+    "fa": "کاش همیشه هوا اینجوری باشه",
+    "en": "I wish the weather would always be like this"
+  },
+  {
+    "id": 705,
+    "fa": "اگر هوا همیشه اینطور بود عالی نمی شد؟",
+    "en": "Wouldn't it be great if the weather was always like this?"
+  },
+  {
+    "id": 706,
+    "fa": "تو نیاز داری که همت و مطالعه سخت تر کنی اگر می خواهی این امتحان را پاس کنی",
+    "en": "You need to buckle down and study harder if you want to pass this test"
+  },
+  {
+    "id": 707,
+    "fa": "بگذار فقط کلاه تو را صاف کنم",
+    "en": "Let me just straighten out your helmet",
+    "desc": "\"Let me straighten your helmet\": This sentence suggests that the helmet may be misaligned or not sitting properly on the person's head. By using \"straighten,\" it implies the action of adjusting the position or alignment of the helmet to make it sit correctly.\n\n\"Let me straighten out your helmet\": This sentence conveys a similar meaning to the first sentence, but the addition of \"out\" suggests that there may be some disorder or irregularity in the current state of the helmet. Using \"straighten out\" implies not only adjusting the alignment but also resolving any issues or irregularities with the helmet."
+  },
+  {
+    "id": 708,
+    "fa": "شلوارت رو بپوش",
+    "en": "Put on your pants"
+  },
+  {
+    "id": 709,
+    "fa": "دکمه هات رو ببن",
+    "en": "Button up"
+  },
+  {
+    "id": 710,
+    "fa": "میتونی زیپمو ببندی؟",
+    "en": "Could you zip me up?"
+  },
+  {
+    "id": 711,
+    "fa": "زیپت بازه",
+    "en": "Your fly is open"
+  },
+  {
+    "id": 712,
+    "fa": "دارم لباسمو درمیارم",
+    "en": "I'm getting undressed"
+  },
+  {
+    "id": 713,
+    "fa": "وقت خود را با دیدن این نمایش تلف نکن",
+    "en": "Don't waste your time watching this show"
+  },
+  {
+    "id": 714,
+    "fa": "من در حال شستن ظرف ها هستم",
+    "en": "I am doing the dishes"
+  },
+  {
+    "id": 715,
+    "fa": "دارم گردگیری میکنم",
+    "en": "I am dusting"
+  },
+  {
+    "id": 716,
+    "fa": "دارم زمین را جارو می کنم",
+    "en": "I am sweeping the floor"
+  },
+  {
+    "id": 717,
+    "fa": "تو محشری",
+    "en": "You rock"
+  },
+  {
+    "id": 718,
+    "fa": "دمت گرم",
+    "en": "Way to go"
+  },
+  {
+    "id": 719,
+    "fa": "عجله کن, دیرمون شد",
+    "en": "Chop-chop, we are late"
+  },
+  {
+    "id": 720,
+    "fa": "او (زن) به من این احساس را نمی دهد که تنها چیزی که مانع خوشحالی او می شود من هستم",
+    "en": "She doesn't make me feel like the only thing stopping her from being happy is me"
+  },
+  {
+    "id": 721,
+    "fa": "او (زن) همیشه به هر سوالی پاسخ رک می دهد",
+    "en": "She always gives a straight answer to any question",
+    "desc": "In English, the most common sentence structure is subject + verb + object. This structure is known as a basic declarative sentence. \n Adverbs can be placed before or after the verb they modify. In this case, \"always\" comes before the verb \"gives\" to indicate that the action of giving a straight answer is consistently performed. So, the corrected sentence structure is subject + adverb + verb + object."
+  },
+  {
+    "id": 722,
+    "fa": "او (مرد) سعی کرد قاب عکس کج را روی دیوار درست کند",
+    "en": "He tried to fix the crooked (کروکد) picture frame on the wall"
+  },
+  {
+    "id": 723,
+    "fa": "سعی کردم موهای مجعدم را صاف کنم، اما همیشه به حالت طبیعی خود برمی گشت",
+    "en": "I tried to straighten my curly hair, but it always reverted back to its natural state",
+    "desc": "To summarize, \"straighten out\" suggests addressing tangled or unruly aspects of curly hair while making it straight, whereas \"straighten\" refers to the act of making curly hair straight without emphasizing any additional complexities."
+  },
+  {
+    "id": 724,
+    "fa": "من گرسنه و تشنه ام",
+    "en": "I'm hungry and thirsty"
+  },
+  {
+    "id": 725,
+    "fa": "خسته ام",
+    "en": "I'm tired"
+  },
+  {
+    "id": 726,
+    "fa": "عجله دارم",
+    "en": "I'm in a hurry (هری)"
+  },
+  {
+    "id": 727,
+    "fa": "من آماده ام",
+    "en": "I'm ready"
+  },
+  {
+    "id": 728,
+    "fa": "مرا تنها بگذار",
+    "en": "Leave me alone"
+  },
+  {
+    "id": 729,
+    "fa": "فقط یک لحظه",
+    "en": "Just a moment"
+  },
+  {
+    "id": 730,
+    "fa": "بفرمایید بشینید",
+    "en": "Take a seat"
+  },
+  {
+    "id": 731,
+    "fa": "بفرمایید تو",
+    "en": "Come in"
+  },
+  {
+    "id": 732,
+    "fa": "ارزان است. خیلی گران نیست",
+    "en": "It's cheap. It's not too expensive"
+  },
+  {
+    "id": 733,
+    "fa": "به انگلیسی چی میگن؟",
+    "en": "What is it called in English?"
+  },
+  {
+    "id": 734,
+    "fa": "همه چیز درست است",
+    "en": "That's all right"
+  },
+  {
+    "id": 735,
+    "fa": "نه اصلا",
+    "en": "Not at all"
+  },
+  {
+    "id": 736,
+    "fa": "حرفشو نزنید",
+    "en": "Don't mention it"
+  },
+  {
+    "id": 737,
+    "fa": "نگران نباشی",
+    "en": "Don't worry"
+  },
+  {
+    "id": 738,
+    "fa": "مهم نیست",
+    "en": "It doesn't matter"
+  },
+  {
+    "id": 739,
+    "fa": "ببخشید",
+    "en": "I beg your pardon"
+  },
+  {
+    "id": 740,
+    "fa": " دارم مزاحم شما میشم؟",
+    "en": "Am I disturbing you?"
+  },
+  {
+    "id": 741,
+    "fa": "متاسفم که مزاحم شما شدم",
+    "en": "I'm sorry to have troubled you",
+    "desc": "In this sentence, \"I am sorry\" expresses regret or apology, and \"to have troubled you\" provides additional information about the action for which the speaker is sorry. The infinitive phrase \"to have troubled you\" functions as the direct object or complement of the verb \"sorry,\" specifying the reason or cause for the apology.\n\nThe structure \"to + have + past participle\" is commonly used in English to express actions or events that occurred in the past. In this case, it indicates that the speaker is apologizing for causing trouble or inconvenience to the person being addressed."
+  },
+  {
+    "id": 742,
+    "fa": "ممکنه شما را به همسرم معرفی کنم؟",
+    "en": "May I introduce you to my wife?"
+  },
+  {
+    "id": 743,
+    "fa": "از آشنایی با شما خوشحالم",
+    "en": "Glad to know you"
+  },
+  {
+    "id": 744,
+    "fa": "راحت باشید",
+    "en": "Make yourself comfortable"
+  },
+  {
+    "id": 745,
+    "fa": "از خودت پذیرایی کن",
+    "en": "Help yourself"
+  },
+  {
+    "id": 746,
+    "fa": "گوارای وجود",
+    "en": "Good appetite"
+  },
+  {
+    "id": 747,
+    "fa": "ممنون برای یک روز خوش",
+    "en": "Thanks for a pleasant day"
+  },
+  {
+    "id": 748,
+    "fa": "برای دعوت متشکرم",
+    "en": "Thanks for the invitation"
+  },
+  {
+    "id": 749,
+    "fa": "بهترینها برای شما",
+    "en": "All the best to you"
+  },
+  {
+    "id": 750,
+    "fa": "موفق باشید",
+    "en": "Good luck"
+  },
+  {
+    "id": 751,
+    "fa": "خوشبختانه، موفق شدم (مدیریت) تمام بدهی هایم را بپردازم, قبل از اینکه ما ازدواج کنیم",
+    "en": "Thankfully, I managed to pay off all my debts before we got married"
+  },
+  {
+    "id": 752,
+    "fa": "دندانپزشک پس از کشیدن دندان من از یک بخیه استفاده کرد تا برش را با دقت ببندد",
+    "en": "The dentist used a stitch to carefully close the incision after extracting my tooth (این سیژن)"
+  },
+  {
+    "id": 753,
+    "fa": "من تصادفی شنیدم که این زوج در مورد سالگردشان صحبت می کنند، بنابراین فکر کردم آنها را غافلگیر کنم",
+    "en": "I overheard this couple talking about their anniversary so I thought I'd surprise them"
+  },
+  {
+    "id": 754,
+    "fa": "اینجا آنتن نمیده",
+    "en": "No bars here"
+  },
+  {
+    "id": 755,
+    "fa": "صدات داره قطع و وصل میشه",
+    "en": "You're breaking up"
+  },
+  {
+    "id": 756,
+    "fa": "تو کتم نمیره",
+    "en": "I don't buy it"
+  },
+  {
+    "id": 757,
+    "fa": "اگه تو موقعیت من بودی چیکار میکردی؟",
+    "en": "What would you do if you were in my situation?"
+  },
+  {
+    "id": 758,
+    "fa": "باور کن، من نمی خواهم آن مردی باشم که در مقابل تو قرار دارد",
+    "en": "Believe me, I wouldn't want to be the guy who's up against you"
+  },
+  {
+    "id": 759,
+    "fa": "ایتالیا در کدام قاره است؟",
+    "en": "What continent is Italy in?"
+  },
+  {
+    "id": 760,
+    "fa": "من می خواهم مرخصی ساعتی بگیرم",
+    "en": "I want to take hourly leave"
+  },
+  {
+    "id": 761,
+    "fa": "پس از اتمام پروژه، هیجان زده شدم از دریافت دستمزد برای سخت کوشیم",
+    "en": "After completing the project, I was thrilled to get paid for my hard work"
+  },
+  {
+    "id": 762,
+    "fa": "من از پمپ دوچرخه برای باد کردن لاستیک های دوچرخم استفاده کردم",
+    "en": "I used a bicycle pump to inflate the tires of my bike"
+  },
+  {
+    "id": 763,
+    "fa": "او (مرد) به نفع پسرش استعفا داد",
+    "en": "He abdicated in favour of his son"
+  },
+  {
+    "id": 764,
+    "fa": "ما در واقع هیچ جای خالی نداریم",
+    "en": "We actually have no vacancies"
+  },
+  {
+    "id": 765,
+    "fa": "میتونی گوشی بدی به مامان؟",
+    "en": "Can you put mom on?"
+  },
+  {
+    "id": 766,
+    "fa": "او (زن) گوشیو بر نمی داره",
+    "en": "She's not picking up"
+  },
+  {
+    "id": 767,
+    "fa": "صبر کن (گوشی دستت)",
+    "en": "Hang on"
+  },
+  {
+    "id": 768,
+    "fa": "خط مشغوله",
+    "en": "The line is engaged"
+  },
+  {
+    "id": 769,
+    "fa": "نمی تونم وصل بشم",
+    "en": "I can't get through"
+  },
+  {
+    "id": 770,
+    "fa": "تلفن را قطع نکن",
+    "en": "Don't hang up"
+  },
+  {
+    "id": 771,
+    "fa": "با یک صدم این مبلغ میتونم براتون انجام بدم",
+    "en": "I can do it for you for one hundredth of this amount"
+  },
+  {
+    "id": 772,
+    "fa": "اسم کوچک خود را چگونه هجی می کنید؟",
+    "en": "How do you spell your first name?"
+  },
+  {
+    "id": 773,
+    "fa": "تاریخ و محل تولدت کی هست؟",
+    "en": "What is your date and place of birth?"
+  },
+  {
+    "id": 774,
+    "fa": "از آنجایی که همه خواهر و برادرهایش (زن) بسیار بزرگتر بودند، او اغلب در کودکی کسی را نداشت که با او بازی کند",
+    "en": "As all her siblings were much older, she often had no one to play with as a child",
+    "desc": "The word \"siblings\" is a plural noun that refers to more than one brother or sister. In this case, the phrase \"As all her siblings\" indicates that something applies to or involves all of her brothers and sisters collectively."
+  },
+  {
+    "id": 775,
+    "fa": "من خواهرزاده و برادرزاده ام را دوست دارم",
+    "en": "I like my niece and nephew"
+  },
+  {
+    "id": 776,
+    "fa": "مادرم خیلی به عروس و دامادش احترام می گذارد",
+    "en": "My mother respects her daughter-in-law and son-in-law very much"
+  },
+  {
+    "id": 777,
+    "fa": "همسرم با برادر شوهر و خواهرشوهرش رابطه خوبی دارد",
+    "en": "My wife has a good relationship with her brother-in-law and sister-in-law"
+  },
+  {
+    "id": 778,
+    "fa": "او (مرد) در پی یک تصادف رانندگی بد شکل شد",
+    "en": "He was disfigured following a car accident"
+  },
+  {
+    "id": 779,
+    "fa": "تیشرتم چروک شده",
+    "en": "My t-shirt is creased (/ˈkriːst/)"
+  },
+  {
+    "id": 780,
+    "fa": "باید بند کفشم را ببندم",
+    "en": "I need to tie my shoelaces (شو لی سِس)",
+    "desc": "In summary, \"I need to tie my shoelaces\" implies a personal preference or benefit, while \"I have to tie my shoelaces\" indicates a stronger obligation or requirement."
+  },
+  {
+    "id": 781,
+    "fa": "از همه چیز راضی هستی؟",
+    "en": "Is everything to your satisfaction?"
+  },
+  {
+    "id": 782,
+    "fa": "اوضاع تغییر کرده است",
+    "en": "Things have changed",
+    "desc": "The phrase \"Things have changed\" implies that there has been a general alteration or shift in circumstances or situations. It suggests that the state of things is different from what it was before, without specifying who or what caused the change.\n\nOn the other hand, \"Things have been changed\" suggests that someone or something has intentionally made alterations to the state of things. It implies that an external force or agent has actively brought about the change.\n\nIn summary, \"Things have changed\" focuses on the outcome of a general alteration, while \"Things have been changed\" highlights the action or intervention that caused the alteration."
+  },
+  {
+    "id": 783,
+    "fa": "چی تو ذهنت داری؟",
+    "en": "What do you have in your mind?"
+  },
+  {
+    "id": 784,
+    "fa": "چیزی که او (مرد) گفت درست نیست",
+    "en": "What he said is not true"
+  },
+  {
+    "id": 785,
+    "fa": "زیر دوش بودم",
+    "en": "I was in the shower"
+  },
+  {
+    "id": 786,
+    "fa": "باید از اینجا برم بیرون",
+    "en": "I gotta get out of here",
+    "desc": "I have got to get out of here"
+  },
+  {
+    "id": 787,
+    "fa": "داره برای جلسه دیرم میشه به دلیل ترافیک سنگین, بنابراین باید عجله کنم",
+    "en": "I am running late for the meeting due to heavy traffic, so I have to hurry",
+    "desc": " \"I am running late\" implies an ongoing delay and suggests an effort to catch up, while \"I am late\" indicates that the delay has already occurred without emphasizing any further action to address it."
+  },
+  {
+    "id": 788,
+    "fa": "فیلم ساعت چند شروع می شود؟",
+    "en": "What time does the movie begin?"
+  },
+  {
+    "id": 789,
+    "fa": "برای شام چی پیشنهاد میکنید؟",
+    "en": "What do you recommend for dinner?"
+  },
+  {
+    "id": 790,
+    "fa": "صدات رو بیار پایین",
+    "en": "Keep your voice down or Lower your voice"
+  },
+  {
+    "id": 791,
+    "fa": "هدف اسپرینت یه کم واضح نیست",
+    "en": "The sprint goal is a little fluffy",
+    "desc": "\nIn the context of project management and agile development methodologies, the sentence \"The sprint goal is a little fluffy\" suggests that the sprint goal, which is the objective or target for a specific iteration of work within a project, lacks clarity or specificity."
+  },
+  {
+    "id": 792,
+    "fa": "بعضی وقت ها بعد از ناهار هوس می کنم یک تکه شکلات بخورم",
+    "en": "Sometimes I get an urge to eat a piece of chocolate after lunch"
+  },
+  {
+    "id": 793,
+    "fa": "چیزی که من را در مورد او (مرد) آزار می دهد، بی خیالی اوست",
+    "en": "What annoys me about him is his complacency (کام پلی سنسی)"
+  },
+  {
+    "id": 794,
+    "fa": "هرچه دامنه واژگان خود را بیشتر گسترش دهید، مطمئن تر و طبیعی تر در زبان انگلیسی به نظر خواهید بود",
+    "en": "The more you expand your vocabulary range, the more confident and natural you will sound in English"
+  },
+  {
+    "id": 795,
+    "fa": "قیمت های بالا دارد بسیاری از زوج های جوان را از خرید خانه ها منصرف می کند",
+    "en": "High prices are deterring many young couples from buying houses",
+    "desc": "By using the plural form, it conveys the idea that there are multiple potential houses that young couples could buy, but they are being deterred by the high prices. It implies a broader impact on the housing market, affecting a range of houses rather than just one specific house."
+  },
+  {
+    "id": 796,
+    "fa": "رفتار بی پروا او (مرد)  چیزی است باعث شد تا از مدرسه محروم شود",
+    "en": "His reckless behavior is what caused him to be suspended from school"
+  },
+  {
+    "id": 797,
+    "fa": "آیا می تونیم صورتحسابمون را داشته باشیم؟",
+    "en": "Could we have our bill please?"
+  },
+  {
+    "id": 798,
+    "fa": "معلم کنار تخته است",
+    "en": "The teacher is next to the board"
+  },
+  {
+    "id": 799,
+    "fa": "کره زمین روی قفسه کتاب است",
+    "en": "The globe is on the bookcase"
+  },
+  {
+    "id": 800,
+    "fa": "یک ساعت روی دیوار هست",
+    "en": "There's a clock on the wall"
+  },
+  {
+    "id": 801,
+    "fa": "دستیار معلم ساعتی را بالای تابلوی اعلانات گذاشت",
+    "en": "The teacher's aide put a clock above the bulletin board"
+  },
+  {
+    "id": 802,
+    "fa": "من سطل زباله، پاک کن، تراش، کاغذ گراف و خط کش می خرم",
+    "en": "I buy wastebasket, eraser, sharpener, graph paper and ruler"
+  },
+  {
+    "id": 803,
+    "fa": "روی صندلیت بنشین",
+    "en": "Take your seat"
+  },
+  {
+    "id": 804,
+    "fa": "پاسخ را مرور کنید",
+    "en": "Go over the answer"
+  },
+  {
+    "id": 805,
+    "fa": "تکلیف خود را تحویل دهید",
+    "en": "Hand in your homework"
+  },
+  {
+    "id": 806,
+    "fa": "معنی کلمه را پیدا کنید",
+    "en": "Look up the word"
+  },
+  {
+    "id": 807,
+    "fa": "یادداشت بردارید",
+    "en": "Take notes"
+  },
+  {
+    "id": 808,
+    "fa": "تکه کاغذ را بیرون بیاورید",
+    "en": "Take out the piece of paper"
+  },
+  {
+    "id": 809,
+    "fa": "تست ها را دست به دست کنید",
+    "en": "Pass out the tests"
+  },
+  {
+    "id": 810,
+    "fa": "جای خالی را پر کنید",
+    "en": "Fill in the blank"
+  },
+  {
+    "id": 811,
+    "fa": "کلمه را خط بکشید",
+    "en": "Cross out the word"
+  },
+  {
+    "id": 812,
+    "fa": "حروف کلمه را مرتب کنید",
+    "en": "Unscramble the word"
+  },
+  {
+    "id": 813,
+    "fa": "کلمات را به ترتیب قرار دهید",
+    "en": "Put the words in order"
+  },
+  {
+    "id": 814,
+    "fa": "شما هر روز چه کار می کنید؟ بلند می شوم، دوش می گیرم و دندان هایم را مسواک می زنم",
+    "en": "What do you do everyday? I get up, take a shower and brush my teeth"
+  },
+  {
+    "id": 815,
+    "fa": "او (زن) آرایش می کند و موهایش را شانه می کند",
+    "en": "She puts on make-up and combs her hair"
+  },
+  {
+    "id": 816,
+    "fa": "او ظرف ها را می شست، اتو می کشد و به نوزاد غذا می دهد",
+    "en": "She washes the dishes, irons, and feeds the baby"
+  },
+  {
+    "id": 817,
+    "fa": "داریم میرسیم خونه",
+    "en": "We're getting home"
+  },
+  {
+    "id": 818,
+    "fa": "اگر عجله نکنید قطار را از دست خواهید داد",
+    "en": "If you don't hurry you will miss the train",
+    "desc": "while both \"hurry\" and \"hurry up\" convey a need for speed and prompt action, \"hurry up\" is more forceful and commanding in nature, often used to urge someone to act with greater haste."
+  },
+  {
+    "id": 819,
+    "fa": "آن چیزی که به نظر می رسد نیست",
+    "en": "It's not what it looks like"
+  },
+  {
+    "id": 820,
+    "fa": "پیشاپیش تولدت مبارک",
+    "en": "Happy birthday in advance"
+  },
+  {
+    "id": 821,
+    "fa": "با آرزوی موفقیت برای همه شما در مسابقات باقی ماندهتان، صرف نظر از اینکه در کدام مسیر هستید",
+    "en": "Good Luck to all of you in your remaining matches, regardless on which track your are"
+  },
+  {
+    "id": 822,
+    "fa": "وقتی افراد نامناسبی را ترقی می دهی، شما شروع می کنید به از دست دادن بهترین افراد خود",
+    "en": "When you promote the wrong people, you begin to lose your best people"
+  },
+  {
+    "id": 823,
+    "fa": "چرا من  ( از شدت درد یا ترس ) عقب نکشیدم",
+    "en": "Why didn't I flinch?"
+  },
+  {
+    "id": 824,
+    "fa": "به رئیسم گفتم که برای یک عکس ژست بگیرد",
+    "en": "I told my boss to pose for a picture"
+  },
+  {
+    "id": 825,
+    "fa": "شترمرغ بزرگترین پرنده جهان است, قد می کشد تا ۲.۷ متر و وزنش بالا می رود تا ۱۴۵ کیلوگرم",
+    "en": "The Ostrich is the largest bird in the world, standing up to 2.7 meters tall and weighing up to 145 kilograms"
+  },
+  {
+    "id": 826,
+    "fa": "هرگز از طرف من صحبت نکن",
+    "en": "Never speak on my behalf"
+  },
+  {
+    "id": 827,
+    "fa": "پیراهن یک نقطه لکه دار کوچک رویش داشت",
+    "en": "The shirt had a small stained spot on it"
+  },
+  {
+    "id": 828,
+    "fa": "اینم یه دستمال",
+    "en": "Here's a napkin"
+  },
+  {
+    "id": 829,
+    "fa": "سعی کنید دهان خود را پاک کنید",
+    "en": "Try to wipe your mouth"
+  },
+  {
+    "id": 830,
+    "fa": "وقتی کار همکارم تمام شد، او (مرد) پیش شما خواهد آمد",
+    "en": "When my colleague is done, he will come to you"
+  },
+  {
+    "id": 831,
+    "fa": "توالت ها گرفته",
+    "en": "Toilets are clogged"
+  },
+  {
+    "id": 832,
+    "fa": "شلنگ را می کشم",
+    "en": "I yank the hose (یَنک) (هُز)"
+  },
+  {
+    "id": 833,
+    "fa": "دروازه را می کوبم",
+    "en": "I slam the gate"
+  },
+  {
+    "id": 834,
+    "fa": "من حشره را له می کنم",
+    "en": "I smash the bug"
+  },
+  {
+    "id": 835,
+    "fa": "من می تونم چشم غره برم",
+    "en": "I can roll my eyes"
+  },
+  {
+    "id": 836,
+    "fa": "می تونم اخم کنم",
+    "en": "I can frown"
+  },
+  {
+    "id": 837,
+    "fa": "میتونم چشمک بزنم",
+    "en": "I can wink"
+  },
+  {
+    "id": 838,
+    "fa": "من می تونم پلک بزنم",
+    "en": "I can blink"
+  },
+  {
+    "id": 839,
+    "fa": "من هنوز نمی توانم بیخیالش بشم",
+    "en": "I still can't get over it"
+  },
+  {
+    "id": 840,
+    "fa": "محض اطلاعت, داری اشتباه میکنی",
+    "en": "For your information, you're making a mistake"
+  },
+  {
+    "id": 841,
+    "fa": "یه چیزی پیش اومد",
+    "en": "Something came up"
+  },
+  {
+    "id": 842,
+    "fa": "چیز دیگری هست بخواهی به ما بگی؟",
+    "en": "Is there anything else you want to tell us"
+  },
+  {
+    "id": 843,
+    "fa": "همه جا جز اینجا",
+    "en": "Everywhere but here"
+  },
+  {
+    "id": 844,
+    "fa": "پشت هر مرد موفقی یک زن است",
+    "en": "Behind every successful man there is a woman"
+  },
+  {
+    "id": 845,
+    "fa": "از کجا داری تماس می گیری؟",
+    "en": "Where are you calling from?"
+  },
+  {
+    "id": 846,
+    "fa": "طاقت بیار اونجا",
+    "en": "Hang in there"
+  },
+  {
+    "id": 847,
+    "fa": "قبلا اینجا بودی؟",
+    "en": "Have you been here before?"
+  },
+  {
+    "id": 848,
+    "fa": "من چیزی نگفتم. مطمئنی؟",
+    "en": "I didn't say anything. Are you sure?"
+  },
+  {
+    "id": 849,
+    "fa": "او (مرد) همیشه کار درست را انجام می دهد",
+    "en": "He always does the right thing"
+  },
+  {
+    "id": 850,
+    "fa": "آخرین باری که به اینجا آمدی کی بود؟",
+    "en": "When was the last time you came here?"
+  },
+  {
+    "id": 851,
+    "fa": "ممکن است گهگاه قطعی اتصال اینترنت وجود داشته باشد",
+    "en": "There may be occasional internet connection outages"
+  },
+  {
+    "id": 852,
+    "fa": "می توانید آن را در کابینت پیدا کنید",
+    "en": "You can find it in the cabinet"
+  },
+  {
+    "id": 853,
+    "fa": "به یک مخلوط کن نیاز داری",
+    "en": "You need a blender"
+  },
+  {
+    "id": 854,
+    "fa": "میشه دقیق تر باشی",
+    "en": "Could you be more specific"
+  },
+  {
+    "id": 855,
+    "fa": "در تگزاس، ما هرگز چیزی جز فقیر نبودیم",
+    "en": "in Texas, we were never anything but poor"
+  },
+  {
+    "id": 856,
+    "fa": "برای سفت کردن پیچ ها از آچار استفاده کردم",
+    "en": "I used a wrench to tighten the bolts"
+  },
+  {
+    "id": 857,
+    "fa": "میخ را به دیوار کوبیدم تا عکسی آویزان کنم",
+    "en": "I hammered the nail into the wall to hang a picture"
+  },
+  {
+    "id": 858,
+    "fa": "برای سفت کردن پیچ درون مبل از پیچ گوشتی استفاده کردم",
+    "en": "I used a screwdriver to tighten the screw in the furniture"
+  },
+  {
+    "id": 859,
+    "fa": "من از انبردست برای گرفتن و پیچاندن محکم سیم استفاده کردم",
+    "en": "I used pliers to grip and twist the wire tightly"
+  },
+  {
+    "id": 860,
+    "fa": "من از یک متر برای اندازه گیری دقیق طول اتاق استفاده کردم",
+    "en": "I used a tape measure to measure the length of the room accurately"
+  },
+  {
+    "id": 861,
+    "fa": "دود نیست, گاز بیهوشی است",
+    "en": "It's not smoke, it's anesthetic gas"
+  },
+  {
+    "id": 862,
+    "fa": "شما این را از کجا گرفتی؟",
+    "en": "Where did you get this from?"
+  },
+  {
+    "id": 863,
+    "fa": "او (مرد) و من همسن هستیم",
+    "en": "He and I are the same age"
+  },
+  {
+    "id": 864,
+    "fa": "اول از همه",
+    "en": "First things first"
+  },
+  {
+    "id": 865,
+    "fa": "خوش برگشتی",
+    "en": "Welcome back"
+  },
+  {
+    "id": 866,
+    "fa": "از کی؟",
+    "en": "Since when?"
+  },
+  {
+    "id": 867,
+    "fa": "او (مرد) یکی از بهترین دوستان من است",
+    "en": "He is one of my best friends"
+  },
+  {
+    "id": 868,
+    "fa": "تو یک دروغگو هستی",
+    "en": "You're a lier"
+  },
+  {
+    "id": 869,
+    "fa": "هممون هم فکر هستیم",
+    "en": "We're all on the same page"
+  },
+  {
+    "id": 870,
+    "fa": "با عقل جور در نمیاد",
+    "en": "It doesn't make sense"
+  },
+  {
+    "id": 871,
+    "fa": "نزدیکترین کافی شاپ کجاست؟",
+    "en": "Where is the nearest coffee shop?"
+  },
+  {
+    "id": 872,
+    "fa": "چند وقته ازدواج کرده اید؟",
+    "en": "How long have you been married?"
+  },
+  {
+    "id": 873,
+    "fa": "مدام از خودم می پرسم",
+    "en": "I keep asking myself"
+  },
+  {
+    "id": 874,
+    "fa": "چرا این اتفاق افتاد؟",
+    "en": "Why did this happen?"
+  },
+  {
+    "id": 875,
+    "fa": "تا حالا در مورد آن شنیده اید؟",
+    "en": "Have you ever heard of it?",
+    "desc": "\"Have you ever heard of it?\" asks about general awareness, while \"Have you ever heard about it?\" focuses on specific information or news related to the subject."
+  },
+  {
+    "id": 876,
+    "fa": "خواستن توانستن است",
+    "en": "When there is a will there is a way"
+  },
+  {
+    "id": 877,
+    "fa": "مهم نیست او (مرد) چه می گوید",
+    "en": "It doesn't matter what he says"
+  },
+  {
+    "id": 878,
+    "fa": "اصلا شنیدی چی گفتم؟",
+    "en": "Did you even hear what I said?"
+  },
+  {
+    "id": 879,
+    "fa": "این بستگی به نگاه شما دارد",
+    "en": "That depends on how you look at it"
+  },
+  {
+    "id": 880,
+    "fa": "کسی خانه هست؟",
+    "en": "Is there anybody home?"
+  },
+  {
+    "id": 881,
+    "fa": "او (زن) یادداشت های خود را در یک دفترچه سیم پیچ سازماندهی کرد و در یک کلاسور ذخیره کرد",
+    "en": "She organized her notes in a spiral notebook (اسپایرل) and stored it in a binder (بایندر)"
+  },
+  {
+    "id": 882,
+    "fa": "معلم روی تخته سیاه با گچ نوشت",
+    "en": "The teacher wrote on the blackboard with chalk (چاک)"
+  },
+  {
+    "id": 883,
+    "fa": "او (مرد) سند را با یک پونز به تابلوی اعلانات سنجاق کرد",
+    "en": "He pinned the document to the bulletin board with a thumbtack (ثام تک)"
+  },
+  {
+    "id": 884,
+    "fa": "آیا پول خود را در بانک خود نگه می دارید یا در خانه؟",
+    "en": "Do you keep your money in your bank or at home?"
+  },
+  {
+    "id": 885,
+    "fa": "داره دیر میشه و من هنوز خیلی کار دارم",
+    "en": "It's getting late, and I still have a lot of work to do",
+    "desc": "In this case, \"work\" is an uncountable noun when used in the sense of tasks, responsibilities, or assignments. Therefore, it doesn't take the plural form \"works.\" When referring to a large amount of work in general, it is more appropriate to use the singular form \"work\" in this context."
+  },
+  {
+    "id": 886,
+    "fa": "دیروز یک ساعت در آسانسور گیر کردم. کاملا خسته کننده بود",
+    "en": "I got stuck in the elevator for an hour yesterday. It was quite frustrating"
+  },
+  {
+    "id": 887,
+    "fa": "باید درب بطری را بردارم و محتویات آن را بیرون بیاورم",
+    "en": "I need to take off the bottle cap and take out the contents"
+  },
+  {
+    "id": 888,
+    "fa": "باید آب را داخل بطری بزارم و درب آن را بزارم تا در بسته (مهر و موم) بماند",
+    "en": "I need to put in the water into the bottle and put on the cap to keep it sealed"
+  },
+  {
+    "id": 889,
+    "fa": "در طول طوفان، تگرگها شیشه جلوی من را خرد کرد و نیازم شد آن را تعویض کنم",
+    "en": "During the storm, the hailstones shattered my windshield, requiring me to replace it"
+  },
+  {
+    "id": 890,
+    "fa": "فعلا خداحافظ",
+    "en": "Bye for now"
+  },
+  {
+    "id": 891,
+    "fa": "این آخرین هشدارت است",
+    "en": "This is your last warning"
+  },
+  {
+    "id": 892,
+    "fa": "فقط یک روز معمولی در دریاچه",
+    "en": "Just a casual day at the lake"
+  },
+  {
+    "id": 893,
+    "fa": "اگر از من می پرسی, او (مرد) پیداش خواهد شد",
+    "en": "If you ask me, He'll turn up"
+  },
+  {
+    "id": 894,
+    "fa": "خیلی متاسفم, کنترلم را از دست دادم",
+    "en": "I'm very sorry, I lost my control"
+  },
+  {
+    "id": 895,
+    "fa": "از آخرین باری که همدیگر را دیدیم خیلی گذشته",
+    "en": "It has been a long time since we last met"
+  },
+  {
+    "id": 896,
+    "fa": "کلاس چندمی؟",
+    "en": "Which grade are you in?"
+  },
+  {
+    "id": 897,
+    "fa": "چرا زودتر به من زنگ نزدی؟",
+    "en": "Why didn't you call me sooner?"
+  },
+  {
+    "id": 898,
+    "fa": "نوبت کیه ظرف ها را بشوره؟",
+    "en": "Whose turn is it to do the dishes?"
+  },
+  {
+    "id": 899,
+    "fa": "من نمی دانم مشکل شما چیست؟",
+    "en": "I don't know what your problem is?"
+  },
+  {
+    "id": 900,
+    "fa": "اصلاً نمی دانم چه بگویم؟",
+    "en": "I don't even know what to say?",
+    "desc": "In English, the standard word order for negation is to place the word \"not\" immediately after the auxiliary verb \"do.\" In this case, \"do\" is used as an auxiliary verb to form the negation, and \"even\" is an adverb modifying the verb \"know.\""
+  },
+  {
+    "id": 901,
+    "fa": "من دلایل خودمو دارم",
+    "en": "I have my own reasons"
+  },
+  {
+    "id": 902,
+    "fa": "حدس شما به خوبی من است",
+    "en": "Your guess is as good as mine"
+  },
+  {
+    "id": 903,
+    "fa": "همه طرف شما هستند",
+    "en": "Everybody is on your side"
+  },
+  {
+    "id": 904,
+    "fa": "چه شرم آور! آرام باش",
+    "en": "What a shame! Calm down"
+  },
+  {
+    "id": 905,
+    "fa": "چه فایده ای دارد؟",
+    "en": "What's the point?"
+  },
+  {
+    "id": 906,
+    "fa": "در مورد کی حرف می زنی؟",
+    "en": "Who are you talking about?"
+  },
+  {
+    "id": 907,
+    "fa": "ما یک توافقی داشتیم. نه، من در مورد چیزی توافق نکردم",
+    "en": "We had an agreement. No, I didn't agree on anything"
+  },
+  {
+    "id": 908,
+    "fa": "هر طور راحتی",
+    "en": "Suit yourself"
+  },
+  {
+    "id": 909,
+    "fa": "او (مرد) امروز از بیمارستان مرخص خواهد شد",
+    "en": "He'll be discharged from hospital today"
+  },
+  {
+    "id": 910,
+    "fa": "کاری که باید را انجام بده",
+    "en": "Do what you have to do"
+  },
+  {
+    "id": 911,
+    "fa": "Dependabot بسته های داخلی را به روزرسانی نمی کند",
+    "en": "Dependabot is not bumping internal packages"
+  },
+  {
+    "id": 912,
+    "fa": "چرا سرعت (لعنتی) اینقدر کم است؟",
+    "en": "Why the heck velocity is so low?"
+  },
+  {
+    "id": 913,
+    "fa": "به عنوان یک پزشک، نفرت انگیزترین درخواستی که تا به حال از یک بیمار دریافت کرده اید چیست؟",
+    "en": "As a doctor, what is the most obnoxious request you ever received from a patient?"
+  },
+  {
+    "id": 914,
+    "fa": "هرگز نمی توانستم تصور کنم که باید همه چیزهایی که داشتم را رها کنم",
+    "en": "I could've never imagined that I would have to give up everything I had",
+    "desc": "Modal verb: \"would\" - In this context, \"would\" is used to express a hypothetical or future possibility or obligation. It indicates that something might happen or that there is a requirement to do something.\n\nVerb phrase: \"have to give up\" - This is a combination of the auxiliary verb \"have,\" the infinitive marker \"to,\" and the base form of the verb \"give up.\" Together, they form the phrase indicating the obligation or necessity to surrender or relinquish something.\n\n"
+  },
+  {
+    "id": 915,
+    "fa": "خجالتی نباش",
+    "en": "Don't be shy"
+  },
+  {
+    "id": 916,
+    "fa": "این برای عذرخواهی بابت آخرین برخوردمان است",
+    "en": "This is to apologize for our last encounter"
+  },
+  {
+    "id": 917,
+    "fa": "من کار اشتباهی کردم",
+    "en": "I did a wrong thing"
+  },
+  {
+    "id": 918,
+    "fa": "من بلافاصله برخواهم گشت",
+    "en": "I'll be right back"
+  },
+  {
+    "id": 919,
+    "fa": "میتوانم کمکت کنم",
+    "en": "I can help you out",
+    "desc": "\"I can help you out\" and \"I can help you\" indicate a willingness to assist, \"I can help you out\" suggests a more committed or extensive level of aid."
+  },
+  {
+    "id": 920,
+    "fa": "من تو را خواهم بخشید اما فقط به یک شرط",
+    "en": "I'll forgive you but only on one condition"
+  },
+  {
+    "id": 921,
+    "fa": "آنچه را که درست است انجام دهید، مهم نیست که زندگی چگونه پیش می رود و سرنوشت به خاطر آن از شما تشکر خواهد کرد",
+    "en": "Do what is right, no matter how life goes and fate will thank you for it"
+  },
+  {
+    "id": 922,
+    "fa": "او (مرد) 100 هزار دلار به عنوان کمک برای او (زن) جمع آوری کرد",
+    "en": "He raised 100K dollars in aid for her"
+  },
+  {
+    "id": 923,
+    "fa": "این چیزی است که وقتی زندگی به شما یک نشانه روشن می دهد اتفاق می افتد",
+    "en": "That's what happens when life gives you a bright sign"
+  },
+  {
+    "id": 924,
+    "fa": "کوچکترین گونه پستاندار جهان کدام است؟",
+    "en": "What is the world's smallest species of mammal?"
+  },
+  {
+    "id": 925,
+    "fa": "چطور شد که دیشب در مهمانی حضور نداشتی؟",
+    "en": "How come you didn't attend the party last night?"
+  },
+  {
+    "id": 926,
+    "fa": "هر کی یک کلید داره. چطور تو یکی نداری؟",
+    "en": "Everyone has a key. How come you don't have one?"
+  },
+  {
+    "id": 927,
+    "fa": "شروع روزتان با دویدن در اوایل صبح راهی عالی برای اطمینان از اینکه روزتان بدتر از آنچه شروع شده است نمی شود",
+    "en": "Starting your day with an early morning run is a great way to make sure your day can't get any worse than it started"
+  },
+  {
+    "id": 928,
+    "fa": "این گربه روی دم خود می ایستد تا پاهای کوچک خود را از سرما دور نگه دارد",
+    "en": "This cat stands on its tail to keep its little feet off the cold"
+  },
+  {
+    "id": 929,
+    "fa": "چگونه می توانم شما را متقاعد کنم که از الکل دوری کنی؟",
+    "en": "How can I persuade you to keep off alcohol?"
+  },
+  {
+    "id": 930,
+    "fa": "سعی می کنم صرفه جو باشم",
+    "en": "I try to be frugal"
+  },
+  {
+    "id": 931,
+    "fa": "کارفرمای فعلی من به شرط عدم استعفا به من حقوق بالاتری پیشنهاد داد",
+    "en": "My current employer offered me a higher salary on the condition that I don't resign"
+  },
+  {
+    "id": 932,
+    "fa": "فردا صبح چطور؟",
+    "en": "How about tomorrow morning?"
+  },
+  {
+    "id": 933,
+    "fa": "چرا الان اینو داری به من میگی؟",
+    "en": "Why are you telling me this now?"
+  },
+  {
+    "id": 934,
+    "fa": "چیزی برای از دست دادن ندارم",
+    "en": "I have nothing to lose"
+  },
+  {
+    "id": 935,
+    "fa": "بچه هات خانه هستند؟",
+    "en": "Are your kids home?"
+  },
+  {
+    "id": 936,
+    "fa": "امیدوارم ناراحت نشی",
+    "en": "I hope you don't mind"
+  },
+  {
+    "id": 937,
+    "fa": "کی چای میخواد؟",
+    "en": "Who wants tea?"
+  },
+  {
+    "id": 938,
+    "fa": "یهویی",
+    "en": "Out of the blue"
+  },
+  {
+    "id": 939,
+    "fa": "چطور انگلیسی یاد گرفتی؟",
+    "en": "How did you learn english?"
+  },
+  {
+    "id": 940,
+    "fa": "چه شکلی است؟",
+    "en": "What's it like?"
+  },
+  {
+    "id": 941,
+    "fa": "هر کاری کردم برای خانواده انجام دادم",
+    "en": "Whatever I did, I did for the family"
+  },
+  {
+    "id": 942,
+    "fa": "دنیای بی رحمی است",
+    "en": "It's a cruel world"
+  },
+  {
+    "id": 943,
+    "fa": "چه مدت آنجا ماندی؟",
+    "en": "How long did you stay there?"
+  },
+  {
+    "id": 944,
+    "fa": "چرا آن سوال را از من پرسیدی؟",
+    "en": "Why did you ask me that question?"
+  },
+  {
+    "id": 945,
+    "fa": "بزرگ شو",
+    "en": "Grow up"
+  },
+  {
+    "id": 946,
+    "fa": "کاش می تونستم بمونم",
+    "en": "I wish I could stay"
+  },
+  {
+    "id": 947,
+    "fa": "دستت را از روی شانه ام بردار",
+    "en": "Take your hand off my shoulder",
+    "desc": " \"Take your hand off my shoulder\" is a more polite and neutral way of asking someone to remove their hand, while \"Get your hand off my shoulder\" is a more direct and forceful demand."
+  },
+  {
+    "id": 948,
+    "fa": "اون (مرد) بر نمیگرده",
+    "en": "He's not coming back",
+    "desc": "\"He's not coming back\" emphasizes the ongoing absence and suggests that the person will not return in the future. \"He does not come back\" indicates a general statement about the person's habit of not returning. The choice between the two phrases depends on the intended context and timeframe of the person's absence."
+  },
+  {
+    "id": 949,
+    "fa": "ماشین لباسشویی ما دوباره خراب شده است",
+    "en": "Our washing machine has broken down again"
+  },
+  {
+    "id": 950,
+    "fa": "چند تا بچه داری؟",
+    "en": "How many children do you have?"
+  },
+  {
+    "id": 951,
+    "fa": "این دقیقاً برعکس آنچه قبلاً داشتیم تلفظ می شود",
+    "en": "This is pronounced exactly the opposite way from what we had before"
+  },
+  {
+    "id": 952,
+    "fa": "من پیشنهاد آنها را دریافت کردم، اما از شرایط راضی نیستم، بنابراین قراره یک پیشنهاد متقابل آماده کنم",
+    "en": "I received their offer, but I'm not satisfied with the terms, so I'll be preparing a counteroffer"
+  },
+  {
+    "id": 953,
+    "fa": "گم شو",
+    "en": "Get lost"
+  },
+  {
+    "id": 954,
+    "fa": "چه ولگرد مغروری",
+    "en": "What a proud tramp"
+  },
+  {
+    "id": 955,
+    "fa": "از من دور باش",
+    "en": "Stay away from me"
+  },
+  {
+    "id": 956,
+    "fa": "از راه دور انجامش بده",
+    "en": "Do it from distance"
+  },
+  {
+    "id": 957,
+    "fa": "میخوای (بری) به من مشت بزنی؟",
+    "en": "Are you going to punch me?"
+  },
+  {
+    "id": 958,
+    "fa": "می توانم تصور کنم که مادرم چقدر از دیدن من هیجان زده خواهد شد",
+    "en": "I can imagine how excited my mom will be to see me"
+  },
+  {
+    "id": 959,
+    "fa": "او (زن) احتمالا فکر می کند من تا الان مرده ام",
+    "en": "She probably thinks I'm dead by now"
+  },
+  {
+    "id": 960,
+    "fa": "او (مرد) ورشکست شد و سر از خیابان ها درآورد",
+    "en": "He went bankrupt and ended up on the streets"
+  },
+  {
+    "id": 961,
+    "fa": "عجله نکن",
+    "en": "Do not rush"
+  },
+  {
+    "id": 962,
+    "fa": "سعی نکن من را به گریه بیاندازی",
+    "en": "Don't try to make me cry"
+  },
+  {
+    "id": 963,
+    "fa": "شخصی اجناس دزدی را به سمساری من آورده است",
+    "en": "Someone has brought (برات) stolen goods to my pawnshop (پان)"
+  },
+  {
+    "id": 964,
+    "fa": "من به 50 باکس رضایت خواهم داد",
+    "en": "I'll settle for 50 box"
+  },
+  {
+    "id": 965,
+    "fa": "بفرمایید، اینم از این",
+    "en": "There you go"
+  },
+  {
+    "id": 966,
+    "fa": "او (زن) تا چهارشنبه در تعطیلات است",
+    "en": "She is on vacation till wednesday"
+  },
+  {
+    "id": 967,
+    "fa": "من عادت داشتم به انجام دادن آنچه وجدانم به من می گفت",
+    "en": "I used to do what my conscience told me to do"
+  },
+  {
+    "id": 968,
+    "fa": "اونجا چی داری؟",
+    "en": "What have you got there?",
+    "desc": "\"What do you have there?\": This phrase is the standard and more formal way of asking about something a person is holding. \"What have you got there?\": This phrase is more commonly used in informal contexts or in casual conversation"
+  },
+  {
+    "id": 969,
+    "fa": "اینو از کجا آوردی",
+    "en": "Where did you get this?"
+  },
+  {
+    "id": 970,
+    "fa": "آیا چشم پزشکی اطفال می شناسید؟",
+    "en": "Do you know a pediatric (/ˌpidiˈætrɪk/) ophthalmology? (/ˌɑːpθəˈmɑːlədʒi/)"
+  },
+  {
+    "id": 971,
+    "fa": "یک تکه گوشت را سیخ می زنم",
+    "en": "I am skewering a cube of beef on the skewer (/ˈskjuːər/)"
+  },
+  {
+    "id": 972,
+    "fa": "من به شما کمک خواهم کرد تا غذای خود را تازه نگه دارید",
+    "en": "I will help you to keep your food fresh"
+  },
+  {
+    "id": 973,
+    "fa": "من نگران سفیدیه پایین عنبیش هستم",
+    "en": "I am concerned about the whiteness of the bottom of the iris"
+  },
+  {
+    "id": 974,
+    "fa": "ما میخواهیم محترمانه یادآور شویم که برگزاری این رویداد اجباری است",
+    "en": "We kindly want to remind you that this event is mandatory"
+  },
+  {
+    "id": 975,
+    "fa": "در صورت هرگونه سوالی با تیم مدیریت دفتر خود تماس بگیرید",
+    "en": "In case of any questions do not hesitate to reach out to your office management team"
+  },
+  {
+    "id": 976,
+    "fa": "فقط 12 ساعت دیگر فرصت داریم",
+    "en": "We've only got 12 hours left"
+  },
+  {
+    "id": 977,
+    "fa": "شما نمی توانید در مترو سیگار بکشید",
+    "en": "You can't smoke in the subway"
+  },
+  {
+    "id": 978,
+    "fa": "باشه، من باید برم سر کار، ساعت 5 برمیگردم",
+    "en": "All right, I gotta go to work, I'll be back at 5"
+  },
+  {
+    "id": 979,
+    "fa": "آن را دور نریزید، ودیعه ای روی آن وجود دارد. اگر آن را به سوپرمارکت بازگردانید، 25 سنت برای آن دریافت خواهید کرد",
+    "en": "Don't throw that away, there's a deposit on it. If you bring it back to the supermarket you get like 25 cents for it"
+  },
+  {
+    "id": 980,
+    "fa": "باورم نمی شود، اما از دوستم شکایت کردند!",
+    "en": "I can't believe it, but my friend got sued!"
+  },
+  {
+    "id": 981,
+    "fa": "فکر کنم باید یه جایی نزدیک غذا بخوریم",
+    "en": "I think we have to eat somewhere close by",
+    "desc": "In summary, the difference lies in the level of specificity and emphasis on proximity. \"Somewhere close\" implies a general preference for nearness without specifying the exact distance, while \"somewhere close by\" adds emphasis on finding a location that is nearby or within a short distance"
+  },
+  {
+    "id": 982,
+    "fa": "آیا می توانی کمکم کنی؟",
+    "en": "Can you give me a hand?"
+  },
+  {
+    "id": 983,
+    "fa": "چرا باید سیب زمینی سرخ کرده روی کباب باشد؟",
+    "en": "Why would there be french fries on a kebab?"
+  },
+  {
+    "id": 984,
+    "fa": "منو مسخره نکن",
+    "en": "Don't mock me"
+  },
+  {
+    "id": 985,
+    "fa": "",
+    "en": "I can't believe it, but my friend just got sued!"
+  },
+  {
+    "id": 986,
+    "fa": "",
+    "en": "She was hesitant to jump off the diving board due to her fear of heights"
+  },
+  {
+    "id": 987,
+    "fa": "",
+    "en": "You always have someone around to hang out"
+  },
+  {
+    "id": 988,
+    "fa": "",
+    "en": "The introverted student chose a cozy corner of the library to study in peace"
+  },
+  {
+    "id": 989,
+    "fa": "",
+    "en": "I have a memory leak"
+  },
+  {
+    "id": 990,
+    "fa": "",
+    "en": "It's not trivial"
+  },
+  {
+    "id": 991,
+    "fa": "",
+    "en": "As long as we don't program emotions into Robots, there's no reason to fear them taking over the world"
+  },
+  {
+    "id": 992,
+    "fa": "چگونه به آنجا رسیدم؟",
+    "en": "How I got there?"
+  },
+  {
+    "id": 993,
+    "fa": "اگر در امتحان مردود می شدم، باید رویای دکتر شدن را رها می کردم",
+    "en": "If I failed the exam, I would have to give up my dream of becoming a doctor"
+  },
+  {
+    "id": 994,
+    "fa": "همانطور که خواهر و برادرش در حرفه خود به موفقیت دست یافتند، او (زن) از دستاوردهای آنها احساس غرور کرد",
+    "en": "As her sibling achieved success in their career, she felt proud of their accomplishments",
+    "desc": "On the other hand, \"sibling\" is the singular form of the noun. If you were referring to just one brother or sister, you would use the singular form \"sibling\" instead of \"siblings.\""
+  },
+  {
+    "id": 995,
+    "fa": "نزدیک بود بمیرم که ناگهان غریق نجات مرا از غرق شدن نجات داد",
+    "en": "I was about to die when suddenly a lifeguard rescued me from drowning"
+  },
+  {
+    "id": 996,
+    "fa": "یک نفس عمیق بکشید، افکار خود را جمع آوری کنید و یک راه دیگر برای رساندن پیام خود امتحان کنید",
+    "en": "Take a deep breath, gather your thoughts, and try another shot at delivering your message"
+  },
+  {
+    "id": 997,
+    "fa": "من سعی می کنم به او اهمیت مدیریت زمان را بفهمانم",
+    "en": "I'm trying to make him understand the importance of time management",
+    "desc": "\"Trying to get him\": This phrase implies attempting to persuade, convince, or acquire the cooperation or assistance of someone. \"Trying to make him\": This phrase implies attempting to influence or compel someone to do something or to adopt a certain behavior or attitude."
+  },
+  {
+    "id": 998,
+    "fa": "عصبی به نظر می رسی",
+    "en": "You seem tense"
+  },
+  {
+    "id": 999,
+    "fa": "برات جا گرفتم",
+    "en": "I saved you a spot"
+  },
+  {
+    "id": 1000,
+    "fa": "داری تعقیبم میکنی؟",
+    "en": "Are you stalking me?"
   }
 ]
