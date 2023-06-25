@@ -1705,7 +1705,7 @@
   },
   {
     "id": 340,
-    "fa": "هر کاری که لازم است انجام بده",
+    "fa": "هر کاری که می بره رو انجام بده",
     "en": "Do whatever it takes"
   },
   {
@@ -3860,7 +3860,7 @@
   },
   {
     "id": 766,
-    "fa": "او (زن) گوشیو بر نمی داره",
+    "fa": "او (زن) گوشیو (داره) بر نمی داره",
     "en": "She's not picking up"
   },
   {
@@ -4748,7 +4748,7 @@
   },
   {
     "id": 941,
-    "fa": "هر کاری کردم برای خانواده انجام دادم",
+    "fa": "هر کاری کردم, برای خانواده انجام دادم",
     "en": "Whatever I did, I did for the family"
   },
   {
@@ -4911,8 +4911,8 @@
   },
   {
     "id": 973,
-    "fa": "من نگران سفیدیه پایین عنبیش هستم",
-    "en": "I am concerned about the whiteness of the bottom of the iris"
+    "fa": "من نگران سفیدیه پایین عنبیش (مرد) هستم",
+    "en": "I am concerned about the whiteness of the bottom of his iris"
   },
   {
     "id": 974,
@@ -4946,8 +4946,8 @@
   },
   {
     "id": 980,
-    "fa": "باورم نمی شود، اما از دوستم شکایت کردند!",
-    "en": "I can't believe it, but my friend got sued!"
+    "fa": "وقتی چیز ها سخت می شود، نفس عمیق بکشید و به اعصاب خود مسلط باشید. شما می توانید این کار را انجام دهید",
+    "en": "When things get tough, take a deep breath and get a grip. You can handle this"
   },
   {
     "id": 981,
@@ -4977,7 +4977,7 @@
   },
   {
     "id": 986,
-    "fa": "او (زن) به دلیل ترس از ارتفاع برای پریدن از تخته غواصی مردد بود",
+    "fa": "او (زن) مردد بود برای پریدن از تخته غواصی به دلیل ترس از ارتفاع  ",
     "en": "She was hesitant to jump off the diving board due to her fear of heights"
   },
   {
@@ -5033,7 +5033,7 @@
   },
   {
     "id": 997,
-    "fa": "من سعی می کنم به او اهمیت مدیریت زمان را بفهمانم",
+    "fa": "من سعی می کنم به او (مرد) اهمیت مدیریت زمان را بفهمانم",
     "en": "I'm trying to make him understand the importance of time management",
     "desc": "\"Trying to get him\": This phrase implies attempting to persuade, convince, or acquire the cooperation or assistance of someone. \"Trying to make him\": This phrase implies attempting to influence or compel someone to do something or to adopt a certain behavior or attitude."
   },
