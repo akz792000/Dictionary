@@ -37,7 +37,7 @@
   },
   {
     "id": 1008,
-    "fa": "داری اشتباه می کنی",
+    "fa": "اشتباه می کنی",
     "en": "You're mistaken"
   },
   {
@@ -47,12 +47,13 @@
   },
   {
     "id": 1010,
-    "fa": "پریروز با دوستی قدیمی ملاقات کردم که سال ها بود او را ندیده بودم",
-    "en": "The day before yesterday, I met an old friend whom I hadn't seen in years"
+    "fa": "پریروز با دوست قدیمی ملاقات کردم کسی که او را ندیده بود سال ها",
+    "en": "The day before yesterday, I met an old friend whom I hadn't seen in years",
+    "desc": "\"in years\" refers to a past duration of time, while \"for years\" emphasizes the ongoing nature of the duration."
   },
   {
     "id": 1011,
-    "fa": "من برای اکران فیلم هیجان زده هستم. پس فردا دارع میاد بیرون",
+    "fa": "من برای اکران فیلم هیجان زده هستم. پس فردا داره میاد بیرون",
     "en": "I'm excited for the movie release. It's coming out the day after tomorrow"
   },
   {
@@ -138,7 +139,8 @@
   {
     "id": 1028,
     "fa": "آیا تا به حال به خارج از کشور رفته اید؟",
-    "en": "Have ever gone abroad?"
+    "en": "Have ever gone abroad?",
+    "desc": "\"Have you ever been abroad?\" is the more commonly used phrase to ask about someone's experience of being in another country. \"Have you ever gone abroad?\" can also be understood, but it specifically highlights the act of physically traveling to another country."
   },
   {
     "id": 1029,
@@ -147,12 +149,83 @@
   },
   {
     "id": 1030,
-    "fa": "او (زن) رفت خرید بدون گفتن خداحافظ",
-    "en": "She left without saying good buy"
+    "fa": "او (زن) رفت بدون گفتن خداحافظ",
+    "en": "She left without saying goodbye"
   },
   {
     "id": 1031,
     "fa": "اینجا انگلیسی صحبت می شه",
     "en": "English is spoken here"
+  },
+  {
+    "id": 1032,
+    "fa": "در نظر داشته باشید که فردا آخرین مهلت ارسال درخواست شماست",
+    "en": "Keep in mind that tomorrow is the deadline for submitting your application"
+  },
+  {
+    "id": 1033,
+    "fa": "من رو 2 نفر حساب کن",
+    "en": "Count me as 2 people"
+  },
+  {
+    "id": 1034,
+    "fa": "پس از تجزیه و تحلیل تمام داده ها، به این نتیجه رسیدیم که پروژه به زمان بیشتری نیاز دارد",
+    "en": "After analyzing all the data, we came to the conclusion that the project needs more time"
+  },
+  {
+    "id": 1035,
+    "fa": "مردم از من می پرسند که چرا با هم نیستیم؟ فقط نمیدونم چی بهشون بگم",
+    "en": "People ask me why we're not together. I just don't know what to tell them"
+  },
+  {
+    "id": 1036,
+    "fa": "واقعا گیج شدم",
+    "en": "I got really confused"
+  },
+  {
+    "id":1037,
+    "fa": "من نگاهی محافظه کارانه به مسائل اجتماعی دارم",
+    "en": "I hold conservative view on social issues"
+  },
+  {
+    "id": 1038,
+    "fa": "چیزی که من از نقطه نظر فنی فهمیدم این است که نرم افزار نیاز به به روز رسانی دارد",
+    "en": "What I understood from a technical point of view is that the software requires an update"
+  },
+  {
+    "id": 1039,
+    "fa": "من مطمئن نیستم که تا چه حد می توانیم حمایت کنیم",
+    "en": "I'm not sure to what extent we can support"
+  },
+  {
+    "id": 1040,
+    "fa": "افزایش حجم کار برای تیم منجر به سرریز وظایفی شد که باید تکمیل شوند",
+    "en": "The increased workload for the team led to a spillover of tasks that needed to be completed"
+  },
+  {
+    "id": 1041,
+    "fa": "مهم است که شرایط هاس آب و هوایی را در نظر بگیرید",
+    "en": "It's important to take into account the weather conditions"
+  },
+  {
+    "id": 1042,
+    "fa": "شما باید کارهای واگذار شده خود را در مهلت مقرر ارسال کنید",
+    "en": "You must submit your assignment by the deadline",
+    "desc": "\"should\" suggests a recommendation or preference, allowing some discretion, while \"must\" conveys a stronger sense of obligation or requirement, leaving little to no room for choice."
+  },
+  {
+    "id": 1043,
+    "fa": "آنهایی با پوسته های سخت ارزش این زحمت را ندارند",
+    "en": "Those with hard shells aren't worth the trouble"
+  },
+  {
+    "id": 1044,
+    "fa": "او (زن) به دلیل ترسش از ارتفاع (بلندی ها) نمی توانست از نردبان بالا برود",
+    "en": "She couldn't climb the ladder due to her fear of heights"
+  },
+  {
+    "id": 1045,
+    "fa": "من باید از سیم رابط بکشم و آن را به پریز دیواری بزنم",
+    "en": "I need to it the lamp from the extension cord and plug it into the wall socket"
   }
 ]

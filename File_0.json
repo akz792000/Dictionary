@@ -3453,7 +3453,7 @@
   },
   {
     "id": 686,
-    "fa": "ناراحت نمیشی رانندگی کنی؟ من احساس خستگی می کنم و ممنون می شوم اگر بتوانید فرمان را بگیرید",
+    "fa": "ناراحت نمیشی رانندگی کنی؟ من دارم احساس خستگی می کنم و ممنون می شوم اگر بتوانید فرمان را بگیرید",
     "en": "Would you mind driving? I'm feeling tired and would appreciate it if you could take the wheel",
     "desc": "\"Would you mind driving?\": This is a question asking if the person is willing to drive. It is a polite way to inquire if they have any objection or if it would be a problem for them to drive.\n\n\"You don't mind driving\": This is a statement assuming or confirming that the person is willing to drive. It suggests that the speaker believes the person is okay with driving and does not have any objections.\n\nIn summary, the first phrase asks for permission or willingness to drive, while the second phrase assumes or confirms the person's willingness to drive."
   },
@@ -4294,7 +4294,8 @@
   {
     "id": 851,
     "fa": "ممکن است گهگاه قطعی اتصال اینترنت وجود داشته باشد",
-    "en": "There may be occasional internet connection outages"
+    "en": "There may be occasional internet connection outages",
+    "desc": "In summary, \"may\" suggests a higher level of probability or certainty, while \"might\" implies a lower level of probability or a more speculative scenario. However, the distinction between the two can sometimes be subtle, and they are often used interchangeably in everyday conversation"
   },
   {
     "id": 852,
@@ -4658,7 +4659,7 @@
   },
   {
     "id": 923,
-    "fa": "این چیزی است که وقتی زندگی به شما یک نشانه روشن می دهد اتفاق می افتد",
+    "fa": "آن چیزی است که اتفاق می افتد وقتی زندگی به شما یک نشانه روشن می دهد",
     "en": "That's what happens when life gives you a bright sign"
   },
   {
@@ -4733,8 +4734,8 @@
   },
   {
     "id": 938,
-    "fa": "یهویی",
-    "en": "Out of the blue"
+    "fa": "پرنده زنبور عسل را می قاپد یهویی",
+    "en": "Bird snatches a bumblebee out of the blue"
   },
   {
     "id": 939,
@@ -4941,7 +4942,7 @@
   },
   {
     "id": 979,
-    "fa": "آن را دور نریزید، ودیعه ای روی آن وجود دارد. اگر آن را به سوپرمارکت بازگردانید، 25 سنت برای آن دریافت خواهید کرد",
+    "fa": "آن را دور نریزید، ودیعه ای روی آن وجود دارد. اگر آن را به سوپرمارکت بازگردانید دریافت میکنید مثل 25 سنت براش",
     "en": "Don't throw that away, there's a deposit on it. If you bring it back to the supermarket you get like 25 cents for it"
   },
   {
@@ -4963,7 +4964,8 @@
   {
     "id": 983,
     "fa": "چرا باید سیب زمینی سرخ کرده روی کباب باشد؟",
-    "en": "Why would there be french fries on a kebab?"
+    "en": "Why would there be french fries on kebab?",
+    "desc": "\"Why would be french fries on kebab\": This sentence is not grammatically correct. It is missing the subject before the verb \"be.\"\nTo make it grammatically correct, you can rephrase it as \"Why would French fries be on a kebab?\""
   },
   {
     "id": 984,
@@ -4977,7 +4979,7 @@
   },
   {
     "id": 986,
-    "fa": "او (زن) مردد بود برای پریدن از تخته غواصی به دلیل ترس از ارتفاع  ",
+    "fa": "او (زن) مردد بود برای پریدن از تخته غواصی به دلیل ترسش از ارتفاع (بلندی ها)",
     "en": "She was hesitant to jump off the diving board due to her fear of heights"
   },
   {
@@ -5033,7 +5035,7 @@
   },
   {
     "id": 997,
-    "fa": "من سعی می کنم به او (مرد) اهمیت مدیریت زمان را بفهمانم",
+    "fa": "من دارم سعی می کنم به او (مرد) اهمیت مدیریت زمان را بفهمانم",
     "en": "I'm trying to make him understand the importance of time management",
     "desc": "\"Trying to get him\": This phrase implies attempting to persuade, convince, or acquire the cooperation or assistance of someone. \"Trying to make him\": This phrase implies attempting to influence or compel someone to do something or to adopt a certain behavior or attitude."
   },
