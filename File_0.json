@@ -2712,7 +2712,7 @@
   },
   {
     "id": 540,
-    "fa": "این تمام چیزی است که میدانم",
+    "fa": "آن تمام چیزی است که میدانم",
     "en": "That's all I know"
   },
   {
@@ -3775,7 +3775,7 @@
   },
   {
     "id": 749,
-    "fa": "بهترینها برای شما",
+    "fa": "تمام بهترینها برای شما",
     "en": "All the best to you"
   },
   {
@@ -3933,7 +3933,7 @@
     "id": 780,
     "fa": "باید بند کفشم را ببندم",
     "en": "I need to tie my shoelaces (شو لی سِس)",
-    "desc": "In summary, \"I need to tie my shoelaces\" implies a personal preference or benefit, while \"I have to tie my shoelaces\" indicates a stronger obligation or requirement."
+    "desc": "In summary, \"I need to tie my shoelaces\" implies a personal preference or benefit, while \"I have to tie my shoelaces\" indicates a stronger obligation or requirement. \n\n The plural form \"shoelaces\" is used because each shoe typically has multiple laces that need to be tied"
   },
   {
     "id": 781,
@@ -4349,7 +4349,7 @@
   },
   {
     "id": 862,
-    "fa": "شما این را از کجا گرفتی؟",
+    "fa": "از کجا این را گرفتی؟",
     "en": "Where did you get this from?"
   },
   {
@@ -4435,13 +4435,14 @@
   },
   {
     "id": 879,
-    "fa": "این بستگی به نگاه شما دارد",
+    "fa": "این بستگی دارد که چگونه به آن نگاه میکنبد",
     "en": "That depends on how you look at it"
   },
   {
     "id": 880,
     "fa": "کسی خانه هست؟",
-    "en": "Is there anybody home?"
+    "en": "Is there anybody home?",
+    "desc": "\"Is there anybody home?\": This phrase places a slight emphasis on the existence of someone being present at home. \n\n\"Is anybody home?\": This phrase is more straightforward and direct. It asks if there is someone at home without specifically emphasizing the existence or presence of someone."
   },
   {
     "id": 881,
@@ -4734,7 +4735,7 @@
   },
   {
     "id": 938,
-    "fa": "پرنده زنبور عسل را می قاپد یهویی",
+    "fa": "پرنده یک زنبور عسل را می قاپد یهویی",
     "en": "Bird snatches a bumblebee out of the blue"
   },
   {
@@ -4801,7 +4802,7 @@
   },
   {
     "id": 951,
-    "fa": "این دقیقاً برعکس آنچه قبلاً داشتیم تلفظ می شود",
+    "fa": "این تلفظ می شود دقیقاً برعکس آنچه قبلاً داشتیم",
     "en": "This is pronounced exactly the opposite way from what we had before"
   },
   {
@@ -4913,7 +4914,7 @@
   {
     "id": 973,
     "fa": "من نگران سفیدیه پایین عنبیش (مرد) هستم",
-    "en": "I am concerned about the whiteness of the bottom of his iris"
+    "en": "I am concerned about the whiteness at the bottom of his iris"
   },
   {
     "id": 974,

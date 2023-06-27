@@ -189,7 +189,7 @@
   },
   {
     "id": 1038,
-    "fa": "چیزی که من از نقطه نظر فنی فهمیدم این است که نرم افزار نیاز به به روز رسانی دارد",
+    "fa": "چیزی که من از نقطه نظر فنی فهمیدم این است که نرم افزار نیاز دارد به یک بروز رسانی ",
     "en": "What I understood from a technical point of view is that the software requires an update"
   },
   {
@@ -204,7 +204,7 @@
   },
   {
     "id": 1041,
-    "fa": "مهم است که شرایط هاس آب و هوایی را در نظر بگیرید",
+    "fa": "مهم است که شرایط آب و هوایی را در نظر بگیرید",
     "en": "It's important to take into account the weather conditions"
   },
   {
@@ -226,6 +226,31 @@
   {
     "id": 1045,
     "fa": "من باید از سیم رابط بکشم و آن را به پریز دیواری بزنم",
-    "en": "I need to it the lamp from the extension cord and plug it into the wall socket"
+    "en": "I need to unplug it from the extension cord and plug it into the wall socket"
+  },
+  {
+    "id": 1046,
+    "fa": "کنترل خنک کننده و رادیاتور را روی \"دانه برف\" تنظیم کنید",
+    "en": "Set cooling controller and radiator to \"snowflake\""
+  },
+  {
+    "id": 1047,
+    "fa": "در این روزها کلیه اتاق های جلسات دفتر ما مسدود شده و قابل استفاده نیست",
+    "en": "During these days, all meeting rooms in our office will be blocked and cannot be used"
+  },
+  {
+    "id": 1048,
+    "fa": "دیدش (زن) تار شده بود بعد از برداشتن عینک",
+    "en": "Her vision was blurry after removing her glasses"
+  },
+  {
+    "id": 1049,
+    "fa": "من بودم مطمئنا",
+    "en": "It was me for sure"
+  },
+  {
+    "id": 1050,
+    "fa": "باید یک پنالتی علیه شما وجود داشته باشد",
+    "en": "There should be a penalty against you"
   }
 ]
