@@ -47,7 +47,7 @@
   },
   {
     "id": 1010,
-    "fa": "پریروز با دوست قدیمی ملاقات کردم کسی که او را ندیده بود سال ها",
+    "fa": "پریروز یک دوست قدیمی را که سال ها ندیده بود ملاقات کردم",
     "en": "The day before yesterday, I met an old friend whom I hadn't seen in years",
     "desc": "\"in years\" refers to a past duration of time, while \"for years\" emphasizes the ongoing nature of the duration."
   },
@@ -58,12 +58,12 @@
   },
   {
     "id": 1012,
-    "fa": "من یک روز در میان به باشگاه می روم تا یک برنامه ورزشی سالم داشته باشم",
-    "en": "I go to the gym every other day to maintain a healthy exercise routine"
+    "fa": "من یک روز در میان برای حفظ تناسب اندامم به باشگاه می روم",
+    "en": "I go to the gym every other day to keep my body fit"
   },
   {
     "id": 1013,
-    "fa": "امروز چند شنبه است؟",
+    "fa": "چه روزی است امروز؟",
     "en": "What day is it today?"
   },
   {
@@ -159,7 +159,7 @@
   },
   {
     "id": 1032,
-    "fa": "در نظر داشته باشید که فردا آخرین مهلت ارسال درخواست شماست",
+    "fa": "در نظر داشته باشید که فردا آخرین مهلت ارائه درخواست شماست",
     "en": "Keep in mind that tomorrow is the deadline for submitting your application"
   },
   {
@@ -199,8 +199,8 @@
   },
   {
     "id": 1040,
-    "fa": "افزایش حجم کار برای تیم منجر به سرریز وظایفی شد که باید تکمیل شوند",
-    "en": "The increased workload for the team led to a spillover of tasks that needed to be completed"
+    "fa": "حجم کار بیش از حد منجر به سرریز وظایف شد",
+    "en": "The excessive workload led to a spillover of tasks"
   },
   {
     "id": 1041,
@@ -209,7 +209,7 @@
   },
   {
     "id": 1042,
-    "fa": "شما باید کارهای واگذار شده خود را در مهلت مقرر ارسال کنید",
+    "fa": "شما باید کار واگذار شده خود را در مهلت مقرر ارائه کنید",
     "en": "You must submit your assignment by the deadline",
     "desc": "\"should\" suggests a recommendation or preference, allowing some discretion, while \"must\" conveys a stronger sense of obligation or requirement, leaving little to no room for choice."
   },
@@ -235,13 +235,13 @@
   },
   {
     "id": 1047,
-    "fa": "در این روزها کلیه اتاق های جلسات دفتر ما مسدود شده و قابل استفاده نیست",
-    "en": "During these days, all meeting rooms in our office will be blocked and cannot be used"
+    "fa": "کلیه اتاق های جلسات در دفتر ما مسدود خواهد شد و نمی توان استفاده کرد",
+    "en": "All meeting rooms in our office will be blocked and cannot be used"
   },
   {
     "id": 1048,
-    "fa": "دیدش (زن) تار شده بود بعد از برداشتن عینک",
-    "en": "Her vision was blurry after removing her glasses"
+    "fa": "دیدش (زن) بعد از برداشتن عینک تار شده بود",
+    "en": "Her vision was blurry (بلِری) after removing her glasses"
   },
   {
     "id": 1049,
@@ -252,5 +252,88 @@
     "id": 1050,
     "fa": "باید یک پنالتی علیه شما وجود داشته باشد",
     "en": "There should be a penalty against you"
+  },
+  {
+    "id": 1051,
+    "fa": "تلفن هر لحظه ممکن است با اخبار هیجان انگیز از آمریکا زنگ بخورد",
+    "en": "The phone could ring with exciting news from America at any second"
+  },
+  {
+    "id": 1052,
+    "fa": "آیا هر چیزی که گفتم منطقی است؟",
+    "en": "Does everything I said make sense?"
+  },
+  {
+    "id": 1053,
+    "fa": "منظور من را اشتباه برداشت نکن",
+    "en": "Don't get me wrong"
+  },
+  {
+    "id": 1054,
+    "fa": "من فقط می خواهم در این مورد شفاف باشم",
+    "en": "I just want to be transparent about this"
+  },
+  {
+    "id": 1055,
+    "fa": "فکر کردم حل شد",
+    "en": "I thought it was solved"
+  },
+  {
+    "id": 1056,
+    "fa": "آیا کسی سرنخی دارد که این اعداد چه خواهند بود؟",
+    "en": "Does anybody have any clue what these numbers would be?"
+  },
+  {
+    "id": 1057,
+    "fa": "او (مرد) قرار است مثل پارسال جشن بگیرد",
+    "en": "He will be throwing a party like last year",
+    "desc": "Future Continuous tense emphasizes the ongoing nature of an action in the future"
+  },
+  {
+    "id": 1058,
+    "fa": "تا هفته آینده، او (زن) قراره نوشتن گزارش خود را به پایان برساند",
+    "en": "By next week, she will have finished writing her report",
+    "desc": "Future Perfect tense emphasizes the completion of an action before a future reference point"
+  },
+  {
+    "id": 1059,
+    "fa": "تا او (مرد) بیاید، من  قراره دو ساعت منتظر باشم",
+    "en": "By the time he arrives, I will have been waiting for two hours",
+    "desc": "Future Perfect Continuous tense combines continuity and completion in the future"
+  },
+  {
+    "id": 1060,
+    "fa": "میدونستم کمکش (مرد) نمیکنی",
+    "en": "I knew you would not help him"
+  },
+  {
+    "id": 1061,
+    "fa": "من می توانم توضیح مختصری در مورد روند به شما بدهم، زمان زیادی نخواهد برد",
+    "en": "I can give you a brief explanation of the process, it won't take that much time"
+  },
+  {
+    "id": 1062,
+    "fa": "خدا نکند حادثه بیافتد، ما باید اطمینان حاصل کنیم که تدابیر ایمنی وجود دارد",
+    "en": "God forbid any accidents, we must ensure the safety measures are in place"
+  },
+  {
+    "id": 1063,
+    "fa": "مدتی است که نیاز به سرمایه گذاری دارد",
+    "en": "It has needed investment for a while now"
+  },
+  {
+    "id": 1064,
+    "fa": "نمی توانیم انتظار داشت باشیم که اوضاع به این زودی بهتر شه",
+    "en": "We can't expect the situation to improve anytime soon"
+  },
+  {
+    "id": 1065,
+    "fa": "کدام حیوان بهترین حس بویایی را دارد؟",
+    "en": "Which animal has the best sense of smell?"
+  },
+  {
+    "id": 1066,
+    "fa": "من تازه رسیدم مطب دکتر",
+    "en": "I have just arrived at the doctor's office"
   }
 ]

@@ -2823,7 +2823,7 @@
   },
   {
     "id": 562,
-    "fa": "امیدوارم در آینده نزدیک مسیرهای ما دوباره تلاقی پیدا کند و برای شما و شرکتتان آرزوی موفقیت روزافزون دارم",
+    "fa": "امیدوارم در آینده نزدیک مسیرهای ما دوباره تلاقی پیدا کند, و برای شما و شرکتتان آرزوی موفقیت روزافزون دارم",
     "en": "I hope our paths will cross again in the near future, and wish you and your company continued success"
   },
   {
@@ -3119,7 +3119,7 @@
   },
   {
     "id": 621,
-    "fa": "لطفاً تردید نکنید در تماس با من اگر شما سوالات دیگر بیشتری دارید",
+    "fa": "لطفاً در تماس با من تردید نکنید اگر شما سوالات دیگر بیشتری دارید",
     "en": "Please don't hesitate to reach me out if you have any further questions"
   },
   {
@@ -3926,8 +3926,9 @@
   },
   {
     "id": 779,
-    "fa": "تیشرتم چروک شده",
-    "en": "My t-shirt is creased (/ˈkriːst/)"
+    "fa": "تیشرتم چروک است",
+    "en": "My t-shirt is creased (/ˈkriːst/)",
+    "desc": "creased\" functions as an adjective describing the condition or state of the T-shirt."
   },
   {
     "id": 780,
@@ -4435,7 +4436,7 @@
   },
   {
     "id": 879,
-    "fa": "این بستگی دارد که چگونه به آن نگاه میکنبد",
+    "fa": "آن بستگی دارد که چگونه به آن نگاه میکنید",
     "en": "That depends on how you look at it"
   },
   {
@@ -4660,8 +4661,8 @@
   },
   {
     "id": 923,
-    "fa": "آن چیزی است که اتفاق می افتد وقتی زندگی به شما یک نشانه روشن می دهد",
-    "en": "That's what happens when life gives you a bright sign"
+    "fa": "از طرف من خوش آمدید! با خیال راحت وارد پروژه شوید و تمام امکانات آن را بررسی کنید",
+    "en": "Welcome from my side! Feel free to dive into the project and explore all its possibilities"
   },
   {
     "id": 924,
@@ -4918,18 +4919,18 @@
   },
   {
     "id": 974,
-    "fa": "ما میخواهیم محترمانه یادآور شویم که برگزاری این رویداد اجباری است",
+    "fa": "ما میخواهیم محترمانه یادآور شویم که این رویداد اجباری است",
     "en": "We kindly want to remind you that this event is mandatory"
   },
   {
     "id": 975,
-    "fa": "در صورت هرگونه سوالی با تیم مدیریت دفتر خود تماس بگیرید",
+    "fa": "در صورت هرگونه سوالی در تماس با تیم مدیریت دفتر خود تردید نکنید",
     "en": "In case of any questions do not hesitate to reach out to your office management team"
   },
   {
     "id": 976,
     "fa": "فقط 12 ساعت دیگر فرصت داریم",
-    "en": "We've only got 12 hours left"
+    "en": "We've only 12 hours left"
   },
   {
     "id": 977,
@@ -4938,7 +4939,7 @@
   },
   {
     "id": 978,
-    "fa": "باشه، من باید برم سر کار، ساعت 5 برمیگردم",
+    "fa": "خیلی خوب، من باید برم سر کار، ساعت 5 بر خواهم گشت",
     "en": "All right, I gotta go to work, I'll be back at 5"
   },
   {
@@ -5015,12 +5016,12 @@
   },
   {
     "id": 993,
-    "fa": "اگر در امتحان مردود می شدم، باید رویای دکتر شدن را رها می کردم",
+    "fa": "اگر در امتحان مردود می شدم، باید رویای دکتر شدنم را رها می کردم",
     "en": "If I failed the exam, I would have to give up my dream of becoming a doctor"
   },
   {
     "id": 994,
-    "fa": "همانطور که خواهر و برادرش در حرفه خود به موفقیت دست یافتند، او (زن) از دستاوردهای آنها احساس غرور کرد",
+    "fa": "همانطور که خواهر و برادرش در حرفه خودشان به موفقیت دست یافتند، او (زن) از دستاوردهای آنها احساس غرور کرد",
     "en": "As her sibling achieved success in their career, she felt proud of their accomplishments",
     "desc": "On the other hand, \"sibling\" is the singular form of the noun. If you were referring to just one brother or sister, you would use the singular form \"sibling\" instead of \"siblings.\""
   },
