@@ -208,7 +208,7 @@
   {
     "id": 42,
     "fa": "اگر ناراحت نمیشی, وقتی رسیدی خونه با من تماس بگیر",
-    "en": "If you don't mind, Call me once you get home"
+    "en": "If you don't mind, call me once you get home"
   },
   {
     "id": 43,
@@ -325,7 +325,7 @@
   {
     "id": 65,
     "fa": "اون (مرد) دهن لقه",
-    "en": "He's got a big mouth"
+    "en": "He has got a big mouth"
   },
   {
     "id": 66,
@@ -370,7 +370,7 @@
   {
     "id": 74,
     "fa": "مرا در جریان بزار",
-    "en": "Keep me posted"
+    "en": "Keep me posted or fill me in"
   },
   {
     "id": 75,
@@ -405,7 +405,7 @@
   {
     "id": 81,
     "fa": "آب ریزش بینی دارم",
-    "en": "I have a runny nose"
+    "en": "I've got a runny nose"
   },
   {
     "id": 82,
@@ -424,8 +424,8 @@
   },
   {
     "id": 85,
-    "fa": "می خوام فشار خونتون را بگیرم",
-    "en": "I'm going to take your blood pressure"
+    "fa": "من قصد دارم فشار خونتون را بگیرم",
+    "en": "I'm gonna take your blood pressure"
   },
   {
     "id": 86,
@@ -559,8 +559,8 @@
   },
   {
     "id": 112,
-    "fa": "جسارت نباشه",
-    "en": "No offense"
+    "fa": "جسارت نباشه، اما من واقعا مدل موهای جدید شما را دوست ندارم",
+    "en": "No offense, but I don't really like your new hairstyle"
   },
   {
     "id": 113,
@@ -761,8 +761,8 @@
   },
   {
     "id": 152,
-    "fa": "چرا کتت را در نمی آوری",
-    "en": "Why don't you take your coat off"
+    "fa": "چرا کتت را در نمی آوری؟",
+    "en": "Why don't you take your coat off?"
   },
   {
     "id": 153,
@@ -1137,8 +1137,8 @@
   },
   {
     "id": 227,
-    "fa": "مستقیم برو تا وقتی یک علامت بزرگ آبی در سمت راست خودت ببینی، پس از آن خروجی را برو (بگیرید) و سپس به سمت چپ بپیچ",
-    "en": "Go straight ahead until you see a big blue sign on your right, take the exit after that and then turn left"
+    "fa": "مستقیم برو تا وقتی یک علامت بزرگ آبی در سمت راست خودت ببینی، سپس خروجی را برو (بگیرید)",
+    "en": "Go straight ahead until you see a big blue sign on your right then take the exit"
   },
   {
     "id": 228,
@@ -1283,7 +1283,7 @@
   },
   {
     "id": 256,
-    "fa": "کجا ساخته شده ؟",
+    "fa": "کجا ساخته شده؟",
     "en": "Where was it made?"
   },
   {
@@ -2253,7 +2253,7 @@
   },
   {
     "id": 449,
-    "fa": "من تو را بیشتر از هر چیزی در دنیا دوست دارم",
+    "fa": "من عاشق تو هستم بیشتر از هر چیز دیگری در دنیا",
     "en": "I love you more than anything in the world"
   },
   {
@@ -2393,7 +2393,7 @@
   },
   {
     "id": 477,
-    "fa": "حتی به این نمی خوام فکر کنم که گاز گرفتن این مورچه چقدر دردناک خواهد بود",
+    "fa": "حتی به این قصد ندارم فکر کنم که گاز گرفتن این مورچه چقدر دردناک خواهد بود",
     "en": "I am not even gonna think of how painful a bite from this ant would be"
   },
   {
@@ -2823,8 +2823,8 @@
   },
   {
     "id": 562,
-    "fa": "امیدوارم در آینده نزدیک مسیرهای ما دوباره تلاقی پیدا کند, و برای شما و شرکتتان آرزوی موفقیت روزافزون دارم",
-    "en": "I hope our paths will cross again in the near future, and wish you and your company continued success"
+    "fa": "امیدوارم در آینده نزدیک مسیرهای ما دوباره تلاقی پیدا کند",
+    "en": "I hope our paths will cross again in the near future"
   },
   {
     "id": 563,
@@ -3135,8 +3135,8 @@
   },
   {
     "id": 624,
-    "fa": "لطفاً راه های جایگزین برای آمدن به دفتر یا رسیدن به مقصد نهایی خود در سراسر کشور را در نظر بگیرید",
-    "en": "Please consider alternative ways of coming to the office or reaching your final destination nationwide"
+    "fa": "راه های جایگزین برای آمدن به دفتر یا رسیدن به مقصد نهایی خود در سراسر کشور را در نظر بگیرید",
+    "en": "Consider alternative ways of coming to the office or reaching your final destination nationwide"
   },
   {
     "id": 625,
@@ -3238,8 +3238,8 @@
   },
   {
     "id": 644,
-    "fa": "آیا داری به من می گی که آنقدر به طور باورنکردنی مغرور هستی که نمی تونی قبول کنی که احتمال ناچیزی وجود دارد که در این مورد اشتباه کنی؟",
-    "en": "Are you telling me that you are so unbelievably arrogant that you can't admit that there is a teeny tiny possibility that you could be wrong about this?"
+    "fa": "نحوه ای که او (زن) عمل کرد به چنین موضوع کوچکی به طرز باورنکردنی متکبرانه بود",
+    "en": "The way she acted was unbelievably arrogant for such a teeny-tiny issue"
   },
   {
     "id": 645,
@@ -3254,8 +3254,8 @@
   },
   {
     "id": 647,
-    "fa": "به دلیل اعتصاب وجود دارد تاخیرها و لغو قطارها در ترددهای مسافت طولانی و بین شهری در سراسر کشور در روز جمعه",
-    "en": "Due to a strike there will be delays and train cancellations in long-distance and regional traffic nationwide on Friday"
+    "fa": "به دلیل اعتصاب وجود دارد تاخیرها و لغو قطارها در سراسر کشور در روز جمعه",
+    "en": "Due to a strike there will be delays and train cancellations nationwide on Friday"
   },
   {
     "id": 648,
@@ -3377,7 +3377,7 @@
   },
   {
     "id": 671,
-    "fa": "بزن کنار! دارم بالا میارم",
+    "fa": "بزن کنار! قصد دارم بالا میارم",
     "en": "Pull over! I'm gonna barf!"
   },
   {
@@ -3659,8 +3659,8 @@
   },
   {
     "id": 726,
-    "fa": "عجله دارم",
-    "en": "I'm in a hurry (هری)"
+    "fa": "خبلی عجله دارم",
+    "en": "I'm in a big hurry (هری)"
   },
   {
     "id": 727,
@@ -4833,7 +4833,7 @@
   },
   {
     "id": 957,
-    "fa": "میخوای (بری) به من مشت بزنی؟",
+    "fa": "قصد داری به من مشت بزنی؟",
     "en": "Are you going to punch me?"
   },
   {
@@ -4944,8 +4944,8 @@
   },
   {
     "id": 979,
-    "fa": "آن را دور نریزید، ودیعه ای روی آن وجود دارد. اگر آن را به سوپرمارکت بازگردانید دریافت میکنید مثل 25 سنت براش",
-    "en": "Don't throw that away, there's a deposit on it. If you bring it back to the supermarket you get like 25 cents for it"
+    "fa": "آن را دور نریزید، ودیعه ای روی آن وجود دارد",
+    "en": "Don't throw that away, there's a deposit on it"
   },
   {
     "id": 980,
@@ -5006,8 +5006,8 @@
   },
   {
     "id": 991,
-    "fa": "تا زمانی که ما احساسات را در ربات ها برنامه ریزی نکنیم، دلیلی برای ترس از تسلط آنها بر جهان وجود ندارد",
-    "en": "As long as we don't program emotions into Robots, there's no reason to fear them taking over the world"
+    "fa": "نیازی به ترس از تسلط روبات ها در جهان نیست, تا زمانی که احساسات را در آنها برنامه ریزی نکنیم",
+    "en": "No need to fear robots taking over the world as long as we don't program emotions into them"
   },
   {
     "id": 992,

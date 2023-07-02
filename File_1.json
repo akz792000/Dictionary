@@ -32,7 +32,7 @@
   },
   {
     "id": 1007,
-    "fa": "من می خوام (دارم) این ساندویچ را در داخل سلفون بپیچم",
+    "fa": "من قصد دارم این ساندویچ را در سلفون بپیچم",
     "en": "I'm gonna wrap this sandwich in Saran (/səˈræn/) wrap"
   },
   {
@@ -183,7 +183,7 @@
     "en": "I got really confused"
   },
   {
-    "id":1037,
+    "id": 1037,
     "fa": "من نگاهی محافظه کارانه به مسائل اجتماعی دارم",
     "en": "I hold conservative view on social issues"
   },
@@ -291,14 +291,14 @@
   },
   {
     "id": 1058,
-    "fa": "تا هفته آینده، او (زن) قراره نوشتن گزارش خود را به پایان برساند",
-    "en": "By next week, she will have finished writing her report",
+    "fa": "او (زن) قراره نوشتن گزارش خود را تا هفته آینده به پایان برساند",
+    "en": "She will have finished writing her report by next week",
     "desc": "Future Perfect tense emphasizes the completion of an action before a future reference point"
   },
   {
     "id": 1059,
-    "fa": "تا او (مرد) بیاید، من  قراره دو ساعت منتظر باشم",
-    "en": "By the time he arrives, I will have been waiting for two hours",
+    "fa": "من  قراره دو ساعت منتظر باشم تا او (مرد) بیاید",
+    "en": "I will have been waiting for two hours by the time he arrives",
     "desc": "Future Perfect Continuous tense combines continuity and completion in the future"
   },
   {
@@ -335,5 +335,277 @@
     "id": 1066,
     "fa": "من تازه رسیدم مطب دکتر",
     "en": "I have just arrived at the doctor's office"
+  },
+  {
+    "id": 1067,
+    "fa": "به نظر شما چقدر احتمال دارد که این یک نتیجه (پیامد) باشد؟",
+    "en": "How likely do you think that could be as an outcome?"
+  },
+  {
+    "id": 1068,
+    "fa": "برای شما و شرکتتان آرزوی موفقیت روزافزون دارم",
+    "en": "I wish you and your company continued success"
+  },
+  {
+    "id": 1069,
+    "fa": "به خاطر خدا، لطفا در را ببند!",
+    "en": "For God's sake, please close the door!"
+  },
+  {
+    "id": 1070,
+    "fa": "هنگام راه رفتن در مسیر یخی جلو پات رو نگاه کن",
+    "en": "Watch your step or (keep your step) while walking on the icy path"
+  },
+  {
+    "id": 1071,
+    "fa": "نگران آن کار نباشید، آن را به من بسپارید",
+    "en": "Don't worry about that task, leave it to me"
+  },
+  {
+    "id": 1072,
+    "fa": "حدس بزن چی شده! برنده لاتاری شدم!",
+    "en": "Guess what! I won the lottery!"
+  },
+  {
+    "id": 1073,
+    "fa": "بدون شک استعداد من فوق العاده است",
+    "en": "My talent is extraordinary without doubt"
+  },
+  {
+    "id": 1074,
+    "fa": "آفرین به تو برای تکمیل ماراتن",
+    "en": "Big up to you for completing the marathon"
+  },
+  {
+    "id": 1075,
+    "fa": "با خیال راحت در طول جلسه نظر خود را بگویید",
+    "en": "Feel free to speak your mind during the meeting"
+  },
+  {
+    "id": 1076,
+    "fa": "صداش رو در نیارید تا زمانی که ما آماده باشیم اخبار را به همه اعلام کنیم",
+    "en": "Keep it dark until we're ready to announce the news to everyone"
+  },
+  {
+    "id": 1077,
+    "fa": "دیشب پلک رو هم نزاشتم",
+    "en": "I didn't sleep a wink last night"
+  },
+  {
+    "id": 1078,
+    "fa": "حواسم را پرت نکن!",
+    "en": "Don't distract me!"
+  },
+  {
+    "id": 1079,
+    "fa": "تمام روز به مغزم فشار آوردم و سعی کردم به یاد بیاورم که کلیدهایم را کجا گذاشتم",
+    "en": "I've been racking my brains all day trying to remember where I put my keys"
+  },
+  {
+    "id": 1080,
+    "fa": "از تو بعیده",
+    "en": "It's unlike you"
+  },
+  {
+    "id": 1081,
+    "fa": "بیا برای شام بریم بیرون, این دفعه مهمون من",
+    "en": "Let's go out for dinner, my treat this time"
+  },
+  {
+    "id": 1082,
+    "fa": "به دلیل بازسازی ها در حال انجام این دفتر تا اطلاع ثانوی بسته باقی خواهد ماند",
+    "en": "The office will remain closed until further notice due to the ongoing renovations"
+  },
+  {
+    "id": 1083,
+    "fa": "به رستوران هندی برویم یا غذاهای چینی را ترجیح می دهید؟ برای من فرقی نمیکنه",
+    "en": "Shall we go to the Indian restaurant, or would you prefer Chinese food? I'm easy"
+  },
+  {
+    "id": 1084,
+    "fa": "مشتاق ببینمت",
+    "en": "I'm eager to see you"
+  },
+  {
+    "id": 1085,
+    "fa": "هر چه بادا باد, من تلاش خواهم کرد",
+    "en": "Come what may, I will try it"
+  },
+  {
+    "id": 1086,
+    "fa": "حتی فرصتش را هم پیدا نکردم بگم بله",
+    "en": "I did not even get to say yes",
+    "desc": "\"I didn't even say yes\": This sentence suggests that you had the opportunity to say \"yes,\" but for some reason, you didn't. It implies that you had the chance to respond positively but chose not to or were unable to do so.\n\n\"I didn't even get to say yes\": This sentence conveys that you were not given the opportunity to say \"yes.\" It suggests that the chance to respond affirmatively was denied or taken away from you."
+  },
+  {
+    "id": 1087,
+    "fa": "افسر پلیس جزئیات را از روی پلاک ثبت کرد",
+    "en": "The police officer recorded the details from the number plate"
+  },
+  {
+    "id": 1088,
+    "fa": "شما ممکن است در مورد آن اشتباه کنید",
+    "en": "You could be wrong about it"
+  },
+  {
+    "id": 1089,
+    "fa": "اگر آن را به سوپرمارکت بازگردانید دریافت میکنید مثل 25 سنت براش",
+    "en": "If you bring it back to the supermarket you get like 25 cents for it"
+  },
+  {
+    "id": 1090,
+    "fa": "من پنجشنبه ها کار نمی کنم",
+    "en": "I don't work on Thursdays"
+  },
+  {
+    "id": 1091,
+    "fa": "شما در فرم عالی هستید! کار سخت شما در ورزشگاه داره نتیجه می ده",
+    "en": "You're in great shape! Your hard work at the gym is paying off"
+  },
+  {
+    "id": 1092,
+    "fa": "فس فس نکن! باید همین الان حرکت کنیم اگر میخواهیم به قطار را برسیم",
+    "en": "Don't dilly-dally! We need to leave now if we want to catch the train"
+  },
+  {
+    "id": 1093,
+    "fa": "بیا بریم یه دور بزنیم",
+    "en": "Let's go for a spin"
+  },
+  {
+    "id": 1094,
+    "fa": "از دست من ناراحتی؟",
+    "en": "Are you upset with me?"
+  },
+  {
+    "id": 1095,
+    "fa": "رو من حساب نکنید",
+    "en": "Count me out"
+  },
+  {
+    "id": 1096,
+    "fa": "حتی اگر در حال حاضر همه چیز سخت است، شاد باش و به جلو برو",
+    "en": "Even though things are tough right now, cheer up and keep moving forward"
+  },
+  {
+    "id": 1097,
+    "fa": "می توانید لطفاً در طول جلسه از من حمایت کنی؟ خیلی خوب خواهد بود داشتن حمایت شما",
+    "en": "Can you please back me up during the meeting? It would be great to have your support"
+  },
+  {
+    "id": 1098,
+    "fa": "روم نمیشه از او تقاضای لطفی کنم بعد از اتفاقی که افتاد",
+    "en": "I don't have the face to ask him for a favor after what happened"
+  },
+  {
+    "id": 1099,
+    "fa": "هر کاری که دوست داری انجام بده، این تصمیم شماست که می گیرید",
+    "en": "Do as you please, it's your decision to make"
+  },
+  {
+    "id": 1100,
+    "fa": "این بهانه را به من نده. من می دانم که شما قادر هستید بهتر انجام بدید ",
+    "en": "Don't give me that excuse. I know you're capable of doing better"
+  },
+  {
+    "id": 1101,
+    "fa": "من تشنمه (خشک شدم). میشه لطفا یه لیوان آب بهم بدی؟",
+    "en": "I'm parched. Can you please get me a glass of water?",
+    "desc": "\"Get me a glass of water\": This phrase implies a request for someone to obtain or fetch a glass of water for you. It suggests that you want the person to take action and bring the water to you.\n\n\"Give me a glass of water\": This phrase indicates a direct request for someone to hand you a glass of water. It implies that you want the person to physically pass the water to you."
+  },
+  {
+    "id": 1102,
+    "fa": "به فروشنده مزاحم گفتم بزن به چاک و تنهام بگذار",
+    "en": "I told the annoying salesperson to beat it and leave me alone"
+  },
+  {
+    "id": 1103,
+    "fa": "نترس! چیزی برای ترس وجود ندارد. همه چیز درست خواهد شد",
+    "en": "Don't be scared! There's nothing to fear; everything will be alright"
+  },
+  {
+    "id": 1104,
+    "fa": "خوب گفتی! شما این نظر را شیوا و دقیق بیان کردید",
+    "en": "Well said! You expressed that idea eloquently (ˈeləkwəntlē) and accurately"
+  },
+  {
+    "id": 1105,
+    "fa": "خیلی به هم میاییم! شخصیت ها و علایق ما کاملاً با هم هماهنگ هستند",
+    "en": "We're a perfect match! Our personalities and interests align perfectly"
+  },
+  {
+    "id": 1106,
+    "fa": "الم شنگه به پا نکن! بیایید با آرامش و با احتیاط با این وضعیت برخورد کنیم",
+    "en": "Don't make a scene! Let's handle this situation calmly and discreetly"
+  },
+  {
+    "id": 1107,
+    "fa": "داشت یادم می رفت! ما باید در راه خانه مقداری مواد غذایی تهیه کنیم",
+    "en": "I almost forgot! We need to pick up some groceries on the way home"
+  },
+  {
+    "id": 1108,
+    "fa": "بهم قول بده",
+    "en": "Give me your word"
+  },
+  {
+    "id": 1109,
+    "fa": "زدی زیر قولت",
+    "en": "You broke your word"
+  },
+  {
+    "id": 1110,
+    "fa": "قبل از تصمیم گیری، صبور باش و همه گزینه ها را در نظر بگیرید",
+    "en": "Before you make a decision, hold your horses and consider all the options"
+  },
+  {
+    "id": 1111,
+    "fa": "هر چه می خواهی بردار",
+    "en": "Take whatever you want"
+  },
+  {
+    "id": 1112,
+    "fa": "بهم بگو چه اشتباهی کردم",
+    "en": "Tell me what I did wrong"
+  },
+  {
+    "id": 1113,
+    "fa": "نمیدونم دیگه چی بگم",
+    "en": "I don't know what else to say"
+  },
+  {
+    "id": 1114,
+    "fa": "من با این منطقه آشنا نیستم",
+    "en": "I'm not familiar with this area"
+  },
+  {
+    "id": 1115,
+    "fa": "من چیزی بهت بدهکار نبسنم",
+    "en": "I owe you nothing"
+  },
+  {
+    "id": 1116,
+    "fa": "او (زن) نه تنها باهوش است بلکه زیبا هم است",
+    "en": "She is not only intelligent but also beautiful"
+  },
+  {
+    "id": 1117,
+    "fa": "بایستی راهی وجود داشته باشد",
+    "en": "There has to be a way"
+  },
+  {
+    "id": 1118,
+    "fa": "خوابم برد",
+    "en": "I fell asleep"
+  },
+  {
+    "id": 1119,
+    "fa": "هر چه زودتر شروع کنی زودتر تمامش خواهی کرد",
+    "en": "The sooner you start the sooner you will finish"
+  },
+  {
+    "id": 1120,
+    "fa": "او (مرد) تک فرزند هست",
+    "en": "He is an only child"
   }
 ]
