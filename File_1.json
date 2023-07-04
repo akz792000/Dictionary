@@ -308,7 +308,7 @@
   },
   {
     "id": 1061,
-    "fa": "من می توانم توضیح مختصری در مورد روند به شما بدهم، آنچنان زمانی نخواهد برد",
+    "fa": "من می توانم توضیح مختصری در مورد فرآیند به شما بدهم، آنچنان زمانی نخواهد برد",
     "en": "I can give you a brief explanation of the process, it won't take that much time"
   },
   {
@@ -318,8 +318,9 @@
   },
   {
     "id": 1063,
-    "fa": "مدتی است که نیاز به سرمایه گذاری دارد",
-    "en": "It has needed investment for a while now"
+    "fa": "مدتی است که (تا حالا) نیاز به سرمایه گذاری دارد",
+    "en": "It has needed investment for a while now",
+    "desc": "\"It has needed investment for a while now\": This sentence implies that the subject has been in need of investment for an extended period of time, including the present moment. The use of \"now\" emphasizes that the need for investment has persisted over time and continues to be relevant.\n\n\"It has needed investment for a while\": This sentence indicates that the subject has been in need of investment for a significant duration in the past. However, it does not explicitly mention whether the need for investment still exists at the present moment."
   },
   {
     "id": 1064,
@@ -358,7 +359,7 @@
   },
   {
     "id": 1071,
-    "fa": "نگران آن کار نباشید، آن را به من بسپارید",
+    "fa": "نگران آن وظیفه نباشید، آن را به من بسپارید",
     "en": "Don't worry about that task, leave it to me"
   },
   {
@@ -399,7 +400,8 @@
   {
     "id": 1079,
     "fa": "تمام روز به مغزم فشار آوردم و سعی کردم به یاد بیاورم که کلیدهایم را کجا گذاشتم",
-    "en": "I've been racking my brains all day trying to remember where I put my keys"
+    "en": "I've been racking my brains all day trying to remember where I put my keys",
+    "desc": "\"I have been racking my brains\" is a plural form and suggests that the person has been putting in a lot of mental effort or trying hard to solve a problem or find an answer. It implies that multiple aspects or ideas are being considered.\n\n\"I have been racking my brain\" is a singular form and implies the same idea of putting in mental effort, but it suggests a focus on a single problem or question."
   },
   {
     "id": 1080,
@@ -423,7 +425,7 @@
   },
   {
     "id": 1084,
-    "fa": "مشتاق ببینمت",
+    "fa": "مشتاقم ببینمت",
     "en": "I'm eager to see you"
   },
   {
@@ -444,7 +446,7 @@
   },
   {
     "id": 1088,
-    "fa": "شما ممکن است در مورد آن اشتباه کنید",
+    "fa": "شما ممکنه (میتونستی) در مورد آن اشتباه کنی",
     "en": "You could be wrong about it"
   },
   {
@@ -464,7 +466,7 @@
   },
   {
     "id": 1092,
-    "fa": "فس فس نکن! باید همین الان حرکت کنیم اگر میخواهیم به قطار را برسیم",
+    "fa": "فس فس نکن! باید همین الان ترک کنیم اگر میخواهیم به قطار را برسیم",
     "en": "Don't dilly-dally! We need to leave now if we want to catch the train"
   },
   {
@@ -494,7 +496,7 @@
   },
   {
     "id": 1098,
-    "fa": "روم نمیشه از او تقاضای لطفی کنم بعد از اتفاقی که افتاد",
+    "fa": "روم نمیشه از او (مرد) تقاضای لطفی کنم بعد از اتفاقی که افتاد",
     "en": "I don't have the face to ask him for a favor after what happened"
   },
   {
@@ -504,12 +506,12 @@
   },
   {
     "id": 1100,
-    "fa": "این بهانه را به من نده. من می دانم که شما قادر هستید بهتر انجام بدید ",
+    "fa": "این بهانه را به من نده. من می دانم که قادر هستی بهتر انجام بدی",
     "en": "Don't give me that excuse. I know you're capable of doing better"
   },
   {
     "id": 1101,
-    "fa": "من تشنمه (خشک شدم). میشه لطفا یه لیوان آب بهم بدی؟",
+    "fa": "من تشنمه (خشک شدم). میتونی لطفاً یه لیوان آب بهم بدی؟",
     "en": "I'm parched. Can you please get me a glass of water?",
     "desc": "\"Get me a glass of water\": This phrase implies a request for someone to obtain or fetch a glass of water for you. It suggests that you want the person to take action and bring the water to you.\n\n\"Give me a glass of water\": This phrase indicates a direct request for someone to hand you a glass of water. It implies that you want the person to physically pass the water to you."
   },
@@ -521,7 +523,7 @@
   {
     "id": 1103,
     "fa": "نترس! چیزی برای ترس وجود ندارد. همه چیز درست خواهد شد",
-    "en": "Don't be scared! There's nothing to fear; everything will be alright"
+    "en": "Don't be scared! There's nothing to fear, everything will be alright"
   },
   {
     "id": 1104,
@@ -535,7 +537,7 @@
   },
   {
     "id": 1106,
-    "fa": "الم شنگه به پا نکن! بیایید با آرامش و با احتیاط با این وضعیت برخورد کنیم",
+    "fa": "صحنه سازی نکن (الم شنگه به پا نکن)! بیایید با آرامش و با احتیاط با این وضعیت برخورد کنیم",
     "en": "Don't make a scene! Let's handle this situation calmly and discreetly"
   },
   {
@@ -555,7 +557,7 @@
   },
   {
     "id": 1110,
-    "fa": "قبل از تصمیم گیری، صبور باش و همه گزینه ها را در نظر بگیرید",
+    "fa": "قبل از اینکه تو تصمیم بگیری، صبور باش و همه گزینه ها را در نظر بگیر",
     "en": "Before you make a decision, hold your horses and consider all the options"
   },
   {
@@ -580,7 +582,7 @@
   },
   {
     "id": 1115,
-    "fa": "من چیزی بهت بدهکار نبسنم",
+    "fa": "من چیزی بهت بدهکار نیستم",
     "en": "I owe you nothing"
   },
   {
@@ -607,5 +609,45 @@
     "id": 1120,
     "fa": "او (مرد) تک فرزند هست",
     "en": "He is an only child"
+  },
+  {
+    "id": 1121,
+    "fa": "کدام بازیکنان بیشترین عناوین لیگ قهرمانان را کسب کرده اند؟",
+    "en": "Which players have won the most champion league titles?"
+  },
+  {
+    "id": 1122,
+    "fa": "ما در طبقه بالای واحد مقابل شما هستیم",
+    "en": "We're on the top floor of the unit opposite yours"
+  },
+  {
+    "id": 1123,
+    "fa": "گریه کردن فایده ای نداره",
+    "en": "It's no use crying"
+  },
+  {
+    "id": 1124,
+    "fa": "دروغ گفتن فایده ای نداره",
+    "en": "It's no use lying"
+  },
+  {
+    "id": 1125,
+    "fa": "بحث کردن با او (زن) فایده ای ندارد",
+    "en": "It's no use arguing with her"
+  },
+  {
+    "id": 1126,
+    "fa": "حرف زدن باهاش (مرد) فایده نداره",
+    "en": "It's no use talking to him"
+  },
+  {
+    "id": 1127,
+    "fa": "می تونستم سوت را از دور بشنوم",
+    "en": "I could hear the whistle from a distance"
+  },
+  {
+    "id": 1128,
+    "fa": "برق رفت",
+    "en": "The electricity went out"
   }
 ]

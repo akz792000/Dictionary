@@ -3627,8 +3627,9 @@
   },
   {
     "id": 720,
-    "fa": "او (زن) به من این احساس را نمی دهد که تنها چیزی که مانع خوشحالی او می شود من هستم",
-    "en": "She doesn't make me feel like the only thing stopping her from being happy is me"
+    "fa": "او (زن) به من این احساس را نمی دهد مانند تنها چیزی که مانع خوشحالی او داره می شه من هستم",
+    "en": "She doesn't make me feel like the only thing that is stopping her from being happy is me",
+    "desc": "\"She doesn't get me feel\": This phrase is not grammatically correct."
   },
   {
     "id": 721,
@@ -3659,7 +3660,7 @@
   },
   {
     "id": 726,
-    "fa": "خبلی عجله دارم",
+    "fa": "خیلی عجله دارم",
     "en": "I'm in a big hurry (هری)"
   },
   {
@@ -4599,7 +4600,7 @@
   },
   {
     "id": 911,
-    "fa": "Dependabot بسته های داخلی را به روزرسانی نمی کند",
+    "fa": "Dependabot بسته های داخلی را داره بروزرسانی نمی کنه",
     "en": "Dependabot is not bumping internal packages"
   },
   {
@@ -5032,8 +5033,9 @@
   },
   {
     "id": 996,
-    "fa": "یک نفس عمیق بکشید، افکار خود را جمع آوری کنید و یک راه دیگر برای تحویل دادن پیام خود امتحان کنید",
-    "en": "Take a deep breath, gather your thoughts, and try another shot at delivering your message"
+    "fa": "اولین بار نشد یه بار دیگه امتحان کن",
+    "en": "Didn't make the first shot? Try another shot!",
+    "desc": "\"Give it another shot\": This phrase is commonly used to encourage someone to try again or make another attempt at something. It implies giving a sincere effort or another chance to succeed.\n\n\"Try another shot\": This phrase suggests the idea of attempting something again with a different approach or method. It implies experimenting with an alternative method to achieve a desired outcome."
   },
   {
     "id": 997,
