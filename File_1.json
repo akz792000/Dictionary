@@ -64,7 +64,7 @@
   {
     "id": 1013,
     "fa": "چه روزی است امروز؟",
-    "en": "What day is it today?"
+    "en": "What's the day today?"
   },
   {
     "id": 1014,
@@ -159,7 +159,7 @@
   },
   {
     "id": 1032,
-    "fa": "در نظر داشته باشید که فردا آخرین مهلت ارائه درخواست شماست",
+    "fa": "در نظر داشته باشید که فردا آخرین مهلت عرضه درخواست شماست",
     "en": "Keep in mind that tomorrow is the deadline for submitting your application"
   },
   {
@@ -209,7 +209,7 @@
   },
   {
     "id": 1042,
-    "fa": "شما باید کار واگذار شده خود را در مهلت مقرر ارائه کنید",
+    "fa": "شما باید کار واگذار شده خود را در مهلت مقرر عرضه کنید",
     "en": "You must submit your assignment by the deadline",
     "desc": "\"should\" suggests a recommendation or preference, allowing some discretion, while \"must\" conveys a stronger sense of obligation or requirement, leaving little to no room for choice."
   },
@@ -255,12 +255,12 @@
   },
   {
     "id": 1051,
-    "fa": "تلفن هر لحظه ممکن است با اخبار هیجان انگیز از آمریکا زنگ بخورد",
+    "fa": "تلفن هر لحظه میتونه با اخبار هیجان انگیز از آمریکا زنگ بخورد",
     "en": "The phone could ring with exciting news from America at any second"
   },
   {
     "id": 1052,
-    "fa": "آیا هر چیزی که گفتم منطقی است؟",
+    "fa": "آیا هر چیزی که گفتم معنی میده؟",
     "en": "Does everything I said make sense?"
   },
   {
@@ -339,7 +339,7 @@
   },
   {
     "id": 1067,
-    "fa": "به نظر شما چقدر احتمال دارد که این یک نتیجه (پیامد) باشد؟",
+    "fa": "به نظر شما چقدر احتمال دارد که این میتونه یک پیامد باشد؟",
     "en": "How likely do you think that could be as an outcome?"
   },
   {
@@ -446,7 +446,7 @@
   },
   {
     "id": 1088,
-    "fa": "شما ممکنه (میتونستی) در مورد آن اشتباه کنی",
+    "fa": "شما میتونی در مورد آن اشتباه کنی",
     "en": "You could be wrong about it"
   },
   {
@@ -501,7 +501,7 @@
   },
   {
     "id": 1099,
-    "fa": "هر کاری که دوست داری انجام بده، این تصمیم شماست که می گیرید",
+    "fa": "انحام بده هرچی خوشایندته، این تصمیم توئه که می گیری",
     "en": "Do as you please, it's your decision to make"
   },
   {
@@ -557,7 +557,7 @@
   },
   {
     "id": 1110,
-    "fa": "قبل از اینکه تو تصمیم بگیری، صبور باش و همه گزینه ها را در نظر بگیر",
+    "fa": "قبل از اینکه تو یک تصمیم بگیری، صبور باش و همه گزینه ها را در نظر بگیر",
     "en": "Before you make a decision, hold your horses and consider all the options"
   },
   {
@@ -649,5 +649,15 @@
     "id": 1128,
     "fa": "برق رفت",
     "en": "The electricity went out"
+  },
+  {
+    "id": 1129,
+    "fa": "یک نقص در سیستم وجود داشت",
+    "en": "There was a glitch in the system"
+  },
+  {
+    "id": 1130,
+    "fa": "نباید مته به خشخاش بزنی, من تمام تلاشم را كرده بودم",
+    "en": "You shouldn't nitpick, I had done my best"
   }
 ]
