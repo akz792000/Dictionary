@@ -339,7 +339,7 @@
   },
   {
     "id": 1067,
-    "fa": "به نظر شما چقدر احتمال دارد که این میتونه یک پیامد باشد؟",
+    "fa": "به نظر شما چقدر احتمال دارد که آن بتونه به عنوان یک پیامد باشه؟",
     "en": "How likely do you think that could be as an outcome?"
   },
   {
@@ -446,7 +446,7 @@
   },
   {
     "id": 1088,
-    "fa": "شما میتونی در مورد آن اشتباه کنی",
+    "fa": "شما میتونی در موردش اشتباه کنی",
     "en": "You could be wrong about it"
   },
   {
@@ -501,7 +501,7 @@
   },
   {
     "id": 1099,
-    "fa": "انحام بده هرچی خوشایندته، این تصمیم توئه که می گیری",
+    "fa": "انجام بده هرچی خوشایندته، این تصمیم توئه که می گیری",
     "en": "Do as you please, it's your decision to make"
   },
   {
@@ -527,7 +527,7 @@
   },
   {
     "id": 1104,
-    "fa": "خوب گفتی! شما این نظر را شیوا و دقیق بیان کردید",
+    "fa": "خوب گفتی! شما آن نظر را شیوا و دقیق بیان کردید",
     "en": "Well said! You expressed that idea eloquently (ˈeləkwəntlē) and accurately"
   },
   {
@@ -612,7 +612,7 @@
   },
   {
     "id": 1121,
-    "fa": "کدام بازیکنان بیشترین عناوین لیگ قهرمانان را کسب کرده اند؟",
+    "fa": "کدام بازیکنان بیشترین عناوین لیگ قهرمانان را بردند؟",
     "en": "Which players have won the most champion league titles?"
   },
   {
@@ -659,5 +659,55 @@
     "id": 1130,
     "fa": "نباید مته به خشخاش بزنی, من تمام تلاشم را كرده بودم",
     "en": "You shouldn't nitpick, I had done my best"
+  },
+  {
+    "id": 1131,
+    "fa": "بردار هر آنچه را که میتونی بخوری, اما بخور هر آنچه را که میبری",
+    "en": "Take all you can eat, but eat all you take"
+  },
+  {
+    "id": 1132,
+    "fa": "من هم به تو اعتماد ندارم",
+    "en": "I don't trust you either"
+  },
+  {
+    "id": 1133,
+    "fa": "من عاشق آتش بازی هستم! برای جشن 2 جولای است",
+    "en": "I love fireworks! It's for the 2th of July celebration"
+  },
+  {
+    "id": 1134,
+    "fa": "حدس بزن چه کسی دیگه جشن می گیره؟",
+    "en": "Guess who else is celebrating?"
+  },
+  {
+    "id": 1135,
+    "fa": "آیا می توانم چمدانم را در صندوق عقب بگذارم؟",
+    "en": "Can I put my luggage in the trunk?"
+  },
+  {
+    "id": 1136,
+    "fa": "میشه کمکم کنی بلندش کنم؟",
+    "en": "Can you help me to lift it?"
+  },
+  {
+    "id": 1137,
+    "fa": "این گوشت فاسد است",
+    "en": "This meat is rancid"
+  },
+  {
+    "id": 1138,
+    "fa": "چیزی برای شستن طعم دارید؟",
+    "en": "Do you have something to wash down the taste?"
+  },
+  {
+    "id": 1139,
+    "fa": "شیر خراب شده",
+    "en": "This milk is off (The milk has gone bad or spoiled)"
+  },
+  {
+    "id": 1140,
+    "fa": "پام خواب رفته",
+    "en": "My foot's gone to sleep"
   }
 ]
