@@ -324,7 +324,7 @@
   },
   {
     "id": 1064,
-    "fa": "نمی توانیم انتظار داشت باشیم که اوضاع به این زودی بهتر شه",
+    "fa": "نمی توانیم انتظار داشته باشیم که اوضاع به این زودی بهتر شه",
     "en": "We can't expect the situation to improve anytime soon"
   },
   {
@@ -542,7 +542,7 @@
   },
   {
     "id": 1107,
-    "fa": "داشت یادم می رفت! ما باید در راه خانه مقداری مواد غذایی یرداریم",
+    "fa": "داشت یادم می رفت! ما باید در راه خانه مقداری مواد غذایی برداریم",
     "en": "I almost forgot! We need to pick up some groceries on the way home"
   },
   {
@@ -617,8 +617,8 @@
   },
   {
     "id": 1122,
-    "fa": "ما در طبقه بالا، درست روبروی واحد شما هستیم",
-    "en": "We're on the top floor, right across from your unit"
+    "fa": "ما طبقه بالا هستیم، واحد روبرویی",
+    "en": "We're upstairs, the opposite unit"
   },
   {
     "id": 1123,
@@ -687,7 +687,7 @@
   },
   {
     "id": 1136,
-    "fa": "میشه کمکم کنی بلندش کنم؟",
+    "fa": "میتونی کمکم کنی بلندش کنم؟",
     "en": "Can you help me to lift it?"
   },
   {
@@ -708,6 +708,36 @@
   {
     "id": 1140,
     "fa": "پام خواب رفته",
-    "en": "My foot's gone to sleep"
+    "en": "My foot fell asleep"
+  },
+  {
+    "id": 1141,
+    "fa": "چگونه می توانم در صورت امکان آن را بچرخانم؟",
+    "en": "How can I possibly turn it around?"
+  },
+  {
+    "id": 1142,
+    "fa": "من امروز بهش رسیدگی خواهم کرد",
+    "en": "I will catch up today"
+  },
+  {
+    "id": 1143,
+    "fa": "من دارم وانمود می کنم که با کلاس هستم",
+    "en": "I'm pretending to be upper class?"
+  },
+  {
+    "id": 1144,
+    "fa": "بچه ها را حمام کردم و گذاشتم تو تخت",
+    "en": "I bathed (/ˈbeɪð/) the children and put them to bed"
+  },
+  {
+    "id": 1145,
+    "fa": "توی حمام گرم نشستم و خودم رو اسفنج زدم",
+    "en": "I sat in the warm bath (/ˈbæθ/) and sponged myself"
+  },
+  {
+    "id": 1146,
+    "fa": "مردم هنگام دویدن سریعتر نفس می کشند",
+    "en": "People breathe faster when they run"
   }
 ]
