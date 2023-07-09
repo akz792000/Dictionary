@@ -106,8 +106,8 @@
   },
   {
     "id": 22,
-    "fa": "من به هیچ وجه شک نمی کنم که چقدر قوی هستی",
-    "en": "I am not doubting how strong you are by any means"
+    "fa": "من به هیچ وجه شک ندارم که چقدر قوی هستی",
+    "en": "I don't doubt how strong you are by any means"
   },
   {
     "id": 23,
@@ -208,7 +208,8 @@
   {
     "id": 42,
     "fa": "اگر ناراحت نمیشی, وقتی رسیدی خونه با من تماس بگیر",
-    "en": "If you don't mind, call me once you get home"
+    "en": "If you don't mind, call me once you get home",
+    "desc": "Call me once you get home\" implies a prompt or immediate action, while \"Call me when you get home\" allows for a more flexible timeframe."
   },
   {
     "id": 43,
@@ -299,7 +300,7 @@
   },
   {
     "id": 60,
-    "fa": "او (مرد) بزرگتر از چیزی که هست به نظر می رسه",
+    "fa": "او (مرد) به نظر می رسه بزرگتر از چیزی که هست",
     "en": "He looks older than he is"
   },
   {
@@ -1389,12 +1390,12 @@
   },
   {
     "id": 277,
-    "fa": "حالم خوب نیست",
+    "fa": "من احساس نمی کنم خوبم",
     "en": "I am not feeling well"
   },
   {
     "id": 278,
-    "fa": "ناامید کننده است",
+    "fa": "آن ناامید کننده است",
     "en": "That's disappointing"
   },
   {
@@ -1445,7 +1446,8 @@
   {
     "id": 288,
     "fa": "من واقعاً از شما بخاطر پختن شام قدردانی می کنم",
-    "en": "I really appreciate you cooking dinner"
+    "en": "I really appreciate you cooking dinner",
+    "desc": "The sentence \" I really appreciate you for cooking dinner \" adds emphasis to the specific reason for appreciation using the word \"for.\""
   },
   {
     "id": 289,
@@ -1549,7 +1551,7 @@
   },
   {
     "id": 309,
-    "fa": "همه چیز درست میشه",
+    "fa": "همه چیز درست خواهد شد",
     "en": "Everything will be all right"
   },
   {
@@ -2999,7 +3001,7 @@
   },
   {
     "id": 597,
-    "fa": "من سرزنشت نمی کنم",
+    "fa": "من تو را مقصر نمی دانم",
     "en": "I don't blame you"
   },
   {
@@ -3019,7 +3021,7 @@
   },
   {
     "id": 601,
-    "fa": "اگر جای تو بودم این کار را نمی کردم",
+    "fa": "اگر جای تو بودم این را انجام نمی دادم",
     "en": "If I were you, I would not do this"
   },
   {
@@ -3254,7 +3256,7 @@
   },
   {
     "id": 647,
-    "fa": "به دلیل اعتصاب وجود دارد تاخیرها و لغو قطارها در سراسر کشور در روز جمعه",
+    "fa": "به دلیل یک اعتصاب وجود دارد تاخیرها و لغو قطارها در سراسر کشور در روز جمعه",
     "en": "Due to a strike there will be delays and train cancellations nationwide on Friday"
   },
   {
@@ -3407,7 +3409,7 @@
   },
   {
     "id": 677,
-    "fa": "بهترین توصیه ای که می تونی به خود جوان ترت بگی چیه؟",
+    "fa": "بهترین توصیه ای که به خود جوان ترت بگی چیه؟",
     "en": "What is the best piece of advice you'd tell to your younger self?"
   },
   {
@@ -3466,7 +3468,7 @@
     "id": 688,
     "fa": "اینجوری با بی احترامی با من صحبت نکن",
     "en": "Don't sass me like that",
-    "desc": "The phrase \"Don't sass me like that\" is a colloquial way of asking someone not to speak to you in a disrespectful or impertinent manner. \"Sass\" is a term that refers to cheeky or impudent talk or behavior."
+    "desc": "The phrase \"Don't sass me like that\" is a colloquial way of asking someone not to speak to you in a disrespectful or impertinent manner. \"Sass\" is a term that refers to cheeky or impudent talk or behavior. \"Don't sass me like this\" refers to the current or immediate behavior, while \"Don't sass me like that\" has a broader or more general connotation. "
   },
   {
     "id": 689,
@@ -3700,8 +3702,9 @@
   },
   {
     "id": 734,
-    "fa": "همه چیز درست است",
-    "en": "That's all right"
+    "fa": "متاسفم من مقداری قهوه روی میز شما ریختم. مشکلی نیست (همه چیز درست است). اتفاق می افتد",
+    "en": "I'm sorry I spilled some coffee on your table. That's all right. It happens",
+    "desc": "\"That's all right\" is often used to respond to an apology or minor mishap, while \"It's all right\" has a broader usage to convey reassurance or comfort in different situations."
   },
   {
     "id": 735,
@@ -3933,7 +3936,7 @@
   },
   {
     "id": 780,
-    "fa": "باید بند کفشم را ببندم",
+    "fa": "نیاز دارم بند کفشم را ببندم",
     "en": "I need to tie my shoelaces (شو لی سِس)",
     "desc": "In summary, \"I need to tie my shoelaces\" implies a personal preference or benefit, while \"I have to tie my shoelaces\" indicates a stronger obligation or requirement. \n\n The plural form \"shoelaces\" is used because each shoe typically has multiple laces that need to be tied"
   },
@@ -4479,12 +4482,12 @@
   },
   {
     "id": 887,
-    "fa": "باید درب بطری را بردارم و محتویات آن را بیرون بیاورم",
+    "fa": "نیاز دارم درب بطری را بردارم و محتویات آن را بیرون بیاورم",
     "en": "I need to take off the bottle cap and take out the contents"
   },
   {
     "id": 888,
-    "fa": "باید آب را داخل بطری بزارم و درب آن را بزارم تا در بسته (مهر و موم) بماند",
+    "fa": "نیاز دارم آب را داخل بطری بزارم و درب آن را بزارم تا در بسته (مهر و موم) بماند",
     "en": "I need to put in the water into the bottle and put on the cap to keep it sealed"
   },
   {
@@ -4662,7 +4665,7 @@
   },
   {
     "id": 923,
-    "fa": "از طرف من خوش آمدید! با خیال راحت شیرجه بزنید تو پروژه و تمام امکانات آن را کنکاش کنید",
+    "fa": "از طرف من خوش آمدید! با خیال راحت شیرجه بزنید تو پروژه و تمام امکاناتش را کنکاش کنید",
     "en": "Welcome from my side! Feel free to dive into the project and explore all its possibilities"
   },
   {
@@ -4672,7 +4675,7 @@
   },
   {
     "id": 925,
-    "fa": "چطور شد که دیشب در مهمانیه حضور نداشتی؟",
+    "fa": "چطور حضور نداشتی دیشب در مهمانی؟",
     "en": "How come you didn't attend the party last night?"
   },
   {

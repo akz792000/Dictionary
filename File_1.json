@@ -78,7 +78,7 @@
   },
   {
     "id": 1016,
-    "fa": "مجبور شدم دو روز متوالی دیر کار کنم تا به ضرب الاجل پروژه برسم",
+    "fa": "مجبور بودم دو روز متوالی دیر کار کنم تا به ضرب الاجل پروژه برسم",
     "en": "I had to work late two days in a row to meet the project deadline"
   },
   {
@@ -225,7 +225,7 @@
   },
   {
     "id": 1045,
-    "fa": "من نیاز دارم سیم را از رابط بکشم و آن را به پریز دیواری بزنم",
+    "fa": "نیاز دارم سیم را از رابط بکشم و آن را به پریز دیواری بزنم",
     "en": "I need to unplug it from the extension cord and plug it into the wall socket"
   },
   {
@@ -297,7 +297,7 @@
   },
   {
     "id": 1059,
-    "fa": "من  قراره دو ساعت منتظر باشم تا او (مرد) بیاید",
+    "fa": "من  قراره دو ساعت منتظر باشم تا آن زمان که او (مرد) بیاید",
     "en": "I will have been waiting for two hours by the time he arrives",
     "desc": "Future Perfect Continuous tense combines continuity and completion in the future"
   },
@@ -399,7 +399,7 @@
   },
   {
     "id": 1079,
-    "fa": "تمام روز به مغزم فشار آوردم و سعی کردم به یاد بیاورم که کلیدهایم را کجا گذاشتم",
+    "fa": "تمام روز به مغزم فشار آوردم سعی کردم به یاد بیاورم که کلیدهایم را کجا گذاشتم",
     "en": "I've been racking my brains all day trying to remember where I put my keys",
     "desc": "\"I have been racking my brains\" is a plural form and suggests that the person has been putting in a lot of mental effort or trying hard to solve a problem or find an answer. It implies that multiple aspects or ideas are being considered.\n\n\"I have been racking my brain\" is a singular form and implies the same idea of putting in mental effort, but it suggests a focus on a single problem or question."
   },
@@ -542,7 +542,7 @@
   },
   {
     "id": 1107,
-    "fa": "داشت یادم می رفت! ما نیاز داریم در راه خانه مقداری مواد غذایی برداریم",
+    "fa": "داشت یادم می رفت! نیاز داریم در راه خانه مقداری مواد غذایی برداریم",
     "en": "I almost forgot! We need to pick up some groceries on the way home"
   },
   {
@@ -739,5 +739,298 @@
     "id": 1146,
     "fa": "مردم هنگام دویدن سریعتر نفس می کشند",
     "en": "People breathe faster when they run"
+  },
+  {
+    "id": 1147,
+    "fa": "من برای هر گونه ناراحتی ناشی از لغو عذرخواهی می کنم",
+    "en": "I apologise for any inconvenience caused by the cancellation"
+  },
+  {
+    "id": 1148,
+    "fa": "من حتی اسم کوچک شما را هم نمی دانم",
+    "en": "I don't even know your first name"
+  },
+  {
+    "id": 1149,
+    "fa": "لطفا ببرش آنجا ",
+    "en": "Please take it over there"
+  },
+  {
+    "id": 1150,
+    "fa": "لطفا بیارش اینجا",
+    "en": "Please bring it over here",
+    "desc": "\"Please bring it over here\" emphasizes a specific movement towards the speaker or a designated spot, while \"Please bring it here\" generally requests the object to be brought to the speaker's location without specifying a particular direction."
+  },
+  {
+    "id": 1151,
+    "fa": "پول خود را برای آن فیلم هدر ندهید. واقعا بد است",
+    "en": "Don't waste your money on that movie. It's really bad"
+  },
+  {
+    "id": 1152,
+    "fa": "ممکن است به من یادآوری کنید که به خانه زنگ بزنم؟",
+    "en": "Could you remind me to call home?"
+  },
+  {
+    "id": 1153,
+    "fa": "دانشگاه کتاب درسی را امانت می دهد",
+    "en": "The university lends textbook"
+  },
+  {
+    "id": 1154,
+    "fa": "من نمی توانم به رویداد امشب بروم. قابل درکه (منطقی است). شاید دفعه بعد",
+    "en": "I can't make it to the event tonight. Fair enough. Maybe next time"
+  },
+  {
+    "id": 1155,
+    "fa": "تمام تلاش هایم به هدر رفت",
+    "en": "All my effort went down the drain"
+  },
+  {
+    "id": 1156,
+    "fa": "به پایان رساندن یک ماراتن دستاورد بزرگی است",
+    "en": "Finishing a marathon is no mean feat"
+  },
+  {
+    "id": 1157,
+    "fa": "شما هرگز نمی دانید چی داره اون زیر میگذره",
+    "en": "You never know what is going on underneath"
+  },
+  {
+    "id": 1158,
+    "fa": "اجازه نده که شما را بترساند",
+    "en": "Don't let that frighten you"
+  },
+  {
+    "id": 1159,
+    "fa": "من قصد دارم توضیح بدمش برای شما به گونه ای که آسان تر کند برای شما درکش را",
+    "en": "I'm gonna explain it to you in a way that makes it much easier for you to understand"
+  },
+  {
+    "id": 1160,
+    "fa": "این برای چیزی کم و بیش دائمی است",
+    "en": "This is for something more or less permanent"
+  },
+  {
+    "id": 1161,
+    "fa": "خورشید از مشرق طلوع و در مغرب غروب می کند",
+    "en": "The sun rises in the east and sets in the west"
+  },
+  {
+    "id": 1162,
+    "fa": "او همیشه اتوبوس می گیره",
+    "en": "She always takes the bus"
+  },
+  {
+    "id": 1163,
+    "fa": "آیا آنها کمک نیاز دارند؟ نه، ندارند",
+    "en": "Do they need help? No, the don't"
+  },
+  {
+    "id": 1164,
+    "fa": "آنها مرا نادیده گرفتن",
+    "en": "They snubbed me"
+  },
+  {
+    "id": 1165,
+    "fa": "آیا آنها دارند به جلسه می روند؟ نه، نمی روند",
+    "en": "Are they going to the meeting? No, they aren't"
+  },
+  {
+    "id": 1166,
+    "fa": "!او (زن) خوشگل نیست",
+    "en": "Ain't she cute!"
+  },
+  {
+    "id": 1167,
+    "fa": "نگاه کن! خورشید داره غروب میکنه",
+    "en": "Look! the sun is setting"
+  },
+  {
+    "id": 1168,
+    "fa": "قیمتها هر سال افزایش می یابد, اما امسال اونا با سرعت بیشتری نسبت به قبل داره افزایش می یابد",
+    "en": "The prices rise every year, but this year they are rising more rapidly than before"
+  },
+  {
+    "id": 1169,
+    "fa": "او (زن) همیشه داره از اتوبوس شکایت میکنه",
+    "en": "She is always complaining about the bus"
+  },
+  {
+    "id": 1170,
+    "fa": "آنها داشتن شام می خوردند که ما رسیدیم",
+    "en": "They were having dinner when we arrived"
+  },
+  {
+    "id": 1171,
+    "fa": "داشتم برنامه ریزی میکردم به مامانم زنگ بزنم اما وقت نکردم",
+    "en": "I was planning to call my mom but I didn't have time"
+  },
+  {
+    "id": 1172,
+    "fa": "چرا دستمزدها در نیوزیلند پایین است بااینکه هزینه های زندگی بالا است؟",
+    "en": "Why are wages in New Zealand low even though the cost of living is high?"
+  },
+  {
+    "id": 1173,
+    "fa": "چگونه رهبران خوش بینی را حفظ می کنند وقتی خسته هستند؟",
+    "en": "How do leaders maintain optimism when they are tired?"
+  },
+  {
+    "id": 1174,
+    "fa": "آیا شما از این کتابها دارید؟",
+    "en": "Do you have any of these books?",
+    "desc": "So, in most cases, \"any\" is used directly with a singular or uncountable noun, but when used with plural nouns, it requires the addition of \"of\" before the plural noun."
+  },
+  {
+    "id": 1175,
+    "fa": "انگار بچه ها متوجه سرمای هوا نیستند",
+    "en": "Children don't seem to notice to cold"
+  },
+  {
+    "id": 1176,
+    "fa": "من شما را (با ماشین) تا مترو می رسونم",
+    "en": "I'll give you a ride to the subway"
+  },
+  {
+    "id": 1177,
+    "fa": "بیارم کمی دسر وقتی به خانه شما می آیم؟",
+    "en": "Shall I bring some dessert when I come to your house?"
+  },
+  {
+    "id": 1178,
+    "fa": "فرض کنید کسی از شما می پرسد",
+    "en": "Let's suppose somebody asks you"
+  },
+  {
+    "id": 1179,
+    "fa": "من قصد دارم برای امتحانم درس بخوانم و بعد شاید یک شو خواهم دید",
+    "en": "I'm gonna study for my exam and then maybe I'll watch a show"
+  },
+  {
+    "id": 1180,
+    "fa": "من قبلاً آن کتاب را خوانده ام",
+    "en": "I have already read that book"
+  },
+  {
+    "id": 1181,
+    "fa": "تیم ما همین الان بازی را برد",
+    "en": "Our team has just won the game"
+  },
+  {
+    "id": 1182,
+    "fa": "من سالهاست از اینجا خرید کرده ام",
+    "en": "I have shopped here for many years",
+    "desc": "We user present perfect for repetitive action in the past"
+  },
+  {
+    "id": 1183,
+    "fa": "شرم بر تو",
+    "en": "Shame on you"
+  },
+  {
+    "id": 1184,
+    "fa": "چیزی برای بحث نیست",
+    "en": "There's nothing to discuss"
+  },
+  {
+    "id": 1185,
+    "fa": "به جهنم",
+    "en": "To hell with it"
+  },
+  {
+    "id": 1186,
+    "fa": "شما می توانی هر چقدر که دوست داری اینجا بمانی",
+    "en": "You can stay here as long as you like"
+  },
+  {
+    "id": 1187,
+    "fa": "من این را ازت انتظار نداشتم",
+    "en": "I didn't expect this from you"
+  },
+  {
+    "id": 1188,
+    "fa": "من ازت انتظار بیشتری داشتم",
+    "en": "I expected more from you"
+  },
+  {
+    "id": 1189,
+    "fa": "به عبارت دیگر ...",
+    "en": "In other words ..."
+  },
+  {
+    "id": 1190,
+    "fa": "او فوت شده",
+    "en": "He's passed away"
+  },
+  {
+    "id": 1191,
+    "fa": "احساس گناه می کنم",
+    "en": "I feel guilty"
+  },
+  {
+    "id": 1192,
+    "fa": "خودت قضاوت کن",
+    "en": "Judge for yourself"
+  },
+  {
+    "id": 1193,
+    "fa": "من اینجا گیر کردم",
+    "en": "I'm stuck here"
+  },
+  {
+    "id": 1194,
+    "fa": "دیشب یک کابوس داشتم",
+    "en": "I had a nightmare last night"
+  },
+  {
+    "id": 1195,
+    "fa": "این شخصی است که من در مورد او به شما گفتم",
+    "en": "This is the person whom I told you about"
+  },
+  {
+    "id": 1196,
+    "fa": "میتونی یه لطفی به من بکنی؟",
+    "en": "Can you do me a favor?"
+  },
+  {
+    "id": 1197,
+    "fa": "این مدت صبر کردم، کمی بیشتر صبر می کنم",
+    "en": "I waited this long, I'll waited a little longer"
+  },
+  {
+    "id": 1198,
+    "fa": "تصمیم گرفته ام سیگار را ترک کنم",
+    "en": "I have decided to stop smoking"
+  },
+  {
+    "id": 1199,
+    "fa": "این اتفاق نباید رخ میداد",
+    "en": "This should not have happened"
+  },
+  {
+    "id": 1200,
+    "fa": "برای همین اینجایی؟",
+    "en": "Is this why you are here?"
+  },
+  {
+    "id": 1201,
+    "fa": "این کتاب ارزش خواندن دارد",
+    "en": "This book is worth reading"
+  },
+  {
+    "id": 1202,
+    "fa": "شارژ داری؟ گوشیم داره میمیره",
+    "en": "Do you have a charge? My phone is dying"
+  },
+  {
+    "id": 1203,
+    "fa": "(شارژ گوشیم تمام شده) گوشیم مرده",
+    "en": "My phone is dead"
+  },
+  {
+    "id": 1204,
+    "fa": "میتوانی کلیدها را به من پرتاب کنی؟",
+    "en": "Can you chuck me the keys?"
   }
 ]
