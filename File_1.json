@@ -225,7 +225,7 @@
   },
   {
     "id": 1045,
-    "fa": "من باید از سیم رابط بکشم و آن را به پریز دیواری بزنم",
+    "fa": "من نیاز دارم سیم را از رابط بکشم و آن را به پریز دیواری بزنم",
     "en": "I need to unplug it from the extension cord and plug it into the wall socket"
   },
   {
@@ -270,8 +270,8 @@
   },
   {
     "id": 1054,
-    "fa": "من فقط می خواهم در این مورد شفاف باشم",
-    "en": "I just want to be transparent about this"
+    "fa": "من فقط می خواهم در موردش شفاف باشم",
+    "en": "I just want to be transparent about it"
   },
   {
     "id": 1055,
@@ -313,7 +313,7 @@
   },
   {
     "id": 1062,
-    "fa": "خدا نکند حادثه بیافتد، ما باید اطمینان حاصل کنیم که تدابیر ایمنی وجود دارد",
+    "fa": "خدا نکند حادثه بیافتد، ما باید اطمینان حاصل کنیم که تدابیر ایمنی در جای خود هستند",
     "en": "God forbid any accidents, we must ensure the safety measures are in place"
   },
   {
@@ -354,7 +354,7 @@
   },
   {
     "id": 1070,
-    "fa": "هنگام راه رفتن در مسیر یخی جلو پات رو نگاه کن",
+    "fa": "جلو پات رو نگاه کن هنگام راه رفتن در مسیر یخی",
     "en": "Watch your step or (keep your step) while walking on the icy path"
   },
   {
@@ -415,8 +415,8 @@
   },
   {
     "id": 1082,
-    "fa": "به دلیل بازسازی ها در حال انجام این دفتر تا اطلاع ثانوی بسته باقی خواهد ماند",
-    "en": "The office will remain closed until further notice due to the ongoing renovations"
+    "fa": "این دفتر بسته باقی خواهد ماند تا اطلاع ثانوی به دلیل بازسازی های در حال انجام",
+    "en": "This office will remain closed until further notice due to the ongoing renovations"
   },
   {
     "id": 1083,
@@ -466,7 +466,7 @@
   },
   {
     "id": 1092,
-    "fa": "فس فس نکن! باید همین الان ترک کنیم اگر میخواهیم به قطار را برسیم",
+    "fa": "فس فس نکن! نیاز داریم همین الان ترک کنیم اگر میخواهیم به قطار برسیم",
     "en": "Don't dilly-dally! We need to leave now if we want to catch the train"
   },
   {
@@ -542,7 +542,7 @@
   },
   {
     "id": 1107,
-    "fa": "داشت یادم می رفت! ما باید در راه خانه مقداری مواد غذایی برداریم",
+    "fa": "داشت یادم می رفت! ما نیاز داریم در راه خانه مقداری مواد غذایی برداریم",
     "en": "I almost forgot! We need to pick up some groceries on the way home"
   },
   {
@@ -717,13 +717,13 @@
   },
   {
     "id": 1142,
-    "fa": "من امروز بهش رسیدگی خواهم کرد",
-    "en": "I will catch up today"
+    "fa": "من سخت درس خواهم خواند تا به بقیه دانش آموزان برسم",
+    "en": "I will study hard to catch up with the rest of the students"
   },
   {
     "id": 1143,
-    "fa": "من دارم وانمود می کنم که با کلاس هستم",
-    "en": "I'm pretending to be upper class?"
+    "fa": "من دارم وانمود می کنم که با کلاس باشم",
+    "en": "I'm pretending to be upper class"
   },
   {
     "id": 1144,
