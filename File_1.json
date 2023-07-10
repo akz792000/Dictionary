@@ -778,7 +778,7 @@
   },
   {
     "id": 1154,
-    "fa": "من نمی توانم به رویداد امشب بروم. قابل درکه (منطقی است). شاید دفعه بعد",
+    "fa": "من نمی توانم به مراسم امشب برسم. قابل درکه (منطقی است). شاید دفعه بعد",
     "en": "I can't make it to the event tonight. Fair enough. Maybe next time"
   },
   {
@@ -818,7 +818,7 @@
   },
   {
     "id": 1162,
-    "fa": "او همیشه اتوبوس می گیره",
+    "fa": "او (زن) همیشه اتوبوس می گیره",
     "en": "She always takes the bus"
   },
   {
@@ -838,7 +838,7 @@
   },
   {
     "id": 1166,
-    "fa": "!او (زن) خوشگل نیست",
+    "fa": "!او (زن) جذاب نیست",
     "en": "Ain't she cute!"
   },
   {
@@ -878,14 +878,14 @@
   },
   {
     "id": 1174,
-    "fa": "آیا شما از این کتابها دارید؟",
+    "fa": "آیا شما هر کدام از این کتاب ها را دارید؟",
     "en": "Do you have any of these books?",
     "desc": "So, in most cases, \"any\" is used directly with a singular or uncountable noun, but when used with plural nouns, it requires the addition of \"of\" before the plural noun."
   },
   {
     "id": 1175,
     "fa": "انگار بچه ها متوجه سرمای هوا نیستند",
-    "en": "Children don't seem to notice to cold"
+    "en": "Children don't seem to notice the cold"
   },
   {
     "id": 1176,
@@ -894,12 +894,12 @@
   },
   {
     "id": 1177,
-    "fa": "بیارم کمی دسر وقتی به خانه شما می آیم؟",
+    "fa": "وقتی به خانه شما آمدم کمی دسر بیاورم؟",
     "en": "Shall I bring some dessert when I come to your house?"
   },
   {
     "id": 1178,
-    "fa": "فرض کنید کسی از شما می پرسد",
+    "fa": "بیایید فرض کنیم کسی از شما می پرسد",
     "en": "Let's suppose somebody asks you"
   },
   {
@@ -919,7 +919,7 @@
   },
   {
     "id": 1182,
-    "fa": "من سالهاست از اینجا خرید کرده ام",
+    "fa": "من برای چندین سال از اینجا خرید کرده ام",
     "en": "I have shopped here for many years",
     "desc": "We user present perfect for repetitive action in the past"
   },
@@ -960,7 +960,7 @@
   },
   {
     "id": 1190,
-    "fa": "او فوت شده",
+    "fa": "او (مرد) فوت شده",
     "en": "He's passed away"
   },
   {
@@ -996,7 +996,7 @@
   {
     "id": 1197,
     "fa": "این مدت صبر کردم، کمی بیشتر صبر می کنم",
-    "en": "I waited this long, I'll waited a little longer"
+    "en": "I waited this long, I'll wait a little longer"
   },
   {
     "id": 1198,
@@ -1005,7 +1005,7 @@
   },
   {
     "id": 1199,
-    "fa": "این اتفاق نباید رخ میداد",
+    "fa": "این نباید رخ میداد",
     "en": "This should not have happened"
   },
   {
@@ -1020,12 +1020,12 @@
   },
   {
     "id": 1202,
-    "fa": "شارژ داری؟ گوشیم داره میمیره",
-    "en": "Do you have a charge? My phone is dying"
+    "fa": "شارژر داری؟ شارژ گوشیم داره تمام میشه",
+    "en": "Do you have a charger? My phone is dying"
   },
   {
     "id": 1203,
-    "fa": "(شارژ گوشیم تمام شده) گوشیم مرده",
+    "fa": "شارژ گوشیم تمام شد",
     "en": "My phone is dead"
   },
   {

@@ -209,7 +209,7 @@
     "id": 42,
     "fa": "اگر ناراحت نمیشی, وقتی رسیدی خونه با من تماس بگیر",
     "en": "If you don't mind, call me once you get home",
-    "desc": "Call me once you get home\" implies a prompt or immediate action, while \"Call me when you get home\" allows for a more flexible timeframe."
+    "desc": "\"Call me once you get home\" implies a prompt or immediate action, while \"Call me when you get home\" allows for a more flexible timeframe."
   },
   {
     "id": 43,
@@ -1390,7 +1390,7 @@
   },
   {
     "id": 277,
-    "fa": "من احساس نمی کنم خوبم",
+    "fa": "حالم خوب نیست",
     "en": "I am not feeling well"
   },
   {
@@ -3558,7 +3558,7 @@
   },
   {
     "id": 706,
-    "fa": "تو نیاز داری که همت و مطالعه سخت تر کنی اگر می خواهی این امتحان را پاس کنی",
+    "fa": "تو نیاز داری که همت و مطالعه سخت تر کنی اگر می خواهی این تست را پاس کنی",
     "en": "You need to buckle down and study harder if you want to pass this test"
   },
   {
@@ -4492,7 +4492,7 @@
   },
   {
     "id": 889,
-    "fa": "در طول طوفان، تگرگها شیشه جلوی من را خرد کرد و نیازم شد آن را تعویض کنم",
+    "fa": "در طول طوفان، تگرگها شیشه جلوی من را خرد کردند، نیازم شد آن را تعویض کنم",
     "en": "During the storm, the hailstones shattered my windshield, requiring me to replace it"
   },
   {
@@ -4675,7 +4675,7 @@
   },
   {
     "id": 925,
-    "fa": "چطور حضور نداشتی دیشب در مهمانی؟",
+    "fa": "چطور در مهمانی دیشب حضور نداشتی؟",
     "en": "How come you didn't attend the party last night?"
   },
   {
