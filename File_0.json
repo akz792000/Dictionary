@@ -3066,8 +3066,8 @@
   },
   {
     "id": 610,
-    "fa": "تلاشت رو بکن",
-    "en": "Take your shot"
+    "fa": "حالا نوبت تو است. تلاشت رو بکن",
+    "en": "Now it's your turn. Take your shot"
   },
   {
     "id": 611,
@@ -3523,7 +3523,7 @@
   },
   {
     "id": 699,
-    "fa": "برای مراقبت از چین و چروک از چه چیزی استفاده می کنید؟",
+    "fa": "برای مراقبت از چین و چروکت از چی استفاده می کنی؟",
     "en": "What do you use to take care of your wrinkles?"
   },
   {
@@ -3799,7 +3799,7 @@
   },
   {
     "id": 753,
-    "fa": "من تصادفی شنیدم که این زوج در مورد سالگردشان صحبت می کنند، بنابراین فکر کردم آنها را غافلگیر کنم",
+    "fa": "من تصادفی شنیدم که این زوج در مورد سالگرد ازدواجشان صحبت می کنند، بنابراین فکر کردم آنها را غافلگیر کنم",
     "en": "I overheard this couple talking about their anniversary so I thought I'd surprise them"
   },
   {
@@ -4878,7 +4878,7 @@
   {
     "id": 965,
     "fa": "بفرمایید، اینم از این",
-    "en": "There you go"
+    "en": "There you go and here you go ???????"
   },
   {
     "id": 966,
@@ -4893,7 +4893,7 @@
   {
     "id": 968,
     "fa": "اونجا چی داری؟",
-    "en": "What have you got there?",
+    "en": "What have you got there? (What do you have there?)",
     "desc": "\"What do you have there?\": This phrase is the standard and more formal way of asking about something a person is holding. \"What have you got there?\": This phrase is more commonly used in informal contexts or in casual conversation"
   },
   {
