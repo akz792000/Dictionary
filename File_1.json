@@ -878,7 +878,7 @@
   },
   {
     "id": 1174,
-    "fa": "آیا شما هر کدام از این کتاب ها را دارید؟",
+    "fa": "آیا شما یکی از این کتاب ها را دارید؟",
     "en": "Do you have any of these books?",
     "desc": "So, in most cases, \"any\" is used directly with a singular or uncountable noun, but when used with plural nouns, it requires the addition of \"of\" before the plural noun."
   },
@@ -1032,5 +1032,365 @@
     "id": 1204,
     "fa": "میتوانی کلیدها را به من پرتاب کنی؟",
     "en": "Can you chuck me the keys?"
+  },
+  {
+    "id": 1205,
+    "fa": "شما یک قدم با دیده شدن فاصله دارید",
+    "en": "You're one step away from being visible"
+  },
+  {
+    "id": 1206,
+    "fa": "قرارداد شامل یک شرط برای پرداخت اضافه کاری بود",
+    "en": "The contract included a provision for overtime pay"
+  },
+  {
+    "id": 1207,
+    "fa": "اطمینان حاصل کنید که همه همکاران کم و بیش از یک سطح دانش برخوردار هستند",
+    "en": "Ensure that all colleagues have more or less the same level of knowledge"
+  },
+  {
+    "id": 1208,
+    "fa": "آیا دوست دارید مقداری مواد اضافی روی پیتزای خود؟",
+    "en": "Would you like some extra ingredients on your pizza?"
+  },
+  {
+    "id": 1209,
+    "fa": "آیا می توانم نقدی پرداخت کنم؟",
+    "en": "Can I pay cash?"
+  },
+  {
+    "id": 1210,
+    "fa": "آیا این برای بیرون بردن است؟",
+    "en": "Is this for takeout?"
+  },
+  {
+    "id": 1211,
+    "fa": "راننده حدود 40 دقیقه دیگر آنجا خواهد بود",
+    "en": "The driver will be there in about 40 minutes"
+  },
+  {
+    "id": 1212,
+    "fa": "من عاشق دکور هستم، شیک و سنتی است",
+    "en": "I love the decor, it's elegant and traditional"
+  },
+  {
+    "id": 1213,
+    "fa": "آیا غذاهای مورد علاقه ای دارید توصیه کنید؟",
+    "en": "Do you have any favorite dishes you would recommend?"
+  },
+  {
+    "id": 1214,
+    "fa": "سفارش شما تا دقایقی دیگر ارسال خواهد شد",
+    "en": "Your order will be served in a few minutes"
+  },
+  {
+    "id": 1215,
+    "fa": "من خیلی وقته موهام رو کوتاه نکردم",
+    "en": "I'm way overdue for a haircut"
+  },
+  {
+    "id": 1216,
+    "fa": "میتونی لطفا به من بگید حق عضویت این باشگاه چقدره؟",
+    "en": "Can you please tell me how much the membership fee at this gym is?"
+  },
+  {
+    "id": 1217,
+    "fa": "ساعات کاری شما چیست؟",
+    "en": "What are your opening hours?"
+  },
+  {
+    "id": 1218,
+    "fa": "امروز برای این تمرین خیلی مشتاقم",
+    "en": "I'm so pumped for this workout today"
+  },
+  {
+    "id": 1219,
+    "fa": "من هنوز از آخرین تمرینمان درد دارم",
+    "en": "I'm still sore from our last workout"
+  },
+  {
+    "id": 1220,
+    "fa": "اگر شروع به خوردن غذای سالم کنید، تعجب خواهید کرد که چقدر آسان است که وزن کم کنید",
+    "en": "If you start eating healthy food, you will be surprised how easy it is to lose weight"
+  },
+  {
+    "id": 1221,
+    "fa": "آن دسته گل جداً منحصر به فرد به نظر می رسد",
+    "en": "That bouquet looks indeed unique"
+  },
+  {
+    "id": 1222,
+    "fa": "من گلدان را در یک جعبه محکم برای شما قرار خواهم داد تا بتوانید آنها را با خیال راحت به خانه ببرید",
+    "en": "I'll put the vase in a sturdy box for you so you can get them home safely"
+  },
+  {
+    "id": 1223,
+    "fa": "واقعا اتاق را روشن می کند",
+    "en": "It really brightens up the room"
+  },
+  {
+    "id": 1224,
+    "fa": "من برش میدارم",
+    "en": "I'll take it"
+  },
+  {
+    "id": 1225,
+    "fa": "آیا مدرکی دال بر اقامت دارید؟ گواهینامه رانندگی یا چیزی نشان دهد که شما در این شهر زندگی می کنید",
+    "en": "Do you have proof of residence? A driver's license or something showing that you live in this city"
+  },
+  {
+    "id": 1226,
+    "fa": "(شما آماده هستید) همه چیز مرتب است",
+    "en": "You're all set"
+  },
+  {
+    "id": 1227,
+    "fa": "سازش بخش اجتناب ناپذیری از ازدواج است",
+    "en": "Compromise is an inevitable part of marriage"
+  },
+  {
+    "id": 1228,
+    "fa": "من داشتم میمردم که این مکان را امتحان کنم",
+    "en": "I've been dying to try this place"
+  },
+  {
+    "id": 1229,
+    "fa": "نمی توانم تصمیمم را بگیرم",
+    "en": "I can't make up my mind"
+  },
+  {
+    "id": 1230,
+    "fa": "چطور بودی؟",
+    "en": "How have you been?"
+  },
+  {
+    "id": 1231,
+    "fa": "حدود دو هفته شده و می خوام بدونم چقدر طول خواهد کشید تا ماشینم را بگیرم",
+    "en": "It has been around two weeks and I want to know how long it will take for me to get my car"
+  },
+  {
+    "id": 1232,
+    "fa": "کدام حیوان کشنده تر است؟",
+    "en": "Which animal is deadlier?"
+  },
+  {
+    "id": 1233,
+    "fa": "بستن کمربند ایمنی در بسیاری از کشورها اجباری است",
+    "en": "Wearing a seatbelt is compulsory in many countries"
+  },
+  {
+    "id": 1234,
+    "fa": "من صمیمانه از مهارت های آشپزی اش تعریف کردم",
+    "en": "I gave her a sincere compliment on her cooking skills"
+  },
+  {
+    "id": 1235,
+    "fa": "آیا شما علی اتفاقی هستید؟",
+    "en": "Are you Ali by any chance?"
+  },
+  {
+    "id": 1236,
+    "fa": "فکر می کنم لهجه ام مرا لو داده",
+    "en": "I think my accent gave me away"
+  },
+  {
+    "id": 1237,
+    "fa": "خوش آمدید",
+    "en": "Welcome aboard"
+  },
+  {
+    "id": 1238,
+    "fa": "اول اولین بار است که اینجا هستم",
+    "en": "It is my very first time here"
+  },
+  {
+    "id": 1239,
+    "fa": "من 2 روز پیش تهران رسیدم",
+    "en": "I got into Tehran 2 days ago"
+  },
+  {
+    "id": 1240,
+    "fa": "نظرت در موردش تا الان چیه؟",
+    "en": "What do you think about it so far?"
+  },
+  {
+    "id": 1241,
+    "fa": "من حال و هوای اینجا را دوست دارم. واقعا پر انرژی است",
+    "en": "I like the vibe here. It's really energetic"
+  },
+  {
+    "id": 1242,
+    "fa": "من واقعاً احساس خوشبختی می کنم که اینجا هستم",
+    "en": "I feel really blessed to be here"
+  },
+  {
+    "id": 1243,
+    "fa": "به نظر می رسد مونیخ بهترین شهر برای قدم زدن طولانی است",
+    "en": "Munich seems to be the ideal city for long strolls"
+  },
+  {
+    "id": 1244,
+    "fa": "این جریان مداوم انرژی بسیار هیجان انگیز است",
+    "en": "This continuous flow of energy is quite thrilling"
+  },
+  {
+    "id": 1245,
+    "fa": "شما نیاز داری خیلی منظم باشی",
+    "en": "You need to be very disciplined"
+  },
+  {
+    "id": 1246,
+    "fa": "او (مرد) اصرار داشت که ما شما را با این همه تجهیزات پیشرفته تجهیز کنیم",
+    "en": "He insisted that we set you up with all this state-of-the-art equipment"
+  },
+  {
+    "id": 1247,
+    "fa": "می توانید کمی در مورد برنامه خود بگویید؟",
+    "en": "Can you tell me a little about your schedule?"
+  },
+  {
+    "id": 1248,
+    "fa": "به غیر از این، چگونه سازماندهی می کنی زمانت را به شما بستگی دارد",
+    "en": "Other than that, how you organize your time is up to you"
+  },
+  {
+    "id": 1249,
+    "fa": "ما فرصتی برای آشنایی بهتر با یکدیگر بدست خواهیم آورد",
+    "en": "We'll get a chance to get better acquainted with each other"
+  },
+  {
+    "id": 1250,
+    "fa": "سرویس بهداشتی در پشت راهرو در سمت چپ است",
+    "en": "The restroom is at the back of the hallway on the left side "
+  },
+  {
+    "id": 1251,
+    "fa": "شما ظاهری نامرتب دارید",
+    "en": "You look out of sorts"
+  },
+  {
+    "id": 1252,
+    "fa": "آیا برای حفظ تناسب اندام کاری انجام می دهید؟",
+    "en": "Do you do anything to keep fit?"
+  },
+  {
+    "id": 1253,
+    "fa": "",
+    "en": "Bicycling is permitted on all main and local streets throughout the city"
+  },
+  {
+    "id": 1254,
+    "fa": "دوچرخه سواری در تمام خیابان های اصلی و محلی در سراسر شهر مجاز است",
+    "en": "It's so beautiful early in the morning. Why don't you come with me?"
+  },
+  {
+    "id": 1255,
+    "fa": "یکی آن طرف خیابان است",
+    "en": "There's one across the street"
+  },
+  {
+    "id": 1256,
+    "fa": "فردا صبح پیش شما خواهم آمد",
+    "en": "I'll come by your place tomorrow morning"
+  },
+  {
+    "id": 1257,
+    "fa": "میتونبم کمی بعد درستش کنیم؟",
+    "en": "Can we make it a bit later?"
+  },
+  {
+    "id": 1258,
+    "fa": "آیا این کفش ها را در 45 دارید؟ بله بفرمایید. آیا می خواهید آنها را امتحان کنید؟",
+    "en": "Do you have these shoes in 45? Yes, Here you are. Do you wanna try them on?"
+  },
+  {
+    "id": 1259,
+    "fa": "من نمی خواهم پول را پس بدهم. من این جفت (کفش) را می گیرم",
+    "en": "I don't wanna refund. I'll take this pair"
+  },
+  {
+    "id": 1260,
+    "fa": "همه چیز چطور پیش می رود؟",
+    "en": "How's it all going?"
+  },
+  {
+    "id": 1261,
+    "fa": "خوشحالی که اومدی؟",
+    "en": "Are you happy you came?"
+  },
+  {
+    "id": 1262,
+    "fa": "من از اینکه همیشه بیرون غذا بخورم کمی خسته ام",
+    "en": "I am a bit tired of eating out all the time"
+  },
+  {
+    "id": 1263,
+    "fa": "چرا بعد از کار به خانه من نمی آیی؟",
+    "en": "Why don't you come over to my place after work?"
+  },
+  {
+    "id": 1264,
+    "fa": "من آشپز خیلی خوبی هستم",
+    "en": "I'm a very good cook"
+  },
+  {
+    "id": 1265,
+    "fa": "من ممکن است مبتلا به آنفولانزا یا چیز دیگری شده باشم",
+    "en": "I might be coming down with a flu or something"
+  },
+  {
+    "id": 1266,
+    "fa": "آیا در نزدیکی یک داروخانه وجود دارد؟",
+    "en": "Is there a pharmacy nearby?"
+  },
+  {
+    "id": 1267,
+    "fa": "آیا تب دارید؟",
+    "en": "Do you have a temperature?"
+  },
+  {
+    "id": 1268,
+    "fa": "آیا به هر دارویی حساس هستی؟",
+    "en": "Are you allergic to any drugs?"
+  },
+  {
+    "id": 1269,
+    "fa": "این ایبوپروفن است. این به شما احساس بهتری می دهد",
+    "en": "This is ibuprofen. It'll make you feel better."
+  },
+  {
+    "id": 1270,
+    "fa": "چندتا باید بگیرم؟",
+    "en": "How many do I have to take?"
+  },
+  {
+    "id": 1271,
+    "fa": "تا به حال چه تفاوت هایی را متوجه شده اید؟",
+    "en": "What differences have you been noticed so far?"
+  },
+  {
+    "id": 1272,
+    "fa": "سعی کنید آن را از قفسه ای که در داخل آن با نام شما برچسب گذاری شده است، بردارید",
+    "en": "Try to pick it up from a shelf inside where it's tagged with your name"
+  },
+  {
+    "id": 1273,
+    "fa": "خیلی راحت است",
+    "en": "It is so convenient"
+  },
+  {
+    "id": 1274,
+    "fa": "من بیرون برای آبجو دعوت شدم",
+    "en": "I got invited out for beers"
+  },
+  {
+    "id": 1275,
+    "fa": "آنها خیلی خوب هستند که در اطراف هستند",
+    "en": "They are very nice to be around"
+  },
+  {
+    "id": 1276,
+    "fa": "به اعصاب خود مسلط باشید و متمرکز بمانید",
+    "en": "Get a grip and stay focused"
   }
 ]
