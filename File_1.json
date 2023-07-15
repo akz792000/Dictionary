@@ -138,7 +138,7 @@
   },
   {
     "id": 1028,
-    "fa": "آیا تا به حال به خارج از کشور رفته اید؟",
+    "fa": "آیا تا به حال خارج رفتی؟",
     "en": "Have ever gone abroad?",
     "desc": "\"Have you ever been abroad?\" is the more commonly used phrase to ask about someone's experience of being in another country. \"Have you ever gone abroad?\" can also be understood, but it specifically highlights the act of physically traveling to another country."
   },
@@ -732,7 +732,7 @@
   },
   {
     "id": 1145,
-    "fa": "توی حمام گرم نشستم و خودم رو اسفنج زدم",
+    "fa": "توی وان گرم نشستم و خودم رو اسفنج زدم",
     "en": "I sat in the warm bath (/ˈbæθ/) and sponged myself"
   },
   {
@@ -798,7 +798,7 @@
   },
   {
     "id": 1158,
-    "fa": "اجازه نده که شما را بترساند",
+    "fa": "به آن اجازه نده که شما را بترساند",
     "en": "Don't let that frighten you"
   },
   {
@@ -890,7 +890,8 @@
   {
     "id": 1176,
     "fa": "من شما را (با ماشین) تا مترو می رسونم",
-    "en": "I'll give you a ride to the subway"
+    "en": "I'll give you a ride to the subway",
+    "desc": "If someone mentions driving you to the subway, they are explicitly referring to using their car for transportation. However, if they say they'll give you a ride to the subway, it could involve various modes of transportation, including driving, public transportation, or other means."
   },
   {
     "id": 1177,
@@ -1040,7 +1041,7 @@
   },
   {
     "id": 1206,
-    "fa": "قرارداد شامل یک شرط برای پرداخت اضافه کاری بود",
+    "fa": "قرارداد شامل یک شرط برای پرداختن اضافه کاری بود",
     "en": "The contract included a provision for overtime pay"
   },
   {
@@ -1060,7 +1061,7 @@
   },
   {
     "id": 1210,
-    "fa": "آیا این برای بیرون بردن است؟",
+    "fa": "آیا این برای بیرون بردنه؟",
     "en": "Is this for takeout?"
   },
   {
@@ -1080,13 +1081,14 @@
   },
   {
     "id": 1214,
-    "fa": "سفارش شما تا دقایقی دیگر ارسال خواهد شد",
+    "fa": "سفارش شما تا دقایقی دیگر سرو خواهد شد",
     "en": "Your order will be served in a few minutes"
   },
   {
     "id": 1215,
     "fa": "من خیلی وقته موهام رو کوتاه نکردم",
-    "en": "I'm way overdue for a haircut"
+    "en": "I'm way overdue for a haircut",
+    "desc": "The person has not had a haircut for a long time and it is now overdue or past the appropriate time for them to have gotten one."
   },
   {
     "id": 1216,
@@ -1095,7 +1097,7 @@
   },
   {
     "id": 1217,
-    "fa": "ساعات کاری شما چیست؟",
+    "fa": "ساعات کاری (ساعتهای که باز هستید) شما چیست؟",
     "en": "What are your opening hours?"
   },
   {
@@ -1155,7 +1157,7 @@
   },
   {
     "id": 1229,
-    "fa": "نمی توانم تصمیمم را بگیرم",
+    "fa": "نمی توانم ذهنم را درست کنم",
     "en": "I can't make up my mind"
   },
   {
@@ -1225,7 +1227,7 @@
   },
   {
     "id": 1243,
-    "fa": "به نظر می رسد مونیخ بهترین شهر برای قدم زدن طولانی است",
+    "fa": "مونیخ به نظر می رسه بهترین شهر برای قدم زدن طولانیه",
     "en": "Munich seems to be the ideal city for long strolls"
   },
   {
@@ -1245,12 +1247,12 @@
   },
   {
     "id": 1247,
-    "fa": "می توانید کمی در مورد برنامه خود بگویید؟",
+    "fa": "می توانید کمی در مورد زمان بندیت به من بگی؟",
     "en": "Can you tell me a little about your schedule?"
   },
   {
     "id": 1248,
-    "fa": "به غیر از این، چگونه سازماندهی می کنی زمانت را به شما بستگی دارد",
+    "fa": "به غیر از این، چگونه سازماندهی می کنی زمانت رو به خودت بستگی داره",
     "en": "Other than that, how you organize your time is up to you"
   },
   {
@@ -1265,22 +1267,22 @@
   },
   {
     "id": 1251,
-    "fa": "شما ظاهری نامرتب دارید",
+    "fa": "شما ظاهری نامرتب داری",
     "en": "You look out of sorts"
   },
   {
     "id": 1252,
-    "fa": "آیا برای حفظ تناسب اندام کاری انجام می دهید؟",
+    "fa": "آیا برای رو فرم بودن کاری انجام می دی؟",
     "en": "Do you do anything to keep fit?"
   },
   {
     "id": 1253,
-    "fa": "",
+    "fa": "دوچرخه سواری در تمام خیابان های اصلی و محلی در سراسر شهر مجاز است",
     "en": "Bicycling is permitted on all main and local streets throughout the city"
   },
   {
     "id": 1254,
-    "fa": "دوچرخه سواری در تمام خیابان های اصلی و محلی در سراسر شهر مجاز است",
+    "fa": "صبح زود خیلی قشنگه. چرا با من نمی آیی؟",
     "en": "It's so beautiful early in the morning. Why don't you come with me?"
   },
   {
@@ -1290,12 +1292,12 @@
   },
   {
     "id": 1256,
-    "fa": "فردا صبح پیش شما خواهم آمد",
+    "fa": "فردا صبح به مکان شما خواهم آمد",
     "en": "I'll come by your place tomorrow morning"
   },
   {
     "id": 1257,
-    "fa": "میتونبم کمی بعد درستش کنیم؟",
+    "fa": "میتونیم کمی بعد درستش کنیم؟",
     "en": "Can we make it a bit later?"
   },
   {
@@ -1305,12 +1307,12 @@
   },
   {
     "id": 1259,
-    "fa": "من نمی خواهم پول را پس بدهم. من این جفت (کفش) را می گیرم",
+    "fa": "من نمی خواهم پول را پس بدهم. من این جفت (کفش) را خواهم برد",
     "en": "I don't wanna refund. I'll take this pair"
   },
   {
     "id": 1260,
-    "fa": "همه چیز چطور پیش می رود؟",
+    "fa": "همه چیز چطور داره پیش می ره؟",
     "en": "How's it all going?"
   },
   {
@@ -1320,12 +1322,12 @@
   },
   {
     "id": 1262,
-    "fa": "من از اینکه همیشه بیرون غذا بخورم کمی خسته ام",
+    "fa": "من از اینکه تمام مدت بیرون غذا بخورم کمی خسته ام",
     "en": "I am a bit tired of eating out all the time"
   },
   {
     "id": 1263,
-    "fa": "چرا بعد از کار به خانه من نمی آیی؟",
+    "fa": "چرا بعد از کار به مکان من سر نمیزنی؟",
     "en": "Why don't you come over to my place after work?"
   },
   {
@@ -1335,28 +1337,28 @@
   },
   {
     "id": 1265,
-    "fa": "من ممکن است مبتلا به آنفولانزا یا چیز دیگری شده باشم",
+    "fa": "شاید دارم مبتلا به آنفولانزا یا چیز دیگری می شم",
     "en": "I might be coming down with a flu or something"
   },
   {
     "id": 1266,
-    "fa": "آیا در نزدیکی یک داروخانه وجود دارد؟",
+    "fa": "آیا یک داروخانه در نزدیکی وجود دارد؟",
     "en": "Is there a pharmacy nearby?"
   },
   {
     "id": 1267,
-    "fa": "آیا تب دارید؟",
-    "en": "Do you have a temperature?"
+    "fa": "آیا تب داری؟",
+    "en": "Do you have a fever?"
   },
   {
     "id": 1268,
-    "fa": "آیا به هر دارویی حساس هستی؟",
+    "fa": "آیا به هر دارویی آلرژی هستی؟",
     "en": "Are you allergic to any drugs?"
   },
   {
     "id": 1269,
-    "fa": "این ایبوپروفن است. این به شما احساس بهتری می دهد",
-    "en": "This is ibuprofen. It'll make you feel better."
+    "fa": "این ایبوپروفن است. باعث میشه شما احساس بهتری کنی",
+    "en": "This is ibuprofen (ˌībyo͞oˈprōfən). It'll make you feel better"
   },
   {
     "id": 1270,
@@ -1370,7 +1372,7 @@
   },
   {
     "id": 1272,
-    "fa": "سعی کنید آن را از قفسه ای که در داخل آن با نام شما برچسب گذاری شده است، بردارید",
+    "fa": "سعی کنید آن را از قفسه ای که در داخل آن با نام شما برچسب گذاری شده است بردارید",
     "en": "Try to pick it up from a shelf inside where it's tagged with your name"
   },
   {
@@ -1385,12 +1387,23 @@
   },
   {
     "id": 1275,
-    "fa": "آنها خیلی خوب هستند که در اطراف هستند",
-    "en": "They are very nice to be around"
+    "fa": "آنها خیلی خوبه برای معاشرت کردن",
+    "en": "They are very nice to be around",
+    "desc": "It is a statement that describes the individuals referred to as being pleasant or enjoyable to spend time with"
   },
   {
     "id": 1276,
-    "fa": "به اعصاب خود مسلط باشید و متمرکز بمانید",
+    "fa": "به اعصابت مسلط باش و متمرکز بمان",
     "en": "Get a grip and stay focused"
+  },
+  {
+    "id": 1276,
+    "fa": "بگیرش",
+    "en": "Take it"
+  },
+  {
+    "id": 1277,
+    "fa": "اگر هرچیز مهمی در جلسه مطرح شد، بعداً به شما خواهم گفت",
+    "en": "If anything important comes up during the meeting, I'll tell you about it later"
   }
 ]
