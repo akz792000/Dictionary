@@ -577,7 +577,7 @@
   },
   {
     "id": 1114,
-    "fa": "من با این منطقه آشنا نیستم",
+    "fa": "من با این ناحیه آشنا نیستم",
     "en": "I'm not familiar with this area"
   },
   {
@@ -889,7 +889,7 @@
   },
   {
     "id": 1176,
-    "fa": "من شما را (با ماشین) تا مترو می رسونم",
+    "fa": "من شما را تا مترو می رسونم",
     "en": "I'll give you a ride to the subway",
     "desc": "If someone mentions driving you to the subway, they are explicitly referring to using their car for transportation. However, if they say they'll give you a ride to the subway, it could involve various modes of transportation, including driving, public transportation, or other means."
   },
@@ -1217,7 +1217,7 @@
   },
   {
     "id": 1241,
-    "fa": "من حال و هوای اینجا را دوست دارم. واقعا پر انرژی است",
+    "fa": "من جنب و جوش اینجا را دوست دارم. واقعا پر انرژی است",
     "en": "I like the vibe here. It's really energetic"
   },
   {
@@ -1232,7 +1232,7 @@
   },
   {
     "id": 1244,
-    "fa": "این جریان مداوم انرژی بسیار هیجان انگیز است",
+    "fa": "این جریان مداوم انرژی کاملاً هیجان انگیز است",
     "en": "This continuous flow of energy is quite thrilling"
   },
   {
@@ -1297,7 +1297,7 @@
   },
   {
     "id": 1257,
-    "fa": "میتونیم کمی بعد درستش کنیم؟",
+    "fa": "میتونیم کمی بعد بسازیمش؟",
     "en": "Can we make it a bit later?"
   },
   {
@@ -1352,12 +1352,12 @@
   },
   {
     "id": 1268,
-    "fa": "آیا به هر دارویی آلرژی هستی؟",
+    "fa": "آیا به هر دارویی آلرژیک هستید؟",
     "en": "Are you allergic to any drugs?"
   },
   {
     "id": 1269,
-    "fa": "این ایبوپروفن است. باعث میشه شما احساس بهتری کنی",
+    "fa": "این ایبوپروفن است. باعث خواهد شد شما احساس بهتری کنی",
     "en": "This is ibuprofen (ˌībyo͞oˈprōfən). It'll make you feel better"
   },
   {
@@ -1372,8 +1372,8 @@
   },
   {
     "id": 1272,
-    "fa": "سعی کنید آن را از قفسه ای که در داخل آن با نام شما برچسب گذاری شده است بردارید",
-    "en": "Try to pick it up from a shelf inside where it's tagged with your name"
+    "fa": "تقریباً تمام شده است",
+    "en": "It's almost finished"
   },
   {
     "id": 1273,
@@ -1387,7 +1387,7 @@
   },
   {
     "id": 1275,
-    "fa": "آنها خیلی خوبه برای معاشرت کردن",
+    "fa": "آنها خیلی خوبن برای معاشرت کردن",
     "en": "They are very nice to be around",
     "desc": "It is a statement that describes the individuals referred to as being pleasant or enjoyable to spend time with"
   },
@@ -1405,5 +1405,10 @@
     "id": 1277,
     "fa": "اگر هرچیز مهمی در جلسه مطرح شد، بعداً به شما خواهم گفت",
     "en": "If anything important comes up during the meeting, I'll tell you about it later"
+  },
+  {
+    "id": 1278,
+    "fa": "من در یک خانواده نظامی بزرگ شدم",
+    "en": "I grew up in a military family"
   }
 ]
