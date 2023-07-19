@@ -1168,7 +1168,7 @@
   },
   {
     "id": 1231,
-    "fa": "حدود دو هفته شده و می خوام بدونم چقدر طول خواهد کشید یرای من تا ماشینم را بگیرم",
+    "fa": "حدود دو هفته شده و می خوام بدونم چقدر طول خواهد کشید برای من تا ماشینم را بگیرم",
     "en": "It has been around two weeks and I want to know how long it will take for me to get my car"
   },
   {
@@ -1203,7 +1203,7 @@
   },
   {
     "id": 1238,
-    "fa": "اول اولین بار است که اینجا هستم",
+    "fa": "این است اول اولین بارم اینجا",
     "en": "It is my very first time here"
   },
   {
@@ -1213,7 +1213,7 @@
   },
   {
     "id": 1240,
-    "fa": "نظرت در موردش تا الان چیه؟",
+    "fa": "چی فکر می کنی در موردش تا الان؟",
     "en": "What do you think about it so far?"
   },
   {
@@ -1253,7 +1253,7 @@
   },
   {
     "id": 1248,
-    "fa": "به غیر از این، چگونه سازماندهی می کنی زمانت رو به خودت بستگی داره",
+    "fa": "به غیر از آن، چگونه سازماندهی می کنی زمانت رو به خودت بستگی داره",
     "en": "Other than that, how you organize your time is up to you"
   },
   {
@@ -1406,7 +1406,7 @@
   },
   {
     "id": 1277,
-    "fa": "اگر هرچیز مهمی در جلسه مطرح شد، بعداً به شما خواهم گفت",
+    "fa": "اگر هرچیز مهمی در جلسه مطرح شد، بعداً به شما دربارش خواهم گفت",
     "en": "If anything important comes up during the meeting, I'll tell you about it later"
   },
   {
@@ -1422,6 +1422,7 @@
   {
     "id": 1280,
     "fa": "او (زن) دوست دارد در اوقات فراغتش چه کار کند؟",
-    "en": "What does she like to do in her free time?"
+    "en": "What does she like to do in her free time?",
+    "desc": "\"What does it like?\": This phrase is not grammatically correct. However, if we modify it slightly to \"What does it like?\" it could be interpreted as asking about the preferences or tastes of something."
   }
 ]

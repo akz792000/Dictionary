@@ -371,7 +371,7 @@
   {
     "id": 74,
     "fa": "مرا در جریان بزار",
-    "en": "1.Keep me posted\n2.Fill me in"
+    "en": "1.Keep me posted \n2.Fill me in"
   },
   {
     "id": 75,
@@ -4879,7 +4879,8 @@
   {
     "id": 965,
     "fa": "بفرمایید، اینم از این",
-    "en": "There you go and here you go ???????"
+    "en": "1.There you go \n2.Here you go",
+    "desc": "\"There you go\" is used when providing something to someone who is at a distance from the speaker, while \"Here you go\" is used when giving something to someone who is in close proximity to the speaker. The choice between the two phrases depends on the physical location of the recipient relative to the speaker."
   },
   {
     "id": 966,
