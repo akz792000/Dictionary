@@ -371,7 +371,7 @@
   {
     "id": 74,
     "fa": "مرا در جریان بزار",
-    "en": "Keep me posted or fill me in"
+    "en": "1.Keep me posted\n2.Fill me in"
   },
   {
     "id": 75,
@@ -4578,7 +4578,7 @@
   },
   {
     "id": 906,
-    "fa": "در مورد کی حرف می زنی؟",
+    "fa": "در مورد کی داری حرف می زنی؟",
     "en": "Who are you talking about?"
   },
   {
@@ -4750,8 +4750,9 @@
   },
   {
     "id": 940,
-    "fa": "چه شکلی است؟",
-    "en": "What's it like?"
+    "fa": "کار کردن در آن شرکت چطوره؟",
+    "en": "What is it like to work at that company?",
+    "desc": "\"What is it like?\": This question is asking for a description or explanation of something. It is commonly used when you want to know about someone's experience or perception of a particular thing, place, situation, or event."
   },
   {
     "id": 941,

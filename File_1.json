@@ -1117,7 +1117,7 @@
   },
   {
     "id": 1221,
-    "fa": "آن دسته گل جداً منحصر به فرد به نظر می رسد",
+    "fa": "آن دسته گل جداً تک به نظر می رسد",
     "en": "That bouquet looks indeed unique"
   },
   {
@@ -1138,7 +1138,8 @@
   {
     "id": 1225,
     "fa": "آیا مدرکی دال بر اقامت دارید؟ گواهینامه رانندگی یا چیزی نشان دهد که شما در این شهر زندگی می کنید",
-    "en": "Do you have proof of residence? A driver's license or something showing that you live in this city"
+    "en": "Do you have proof of residence? A driver's license or something showing that you live in this city",
+    "desc": "In North American English, \"Driver's license\" is the more common term and refers to the official document issued by the government that allows an individual to operate a motor vehicle. The possessive form \"Driver's\" indicates that it belongs to the driver.\n\nIn British English and many other English-speaking countries, \"Driving license\" is the more commonly used term. It refers to the same document, but without the possessive form \"Driver's\"."
   },
   {
     "id": 1226,
@@ -1167,7 +1168,7 @@
   },
   {
     "id": 1231,
-    "fa": "حدود دو هفته شده و می خوام بدونم چقدر طول خواهد کشید تا ماشینم را بگیرم",
+    "fa": "حدود دو هفته شده و می خوام بدونم چقدر طول خواهد کشید یرای من تا ماشینم را بگیرم",
     "en": "It has been around two weeks and I want to know how long it will take for me to get my car"
   },
   {
@@ -1182,7 +1183,7 @@
   },
   {
     "id": 1234,
-    "fa": "من صمیمانه از مهارت های آشپزی اش تعریف کردم",
+    "fa": "من به او (زن) یک تعریف صادقانه درباره مهارت های پخت و پزش دادم",
     "en": "I gave her a sincere compliment on her cooking skills"
   },
   {
@@ -1227,7 +1228,7 @@
   },
   {
     "id": 1243,
-    "fa": "مونیخ به نظر می رسه بهترین شهر برای قدم زدن طولانیه",
+    "fa": "مونیخ به نظر می رسه شهری ایده آل برای قدم زدن طولانی",
     "en": "Munich seems to be the ideal city for long strolls"
   },
   {
@@ -1267,7 +1268,7 @@
   },
   {
     "id": 1251,
-    "fa": "شما ظاهری نامرتب داری",
+    "fa": "شما نامرتب به نظر میرسی",
     "en": "You look out of sorts"
   },
   {
@@ -1292,8 +1293,9 @@
   },
   {
     "id": 1256,
-    "fa": "فردا صبح به مکان شما خواهم آمد",
-    "en": "I'll come by your place tomorrow morning"
+    "fa": "فردا صبح به مکان شما سر خواهم زد",
+    "en": "I'll come by your place tomorrow morning",
+    "desc": "Come by often implies making a brief visit or stopping by a place temporarily"
   },
   {
     "id": 1257,
@@ -1313,7 +1315,7 @@
   {
     "id": 1260,
     "fa": "همه چیز چطور داره پیش می ره؟",
-    "en": "How's it all going?"
+    "en": "How is everything going?"
   },
   {
     "id": 1261,
@@ -1327,8 +1329,9 @@
   },
   {
     "id": 1263,
-    "fa": "چرا بعد از کار به مکان من سر نمیزنی؟",
-    "en": "Why don't you come over to my place after work?"
+    "fa": "چرا بعد از کار به مکان من نمیای؟",
+    "en": "Why don't you come over to my place after work?",
+    "desc": "Come over specifically emphasizes moving to the location where the speaker is"
   },
   {
     "id": 1264,
@@ -1410,5 +1413,15 @@
     "id": 1278,
     "fa": "من در یک خانواده نظامی بزرگ شدم",
     "en": "I grew up in a military family"
+  },
+  {
+    "id": 1279,
+    "fa": "چرا قطار داره به این سمت می ره؟ باید برعکس می رفت",
+    "en": "Why is the train going this way? It should have gone the other way around"
+  },
+  {
+    "id": 1280,
+    "fa": "او (زن) دوست دارد در اوقات فراغتش چه کار کند؟",
+    "en": "What does she like to do in her free time?"
   }
 ]
