@@ -355,7 +355,7 @@
   {
     "id": 1070,
     "fa": "جلو پات رو نگاه کن در حال راه رفتن در مسیر یخی",
-    "en": "Watch your step or (keep your step) while walking on the icy path"
+    "en": "Watch your step while walking on the icy path"
   },
   {
     "id": 1071,
@@ -511,7 +511,7 @@
   },
   {
     "id": 1101,
-    "fa": "من تشنمه (خشک شدم). میتونی لطفاً یه لیوان آب بهم بدی؟",
+    "fa": "من تشنمه (خشک شدم). میتونی لطفاً یه لیوان آب برام بگیری؟",
     "en": "I'm parched. Can you please get me a glass of water?",
     "desc": "\"Get me a glass of water\": This phrase implies a request for someone to obtain or fetch a glass of water for you. It suggests that you want the person to take action and bring the water to you.\n\n\"Give me a glass of water\": This phrase indicates a direct request for someone to hand you a glass of water. It implies that you want the person to physically pass the water to you."
   },
@@ -996,7 +996,7 @@
   },
   {
     "id": 1197,
-    "fa": "این مدت صبر کردم، کمی بیشتر صبر می کنم",
+    "fa": "این مدت صبر کردم، کمی بیشتر صبر خواهم کرد",
     "en": "I waited this long, I'll wait a little longer"
   },
   {
@@ -1122,8 +1122,8 @@
   },
   {
     "id": 1222,
-    "fa": "من گلدان را در یک جعبه محکم برای شما قرار خواهم داد تا بتوانید آنها را با خیال راحت به خانه ببرید",
-    "en": "I'll put the vase in a sturdy box for you so you can get them home safely"
+    "fa": "من گلدان را در یک جعبه محکم برای شما قرار خواهم داد تا بتوانید آن را با خیال راحت به خانه برسانید",
+    "en": "I'll put the vase in a sturdy box for you so you can get it home safely"
   },
   {
     "id": 1223,
@@ -1386,7 +1386,7 @@
   {
     "id": 1274,
     "fa": "من بیرون برای آبجو دعوت شدم",
-    "en": "I got invited out for beers"
+    "en": "I got invited out for beer"
   },
   {
     "id": 1275,
@@ -1416,12 +1416,12 @@
   },
   {
     "id": 1279,
-    "fa": "چرا قطار داره به این سمت می ره؟ باید برعکس می رفت",
-    "en": "Why is the train going this way? It should have gone the other way around"
+    "fa": "چه کوفتیه, چرا قطار داره به این سمت می ره؟ باید برعکس می رفت",
+    "en": "What the fuck, Why is the train going this way? It should have gone the other way around"
   },
   {
     "id": 1280,
-    "fa": "او (زن) دوست دارد در اوقات فراغتش چه کار کند؟",
+    "fa": "او (زن) دوست دارد در زمان آزادش چه کار کند؟",
     "en": "What does she like to do in her free time?",
     "desc": "\"What does it like?\": This phrase is not grammatically correct. However, if we modify it slightly to \"What does it like?\" it could be interpreted as asking about the preferences or tastes of something."
   }

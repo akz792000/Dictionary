@@ -371,7 +371,7 @@
   {
     "id": 74,
     "fa": "مرا در جریان بزار",
-    "en": "1.Keep me posted \n2.Fill me in"
+    "en": "Keep me posted"
   },
   {
     "id": 75,
@@ -2240,7 +2240,7 @@
   },
   {
     "id": 446,
-    "fa": "این  خانه ای است که من در آن بزرگ شدم",
+    "fa": "این خانه ای است که من در آن بزرگ شدم",
     "en": "This is the house where I grew up in"
   },
   {
@@ -2679,7 +2679,7 @@
   },
   {
     "id": 533,
-    "fa": "از پسش برمیای",
+    "fa": "می تونی آن را بسازی",
     "en": "You can make it"
   },
   {
@@ -3267,7 +3267,8 @@
   {
     "id": 649,
     "fa": "تلاش برای اینکه او (مرد) درباره احساساتش صحبت کند، مثل کشیدن دندان ها است",
-    "en": "Trying to get him to talk about his feelings is like pulling teeth"
+    "en": "Trying to get him to talk about his feelings is like pulling teeth",
+    "desc": "\"trying to get him\" emphasizes a more supportive and encouraging approach, while \"trying to make him\" suggests a more forceful or assertive effort to elicit a response from the person."
   },
   {
     "id": 650,
@@ -3307,7 +3308,7 @@
   },
   {
     "id": 657,
-    "fa": "کسی باید کلیدهای مرا گرفته باشد",
+    "fa": "کسی می بایستی کلیدهای مرا برداشته باشه",
     "en": "Somebody must have taken my keys"
   },
   {
@@ -3630,8 +3631,7 @@
   {
     "id": 720,
     "fa": "او (زن) به من این احساس را نمی دهد مانند تنها چیزی که مانع خوشحالی او داره می شه من هستم",
-    "en": "She doesn't make me feel like the only thing that is stopping her from being happy is me",
-    "desc": "\"She doesn't get me feel\": This phrase is not grammatically correct."
+    "en": "She doesn't make me feel like the only thing that is stopping her from being happy is me"
   },
   {
     "id": 721,
@@ -3744,7 +3744,7 @@
   },
   {
     "id": 742,
-    "fa": "ممکنه شما را به همسرم معرفی کنم؟",
+    "fa": "ممکنه شما را به همسرم (زن) معرفی کنم؟",
     "en": "May I introduce you to my wife?"
   },
   {
@@ -3789,7 +3789,7 @@
   },
   {
     "id": 751,
-    "fa": "خوشبختانه، موفق شدم (مدیریت) تمام بدهی هایم را بپردازم, قبل از اینکه ما ازدواج کنیم",
+    "fa": "خوشبختانه، موفق شدم (مدیریت) تمام بدهی هایم را بپردازم قبل از اینکه ما ازدواج کنیم",
     "en": "Thankfully, I managed to pay off all my debts before we got married"
   },
   {
@@ -4547,7 +4547,7 @@
   },
   {
     "id": 900,
-    "fa": "اصلاً نمی دانم چه بگویم؟",
+    "fa": "من حتی نمی دانم چه بگویم؟",
     "en": "I don't even know what to say?",
     "desc": "In English, the standard word order for negation is to place the word \"not\" immediately after the auxiliary verb \"do.\" In this case, \"do\" is used as an auxiliary verb to form the negation, and \"even\" is an adverb modifying the verb \"know.\""
   },
@@ -4878,8 +4878,8 @@
   },
   {
     "id": 965,
-    "fa": "بفرمایید، اینم از این",
-    "en": "1.There you go \n2.Here you go",
+    "fa": "اینم از این",
+    "en": "There you go",
     "desc": "\"There you go\" is used when providing something to someone who is at a distance from the speaker, while \"Here you go\" is used when giving something to someone who is in close proximity to the speaker. The choice between the two phrases depends on the physical location of the recipient relative to the speaker."
   },
   {
@@ -4910,7 +4910,7 @@
   },
   {
     "id": 971,
-    "fa": "یک تکه گوشت را سیخ می زنم",
+    "fa": "من دارم یک تکه گوشت را سیخ می زنم",
     "en": "I am skewering a cube of beef on the skewer (/ˈskjuːər/)"
   },
   {
@@ -5046,7 +5046,7 @@
     "id": 997,
     "fa": "من دارم سعی می کنم به او (مرد) اهمیت مدیریت زمان را بفهمانم",
     "en": "I'm trying to make him understand the importance of time management",
-    "desc": "\"Trying to get him\": This phrase implies attempting to persuade, convince, or acquire the cooperation or assistance of someone. \"Trying to make him\": This phrase implies attempting to influence or compel someone to do something or to adopt a certain behavior or attitude."
+    "desc": "\"trying to get him\" emphasizes a more supportive and encouraging approach, while \"trying to make him\" suggests a more forceful or assertive effort to elicit a response from the person."
   },
   {
     "id": 998,
