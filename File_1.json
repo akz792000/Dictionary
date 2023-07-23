@@ -1424,5 +1424,309 @@
     "fa": "او (زن) دوست دارد در زمان آزادش چه کار کند؟",
     "en": "What does she like to do in her free time?",
     "desc": "\"What does it like?\": This phrase is not grammatically correct. However, if we modify it slightly to \"What does it like?\" it could be interpreted as asking about the preferences or tastes of something."
+  },
+  {
+    "id": 1281,
+    "fa": "من تقریباً تمام کردم",
+    "en": "I'm almost done"
+  },
+  {
+    "id": 1282,
+    "fa": "عالی بود ببینی چقدر همه فعال بودند",
+    "en": "It was great to see how active everyone was"
+  },
+  {
+    "id": 1283,
+    "fa": "ما آن را به دل گرفتیم و به راه حل های مناسب فکر کردیم",
+    "en": "We took it to heart and thought about appropriate solutions",
+    "desc": "\n\"Take it to heart\" is an idiomatic expression that means to take something very seriously or personally, often with strong emotional impact"
+  },
+  {
+    "id": 1284,
+    "fa": "غیر آلمانی های عزیز، چرا آلمان را به جای آمریکا برای گرفتن شغل انتخاب کردید با وجود داشتن حقوق به مراتب کمتر؟",
+    "en": "Dear non-Germans, why did you choose Germany over the US to get a job despite having a far lower salary?"
+  },
+  {
+    "id": 1285,
+    "fa": "آیا می دانید اقیانوس در شب چقدر تاریک می شود؟",
+    "en": "Do you know how dark the ocean gets at night?"
+  },
+  {
+    "id": 1286,
+    "fa": "شما در حال حاضر دسترسی دارید",
+    "en": "You already have access"
+  },
+  {
+    "id": 1287,
+    "fa": "آیا می توانم سوالات را بپرسم(شلیک کنم)؟",
+    "en": "Can I shoot questions?"
+  },
+  {
+    "id": 1288,
+    "fa": "یه لحظه صبر کن",
+    "en": "Wait a moment"
+  },
+  {
+    "id": 1289,
+    "fa": "جند وقته می خواستم بهت زنگ بزنم",
+    "en": "I've been meaning to call you"
+  },
+  {
+    "id": 1290,
+    "fa": "اوضاع چطوره؟",
+    "en": "What's the situation like?"
+  },
+  {
+    "id": 1291,
+    "fa": "بزار ببینم",
+    "en": "Let me see"
+  },
+  {
+    "id": 1292,
+    "fa": "مطمئن شو بررسی کنی آدرس و مشروعیت هر گیرنده را",
+    "en": "Make sure to check the address and legitimacy of any recipient"
+  },
+  {
+    "id": 1293,
+    "fa": "کدام یک از ما واقعی است؟",
+    "en": "Which one of us is real?"
+  },
+  {
+    "id": 1294,
+    "fa": "چه طبقه ای زندگی می کنید؟",
+    "en": "What floor do you live on?"
+  },
+  {
+    "id": 1295,
+    "fa": "می توانید این شانس را بگیری",
+    "en": "You can take that chance"
+  },
+  {
+    "id": 1296,
+    "fa": "نمیتونم به دویدن ادامه بدم",
+    "en": "I can't keep running"
+  },
+  {
+    "id": 1297,
+    "fa": "شوهرت داره چیکار میکنه؟ داره گیتار میزنه",
+    "en": "What's your husband doing? He's playing the guitar"
+  },
+  {
+    "id": 1298,
+    "fa": "دوست دارم او (مرد) را معرفی کنم",
+    "en": "I'd like to introduce Him"
+  },
+  {
+    "id": 1299,
+    "fa": "هوا چطوره؟ آفتابی است",
+    "en": "What's the weather like? It's sunny"
+  },
+  {
+    "id": 1300,
+    "fa": "پیش بینی آب و هوا چیست؟ داره میره برای یک طوفان گرد و غبار",
+    "en": "What's the weather forecast? There's going to be a dust storm"
+  },
+  {
+    "id": 1301,
+    "fa": "چند بار در هفته ورزش می کنید؟",
+    "en": "How many students are there in your class?"
+  },
+  {
+    "id": 1302,
+    "fa": "دماسنج نشان داد افت دما را هنگام صبح مه آلود قبل از رسیدن رعد و برق",
+    "en": "The thermometer showed a drop in temperature during the hazy morning before the thunderstorm arrived"
+  },
+  {
+    "id": 1303,
+    "fa": "صبح مه و دود آلود به روزی گرم و مرطوب با نم نم باران تبدیل شد",
+    "en": "The foggy and smoggy morning turned into a muggy day with a drizzle of rain",
+    "desc": " \"foggy\" describes a weather condition with dense moisture in the air, leading to reduced visibility, while \"smoggy\" refers to an air pollution situation where smoke and fog combine to create a haze of harmful particles and gases in urban areas."
+  },
+  {
+    "id": 1304,
+    "fa": "در فصل زمستان, ما تجربه کردیم یک طوفان برف شدید همراه با تگرگ و برفک",
+    "en": "During the winter, we experienced a severe snowstorm with hail and sleet"
+  },
+  {
+    "id": 1305,
+    "fa": "در طول طوفان گرد و غبار، رعد و برق در همان حوالی اصابت کرد",
+    "en": "During the dust storm, lightning struck nearby"
+  },
+  {
+    "id": 1306,
+    "fa": "آیا این اولین سفر شما به کشورمان است؟",
+    "en": "Is this your first trip to our country?"
+  },
+  {
+    "id": 1307,
+    "fa": "یک پنی چقدر می ارزد؟",
+    "en": "How much is a penny worth?"
+  },
+  {
+    "id": 1308,
+    "fa": "ممکن است مقداری پول خرد به من بدی؟",
+    "en": "Could you give me some change?"
+  },
+  {
+    "id": 1309,
+    "fa": "من می خواهم یک تماس تلفنی راه دور بگیرم",
+    "en": "I wanna make a long-distance phone call"
+  },
+  {
+    "id": 1310,
+    "fa": "چه ماهی است؟",
+    "en": "What month is it?"
+  },
+  {
+    "id": 1311,
+    "fa": "آخر هفته گذشته چه کار کردی؟ رفتم مسافرت",
+    "en": "What did you do last weekend? I went on a trip"
+  },
+  {
+    "id": 1312,
+    "fa": "وای نه! چیزی گفتی که قرار نبود بگی",
+    "en": "Oh no! You said something that you were not supposed to say"
+  },
+  {
+    "id": 1313,
+    "fa": "هی, تازه رسیدم اینجا. می توانید مرا در جریان بزارید در رابطه با آنچه که اتفاق افتاد زمانیکه من دور بودم؟",
+    "en": "Hey, I just got here. Can you fill me in on what happened while I was away?"
+  },
+  {
+    "id": 1314,
+    "fa": "بفرمایید",
+    "en": "Here you go",
+    "desc": "\"There you go\" is used when providing something to someone who is at a distance from the speaker, while \"Here you go\" is used when giving something to someone who is in close proximity to the speaker. The choice between the two phrases depends on the physical location of the recipient relative to the speaker."
+  },
+  {
+    "id": 1315,
+    "fa": "من این فرصت را داشتم که در کنفرانس با مدیرعامل صحبت کنم",
+    "en": "I had a chance to speak with the CEO at the conference",
+    "desc": " \"Speak to\" implies a one-sided communication directed towards someone, while \"Speak with\" indicates a two-way conversation with mutual participation and interaction between the parties."
+  },
+  {
+    "id": 1316,
+    "fa": "صدای اگزوز ماشینم وقتی تو تونل دنده معکوس میدم",
+    "en": "The sound of my car's exhaust when I downshift in a tunnel"
+  },
+  {
+    "id": 1317,
+    "fa": "این قدر پررو نباش",
+    "en": "Don't be so cheeky"
+  },
+  {
+    "id": 1318,
+    "fa": "من هم مشتاقم که سوار دوچرخه ام شم (بپرم روش)",
+    "en": "I'm looking forward to hop on my bike too"
+  },
+  {
+    "id": 1319,
+    "fa": "بعد از مراسم، می توانید باقی مانده کیک را با خیال راحت به خانه ببرید",
+    "en": "After the event, you can take the leftover cake home safely"
+  },
+  {
+    "id": 1320,
+    "fa": "من اغلب در روزهای بارانی افسرده می شوم",
+    "en": "I often get depressed on rainy days"
+  },
+  {
+    "id": 1321,
+    "fa": "من اونو از 2010 می شناسم",
+    "en": "I've known him since 2010"
+  },
+  {
+    "id": 1322,
+    "fa": "چی قصد داری بهشون بگی؟",
+    "en": "What are you gonna tell them?"
+  },
+  {
+    "id": 1323,
+    "fa": "من عواقب آن را می پذیرم",
+    "en": "I accept the consequences"
+  },
+  {
+    "id": 1324,
+    "fa": "مراقب باش",
+    "en": "Take care"
+  },
+  {
+    "id": 1325,
+    "fa": "من می توانم به شما اطمینان دهم که این اتفاق نخواهد افتاد",
+    "en": "I can assure you that will not happen"
+  },
+  {
+    "id": 1326,
+    "fa": "من هنوز کارم را تمام نکردهم",
+    "en": "I haven't finished my work here"
+  },
+  {
+    "id": 1327,
+    "fa": "داری به من تهمت می زنی؟",
+    "en": "Are you accusing me?"
+  },
+  {
+    "id": 1328,
+    "fa": "وقتی بزرگ شدی میخواهی چی بشی؟",
+    "en": "What do you want to be when you grow up?"
+  },
+  {
+    "id": 1329,
+    "fa": "من بخاطر تو اینجا آمده ام",
+    "en": "I've come here for you"
+  },
+  {
+    "id": 1330,
+    "fa": "میدونستم برمیگردی",
+    "en": "I knew you would come back"
+  },
+  {
+    "id": 1331,
+    "fa": "بزار شفاف باشم",
+    "en": "Let me be clear"
+  },
+  {
+    "id": 1332,
+    "fa": "این ویدیو را تا آخر ببینید",
+    "en": "Watch this video till the end"
+  },
+  {
+    "id": 1333,
+    "fa": "دارم دیونه میشم",
+    "en": "I'm going crazy"
+  },
+  {
+    "id": 1334,
+    "fa": "می دونستم اینجوری میشه",
+    "en": "I saw this coming"
+  },
+  {
+    "id": 1335,
+    "fa": "اخیراً چت شده؟",
+    "en": "What's going on with you lately?"
+  },
+  {
+    "id": 1336,
+    "fa": "چه چیزی مهمتر از پول است؟",
+    "en": "What is more important than money?"
+  },
+  {
+    "id": 1337,
+    "fa": "اونجا برام یه کار جور کن",
+    "en": "Get me a job there"
+  },
+  {
+    "id": 1338,
+    "fa": "بذار ببینم چیکار میتونم بکنم",
+    "en": "Let me see what I can do"
+  },
+  {
+    "id": 1339,
+    "fa": "گوش های خود را بپوشانید",
+    "en": "Cover your ears"
+  },
+  {
+    "id": 1340,
+    "fa": "قول میدم ناامیدت نکنم",
+    "en": "I promise I won't disappoint you"
   }
 ]
