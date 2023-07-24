@@ -1400,11 +1400,6 @@
     "en": "Get a grip and stay focused"
   },
   {
-    "id": 1276,
-    "fa": "بگیرش",
-    "en": "Take it"
-  },
-  {
     "id": 1277,
     "fa": "اگر هرچیز مهمی در جلسه مطرح شد، بعداً به شما دربارش خواهم گفت",
     "en": "If anything important comes up during the meeting, I'll tell you about it later"
@@ -1728,5 +1723,10 @@
     "id": 1340,
     "fa": "قول میدم ناامیدت نخواهم کرد",
     "en": "I promise I won't disappoint you"
+  },
+  {
+    "id": 1341,
+    "fa": "بگیرش",
+    "en": "Take it"
   }
 ]
