@@ -848,7 +848,7 @@
   },
   {
     "id": 1168,
-    "fa": "قیمتها هر سال افزایش می یابد, اما امسال اونا با سرعت بیشتری نسبت به قبل داره افزایش می یابد",
+    "fa": "قیمتها هر سال افزایش می یابد, اما امسال اونا دارن با سرعت بیشتری نسبت به قبل داره افزایش می یابند",
     "en": "The prices rise every year, but this year they are rising more rapidly than before"
   },
   {
@@ -1219,7 +1219,7 @@
   {
     "id": 1241,
     "fa": "من جنب و جوش اینجا را دوست دارم. واقعا پر انرژی است",
-    "en": "I like the vibe here. It's really energetic"
+    "en": "I like the vibe here. It's really energetic (/ˌenərˈdʒetɪk/)"
   },
   {
     "id": 1242,
@@ -1417,7 +1417,7 @@
   {
     "id": 1279,
     "fa": "چه کوفتیه, چرا قطار داره به این سمت می ره؟ باید برعکس می رفت",
-    "en": "What the fuck, Why is the train going this way? It should have gone the other way around"
+    "en": "What the fuck, Why is train going this way? It should have gone the other way around"
   },
   {
     "id": 1280,
@@ -1449,11 +1449,11 @@
   {
     "id": 1285,
     "fa": "آیا می دانید اقیانوس در شب چقدر تاریک می شود؟",
-    "en": "Do you know how dark the ocean gets at night?"
+    "en": "Do you know how dark ocean gets at night?"
   },
   {
     "id": 1286,
-    "fa": "شما در حال حاضر دسترسی دارید",
+    "fa": "شما در حال حاضر دسترسی داری",
     "en": "You already have access"
   },
   {
@@ -1468,12 +1468,12 @@
   },
   {
     "id": 1289,
-    "fa": "جند وقته می خواستم بهت زنگ بزنم",
+    "fa": "چند وقته می خواستم بهت زنگ بزنم",
     "en": "I've been meaning to call you"
   },
   {
     "id": 1290,
-    "fa": "اوضاع چطوره؟",
+    "fa": "وضعیت چطوره؟",
     "en": "What's the situation like?"
   },
   {
@@ -1483,7 +1483,7 @@
   },
   {
     "id": 1292,
-    "fa": "مطمئن شو بررسی کنی آدرس و مشروعیت هر گیرنده را",
+    "fa": "مطمئن شو آدرس و مشروعیت هر گیرنده را چک کنی",
     "en": "Make sure to check the address and legitimacy of any recipient"
   },
   {
@@ -1498,7 +1498,7 @@
   },
   {
     "id": 1295,
-    "fa": "می توانید این شانس را بگیری",
+    "fa": "می توانید آن شانس را بگیری",
     "en": "You can take that chance"
   },
   {
@@ -1529,7 +1529,7 @@
   {
     "id": 1301,
     "fa": "چند بار در هفته ورزش می کنید؟",
-    "en": "How many students are there in your class?"
+    "en": "How many times a week do you exercise?"
   },
   {
     "id": 1302,
@@ -1544,7 +1544,7 @@
   },
   {
     "id": 1304,
-    "fa": "در فصل زمستان, ما تجربه کردیم یک طوفان برف شدید همراه با تگرگ و برفک",
+    "fa": "در طول زمستان, ما تجربه کردیم یک طوفان برف شدید همراه با تگرگ و برفک",
     "en": "During the winter, we experienced a severe snowstorm with hail and sleet"
   },
   {
@@ -1601,7 +1601,7 @@
   {
     "id": 1315,
     "fa": "من این فرصت را داشتم که در کنفرانس با مدیرعامل صحبت کنم",
-    "en": "I had a chance to speak with the CEO at the conference",
+    "en": "I had a chance to speak with the CEO at the conference (/ˈkɑːnfərəns/)",
     "desc": " \"Speak to\" implies a one-sided communication directed towards someone, while \"Speak with\" indicates a two-way conversation with mutual participation and interaction between the parties."
   },
   {
@@ -1651,12 +1651,12 @@
   },
   {
     "id": 1325,
-    "fa": "من می توانم به شما اطمینان دهم که این اتفاق نخواهد افتاد",
+    "fa": "من می توانم به شما اطمینان دهم آن اتفاق نخواهد افتاد",
     "en": "I can assure you that will not happen"
   },
   {
     "id": 1326,
-    "fa": "من هنوز کارم را تمام نکردهم",
+    "fa": "من هنوز کارم را اینجا تمام نکردم",
     "en": "I haven't finished my work here"
   },
   {
@@ -1676,7 +1676,7 @@
   },
   {
     "id": 1330,
-    "fa": "میدونستم برمیگردی",
+    "fa": "میدونستم برخواهی گشت",
     "en": "I knew you would come back"
   },
   {
@@ -1701,8 +1701,8 @@
   },
   {
     "id": 1335,
-    "fa": "اخیراً چت شده؟",
-    "en": "What's going on with you lately?"
+    "fa": "چگونه این اتفاق افتاد؟",
+    "en": "How did this happen?"
   },
   {
     "id": 1336,
@@ -1726,7 +1726,7 @@
   },
   {
     "id": 1340,
-    "fa": "قول میدم ناامیدت نکنم",
+    "fa": "قول میدم ناامیدت نخواهم کرد",
     "en": "I promise I won't disappoint you"
   }
 ]
