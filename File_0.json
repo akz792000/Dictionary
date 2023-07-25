@@ -177,7 +177,7 @@
   {
     "id": 36,
     "fa": "از اینجا برو بیرون",
-    "en": "Get out from here"
+    "en": "Get out of here"
   },
   {
     "id": 37,
@@ -1213,7 +1213,7 @@
   },
   {
     "id": 242,
-    "fa": "قطار قرار بود ساعت 9 بیاید اما تا ساعت 10 نیامد",
+    "fa": "قطار قرار بود ساعت 9 بیاید اما تا ساعت 10 نرسید",
     "en": "The train was due at 9, but it didn't get in until 10"
   },
   {
@@ -1375,8 +1375,8 @@
   },
   {
     "id": 274,
-    "fa": "ماشینم تو راه خراب شده و می خواستم بدانم که آیا به من بگویید کجا می تونم یک گاراژ پیدا کنم؟",
-    "en": "My car is broken down on the way and I wondered if you tell me where to find a garage?"
+    "fa": "ماشینم تو راه خراب شده و داشتم فکر می کردم اگر به من بگویید کجا می تونم یک گاراژ پیدا کنم؟",
+    "en": "My car is broken down on the way and I was wondering if you tell me where to find a garage?"
   },
   {
     "id": 275,
@@ -1516,7 +1516,7 @@
   },
   {
     "id": 302,
-    "fa": "برات جبرانش می کنم",
+    "fa": "برات جبرانش خواهم کرد",
     "en": "I'll make it up to you"
   },
   {
@@ -3106,7 +3106,7 @@
   },
   {
     "id": 618,
-    "fa": "با خودت چی غرغر میکنی؟",
+    "fa": "با خودت چی داری غرغر میکنی؟",
     "en": "What are you muttering to yourself?"
   },
   {
@@ -4895,8 +4895,7 @@
   {
     "id": 968,
     "fa": "اونجا چی داشتی؟",
-    "en": "What have you got there? (What do you have there?)",
-    "desc": "\"What do you have there?\": This phrase is the standard and more formal way of asking about something a person is holding. \"What have you got there?\": This phrase is more commonly used in informal contexts or in casual conversation"
+    "en": "What have you got there?"
   },
   {
     "id": 969,
@@ -4955,7 +4954,7 @@
   },
   {
     "id": 980,
-    "fa": "وقتی چیز ها سخت می شود، نفس عمیق بکشید و به اعصاب خود مسلط باشید. شما می توانید این کار را انجام دهید",
+    "fa": "وقتی چیز ها سخت میشه، نفس عمیق بکشید و به اعصاب خود مسلط باشید. شما می توانید این را انجام دهید",
     "en": "When things get tough, take a deep breath and get a grip. You can handle this"
   },
   {

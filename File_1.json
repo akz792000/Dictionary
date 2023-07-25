@@ -702,8 +702,8 @@
   },
   {
     "id": 1139,
-    "fa": "شیر خراب شده",
-    "en": "This milk is off (The milk has gone bad or spoiled)"
+    "fa": "شیر (خوردن) خرابه",
+    "en": "This milk is off"
   },
   {
     "id": 1140,
@@ -848,7 +848,7 @@
   },
   {
     "id": 1168,
-    "fa": "قیمتها هر سال افزایش می یابد, اما امسال اونا دارن با سرعت بیشتری نسبت به قبل داره افزایش می یابند",
+    "fa": "قیمتها هر سال افزایش می یابد, اما امسال اونا دارن با سرعت بیشتری نسبت به قبل افزایش می یابند",
     "en": "The prices rise every year, but this year they are rising more rapidly than before"
   },
   {
@@ -1412,7 +1412,7 @@
   {
     "id": 1279,
     "fa": "چه کوفتیه, چرا قطار داره به این سمت می ره؟ باید برعکس می رفت",
-    "en": "What the fuck, Why is train going this way? It should have gone the other way around"
+    "en": "What the fuck, why is train going this way? It should have gone the other way around"
   },
   {
     "id": 1280,
@@ -1559,7 +1559,7 @@
   },
   {
     "id": 1308,
-    "fa": "ممکن است مقداری پول خرد به من بدی؟",
+    "fa": "میتونی مقداری پول خرد به من بدی؟",
     "en": "Could you give me some change?"
   },
   {
