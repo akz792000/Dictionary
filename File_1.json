@@ -643,7 +643,8 @@
   {
     "id": 1127,
     "fa": "می تونستم سوت را از دور بشنوم",
-    "en": "I could hear the whistle from a distance"
+    "en": "I could hear the whistle from a distance",
+    "desc": "In this sentence, the word \"a\" is used before \"distance\" to indicate an indefinite distance. It means that the whistle sound was audible from some unspecified distance away. \"A distance\" is a more natural way to express this idea in English."
   },
   {
     "id": 1128,
@@ -1051,7 +1052,7 @@
   },
   {
     "id": 1208,
-    "fa": "آیا دوست دارید مقداری مواد اضافی روی پیتزای خود؟",
+    "fa": "آیا دوست دارید (مودبانه) مقداری مواد اضافی روی پیتزای خود؟",
     "en": "Would you like some extra ingredients on your pizza?"
   },
   {
@@ -1122,7 +1123,7 @@
   },
   {
     "id": 1222,
-    "fa": "من گلدان را در یک جعبه محکم برای شما قرار خواهم داد تا بتوانید آن را با خیال راحت به خانه برسانید",
+    "fa": "من گلدان را در یک جعبه محکم برای شما قرار خواهم داد تا بتوانید آن را بدون خطر به خانه برسانید",
     "en": "I'll put the vase in a sturdy box for you so you can get it home safely"
   },
   {
@@ -1244,7 +1245,7 @@
   {
     "id": 1246,
     "fa": "او (مرد) اصرار داشت که ما شما را با این همه تجهیزات پیشرفته تجهیز کنیم",
-    "en": "He insisted that we set you up with all this state-of-the-art equipment"
+    "en": "He insisted that we set you up with all this state-of-the-art equipments"
   },
   {
     "id": 1247,
@@ -1392,7 +1393,7 @@
     "id": 1275,
     "fa": "آنها خیلی خوبن برای معاشرت کردن",
     "en": "They are very nice to be around",
-    "desc": "It is a statement that describes the individuals referred to as being pleasant or enjoyable to spend time with"
+    "desc": "\"They are very nice to be around\": This sentence indicates that the people in question are generally pleasant to be near or to spend time with in various situations. It has a broader and more general sense of being comfortable and enjoyable in their presence.\n\n\"They are very nice to hang out\": This sentence is more specific and casual. \"Hang out\" is an informal term that means spending relaxed and casual time together. So, this sentence suggests that the people are not only pleasant in general but also great to spend leisure time with in a relaxed setting."
   },
   {
     "id": 1276,
@@ -1597,11 +1598,11 @@
     "id": 1315,
     "fa": "من این فرصت را داشتم که در کنفرانس با مدیرعامل صحبت کنم",
     "en": "I had a chance to speak with the CEO at the conference (/ˈkɑːnfərəns/)",
-    "desc": " \"Speak to\" implies a one-sided communication directed towards someone, while \"Speak with\" indicates a two-way conversation with mutual participation and interaction between the parties."
+    "desc": " \"Speak to\" implies a one-sided communication directed towards someone, while \"Speak with\" indicates a two-way conversation with mutual participation and interaction between the parties. \n In general, \"speak\" is more formal and can refer to the act of communicating in any context, while \"talk\" is more casual and often implies a conversation or informal exchange of informatio"
   },
   {
     "id": 1316,
-    "fa": "صدای اگزوز ماشینم وقتی تو تونل دنده معکوس میدم",
+    "fa": "صدای اگزوز ماشینم وقتی داخل تونل دنده معکوس میدم",
     "en": "The sound of my car's exhaust when I downshift in a tunnel"
   },
   {
@@ -1611,12 +1612,12 @@
   },
   {
     "id": 1318,
-    "fa": "من هم مشتاقم که سوار دوچرخه ام شم (بپرم روش)",
-    "en": "I'm looking forward to hop on my bike too"
+    "fa": "من مشتاقانه منتظرم که سوار دوچرخه ام شم (بپرم روش)",
+    "en": "I'm looking forward to hopping on my bike too"
   },
   {
     "id": 1319,
-    "fa": "بعد از مراسم، می توانید باقی مانده کیک را با خیال راحت به خانه ببرید",
+    "fa": "بعد از مراسم، می توانید باقی مانده کیک را بدون خطر به خانه ببرید",
     "en": "After the event, you can take the leftover cake home safely"
   },
   {
@@ -1626,7 +1627,7 @@
   },
   {
     "id": 1321,
-    "fa": "من اونو از 2010 می شناسم",
+    "fa": "من اونو (مرد) از 2010 می شناسم",
     "en": "I've known him since 2010"
   },
   {
@@ -1666,7 +1667,7 @@
   },
   {
     "id": 1329,
-    "fa": "من بخاطر تو اینجا آمده ام",
+    "fa": "من برای تو اینجا آمدم",
     "en": "I've come here for you"
   },
   {
