@@ -297,7 +297,7 @@
   },
   {
     "id": 1059,
-    "fa": "من  قراره دو ساعت منتظر باشم تا آن زمان که او (مرد) بیاید",
+    "fa": "من قراره دو ساعت منتظر باشم تا آن زمان که او (مرد) بیاید",
     "en": "I will have been waiting for two hours by the time he arrives",
     "desc": "Future Perfect Continuous tense combines continuity and completion in the future"
   },
@@ -430,7 +430,7 @@
   },
   {
     "id": 1085,
-    "fa": "هر چه بادا باد, من تلاش خواهم کرد",
+    "fa": "هر چه باداباد, من تلاش خواهم کرد",
     "en": "Come what may, I will try it"
   },
   {
@@ -593,7 +593,7 @@
   {
     "id": 1117,
     "fa": "بایستی راهی وجود داشته باشد",
-    "en": "There has to be a way"
+    "en": "There must be a way"
   },
   {
     "id": 1118,
@@ -1067,7 +1067,7 @@
   },
   {
     "id": 1211,
-    "fa": "راننده حدود 40 دقیقه دیگر آنجا خواهد بود",
+    "fa": "راننده آنجا خواهد بود در حدود 40 دقیقه دیگر",
     "en": "The driver will be there in about 40 minutes"
   },
   {
@@ -1093,7 +1093,7 @@
   },
   {
     "id": 1216,
-    "fa": "میتونی لطفا به من بگید حق عضویت این باشگاه چقدره؟",
+    "fa": "میتونی لطفاً به من بگید حق عضویت این باشگاه چقدره؟",
     "en": "Can you please tell me how much the membership fee at this gym is?"
   },
   {
@@ -1244,8 +1244,8 @@
   },
   {
     "id": 1246,
-    "fa": "او (مرد) اصرار داشت که ما شما را با این همه تجهیزات پیشرفته تجهیز کنیم",
-    "en": "He insisted that we set you up with all this state-of-the-art equipments"
+    "fa": "او (مرد) اصرار داشت که ما شما را با همه تجهیزات پیشرفته تجهیز کنیم",
+    "en": "He insisted that we set you up with all state-of-the-art equipments"
   },
   {
     "id": 1247,
@@ -1259,7 +1259,7 @@
   },
   {
     "id": 1249,
-    "fa": "ما فرصتی برای آشنایی بهتر با یکدیگر بدست خواهیم آورد",
+    "fa": "ما یک فرصتی بدست خواهیم آورد برای آشنایی بهتر با یکدیگر ",
     "en": "We'll get a chance to get better acquainted with each other"
   },
   {
@@ -1376,7 +1376,7 @@
   },
   {
     "id": 1272,
-    "fa": "تقریباً تمام شده است",
+    "fa": "تقریباً تمام است",
     "en": "It's almost finished"
   },
   {
@@ -1413,7 +1413,7 @@
   {
     "id": 1279,
     "fa": "چه کوفتیه, چرا قطار داره به این سمت می ره؟ باید برعکس می رفت",
-    "en": "What the fuck, why is train going this way? It should have gone the other way around"
+    "en": "What the fuck, why train is going this way? It should have gone the other way around"
   },
   {
     "id": 1280,
@@ -1529,14 +1529,13 @@
   },
   {
     "id": 1302,
-    "fa": "دماسنج نشان داد افت دما را هنگام صبح مه آلود قبل از رسیدن رعد و برق",
-    "en": "The thermometer showed a drop in temperature during the hazy morning before the thunderstorm arrived"
+    "fa": "دماسنج نشان داد افت دما را هنگام صبح مه آلود",
+    "en": "The thermometer showed a drop in temperature during the hazy morning"
   },
   {
     "id": 1303,
-    "fa": "صبح مه و دود آلود به روزی گرم و مرطوب با نم نم باران تبدیل شد",
-    "en": "The foggy and smoggy morning turned into a muggy day with a drizzle of rain",
-    "desc": " \"foggy\" describes a weather condition with dense moisture in the air, leading to reduced visibility, while \"smoggy\" refers to an air pollution situation where smoke and fog combine to create a haze of harmful particles and gases in urban areas."
+    "fa": "صبح مه آلود به روزی گرم و مرطوب با نم نم باران تبدیل شد",
+    "en": "The foggy morning turned into a muggy day with a drizzle of rain"
   },
   {
     "id": 1304,
@@ -1596,14 +1595,14 @@
   },
   {
     "id": 1315,
-    "fa": "من این فرصت را داشتم که در کنفرانس با مدیرعامل صحبت کنم",
+    "fa": "من یک فرصت را داشتم که در کنفرانس با مدیرعامل صحبت کنم",
     "en": "I had a chance to speak with the CEO at the conference (/ˈkɑːnfərəns/)",
     "desc": " \"Speak to\" implies a one-sided communication directed towards someone, while \"Speak with\" indicates a two-way conversation with mutual participation and interaction between the parties. \n In general, \"speak\" is more formal and can refer to the act of communicating in any context, while \"talk\" is more casual and often implies a conversation or informal exchange of informatio"
   },
   {
     "id": 1316,
-    "fa": "صدای اگزوز ماشینم وقتی داخل تونل دنده معکوس میدم",
-    "en": "The sound of my car's exhaust when I downshift in a tunnel"
+    "fa": "این صدای اگزوز ماشینم است وقتی داخل تونل دنده معکوس میدم",
+    "en": "This is the sound of my car's exhaust when I downshift in a tunnel"
   },
   {
     "id": 1317,
@@ -1612,7 +1611,7 @@
   },
   {
     "id": 1318,
-    "fa": "من مشتاقانه منتظرم که سوار دوچرخه ام شم (بپرم روش)",
+    "fa": "من منتظرم که سوار دوچرخه ام شم (بپرم روش)",
     "en": "I'm looking forward to hopping on my bike too"
   },
   {
