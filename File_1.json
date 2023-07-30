@@ -977,8 +977,8 @@
   },
   {
     "id": 1193,
-    "fa": "من اینجا گیر کردم",
-    "en": "I'm stuck here"
+    "fa": "من در کمد گیر کردم",
+    "en": "I'm stuck in the closet"
   },
   {
     "id": 1194,
@@ -1728,5 +1728,552 @@
     "id": 1341,
     "fa": "بگیرش",
     "en": "Take it"
+  },
+  {
+    "id": 1342,
+    "fa": "بوی بدی می ده، نمیده",
+    "en": "It smells bad, doesn't it"
+  },
+  {
+    "id": 1343,
+    "fa": "تقصیر ما بود",
+    "en": "It was our fault"
+  },
+  {
+    "id": 1344,
+    "fa": "با اینکه گم شده بودم، به نوعی, راه برگشت به خانه را پیدا کردم",
+    "en": "Even though I was lost, somehow, I found my way back home"
+  },
+  {
+    "id": 1345,
+    "fa": "می دانم که می گویند پول خوشبختی نمی آورد. اما اگر پول داشتم خوشحال می شدم",
+    "en": "I know that they say money doesn't bring happiness. But if I had money I would be happy"
+  },
+  {
+    "id": 1346,
+    "fa": "اصلاً شد سوشی بخوری زمانیکه در فرانسه بودی؟",
+    "en": "Did you ever eat sushi while you were in France?"
+  },
+  {
+    "id": 1347,
+    "fa": "به ما اجازه نده عجلت بندازن",
+    "en": "Don't let us rush you"
+  },
+  {
+    "id": 1348,
+    "fa": "تعمیر قفسه شکسته امکان پذیر است",
+    "en": "Fixing the broken shelf is doable"
+  },
+  {
+    "id": 1349,
+    "fa": "او (مرد) تصمیم گرفت با قاطعیت وظیفه دشوار را رسیدگی کند",
+    "en": "He decided to tackle the difficult task with determination"
+  },
+  {
+    "id": 1350,
+    "fa": "من از آن آگاه هستم",
+    "en": "I'm aware of it"
+  },
+  {
+    "id": 1351,
+    "fa": "کی دوباره هوا سرد میشه؟",
+    "en": "When does the weather get cold again?"
+  },
+  {
+    "id": 1352,
+    "fa": "آنها به طور آزمایشی موافقت کردند هفته آینده برای قهوه با هم ملاقات کنند",
+    "en": "They tentatively agreed to meet up for coffee next week"
+  },
+  {
+    "id": 1353,
+    "fa": "او (زن) به نوعی همیشه در دسترس است",
+    "en": "She is somehow always available"
+  },
+  {
+    "id": 1354,
+    "fa": "هدف کلی این پروژه بهبود شیوه های پایداری در شرکت است",
+    "en": "The overarching goal of this project is to improve sustainability practices within the company"
+  },
+  {
+    "id": 1355,
+    "fa": "قطع برق باعث اضافه بار در ژنراتور پشتیبان شد",
+    "en": "The power outage caused an overload on the backup generator"
+  },
+  {
+    "id": 1356,
+    "fa": "شده با یک آقای بری بیرون دوستاتت همگی دوست داشته باشن؟ ",
+    "en": "Did you ever go out with a guy your friends all really like?"
+  },
+  {
+    "id": 1357,
+    "fa": "من یک فنجان قهوه می خواهم",
+    "en": "I wanna cup of coffee",
+    "desc": "I want a cup of coffee"
+  },
+  {
+    "id": 1358,
+    "fa": "هر کسی را که می شناسم دارن یا ازدواج می کنند یا ترفیع می گیرند",
+    "en": "Everyone I know is either getting married or getting promoted"
+  },
+  {
+    "id": 1359,
+    "fa": "بزن بریم",
+    "en": "Here we go"
+  },
+  {
+    "id": 1360,
+    "fa": "با لباس زیر نمیتونم بخوابم خوب، تو مجبوری",
+    "en": "I can't sleep in my underwear. Well, your gonna"
+  },
+  {
+    "id": 1361,
+    "fa": "من یبوست دارم",
+    "en": "I'm constipated"
+  },
+  {
+    "id": 1362,
+    "fa": "چرا نمی توانی همه اینها را در یک پیام تایپ کنید؟",
+    "en": "Why can't you type all this in one message?"
+  },
+  {
+    "id": 1363,
+    "fa": "فکر میکنی امکان داشته باشد اگر من ۱۰۰ $ از حقوقم رو جلوتر بگیرم",
+    "en": "Do you think it would be possible if I got 100$ advance on my salary?"
+  },
+  {
+    "id": 1364,
+    "fa": "آتش در جنگل پیشروی کرد",
+    "en": "The fire advanced through the forest"
+  },
+  {
+    "id": 1365,
+    "fa": "چی میشه اگر یکی از ما بخواد اسباب کشی کنی؟",
+    "en": "What if one of us wants to move out?"
+  },
+  {
+    "id": 1366,
+    "fa": "تو به من میگی اگر بخوای اسباب کشی کنی",
+    "en": "You'd tell me if you were moving out"
+  },
+  {
+    "id": 1367,
+    "fa": "حول نشو",
+    "en": "Don't panic"
+  },
+  {
+    "id": 1368,
+    "fa": "او منو غافلگیرم کرد اما یک شکست کامل نبود",
+    "en": "She took me by surprise but it wasn't a total loss"
+  },
+  {
+    "id": 1369,
+    "fa": "بسیاری از مردم ازدواج شاد داشتند اما در نهایت طلاق گرفتند",
+    "en": "A lot of people had a happy marriage but they ended up getting divorced"
+  },
+  {
+    "id": 1370,
+    "fa": "من نباید اون کیک رو میخوردم",
+    "en": "I shouldn't have eaten that cake"
+  },
+  {
+    "id": 1371,
+    "fa": "من برای محافظت از فرش ماشینم کفپوش ماشین جدید خریدم",
+    "en": "I bought new car floor mats to protect the carpet in my vehicle"
+  },
+  {
+    "id": 1372,
+    "fa": "من یک روکش صندلی ماشین جدید خریدم تا صندلی های چرمی خود را از ریختنی ها و لکه ها محافظت کند",
+    "en": "I bought a new car seat cover to protect my leather seats from spills and stains"
+  },
+  {
+    "id": 1373,
+    "fa": "من امروز قراره از خانه کار کنم، بچه ام حالش خوب نیست و در خانه خواهد ماند",
+    "en": "I'll be working from home today, my kid doesn't feel well and will stay home"
+  },
+  {
+    "id": 1374,
+    "fa": "چند روز پیش، کتابی که به دنبال آن بودم رو پیدا کردم",
+    "en": "The other day, I found a book I had been searching for"
+  },
+  {
+    "id": 1375,
+    "fa": "لطفاً تسلیت مرا بپذیر",
+    "en": "Please accept my condolences (/kənˈdoʊləns/)"
+  },
+  {
+    "id": 1376,
+    "fa": "هنوز بیداری؟",
+    "en": "Are you still up?"
+  },
+  {
+    "id": 1377,
+    "fa": "خوابم میاد",
+    "en": "I feel sleepy"
+  },
+  {
+    "id": 1378,
+    "fa": "چقدر احتمال برای انتخاب مجدد او وجود دارد؟",
+    "en": "What are the odds on him being re-elected?"
+  },
+  {
+    "id": 1379,
+    "fa": "بعید است که آنها به موقع برسند",
+    "en": "It's unlikely that they'll arrive on time"
+  },
+  {
+    "id": 1380,
+    "fa": "بعید است او (مرد) قبل از ناهار بیاید",
+    "en": "He's unlikely to arrive before lunchtime"
+  },
+  {
+    "id": 1381,
+    "fa": "سر من فریاد نزن",
+    "en": "Don't yell at me"
+  },
+  {
+    "id": 1382,
+    "fa": "منو نپیچون",
+    "en": "Don't ditch me"
+  },
+  {
+    "id": 1383,
+    "fa": "من عرق کردم",
+    "en": "I'm sweaty"
+  },
+  {
+    "id": 1384,
+    "fa": "بهم بی احترامی نکن",
+    "en": "Don't diss me"
+  },
+  {
+    "id": 1385,
+    "fa": "من تا گردن کار دارم",
+    "en": "I'm up to my neck in work"
+  },
+  {
+    "id": 1386,
+    "fa": "من پایه ام",
+    "en": "I'm game"
+  },
+  {
+    "id": 1387,
+    "fa": "بذار کمکت کنم",
+    "en": "Let me give you a hand"
+  },
+  {
+    "id": 1388,
+    "fa": "از من دلخوری؟",
+    "en": "Are you cross with me?"
+  },
+  {
+    "id": 1389,
+    "fa": "شما خوشگل به نظر می رسی",
+    "en": "You look gorgeous"
+  },
+  {
+    "id": 1390,
+    "fa": "ادبت کجاست؟",
+    "en": "Where are your manners?"
+  },
+  {
+    "id": 1391,
+    "fa": "درست رفتار کن",
+    "en": "Behave yourself"
+  },
+  {
+    "id": 1392,
+    "fa": "مناسب سنت رفتار کن",
+    "en": "Act your age"
+  },
+  {
+    "id": 1393,
+    "fa": "عطر میزنی؟",
+    "en": "Are you wearing perfume?"
+  },
+  {
+    "id": 1394,
+    "fa": "من زیر سرم بودم",
+    "en": "I was on a drip"
+  },
+  {
+    "id": 1395,
+    "fa": "قوز نکن, صاف بشین",
+    "en": "Don't slouch, sit up straight"
+  },
+  {
+    "id": 1396,
+    "fa": "موهام داره میریزه",
+    "en": "My hair is falling out"
+  },
+  {
+    "id": 1397,
+    "fa": "من دارم کچل میشم",
+    "en": "I'm going bald"
+  },
+  {
+    "id": 1398,
+    "fa": "بینیم گرفته",
+    "en": "My nose is blocked up"
+  },
+  {
+    "id": 1399,
+    "fa": "هوا خیلی سرد است، من دارم می لرزم",
+    "en": "It's so cold out there, I'm shivering"
+  },
+  {
+    "id": 1400,
+    "fa": "هر روز تا کی کار می کنی؟",
+    "en": "How late do you work everyday?"
+  },
+  {
+    "id": 1401,
+    "fa": "گاهی اوقات چیزها آنطور که فکر می کردید پیش نمی رود",
+    "en": "Sometimes things don't work out the way you thought they would"
+  },
+  {
+    "id": 1402,
+    "fa": "به کی شکایت کردی؟",
+    "en": "To whom did you complain?"
+  },
+  {
+    "id": 1403,
+    "fa": "این باید واقعا خوب و لطیف باشد",
+    "en": "That's got to be really good and tender",
+    "desc": "\"That's\" is a contraction of \"That is,\" serving as the subject of the sentence.\n\"got to be\" is an informal way of expressing strong belief or certainty about something. It means \"must be\" or \"has to be.\""
+  },
+  {
+    "id": 1404,
+    "fa": "می تونیم از نو شروع کنیم؟",
+    "en": "Can we start over?"
+  },
+  {
+    "id": 1405,
+    "fa": "امشب میبرمش (زن) بیرون",
+    "en": "I'm taking her out tonight"
+  },
+  {
+    "id": 1406,
+    "fa": "من کلاً قیدش رو زدم",
+    "en": "I'm totally over her"
+  },
+  {
+    "id": 1407,
+    "fa": "صدات رو بیار پایین",
+    "en": "Lower your voice"
+  },
+  {
+    "id": 1408,
+    "fa": "اشتباهت چه بود؟",
+    "en": "What was your mistake?"
+  },
+  {
+    "id": 1409,
+    "fa": "من زندگیم را مدیونت هستم",
+    "en": "I owe you my life"
+  },
+  {
+    "id": 1410,
+    "fa": "ما باید این را خیلی جدی بگیریم",
+    "en": "We should take this very seriously"
+  },
+  {
+    "id": 1411,
+    "fa": "به نظر شما چه کسی امروز بازی را خواهد برد؟",
+    "en": "Who do you think will win the match today?"
+  },
+  {
+    "id": 1412,
+    "fa": "من هیچ دردسری نمی خواهم",
+    "en": "I don't want any trouble"
+  },
+  {
+    "id": 1413,
+    "fa": "با چشمان خودم دیدم",
+    "en": "I saw it with my own eyes"
+  },
+  {
+    "id": 1414,
+    "fa": "به کار خوب ادامه بده",
+    "en": "Keep up the good work"
+  },
+  {
+    "id": 1415,
+    "fa": "چرا مدام این سوال را از من می پرسی؟",
+    "en": "Why do you keep asking me this question?"
+  },
+  {
+    "id": 1416,
+    "fa": "من حلش میکنم",
+    "en": "I'll figure it out"
+  },
+  {
+    "id": 1417,
+    "fa": "قسم می خورم که چیزی نمی دانم",
+    "en": "I swear I don't know anything"
+  },
+  {
+    "id": 1418,
+    "fa": "نه تا جایی که یادم میاد",
+    "en": "Not as far as I remember"
+  },
+  {
+    "id": 1419,
+    "fa": "تقصیر کسی نیست",
+    "en": "It's no one's fault"
+  },
+  {
+    "id": 1420,
+    "fa": "شبیه نمک است. اما نیست",
+    "en": "It looks like salt. But it isn't"
+  },
+  {
+    "id": 1421,
+    "fa": "هیچ چیز کامل نیست",
+    "en": "Nothing's perfect"
+  },
+  {
+    "id": 1422,
+    "fa": "کی از بچه هات مراقبت میکنه وقتی سر کار هستی",
+    "en": "Who looks after your children while you're at work?"
+  },
+  {
+    "id": 1423,
+    "fa": "هر چه در ذهنت هست بگو",
+    "en": "Say whatever is on your mind"
+  },
+  {
+    "id": 1424,
+    "fa": "گفتم اونجا نرو",
+    "en": "I told you not to go there"
+  },
+  {
+    "id": 1425,
+    "fa": "اسم دوست داشتنی است",
+    "en": "It's a lovely name"
+  },
+  {
+    "id": 1426,
+    "fa": "من سالهاست که این کار را انجام می دهم",
+    "en": "I've been doing this for years"
+  },
+  {
+    "id": 1427,
+    "fa": "گاییدمش",
+    "en": "Screw it"
+  },
+  {
+    "id": 1428,
+    "fa": "چه جور مادری هستی؟",
+    "en": "What kind of mother are you?"
+  },
+  {
+    "id": 1429,
+    "fa": "من براش (مرد) هر کاری می کنم",
+    "en": "I'll do anything for him"
+  },
+  {
+    "id": 1430,
+    "fa": "شایعات را شنیدم",
+    "en": "I heard the rumors"
+  },
+  {
+    "id": 1431,
+    "fa": "اولش باور نکردم",
+    "en": "I didn't believe it at first"
+  },
+  {
+    "id": 1432,
+    "fa": "زنی که داشتی باهاش حرف میزدی کی بود؟",
+    "en": "Who was the woman you were talking to?"
+  },
+  {
+    "id": 1433,
+    "fa": "من از آن مردم متنفرم",
+    "en": "I hate those people"
+  },
+  {
+    "id": 1434,
+    "fa": "بعدا سر می زنم",
+    "en": "I'll stop by later"
+  },
+  {
+    "id": 1435,
+    "fa": "من اصلاً سرگرم نشدم",
+    "en": "I was not amused at all"
+  },
+  {
+    "id": 1436,
+    "fa": "میتونیم الان ولش کنیم",
+    "en": "Can we drop it now?"
+  },
+  {
+    "id": 1437,
+    "fa": "پسرم داره دنیا می آید و من باید آنجا باشم",
+    "en": "My son is being born and I should be in there"
+  },
+  {
+    "id": 1438,
+    "fa": "همسرم الان داره زایمان میکنه",
+    "en": "My wife's giving birth right now"
+  },
+  {
+    "id": 1439,
+    "fa": "من عصبانی نبودم. منم نبودم",
+    "en": "I wasn't angry. Neither was I"
+  },
+  {
+    "id": 1440,
+    "fa": "من در لندن زندگی نمی کنم. منم زندگی نمی کنم",
+    "en": "I don't live in London. Neither do I"
+  },
+  {
+    "id": 1441,
+    "fa": "من پاریس نبودم. منم نبودم",
+    "en": "I haven't been to paris. Neither have I"
+  },
+  {
+    "id": 1442,
+    "fa": "من چیزی نخواهم گفت. منم نخواهم گفت",
+    "en": "I wouldn't say anything. Neither would I"
+  },
+  {
+    "id": 1443,
+    "fa": "کدام یک را ترجیح میدی؟ آیا دوست داری بخوابید با نور کم یا نور روشن یا در تاریکی",
+    "en": "Which one do you prefer? Do you like to sleep with the dim light or bright light or in darkness"
+  },
+  {
+    "id": 1444,
+    "fa": "به من اطلاع دهید در نظرات زیر",
+    "en": "Let me know in the comments below"
+  },
+  {
+    "id": 1445,
+    "fa": "تو همسن من هستی",
+    "en": "You're my age"
+  },
+  {
+    "id": 1446,
+    "fa": "داری چند ساله میشی؟ من دارم ۲۸ ساله میشم",
+    "en": "How old are you turning? I'm turning 28"
+  },
+  {
+    "id": 1447,
+    "fa": "قصد فضولی ندارم",
+    "en": "I don't mean to pry"
+  },
+  {
+    "id": 1448,
+    "fa": "اینقدر فضول نباش",
+    "en": "Don't be so nosy"
+  },
+  {
+    "id": 1449,
+    "fa": "من گفتم نپر جلو همه تو صف دارن انتظار میکشند",
+    "en": "I said no skipping everyone's waiting in line"
+  },
+  {
+    "id": 1450,
+    "fa": "من از قبل سفارش دادم الان اومدم تحویل بگیرم",
+    "en": "I pre ordered I just came to pick it up"
   }
 ]
