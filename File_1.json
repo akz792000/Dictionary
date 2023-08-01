@@ -532,7 +532,7 @@
   },
   {
     "id": 1105,
-    "fa": "خیلی به هم میاییم! شخصیت ها و علایق ما کاملاً با هم هماهنگ هستند",
+    "fa": "خیلی به هم میاییم! شخصیت ها و علایق ما به طور عالی با هم هماهنگ هستند",
     "en": "We're a perfect match! Our personalities and interests align perfectly"
   },
   {
@@ -688,7 +688,7 @@
   },
   {
     "id": 1136,
-    "fa": "میتونی کمکم کنی برای بلندش کنم؟",
+    "fa": "میتونی کمکم کنی بلندش کنم؟",
     "en": "Can you help me to lift it?"
   },
   {
@@ -1802,8 +1802,8 @@
   },
   {
     "id": 1356,
-    "fa": "شده با یک آقای بری بیرون دوستاتت همگی دوست داشته باشن؟ ",
-    "en": "Did you ever go out with a guy your friends all really like?"
+    "fa": "شده با یک آقای بری بیرون؟",
+    "en": "Did you ever go out with a guy?"
   },
   {
     "id": 1357,
@@ -1853,7 +1853,7 @@
   },
   {
     "id": 1366,
-    "fa": "تو به من میگی اگر بخوای اسباب کشی کنی",
+    "fa": "تو به من میگفتی اگر داشتی خارج میشدی",
     "en": "You'd tell me if you were moving out"
   },
   {
@@ -1863,7 +1863,7 @@
   },
   {
     "id": 1368,
-    "fa": "او منو غافلگیرم کرد اما یک شکست کامل نبود",
+    "fa": "او (زن) منو غافلگیرم کرد اما یک شکست کامل نبود",
     "en": "She took me by surprise but it wasn't a total loss"
   },
   {
@@ -2039,9 +2039,9 @@
   },
   {
     "id": 1403,
-    "fa": "آن باید واقعا خوب و لطیف باشد",
-    "en": "That's got to be really good and tender",
-    "desc": "\"That's\" is a contraction of \"That is,\" serving as the subject of the sentence.\n\"got to be\" is an informal way of expressing strong belief or certainty about something. It means \"must be\" or \"has to be.\""
+    "fa": "با تمام نظرات مثبت، غذای آن رستوران باید (با تاکید) واقعاً خوب باشد",
+    "en": "With all the positive reviews, that restaurant's food has got to be really good",
+    "desc": "The use of \"got to be\" conveys a sense of confidence and assurance, suggesting that there is no doubt about the quality or goodness of the thing in question"
   },
   {
     "id": 1404,
