@@ -93,7 +93,7 @@
   },
   {
     "id": 1019,
-    "fa": "اصلاً نه!",
+    "fa": "اصلا و ابدا!",
     "en": "Hell no!"
   },
   {
@@ -446,7 +446,7 @@
   },
   {
     "id": 1088,
-    "fa": "شما میتونی در موردش اشتباه کنی",
+    "fa": "شما میتونی (مودبانه) در موردش اشتباه کنی",
     "en": "You could be wrong about it"
   },
   {
@@ -688,7 +688,7 @@
   },
   {
     "id": 1136,
-    "fa": "میتونی کمکم کنی بلندش کنم؟",
+    "fa": "میتونی کمکم کنی برای بلندش کنم؟",
     "en": "Can you help me to lift it?"
   },
   {
@@ -769,7 +769,7 @@
   },
   {
     "id": 1152,
-    "fa": "میتونی به من یادآوری کنید که به خانه زنگ بزنم؟",
+    "fa": "میتونی (مودبانه) به من یادآوری کنید که به خانه زنگ بزنم؟",
     "en": "Could you remind me to call home?"
   },
   {
@@ -779,8 +779,9 @@
   },
   {
     "id": 1154,
-    "fa": "من نمی توانم به مراسم امشب برسم. قابل درکه (منطقی است). شاید دفعه بعد",
-    "en": "I can't make it to the event tonight. Fair enough. Maybe next time"
+    "fa": "من نمی توانم برسونم به مراسم امشب. قابل درکه (منطقی است). شاید دفعه بعد",
+    "en": "I can't make it to the event tonight. Fair enough. Maybe next time",
+    "desc": "\"I can't get to the event tonight\":\n\nIn this phrase, the emphasis is on the physical act of reaching or arriving at the event. It suggests that there might be some obstacles preventing the speaker from physically attending the event.\n\n\"I can't make it to the event tonight\":\n\nIn this phrase, the emphasis is on the ability or possibility of attending the event. It suggests that the speaker is unable to attend, regardless of the reasons. It could be due to conflicting schedules, prior commitments, or other reasons preventing them from being there."
   },
   {
     "id": 1155,
@@ -1224,7 +1225,7 @@
   },
   {
     "id": 1242,
-    "fa": "من واقعاً احساس خوشبختی می کنم که اینجا هستم",
+    "fa": "من واقعاً احساس خوشبختی می کنم برای اینجا بودن",
     "en": "I feel really blessed to be here"
   },
   {
@@ -1559,7 +1560,7 @@
   },
   {
     "id": 1308,
-    "fa": "میتونی مقداری پول خرد به من بدی؟",
+    "fa": "میتونی (مودبانه) مقداری پول خرد به من بدی؟",
     "en": "Could you give me some change?"
   },
   {
@@ -1746,7 +1747,7 @@
   },
   {
     "id": 1345,
-    "fa": "می دانم که می گویند پول خوشبختی نمی آورد. اما اگر پول داشتم خوشحال می شدم",
+    "fa": "می دانم که آنها می گویند پول خوشبختی نمی آورد. اما اگر پول داشتم خوشحال می شدم",
     "en": "I know that they say money doesn't bring happiness. But if I had money I would be happy"
   },
   {
@@ -1756,7 +1757,7 @@
   },
   {
     "id": 1347,
-    "fa": "به ما اجازه نده عجلت بندازن",
+    "fa": "به ما اجازه نده عجلت بندازیم",
     "en": "Don't let us rush you"
   },
   {
@@ -1857,7 +1858,7 @@
   },
   {
     "id": 1367,
-    "fa": "حول نشو",
+    "fa": "وحشت نکن",
     "en": "Don't panic"
   },
   {
@@ -1912,7 +1913,7 @@
   },
   {
     "id": 1378,
-    "fa": "چقدر احتمال برای انتخاب مجدد او وجود دارد؟",
+    "fa": "چقدر احتمال برای انتخاب مجدد او (مرد) وجود دارد؟",
     "en": "What are the odds on him being re-elected?"
   },
   {
@@ -1947,7 +1948,7 @@
   },
   {
     "id": 1385,
-    "fa": "من تا گردن کار دارم",
+    "fa": "من تا گردن تو کار هستم",
     "en": "I'm up to my neck in work"
   },
   {
@@ -2003,7 +2004,8 @@
   {
     "id": 1396,
     "fa": "موهام داره میریزه",
-    "en": "My hair is falling out"
+    "en": "My hair is falling out",
+    "desc": "In English, when referring to the strands of hair on your head collectively, we use \"hair\" as an uncountable noun. Therefore, it does not take the plural form \"hairs.\""
   },
   {
     "id": 1397,
@@ -2017,7 +2019,7 @@
   },
   {
     "id": 1399,
-    "fa": "هوا خیلی سرد است، من دارم می لرزم",
+    "fa": "بیرون اونجا خیلی سرد است، من دارم می لرزم",
     "en": "It's so cold out there, I'm shivering"
   },
   {
@@ -2037,7 +2039,7 @@
   },
   {
     "id": 1403,
-    "fa": "این باید واقعا خوب و لطیف باشد",
+    "fa": "آن باید واقعا خوب و لطیف باشد",
     "en": "That's got to be really good and tender",
     "desc": "\"That's\" is a contraction of \"That is,\" serving as the subject of the sentence.\n\"got to be\" is an informal way of expressing strong belief or certainty about something. It means \"must be\" or \"has to be.\""
   },
@@ -2048,12 +2050,12 @@
   },
   {
     "id": 1405,
-    "fa": "امشب میبرمش (زن) بیرون",
+    "fa": "امشب دارم میبرمش (زن) بیرون",
     "en": "I'm taking her out tonight"
   },
   {
     "id": 1406,
-    "fa": "من کلاً قیدش رو زدم",
+    "fa": "من کلاً قیدش (زن) رو زدم",
     "en": "I'm totally over her"
   },
   {
@@ -2123,8 +2125,8 @@
   },
   {
     "id": 1420,
-    "fa": "شبیه نمک است. اما نیست",
-    "en": "It looks like salt. But it isn't"
+    "fa": "شبیه نمک است",
+    "en": "It looks like salt"
   },
   {
     "id": 1421,
@@ -2168,7 +2170,7 @@
   },
   {
     "id": 1429,
-    "fa": "من براش (مرد) هر کاری می کنم",
+    "fa": "من براش (مرد) هر کاری خواهم کرد",
     "en": "I'll do anything for him"
   },
   {
@@ -2203,17 +2205,17 @@
   },
   {
     "id": 1436,
-    "fa": "میتونیم الان ولش کنیم",
+    "fa": "میتونیم الان (بحث) تمومش کنیم",
     "en": "Can we drop it now?"
   },
   {
     "id": 1437,
-    "fa": "پسرم داره دنیا می آید و من باید آنجا باشم",
+    "fa": "پسرم داره دنیا می آید و من باید در آنجا باشم",
     "en": "My son is being born and I should be in there"
   },
   {
     "id": 1438,
-    "fa": "همسرم الان داره زایمان میکنه",
+    "fa": "همسرم همین الان داره زایمان میکنه",
     "en": "My wife's giving birth right now"
   },
   {
@@ -2273,7 +2275,7 @@
   },
   {
     "id": 1450,
-    "fa": "من از قبل سفارش دادم الان اومدم تحویل بگیرم",
-    "en": "I pre ordered I just came to pick it up"
+    "fa": "من از قبل سفارش دادم, الان اومدم تحویل بگیرم",
+    "en": "I pre-ordered, I just come to pick it up"
   }
 ]
