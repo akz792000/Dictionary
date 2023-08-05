@@ -1392,9 +1392,8 @@
   },
   {
     "id": 1275,
-    "fa": "آنها خیلی خوبن برای معاشرت کردن",
-    "en": "They are very nice to be around",
-    "desc": "\"They are very nice to be around\": This sentence indicates that the people in question are generally pleasant to be near or to spend time with in various situations. It has a broader and more general sense of being comfortable and enjoyable in their presence.\n\n\"They are very nice to hang out\": This sentence is more specific and casual. \"Hang out\" is an informal term that means spending relaxed and casual time together. So, this sentence suggests that the people are not only pleasant in general but also great to spend leisure time with in a relaxed setting."
+    "fa": "من دوست دارم در اطراف طبیعت باشم. صداهای آرامش بخش و هوای تازه همیشه مرا جوان می کند",
+    "en": "I love to be around nature; the soothing sounds and fresh air always rejuvenate me"
   },
   {
     "id": 1276,
@@ -1590,9 +1589,8 @@
   },
   {
     "id": 1314,
-    "fa": "بفرمایید",
-    "en": "Here you go",
-    "desc": "\"There you go\" is used when providing something to someone who is at a distance from the speaker, while \"Here you go\" is used when giving something to someone who is in close proximity to the speaker. The choice between the two phrases depends on the physical location of the recipient relative to the speaker."
+    "fa": "شما قهوه را با خامه اضافی سفارش دادید,  بفرمائید، خدمت شما!",
+    "en": "You ordered the coffee with extra cream, here you go"
   },
   {
     "id": 1315,
@@ -1823,7 +1821,7 @@
   },
   {
     "id": 1360,
-    "fa": "با لباس زیر نمیتونم بخوابم خوب، تو مجبوری",
+    "fa": "با لباس زیرم نمیتونم بخوابم. خوب، تو مجبوری",
     "en": "I can't sleep in my underwear. Well, your gonna"
   },
   {
@@ -1878,13 +1876,13 @@
   },
   {
     "id": 1371,
-    "fa": "من برای محافظت از فرش ماشینم کفپوش ماشین جدید خریدم",
-    "en": "I bought new car floor mats to protect the carpet in my vehicle"
+    "fa": "من برای محافظت از فرش خودروم یک کفپوش جدید خریدم",
+    "en": "I bought a new floor mats to protect the carpet in my vehicle"
   },
   {
     "id": 1372,
-    "fa": "من یک روکش صندلی ماشین جدید خریدم تا صندلی های چرمی خود را از ریختنی ها و لکه ها محافظت کند",
-    "en": "I bought a new car seat cover to protect my leather seats from spills and stains"
+    "fa": "من یک روکش صندلی جدید خریدم تا محافظت کنم از صندلی های چرمی خود از ریختنی ها و لکه ها",
+    "en": "I bought a new seat cover to protect my leather seats from spills and stains"
   },
   {
     "id": 1373,
@@ -2039,7 +2037,7 @@
   },
   {
     "id": 1403,
-    "fa": "با تمام نظرات مثبت، غذای آن رستوران باید (با تاکید) واقعاً خوب باشد",
+    "fa": "با تمام مرورها مثبت، غذای آن رستوران باید (با تاکید) واقعاً خوب باشد",
     "en": "With all the positive reviews, that restaurant's food has got to be really good",
     "desc": "The use of \"got to be\" conveys a sense of confidence and assurance, suggesting that there is no doubt about the quality or goodness of the thing in question"
   },
@@ -2155,7 +2153,7 @@
   },
   {
     "id": 1426,
-    "fa": "من سالهاست که این کار را انجام می دهم",
+    "fa": "من سالهاست این را انجام می دهم",
     "en": "I've been doing this for years"
   },
   {
