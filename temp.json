@@ -451,204 +451,557 @@
     "en": "See you in our video call on the laptop"
   },
   {
-    "id": ,
+    "id": 1541,
     "fa": "همه این بدان معناست که این دیفرانسیل عقب است",
     "en": "All that means is that this is rear-wheel drive",
     "desc": "\"All that means\" is the main clause of the sentence. \"Means\" is the verb, and \"all that\" is the subject.\n\n\"is that this is rear-wheel drive\" is a subordinate clause that provides further information about what \"all that means.\" The first \"is\" in this clause is the main verb linking \"this\" to \"rear-wheel drive,\" and the second \"is\" is the verb that describes the nature of \"this\" (rear-wheel drive)."
   },
   {
-    "id": ,
+    "id": 1542,
     "fa": "صندلی ها کمی تنگ است",
     "en": "The seats a little bit cramped"
   },
   {
-    "id": ,
+    "id": 1543,
     "fa": "خفه شو و تحویلش بده",
     "en": "Shut up and hand it over"
   },
   {
-    "id": ,
+    "id": 1544,
     "fa": "او (زن) انگشت وسط خود رو پشت سرش (مرد) گرفت ",
     "en": "She flipped him off behind his back"
   },
   {
-    "id": ,
+    "id": 1545,
     "fa": "من پنج بار این را پشت سر گذاشتم",
     "en": "I've been through this five times"
   },
   {
-    "id": ,
+    "id": 1546,
     "fa": "چه فرقی می کنه؟",
     "en": "What difference does it make?"
   },
   {
-    "id": ,
+    "id": 1547,
     "fa": "برای دهمین بار",
     "en": "For the tenth time"
   },
   {
-    "id": ,
+    "id": 1548,
     "fa": "تو بیش از اندازه حساسی",
     "en": "You're way too sensitive"
   },
   {
-    "id": ,
+    "id": 1549,
     "fa": "من نمی خواستم هیچ کدام از این اتفاقات بیفته",
     "en": "I didn't want any of this to happen"
   },
   {
-    "id": ,
+    "id": 1550,
     "fa": "ازت میخوام تو چشمام نگاه کنی",
     "en": "I want you to look me in the eye"
   },
   {
-    "id": ,
+    "id": 1551,
     "fa": "کی در مورد تو چیزی گفت؟",
     "en": "Who said anything about you?"
   },
   {
-    "id": ,
+    "id": 1552,
     "fa": "آیا چیزی وجود دارد که باید در مورد آن صحبت کنیم؟",
     "en": "Is there something we should talk about?"
   },
   {
-    "id": ,
+    "id": 1553,
     "fa": "ما اخیراً خیلی چیزها را پشت سر گذاشته ایم",
     "en": "We've been through a lot lately"
   },
   {
-    "id": ,
-    "fa": "",
-    "en": ""
+    "id": 1554,
+    "fa": "مسائل را شخصی نکن",
+    "en": "Don't make things personally"
   },
   {
-    "id": ,
-    "fa": "",
-    "en": ""
+    "id": 1555,
+    "fa": "گریه کردن رو بس میکنی؟",
+    "en": "Would you stop crying?"
   },
   {
-    "id": ,
-    "fa": "",
-    "en": ""
+    "id": 1556,
+    "fa": "من هیچ اشتباهی نکردم",
+    "en": "I haven't done anything wrong"
   },
   {
-    "id": ,
-    "fa": "",
-    "en": ""
+    "id": 1557,
+    "fa": "اجتناب ناپذیر است",
+    "en": "It's inevitable"
   },
   {
-    "id": ,
-    "fa": "",
-    "en": ""
+    "id": 1558,
+    "fa": "داری خونریزی میکنی",
+    "en": "You're bleeding"
   },
   {
-    "id": ,
-    "fa": "",
-    "en": ""
+    "id": 1559,
+    "fa": "من می خواهم همه چیز را بشنوم",
+    "en": "I wanna hear everything"
   },
   {
-    "id": ,
-    "fa": "",
-    "en": ""
+    "id": 1560,
+    "fa": "چطور می توانی اینقدر مطمئن باشی؟",
+    "en": "How can you be so sure?"
   },
   {
-    "id": ,
-    "fa": "",
-    "en": ""
+    "id": 1561,
+    "fa": "هیچ بازگشتی وجود ندارد",
+    "en": "There's no coming back"
   },
   {
-    "id": ,
-    "fa": "",
-    "en": ""
+    "id": 1562,
+    "fa": "متاسفم برای منتظر نگه داشتنت",
+    "en": "I'm sorry to keep you waiting"
   },
   {
-    "id": ,
-    "fa": "",
-    "en": ""
+    "id": 1563,
+    "fa": "من چاره ای نداشتم",
+    "en": "I didn't have a choice"
   },
   {
-    "id": ,
-    "fa": "",
-    "en": ""
+    "id": 1564,
+    "fa": "شما نمی دانی با کی داری صحبت می کنی",
+    "en": "You don't know who you're talking to"
   },
   {
-    "id": ,
-    "fa": "",
-    "en": ""
+    "id": 1565,
+    "fa": "دقیقا همان چیزی که انتظار داشتم",
+    "en": "Exactly what I expected"
   },
   {
-    "id": ,
-    "fa": "",
-    "en": ""
+    "id": 1566,
+    "fa": "ارزشش را داشت؟",
+    "en": "Was it worth it?"
   },
   {
-    "id": ,
-    "fa": "",
-    "en": ""
+    "id": 1567,
+    "fa": "هیچ کاری نمی توانم در این مورد انجام دهم",
+    "en": "There's nothing I can do about this"
   },
   {
-    "id": ,
-    "fa": "",
-    "en": ""
+    "id": 1568,
+    "fa": "نگهش دار برای روز مبادا",
+    "en": "Save it for a rainy day"
   },
   {
-    "id": ,
-    "fa": "",
-    "en": ""
+    "id": 1569,
+    "fa": "آن را دور از چشم نگه دار",
+    "en": "Keep it out of sight"
   },
   {
-    "id": ,
-    "fa": "",
-    "en": ""
+    "id": 1570,
+    "fa": "حقیقت این است که ...",
+    "en": "The truth is ..."
   },
   {
-    "id": ,
-    "fa": "",
-    "en": ""
+    "id": 1571,
+    "fa": "کار از کار گذشته",
+    "en": "What's done is done"
   },
   {
-    "id": ,
-    "fa": "",
-    "en": ""
+    "id": 1572,
+    "fa": "چه کسی اهمیت می ده که چه احساسی داری؟",
+    "en": "Who cares how you feel?"
   },
   {
-    "id": ,
-    "fa": "",
-    "en": ""
+    "id": 1573,
+    "fa": "فقط نرمال عمل کن",
+    "en": "Just act normal"
   },
   {
-    "id": ,
-    "fa": "",
-    "en": ""
+    "id": 1574,
+    "fa": "اینطوری کار نمیکنه",
+    "en": "It doesn't work like that"
   },
   {
-    "id": ,
-    "fa": "",
-    "en": ""
+    "id": 1575,
+    "fa": "کی همه اینها را بهت گفت؟",
+    "en": "Who told you all of this?"
   },
   {
-    "id": ,
-    "fa": "",
-    "en": ""
+    "id": 1576,
+    "fa": "برای همین چیزی نگفتم",
+    "en": "That's why I didn't say anything"
   },
   {
-    "id": ,
-    "fa": "",
-    "en": ""
+    "id": 1577,
+    "fa": "جرات انجام این کار را نداری",
+    "en": "You don't have the guts to do it"
   },
   {
-    "id": ,
-    "fa": "",
-    "en": ""
+    "id": 1578,
+    "fa": "هر جا که راحت هستید، بفرمایید بنشینید",
+    "en": "Have a seat wherever you're comfortable",
+    "desc": "\"Take a seat\" and \"Have a seat\" are used in a similar context and are generally interchangeable"
   },
   {
-    "id": ,
-    "fa": "",
-    "en": ""
+    "id": 1579,
+    "fa": "فکر میکنی کی هستی؟",
+    "en": "Who do you think you are?"
   },
   {
-    "id": ,
-    "fa": "",
-    "en": ""
+    "id": 1580,
+    "fa": "کاری رو که میگم را انجام بده",
+    "en": "Do what I say"
+  },
+  {
+    "id": 1581,
+    "fa": "تولدت چطور بود؟",
+    "en": "How was your birthday?"
+  },
+  {
+    "id": 1582,
+    "fa": "کمی استراحت کن",
+    "en": "Get some rest"
+  },
+  {
+    "id": 1583,
+    "fa": "من را از اینجا بیرون ببر",
+    "en": "Get me out of here"
+  },
+  {
+    "id": 1584,
+    "fa": "به محض اینکه بتونم",
+    "en": "As soon as I can"
+  },
+  {
+    "id": 1585,
+    "fa": "باعث افتخار منه",
+    "en": "It's my pleasure"
+  },
+  {
+    "id": 1586,
+    "fa": "خودت گفتی",
+    "en": "You said it yourself"
+  },
+  {
+    "id": 1587,
+    "fa": "از ناکجاآباد آمد",
+    "en": "It came out of nowhere"
+  },
+  {
+    "id": 1588,
+    "fa": "دارم التماست می کنم, در را قفل کن",
+    "en": "I'm begging you, Lock the door"
+  },
+  {
+    "id": 1589,
+    "fa": "اگه درست بگم چی؟",
+    "en": "What if I'm right"
+  },
+  {
+    "id": 1590,
+    "fa": "تا زمانی که طول بکشد",
+    "en": "For as long as it takes"
+  },
+  {
+    "id": 1591,
+    "fa": "چی بهش (او) گفتی؟ من چیزی نگفتم",
+    "en": "What did you tell him? I didn't say anything"
+  },
+  {
+    "id": 1592,
+    "fa": "حتی فکرش هم نکن",
+    "en": "Don't even think about it"
+  },
+  {
+    "id": 1593,
+    "fa": "اینطوری به من نگاه نکن",
+    "en": "Don't look at me like that"
+  },
+  {
+    "id": 1594,
+    "fa": "بریم سر کار",
+    "en": "Let's get to work"
+  },
+  {
+    "id": 1595,
+    "fa": "مثل یک بچه رفتار نکن",
+    "en": "Don't behave like a child"
+  },
+  {
+    "id": 1596,
+    "fa": "درست روبروی من",
+    "en": "Right in front of me"
+  },
+  {
+    "id": 1597,
+    "fa": "به جای من با مامان خداحافظی کن",
+    "en": "Say bye to mom for me"
+  },
+  {
+    "id": 1598,
+    "fa": "ایمان داشته باش",
+    "en": "Have faith"
+  },
+  {
+    "id": 1599,
+    "fa": "آیا رای بگیریم؟",
+    "en": "Do we take a vote?"
+  },
+  {
+    "id": 1600,
+    "fa": "تو خیلی شجاع بودی",
+    "en": "You were very brave"
+  },
+  {
+    "id": 1601,
+    "fa": "می خوام حدس بزنی",
+    "en": "I want you to guess"
+  },
+  {
+    "id": 1602,
+    "fa": "زیاد بهش فکر نکن",
+    "en": "Don't think too much about it"
+  },
+  {
+    "id": 1603,
+    "fa": "آن را به سلامتی خرج کنی",
+    "en": "Spend it in good health"
+  },
+  {
+    "id": 1604,
+    "fa": "سهم خود را پرداخت خواهم کرد",
+    "en": "I'll pay my share"
+  },
+  {
+    "id": 1605,
+    "fa": "بیا واقع بین باشیم",
+    "en": "Let's be realistic"
+  },
+  {
+    "id": 1606,
+    "fa": "میتونی (مودبانه) یک لحظه به ما وقت بدی؟",
+    "en": "Could you give us a moment?"
+  },
+  {
+    "id": 1607,
+    "fa": "چه تصادفی",
+    "en": "What a coincidence"
+  },
+  {
+    "id": 1608,
+    "fa": "آیا این چیزیه که می خوای؟",
+    "en": "Is that what you want?"
+  },
+  {
+    "id": 1609,
+    "fa": "به خدا قسم میخورم",
+    "en": "I swear to god"
+  },
+  {
+    "id": 1610,
+    "fa": "چرا امروز تمومش نکنیم؟",
+    "en": "Why don't we call it a day?"
+  },
+  {
+    "id": 1611,
+    "fa": "به آنچه می خواستی رسیدی",
+    "en": "You got what you wanted"
+  },
+  {
+    "id": 1612,
+    "fa": "تا اینجا خیلی خوبه",
+    "en": "So far so good"
+  },
+  {
+    "id": 1613,
+    "fa": "این تنها راه بود",
+    "en": "It was the only way"
+  },
+  {
+    "id": 1614,
+    "fa": "چطور میتونی اینقدر بی مسئولیت باشی؟",
+    "en": "How can you be so irresponsible?"
+  },
+  {
+    "id": 1615,
+    "fa": "من نمی خوام وارد جزئیات شوم",
+    "en": "I don't want to go into the details"
+  },
+  {
+    "id": 1616,
+    "fa": "هیچکس اینجا نیست",
+    "en": "Nobody's here"
+  },
+  {
+    "id": 1617,
+    "fa": "نذار شروع کنم",
+    "en": "Don't get me started"
+  },
+  {
+    "id": 1618,
+    "fa": "میدونم چقدر ناراحتی",
+    "en": "I know how upset you are"
+  },
+  {
+    "id": 1619,
+    "fa": "باید انجام می شد",
+    "en": "It had to be done"
+  },
+  {
+    "id": 1620,
+    "fa": "او (مرد) دوست و همچنین رهبر ما است",
+    "en": "He is our friend and likewise our leader"
+  },
+  {
+    "id": 1621,
+    "fa": "می تواند بسیار مفید باشد",
+    "en": "It can be very helpful"
+  },
+  {
+    "id": 1622,
+    "fa": "نمیدونستم دیگه چیکار کنم",
+    "en": "I didn't know what else to do"
+  },
+  {
+    "id": 1623,
+    "fa": "امیدوارم مزاحم نباشم",
+    "en": "I hope I'm not disturbing"
+  },
+  {
+    "id": 1624,
+    "fa": "اگر دوباره اتفاق بیفتد چی؟",
+    "en": "What if it happens again?"
+  },
+  {
+    "id": 1625,
+    "fa": "نمی دانم و نمی خواهم بدانم",
+    "en": "I don't know and I don't want to know"
+  },
+  {
+    "id": 1626,
+    "fa": "شکی در آن نیست",
+    "en": "There's no doubt about it"
+  },
+  {
+    "id": 1627,
+    "fa": "بهش بگو ضروریه",
+    "en": "Tell him it's urgent"
+  },
+  {
+    "id": 1628,
+    "fa": "میتونی با من راحت باشی",
+    "en": "You can be open with me"
+  },
+  {
+    "id": 1629,
+    "fa": "نمی تواند درست باشه",
+    "en": "It can't be true"
+  },
+  {
+    "id": 1630,
+    "fa": "چند وقته میدونی؟",
+    "en": "How long have you known?"
+  },
+  {
+    "id": 1631,
+    "fa": "داری من رو می ترسونی",
+    "en": "You're scaring me"
+  },
+  {
+    "id": 1632,
+    "fa": "گفتم نگران نباش, من دارم جایی نمی رم",
+    "en": "I told you not to worry, I'm not going anywhere"
+  },
+  {
+    "id": 1633,
+    "fa": "داری دیوونم میکنی",
+    "en": "You're driving me crazy"
+  },
+  {
+    "id": 1634,
+    "fa": "تو کاملاً عقلت رو از دست دادی",
+    "en": "You're completely out of your mind"
+  },
+  {
+    "id": 1635,
+    "fa": "بعداً همه چیز را توضیح خواهم داد",
+    "en": "I will explain everything later"
+  },
+  {
+    "id": 1636,
+    "fa": "ببخشید که اینقدر دیر مزاحمتون شدم",
+    "en": "Sorry to bother you so late"
+  },
+  {
+    "id": 1637,
+    "fa": "وقت زیادی نداریم",
+    "en": "We don't have much time"
+  },
+  {
+    "id": 1638,
+    "fa": "خیلی خسته ام",
+    "en": "I'm exhausted"
+  },
+  {
+    "id": 1639,
+    "fa": "شماره های ناشناس رو پاسخ نده",
+    "en": "Don't answer unknown number"
+  },
+  {
+    "id": 1640,
+    "fa": "بهترین تلاشت رو کردی",
+    "en": "You did your best"
+  },
+  {
+    "id": 1641,
+    "fa": "بسیاری از تصادفات باعث می شوند به دلیل بی احتیاطی رانندگی",
+    "en": "Many accidents are caused by careless driving"
+  },
+  {
+    "id": 1642,
+    "fa": "این کلمه چگونه تلفظ می شود؟",
+    "en": "How is this word pronounced?"
+  },
+  {
+    "id": 1643,
+    "fa": "یک نفر پشت سر ما راه می ره. من فکر می کنم ما دنبال می شیم",
+    "en": "There's somebody walking behind us. I think we are being followed"
+  },
+  {
+    "id": 1644,
+    "fa": "کیک در حال درست شدن است",
+    "en": "A cake has been being made"
+  },
+  {
+    "id": 1645,
+    "fa": "در طول شب با صدای بلندی از خواب بیدار شدیم",
+    "en": "We were woken up by a loud noise during the night"
+  },
+  {
+    "id": 1646,
+    "fa": "وقتی رسیدم اتاق داشت تمیز میشد",
+    "en": "The room was being cleaned when I arrived"
+  },
+  {
+    "id": 1647,
+    "fa": "سبزیجات طعم خوبی نداشتند. مدت زیادی پخته شده بودند",
+    "en": "The vegetables didn't taste good. They had been cooked too long"
+  },
+  {
+    "id": 1648,
+    "fa": "کیک در حال درست شدن بود",
+    "en": "A cake had been being made"
+  },
+  {
+    "id": 1649,
+    "fa": "من اغلب به مهمانی ها دعوت نمی شوم",
+    "en": "I'm not invited to parties very often"
+  },
+  {
+    "id": 1650,
+    "fa": "او (مرد) کاملا مست (چت) بود",
+    "en": "He was completely intoxicated"
   }
 ]
+
+// grammer passive till Infinitive
