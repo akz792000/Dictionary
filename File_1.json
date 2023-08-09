@@ -1393,7 +1393,7 @@
   {
     "id": 1275,
     "fa": "من دوست دارم در اطراف طبیعت باشم. صداهای آرامش بخش و هوای تازه همیشه مرا جوان می کند",
-    "en": "I love to be around nature; the soothing sounds and fresh air always rejuvenate me"
+    "en": "I love to be around nature. the soothing sounds and fresh air always rejuvenate me"
   },
   {
     "id": 1276,
@@ -1529,7 +1529,7 @@
   },
   {
     "id": 1302,
-    "fa": "دماسنج نشان داد افت دما را هنگام صبح مه آلود",
+    "fa": "دماسنج نشان داد افت دما را هنگام صبح تار (غبارآلود)",
     "en": "The thermometer showed a drop in temperature during the hazy morning"
   },
   {
@@ -1790,7 +1790,7 @@
   },
   {
     "id": 1354,
-    "fa": "هدف کلی این پروژه بهبود شیوه های پایداری در شرکت است",
+    "fa": "هدف کلی این پروژه هست بهبود دادن تمرین های پایداری در درون شرکت",
     "en": "The overarching goal of this project is to improve sustainability practices within the company"
   },
   {
@@ -1816,8 +1816,8 @@
   },
   {
     "id": 1359,
-    "fa": "بزن بریم",
-    "en": "Here we go"
+    "fa": "من به شما علاقه ای ندارم, من حواسم بهت هست",
+    "en": "I'm not into you, I'm onto you"
   },
   {
     "id": 1360,
@@ -2133,7 +2133,7 @@
   },
   {
     "id": 1422,
-    "fa": "کی از بچه هات مراقبت میکنه وقتی سر کار هستی",
+    "fa": "کی از بچه هات مراقبت میکنه زمانیکه سر کار هستی",
     "en": "Who looks after your children while you're at work?"
   },
   {
@@ -2153,7 +2153,7 @@
   },
   {
     "id": 1426,
-    "fa": "من سالهاست این را انجام می دهم",
+    "fa": "من یرای سالهاست در حال انجام این هستم",
     "en": "I've been doing this for years"
   },
   {
@@ -2399,7 +2399,7 @@
   },
   {
     "id": 1475,
-    "fa": "میرفتم پیاده روی اگه هوا خیلی سرد نبود",
+    "fa": "من برای پیاده روی می رفتم اگه خیلی سرد نبود",
     "en": "I'd go for a walk if it weren't so cold"
   },
   {
@@ -2439,7 +2439,7 @@
   },
   {
     "id": 1483,
-    "fa": "بیرون می رفتم اگر اینقدر خسته نبودم",
+    "fa": "بیرون رفته بودم اگر اینقدر خسته نبودم",
     "en": "I would have gone out if I hadn't been so tired"
   },
   {
@@ -2454,12 +2454,12 @@
   },
   {
     "id": 1486,
-    "fa": "چرا این را به من میگویی؟",
+    "fa": "چرا داری این را به من میگی؟",
     "en": "Why are you telling me this?"
   },
   {
     "id": 1487,
-    "fa": "اگر گرسنه بودم، چیزی می خوردم",
+    "fa": "اگر گرسنه بودم، چیزی خورده بودم",
     "en": "If I had been hungry, I would have eaten something"
   },
   {
@@ -2469,7 +2469,7 @@
   },
   {
     "id": 1489,
-    "fa": "اگر تو را دیده بودم سلام می کردم",
+    "fa": "اگر تو را دیده بودم سلام کرده بودم",
     "en": "If I had seen you, I would have said hello"
   },
   {
@@ -2479,7 +2479,7 @@
   },
   {
     "id": 1491,
-    "fa": "اگر هوا اینقدر بد نبود می رفتیم بیرون",
+    "fa": "اگر هوا اینقدر بد نبود رفته بودیم بیرون",
     "en": "If the weather hadn't been so bad, we would have gone out"
   },
   {
@@ -2489,7 +2489,7 @@
   },
   {
     "id": 1493,
-    "fa": "اگر هوا اینقدر بد نبود می توانستیم بیرون برویم",
+    "fa": "اگر هوا اینقدر بد نبود توانسته بودیم برویم بیرون",
     "en": "If the weather hadn't been so bad, we could have gone out"
   },
   {
@@ -2549,7 +2549,7 @@
   },
   {
     "id": 1505,
-    "fa": "کاش شماره تلفنش را می دانستم",
+    "fa": "کاش شماره تلفنش (مرد) را می دانستم",
     "en": "I wish I knew his phone number"
   },
   {
@@ -2604,7 +2604,7 @@
   },
   {
     "id": 1516,
-    "fa": "ما می دانیم چرا",
+    "fa": "ما هر دو می دانیم چرا",
     "en": "We both know why"
   },
   {
@@ -2659,7 +2659,7 @@
   },
   {
     "id": 1527,
-    "fa": "حرف احمقانه ای بود. کاش نگفته بودم",
+    "fa": "چیز احمقانه ای بود برای گفتن. کاش نگفته بودم",
     "en": "It was a stupid thing to say. I wish I hadn't said it"
   },
   {
@@ -2956,7 +2956,7 @@
   },
   {
     "id": 1586,
-    "fa": "خودت گفتی",
+    "fa": "تو خودت گفتی",
     "en": "You said it yourself"
   },
   {
@@ -2971,7 +2971,7 @@
   },
   {
     "id": 1589,
-    "fa": "اگه درست بگم چی؟",
+    "fa": "اگه حق با من باشد چی؟",
     "en": "What if I'm right"
   },
   {
@@ -2981,7 +2981,7 @@
   },
   {
     "id": 1591,
-    "fa": "چی بهش (او) گفتی؟ من چیزی نگفتم",
+    "fa": "چی بهش (مرد) گفتی؟ من هیچ چیزی نگفتم",
     "en": "What did you tell him? I didn't say anything"
   },
   {
@@ -3161,7 +3161,7 @@
   },
   {
     "id": 1627,
-    "fa": "بهش بگو ضروریه",
+    "fa": "بهش (مرد) بگو ضروریه",
     "en": "Tell him it's urgent"
   },
   {
@@ -3261,7 +3261,7 @@
   },
   {
     "id": 1647,
-    "fa": "سبزیجات طعم خوبی نداشتند. مدت زیادی پخته شده بودند",
+    "fa": "سبزیجات طعم خوبی نداشتند. مدت زیادی در حال پخته شدن بودند",
     "en": "The vegetables didn't taste good. They had been cooked too long"
   },
   {
@@ -3278,5 +3278,21 @@
     "id": 1650,
     "fa": "او (مرد) کاملا مست (چت) بود",
     "en": "He was completely intoxicated"
+  },
+  {
+    "id": 1651,
+    "fa": "جویدن آدامس در جلسه توهین آمیز است",
+    "en": "It's offensive to chew gum in a meeting",
+    "desc": "In this sentence, \"a meeting\" is referring to a specific instance of a meeting, so the article \"a\" is needed before \"meeting\" to make it grammatically accurate."
+  },
+  {
+    "id": 1652,
+    "fa": "همگی به چخ رفتیم",
+    "en": "We're all fucked up"
+  },
+  {
+    "id": 1653,
+    "fa": "چگونه یک اسب وحشی را رام می کنید؟",
+    "en": "How do you tame a wild horse?"
   }
 ]
