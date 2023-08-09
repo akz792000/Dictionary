@@ -779,7 +779,7 @@
   },
   {
     "id": 1154,
-    "fa": "من نمی توانم برسونم به مراسم امشب. قابل درکه (منطقی است). شاید دفعه بعد",
+    "fa": "من نمی توانم برسونم به رویداد امشب. قابل درکه (منطقی است). شاید دفعه بعد",
     "en": "I can't make it to the event tonight. Fair enough. Maybe next time",
     "desc": "\"I can't get to the event tonight\":\n\nIn this phrase, the emphasis is on the physical act of reaching or arriving at the event. It suggests that there might be some obstacles preventing the speaker from physically attending the event.\n\n\"I can't make it to the event tonight\":\n\nIn this phrase, the emphasis is on the ability or possibility of attending the event. It suggests that the speaker is unable to attend, regardless of the reasons. It could be due to conflicting schedules, prior commitments, or other reasons preventing them from being there."
   },
@@ -1615,7 +1615,7 @@
   },
   {
     "id": 1319,
-    "fa": "بعد از مراسم، می توانید باقی مانده کیک را بدون خطر به خانه ببرید",
+    "fa": "بعد از رویداد، می توانید باقی مانده کیک را بدون خطر به خانه ببرید",
     "en": "After the event, you can take the leftover cake home safely"
   },
   {
@@ -2278,7 +2278,7 @@
   },
   {
     "id": 1451,
-    "fa": "کسی میدونه آبا این مراسم اجباری هست؟",
+    "fa": "کسی میدونه آبا این رویداد اجباری هست؟",
     "en": "Does anybody know if this event is mandatory?"
   },
   {
@@ -2328,7 +2328,7 @@
   },
   {
     "id": 1461,
-    "fa": "اختلاف سنی آن ها مهم به نظر نمی رسید",
+    "fa": "اختلاف در سن آن ها مهم به نظر نمی رسید",
     "en": "The discrepancy in their ages seemed not to matter",
     "desc": "Subject + auxiliary verb (did not/didn't) + main verb (seem) + infinitive marker (to) + main verb (matter)"
   },
@@ -2429,7 +2429,7 @@
   },
   {
     "id": 1481,
-    "fa": "اگه میدونستم تو بیمارستان بودی حتما میرفتم ببینمت",
+    "fa": "اگه میدونستم تو بیمارستان بودی حتما رفته بودم ببینمت",
     "en": "If I'd known you were in hospital, I would have gone to see you"
   },
   {
@@ -2449,7 +2449,7 @@
   },
   {
     "id": 1485,
-    "fa": "اگر او (مرد) نگاه کرده بود به جایی که داشت می رفت، به داخل دیوار قدم نمی گذاشت",
+    "fa": "اگر او (مرد) نگاه کرده بود به جایی که داشت می رفت، به داخل دیوار قدم نگذاشته بود",
     "en": "If he had been looking where he was going, he wouldn't have walked into the wall"
   },
   {
@@ -2639,8 +2639,8 @@
   },
   {
     "id": 1523,
-    "fa": "کاش می دانستم که گری بیمار بود. حتما می رفتم ببینمش",
-    "en": "I wish I'd known that Gary was ill. I would have gone to see him"
+    "fa": "کاش می دانستم که اصغر بیمار بود. حتما رفته بودم تا ببینمش",
+    "en": "I wish I'd known that Asghar was ill. I would have gone to see him"
   },
   {
     "id": 1524,
@@ -2669,7 +2669,7 @@
   },
   {
     "id": 1529,
-    "fa": "شنیدم که مهمانی عالی بود. کاش می توانستم به آنجا بروم",
+    "fa": "شنیدم که مهمانی عالی بود. کاش توانسته بودم به آنجا بروم",
     "en": "I hear the party was great. I wish I could have gone there"
   },
   {
@@ -2770,13 +2770,13 @@
   },
   {
     "id": 1549,
-    "fa": "من نمی خواستم هیچ کدام از این اتفاقات بیفته",
+    "fa": "من نمی خواستم هیچ کدام از این اتفاق بیفته",
     "en": "I didn't want any of this to happen"
   },
   {
     "id": 1550,
     "fa": "ازت میخوام تو چشمام نگاه کنی",
-    "en": "I want you to look me in the eye"
+    "en": "I want you to look into my eyes"
   },
   {
     "id": 1551,
@@ -2895,7 +2895,7 @@
   },
   {
     "id": 1574,
-    "fa": "اینطوری کار نمیکنه",
+    "fa": "اونطوری کار نمیکنه",
     "en": "It doesn't work like that"
   },
   {
