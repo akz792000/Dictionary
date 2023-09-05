@@ -680,7 +680,7 @@
   },
   {
     "id": 136,
-    "fa": "خوشحاليست که دوباره می بینمت",
+    "fa": "خوشحالیست که دوباره می بینمت",
     "en": "It is good to see you again"
   },
   {
@@ -1007,7 +1007,7 @@
   },
   {
     "id": 201,
-    "fa": "زود بهش عادت می کنی",
+    "fa": "زود بهش عادت خواهی کرد",
     "en": "You'll soon get used to it"
   },
   {
@@ -2455,7 +2455,7 @@
   },
   {
     "id": 489,
-    "fa": "ديگه دير نكن",
+    "fa": "دیگه دیر نكن",
     "en": "Don't be late again"
   },
   {
@@ -3713,7 +3713,7 @@
   },
   {
     "id": 736,
-    "fa": "ذكرش نكنيد",
+    "fa": "ذكرش نكنید",
     "en": "Don't mention it"
   },
   {
@@ -3749,7 +3749,7 @@
   },
   {
     "id": 743,
-    "fa": "آشنایی با شما خوشحاليست",
+    "fa": "آشنایی با شما خوشحالیست",
     "en": "Glad to know you"
   },
   {
@@ -3839,7 +3839,7 @@
   },
   {
     "id": 761,
-    "fa": "پس از اتمام پروژه، هیجان زده شدم از دریافت دستمزد برای سخت کوشیم",
+    "fa": "پس از اتمام پروژه، هیجان زده بودم از دریافت دستمزد برای سخت کوشیم",
     "en": "After completing the project, I was thrilled to get paid for my hard work"
   },
   {
@@ -4122,7 +4122,7 @@
   },
   {
     "id": 816,
-    "fa": "او (زن) ظرف ها را می شويد، اتو می کشد و به نوزاد غذا می دهد",
+    "fa": "او (زن) ظرف ها را می شوید، اتو می کشد و به نوزاد غذا می دهد",
     "en": "She washes the dishes, irons, and feeds the baby"
   },
   {
@@ -4344,7 +4344,7 @@
   },
   {
     "id": 860,
-    "fa": "من از یک متر نواري برای اندازه گیری دقیق طول اتاق استفاده کردم",
+    "fa": "من از یک متر نواری برای اندازه گیری دقیق طول اتاق استفاده کردم",
     "en": "I used a tape measure to measure the length of the room accurately"
   },
   {
@@ -4512,7 +4512,7 @@
   },
   {
     "id": 893,
-    "fa": "اگر از من می پرسی, او (مرد) پیداش خواهد شد",
+    "fa": "اگر از من بپرسی, او (مرد) پیداش خواهد شد",
     "en": "If you ask me, He'll turn up"
   },
   {
@@ -5011,7 +5011,8 @@
   {
     "id": 991,
     "fa": "نیازی به ترس از تسلط روبات ها در جهان نیست, تا زمانی که احساسات را در آنها برنامه ریزی نکنیم",
-    "en": "No need to fear robots taking over the world as long as we don't program emotions into them"
+    "en": "No need to fear robots taking over the world as long as we don't program emotions into them",
+    "desc": "In this sentence, \"fear\" is used as a verb, and you don't need the preposition \"of\" after it"
   },
   {
     "id": 992,
@@ -5037,7 +5038,7 @@
   {
     "id": 996,
     "fa": "سعی کردم کیک بپزم، اما اولین بار درست نشد",
-    "en": "I tried baking a cake, but it didn't make the first time"
+    "en": "I tried to bake a cake, but it didn't make the first time"
   },
   {
     "id": 997,

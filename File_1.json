@@ -241,7 +241,7 @@
   {
     "id": 1048,
     "fa": "دیدش (زن) بعد از برداشتن عینک تار شده بود",
-    "en": "Her vision was blurry (بلِری) after removing her glasses"
+    "en": "Her vision got blurry (بلِری) after removing her glasses"
   },
   {
     "id": 1049,
@@ -420,7 +420,7 @@
   },
   {
     "id": 1083,
-    "fa": "به رستوران هندی برویم یا غذاهای چینی را ترجیح می دهید؟ برای من فرقی نمیکنه",
+    "fa": "به رستوران هندی برویم یا (مودبانه) غذاهای چینی را ترجیح می دهید؟ برای من فرقی نمیکنه",
     "en": "Shall we go to the Indian restaurant, or would you prefer Chinese food? I'm easy"
   },
   {
@@ -891,7 +891,7 @@
   },
   {
     "id": 1176,
-    "fa": "من شما را تا مترو می رسونم",
+    "fa": "من شما را تا مترو خواهم رساند",
     "en": "I'll give you a ride to the subway",
     "desc": "If someone mentions driving you to the subway, they are explicitly referring to using their car for transportation. However, if they say they'll give you a ride to the subway, it could involve various modes of transportation, including driving, public transportation, or other means."
   },
@@ -1510,7 +1510,7 @@
   {
     "id": 1298,
     "fa": "دوست دارم (مودبانه) او (مرد) را معرفی کنم",
-    "en": "I'd like to introduce Him"
+    "en": "I'd like to introduce him"
   },
   {
     "id": 1299,
@@ -1877,12 +1877,12 @@
   {
     "id": 1371,
     "fa": "من برای محافظت از فرش خودروم یک کفپوش جدید خریدم",
-    "en": "I bought a new floor mats to protect the carpet in my vehicle"
+    "en": "I bought a new car floor mats to protect the carpet in my vehicle"
   },
   {
     "id": 1372,
     "fa": "من یک روکش صندلی جدید خریدم تا محافظت کنم از صندلی های چرمی خود از ریختنی ها و لکه ها",
-    "en": "I bought a new seat cover to protect my leather seats from spills and stains"
+    "en": "I bought a new car seat cover to protect my leather seats from spills and stains"
   },
   {
     "id": 1373,
@@ -1916,12 +1916,12 @@
   },
   {
     "id": 1379,
-    "fa": "بعید است که آنها به موقع برسند",
+    "fa": "بعید است که آنها به موقع خواهند رسید",
     "en": "It's unlikely that they'll arrive on time"
   },
   {
     "id": 1380,
-    "fa": "او بعيد است (مرد) قبل از زمان ناهار بیاید",
+    "fa": "او بعید است (مرد) قبل از زمان ناهار برسد",
     "en": "He's unlikely to arrive before lunchtime"
   },
   {
@@ -2088,7 +2088,7 @@
   },
   {
     "id": 1413,
-    "fa": "با چشمان خودم دیدم",
+    "fa": "با چشمان خودم دیدمش",
     "en": "I saw it with my own eyes"
   },
   {
@@ -2259,12 +2259,14 @@
   {
     "id": 1447,
     "fa": "قصد فضولی ندارم",
-    "en": "I don't mean to pry"
+    "en": "I don't mean to pry",
+    "desc": "\"Nosy\" is an adjective and \"Pry\" is a verb"
   },
   {
     "id": 1448,
     "fa": "اینقدر فضول نباش",
-    "en": "Don't be so nosy"
+    "en": "Don't be so nosy",
+    "desc": "\"Nosy\" is an adjective and \"Pry\" is a verb"
   },
   {
     "id": 1449,
@@ -2278,7 +2280,7 @@
   },
   {
     "id": 1451,
-    "fa": "کسی میدونه آيا این رویداد اجباری هست؟",
+    "fa": "کسی میدونه آیا این رویداد اجباری هست؟",
     "en": "Does anybody know if this event is mandatory?"
   },
   {
@@ -2313,7 +2315,7 @@
   },
   {
     "id": 1458,
-    "fa": "شما سر وقت هستي",
+    "fa": "شما درست سر وقت هستی",
     "en": "You're right on time"
   },
   {
@@ -2328,7 +2330,7 @@
   },
   {
     "id": 1461,
-    "fa": "اختلاف در سن آن ها مهم به نظر نمی رسید",
+    "fa": "اختلاف در سن آن ها به نظر می رسد مهم نباشه",
     "en": "The discrepancy in their ages seemed not to matter",
     "desc": "Subject + auxiliary verb (did not/didn't) + main verb (seem) + infinitive marker (to) + main verb (matter)"
   },
@@ -2360,7 +2362,7 @@
   {
     "id": 1467,
     "fa": "اگر فردا یک انتخابات باشه, به چه کسی رای می دادی؟",
-    "en": "If there was an election tomorrow, who would you vote for?"
+    "en": "If there was (were) an election tomorrow, who would you vote for?"
   },
   {
     "id": 1468,
@@ -2400,7 +2402,7 @@
   {
     "id": 1475,
     "fa": "من برای پیاده روی می رفتم اگه خیلی سرد نبود",
-    "en": "I'd go for a walk if it weren't so cold"
+    "en": "I'd go for a walk if it wasn't (weren't) so cold"
   },
   {
     "id": 1476,
@@ -2409,7 +2411,7 @@
   },
   {
     "id": 1477,
-    "fa": "می توانستم شغل بهتری بگيرم, اگر می توانستم انگلیسی صحبت کنم",
+    "fa": "می توانستم شغل بهتری بگیرم, اگر می توانستم انگلیسی صحبت کنم",
     "en": "I could get a better job, if I could speak english"
   },
   {
@@ -2429,7 +2431,7 @@
   },
   {
     "id": 1481,
-    "fa": "اگه دانسته بودم تو در بیمارستان بودی حتما رفته بودم ببینمت",
+    "fa": "اگه دانسته بودم تو در بیمارستانی حتما رفته بودم ببینمت",
     "en": "If I'd known you were in hospital, I would have gone to see you"
   },
   {
@@ -2509,7 +2511,7 @@
   },
   {
     "id": 1497,
-    "fa": "اگر در مدرسه سخت تر کار کرده بودم، الان کار بهتری داشتم",
+    "fa": "اگر در مدرسه سخت تر کار کرده بودم، الان یک شغل بهتری داشتم",
     "en": "If I had worked harder at school, I would have a better job now"
   },
   {
@@ -2524,12 +2526,12 @@
   },
   {
     "id": 1500,
-    "fa": "اگر کسی بياد داخل چي؟",
+    "fa": "اگر کسی بیاد داخل چی؟",
     "en": "What if someone comes in?"
   },
   {
     "id": 1501,
-    "fa": "اگر از عنکبوت نمی ترسیدید، آن را برداشته بوديد و بیرون گذاشته بوديد",
+    "fa": "اگر از عنکبوت نمی ترسیدید، آن را برداشته بودید و بیرون گذاشته بودید",
     "en": "If you weren't afraid of spider, you would have picked it up and put it outside"
   },
   {
@@ -2544,7 +2546,7 @@
   },
   {
     "id": 1504,
-    "fa": "امیدوارم به زودی احساس بهتري كني",
+    "fa": "امیدوارم به زودی احساس بهتری كنی",
     "en": "I hope you feel better soon"
   },
   {
@@ -2614,7 +2616,7 @@
   },
   {
     "id": 1518,
-    "fa": "نبايد خودت را به کسی ثابت کنی",
+    "fa": "نباید خودت را به کسی ثابت کنی",
     "en": "You don't have to prove yourself to anybody"
   },
   {
@@ -2629,7 +2631,7 @@
   },
   {
     "id": 1521,
-    "fa": "کاش تو (مودبانه) مدام حرفم را قطع نمی کردی",
+    "fa": "کاش تو (مودبانه) مدام حرفم را قطع نکنی",
     "en": "I wish you wouldn't keep interrupting me"
   },
   {
@@ -2649,7 +2651,7 @@
   },
   {
     "id": 1525,
-    "fa": "من احساس مريضي مي كنم. کاش اینقدر کیک نخورده بودم",
+    "fa": "من احساس مریضی می كنم. کاش اینقدر کیک نخورده بودم",
     "en": "I feel sick. I wish I hadn't eaten so much cake"
   },
   {
@@ -2685,11 +2687,12 @@
   {
     "id": 1532,
     "fa": "من همه پولم را احمقانه تلف کردن",
-    "en": "I have fooled away all my money"
+    "en": "I have fooled away all my money",
+    "desc": "\"I have fooled away all my money\" is a general statement about wasting money.\n\"I have fooled away all of my money\" emphasizes that every bit of money has been wasted."
   },
   {
     "id": 1533,
-    "fa": "اگر جهش قیمت ها ادامه یابد، مردم قادر به خرید خانه های جدید مورد نظر خود نخواهند بود",
+    "fa": "اگر جهش های قیمت ادامه یابد، مردم قادر به خرید خانه های جدید مورد نظر خود نخواهند بود",
     "en": "If price spikes continue, people will not be able to afford the new houses they want"
   },
   {
@@ -2719,7 +2722,7 @@
   },
   {
     "id": 1539,
-    "fa": "او منتظر ماند برای مدیریت تا به عهد خود وفا کند مبنی بر ارتقاء یا افزایش حقوق او",
+    "fa": "او (مرد) منتظر ماند برای مدیریت تا به عهد خود وفا کند مبنی بر ارتقاء یا افزایش حقوق او",
     "en": "He kept waiting for management to keep its promise of giving him a promotion or a raise"
   },
   {
@@ -2729,14 +2732,14 @@
   },
   {
     "id": 1541,
-    "fa": "همه این بدان معناست که این دیفرانسیل عقب است",
+    "fa": "همه آن بدان معناست که این دیفرانسیل عقب است",
     "en": "All that means is that this is rear-wheel drive",
     "desc": "\"All that means\" is the main clause of the sentence. \"Means\" is the verb, and \"all that\" is the subject.\n\n\"is that this is rear-wheel drive\" is a subordinate clause that provides further information about what \"all that means.\" The first \"is\" in this clause is the main verb linking \"this\" to \"rear-wheel drive,\" and the second \"is\" is the verb that describes the nature of \"this\" (rear-wheel drive)."
   },
   {
     "id": 1542,
     "fa": "صندلی ها کمی تنگ است",
-    "en": "The seats a little bit cramped"
+    "en": "The seats are a little bit cramped"
   },
   {
     "id": 1543,
@@ -2785,7 +2788,7 @@
   },
   {
     "id": 1552,
-    "fa": "آیا چیزی وجود دارد باید در مورد آن صحبت کنیم؟",
+    "fa": "آیا چیزی وجود دارد ما باید در موردش صحبت کنیم؟",
     "en": "Is there something we should talk about?"
   },
   {
@@ -2795,7 +2798,7 @@
   },
   {
     "id": 1554,
-    "fa": "چيزها را شخصی نکن",
+    "fa": "چیزها را شخصی نکن",
     "en": "Don't make things personally"
   },
   {
@@ -2860,7 +2863,7 @@
   },
   {
     "id": 1567,
-    "fa": "كاري نيست بتوانم انجام دهم",
+    "fa": "كاری نیست بتوانم در مورد این انجام دهم",
     "en": "There's nothing I can do about this"
   },
   {
@@ -2905,12 +2908,12 @@
   },
   {
     "id": 1576,
-    "fa": "برای آن است چيزى نگفتم",
+    "fa": "برای آن است چیزى نگفتم",
     "en": "That's why I didn't say anything"
   },
   {
     "id": 1577,
-    "fa": "جرات انجام این کار را نداری",
+    "fa": "جرات انجام این را نداری",
     "en": "You don't have the guts to do it"
   },
   {
@@ -2942,7 +2945,8 @@
   {
     "id": 1583,
     "fa": "من را از اینجا بیرون ببر",
-    "en": "Get me out of here"
+    "en": "Get me out of here",
+    "desc": "\"Get me out of here\" is a direct and urgent request to leave a place.\n\"Take me out of here\" is a request to leave but may imply someone assisting or accompanying you."
   },
   {
     "id": 1584,
@@ -2991,7 +2995,7 @@
   },
   {
     "id": 1593,
-    "fa": "اونطوري به من نگاه نکن",
+    "fa": "اونطوری به من نگاه نکن",
     "en": "Don't look at me like that"
   },
   {
@@ -3066,8 +3070,8 @@
   },
   {
     "id": 1608,
-    "fa": "اونه چیزیه که می خوای؟",
-    "en": "Is that what you want?"
+    "fa": "او (زن) سعی کرد در مورد نگرانی هایش با او (مرد) صحبت کند، اما او (مرد) فقط او (زن) را نادیده گرفت و رفت",
+    "en": "She tried to talk to him about her concerns, but he just brushed her off and walked away"
   },
   {
     "id": 1609,
@@ -3131,7 +3135,7 @@
   },
   {
     "id": 1621,
-    "fa": "می تواند خيلي كمك كننده باشد",
+    "fa": "می تواند خیلی كمك كننده باشد",
     "en": "It can be very helpful"
   },
   {
@@ -3206,7 +3210,7 @@
   },
   {
     "id": 1636,
-    "fa": "چه كسي پردرآمدترين كارمند آمازون است؟",
+    "fa": "چه كسی پردرآمدترین كارمند آمازون است؟",
     "en": "Who is Amazon's highest paid employee?"
   },
   {
@@ -3241,7 +3245,7 @@
   },
   {
     "id": 1643,
-    "fa": "یک نفر هست پشت سر ما داره راه می ره. من فکر می کنم ما داريم دنبال می شیم",
+    "fa": "یک نفر هست پشت سر ما داره راه می ره. من فکر می کنم ما داریم دنبال می شیم",
     "en": "There's somebody walking behind us. I think we are being followed"
   },
   {
@@ -3251,17 +3255,17 @@
   },
   {
     "id": 1645,
-    "fa": "در طول شب با نويز بلندی از خواب بیدار شدیم",
+    "fa": "در طول شب با نویز بلندی از خواب بیدار شدیم",
     "en": "We were woken up by a loud noise during the night"
   },
   {
     "id": 1646,
-    "fa": "اتاق داشت تمیز میشد زمانيكه رسیدم",
+    "fa": "اتاق داشت تمیز میشد زمانیكه رسیدم",
     "en": "The room was being cleaned when I arrived"
   },
   {
     "id": 1647,
-    "fa": "سبزیجات طعم خوبی نمي دادند. آنها مدت زیادی پخته شده بودند",
+    "fa": "سبزیجات طعم خوبی نمی دادند. آنها مدت زیادی پخته شده بودند",
     "en": "The vegetables didn't taste good. They had been cooked too long"
   },
   {
@@ -3271,7 +3275,7 @@
   },
   {
     "id": 1649,
-    "fa": "من خيلي اوقات به مهمانی ها دعوت نمی شوم",
+    "fa": "من خیلی اوقات به مهمانی ها دعوت نمی شوم",
     "en": "I'm not invited to parties very often"
   },
   {
@@ -3294,5 +3298,55 @@
     "id": 1653,
     "fa": "چگونه یک اسب وحشی را رام می کنید؟",
     "en": "How do you tame a wild horse?"
+  },
+  {
+    "id": 1654,
+    "fa": "وقتم را تلف نکن",
+    "en": "Don't waste my time"
+  },
+  {
+    "id": 1655,
+    "fa": "من یک بار به شدت آسیب دیدم",
+    "en": "I got hurt one time pretty badly"
+  },
+  {
+    "id": 1656,
+    "fa": "من باید جیش کنم",
+    "en": "I got to take a leak"
+  },
+  {
+    "id": 1657,
+    "fa": "من وقت دندانپزشکی دارم",
+    "en": "I have a dental appointment"
+  },
+  {
+    "id": 1658,
+    "fa": "کی میای دنبال من؟",
+    "en": "When do you come for me?"
+  },
+  {
+    "id": 1659,
+    "fa": "یک فصل بد به این معنی نیست که داستان شما تمام است، فقط ورق بزنید",
+    "en": "One bad chapter doesn't mean your story is over, just turn the page"
+  },
+  {
+    "id": 1660,
+    "fa": "دندانم افتاد",
+    "en": "My tooth fell out"
+  },
+  {
+    "id": 1661,
+    "fa": "اون لبخند را از روی صورتت پاک کن",
+    "en": "Wipe that smile off your face"
+  },
+  {
+    "id": 1662,
+    "fa": "تا دم در همراهیت می کنم",
+    "en": "I'll walk you out"
+  },
+  {
+    "id": 1663,
+    "fa": "هرگز یک فرد وفادار را به حدی نرسانید که دیگر برایش مهم نباشد",
+    "en": "Never push a loyal person to the point where they no longer care"
   }
 ]
