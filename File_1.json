@@ -240,7 +240,7 @@
   },
   {
     "id": 1048,
-    "fa": "دیدش (زن) بعد از برداشتن عینک تار شده بود",
+    "fa": "دیدش (زن) بعد از برداشتن عینکش تار شده بود",
     "en": "Her vision got blurry (بلِری) after removing her glasses"
   },
   {
@@ -886,7 +886,7 @@
   },
   {
     "id": 1175,
-    "fa": "انگار بچه ها متوجه سرمای هوا نیستند",
+    "fa": "بچه ها به نظر نمی رسید متوجه سرما باشند",
     "en": "Children don't seem to notice the cold"
   },
   {
@@ -1876,12 +1876,12 @@
   },
   {
     "id": 1371,
-    "fa": "من برای محافظت از فرش خودروم یک کفپوش جدید خریدم",
+    "fa": "من برای محافظت از فرش خودروم یک کفپوش جدید ماشین خریدم",
     "en": "I bought a new car floor mats to protect the carpet in my vehicle"
   },
   {
     "id": 1372,
-    "fa": "من یک روکش صندلی جدید خریدم تا محافظت کنم از صندلی های چرمی خود از ریختنی ها و لکه ها",
+    "fa": "من یک روکش صندلی جدید ماشین خریدم تا محافظت کنم از صندلی های چرمی خود از ریختنی ها و لکه ها",
     "en": "I bought a new car seat cover to protect my leather seats from spills and stains"
   },
   {
@@ -2913,7 +2913,7 @@
   },
   {
     "id": 1577,
-    "fa": "جرات انجام این را نداری",
+    "fa": "جرات انجامش را نداری",
     "en": "You don't have the guts to do it"
   },
   {
@@ -3341,12 +3341,67 @@
   },
   {
     "id": 1662,
-    "fa": "تا دم در همراهیت می کنم",
+    "fa": "تا بیرون همراهیت می کنم",
     "en": "I'll walk you out"
   },
   {
     "id": 1663,
     "fa": "هرگز یک فرد وفادار را به حدی نرسانید که دیگر برایش مهم نباشد",
     "en": "Never push a loyal person to the point where they no longer care"
+  },
+  {
+    "id": 1664,
+    "fa": "من هوس شکلات دارم",
+    "en": "I have a craving for chocolate"
+  },
+  {
+    "id": 1665,
+    "fa": "چقدر قهوه تان را قوی دوست دارید؟",
+    "en": "How strong do you like your coffee?"
+  },
+  {
+    "id": 1666,
+    "fa": "من او (مرد) را نیشگون گرفتم",
+    "en": "I pinch him"
+  },
+  {
+    "id": 1667,
+    "fa": "قوانین سختگیرانه تر رشد اقتصادی را محدود می کند",
+    "en": "Tighter rules will cramp economic growth"
+  },
+  {
+    "id": 1668,
+    "fa": "من یک خیار هستم، من انتخاب شدم تا خرد شوم برای سالاد",
+    "en": "I am a cucumber, I have been chosen to be chopped for salad"
+  },
+  {
+    "id": 1669,
+    "fa": "رئیس جمهور سوگند یاد کرد که از قانون اساسی حمایت کند",
+    "en": "The President swore to uphold the Constitution"
+  },
+  {
+    "id": 1670,
+    "fa": "با پله برقی به طبقه دوم مرکز خرید رفتم",
+    "en": "I rode the escalator to the second floor of the mall"
+  },
+  {
+    "id": 1671,
+    "fa": "نرده را نگه داشتم وقتی از راه پله پایین می آمدم",
+    "en": "I held onto the railing as I descended the staircase"
+  },
+  {
+    "id": 1672,
+    "fa": "من وظیفه ای ندارم",
+    "en": "I'm off duty"
+  },
+  {
+    "id": 1673,
+    "fa": "زبونش مثل نیش مار میمونه",
+    "en": "His bark is worse than his bite"
+  },
+  {
+    "id": 1674,
+    "fa": "چه آدم آشغالی",
+    "en": "What a jerk"
   }
 ]
