@@ -6,7 +6,7 @@
   },
   {
     "id": 1002,
-    "fa": "سیگار کشیدن از تو بعیده",
+    "fa": "سیگار کشیدن از شخصیت تو بعیده",
     "en": "It's out of character for you to smoke"
   },
   {
@@ -3361,7 +3361,7 @@
   },
   {
     "id": 1666,
-    "fa": "من او (مرد) را نیشگون گرفتم",
+    "fa": "من او (مرد) را نیشگون می گیرم",
     "en": "I pinch him"
   },
   {
@@ -3371,8 +3371,8 @@
   },
   {
     "id": 1668,
-    "fa": "من یک خیار هستم، من انتخاب شدم تا خرد شوم برای سالاد",
-    "en": "I am a cucumber, I have been chosen to be chopped for salad"
+    "fa": "یک خیار هستش، انتخاب شده تا خرد شود برای سالاد",
+    "en": "It is a cucumber, It has been chosen to be chopped for salad"
   },
   {
     "id": 1669,
@@ -3396,12 +3396,62 @@
   },
   {
     "id": 1673,
-    "fa": "زبونش مثل نیش مار میمونه",
+    "fa": "زبونش (مرد) مثل نیش مار میمونه",
     "en": "His bark is worse than his bite"
   },
   {
     "id": 1674,
     "fa": "چه آدم آشغالی",
     "en": "What a jerk"
+  },
+  {
+    "id": 1675,
+    "fa": "تو باید وابستگیت رو به جیب من بزاری کنار",
+    "en": "You have to wean yourself off my pocket"
+  },
+  {
+    "id": 1676,
+    "fa": "پدرم تو پنجاه سالگیشه",
+    "en": "My father is in his fifties"
+  },
+  {
+    "id": 1677,
+    "fa": "عموم یه آدم خود ساخته ای",
+    "en": "My uncle is a self-made person"
+  },
+  {
+    "id": 1678,
+    "fa": "برادرت خیلی صمیمی است",
+    "en": "Your brother is a very friendly"
+  },
+  {
+    "id": 1679,
+    "fa": "چرا دیگه به ملاقات دوستت نمیری",
+    "en": "Why don't you visit your friend anymore"
+  },
+  {
+    "id": 1680,
+    "fa": "آیا نمی خواهی او (زن) را به جشن تولدت دعوت کنی؟",
+    "en": "Don't you want to invite her to your birthday party"
+  },
+  {
+    "id": 1681,
+    "fa": "من سبدی از گوجه سبزی های و خرمالو های رسیده را از درخت کندم",
+    "en": "I picked a basket of ripe greengages (ˈɡrēnˌɡāj) and persimmon (pərˈsimən) from the tree"
+  },
+  {
+    "id": 1682,
+    "fa": "من از نارنگی های و شلیل آبدار در یک بعد از ظهر گرم تابستان لذت بردم",
+    "en": "I enjoyed juicy tangerines (ˌtanjəˈrēn) and nectarines (ˌnektəˈrēn) on a hot summer afternoon"
+  },
+  {
+    "id": 1683,
+    "fa": "احساسات جمعی بسیار مثبت بود",
+    "en": "The collective sentiment was extremely positive"
+  },
+  {
+    "id": 1684,
+    "fa": "همانطور که برای آخرین مرحله آماده می شویم، مایلم از تمام مشارکت های شما قدردانی صمیمانه خود را اعلام کنم",
+    "en": "As we gear up for the last stretch, I wish to convey my heartfelt appreciation of all of your contributions"
   }
 ]
