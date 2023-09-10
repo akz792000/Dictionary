@@ -840,7 +840,7 @@
   },
   {
     "id": 1166,
-    "fa": "!او (زن) جذاب نیست",
+    "fa": "او (زن) جذاب نیست!",
     "en": "Ain't she cute!"
   },
   {
@@ -2656,7 +2656,7 @@
   },
   {
     "id": 1526,
-    "fa": "هیچ کس آن را ندیدش",
+    "fa": "هیچ کس ندیدش",
     "en": "Nobody saw it"
   },
   {
@@ -3160,7 +3160,7 @@
   },
   {
     "id": 1626,
-    "fa": "شکی در آن نیست",
+    "fa": "شکی درش نیست",
     "en": "There's no doubt about it"
   },
   {
@@ -3453,5 +3453,91 @@
     "id": 1684,
     "fa": "همانطور که برای آخرین مرحله آماده می شویم، مایلم از تمام مشارکت های شما قدردانی صمیمانه خود را اعلام کنم",
     "en": "As we gear up for the last stretch, I wish to convey my heartfelt appreciation of all of your contributions"
+  },
+  {
+    "id": 1685,
+    "fa": "به نظر شما او (زن) می تواند دوست خوبی برای من باشد؟",
+    "en": "Do you think she can be a good friend for me?"
+  },
+  {
+    "id": 1686,
+    "fa": "اگر من بودم با او (مرد) دوست نمی شدم",
+    "en": "If I were you I wouldn't make friends with him",
+    "desc": "In this sentence, \"friends\" is the plural form of the noun because it refers to the idea of forming a relationship with someone."
+  },
+  {
+    "id": 1687,
+    "fa": "گیج شدم. نمی دانم چه کنم",
+    "en": "I'm confused. I don't know what to do"
+  },
+  {
+    "id": 1688,
+    "fa": "او (زن) پشت سر همه حرف میزنه",
+    "en": "She talks behind everybody's back"
+  },
+  {
+    "id": 1689,
+    "fa": "برادر منم دقیقا همینطوره",
+    "en": "My brother is exactly the same"
+  },
+  {
+    "id": 1690,
+    "fa": "چرا علی اینجاست؟",
+    "en": "Why is Ali here?"
+  },
+  {
+    "id": 1691,
+    "fa": "او (زن) دعوت نشده بود",
+    "en": "She wasn't invited"
+  },
+  {
+    "id": 1692,
+    "fa": "فایده ای نداشت",
+    "en": "It was no use"
+  },
+  {
+    "id": 1693,
+    "fa": "او (مرد) هرگز اشتباهش را اذعان نمی کند",
+    "en": "He never admits his mistake"
+  },
+  {
+    "id": 1694,
+    "fa": "شما برای تدریس کردن ساخته شدی",
+    "en": "You are cut out for teaching"
+  },
+  {
+    "id": 1695,
+    "fa": "تصادف وحشتناکی داشتم اما صدمه ای ندیدم",
+    "en": "I had a terrible accident but I wasn't hurt"
+  },
+  {
+    "id": 1696,
+    "fa": "من واقعا خوشحالم که شما را سالم و سلامت می بینم",
+    "en": "I'm really glad to see you safe and sound"
+  },
+  {
+    "id": 1697,
+    "fa": "به خاطر تو اخراج شدم",
+    "en": "I got fired because of you"
+  },
+  {
+    "id": 1698,
+    "fa": "من در مورد او (زن) وجدان راحت دارم",
+    "en": "I have a clear conscience about her"
+  },
+  {
+    "id": 1699,
+    "fa": "به چه حقی این کار رو می کنی؟",
+    "en": "What gives you the right to do so?"
+  },
+  {
+    "id": 1700,
+    "fa": "آیا فرصتی کردی با دخترت صحبت کنی؟",
+    "en": "Did you get a chance to talk to your daughter?"
+  },
+  {
+    "id": 1701,
+    "fa": "دلخور نشو؟",
+    "en": "Don't get offended?"
   }
 ]
