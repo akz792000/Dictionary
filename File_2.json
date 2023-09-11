@@ -37,494 +37,96 @@
   {
     "id": 10008,
     "en": "Hope to hear you",
-    "de": "Auf Wiederhören (ویداهُرِن)"
+    "de": "Auf Wiederhören (ویداهُقن)"
   },
   {
     "id": 10009,
     "en": "No Problem",
-    "de": "Kein Problem!"
+    "de": "Kein Problem! (کاین)"
   },
   {
     "id": 10010,
-    "en": "Where do you come from? (informal)",
-    "de": "Woher kommst du? (وُهِ کُمست دو)"
-  },
-  {
-    "id": 10011,
-    "en": "Who are you? (informal)",
-    "de": "Wer bist du? (وِر بیست دو)"
-  },
-  {
-    "id": 10012,
-    "en": "Which ones do you know? (formal)",
-    "de": "Welche kennen Sie? (وِلشِ)"
-  },
-  {
-    "id": 10013,
-    "en": "Who says that?",
-    "de": "Wer sagt das? (زاگت)"
-  },
-  {
-    "id": 10014,
-    "en": "Where do you live now? (informal)",
-    "de": "Wo wohnst du jetzt? (وُنست) (یِتست)"
-  },
-  {
-    "id": 10015,
-    "en": "What's your name? (informal)",
-    "de": "Wie heißt du? (هایست)"
-  },
-  {
-    "id": 10016,
     "en": "My name is Ilia",
     "de": "Ich heiße Ilia (هایسِ)"
   },
   {
-    "id": 10017,
-    "en": "What's your first name? (plural)",
-    "de": "Wie ist Ihr Vorname? (ای یا)"
-  },
-  {
-    "id": 10018,
+    "id": 10011,
     "en": "My name is Ali and I come from Iran and now live in Munich.",
     "de": "Ich heiße Ali und komme aus dem Iran und wohne jetzt in München"
   },
   {
-    "id": 10019,
+    "id": 10012,
     "en": "Welcome!",
     "de": "Herzlich willkommen!"
   },
   {
-    "id": 10020,
+    "id": 10013,
     "en": "One more time slowly please",
     "de": "Bitte noch einmal langsam (لانگ زام)"
   },
   {
-    "id": 10021,
-    "en": "The phone number is wrong",
-    "de": "Die Telefonnummer ist falsch"
-  },
-  {
-    "id": 10022,
-    "en": "I eat a salad",
-    "de": "Ich esse einen Salat"
-  },
-  {
-    "id": 10023,
+    "id": 10014,
     "en": "Get well soon!",
     "de": "Gute Besserung! (بِسرُنگ)"
   },
   {
-    "id": 10024,
-    "en": "Where are these people coming from?",
-    "de": "Woher kommen die Personen? (وُه) (پِرزُنِن)"
-  },
-  {
-    "id": 10025,
-    "en": "Registration in the company",
-    "de": "Anmeldung in der Firma"
-  },
-  {
-    "id": 10026,
-    "en": "\n Do you read with pleasure? \n Yes, I read with pleasure",
-    "de": "\n Liest du gerne? \n Ja, Ich lese gerne (لیست) (گِرنِ) (لِ ز)",
-    "desc": "Gerne: glad, with pleasure (adverb)"
-  },
-  {
-    "id": 10027,
-    "en": "\n Which type of books do you read? \n I mainly read biographies",
-    "de": "\n Welche Art von Büchern liest du? \n Ich lese hauptsächlich Biografien (بیوگ رافین) (وِلچِ) (فُن) (بًشِرن) (هاپت زِشلیش)",
-    "desc": "Art: type - hauptsächlich: mainly (adverb)"
-  },
-  {
-    "id": 10028,
-    "en": "\n Are you angry? \n No, I'm not angry",
-    "de": "\n Bist du wütend? Nein, \n Ich bin nicht wütend (ووتِند) (نیشت)"
-  },
-  {
-    "id": 10029,
-    "en": "I was just lost in thought",
-    "de": "Ich war nur in Gedanken versunken (وا) (فِزونکِن) (نو)",
-    "desc": "Gedanken = اندیشه ها - versunken = غرق شده"
-  },
-  {
-    "id": 10030,
-    "en": "I am tired",
-    "de": "Ich bin müde"
-  },
-  {
-    "id": 10031,
+    "id": 10015,
     "en": "See you later",
     "de": "Bis Später (اِشپِتا)"
   },
   {
-    "id": 10032,
+    "id": 10016,
     "en": "See you tomorrow",
     "de": "Bis morgen"
   },
   {
-    "id": 10033,
-    "en": "How are you doing? (informal) Good, and you? Bad",
-    "de": "Wie geht es dir? Gut, und dir? Schlecht (اِش لِشت) (گوت دیِ) (وی گِت اِس دیِ)"
-  },
-  {
-    "id": 10034,
-    "en": "How are you doing? (formal)",
-    "de": "Wie geht es Ihnen? (وی گِت اِس اینِن)"
-  },
-  {
-    "id": 10035,
+    "id": 10017,
     "en": "I am Ali",
     "de": "Ich bin Ali"
   },
   {
-    "id": 10036,
-    "en": "\n Where do you come from? \n I come from Germany. Funny, I do too",
-    "de": "\n Wo kommst du her? \n Ich komme aus Deutschland. Witzig, ich auch (هیِ) (ویتزیگ ایش آوخ)",
-    "desc": "Woher kommst du? ← That's the verb kommen.\n\nWo kommst du her? ← That's the verb herkommen.\n\nThe meaning is similar."
-  },
-  {
-    "id": 10037,
-    "en": "I am cold",
-    "de": "Mir ist kalt (میِ)",
-    "desc": "In German, the verb \"haben\" (to have) is often used to express physical states and needs, such as hunger, thirst, or pain. So, when you say \"Ich habe Hunger,\" you are literally saying \"I have hunger\" in English.\n\nOn the other hand, the phrase \"Mir ist kalt\" (literally, \"to me is cold\") is used to express sensations such as cold or warmth, rather than physical needs. This construction uses the dative case, which is used to indicate the indirect object of a sentence. In this case, \"mir\" (to me) is the indirect object, and \"kalt\" (cold) is the subject of the sentence."
-  },
-  {
-    "id": 10038,
-    "en": "I am warm",
-    "de": "Mir ist warm (میِ)"
-  },
-  {
-    "id": 10039,
-    "en": "I am hungry",
-    "de": "Ich habe Hunger",
-    "desc": "\n\"Ich habe\" is the correct and standard form of \"I have\" in German. However, in spoken language or informal writing, it's common to use the contracted form \"Ich hab\" instead of \"Ich habe\"."
-  },
-  {
-    "id": 10040,
-    "en": "I am thirsty",
-    "de": "Ich habe Durst"
-  },
-  {
-    "id": 10041,
-    "en": "I am full",
-    "de": "Ich bin satt (زات)"
-  },
-  {
-    "id": 10042,
-    "en": "I have to go to the loo",
-    "de": "Ich muss aufs Klo (آفس) (کُلُ)"
-  },
-  {
-    "id": 10043,
-    "en": "I am looking for a toilet",
-    "de": "Ich suche eine Toilette (زوخه)"
-  },
-  {
-    "id": 10044,
-    "en": "May I quickly use your toilet?",
-    "de": "Darf ich kurz Ihre Toilette benutzen? (ایرِ)"
-  },
-  {
-    "id": 10045,
-    "en": "How much is it?",
-    "de": "Wie viel kostet das? (وی فیل کُستت داس)"
-  },
-  {
-    "id": 10046,
-    "en": "It costs one euro",
-    "de": "Das kostet einen Euro (اُیرُ)"
-  },
-  {
-    "id": 10047,
-    "en": "That is cheap",
-    "de": "Das ist billig (بیلیگ)"
-  },
-  {
-    "id": 10048,
-    "en": "That is expensive",
-    "de": "Das ist teuer (تُیا)"
-  },
-  {
-    "id": 10049,
-    "en": "Can I pay with card?",
-    "de": "Kann ich mit Karte zahlen?"
-  },
-  {
-    "id": 10050,
-    "en": "What does this cost?",
-    "de": "Was kostet das?"
-  },
-  {
-    "id": 10051,
-    "en": "You have an appointment tomorrow (formal)",
-    "de": "Sie haben morgen einen Termin"
-  },
-  {
-    "id": 10052,
-    "en": "Parents are responsible for their children!",
-    "de": "Eltern haften für ihre Kinder! (اِلتان هافتن)"
-  },
-  {
-    "id": 10053,
+    "id": 10018,
     "en": "Hello everyone",
     "de": "Hallo zusammen"
   },
   {
-    "id": 10054,
-    "en": "Please do not speak to the driver",
-    "de": "Bitte den Fahrer nicht ansprechen (نیشت)"
-  },
-  {
-    "id": 10055,
-    "en": "\n Subject pronoun \n\n I, you, he(M)/she(F)/it(N), we, you, they",
-    "de": "\n Subjekt Pronomen \n\n ich, du, er(M)/sie(F)/es(N), wir (ویِ), ihr (ایِ), sie-Sie"
-  },
-  {
-    "id": 10056,
-    "en": "the infinitive (n, en)",
-    "de": "der infinitiv (n, en)"
-  },
-  {
-    "id": 10057,
-    "en": "Weak verbs (افعال باقاعده)",
-    "de": "Schwache Verben (regelmäßig) (رِگل مِسیگ) (شوآخه وربن)",
-    "desc": "\n ich + e \n du + st \n er/sie/es + t \n wir + en/n \n ihr + t \n sie/Sie + en/n"
-  },
-  {
-    "id": 10058,
-    "en": "Strong verbs (افعال بی قاعده)",
-    "de": "Schtarke Verben (unregelmäßig) (اون رِگل مِسیگ) (اشتارکه وربن)"
-  },
-  {
-    "id": 10059,
-    "en": "the definite article",
-    "de": "\n der bestimmte artikel (بشتیمت) \n\n Nominative der(M)/die(F)/das(N)/die(P) \n Akkusative den(M)/die(F)/das(N)/die(P) \n Dativ      dem(M)/der(F)/dem(N)/den(P)",
-    "desc": "Subjective => Nominative (فاعلی, چه کسی ,چه چیزی) \n\n Objective => Akkusative (مفعول بی واسطه, چه کسی را, چه چیزی را) \n Objective => Dativ (مفعول با واسطه, به چه کسی, به چه چیزی)"
-  },
-  {
-    "id": 10060,
-    "en": "the indefinite article",
-    "de": "\n der unbestimmte artikel (اون بشتیمت) \n\n Nominative ein(M)/eine(F)/ein(N)/-(P) \n Akkusative einen(M)/eine(F)/ein(N)/-(P) \n Dativ      einem(M)/einer(F)/einem(N)/-(P)",
-    "desc": "Subjective => Nominative (فاعلی, چه کسی ,چه چیزی) \n\n Objective => Akkusative (مفعول بی واسطه, چه کسی را, چه چیزی را) \n Objective => Dativ (مفعول با واسطه, به چه کسی, به چه چیزی)"
-  },
-  {
-    "id": 10061,
-    "en": "The man goes",
-    "de": "der Mann geht (گت)"
-  },
-  {
-    "id": 10062,
-    "en": "I see the man",
-    "de": "Ich sehe den Mann (زِ اِ)"
-  },
-  {
-    "id": 10063,
-    "en": "Peter tells the man",
-    "de": "Peter sagt dem Mann"
-  },
-  {
-    "id": 10064,
-    "en": "I give the books to my friends",
-    "de": "Ich gebe den Freunden die Bücher (ایچ گِبِ دن فرویدن دی بوشا)",
-    "desc": "به اسامی در حالت جمع داتیوی یک n به انتهایشان اضافه می شود غیر از اسامی که به n و s ختم میشود"
-  },
-  {
-    "id": 10065,
-    "en": "I learn German",
-    "de": "Ich lerne Deutsch",
-    "desc": "جمله اصلی - فاعل + فعل"
-  },
-  {
-    "id": 10066,
-    "en": "You see the car",
-    "de": "Du siehst das Auto"
-  },
-  {
-    "id": 10067,
-    "en": "You are human (formal)",
-    "de": "Ihr seid Mensch (ایِ زاید منش)"
-  },
-  {
-    "id": 10068,
-    "en": "My brother is teacher",
-    "de": "Mein bruder ist Lehrer (لیرِ)"
-  },
-  {
-    "id": 10069,
-    "en": "She is beautiful",
-    "de": "Sie ist schön"
-  },
-  {
-    "id": 10070,
-    "en": "We work every day",
-    "de": "Wie arbeiten jeden tag (ویِ آربایتن یِدن تاگ)"
-  },
-  {
-    "id": 10071,
-    "en": "\n Object pronoun - Akkusative \n\n me, you, him(M)/her(F)/it(N), us, you, them",
-    "de": "\n Objektpronomen (آبیکت پرونومن) - Akkusative \n\n mich, dich, ihn(M)(این)/sie(F)/es(N), uns (اونس), euch (اویچ), sie-Sie",
-    "desc": "بی واسطه - چه چیزی را - چه کسی را"
-  },
-  {
-    "id": 10072,
-    "en": "\n Object pronoun - Dativ \n\n me, you, him(M)/her(F)/it(N), us, you, them",
-    "de": "\n Objektpronomen (آبیکت پرونومن) - Dativ \n\n mir (میِ), dir (دیِ), ihm(M)(ایم)/ihr(F)(اییِ)/ihm(N), uns (اونس), euch (اویچ), ihnen-Ihnen (اینن)",
-    "desc": "با واسطه - به چه چیزی - به چه کسی"
-  },
-  {
-    "id": 10073,
-    "en": "I write a letter to you",
-    "de": "Ich schreibe dir einen Brief (ایچ شرایب دیِ آینن بریف)",
-    "desc": "Subject + Verb + DAT + AKK"
-  },
-  {
-    "id": 10074,
-    "en": "He gives me his book",
-    "de": "Er gibt mir sein Buch ( ار گیبت میِ زاین بوخ)",
-    "desc": "Subject + Verb + DAT + AKK"
-  },
-  {
-    "id": 10075,
-    "en": "You say the boss the information",
-    "de": "Ihr sagt dem Chef den Bescheid (ایِ زاگت دم شف دن بشاید)",
-    "desc": "Subject + Verb + DAT + AKK"
-  },
-  {
-    "id": 10076,
-    "en": "You show him the table",
-    "de": "Du zeigst ihm den Tisch (دو زاگست ایم دن تیش)",
-    "desc": "Subject + Verb + DAT + AKK"
-  },
-  {
-    "id": 10077,
-    "en": "I write a letter to you (Emphasis)",
-    "de": "Einen Brief schreibe ich dir (آینن بریف شرایب ایچ دیِ)"
-  },
-  {
-    "id": 10078,
-    "en": "He gives me his book (Emphasis)",
-    "de": "mir gibt er sein Buch (میِ گیبت ار زاین بوخ)"
-  },
-  {
-    "id": 10079,
-    "en": "You say the boss the information (Emphasis)",
-    "de": "Dem Chef sagt ihr den Bescheid (دم شف زاگت ایِ دن بشاید)"
-  },
-  {
-    "id": 10080,
-    "en": "You show him the table (Emphasis)",
-    "de": "Den Tisch zeigst du ihm (دن تیش زاگست دو ایم)"
-  },
-  {
-    "id": 10081,
-    "en": "\n I see. \n Do I see? \n What do I see? \n When do I see?",
-    "de": "\n Ich sehe (زیِ). \n Sehe ich? \n Was sehe ich? \n Wann sehe ich?"
-  },
-  {
-    "id": 10082,
-    "en": "\n You work as a teacher. \n Do you work as a teacher? \n Where do you work as a teacher?",
-    "de": "\n Du arbeitest als Lehre. \n Arbeitest du als Lehre? \n Wo arbeitest du als Lehre?"
-  },
-  {
-    "id": 10083,
-    "en": "\n She writes a letter. \n Does she write a letter? \n Why does she write a letter?",
-    "de": "\n Sie schreibt einen Brief. \n Schreibt sie einen Brief? \n Warum schreibt sie einen Brief?"
-  },
-  {
-    "id": 10084,
-    "en": "\n We go to the cinema. \n Do we go to the cinema? \n How do we go to the cinema?",
-    "de": "\n Wir gehen (گِ اِن) ins Kino. \n Gehen wir ins Kino? \n Wie gehen wir ins Kino?"
-  },
-  {
-    "id": 10085,
-    "en": "\n He does his homework gladly. \n Does he do his homework gladly? \n How does he do his homework gladly?",
-    "de": "\n Er macht gerne seine Hausaufgabe. \n Macht er gerne seine Hausaufgabe? \n Wie Macht er gerne seine Hausaufgabe?"
-  },
-  {
-    "id": 10086,
-    "en": "\n I must go to school tomorrow. \n Must I go to school tomorrow? \n Where must I go tomorrow?",
-    "de": "\n Ich muss morgen zur Schule gehen. \n Muss ich morgen zur Schule gehen? (گبهن) \n Wohin muss ich morgen gehen?"
-  },
-  {
-    "id": 10087,
-    "en": "\n We learn German diligently. \n Do we diligently learn German? \n What do we diligently learn?",
-    "de": "\n Wir lernen fleißig Deutsch. \n Lernen wir fleißig Deutsch? \n Was lernen wir fleißig?"
-  },
-  {
-    "id": 10088,
+    "id": 10019,
     "en": "\n Monday \n Tuesday \n Wednesday \n Thursday \n Friday \n Saturday \n Sunday",
     "de": "\n Montag \n Dienstag \n Mittwoch \n Donnerstag \n Freitag \n Samstag \n Sonntag"
   },
   {
-    "id": 10089,
-    "en": "I can't speak German well",
-    "de": "Ich kann nicht gut Deutsch sprechen"
+    "id": 10020,
+    "en": "What's your name? (informal)",
+    "de": "Wie heißt du? (هایست)"
   },
   {
-    "id": 10090,
-    "en": "I give you my suitcase",
-    "de": "Ich gebe dir meinen Koffer"
+    "id": 10021,
+    "en": "What's your name? (formal)",
+    "de": "Wie heißen sie? (هایسن)"
   },
   {
-    "id": 10091,
-    "en": "You ask the teacher the question",
-    "de": "Ihr fragt der Lehrerin die Frage"
+    "id": 10022,
+    "en": "You are Mr. Bieber! (formal)",
+    "de": "Sie sind Herr Bieber! (زیند)"
   },
   {
-    "id": 10092,
-    "en": "We see you",
-    "de": "Wir sehen dich"
+    "id": 10023,
+    "en": "Who are you? (informal)",
+    "de": "Wer bist du? (وِر بیست دو)"
   },
   {
-    "id": 10093,
-    "en": "Not and None",
-    "de": "Nicht and Kein",
-    "desc": "اگر اسم یا مفعول در جمله داشته باشیم که بدون حرف تعریف و یا با حرف تعربف نامعین باشد \n در این صورت جملع با kein منفی میشود که قبل از اسم آمده و صرف می شود \n در غبر این صورت جمله با nicht منفی میشود و جای آن یا بعد از فعل یا بعد از قید و یا قبل از اسم با حرف تعریف معین است "
+    "id": 10024,
+    "en": "Who are you? (informal)",
+    "de": "Wer bist du? (وِر بیست دو)"
   },
   {
-    "id": 10094,
-    "en": "\n I eat \n I do not eat",
-    "de": "\n Ich esse \n Ich esse nicht (نیشت)"
+    "id": 10025,
+    "en": "Who are you? (formal)",
+    "de": "Wer sind Sie? (وِر زیند زی)"
   },
   {
-    "id": 10095,
-    "en": "\n He comes today \n He doesn't come today",
-    "de": "\n Er kommt heute \n Er kommt heute nicht"
-  },
-  {
-    "id": 10096,
-    "en": "\n The cell phone lies on the table \n The cell phone doesn't lie on the table",
-    "de": "\n Das Handy liegt auf dem Tisch \n Das Handy liegt nicht auf dem Tisch (لیگت)"
-  },
-  {
-    "id": 10097,
-    "en": "\n I give you the book \n I don't give you the book",
-    "de": "\n Ich gebe dir das Buch \n Ich gebe dir nicht das Buch"
-  },
-  {
-    "id": 10098,
-    "en": "\n I give you a book \n I give you no book",
-    "de": "\n Ich gebe dir ein Buch \n Ich gebe dir nicht kein Buch"
-  },
-  {
-    "id": 10099,
-    "en": "\n I give you a flower \n I don't give you a flower",
-    "de": "\n Ich gebe dir eine Blume (بلومِ) \n Ich gebe dir keine Blume"
-  },
-  {
-    "id": 10100,
-    "en": "\n I drink beer \n I drink no beer",
-    "de": "\n Ich trinke Bier \n Ich trinke kein Bier"
-  },
-  {
-    "id": 10101,
-    "en": "\n I drink wine \n I drink no wine",
-    "de": "\n Ich trinke Wein \n Ich trinke keinen Wein"
-  },
-  {
-    "id": 10102,
-    "en": "I want 2 kilos of mutton and 1 kilo of veal",
-    "de": "Ich möchte 2 Kilo Hammelfleisch und 1 Kilo Kalbfleisch"
+    "id": 10026,
+    "en": "\n Subject pronoun \n\n I, you, he(M)/she(F)/it(N), we, you, they",
+    "de": "\n Subjekt Pronomen \n\n ich, du, er(M)/sie(F)/es(N), wir (ویِ), ihr (ایِ), sie-Sie"
   }
 ]
