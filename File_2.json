@@ -37,7 +37,7 @@
   {
     "id": 10008,
     "en": "Hope to hear you",
-    "de": "Auf Wiederhören (ویداهُقن)"
+    "de": "Auf Wiederhören (ویداهُرن)"
   },
   {
     "id": 10009,
@@ -128,5 +128,10 @@
     "id": 10026,
     "en": "\n Subject pronoun \n\n I, you, he(M)/she(F)/it(N), we, you, they",
     "de": "\n Subjekt Pronomen \n\n ich, du, er(M)/sie(F)/es(N), wir (ویِ), ihr (ایِ), sie-Sie"
+  },
+  {
+    "id": 10027,
+    "en": "See you soon!",
+    "de": "Bis bald! (بالت)"
   }
 ]

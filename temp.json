@@ -1,5 +1,259 @@
 [
-
+  {
+    "id":,
+    "fa": "رویای من بالاخره محقق شد و امیدوارم مدت زیادی ادامه داشته باشد",
+    "en": "My dream has finally come to fruition (/fro͞oˈiSH(ə)n/), and it will hopefully last long"
+  },
+  {
+    "id":,
+    "fa": "سیستم تخلیه جدید ما امروز راه اندازی خواهد شد",
+    "en": "Our new evacuation system will be put into operation today"
+  },
+  {
+    "id":,
+    "fa": "آیا تا به حال فکر کرده اید بالاترین ارتفاعی که هر جت جنگنده می تواند به آن برسد چیست؟",
+    "en": "Have you ever wondered what is the highest altitude any fighter jet can reach?"
+  },
+  {
+    "id":,
+    "fa": "او (زن) اجازه داد به (او) مخ دوستش را بزند برای بیش از 5 دقیقه",
+    "en": "She let him hitting on her friend for over 5 minutes"
+  },
+  {
+    "id":,
+    "fa": "به عنوان رئیس، من اجازه نداشتم باشم",
+    "en": "As chairman, I wasn't allowed to be"
+  },
+  {
+    "id":,
+    "fa": "اینجا جایی نبود؟",
+    "en": "Was there nowhere here?"
+  },
+  {
+    "id":,
+    "fa": "فکر کنم رفته",
+    "en": "I think it's gone"
+  },
+  {
+    "id":,
+    "fa": "من سعی کردم بدون اینکه آماده باشم یک غذای پیچیده بپزم, منجر به یک فاجعه آشپزی شد",
+    "en": "I attempted to cook a complex dish without being ready, resulting in a culinary disaster"
+  },
+  {
+    "id":,
+    "fa": "من مصمم بودم که او را وادار کنم تا مؤسسه را اداره کند",
+    "en": "I was determined to get him to run the Institute"
+  },
+  {
+    "id":,
+    "fa": "من یک تحسین کننده بزرگ کار شما هستم",
+    "en": "I'm a great admirer of your work"
+  },
+  {
+    "id":,
+    "fa": "او (مرد) بعد از این بیشتر آنجاست",
+    "en": "He's there most after this"
+  },
+  {
+    "id":,
+    "fa": "خدا تاس بازی نمی کند",
+    "en": "God doesn't play dice"
+  },
+  {
+    "id":,
+    "fa": "چرا بعد از تمام کارهایی که شما برای کشورتان انجام داده اید، نگران باشم؟",
+    "en": "Why would I be worried after everything you've done for your country?"
+  },
+  {
+    "id":,
+    "fa": "من نمی خواستم با دادن اطلاعات نادرست او را از خودم بیازارم",
+    "en": "I didn't want to sour him on me by giving him false information"
+  },
+  {
+    "id":,
+    "fa": "",
+    "en": "Thanks for the lift"
+  },
+  {
+    "id":,
+    "fa": "",
+    "en": ""
+  },
+  {
+    "id":,
+    "fa": "",
+    "en": ""
+  },
+  {
+    "id":,
+    "fa": "",
+    "en": ""
+  },
+  {
+    "id":,
+    "fa": "",
+    "en": ""
+  },
+  {
+    "id":,
+    "fa": "",
+    "en": ""
+  },
+  {
+    "id":,
+    "fa": "",
+    "en": ""
+  },
+  {
+    "id":,
+    "fa": "",
+    "en": ""
+  },
+  {
+    "id":,
+    "fa": "",
+    "en": ""
+  },
+  {
+    "id":,
+    "fa": "",
+    "en": ""
+  },
+  {
+    "id":,
+    "fa": "",
+    "en": ""
+  },
+  {
+    "id":,
+    "fa": "",
+    "en": ""
+  },
+  {
+    "id":,
+    "fa": "",
+    "en": ""
+  },
+  {
+    "id":,
+    "fa": "",
+    "en": ""
+  },
+  {
+    "id":,
+    "fa": "",
+    "en": ""
+  },
+  {
+    "id":,
+    "fa": "",
+    "en": ""
+  },
+  {
+    "id":,
+    "fa": "",
+    "en": ""
+  },
+  {
+    "id":,
+    "fa": "",
+    "en": ""
+  },
+  {
+    "id":,
+    "fa": "",
+    "en": ""
+  },
+  {
+    "id":,
+    "fa": "",
+    "en": ""
+  },
+  {
+    "id":,
+    "fa": "",
+    "en": ""
+  },
+  {
+    "id":,
+    "fa": "",
+    "en": ""
+  },
+  {
+    "id":,
+    "fa": "",
+    "en": ""
+  },
+  {
+    "id":,
+    "fa": "",
+    "en": ""
+  },
+  {
+    "id":,
+    "fa": "",
+    "en": ""
+  },
+  {
+    "id":,
+    "fa": "",
+    "en": ""
+  },
+  {
+    "id":,
+    "fa": "",
+    "en": ""
+  },
+  {
+    "id":,
+    "fa": "",
+    "en": ""
+  },
+  {
+    "id":,
+    "fa": "",
+    "en": ""
+  },
+  {
+    "id":,
+    "fa": "",
+    "en": ""
+  },
+  {
+    "id":,
+    "fa": "",
+    "en": ""
+  },
+  {
+    "id":,
+    "fa": "",
+    "en": ""
+  },
+  {
+    "id":,
+    "fa": "",
+    "en": ""
+  },
+  {
+    "id":,
+    "fa": "",
+    "en": ""
+  },
+  {
+    "id":,
+    "fa": "",
+    "en": ""
+  },
+  {
+    "id":,
+    "fa": "",
+    "en": ""
+  },
+  {
+    "id":,
+    "fa": "",
+    "en": ""
+  }
 ]
 
 // grammer passive till Infinitive
