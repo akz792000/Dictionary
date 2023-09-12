@@ -729,7 +729,8 @@
   {
     "id": 1144,
     "fa": "بچه ها را حمام کردم و گذاشتم تو تخت",
-    "en": "I bathed (/ˈbeɪð/) the children and put them to bed"
+    "en": "I bathed (/ˈbeɪð/) the children and put them to bed",
+    "desc": "\"Put children to bed\" means preparing them for sleep, while \"put children into bed\" means physically placing them in their beds. Use the first phrase for bedtime routines and the second for the act of placing them in bed."
   },
   {
     "id": 1145,
@@ -3377,7 +3378,7 @@
   {
     "id": 1669,
     "fa": "رئیس جمهور سوگند یاد کرد که از قانون اساسی حمایت کند",
-    "en": "The President swore to uphold the Constitution"
+    "en": "The President swore to uphold the constitution"
   },
   {
     "id": 1670,
@@ -3422,7 +3423,7 @@
   {
     "id": 1678,
     "fa": "برادرت خیلی صمیمی است",
-    "en": "Your brother is a very friendly"
+    "en": "Your brother is very friendly"
   },
   {
     "id": 1679,
@@ -3446,7 +3447,7 @@
   },
   {
     "id": 1683,
-    "fa": "احساسات جمعی بسیار مثبت بود",
+    "fa": "احساس جمعی بسیار مثبت بود",
     "en": "The collective sentiment was extremely positive"
   },
   {
@@ -3527,17 +3528,27 @@
   },
   {
     "id": 1699,
-    "fa": "به چه حقی این کار رو می کنی؟",
+    "fa": "به چه حقی همچین کاری رو می کنی؟",
     "en": "What gives you the right to do so?"
   },
   {
     "id": 1700,
-    "fa": "آیا فرصتی کردی با دخترت صحبت کنی؟",
+    "fa": "آیا فرصت کردی با دخترت صحبت کنی؟",
     "en": "Did you get a chance to talk to your daughter?"
   },
   {
     "id": 1701,
     "fa": "دلخور نشو؟",
     "en": "Don't get offended?"
+  },
+  {
+    "id": 1702,
+    "fa": "این نشانگر (مارکر) متعلق به کیست؟",
+    "en": "Whose marker is this?"
+  },
+  {
+    "id": 1702,
+    "fa": "او (مرد) کارمند دولت هستم",
+    "en": "He's a government employee"
   }
 ]

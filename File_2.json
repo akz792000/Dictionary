@@ -37,7 +37,7 @@
   {
     "id": 10008,
     "en": "Hope to hear you",
-    "de": "Auf Wiederhören (ویداهُرن)"
+    "de": "Auf Wiederhören (ویداهُقِن)"
   },
   {
     "id": 10009,
@@ -67,7 +67,7 @@
   {
     "id": 10014,
     "en": "Get well soon!",
-    "de": "Gute Besserung! (بِسرُنگ)"
+    "de": "Gute Besserung! (بِسقُنگ)"
   },
   {
     "id": 10015,
@@ -116,22 +116,52 @@
   },
   {
     "id": 10024,
-    "en": "Who are you? (informal)",
-    "de": "Wer bist du? (وِر بیست دو)"
-  },
-  {
-    "id": 10025,
     "en": "Who are you? (formal)",
     "de": "Wer sind Sie? (وِر زیند زی)"
   },
   {
-    "id": 10026,
+    "id": 10025,
     "en": "\n Subject pronoun \n\n I, you, he(M)/she(F)/it(N), we, you, they",
     "de": "\n Subjekt Pronomen \n\n ich, du, er(M)/sie(F)/es(N), wir (ویِ), ihr (ایِ), sie-Sie"
   },
   {
-    "id": 10027,
+    "id": 10026,
     "en": "See you soon!",
     "de": "Bis bald! (بالت)"
+  },
+  {
+    "id": 10027,
+    "en": "Where do you come from? (informal)",
+    "de": "Woher kommst du? (وُهِ)"
+  },
+  {
+    "id": 10028,
+    "en": "Which ones do you know? (formal)",
+    "de": "Welche kennen Sie? (ولشِ)"
+  },
+  {
+    "id": 10029,
+    "en": "Where do the people come from?",
+    "de": "Woher kommen die Personen? (وُه) (پِرزُنِن)"
+  },
+  {
+    "id": 10030,
+    "en": "He comes from Istanbul, and you?",
+    "de": "Er kommt aus Istanbul, und du?"
+  },
+  {
+    "id": 10031,
+    "en": "He comes from Istanbul, and you?",
+    "de": "Du kommst aus Syrien?"
+  },
+  {
+    "id": 10032,
+    "en": "A B C D E F G H I J K L M N O P Q R S T U V W X Y Z",
+    "de": "ah be ce de eh(اِ) ef ge(گِ) ha(ها) ih(ای) jot(یوت) ka el em en oh pe qu(کو) er es te uh(او) vau(فآو) we(وِ) ix ypsilon(اُپسیلًن) zet"
+  },
+  {
+    "id": 10033,
+    "en": "Where do you live now? (informal)",
+    "de": "Wo wohnst du jetzt? (یِتست) (وُنست) (وُ)"
   }
 ]
