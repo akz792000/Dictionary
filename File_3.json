@@ -16,22 +16,37 @@
   },
   {
     "id": 20004,
-    "en": "Know",
-    "de": "\n kenne \n kennst \n kennt \n kennen \n kennt \n kennen \n"
-  },
-  {
-    "id": 20005,
     "en": "Hear",
     "de": "\n höre \n hörst \n hört \n hören \n hört \n hören \n"
   },
   {
+    "id": 20005,
+    "en": "Know",
+    "de": "\n kenne \n kennst \n kennt \n kennen \n kennt \n kennen \n"
+  },
+  {
     "id": 20006,
-    "en": "Speak",
-    "de": "\n spreche \n sprichst \n spricht \n sprechen \n sprecht \n sprechen \n"
+    "en": "Live",
+    "de": "\n wohne \n wohnst \n wohnt \n wohnen \n wohnt \n wohnen \n"
   },
   {
     "id": 20007,
-    "en": "Live",
-    "de": "\n wohne \n wohnst \n wohnt \n wohnen \n wohnt \n wohnen \n"
+    "en": "Say",
+    "de": "\n sage \n sagst (زاگست) \n sagt \n sagen \n sagt \n sagen (زاگن)"
+  },
+  {
+    "id": 20008,
+    "en": "Speak",
+    "de": "\n spreche \n sprichst (اشپقیشست) \n spricht \n sprechen \n sprecht \n sprechen \n"
+  },
+  {
+    "id": 20009,
+    "en": "Read",
+    "de": "\n lese (لیزِ) \n liest (لیست) \n liest \n lesen (لیزن) \n lest (لیست) \n lesen \n"
+  },
+  {
+    "id": 20010,
+    "en": "Complete",
+    "de": "\n ergänze (ارگنسِ) \n ergänzt (ارگنست) \n ergänzt \n ergänzen (ارگنسن) \n ergänzt \n ergänzen \n"
   }
 ]

@@ -51,7 +51,7 @@
   },
   {
     "id": 10011,
-    "en": "My name is Ali and I come from Iran and now live in Munich.",
+    "en": "My name is Ali and I come from Iran and now live in Munich",
     "de": "Ich heiße Ali und komme aus dem Iran und wohne jetzt in München"
   },
   {
@@ -163,5 +163,30 @@
     "id": 10033,
     "en": "Where do you live now? (informal)",
     "de": "Wo wohnst du jetzt? (یِتست) (وُنست) (وُ)"
+  },
+  {
+    "id": 10034,
+    "en": "Who says that?",
+    "de": "Wer sagt das? (زاگت) (ورِ)"
+  },
+  {
+    "id": 10035,
+    "en": "Where do you live now? (formal)",
+    "de": "Wo wohnen Sie jetzt?"
+  },
+  {
+    "id": 10036,
+    "en": "Where do you live now? (formal)",
+    "de": "Ergänzen Sie die Tabelle (اِرگن) (تابلِ)"
+  },
+  {
+    "id": 10037,
+    "en": "This is Dana. She is from Lublin. This is in Poland. She now lives in Germany",
+    "de": "Das ist Dana. Sie ist aus Lublin. Das ist in Polen. Sie wohnt jetzt in Deutschland"
+  },
+  {
+    "id": 10038,
+    "en": "This is Pablo. He comes from Spain, from Leon. He now lives in Munich",
+    "de": "Das ist Pablo. Er kommt aus Spanien, aus Leon. Er wohnt jetzt in München"
   }
 ]
