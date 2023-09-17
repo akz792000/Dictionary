@@ -255,7 +255,7 @@
   },
   {
     "id": 1051,
-    "fa": "تلفن هر لحظه میتونه با اخبار هیجان انگیز از آمریکا زنگ بخورد",
+    "fa": "تلفن هر لحظه میتونست با اخبار هیجان انگیز از آمریکا زنگ بخورد",
     "en": "The phone could ring with exciting news from America at any second"
   },
   {
@@ -1135,7 +1135,7 @@
   },
   {
     "id": 1224,
-    "fa": "من برش میدارم",
+    "fa": "من برش خواهم داشت",
     "en": "I'll take it"
   },
   {
@@ -2677,7 +2677,7 @@
   },
   {
     "id": 1530,
-    "fa": "فراموش نکنید که چراق چشمک زن خود را روشن کنید قبل از اینکه بپیچید",
+    "fa": "فراموش نکنید که چراق چشمک زن خود را روشن کنید قبل از شما اینکه بپیچید",
     "en": "Don't forget to put your blinker on before you make a turn"
   },
   {
@@ -3347,7 +3347,7 @@
   },
   {
     "id": 1663,
-    "fa": "هرگز یک فرد وفادار را به حدی نرسانید  جایی که دیگر برایش مهم نباشد",
+    "fa": "هرگز یک فرد وفادار را به حدی نرسانید جایی که دیگر برایش مهم نباشد",
     "en": "Never push a loyal person to the point where they no longer care"
   },
   {
@@ -3538,8 +3538,8 @@
   },
   {
     "id": 1701,
-    "fa": "دلخور نشو؟",
-    "en": "Don't get offended?"
+    "fa": "دلخور نشو",
+    "en": "Don't get offended"
   },
   {
     "id": 1702,
@@ -3550,5 +3550,536 @@
     "id": 1703,
     "fa": "او (مرد) کارمند دولت هستم",
     "en": "He's a government employee"
+  },
+  {
+    "id": 1704,
+    "fa": "رویای من بالاخره محقق شد",
+    "en": "My dream has finally come to fruition (/fro͞oˈiSH(ə)n/)"
+  },
+  {
+    "id": 1705,
+    "fa": "سیستم تخلیه جدید ما امروز راه اندازی خواهد شد",
+    "en": "Our new evacuation system will be put into operation today"
+  },
+  {
+    "id": 1706,
+    "fa": "آیا تا به حال فکر کرده اید بالاترین ارتفاعی که هر جت جنگنده می تواند به آن برسد چیست؟",
+    "en": "Have you ever wondered what is the highest altitude any fighter jet can reach?"
+  },
+  {
+    "id": 1707,
+    "fa": "او (زن) اجازه داد به (او) مخ دوستش را بزند برای بیش از 5 دقیقه",
+    "en": "She let him hitting on her friend for over 5 minutes"
+  },
+  {
+    "id": 1708,
+    "fa": "به عنوان رئیس، من اجازه نداشتم باشم",
+    "en": "As chairman, I wasn't allowed to be"
+  },
+  {
+    "id": 1709,
+    "fa": "اینجا جایی نبود؟",
+    "en": "Was there nowhere here?"
+  },
+  {
+    "id": 1710,
+    "fa": "فکر کنم رفته",
+    "en": "I think it's gone"
+  },
+  {
+    "id": 1711,
+    "fa": "من سعی کردم بدون اینکه آماده باشم یک غذای پیچیده بپزم, منجر به یک فاجعه آشپزی شد",
+    "en": "I attempted to cook a complex dish without being ready, resulting in a culinary disaster"
+  },
+  {
+    "id": 1712,
+    "fa": "من مصمم بودم که او را وادار کنم تا مؤسسه را اداره کند",
+    "en": "I was determined to get him to run the institute"
+  },
+  {
+    "id": 1713,
+    "fa": "من یک تحسین کننده بزرگ کار شما هستم",
+    "en": "I'm a great admirer of your work"
+  },
+  {
+    "id": 1714,
+    "fa": "او (مرد) بعد از این بیشتر آنجاست",
+    "en": "He's there most after this"
+  },
+  {
+    "id": 1715,
+    "fa": "خدا تاس بازی نمی کند",
+    "en": "God doesn't play dice"
+  },
+  {
+    "id": 1716,
+    "fa": "چرا  نگران باشم بعد از تمام کارهایی که شما برای کشورتان انجام داده اید؟",
+    "en": "Why would I be worried after everything you've done for your country?"
+  },
+  {
+    "id": 1717,
+    "fa": "من نمی خواستم با دادن اطلاعات نادرست او را از خودم بیازارم",
+    "en": "I didn't want to sour him on me by giving him false information"
+  },
+  {
+    "id": 1718,
+    "fa": "ممنون از سوار کردنتان",
+    "en": "Thanks for the lift"
+  },
+  {
+    "id": 1719,
+    "fa": "چگونه می تونم کفشم را کوچکتر کنم؟",
+    "en": "How can I make my shoe smaller?"
+  },
+  {
+    "id": 1720,
+    "fa": "تو اصلا به پدرت نرفتی",
+    "en": "You don't take after your father at all"
+  },
+  {
+    "id": 1721,
+    "fa": "تو با پدرت خیلی فرق داری",
+    "en": "You're very different from your father"
+  },
+  {
+    "id": 1722,
+    "fa": "تو جنبه شوخی نداری",
+    "en": "You can't take a joke"
+  },
+  {
+    "id": 1723,
+    "fa": "آیا مادرشوهرت در زندگی خصوصی شما دخالت می کند؟",
+    "en": "Does your mother-in-law interfere in your private life?"
+  },
+  {
+    "id": 1724,
+    "fa": "کل کلاس از خندیدن منفجر شد",
+    "en": "The whole class burst out laughing"
+  },
+  {
+    "id": 1725,
+    "fa": "امروز رو مود نیستم برای بیرون رفتن",
+    "en": "I'm not in the mood for going out today"
+  },
+  {
+    "id": 1726,
+    "fa": "از کجا فهمیدی او (مرد) داشت دروغ میگفت؟",
+    "en": "How did you know he was lying?"
+  },
+  {
+    "id": 1727,
+    "fa": "چرا می خوای شغلت را ترک کنی؟",
+    "en": "Why do you want to quit your job?"
+  },
+  {
+    "id": 1728,
+    "fa": "در مورد حقوق نیست",
+    "en": "It's not about the salary"
+  },
+  {
+    "id": 1729,
+    "fa": "تو جلوی همه سرم داد زدی",
+    "en": "You shouted at me in front of everybody"
+  },
+  {
+    "id": 1730,
+    "fa": "چرا اینقدر از دست برادرت ناراحتی؟",
+    "en": "Why are you so upset with your brother?"
+  },
+  {
+    "id": 1731,
+    "fa": "تمام آخر هفته مثل اسب کار کردم",
+    "en": "I worked like a horse all weekend"
+  },
+  {
+    "id": 1732,
+    "fa": "با خانواده خوش گذشت؟",
+    "en": "Did you have fun with your family?"
+  },
+  {
+    "id": 1733,
+    "fa": "وقتشه دست از حرف زدن برداریم و اقدام کنید",
+    "en": "It's time to stop talking and take action"
+  },
+  {
+    "id": 1734,
+    "fa": "من باید به آمریکا برگردم",
+    "en": "I have to get back to America"
+  },
+  {
+    "id": 1735,
+    "fa": "هیچ کس آنجا او را جدی نمی گیرد",
+    "en": "There's no one there taking him seriously"
+  },
+  {
+    "id": 1736,
+    "fa": "بهتر است به خانه برگردی",
+    "en": "It's best you get home"
+  },
+  {
+    "id": 1737,
+    "fa": "فکر میکردم که من به شما آزمایش گرا نزدیک خواهم بود",
+    "en": "I thought I'd be close to you experimentalists"
+  },
+  {
+    "id": 1738,
+    "fa": "تئوری فقط تا اینجا شما را می رساند",
+    "en": "Theory will get you only so far"
+  },
+  {
+    "id": 1739,
+    "fa": "من دارم چیزی را آموزش می دهم که هیچ کس در اینجا علاقه ندارد",
+    "en": "I'm teaching something no one here is interested of"
+  },
+  {
+    "id": 1740,
+    "fa": "چطور می تواند هر دو باشد؟",
+    "en": "How could it be both?"
+  },
+  {
+    "id": 1741,
+    "fa": "چرا آنها بدون برنامه ریزی مناسب پروژه را شروع کرده بودند؟",
+    "en": "Why would they have started the project without proper planning?"
+  },
+  {
+    "id": 1742,
+    "fa": "چه اتفاقی برای ستاره ها می افتد وقتی أنها می میرند؟",
+    "en": "What happens to stars when they die?"
+  },
+  {
+    "id": 1743,
+    "fa": "مطمئن شوید که او (مرد) درک می کند که با خلاص شدن از دست شما چیزی لعنتی را از دست نمی دهد",
+    "en": "Make sure he understands that he's not losing a damn thing by getting rid of you"
+  },
+  {
+    "id": 1744,
+    "fa": "این همه در مورد چیست؟",
+    "en": "What's that all about?"
+  },
+  {
+    "id": 1745,
+    "fa": "پنیر کپک زده است",
+    "en": "The cheese is mouldy"
+  },
+  {
+    "id": 1746,
+    "fa": "نان کهنه است",
+    "en": "The bread is stale"
+  },
+  {
+    "id": 1747,
+    "fa": "شیر فاسد شده است",
+    "en": "The milk is spoiled"
+  },
+  {
+    "id": 1748,
+    "fa": "شیر منقضی شده است",
+    "en": "The milk has expired"
+  },
+  {
+    "id": 1749,
+    "fa": "هلوها پوسیده هستند",
+    "en": "The peaches are rotten"
+  },
+  {
+    "id": 1750,
+    "fa": "یخچال ما بو می دهد",
+    "en": "Our fridge stinks"
+  },
+  {
+    "id": 1751,
+    "fa": "چیز مهمی نیست",
+    "en": "It's not a big deal"
+  },
+  {
+    "id": 1752,
+    "fa": "سقوط بازار سهام پس انداز او (مرد) را از بین برد (پاک کرد)",
+    "en": "The stock market crash wiped out his savings"
+  },
+  {
+    "id": 1753,
+    "fa": "او (زن) قهوه را روی میز ریخت و مجبور شد آن را پاک کند",
+    "en": "She spilled coffee on the table and had to wipe it up"
+  },
+  {
+    "id": 1754,
+    "fa": "دستمال را بگیر و آب را جذب کن",
+    "en": "Take the towel and sop (/ˈsɑːp/) water up"
+  },
+  {
+    "id": 1755,
+    "fa": "کارمندم شروع به تنظیم تلفنش (مرد) در حالت شخصی در طول استراحت ناهارش کرده است",
+    "en": "My employee has begun setting his phone on personal mode during his lunch break"
+  },
+  {
+    "id": 1756,
+    "fa": "(نمی یابم) من این را قابل قبول نمی دانم",
+    "en": "I don't find this acceptable"
+  },
+  {
+    "id": 1757,
+    "fa": "داشتی چیکار میکردی وقتی بهت زنگ زدم؟",
+    "en": "What were you doing when I called you?"
+  },
+  {
+    "id": 1758,
+    "fa": "از پیشرفت من راضی هستی؟",
+    "en": "Are you satisfied with my progress?"
+  },
+  {
+    "id": 1759,
+    "fa": "باید به پسرت افتخار کنی",
+    "en": "You must be proud of your son"
+  },
+  {
+    "id": 1760,
+    "fa": "چرا مربی شما استعفا داد؟",
+    "en": "Why did your coach resign?"
+  },
+  {
+    "id": 1761,
+    "fa": "چگونه می توانم به آنچه می خواهم برسم؟",
+    "en": "How can I get what I want?"
+  },
+  {
+    "id": 1762,
+    "fa": "منم اولش مثل تو بودم",
+    "en": "I was like you at first"
+  },
+  {
+    "id": 1763,
+    "fa": "او (مرد) داره ازت سو استفاده میکنه",
+    "en": "He's taking advantage of you"
+  },
+  {
+    "id": 1764,
+    "fa": "لطفا عجولانه نتیجه گیری نکن",
+    "en": "Please don't jump to conclusion"
+  },
+  {
+    "id": 1765,
+    "fa": "آیا روز خوبی سر کار داشتی؟",
+    "en": "Did you have a good day at work?"
+  },
+  {
+    "id": 1766,
+    "fa": "مهم نیست، این چیزها می افتد",
+    "en": "It doesn't matter, these things happen"
+  },
+  {
+    "id": 1767,
+    "fa": "فکر نمی کنم تصادفی بوده باشد",
+    "en": "I don't think it was an accident"
+  },
+  {
+    "id": 1768,
+    "fa": "او (مرد) به همه ما توهین کرد",
+    "en": "He insulted all of us"
+  },
+  {
+    "id": 1769,
+    "fa": "آیا در اوقات فراغت خود ورزش می کنید؟",
+    "en": "Do you play any sports in your free time?"
+  },
+  {
+    "id": 1770,
+    "fa": "دوستان باید بدون هیچ انتظاری به یکدیگر کمک کنند",
+    "en": "Friends must help each other without expectation"
+  },
+  {
+    "id": 1771,
+    "fa": "من متعهد هستم که آزادانه در مورد چگونگی بهبود دنیای خود فکر کنم",
+    "en": "I'm committed to thinking freely about how to improve our world"
+  },
+  {
+    "id": 1772,
+    "fa": "نصف اعضای هیئت علمی رفته اند",
+    "en": "Half of the faculty is gone",
+    "desc": "The choice between \"is\" and \"has\" often depends on regional preferences and the style guide you are following. In American English, for instance, you might hear \"is gone\" more frequently, while in British English, \"has gone\" might be more common. Ultimately, both are grammatically acceptable."
+  },
+  {
+    "id": 1773,
+    "fa": "از شما می خواهم که محتاط باشید",
+    "en": "I want you to be cautious"
+  },
+  {
+    "id": 1774,
+    "fa": "وقتی بچه بودم فکر می کردم اگر بتونم راهی برای ترکیب پول و علم پیدا کنم، زندگی ام عالی میشه",
+    "en": "When I was a kid, I thought, if I could find a way to combine money and science, my life would be perfect"
+  },
+  {
+    "id": 1775,
+    "fa": "تئوری فقط شما را تا اینجا پیش خواهد برد",
+    "en": "Theory will take you only so far"
+  },
+  {
+    "id": 1776,
+    "fa": "او (مرد) خودش را کشت, اولین باری که سرش را از سنگر بیرون آورد",
+    "en": "He got himself killed the first time he popped his head out of the trench"
+  },
+  {
+    "id": 1777,
+    "fa": "درک زنان هم سن و سال من بسیار رو به کاهش است",
+    "en": "The perception of women of my age is so reductive"
+  },
+  {
+    "id": 1778,
+    "fa": "دارن طلاق میگیرن",
+    "en": "They're getting a divorce"
+  },
+  {
+    "id": 1779,
+    "fa": "بیگانه نکنید, تنها افرادی را در جهان که می دانند شما چه کار میکنید",
+    "en": "Don't alienate (/ˈeɪliəneɪt/) the only people in the world that understand what you do"
+  },
+  {
+    "id": 1780,
+    "fa": "ماهانه چه حقوقی می گیرید؟",
+    "en": "What do you get paid a month?"
+  },
+  {
+    "id": 1781,
+    "fa": "بس کن اینقدر ساده لوح لعنتی",
+    "en": "Stop being so goddamn naive"
+  },
+  {
+    "id": 1782,
+    "fa": "من اولین پرسشنامه امنیتی خود را پر کردم",
+    "en": "I filled out my first security questionnaire"
+  },
+  {
+    "id": 1783,
+    "fa": "خجالت میکشم بپرسم",
+    "en": "I'm ashamed to ask"
+  },
+  {
+    "id": 1784,
+    "fa": "برای آن هزینه ای باید پرداخت شود",
+    "en": "There is a price to be paid for that"
+  },
+  {
+    "id": 1785,
+    "fa": "جهان در مسیر جدیدی در حال چرخش است",
+    "en": "The world is pivoting (/ˈpɪvət/) in some new direction"
+  },
+  {
+    "id": 1786,
+    "fa": "آیا می توانم روی کمک شما حساب کنم؟",
+    "en": "Can I count on your help?"
+  },
+  {
+    "id": 1787,
+    "fa": "من همیشه در خدمت شما هستم",
+    "en": "I'm always at your service"
+  },
+  {
+    "id": 1788,
+    "fa": "نگران نباش, من ناامیدت نمی کنم",
+    "en": "Don't worry, I won't let you down"
+  },
+  {
+    "id": 1789,
+    "fa": "باز هم تویی؟",
+    "en": "Is that you again?"
+  },
+  {
+    "id": 1790,
+    "fa": "آیا او (مرد) هنوز از دستت عصبانیه؟",
+    "en": "Is he still angry with you?"
+  },
+  {
+    "id": 1791,
+    "fa": "ما اشتراکات زیادی داریم",
+    "en": "We have a lot in common"
+  },
+  {
+    "id": 1792,
+    "fa": "مدت زیادی است که از او (مرد) خبری ندارم",
+    "en": "I haven't heard from him for a long time"
+  },
+  {
+    "id": 1793,
+    "fa": "یه چیزی هست که میخوام باهات صحبت کنم",
+    "en": "There's something that I want to talk you about"
+  },
+  {
+    "id": 1794,
+    "fa": "من چیز زیادی در موردش نمی دانم",
+    "en": "I don't know much about it"
+  },
+  {
+    "id": 1795,
+    "fa": "ممکن است شغلم را از دست بدهم",
+    "en": "I might lose my job"
+  },
+  {
+    "id": 1796,
+    "fa": "کاش خانه ات را نفروخته بودی",
+    "en": "I wish you hadn't sold your house"
+  },
+  {
+    "id": 1797,
+    "fa": "با پولی که پس انداز کرده بودی چه کردی؟",
+    "en": "What did you do with the money you had saved?"
+  },
+  {
+    "id": 1798,
+    "fa": "او (مرد) هرگز کار خود را به درستی انجام نمی دهد",
+    "en": "He never does his job properly"
+  },
+  {
+    "id": 1799,
+    "fa": "من دیگر به تو نیازی ندارم",
+    "en": "I don't need you anymore"
+  },
+  {
+    "id": 1800,
+    "fa": "تلافی این را سرت درمیارم",
+    "en": "I'll get even with you for this"
+  },
+  {
+    "id": 1801,
+    "fa": "چطور با شوهرت آشنا شدی؟",
+    "en": "How did you meet your husband?"
+  },
+  {
+    "id": 1802,
+    "fa": "من به عشق در نگاه اول اعتقادی ندارم",
+    "en": "I don't believe in love at first sight"
+  },
+  {
+    "id": 1803,
+    "fa": "من شما را مسئول این مشکل می دانم",
+    "en": "I hold your responsible for this problem"
+  },
+  {
+    "id": 1804,
+    "fa": "امیدوارم مدت زیادی ادامه خواهد داشت",
+    "en": "It will last long hopefully"
+  },
+  {
+    "id": 1805,
+    "fa": "آیا چیزی در مورد آن روابط نامناسب یا غیراخلاقی بود؟",
+    "en": "Was anything about those relationships inappropriate or unethical?"
+  },
+  {
+    "id": 1806,
+    "fa": "من کارم را بی عیب و نقص انجام دادم, حتی یک چیز تنهایی خارج از خط نبود",
+    "en": "I did my job impeccably, not one single solitary thing was out of line"
+  },
+  {
+    "id": 1807,
+    "fa": "راه موفقیت بالا و پایین دارد، هرگز تسلیم نشوید",
+    "en": "The road to success has its ups and downs, never give up"
+  },
+  {
+    "id": 1807,
+    "fa": "راه موفقیت بالا و پایین دارد، هرگز تسلیم نشوید",
+    "en": "The road to success has its ups and downs, never give up"
+  },
+  {
+    "id": 1808,
+    "fa": "دارم فکر میکنم آیا کسی از ایران تو این گروه هست؟",
+    "en": "I'm wondering if there is anyone from Iran in this group?"
   }
 ]

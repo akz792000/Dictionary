@@ -176,7 +176,7 @@
   },
   {
     "id": 10036,
-    "en": "Where do you live now? (formal)",
+    "en": "Complete the table",
     "de": "Ergänzen Sie die Tabelle (اِرگن) (تابلِ)"
   },
   {
@@ -188,5 +188,79 @@
     "id": 10038,
     "en": "This is Pablo. He comes from Spain, from Leon. He now lives in Munich",
     "de": "Das ist Pablo. Er kommt aus Spanien, aus Leon. Er wohnt jetzt in München"
+  },
+  {
+    "id": 10039,
+    "en": "Registration in the company",
+    "de": "Anmeldung in der Firma"
+  },
+  {
+    "id": 10040,
+    "en": "Which photo fits?",
+    "de": "Welches Foto passt?",
+    "desc": "\"Welche\" is used for feminine and plural nouns:\n\n\"Welche Blume magst du?\" (Which flower do you like?)\n\"Welche Bücher liest du?\" (Which books are you reading?)\n\"Welches\" is used for neuter nouns:\n\n\"Welches Auto fährst du?\" (Which car are you driving?)\n\"Welches Tier ist das?\" (What animal is this?)"
+  },
+  {
+    "id": 10041,
+    "en": "\n Object pronoun - Akkusative \n\n me, you, him(M)/her(F)/it(N), us, you, them",
+    "de": "\n Objektpronomen (آبیکت پرونومن) - Akkusative \n\n mich, dich, ihn(M)(این)/sie(F)/es(N), uns (اونس), euch (اویچ), sie-Sie",
+    "desc": "بی واسطه - چه چیزی را - چه کسی را"
+  },
+  {
+    "id": 10042,
+    "en": "\n Object pronoun - Dativ \n\n me, you, him(M)/her(F)/it(N), us, you, them",
+    "de": "\n Objektpronomen (آبیکت پرونومن) - Dativ \n\n mir (میِ), dir (دیِ), ihm(M)(ایم)/ihr(F)(اییِ)/ihm(N), uns (اونس), euch (اویچ), ihnen-Ihnen (اینن)",
+    "desc": "با واسطه - به چه چیزی - به چه کسی"
+  },
+  {
+    "id": 10043,
+    "en": "What is your last name?",
+    "de": "Wie ist Ihr (اییِ) Familienname?",
+    "desc": "\"Ihr\" is a formal pronoun used when addressing someone with respect, especially in professional or formal situations. It is equivalent to the English \"your\" (formal) when addressing someone with respect"
+  },
+  {
+    "id": 10044,
+    "en": "How do you spell that, please?",
+    "de": "Wie schreibt man das, bitte?"
+  },
+  {
+    "id": 10045,
+    "en": "What is your first name?",
+    "de": "Wie ist Ihr (اییِ) Vorname?"
+  },
+  {
+    "id": 10046,
+    "en": "Where do you come from?",
+    "de": "Woher kommen Sie? (formal)"
+  },
+  {
+    "id": 10047,
+    "en": "What is your zip code?",
+    "de": "Wie ist Ihr (اییِ) Postleitzahl/Ort?"
+  },
+  {
+    "id": 10048,
+    "en": "What is your phone number?",
+    "de": "Wie ist Ihre (اییِ) Telefonnummer?"
+  },
+  {
+    "id": 10049,
+    "en": "Thank you Ms. Dumitru. Hope to see you",
+    "de": "Danke, Frau Dumitru. Auf Wiedersehen"
+  },
+  {
+    "id": 10050,
+    "en": "zero one two three four five six seven eight nine ten",
+    "de": "null eins zwei drei vier fünf sechs sieben acht neun zehn"
+  },
+  {
+    "id": 10051,
+    "en": "The place is beautiful",
+    "de": "Der Ort ist schön"
+  },
+  {
+    "id": 10052,
+    "en": "My origin is from Germany",
+    "de": "Meine Herkunft ist aus Deutschland"
   }
 ]
