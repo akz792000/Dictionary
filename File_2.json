@@ -26,8 +26,8 @@
   },
   {
     "id": 10006,
-    "en": "Excuse me",
-    "de": "Entschuldigung (چ)"
+    "en": "Excuse me please (formal)",
+    "de": "Entschuldigung Sie, bitte! (چ)"
   },
   {
     "id": 10007,
@@ -97,17 +97,17 @@
   {
     "id": 10020,
     "en": "What's your name? (informal)",
-    "de": "Wie heißt du? (هایست)"
+    "de": "Wie heißt (هایست) du?"
   },
   {
     "id": 10021,
     "en": "What's your name? (formal)",
-    "de": "Wie heißen sie? (هایسن)"
+    "de": "Wie heißen (هایسن) sie?"
   },
   {
     "id": 10022,
     "en": "You are Mr. Bieber! (formal)",
-    "de": "Sie sind Herr Bieber! (زیند)"
+    "de": "Sie sind (زیند) Herr Bieber!"
   },
   {
     "id": 10023,
@@ -132,17 +132,17 @@
   {
     "id": 10027,
     "en": "Where do you come from? (informal)",
-    "de": "Woher kommst du? (وُهِ)"
+    "de": "Woher (وُهِ) kommst du?"
   },
   {
     "id": 10028,
     "en": "Which ones do you know? (formal)",
-    "de": "Welche kennen Sie? (ولشِ)"
+    "de": "Welche (ولشِ) kennen Sie?"
   },
   {
     "id": 10029,
     "en": "Where do the people come from?",
-    "de": "Woher kommen die Personen? (وُه) (پِرزُنِن)"
+    "de": "Woher (وُه) kommen die Personen? (پِرزُنِن)"
   },
   {
     "id": 10030,
@@ -162,12 +162,12 @@
   {
     "id": 10033,
     "en": "Where do you live now? (informal)",
-    "de": "Wo wohnst du jetzt? (یِتست) (وُنست) (وُ)"
+    "de": "Wo (وُ) wohnst (وُنست) du jetzt? (یِتست)"
   },
   {
     "id": 10034,
     "en": "Who says that?",
-    "de": "Wer sagt das? (زاگت) (ورِ)"
+    "de": "Wer (ورِ) sagt (زاگت) das?"
   },
   {
     "id": 10035,
@@ -177,7 +177,7 @@
   {
     "id": 10036,
     "en": "Complete (you) the table (formal)",
-    "de": "Ergänzen Sie die Tabelle (اِرگن) (تابلِ)"
+    "de": "Ergänzen (اِرگن) Sie die Tabelle (تابلِ)"
   },
   {
     "id": 10037,
@@ -246,7 +246,7 @@
   {
     "id": 10049,
     "en": "Thank you Ms. Dumitru. Hope to see you",
-    "de": "Danke, Frau Dumitru. Auf Wiedersehen"
+    "de": "Danke schön, Frau Dumitru. Auf Wiedersehen"
   },
   {
     "id": 10050,
@@ -262,5 +262,105 @@
     "id": 10052,
     "en": "My origin is from Germany",
     "de": "Meine Herkunft ist aus Deutschland"
+  },
+  {
+    "id": 10053,
+    "en": "Where is the verb?",
+    "de": "Wo steht (اِشتت) das Verb?"
+  },
+  {
+    "id": 10054,
+    "en": "Complete (you) the speech bubbles (formal)",
+    "de": "Ergänzen Sie die Sprechblasen (اِرگن) (اشپقِش بلاسِ)"
+  },
+  {
+    "id": 10055,
+    "en": "Who is this?",
+    "de": "Wer ist das?"
+  },
+  {
+    "id": 10056,
+    "en": "What fits: a or b?",
+    "de": "Was passt: a oder b?"
+  },
+  {
+    "id": 10057,
+    "en": "\n Austria \n Switzerland \n Germany \n Turkey \n Romania \n Syria",
+    "de": "\n österreich (اُستِقایچ) \n die Schweiz (اِشوایتز) \n Deutschland \n die Türkei (تُرکای) \n Rumänien (قُمِنیِن) \n Syrien (زُقیِن)"
+  },
+  {
+    "id": 10058,
+    "en": "Lesson 2",
+    "de": "Leksion (لِکسیون) 2"
+  },
+  {
+    "id": 10059,
+    "en": "Thank you very much",
+    "de": "Vielen Dank"
+  },
+  {
+    "id": 10060,
+    "en": "Your welcome",
+    "de": "Bitte schön"
+  },
+  {
+    "id": 10061,
+    "en": "I am sorry",
+    "de": "Es tut mir (میِ) leid (لاید)"
+  },
+  {
+    "id": 10062,
+    "en": "I beg your pardon (question)",
+    "de": "Wie bitte"
+  },
+  {
+    "id": 10063,
+    "en": "Once again, please",
+    "de": "Noch einmal, bitte"
+  },
+  {
+    "id": 10064,
+    "en": "Please repeat",
+    "de": "Bitte wiederholen (ویدِهُلِن) Sie!"
+  },
+  {
+    "id": 10065,
+    "en": "Do you speak German? English?",
+    "de": "Sprechen (اشپقِشِن) Sie Deutsch? Englisch?"
+  },
+  {
+    "id": 10066,
+    "en": "I don't speak German? English?",
+    "de": "Ich spreche (اشپقِشِِ) kein Deutsch? Englisch?"
+  },
+  {
+    "id": 10067,
+    "en": "I speak a bit of German? English?",
+    "de": "Ich spreche (اشپقِشِِ) etwas (اتواس) Deutsch? Englisch?"
+  },
+  {
+    "id": 10068,
+    "en": "I don't understand",
+    "de": "Ich verstehe (فشتیِ) nicht (نیشت)"
+  },
+  {
+    "id": 10069,
+    "en": "I don't know",
+    "de": "Ich weiß (وایس) nicht (نیچت)"
+  },
+  {
+    "id": 10070,
+    "en": "No idea",
+    "de": "Keine (کاینِ) Ahnung (آنونگ)"
+  },
+  {
+    "id": 10071,
+    "en": "Just a moment, please",
+    "de": "Einen Moment, bitte"
+  },
+  {
+    "id": 10072,
+    "en": "Yes / No / may be",
+    "de": "Ja / Nein / Vielleicht (فی لایشت)"
   }
 ]
