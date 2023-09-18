@@ -2,42 +2,42 @@
   {
     "id": 20001,
     "en": "Be",
-    "de": "\n bin \n bist \n ist \n sind \n seid \n sind"
+    "de": "\n bin \n bist \n ist \n sind (زیند) \n seid (زاید) \n sind"
   },
   {
     "id": 20002,
     "en": "Be called",
-    "de": "\n heiße \n heißt \n heißt \n heißen \n heißt \n heißen (هایسن) \n"
+    "de": "\n heiße (هایسِ) \n heißt (هایسْت) \n heißt \n heißen \n heißt \n heißen (هایسن) \n"
   },
   {
     "id": 20003,
     "en": "Come",
-    "de": "\n komme \n kommst \n kommt \n kommen \n kommt \n kommen \n"
+    "de": "\n komme (کُمِ) \n kommst (کُمسْت) \n kommt (کُمْت) \n kommen (کُمِن) \n kommt \n kommen \n"
   },
   {
     "id": 20004,
     "en": "Hear",
-    "de": "\n höre \n hörst \n hört \n hören \n hört \n hören \n"
+    "de": "\n höre (هُقِ) \n hörst (هُرسْت) \n hört (هُرْت) \n hören (هُقِن) \n hört \n hören \n"
   },
   {
     "id": 20005,
     "en": "Know",
-    "de": "\n kenne \n kennst \n kennt \n kennen \n kennt \n kennen \n"
+    "de": "\n kenne (کِنِ) \n kennst (کِنسْت) \n kennt (کِنْت) \n kennen (کِنِن) \n kennt \n kennen \n"
   },
   {
     "id": 20006,
     "en": "Live",
-    "de": "\n wohne \n wohnst \n wohnt \n wohnen \n wohnt \n wohnen \n"
+    "de": "\n wohne (وُنِ) \n wohnst (وُنْسْت) \n wohnt (وُنْت) \n wohnen (وُنِن) \n wohnt \n wohnen \n"
   },
   {
     "id": 20007,
     "en": "Say",
-    "de": "\n sage \n sagst (زاگست) \n sagt \n sagen \n sagt \n sagen (زاگن)"
+    "de": "\n sage (زاگِ) \n sagst (زاگْسْت) \n sagt (زاگْت) \n sagen (زاگِن) \n sagt \n sagen (زاگِن)"
   },
   {
     "id": 20008,
     "en": "Speak",
-    "de": "\n spreche \n sprichst (اشپقیشست) \n spricht \n sprechen \n sprecht \n sprechen \n"
+    "de": "\n spreche (اشپقِشِ) \n sprichst (اشپقیشْسْت) \n spricht (اشپقیشْت) \n sprechen (اشپقِشِن) \n sprecht (اشپقِشِْت) \n sprechen \n"
   },
   {
     "id": 20009,
@@ -47,26 +47,26 @@
   {
     "id": 20010,
     "en": "Complete",
-    "de": "\n ergänze (ارگنسِ) \n ergänzt (ارگنست) \n ergänzt \n ergänzen (ارگنسن) \n ergänzt \n ergänzen \n"
+    "de": "\n ergänze (ارگنسِِ) \n ergänzt (ارگنسْت) \n ergänzt \n ergänzen (ارگنسِن) \n ergänzt \n ergänzen \n"
   },
   {
     "id": 20011,
-    "en": "An melden",
-    "de": "\n melde an \n meldest an \n meldet an \n melden an \n meldet an \n melden an \n"
+    "en": "Register",
+    "de": "\n melde an (مِلدِ آن) \n meldest an (مِلدِسْت) \n meldet an (مِلدِت) \n melden an \n meldet an \n melden an \n"
   },
   {
     "id": 20012,
     "en": "Write",
-    "de": "\n schreibe (اِشقایبن) \n schreibst (اِشقایبْست) \n schreibt (اِشقایْت) \n schreiben \n schreibt \n schreiben \n"
+    "de": "\n schreibe (اِشقایْبِ) \n schreibst (اِشقایبْسْت) \n schreibt (اِشقایبْت) \n schreiben (اِشقایْبِن) \n schreibt \n schreiben \n"
   },
   {
     "id": 20013,
     "en": "Ask",
-    "de": "\n frage \n fragst (فقاگْست) \n fragt (فقاگْت) \n fragen \n fragt \n fragen \n"
+    "de": "\n frage (فقاگِ) \n fragst (فقاگْست) \n fragt (فقاگْت) \n fragen \n fragt \n fragen \n"
   },
   {
     "id": 20014,
     "en": "Answer",
-    "de": "\n antwort (آن فُرت) \n antwortest (آن فُرتِست) \n antwortet (آن فُرتِت) \n antworten \n antwortet \n antworten \n"
+    "de": "\n antwort (آنتفُرت) \n antwortest (آنتفُرتِست) \n antwortet (آنتفُرتِت) \n antworten (آنتفُرتِن) \n antwortet \n antworten \n"
   }
 ]
