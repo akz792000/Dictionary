@@ -2,7 +2,8 @@
   {
     "id": 1001,
     "fa": "ولم کن",
-    "en": "Let go of me"
+    "en": "Let go of me",
+    "desc": "The correct phrase is \"Let go of me.\" This phrase is used to instruct or request someone to release their grip or hold on you."
   },
   {
     "id": 1002,
@@ -2179,7 +2180,7 @@
   },
   {
     "id": 1431,
-    "fa": "اولش باور نکردم",
+    "fa": "اول باورش نکردم",
     "en": "I didn't believe it at first"
   },
   {
@@ -2407,7 +2408,7 @@
   },
   {
     "id": 1476,
-    "fa": "اگر به جشن تولدم نیای، هرگز با تو صحبت نخواهم کرد",
+    "fa": "اگر به جشن تولدم نیای، هرگز دوباره با تو صحبت نخواهم کرد",
     "en": "If you don't come to my birthday party I will never talk to you again"
   },
   {
@@ -3558,7 +3559,7 @@
   },
   {
     "id": 1705,
-    "fa": "سیستم تخلیه جدید ما امروز راه اندازی خواهد شد",
+    "fa": "سیستم تخلیه جدید ما امروز عملیاتی خواهد شد",
     "en": "Our new evacuation system will be put into operation today"
   },
   {
@@ -3568,13 +3569,13 @@
   },
   {
     "id": 1707,
-    "fa": "او (زن) اجازه داد به (او) مخ دوستش را بزند برای بیش از 5 دقیقه",
+    "fa": "او (زن) اجازه داد بهش (مرد) مخ دوستش (زن) را بزند برای بیش از 5 دقیقه",
     "en": "She let him hitting on her friend for over 5 minutes"
   },
   {
     "id": 1708,
-    "fa": "به عنوان رئیس، من اجازه نداشتم باشم",
-    "en": "As chairman, I wasn't allowed to be"
+    "fa": "اجازه نداشتم باشم",
+    "en": "I wasn't allowed to be"
   },
   {
     "id": 1709,
@@ -3708,7 +3709,7 @@
   },
   {
     "id": 1735,
-    "fa": "هیچ کس آنجا او را جدی نمی گیرد",
+    "fa": "هیچ کس آنجا نیست او (مرد) را جدی بگیرد",
     "en": "There's no one there taking him seriously"
   },
   {
@@ -3739,11 +3740,12 @@
   {
     "id": 1741,
     "fa": "چرا آنها بدون برنامه ریزی مناسب پروژه را شروع کرده بودند؟",
-    "en": "Why would they have started the project without proper planning?"
+    "en": "Why would they have started the project without proper planning?",
+    "desc": "This sentence uses the modal verb \"would\" to express a hypothetical or speculative aspect. It implies that you are considering a possible scenario where they may have started the project without proper planning and are questioning why they would do that."
   },
   {
     "id": 1742,
-    "fa": "چه اتفاقی برای ستاره ها می افتد وقتی أنها می میرند؟",
+    "fa": "چه اتفاقی برای ستاره ها می افتد وقتی آنها می میرند؟",
     "en": "What happens to stars when they die?"
   },
   {
@@ -3754,11 +3756,12 @@
   {
     "id": 1744,
     "fa": "این همه در مورد چیست؟",
-    "en": "What's that all about?"
+    "en": "What's all that about?",
+    "desc": "\nBoth \"What's that all about\" and \"What's all that about\" are correct and can be used interchangeably in many situations"
   },
   {
     "id": 1745,
-    "fa": "پنیر کپک زده است",
+    "fa": "پنیر کپک زده",
     "en": "The cheese is mouldy"
   },
   {
@@ -3768,22 +3771,22 @@
   },
   {
     "id": 1747,
-    "fa": "شیر فاسد شده است",
+    "fa": "شیر فاسد شده",
     "en": "The milk is spoiled"
   },
   {
     "id": 1748,
-    "fa": "شیر منقضی شده است",
-    "en": "The milk has expired"
+    "fa": "شیر منقضی شده",
+    "en": "The milk is expired"
   },
   {
     "id": 1749,
-    "fa": "هلوها پوسیده هستند",
+    "fa": "هلوها پوسیدند",
     "en": "The peaches are rotten"
   },
   {
     "id": 1750,
-    "fa": "یخچال ما بو می دهد",
+    "fa": "یخچال ما بو می ده",
     "en": "Our fridge stinks"
   },
   {
@@ -3884,12 +3887,12 @@
   {
     "id": 1770,
     "fa": "دوستان باید بدون هیچ انتظاری به یکدیگر کمک کنند",
-    "en": "Friends must help each other without expectation"
+    "en": "Friends must help each other without any expectation"
   },
   {
     "id": 1771,
-    "fa": "من متعهد هستم که آزادانه در مورد چگونگی بهبود دنیای خود فکر کنم",
-    "en": "I'm committed to thinking freely about how to improve our world"
+    "fa": "من متعهد هستم که آزادانه در مورد چگونگی بهبود دنیای خودم فکر کنم",
+    "en": "I'm committed to thinking freely about how to improve my world"
   },
   {
     "id": 1772,
@@ -3924,8 +3927,9 @@
   },
   {
     "id": 1778,
-    "fa": "دارن طلاق میگیرن",
-    "en": "They're getting a divorce"
+    "fa": "آنها دارن طلاق میگیرن",
+    "en": "They're getting a divorce",
+    "desc": "In English, when referring to the legal process of ending a marriage, you typically use the phrase \"getting a divorce\" to indicate that a couple is in the process of divorcing or has decided to divorce. \"Getting divorce\" without the article \"a\" is not grammatically correct in this context."
   },
   {
     "id": 1779,
@@ -3934,7 +3938,7 @@
   },
   {
     "id": 1780,
-    "fa": "ماهانه چه حقوقی می گیرید؟",
+    "fa": "چه (حقوقی) به شما پرداخت می شود به شما در ماه؟",
     "en": "What do you get paid a month?"
   },
   {
@@ -3954,13 +3958,13 @@
   },
   {
     "id": 1784,
-    "fa": "برای آن هزینه ای باید پرداخت شود",
+    "fa": "قیمتی وجود دارد (که باید) برای آن پرداخت شود",
     "en": "There is a price to be paid for that"
   },
   {
     "id": 1785,
-    "fa": "جهان در مسیر جدیدی در حال چرخش است",
-    "en": "The world is pivoting (/ˈpɪvət/) in some new direction"
+    "fa": "جهان داره در یک مسیر جدیدی می چرخه",
+    "en": "The world is pivoting (/ˈpɪvət/) in a new direction"
   },
   {
     "id": 1786,
@@ -3994,7 +3998,7 @@
   },
   {
     "id": 1792,
-    "fa": "مدت زیادی است که از او (مرد) خبری ندارم",
+    "fa": "از او (مرد) نشنیدم برای مدت زیادی",
     "en": "I haven't heard from him for a long time"
   },
   {
@@ -4019,7 +4023,7 @@
   },
   {
     "id": 1797,
-    "fa": "با پولی که پس انداز کرده بودی چه کردی؟",
+    "fa": "چه کردی با پولی که پس انداز کرده بودی؟",
     "en": "What did you do with the money you had saved?"
   },
   {
@@ -4054,8 +4058,8 @@
   },
   {
     "id": 1804,
-    "fa": "امیدوارم مدت زیادی ادامه خواهد داشت",
-    "en": "It will last long hopefully"
+    "fa": "مدت زیادی ادامه خواهد داشت",
+    "en": "It will last long"
   },
   {
     "id": 1805,
@@ -4064,12 +4068,12 @@
   },
   {
     "id": 1806,
-    "fa": "من کارم را بی عیب و نقص انجام دادم, حتی یک چیز تنهایی خارج از خط نبود",
+    "fa": "من شغلم را بی عیب و نقص انجام دادم, حتی یک چیز تنهایی خارج از خط نبود",
     "en": "I did my job impeccably, not one single solitary thing was out of line"
   },
   {
     "id": 1807,
-    "fa": "راه موفقیت بالا و پایین دارد، هرگز تسلیم نشوید",
+    "fa": "راه موفقیت بالا و پایین خودش را دارد، هرگز تسلیم نشوید",
     "en": "The road to success has its ups and downs, never give up"
   },
   {
