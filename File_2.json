@@ -362,5 +362,83 @@
     "id": 10072,
     "en": "Yes / No / may be",
     "de": "Ja / Nein / Vielleicht (فی لایشت)"
+  },
+  {
+    "id": 10073,
+    "en": "Complete (you) the dialog (formal)",
+    "de": "Ergänzen (اِرگن) Sie die Dialog (دیالُگ)"
+  },
+  {
+    "id": 10074,
+    "en": "Listen (you) for check (formal)",
+    "de": "Hören Sie zur (ثُر) kontrolle (کًنترُلِ)"
+  },
+  {
+    "id": 10075,
+    "en": "Write (you) sntences (formal)",
+    "de": "Schreiben Sie Sätze (ستزِ)"
+  },
+  {
+    "id": 10076,
+    "en": "House number 7 is located on Linden Street",
+    "de": "Die Hausnummer (هآوسنوما) 7 befindet (بیفیندیت) sich (زیش) in der Lindenstraße",
+    "desc": "\"Befindet sich\" means \"is located\""
+  },
+  {
+    "id": 10077,
+    "en": "How do you spell that?",
+    "de": "Wie buchstabiert (بوخشدابیرت) man (من) das (داس)?"
+  },
+  {
+    "id": 10078,
+    "en": "Tools for learning German",
+    "de": "Werkzeuge (ورک زُیگِ) zum (ثُم) Deutschlernen"
+  },
+  {
+    "id": 10079,
+    "en": "This is my pen",
+    "de": "Das ist mein Kuli (کولی)"
+  },
+  {
+    "id": 10080,
+    "en": "I have a pencil",
+    "de": "Ich habe einen Bleistift (بلایشتیفت)"
+  },
+  {
+    "id": 10081,
+    "en": "I need an eraser",
+    "de": "Ich brauche (بِقآوخِ) einen Radiergummi (رادیِرگومی)"
+  },
+  {
+    "id": 10082,
+    "en": "The marker is colorful",
+    "de": "Der Marker ist bunt (بونت)"
+  },
+  {
+    "id": 10083,
+    "en": "Start your German notebook",
+    "de": "Beginnen Sie Ihr Deutschheft"
+  },
+  {
+    "id": 10084,
+    "en": "Names (Eleni) and nouns (Evening, Notebook) one writes in uppercase",
+    "de": "Namen (Eleni) und Nomen (Abend, Heft) schreibt man Groß",
+    "desc": "The word \"man\" is used in an impersonal sense, meaning \"one\" or \"people\" in English."
+  },
+  {
+    "id": 10085,
+    "en": "At the beginning of a sentence one writes in uppercase",
+    "de": "Am (at) Satzanfang (زَتثان فانگ) schreibt man groß",
+    "desc": "The word \"man\" is used in an impersonal sense, meaning \"one\" or \"people\" in English."
+  },
+  {
+    "id": 10086,
+    "en": "At the end of ssntence stands one dot",
+    "de": "Am (at) Satzende (زاتس اندِ) steht (اشتِت) ein Punkt"
+  },
+  {
+    "id": 10087,
+    "en": "After a question there is a question mark: What is your name?",
+    "de": "Nach (ناخ) einer (آین) Frage (فقاگِ) steht (اشتِت) ein Fragezeichen (فقاگِتزایشن): Wie heißen Sie?"
   }
 ]
