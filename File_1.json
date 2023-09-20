@@ -1060,7 +1060,7 @@
   },
   {
     "id": 1209,
-    "fa": "آیا می توانم نقدی پرداخت کنم؟",
+    "fa": "می توانم نقدی پرداخت کنم؟",
     "en": "Can I pay cash?"
   },
   {
@@ -1834,7 +1834,7 @@
   {
     "id": 1362,
     "fa": "چرا نمی توانی همه اینها را در یک پیام تایپ کنید؟",
-    "en": "Why can't you type all this in one message?"
+    "en": "Why can't you type all of this in one message?"
   },
   {
     "id": 1363,
@@ -3428,7 +3428,7 @@
   },
   {
     "id": 1679,
-    "fa": "چرا دیگه به ملاقات دوستت نمیری",
+    "fa": "چرا دیگه  تو به ملاقات دوستت نمیری",
     "en": "Why don't you visit your friend anymore"
   },
   {
@@ -3554,8 +3554,8 @@
   },
   {
     "id": 1704,
-    "fa": "رویای من بالاخره محقق شد",
-    "en": "My dream has finally come to fruition (/fro͞oˈiSH(ə)n/)"
+    "fa": "رویای من بالاخره به باروری رسید",
+    "en": "My dream has finally come to fruition (/fro͞oˈiSH(ə)n/) (فروایشن)"
   },
   {
     "id": 1705,
@@ -3579,8 +3579,8 @@
   },
   {
     "id": 1709,
-    "fa": "اینجا جایی نبود؟",
-    "en": "Was there nowhere here?"
+    "fa": "به دنبال چه نوع شغلی می گردید؟",
+    "en": "What kind of job are you looking for?"
   },
   {
     "id": 1710,
@@ -3589,7 +3589,7 @@
   },
   {
     "id": 1711,
-    "fa": "من سعی کردم بدون اینکه آماده باشم یک غذای پیچیده بپزم, منجر به یک فاجعه آشپزی شد",
+    "fa": "من تلاش کردم بدون اینکه آماده باشم یک غذای پیچیده بپزم, منجر به یک فاجعه آشپزی شد",
     "en": "I attempted to cook a complex dish without being ready, resulting in a culinary disaster"
   },
   {
@@ -3604,7 +3604,7 @@
   },
   {
     "id": 1714,
-    "fa": "او (مرد) بعد از این بیشتر آنجاست",
+    "fa": "او (مرد) بعد از این اکثراً آنجاست",
     "en": "He's there most after this"
   },
   {
@@ -3620,7 +3620,7 @@
   {
     "id": 1717,
     "fa": "من نمی خواستم با دادن اطلاعات نادرست او را از خودم بیازارم",
-    "en": "I didn't want to sour him on me by giving him false information"
+    "en": "I didn't want to sour (/ˈsaʊər/) him on me by giving him false information"
   },
   {
     "id": 1718,
@@ -3714,7 +3714,7 @@
   },
   {
     "id": 1736,
-    "fa": "بهتر است به خانه برگردی",
+    "fa": "بهترین است برای تو به خانه برگردی",
     "en": "It's best you get home"
   },
   {
@@ -3724,8 +3724,8 @@
   },
   {
     "id": 1738,
-    "fa": "تئوری فقط تا اینجا شما را می رساند",
-    "en": "Theory will get you only so far"
+    "fa": "زیاد نه این روزها",
+    "en": "Not much these days"
   },
   {
     "id": 1739,
@@ -3734,7 +3734,7 @@
   },
   {
     "id": 1740,
-    "fa": "چطور می تواند هر دو باشد؟",
+    "fa": "چگونه می توانست هر دو باشد؟",
     "en": "How could it be both?"
   },
   {
@@ -3841,7 +3841,7 @@
   },
   {
     "id": 1761,
-    "fa": "چگونه می توانم به آنچه می خواهم برسم؟",
+    "fa": "چگونه می توانم بگیرم آنچه را می خواهم؟",
     "en": "How can I get what I want?"
   },
   {
@@ -3881,7 +3881,7 @@
   },
   {
     "id": 1769,
-    "fa": "آیا در اوقات فراغت خود ورزش می کنید؟",
+    "fa": "آیا در اوقات فراغت خود هر ورزشی را بازی می کنید؟",
     "en": "Do you play any sports in your free time?"
   },
   {
@@ -3913,7 +3913,7 @@
   {
     "id": 1775,
     "fa": "تئوری فقط شما را تا اینجا پیش خواهد برد",
-    "en": "Theory will take you only so far"
+    "en": "Theory (ثی اِری) will take you only so far"
   },
   {
     "id": 1776,
@@ -3938,7 +3938,7 @@
   },
   {
     "id": 1780,
-    "fa": "چه (حقوقی) به شما پرداخت می شود به شما در ماه؟",
+    "fa": "چه (حقوقی) به شما پرداخت می شود در ماه؟",
     "en": "What do you get paid a month?"
   },
   {
