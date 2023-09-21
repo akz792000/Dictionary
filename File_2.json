@@ -61,8 +61,8 @@
   },
   {
     "id": 10013,
-    "en": "One more time slowly please",
-    "de": "Bitte noch einmal langsam (لانگ زام)"
+    "en": "One more again slowly please",
+    "de": "Bitte noch (again) einmal langsam (لانگ زام)"
   },
   {
     "id": 10014,
@@ -177,7 +177,7 @@
   {
     "id": 10036,
     "en": "Complete (you) the table (formal)",
-    "de": "Ergänzen (اِرگن) Sie die Tabelle (تابلِ)"
+    "de": "Ergänzen (اِرگن) Sie die Tabelle (تابِلِ)"
   },
   {
     "id": 10037,
@@ -251,7 +251,7 @@
   {
     "id": 10050,
     "en": "zero one two three four five six seven eight nine ten",
-    "de": "null eins zwei drei vier fünf sechs sieben acht neun zehn"
+    "de": "null eins zwei drei vier fünf sechs sieben acht neun (نوین) zehn"
   },
   {
     "id": 10051,
@@ -265,7 +265,7 @@
   },
   {
     "id": 10053,
-    "en": "Where is the verb?",
+    "en": "Where does that verb stand?",
     "de": "Wo steht (اِشتت) das Verb?"
   },
   {
@@ -331,12 +331,12 @@
   {
     "id": 10066,
     "en": "I don't speak German? English?",
-    "de": "Ich spreche (اشپقِشِِ) kein Deutsch? Englisch?"
+    "de": "Ich spreche (اشپقِشِ) kein Deutsch? Englisch?"
   },
   {
     "id": 10067,
     "en": "I speak a bit of German? English?",
-    "de": "Ich spreche (اشپقِشِِ) etwas (اتواس) Deutsch? Englisch?"
+    "de": "Ich spreche (اشپقِشِ) etwas (اتواس) Deutsch? Englisch?"
   },
   {
     "id": 10068,
@@ -361,7 +361,7 @@
   {
     "id": 10072,
     "en": "Yes / No / may be",
-    "de": "Ja / Nein / Vielleicht (فی لایشت)"
+    "de": "Ja (یا) / Nein (ناین) / Vielleicht (فی لایشت)"
   },
   {
     "id": 10073,
@@ -371,11 +371,11 @@
   {
     "id": 10074,
     "en": "Listen (you) for check (formal)",
-    "de": "Hören Sie zur (ثُر) kontrolle (کًنترُلِ)"
+    "de": "Hören Sie zur (ثُر) kontrolle (کُنترُلِ)"
   },
   {
     "id": 10075,
-    "en": "Write (you) sntences (formal)",
+    "en": "Write (you) sentences (formal)",
     "de": "Schreiben Sie Sätze (ستزِ)"
   },
   {
@@ -417,7 +417,7 @@
   {
     "id": 10083,
     "en": "Start your German notebook",
-    "de": "Beginnen Sie Ihr Deutschheft"
+    "de": "Beginnen (بی گینن) Sie Ihr Deutschheft"
   },
   {
     "id": 10084,
@@ -428,17 +428,17 @@
   {
     "id": 10085,
     "en": "At the beginning of a sentence one writes in uppercase",
-    "de": "Am (at) Satzanfang (زَتثان فانگ) schreibt man groß",
+    "de": "Am (at) Satzanfang (زاتس آن فانگ) schreibt man groß",
     "desc": "The word \"man\" is used in an impersonal sense, meaning \"one\" or \"people\" in English."
   },
   {
     "id": 10086,
-    "en": "At the end of ssntence stands one dot",
+    "en": "At the end of sentence stands one dot",
     "de": "Am (at) Satzende (زاتس اندِ) steht (اشتِت) ein Punkt"
   },
   {
     "id": 10087,
-    "en": "After a question there is a question mark: What is your name?",
+    "en": "After a question a question mark stands: What is your name?",
     "de": "Nach (ناخ) einer (آین) Frage (فقاگِ) steht (اشتِت) ein Fragezeichen (فقاگِتزایشن): Wie heißen Sie?"
   }
 ]
