@@ -1,14 +1,5 @@
 [
-  {
-    "id": ,
-    "fa": "من دانشجوی سال اول این دانشگاه هستم",
-    "en": "I'm a freshman at this university"
-  },
-  {
-    "id": ,
-    "fa": "من دانش آموز سال دوم این دبیرستان هستم",
-    "en": "I'm a sophomore at this high school"
-  },
+
   {
     "id": ,
     "fa": "من همچنین برای اخبار در اینترنت گشت و گذار می کنم",
@@ -196,8 +187,163 @@
   },
   {
     "id": ,
-    "fa": "پشیمان نیستم",
-    "en": "I have no regrets"
+    "fa": "شما هرگز نمی دانید چه زمانی قصد دارید به یکی نیاز داشته باشید",
+    "en": "You never know when you are gonna need one"
+  },
+  {
+    "id": ,
+    "fa": "از کجا قراره چاپگر پیدا کنم؟",
+    "en": "Where am I supposed to find a printer?"
+  },
+  {
+    "id": ,
+    "fa": "از خودت خوب مراقب کن",
+    "en": "Take a good care of yourself"
+  },
+  {
+    "id": ,
+    "fa": "هر دوی آنها واقعاً برای شما خوب به نظر می رسند",
+    "en": "Both of them look really good on you"
+  },
+  {
+    "id": ,
+    "fa": "میشه از ما عکس بگیری",
+    "en": "Can you take a picture of us?"
+  },
+  {
+    "id": ,
+    "fa": "من می خواهم به این آدرس بروم اما مطمئن نیستم که کدام اتوبوس را باید بگیرم؟",
+    "en": "I wanna go to this address but I'm not sure which bus I should take?"
+  },
+  {
+    "id": ,
+    "fa": "تو خیلی لجوج هستی تو هرگز نصیحت من را نمی پذیری",
+    "en": "You're so stubborn you never take my advice"
+  },
+  {
+    "id": ,
+    "fa": "آیا می توانم یک نصیحت به شما کنم؟",
+    "en": "Can I give you a piece of advice?"
+  },
+  {
+    "id": ,
+    "fa": "چرا بقیه روز را مرخصی نمی گیری؟",
+    "en": "Why don't you take the rest of the day off?"
+  },
+  {
+    "id": ,
+    "fa": "نگران نباشید. من از آن برای شما مراقبت خواهم کرد",
+    "en": "Don't worry. I'll take care of it for you"
+  },
+  {
+    "id": ,
+    "fa": "من حتی برای آن وقت ندارم",
+    "en": "I don't even have time for that"
+  },
+  {
+    "id": ,
+    "fa": "میتونی منو برگردونی خونه؟",
+    "en": "Can you take me back home?"
+  },
+  {
+    "id": ,
+    "fa": "نمی توانم چشم از تو بردارم",
+    "en": "I can't take my eyes off you"
+  },
+  {
+    "id": ,
+    "fa": "باید از این فرصت استفاده کنی",
+    "en": "You should take advantage of this opportunity"
+  },
+  {
+    "id": ,
+    "fa": "او تصمیم گرفت که اوضاع را خودش به دست بگیرد",
+    "en": "He decided to take matters into his own hands"
+  },
+  {
+    "id": ,
+    "fa": "می تونی آن را با خودت ببری",
+    "en": "You can take it with you"
+  },
+  {
+    "id": ,
+    "fa": "باید موتور رو جدا کنم ببینم مشکلش چیه",
+    "en": "I need to take the engine apart to see what the problem is"
+  },
+  {
+    "id": ,
+    "fa": "من معمولاً تمرین می کنم تا ذهنم را از مشکلاتم برهانم",
+    "en": "I usually work out to take my mind off my problems"
+  },
+  {
+    "id": ,
+    "fa": "او (مرد) به من گفت که برای من کاری پیدا خواهد کرد و من رو حرفش حساب کردم",
+    "en": "He told me he would find me a job and I took his word for it"
+  },
+  {
+    "id": ,
+    "fa": "تمام روز طول کشید تا به خانه برگردم",
+    "en": "It took me all day to drive back home"
+  },
+  {
+    "id": ,
+    "fa": "تقریبا 3 سال از ما وقت گرفته",
+    "en": "It's taken us almost 3 years"
+  },
+  {
+    "id": ,
+    "fa": "شوخی کردم اما او اشتباه گرفتش",
+    "en": "I was joking but he took it the wrong way"
+  },
+  {
+    "id": ,
+    "fa": "من دوست دارم نظر شما را در مورد این موضوع بگیرم",
+    "en": "I'd love to hear your take on this issue"
+  },
+  {
+    "id": ,
+    "fa": "آتش سوزی سال گذشته جان او را گرفت",
+    "en": "Fire took her life last year"
+  },
+  {
+    "id": ,
+    "fa": "چرا هیچ یک از تماس های من را  جواب نمی دی (نمی گیری)؟",
+    "en": "Why don't you take any of my call?"
+  },
+  {
+    "id": ,
+    "fa": "شروع کردم به گرفتن درس پیانو",
+    "en": "I've started taking piano lessons"
+  },
+  {
+    "id": ,
+    "fa": "من هرگز در عمرم (تاکید) گلف بازی نکرده ام اما دوست دارم امتحانش کنم",
+    "en": "I have never played golf ever in my life and I'd love to take a shot at it"
+  },
+  {
+    "id": ,
+    "fa": "من کمی دلخورم",
+    "en": "I'm a little bit offended"
+  },
+  {
+    "id": ,
+    "fa": "بیا اینجا",
+    "en": "Get over here"
+  },
+  {
+    "id": ,
+    "fa": "",
+    "en": ""
+  },
+  {
+    "id": ,
+    "fa": "",
+    "en": ""
+  },
+  {
+    "id": ,
+    "fa": "",
+    "en": ""
   }
 
 ]

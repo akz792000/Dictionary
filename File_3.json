@@ -88,5 +88,35 @@
     "id": 20018,
     "en": "Need",
     "de": "\n brauche (بِقآوخِ) \n brauchst (بِقآوخست) \n braucht (بِقآوخت) \n brauchen (بِقآوخِن) \n braucht \n brauchen \n"
+  },
+  {
+    "id": 20019,
+    "en": "Save",
+    "de": "\n speichere (اِشپای شِقِ) \n speicherst (اِشپای شرست) \n speichert (اِشپای شرت) \n speichern \n speichert \n speichern \n"
+  },
+  {
+    "id": 20020,
+    "en": "Note",
+    "de": "\n notiere (نُتیقِ) \n notierst (نُتیرْسْت) \n notiert (نُتیرْت) \n notieren (نُتیقِن) \n notiert \n notieren \n"
+  },
+  {
+    "id": 20021,
+    "en": "Have",
+    "de": "\n habe (هابِ) \n hast (هاست) \n hat (هات) \n haben \n habt (هابت) \n haben"
+  },
+  {
+    "id": 20022,
+    "en": "Eat",
+    "de": "\n esse \n isst \n isst \n essen \n esst \n essen (اِسِن)"
+  },
+  {
+    "id": 20023,
+    "en": "Work",
+    "de": "\n arbeite \n arbeitest \n arbeitet \n arbeiten \n arbeitet \n arbeiten (آربایتن)"
+  },
+  {
+    "id": 20024,
+    "en": "See",
+    "de": "\n sehe (زِ اِ) \n siehst (زیست) \n sieht (زیت) \n sehen \n seht (زیت) \n sehen (زِ اِن)"
   }
 ]

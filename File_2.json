@@ -177,7 +177,7 @@
   },
   {
     "id": 10036,
-    "en": "Complete (you) the table (formal)",
+    "en": "Complete the table (formal)",
     "de": "Ergänzen (اِرگن) Sie die Tabelle (تابِلِ)"
   },
   {
@@ -241,8 +241,8 @@
   },
   {
     "id": 10048,
-    "en": "What is your phone number?",
-    "de": "Wie ist Ihre (اییِ) Telefonnummer?"
+    "en": "What is your Telephone number?",
+    "de": "Wie ist Ihre (اییِ) Telefonnummer? (تلفن نوما)"
   },
   {
     "id": 10049,
@@ -271,7 +271,7 @@
   },
   {
     "id": 10054,
-    "en": "Complete (you) the speech bubbles (formal)",
+    "en": "Complete the speech bubbles (formal)",
     "de": "Ergänzen Sie die Sprechblasen (اِرگن) (اشپقِش بلاسِن)"
   },
   {
@@ -366,17 +366,17 @@
   },
   {
     "id": 10073,
-    "en": "Complete (you) the dialog (formal)",
+    "en": "Complete the dialog (formal)",
     "de": "Ergänzen (اِرگن) Sie die Dialog (دیالُگ)"
   },
   {
     "id": 10074,
-    "en": "Listen (you) for check (formal)",
+    "en": "Listen for check (formal)",
     "de": "Hören Sie zur (ثُر) kontrolle (کُنترُلِ)"
   },
   {
     "id": 10075,
-    "en": "Write (you) sentences (formal)",
+    "en": "Write sentences (formal)",
     "de": "Schreiben Sie Sätze (ستزِ)"
   },
   {
@@ -413,7 +413,7 @@
   {
     "id": 10082,
     "en": "The marker is colorful",
-    "de": "Der Marker ist bunt (بونت)"
+    "de": "Der Marker (مارکِ) ist bunt (بونت)"
   },
   {
     "id": 10083,
@@ -441,5 +441,155 @@
     "id": 10087,
     "en": "After a question a question mark stands: What is your name?",
     "de": "Nach (ناخ) einer (آین) Frage (فقاگِ) steht (اشتِت) ein Fragezeichen (فقاگِتزایشن): Wie heißen Sie?"
+  },
+  {
+    "id": 10088,
+    "en": "Is that you?",
+    "de": "Bist du das?",
+    "desc": "\"Das\" can be translated to \"this\" when it refers to something nearby or within close proximity.\n\"Das\" can be translated to \"that\" when it refers to something more distant or not immediately close."
+  },
+  {
+    "id": 10089,
+    "en": "The task is simple",
+    "de": "Die Aufgabe (آوف گابِ) ist einfach (آین فاخ)"
+  },
+  {
+    "id": 10090,
+    "en": "Hear the telephone conversation",
+    "de": "Hören Sie das Telefongespräch (گِشپِقِش)"
+  },
+  {
+    "id": 10091,
+    "en": "The telephone number is wrong",
+    "de": "Die Telefonnummer (تلفن نوما) ist falsch (فالش)"
+  },
+  {
+    "id": 10092,
+    "en": "This is the boss",
+    "de": "Das ist der Chef (شِف)"
+  },
+  {
+    "id": 10093,
+    "en": "These two apples look the same",
+    "de": "Diese (دیزِ) zwei Äpfel sehen gleich (گایش)",
+    "desc": "Diese = these \n Gleich = same \n"
+  },
+  {
+    "id": 10094,
+    "en": "Ali saves the number",
+    "de": "Ali speichert (اِشپای شرت) die Nummer (نوما)"
+  },
+  {
+    "id": 10095,
+    "en": "The prefix for munich is 089",
+    "de": "Die Vorwahl (فُروال) für München ist 089"
+  },
+  {
+    "id": 10096,
+    "en": "Note the telephone numbers",
+    "de": "Notieren (نُتیقِن) Sie die Telefonnummern"
+  },
+  {
+    "id": 10097,
+    "en": "\n eleven \n twelve \n thirteen \n sixteen \n seventeen \n twenty \n twenty-one \n thirty \n forty \n fifty \n sixty \n seventy \n (one) hundred \n",
+    "de": "\n elf \n zwölf \n dreizehn \n sechzehn \n siebzehn \n zwanzig \n einundzwanzig \n dreißig \n vierzig \n fünfzig \n sechzig \n siebzig \n (ein)hundert (هوندات) \n"
+  },
+  {
+    "id": 10098,
+    "en": "Hear the numbers",
+    "de": "Hören Sie die Zahlen"
+  },
+  {
+    "id": 10099,
+    "en": "Speak out loud",
+    "de": "Sprechen Sie laut",
+    "desc": "laut = loud"
+  },
+  {
+    "id": 10100,
+    "en": "Is that your cell phone number? Yes, my cell phone number is...",
+    "de": "Ist das Ihre Handynummer? Ja, meine Handynummer ist ..."
+  },
+  {
+    "id": 10101,
+    "en": "Is your email address new? Yes, my email address is now...",
+    "de": "Ist deine E-Mail-Adresse neu (نوی)? Ja, meine E-Mail-Adresse ist jetzt ..."
+  },
+  {
+    "id": 10102,
+    "en": "Do you have Skype? Yes, sure! My Skype name is...",
+    "de": "Hast (هاست) du Skype? Ja, klar (کِلا)! Mein Skype-Name ist ..."
+  },
+  {
+    "id": 10103,
+    "en": "Are you on Facebook? No, I'm not on Facebook",
+    "de": "Bist du bei (بای) Facebook? Nein, Ich bin nicht bei Facebook"
+  },
+  {
+    "id": 10104,
+    "en": "Does Ali have Skype?",
+    "de": "Hat Ali Skype?"
+  },
+  {
+    "id": 10105,
+    "en": "underscore minus dot at",
+    "de": "Unterstrich (اونتش تِقیش) Minus (مینوس) Punkt (پونکت) at"
+  },
+  {
+    "id": 10106,
+    "en": "Do you have Skype?",
+    "de": "Hast du Skype?"
+  },
+  {
+    "id": 10107,
+    "en": "Do you have Telegram? (formal)",
+    "de": "Haben Sie Telegram?"
+  },
+  {
+    "id": 10108,
+    "en": "Read the sentences (formal)",
+    "de": "Lesen (لِزِن) Sie die Sätze (ستزِ)"
+  },
+  {
+    "id": 10109,
+    "en": "I eat a salad",
+    "de": "Ich esse einen Salat"
+  },
+  {
+    "id": 10110,
+    "en": "\n Are you angry? \n No, I'm not angry",
+    "de": "\n Bist du wütend? Nein, \n Ich bin nicht wütend (ووتِند) (نیشت)"
+  },
+  {
+    "id": 10111,
+    "en": "I am tired",
+    "de": "Ich bin müde"
+  },
+  {
+    "id": 10112,
+    "en": "How are you doing? (informal) Good, and you? Bad",
+    "de": "Wie geht es dir (وی گِت اِس دیِ)? Gut, und dir (گوت دیِ)? Schlecht (اِش لِشت)"
+  },
+  {
+    "id": 10113,
+    "en": "How are you doing? (formal)",
+    "de": "Wie geht es Ihnen? (وی گِت اِس اینِن)"
+  },
+  {
+    "id": 10114,
+    "en": "I am cold",
+    "de": "Mir ist kalt (میِ)",
+    "desc": "In German, the verb \"haben\" (to have) is often used to express physical states and needs, such as hunger, thirst, or pain. So, when you say \"Ich habe Hunger,\" you are literally saying \"I have hunger\" in English.\n\nOn the other hand, the phrase \"Mir ist kalt\" (literally, \"to me is cold\") is used to express sensations such as cold or warmth, rather than physical needs. This construction uses the dative case, which is used to indicate the indirect object of a sentence. In this case, \"mir\" (to me) is the indirect object, and \"kalt\" (cold) is the subject of the sentence."
+  },
+  {
+    "id": 10115,
+    "en": "I am hungry",
+    "de": "Ich habe Hunger",
+    "desc": "\n\"Ich habe\" is the correct and standard form of \"I have\" in German. However, in spoken language or informal writing, it's common to use the contracted form \"Ich hab\" instead of \"Ich habe\"."
+  },
+  {
+    "id": 10116,
+    "en": "I am thirsty",
+    "de": "Ich habe Durst"
   }
 ]

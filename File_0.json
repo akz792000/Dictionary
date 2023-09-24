@@ -705,8 +705,8 @@
   },
   {
     "id": 141,
-    "fa": "چقدر طول می کشه؟",
-    "en": "How long does it take?"
+    "fa": "چقدر طول می کشه با اتوبوس؟",
+    "en": "How long does it take by bus?"
   },
   {
     "id": 142,
@@ -741,8 +741,8 @@
   },
   {
     "id": 148,
-    "fa": "بیا استراحت کنیم",
-    "en": "Let's take a break",
+    "fa": "بیا یک استراحتی داشته باشیم برای کافی ",
+    "en": "Let's take a break for coffee",
     "desc": "\nIn the phrase \"let's,\" the word \"let's\" is a contraction of \"let us.\" It is commonly used in English to suggest or propose that a group of people should do something together.\n\n\"Let's\" is a first-person plural imperative form, implying an invitation or suggestion for joint action. It combines the verb \"let\" (allowing or permitting) with the pronoun \"us\" (referring to the speaker and at least one other person)."
   },
   {
@@ -887,7 +887,7 @@
   },
   {
     "id": 177,
-    "fa": "فکر می کنی (زن) چند سالشه؟",
+    "fa": "چند سالشه فکر می کنی (زن)؟",
     "en": "How old do you think she is?"
   },
   {
@@ -1012,8 +1012,8 @@
   },
   {
     "id": 202,
-    "fa": "کارت اعتباری می گیرید؟",
-    "en": "Do you take credit card?"
+    "fa": "کارت اعتباری اینجا می گیرید؟",
+    "en": "Do you take credit card here?"
   },
   {
     "id": 203,
@@ -3071,8 +3071,8 @@
   },
   {
     "id": 611,
-    "fa": "یا بگیرش یا ولش کن",
-    "en": "Take it or leave it"
+    "fa": "این پیشنهاد نهایی من است. یا بگیرش یا ولش کن",
+    "en": "That's my final offer. Take it or leave it"
   },
   {
     "id": 612,
