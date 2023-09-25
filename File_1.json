@@ -3620,7 +3620,7 @@
   {
     "id": 1717,
     "fa": "من نمی خواستم او (مرد) را از خودم بیازارم با دادن اطلاعات نادرست بهش",
-    "en": "I didn't want to sour (/ˈsaʊər/) him on me by giving him false information"
+    "en": "I didn't want to sour (سآوِر) (/ˈsaʊər/) him on me by giving him false information"
   },
   {
     "id": 1718,
@@ -3709,13 +3709,13 @@
   },
   {
     "id": 1735,
-    "fa": "هیچ کس آنجا نیست او (مرد) را جدی بگیرد",
+    "fa": "هیچ کس آنجا او (مرد) را داره جدی نمی گیرد",
     "en": "There's no one there taking him seriously"
   },
   {
     "id": 1736,
-    "fa": "بهترین است برای تو به خانه برگردی",
-    "en": "It's best you get home"
+    "fa": "داشتم شوخی می کردم اما او (مرد) اشتباه گرفتش",
+    "en": "I was joking but he took it the wrong way"
   },
   {
     "id": 1737,
@@ -3892,7 +3892,8 @@
   {
     "id": 1771,
     "fa": "من متعهد هستم که آزادانه در مورد چگونگی بهبود دنیای خودم فکر کنم",
-    "en": "I'm committed to thinking freely about how to improve my world"
+    "en": "I'm committed to thinking freely about how to improve my world",
+    "desc": "After certain verbs: Gerunds are used after certain verbs, such as \"enjoy,\" \"admit,\" \"avoid,\" \"finish,\" \"consider,\" and \"look forward to.\" For example:\n\n\"I enjoy swimming.\"\n\"She admitted to making a mistake.\"\nAfter certain expressions: Gerunds are used after certain expressions like \"be used to,\" \"be accustomed to,\" \"be committed to,\" and \"be devoted to.\" For example:\n\n\"She is committed to improving her skills.\"\n\"He is used to waking up early.\"\nAs the subject of a sentence: Gerunds can function as the subject of a sentence. For example:\n\n\"Reading is my favorite hobby.\"\nAfter prepositions: Gerunds often follow prepositions, such as \"to,\" \"for,\" \"by,\" \"after,\" and \"without.\" For example:\n\n\"She succeeded by working hard.\"\n\"They left without saying goodbye.\""
   },
   {
     "id": 1772,
@@ -3938,7 +3939,7 @@
   },
   {
     "id": 1780,
-    "fa": "چه (حقوقی) به شما پرداخت می شود در ماه؟",
+    "fa": "چه چیزی به شما پرداخت می شود در یک ماه؟",
     "en": "What do you get paid a month?"
   },
   {
@@ -4089,6 +4090,61 @@
   {
     "id": 1810,
     "fa": "من دانش آموز سال دوم این دبیرستان هستم",
-    "en": "I'm a sophomore (/ˈsɒfəmɔː/) at this high school"
+    "en": "I'm a sophomore (/saaf·mor/) at this high school"
+  },
+  {
+    "id": 1811,
+    "fa": "من دارم به آب و هوای سردتر عادت می کنم",
+    "en": "I'm getting used to the colder climate",
+    "desc": "\n be used to = عادت داشتن \n get used to = عادت کردن \n"
+  },
+  {
+    "id": 1812,
+    "fa": "من به زود بیدار شدن عادت داشتم",
+    "en": "I was used to waking up early",
+    "desc": "\n be used to = عادت داشتن \n get used to = عادت کردن \n"
+  },
+  {
+    "id": 1813,
+    "fa": "من عادت داشتم (دیگه ندارم) گیتار بزنم وقتی جوانتر بودم",
+    "en": "I used to play the guitar when I was younger",
+    "desc": "\"Used to\" is used to talk about past habits or situations that no longer exist. It implies that something was once true but is no longer the case"
+  },
+  {
+    "id": 1814,
+    "fa": "به زود بیدار شدن عادت داشتم از زمانی که کار جدیدم را شروع کردم",
+    "en": "I have been used to waking up early since I started my new job",
+    "desc": "\n be used to = عادت داشتن \n get used to = عادت کردن \n"
+  },
+  {
+    "id": 1815,
+    "fa": "تا وقتی به شهر نقل مکان کردم، به سر و صدا قبلاً عادت کرده بودم",
+    "en": "By the time I moved to the city, I had already gotten used to the noise",
+    "desc": "\n be used to = عادت داشتن \n get used to = عادت کردن \n"
+  },
+  {
+    "id": 1816,
+    "fa": "من اینجا یه کم قدیمیم",
+    "en": "I'm a bit outdated here"
+  },
+  {
+    "id": 1817,
+    "fa": "تخمهای منم درد گرفت",
+    "en": "My nuts got hurt as well"
+  },
+  {
+    "id": 1818,
+    "fa": "تو گرفتیش رفیق",
+    "en": "You got it, pal"
+  },
+  {
+    "id": 1819,
+    "fa": "من کمی دلخورم",
+    "en": "I'm a little bit offended"
+  },
+  {
+    "id": 1820,
+    "fa": "بیا اینجا",
+    "en": "Get over here"
   }
 ]

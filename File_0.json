@@ -655,7 +655,7 @@
   },
   {
     "id": 131,
-    "fa": "من می خوام زمانی که برگشتم، رفته باشی",
+    "fa": "من می خوام تا وقتی برگشتم، رفته باشی",
     "en": "I want you gone by the time I get back"
   },
   {
@@ -1008,7 +1008,8 @@
   {
     "id": 201,
     "fa": "زود بهش عادت خواهی کرد",
-    "en": "You'll soon get used to it"
+    "en": "You'll soon get used to it",
+    "desc": "\n be used to = عادت داشتن \n get used to = عادت کردن \n"
   },
   {
     "id": 202,
@@ -1633,7 +1634,8 @@
   {
     "id": 325,
     "fa": "او (زن) عادت داره تنها زندگی کنه",
-    "en": "She is used to living alone"
+    "en": "She is used to living alone",
+    "desc": "\n be used to = عادت داشتن \n get used to = عادت کردن \n"
   },
   {
     "id": 326,
@@ -2250,7 +2252,7 @@
   },
   {
     "id": 448,
-    "fa": "من همیشه اتوبوس می گیرم به سر کار",
+    "fa": "من همیشه یک اتوبوس می گیرم به سر کار",
     "en": "I always take a bus to work"
   },
   {
@@ -2587,7 +2589,7 @@
   },
   {
     "id": 515,
-    "fa": "من عادت داشتم که اینطور فکر کنم مردم فقط برای پول شغلها را عوض می کنند ",
+    "fa": "من عادت داشتم (دیگه ندارم) که اینطور فکر کنم مردم فقط برای پول شغلها را عوض می کنند ",
     "en": "I used to think people switch jobs for money only"
   },
   {
@@ -3178,7 +3180,8 @@
   {
     "id": 632,
     "fa": "من به رانندگی در سمت راست عادت کردم",
-    "en": "I get used to driving on the right"
+    "en": "I get used to driving on the right",
+    "desc": "\n be used to = عادت داشتن \n get used to = عادت کردن \n"
   },
   {
     "id": 633,
@@ -4888,8 +4891,9 @@
   },
   {
     "id": 967,
-    "fa": "من عادت داشتم به انجام دادن آنچه وجدانم به من می گفت",
-    "en": "I used to do what my conscience told me to do"
+    "fa": "من عادت داشتم (دیگه ندارم) به انجام دادن آنچه وجدانم به من می گفت",
+    "en": "I used to do what my conscience told me to do",
+    "desc": "\n be used to = عادت داشتن \n get used to = عادت کردن \n"
   },
   {
     "id": 968,

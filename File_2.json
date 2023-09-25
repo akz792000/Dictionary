@@ -418,7 +418,7 @@
   {
     "id": 10083,
     "en": "Start your German notebook",
-    "de": "Beginnen (بی گینن) Sie Ihr Deutschheft"
+    "de": "Beginnen (بی گینن) Sie Ihr (اییِ) Deutschheft"
   },
   {
     "id": 10084,
@@ -591,5 +591,35 @@
     "id": 10116,
     "en": "I am thirsty",
     "de": "Ich habe Durst"
+  },
+  {
+    "id": ,
+    "en": "Do you speak Portuguese? No, I speak Spanish. I am spanish",
+    "de": "Sprichst (اشپقیشْسْت) du Portugiesisch? (پورتوگیزِش) Nein, ich spreche Spanisch (اشپانیش). Ich bin Spanier (اشپانیا)"
+  },
+  {
+    "id": ,
+    "en": "Are you from Germany?",
+    "de": "Kommst du aus Deutschland?"
+  },
+  {
+    "id": ,
+    "en": "You speak Polish! Yes a little",
+    "de": "Du sprichst Polnisch! (پُل نیش) Ja, ein bisschen (بیسشِن)"
+  },
+  {
+    "id": ,
+    "en": "He and she come from Greece",
+    "de": "Er und sie kommen aus Griechenland (گیقِشن لند)"
+  },
+  {
+    "id": ,
+    "en": "But you speak German well",
+    "de": "Ihr (اییِ) sprecht aber (آبا) gut (گوت) Deutsch"
+  },
+  {
+    "id": ,
+    "en": "We learn German, but German is a bit difficult",
+    "de": "Wir lernen Deutsch, aber (آبا) Deutsch ist ein bisschen (بیسشِن) schwer (اش ویا)"
   }
 ]
