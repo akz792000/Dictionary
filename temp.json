@@ -319,8 +319,22 @@
     "id": ,
     "fa": "آیا قبلاً 2 بار نپرسیده بودم که آیا این مانع از یکدیگر نمی شود؟",
     "en": "Hadn't I already asked 2 times if this doesn't get in each other's way?"
+  },
+  {
+    "id": ,
+    "fa": "چیزی برای ذکر نیست تا اینجا",
+    "en": "Nothing to mention so far"
+  },
+  {
+    "id": ,
+    "fa": "پسرم گفت که با خدمات اجتماعی تماس می گیرد مگر اینکه کمک هزینه اش را افزایش دهم. آیا باید او را باور کنم؟",
+    "en": "My son said he would call social services unless I raised his allowance. Should I believe him?"
+  },
+  {
+    "id": ,
+    "fa": "لطفا، در مهمانی امشب درست رفتار کن",
+    "en": "Please, behave yourself at the party tonight"
   }
-
 ]
 
 // grammer passive till Infinitive

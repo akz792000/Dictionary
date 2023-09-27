@@ -298,7 +298,7 @@
   },
   {
     "id": 1059,
-    "fa": "من قراره دو ساعت منتظر باشم تا آن زمان که او (مرد) بیاید",
+    "fa": "من قراره دو ساعت منتظر باشم تا آن زمان که او (مرد) برسد",
     "en": "I will have been waiting for two hours by the time he arrives",
     "desc": "Future Perfect Continuous tense combines continuity and completion in the future"
   },
@@ -1451,7 +1451,7 @@
   },
   {
     "id": 1286,
-    "fa": "شما در حال حاضر دسترسی داری",
+    "fa": "شما از قبل دسترسی دارید",
     "en": "You already have access"
   },
   {
@@ -1707,7 +1707,7 @@
   },
   {
     "id": 1337,
-    "fa": "اونجا برام یه کار جور کن",
+    "fa": "اونجا برام یه شغل جور کن",
     "en": "Get me a job there"
   },
   {
@@ -3594,7 +3594,7 @@
   },
   {
     "id": 1712,
-    "fa": "من مصمم بودم که او را وادار کنم تا مؤسسه را اداره کند",
+    "fa": "من مصمم بودم که او را ترغیب کنم تا مؤسسه را اداره کند",
     "en": "I was determined to get him to run the institute"
   },
   {
@@ -3709,7 +3709,7 @@
   },
   {
     "id": 1735,
-    "fa": "هیچ کس آنجا او (مرد) را داره جدی نمی گیرد",
+    "fa": "هیچ کس آنجا نیست که او (مرد) را جدی بگیرد",
     "en": "There's no one there taking him seriously"
   },
   {
@@ -3882,7 +3882,8 @@
   {
     "id": 1769,
     "fa": "آیا در اوقات فراغت خود هر ورزشی را بازی می کنید؟",
-    "en": "Do you play any sports in your free time?"
+    "en": "Do you play any sports in your free time?",
+    "desc": "In English, nouns and their modifiers (like \"free\") need to agree in number. \"Time\" is a singular noun, so its modifier \"free\" should also be singular. If you were to use \"free times,\" it would imply that there are multiple separate instances of free time, which is not the intended meaning"
   },
   {
     "id": 1770,
@@ -3934,7 +3935,7 @@
   },
   {
     "id": 1779,
-    "fa": "بیگانه نکنید, تنها افرادی را در جهان که می دانند شما چه کار میکنید",
+    "fa": "بیگانه نکنید, تنها افرادی را در جهان که می فهمند شما چه کار میکنید",
     "en": "Don't alienate (/ˈeɪliəneɪt/) the only people in the world that understand what you do"
   },
   {
@@ -4118,13 +4119,13 @@
   },
   {
     "id": 1815,
-    "fa": "تا وقتی به شهر نقل مکان کردم، به سر و صدا قبلاً عادت کرده بودم",
+    "fa": "تا وقتی به شهر نقل مکان کردم، به نویز قبلاً عادت کرده بودم",
     "en": "By the time I moved to the city, I had already gotten used to the noise",
     "desc": "\n be used to = عادت داشتن \n get used to = عادت کردن \n"
   },
   {
     "id": 1816,
-    "fa": "من اینجا یه کم قدیمیم",
+    "fa": "من اینجا یه کم بروز نیستم",
     "en": "I'm a bit outdated here"
   },
   {

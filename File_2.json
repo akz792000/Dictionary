@@ -177,8 +177,8 @@
   },
   {
     "id": 10036,
-    "en": "Complete the table (formal)",
-    "de": "Ergänzen (اِرگن) Sie die Tabelle (تابِلِ)"
+    "en": "Complete the table with information from 4a (formal)",
+    "de": "Ergänzen (اِرگن) Sie die Tabelle (تابِلِ) mit Informationen (این فرماتسیونِن) aus 4a"
   },
   {
     "id": 10037,
@@ -326,7 +326,7 @@
   },
   {
     "id": 10065,
-    "en": "Do you speak German? English?",
+    "en": "Do you speak German? English? (formal)",
     "de": "Sprechen (اشپقِشِن) Sie Deutsch? Englisch?"
   },
   {
@@ -472,7 +472,7 @@
     "id": 10093,
     "en": "These two apples look the same",
     "de": "Diese (دیزِ) zwei Äpfel sehen gleich (گایش)",
-    "desc": "Diese = these \n Gleich = same \n"
+    "desc": "Diese (Feminine) = Dieser (Masculine) = these \n Gleich = same \n"
   },
   {
     "id": 10094,
@@ -537,8 +537,8 @@
   },
   {
     "id": 10106,
-    "en": "Do you have Skype?",
-    "de": "Hast du Skype?"
+    "en": "Which of these banks do you know?",
+    "de": "Welche dieser (دیزا) Banken (بانکن) kennst du?"
   },
   {
     "id": 10107,
@@ -548,7 +548,7 @@
   {
     "id": 10108,
     "en": "Read the sentences (formal)",
-    "de": "Lesen (لِزِن) Sie die Sätze (ستزِ)"
+    "de": "Lesen (لیزن) Sie die Sätze (ستزِ)"
   },
   {
     "id": 10109,
@@ -593,33 +593,68 @@
     "de": "Ich habe Durst"
   },
   {
-    "id": ,
+    "id": 10117,
     "en": "Do you speak Portuguese? No, I speak Spanish. I am spanish",
     "de": "Sprichst (اشپقیشْسْت) du Portugiesisch? (پورتوگیزِش) Nein, ich spreche Spanisch (اشپانیش). Ich bin Spanier (اشپانیا)"
   },
   {
-    "id": ,
+    "id": 10118,
     "en": "Are you from Germany?",
     "de": "Kommst du aus Deutschland?"
   },
   {
-    "id": ,
+    "id": 10119,
     "en": "You speak Polish! Yes a little",
-    "de": "Du sprichst Polnisch! (پُل نیش) Ja, ein bisschen (بیسشِن)"
+    "de": "Du sprichst Polnisch (پُل نیش)! Ja, ein bisschen (بیسشِن)"
   },
   {
-    "id": ,
+    "id": 10120,
     "en": "He and she come from Greece",
     "de": "Er und sie kommen aus Griechenland (گیقِشن لند)"
   },
   {
-    "id": ,
+    "id": 10121,
     "en": "But you speak German well",
     "de": "Ihr (اییِ) sprecht aber (آبا) gut (گوت) Deutsch"
   },
   {
-    "id": ,
+    "id": 10122,
     "en": "We learn German, but German is a bit difficult",
     "de": "Wir lernen Deutsch, aber (آبا) Deutsch ist ein bisschen (بیسشِن) schwer (اش ویا)"
+  },
+  {
+    "id": 10123,
+    "en": "Germany, Poland, Italy, Portugal, Syria, Greece",
+    "de": "Deutschland, Polen, Italien, Portugal, Syrien, Griechenland"
+  },
+  {
+    "id": 10124,
+    "en": "Which languages do you speak?",
+    "de": "Welche Sprachen (اشپقاخن) sprichst (اشپقیشْسْت) du?"
+  },
+  {
+    "id": 10125,
+    "en": "Persian, French, Polish, Italian, Portuguese, Arabic, Greek, Ukrainian, Russian, English",
+    "de": "Persisch, Französisch (فقنزوسیش), Polnisch (پُل نیش), Italienisch (ایتالیِنیش), Portugiesisch (پُرتوگیزیش), Arabisch (اَقبیش), Griechisch (گیقیشیش), Ukrainisch (اوک قاینیش), Russisch (قوسیش), Englisch"
+  },
+  {
+    "id": 10126,
+    "en": "Which languages do you speak?",
+    "de": "Welche Sprachen (اشپقاخن) sprichst (اشپقیشْسْت) du?"
+  },
+  {
+    "id": 10127,
+    "en": "He is Chinese and speaks Chinese and a little German",
+    "de": "Er ist Chinese (چینیزِ) und spricht Chinesisch (چینیزیشِ) und ein bisschen (بیسشِن) Deutsch"
+  },
+  {
+    "id": 10128,
+    "en": "Now I learn German",
+    "de": "Jetzt lerne ich Deutsch"
+  },
+  {
+    "id": 10129,
+    "en": "You also learn German (formal)",
+    "de": "Dana und Pablo sind meine Freunde (فقیند). Sie lernen auch (آوخ) Deutsch"
   }
 ]

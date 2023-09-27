@@ -3487,7 +3487,8 @@
   {
     "id": 691,
     "fa": "آیا دلیلی برای انتخاب مقصد خود داشتید یا خودسرانه بود؟",
-    "en": "Did you have a reason for choosing your destination or was it arbitrary?"
+    "en": "Did you have a reason for choosing your destination or was it arbitrary?",
+    "desc": "\"Did you have a reason for choosing your destination?\": Asks if there was a specific reason behind the choice of destination you've already made.\n\n\"Did you have a reason to choose your destination?\": Asks if there is a reason or justification for making the choice of destination. This sentence doesn't assume the choice has been made yet"
   },
   {
     "id": 692,
@@ -5046,7 +5047,7 @@
   },
   {
     "id": 997,
-    "fa": "من دارم سعی می کنم به او (مرد) اهمیت مدیریت زمان را بفهمانم",
+    "fa": "من دارم سعی می کنم او (مرد) را وادار به فهماندن اهمیت مدیریت زمان بکنم",
     "en": "I'm trying to make him understand the importance of time management",
     "desc": "\"trying to get him\" emphasizes a more supportive and encouraging approach, while \"trying to make him\" suggests a more forceful or assertive effort to elicit a response from the person."
   },
