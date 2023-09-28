@@ -215,7 +215,7 @@
   },
   {
     "id": 10043,
-    "en": "What is your last name?",
+    "en": "What is your last name? (formal)",
     "de": "Wie ist Ihr (اییِ) Familienname?",
     "desc": "\"Ihr\" is a formal pronoun used when addressing someone with respect, especially in professional or formal situations. It is equivalent to the English \"your\" (formal) when addressing someone with respect"
   },
@@ -226,7 +226,7 @@
   },
   {
     "id": 10045,
-    "en": "What is your first name?",
+    "en": "What is your first name? (formal)",
     "de": "Wie ist Ihr (اییِ) Vorname?"
   },
   {
@@ -236,13 +236,13 @@
   },
   {
     "id": 10047,
-    "en": "What is your zip code?",
+    "en": "What is your zip code? (formal)",
     "de": "Wie ist Ihr (اییِ) Postleitzahl/Ort?"
   },
   {
     "id": 10048,
-    "en": "What is your Telephone number?",
-    "de": "Wie ist Ihre (اییِ) Telefonnummer? (تلفن نوما)"
+    "en": "What is your Telephone number? (formal)",
+    "de": "Wie ist Ihr (اییِ) Telefonnummer? (تلفن نوما)"
   },
   {
     "id": 10049,
@@ -417,7 +417,7 @@
   },
   {
     "id": 10083,
-    "en": "Start your German notebook",
+    "en": "Start your German notebook (formal)",
     "de": "Beginnen (بی گینن) Sie Ihr (اییِ) Deutschheft"
   },
   {
@@ -429,18 +429,18 @@
   {
     "id": 10085,
     "en": "At the beginning of a sentence one writes in uppercase",
-    "de": "Am (at) Satzanfang (زاتس آن فانگ) schreibt man groß",
+    "de": "Am (آم) (at) Satzanfang (زاتس آن فانگ) schreibt man groß",
     "desc": "The word \"man\" is used in an impersonal sense, meaning \"one\" or \"people\" in English."
   },
   {
     "id": 10086,
     "en": "At the end of sentence stands one dot",
-    "de": "Am (at) Satzende (زاتس اندِ) steht (اشتِت) ein Punkt"
+    "de": "Am (آم) (at) Satzende (زاتس اندِ) steht (اشتِت) ein Punkt"
   },
   {
     "id": 10087,
     "en": "After a question a question mark stands: What is your name?",
-    "de": "Nach (ناخ) einer (آین) Frage (فراگِ) steht (اشتِت) ein Fragezeichen (فراگِتزایشن): Wie heißen Sie?"
+    "de": "Nach (ناخ) einer (آینا) Frage (فراگِ) steht (اشتِت) ein Fragezeichen (فراگِتزایشن): Wie heißen Sie?"
   },
   {
     "id": 10088,
@@ -471,7 +471,7 @@
   {
     "id": 10093,
     "en": "These two apples look the same",
-    "de": "Diese (دیزِ) zwei Äpfel sehen gleich (گایش)",
+    "de": "Diese (دیزِ) zwei Äpfel sehen gleich (گلایش)",
     "desc": "Diese (Feminine) = Dieser (Masculine) = these \n Gleich = same \n"
   },
   {
@@ -487,7 +487,7 @@
   {
     "id": 10096,
     "en": "Note the telephone numbers",
-    "de": "Notieren (نُتیرِن) Sie die Telefonnummern"
+    "de": "Notieren (نُتیرِن) Sie die Telefonnummern (تلفن نومان)"
   },
   {
     "id": 10097,
@@ -507,13 +507,13 @@
   },
   {
     "id": 10100,
-    "en": "Is that your cell phone number? Yes, my cell phone number is...",
-    "de": "Ist das Ihre Handynummer? Ja, meine Handynummer ist ..."
+    "en": "Is that your cell phone number (formal)? Yes, my cell phone number is...",
+    "de": "Ist das Ihr Handynummer? Ja, meine Handynummer ist ..."
   },
   {
     "id": 10101,
     "en": "Is your email address new? Yes, my email address is now...",
-    "de": "Ist deine E-Mail-Adresse neu (نوی)? Ja, meine E-Mail-Adresse ist jetzt ..."
+    "de": "Ist deine E-Mail-Adresse (آدرِسِ) neu (نوی)? Ja, meine E-Mail-Adresse ist jetzt ..."
   },
   {
     "id": 10102,
@@ -533,7 +533,7 @@
   {
     "id": 10105,
     "en": "underscore minus dot at",
-    "de": "Unterstrich (اونتش تِریش) Minus (مینوس) Punkt (پونکت) at"
+    "de": "Unterstrich (اونت اِشتریش) Minus (مینوس) Punkt (پونکت) at (اِت)"
   },
   {
     "id": 10106,
@@ -595,7 +595,7 @@
   {
     "id": 10117,
     "en": "Do you speak Portuguese? No, I speak Spanish. I am spanish",
-    "de": "Sprichst (اشپریشْسْت) du Portugiesisch? (پورتوگیزِش) Nein, ich spreche Spanisch (اشپانیش). Ich bin Spanier (اشپانیا)"
+    "de": "Sprichst (اشپریشْسْت) du Portugiesisch? (پُرتوگیزیش) Nein, ich spreche Spanisch (اشپانیش). Ich bin Spanier (اشپانیا)"
   },
   {
     "id": 10118,
@@ -610,17 +610,17 @@
   {
     "id": 10120,
     "en": "He and she come from Greece",
-    "de": "Er und sie kommen aus Griechenland (گیرِشن لند)"
+    "de": "Er und sie kommen aus Griechenland (گیرِشِن لَنت)"
   },
   {
     "id": 10121,
-    "en": "But you speak German well",
+    "en": "But you speak German well (formal)",
     "de": "Ihr (اییِ) sprecht aber (آبا) gut (گوت) Deutsch"
   },
   {
     "id": 10122,
     "en": "We learn German, but German is a bit difficult",
-    "de": "Wir lernen Deutsch, aber (آبا) Deutsch ist ein bisschen (بیسشِن) schwer (اش ویا)"
+    "de": "Wir lernen Deutsch, aber (آبا) Deutsch ist ein bisschen (بیسشِن) schwer (اش وی یا)"
   },
   {
     "id": 10123,
@@ -634,8 +634,8 @@
   },
   {
     "id": 10125,
-    "en": "Persian, French, Polish, Italian, Portuguese, Arabic, Greek, Ukrainian, Russian, English",
-    "de": "Persisch, Französisch (فرنزوسیش), Polnisch (پُل نیش), Italienisch (ایتالیِنیش), Portugiesisch (پُرتوگیزیش), Arabisch (اَربیش), Griechisch (گیریشیش), Ukrainisch (اوک راینیش), Russisch (روسیش), Englisch"
+    "en": "\n Persian \n French \n Polish \n Italian \n Portuguese \n Arabic \n Greek \n Ukrainian \n Russian \n English",
+    "de": "\n Persisch \n Französisch (فرَنزوسیش) \n Polnisch (پُل نیش) \n Italienisch (ایتالیِنیش) \n Portugiesisch (پُرتوگیزیش) \n Arabisch (اَربیش) \n Griechisch (گیریشیش) \n Ukrainisch (اوک راینیش) \n Russisch (روسیش) \n Englisch"
   },
   {
     "id": 10126,
@@ -654,7 +654,7 @@
   },
   {
     "id": 10129,
-    "en": "You also learn German (formal)",
+    "en": "Dana and Pablo are my friends. You also learn German (formal)",
     "de": "Dana und Pablo sind meine Freunde (فریند). Sie lernen auch (آوخ) Deutsch"
   }
 ]
