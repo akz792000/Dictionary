@@ -37,7 +37,7 @@
   {
     "id": 10008,
     "en": "Hope to hear you",
-    "de": "Auf Wiederhören (ویداهُقِن)"
+    "de": "Auf Wiederhören (ویداهُرِن)"
   },
   {
     "id": 10009,
@@ -68,7 +68,7 @@
   {
     "id": 10014,
     "en": "Get well soon!",
-    "de": "Gute Besserung! (بِسقُنگ)"
+    "de": "Gute Besserung! (بِسرُنگ)"
   },
   {
     "id": 10015,
@@ -272,7 +272,7 @@
   {
     "id": 10054,
     "en": "Complete the speech bubbles (formal)",
-    "de": "Ergänzen Sie die Sprechblasen (اِرگن) (اشپقِش بلاسِن)"
+    "de": "Ergänzen Sie die Sprechblasen (اِرگن) (اشپرِش بلاسِن)"
   },
   {
     "id": 10055,
@@ -287,7 +287,7 @@
   {
     "id": 10057,
     "en": "\n Austria \n Switzerland \n Germany \n Turkey \n Romania \n Syria",
-    "de": "\n österreich (اُستِقایچ) \n die Schweiz (اِشوایتز) \n Deutschland \n die Türkei (تُرکای) \n Rumänien (قُمِنیِن) \n Syrien (زُقیِن)"
+    "de": "\n österreich (اُستِرایچ) \n die Schweiz (اِشوایتز) \n Deutschland \n die Türkei (تُرکای) \n Rumänien (رُمِنیِن) \n Syrien (زُریِن)"
   },
   {
     "id": 10058,
@@ -327,17 +327,17 @@
   {
     "id": 10065,
     "en": "Do you speak German? English? (formal)",
-    "de": "Sprechen (اشپقِشِن) Sie Deutsch? Englisch?"
+    "de": "Sprechen (اشپرِشِن) Sie Deutsch? Englisch?"
   },
   {
     "id": 10066,
     "en": "I don't speak German? English?",
-    "de": "Ich spreche (اشپقِشِ) kein Deutsch? Englisch?"
+    "de": "Ich spreche (اشپرِشِ) kein Deutsch? Englisch?"
   },
   {
     "id": 10067,
     "en": "I speak a bit of German? English?",
-    "de": "Ich spreche (اشپقِشِ) etwas (اتواس) Deutsch? Englisch?"
+    "de": "Ich spreche (اشپرِشِ) etwas (اتواس) Deutsch? Englisch?"
   },
   {
     "id": 10068,
@@ -408,7 +408,7 @@
   {
     "id": 10081,
     "en": "I need an eraser",
-    "de": "Ich brauche (بِقآوخِ) einen Radiergummi (رادیِرگومی)"
+    "de": "Ich brauche (بِرآوخِ) einen Radiergummi (رادیِرگومی)"
   },
   {
     "id": 10082,
@@ -440,7 +440,7 @@
   {
     "id": 10087,
     "en": "After a question a question mark stands: What is your name?",
-    "de": "Nach (ناخ) einer (آین) Frage (فقاگِ) steht (اشتِت) ein Fragezeichen (فقاگِتزایشن): Wie heißen Sie?"
+    "de": "Nach (ناخ) einer (آین) Frage (فراگِ) steht (اشتِت) ein Fragezeichen (فراگِتزایشن): Wie heißen Sie?"
   },
   {
     "id": 10088,
@@ -456,7 +456,7 @@
   {
     "id": 10090,
     "en": "Hear the telephone conversation",
-    "de": "Hören Sie das Telefongespräch (گِشپِقِش)"
+    "de": "Hören Sie das Telefongespräch (گِشپِرِش)"
   },
   {
     "id": 10091,
@@ -487,7 +487,7 @@
   {
     "id": 10096,
     "en": "Note the telephone numbers",
-    "de": "Notieren (نُتیقِن) Sie die Telefonnummern"
+    "de": "Notieren (نُتیرِن) Sie die Telefonnummern"
   },
   {
     "id": 10097,
@@ -533,7 +533,7 @@
   {
     "id": 10105,
     "en": "underscore minus dot at",
-    "de": "Unterstrich (اونتش تِقیش) Minus (مینوس) Punkt (پونکت) at"
+    "de": "Unterstrich (اونتش تِریش) Minus (مینوس) Punkt (پونکت) at"
   },
   {
     "id": 10106,
@@ -595,7 +595,7 @@
   {
     "id": 10117,
     "en": "Do you speak Portuguese? No, I speak Spanish. I am spanish",
-    "de": "Sprichst (اشپقیشْسْت) du Portugiesisch? (پورتوگیزِش) Nein, ich spreche Spanisch (اشپانیش). Ich bin Spanier (اشپانیا)"
+    "de": "Sprichst (اشپریشْسْت) du Portugiesisch? (پورتوگیزِش) Nein, ich spreche Spanisch (اشپانیش). Ich bin Spanier (اشپانیا)"
   },
   {
     "id": 10118,
@@ -610,7 +610,7 @@
   {
     "id": 10120,
     "en": "He and she come from Greece",
-    "de": "Er und sie kommen aus Griechenland (گیقِشن لند)"
+    "de": "Er und sie kommen aus Griechenland (گیرِشن لند)"
   },
   {
     "id": 10121,
@@ -630,17 +630,17 @@
   {
     "id": 10124,
     "en": "Which languages do you speak?",
-    "de": "Welche Sprachen (اشپقاخن) sprichst (اشپقیشْسْت) du?"
+    "de": "Welche Sprachen (اشپراخن) sprichst (اشپریشْسْت) du?"
   },
   {
     "id": 10125,
     "en": "Persian, French, Polish, Italian, Portuguese, Arabic, Greek, Ukrainian, Russian, English",
-    "de": "Persisch, Französisch (فقنزوسیش), Polnisch (پُل نیش), Italienisch (ایتالیِنیش), Portugiesisch (پُرتوگیزیش), Arabisch (اَقبیش), Griechisch (گیقیشیش), Ukrainisch (اوک قاینیش), Russisch (قوسیش), Englisch"
+    "de": "Persisch, Französisch (فرنزوسیش), Polnisch (پُل نیش), Italienisch (ایتالیِنیش), Portugiesisch (پُرتوگیزیش), Arabisch (اَربیش), Griechisch (گیریشیش), Ukrainisch (اوک راینیش), Russisch (روسیش), Englisch"
   },
   {
     "id": 10126,
     "en": "Which languages do you speak?",
-    "de": "Welche Sprachen (اشپقاخن) sprichst (اشپقیشْسْت) du?"
+    "de": "Welche Sprachen (اشپراخن) sprichst (اشپریشْسْت) du?"
   },
   {
     "id": 10127,
@@ -655,6 +655,6 @@
   {
     "id": 10129,
     "en": "You also learn German (formal)",
-    "de": "Dana und Pablo sind meine Freunde (فقیند). Sie lernen auch (آوخ) Deutsch"
+    "de": "Dana und Pablo sind meine Freunde (فریند). Sie lernen auch (آوخ) Deutsch"
   }
 ]

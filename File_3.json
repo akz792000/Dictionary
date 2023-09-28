@@ -17,7 +17,7 @@
   {
     "id": 20004,
     "en": "Hear",
-    "de": "\n höre (هُقِ) \n hörst (هُرسْت) \n hört (هُرْت) \n hören (هُقِن) \n hört \n hören \n"
+    "de": "\n höre (هُرِ) \n hörst (هُرسْت) \n hört (هُرْت) \n hören (هُرِن) \n hört \n hören \n"
   },
   {
     "id": 20005,
@@ -37,7 +37,7 @@
   {
     "id": 20008,
     "en": "Speak",
-    "de": "\n spreche (اشپقِشِ) \n sprichst (اشپقیشْسْت) \n spricht (اشپقیشْت) \n sprechen (اشپقِشِن) \n sprecht (اشپقِشْت) \n sprechen \n"
+    "de": "\n spreche (اشپرِشِ) \n sprichst (اشپریشْسْت) \n spricht (اشپریشْت) \n sprechen (اشپرِشِن) \n sprecht (اشپرِشْت) \n sprechen \n"
   },
   {
     "id": 20009,
@@ -57,12 +57,12 @@
   {
     "id": 20012,
     "en": "Write",
-    "de": "\n schreibe (اِشقایْبِ) \n schreibst (اِشقایبْسْت) \n schreibt (اِشقایبْت) \n schreiben (اِشقایْبِن) \n schreibt \n schreiben \n"
+    "de": "\n schreibe (اِشرایْبِ) \n schreibst (اِشرایبْسْت) \n schreibt (اِشرایبْت) \n schreiben (اِشرایْبِن) \n schreibt \n schreiben \n"
   },
   {
     "id": 20013,
     "en": "Ask",
-    "de": "\n frage (فقاگِ) \n fragst (فقاگْست) \n fragt (فقاگْت) \n fragen \n fragt \n fragen \n"
+    "de": "\n frage (فراگِ) \n fragst (فراگْست) \n fragt (فراگْت) \n fragen \n fragt \n fragen \n"
   },
   {
     "id": 20014,
@@ -82,22 +82,22 @@
   {
     "id": 20017,
     "en": "Note",
-    "de": "\n notiere (نُتیقِ) \n notierst (نُتیرِست) \n notiert (نُتیرِت) \n notieren (نُتیقِن) \n notiert \n notieren \n"
+    "de": "\n notiere (نُتیرِ) \n notierst (نُتیرِست) \n notiert (نُتیرِت) \n notieren (نُتیرِن) \n notiert \n notieren \n"
   },
   {
     "id": 20018,
     "en": "Need",
-    "de": "\n brauche (بِقآوخِ) \n brauchst (بِقآوخست) \n braucht (بِقآوخت) \n brauchen (بِقآوخِن) \n braucht \n brauchen \n"
+    "de": "\n brauche (بِرآوخِ) \n brauchst (بِرآوخست) \n braucht (بِرآوخت) \n brauchen (بِرآوخِن) \n braucht \n brauchen \n"
   },
   {
     "id": 20019,
     "en": "Save",
-    "de": "\n speichere (اِشپای شِقِ) \n speicherst (اِشپای شرست) \n speichert (اِشپای شرت) \n speichern \n speichert \n speichern \n"
+    "de": "\n speichere (اِشپای شِرِ) \n speicherst (اِشپای شرست) \n speichert (اِشپای شرت) \n speichern \n speichert \n speichern \n"
   },
   {
     "id": 20020,
     "en": "Note",
-    "de": "\n notiere (نُتیقِ) \n notierst (نُتیرْسْت) \n notiert (نُتیرْت) \n notieren (نُتیقِن) \n notiert \n notieren \n"
+    "de": "\n notiere (نُتیرِ) \n notierst (نُتیرْسْت) \n notiert (نُتیرْت) \n notieren (نُتیرِن) \n notiert \n notieren \n"
   },
   {
     "id": 20021,
