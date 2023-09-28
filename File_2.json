@@ -188,7 +188,7 @@
   {
     "id": 10038,
     "en": "This is Pablo. He comes from Spain, from Leon. He now lives in Munich",
-    "de": "Das ist Pablo. Er kommt aus Spanien, aus Leon. Er wohnt jetzt in München"
+    "de": "Das ist Pablo. Er kommt aus Spanien (اِشپانین), aus Leon. Er wohnt jetzt in München"
   },
   {
     "id": 10039,
@@ -620,7 +620,7 @@
   {
     "id": 10122,
     "en": "We learn German, but German is a bit difficult",
-    "de": "Wir lernen Deutsch, aber (آبا) Deutsch ist ein bisschen (بیسشِن) schwer (اش وی یا)"
+    "de": "Wir (ویِ) lernen Deutsch, aber (آبا) Deutsch ist ein bisschen (بیسشِن) schwer (اش وی یا)"
   },
   {
     "id": 10123,
@@ -634,8 +634,8 @@
   },
   {
     "id": 10125,
-    "en": "\n Persian \n French \n Polish \n Italian \n Portuguese \n Arabic \n Greek \n Ukrainian \n Russian \n English",
-    "de": "\n Persisch \n Französisch (فرَنزوسیش) \n Polnisch (پُل نیش) \n Italienisch (ایتالیِنیش) \n Portugiesisch (پُرتوگیزیش) \n Arabisch (اَربیش) \n Griechisch (گیریشیش) \n Ukrainisch (اوک راینیش) \n Russisch (روسیش) \n Englisch"
+    "en": "\n Persian \n French \n Polish \n Italian \n Portuguese \n Arabic \n",
+    "de": "\n Persisch \n Französisch (فرَنزوسیش) \n Polnisch (پُل نیش) \n Italienisch (ایتالیِنیش) \n Portugiesisch (پُرتوگیزیش) \n Arabisch (اَربیش) \n"
   },
   {
     "id": 10126,
@@ -645,7 +645,7 @@
   {
     "id": 10127,
     "en": "He is Chinese and speaks Chinese and a little German",
-    "de": "Er ist Chinese (چینیزِ) und spricht Chinesisch (چینیزیشِ) und ein bisschen (بیسشِن) Deutsch"
+    "de": "Er ist Chinese (چینیزِ) und spricht (اشپریشْت) Chinesisch (چینیزیشِ) und ein bisschen (بیسشِن) Deutsch"
   },
   {
     "id": 10128,
@@ -656,5 +656,100 @@
     "id": 10129,
     "en": "Dana and Pablo are my friends. You also learn German (formal)",
     "de": "Dana und Pablo sind meine Freunde (فریند). Sie lernen auch (آوخ) Deutsch"
+  },
+  {
+    "id": 10130,
+    "en": "This is my German course",
+    "de": "Das ist mein Deutschkurs"
+  },
+  {
+    "id": 10131,
+    "en": "We are 14 people",
+    "de": "Wir (ویِ) sind 14 Leute (لُیتِ)"
+  },
+  {
+    "id": 10132,
+    "en": "Together we are 420 years old",
+    "de": "Zusammen (زوسامن) sind wir (ویِ) 420 Jahre alt"
+  },
+  {
+    "id": 10133,
+    "en": "Two people come from Spain, one person from Italy",
+    "de": "Zwei Leute (لُیتِ) kommen aus Spanien (اِشپانین), eine Person (پرزُن) aus Italien"
+  },
+  {
+    "id": 10134,
+    "en": "Two come from Syria and three from Poland",
+    "de": "Zwei kommen aus Syrien und drei aus Polen"
+  },
+  {
+    "id": 10135,
+    "en": "The others come from India, Romania, Portugal, the USA and Brazil",
+    "de": "Die anderen (آندِرِن) kommen aus Indien (ایندیِن), Rumänien (رُمِنین), Portugal (پُرتوگال), aus den USA und aus Brasilien (برازیلین)"
+  },
+  {
+    "id": 10136,
+    "en": "These are Ali and Ilia",
+    "de": "Das sind Ali عnd Ilia"
+  },
+  {
+    "id": 10137,
+    "en": "She is 24 years old and a saleswoman",
+    "de": "Sie ist 24 Jahre alt und Verkäuferin (فِرکوی فِرین)"
+  },
+  {
+    "id": 10138,
+    "en": "Ali is an engineer by profession",
+    "de": "Ali ist Ingenieur (این جِنیوِ) von (فُن) Beruf (بروف)"
+  },
+  {
+    "id": 10139,
+    "en": "Renato is a bus driver, but he is unemployed",
+    "de": "Renato ist Busfahrer (بوس فارِ), aber (آبا) er ist arbeitslos (آربایتسلُس)"
+  },
+  {
+    "id": 10140,
+    "en": "The teacher (لیرِرین) is called Anne",
+    "de": "Die Lehrerin (لیرِرین) heißt Anne"
+  },
+  {
+    "id": 10141,
+    "en": "Greek \n Ukrainian \n Russian \n English \n German \n Spanish \n",
+    "de": "Griechisch (گیریشیش) \n Ukrainisch (اوک راینیش) \n Russisch (روسیش) \n Englisch \n Deutsch \n Spanisch (اشپَنیش) \n"
+  },
+  {
+    "id": 10142,
+    "en": "She is great",
+    "de": "Sie ist toll (تُل)"
+  },
+  {
+    "id": 10143,
+    "en": "Right or wrong",
+    "de": "Richtig (ریشتیش) oder Falsch (فالش)"
+  },
+  {
+    "id": 10144,
+    "en": "The Brazilian is 32 years old",
+    "de": "Der Brasilianer (برازیلیانِ) ist 32 Jahre alt"
+  },
+  {
+    "id": 10145,
+    "en": "Ali speaks four languages",
+    "de": "Ali spricht (اشپریشْت) vier Sprachen (اشپراخن)"
+  },
+  {
+    "id": 10146,
+    "en": "How old is Ali? Ali is 42 years old",
+    "de": "Wie alt ist Ali? Ali ist 42 Jahre alt"
+  },
+  {
+    "id": 10147,
+    "en": "How old are you? (informal)",
+    "de": "Wie alt bist du?"
+  },
+  {
+    "id": 10148,
+    "en": "How old are you?  (formal)",
+    "de": "Wie alt sind Sie?"
   }
 ]
