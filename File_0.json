@@ -2904,7 +2904,7 @@
   {
     "id": 577,
     "fa": "من هم نمیتونم وصل بشم",
-    "en": "I can not connect as well"
+    "en": "\n I can not connect as well \n I can't get through as well \n"
   },
   {
     "id": 578,
@@ -3883,8 +3883,8 @@
   },
   {
     "id": 769,
-    "fa": "نمی تونم وصل بشم",
-    "en": "I can't get through"
+    "fa": "نام خط نامرئی که می چرخد دور وسط زمین چیست؟",
+    "en": "What is the name of the invisible line that runs around the middle of the earth?"
   },
   {
     "id": 770,

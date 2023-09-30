@@ -267,7 +267,7 @@
   {
     "id": 10053,
     "en": "Where does that verb stand?",
-    "de": "Wo steht (اِشتت) das Verb?"
+    "de": "Wo steht (اِشتت) das Verb (فرب)?"
   },
   {
     "id": 10054,
@@ -751,5 +751,63 @@
     "id": 10148,
     "en": "How old are you?  (formal)",
     "de": "Wie alt sind Sie?"
+  },
+  {
+    "id": 10149,
+    "en": "Pizza with cheese",
+    "de": "Pizza mit Käse (کِزِ)"
+  },
+  {
+    "id": 10150,
+    "en": "The soup is very hot",
+    "de": "Die Suppe (زوپِ) sehr (زی اِ) ist heiß (هایس)"
+  },
+  {
+    "id": 10151,
+    "en": "This is a cat",
+    "de": "Das ist eine Katze (کاتزِ)"
+  },
+  {
+    "id": 10152,
+    "en": "A bear runs in the forest",
+    "de": "Ein Bär (بِر) läuft (لویفت) im (ایم) Wald (والت)",
+    "desc": "\n Bär = bear \n läuft = run \n im = in the \n Wald = forest"
+  },
+  {
+    "id": 10153,
+    "en": "Is Vienna big and beautiful?",
+    "de": "Ist Wien (وین) groß (گُقُس) und schön?"
+  },
+  {
+    "id": 10154,
+    "en": "This is a small dog",
+    "de": "Das ist ein kleiner (کلاینا) Hund (هونت)",
+    "desc": "In German, the word \"klein\" (small) is an adjective that modifies the noun \"Hund\" (dog). Adjectives in German change their form based on the gender, number, and case of the noun they are describing. In this case, \"Hund\" is a masculine noun, so the correct form of the adjective is \"kleiner\" to match the gender and case"
+  },
+  {
+    "id": 10155,
+    "en": "Is Germany big or small?",
+    "de": "Ist Deutschland groß oder klein?"
+  },
+  {
+    "id": 10156,
+    "en": "I would like to call the waiter please",
+    "de": "Ich möchte bitte den Kellner (کِلنا) rufen (قوفِن)",
+    "desc": "\n Kellner = Waiter \n rufen = call \n"
+  },
+  {
+    "id": 10157,
+    "en": "I eat bread",
+    "de": "Ich esse Brot (بوقوت)"
+  },
+  {
+    "id": 10158,
+    "en": "Wine or Water or Beer or Tea or Milk",
+    "de": "Wein (واین) oder Wasser oder Bier (بی اِ) oder Tee oder Milch"
+  },
+  {
+    "id": 10159,
+    "en": "My daughter is very smart",
+    "de": "Meine Tochter (تُختا) ist sehr (زی اِ) klug (کولوگ)"
   }
 ]
