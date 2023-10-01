@@ -2904,7 +2904,7 @@
   {
     "id": 577,
     "fa": "من هم نمیتونم وصل بشم",
-    "en": "\n I can not connect as well \n I can't get through as well \n"
+    "en": "\n 1.I can't connect as well \n 2.I can't get through as well \n"
   },
   {
     "id": 578,
@@ -3269,7 +3269,7 @@
   },
   {
     "id": 649,
-    "fa": "تلاش برای اینکه او (مرد) درباره احساساتش صحبت کند، مثل کشیدن دندان ها است",
+    "fa": "تلاش برای متقاعد سازی او (مرد) برای صحبت درباره احساساتش، مثل کشیدن دندان ها است",
     "en": "Trying to get him to talk about his feelings is like pulling teeth",
     "desc": "\"trying to get him\" emphasizes a more supportive and encouraging approach, while \"trying to make him\" suggests a more forceful or assertive effort to elicit a response from the person."
   },
@@ -3883,8 +3883,8 @@
   },
   {
     "id": 769,
-    "fa": "نام خط نامرئی که می چرخد دور وسط زمین چیست؟",
-    "en": "What is the name of the invisible line that runs around the middle of the earth?"
+    "fa": "او (زن) ملاقات کور من است",
+    "en": "She is my blind date"
   },
   {
     "id": 770,
@@ -3994,8 +3994,8 @@
   },
   {
     "id": 790,
-    "fa": "صدایت را پایین نگه دار",
-    "en": "Keep your voice down"
+    "fa": "در حدود پنج دقیقه دیگر (کارم) تمام خواهد شد",
+    "en": "I'll be finished in about five minutes"
   },
   {
     "id": 791,
@@ -4933,7 +4933,7 @@
   },
   {
     "id": 975,
-    "fa": "در صورت هرگونه سوالی در تماس با تیم مدیریت دفتر خود تردید نکنید",
+    "fa": "در صورت هرگونه سوالاتی در تماس با تیم مدیریت دفتر خود تردید نکنید",
     "en": "In case of any questions do not hesitate to reach out to your office management team"
   },
   {

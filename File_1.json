@@ -401,8 +401,7 @@
   {
     "id": 1079,
     "fa": "تمام روز به مغزم فشار آوردم سعی کردم به یاد بیاورم که کلیدهایم را کجا گذاشتم",
-    "en": "I've been racking my brains all day trying to remember where I put my keys",
-    "desc": "\"I have been racking my brains\" is a plural form and suggests that the person has been putting in a lot of mental effort or trying hard to solve a problem or find an answer. It implies that multiple aspects or ideas are being considered.\n\n\"I have been racking my brain\" is a singular form and implies the same idea of putting in mental effort, but it suggests a focus on a single problem or question."
+    "en": "I've been racking my brains all day trying to remember where I put my keys"
   },
   {
     "id": 1080,
@@ -1080,7 +1079,7 @@
   },
   {
     "id": 1213,
-    "fa": "آیا غذاهای مورد علاقه ای دارید توصیه کنید؟",
+    "fa": "آیا غذاهای مورد علاقه ای دارید (مودبانه) شما توصیه کنید؟",
     "en": "Do you have any favorite dishes you would recommend?"
   },
   {
@@ -1414,8 +1413,8 @@
   },
   {
     "id": 1279,
-    "fa": "چه کوفتیه, چرا قطار داره به این سمت می ره؟ باید برعکس می رفت",
-    "en": "What the fuck, why train is going this way? It should have gone the other way around"
+    "fa": "چه کوفتیه, چرا قطار داره به این سمت می ره؟ باید به سمت دیگر می رفت",
+    "en": "What the heck! Why is the train going this way? It should have gone the other way around"
   },
   {
     "id": 1280,
@@ -1425,7 +1424,7 @@
   },
   {
     "id": 1281,
-    "fa": "من تقریباً تمام کردم",
+    "fa": "من تقریباً انجام دادم",
     "en": "I'm almost done"
   },
   {
@@ -1894,7 +1893,7 @@
   {
     "id": 1374,
     "fa": "چند روز پیش، کتابی که به دنبال آن بودم رو پیدا کردم",
-    "en": "The other day, I found a book I had been searching for"
+    "en": "The other day, I found a book that I had been searching for"
   },
   {
     "id": 1375,
@@ -2061,7 +2060,7 @@
   {
     "id": 1407,
     "fa": "صدات رو بیار پایین",
-    "en": "Lower your voice"
+    "en": "\n 1.Lower your voice \n 2.Keep your voice down \n"
   },
   {
     "id": 1408,
@@ -3438,8 +3437,8 @@
   },
   {
     "id": 1681,
-    "fa": "من سبدی از گوجه سبزی های و خرمالو های رسیده را از درخت کندم",
-    "en": "I picked a basket of ripe greengages (ˈɡrēnˌɡāj) and persimmon (pərˈsimən) from the tree"
+    "fa": "من سبدی از گوجه سبزی های رسیده را کندم",
+    "en": "I picked a basket of ripe greengages (ˈɡrēnˌɡāj)"
   },
   {
     "id": 1682,
@@ -3453,8 +3452,8 @@
   },
   {
     "id": 1684,
-    "fa": "همانطور که برای آخرین مرحله آماده می شویم، مایلم از تمام مشارکت های شما قدردانی صمیمانه خود را اعلام کنم",
-    "en": "As we gear up for the last stretch, I wish to convey my heartfelt appreciation of all of your contributions"
+    "fa": "من همچنین برای اخبار در اینترنت گشت و گذار می کنم",
+    "en": "I also surf the net for news"
   },
   {
     "id": 1685,
@@ -3565,7 +3564,7 @@
   {
     "id": 1706,
     "fa": "آیا تا به حال فکر کرده اید بالاترین ارتفاعی که هر جت جنگنده می تواند به آن برسد چیست؟",
-    "en": "Have you ever wondered what is the highest altitude any fighter jet can reach?"
+    "en": "Have you ever wondered what the highest altitude any fighter jet can reach is?"
   },
   {
     "id": 1707,
@@ -3750,7 +3749,7 @@
   },
   {
     "id": 1743,
-    "fa": "مطمئن شوید که او (مرد) درک می کند که با خلاص شدن از دست شما چیزی لعنتی را از دست نمی دهد",
+    "fa": "مطمئن شوید او (مرد) درک می کند که او داره چیزی لعنتی را از دست نمی دهد با خلاص شدن از دست شما",
     "en": "Make sure he understands that he's not losing a damn thing by getting rid of you"
   },
   {
@@ -3919,7 +3918,7 @@
   },
   {
     "id": 1776,
-    "fa": "او (مرد) خودش را کشت, اولین باری که سرش را از سنگر بیرون آورد",
+    "fa": "او (مرد) خودش را به کشتن داد, اولین باری که سرش را از سنگر بیرون آورد",
     "en": "He got himself killed the first time he popped his head out of the trench"
   },
   {
@@ -4167,5 +4166,385 @@
     "id": 1824,
     "fa": "ممنون که بهم گفتی",
     "en": "Thanks for the heads up"
+  },
+  {
+    "id": 1825,
+    "fa": "سالانه, بیش از 100000 نفر می میرند خارج از بیمارستان ها در نتیجه مرگ ناگهانی قلبی",
+    "en": "Every year, more than 100,000 people die outside hospitals as a result of sudden cardiac death"
+  },
+  {
+    "id": 1826,
+    "fa": "چه کسی اجازه دارد با دستگاه شوک دهنده کار کند؟",
+    "en": "Who is allowed to operate a defibrillator? (دیفیب ری لی تر)"
+  },
+  {
+    "id": 1827,
+    "fa": "من از یک خرمالو شیرین برای دسر لذت می برم",
+    "en": "I enjoy a sweet persimmon (pərˈsimən) for dessert (/ˌdɪˈzɜːrt/)"
+  },
+  {
+    "id": 1828,
+    "fa": "شلیل یک میوه خوشمزه تابستانی است",
+    "en": "Nectarine is a delicious summer fruit"
+  },
+  {
+    "id": 1829,
+    "fa": "سرما خوردم",
+    "en": "I caught a cold"
+  },
+  {
+    "id": 1830,
+    "fa": "می ترسم سرما بخورم",
+    "en": "I'm afraid of catching a cold"
+  },
+  {
+    "id": 1831,
+    "fa": "ازت بیزارم",
+    "en": "I loathe you"
+  },
+  {
+    "id": 1832,
+    "fa": "چه سایزی هستید؟",
+    "en": "What size are you?"
+  },
+  {
+    "id": 1833,
+    "fa": "قدت چقدره؟",
+    "en": "How tall are you?"
+  },
+  {
+    "id": 1834,
+    "fa": "وزنت چقدره؟",
+    "en": "How much do you weigh?"
+  },
+  {
+    "id": 1835,
+    "fa": "میتونم ببینم چرا ممکنه عصبی بشی",
+    "en": "I can see why you might be nervous"
+  },
+  {
+    "id": 1836,
+    "fa": "او (مرد) کمی داره دیرش میشه. او به زودی اینجا خواهد بود",
+    "en": "He's running a little late. He'll be here soon"
+  },
+  {
+    "id": 1837,
+    "fa": "چرا می خواهید شروع به فروش بستنی کنید؟",
+    "en": "Why do you wanna start selling ice cream?"
+  },
+  {
+    "id": 1838,
+    "fa": "من اوقات فراغت این تابستان دارم",
+    "en": "I've spare time this summer"
+  },
+  {
+    "id": 1839,
+    "fa": "من هرگز این را انجام ندادم",
+    "en": "I've never done this before"
+  },
+  {
+    "id": 1840,
+    "fa": "آیا می توانم برای شما چیزی بگیرم برای نوشیدن؟",
+    "en": "Can I get you something to drink?"
+  },
+  {
+    "id": 1841,
+    "fa": "اگر محموله امروز حرکت کند، در سه هفته دیگر می رسد",
+    "en": "If the shipment leaves today, it will arrive in three weeks"
+  },
+  {
+    "id": 1842,
+    "fa": "ارسال یک جعبه بزرگ به ایران چقدر طول می کشد؟",
+    "en": "How long would it take to ship a large box to Iran?"
+  },
+  {
+    "id": 1843,
+    "fa": "چند نفر در خانواده شما هستند؟ وجود دارد ما چهار نفر",
+    "en": "How many people are in your family? There are four of us"
+  },
+  {
+    "id": 1844,
+    "fa": "من بچه وسط هستم",
+    "en": "I'm the middle child"
+  },
+  {
+    "id": 1845,
+    "fa": "کدام سال متولد شدی؟",
+    "en": "Which year were you born?"
+  },
+  {
+    "id": 1846,
+    "fa": "با او (مرد) کنار میای؟",
+    "en": "Do you get along with him?"
+  },
+  {
+    "id": 1847,
+    "fa": "برای کیستش؟",
+    "en": "Who is it for?"
+  },
+  {
+    "id": 1848,
+    "fa": "چطور هیچ وقت برای من کارت تولد درست نمی کنی؟",
+    "en": "How come you never make me a birthday card?"
+  },
+  {
+    "id": 1849,
+    "fa": "چرا در اینجا به مهاجران نیاز است در حالی که بسیاری از ما شغل نداریم؟",
+    "en": "Why are immigrants needed in here when many of us don't have jobs?"
+  },
+  {
+    "id": 1850,
+    "fa": "من الان هوشیارم",
+    "en": "I'm sober (/ˈsoʊbə/) now"
+  },
+  {
+    "id": 1851,
+    "fa": "من او (زن) را به خانه رساندم",
+    "en": "I drove her home"
+  },
+  {
+    "id": 1852,
+    "fa": "قهوه ات را گرفتی؟",
+    "en": "Did you get your coffee?"
+  },
+  {
+    "id": 1853,
+    "fa": "سه سهام رانندگی مستقل که باید در پاییز امسال در رادار هر سرمایه گذاری باشد",
+    "en": "Three autonomous driving stocks that should be on every investor’s radar this fall"
+  },
+  {
+    "id": 1854,
+    "fa": "من وسط یه چیزی هستم آیا می توانم 10 دقیقه دیگر با شما تماس بگیرم؟",
+    "en": "I'm in the middle of something. Can I call you back in 10 minutes?"
+  },
+  {
+    "id": 1855,
+    "fa": "نمی دانم، بیا یه نگاهی بندازیم",
+    "en": "I don't know, let's take a look"
+  },
+  {
+    "id": 1856,
+    "fa": "من دارم نقشه می ریزم تا در ماه آگوست یک سفر به اروپا داشته باشم",
+    "en": "I'm planning to take a trip to europe in August"
+  },
+  {
+    "id": 1857,
+    "fa": "من از ساعت 6 صبح درس می خونم و واقعا نیاز به استراحت دارم",
+    "en": "I've been studying since 6 o'clock in the morning and I really need to take a break"
+  },
+  {
+    "id": 1858,
+    "fa": "آروم باش یه نفس عمیق بکش",
+    "en": "Calm down take a deep breath"
+  },
+  {
+    "id": 1859,
+    "fa": "حمام کردی؟",
+    "en": "Did you take a bath?"
+  },
+  {
+    "id": 1860,
+    "fa": "با خیال راحت هر چیزی را که می خواهید بردارید",
+    "en": "Feel free to take anything you want"
+  },
+  {
+    "id": 1861,
+    "fa": "من به یک مهمانی دعوت شده ام و واقعاً چیزی برای پوشیدن ندارم",
+    "en": "I've been invited to a party and I really don't have anything to wear"
+  },
+  {
+    "id": 1862,
+    "fa": "میشه منو ببر خونه لطفا؟",
+    "en": "Can you take me home please?"
+  },
+  {
+    "id": 1863,
+    "fa": "میدونم که تو عصبانی هستی اما سر من خالی نکن",
+    "en": "I know you're mad but don't take it out on me"
+  },
+  {
+    "id": 1864,
+    "fa": "فراموش نکن قرص هات رو بخوری",
+    "en": "Don't forget to take your pills"
+  },
+  {
+    "id": 1865,
+    "fa": "می توانید به این پروژه نگاهی بیندازید؟",
+    "en": "Can you take a look at this project?"
+  },
+  {
+    "id": 1866,
+    "fa": "او مرا به شک انداخت",
+    "en": "He made me doubt"
+  },
+  {
+    "id": 1867,
+    "fa": "آن روز به شدت مست بودم",
+    "en": "I was extremely drunk that day"
+  },
+  {
+    "id": 1868,
+    "fa": "او (زن) هم سن من است",
+    "en": "She is my age"
+  },
+  {
+    "id": 1869,
+    "fa": "شما هرگز نمی دانید چه زمانی قصد دارید به یکی نیاز داشته باشید",
+    "en": "You never know when you are gonna need one"
+  },
+  {
+    "id": 1870,
+    "fa": "از کجا قراره چاپگر پیدا کنم؟",
+    "en": "Where am I supposed to find a printer?"
+  },
+  {
+    "id": 1871,
+    "fa": "از خودت خوب مراقب کن",
+    "en": "Take a good care of yourself"
+  },
+  {
+    "id": 1872,
+    "fa": "هر دوی آنها واقعاً برای شما خوب به نظر می رسند",
+    "en": "Both of them look really good on you"
+  },
+  {
+    "id": 1873,
+    "fa": "میشه از ما عکس بگیری",
+    "en": "Can you take a picture of us?"
+  },
+  {
+    "id": 1874,
+    "fa": "من می خواهم به این آدرس بروم اما مطمئن نیستم که کدام اتوبوس را باید بگیرم؟",
+    "en": "I wanna go to this address but I'm not sure which bus I should take?"
+  },
+  {
+    "id": 1875,
+    "fa": "تو خیلی لجوج هستی تو هرگز نصیحت من را نمی پذیری",
+    "en": "You're so stubborn you never take my advice"
+  },
+  {
+    "id": 1876,
+    "fa": "آیا می توانم یک نصیحت به شما کنم؟",
+    "en": "Can I give you a piece of advice?"
+  },
+  {
+    "id": 1877,
+    "fa": "چرا بقیه روز را مرخصی نمی گیری؟",
+    "en": "Why don't you take the rest of the day off?"
+  },
+  {
+    "id": 1878,
+    "fa": "نگران نباشید. من از آن برای شما مراقبت خواهم کرد",
+    "en": "Don't worry. I'll take care of it for you"
+  },
+  {
+    "id": 1879,
+    "fa": "من حتی برای آن وقت ندارم",
+    "en": "I don't even have time for that"
+  },
+  {
+    "id": 1880,
+    "fa": "میتونی منو برگردونی خونه؟",
+    "en": "Can you take me back home?"
+  },
+  {
+    "id": 1881,
+    "fa": "نمی توانم چشم از تو بردارم",
+    "en": "I can't take my eyes off you"
+  },
+  {
+    "id": 1882,
+    "fa": "باید از این فرصت استفاده کنی",
+    "en": "You should take advantage of this opportunity"
+  },
+  {
+    "id": 1883,
+    "fa": "او تصمیم گرفت که اوضاع را خودش به دست بگیرد",
+    "en": "He decided to take matters into his own hands"
+  },
+  {
+    "id": 1884,
+    "fa": "می تونی آن را با خودت ببری",
+    "en": "You can take it with you"
+  },
+  {
+    "id": 1885,
+    "fa": "باید موتور رو جدا کنم ببینم مشکلش چیه",
+    "en": "I need to take the engine apart to see what the problem is"
+  },
+  {
+    "id": 1886,
+    "fa": "من معمولاً تمرین می کنم تا ذهنم را از مشکلاتم برهانم",
+    "en": "I usually work out to take my mind off my problems"
+  },
+  {
+    "id": 1887,
+    "fa": "او (مرد) به من گفت که برای من کاری پیدا خواهد کرد و من رو حرفش حساب کردم",
+    "en": "He told me he would find me a job and I took his word for it"
+  },
+  {
+    "id": 1888,
+    "fa": "تمام روز طول کشید تا به خانه برگردم",
+    "en": "It took me all day to drive back home"
+  },
+  {
+    "id": 1889,
+    "fa": "تقریبا 3 سال از ما وقت گرفته",
+    "en": "It's taken us almost 3 years"
+  },
+  {
+    "id": 1890,
+    "fa": "من دوست دارم نظر شما را در مورد این موضوع بگیرم",
+    "en": "I'd love to hear your take on this issue"
+  },
+  {
+    "id": 1891,
+    "fa": "آتش سوزی سال گذشته جان او را گرفت",
+    "en": "Fire took her life last year"
+  },
+  {
+    "id": 1892,
+    "fa": "چرا هیچ یک از تماس های من را  جواب نمی دی (نمی گیری)؟",
+    "en": "Why don't you take any of my call?"
+  },
+  {
+    "id": 1893,
+    "fa": "شروع کردم به گرفتن درس پیانو",
+    "en": "I've started taking piano lessons"
+  },
+  {
+    "id": 1894,
+    "fa": "من هرگز در عمرم (تاکید) گلف بازی نکرده ام اما دوست دارم امتحانش کنم",
+    "en": "I have never played golf ever in my life and I'd love to take a shot at it"
+  },
+  {
+    "id": 1895,
+    "fa": "آیا قبلاً 2 بار نپرسیده بودم که آیا این مانع از یکدیگر نمی شود؟",
+    "en": "Hadn't I already asked 2 times if this doesn't get in each other's way?"
+  },
+  {
+    "id": 1896,
+    "fa": "چیزی برای ذکر نیست تا اینجا",
+    "en": "Nothing to mention so far"
+  },
+  {
+    "id": 1897,
+    "fa": "پسرم گفت که با خدمات اجتماعی تماس می گیرد مگر اینکه کمک هزینه اش را افزایش دهم. آیا باید او را باور کنم؟",
+    "en": "My son said he would call social services unless I raised his allowance. Should I believe him?"
+  },
+  {
+    "id": 1898,
+    "fa": "لطفا، در مهمانی امشب درست رفتار کن",
+    "en": "Please, behave yourself at the party tonight"
+  },
+  {
+    "id": 1899,
+    "fa": "بچه چندمی؟",
+    "en": "What's your birth order?"
+  },
+  {
+    "id": 1900,
+    "fa": "من فرزند ارشدم",
+    "en": "I'm the eldest child"
   }
 ]
