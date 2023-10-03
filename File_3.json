@@ -57,7 +57,7 @@
   {
     "id": 20012,
     "en": "Write",
-    "de": "\n schreibe (اِشقایْبِ) \n schreibst (اِشقایبْسْت) \n schreibt (اِشقایبْت) \n schreiben (اِشقایْبِن) \n schreibt \n schreiben \n"
+    "de": "\n schreibe (شقایْبِ) \n schreibst (شقایبْسْت) \n schreibt (ِشقایبْت) \n schreiben (شقایْبِن) \n schreibt \n schreiben \n"
   },
   {
     "id": 20013,
@@ -72,7 +72,7 @@
   {
     "id": 20015,
     "en": "Play",
-    "de": "\n spiel (اِشپیلِ) \n spielst (اِشپیلسْت) \n spielt (اِشپیلْت) \n spielen (اِشپیلِن) \n spielt \n spielen \n"
+    "de": "\n spiel (اشپیلِ) \n spielst (اشپیلسْت) \n spielt (اشپیلْت) \n spielen (اشپیلِن) \n spielt \n spielen \n"
   },
   {
     "id": 20016,
@@ -92,12 +92,12 @@
   {
     "id": 20019,
     "en": "Save",
-    "de": "\n speichere (اِشپای شِقِ) \n speicherst (اِشپای شرست) \n speichert (اِشپای شرت) \n speichern (اِشپای شرن) \n speichert \n speichern \n"
+    "de": "\n speichere (اشپای شِقِ) \n speicherst (اشپای شرست) \n speichert (اشپای شرت) \n speichern (اشپای شرن) \n speichert \n speichern \n"
   },
   {
     "id": 20020,
     "en": "Sleep",
-    "de": "\n schlafe (اِشلافِ) \n schläfst (اِشلفست) \n (اِشلفت) schläft \n schlafen \n schlaft (اِشلافت) \n schlafen (اِشلافن)"
+    "de": "\n schlafe (اشلافِ) \n schläfst (اشلفست) \n schläft (اشلفت) \n schlafen \n schlaft (اشلافت) \n schlafen (اشلافن)"
   },
   {
     "id": 20021,
@@ -107,7 +107,7 @@
   {
     "id": 20022,
     "en": "Eat",
-    "de": "\n esse (اِسِ) \n isst (ایِسِ) \n isst \n essen \n esst (اِسْت) \n essen (اِسِن)"
+    "de": "\n esse (اسِ) \n isst (ایِستِ) \n isst \n essen \n esst (اسْت) \n essen (اسِن)"
   },
   {
     "id": 20023,
@@ -117,7 +117,7 @@
   {
     "id": 20024,
     "en": "See",
-    "de": "\n sehe (زی اِ) \n siehst (زیست) \n sieht (زیت) \n sehen (زی اِن) \n seht (زیت) \n sehen (زِی اِن)"
+    "de": "\n sehe (زیِ) \n siehst (زیست) \n sieht (زیت) \n sehen \n seht (زیت) \n sehen (زِین)"
   },
   {
     "id": 20025,

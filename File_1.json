@@ -281,7 +281,7 @@
   },
   {
     "id": 1056,
-    "fa": "آیا کسی سرنخی دارد که این اعداد چه خواهند بود؟",
+    "fa": "آیا کسی سرنخی دارد که این اعداد چه هستند (فرضی)؟",
     "en": "Does anybody have any clue what these numbers would be?"
   },
   {
@@ -491,7 +491,7 @@
   },
   {
     "id": 1097,
-    "fa": "می تونی لطفاً در طول جلسه از من حمایت کنی؟ داشتن حمایت شما عالی خواهد بود",
+    "fa": "می تونی لطفاً در طول جلسه از من حمایت کنی؟ داشتن حمایت شما عالی میشه (فرضی)",
     "en": "Can you please back me up during the meeting? It would be great to have your support"
   },
   {
@@ -648,7 +648,7 @@
   },
   {
     "id": 1128,
-    "fa": "برق رفت",
+    "fa": "الکتریسیته رفت",
     "en": "The electricity went out"
   },
   {
@@ -1069,7 +1069,7 @@
   },
   {
     "id": 1211,
-    "fa": "راننده آنجا خواهد بود در حدود 40 دقیقه دیگر",
+    "fa": "راننده آنجا خواهد بود در حدود 40 دقیقه",
     "en": "The driver will be there in about 40 minutes"
   },
   {
@@ -1837,7 +1837,7 @@
   },
   {
     "id": 1363,
-    "fa": "فکر میکنی امکان داشته باشد اگر من ۱۰۰ $ از حقوقم رو جلوتر بگیرم",
+    "fa": "فکر میکنی امکان داشته باشد (فرضی) اگر من ۱۰۰ $ از حقوقم رو جلوتر بگیرم",
     "en": "Do you think it would be possible if I got 100$ advance on my salary?"
   },
   {
@@ -2079,7 +2079,7 @@
   },
   {
     "id": 1411,
-    "fa": "به نظر شما چه کسی امروز بازی را خواهد برد؟",
+    "fa": "چه کسی شما فکر می کنید امروز بازی را خواهد برد؟",
     "en": "Who do you think will win the match today?"
   },
   {
@@ -3442,8 +3442,8 @@
   },
   {
     "id": 1682,
-    "fa": "من از نارنگی های و شلیل آبدار در یک بعد از ظهر گرم تابستان لذت بردم",
-    "en": "I enjoyed juicy tangerines (ˌtanjəˈrēn) and nectarines (ˌnektəˈrēn) on a hot summer afternoon"
+    "fa": "من از نارنگی های در یک بعد از ظهر گرم تابستان لذت بردم",
+    "en": "I enjoyed juicy tangerines (ˌtanjəˈrēn) on a hot summer afternoon"
   },
   {
     "id": 1683,
@@ -4174,7 +4174,7 @@
   },
   {
     "id": 1826,
-    "fa": "چه کسی اجازه دارد با دستگاه شوک دهنده کار کند؟",
+    "fa": "چه کسی اجازه دارد با دستگاه شوک دهنده عمل کند؟",
     "en": "Who is allowed to operate a defibrillator? (دیفیب ری لی تر)"
   },
   {
@@ -4219,7 +4219,7 @@
   },
   {
     "id": 1835,
-    "fa": "میتونم ببینم چرا ممکنه عصبی بشی",
+    "fa": "میتونم ببینم چرا ممکنه عصبی باشی",
     "en": "I can see why you might be nervous"
   },
   {
@@ -4239,7 +4239,7 @@
   },
   {
     "id": 1839,
-    "fa": "من هرگز این را انجام ندادم",
+    "fa": "من هرگز این را قبلاً انجام ندادم",
     "en": "I've never done this before"
   },
   {
@@ -4254,7 +4254,7 @@
   },
   {
     "id": 1842,
-    "fa": "ارسال یک جعبه بزرگ به ایران چقدر طول می کشد؟",
+    "fa": "ارسال یک جعبه بزرگ به ایران چقدر طول می کشد (فرضی)؟",
     "en": "How long would it take to ship a large box to Iran?"
   },
   {
@@ -4280,7 +4280,8 @@
   {
     "id": 1847,
     "fa": "برای کیستش؟",
-    "en": "Who is it for?"
+    "en": "Who is it for?",
+    "desc": "\"Whose is it?\" asks about ownership (Who owns it?). Example: \"Whose book is this?\" (You want to know who owns the book.) \n\"Who is it for?\" asks about the intended recipient (Who will receive it?). Example: \"Who is this gift for?\" (You want to know the person who will receive the gift.)"
   },
   {
     "id": 1848,
@@ -4289,7 +4290,7 @@
   },
   {
     "id": 1849,
-    "fa": "چرا در اینجا به مهاجران نیاز است در حالی که بسیاری از ما شغل نداریم؟",
+    "fa": "چرا در اینجا به مهاجران نیاز است زمانیکه بسیاری از ما شغل نداریم؟",
     "en": "Why are immigrants needed in here when many of us don't have jobs?"
   },
   {
@@ -4299,7 +4300,7 @@
   },
   {
     "id": 1851,
-    "fa": "من او (زن) را به خانه رساندم",
+    "fa": "من او (زن) را به خانه (رانندگی) رساندم",
     "en": "I drove her home"
   },
   {
@@ -4329,7 +4330,7 @@
   },
   {
     "id": 1857,
-    "fa": "من از ساعت 6 صبح درس می خونم و واقعا نیاز به استراحت دارم",
+    "fa": "من از ساعت 6 صبح درس می خونم و واقعا نیاز دارم یک استراحتی کنم",
     "en": "I've been studying since 6 o'clock in the morning and I really need to take a break"
   },
   {
@@ -4354,12 +4355,12 @@
   },
   {
     "id": 1862,
-    "fa": "میشه منو ببر خونه لطفا؟",
+    "fa": "میشه منو ببری خونه لطفا؟",
     "en": "Can you take me home please?"
   },
   {
     "id": 1863,
-    "fa": "میدونم که تو عصبانی هستی اما سر من خالی نکن",
+    "fa": "میدونم که تو دیوانه هستی اما سر من خالی نکن",
     "en": "I know you're mad but don't take it out on me"
   },
   {
@@ -4374,7 +4375,7 @@
   },
   {
     "id": 1866,
-    "fa": "او مرا به شک انداخت",
+    "fa": "او (مرد) مرا به شک انداخت",
     "en": "He made me doubt"
   },
   {
@@ -4409,7 +4410,7 @@
   },
   {
     "id": 1873,
-    "fa": "میشه از ما عکس بگیری",
+    "fa": "میتونی از ما یک عکس بگیری",
     "en": "Can you take a picture of us?"
   },
   {
@@ -4434,7 +4435,7 @@
   },
   {
     "id": 1878,
-    "fa": "نگران نباشید. من از آن برای شما مراقبت خواهم کرد",
+    "fa": "نگران نباشید. من ازش برای شما مراقبت خواهم کرد",
     "en": "Don't worry. I'll take care of it for you"
   },
   {
@@ -4459,12 +4460,12 @@
   },
   {
     "id": 1883,
-    "fa": "او تصمیم گرفت که اوضاع را خودش به دست بگیرد",
+    "fa": "او (مرد) تصمیم گرفت که اوضاع را خودش به دست بگیرد",
     "en": "He decided to take matters into his own hands"
   },
   {
     "id": 1884,
-    "fa": "می تونی آن را با خودت ببری",
+    "fa": "می تونی با خودت ببریش",
     "en": "You can take it with you"
   },
   {
@@ -4484,22 +4485,22 @@
   },
   {
     "id": 1888,
-    "fa": "تمام روز طول کشید تا به خانه برگردم",
+    "fa": "تمام روز برام طول کشید تا به خانه (رانندگی) برگردم",
     "en": "It took me all day to drive back home"
   },
   {
     "id": 1889,
     "fa": "تقریبا 3 سال از ما وقت گرفته",
-    "en": "It's taken us almost 3 years"
+    "en": "It has taken us almost 3 years"
   },
   {
     "id": 1890,
     "fa": "من دوست دارم نظر شما را در مورد این موضوع بگیرم",
-    "en": "I'd love to hear your take on this issue"
+    "en": "I'd like to hear your take on this issue"
   },
   {
     "id": 1891,
-    "fa": "آتش سوزی سال گذشته جان او را گرفت",
+    "fa": "آتش سوزی سال گذشته جان او (زن) را گرفت",
     "en": "Fire took her life last year"
   },
   {
@@ -4515,7 +4516,7 @@
   {
     "id": 1894,
     "fa": "من هرگز در عمرم (تاکید) گلف بازی نکرده ام اما دوست دارم امتحانش کنم",
-    "en": "I have never played golf ever in my life and I'd love to take a shot at it"
+    "en": "I have never ever played golf in my life and I'd like to take a shot at it"
   },
   {
     "id": 1895,
@@ -4529,7 +4530,7 @@
   },
   {
     "id": 1897,
-    "fa": "پسرم گفت که با خدمات اجتماعی تماس می گیرد مگر اینکه کمک هزینه اش را افزایش دهم. آیا باید او را باور کنم؟",
+    "fa": "پسرم گفت که با خدمات اجتماعی تماس خواهد گرفت مگر کمک هزینه اش را افزایش دهم. آیا باید او را باور کنم؟",
     "en": "My son said he would call social services unless I raised his allowance. Should I believe him?"
   },
   {

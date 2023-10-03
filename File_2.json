@@ -57,13 +57,13 @@
   {
     "id": 10012,
     "en": "Welcome!",
-    "de": "Herzlich willkommen!"
+    "de": "Willkommen!"
   },
   {
     "id": 10013,
     "en": "One more again slowly please",
-    "de": "Bitte noch (again) einmal langsam (لانگ زام)",
-    "desc": "noch = again \n einmal = once"
+    "de": "Bitte noch einmal langsam (لانگ زام)",
+    "desc": "\n noch = again \n einmal = once"
   },
   {
     "id": 10014,
@@ -123,7 +123,7 @@
   {
     "id": 10025,
     "en": "\n Subject pronoun \n\n I, you, he(M)/she(F)/it(N), we, you, they",
-    "de": "\n Subjekt Pronomen \n\n ich, du, er(M)/sie(F)/es(N), wir (ویِ), ihr (ایِ), sie-Sie"
+    "de": "\n Subjektpronomen (زوب یکت پرُنومن) \n\n ich, du, er(M)/sie(F)/es(N), wir (ویِ), ihr (ایِ), sie-Sie"
   },
   {
     "id": 10026,
@@ -256,7 +256,7 @@
   },
   {
     "id": 10051,
-    "en": "The place is beautiful",
+    "en": "The location is beautiful",
     "de": "Der Ort ist schön"
   },
   {
@@ -286,8 +286,8 @@
   },
   {
     "id": 10057,
-    "en": "\n Austria \n Switzerland \n Germany \n Turkey \n Romania \n Syria",
-    "de": "\n österreich (اُستِقایچ) \n die Schweiz (اِشوایتز) \n Deutschland \n die Türkei (تُرکای) \n Rumänien (قُمِنیِن) \n Syrien (زُقیِن)"
+    "en": "\n Switzerland \n Turkey \n",
+    "de": "\n die Schweiz (اِشوایتز) \n die Türkei (تُرکای) \n"
   },
   {
     "id": 10058,
@@ -331,7 +331,7 @@
   },
   {
     "id": 10066,
-    "en": "I don't speak German? English?",
+    "en": "I speak no German? English?",
     "de": "Ich spreche (اشپقِشِ) kein Deutsch? Englisch?"
   },
   {
@@ -381,9 +381,8 @@
   },
   {
     "id": 10076,
-    "en": "House number 7 is located on Linden Street",
-    "de": "Die Hausnummer (هآوسنوما) 7 befindet (بیفیندیت) sich (زیش) in der Lindenstraße",
-    "desc": "\"Befindet sich\" means \"is located\""
+    "en": "Tehran is of course expensive",
+    "de": "Tehran ist Natürlich (ناتولیش) teuer"
   },
   {
     "id": 10077,
@@ -392,8 +391,8 @@
   },
   {
     "id": 10078,
-    "en": "Tools for learning German",
-    "de": "Werkzeuge (ورک زُیگِ) zum (ثُم) Deutschlernen"
+    "en": "Hello, how are you?",
+    "de": "Hallo, wie geht's?"
   },
   {
     "id": 10079,
@@ -567,8 +566,8 @@
   },
   {
     "id": 10112,
-    "en": "How are you doing? (informal) Thank you I'm right, and you?",
-    "de": "Wie geht es dir (وی گِت اِس دیِ)? Dannke, Es geht, und dir (دیِ)?"
+    "en": "How are you doing? (informal) Thank you, I'm doing well, and you?",
+    "de": "Wie geht es dir (وی گِت اِس دیِ)? Dannke, es geht mir gut, und dir (دیِ)?"
   },
   {
     "id": 10113,
@@ -599,7 +598,7 @@
   },
   {
     "id": 10118,
-    "en": "Do you come from Germany?",
+    "en": "Do you come from Germany? (informal)",
     "de": "Kommst du aus Deutschland?"
   },
   {
@@ -624,23 +623,23 @@
   },
   {
     "id": 10123,
-    "en": "Germany, Poland, Italy, Portugal, Syria, Greece",
-    "de": "Deutschland, Polen, Italien, Portugal, Syrien, Griechenland"
+    "en": "My daughter is young",
+    "de": "Meine Tochter (تُختا) ist jung (یونگ)"
   },
   {
     "id": 10124,
-    "en": "Which languages do you speak?",
+    "en": "Which languages do you speak? (informal)",
     "de": "Welche Sprachen (اشپقاخن) sprichst (اشپریشْسْت) du?"
   },
   {
     "id": 10125,
-    "en": "\n Persian \n French \n Polish \n Italian \n Portuguese \n Arabic \n",
-    "de": "\n Persisch \n Französisch (فرَنزوسیش) \n Polnisch (پُل نیش) \n Italienisch (ایتالیِنیش) \n Portugiesisch (پُرتوگیزیش) \n Arabisch (اَقبیش) \n"
+    "en": "Munich is a city in Germany",
+    "de": "München ist eine Stadt (اِشتات) in Deutschland"
   },
   {
     "id": 10126,
-    "en": "Which languages do you speak?",
-    "de": "Welche Sprachen (اشپقاخن) sprichst (اشپریشْسْت) du?"
+    "en": "Canada is wonderful",
+    "de": "Kanada ist wunderbar (ووندابا)"
   },
   {
     "id": 10127,
@@ -694,7 +693,7 @@
   },
   {
     "id": 10137,
-    "en": "She is 24 years old and a saleswoman",
+    "en": "She is 24 years old and saleswoman",
     "de": "Sie ist 24 Jahre alt und Verkäuferin (فِرکوی فِقین)"
   },
   {
@@ -714,8 +713,8 @@
   },
   {
     "id": 10141,
-    "en": "Greek \n Ukrainian \n Russian \n English \n German \n Spanish \n",
-    "de": "Griechisch (گیقیشیش) \n Ukrainisch (اوک راینیش) \n Russisch (روسیش) \n Englisch \n Deutsch \n Spanisch (ˈʃpaːnɪʃ) \n"
+    "en": "Ukrainian \n Russian \n English \n German \n Spanish \n",
+    "de": "Ukrainisch (اوک راینیش) \n Russisch (روسیش) \n Englisch \n Deutsch \n Spanisch (ˈʃpaːnɪʃ) \n"
   },
   {
     "id": 10142,
@@ -729,8 +728,8 @@
   },
   {
     "id": 10144,
-    "en": "The Brazilian is 32 years old",
-    "de": "Der Brasilianer (برازیلیانِ) ist 32 Jahre alt"
+    "en": "The food is bland",
+    "de": "Das Essen ist fade (فادِ)"
   },
   {
     "id": 10145,
@@ -775,8 +774,8 @@
   },
   {
     "id": 10153,
-    "en": "Is Vienna big and beautiful?",
-    "de": "Ist Wien (وین) groß (گُقُس) und schön?"
+    "en": "Is Vienna big, beautiful and cool?",
+    "de": "Ist Wien (وین) groß (گُقُس), schön und cool?"
   },
   {
     "id": 10154,
@@ -793,7 +792,7 @@
     "id": 10156,
     "en": "I would like to call the waiter please",
     "de": "Ich möchte bitte den Kellner (کِلنا) rufen (قوفِن)",
-    "desc": "\n Kellner = Waiter \n rufen = call \n"
+    "desc": "\n Kellner = Waiter \n rufen = call"
   },
   {
     "id": 10157,
@@ -818,7 +817,7 @@
   {
     "id": 10160,
     "en": "The food needs more salt",
-    "de": "Das Essen braucht (بِقآوخت) mehr Salz (زالت)"
+    "de": "Das Essen braucht (بِقآوخت) mehr (میِ) Salz (زالت)"
   },
   {
     "id": 10161,
@@ -828,7 +827,7 @@
   {
     "id": 10162,
     "en": "The weather today is bad",
-    "de": "Das Wetter (وِتا) heute ist cchlecht (اِش لِشت)"
+    "de": "Das Wetter (وِتا) heute ist schlecht (اش لِشت)"
   },
   {
     "id": 10163,
@@ -842,7 +841,7 @@
   },
   {
     "id": 10165,
-    "en": "Wo ist das Restaurant?",
+    "en": "Where is the restaurant?",
     "de": "Wo ist das Restaurant (قِستوقانت)?"
   },
   {
@@ -864,5 +863,132 @@
     "id": 10169,
     "en": "Here is the menu",
     "de": "Hier (هیِ) ist die Speisekarte (اِشپایزِکارتِ)"
+  },
+  {
+    "id": 10170,
+    "en": "I come from Iran, speak Persian, and am Persian",
+    "de": "Ich komme aus dem Iran, spreche Persisch (پرزیش) und bin Perser(پرزا)/Perserin(پرزقبن)"
+  },
+  {
+    "id": 10171,
+    "en": "I come from France, speak French, and am French",
+    "de": "Ich komme aus Frankreich (فقَن کِقایش), spreche Französisch (فقَن زوسیش) und bin Franzose/Französin"
+  },
+  {
+    "id": 10172,
+    "en": "I come from Poland, speak Polish, and am Polish",
+    "de": "Ich komme aus Polen, spreche Polnisch (پُل نیش) und bin Pole/Polin"
+  },
+  {
+    "id": 10173,
+    "en": "I come from Italy, speak Italian, and am Italian",
+    "de": "Ich komme aus Italien, spreche Italienisch (ایتالیِ یِ نیش) und bin Italiener(ایتالیِ یِ نا)/Italienerin(ایتالیِ یِ ناقین)"
+  },
+  {
+    "id": 10174,
+    "en": "I come from Portugal, speak Portuguese, and am Portuguese",
+    "de": "Ich komme aus Portugal, spreche Portugiesisch  (پُرتوگیزیش) und bin Portugiese/Portugiesin"
+  },
+  {
+    "id": 10175,
+    "en": "I come from Syria, speak Arabic, and am Syrian",
+    "de": "Ich komme aus Syrien (زُقیِن), spreche Arabisch (اَقَبیش) und bin Syrer(زوقا)/Syrerin(زوققین)"
+  },
+  {
+    "id": 10176,
+    "en": "I come from Greece, speak Greek, and am Greek",
+    "de": "Ich komme aus Griechenland (گیقِشِن لَنت), spreche Griechisch und bin Grieche/Griechin"
+  },
+  {
+    "id": 10177,
+    "en": "Is food expensive?",
+    "de": "Ist Essen teuer?"
+  },
+  {
+    "id": 10178,
+    "en": "What is it like in Austria?",
+    "de": "Wie ist es in österreich (اُستِقایچ)?"
+  },
+  {
+    "id": 10179,
+    "en": "Germany is exciting",
+    "de": "Deutschland ist aufregend (آوف قیگند)"
+  },
+  {
+    "id": 10180,
+    "en": "Romania is also great",
+    "de": "Rumänien (قُمِنیِن) ist auch (آوخ) super"
+  },
+  {
+    "id": 10181,
+    "en": "I drink coffee",
+    "de": "Ich trinke (تیقینک) Kaffee (کافِ)"
+  },
+  {
+    "id": 10182,
+    "en": "My bag is blue",
+    "de": "Meine Tasche (تاشِ) ist blau"
+  },
+  {
+    "id": 10183,
+    "en": "I wear my jacket",
+    "de": "Ich trage (تقاگِ) meine Jacke (یاکِ)"
+  },
+  {
+    "id": 10184,
+    "en": "Oh no, the taxi isn't here anymore!",
+    "de": "Oh nein, das Taxi ist nicht mehr (میِ) hier!",
+    "desc": "mehr = more"
+  },
+  {
+    "id": 10185,
+    "en": "jetzt habe ich ein großes Problem",
+    "de": "jetzt habe ich ein großes Problem"
+  },
+  {
+    "id": 10186,
+    "en": "Your passport is not in taxi, it is in your hand",
+    "de": "Dein Pass (پَس) ist nicht im Taxi, Das ist in deiner Hand",
+    "desc": "\"Im\" is a contraction of \"in dem,\""
+  },
+  {
+    "id": 10187,
+    "en": "It's not in my jacket",
+    "de": "Er ist nicht in meiner Jacke"
+  },
+  {
+    "id": 10188,
+    "en": "My hobbies are watching TV and listening to music",
+    "de": "Meine Hobbys (هابیز) sind fernsehen (فرن زین) und Musik hören"
+  },
+  {
+    "id": 10189,
+    "en": "I have no children",
+    "de": "Ich habe keine Kinder"
+  },
+  {
+    "id": 10190,
+    "en": "I have one child",
+    "de": "Ich have ein Kind"
+  },
+  {
+    "id": 10191,
+    "en": "I am married",
+    "de": "Ich bin verheiratet (فرهای قاتت)"
+  },
+  {
+    "id": 10192,
+    "en": "I am single",
+    "de": "Ich bin ledig (لیدیش)"
+  },
+  {
+    "id": 10193,
+    "en": "You are teacher",
+    "de": "Du bist Lehrer(M) (لیقِ)/ Lehrerin(F) (لیقِقین)"
+  },
+  {
+    "id": 10194,
+    "en": "You are Student",
+    "de": "Du bist Student(M) (اِشتودنت)/Studentin(F) (اِشتودنتین)"
   }
 ]
