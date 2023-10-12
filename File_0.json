@@ -229,7 +229,7 @@
   },
   {
     "id": 46,
-    "fa": "از کجا میدونی بهش (زن) داری نگاه نمیکنی؟",
+    "fa": "چگونه میدونی بهش (زن) داری نگاه نمیکنی؟",
     "en": "How do you know you are not looking at her?"
   },
   {
@@ -650,7 +650,7 @@
   },
   {
     "id": 130,
-    "fa": "من منتظر دیدن شما هستم",
+    "fa": "من مشتاقانه منتظر دیدن شما هستم",
     "en": "I am looking forward to seeing you"
   },
   {
@@ -696,7 +696,7 @@
   {
     "id": 139,
     "fa": "دارم چاق می شم و من باید کمی وزن کم کنم",
-    "en": "I am getting fat and I have to lose some weight"
+    "en": "I am getting fat and I have to lose (لوز) some weight"
   },
   {
     "id": 140,
@@ -982,8 +982,8 @@
   },
   {
     "id": 196,
-    "fa": "خانواده ات چند نفر است؟",
-    "en": "How many people are there in your family?"
+    "fa": "خانواده ات چند نفر است؟ وجود دارد ما چهار نفر",
+    "en": "How many people are there in your family? There are four of us"
   },
   {
     "id": 197,
@@ -3123,7 +3123,7 @@
   },
   {
     "id": 621,
-    "fa": "لطفاً در تماس با من تردید نکنید اگر شما سوالات دیگر بیشتری دارید",
+    "fa": "لطفاً در ارتباط با من تردید نکنید اگر شما سوالات دیگر بیشتری دارید",
     "en": "Please don't hesitate to reach me out if you have any further questions"
   },
   {
@@ -3327,7 +3327,7 @@
   },
   {
     "id": 660,
-    "fa": "دخالت نکن",
+    "fa": "از آن دور بمان",
     "en": "Stay out of it"
   },
   {
@@ -4933,7 +4933,7 @@
   },
   {
     "id": 975,
-    "fa": "در صورت هرگونه سوالاتی در تماس با تیم مدیریت دفتر خود تردید نکنید",
+    "fa": "در صورت هرگونه سوالاتی در ارتباط با تیم مدیریت دفتر خود تردید نکنید",
     "en": "In case of any questions do not hesitate to reach out to your office management team"
   },
   {

@@ -713,7 +713,7 @@
   {
     "id": 10141,
     "en": "Ukrainian \n Russian \n English \n German \n Spanish \n",
-    "de": "Ukrainisch (اوک راینیش) \n Russisch (روسیش) \n Englisch \n Deutsch \n Spanisch (ˈʃpaːnɪʃ) \n"
+    "de": "Ukrainisch (اوک قاینیش) \n Russisch (قوسیش) \n Englisch \n Deutsch \n Spanisch (ˈʃpaːnɪʃ) \n"
   },
   {
     "id": 10142,
@@ -791,7 +791,7 @@
     "id": 10156,
     "en": "I would like to call the waiter please",
     "de": "Ich möchte bitte den Kellner (کِلنا) rufen (قوفِن)",
-    "desc": "\n Kellner = Waiter \n rufen = call"
+    "desc": "\n Kellner = Waiter \n rufen = call \n In German, adverbs like \"bitte\" (please) typically come before the verb, so it should be placed before \"den Kellner rufen."
   },
   {
     "id": 10157,
@@ -886,7 +886,7 @@
   {
     "id": 10174,
     "en": "I come from Portugal, speak Portuguese, and am Portuguese",
-    "de": "Ich komme aus Portugal, spreche Portugiesisch  (پُرتوگیزیش) und bin Portugiese/Portugiesin"
+    "de": "Ich komme aus Portugal (پُرتوگال), spreche Portugiesisch (پُرتوگیزیش) und bin Portugiese/Portugiesin"
   },
   {
     "id": 10175,
@@ -905,7 +905,7 @@
   },
   {
     "id": 10178,
-    "en": "What is it like in Austria?",
+    "en": "How is it like in Austria?",
     "de": "Wie ist es in österreich (اُستِقایچ)?"
   },
   {
@@ -921,7 +921,7 @@
   {
     "id": 10181,
     "en": "I drink coffee",
-    "de": "Ich trinke (تیقینک) Kaffee (کافِ)"
+    "de": "Ich trinke (تیقینک) Kaffee"
   },
   {
     "id": 10182,
@@ -992,8 +992,8 @@
   },
   {
     "id": 10195,
-    "en": "My husband, my son, my daughter and my wife",
-    "de": "Mein Mann (/Mánn/), mein Sohn (/zoːn/), meine Tochter (تُختا) and meine Frau"
+    "en": "",
+    "de": "Berlin ist auch (آوخ) laud"
   },
   {
     "id": 10196,
@@ -1014,5 +1014,75 @@
     "id": 10199,
     "en": "Cheers",
     "de": "Prost"
+  },
+  {
+    "id": 10200,
+    "en": "Is the coffee delicious?",
+    "de": "Ist der Kaffee lecker?"
+  },
+  {
+    "id": 10201,
+    "en": "Oh no, the bread is too delicious",
+    "de": "Oh nein, das Brot ist zu lecker"
+  },
+  {
+    "id": 10202,
+    "en": "The food here is very good",
+    "de": "Das essen hier ist sehr gut"
+  },
+  {
+    "id": 10203,
+    "en": "خواهش میکنم",
+    "de": "Gerne geschehen (گِشین)"
+  },
+  {
+    "id": 10204,
+    "en": "Ali is in the supermarket",
+    "de": "Ali ist im Supermarkt"
+  },
+  {
+    "id": 10205,
+    "en": "An elegant woman comes to Ali",
+    "de": "Eine elegante (اِلِگانتِ) Frau kommt zu Ali"
+  },
+  {
+    "id": 10206,
+    "en": "Sorry, are you a doctor?",
+    "de": "Entschuldigung, sind sie Arzt?"
+  },
+  {
+    "id": 10207,
+    "en": "Ali is not a doctor",
+    "de": "Ali ist kein Arzt"
+  },
+  {
+    "id": 10208,
+    "en": "I am very rich",
+    "de": "Ich bin sehr reich"
+  },
+  {
+    "id": 10209,
+    "en": "A man needs a doctor now",
+    "de": "Ein Mann braucht (بِقآوخت) jetzt einen Arzt"
+  },
+  {
+    "id": 10210,
+    "en": "He's over there! where the milk is",
+    "de": "Er ist da druben! wo die Milch ist"
+  },
+  {
+    "id": 10211,
+    "en": "He's over there! where the milk is",
+    "de": "Schnell (اِشنل)! Der Mann ist sehr krank (کِقانک)"
+  },
+  {
+    "id": 10212,
+    "en": "Ali sees a woman. He runs to her",
+    "de": "Ali sieht (زیت) eine Frau. Er läuft (لویفت) zu ihr"
+  },
+  {
+    "id": 10213,
+    "en": "Which numbers are hidden?",
+    "de": "Welche Zahlen sind verdeckt? (فردِکت)"
   }
 ]

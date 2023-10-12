@@ -1,9 +1,260 @@
 [
+
   {
     "id": ,
-    "fa": "تبریک میگم",
-    "en": "Take a bow"
+    "fa": "آیا این چیزها رو داری درست می کنی تا از این دعوا رهایی یابی؟",
+    "en": "Are you making things up to get out of this fight?"
   },
+
+
+
+  {
+    "id": ,
+    "fa": "این گزارش آمد کمتر از دو ماه قبل از دیدار رهبران جهان برای نشست جهانی اجلاس",
+    "en": "The report comes less than two month before world leaders meet for the global commit summit"
+  },
+  {
+    "id": ,
+    "fa": "دیروز ناگهان چراغ جلوی ماشینم سمت راننده سوخت",
+    "en": "Yesterday, suddenly, the headlight of my car on the driver's side burnt out"
+  }
+  {
+    "id": ,
+    "fa": "من بلیط باز دارم و مایلم تاریخ خروج را زمانبندی کنم",
+    "en": "I have open ended ticket and I would like to schedule a departure date"
+  },
+  {
+    "id": ,
+    "fa": "زمانبندی شدم برای حرکت در 15",
+    "en": "I am scheduled to depart on June 15th"
+  },
+
+  {
+    "id": ,
+    "fa": "ما برای 22ام صندلی های موجود داریم. دوست دارید (مودبانه) آنها را رزرو کنم؟",
+    "en": "We have seats available for the 2th. Would you like me to reserve them?"
+  },
+  {
+    "id": ,
+    "fa": "من قراره برای یک هفته نباشم (برم), بنابراین اگر قراره با من ارتباط برقرار کنی نمی تونی",
+    "en": "I'm gonna be gone for a week, so if you gonna reach me, you can't."
+  },
+  {
+    "id": ,
+    "fa": "این برنامه سفر من است",
+    "en": "Here is my itinerary (/aɪˈtɪnəˌreri/)"
+  },
+  {
+    "id": ,
+    "fa": "می تونی هرازگاهی ببریش پیش (خانه) علی",
+    "en": "Can you take it to Ali's every now and then"
+  },
+  {
+    "id": ,
+    "fa": "",
+    "en": "A man ambition should never exceed his worth"
+  },
+  {
+    "id": ,
+    "fa": "",
+    "en": "Like the rest of the world, we are shocked and deeply saddened by this inconceivable act of terror"
+  },
+  {
+    "id": ,
+    "fa": "از شما صمیمانه دعوت می شود تا به ما کمک کنید تا غذای دیروز را تمام کنیم",
+    "en": "You are cordially (کُردیِ لی) invite to help us finish off the food from yesterday"
+  },
+  {
+    "id": ,
+    "fa": "چگونه به خارج از کشور پول ارسال کنیم؟",
+    "en": "How to send money abroad?"
+  },
+  {
+    "id": ,
+    "fa": "هیچ کس همه چیز را از رحم مادرش یاد نمی گیرد",
+    "en": "Nobody learns everything from their mother's womb"
+  },
+  {
+    "id": ,
+    "fa": "کنجکاو باش نه قضاوت کننده",
+    "en": "Be curious not judgemental"
+  },
+  {
+    "id": ,
+    "fa": "دستگیره در شل بود، بنابراین سفتش کردم تا درب را نگه دارم از تکان خوردن",
+    "en": "The doorknob was loose (لوس), so I tightened it to keep the door from wobbling"
+  },
+  {
+    "id": ,
+    "fa": "او (مرد) درست به من یاد داد",
+    "en": "He taught me right"
+  },
+  {
+    "id": ,
+    "fa": "",
+    "en": ""
+  },
+  {
+    "id": ,
+    "fa": "",
+    "en": ""
+  },
+  {
+    "id": ,
+    "fa": "",
+    "en": ""
+  },
+  {
+    "id": ,
+    "fa": "",
+    "en": ""
+  },
+  {
+    "id": ,
+    "fa": "",
+    "en": ""
+  },
+  {
+    "id": ,
+    "fa": "",
+    "en": ""
+  },
+  {
+    "id": ,
+    "fa": "",
+    "en": ""
+  },
+  {
+    "id": ,
+    "fa": "",
+    "en": ""
+  },
+  {
+    "id": ,
+    "fa": "",
+    "en": ""
+  },
+  {
+    "id": ,
+    "fa": "",
+    "en": ""
+  },
+  {
+    "id": ,
+    "fa": "",
+    "en": ""
+  },
+  {
+    "id": ,
+    "fa": "",
+    "en": ""
+  },
+  {
+    "id": ,
+    "fa": "",
+    "en": ""
+  },
+  {
+    "id": ,
+    "fa": "",
+    "en": ""
+  },
+  {
+    "id": ,
+    "fa": "",
+    "en": ""
+  },
+  {
+    "id": ,
+    "fa": "",
+    "en": ""
+  },
+  {
+    "id": ,
+    "fa": "",
+    "en": ""
+  },
+  {
+    "id": ,
+    "fa": "",
+    "en": ""
+  },
+  {
+    "id": ,
+    "fa": "",
+    "en": ""
+  },
+  {
+    "id": ,
+    "fa": "",
+    "en": ""
+  },
+  {
+    "id": ,
+    "fa": "",
+    "en": ""
+  },
+  {
+    "id": ,
+    "fa": "",
+    "en": ""
+  },
+  {
+    "id": ,
+    "fa": "",
+    "en": ""
+  },
+  {
+    "id": ,
+    "fa": "",
+    "en": ""
+  },
+  {
+    "id": ,
+    "fa": "",
+    "en": ""
+  },
+  {
+    "id": ,
+    "fa": "",
+    "en": ""
+  },
+  {
+    "id": ,
+    "fa": "",
+    "en": ""
+  },
+  {
+    "id": ,
+    "fa": "",
+    "en": ""
+  },
+  {
+    "id": ,
+    "fa": "",
+    "en": ""
+  },
+  {
+    "id": ,
+    "fa": "",
+    "en": ""
+  },
+  {
+    "id": ,
+    "fa": "",
+    "en": ""
+  },
+  {
+    "id": ,
+    "fa": "",
+    "en": ""
+  }
+
+
+
+
+
+
 
   won't be able to make it for the retro today, still stuck on my appointment
 

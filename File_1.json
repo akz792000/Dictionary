@@ -1611,7 +1611,7 @@
   },
   {
     "id": 1318,
-    "fa": "من منتظرم که سوار دوچرخه ام شم (بپرم روش)",
+    "fa": "من مشتاقانه منتظرم که سوار دوچرخه ام شم (بپرم روش)",
     "en": "I'm looking forward to hopping on my bike"
   },
   {
@@ -3805,7 +3805,7 @@
   },
   {
     "id": 1754,
-    "fa": "دستمال را بگیر و آب را جذب کن",
+    "fa": "حوله را بگیر و آب را جذب کن",
     "en": "Take the towel and sop (/ˈsɑːp/) water up"
   },
   {
@@ -3979,7 +3979,7 @@
   },
   {
     "id": 1788,
-    "fa": "نگران نباش, من ناامیدت نمی کنم",
+    "fa": "(نمیزارم پایین بری) نگران نباش, من ناامیدت نمی کنم",
     "en": "Don't worry, I won't let you down"
   },
   {
@@ -4249,18 +4249,18 @@
   },
   {
     "id": 1841,
-    "fa": "اگر محموله امروز حرکت کند، در سه هفته دیگر می رسد",
+    "fa": "اگر محموله امروز ترک کند، در سه هفته دیگر می رسد",
     "en": "If the shipment leaves today, it will arrive in three weeks"
   },
   {
     "id": 1842,
-    "fa": "ارسال یک جعبه بزرگ به ایران چقدر طول می کشد (فرضی)؟",
+    "fa": "حمل (با کشتی) یک جعبه بزرگ به ایران چقدر طول می کشد (فرضی)؟",
     "en": "How long would it take to ship a large box to Iran?"
   },
   {
     "id": 1843,
-    "fa": "چند نفر در خانواده شما هستند؟ وجود دارد ما چهار نفر",
-    "en": "How many people are in your family? There are four of us"
+    "fa": "مغازه کی باز میشه؟",
+    "en": "When will the shop open?"
   },
   {
     "id": 1844,
@@ -4350,8 +4350,8 @@
   },
   {
     "id": 1861,
-    "fa": "من به یک مهمانی دعوت شده ام و واقعاً چیزی برای پوشیدن ندارم",
-    "en": "I've been invited to a party and I really don't have anything to wear"
+    "fa": "من از هفته گذشته به یک مهمانی دعوت شده ام و واقعاً چیزی برای پوشیدن ندارم",
+    "en": "I've been invited to a party since last week and I really don't have anything to wear"
   },
   {
     "id": 1862,
@@ -4480,7 +4480,7 @@
   },
   {
     "id": 1887,
-    "fa": "او (مرد) به من گفت که برای من کاری پیدا خواهد کرد و من رو حرفش حساب کردم",
+    "fa": "او (مرد) به من گفت که برای من کاری پیدا خواهد کرد (فرضی) و من رو حرفش حساب کردم",
     "en": "He told me he would find me a job and I took his word for it"
   },
   {
@@ -4495,7 +4495,7 @@
   },
   {
     "id": 1890,
-    "fa": "من دوست دارم نظر شما را در مورد این موضوع بگیرم",
+    "fa": "من مایلم نظر شما را در مورد این موضوع بشنوم",
     "en": "I'd like to hear your take on this issue"
   },
   {
@@ -4520,8 +4520,8 @@
   },
   {
     "id": 1895,
-    "fa": "آیا قبلاً 2 بار نپرسیده بودم که آیا این مانع از یکدیگر نمی شود؟",
-    "en": "Hadn't I already asked 2 times if this doesn't get in each other's way?"
+    "fa": "آیا من قبلاً دو بار نپرسیده ام آیا آنها در راه یکدیگر قرار نخواهند گرفت؟ (فرضی)",
+    "en": "Haven't I already asked twice if they wouldn't get in each other's way?"
   },
   {
     "id": 1896,
@@ -4530,7 +4530,7 @@
   },
   {
     "id": 1897,
-    "fa": "پسرم گفت که با خدمات اجتماعی تماس خواهد گرفت مگر کمک هزینه اش را افزایش دهم. آیا باید او را باور کنم؟",
+    "fa": "پسرم گفت که با خدمات اجتماعی تماس خواهد گرفت (فرضی) مگر کمک هزینه اش را افزایش دهم. آیا باید او را باور کنم؟",
     "en": "My son said he would call social services unless I raised his allowance. Should I believe him?"
   },
   {
@@ -4547,5 +4547,55 @@
     "id": 1900,
     "fa": "من فرزند ارشدم",
     "en": "I'm the eldest child"
+  },
+  {
+    "id": 1901,
+    "fa": "تبریک میگم",
+    "en": "Take a bow"
+  },
+  {
+    "id": 1902,
+    "fa": "من واقعا عصبانی هستم",
+    "en": "I'm really pissed off"
+  },
+  {
+    "id": 1903,
+    "fa": "او تسلیم این مبارزه خواهد شد",
+    "en": "He will surrender this fight"
+  },
+  {
+    "id": 1904,
+    "fa": "شاید باخته بودم اگر تو نبودی",
+    "en": "I might have lost if you hadn't been there"
+  },
+  {
+    "id": 1905,
+    "fa": "دوست ندارم دنبال شم",
+    "en": "I don't like being followed"
+  },
+  {
+    "id": 1906,
+    "fa": "چرا بچه هات من را رها کرده اند؟",
+    "en": "Why have your kids forsaken me?"
+  },
+  {
+    "id": 1907,
+    "fa": "اگر قراره ببازم، میخواهم تو را وادار به احساس بد در موردش کنم",
+    "en": "If I'm gonna lose (لوز) I wanna make you feel bad about it"
+  },
+  {
+    "id": 1908,
+    "fa": "آیا دوست دارید (مودبانه) صندلی پنجره یا صندلی راهرو؟",
+    "en": "Would you like a window seat or an aisle seat?"
+  },
+  {
+    "id": 1909,
+    "fa": "مایلم ببینم آیا یک پرواز زودتری وجود دارد",
+    "en": "I would like to see if there is an earlier flight available"
+  },
+  {
+    "id": 1910,
+    "fa": "چه تاریخی دوست دارید (مودبانه) تغییرش بدی؟",
+    "en": "What date would you like to change it to?"
   }
 ]
