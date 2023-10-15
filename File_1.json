@@ -3729,7 +3729,7 @@
   {
     "id": 1739,
     "fa": "من دارم چیزی را آموزش می دهم که هیچ کس در اینجا علاقه ندارد",
-    "en": "I'm teaching something no one here is interested of"
+    "en": "I'm teaching something that no one here is interested of"
   },
   {
     "id": 1740,
@@ -3979,7 +3979,7 @@
   },
   {
     "id": 1788,
-    "fa": "(نمیزارم پایین بری) نگران نباش, من ناامیدت نمی کنم",
+    "fa": "نگران نباش, من ناامیدت نمی کنم (نمیزارم پایین بری)",
     "en": "Don't worry, I won't let you down"
   },
   {
@@ -4259,7 +4259,7 @@
   },
   {
     "id": 1843,
-    "fa": "مغازه کی باز میشه؟",
+    "fa": "مغازه کی باز خواهد شد؟",
     "en": "When will the shop open?"
   },
   {
@@ -4565,7 +4565,7 @@
   },
   {
     "id": 1904,
-    "fa": "شاید باخته بودم اگر تو نبودی",
+    "fa": "شاید باخته بودم اگر تو آنجا نبودی",
     "en": "I might have lost if you hadn't been there"
   },
   {
@@ -4595,7 +4595,137 @@
   },
   {
     "id": 1910,
-    "fa": "چه تاریخی دوست دارید (مودبانه) تغییرش بدی؟",
+    "fa": "چه تاریخی دوست دارید (مودبانه) تغییرش بدی به؟",
     "en": "What date would you like to change it to?"
+  },
+  {
+    "id": 1911,
+    "fa": "از دستت کلافه شدم",
+    "en": "I'm fed up with you"
+  },
+  {
+    "id": 1912,
+    "fa": "واسم رییس بازی درنیار",
+    "en": "Don't boss me around"
+  },
+  {
+    "id": 1913,
+    "fa": "دعوام نکن",
+    "en": "Don't tell me off"
+  },
+  {
+    "id": 1914,
+    "fa": "تحقیرم نکن",
+    "en": "Don't belittle me"
+  },
+  {
+    "id": 1915,
+    "fa": "موهاتو درست کن",
+    "en": "Do your hair"
+  },
+  {
+    "id": 1916,
+    "fa": "عمدی نبود",
+    "en": "It wasn't intentional"
+  },
+  {
+    "id": 1917,
+    "fa": "ناخن هاتو درست کن",
+    "en": "Do your nails"
+  },
+  {
+    "id": 1918,
+    "fa": "آیا این چیزها رو داری درست می کنی تا از این دعوا رهایی یابی؟",
+    "en": "Are you making things up to get out of this fight?"
+  },
+  {
+    "id": 1919,
+    "fa": "این گزارش آمد کمتر از دو ماه قبل از دیدار رهبران جهان برای نشست جهانی اجلاس",
+    "en": "The report comes less than two month before world leaders meet for the global commit summit"
+  },
+  {
+    "id": 1920,
+    "fa": "دیروز ناگهان چراغ جلوی ماشینم سمت راننده سوخت",
+    "en": "Yesterday, suddenly, the headlight of my car on the driver's side burnt out"
+  },
+  {
+    "id": 1921,
+    "fa": "من بلیط باز دارم و مایلم تاریخ خروج را زمانبندی کنم",
+    "en": "I have open ended ticket and I would like to schedule a departure date"
+  },
+  {
+    "id": 1922,
+    "fa": "زمانبندی شدم برای حرکت در 15",
+    "en": "I am scheduled to depart on June 15th"
+  },
+  {
+    "id": 1923,
+    "fa": "ما برای 22ام صندلی های موجود داریم. دوست دارید (مودبانه) آنها را رزرو کنم؟",
+    "en": "We have seats available for the 2th. Would you like me to reserve them?"
+  },
+  {
+    "id": 1924,
+    "fa": "من قراره برای یک هفته نباشم (برم), بنابراین اگر قراره با من ارتباط برقرار کنی نمی تونی",
+    "en": "I'm gonna be gone for a week, so if you gonna reach me, you can't."
+  },
+  {
+    "id": 1925,
+    "fa": "این برنامه سفر من است",
+    "en": "Here is my itinerary (/aɪˈtɪnəˌreri/)"
+  },
+  {
+    "id": 1926,
+    "fa": "می تونی هرازگاهی ببریش پیش (خانه) علی",
+    "en": "Can you take it to Ali's every now and then"
+  },
+  {
+    "id": 1927,
+    "fa": "",
+    "en": "A man ambition should never exceed his worth"
+  },
+  {
+    "id": 1928,
+    "fa": "از شما صمیمانه دعوت می شود تا به ما کمک کنید تا غذای دیروز را تمام کنیم",
+    "en": "You are cordially (کُردیِ لی) invite to help us finish off the food from yesterday"
+  },
+  {
+    "id": 1929,
+    "fa": "چگونه به خارج از کشور پول ارسال کنیم؟",
+    "en": "How to send money abroad?"
+  },
+  {
+    "id": 1930,
+    "fa": "هیچ کس همه چیز را از رحم مادرش یاد نمی گیرد",
+    "en": "Nobody learns everything from their mother's womb"
+  },
+  {
+    "id": 1931,
+    "fa": "کنجکاو باش نه قضاوت کننده",
+    "en": "Be curious not judgemental"
+  },
+  {
+    "id": 1932,
+    "fa": "دستگیره در شل بود، بنابراین سفتش کردم تا درب را نگه دارم از تکان خوردن",
+    "en": "The doorknob was loose (لوس), so I tightened it to keep the door from wobbling"
+  },
+  {
+    "id": 1933,
+    "fa": "او (مرد) درست به من یاد داد",
+    "en": "He taught me right"
+  },
+  {
+    "id": 1934,
+    "fa": "الان فکر کنم بیش از نیمی از جامعه زیر خط فقرند",
+    "en": "Now I think more than half of the society is below the poverty line"
+  },
+  {
+    "id": 1935,
+    "fa": "چند بلیط برای آن پهپاد لازم دارم؟",
+    "en": "How many tickets do I need for that drone?"
+  },
+  {
+    "id": 1936,
+    "fa": "برای من غم انگیزتر است",
+    "en": "It's sadder for me"
   }
 ]

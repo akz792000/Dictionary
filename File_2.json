@@ -152,13 +152,13 @@
   },
   {
     "id": 10031,
-    "en": "Do you come from Syria?",
-    "de": "Du kommst aus Syrien?"
+    "en": "Do you come from Syria? (informal)",
+    "de": "Kommst du aus Syrien?"
   },
   {
     "id": 10032,
     "en": "A B C D E F G H I J K L M N O P Q R S T U V W X Y Z",
-    "de": "ah be ce de eh(اِ) ef ge(گِ) ha(ها) ih(ای) jot(یوت) ka el em en oh pe qu(کو) er es te uh(او) vau(فآو) we(وِ) ix ypsilon(اُپسیلُن) zet"
+    "de": "ah be ce de eh(اِ) ef ge(گِ) ha(ها) ih(ای) jot(یُت) ka el em en oh pe qu(کو) er es te uh(او) vau(فآو) we(وِ) ix ypsilon(اُپسیلُن) zet"
   },
   {
     "id": 10033,
@@ -768,7 +768,7 @@
   {
     "id": 10152,
     "en": "A bear runs in the forest",
-    "de": "Ein Bär (بِر) läuft (لویفت) im (ایم) Wald (والت)",
+    "de": "Ein Bär (بِآ) läuft (لویفت) im (ایم) Wald (والت)",
     "desc": "\n Bär = bear \n läuft = run \n im = in the \n Wald = forest"
   },
   {
@@ -982,13 +982,13 @@
   },
   {
     "id": 10193,
-    "en": "You are teacher",
-    "de": "Du bist Lehrer(M) (لیقِ)/ Lehrerin(F) (لیقِقین)"
+    "en": "He is a teacher",
+    "de": "Er ist Lehrer (لیقِ)"
   },
   {
     "id": 10194,
-    "en": "You are Student",
-    "de": "Du bist Student(M) (اِشتودنت)/Studentin(F) (اِشتودنتین)"
+    "en": "He is a student",
+    "de": "Er ist Student (اِشتودنت)"
   },
   {
     "id": 10195,
@@ -1068,11 +1068,11 @@
   {
     "id": 10210,
     "en": "He's over there! where the milk is",
-    "de": "Er ist da druben! wo die Milch ist"
+    "de": "Er ist da drüben (دُقوبن)! wo die Milch ist"
   },
   {
     "id": 10211,
-    "en": "He's over there! where the milk is",
+    "en": "Fast! The man is very sick",
     "de": "Schnell (اِشنل)! Der Mann ist sehr krank (کِقانک)"
   },
   {
@@ -1084,5 +1084,155 @@
     "id": 10213,
     "en": "Which numbers are hidden?",
     "de": "Welche Zahlen sind verdeckt? (فردِکت)"
+  },
+  {
+    "id": 10214,
+    "en": "She is a student",
+    "de": "Sie ist Studentin (اِشتودنتین)"
+  },
+  {
+    "id": 10215,
+    "en": "My sister is a teacher",
+    "de": "Meine Schwester ist Lehrerin (لیقِقین)"
+  },
+  {
+    "id": 10216,
+    "en": "Your mother is a doctor",
+    "de": "Deine Mutter ist Ärztin (اِرتسین)"
+  },
+  {
+    "id": 10217,
+    "en": "Cool, is your work stressful?",
+    "de": "Cool, ist deine Arbeit stressig (اِشتقسیش)?"
+  },
+  {
+    "id": 10218,
+    "en": "Is he a waiter?",
+    "de": "Ist er Kellner (کِلنا)?"
+  },
+  {
+    "id": 10219,
+    "en": "My father is also a doctor",
+    "de": "Mein Vater ist auch Arzt (آرتس)"
+  },
+  {
+    "id": 10220,
+    "en": "My work is interesting but stressful",
+    "de": "Meine Arbeit ist interessant (این تقِسانت) aber stressig (اِشتقسیش)"
+  },
+  {
+    "id": 10221,
+    "en": "Is your work stressful?",
+    "de": "Ist deine Arbeit stressig? (اِشتقسیش)"
+  },
+  {
+    "id": 10222,
+    "en": "Are you a teacher?",
+    "de": "Bist du Lehrer (لیقِ)?"
+  },
+  {
+    "id": 10223,
+    "en": "Is your girlfriend an actress?",
+    "de": "Ist deine Freundin (فقویندین) Schauspielerin (شآاُش پی لقین)?"
+  },
+  {
+    "id": 10224,
+    "en": "Is the doctor your brother? No, he's my husband",
+    "de": "Ist der Arzt dein Bruder? Nein, er ist mein Mann"
+  },
+  {
+    "id": 10225,
+    "en": "What is your profession?",
+    "de": "Was ist dein Beruf?"
+  },
+  {
+    "id": 10226,
+    "en": "Where is your mother?",
+    "de": "Wo ist deine Mutter?"
+  },
+  {
+    "id": 10227,
+    "en": "She is a professor",
+    "de": "Sie ist Professorin (پرُفِسُقین)"
+  },
+  {
+    "id": 10228,
+    "en": "He is a professor",
+    "de": "Er ist Professor (پرُفِسُر)"
+  },
+  {
+    "id": 10229,
+    "en": "The man is an actor",
+    "de": "Der Mann ist Schauspieler (شآاُش پی لِ)"
+  },
+  {
+    "id": 10230,
+    "en": "Is he a waiter?",
+    "de": "Ist er Kellner?"
+  },
+  {
+    "id": 10231,
+    "en": "The woman is a waitress",
+    "de": "Die Frau ist Kellnerin (کِلنقین)"
+  },
+  {
+    "id": 10232,
+    "en": "I need a new jacket",
+    "de": "Ich brauche eine neue (نُیِ) Jacke"
+  },
+  {
+    "id": 10233,
+    "en": "He's in the department store",
+    "de": "Er ist im Kaufhaus (کآاُف هاس)"
+  },
+  {
+    "id": 10234,
+    "en": "Do you work here?",
+    "de": "Arbeiten Sie hier?"
+  },
+  {
+    "id": 10235,
+    "en": "I need help",
+    "de": "Ich brauche Hilfe (هیلفِ)"
+  },
+  {
+    "id": 10236,
+    "en": "Do you like the red jacket here?",
+    "de": "Mögen (مُگن) Sie die rote (قُتِ) Jacke hier?"
+  },
+  {
+    "id": 10237,
+    "en": "Do you like that black jacket over there?",
+    "de": "Mögen (مُگن) sie die schwarze (اشوارتز) Jacke da drüben (دُقوبن)?"
+  },
+  {
+    "id": 10238,
+    "en": "The black jacket is very warm and cheap",
+    "de": "Die schwarze (اشوارتز) Jacke ist sehr warm und billig (بیلیش)"
+  },
+  {
+    "id": 10239,
+    "en": "The red jacket is perfect for you",
+    "de": "Die rote (قُتِ) Jacke ist perfekt für Sie"
+  },
+  {
+    "id": 10240,
+    "en": "Wonderful, I'll take the red jacket",
+    "de": "Wunderbar, ich nehme (نِمِ) die rote Jacke"
+  },
+  {
+    "id": 10241,
+    "en": "You do your job very well (formal)",
+    "de": "Sie machen Ihre Arbeit sehr gut"
+  },
+  {
+    "id": 10242,
+    "en": "Where is the cash desck please?",
+    "de": "Wo ist die Kasse, bitte?"
+  },
+  {
+    "id": 10243,
+    "en": "I don't work here",
+    "de": "Ich arbeite nicht hier"
   }
 ]
