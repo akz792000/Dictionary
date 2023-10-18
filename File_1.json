@@ -376,7 +376,7 @@
   {
     "id": 1074,
     "fa": "دمت گرم برای تکمیل ماراتن",
-    "en": "Big up to you for completing the marathon"
+    "en": "1.Big up to you for completing the marathon \n 2.Way to go on completing the marathon \n"
   },
   {
     "id": 1075,
@@ -2522,7 +2522,7 @@
   },
   {
     "id": 1499,
-    "fa": "اگر به نقشه نگاه انداخته بودم, گم نمی شدیم",
+    "fa": "اگر به نقشه نگاه انداخته بودیم, گم نمی شدیم",
     "en": "If we had looked at the map, we wouldn't be lost"
   },
   {
@@ -4064,7 +4064,7 @@
   },
   {
     "id": 1805,
-    "fa": "آیا چیزی در مورد آن روابط نامناسب یا غیراخلاقی بود؟",
+    "fa": "آیا چیزی در مورد اون روابط نامناسب یا غیراخلاقی بود؟",
     "en": "Was anything about those relationships inappropriate or unethical?"
   },
   {
@@ -4455,7 +4455,7 @@
   },
   {
     "id": 1882,
-    "fa": "باید از این فرصت استفاده کنی",
+    "fa": "باید از این فرصت بهره برداری کنی",
     "en": "You should take advantage of this opportunity"
   },
   {
@@ -4635,7 +4635,7 @@
   },
   {
     "id": 1918,
-    "fa": "آیا این چیزها رو داری درست می کنی تا از این دعوا رهایی یابی؟",
+    "fa": "آیا چیزها رو داری درست می کنی تا از این دعوا رهایی یابی؟",
     "en": "Are you making things up to get out of this fight?"
   },
   {
@@ -4655,17 +4655,17 @@
   },
   {
     "id": 1922,
-    "fa": "زمانبندی شدم برای حرکت در 15",
+    "fa": "من برای رفتن در تاریخ ۱۵ ژوئن زمانبندی شدم",
     "en": "I am scheduled to depart on June 15th"
   },
   {
     "id": 1923,
-    "fa": "ما برای 22ام صندلی های موجود داریم. دوست دارید (مودبانه) آنها را رزرو کنم؟",
-    "en": "We have seats available for the 2th. Would you like me to reserve them?"
+    "fa": "ما صندلی ها موجود داریم. دوست دارید (مودبانه) آنها را رزرو کنم؟",
+    "en": "We have seats available. Would you like me to reserve them?"
   },
   {
     "id": 1924,
-    "fa": "من قراره برای یک هفته نباشم (برم), بنابراین اگر قراره با من ارتباط برقرار کنی نمی تونی",
+    "fa": "من قراره برای یک هفته رفته باشم, بنابراین اگر قراره با من ارتباط برقرار کنی تو نمی تونی",
     "en": "I'm gonna be gone for a week, so if you gonna reach me, you can't."
   },
   {
@@ -4675,8 +4675,8 @@
   },
   {
     "id": 1926,
-    "fa": "می تونی هرازگاهی ببریش پیش (خانه) علی",
-    "en": "Can you take it to Ali's every now and then"
+    "fa": "می تونی ببریش پیش (خانه) علی هرازگاهی؟",
+    "en": "Can you take it to Ali's every now and then?"
   },
   {
     "id": 1927,
@@ -4695,8 +4695,8 @@
   },
   {
     "id": 1930,
-    "fa": "هیچ کس همه چیز را از رحم مادرش یاد نمی گیرد",
-    "en": "Nobody learns everything from their mother's womb"
+    "fa": "مردم همه چیز را در رحم یاد نمی گیرند",
+    "en": "People don't learn everything in the womb"
   },
   {
     "id": 1931,
@@ -4727,5 +4727,15 @@
     "id": 1936,
     "fa": "برای من غم انگیزتر است",
     "en": "It's sadder for me"
+  },
+  {
+    "id": 1937,
+    "fa": "حوصله بیرون رفتن را ندارم",
+    "en": "I don't feel like going out"
+  },
+  {
+    "id": 1938,
+    "fa": "حوصله انجام هیچ کاری رو ندارم",
+    "en": "I don't feel like doing anything"
   }
 ]

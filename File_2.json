@@ -113,17 +113,17 @@
   {
     "id": 10023,
     "en": "Who are you? (informal)",
-    "de": "Wer bist du? (وِر بیست دو)"
+    "de": "Wer bist du? (بیست دو)"
   },
   {
     "id": 10024,
     "en": "Who are you? (formal)",
-    "de": "Wer sind Sie? (وِر زیند زی)"
+    "de": "Wer sind Sie? (زیند زی)"
   },
   {
     "id": 10025,
     "en": "\n Subject pronoun \n\n I, you, he(M)/she(F)/it(N), we, you, they",
-    "de": "\n Subjektpronomen (زوب یکت پرُنومن) \n\n ich, du, er(M)/sie(F)/es(N), wir (ویِ), ihr (ایِ), sie-Sie"
+    "de": "\n Subjektpronomen (زوب یکت پرُنومن) \n\n ich, du, er(M)/sie(F)/es(N), wir (ویا), ihr (ای یا), sie-Sie"
   },
   {
     "id": 10026,
@@ -168,7 +168,7 @@
   {
     "id": 10034,
     "en": "Who says that?",
-    "de": "Wer (ورِ) sagt (زاگت) das?"
+    "de": "Wer sagt (زاگت) das?"
   },
   {
     "id": 10035,
@@ -210,7 +210,7 @@
   {
     "id": 10042,
     "en": "\n Object pronoun - Dativ \n\n me, you, him(M)/her(F)/it(N), us, you, them",
-    "de": "\n Objektpronomen (آبیکت پقونومن) - Dativ \n\n mir (میِ), dir (دیِ), ihm(M)(ایم)/ihr(F)(اییِ)/ihm(N), uns (اونس), euch (اویچ), ihnen-Ihnen (اینن)",
+    "de": "\n Objektpronomen (آبیکت پقونومن) - Dativ \n\n mir (میا), dir (دیا), ihm(M)(ایم)/ihr(F)(اییِ)/ihm(N), uns (اونس), euch (اویچ), ihnen-Ihnen (اینن)",
     "desc": "با واسطه - به چه چیزی - به چه کسی"
   },
   {
@@ -307,7 +307,7 @@
   {
     "id": 10061,
     "en": "I am sorry",
-    "de": "Es tut mir (میِ) leid (لاید)"
+    "de": "Es tut mir (میا) leid (لاید)"
   },
   {
     "id": 10062,
@@ -433,12 +433,12 @@
   {
     "id": 10086,
     "en": "My husband is very smart",
-    "de": "Mein Mann ist sehr (زی یا) klug (کولوگ)"
+    "de": "Mein Mann ist sehr (زیا) klug (کولوگ)"
   },
   {
     "id": 10087,
     "en": "I am very nice",
-    "de": "Ich bin sehr (زی یا) nett"
+    "de": "Ich bin sehr (زیا) nett"
   },
   {
     "id": 10088,
@@ -566,7 +566,7 @@
   {
     "id": 10112,
     "en": "How are you doing? (informal) Thank you, I'm doing well, and you?",
-    "de": "Wie geht es dir (وی گِت اِس دیِ)? Dannke, es geht mir gut, und dir (دیِ)?"
+    "de": "Wie geht es dir (وی گِت اِس دیِ)? Dannke, es geht mir (میا) gut, und dir (دیِ)?"
   },
   {
     "id": 10113,
@@ -576,7 +576,7 @@
   {
     "id": 10114,
     "en": "I am cold",
-    "de": "Mir ist kalt (میِ)",
+    "de": "Mir ist kalt (میا)",
     "desc": "In German, the verb \"haben\" (to have) is often used to express physical states and needs, such as hunger, thirst, or pain. So, when you say \"Ich habe Hunger,\" you are literally saying \"I have hunger\" in English.\n\nOn the other hand, the phrase \"Mir ist kalt\" (literally, \"to me is cold\") is used to express sensations such as cold or warmth, rather than physical needs. This construction uses the dative case, which is used to indicate the indirect object of a sentence. In this case, \"mir\" (to me) is the indirect object, and \"kalt\" (cold) is the subject of the sentence."
   },
   {
@@ -613,12 +613,12 @@
   {
     "id": 10121,
     "en": "But you speak German well (formal)",
-    "de": "Ihr (اییِ) sprecht aber (آبا) gut (گوت) Deutsch"
+    "de": "Ihr (اییِ) sprecht aber gut (گوت) Deutsch"
   },
   {
     "id": 10122,
     "en": "We learn German, but German is a bit difficult",
-    "de": "Wir (ویِ) lernen Deutsch, aber (آبا) Deutsch ist ein bisschen (بیسشِن) schwer (اش وی یا)"
+    "de": "Wir (ویا) lernen Deutsch, aber Deutsch ist ein bisschen (بیسشِن) schwer (اش وی یا)"
   },
   {
     "id": 10123,
@@ -663,12 +663,12 @@
   {
     "id": 10131,
     "en": "We are 14 people",
-    "de": "Wir (ویِ) sind 14 Leute (لُیتِ)"
+    "de": "Wir (ویا) sind 14 Leute (لُیتِ)"
   },
   {
     "id": 10132,
     "en": "Together we are 420 years old",
-    "de": "Zusammen (زوسامن) sind wir (ویِ) 420 Jahre alt"
+    "de": "Zusammen (زوسامن) sind wir (ویا) 420 Jahre alt"
   },
   {
     "id": 10133,
@@ -703,7 +703,7 @@
   {
     "id": 10139,
     "en": "Akbar is bus driver, but he is unemployed",
-    "de": "Akbar ist Busfahrer (بوس فاقِ), aber (آبا) er ist arbeitslos (آربایتسلُس)"
+    "de": "Akbar ist Busfahrer (بوس فاقا), aber er ist arbeitslos (آربایتسلُس)"
   },
   {
     "id": 10140,
@@ -758,7 +758,7 @@
   {
     "id": 10150,
     "en": "The soup is very hot",
-    "de": "Die Suppe (زوپِ) sehr (زی یا) ist heiß (هایس)"
+    "de": "Die Suppe (زوپِ) sehr (زیا) ist heiß (هایس)"
   },
   {
     "id": 10151,
@@ -806,12 +806,12 @@
   {
     "id": 10159,
     "en": "My daughter is very smart",
-    "de": "Meine Tochter (تُختا) ist sehr (زی یا) klug (کولوگ)"
+    "de": "Meine Tochter (تُختا) ist sehr (زیا) klug (کولوگ)"
   },
   {
     "id": 10159,
     "en": "My father, my brother, my mother and my sister",
-    "de": "Mein Vater (فاتا), mein bruder (بوقادا), meine Mutter (موتا) und meine Schwester (اشوِستا)"
+    "de": "Mein Vater (فاتا), mein bruder (بوقودا), meine Mutter (موتا) und meine Schwester (اشوِستا)"
   },
   {
     "id": 10160,
@@ -821,7 +821,7 @@
   {
     "id": 10161,
     "en": "The schnitzel is very delicious",
-    "de": "Das Schnitzel ist sehr (زی یا) lecker (لِکا)"
+    "de": "Das Schnitzel ist sehr (زیا) lecker (لِکا)"
   },
   {
     "id": 10162,
@@ -881,7 +881,7 @@
   {
     "id": 10173,
     "en": "I come from Italy, speak Italian, and am Italian",
-    "de": "Ich komme aus Italien, spreche Italienisch (ایتالیِ یِ نیش) und bin Italiener(ایتالیِ یِ نا)/Italienerin(ایتالیِ یِ ناقین)"
+    "de": "Ich komme aus Italien, spreche Italienisch (ایتالییِ نیش) und bin Italiener(ایتالییِ نا)/Italienerin(ایتالییِ ناقین)"
   },
   {
     "id": 10174,
@@ -953,7 +953,7 @@
   {
     "id": 10187,
     "en": "It's not in my jacket",
-    "de": "Es ist nicht in meiner (ماینِ) Jacke (یاکِ)"
+    "de": "Es ist nicht in meiner (ماینا) Jacke (یاکِ)"
   },
   {
     "id": 10188,
@@ -983,11 +983,11 @@
   {
     "id": 10193,
     "en": "He is a teacher",
-    "de": "Er ist Lehrer (لیقِ)"
+    "de": "Er ist Lehrer (لیقا)"
   },
   {
     "id": 10194,
-    "en": "He is a student",
+    "en": "He is a college student",
     "de": "Er ist Student (اِشتودنت)"
   },
   {
@@ -1047,7 +1047,7 @@
   },
   {
     "id": 10206,
-    "en": "Sorry, are you a doctor?",
+    "en": "Sorry, are you a doctor? (formal)",
     "de": "Entschuldigung, sind sie Arzt?"
   },
   {
@@ -1087,7 +1087,7 @@
   },
   {
     "id": 10214,
-    "en": "She is a student",
+    "en": "She is a college student",
     "de": "Sie ist Studentin (اِشتودنتین)"
   },
   {
@@ -1128,7 +1128,7 @@
   {
     "id": 10222,
     "en": "Are you a teacher?",
-    "de": "Bist du Lehrer (لیقِ)?"
+    "de": "Bist du Lehrer (لیقا)?"
   },
   {
     "id": 10223,
@@ -1187,7 +1187,7 @@
   },
   {
     "id": 10234,
-    "en": "Do you work here?",
+    "en": "Do you work here? (formal)",
     "de": "Arbeiten Sie hier?"
   },
   {
@@ -1223,16 +1223,116 @@
   {
     "id": 10241,
     "en": "You do your job very well (formal)",
-    "de": "Sie machen Ihre Arbeit sehr gut"
+    "de": "Sie machen Ihre (ایقِ) Arbeit sehr gut"
   },
   {
     "id": 10242,
-    "en": "Where is the cash desck please?",
+    "en": "Where is the cash desk please?",
     "de": "Wo ist die Kasse, bitte?"
   },
   {
     "id": 10243,
     "en": "I don't work here",
     "de": "Ich arbeite nicht hier"
+  },
+  {
+    "id": 10244,
+    "en": "Keep driving",
+    "de": "Fahr (فار) weiter (وایتا)"
+  },
+  {
+    "id": 10245,
+    "en": "That's great",
+    "de": "Das ist großartig (گُقُ ساتیش)"
+  },
+  {
+    "id": 10246,
+    "en": "Let's speak German",
+    "de": "Lass (لاس) uns (اُنس) deutsch sprechen"
+  },
+  {
+    "id": 10247,
+    "en": "The new school student",
+    "de": "Der neue (نُیِ) Schüler (شولا)"
+  },
+  {
+    "id": 10248,
+    "en": "They go to school by bus",
+    "de": "Sie fahren mit dem Bus in die Schule"
+  },
+  {
+    "id": 10249,
+    "en": "There is a new student in our school",
+    "de": "In unserer (اُنزِقا) Schule (شولِ) ist ein neuer (نُیا) Schüler (شولا)"
+  },
+  {
+    "id": 10250,
+    "en": "He is smart. He speaks three languages",
+    "de": "Er ist klug. Er spricht drei Sprachen"
+  },
+  {
+    "id": 10251,
+    "en": "He has very nice shoes",
+    "de": "Er hat sehr (زیا) schöne Schuhe (شواِ)"
+  },
+  {
+    "id": 10252,
+    "en": "She loves your shoes",
+    "de": "Sie liebt deine schuhe (شواِ)"
+  },
+  {
+    "id": 10253,
+    "en": "I never cook here",
+    "de": "Ich koche hier nie(کُخِ)"
+  },
+  {
+    "id": 10254,
+    "en": "I swim",
+    "de": "Ich schwimme (شِویمِ)"
+  },
+  {
+    "id": 10255,
+    "en": "I never paint",
+    "de": "Ich male nie (نی)"
+  },
+  {
+    "id": 10256,
+    "en": "He paints sometimes",
+    "de": "Er malt manchmal (مانش مال)"
+  },
+  {
+    "id": 10257,
+    "en": "You cook very well",
+    "de": "Du kochst sehr gut"
+  },
+  {
+    "id": 10258,
+    "en": "Do you swim sometimes?",
+    "de": "Schwimmst (شوویمست) du manchmal? (مانش مال)"
+  },
+  {
+    "id": 10259,
+    "en": "Do you paint sometimes?",
+    "de": "Malst du manchmal?"
+  },
+  {
+    "id": 10260,
+    "en": "My daughter is always cooking",
+    "de": "Meine Tochter kocht immer"
+  },
+  {
+    "id": 10261,
+    "en": "Do you also swim often?",
+    "de": "Schwimmst (شوویمست) du auch oft (اُفت)?"
+  },
+  {
+    "id": 10262,
+    "en": "I am warm",
+    "de": "Mir ist warm"
+  },
+  {
+    "id": 10263,
+    "en": "I am full",
+    "de": "Ich bin satt (زات)"
   }
 ]
