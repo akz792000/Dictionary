@@ -809,11 +809,6 @@
     "de": "Meine Tochter (تُختا) ist sehr (زیا) klug (کولوگ)"
   },
   {
-    "id": 10159,
-    "en": "My father, my brother, my mother and my sister",
-    "de": "Mein Vater (فاتا), mein bruder (بوقودا), meine Mutter (موتا) und meine Schwester (اشوِستا)"
-  },
-  {
     "id": 10160,
     "en": "The food needs more salt",
     "de": "Das Essen braucht (بِقآوخت) mehr (میِ) Salz (زالت)"
@@ -1427,5 +1422,10 @@
     "id": 10281,
     "en": "He plays chess very well",
     "de": "Er spielt sehr gut Schach (شاخ)"
+  },
+  {
+    "id": 10282,
+    "en": "My father, my brother, my mother and my sister",
+    "de": "Mein Vater (فاتا), mein bruder (بوقودا), meine Mutter (موتا) und meine Schwester (اشوِستا)"
   }
 ]
