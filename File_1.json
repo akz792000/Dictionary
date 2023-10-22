@@ -286,19 +286,19 @@
   },
   {
     "id": 1057,
-    "fa": "او (مرد) قرار است مثل پارسال جشن بگیرد",
+    "fa": "او (مرد) مثل پارسال جشن خواهد گرفت",
     "en": "He will be throwing a party like last year",
     "desc": "Future Continuous tense emphasizes the ongoing nature of an action in the future"
   },
   {
     "id": 1058,
-    "fa": "او (زن) قراره نوشتن گزارش خود را تا هفته آینده به پایان برساند",
+    "fa": "او (زن) قراره نوشتن گزارش خود را تا هفته آینده به پایان خواهد رساند",
     "en": "She will have finished writing her report by next week",
     "desc": "Future Perfect tense emphasizes the completion of an action before a future reference point"
   },
   {
     "id": 1059,
-    "fa": "من قراره دو ساعت منتظر باشم تا آن زمان که او (مرد) برسد",
+    "fa": "من برای دو ساعت منتظر خواهم ماند تا آن زمان که او (مرد) برسد",
     "en": "I will have been waiting for two hours by the time he arrives",
     "desc": "Future Perfect Continuous tense combines continuity and completion in the future"
   },
@@ -1166,7 +1166,7 @@
   },
   {
     "id": 1230,
-    "fa": "چطور بودی؟",
+    "fa": "چطور تو بودی؟",
     "en": "How have you been?"
   },
   {
@@ -1373,7 +1373,7 @@
   },
   {
     "id": 1271,
-    "fa": "تا به حال چه تفاوت هایی را متوجه شده اید؟",
+    "fa": "تا به حال چه تفاوت هایی را تو متوجه شده ای؟",
     "en": "What differences have you been noticed so far?"
   },
   {
@@ -2189,7 +2189,7 @@
   },
   {
     "id": 1433,
-    "fa": "من از آن مردم متنفرم",
+    "fa": "من از اون مردم متنفرم",
     "en": "I hate those people"
   },
   {
@@ -3106,7 +3106,7 @@
   },
   {
     "id": 1615,
-    "fa": "من نمی خوام وارد جزئیات شوم",
+    "fa": "من نمی خوام برم وارد جزئیات",
     "en": "I don't want to go into the details"
   },
   {
@@ -3181,7 +3181,7 @@
   },
   {
     "id": 1630,
-    "fa": "چند وقته میدونی؟",
+    "fa": "چند وقته تو میدونی؟",
     "en": "How long have you known?"
   },
   {
@@ -3563,7 +3563,7 @@
   },
   {
     "id": 1706,
-    "fa": "آیا تا به حال فکر کرده اید بالاترین ارتفاعی که هر جت جنگنده می تواند به آن برسد چیست؟",
+    "fa": "تا به حال تو فکر کرده ای بالاترین ارتفاعی که هر جت جنگنده می تواند به آن برسد چیست؟",
     "en": "Have you ever wondered what the highest altitude any fighter jet can reach is?"
   },
   {
@@ -4515,8 +4515,8 @@
   },
   {
     "id": 1894,
-    "fa": "من هرگز در عمرم (تاکید) گلف بازی نکرده ام اما دوست دارم امتحانش کنم",
-    "en": "I have never ever played golf in my life and I'd like to take a shot at it"
+    "fa": "من هرگز در عمرم (تاکید) گلف بازی نکرده ام اما مایلم امتحانش کنم",
+    "en": "I've never ever played golf in my life and I'd like to take a shot at it"
   },
   {
     "id": 1895,
@@ -4585,7 +4585,7 @@
   },
   {
     "id": 1908,
-    "fa": "آیا دوست دارید (مودبانه) صندلی پنجره یا صندلی راهرو؟",
+    "fa": "آیا دوست دارید (مودبانه) یک صندلی پنجره یا یک صندلی راهرو؟",
     "en": "Would you like a window seat or an aisle seat?"
   },
   {
@@ -4656,7 +4656,8 @@
   {
     "id": 1922,
     "fa": "من برای رفتن در تاریخ ۱۵ ژوئن زمانبندی شدم",
-    "en": "I am scheduled to depart on June 15th"
+    "en": "I am scheduled to depart on June 15th",
+    "desc": "In general, you use \"in\" when referring to a month (e.g., \"in June\") and \"on\" when referring to a specific day or date (e.g., \"on June 15th\")."
   },
   {
     "id": 1923,
@@ -4666,7 +4667,7 @@
   {
     "id": 1924,
     "fa": "من قراره برای یک هفته رفته باشم, بنابراین اگر قراره با من ارتباط برقرار کنی تو نمی تونی",
-    "en": "I'm gonna be gone for a week, so if you gonna reach me, you can't."
+    "en": "I'm gonna be gone for a week, so if you're gonna reach me, you can't."
   },
   {
     "id": 1925,
@@ -4737,5 +4738,15 @@
     "id": 1938,
     "fa": "حوصله انجام هیچ کاری رو ندارم",
     "en": "I don't feel like doing anything"
+  },
+  {
+    "id": 1939,
+    "fa": "بدون اطلاع قبلی، جلسه مجددا زمانبندی شد",
+    "en": "Without prior notice, the meeting was rescheduled"
+  },
+  {
+    "id": 1940,
+    "fa": "مجبورم نکن پنجه هایم را نشان دهم",
+    "en": "Don't make me show my claws (کلاس)"
   }
 ]

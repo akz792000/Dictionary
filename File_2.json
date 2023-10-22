@@ -287,7 +287,7 @@
   {
     "id": 10057,
     "en": "\n Switzerland \n Turkey \n",
-    "de": "\n die Schweiz (اِشوایتز) \n die Türkei (تُرکای) \n"
+    "de": "\n die Schweiz (شووایتز) \n die Türkei (تُرکای) \n"
   },
   {
     "id": 10058,
@@ -306,8 +306,8 @@
   },
   {
     "id": 10061,
-    "en": "I am sorry",
-    "de": "Es tut mir (میا) leid (لاید)"
+    "en": "I am sorry, I can't now",
+    "de": "Es tut mir (میا) leid (لاید), Ich kann (کَن) jetzt nicht"
   },
   {
     "id": 10062,
@@ -831,7 +831,7 @@
   {
     "id": 10163,
     "en": "Here is the bill",
-    "de": "Hier (هیِ) ist die Rechnung (قشنونگ)"
+    "de": "Hier (هیا) ist die Rechnung (قشنونگ)"
   },
   {
     "id": 10164,
@@ -846,12 +846,12 @@
   {
     "id": 10166,
     "en": "The food is here",
-    "de": "Das Essen ist hier (هیِ)"
+    "de": "Das Essen ist hier (هیا)"
   },
   {
     "id": 10167,
     "en": "Here is a sandwich with egg and cheese",
-    "de": "Hier (هیِ) ist ein Sandwich (سَندویچ) mit Ei (آی) und Käse (کِزِ)"
+    "de": "Hier (هیا) ist ein Sandwich (سَندویچ) mit Ei (آی) und Käse (کِزِ)"
   },
   {
     "id": 10168,
@@ -861,7 +861,7 @@
   {
     "id": 10169,
     "en": "Here is the menu",
-    "de": "Hier (هیِ) ist die Speisekarte (اِشپایزِکارتِ)"
+    "de": "Hier (هیا) ist die Speisekarte (اِشپایزِکارتِ)"
   },
   {
     "id": 10170,
@@ -1038,7 +1038,8 @@
   {
     "id": 10204,
     "en": "Ali is in the supermarket",
-    "de": "Ali ist im Supermarkt"
+    "de": "Ali ist im Supermarkt",
+    "desc": "\"Er ist im\": This is a contraction of \"Er ist in dem,\" which means \"He is in the.\" You would use this form when you want to specify that someone is in a specific place, such as a building or a room. For example, \"Er ist im Haus\" means \"He is in the house.\"\n\n\"Er ist in\": This is a more general use of \"in\" without the definite article \"dem.\" You would use this form when you want to say that someone is in a location without specifying \"the\" place. For example, \"Er ist in der Stadt\" means \"He is in the city.\""
   },
   {
     "id": 10205,
@@ -1163,7 +1164,7 @@
   {
     "id": 10229,
     "en": "The man is an actor",
-    "de": "Der Mann ist Schauspieler (شآاُش پی لِ)"
+    "de": "Der Mann ist Schauspieler (شآاُش پی لا)"
   },
   {
     "id": 10230,
@@ -1183,7 +1184,8 @@
   {
     "id": 10233,
     "en": "He's in the department store",
-    "de": "Er ist im Kaufhaus (کآاُف هاس)"
+    "de": "Er ist im Kaufhaus (کآاُف هاس)",
+    "desc": "\"Er ist im\": This is a contraction of \"Er ist in dem,\" which means \"He is in the.\" You would use this form when you want to specify that someone is in a specific place, such as a building or a room. For example, \"Er ist im Haus\" means \"He is in the house.\"\n\n\"Er ist in\": This is a more general use of \"in\" without the definite article \"dem.\" You would use this form when you want to say that someone is in a location without specifying \"the\" place. For example, \"Er ist in der Stadt\" means \"He is in the city.\""
   },
   {
     "id": 10234,
@@ -1197,13 +1199,13 @@
   },
   {
     "id": 10236,
-    "en": "Do you like the red jacket here?",
+    "en": "Do you like the red jacket here? (formal)",
     "de": "Mögen (مُگن) Sie die rote (قُتِ) Jacke hier?"
   },
   {
     "id": 10237,
-    "en": "Do you like that black jacket over there?",
-    "de": "Mögen (مُگن) sie die schwarze (اشوارتز) Jacke da drüben (دُقوبن)?"
+    "en": "Do you like that black jacket over there? (formal)",
+    "de": "Mögen (مُگن) sie die schwarze (شووارتزِ) Jacke da drüben (دُقوبن)?"
   },
   {
     "id": 10238,
@@ -1218,7 +1220,7 @@
   {
     "id": 10240,
     "en": "Wonderful, I'll take the red jacket",
-    "de": "Wunderbar, ich nehme (نِمِ) die rote Jacke"
+    "de": "Wunderbar, ich nehme (نیمِ) die rote Jacke"
   },
   {
     "id": 10241,
@@ -1257,8 +1259,8 @@
   },
   {
     "id": 10248,
-    "en": "They go to school by bus",
-    "de": "Sie fahren mit dem Bus in die Schule"
+    "en": "They drive to school by bus",
+    "de": "Sie fahren mit dem Bus in die Schule (شولِ)"
   },
   {
     "id": 10249,
@@ -1288,7 +1290,7 @@
   {
     "id": 10254,
     "en": "I swim",
-    "de": "Ich schwimme (شِویمِ)"
+    "de": "Ich schwimme (شوویمِ)"
   },
   {
     "id": 10255,
@@ -1302,8 +1304,8 @@
   },
   {
     "id": 10257,
-    "en": "You cook very well",
-    "de": "Du kochst sehr gut"
+    "en": "The schnitzel is delicious! You cook very well",
+    "de": "Das Schnitzel ist lecker. Du kochst sehr gut"
   },
   {
     "id": 10258,
@@ -1317,7 +1319,7 @@
   },
   {
     "id": 10260,
-    "en": "My daughter is always cooking",
+    "en": "My daughter always cooks",
     "de": "Meine Tochter kocht immer"
   },
   {
@@ -1334,5 +1336,96 @@
     "id": 10263,
     "en": "I am full",
     "de": "Ich bin satt (زات)"
+  },
+  {
+    "id": 10264,
+    "en": "Ilia and Ali are at home",
+    "de": "Ilia und Ali sind zu Hause"
+  },
+  {
+    "id": 10265,
+    "en": "Ilia sits in front of the television",
+    "de": "Ilia sitzt (زیتسْت) vor (فُر) dem Fernseher (فرن زی یا)"
+  },
+  {
+    "id": 10266,
+    "en": "Dad, a little question",
+    "de": "Papa, eine kleine Frage"
+  },
+  {
+    "id": 10267,
+    "en": "The football game is very exciting",
+    "de": "Das Fußballspiel (فوس بال) ist sehr aufregend"
+  },
+  {
+    "id": 10268,
+    "en": "I really need money",
+    "de": "Ich brauche wirklich (ویرکلیش) Geld (گلت)"
+  },
+  {
+    "id": 10269,
+    "en": "I would like to order a pizza",
+    "de": "Ich möchte eine Pizza bestellen (بشتِلِن)"
+  },
+  {
+    "id": 10270,
+    "en": "I want a new video game",
+    "de": "Ich möchte ein neues (نُیِس) Videospiel (ویدیو اشپیل)"
+  },
+  {
+    "id": 10271,
+    "en": "I don't go to school on Monday",
+    "de": "Ich gehe am (اَم) Montag nicht in die Schule"
+  },
+  {
+    "id": 10272,
+    "en": "That's easy",
+    "de": "Das ist einfach (آین فاخ)"
+  },
+  {
+    "id": 10273,
+    "en": "I go to the department store now",
+    "de": "Ich gehe jetzt in das Kaufhaus (کآاُف هاس)\"",
+    "desc": "Kaufhaus = Very big store"
+  },
+  {
+    "id": 10274,
+    "en": "What would you like?",
+    "de": "Was möchtest du?"
+  },
+  {
+    "id": 10275,
+    "en": "Here is an egg",
+    "de": "Hier ist ein Ei"
+  },
+  {
+    "id": 10276,
+    "en": "I often play the piano",
+    "de": "Ich spiele oft (آفت) Klavier (کلاویا)"
+  },
+  {
+    "id": 10277,
+    "en": "I often play with my cat",
+    "de": "Ich spiele oft (آفت) mit meine Katze"
+  },
+  {
+    "id": 10278,
+    "en": "You never play chess",
+    "de": "Du spielst nie (نی) Schach (شاخ)"
+  },
+  {
+    "id": 10279,
+    "en": "Does your father always cook?",
+    "de": "Kocht dein Vater immer?"
+  },
+  {
+    "id": 10280,
+    "en": "Does the dog often swim?",
+    "de": "Schwimmt der Hund oft?"
+  },
+  {
+    "id": 10281,
+    "en": "He plays chess very well",
+    "de": "Er spielt sehr gut Schach (شاخ)"
   }
 ]

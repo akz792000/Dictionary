@@ -41,7 +41,7 @@
   },
   {
     "id": 9,
-    "fa": "خیلی وقته اینجا منتظری؟",
+    "fa": "خیلی وقته تو اینجا منتظری؟",
     "en": "Have you been waiting here for a long time?"
   },
   {
@@ -415,7 +415,7 @@
   },
   {
     "id": 83,
-    "fa": "آیا تا به حال عطسه ببر را دیده اید؟",
+    "fa": "تا به حال تو عطسه ببر را دیده اید؟",
     "en": "Have you ever seen tiger sneezing?"
   },
   {
@@ -520,7 +520,7 @@
   },
   {
     "id": 104,
-    "fa": "چه مدته که این علایم را داری؟",
+    "fa": "چه مدته که تو این علایم را داری؟",
     "en": "How long have you had this symptoms?"
   },
   {
@@ -1577,7 +1577,7 @@
   },
   {
     "id": 314,
-    "fa": "آیا تاکنون به مرکز خرید جدید رفته ای؟",
+    "fa": "تاکنون تو به مرکز خرید جدید رفته ای؟",
     "en": "Have you been to the new mall yet?"
   },
   {
@@ -2661,7 +2661,7 @@
   },
   {
     "id": 529,
-    "fa": "آیا تا به حال به این فکر کرده اید که غذای چند نفر را همزمان می خوری؟",
+    "fa": "تا به حال تو به این فکر کرده اید که غذای چند نفر را همزمان می خوری؟",
     "en": "Have you ever thought about how many people's food you eat at the same time?"
   },
   {
@@ -2888,7 +2888,7 @@
   },
   {
     "id": 574,
-    "fa": "من قراره امروز از خانه کار کنم, من هنوز کم و بیش تب دارم",
+    "fa": "من امروز از خانه کار خواهم کرد, من هنوز کم و بیش تب دارم",
     "en": "I will be working from home today, I still have on and off fever"
   },
   {
@@ -3373,7 +3373,7 @@
   },
   {
     "id": 669,
-    "fa": "خجالت نمی کشی؟",
+    "fa": "خجالت تو نمی کشی؟",
     "en": "Have you no shame?"
   },
   {
@@ -3624,7 +3624,7 @@
   },
   {
     "id": 718,
-    "fa": "آیا آنها باید از نگاه کردن به آن اجتناب کنند؟",
+    "fa": "آیا آنها باید از نگاه کردن بهش اجتناب کنند؟",
     "en": "Do they have to avoid looking at it?"
   },
   {
@@ -4282,7 +4282,7 @@
   },
   {
     "id": 847,
-    "fa": "قبلا اینجا بودی؟",
+    "fa": "قبلا تو اینجا بودی؟",
     "en": "Have you been here before?"
   },
   {
@@ -4408,7 +4408,7 @@
   },
   {
     "id": 872,
-    "fa": "چند وقته ازدواج کرده اید؟",
+    "fa": "چند وقته تو ازدواج کرده اید؟",
     "en": "How long have you been married?"
   },
   {
@@ -4423,7 +4423,7 @@
   },
   {
     "id": 875,
-    "fa": "تا حالا در مورد آن شنیده اید؟",
+    "fa": "تا حالا تو در مورد آن شنیده ای؟",
     "en": "Have you ever heard of it?",
     "desc": "\"Have you ever heard of it?\" asks about general awareness, while \"Have you ever heard about it?\" focuses on specific information or news related to the subject."
   },
@@ -4638,7 +4638,7 @@
   },
   {
     "id": 917,
-    "fa": "من کار اشتباهی کردم",
+    "fa": "من یه چیز (کار) اشتباهی کردم",
     "en": "I did a wrong thing"
   },
   {
@@ -4898,7 +4898,7 @@
   },
   {
     "id": 968,
-    "fa": "اونجا چی داشتی؟",
+    "fa": "اونجا تو چی داشتی؟",
     "en": "What have you got there?"
   },
   {

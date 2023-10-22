@@ -141,12 +141,42 @@
   },
   {
     "id": 20029,
-    "en": "Cook",
+    "en": "Swim",
     "de": "\n schwimme (شوویمِ) \n schwimmst (شوویمست) \n schwimmt (شوویمت) \n schwimmen (شوویمن) \n schwimmen \n schwimmen"
   },
   {
     "id": 20030,
     "en": "Paint",
     "de": "\n male (مالِ) \n malst (مالست) \n malt (مالت) \n malen (مالِن) \n malt \n malen"
+  },
+  {
+    "id": 20031,
+    "en": "Sit",
+    "de": "\n sitze (زیتسِ) \n sitzt (زیتسْت) \n sitzt (زیتسْت) \n sitzen (زیتستن) \n sitzt \n sitzen"
+  },
+  {
+    "id": 20032,
+    "en": "Can",
+    "de": "\n kann (کَن) \n Kannst (کَنست) \n kann \n können \n könnt \n können"
+  },
+  {
+    "id": 20033,
+    "en": "Go",
+    "de": "\n gehe (گی اِ) \n gehst (گیست) \n geht (گیت) \n gehen (گین) \n geht \n gehen"
+  },
+  {
+    "id": 20034,
+    "en": "Order",
+    "de": "\n bestell (بشتِلِ) \n bestellst (بشتِلسْت) \n bestellt (بشتِلْت) \n bestellen (بشتِلِن) \n bestellt \n bestellen"
+  },
+  {
+    "id": 20035,
+    "en": "Take",
+    "de": "\n nehme (نیمِ) \n nimmst (نیمسْت) \n nimmt (نیمْت) \n nehmen (نیمِن) \n nehmt \n nehmen"
+  },
+  {
+    "id": 20036,
+    "en": "Do, Make",
+    "de": "\n mache (ماخِ) \n machst (ماخسْت) \n macht (ماخْت) \n machen (ماخِن) \n macht \n machen"
   }
 ]
