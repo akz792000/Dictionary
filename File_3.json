@@ -17,7 +17,7 @@
   {
     "id": 20004,
     "en": "Hear",
-    "de": "\n höre (هُقِ) \n hörst (هُرسْت) \n hört (هُرْت) \n hören (هُقِن) \n hört \n hören \n"
+    "de": "\n höre (هُرِ) \n hörst (هُرسْت) \n hört (هُرْت) \n hören (هُرِن) \n hört \n hören \n"
   },
   {
     "id": 20005,
@@ -37,12 +37,12 @@
   {
     "id": 20008,
     "en": "Speak",
-    "de": "\n spreche (اشپقِشِ) \n sprichst (اشپریشْسْت) \n spricht (اشپریشْت) \n sprechen (اشپقِشِن) \n sprecht (اشپرِشْت) \n sprechen \n"
+    "de": "\n spreche (اشپرِشِ) \n sprichst (اشپریشْسْت) \n spricht (اشپریشْت) \n sprechen (اشپرِشِن) \n sprecht (اشپرِشْت) \n sprechen \n"
   },
   {
     "id": 20009,
     "en": "Read",
-    "de": "\n lese (لیزِ) \n liest (لیست) \n liest \n lesen (لیزن) \n lest (لیست) \n lesen \n"
+    "de": "\n lese (لِزِ) \n liest (لیست) \n liest \n lesen (لِزن) \n lest (لِست) \n lesen \n"
   },
   {
     "id": 20010,
@@ -57,12 +57,12 @@
   {
     "id": 20012,
     "en": "Write",
-    "de": "\n schreibe (شقایْبِ) \n schreibst (شقایبْسْت) \n schreibt (شقایبْت) \n schreiben (شقایْبِن) \n schreibt \n schreiben \n"
+    "de": "\n schreibe (شرایْبِ) \n schreibst (شرایبْسْت) \n schreibt (شرایبْت) \n schreiben (شرایْبِن) \n schreibt \n schreiben \n"
   },
   {
     "id": 20013,
     "en": "Ask",
-    "de": "\n frage (فقاگِ) \n fragst (فقاگْست) \n fragt (فقاگْت) \n fragen \n fragt \n fragen \n"
+    "de": "\n frage (فراگِ) \n fragst (فراگْست) \n fragt (فراگْت) \n fragen \n fragt \n fragen \n"
   },
   {
     "id": 20014,
@@ -77,22 +77,22 @@
   {
     "id": 20016,
     "en": "Cross",
-    "de": "\n kreuze (کُقیتزِ) \n kreuzt (کُقیتزت) \n kreuzt \n kreuzen (کُقیتزِن) \n kreuzt \n kreuzen \n"
+    "de": "\n kreuze (کُریتزِ) \n kreuzt (کُریتزت) \n kreuzt \n kreuzen (کُریتزِن) \n kreuzt \n kreuzen \n"
   },
   {
     "id": 20017,
     "en": "Note",
-    "de": "\n notiere (نُتیقِ) \n notierst (نُتیرِست) \n notiert (نُتیرِت) \n notieren (نُتیقِن) \n notiert \n notieren \n"
+    "de": "\n notiere (نُتیرِ) \n notierst (نُتیرِست) \n notiert (نُتیرِت) \n notieren (نُتیرِن) \n notiert \n notieren \n"
   },
   {
     "id": 20018,
     "en": "Need",
-    "de": "\n brauche (بِقآوخِ) \n brauchst (بِقآوخست) \n braucht (بِقآوخت) \n brauchen (بِقآوخِن) \n braucht \n brauchen \n"
+    "de": "\n brauche (بِرآوخِ) \n brauchst (بِرآوخست) \n braucht (بِرآوخت) \n brauchen (بِرآوخِن) \n braucht \n brauchen \n"
   },
   {
     "id": 20019,
     "en": "Save",
-    "de": "\n speichere (اشپای شِقِ) \n speicherst (اشپای شرست) \n speichert (اشپای شرت) \n speichern (اشپای شرن) \n speichert \n speichern \n"
+    "de": "\n speichere (اشپای شِرِ) \n speicherst (اشپای شرست) \n speichert (اشپای شرت) \n speichern (اشپای شرن) \n speichert \n speichern \n"
   },
   {
     "id": 20020,
@@ -117,7 +117,7 @@
   {
     "id": 20024,
     "en": "See",
-    "de": "\n sehe (زیِ) \n siehst (زیست) \n sieht (زیت) \n sehen \n seht (زیت) \n sehen (زِین)"
+    "de": "\n sehe (زِاِ) \n siehst (زیست) \n sieht (زیت) \n sehen \n seht (زیت) \n sehen (زِِاِن)"
   },
   {
     "id": 20025,
@@ -132,7 +132,7 @@
   {
     "id": 20027,
     "en": "Wear",
-    "de": "\n trage (تقاگِ) \n trägst (تِقِگست) \n trägt (تِقِگت) \n tragen (تقاگنِ) \n tragt (تقاگت) \n tragen"
+    "de": "\n trage (تراگِ) \n trägst (تِرِگست) \n trägt (تِرِگت) \n tragen (تراگنِ) \n tragt (تراگت) \n tragen"
   },
   {
     "id": 20028,
@@ -142,7 +142,7 @@
   {
     "id": 20029,
     "en": "Swim",
-    "de": "\n schwimme (شوویمِ) \n schwimmst (شوویمست) \n schwimmt (شوویمت) \n schwimmen (شوویمن) \n schwimmen \n schwimmen"
+    "de": "\n schwimme (شوویمِ) \n schwimmst (شوویمست) \n schwimmt (شوویمت) \n schwimmen (شوویمن) \n schwimmet \n schwimmen"
   },
   {
     "id": 20030,
@@ -157,22 +157,22 @@
   {
     "id": 20032,
     "en": "Can",
-    "de": "\n kann (کَن) \n Kannst (کَنست) \n kann \n können \n könnt \n können"
+    "de": "\n kann (کان) \n Kannst (کاَنست) \n kann \n können \n könnt \n können"
   },
   {
     "id": 20033,
     "en": "Go",
-    "de": "\n gehe (گی اِ) \n gehst (گیست) \n geht (گیت) \n gehen (گین) \n geht \n gehen"
+    "de": "\n gehe (گِ اِ) \n gehst (گِست) \n geht (گِت) \n gehen (گِ اِن) \n geht \n gehen"
   },
   {
     "id": 20034,
     "en": "Order",
-    "de": "\n bestell (بشتِلِ) \n bestellst (بشتِلسْت) \n bestellt (بشتِلْت) \n bestellen (بشتِلِن) \n bestellt \n bestellen"
+    "de": "\n bestelle (بشتِلِ) \n bestellst (بشتِلسْت) \n bestellt (بشتِلْت) \n bestellen (بشتِلِن) \n bestellt \n bestellen"
   },
   {
     "id": 20035,
     "en": "Take",
-    "de": "\n nehme (نیمِ) \n nimmst (نیمسْت) \n nimmt (نیمْت) \n nehmen (نیمِن) \n nehmt \n nehmen"
+    "de": "\n nehme (نِمِ) \n nimmst (نیمسْت) \n nimmt (نیمْت) \n nehmen (نِمِن) \n nehmt \n nehmen"
   },
   {
     "id": 20036,

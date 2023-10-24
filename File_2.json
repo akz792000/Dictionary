@@ -27,17 +27,17 @@
   {
     "id": 10006,
     "en": "Excuse me please (formal)",
-    "de": "Entschuldigung Sie, bitte! (چ)"
+    "de": "Entschuldigung Sie, bitte!"
   },
   {
     "id": 10007,
     "en": "Hope to see you",
-    "de": "Auf Wiedersehen (ویدازین)"
+    "de": "Auf Wiedersehen (ویدازی اِن)"
   },
   {
     "id": 10008,
     "en": "Hope to hear you",
-    "de": "Auf Wiederhören (ویداهُقِن)"
+    "de": "Auf Wiederhören (ویداهُرِن)"
   },
   {
     "id": 10009,
@@ -68,7 +68,7 @@
   {
     "id": 10014,
     "en": "Get well soon!",
-    "de": "Gute Besserung! (بِسقُنگ)"
+    "de": "Gute Besserung! (بِسرونگ)"
   },
   {
     "id": 10015,
@@ -210,13 +210,13 @@
   {
     "id": 10042,
     "en": "\n Object pronoun - Dativ \n\n me, you, him(M)/her(F)/it(N), us, you, them",
-    "de": "\n Objektpronomen (آبیکت پقونومن) - Dativ \n\n mir (میا), dir (دیا), ihm(M)(ایم)/ihr(F)(اییِ)/ihm(N), uns (اونس), euch (اویچ), ihnen-Ihnen (اینن)",
+    "de": "\n Objektpronomen (آبیکت پرونومن) - Dativ \n\n mir (میا), dir (دیا), ihm(M)(ایم)/ihr(F)(اییِ)/ihm(N), uns (اونس), euch (اویچ), ihnen-Ihnen (اینن)",
     "desc": "با واسطه - به چه چیزی - به چه کسی"
   },
   {
     "id": 10043,
     "en": "What is your last name? (formal)",
-    "de": "Wie ist Ihr (اییِ) Familienname?",
+    "de": "Wie ist Ihr (ای یا) Familienname?",
     "desc": "\"Ihr\" is a formal pronoun used when addressing someone with respect, especially in professional or formal situations. It is equivalent to the English \"your\" (formal) when addressing someone with respect"
   },
   {
@@ -227,7 +227,7 @@
   {
     "id": 10045,
     "en": "What is your first name? (formal)",
-    "de": "Wie ist Ihr (اییِ) Vorname?"
+    "de": "Wie ist Ihr (ای یا) Vorname?"
   },
   {
     "id": 10046,
@@ -237,12 +237,12 @@
   {
     "id": 10047,
     "en": "What is your zip code? (formal)",
-    "de": "Wie ist Ihr (اییِ) Postleitzahl/Ort?"
+    "de": "Wie ist Ihr (ای یا) Postleitzahl/Ort?"
   },
   {
     "id": 10048,
     "en": "What is your Telephone number? (formal)",
-    "de": "Wie ist Ihr (اییِ) Telefonnummer? (تلفن نوما)"
+    "de": "Wie ist Ihr (ای یا) Telefonnummer? (تلفن نوما)"
   },
   {
     "id": 10049,
@@ -272,7 +272,7 @@
   {
     "id": 10054,
     "en": "Complete the speech bubbles (formal)",
-    "de": "Ergänzen Sie die Sprechblasen (اِرگن) (اشپقِش بلاسِن)"
+    "de": "Ergänzen Sie die Sprechblasen (اِرگن) (اشپرِش بلاسِن)"
   },
   {
     "id": 10055,
@@ -327,22 +327,22 @@
   {
     "id": 10065,
     "en": "Do you speak German or English? (formal)",
-    "de": "Sprechen (اشپقِشِن) Sie Deutsch oder Englisch?"
+    "de": "Sprechen (اشپرشِن) Sie Deutsch oder Englisch?"
   },
   {
     "id": 10066,
     "en": "I speak no German? English?",
-    "de": "Ich spreche (اشپقِشِ) kein Deutsch? Englisch?"
+    "de": "Ich spreche (اشپرِشِ) kein Deutsch? Englisch?"
   },
   {
     "id": 10067,
     "en": "I speak a bit of German? English?",
-    "de": "Ich spreche (اشپقِشِ) etwas (اتواس) Deutsch? Englisch?"
+    "de": "Ich spreche (اشپرِشِ) etwas (اتواس) Deutsch? Englisch?"
   },
   {
     "id": 10068,
     "en": "I don't understand",
-    "de": "Ich verstehe (فشتیِ) nicht (نیشت)"
+    "de": "Ich verstehe (فرشتیِ) nicht (نیشت)"
   },
   {
     "id": 10069,
@@ -382,7 +382,7 @@
   {
     "id": 10076,
     "en": "Tehran is of course expensive",
-    "de": "Tehran ist Natürlich (ناتولیش) teuer"
+    "de": "Tehran ist Natürlich (ناتورلیش) teuer"
   },
   {
     "id": 10077,
@@ -407,7 +407,7 @@
   {
     "id": 10081,
     "en": "I need an eraser",
-    "de": "Ich brauche (بِقآوخِ) einen Radiergummi (رادیِرگومی)"
+    "de": "Ich brauche (بِرآوخِ) einen Radiergummi (رادیِرگومی)"
   },
   {
     "id": 10082,
@@ -417,12 +417,12 @@
   {
     "id": 10083,
     "en": "Start your German notebook (formal)",
-    "de": "Beginnen (بی گینن) Sie Ihr (اییِ) Deutschheft"
+    "de": "Beginnen (بی گینن) Sie Ihr (ای یا) Deutschheft"
   },
   {
     "id": 10084,
     "en": "Names (Eleni) and nouns (Evening, Notebook) one writes in uppercase",
-    "de": "Namen (Eleni) und Nomen (Abend, Heft) schreibt man Groß (گُقُس)",
+    "de": "Namen (Eleni) und Nomen (Abend, Heft) schreibt man Groß (گُرُس)",
     "desc": "The word \"man\" is used in an impersonal sense, meaning \"one\" or \"people\" in English."
   },
   {
@@ -433,12 +433,12 @@
   {
     "id": 10086,
     "en": "My husband is very smart",
-    "de": "Mein Mann ist sehr (زیا) klug (کولوگ)"
+    "de": "Mein Mann ist sehr (زِا) klug (کولوگ)"
   },
   {
     "id": 10087,
     "en": "I am very nice",
-    "de": "Ich bin sehr (زیا) nett"
+    "de": "Ich bin sehr (زِا) nett"
   },
   {
     "id": 10088,
@@ -454,7 +454,7 @@
   {
     "id": 10090,
     "en": "Hear the telephone conversation",
-    "de": "Hören Sie das Telefongespräch (گِشپِقِش)"
+    "de": "Hören Sie das Telefongespräch (گِشپِرِش)"
   },
   {
     "id": 10091,
@@ -485,7 +485,7 @@
   {
     "id": 10096,
     "en": "Note the telephone numbers",
-    "de": "Notieren (نُتیقِن) Sie die Telefonnummern (تلفن نومان)"
+    "de": "Notieren (نُتیرِن) Sie die Telefonnummern (تلفن نومان)"
   },
   {
     "id": 10097,
@@ -511,7 +511,7 @@
   {
     "id": 10101,
     "en": "Is your email address new? Yes, my email address is now...",
-    "de": "Ist deine E-Mail-Adresse (آدقِسِ) neu (نوی)? Ja, meine E-Mail-Adresse ist jetzt ..."
+    "de": "Ist deine E-Mail-Adresse (آدرِسِ) neu (نوی)? Ja, meine E-Mail-Adresse ist jetzt ..."
   },
   {
     "id": 10102,
@@ -531,7 +531,7 @@
   {
     "id": 10105,
     "en": "underscore minus dot at",
-    "de": "Unterstrich (اونت اِشتقیش) Minus (مینوس) Punkt (پونکت) at (اِت)"
+    "de": "Unterstrich (اونتر اِشتریش) Minus (مینوس) Punkt (پونکت) at (اِت)"
   },
   {
     "id": 10106,
@@ -608,17 +608,17 @@
   {
     "id": 10120,
     "en": "He and she come from Greece",
-    "de": "Er und sie kommen aus Griechenland (گیقِشِن لَنت)"
+    "de": "Er und sie kommen aus Griechenland (گیریشِن لَنت)"
   },
   {
     "id": 10121,
     "en": "But you speak German well (formal)",
-    "de": "Ihr (اییِ) sprecht aber gut (گوت) Deutsch"
+    "de": "Ihr (ای یا) sprecht aber gut (گوت) Deutsch"
   },
   {
     "id": 10122,
     "en": "We learn German, but German is a bit difficult",
-    "de": "Wir (ویا) lernen Deutsch, aber Deutsch ist ein bisschen (بیسشِن) schwer (اش وی یا)"
+    "de": "Wir (ویا) lernen Deutsch, aber Deutsch ist ein bisschen (بیسشِن) schwer (اش وِآ)"
   },
   {
     "id": 10123,
@@ -628,7 +628,7 @@
   {
     "id": 10124,
     "en": "Which languages do you speak? (informal)",
-    "de": "Welche Sprachen (اشپقاخن) sprichst (اشپریشْسْت) du?"
+    "de": "Welche Sprachen (اشپراخن) sprichst (اشپریشْسْت) du?"
   },
   {
     "id": 10125,
@@ -653,7 +653,7 @@
   {
     "id": 10129,
     "en": "Dana and Pablo are my friends. You also learn German (formal)",
-    "de": "Dana und Pablo sind meine Freunde (فقیند). Sie lernen auch (آوخ) Deutsch"
+    "de": "Dana und Pablo sind meine Freunde (فریند). Sie lernen auch (آوخ) Deutsch"
   },
   {
     "id": 10130,
@@ -683,7 +683,7 @@
   {
     "id": 10135,
     "en": "The others come from India, Romania, Portugal, the USA and Brazil",
-    "de": "Die anderen (آندِقِن) kommen aus Indien (ایندیِن), Rumänien (قُمِنین), Portugal (پُرتوگال), aus den USA und aus Brasilien (بقازیلین)"
+    "de": "Die anderen (آندرِن) kommen aus Indien (ایندیِن), Rumänien (رُمِنین), Portugal (پُرتوگال), aus den USA und aus Brasilien (برازیلین)"
   },
   {
     "id": 10136,
@@ -693,27 +693,27 @@
   {
     "id": 10137,
     "en": "She is 24 years old and saleswoman",
-    "de": "Sie ist 24 Jahre alt und Verkäuferin (فِرکوی فِقین)"
+    "de": "Sie ist 24 Jahre alt und Verkäuferin (فِرکوی فِرین)"
   },
   {
     "id": 10138,
     "en": "Ali is engineer by profession",
-    "de": "Ali ist Ingenieur (این جِنیوِ) von (فُن) Beruf (بقوف)"
+    "de": "Ali ist Ingenieur (این جِنیوِ) von (فُن) Beruf (بروف)"
   },
   {
     "id": 10139,
     "en": "Akbar is bus driver, but he is unemployed",
-    "de": "Akbar ist Busfahrer (بوس فاقا), aber er ist arbeitslos (آربایتسلُس)"
+    "de": "Akbar ist Busfahrer (بوس فارا), aber er ist arbeitslos (آربایتسلُس)"
   },
   {
     "id": 10140,
     "en": "The teacher is called Anne",
-    "de": "Die Lehrerin (لیقِقین) heißt Anne"
+    "de": "Die Lehrerin (لرِرین) heißt Anne"
   },
   {
     "id": 10141,
     "en": "Ukrainian \n Russian \n English \n German \n Spanish \n",
-    "de": "Ukrainisch (اوک قاینیش) \n Russisch (قوسیش) \n Englisch \n Deutsch \n Spanisch (ˈʃpaːnɪʃ) \n"
+    "de": "Ukrainisch (اوک راینیش) \n Russisch (روسیش) \n Englisch \n Deutsch \n Spanisch (ˈʃpaːnɪʃ) \n"
   },
   {
     "id": 10142,
@@ -723,7 +723,7 @@
   {
     "id": 10143,
     "en": "Right or wrong",
-    "de": "Richtig (قیشتیش) oder Falsch (فالش)"
+    "de": "Richtig (ریشتیش) oder Falsch (فالش)"
   },
   {
     "id": 10144,
@@ -733,7 +733,7 @@
   {
     "id": 10145,
     "en": "Ali speaks four languages",
-    "de": "Ali spricht (اشپقیشْت) vier Sprachen (اشپقاخن)"
+    "de": "Ali spricht (اشپریشْت) vier Sprachen (اشپراخن)"
   },
   {
     "id": 10146,
@@ -758,7 +758,7 @@
   {
     "id": 10150,
     "en": "The soup is very hot",
-    "de": "Die Suppe (زوپِ) sehr (زیا) ist heiß (هایس)"
+    "de": "Die Suppe (زوپِ) sehr (زِا) ist heiß (هایس)"
   },
   {
     "id": 10151,
@@ -768,13 +768,13 @@
   {
     "id": 10152,
     "en": "A bear runs in the forest",
-    "de": "Ein Bär (بِآ) läuft (لویفت) im (ایم) Wald (والت)",
+    "de": "Ein Bär (بِ آ) läuft (لویفت) im (ایم) Wald (والت)",
     "desc": "\n Bär = bear \n läuft = run \n im = in the \n Wald = forest"
   },
   {
     "id": 10153,
     "en": "Is Vienna big, beautiful and cool?",
-    "de": "Ist Wien (وین) groß (گُقُس), schön und cool?"
+    "de": "Ist Wien (وین) groß (گُرُس), schön und cool?"
   },
   {
     "id": 10154,
@@ -785,38 +785,38 @@
   {
     "id": 10155,
     "en": "Is Germany big or small?",
-    "de": "Ist Deutschland groß (گُقُس) oder klein (کلاین)?"
+    "de": "Ist Deutschland groß (گُرُس) oder klein (کلاین)?"
   },
   {
     "id": 10156,
     "en": "I would like to call the waiter please",
-    "de": "Ich möchte bitte den Kellner (کِلنا) rufen (قوفِن)",
+    "de": "Ich möchte bitte den Kellner (کِلنا) rufen (روفِن)",
     "desc": "\n Kellner = Waiter \n rufen = call \n In German, adverbs like \"bitte\" (please) typically come before the verb, so it should be placed before \"den Kellner rufen."
   },
   {
     "id": 10157,
     "en": "I eat bread",
-    "de": "Ich esse Brot (بوقوت)"
+    "de": "Ich esse Brot (بوروت)"
   },
   {
     "id": 10158,
     "en": "The Wine or The Water or The Beer or The Tea or The Milk",
-    "de": "der Wein (واین) oder das Wasser oder das Bier (بی اِ) oder der Tee oder die Milch"
+    "de": "der Wein (واین) oder das Wasser oder das Bier (بیا) oder der Tee oder die Milch"
   },
   {
     "id": 10159,
     "en": "My daughter is very smart",
-    "de": "Meine Tochter (تُختا) ist sehr (زیا) klug (کولوگ)"
+    "de": "Meine Tochter (تُختا) ist sehr (زِا) klug (کولوگ)"
   },
   {
     "id": 10160,
     "en": "The food needs more salt",
-    "de": "Das Essen braucht (بِقآوخت) mehr (میِ) Salz (زالت)"
+    "de": "Das Essen braucht (برآوخت) mehr (مِ آ) Salz (زالت)"
   },
   {
     "id": 10161,
     "en": "The schnitzel is very delicious",
-    "de": "Das Schnitzel ist sehr (زیا) lecker (لِکا)"
+    "de": "Das Schnitzel ist sehr (زِا) lecker (لِکا)"
   },
   {
     "id": 10162,
@@ -826,7 +826,7 @@
   {
     "id": 10163,
     "en": "Here is the bill",
-    "de": "Hier (هیا) ist die Rechnung (قشنونگ)"
+    "de": "Hier (هیا) ist die Rechnung (رشنونگ)"
   },
   {
     "id": 10164,
@@ -836,7 +836,7 @@
   {
     "id": 10165,
     "en": "Where is the restaurant?",
-    "de": "Wo ist das Restaurant (قِستوقانت)?"
+    "de": "Wo ist das Restaurant (رِستورانت)?"
   },
   {
     "id": 10166,
@@ -861,12 +861,12 @@
   {
     "id": 10170,
     "en": "I come from Iran, speak Persian, and am Persian",
-    "de": "Ich komme aus dem Iran, spreche Persisch (پرزیش) und bin Perser(پرزا)/Perserin(پرزقین)"
+    "de": "Ich komme aus dem Iran, spreche Persisch (پرزیش) und bin Perser(پرزا)/Perserin(پرزرین)"
   },
   {
     "id": 10171,
     "en": "I come from France, speak French, and am French",
-    "de": "Ich komme aus Frankreich (فقَن کِقایش), spreche Französisch (فقَن زوسیش) und bin Franzose/Französin"
+    "de": "Ich komme aus Frankreich (فرَن کرایش), spreche Französisch (فرَن زوسیش) und bin Franzose/Französin"
   },
   {
     "id": 10172,
@@ -876,7 +876,7 @@
   {
     "id": 10173,
     "en": "I come from Italy, speak Italian, and am Italian",
-    "de": "Ich komme aus Italien, spreche Italienisch (ایتالییِ نیش) und bin Italiener(ایتالییِ نا)/Italienerin(ایتالییِ ناقین)"
+    "de": "Ich komme aus Italien, spreche Italienisch (ایتالییِ نیش) und bin Italiener(ایتالییِ نا)/Italienerin(ایتالییِ نرین)"
   },
   {
     "id": 10174,
@@ -886,12 +886,12 @@
   {
     "id": 10175,
     "en": "I come from Syria, speak Arabic, and am Syrian",
-    "de": "Ich komme aus Syrien (زُقیِن), spreche Arabisch (اَقَبیش) und bin Syrer(زوقا)/Syrerin(زوققین)"
+    "de": "Ich komme aus Syrien (زُریِن), spreche Arabisch (اَرَبیش) und bin Syrer(زورا)/Syrerin(زوررین)"
   },
   {
     "id": 10176,
     "en": "I come from Greece, speak Greek, and am Greek",
-    "de": "Ich komme aus Griechenland (گیقِشِن لَنت), spreche Griechisch und bin Grieche/Griechin"
+    "de": "Ich komme aus Griechenland (گریِشِن لَنت), spreche Griechisch und bin Grieche/Griechin"
   },
   {
     "id": 10177,
@@ -901,22 +901,22 @@
   {
     "id": 10178,
     "en": "How is it like in Austria?",
-    "de": "Wie ist es in österreich (اُستِقایچ)?"
+    "de": "Wie ist es in österreich (اُستِرایچ)?"
   },
   {
     "id": 10179,
     "en": "Germany is exciting",
-    "de": "Deutschland ist aufregend (آوف قیگند)"
+    "de": "Deutschland ist aufregend (آوف ریگند)"
   },
   {
     "id": 10180,
     "en": "Romania is also great",
-    "de": "Rumänien (قُمِنیِن) ist auch (آوخ) super"
+    "de": "Rumänien (رُمِنیِن) ist auch (آوخ) super"
   },
   {
     "id": 10181,
     "en": "I drink coffee",
-    "de": "Ich trinke (تیقینک) Kaffee"
+    "de": "Ich trinke (ترینک) Kaffee"
   },
   {
     "id": 10182,
@@ -926,12 +926,12 @@
   {
     "id": 10183,
     "en": "I wear my jacket",
-    "de": "Ich trage (تقاگِ) meine Jacke (یاکِ)"
+    "de": "Ich trage (تراگِ) meine Jacke (یاکِ)"
   },
   {
     "id": 10184,
     "en": "Oh no, the taxi isn't here anymore!",
-    "de": "Oh nein, das Taxi ist nicht mehr (میِ) hier!",
+    "de": "Oh nein, das Taxi ist nicht mehr (مِ آ) hier!",
     "desc": "mehr = more"
   },
   {
@@ -968,17 +968,17 @@
   {
     "id": 10191,
     "en": "I am married",
-    "de": "Ich bin verheiratet (فرهای قاتت)"
+    "de": "Ich bin verheiratet (فرهای راتت)"
   },
   {
     "id": 10192,
     "en": "I am single",
-    "de": "Ich bin ledig (لیدیش)"
+    "de": "Ich bin ledig (لدیش)"
   },
   {
     "id": 10193,
     "en": "He is a teacher",
-    "de": "Er ist Lehrer (لیقا)"
+    "de": "Er ist Lehrer (لرا)"
   },
   {
     "id": 10194,
@@ -1059,17 +1059,17 @@
   {
     "id": 10209,
     "en": "A man needs a doctor now",
-    "de": "Ein Mann braucht (بِقآوخت) jetzt einen Arzt"
+    "de": "Ein Mann braucht (بِرآوخت) jetzt einen Arzt"
   },
   {
     "id": 10210,
     "en": "He's over there! where the milk is",
-    "de": "Er ist da drüben (دُقوبن)! wo die Milch ist"
+    "de": "Er ist da drüben (دُروبن)! wo die Milch ist"
   },
   {
     "id": 10211,
     "en": "Fast! The man is very sick",
-    "de": "Schnell (اِشنل)! Der Mann ist sehr krank (کِقانک)"
+    "de": "Schnell (اِشنل)! Der Mann ist sehr krank (کرانک)"
   },
   {
     "id": 10212,
@@ -1089,7 +1089,7 @@
   {
     "id": 10215,
     "en": "My sister is a teacher",
-    "de": "Meine Schwester ist Lehrerin (لیقِقین)"
+    "de": "Meine Schwester ist Lehrerin (لیرِرین)"
   },
   {
     "id": 10216,
@@ -1099,7 +1099,7 @@
   {
     "id": 10217,
     "en": "Cool, is your work stressful?",
-    "de": "Cool, ist deine Arbeit stressig (اِشتقسیش)?"
+    "de": "Cool, ist deine Arbeit stressig (اِشترسیش)?"
   },
   {
     "id": 10218,
@@ -1114,22 +1114,22 @@
   {
     "id": 10220,
     "en": "My work is interesting but stressful",
-    "de": "Meine Arbeit ist interessant (این تقِسانت) aber stressig (اِشتقسیش)"
+    "de": "Meine Arbeit ist interessant (این ترِسانت) aber stressig (اِشترسیش)"
   },
   {
     "id": 10221,
-    "en": "Is your work stressful?",
-    "de": "Ist deine Arbeit stressig? (اِشتقسیش)"
+    "en": "I wear a blue shirt",
+    "de": "Ich trage ein blaues Hemd"
   },
   {
     "id": 10222,
     "en": "Are you a teacher?",
-    "de": "Bist du Lehrer (لیقا)?"
+    "de": "Bist du Lehrer (لیرا)?"
   },
   {
     "id": 10223,
     "en": "Is your girlfriend an actress?",
-    "de": "Ist deine Freundin (فقویندین) Schauspielerin (شآاُش پی لقین)?"
+    "de": "Ist deine Freundin (فرویندین) Schauspielerin (شآاُش پی لرین)?"
   },
   {
     "id": 10224,
@@ -1149,7 +1149,7 @@
   {
     "id": 10227,
     "en": "She is a professor",
-    "de": "Sie ist Professorin (پرُفِسُقین)"
+    "de": "Sie ist Professorin (پرُفِسُرین)"
   },
   {
     "id": 10228,
@@ -1169,7 +1169,7 @@
   {
     "id": 10231,
     "en": "The woman is a waitress",
-    "de": "Die Frau ist Kellnerin (کِلنقین)"
+    "de": "Die Frau ist Kellnerin (کِلنرین)"
   },
   {
     "id": 10232,
@@ -1195,32 +1195,32 @@
   {
     "id": 10236,
     "en": "Do you like the red jacket here? (formal)",
-    "de": "Mögen (مُگن) Sie die rote (قُتِ) Jacke hier?"
+    "de": "Mögen (مُگن) Sie die rote (رُتِ) Jacke hier?"
   },
   {
     "id": 10237,
     "en": "Do you like that black jacket over there? (formal)",
-    "de": "Mögen (مُگن) sie die schwarze (شووارتزِ) Jacke da drüben (دُقوبن)?"
+    "de": "Mögen (مُگن) sie die schwarze (شووارتزِ) Jacke da drüben (دُروبن)?"
   },
   {
     "id": 10238,
     "en": "The black jacket is very warm and cheap",
-    "de": "Die schwarze (اشوارتز) Jacke ist sehr warm und billig (بیلیش)"
+    "de": "Die schwarze (شووارتزِ) Jacke ist sehr warm und billig (بیلیش)"
   },
   {
     "id": 10239,
     "en": "The red jacket is perfect for you",
-    "de": "Die rote (قُتِ) Jacke ist perfekt für Sie"
+    "de": "Die rote (رُتِ) Jacke ist perfekt für Sie"
   },
   {
     "id": 10240,
     "en": "Wonderful, I'll take the red jacket",
-    "de": "Wunderbar, ich nehme (نیمِ) die rote Jacke"
+    "de": "Wunderbar, ich nehme (نِ مِ) die rote Jacke"
   },
   {
     "id": 10241,
     "en": "You do your job very well (formal)",
-    "de": "Sie machen Ihre (ایقِ) Arbeit sehr gut"
+    "de": "Sie machen Ihre (ایرِ) Arbeit sehr gut"
   },
   {
     "id": 10242,
@@ -1240,7 +1240,7 @@
   {
     "id": 10245,
     "en": "That's great",
-    "de": "Das ist großartig (گُقُ ساتیش)"
+    "de": "Das ist großartig (گرُ ساتیش)"
   },
   {
     "id": 10246,
@@ -1249,8 +1249,8 @@
   },
   {
     "id": 10247,
-    "en": "The new school student",
-    "de": "Der neue (نُیِ) Schüler (شولا)"
+    "en": "Ali is the new school student",
+    "de": "Ali ist der neue (نُیِ) Schüler (شولا)"
   },
   {
     "id": 10248,
@@ -1260,7 +1260,7 @@
   {
     "id": 10249,
     "en": "There is a new student in our school",
-    "de": "In unserer (اُنزِقا) Schule (شولِ) ist ein neuer (نُیا) Schüler (شولا)"
+    "de": "In unserer (اُنزرا) Schule (شولِ) ist ein neuer (نُیا) Schüler (شولا)"
   },
   {
     "id": 10250,
@@ -1426,6 +1426,6 @@
   {
     "id": 10282,
     "en": "My father, my brother, my mother and my sister",
-    "de": "Mein Vater (فاتا), mein bruder (بوقودا), meine Mutter (موتا) und meine Schwester (اشوِستا)"
+    "de": "Mein Vater (فاتا), mein bruder (بورودا), meine Mutter (موتا) und meine Schwester (اشوِستا)"
   }
 ]
