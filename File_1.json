@@ -2567,8 +2567,8 @@
   },
   {
     "id": 1508,
-    "fa": "او (زن) را منتظر نگه ندار",
-    "en": "Don't keep her waiting"
+    "fa": "او (زن) را منتظر نگه ندار, مودبانه نیست",
+    "en": "Don't keep her waiting, it is not polite"
   },
   {
     "id": 1509,
@@ -4748,5 +4748,55 @@
     "id": 1940,
     "fa": "مجبورم نکن پنجه هایم را نشان دهم",
     "en": "Don't make me show my claws (کلاس)"
+  },
+  {
+    "id": 1941,
+    "fa": "او امروز لرز و بدن درد دارد",
+    "en": "He has the shivers and body pain today"
+  },
+  {
+    "id": 1942,
+    "fa": "من کوچکترین ایده ای ندارم که او کجاست؟",
+    "en": "I haven't got the slightest idea where he is?"
+  },
+  {
+    "id": 1943,
+    "fa": "در پیام اشتباه تایپی وجود دارد",
+    "en": "There is a typo in the message"
+  },
+  {
+    "id": 1944,
+    "fa": "من راحت دچار ماشین گرفتگی میشم. شما باید صندلی پنجره را بگیرید",
+    "en": "I got carsick easily. You should get the window seat"
+  },
+  {
+    "id": 1945,
+    "fa": "دیروز چه روزی بود؟ دیروز یکشنبه بود",
+    "en": "What day was yesterday? Yesterday was Sunday"
+  },
+  {
+    "id": 1946,
+    "fa": "برای کدام بخش کار می کنید؟",
+    "en": "Which department do you work for?"
+  },
+  {
+    "id": 1947,
+    "fa": "او مشغول یک تلفن دیگر است",
+    "en": "He's busy on another phone"
+  },
+  {
+    "id": 1948,
+    "fa": "او دیوانه است زیرا من او را در شطرنج شکست دادم",
+    "en": "He is mad because I beat him in chess"
+  },
+  {
+    "id": 1949,
+    "fa": "وقتی فضانوردان در فضا هستند، آیا هنوز هم آنها می توانند کور شوند توسط خورشید؟",
+    "en": "When astronauts are in space, can they still be blinded by the sun?"
+  },
+  {
+    "id": 1950,
+    "fa": "یادت هست به من گفتی \"من هیچ کس نمی شوم و معتاد می شوم؟\"",
+    "en": "Do you remember you told me, 'I'm gonna be nobody, and I will be a drug addict?"
   }
 ]

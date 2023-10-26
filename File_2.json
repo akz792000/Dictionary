@@ -221,8 +221,8 @@
   },
   {
     "id": 10044,
-    "en": "How do you write that, please?",
-    "de": "Wie schreibt man das, bitte?"
+    "en": "He beats the children",
+    "de": "Er schlägt die kinder"
   },
   {
     "id": 10045,
@@ -256,8 +256,8 @@
   },
   {
     "id": 10051,
-    "en": "The location is beautiful",
-    "de": "Der Ort ist schön"
+    "en": "I buy the table",
+    "de": "Ich kaufe den Tisch"
   },
   {
     "id": 10052,
@@ -271,8 +271,8 @@
   },
   {
     "id": 10054,
-    "en": "Complete the speech bubbles (formal)",
-    "de": "Ergänzen Sie die Sprechblasen (اِرگن) (اشپرِش بلاسِن)"
+    "en": "The men come",
+    "de": "Die Männer kommen"
   },
   {
     "id": 10055,
@@ -356,7 +356,7 @@
   },
   {
     "id": 10071,
-    "en": "Just a moment, please",
+    "en": "A moment, please",
     "de": "Einen Moment, bitte"
   },
   {
@@ -371,8 +371,8 @@
   },
   {
     "id": 10074,
-    "en": "Listen for check (formal)",
-    "de": "Hören Sie zur (ثُر) kontrolle (کُنترُلِ)"
+    "en": "They help the fathers",
+    "de": "Sie helfen den vätern"
   },
   {
     "id": 10075,
@@ -612,8 +612,8 @@
   },
   {
     "id": 10121,
-    "en": "But you speak German well (formal)",
-    "de": "Ihr (ای یا) sprecht aber gut (گوت) Deutsch"
+    "en": "But you speak German well (informal)",
+    "de": "Aber du sprichst gut Deutsch"
   },
   {
     "id": 10122,
@@ -789,9 +789,8 @@
   },
   {
     "id": 10156,
-    "en": "I would like to call the waiter please",
-    "de": "Ich möchte bitte den Kellner (کِلنا) rufen (روفِن)",
-    "desc": "\n Kellner = Waiter \n rufen = call \n In German, adverbs like \"bitte\" (please) typically come before the verb, so it should be placed before \"den Kellner rufen."
+    "en": "I would like to sleep now",
+    "de": "Ich möchte jetzt schlafen"
   },
   {
     "id": 10157,
@@ -1028,7 +1027,7 @@
   {
     "id": 10203,
     "en": "خواهش میکنم",
-    "de": "Gerne geschehen (گِشین)"
+    "de": "Gern geschehen (گِشین)"
   },
   {
     "id": 10204,
@@ -1249,8 +1248,8 @@
   },
   {
     "id": 10247,
-    "en": "Ali is the new school student",
-    "de": "Ali ist der neue (نُیِ) Schüler (شولا)"
+    "en": "He is the new school student",
+    "de": "Er ist der neuer Schüler (شولا)"
   },
   {
     "id": 10248,
@@ -1427,5 +1426,10 @@
     "id": 10282,
     "en": "My father, my brother, my mother and my sister",
     "de": "Mein Vater (فاتا), mein bruder (بورودا), meine Mutter (موتا) und meine Schwester (اشوِستا)"
+  },
+  {
+    "id": 10282,
+    "en": "She is the new student",
+    "de": "Sie ist die neue Schülerin"
   }
 ]
