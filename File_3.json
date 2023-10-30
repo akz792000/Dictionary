@@ -126,7 +126,7 @@
   },
   {
     "id": 20026,
-    "en": "Want, Wish",
+    "en": "Would like",
     "de": "\n möchte (مُچت) \n möchtest (مُچتست) \n möchte (مُچتِ) \n möchten \n möchtet (مُچتت) \n möchten"
   },
   {
@@ -182,6 +182,36 @@
   {
     "id": 20037,
     "en": "Buy",
-    "de": "\n kauf \n kaufst \n kauft \n kaufen \n kauft \n kaufen "
+    "de": "\n kaufe \n kaufst \n kauft \n kaufen \n kauft \n kaufen "
+  },
+  {
+    "id": 20038,
+    "en": "Want",
+    "de": "\n will \n willst \n will \n wollen \n wollt \n wollen"
+  },
+  {
+    "id": 20039,
+    "en": "Stay",
+    "de": "\n bleibe \n bleibst \n bleibt \n bleiben \n bleibt \n bleiben"
+  },
+  {
+    "id": 20040,
+    "en": "Be allowed",
+    "de": "\n darf (دارف) \n darfst \n darft \n dürfen \n dürft \n dürfen"
+  },
+  {
+    "id": 20041,
+    "en": "Must",
+    "de": "\n muss \n musst \n muss \n müssen \n müsst \n müssen"
+  },
+  {
+    "id": 20042,
+    "en": "Should",
+    "de": "\n soll \n sollst \n soll \n sollen \n sollt \n sollen (زُلِن)"
+  },
+  {
+    "id": 20043,
+    "en": "Understand",
+    "de": "\n verstehe (فِشت اِ) \n verstehst \n versteht \n verstehen \n versteht \n verstehen"
   }
 ]

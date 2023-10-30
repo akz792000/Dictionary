@@ -1992,8 +1992,8 @@
   },
   {
     "id": 1394,
-    "fa": "من زیر سرم بودم",
-    "en": "I was on a drip"
+    "fa": "او (مرد) سه روز زیر سرم بود",
+    "en": "He was on a drip for three days"
   },
   {
     "id": 1395,
@@ -3613,7 +3613,7 @@
   },
   {
     "id": 1716,
-    "fa": "چرا  نگران باشم بعد از تمام کارهایی که شما برای کشورتان انجام داده اید؟",
+    "fa": "چرا (فرضی) نگران باشم بعد از تمام کارهایی که شما برای کشورتان انجام داده اید؟",
     "en": "Why would I be worried after everything you've done for your country?"
   },
   {
@@ -3718,12 +3718,12 @@
   },
   {
     "id": 1737,
-    "fa": "فکر میکردم که من به شما آزمایش گرا نزدیک خواهم بود",
+    "fa": "فکر میکردم که من (فرضی) به شما آزمایش گرا نزدیک خواهم بود",
     "en": "I thought I'd be close to you experimentalists"
   },
   {
     "id": 1738,
-    "fa": "زیاد نه این روزها",
+    "fa": " نه زیاد این روزها",
     "en": "Not much these days"
   },
   {
@@ -4174,7 +4174,7 @@
   },
   {
     "id": 1826,
-    "fa": "چه کسی اجازه دارد با دستگاه شوک دهنده عمل کند؟",
+    "fa": "چه کسی اجازه دارد با یک دستگاه شوک دهنده عمل کند؟",
     "en": "Who is allowed to operate a defibrillator? (دیفیب ری لی تر)"
   },
   {
@@ -4640,8 +4640,8 @@
   },
   {
     "id": 1919,
-    "fa": "این گزارش آمد کمتر از دو ماه قبل از دیدار رهبران جهان برای نشست جهانی اجلاس",
-    "en": "The report comes less than two month before world leaders meet for the global commit summit"
+    "fa": "این گزارش می آید کمتر از دو ماه قبل از دیدار رهبران جهان برای اجلاس جهانی",
+    "en": "The report comes less than two month before world leaders meet for the world summit"
   },
   {
     "id": 1920,
@@ -4655,7 +4655,7 @@
   },
   {
     "id": 1922,
-    "fa": "من برای رفتن در تاریخ ۱۵ ژوئن زمانبندی شدم",
+    "fa": "من برای رفتن (خروج) در تاریخ ۱۵ ژوئن زمانبندی شدم",
     "en": "I am scheduled to depart on June 15th",
     "desc": "In general, you use \"in\" when referring to a month (e.g., \"in June\") and \"on\" when referring to a specific day or date (e.g., \"on June 15th\")."
   },
@@ -4751,7 +4751,7 @@
   },
   {
     "id": 1941,
-    "fa": "او امروز لرز و بدن درد دارد",
+    "fa": "او (مرد) امروز لرز و بدن درد دارد",
     "en": "He has the shivers and body pain today"
   },
   {
@@ -4767,7 +4767,7 @@
   {
     "id": 1944,
     "fa": "من راحت دچار ماشین گرفتگی میشم. شما باید صندلی پنجره را بگیرید",
-    "en": "I got carsick easily. You should get the window seat"
+    "en": "I get carsick easily. You should get the window seat"
   },
   {
     "id": 1945,
@@ -4781,13 +4781,13 @@
   },
   {
     "id": 1947,
-    "fa": "او مشغول یک تلفن دیگر است",
+    "fa": "او (مرد) مشغول یک تلفن دیگر است",
     "en": "He's busy on another phone"
   },
   {
     "id": 1948,
-    "fa": "او دیوانه است زیرا من او را در شطرنج شکست دادم",
-    "en": "He is mad because I beat him in chess"
+    "fa": "او (مرد) دیوانه است زیرا من او (مرد) را در شطرنج شکست دادم",
+    "en": "He's mad because I beat him in chess"
   },
   {
     "id": 1949,
@@ -4797,6 +4797,6 @@
   {
     "id": 1950,
     "fa": "یادت هست به من گفتی \"من هیچ کس نمی شوم و معتاد می شوم؟\"",
-    "en": "Do you remember you told me, 'I'm gonna be nobody, and I will be a drug addict?"
+    "en": "Do you remember you told me, I'm gonna be nobody, and I will be a drug addict?"
   }
 ]

@@ -96,7 +96,7 @@
   },
   {
     "id": 20,
-    "fa": "متاسفانه ما قرار نیست به درخواست شما ادامه بدیم",
+    "fa": "متاسفانه ما به درخواست شما ادامه نخواهیم داد",
     "en": "Unfortunately, we will not be moving forward with your request"
   },
   {
@@ -3798,8 +3798,8 @@
   },
   {
     "id": 752,
-    "fa": "دندانپزشک پس از کشیدن دندان من از یک بخیه استفاده کرد تا برش را با دقت ببندد",
-    "en": "The dentist used a stitch to carefully close the incision after extracting my tooth (این سیژن)"
+    "fa": "دندانپزشک پس از کشیدن دندان شل من از یک بخیه استفاده کرد تا برش را با دقت ببندد",
+    "en": "The dentist used a stitch to carefully close the incision after extracting my loose tooth (این سیژن)"
   },
   {
     "id": 753,
@@ -4898,7 +4898,7 @@
   },
   {
     "id": 968,
-    "fa": "اونجا تو چی داشتی؟",
+    "fa": "اونجا تو چی گرفتی؟",
     "en": "What have you got there?"
   },
   {

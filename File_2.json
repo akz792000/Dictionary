@@ -337,7 +337,7 @@
   {
     "id": 10067,
     "en": "I speak a bit of German? English?",
-    "de": "Ich spreche (اشپرِشِ) etwas (اتواس) Deutsch? Englisch?"
+    "de": "Ich spreche (اشپرِشِ) ein bisschen Deutsch? Englisch?"
   },
   {
     "id": 10068,
@@ -1428,8 +1428,38 @@
     "de": "Mein Vater (فاتا), mein bruder (بورودا), meine Mutter (موتا) und meine Schwester (اشوِستا)"
   },
   {
-    "id": 10282,
+    "id": 10283,
     "en": "She is the new student",
     "de": "Sie ist die neue Schülerin"
+  },
+  {
+    "id": 10284,
+    "en": "They don't want to stay",
+    "de": "Sie wollen nicht bleiben"
+  },
+  {
+    "id": 10285,
+    "en": "I don't want to drink something",
+    "de": "Ich will etwas nicht trinken"
+  },
+  {
+    "id": 10286,
+    "en": "You wouldn't like to leave later",
+    "de": "Du möchtest später nicht gehen"
+  },
+  {
+    "id": 10287,
+    "en": "You (Plural) wouldn't like to stay",
+    "de": "Ihr möchtet nicht bleiben"
+  },
+  {
+    "id": 10288,
+    "en": "We can't come",
+    "de": "Wir können nicht kommen"
+  },
+  {
+    "id": 10289,
+    "en": "I am allowed to go",
+    "de": "Ich darf gehen"
   }
 ]
