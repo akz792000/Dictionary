@@ -1461,5 +1461,82 @@
     "id": 10289,
     "en": "I am allowed to go",
     "de": "Ich darf gehen"
+  },
+  {
+    "id": 10290,
+    "en": "Ali takes a taxi",
+    "de": "Ali nimmt ein Taxi"
+  },
+  {
+    "id": 10291,
+    "en": "His girlfriend Anne drives the taxi",
+    "de": "Seine Freundin Anne fährt das Taxi"
+  },
+  {
+    "id": 10292,
+    "en": "Do you drive a taxi?",
+    "de": "Du fährst Taxi?"
+  },
+  {
+    "id": 10293,
+    "en": "This is my new job",
+    "de": "Das ist meine neue Arbeit"
+  },
+  {
+    "id": 10294,
+    "en": "Where would you like to go? To the train station",
+    "de": "Wohin möchtest du fahren? Zum Bahnhof",
+    "desc": "\"Wohin\" means \"where to\" and is used when asking about a destination or direction. For example, \"Wohin möchtest du gehen?\" means \"Where would you like to go?\" because you're asking about the destination or direction of the person's intended movement.\n\n\"Woher\" means \"where from\" and is used when asking about the origin or source of something. For example, \"Woher kommst du?\" means \"Where are you from?\" because you're asking about the place the person is coming from."
+  },
+  {
+    "id": 10295,
+    "en": "Where is the train station?",
+    "de": "Wo ist der Bahnhof?"
+  },
+  {
+    "id": 10296,
+    "en": "We are there",
+    "de": "Wir sind da"
+  },
+  {
+    "id": 10297,
+    "en": "This isn't the train station.",
+    "de": "Das hier ist nicht der Bahnhof"
+  },
+  {
+    "id": 10298,
+    "en": "This is the university",
+    "de": "Das ist die Universität"
+  },
+  {
+    "id": 10299,
+    "en": "This is library",
+    "de": "Das hier ist Bibliothek"
+  },
+  {
+    "id": 10300,
+    "en": "He drives off again",
+    "de": "Er fährt wieder los",
+    "desc": "It typically refers to someone or something resuming an activity or journey after a pause or break"
+  },
+  {
+    "id": 10301,
+    "en": "Correct. This is my apartment",
+    "de": "Richtig. Das hier ist meine Wohnung"
+  },
+  {
+    "id": 10302,
+    "en": "I don't want to drive a taxi",
+    "de": "Ich will nicht Taxi fahren"
+  },
+  {
+    "id": 10303,
+    "en": "This job is too stressful",
+    "de": "Diese Arbeit ist zu stressig"
+  },
+  {
+    "id": 10304,
+    "en": "Anne goes to her apartment",
+    "de": "Anne geht zu ihrer Wohnung"
   }
 ]
