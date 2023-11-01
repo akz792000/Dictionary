@@ -3133,7 +3133,7 @@
   },
   {
     "id": 623,
-    "fa": "این یک کار طاقت فرسا (دلهره آور) است",
+    "fa": "این یک وظیفه طاقت فرسا (دلهره آور) است",
     "en": "It is a daunting task",
     "desc": "Seeming difficult to deal with in anticipation; intimidating."
   },
@@ -8867,7 +8867,7 @@
   },
   {
     "id": 1753,
-    "fa": "او (زن) قهوه را روی میز ریخت و مجبور شد آن را پاک کند",
+    "fa": "او (زن) قهوه را روی میز ریخت و مجبور شد پاکش کنه",
     "en": "She spilled coffee on the table and had to wipe it up"
   },
   {
@@ -9899,7 +9899,7 @@
   {
     "id": 1957,
     "fa": "لطفا به یاد داشته باشید که ظروف خود را در ماشین ظرفشویی قرار دهید",
-    "en": "Please remember to put your dishes in the dishwashers"
+    "en": "Please remember to put your dishes in the dishwasher"
   },
   {
     "id": 1958,
@@ -9928,7 +9928,7 @@
   },
   {
     "id": 1963,
-    "fa": "زنبور او را نیش زد. چقدر بدشانش",
+    "fa": "او نیش خورد توسط زنبور. چقدر بدشانش",
     "en": "He got stung by a bee. How unfortunate"
   },
   {
@@ -9970,11 +9970,12 @@
   {
     "id": 1971,
     "fa": "نمیتونستم بفهمم چرا اینقدر مضطرب بودی",
-    "en": "I couldn't fathom why you were being so anxious"
+    "en": "I couldn't fathom why you were being so anxious",
+    "desc": "\"You were being so anxious\" suggests ongoing anxiety.\n\"You were so anxious\" simply states that you were anxious.\nThe first emphasizes the duration, the second states the condition."
   },
   {
     "id": 1972,
-    "fa": "من با او بازی نمی کنم، او (مرد) یک عقب مانده است.",
+    "fa": "من دارم با او (مرد) بازی نمی کنم، او (مرد) یک عقب مانده است",
     "en": "I'm not playing with him, he's a total retard"
   },
   {
@@ -9989,18 +9990,18 @@
   },
   {
     "id": 1975,
-    "fa": "او از من در مورد زندگی خصوصی ام بازجویی می کند",
+    "fa": "او (مرد) بازجویی می کند از من در مورد زندگی خصوصی ام ",
     "en": "He interrogates me about my private life"
   },
   {
     "id": 1976,
-    "fa": "اگر بی احتیاطی کنید شیر می ریزد",
+    "fa": "شیر می ریزد اگر بی احتیاط باشید",
     "en": "The milk will spill if you're careless"
   },
   {
     "id": 1977,
-    "fa": "ما نباید برای چیزهای کوچک (ترایفل) عزاداری کنیم",
-    "en": "We need not mourn over trifles"
+    "fa": "ما نباید برای چیزهای کوچک عزاداری کنیم",
+    "en": "We need not mourn over trifles (/ˈtraɪfəl/)"
   },
   {
     "id": 1978,
@@ -10034,7 +10035,7 @@
   },
   {
     "id": 1984,
-    "fa": "با خوشحالی سوت می زدم",
+    "fa": "با داشتم با خوشحالی سوت می زدم",
     "en": "I was whistling cheerfully"
   },
   {
@@ -10056,7 +10057,7 @@
   },
   {
     "id": 1988,
-    "fa": "عینکش را برداشت و داخل جیبش گذاشت (جمع و جور کرد)",
+    "fa": "عینک را برداشتم (از سر) و داخل جیبم گذاشتم (جمع و جور کرد)",
     "en": "I took the glasses off and tucked them in my pocket"
   },
   {
@@ -10092,7 +10093,7 @@
   {
     "id": 1995,
     "fa": "بسیاری از بیماران از علائم مبهم رنج می برند",
-    "en": "Many patients suffer vague symptoms"
+    "en": "Many patients suffer from vague symptoms"
   },
   {
     "id": 1996,
@@ -10116,7 +10117,7 @@
   },
   {
     "id": 2000,
-    "fa": "وقتی سرگرمی زمان سریع می گذره (پرواز می کند)",
+    "fa": "زمان سریع می گذره زمانیکه شما در حال خوش گذرانی هستی",
     "en": "Time flies when you're having fun"
   }
 ]
