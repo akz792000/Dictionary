@@ -2,251 +2,301 @@
   {
     "id": 2001,
     "fa": "عالی می شد اگر می تونستم یک کورس انجام بدم بدون اینکه خیلی از کارم دور باشم",
-    "en": "It would be better if I could do a course without too much time away from work"
+    "en": "It would be better if I could do a course without too much time away from work",
+    "groupCode": 0
   },
   {
     "id": 2002,
     "fa": "من حدود پنج سال تجربه کار مربوطه را تجربه کردم",
-    "en": "I have got about five years of relevant work experience"
+    "en": "I have got about five years of relevant work experience",
+    "groupCode": 0
   },
   {
     "id": 2003,
     "fa": "یک مقلد مباش",
-    "en": "Don't be an imitator"
+    "en": "Don't be an imitator",
+    "groupCode": 0
   },
   {
     "id": 2004,
     "fa": "ما خیلی وقت می خواستیم به کتابخانه ملحق شویم",
-    "en": "We have been meaning to join the library for a while"
+    "en": "We have been meaning to join the library for a while",
+    "groupCode": 0
   },
   {
     "id": 2005,
     "fa": "آیا می توانم یک دوست را به مهمانی بیاورم؟",
-    "en": "Can I bring a friend along to the party?"
+    "en": "Can I bring a friend along to the party?",
+    "groupCode": 0
   },
   {
     "id": 2006,
     "fa": "من داشتم می غلطیدم تمام شب",
-    "en": "I was tossing all night"
+    "en": "I was tossing all night",
+    "groupCode": 0
   },
   {
     "id": 2007,
     "fa": "ورق بزن و به صفحه بعد نگاه کن",
-    "en": "Turn over and look at the next page"
+    "en": "Turn over and look at the next page",
+    "groupCode": 0
   },
   {
     "id": 2008,
     "fa": "من آن کفش های مشکی را امتحان کردم",
-    "en": "I tried on those black shoes"
+    "en": "I tried on those black shoes",
+    "groupCode": 0
   },
   {
     "id": 2009,
     "fa": "من حجم کار سنگینی دارم",
-    "en": "I have a heavy workload"
+    "en": "I have a heavy workload",
+    "groupCode": 0
   },
   {
     "id": 2010,
     "fa": "کشیدن سیگار برای سلامتی شما زیان آور است",
-    "en": "Cigarette (/ˌsɪɡəˈret/) smoking is detrimental to your health"
+    "en": "Cigarette (/ˌsɪɡəˈret/) smoking is detrimental to your health",
+    "groupCode": 0
   },
   {
     "id": 2011,
     "fa": "ناگفته نماند که، من تا حدی با این ادعا موافق نیستم",
-    "en": "Having said that, I partially disagree with this given assertion"
+    "en": "Having said that, I partially disagree with this given assertion",
+    "groupCode": 0
   },
   {
     "id": 2012,
     "fa": "جعبه کمک های اولیه کجاست؟",
-    "en": "Where is first aid kit?"
+    "en": "Where is first aid kit?",
+    "groupCode": 0
   },
   {
     "id": 2013,
     "fa": "تو این را با من تمام می کنی چون من خیلی غر می زنم",
-    "en": "You are ending this with me because I am too whining"
+    "en": "You are ending this with me because I am too whining",
+    "groupCode": 0
   },
   {
     "id": 2014,
     "fa": "رگ های گردنش (مرد) برآمده می شوند",
-    "en": "The veins in his neck bulge"
+    "en": "The veins in his neck bulge",
+    "groupCode": 0
   },
   {
     "id": 2015,
     "fa": "من همیشه ایده های خلاقانه می یابم",
-    "en": "I always come up with creative ideas"
+    "en": "I always come up with creative ideas",
+    "groupCode": 0
   },
   {
     "id": 2016,
     "fa": "به لطف نیاز دارم",
-    "en": "I need a favor"
+    "en": "I need a favor",
+    "groupCode": 0
   },
   {
     "id": 2017,
     "fa": "من معمولا از ساعت 5 به بعد در خانه هستم",
-    "en": "I'm usually at home from 5 o'clock onward"
+    "en": "I'm usually at home from 5 o'clock onward",
+    "groupCode": 0
   },
   {
     "id": 2018,
     "fa": "می دهم دندانپزشکم دندان هایم را چک کند",
-    "en": "I get my dentist to check up my teeth"
+    "en": "I get my dentist to check up my teeth",
+    "groupCode": 0
   },
   {
     "id": 2019,
     "fa": "این را نمی توان نادیده گرفت",
-    "en": "This can't be overlooked"
+    "en": "This can't be overlooked",
+    "groupCode": 0
   },
   {
     "id": 2020,
     "fa": "اگر تکامل پیدا نکنیم دچار رکود و پوسیدگی می شویم",
-    "en": "If we do not evolve we stagnate and rot"
+    "en": "If we do not evolve we stagnate and rot",
+    "groupCode": 0
   },
   {
     "id": 2021,
     "fa": "من پیشنهاد می کنم که شما در جلسه حضور داشته باشید",
-    "en": "I suggest that you be present at the meeting"
+    "en": "I suggest that you be present at the meeting",
+    "groupCode": 0
   },
   {
     "id": 2022,
     "fa": "شیر آب را باز کن",
-    "en": "\n 1.Turn on the faucet \n 2.Turn on the tap"
+    "en": "\n 1.Turn on the faucet \n 2.Turn on the tap",
+    "groupCode": 0
   },
   {
     "id": 2023,
     "fa": "او (مرد) کر، لال و کور به دنیا آمد",
-    "en": "He was born deaf, dumb (/dʌm/), and blind"
+    "en": "He was born deaf, dumb (/dʌm/), and blind",
+    "groupCode": 0
   },
   {
     "id": 2024,
     "fa": "روی پارکت های ضعیف پا نگذارید",
-    "en": "Don't tramp on the weak floorboards"
+    "en": "Don't tramp on the weak floorboards",
+    "groupCode": 0
   },
   {
     "id": 2025,
     "fa": "من رو شانسم حساب باز نمی کنم",
-    "en": "\n 1.I don't reckon my chances \n 2.I don't count on my chances"
+    "en": "\n 1.I don't reckon my chances \n 2.I don't count on my chances",
+    "groupCode": 0
   },
   {
     "id": 2026,
     "fa": "مرغ کمی بی مزه است",
-    "en": "The chicken is a little bland"
+    "en": "The chicken is a little bland",
+    "groupCode": 0
   },
   {
     "id": 2027,
     "fa": "با قفل ور نرو",
-    "en": "Don't fumble with the lock"
+    "en": "Don't fumble with the lock",
+    "groupCode": 0
   },
   {
     "id": 2028,
     "fa": "به نظر می رسد که شما میل شدیدی به این وظیفه دارید",
-    "en": "It seems that you have an overwhelming desire for this task"
+    "en": "It seems that you have an overwhelming desire for this task",
+    "groupCode": 0
   },
   {
     "id": 2029,
     "fa": "هرازگاهی برای یک پیاده روی آرام یه سر به پارک می زنم",
-    "en": "Every now and then, I head over to the park for a relaxing walk"
+    "en": "Every now and then, I head over to the park for a relaxing walk",
+    "groupCode": 0
   },
   {
     "id": 2030,
     "fa": "مسئولیت دفع ضایعات بر عهده چه کسی است؟",
-    "en": "Whose responsibility is it to dispose of scrap materials (/məˈtɪr.i.əl/)?"
+    "en": "Whose responsibility is it to dispose of scrap materials (/məˈtɪr.i.əl/)?",
+    "groupCode": 0
   },
   {
     "id": 2031,
     "fa": "آدم ربایان تقاضای باج کردند",
-    "en": "The kidnappers demanded a ransom (/ˈrænsəm/)"
+    "en": "The kidnappers demanded a ransom (/ˈrænsəm/)",
+    "groupCode": 0
   },
   {
     "id": 2032,
     "fa": "گاهی اوقات من (فرضی) عذاب می کشیدم روی هر تصمیمی قبل از اینکه انتخابی کنم",
-    "en": "Sometimes, I would agonize (/ˈæɡəˌnaɪz/) over every decision before making a choice"
+    "en": "Sometimes, I would agonize (/ˈæɡəˌnaɪz/) over every decision before making a choice",
+    "groupCode": 0
   },
   {
     "id": 2033,
     "fa": "دید خود را نسبت به زندگی گسترش دهید",
-    "en": "Broaden your outlook on life"
+    "en": "Broaden your outlook on life",
+    "groupCode": 0
   },
   {
     "id": 2034,
     "fa": "این یک راه حل ساده و کم هزینه (گران نیست) است",
-    "en": "This is a simple and inexpensive solution"
+    "en": "This is a simple and inexpensive solution",
+    "groupCode": 0
   },
   {
     "id": 2035,
     "fa": "شما اشتباه می فهمید، او (مرد) دیگر در خیابان نیست",
-    "en": "You misunderstand, He is no longer on the street"
+    "en": "You misunderstand, He is no longer on the street",
+    "groupCode": 0
   },
   {
     "id": 2036,
     "fa": "تا چه حدی او (مرد) میتواند برود؟",
-    "en": "How far can he get?"
+    "en": "How far can he get?",
+    "groupCode": 0
   },
   {
     "id": 2037,
     "fa": "اگر من انجام نداده بودم آن را، شرکت خیلی وقت پیش ورشکست شده بود",
-    "en": "If I hadn't done that, the company would long ago have gone bankrupt"
+    "en": "If I hadn't done that, the company would long ago have gone bankrupt",
+    "groupCode": 0
   },
   {
     "id": 2038,
     "fa": "آنقدر داره برات طول میکشه که مدفوع کنی؟",
-    "en": "Is it taking you that long to poop?"
+    "en": "Is it taking you that long to poop?",
+    "groupCode": 0
   },
   {
     "id": 2039,
     "fa": "به چند دستمال اضافی هم نیاز دارم",
-    "en": "I also need some extra napkins"
+    "en": "I also need some extra napkins",
+    "groupCode": 0
   },
   {
     "id": 2040,
     "fa": "می توانم مقداری سس اضافی نیز بگیرم؟",
-    "en": "Can I also get some extra sauce?"
+    "en": "Can I also get some extra sauce?",
+    "groupCode": 0
   },
   {
     "id": 2041,
     "fa": "می توانم یک جعبه (برای بردن غذا) دریافت کنم لطفا؟",
-    "en": "Can I get a to-go box please?"
+    "en": "Can I get a to-go box please?",
+    "groupCode": 0
   },
   {
     "id": 2042,
     "fa": "احمقانه ترین کاری که در بچگی انجام دادی چیست؟",
-    "en": "What's the dumbest thing you did as a kid?"
+    "en": "What's the dumbest thing you did as a kid?",
+    "groupCode": 0
   },
   {
     "id": 2043,
     "fa": "تو منو ترسوندی (برینم تو خودم)",
-    "en": "You scared the shit out of me"
+    "en": "You scared the shit out of me",
+    "groupCode": 0
   },
   {
     "id": 2044,
     "fa": "من پسرم را به مهد کودک (مراقبت در روز) رساندم",
-    "en": "I drop off my son at a daycare"
+    "en": "I drop off my son at a daycare",
+    "groupCode": 0
   },
   {
     "id": 2045,
     "fa": "اهل تقریبی کجای آلمان هستی؟",
-    "en": "Whereabouts in Germany are you from?"
+    "en": "Whereabouts in Germany are you from?",
+    "groupCode": 0
   },
   {
     "id": 2046,
     "fa": "برای من طولی نمیکشه که قلقش دستم بیاد",
-    "en": "It does not take long for me to get the hang of it"
+    "en": "It does not take long for me to get the hang of it",
+    "groupCode": 0
   },
   {
     "id": 2047,
     "fa": "من تمام زیر و بم شغلم را بلدم",
-    "en": "I know all the ins and outs of my job"
+    "en": "I know all the ins and outs of my job",
+    "groupCode": 0
   },
   {
     "id": 2048,
     "fa": "یا الان یا هیچوقت",
-    "en": "It is now or never"
+    "en": "It is now or never",
+    "groupCode": 0
   },
   {
     "id": 2049,
     "fa": "ساعت 6 آماده خواهد شد، چند دقیقه کم و بیش",
-    "en": "It'll be ready at 6, give or take a few minutes"
+    "en": "It'll be ready at 6, give or take a few minutes",
+    "groupCode": 0
   },
   {
     "id": 2050,
     "fa": "از شما خواسته خواهد شد هویت خود را تأیید کنید",
-    "en": "You will be asked to give proof of your identity"
+    "en": "You will be asked to give proof of your identity",
+    "groupCode": 0
   }
 ]
