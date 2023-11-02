@@ -3133,7 +3133,7 @@
   },
   {
     "id": 623,
-    "fa": "این یک وظیفه طاقت فرسا (دلهره آور) است",
+    "fa": "یک وظیفه طاقت فرسا (دلهره آور) است",
     "en": "It is a daunting task",
     "desc": "Seeming difficult to deal with in anticipation; intimidating."
   },
@@ -9933,8 +9933,8 @@
   },
   {
     "id": 1964,
-    "fa": "من یک خال کوچک روی گونه ام دارم",
-    "en": "I have a tiny mole on my cheek"
+    "fa": "من یک خال بسیار کوچک روی گونه ام و یک زخم کوچک روی چانه ام دارم",
+    "en": "I have a tiny mole on my cheek and a little scar on my chin"
   },
   {
     "id": 1965,
@@ -9995,12 +9995,12 @@
   },
   {
     "id": 1976,
-    "fa": "شیر می ریزد اگر بی احتیاط باشید",
+    "fa": "شیر خواهد ریخت اگر بی احتیاط باشید",
     "en": "The milk will spill if you're careless"
   },
   {
     "id": 1977,
-    "fa": "ما نباید برای چیزهای کوچک عزاداری کنیم",
+    "fa": "ما نیاز نیست برای چیزهای کوچک عزاداری کنیم",
     "en": "We need not mourn over trifles (/ˈtraɪfəl/)"
   },
   {
@@ -10010,7 +10010,7 @@
   },
   {
     "id": 1979,
-    "fa": "آنها چگونه باید این پیام را بشنوند اگر شما توانایی برقراری ارتباط آنها را قطع کرده اید؟",
+    "fa": "آنها قراره چگونه این پیام را بشنوند اگر شما توانایی برقراری ارتباط آنها را قطع کرده اید؟",
     "en": "How are they supposed to hear this message if you've cut off their ability to communicate?"
   },
   {
@@ -10067,7 +10067,7 @@
   },
   {
     "id": 1990,
-    "fa": "احساس درونی ام به من می گفت که کار را قبول نکن",
+    "fa": "احساس درونی ام به من می گفت که کار را نگیرم",
     "en": "My gut feeling told me not to take the job"
   },
   {

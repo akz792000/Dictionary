@@ -1538,5 +1538,65 @@
     "id": 10304,
     "en": "Anne goes to her apartment",
     "de": "Anne geht zu ihrer Wohnung"
+  },
+  {
+    "id": 10305,
+    "en": "That is cheap",
+    "de": "Das ist billig (بیلیگ)"
+  },
+  {
+    "id": 10306,
+    "en": "That is expensive",
+    "de": "Das ist teuer (تُیا)"
+  },
+  {
+    "id": 10307,
+    "en": "How much is it?",
+    "de": "Wie viel kostet das? (وی فیل کُستت داس)"
+  },
+  {
+    "id": 10308,
+    "en": "It costs one euro",
+    "de": "Das kostet einen Euro (اُیقُ)"
+  },
+  {
+    "id": 10309,
+    "en": "Can I pay with card?",
+    "de": "Kann ich mit Karte zahlen?"
+  },
+  {
+    "id": 10310,
+    "en": "What does this cost?",
+    "de": "Was kostet das?"
+  },
+  {
+    "id": 10311,
+    "en": "I see the man",
+    "de": "Ich sehe den Mann (زِ اِ)"
+  },
+  {
+    "id": 10312,
+    "en": "Peter tells the man",
+    "de": "Peter sagt dem Mann"
+  },
+  {
+    "id": 10313,
+    "en": "You see the car",
+    "de": "Du siehst das Auto"
+  },
+  {
+    "id": 10314,
+    "en": "You are human (formal)",
+    "de": "Ihr seid Mensch"
+  },
+  {
+    "id": 10315,
+    "en": "I want 2 kilos of mutton and 1 kilo of veal",
+    "de": "Ich möchte 2 Kilo Hammelfleisch und 1 Kilo Kalbfleisch"
+  },
+  {
+    "id": 10316,
+    "en": "He plays piano really well",
+    "de": "Er spielt sehr gut Klavier"
   }
 ]
