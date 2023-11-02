@@ -26,7 +26,7 @@
   {
     "id": 10005,
     "en": "Bye",
-    "de": "Tschüss (چ)",
+    "de": "Tschüss",
     "groupCode": 1
   },
   {
@@ -38,25 +38,25 @@
   {
     "id": 10007,
     "en": "Hope to see you",
-    "de": "Auf Wiedersehen (ویدازی اِن)",
+    "de": "Auf Wiedersehen",
     "groupCode": 1
   },
   {
     "id": 10008,
     "en": "Hope to hear you",
-    "de": "Auf Wiederhören (ویداهُرِن)",
+    "de": "Auf Wiederhören",
     "groupCode": 1
   },
   {
     "id": 10009,
     "en": "No Problem",
-    "de": "Kein Problem! (کاین)",
+    "de": "Kein Problem!",
     "groupCode": 1
   },
   {
     "id": 10010,
     "en": "My name is Ilia",
-    "de": "Ich heiße Ilia (هایسِ)",
+    "de": "Ich heiße Ilia",
     "groupCode": 1
   },
   {
@@ -74,20 +74,20 @@
   {
     "id": 10013,
     "en": "One more again slowly please",
-    "de": "Bitte noch einmal langsam (لانگ زام)",
+    "de": "Bitte noch einmal langsam",
     "desc": "\n noch = again \n einmal = once",
     "groupCode": 1
   },
   {
     "id": 10014,
     "en": "Get well soon!",
-    "de": "Gute Besserung! (بِسرونگ)",
+    "de": "Gute Besserung!",
     "groupCode": 1
   },
   {
     "id": 10015,
     "en": "See you later",
-    "de": "Bis Später (اِشپِتا)",
+    "de": "Bis Später",
     "groupCode": 1
   },
   {
@@ -117,61 +117,61 @@
   {
     "id": 10020,
     "en": "What's your name? (informal)",
-    "de": "Wie heißt (هایست) du?",
+    "de": "Wie heißt du?",
     "groupCode": 1
   },
   {
     "id": 10021,
     "en": "What's your name? (formal)",
-    "de": "Wie heißen (هایسن) sie?",
+    "de": "Wie heißen sie?",
     "groupCode": 1
   },
   {
     "id": 10022,
     "en": "You are Mr. Bieber! (formal)",
-    "de": "Sie sind (زیند) Herr Bieber!",
+    "de": "Sie sind Herr Bieber!",
     "groupCode": 1
   },
   {
     "id": 10023,
     "en": "Who are you? (informal)",
-    "de": "Wer bist du? (بیست دو)",
+    "de": "Wer bist du?",
     "groupCode": 1
   },
   {
     "id": 10024,
     "en": "Who are you? (formal)",
-    "de": "Wer sind Sie? (زیند زی)",
+    "de": "Wer sind Sie?",
     "groupCode": 1
   },
   {
     "id": 10025,
     "en": "\n Subject pronoun \n\n I, you, he(M)/she(F)/it(N), we, you, they",
-    "de": "\n Subjektpronomen (زوب یکت پرُنومن) \n\n ich, du, er(M)/sie(F)/es(N), wir (ویا), ihr (ای یا), sie-Sie",
+    "de": "\n Subjektpronomen \n\n ich, du, er(M)/sie(F)/es(N), wir, ihr, sie-Sie",
     "groupCode": 1
   },
   {
     "id": 10026,
     "en": "See you soon!",
-    "de": "Bis bald! (بالت)",
+    "de": "Bis bald!",
     "groupCode": 1
   },
   {
     "id": 10027,
     "en": "Where do you come from? (informal)",
-    "de": "Woher (وُهِ) kommst du?",
+    "de": "Woher kommst du?",
     "groupCode": 1
   },
   {
     "id": 10028,
     "en": "Which ones do you know? (formal)",
-    "de": "Welche (ولشِ) kennen Sie?",
+    "de": "Welche kennen Sie?",
     "groupCode": 1
   },
   {
     "id": 10029,
     "en": "Where do the people come from?",
-    "de": "Woher (وُه) kommen die Personen? (پِرزُنِن)",
+    "de": "Woher kommen die Personen?",
     "groupCode": 1
   },
   {
@@ -195,13 +195,13 @@
   {
     "id": 10033,
     "en": "Where do you live now? (informal)",
-    "de": "Wo (وُ) wohnst (وُنست) du jetzt? (یِتست)",
+    "de": "Wo wohnst du jetzt?",
     "groupCode": 1
   },
   {
     "id": 10034,
     "en": "Who says that?",
-    "de": "Wer sagt (زاگت) das?",
+    "de": "Wer sagt das?",
     "groupCode": 1
   },
   {
@@ -213,7 +213,7 @@
   {
     "id": 10036,
     "en": "Complete the table with information from 4a (formal)",
-    "de": "Ergänzen (اِرگن) Sie die Tabelle (تابِلِ) mit Informationen (این فرماتسیونِن) aus 4a",
+    "de": "Ergänzen Sie die Tabelle mit Informationen aus 4a",
     "groupCode": 1
   },
   {
@@ -244,21 +244,21 @@
   {
     "id": 10041,
     "en": "\n Object pronoun - Akkusative \n\n me, you, him(M)/her(F)/it(N), us, you, them",
-    "de": "\n Objektpronomen (آبیکت پرونومن) - Akkusative \n\n mich, dich, ihn(M)(این)/sie(F)/es(N), uns (اونس), euch (اویچ), sie-Sie",
+    "de": "\n Objektpronomen - Akkusative \n\n mich, dich, ihn(M)/sie(F)/es(N), uns, euch, sie-Sie",
     "desc": "بی واسطه - چه چیزی را - چه کسی را",
     "groupCode": 1
   },
   {
     "id": 10042,
     "en": "\n Object pronoun - Dativ \n\n me, you, him(M)/her(F)/it(N), us, you, them",
-    "de": "\n Objektpronomen (آبیکت پرونومن) - Dativ \n\n mir (میا), dir (دیا), ihm(M)(ایم)/ihr(F)(اییِ)/ihm(N), uns (اونس), euch (اویچ), ihnen-Ihnen (اینن)",
+    "de": "\n Objektpronomen - Dativ \n\n mir, dir, ihm(M)/ihr(F)/ihm(N), uns, euch, ihnen-Ihnen",
     "desc": "با واسطه - به چه چیزی - به چه کسی",
     "groupCode": 1
   },
   {
     "id": 10043,
     "en": "What is your last name? (formal)",
-    "de": "Wie ist Ihr (ای یا) Familienname?",
+    "de": "Wie ist Ihr Familienname?",
     "desc": "\"Ihr\" is a formal pronoun used when addressing someone with respect, especially in professional or formal situations. It is equivalent to the English \"your\" (formal) when addressing someone with respect",
     "groupCode": 1
   },
@@ -271,7 +271,7 @@
   {
     "id": 10045,
     "en": "What is your first name? (formal)",
-    "de": "Wie ist Ihr (ای یا) Vorname?",
+    "de": "Wie ist Ihr Vorname?",
     "groupCode": 1
   },
   {
@@ -283,13 +283,13 @@
   {
     "id": 10047,
     "en": "What is your zip code? (formal)",
-    "de": "Wie ist Ihr (ای یا) Postleitzahl/Ort?",
+    "de": "Wie ist Ihr Postleitzahl/Ort?",
     "groupCode": 1
   },
   {
     "id": 10048,
     "en": "What is your Telephone number? (formal)",
-    "de": "Wie ist Ihr (ای یا) Telefonnummer? (تلفن نوما)",
+    "de": "Wie ist Ihr Telefonnummer?",
     "groupCode": 1
   },
   {
@@ -301,7 +301,7 @@
   {
     "id": 10050,
     "en": "zero one two three four five six seven eight nine ten",
-    "de": "null eins zwei drei vier fünf sechs sieben acht neun (نوین) zehn",
+    "de": "null eins zwei drei vier fünf sechs sieben acht neun zehn",
     "groupCode": 1
   },
   {
@@ -319,7 +319,7 @@
   {
     "id": 10053,
     "en": "Where does that verb stand?",
-    "de": "Wo steht (اِشتت) das Verb (فرب)?",
+    "de": "Wo steht das Verb?",
     "groupCode": 1
   },
   {
@@ -343,13 +343,13 @@
   {
     "id": 10057,
     "en": "\n Switzerland \n Turkey \n",
-    "de": "\n die Schweiz (شووایتز) \n die Türkei (تُرکای) \n",
+    "de": "\n die Schweiz \n die Türkei \n",
     "groupCode": 1
   },
   {
     "id": 10058,
     "en": "Lesson 2",
-    "de": "Leksion (لِکسیون) 2",
+    "de": "Leksion 2",
     "groupCode": 1
   },
   {
@@ -367,7 +367,7 @@
   {
     "id": 10061,
     "en": "I am sorry, I can't now",
-    "de": "Es tut mir (میا) leid (لاید), Ich kann (کَن) jetzt nicht",
+    "de": "Es tut mir leid, Ich kann jetzt nicht",
     "groupCode": 1
   },
   {
@@ -385,7 +385,7 @@
   {
     "id": 10064,
     "en": "Please repeat",
-    "de": "Bitte wiederholen (ویدِهُلِن) Sie!",
+    "de": "Bitte wiederholen Sie!",
     "groupCode": 1
   },
   {

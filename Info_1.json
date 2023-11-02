@@ -14,7 +14,7 @@
   {
     "id": 3,
     "key": "Woher",
-    "value": "وُه",
+    "value": "وُهِ",
     "groupCode": 1
   },
   {
@@ -33,6 +33,204 @@
     "id": 6,
     "key": "Dir",
     "value": "دیا",
+    "groupCode": 1
+  },
+  {
+    "id": 7,
+    "key": "Wiedersehen",
+    "value": "ویدازِاِن",
+    "groupCode": 1
+  },
+  {
+    "id": 8,
+    "key": "Wiederhören",
+    "value": "ویداهُرِن",
+    "groupCode": 1
+  },
+  {
+    "id": 9,
+    "key": "Kein",
+    "value": "کاین",
+    "groupCode": 1
+  },
+  {
+    "id": 10,
+    "key": "Langsam",
+    "value": "لانگ زام",
+    "groupCode": 1
+  },
+  {
+    "id": 11,
+    "key": "Besserung",
+    "value": "بِسرونگ",
+    "groupCode": 1
+  },
+  {
+    "id": 12,
+    "key": "Später",
+    "value": "اِشپِتا",
+    "groupCode": 1
+  },
+  {
+    "id": 13,
+    "key": "Sind",
+    "value": "زیند",
+    "groupCode": 1
+  },
+  {
+    "id": 14,
+    "key": "Wir",
+    "value": "ویا",
+    "groupCode": 1
+  },
+  {
+    "id": 15,
+    "key": "Ihr",
+    "value": "ایا",
+    "groupCode": 1
+  },
+  {
+    "id": 16,
+    "key": "Subjektpronomen",
+    "value": "زوب یکت پرُنومن",
+    "groupCode": 1
+  },
+  {
+    "id": 17,
+    "key": "Bald",
+    "value": "بالت",
+    "groupCode": 1
+  },
+  {
+    "id": 18,
+    "key": "Welche",
+    "value": "ولشِ",
+    "groupCode": 1
+  },
+  {
+    "id": 19,
+    "key": "Personen",
+    "value": "پِرزُنِن",
+    "groupCode": 1
+  },
+  {
+    "id": 20,
+    "key": "Wohnst",
+    "value": "وُنست",
+    "groupCode": 1
+  },
+  {
+    "id": 21,
+    "key": "Jetzt",
+    "value": "یِتست",
+    "groupCode": 1
+  },
+  {
+    "id": 22,
+    "key": "Sagt",
+    "value": "زاگت",
+    "groupCode": 1
+  },
+  {
+    "id": 23,
+    "key": "Ergänzen",
+    "value": "اِرگنتسن",
+    "groupCode": 1
+  },
+  {
+    "id": 24,
+    "key": "Tabelle",
+    "value": "تابِلِ",
+    "groupCode": 1
+  },
+  {
+    "id": 25,
+    "key": "Informationen",
+    "value": "این فرماتسیونِن",
+    "groupCode": 1
+  },
+  {
+    "id": 26,
+    "key": "Objektpronomen",
+    "value": "آبیکت پرونومن",
+    "groupCode": 1
+  },
+  {
+    "id": 27,
+    "key": "Ihn",
+    "value": "این",
+    "groupCode": 1
+  },
+  {
+    "id": 28,
+    "key": "Uns",
+    "value": "اونس",
+    "groupCode": 1
+  },
+  {
+    "id": 29,
+    "key": "Euch",
+    "value": "اویچ",
+    "groupCode": 1
+  },
+  {
+    "id": 30,
+    "key": "Mir",
+    "value": "میا",
+    "groupCode": 1
+  },
+  {
+    "id": 31,
+    "key": "Dir",
+    "value": "دیا",
+    "groupCode": 1
+  },
+  {
+    "id": 32,
+    "key": "Ihm",
+    "value": "ایم",
+    "groupCode": 1
+  },
+  {
+    "id": 33,
+    "key": "Ihr",
+    "value": "ایاِ",
+    "groupCode": 1
+  },
+  {
+    "id": 34,
+    "key": "Ihnen",
+    "value": "اینن",
+    "groupCode": 1
+  },
+  {
+    "id": 35,
+    "key": "Steht",
+    "value": "اِشتت",
+    "groupCode": 1
+  },
+  {
+    "id": 36,
+    "key": "Verb",
+    "value": "فرب",
+    "groupCode": 1
+  },
+  {
+    "id": 37,
+    "key": "Schweiz",
+    "value": "شووایتس",
+    "groupCode": 1
+  },
+  {
+    "id": 38,
+    "key": "Leksion",
+    "value": "لِکسیون",
+    "groupCode": 1
+  },
+  {
+    "id": 39,
+    "key": "Leid",
+    "value": "لایت",
     "groupCode": 1
   }
 ]
