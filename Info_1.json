@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "key": "Tschüss",
+    "value": "چوس",
+    "groupCode": 1
+  },
+  {
+    "id": 2,
+    "key": "Heißt",
+    "value": "هایست",
+    "groupCode": 1
+  },
+  {
+    "id": 3,
+    "key": "Woher",
+    "value": "وُه",
+    "groupCode": 1
+  },
+  {
+    "id": 4,
+    "key": "Wo",
+    "value": "وُ",
+    "groupCode": 1
+  },
+  {
+    "id": 5,
+    "key": "Mir",
+    "value": "میا",
+    "groupCode": 1
+  },
+  {
+    "id": 6,
+    "key": "Dir",
+    "value": "دیا",
+    "groupCode": 1
+  }
+]
