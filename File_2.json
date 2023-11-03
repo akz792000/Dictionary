@@ -457,13 +457,13 @@
   {
     "id": 10076,
     "en": "Tehran is of course expensive",
-    "de": "Tehran ist Natürlich (ناتورلیش) teuer",
+    "de": "Tehran ist Natürlich teuer",
     "groupCode": 1
   },
   {
     "id": 10077,
     "en": "How do you spell that?",
-    "de": "Wie buchstabiert (بوخشدابیرت) man (من) das (داس)?",
+    "de": "Wie buchstabiert man das?",
     "groupCode": 1
   },
   {
@@ -475,56 +475,56 @@
   {
     "id": 10079,
     "en": "This is my pen",
-    "de": "Das ist mein Kuli (کولی)",
+    "de": "Das ist mein Kuli",
     "groupCode": 1
   },
   {
     "id": 10080,
     "en": "I have a pencil",
-    "de": "Ich habe einen Bleistift (بلایشتیفت)",
+    "de": "Ich habe einen Bleistift",
     "groupCode": 1
   },
   {
     "id": 10081,
     "en": "I need an eraser",
-    "de": "Ich brauche (بِرآوخِ) einen Radiergummi (رادیِرگومی)",
+    "de": "Ich brauche einen Radiergummi",
     "groupCode": 1
   },
   {
     "id": 10082,
     "en": "The marker is colorful",
-    "de": "Der Marker (مارکِ) ist bunt (بونت)",
+    "de": "Der Marker ist bunt",
     "groupCode": 1
   },
   {
     "id": 10083,
     "en": "Start your German notebook (formal)",
-    "de": "Beginnen (بی گینن) Sie Ihr (ای یا) Deutschheft",
+    "de": "Beginnen Sie Ihr Deutschheft",
     "groupCode": 1
   },
   {
     "id": 10084,
-    "en": "Names (Eleni) and nouns (Evening, Notebook) one writes in uppercase",
-    "de": "Namen (Eleni) und Nomen (Abend, Heft) schreibt man Groß (گُرُس)",
+    "en": "Names and nouns one writes in uppercase",
+    "de": "Namen und Nomen schreibt man Groß",
     "desc": "The word \"man\" is used in an impersonal sense, meaning \"one\" or \"people\" in English.",
     "groupCode": 1
   },
   {
     "id": 10085,
     "en": "My husband, my son, my daughter and my wife",
-    "de": "Mein Mann (/Mánn/), mein Sohn (/zoːn/), meine Tochter (تُختا) and meine Frau",
+    "de": "Mein Mann, mein Sohn, meine Tochter and meine Frau",
     "groupCode": 1
   },
   {
     "id": 10086,
     "en": "My husband is very smart",
-    "de": "Mein Mann ist sehr (زِا) klug (کولوگ)",
+    "de": "Mein Mann ist sehr klug",
     "groupCode": 1
   },
   {
     "id": 10087,
     "en": "I am very nice",
-    "de": "Ich bin sehr (زِا) nett",
+    "de": "Ich bin sehr nett",
     "groupCode": 1
   },
   {
@@ -537,50 +537,50 @@
   {
     "id": 10089,
     "en": "The task is simple",
-    "de": "Die Aufgabe (آوف گابِ) ist einfach (آین فاخ)",
+    "de": "Die Aufgabe ist einfach",
     "groupCode": 1
   },
   {
     "id": 10090,
     "en": "Hear the telephone conversation",
-    "de": "Hören Sie das Telefongespräch (گِشپِرِش)",
+    "de": "Hören Sie das Telefongespräch",
     "groupCode": 1
   },
   {
     "id": 10091,
     "en": "The telephone number is wrong",
-    "de": "Die Telefonnummer (تلفن نوما) ist falsch (فالش)",
+    "de": "Die Telefonnummer ist falsch",
     "groupCode": 1
   },
   {
     "id": 10092,
     "en": "This is the boss",
-    "de": "Das ist der Chef (شِف)",
+    "de": "Das ist der Chef",
     "groupCode": 1
   },
   {
     "id": 10093,
     "en": "These two apples look the same",
-    "de": "Diese (دیزِ) zwei Äpfel sehen gleich (گلایش)",
+    "de": "Diese zwei Äpfel sehen gleich",
     "desc": "Diese (Feminine) = Dieser (Masculine) = these \n Gleich = same \n",
     "groupCode": 1
   },
   {
     "id": 10094,
     "en": "Ali saves the number",
-    "de": "Ali speichert (اِشپای شرت) die Nummer (نوما)",
+    "de": "Ali speichert die Nummer",
     "groupCode": 1
   },
   {
     "id": 10095,
     "en": "The prefix for munich is 089",
-    "de": "Die Vorwahl (فُروال) für München ist 089",
+    "de": "Die Vorwahl für München ist 089",
     "groupCode": 1
   },
   {
     "id": 10096,
     "en": "Note the telephone numbers",
-    "de": "Notieren (نُتیرِن) Sie die Telefonnummern (تلفن نومان)",
+    "de": "Notieren Sie die Telefonnummern",
     "groupCode": 1
   },
   {
@@ -591,7 +591,7 @@
   },
   {
     "id": 10098,
-    "en": "Hear the numbers(pay)",
+    "en": "Hear the numbers (pay)",
     "de": "Hören Sie die Zahlen",
     "groupCode": 1
   },
@@ -611,19 +611,19 @@
   {
     "id": 10101,
     "en": "Is your email address new? Yes, my email address is now...",
-    "de": "Ist deine E-Mail-Adresse (آدرِسِ) neu (نوی)? Ja, meine E-Mail-Adresse ist jetzt ...",
+    "de": "Ist deine E-Mail-Adresse neu? Ja, meine E-Mail-Adresse ist jetzt ...",
     "groupCode": 1
   },
   {
     "id": 10102,
     "en": "Do you have Skype? Yes, sure! My Skype name is...",
-    "de": "Hast (هاست) du Skype? Ja, klar (کِلا)! Mein Skype-Name ist ...",
+    "de": "Hast du Skype? Ja, klar! Mein Skype-Name ist ...",
     "groupCode": 1
   },
   {
     "id": 10103,
     "en": "Are you on Facebook? No, I'm not on Facebook",
-    "de": "Bist du bei (بای) Facebook? Nein, Ich bin nicht bei Facebook",
+    "de": "Bist du bei Facebook? Nein, Ich bin nicht bei Facebook",
     "groupCode": 1
   },
   {
@@ -635,13 +635,13 @@
   {
     "id": 10105,
     "en": "underscore minus dot at",
-    "de": "Unterstrich (اونتر اِشتریش) Minus (مینوس) Punkt (پونکت) at (اِت)",
+    "de": "Unterstrich Minus Punkt at",
     "groupCode": 1
   },
   {
     "id": 10106,
     "en": "Which of these banks do you know? (informal)",
-    "de": "Welche dieser (دیزا) Banken (بانکن) kennst du?",
+    "de": "Welche dieser Banken kennst du?",
     "groupCode": 1
   },
   {
@@ -653,7 +653,7 @@
   {
     "id": 10108,
     "en": "Read the sentences (formal)",
-    "de": "Lesen (لیزن) Sie die Sätze (ستزِ)",
+    "de": "Lesen Sie die Sätze",
     "groupCode": 1
   },
   {
@@ -665,7 +665,7 @@
   {
     "id": 10110,
     "en": "\n Are you angry? \n No, I'm not angry",
-    "de": "\n Bist du wütend? Nein, \n Ich bin nicht wütend (ووتِند) (نیشت)",
+    "de": "\n Bist du wütend? Nein, \n Ich bin nicht wütend",
     "groupCode": 1
   },
   {
@@ -677,19 +677,19 @@
   {
     "id": 10112,
     "en": "How are you doing? (informal) Thank you, I'm doing well, and you?",
-    "de": "Wie geht es dir (وی گِت اِس دیِ)? Dannke, es geht mir (میا) gut, und dir (دیِ)?",
+    "de": "Wie geht es dir? Dannke, es geht mir gut, und dir?",
     "groupCode": 1
   },
   {
     "id": 10113,
     "en": "How are you doing? (formal)",
-    "de": "Wie geht es Ihnen? (وی گِت اِس اینِن)",
+    "de": "Wie geht es Ihnen?",
     "groupCode": 1
   },
   {
     "id": 10114,
     "en": "I am cold",
-    "de": "Mir ist kalt (میا)",
+    "de": "Mir ist kalt",
     "desc": "In German, the verb \"haben\" (to have) is often used to express physical states and needs, such as hunger, thirst, or pain. So, when you say \"Ich habe Hunger,\" you are literally saying \"I have hunger\" in English.\n\nOn the other hand, the phrase \"Mir ist kalt\" (literally, \"to me is cold\") is used to express sensations such as cold or warmth, rather than physical needs. This construction uses the dative case, which is used to indicate the indirect object of a sentence. In this case, \"mir\" (to me) is the indirect object, and \"kalt\" (cold) is the subject of the sentence.",
     "groupCode": 1
   },
@@ -709,7 +709,7 @@
   {
     "id": 10117,
     "en": "Do you speak Portuguese? No, I speak Spanish. I am spanish",
-    "de": "Sprichst (اشپریشْسْت) du Portugiesisch? (پُرتوگیزیش) Nein, ich spreche Spanisch (اشپانیش). Ich bin Spanier (اشپانیا)",
+    "de": "Sprichst du Portugiesisch? Nein, ich spreche Spanisch. Ich bin Spanier",
     "groupCode": 1
   },
   {
@@ -721,13 +721,13 @@
   {
     "id": 10119,
     "en": "You speak Polish! Yes a little",
-    "de": "Du sprichst Polnisch (پُل نیش)! Ja, ein bisschen (بیسشِن)",
+    "de": "Du sprichst Polnisch! Ja, ein bisschen",
     "groupCode": 1
   },
   {
     "id": 10120,
     "en": "He and she come from Greece",
-    "de": "Er und sie kommen aus Griechenland (گیریشِن لَنت)",
+    "de": "Er und sie kommen aus Griechenland",
     "groupCode": 1
   },
   {
@@ -739,37 +739,37 @@
   {
     "id": 10122,
     "en": "We learn German, but German is a bit difficult",
-    "de": "Wir (ویا) lernen Deutsch, aber Deutsch ist ein bisschen (بیسشِن) schwer (اش وِآ)",
+    "de": "Wir lernen Deutsch, aber Deutsch ist ein bisschen schwer",
     "groupCode": 1
   },
   {
     "id": 10123,
     "en": "My daughter is young",
-    "de": "Meine Tochter (تُختا) ist jung (یونگ)",
+    "de": "Meine Tochter ist jung",
     "groupCode": 1
   },
   {
     "id": 10124,
     "en": "Which languages do you speak? (informal)",
-    "de": "Welche Sprachen (اشپراخن) sprichst (اشپریشْسْت) du?",
+    "de": "Welche Sprachen sprichst du?",
     "groupCode": 1
   },
   {
     "id": 10125,
     "en": "Munich is a city in Germany",
-    "de": "München ist eine Stadt (اِشتات) in Deutschland",
+    "de": "München ist eine Stadt in Deutschland",
     "groupCode": 1
   },
   {
     "id": 10126,
     "en": "Canada is wonderful",
-    "de": "Kanada ist wunderbar (ووندابا)",
+    "de": "Kanada ist wunderbar",
     "groupCode": 1
   },
   {
     "id": 10127,
     "en": "He is Chinese and speaks Chinese and a little German",
-    "de": "Er ist Chinese (چینیزِ) und spricht (اشپریشْت) Chinesisch (چینیزیشِ) und ein bisschen (بیسشِن) Deutsch",
+    "de": "Er ist Chinese und spricht Chinesisch und ein bisschen Deutsch",
     "groupCode": 1
   },
   {
@@ -781,7 +781,7 @@
   {
     "id": 10129,
     "en": "Dana and Pablo are my friends. You also learn German (formal)",
-    "de": "Dana und Pablo sind meine Freunde (فریند). Sie lernen auch (آوخ) Deutsch",
+    "de": "Dana und Pablo sind meine Freunde. Sie lernen auch Deutsch",
     "groupCode": 1
   },
   {
@@ -793,19 +793,19 @@
   {
     "id": 10131,
     "en": "We are 14 people",
-    "de": "Wir (ویا) sind 14 Leute (لُیتِ)",
+    "de": "Wir sind 14 Leute",
     "groupCode": 1
   },
   {
     "id": 10132,
     "en": "Together we are 420 years old",
-    "de": "Zusammen (زوسامن) sind wir (ویا) 420 Jahre alt",
+    "de": "Zusammen sind wir 420 Jahre alt",
     "groupCode": 1
   },
   {
     "id": 10133,
     "en": "Two people come from Spain, one person from Italy",
-    "de": "Zwei Leute (لُیتِ) kommen aus Spanien (اِشپانین), eine Person (پرزُن) aus Italien",
+    "de": "Zwei Leute kommen aus Spanien, eine Person aus Italien",
     "groupCode": 1
   },
   {
@@ -817,7 +817,7 @@
   {
     "id": 10135,
     "en": "The others come from India, Romania, Portugal, the USA and Brazil",
-    "de": "Die anderen (آندرِن) kommen aus Indien (ایندیِن), Rumänien (رُمِنین), Portugal (پُرتوگال), aus den USA und aus Brasilien (برازیلین)",
+    "de": "Die anderen kommen aus Indien, Rumänien, Portugal, aus den USA und aus Brasilien",
     "groupCode": 1
   },
   {
@@ -829,55 +829,55 @@
   {
     "id": 10137,
     "en": "She is 24 years old and saleswoman",
-    "de": "Sie ist 24 Jahre alt und Verkäuferin (فِرکوی فِرین)",
+    "de": "Sie ist 24 Jahre alt und Verkäuferin",
     "groupCode": 1
   },
   {
     "id": 10138,
     "en": "Ali is engineer by profession",
-    "de": "Ali ist Ingenieur (این جِنیوِ) von (فُن) Beruf (بروف)",
+    "de": "Ali ist Ingenieur von Beruf",
     "groupCode": 1
   },
   {
     "id": 10139,
     "en": "Akbar is bus driver, but he is unemployed",
-    "de": "Akbar ist Busfahrer (بوس فارا), aber er ist arbeitslos (آربایتسلُس)",
+    "de": "Akbar ist Busfahrer, aber er ist arbeitslos",
     "groupCode": 1
   },
   {
     "id": 10140,
     "en": "The teacher is called Anne",
-    "de": "Die Lehrerin (لرِرین) heißt Anne",
+    "de": "Die Lehrerin heißt Anne",
     "groupCode": 1
   },
   {
     "id": 10141,
     "en": "Ukrainian \n Russian \n English \n German \n Spanish \n",
-    "de": "Ukrainisch (اوک راینیش) \n Russisch (روسیش) \n Englisch \n Deutsch \n Spanisch (ˈʃpaːnɪʃ) \n",
+    "de": "Ukrainisch \n Russisch \n Englisch \n Deutsch \n Spanisch \n",
     "groupCode": 1
   },
   {
     "id": 10142,
     "en": "She is great",
-    "de": "Sie ist toll (تُل)",
+    "de": "Sie ist toll",
     "groupCode": 1
   },
   {
     "id": 10143,
     "en": "Right or wrong",
-    "de": "Richtig (ریشتیگ) oder Falsch (فالش)",
+    "de": "Richtig oder Falsch",
     "groupCode": 1
   },
   {
     "id": 10144,
     "en": "The food is bland",
-    "de": "Das Essen ist fade (فادِ)",
+    "de": "Das Essen ist fade",
     "groupCode": 1
   },
   {
     "id": 10145,
     "en": "Ali speaks four languages",
-    "de": "Ali spricht (اشپریشْت) vier Sprachen (اشپراخن)",
+    "de": "Ali spricht vier Sprachen",
     "groupCode": 1
   },
   {
@@ -901,45 +901,45 @@
   {
     "id": 10149,
     "en": "Pizza with cheese",
-    "de": "Pizza mit Käse (کِزِ)",
+    "de": "Pizza mit Käse",
     "groupCode": 1
   },
   {
     "id": 10150,
     "en": "The soup is very hot",
-    "de": "Die Suppe (زوپِ) ist sehr (زِا) heiß (هایس)",
+    "de": "Die Suppe ist sehr heiß",
     "groupCode": 1
   },
   {
     "id": 10151,
     "en": "This is a cat",
-    "de": "Das ist eine Katze (کاتزِ)",
+    "de": "Das ist eine Katze",
     "groupCode": 1
   },
   {
     "id": 10152,
     "en": "A bear runs in the forest",
-    "de": "Ein Bär (بِ آ) läuft (لویفت) im (ایم) Wald (والت)",
+    "de": "Ein Bär läuft im Wald",
     "desc": "\n Bär = bear \n läuft = run \n im = in the \n Wald = forest",
     "groupCode": 1
   },
   {
     "id": 10153,
     "en": "Is Vienna big, beautiful and cool?",
-    "de": "Ist Wien (وین) groß (گُرُس), schön und cool?",
+    "de": "Ist Wien groß, schön und cool?",
     "groupCode": 1
   },
   {
     "id": 10154,
     "en": "This is a small dog",
-    "de": "Das ist ein kleiner (کلاینا) Hund (هونت)",
+    "de": "Das ist ein kleiner Hund",
     "desc": "In German, the word \"klein\" (small) is an adjective that modifies the noun \"Hund\" (dog). Adjectives in German change their form based on the gender, number, and case of the noun they are describing. In this case, \"Hund\" is a masculine noun, so the correct form of the adjective is \"kleiner\" to match the gender and case",
     "groupCode": 1
   },
   {
     "id": 10155,
     "en": "Is Germany big or small?",
-    "de": "Ist Deutschland groß (گُرُس) oder klein (کلاین)?",
+    "de": "Ist Deutschland groß oder klein?",
     "groupCode": 1
   },
   {
@@ -951,121 +951,121 @@
   {
     "id": 10157,
     "en": "I eat bread",
-    "de": "Ich esse Brot (بوروت)",
+    "de": "Ich esse Brot",
     "groupCode": 1
   },
   {
     "id": 10158,
     "en": "The Wine or The Water or The Beer or The Tea or The Milk",
-    "de": "der Wein (واین) oder das Wasser oder das Bier (بیا) oder der Tee oder die Milch",
+    "de": "der Wein oder das Wasser oder das Bier oder der Tee oder die Milch",
     "groupCode": 1
   },
   {
     "id": 10159,
     "en": "My daughter is very smart",
-    "de": "Meine Tochter (تُختا) ist sehr (زِا) klug (کولوگ)",
+    "de": "Meine Tochter ist sehr klug",
     "groupCode": 1
   },
   {
     "id": 10160,
     "en": "The food needs more salt",
-    "de": "Das Essen braucht (برآوخت) mehr (مِ آ) Salz (زالت)",
+    "de": "Das Essen braucht mehr Salz",
     "groupCode": 1
   },
   {
     "id": 10161,
     "en": "The schnitzel is very delicious",
-    "de": "Das Schnitzel ist sehr (زِا) lecker (لِکا)",
+    "de": "Das Schnitzel ist sehr lecker",
     "groupCode": 1
   },
   {
     "id": 10162,
     "en": "The weather today is bad",
-    "de": "Das Wetter (وِتا) heute ist schlecht (اش لِشت)",
+    "de": "Das Wetter heute ist schlecht",
     "groupCode": 1
   },
   {
     "id": 10163,
     "en": "Here is the bill",
-    "de": "Hier (هیا) ist die Rechnung (رشنونگ)",
+    "de": "Hier ist die Rechnung",
     "groupCode": 1
   },
   {
     "id": 10164,
     "en": "The pizza is cold",
-    "de": "Die Pizza ist kalt (کالت)",
+    "de": "Die Pizza ist kalt",
     "groupCode": 1
   },
   {
     "id": 10165,
     "en": "Where is the restaurant?",
-    "de": "Wo ist das Restaurant (رِستورانت)?",
+    "de": "Wo ist das Restaurant?",
     "groupCode": 1
   },
   {
     "id": 10166,
     "en": "The food is here",
-    "de": "Das Essen ist hier (هیا)",
+    "de": "Das Essen ist hier",
     "groupCode": 1
   },
   {
     "id": 10167,
     "en": "Here is a sandwich with egg and cheese",
-    "de": "Hier (هیا) ist ein Sandwich (سَندویچ) mit Ei (آی) und Käse (کِزِ)",
+    "de": "Hier ist ein Sandwich mit Ei und Käse",
     "groupCode": 1
   },
   {
     "id": 10168,
     "en": "The sausage is too hot",
-    "de": "Die Wurst (وورست) ist zu heiß (هایس)",
+    "de": "Die Wurst ist zu heiß",
     "groupCode": 1
   },
   {
     "id": 10169,
     "en": "Here is the menu",
-    "de": "Hier (هیا) ist die Speisekarte (اِشپایزِکارتِ)",
+    "de": "Hier ist die Speisekarte",
     "groupCode": 1
   },
   {
     "id": 10170,
     "en": "I come from Iran, speak Persian, and am Persian",
-    "de": "Ich komme aus dem Iran, spreche Persisch (پرزیش) und bin Perser(پرزا)/Perserin(پرزرین)",
+    "de": "Ich komme aus dem Iran, spreche Persisch und bin Perser/Perserin",
     "groupCode": 1
   },
   {
     "id": 10171,
     "en": "I come from France, speak French, and am French",
-    "de": "Ich komme aus Frankreich (فرَن کرایش), spreche Französisch (فرَن زوسیش) und bin Franzose/Französin",
+    "de": "Ich komme aus Frankreich, spreche Französisch und bin Franzose/Französin",
     "groupCode": 1
   },
   {
     "id": 10172,
     "en": "I come from Poland, speak Polish, and am Polish",
-    "de": "Ich komme aus Polen, spreche Polnisch (پُل نیش) und bin Pole/Polin",
+    "de": "Ich komme aus Polen, spreche Polnisch und bin Pole/Polin",
     "groupCode": 1
   },
   {
     "id": 10173,
     "en": "I come from Italy, speak Italian, and am Italian",
-    "de": "Ich komme aus Italien, spreche Italienisch (ایتالییِ نیش) und bin Italiener(ایتالییِ نا)/Italienerin(ایتالییِ نرین)",
+    "de": "Ich komme aus Italien, spreche Italienisch und bin Italiener/Italienerin",
     "groupCode": 1
   },
   {
     "id": 10174,
     "en": "I come from Portugal, speak Portuguese, and am Portuguese",
-    "de": "Ich komme aus Portugal (پُرتوگال), spreche Portugiesisch (پُرتوگیزیش) und bin Portugiese/Portugiesin",
+    "de": "Ich komme aus Portugal, spreche Portugiesisch und bin Portugiese/Portugiesin",
     "groupCode": 1
   },
   {
     "id": 10175,
     "en": "I come from Syria, speak Arabic, and am Syrian",
-    "de": "Ich komme aus Syrien (زُریِن), spreche Arabisch (اَرَبیش) und bin Syrer(زورا)/Syrerin(زوررین)",
+    "de": "Ich komme aus Syrien, spreche Arabisch und bin Syrer/Syrerin",
     "groupCode": 1
   },
   {
     "id": 10176,
     "en": "I come from Greece, speak Greek, and am Greek",
-    "de": "Ich komme aus Griechenland (گریِشِن لَنت), spreche Griechisch und bin Grieche/Griechin",
+    "de": "Ich komme aus Griechenland, spreche Griechisch und bin Grieche/Griechin",
     "groupCode": 1
   },
   {
@@ -1077,43 +1077,43 @@
   {
     "id": 10178,
     "en": "How is it like in Austria?",
-    "de": "Wie ist es in österreich (اُستِرایچ)?",
+    "de": "Wie ist es in österreich?",
     "groupCode": 1
   },
   {
     "id": 10179,
     "en": "Germany is exciting",
-    "de": "Deutschland ist aufregend (آوف ریگند)",
+    "de": "Deutschland ist aufregend",
     "groupCode": 1
   },
   {
     "id": 10180,
     "en": "Romania is also great",
-    "de": "Rumänien (رُمِنیِن) ist auch (آوخ) super",
+    "de": "Rumänien ist auch super",
     "groupCode": 1
   },
   {
     "id": 10181,
     "en": "I drink coffee",
-    "de": "Ich trinke (ترینک) Kaffee",
+    "de": "Ich trinke Kaffee",
     "groupCode": 1
   },
   {
     "id": 10182,
     "en": "My bag is blue",
-    "de": "Meine Tasche (تاشِ) ist blau",
+    "de": "Meine Tasche ist blau",
     "groupCode": 1
   },
   {
     "id": 10183,
     "en": "I wear my jacket",
-    "de": "Ich trage (تراگِ) meine Jacke (یاکِ)",
+    "de": "Ich trage meine Jacke",
     "groupCode": 1
   },
   {
     "id": 10184,
     "en": "Oh no, the taxi isn't here anymore!",
-    "de": "Oh nein, das Taxi ist nicht mehr (مِ آ) hier!",
+    "de": "Oh nein, das Taxi ist nicht mehr hier!",
     "desc": "mehr = more",
     "groupCode": 1
   },
@@ -1126,20 +1126,20 @@
   {
     "id": 10186,
     "en": "Your passport is not in taxi, it is in your hand",
-    "de": "Dein Pass (پَس) ist nicht im Taxi, Das ist in deiner Hand",
+    "de": "Dein Pass ist nicht im Taxi, Das ist in deiner Hand",
     "desc": "\"Im\" is a contraction of \"in dem,\"",
     "groupCode": 1
   },
   {
     "id": 10187,
     "en": "It's not in my jacket",
-    "de": "Es ist nicht in meiner (ماینا) Jacke (یاکِ)",
+    "de": "Es ist nicht in meiner Jacke",
     "groupCode": 1
   },
   {
     "id": 10188,
     "en": "My hobbies are watching TV and listening to music",
-    "de": "Meine Hobbys (هابیز) sind fernsehen (فرن زین) und Musik hören",
+    "de": "Meine Hobbys sind fernsehen und Musik hören",
     "groupCode": 1
   },
   {
@@ -1157,49 +1157,49 @@
   {
     "id": 10191,
     "en": "I am married",
-    "de": "Ich bin verheiratet (فرهای راتت)",
+    "de": "Ich bin verheiratet",
     "groupCode": 1
   },
   {
     "id": 10192,
     "en": "I am single",
-    "de": "Ich bin ledig (لدیگ)",
+    "de": "Ich bin ledig",
     "groupCode": 1
   },
   {
     "id": 10193,
     "en": "He is a teacher",
-    "de": "Er ist Lehrer (لرا)",
+    "de": "Er ist Lehrer",
     "groupCode": 1
   },
   {
     "id": 10194,
     "en": "He is a college student",
-    "de": "Er ist Student (اِشتودنت)",
+    "de": "Er ist Student",
     "groupCode": 1
   },
   {
     "id": 10195,
     "en": "Berlin is also loud",
-    "de": "Berlin ist auch (آوخ) laud",
+    "de": "Berlin ist auch laud",
     "groupCode": 1
   },
   {
     "id": 10196,
     "en": "Is the boy Ilia?",
-    "de": "Ist der Junge (یونگِ) Ilia?",
+    "de": "Ist der Junge Ilia?",
     "groupCode": 1
   },
   {
     "id": 10197,
     "en": "My son is young",
-    "de": "Mein Sohn (/zoːn/) ist jung (یونگ)",
+    "de": "Mein Sohn ist jung",
     "groupCode": 1
   },
   {
     "id": 10198,
     "en": "Where is the mouse? the elephant? the bear? the dog? the owl? the cat?",
-    "de": "Wo ist die Maus? der Elefant? der Bär (بِآ)? der Hund? die Eule (اُیلِ)? die Katze?",
+    "de": "Wo ist die Maus? der Elefant? der Bär? der Hund? die Eule? die Katze?",
     "groupCode": 1
   },
   {
@@ -1229,7 +1229,7 @@
   {
     "id": 10203,
     "en": "خواهش میکنم",
-    "de": "Gern geschehen (گِشین)",
+    "de": "Gern geschehen",
     "groupCode": 1
   },
   {
@@ -1242,7 +1242,7 @@
   {
     "id": 10205,
     "en": "An elegant woman comes to Ali",
-    "de": "Eine elegante (اِلِگانتِ) Frau kommt zu Ali",
+    "de": "Eine elegante Frau kommt zu Ali",
     "groupCode": 1
   },
   {
@@ -1266,73 +1266,73 @@
   {
     "id": 10209,
     "en": "A man needs a doctor now",
-    "de": "Ein Mann braucht (بِرآوخت) jetzt einen Arzt",
+    "de": "Ein Mann braucht jetzt einen Arzt",
     "groupCode": 1
   },
   {
     "id": 10210,
     "en": "He's over there! where the milk is",
-    "de": "Er ist da drüben (دُروبن)! wo die Milch ist",
+    "de": "Er ist da drüben! wo die Milch ist",
     "groupCode": 1
   },
   {
     "id": 10211,
     "en": "Fast! The man is very sick",
-    "de": "Schnell (اِشنل)! Der Mann ist sehr krank (کرانک)",
+    "de": "Schnell! Der Mann ist sehr krank",
     "groupCode": 1
   },
   {
     "id": 10212,
     "en": "Ali sees a woman. He runs to her",
-    "de": "Ali sieht (زیت) eine Frau. Er läuft (لویفت) zu ihr",
+    "de": "Ali sieht eine Frau. Er läuft zu ihr",
     "groupCode": 1
   },
   {
     "id": 10213,
     "en": "Which numbers are hidden?",
-    "de": "Welche Zahlen sind verdeckt? (فردِکت)",
+    "de": "Welche Zahlen sind verdeckt?",
     "groupCode": 1
   },
   {
     "id": 10214,
     "en": "She is a college student",
-    "de": "Sie ist Studentin (اِشتودنتین)",
+    "de": "Sie ist Studentin",
     "groupCode": 1
   },
   {
     "id": 10215,
     "en": "My sister is a teacher",
-    "de": "Meine Schwester ist Lehrerin (لیرِرین)",
+    "de": "Meine Schwester ist Lehrerin",
     "groupCode": 1
   },
   {
     "id": 10216,
     "en": "Your mother is a doctor",
-    "de": "Deine Mutter ist Ärztin (اِرتسین)",
+    "de": "Deine Mutter ist Ärztin",
     "groupCode": 1
   },
   {
     "id": 10217,
     "en": "Cool, is your work stressful?",
-    "de": "Cool, ist deine Arbeit stressig (اِشترسیگ)?",
+    "de": "Cool, ist deine Arbeit stressig?",
     "groupCode": 1
   },
   {
     "id": 10218,
     "en": "Is he a waiter?",
-    "de": "Ist er Kellner (کِلنا)?",
+    "de": "Ist er Kellner?",
     "groupCode": 1
   },
   {
     "id": 10219,
     "en": "My father is also a doctor",
-    "de": "Mein Vater ist auch Arzt (آرتس)",
+    "de": "Mein Vater ist auch Arzt",
     "groupCode": 1
   },
   {
     "id": 10220,
     "en": "My work is interesting but stressful",
-    "de": "Meine Arbeit ist interessant (این ترِسانت) aber stressig (اِشترسیگ)",
+    "de": "Meine Arbeit ist interessant aber stressig",
     "groupCode": 1
   },
   {
@@ -1344,13 +1344,13 @@
   {
     "id": 10222,
     "en": "Are you a teacher?",
-    "de": "Bist du Lehrer (لیرا)?",
+    "de": "Bist du Lehrer?",
     "groupCode": 1
   },
   {
     "id": 10223,
     "en": "Is your girlfriend an actress?",
-    "de": "Ist deine Freundin (فرویندین) Schauspielerin (شآاُش پی لرین)?",
+    "de": "Ist deine Freundin Schauspielerin?",
     "groupCode": 1
   },
   {
@@ -1374,19 +1374,19 @@
   {
     "id": 10227,
     "en": "She is a professor",
-    "de": "Sie ist Professorin (پرُفِسُرین)",
+    "de": "Sie ist Professorin",
     "groupCode": 1
   },
   {
     "id": 10228,
     "en": "He is a professor",
-    "de": "Er ist Professor (پرُفِسُر)",
+    "de": "Er ist Professor",
     "groupCode": 1
   },
   {
     "id": 10229,
     "en": "The man is an actor",
-    "de": "Der Mann ist Schauspieler (شآاُش پی لا)",
+    "de": "Der Mann ist Schauspieler",
     "groupCode": 1
   },
   {
@@ -1398,19 +1398,19 @@
   {
     "id": 10231,
     "en": "The woman is a waitress",
-    "de": "Die Frau ist Kellnerin (کِلنرین)",
+    "de": "Die Frau ist Kellnerin",
     "groupCode": 1
   },
   {
     "id": 10232,
     "en": "I need a new jacket",
-    "de": "Ich brauche eine neue (نُیِ) Jacke",
+    "de": "Ich brauche eine neue Jacke",
     "groupCode": 1
   },
   {
     "id": 10233,
     "en": "He's in the department store",
-    "de": "Er ist im Kaufhaus (کآاُف هاس)",
+    "de": "Er ist im Kaufhaus",
     "desc": "\"Er ist im\": This is a contraction of \"Er ist in dem,\" which means \"He is in the.\" You would use this form when you want to specify that someone is in a specific place, such as a building or a room. For example, \"Er ist im Haus\" means \"He is in the house.\"\n\n\"Er ist in\": This is a more general use of \"in\" without the definite article \"dem.\" You would use this form when you want to say that someone is in a location without specifying \"the\" place. For example, \"Er ist in der Stadt\" means \"He is in the city.\"",
     "groupCode": 1
   },
@@ -1423,43 +1423,43 @@
   {
     "id": 10235,
     "en": "I need help",
-    "de": "Ich brauche Hilfe (هیلفِ)",
+    "de": "Ich brauche Hilfe",
     "groupCode": 1
   },
   {
     "id": 10236,
     "en": "Do you like the red jacket here? (formal)",
-    "de": "Mögen (مُگن) Sie die rote (رُتِ) Jacke hier?",
+    "de": "Mögen Sie die rote Jacke hier?",
     "groupCode": 1
   },
   {
     "id": 10237,
     "en": "Do you like that black jacket over there? (formal)",
-    "de": "Mögen (مُگن) sie die schwarze (شووارتزِ) Jacke da drüben (دُروبن)?",
+    "de": "Mögen sie die schwarze Jacke da drüben?",
     "groupCode": 1
   },
   {
     "id": 10238,
     "en": "The black jacket is very warm and cheap",
-    "de": "Die schwarze (شووارتزِ) Jacke ist sehr warm und billig (بیلیگ)",
+    "de": "Die schwarze Jacke ist sehr warm und billig",
     "groupCode": 1
   },
   {
     "id": 10239,
     "en": "The red jacket is perfect for you",
-    "de": "Die rote (رُتِ) Jacke ist perfekt für Sie",
+    "de": "Die rote Jacke ist perfekt für Sie",
     "groupCode": 1
   },
   {
     "id": 10240,
     "en": "Wonderful, I take the red jacket",
-    "de": "Wunderbar, ich nehme (نِ مِ) die rote Jacke",
+    "de": "Wunderbar, ich nehme die rote Jacke",
     "groupCode": 1
   },
   {
     "id": 10241,
     "en": "You do your job very well (formal)",
-    "de": "Sie machen Ihre (ایرِ) Arbeit sehr gut",
+    "de": "Sie machen Ihre Arbeit sehr gut",
     "groupCode": 1
   },
   {
@@ -1477,37 +1477,37 @@
   {
     "id": 10244,
     "en": "Keep driving",
-    "de": "Fahr (فار) weiter (وایتا)",
+    "de": "Fahr weiter",
     "groupCode": 1
   },
   {
     "id": 10245,
     "en": "That's great",
-    "de": "Das ist großartig (گرُ ساتیگ)",
+    "de": "Das ist großartig",
     "groupCode": 1
   },
   {
     "id": 10246,
     "en": "Let's speak German",
-    "de": "Lass (لاس) uns (اُنس) deutsch sprechen",
+    "de": "Lass uns deutsch sprechen",
     "groupCode": 1
   },
   {
     "id": 10247,
     "en": "He is the new school student",
-    "de": "Er ist der neuer Schüler (شولا)",
+    "de": "Er ist der neuer Schüler",
     "groupCode": 1
   },
   {
     "id": 10248,
     "en": "They drive to school by bus",
-    "de": "Sie fahren mit dem Bus in die Schule (شولِ)",
+    "de": "Sie fahren mit dem Bus in die Schule",
     "groupCode": 1
   },
   {
     "id": 10249,
     "en": "There is a new student in our school",
-    "de": "In unserer (اُنزرا) Schule (شولِ) ist ein neuer (نُیا) Schüler (شولا)",
+    "de": "In unserer Schule ist ein neuer Schüler",
     "groupCode": 1
   },
   {
@@ -1519,37 +1519,37 @@
   {
     "id": 10251,
     "en": "He has very nice shoes",
-    "de": "Er hat sehr (زیا) schöne Schuhe (شواِ)",
+    "de": "Er hat sehr schöne Schuhe",
     "groupCode": 1
   },
   {
     "id": 10252,
     "en": "She loves your shoes",
-    "de": "Sie liebt deine schuhe (شواِ)",
+    "de": "Sie liebt deine schuhe",
     "groupCode": 1
   },
   {
     "id": 10253,
     "en": "I never cook here",
-    "de": "Ich koche hier nie(کُخِ)",
+    "de": "Ich koche hier nie",
     "groupCode": 1
   },
   {
     "id": 10254,
     "en": "I swim",
-    "de": "Ich schwimme (شوویمِ)",
+    "de": "Ich schwimme",
     "groupCode": 1
   },
   {
     "id": 10255,
     "en": "I never paint",
-    "de": "Ich male nie (نی)",
+    "de": "Ich male nie",
     "groupCode": 1
   },
   {
     "id": 10256,
     "en": "He paints sometimes",
-    "de": "Er malt manchmal (مانش مال)",
+    "de": "Er malt manchmal",
     "groupCode": 1
   },
   {
@@ -1561,7 +1561,7 @@
   {
     "id": 10258,
     "en": "Do you swim sometimes?",
-    "de": "Schwimmst (شوویمست) du manchmal? (مانش مال)",
+    "de": "Schwimmst du manchmal?",
     "groupCode": 1
   },
   {
@@ -1579,7 +1579,7 @@
   {
     "id": 10261,
     "en": "Do you also swim often?",
-    "de": "Schwimmst (شوویمست) du auch oft (اُفت)?",
+    "de": "Schwimmst du auch oft?",
     "groupCode": 1
   },
   {
@@ -1591,7 +1591,7 @@
   {
     "id": 10263,
     "en": "I am full",
-    "de": "Ich bin satt (زات)",
+    "de": "Ich bin satt",
     "groupCode": 1
   },
   {
@@ -1603,7 +1603,7 @@
   {
     "id": 10265,
     "en": "Ilia sits in front of the television",
-    "de": "Ilia sitzt (زیتسْت) vor (فُر) dem Fernseher (فرن زی یا)",
+    "de": "Ilia sitzt vor dem Fernseher",
     "groupCode": 1
   },
   {
@@ -1615,43 +1615,43 @@
   {
     "id": 10267,
     "en": "The football game is very exciting",
-    "de": "Das Fußballspiel (فوس بال) ist sehr aufregend",
+    "de": "Das Fußballspiel ist sehr aufregend",
     "groupCode": 1
   },
   {
     "id": 10268,
     "en": "I really need money",
-    "de": "Ich brauche wirklich (ویرکلیش) Geld (گلت)",
+    "de": "Ich brauche wirklich Geld",
     "groupCode": 1
   },
   {
     "id": 10269,
     "en": "I would like to order a pizza",
-    "de": "Ich möchte eine Pizza bestellen (بشتِلِن)",
+    "de": "Ich möchte eine Pizza bestellen",
     "groupCode": 1
   },
   {
     "id": 10270,
     "en": "I want a new video game",
-    "de": "Ich möchte ein neues (نُیِس) Videospiel (ویدیو اشپیل)",
+    "de": "Ich möchte ein neues Videospiel",
     "groupCode": 1
   },
   {
     "id": 10271,
     "en": "I don't go to school on Monday",
-    "de": "Ich gehe am (اَم) Montag nicht in die Schule",
+    "de": "Ich gehe am Montag nicht in die Schule",
     "groupCode": 1
   },
   {
     "id": 10272,
     "en": "That's easy",
-    "de": "Das ist einfach (آین فاخ)",
+    "de": "Das ist einfach",
     "groupCode": 1
   },
   {
     "id": 10273,
     "en": "I go to the department store now",
-    "de": "Ich gehe jetzt in das Kaufhaus (کآاُف هاس)\"",
+    "de": "Ich gehe jetzt in das Kaufhaus\"",
     "desc": "Kaufhaus = Very big store",
     "groupCode": 1
   },
@@ -1670,19 +1670,19 @@
   {
     "id": 10276,
     "en": "I often play piano",
-    "de": "Ich spiele oft (آفت) Klavier (کلاویا)",
+    "de": "Ich spiele oft Klavier",
     "groupCode": 1
   },
   {
     "id": 10277,
     "en": "I often play with my cat",
-    "de": "Ich spiele oft (آفت) mit meine Katze",
+    "de": "Ich spiele oft mit meine Katze",
     "groupCode": 1
   },
   {
     "id": 10278,
     "en": "You never play chess",
-    "de": "Du spielst nie (نی) Schach (شاخ)",
+    "de": "Du spielst nie Schach",
     "groupCode": 1
   },
   {
@@ -1700,13 +1700,13 @@
   {
     "id": 10281,
     "en": "He plays chess very well",
-    "de": "Er spielt sehr gut Schach (شاخ)",
+    "de": "Er spielt sehr gut Schach",
     "groupCode": 1
   },
   {
     "id": 10282,
     "en": "My father, my brother, my mother and my sister",
-    "de": "Mein Vater (فاتا), mein bruder (بورودا), meine Mutter (موتا) und meine Schwester (اشوِستا)",
+    "de": "Mein Vater, mein bruder, meine Mutter und meine Schwester",
     "groupCode": 1
   },
   {
@@ -1846,25 +1846,25 @@
   {
     "id": 10305,
     "en": "That is cheap",
-    "de": "Das ist billig (بیلیگ)",
+    "de": "Das ist billig",
     "groupCode": 1
   },
   {
     "id": 10306,
     "en": "That is expensive",
-    "de": "Das ist teuer (تُیا)",
+    "de": "Das ist teuer",
     "groupCode": 1
   },
   {
     "id": 10307,
     "en": "How much is it?",
-    "de": "Wie viel kostet das? (وی فیل کُستت داس)",
+    "de": "Wie viel kostet das?",
     "groupCode": 1
   },
   {
     "id": 10308,
     "en": "It costs one euro",
-    "de": "Das kostet einen Euro (اُیقُ)",
+    "de": "Das kostet einen Euro",
     "groupCode": 1
   },
   {
@@ -1882,7 +1882,7 @@
   {
     "id": 10311,
     "en": "I see the man",
-    "de": "Ich sehe den Mann (زِ اِ)",
+    "de": "Ich sehe den Mann",
     "groupCode": 1
   },
   {

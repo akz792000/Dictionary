@@ -232,5 +232,593 @@
     "key": "Leid",
     "value": "لایت",
     "groupCode": 1
+  },
+  {
+    "id": 40,
+    "key": "Natürlich",
+    "value": "ناتورلیش",
+    "groupCode": 1
+  },
+  {
+    "id": 41,
+    "key": "Buchstabiert",
+    "value": "بوخشدابیرت",
+    "groupCode": 1
+  },
+  {
+    "id": 42,
+    "key": "Bleistift",
+    "value": "بلایشتیفت",
+    "groupCode": 1
+  },
+  {
+    "id": 43,
+    "key": "Brauche",
+    "value": "بِرآوخِ",
+    "groupCode": 1
+  },
+  {
+    "id": 44,
+    "key": "Mann",
+    "value": "Mánn",
+    "groupCode": 1
+  },
+  {
+    "id": 45,
+    "key": "Sohn",
+    "value": "zoːn",
+    "groupCode": 1
+  },
+  {
+    "id": 46,
+    "key": "Sehr",
+    "value": "زِآ",
+    "groupCode": 1
+  },
+  {
+    "id": 47,
+    "key": "Einfach",
+    "value": "آین فاخ",
+    "groupCode": 1
+  },
+  {
+    "id": 48,
+    "key": "Telefongespräch",
+    "value": "گِشپِرِش",
+    "groupCode": 1
+  },
+  {
+    "id": 49,
+    "key": "Diese",
+    "value": "دیزِ",
+    "groupCode": 1
+  },
+  {
+    "id": 50,
+    "key": "Vorwahl",
+    "value": "فُروال",
+    "groupCode": 1
+  },
+  {
+    "id": 51,
+    "key": "Neu",
+    "value": "نوی",
+    "groupCode": 1
+  },
+  {
+    "id": 52,
+    "key": "Klar",
+    "value": "کِلا",
+    "groupCode": 1
+  },
+  {
+    "id": 53,
+    "key": "Unterstrich",
+    "value": "اونتر اِشتریش",
+    "groupCode": 1
+  },
+  {
+    "id": 54,
+    "key": "At",
+    "value": "اِت",
+    "groupCode": 1
+  },
+  {
+    "id": 55,
+    "key": "Dieser",
+    "value": "دیزا",
+    "groupCode": 1
+  },
+  {
+    "id": 56,
+    "key": "Sätze",
+    "value": "ستزِ",
+    "groupCode": 1
+  },
+  {
+    "id": 57,
+    "key": "Wütend",
+    "value": "ووتِند",
+    "groupCode": 1
+  },
+  {
+    "id": 58,
+    "key": "Portugiesisch",
+    "value": "پُرتوگیزیش",
+    "groupCode": 1
+  },
+  {
+    "id": 59,
+    "key": "Spanisch",
+    "value": "اشپانیش",
+    "groupCode": 1
+  },
+  {
+    "id": 60,
+    "key": "Spanier",
+    "value": "اشپانیا",
+    "groupCode": 1
+  },
+  {
+    "id": 61,
+    "key": "Bisschen",
+    "value": "بیسشِن",
+    "groupCode": 1
+  },
+  {
+    "id": 62,
+    "key": "Griechenland",
+    "value": "گیریشِن لَنت",
+    "groupCode": 1
+  },
+  {
+    "id": 63,
+    "key": "Schwer",
+    "value": "اش وِآ",
+    "groupCode": 1
+  },
+  {
+    "id": 64,
+    "key": "Stadt",
+    "value": "اِشتات",
+    "groupCode": 1
+  },
+  {
+    "id": 65,
+    "key": "Wunderbar",
+    "value": "ووندابا",
+    "groupCode": 1
+  },
+  {
+    "id": 66,
+    "key": "Chinese",
+    "value": "چینیزِ",
+    "groupCode": 1
+  },
+  {
+    "id": 67,
+    "key": "Chinesisch",
+    "value": "چینیزیشِ",
+    "groupCode": 1
+  },
+  {
+    "id": 68,
+    "key": "Freunde",
+    "value": "فریند",
+    "groupCode": 1
+  },
+  {
+    "id": 69,
+    "key": "Auch",
+    "value": "آوخ",
+    "groupCode": 1
+  },
+  {
+    "id": 70,
+    "key": "Leute",
+    "value": "لُیتِ",
+    "groupCode": 1
+  },
+  {
+    "id": 71,
+    "key": "Zusammen",
+    "value": "زوسامن",
+    "groupCode": 1
+  },
+  {
+    "id": 72,
+    "key": "Spanien",
+    "value": "اِشپانین",
+    "groupCode": 1
+  },
+  {
+    "id": 73,
+    "key": "Anderen",
+    "value": "آندرِن",
+    "groupCode": 1
+  },
+  {
+    "id": 74,
+    "key": "Indien",
+    "value": "ایندیِن",
+    "groupCode": 1
+  },
+  {
+    "id": 75,
+    "key": "Rumänien",
+    "value": "رُمِنین",
+    "groupCode": 1
+  },
+  {
+    "id": 76,
+    "key": "Portugal",
+    "value": "پُرتوگال",
+    "groupCode": 1
+  },
+  {
+    "id": 77,
+    "key": "Brasilien",
+    "value": "برازیلین",
+    "groupCode": 1
+  },
+  {
+    "id": 78,
+    "key": "Verkäuferin",
+    "value": "فِرکوی فِرین",
+    "groupCode": 1
+  },
+  {
+    "id": 79,
+    "key": "Ingenieur",
+    "value": "این جِنیوآ",
+    "groupCode": 1
+  },
+  {
+    "id": 80,
+    "key": "Von",
+    "value": "فُن",
+    "groupCode": 1
+  },
+  {
+    "id": 81,
+    "key": "Beruf",
+    "value": "بروف",
+    "groupCode": 1
+  },
+  {
+    "id": 82,
+    "key": "Busfahrer",
+    "value": "بوس فارا",
+    "groupCode": 1
+  },
+  {
+    "id": 83,
+    "key": "Ukrainisch",
+    "value": "اوک راینیش",
+    "groupCode": 1
+  },
+  {
+    "id": 84,
+    "key": "Russisch",
+    "value": "روسیش",
+    "groupCode": 1
+  },
+  {
+    "id": 85,
+    "key": "Spanisch",
+    "value": "ˈʃpaːnɪʃ",
+    "groupCode": 1
+  },
+  {
+    "id": 86,
+    "key": "Toll",
+    "value": "تُل",
+    "groupCode": 1
+  },
+  {
+    "id": 87,
+    "key": "Richtig",
+    "value": "ریشتیگ",
+    "groupCode": 1
+  },
+  {
+    "id": 88,
+    "key": "Fade",
+    "value": "فادِ",
+    "groupCode": 1
+  },
+  {
+    "id": 89,
+    "key": "Sprachen",
+    "value": "اشپراخن",
+    "groupCode": 1
+  },
+  {
+    "id": 90,
+    "key": "Suppe",
+    "value": "زوپِ",
+    "groupCode": 1
+  },
+  {
+    "id": 91,
+    "key": "Bär",
+    "value": "بِ آ",
+    "groupCode": 1
+  },
+  {
+    "id": 92,
+    "key": "Läuft",
+    "value": "لویفت",
+    "groupCode": 1
+  },
+  {
+    "id": 93,
+    "key": "Wald",
+    "value": "والت",
+    "groupCode": 1
+  },
+  {
+    "id": 94,
+    "key": "Wien",
+    "value": "وین",
+    "groupCode": 1
+  },
+  {
+    "id": 95,
+    "key": "Kleiner",
+    "value": "کلاینا",
+    "groupCode": 1
+  },
+  {
+    "id": 96,
+    "key": "Hund",
+    "value": "هونت",
+    "groupCode": 1
+  },
+  {
+    "id": 97,
+    "key": "Wein",
+    "value": "واین",
+    "groupCode": 1
+  },
+  {
+    "id": 98,
+    "key": "Bier",
+    "value": "بیا",
+    "groupCode": 1
+  },
+  {
+    "id": 99,
+    "key": "Mehr",
+    "value": "مِ آ",
+    "groupCode": 1
+  },
+  {
+    "id": 100,
+    "key": "Schlecht",
+    "value": "اش لِشت",
+    "groupCode": 1
+  },
+  {
+    "id": 101,
+    "key": "Wurst",
+    "value": "وورست",
+    "groupCode": 1
+  },
+  {
+    "id": 102,
+    "key": "Speisekarte",
+    "value": "اِشپایزِکارتِ",
+    "groupCode": 1
+  },
+  {
+    "id": 103,
+    "key": "Frankreich",
+    "value": "فرَن کرایش",
+    "groupCode": 1
+  },
+  {
+    "id": 104,
+    "key": "Französisch",
+    "value": "فرَن زوسیش",
+    "groupCode": 1
+  },
+  {
+    "id": 105,
+    "key": "Italienisch",
+    "value": "ایتالییِ نیش",
+    "groupCode": 1
+  },
+  {
+    "id": 106,
+    "key": "Syrer",
+    "value": "زورا",
+    "groupCode": 1
+  },
+  {
+    "id": 107,
+    "key": "Pass",
+    "value": "پَس",
+    "groupCode": 1
+  },
+  {
+    "id": 108,
+    "key": "Hobbys",
+    "value": "هابیز",
+    "groupCode": 1
+  },
+  {
+    "id": 109,
+    "key": "Verheiratet",
+    "value": "فرهای راتت",
+    "groupCode": 1
+  },
+  {
+    "id": 110,
+    "key": "Ledig",
+    "value": "لدیگ",
+    "groupCode": 1
+  },
+  {
+    "id": 111,
+    "key": "geschehen",
+    "value": "گِشِ اِن",
+    "groupCode": 1
+  },
+  {
+    "id": 112,
+    "key": "Drüben",
+    "value": "دُروبن",
+    "groupCode": 1
+  },
+  {
+    "id": 113,
+    "key": "Schnell",
+    "value": "اِشنل",
+    "groupCode": 1
+  },
+  {
+    "id": 114,
+    "key": "Läuft",
+    "value": "لویفت",
+    "groupCode": 1
+  },
+  {
+    "id": 115,
+    "key": "Verdeckt",
+    "value": "فردِکت",
+    "groupCode": 1
+  },
+  {
+    "id": 116,
+    "key": "Stressig",
+    "value": "اِشترسیگ",
+    "groupCode": 1
+  },
+  {
+    "id": 117,
+    "key": "Interessant",
+    "value": "این ترِسانت",
+    "groupCode": 1
+  },
+  {
+    "id": 118,
+    "key": "Schauspielerin",
+    "value": "شآاُش پی لرین",
+    "groupCode": 1
+  },
+  {
+    "id": 119,
+    "key": "Professorin",
+    "value": "پرُفِسُرین",
+    "groupCode": 1
+  },
+  {
+    "id": 120,
+    "key": "Kaufhaus",
+    "value": "کآاُف هاس",
+    "groupCode": 1
+  },
+  {
+    "id": 121,
+    "key": "Rote",
+    "value": "رُتِ",
+    "groupCode": 1
+  },
+  {
+    "id": 122,
+    "key": "Schwarze",
+    "value": "شووارتزِ",
+    "groupCode": 1
+  },
+  {
+    "id": 123,
+    "key": "Billig",
+    "value": "بیلیگ",
+    "groupCode": 1
+  },
+  {
+    "id": 124,
+    "key": "Ihre",
+    "value": "ایرِ",
+    "groupCode": 1
+  },
+  {
+    "id": 125,
+    "key": "Fahr",
+    "value": "فار",
+    "groupCode": 1
+  },
+  {
+    "id": 126,
+    "key": "Weiter",
+    "value": "وایتا",
+    "groupCode": 1
+  },
+  {
+    "id": 127,
+    "key": "Großartig",
+    "value": "گرُ ساتیگ",
+    "groupCode": 1
+  },
+  {
+    "id": 128,
+    "key": "Schüler",
+    "value": "شولا",
+    "groupCode": 1
+  },
+  {
+    "id": 129,
+    "key": "Schule",
+    "value": "شولِ",
+    "groupCode": 1
+  },
+  {
+    "id": 130,
+    "key": "Unserer",
+    "value": "اُنزرا",
+    "groupCode": 1
+  },
+  {
+    "id": 131,
+    "key": "Schuhe",
+    "value": "شواِ",
+    "groupCode": 1
+  },
+  {
+    "id": 132,
+    "key": "Oft",
+    "value": "óft",
+    "groupCode": 1
+  },
+  {
+    "id": 133,
+    "key": "Satt",
+    "value": "زات",
+    "groupCode": 1
+  },
+  {
+    "id": 134,
+    "key": "Vor",
+    "value": "فُر",
+    "groupCode": 1
+  },
+  {
+    "id": 135,
+    "key": "Fußballspiel",
+    "value": "فوس بال",
+    "groupCode": 1
+  },
+  {
+    "id": 136,
+    "key": "Wirklich",
+    "value": "ویرکلیش",
+    "groupCode": 1
+  },
+  {
+    "id": 137,
+    "key": "Schach",
+    "value": "شاخ",
+    "groupCode": 1
   }
 ]
