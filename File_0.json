@@ -5700,7 +5700,7 @@
   },
   {
     "id": 941,
-    "fa": "هر کاری کردم, برای خانواده انجام دادم",
+    "fa": "هر چه کردم, برای خانواده کردم",
     "en": "Whatever I did, I did for the family",
     "groupCode": 0
   },
@@ -8188,7 +8188,7 @@
   },
   {
     "id": 1350,
-    "fa": "من از آن آگاه هستم",
+    "fa": "من ازش آگاه هستم",
     "en": "I'm aware of it",
     "groupCode": 0
   },
@@ -10546,7 +10546,7 @@
   },
   {
     "id": 1741,
-    "fa": "چرا آنها بدون برنامه ریزی مناسب پروژه را شروع کرده بودند؟",
+    "fa": "چرا (فرضی) آنها بدون برنامه ریزی مناسب پروژه را شروع کرده بودند؟",
     "en": "Why would they have started the project without proper planning?",
     "desc": "This sentence uses the modal verb \"would\" to express a hypothetical or speculative aspect. It implies that you are considering a possible scenario where they may have started the project without proper planning and are questioning why they would do that.",
     "groupCode": 0
@@ -11626,8 +11626,8 @@
   },
   {
     "id": 1919,
-    "fa": "این گزارش می آید کمتر از دو ماه قبل از دیدار رهبران جهان برای اجلاس جهانی",
-    "en": "The report comes less than two month before world leaders meet for the world summit",
+    "fa": "این گزارش می آید کمتر از دو ماه قبل از رهبران جهان برای اجلاس جهانی دیدار می کنند",
+    "en": "The report comes less than two months before world leaders meet for the world summit",
     "groupCode": 0
   },
   {
@@ -11867,7 +11867,7 @@
   },
   {
     "id": 1959,
-    "fa": "بایدن اعلام کرد ایده جدید برای کم کردن وابستگی اروپا از انرژی روسیه",
+    "fa": "بایدن اعلام می کند ایده جدید برای کم کردن وابستگی اروپا از انرژی روسیه",
     "en": "Biden announces new plan to wean europe off russian energy",
     "groupCode": 0
   },
@@ -11891,7 +11891,7 @@
   },
   {
     "id": 1963,
-    "fa": "او نیش خورد توسط زنبور. چقدر بدشانش",
+    "fa": "او (مرد) نیش خورد توسط زنبور. چقدر بدشانش",
     "en": "He got stung by a bee. How unfortunate",
     "groupCode": 0
   },
@@ -12007,13 +12007,13 @@
   },
   {
     "id": 1982,
-    "fa": "دوقلوها تمام عمر با هم پیوند دارند",
+    "fa": "دوقلوها دارند یک پیوند مادام العمر",
     "en": "Twins have a lifelong bond",
     "groupCode": 0
   },
   {
     "id": 1983,
-    "fa": "این بسیار(به طور وحشتناکی) جذاب بود",
+    "fa": "آن بسیار(به طور وحشتناکی) جذاب بود",
     "en": "That was freaking awesome",
     "groupCode": 0
   },

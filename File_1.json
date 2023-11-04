@@ -1,7 +1,7 @@
 [
   {
     "id": 2001,
-    "fa": "عالی می شد اگر می تونستم یک کورس انجام بدم بدون اینکه خیلی از کارم دور باشم",
+    "fa": "بهتر می شد اگر می تونستم یک کورس انجام بدم بدون اینکه خیلی از کارم دور باشم",
     "en": "It would be better if I could do a course without too much time away from work",
     "groupCode": 0
   },
@@ -85,7 +85,7 @@
   },
   {
     "id": 2015,
-    "fa": "من همیشه ایده های خلاقانه می یابم",
+    "fa": "من همیشه  می یام با ایده های خلاقانه",
     "en": "I always come up with creative ideas",
     "groupCode": 0
   },
@@ -181,7 +181,7 @@
   },
   {
     "id": 2031,
-    "fa": "آدم ربایان تقاضای باج کردند",
+    "fa": "بچه دزدها تقاضای باج کردند",
     "en": "The kidnappers demanded a ransom (/ˈrænsəm/)",
     "groupCode": 0
   },
@@ -229,13 +229,13 @@
   },
   {
     "id": 2039,
-    "fa": "به چند دستمال اضافی هم نیاز دارم",
+    "fa": "من همچنین به چند دستمال اضافی نیاز دارم",
     "en": "I also need some extra napkins",
     "groupCode": 0
   },
   {
     "id": 2040,
-    "fa": "می توانم مقداری سس اضافی نیز بگیرم؟",
+    "fa": "من می توانم همچنین مقداری سس اضافی بگیرم؟",
     "en": "Can I also get some extra sauce?",
     "groupCode": 0
   },
@@ -247,7 +247,7 @@
   },
   {
     "id": 2042,
-    "fa": "احمقانه ترین کاری که در بچگی انجام دادی چیست؟",
+    "fa": "احمقانه ترین چیزی که انجام دادی به عنوان یک بچه چیست؟",
     "en": "What's the dumbest thing you did as a kid?",
     "groupCode": 0
   },
@@ -295,7 +295,7 @@
   },
   {
     "id": 2050,
-    "fa": "از شما خواسته خواهد شد هویت خود را تأیید کنید",
+    "fa": "از شما خواسته خواهد شد تأیید بدبد هویت خود را",
     "en": "You will be asked to give proof of your identity",
     "groupCode": 0
   }
