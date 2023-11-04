@@ -391,37 +391,37 @@
   {
     "id": 10065,
     "en": "Do you speak German or English? (formal)",
-    "de": "Sprechen (اشپرشِن) Sie Deutsch oder Englisch?",
+    "de": "Sprechen Sie Deutsch oder Englisch?",
     "groupCode": 1
   },
   {
     "id": 10066,
     "en": "I speak no German? English?",
-    "de": "Ich spreche (اشپرِشِ) kein Deutsch? Englisch?",
+    "de": "Ich spreche kein Deutsch? Englisch?",
     "groupCode": 1
   },
   {
     "id": 10067,
     "en": "I speak a bit of German? English?",
-    "de": "Ich spreche (اشپرِشِ) ein bisschen Deutsch? Englisch?",
+    "de": "Ich spreche ein bisschen Deutsch? Englisch?",
     "groupCode": 1
   },
   {
     "id": 10068,
     "en": "I don't understand",
-    "de": "Ich verstehe (فرشتیِ) nicht (نیشت)",
+    "de": "Ich verstehe nicht",
     "groupCode": 1
   },
   {
     "id": 10069,
     "en": "I don't know",
-    "de": "Ich weiß (وایس) nicht (نیچت)",
+    "de": "Ich weiß nicht",
     "groupCode": 1
   },
   {
     "id": 10070,
     "en": "No idea",
-    "de": "Keine (کاینِ) Ahnung (آنونگ)",
+    "de": "Keine Ahnung",
     "groupCode": 1
   },
   {
@@ -433,13 +433,13 @@
   {
     "id": 10072,
     "en": "Yes / No / may be",
-    "de": "Ja (یا) / Nein (ناین) / Vielleicht (فی لایشت)",
+    "de": "Ja / Nein / Vielleicht",
     "groupCode": 1
   },
   {
     "id": 10073,
     "en": "Complete the dialog (formal)",
-    "de": "Ergänzen (اِرگن) Sie die Dialog (دیالُگ)",
+    "de": "Ergänzen Sie die Dialog",
     "groupCode": 1
   },
   {
@@ -451,7 +451,7 @@
   {
     "id": 10075,
     "en": "Write sentences (formal)",
-    "de": "Schreiben Sie die Sätze (ستزِ)",
+    "de": "Schreiben Sie die Sätze",
     "groupCode": 1
   },
   {

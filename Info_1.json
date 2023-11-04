@@ -2,91 +2,91 @@
   {
     "id": 1,
     "key": "Tschüss",
-    "value": "چوس",
+    "value": "[ˈtʃʏs]",
     "groupCode": 1
   },
   {
     "id": 2,
     "key": "Heißt",
-    "value": "هایست",
+    "value": "[ˈhaɪ̯st]",
     "groupCode": 1
   },
   {
     "id": 3,
     "key": "Woher",
-    "value": "/جدا /وُهیا/ ولی در جمله /وُهِ",
+    "value": "[voˈheːɐ̯]",
     "groupCode": 1
   },
   {
     "id": 4,
     "key": "Wo",
-    "value": "وُ",
+    "value": "[ˈvoː]",
     "groupCode": 1
   },
   {
     "id": 5,
     "key": "Mir",
-    "value": "میا",
+    "value": "[ˈmiːɐ̯]",
     "groupCode": 1
   },
   {
     "id": 6,
     "key": "Dir",
-    "value": "دیا",
+    "value": "[ˈdiːɐ̯]",
     "groupCode": 1
   },
   {
     "id": 7,
     "key": "Wiedersehen",
-    "value": "ویدازیِ اِن",
+    "value": "[ˈviːdɐzeːən]",
     "groupCode": 1
   },
   {
     "id": 8,
     "key": "Wiederhören",
-    "value": "ویداهُرِن",
+    "value": "[ˈviːdɐhøːrən]",
     "groupCode": 1
   },
   {
     "id": 9,
     "key": "Kein",
-    "value": "کاین",
+    "value": "[kaen]",
     "groupCode": 1
   },
   {
     "id": 10,
     "key": "Langsam",
-    "value": "لانگ زام",
+    "value": "[ˈlaŋzaːm]",
     "groupCode": 1
   },
   {
     "id": 11,
     "key": "Besserung",
-    "value": "بِسرونگ",
+    "value": "[ˈbɛsərʊŋ]",
     "groupCode": 1
   },
   {
     "id": 12,
     "key": "Später",
-    "value": "اِشپِتا",
+    "value": "[ˈʃpɛːtɐ]",
     "groupCode": 1
   },
   {
     "id": 13,
     "key": "Sind",
-    "value": "زیند",
+    "value": "[zɪnt]",
     "groupCode": 1
   },
   {
     "id": 14,
     "key": "Wir",
-    "value": "ویا",
+    "value": "[viːɐ̯]",
     "groupCode": 1
   },
   {
     "id": 15,
     "key": "Ihr",
-    "value": "ایا",
+    "value": "[iːɐ̯]",
     "groupCode": 1
   },
   {
@@ -98,7 +98,7 @@
   {
     "id": 17,
     "key": "Bald",
-    "value": "بالت",
+    "value": "[balt]",
     "groupCode": 1
   },
   {
@@ -110,19 +110,19 @@
   {
     "id": 19,
     "key": "Personen",
-    "value": "پِرزُنِن",
+    "value": "[pɛʳˈzoːn]",
     "groupCode": 1
   },
   {
     "id": 20,
-    "key": "Wohnst",
-    "value": "وُنست",
+    "key": "Wohnen",
+    "value": "[ˈvoːnən]",
     "groupCode": 1
   },
   {
     "id": 21,
     "key": "Jetzt",
-    "value": "یِتست",
+    "value": "ˈjɛtst",
     "groupCode": 1
   },
   {
@@ -134,19 +134,19 @@
   {
     "id": 23,
     "key": "Ergänzen",
-    "value": "اِرگنتسن",
+    "value": "[ɐˈgɛnʦn̩]",
     "groupCode": 1
   },
   {
     "id": 24,
     "key": "Tabelle",
-    "value": "تابِلِ",
+    "value": "[taˈbɛlə]",
     "groupCode": 1
   },
   {
     "id": 25,
     "key": "Informationen",
-    "value": "این فرماتسیونِن",
+    "value": "[ɪnfɔʳmaˈʦi̯oːn]",
     "groupCode": 1
   },
   {
@@ -158,67 +158,67 @@
   {
     "id": 27,
     "key": "Ihn",
-    "value": "این",
+    "value": "[iːn]",
     "groupCode": 1
   },
   {
     "id": 28,
     "key": "Uns",
-    "value": "اونس",
+    "value": "[ʊns]",
     "groupCode": 1
   },
   {
     "id": 29,
     "key": "Euch",
-    "value": "اویچ",
+    "value": "[ɔøç]",
     "groupCode": 1
   },
   {
     "id": 30,
     "key": "Mir",
-    "value": "میا",
+    "value": "[miːɐ̯]",
     "groupCode": 1
   },
   {
     "id": 31,
     "key": "Dir",
-    "value": "دیا",
+    "value": "[diːɐ̯]",
     "groupCode": 1
   },
   {
     "id": 32,
     "key": "Ihm",
-    "value": "ایم",
+    "value": "[iːm]",
     "groupCode": 1
   },
   {
     "id": 33,
-    "key": "Ihr",
-    "value": "ایاِ",
+    "key": "Sprechen",
+    "value": "[ˈʃprɛçn̩]",
     "groupCode": 1
   },
   {
     "id": 34,
     "key": "Ihnen",
-    "value": "اینن",
+    "value": "[ˈiːnən]",
     "groupCode": 1
   },
   {
     "id": 35,
     "key": "Steht",
-    "value": "اِشتت",
+    "value": "[ˈʃteːət]",
     "groupCode": 1
   },
   {
     "id": 36,
     "key": "Verb",
-    "value": "فرب",
+    "value": "[vɛʳp] ",
     "groupCode": 1
   },
   {
     "id": 37,
     "key": "Schweiz",
-    "value": "شووایتس",
+    "value": "[ʃvaeʦ]",
     "groupCode": 1
   },
   {
@@ -230,13 +230,13 @@
   {
     "id": 39,
     "key": "Leid",
-    "value": "لایت",
+    "value": "[laet]",
     "groupCode": 1
   },
   {
     "id": 40,
     "key": "Natürlich",
-    "value": "ناتورلیش",
+    "value": "[naˈtyːɐ̯lɪç]",
     "groupCode": 1
   },
   {
@@ -248,19 +248,19 @@
   {
     "id": 42,
     "key": "Bleistift",
-    "value": "بلایشتیفت",
+    "value": "[ˈblaeʃtɪft]",
     "groupCode": 1
   },
   {
     "id": 43,
-    "key": "Brauche",
-    "value": "بِرآوخِ",
+    "key": "Brauchen",
+    "value": "[ˈbraoxn̩]",
     "groupCode": 1
   },
   {
     "id": 44,
     "key": "Mann",
-    "value": "Mánn",
+    "value": "[man]",
     "groupCode": 1
   },
   {
@@ -272,13 +272,13 @@
   {
     "id": 46,
     "key": "Sehr",
-    "value": "زِآ",
+    "value": "[zeːɐ̯]",
     "groupCode": 1
   },
   {
     "id": 47,
     "key": "Einfach",
-    "value": "آین فاخ",
+    "value": "[ˈaenfax]",
     "groupCode": 1
   },
   {
@@ -290,25 +290,25 @@
   {
     "id": 49,
     "key": "Diese",
-    "value": "دیزِ",
+    "value": "[ˈdiːzə]",
     "groupCode": 1
   },
   {
     "id": 50,
     "key": "Vorwahl",
-    "value": "فُروال",
+    "value": "[ˈfoːɐ̯vaːl]",
     "groupCode": 1
   },
   {
     "id": 51,
     "key": "Neu",
-    "value": "نوی",
+    "value": "[nɔø]",
     "groupCode": 1
   },
   {
     "id": 52,
     "key": "Klar",
-    "value": "کِلا",
+    "value": "[klaːʳ]",
     "groupCode": 1
   },
   {
@@ -320,13 +320,13 @@
   {
     "id": 54,
     "key": "At",
-    "value": "اِت",
+    "value": "ات",
     "groupCode": 1
   },
   {
     "id": 55,
     "key": "Dieser",
-    "value": "دیزا",
+    "value": "[ˈdiːzɐ]",
     "groupCode": 1
   },
   {
@@ -374,7 +374,7 @@
   {
     "id": 63,
     "key": "Schwer",
-    "value": "اش وِآ",
+    "value": "[ʃveːɐ̯]",
     "groupCode": 1
   },
   {
@@ -386,7 +386,7 @@
   {
     "id": 65,
     "key": "Wunderbar",
-    "value": "ووندابا",
+    "value": "[ˈvʊndɐbaːʳ]",
     "groupCode": 1
   },
   {
@@ -434,7 +434,7 @@
   {
     "id": 73,
     "key": "Anderen",
-    "value": "آندرِن",
+    "value": "[ˈandərən]",
     "groupCode": 1
   },
   {
@@ -542,19 +542,19 @@
   {
     "id": 91,
     "key": "Bär",
-    "value": "بِ آ",
+    "value": "[bɛːɐ̯]",
     "groupCode": 1
   },
   {
     "id": 92,
-    "key": "Läuft",
-    "value": "لویفت",
+    "key": "Läufen",
+    "value": "[ˈlaofn̩]",
     "groupCode": 1
   },
   {
     "id": 93,
     "key": "Wald",
-    "value": "والت",
+    "value": "[valt]",
     "groupCode": 1
   },
   {
@@ -584,13 +584,13 @@
   {
     "id": 98,
     "key": "Bier",
-    "value": "بیا",
+    "value": "[biːɐ̯] ",
     "groupCode": 1
   },
   {
     "id": 99,
     "key": "Mehr",
-    "value": "مِ آ",
+    "value": "[meːɐ̯]",
     "groupCode": 1
   },
   {
@@ -656,31 +656,31 @@
   {
     "id": 110,
     "key": "Ledig",
-    "value": "لدیگ",
+    "value": "[ˈleːdɪç]",
     "groupCode": 1
   },
   {
     "id": 111,
     "key": "geschehen",
-    "value": "گِشِ اِن",
+    "value": "[gəˈʃeːən]",
     "groupCode": 1
   },
   {
     "id": 112,
     "key": "Drüben",
-    "value": "دُروبن",
+    "value": "[ˈdryːbm̩]",
     "groupCode": 1
   },
   {
     "id": 113,
     "key": "Schnell",
-    "value": "اِشنل",
+    "value": "[ʃnɛl]",
     "groupCode": 1
   },
   {
     "id": 114,
     "key": "Läuft",
-    "value": "لویفت",
+    "value": "[ˈlaoft̩]",
     "groupCode": 1
   },
   {
@@ -692,13 +692,13 @@
   {
     "id": 116,
     "key": "Stressig",
-    "value": "اِشترسیگ",
+    "value": "[ˈʃtrɛsɪç]",
     "groupCode": 1
   },
   {
     "id": 117,
     "key": "Interessant",
-    "value": "این ترِسانت",
+    "value": "[ɪntərɛˈsant]",
     "groupCode": 1
   },
   {
@@ -728,19 +728,19 @@
   {
     "id": 122,
     "key": "Schwarze",
-    "value": "شووارتزِ",
+    "value": "[ʃvaʳʦ]",
     "groupCode": 1
   },
   {
     "id": 123,
     "key": "Billig",
-    "value": "بیلیگ",
+    "value": "[ˈbɪlɪç]",
     "groupCode": 1
   },
   {
     "id": 124,
     "key": "Ihre",
-    "value": "ایرِ",
+    "value": "[ˈiːrə]",
     "groupCode": 1
   },
   {
@@ -776,7 +776,7 @@
   {
     "id": 130,
     "key": "Unserer",
-    "value": "اُنزرا",
+    "value": "[ˈʊnzərɐ]",
     "groupCode": 1
   },
   {
@@ -788,7 +788,7 @@
   {
     "id": 132,
     "key": "Oft",
-    "value": "óft",
+    "value": "[ɔft]",
     "groupCode": 1
   },
   {
@@ -800,7 +800,7 @@
   {
     "id": 134,
     "key": "Vor",
-    "value": "فُر",
+    "value": "[foːɐ̯]",
     "groupCode": 1
   },
   {
@@ -819,6 +819,12 @@
     "id": 137,
     "key": "Schach",
     "value": "شاخ",
+    "groupCode": 1
+  },
+  {
+    "id": 138,
+    "key": "Verstehe",
+    "value": "[fɐˈʃteːə]",
     "groupCode": 1
   }
 ]
