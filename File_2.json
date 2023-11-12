@@ -2061,57 +2061,33 @@
     "groupCode": 1
   },
   {
-    "id": ,
+    "id": 10340,
     "en": "What is your address then? (informal)",
     "de": "Wie ist Deine Adresse denn?",
     "groupCode": 1
   },
   {
-    "id": ,
+    "id": 10341,
     "en": "What is your address then? (formal)",
     "de": "Wie ist Ihre Adresse denn?",
     "groupCode": 1
   },
   {
-    "id": ,
+    "id": 10342,
     "en": "My address is ..., I live on Alistraße",
     "de": "Meine Adresse ist ..., Ich wohne in der Alistraße",
     "groupCode": 1
   },
   {
-    "id": ,
+    "id": 10343,
     "en": "My house number is 24",
     "de": "Meine Hausnummer ist 24",
     "groupCode": 1
   },
   {
-    "id": ,
+    "id": 10344,
     "en": "The zip code is 11111",
     "de": "Die Postleitzahl ist 11111",
-    "groupCode": 1
-  },
-  {
-    "id": ,
-    "en": "",
-    "de": "",
-    "groupCode": 1
-  },
-  {
-    "id": ,
-    "en": "",
-    "de": "",
-    "groupCode": 1
-  },
-  {
-    "id": ,
-    "en": "",
-    "de": "",
-    "groupCode": 1
-  },
-  {
-    "id": ,
-    "en": "",
-    "de": "",
     "groupCode": 1
   }
 ]
