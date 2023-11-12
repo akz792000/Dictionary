@@ -80,13 +80,13 @@
   {
     "id": 14,
     "key": "Wir",
-    "value": "[viːɐ̯]",
+    "value": "ویِ",
     "groupCode": 1
   },
   {
     "id": 15,
     "key": "Ihr",
-    "value": "[iːɐ̯]",
+    "value": "ایِ",
     "groupCode": 1
   },
   {
@@ -272,7 +272,7 @@
   {
     "id": 46,
     "key": "Sehr",
-    "value": "[zeːɐ̯]",
+    "value": "زِآ",
     "groupCode": 1
   },
   {
@@ -590,7 +590,7 @@
   {
     "id": 99,
     "key": "Mehr",
-    "value": "[meːɐ̯]",
+    "value": "مِ آ",
     "groupCode": 1
   },
   {
@@ -825,6 +825,30 @@
     "id": 138,
     "key": "Verstehe",
     "value": "[fɐˈʃteːə]",
+    "groupCode": 1
+  },
+  {
+    "id": 139,
+    "key": "Vegetarier",
+    "value": "ویگیتاریا",
+    "groupCode": 1
+  },
+  {
+    "id": 140,
+    "key": "Sondern",
+    "value": "زون دان",
+    "groupCode": 1
+  },
+  {
+    "id": 141,
+    "key": "Name",
+    "value": "Artikel: der",
+    "groupCode": 1
+  },
+  {
+    "id": 141,
+    "key": "Straße",
+    "value": "Artikel: die",
     "groupCode": 1
   }
 ]

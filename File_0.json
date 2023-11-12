@@ -3431,8 +3431,8 @@
   },
   {
     "id": 569,
-    "fa": "من به رختخواب می روم",
-    "en": "I am off to bed",
+    "fa": "داری کجا میری؟ من به رختخواب می روم",
+    "en": "Where are you off to? I am off to bed",
     "groupCode": 0
   },
   {
@@ -6430,7 +6430,7 @@
   },
   {
     "id": 1060,
-    "fa": "میدونستم کمکش (مرد) نمیکنی",
+    "fa": "میدونستم تو (فرضی) کمکش (مرد) نمیکنی",
     "en": "I knew you would not help him",
     "groupCode": 0
   },
@@ -10800,6 +10800,7 @@
     "id": 1782,
     "fa": "من اولین پرسشنامه امنیتی خود را پر کردم",
     "en": "I filled out my first security questionnaire",
+    "desc": "\"Fill in\" usually means completing specific parts, while \"fill out\" suggests completing an entire form or document.",
     "groupCode": 0
   },
   {
@@ -11097,8 +11098,8 @@
   },
   {
     "id": 1831,
-    "fa": "ازت بیزارم",
-    "en": "I loathe you",
+    "fa": "من اکنون از آنها متنفرم و آنها را بی ارزش می دانم",
+    "en": "I loathe them now and I find them trashy",
     "groupCode": 0
   },
   {
@@ -12064,7 +12065,7 @@
   {
     "id": 1991,
     "fa": "شامپانزه های وحشی در زیستگاه طبیعی خود به زیبایی در میان درختان تاب می خورند",
-    "en": "Wild chimps in their natural habitat swing gracefully through the trees",
+    "en": "Wild chimps in their natural habitat are swing gracefully through the trees",
     "groupCode": 0
   },
   {
@@ -12105,8 +12106,8 @@
   },
   {
     "id": 1998,
-    "fa": "بیایید با هم ملاقات کنیم و در مورد این طرح بحث کنیم و در جزئیات به عقب و جلو برویم",
-    "en": "Let's meet and discuss the plan, going back and forth on the details",
+    "fa": "من توی اتاق رفتم و برگشتم, منتظر خبر بودم",
+    "en": "I paced back and forth in the room, waiting for the news",
     "groupCode": 0
   },
   {

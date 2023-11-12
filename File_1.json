@@ -1,7 +1,7 @@
 [
   {
     "id": 2001,
-    "fa": "بهتر می شد اگر می تونستم یک کورس انجام بدم بدون اینکه خیلی از کارم دور باشم",
+    "fa": "بهتر می شد (فرضی) اگر می تونستم یک کورس انجام بدم بدون اینکه خیلی از کار دور باشم",
     "en": "It would be better if I could do a course without too much time away from work",
     "groupCode": 0
   },
@@ -211,7 +211,7 @@
   },
   {
     "id": 2036,
-    "fa": "تا چه حدی او (مرد) میتواند برود؟",
+    "fa": "او (مرد) چقدر میتواند پیش برود؟",
     "en": "How far can he get?",
     "groupCode": 0
   },
@@ -259,7 +259,7 @@
   },
   {
     "id": 2044,
-    "fa": "من پسرم را به مهد کودک (مراقبت در روز) رساندم",
+    "fa": "من پسرم را در مهد کودک (مراقبت در روز) پیاده می کنم",
     "en": "I drop off my son at a daycare",
     "groupCode": 0
   },
@@ -283,8 +283,8 @@
   },
   {
     "id": 2048,
-    "fa": "یا الان یا هیچوقت",
-    "en": "It is now or never",
+    "fa": "الان یا هیچوقت",
+    "en": "Now or never",
     "groupCode": 0
   },
   {
@@ -295,8 +295,490 @@
   },
   {
     "id": 2050,
-    "fa": "از شما خواسته خواهد شد تأیید بدبد هویت خود را",
+    "fa": "از شما خواسته خواهد شد تأیید بدید هویت خود را",
     "en": "You will be asked to give proof of your identity",
+    "groupCode": 0
+  },
+  {
+    "id": 2051,
+    "fa": "تو خیلی احمقی. دیوانه چو دیوانه ببیند خوشش آید",
+    "en": "You're such an idiot. It takes one to know me",
+    "groupCode": 0
+  },
+  {
+    "id": 2052,
+    "fa": "اشکالی نداره منم باهات بیام",
+    "en": "Mind if I tag along?",
+    "groupCode": 0
+  },
+  {
+    "id": 2053,
+    "fa": "منو تو رودربایستی ننداز",
+    "en": "Don't put me on the spot",
+    "groupCode": 0
+  },
+  {
+    "id": 2054,
+    "fa": "اگر غذای ناسالم دارید, شما ممکن است بگیرید مسمومیت غذایی",
+    "en": "If you have unhealthy food, you might get food poisoning",
+    "groupCode": 0
+  },
+  {
+    "id": 2055,
+    "fa": "وجدانم راحته",
+    "en": "My conscience is clear",
+    "groupCode": 0
+  },
+  {
+    "id": 2056,
+    "fa": "من به اندازه کافی برای این مزخرفات (گه) پول نمی گیرم",
+    "en": "I don't get paid enough for this shit",
+    "groupCode": 0
+  },
+  {
+    "id": 2057,
+    "fa": "یک سکه را بنداز تا مشخص شود آیا شیر میاد یا خط",
+    "en": "Flip a coin to determine if it lands heads or tails",
+    "groupCode": 0
+  },
+  {
+    "id": 2058,
+    "fa": "مشغول صحبت کردن با تلفن بودم",
+    "en": "I was busy talking on the phone",
+    "groupCode": 0
+  },
+  {
+    "id": 2059,
+    "fa": "به او (مرد) اجازه نده روت تاثیر (بد) بزاره",
+    "en": "Don't let him get to you",
+    "groupCode": 0
+  },
+  {
+    "id": 2060,
+    "fa": "خیلی زود جشن نگیرید وقتی در برابر من هستی",
+    "en": "Do not celebrate too early when you're up against me",
+    "groupCode": 0
+  },
+  {
+    "id": 2061,
+    "fa": "کاری که او انجام داد وحشتناک بود و هیچ توجیهی برای آن وجود ندارد",
+    "en": "What he did was horrific and there's no justification for it",
+    "groupCode": 0
+  },
+  {
+    "id": 2062,
+    "fa": "اتفاقی که برای آنها می افتد غیرقابل تحمل است",
+    "en": "What's happening to them is unbearable",
+    "groupCode": 0
+  },
+  {
+    "id": 2063,
+    "fa": "اگر می خواهید مشکل را حل کنید، باید تمام حقیقت را در نظر بگیرید",
+    "en": "If you wanna solve the problem, you have to take in the whole truth",
+    "groupCode": 0
+  },
+  {
+    "id": 2064,
+    "fa": "همه ما تا حدی شریک جرم هستیم",
+    "en": "All of us are complicit to some degree",
+    "groupCode": 0
+  },
+  {
+    "id": 2065,
+    "fa": "کاسه ای زیر نیم کاسست (یک اتفاق مشکوک در حال رخ دادن است)",
+    "en": "There's some monkey business going on",
+    "groupCode": 0
+  },
+  {
+    "id": 2066,
+    "fa": "کفش هایتان را در بیاورید و جیب هایتان را خالی کنید",
+    "en": "Take off your shoes and empty your pockets",
+    "groupCode": 0
+  },
+  {
+    "id": 2067,
+    "fa": "کیف خود را روی تسمه نقاله قرار دهید",
+    "en": "Put your bag on the conveyor belt",
+    "groupCode": 0
+  },
+  {
+    "id": 2068,
+    "fa": "از طریق فلزیاب عبور کنید",
+    "en": "Walk through the metal detector",
+    "groupCode": 0
+  },
+  {
+    "id": 2069,
+    "fa": "کارت پرواز خود را دریافت کنید سپس سوار هواپیما بشید",
+    "en": "Get your boarding pass then board the plane",
+    "groupCode": 0
+  },
+  {
+    "id": 2070,
+    "fa": "صندلی خود را پیدا کنید و کیف دستی خود را در قسمت بالای سر جا کنید",
+    "en": "Find your seat and stow your carry-on bag in the overhead compartment",
+    "groupCode": 0
+  },
+  {
+    "id": 2071,
+    "fa": "کمربند ایمنی خود را ببندید",
+    "en": "Fasten your seat belt",
+    "groupCode": 0
+  },
+  {
+    "id": 2072,
+    "fa": "در دروازه چک این کنید",
+    "en": "Check in at the gate",
+    "groupCode": 0
+  },
+  {
+    "id": 2073,
+    "fa": "غرفه ماشین کرایه کجاست؟",
+    "en": "Where's the rental car booth?",
+    "groupCode": 0
+  },
+  {
+    "id": 2074,
+    "fa": "چه اندازه ماشینی (فرضی) دوست دارید؟",
+    "en": "What size car would you like?",
+    "groupCode": 0
+  },
+  {
+    "id": 2075,
+    "fa": "چه مدت به ماشین نیاز خواهید داشت؟",
+    "en": "How long will you be needing the car?",
+    "groupCode": 0
+  },
+  {
+    "id": 2076,
+    "fa": "چه کسی قصد داره راننده شود؟",
+    "en": "Who is gonna be the driver?",
+    "groupCode": 0
+  },
+  {
+    "id": 2077,
+    "fa": "قبل از بازگرداندن ماشین باید آن را پر کنید",
+    "en": "You should fill it up before you return the car",
+    "groupCode": 0
+  },
+  {
+    "id": 2078,
+    "fa": "چگونه می خواهید به آنجا برسید؟ من اتوبوس می گیرم",
+    "en": "How are you gonna get there? I'm gonna take the bus",
+    "groupCode": 0
+  },
+  {
+    "id": 2079,
+    "fa": "پس از یک پرواز طولانی، برای جمع آوری چمدان های خود به سمت تحویل بار رفتیم",
+    "en": "After a long flight, we headed to the baggage claim to collect our suitcases",
+    "groupCode": 0
+  },
+  {
+    "id": 2080,
+    "fa": "نزدیک تسمه نقاله چمدان منتظر ماندم تا چمدانم برسد",
+    "en": "I waited near the baggage carousel for my luggage to arrive",
+    "groupCode": 0
+  },
+  {
+    "id": 2081,
+    "fa": "کارمند فرودگاه گاری بار را با چرخ از روی آسفالت عبور داد",
+    "en": "The airport employee wheeled the baggage cart across the tarmac",
+    "groupCode": 0
+  },
+  {
+    "id": 2082,
+    "fa": "کت و شلوارم را برای سفر در یک کاور لباس جمع کردم",
+    "en": "I packed my suit in a garment bag for the trip",
+    "groupCode": 0
+  },
+  {
+    "id": 2083,
+    "fa": "من قبل از فرود فرم اظهارنامه گمرکی را پر کردم",
+    "en": "I filled out the customs declaration form before landing",
+    "groupCode": 0
+  },
+  {
+    "id": 2084,
+    "fa": "مهماندار در طول پرواز نوشیدنی سرو کرد",
+    "en": "The flight attendant served drinks during the flight",
+    "groupCode": 0
+  },
+  {
+    "id": 2085,
+    "fa": "من خوشحال نیستم، منم نیستم، منم نیستم",
+    "en": "I am not happy, neither (nor) am I, I am not either",
+    "groupCode": 0
+  },
+  {
+    "id": 2086,
+    "fa": "من خوشحالم، منم همینطور",
+    "en": "I am happy, so am I",
+    "groupCode": 0
+  },
+  {
+    "id": 2087,
+    "fa": "این خاطرات با گذشت زمان کم نخواهد شد",
+    "en": "These memories will not be diminished by time",
+    "groupCode": 0
+  },
+  {
+    "id": 2088,
+    "fa": "هیچ ماشینی وجود ندارد",
+    "en": "\n 1.There aren't any cars \n 2.There are no cars",
+    "groupCode": 0
+  },
+  {
+    "id": 2089,
+    "fa": "باکتری باعث تخمیر می شود",
+    "en": "Bacteria causes fermentation",
+    "groupCode": 0
+  },
+  {
+    "id": 2090,
+    "fa": "ما داشتیم صحبت می کردیم ولی تلفن قطع شد",
+    "en": "We were just talking but the line cut out",
+    "desc": "Only moments ago, we were talking when the line disconnected",
+    "groupCode": 0
+  },
+  {
+    "id": 2091,
+    "fa": "پدر من یک صدای زیبای آواز خواندن داشت",
+    "en": "My father had a beautiful singing voice",
+    "groupCode": 0
+  },
+  {
+    "id": 2092,
+    "fa": "یک بوی زننده-نامطبوع اینجا است",
+    "en": "There's a nasty smell in here",
+    "groupCode": 0
+  },
+  {
+    "id": 2093,
+    "fa": "بدن شروع به پوسیدگی کرده بود",
+    "en": "The body had begun to decay",
+    "groupCode": 0
+  },
+  {
+    "id": 2094,
+    "fa": "سیاستی که تورم را از بین می برد",
+    "en": "A policy that would eliminate inflation",
+    "groupCode": 0
+  },
+  {
+    "id": 2095,
+    "fa": "او (زن) تحت یک پیوند ریه موفقیت آمیز ماه پیش قرار گرفت",
+    "en": "She underwent a successful lung transplant last month",
+    "groupCode": 0
+  },
+  {
+    "id": 2096,
+    "fa": "شما می توانید چتر من را بردارید، اما لطفا آن را برگردانید",
+    "en": "You can take my umbrella, but please bring it back",
+    "groupCode": 0
+  },
+  {
+    "id": 2097,
+    "fa": "به دلایلی مبهم، او (مرد) نتوانست حضور پیدا کند",
+    "en": "For some obscure reasons, he failed to turn up",
+    "groupCode": 0
+  },
+  {
+    "id": 2098,
+    "fa": "هنگام تمیز کردن اتاقم با یک عکس قدیمی مواجه شدم",
+    "en": "I came across an old photo while cleaning my room",
+    "groupCode": 0
+  },
+  {
+    "id": 2099,
+    "fa": "تو همیشه درباره حشرات چندش میشی",
+    "en": "You have always been squeamish about bugs",
+    "groupCode": 0
+  },
+  {
+    "id": 2100,
+    "fa": "سعی کنید مصرف کنید یک آرام بخش",
+    "en": "Try taking a tranquilizer",
+    "groupCode": 0
+  },
+  {
+    "id": 2101,
+    "fa": "من دوست دارم موها را کوتاه کنم",
+    "en": "I'd like to have a haircut",
+    "groupCode": 0
+  },
+  {
+    "id": 2102,
+    "fa": "به فرض که اخبار درست باشد، بعدش چی",
+    "en": "Suppose the news is true, what then",
+    "groupCode": 0
+  },
+  {
+    "id": 2103,
+    "fa": "من بی خیالتم",
+    "en": "I am over you",
+    "desc": "I have no feelings about you",
+    "groupCode": 0
+  },
+  {
+    "id": 2104,
+    "fa": "از روی قصد انجام ندادم",
+    "en": "I didn't do it intentionally",
+    "groupCode": 0
+  },
+  {
+    "id": 2105,
+    "fa": "من شک دارم در مورد کاری که برای شما انجام می دهند",
+    "en": "I'm a sceptic on what they do for you",
+    "groupCode": 0
+  },
+  {
+    "id": 2106,
+    "fa": "من خراب و داغونم",
+    "en": "I'm a wreck",
+    "groupCode": 0
+  },
+  {
+    "id": 2107,
+    "fa": "من هرگز امنیت خانواده ام را به خطر نمی اندازم",
+    "en": "I would never compromise the safety of my family",
+    "groupCode": 0
+  },
+  {
+    "id": 2108,
+    "fa": "بچه را پوشک کن",
+    "en": "Put a diaper on a baby",
+    "groupCode": 0
+  },
+  {
+    "id": 2109,
+    "fa": "تحملم کن",
+    "en": "Bear with me",
+    "groupCode": 0
+  },
+  {
+    "id": 2110,
+    "fa": "نام مرا با صدای بلند صدا نزنید",
+    "en": "Do not call out my name",
+    "groupCode": 0
+  },
+  {
+    "id": 2111,
+    "fa": "من شما را با دقت تماشا می کنم",
+    "en": "I am watching you intently",
+    "groupCode": 0
+  },
+  {
+    "id": 2112,
+    "fa": "چانه می زدم سر قیمت گلدان عتیقه ",
+    "en": "I was haggling over the price of the antique vase",
+    "groupCode": 0
+  },
+  {
+    "id": 2113,
+    "fa": "چیزی که الان گفتم را پس میگیرم",
+    "en": "I take back what I just said",
+    "groupCode": 0
+  },
+  {
+    "id": 2114,
+    "fa": "وقتم تموم شده ولی نگران نباش بدون تو باهاش کنار میام",
+    "en": "I am out of time but don't worry, I'll get along without you",
+    "groupCode": 0
+  },
+  {
+    "id": 2115,
+    "fa": "من نمی توانم در نظر بگیرم تمام چیزهاییکه دارن اتفاق می افتند در دنیا",
+    "en": "I can't take into consideration everything that is happening in the world",
+    "groupCode": 0
+  },
+  {
+    "id": 2116,
+    "fa": "من جوان نیستم (مرغ بهاری)",
+    "en": "I'm no spring chicken",
+    "groupCode": 0
+  },
+  {
+    "id": 2117,
+    "fa": "لطفا خاکستر سیگارت را رو روی قالی نتکان",
+    "en": "Please don't flick your cigarette ash on the carpet",
+    "groupCode": 0
+  },
+  {
+    "id": 2118,
+    "fa": "هوا آلوده شده بود توسط دودها از ماشین ها",
+    "en": "The air was tainted by fumes from the cars",
+    "groupCode": 0
+  },
+  {
+    "id": 2119,
+    "fa": "چیزهای زیادی است که من دوست دارم در مورد آن",
+    "en": "There are a lot of things that I do like about it",
+    "groupCode": 0
+  },
+  {
+    "id": 2120,
+    "fa": "از همان ابتدا، من فهمیدم دستورالعمل ها را بدون هیچ توضیح بیشتر",
+    "en": "Right off the bat, I understood the instructions without any further explanation",
+    "groupCode": 0
+  },
+  {
+    "id": 2121,
+    "fa": "لطفا صبر کنید تا هواپیما بگذرد",
+    "en": "Please wait for the plane to pass by",
+    "groupCode": 0
+  },
+  {
+    "id": 2122,
+    "fa": "خیلی عجیبه",
+    "en": "It's very odd",
+    "groupCode": 0
+  },
+  {
+    "id": 2123,
+    "fa": "آن یک سوء تفاهم کامل بود",
+    "en": "That was a complete misunderstanding",
+    "groupCode": 0
+  },
+  {
+    "id": 2124,
+    "fa": "بعد از مشاجره برای مدت طولانی, معلوم شد که او (زن) دروغ می گوید",
+    "en": "After arguing for a long time, it turned out that she was lying",
+    "groupCode": 0
+  },
+  {
+    "id": 2125,
+    "fa": "من دست تکان می دهم و تو دست تکان میدی (برمی گردونی)",
+    "en": "I'm waving and you're waving back",
+    "groupCode": 0
+  },
+  {
+    "id": 2126,
+    "fa": "امروز صبح او را گرفتم در حال نگاه کردن به آپارتمانم",
+    "en": "This morning I caught him looking into my apartment",
+    "groupCode": 0
+  },
+  {
+    "id": 2127,
+    "fa": "صدای خراشیدن ناخن ها روی تخته گچی واقعاً مرا می ترساند",
+    "en": "The sound of nails scraping on a chalkboard really creeps me out",
+    "groupCode": 0
+  },
+  {
+    "id": 2128,
+    "fa": "ببینید آن رشته ها چقدر صاف هستند",
+    "en": "Look how straight those noodles are",
+    "groupCode": 0
+  },
+  {
+    "id": 2129,
+    "fa": "نامزد کرده بودم",
+    "en": "I was engaged",
+    "groupCode": 0
+  },
+  {
+    "id": 2130,
+    "fa": "امروز هوا خیلی سرده. بفرمایید یک روسری برای گرم نگه داشتن شما",
+    "en": "It's bitterly cold today. Here's a scarf to keep you warm",
     "groupCode": 0
   }
 ]

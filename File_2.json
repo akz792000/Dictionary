@@ -257,7 +257,7 @@
   },
   {
     "id": 10043,
-    "en": "What is your last name? (formal)",
+    "en": "What is your family name? (formal)",
     "de": "Wie ist Ihr Familienname?",
     "desc": "\"Ihr\" is a formal pronoun used when addressing someone with respect, especially in professional or formal situations. It is equivalent to the English \"your\" (formal) when addressing someone with respect",
     "groupCode": 1
@@ -610,7 +610,7 @@
   },
   {
     "id": 10101,
-    "en": "Is your email address new? Yes, my email address is now...",
+    "en": "Is your email address new? Yes, my email address is new...",
     "de": "Ist deine E-Mail-Adresse neu? Ja, meine E-Mail-Adresse ist jetzt ...",
     "groupCode": 1
   },
@@ -925,8 +925,8 @@
   },
   {
     "id": 10153,
-    "en": "Is Vienna big, beautiful and cool?",
-    "de": "Ist Wien groß, schön und cool?",
+    "en": "Is Vienna big, old, beautiful and cool?",
+    "de": "Ist Wien groß, alt, schön und cool?",
     "groupCode": 1
   },
   {
@@ -974,8 +974,8 @@
   },
   {
     "id": 10161,
-    "en": "The schnitzel is very delicious",
-    "de": "Das Schnitzel ist sehr lecker",
+    "en": "The schnitzel is meat. I eat no meat",
+    "de": "Das Schnitzel ist Fleisch. Ich esse kein Fleisch",
     "groupCode": 1
   },
   {
@@ -998,8 +998,8 @@
   },
   {
     "id": 10165,
-    "en": "Where is the restaurant?",
-    "de": "Wo ist das Restaurant?",
+    "en": "Where is the restaurant and the library?",
+    "de": "Wo ist das Restaurant und die Bibliothek?",
     "groupCode": 1
   },
   {
@@ -1228,7 +1228,7 @@
   },
   {
     "id": 10203,
-    "en": "خواهش میکنم",
+    "en": "You're welcome",
     "de": "Gern geschehen",
     "groupCode": 1
   },
@@ -1518,7 +1518,7 @@
   },
   {
     "id": 10251,
-    "en": "He has very nice shoes",
+    "en": "He has very beautiful shoes",
     "de": "Er hat sehr schöne Schuhe",
     "groupCode": 1
   },
@@ -1554,8 +1554,8 @@
   },
   {
     "id": 10257,
-    "en": "The schnitzel is delicious! You cook very well",
-    "de": "Das Schnitzel ist lecker. Du kochst sehr gut",
+    "en": "The schnitzel is very delicious! You cook very well",
+    "de": "Das Schnitzel ist sehr lecker. Du kochst sehr gut",
     "groupCode": 1
   },
   {
@@ -1808,8 +1808,8 @@
   },
   {
     "id": 10299,
-    "en": "This is library",
-    "de": "Das hier ist Bibliothek",
+    "en": "This here is library. The library is far away",
+    "de": "Das hier ist Bibliothek. Die Bibliothek ist weit weg",
     "groupCode": 1
   },
   {
@@ -1821,7 +1821,7 @@
   },
   {
     "id": 10301,
-    "en": "Correct. This is my apartment",
+    "en": "Correct. This here is my apartment",
     "de": "Richtig. Das hier ist meine Wohnung",
     "groupCode": 1
   },
@@ -1851,8 +1851,8 @@
   },
   {
     "id": 10306,
-    "en": "That is expensive",
-    "de": "Das ist teuer",
+    "en": "The cafe is too expensive",
+    "de": "Das Café ist zu teuer",
     "groupCode": 1
   },
   {
@@ -1887,7 +1887,7 @@
   },
   {
     "id": 10312,
-    "en": "Peter tells the man",
+    "en": "Peter says the man",
     "de": "Peter sagt dem Mann",
     "groupCode": 1
   },
@@ -1913,6 +1913,205 @@
     "id": 10316,
     "en": "He plays piano really well",
     "de": "Er spielt sehr gut Klavier",
+    "groupCode": 1
+  },
+  {
+    "id": 10317,
+    "en": "He's in a beautiful restaurant",
+    "de": "Er ist in einem schönen Restaurant",
+    "groupCode": 1
+  },
+  {
+    "id": 10318,
+    "en": "The waiter brings the menu",
+    "de": "Der Kellner bringt die Speisekarte",
+    "groupCode": 1
+  },
+  {
+    "id": 10319,
+    "en": "I have a question",
+    "de": "Ich habe eine Frage",
+    "groupCode": 1
+  },
+  {
+    "id": 10320,
+    "en": "I'm vegetarian. Do you have vegetarian food?",
+    "de": "Ich bin Vegetarier. Haben Sie vegetarisches Essen?",
+    "groupCode": 1
+  },
+  {
+    "id": 10321,
+    "en": "Chicken is meat. I don't want meat",
+    "de": "Hähnchen ist Fleisch. Ich möchte kein fleisch",
+    "groupCode": 1
+  },
+  {
+    "id": 10322,
+    "en": "What's in the salad? The salad contains tomatoes, potatoes, fish",
+    "de": "Was ist in dem Salat? In dem Salat sind Tomaten, Kartoffeln, Fisch",
+    "groupCode": 1
+  },
+  {
+    "id": 10323,
+    "en": "I do not eat fish! I'm vegetarian",
+    "de": "Ich esse keinen Fisch! Ich bin vegetarier",
+    "groupCode": 1
+  },
+  {
+    "id": 10324,
+    "en": "We have fries",
+    "de": "Wir haben Pommes",
+    "groupCode": 1
+  },
+  {
+    "id": 10325,
+    "en": "Thanks, my darling",
+    "de": "Danke, mein Schatz",
+    "groupCode": 1
+  },
+  {
+    "id": 10326,
+    "en": "The church and the park are nearby",
+    "de": "Die Kirche und der Park sind in der Nähe",
+    "groupCode": 1
+  },
+  {
+    "id": 10327,
+    "en": "Is the pharmacy nearby?",
+    "de": "Ist die Apotheke in der Nähe?",
+    "groupCode": 1
+  },
+  {
+    "id": 10328,
+    "en": "The museum and the hotel in Berlin are old",
+    "de": "Das Museum and das Hotel in Berlin sind alt",
+    "groupCode": 1
+  },
+  {
+    "id": 10329,
+    "en": "The bakery is not on the left, but on the right",
+    "de": "Die Bäckerei ist nicht links, sondern rechts",
+    "groupCode": 1
+  },
+  {
+    "id": 10330,
+    "en": "The movie theater is small",
+    "de": "Das Kino ist klein",
+    "groupCode": 1
+  },
+  {
+    "id": 10331,
+    "en": "Where is the ATM?",
+    "de": "Wo ist der Geldautomat?",
+    "groupCode": 1
+  },
+  {
+    "id": 10332,
+    "en": "Is the subway station nearby? No, the subway station is far away",
+    "de": "Ist die U-Bahnstation in der Nähe? Nein, die U-Bahnstation ist weit weg",
+    "groupCode": 1
+  },
+  {
+    "id": 10333,
+    "en": "I need new clothes. For my vacation in France",
+    "de": "Ich brauche neue Kleidung. Für meinen Urlaub in Frankreich",
+    "desc": "\"Ich brauche neue Kleidung\": This translates to \"I need new clothing\" in a more general sense. It refers to a broad spectrum of clothing items, encompassing various types like shirts, pants, dresses, etc.\n\n\"Ich brauche neue Kleider\": This translates to \"I need new dresses\" in a more specific sense. Here, \"Kleider\" refers specifically to dresses or gowns.",
+    "groupCode": 1
+  },
+  {
+    "id": 10334,
+    "en": "I need a dress",
+    "de": "Ich brauche ein Kleid",
+    "groupCode": 1
+  },
+  {
+    "id": 10335,
+    "en": "No black dress. France is hot",
+    "de": "Kein schwarzes Kleid. Frankreich ist heiß",
+    "groupCode": 1
+  },
+  {
+    "id": 10336,
+    "en": "I need a white dress",
+    "de": "Ich brauche ein weißes Kleid",
+    "groupCode": 1
+  },
+  {
+    "id": 10337,
+    "en": "The hat is too small. I need a big hat",
+    "de": "Der hut ist zu klein. Ich brauche einen großen Hut",
+    "groupCode": 1
+  },
+  {
+    "id": 10338,
+    "en": "A big hat",
+    "de": "Ein großer Hut",
+    "groupCode": 1
+  },
+  {
+    "id": 10338,
+    "en": "What's your name then? My name is Ali (informal)",
+    "de": "Wie heißt du denn? Mein name ist Ali",
+    "groupCode": 1
+  },
+  {
+    "id": 10339,
+    "en": "My last name is Zandi",
+    "de": "Mein Nachname ist Zandi",
+    "groupCode": 1
+  },
+  {
+    "id": ,
+    "en": "What is your address then? (informal)",
+    "de": "Wie ist Deine Adresse denn?",
+    "groupCode": 1
+  },
+  {
+    "id": ,
+    "en": "What is your address then? (formal)",
+    "de": "Wie ist Ihre Adresse denn?",
+    "groupCode": 1
+  },
+  {
+    "id": ,
+    "en": "My address is ..., I live on Alistraße",
+    "de": "Meine Adresse ist ..., Ich wohne in der Alistraße",
+    "groupCode": 1
+  },
+  {
+    "id": ,
+    "en": "My house number is 24",
+    "de": "Meine Hausnummer ist 24",
+    "groupCode": 1
+  },
+  {
+    "id": ,
+    "en": "The zip code is 11111",
+    "de": "Die Postleitzahl ist 11111",
+    "groupCode": 1
+  },
+  {
+    "id": ,
+    "en": "",
+    "de": "",
+    "groupCode": 1
+  },
+  {
+    "id": ,
+    "en": "",
+    "de": "",
+    "groupCode": 1
+  },
+  {
+    "id": ,
+    "en": "",
+    "de": "",
+    "groupCode": 1
+  },
+  {
+    "id": ,
+    "en": "",
+    "de": "",
     "groupCode": 1
   }
 ]
