@@ -384,7 +384,7 @@
   },
   {
     "id": 10064,
-    "en": "Please repeat",
+    "en": "Please repeat (fromal)",
     "de": "Bitte wiederholen Sie!",
     "groupCode": 1
   },
@@ -1632,7 +1632,7 @@
   },
   {
     "id": 10270,
-    "en": "I want a new video game",
+    "en": "I would like a new video game",
     "de": "Ich möchte ein neues Videospiel",
     "groupCode": 1
   },
@@ -1651,7 +1651,7 @@
   {
     "id": 10273,
     "en": "I go to the department store now",
-    "de": "Ich gehe jetzt in das Kaufhaus\"",
+    "de": "Ich gehe jetzt in das Kaufhaus",
     "desc": "Kaufhaus = Very big store",
     "groupCode": 1
   },
@@ -1857,7 +1857,7 @@
   },
   {
     "id": 10307,
-    "en": "How much is it?",
+    "en": "How much does that cost?",
     "de": "Wie viel kostet das?",
     "groupCode": 1
   },
@@ -1893,7 +1893,7 @@
   },
   {
     "id": 10313,
-    "en": "You see the car",
+    "en": "You see the car (informal)",
     "de": "Du siehst das Auto",
     "groupCode": 1
   },
@@ -2088,6 +2088,78 @@
     "id": 10344,
     "en": "The zip code is 11111",
     "de": "Die Postleitzahl ist 11111",
+    "groupCode": 1
+  },
+  {
+    "id": 10345,
+    "en": "Is the hotel old or new?",
+    "de": "Ist das Hotel alt oder neu?",
+    "groupCode": 1
+  },
+  {
+    "id": 10346,
+    "en": "The bakery is on the left and the cinema is on the right",
+    "de": "Die Bäckerei ist links und das Kino ist rechts",
+    "groupCode": 1
+  },
+  {
+    "id": 10347,
+    "en": "Ali and Ilia go to a restaurant",
+    "de": "Ali und Ilia gehen in ein Restaurant",
+    "groupCode": 1
+  },
+  {
+    "id": 10348,
+    "en": "Of course, today is your birthday",
+    "de": "Natürlich, heute ist dein Geburtstag",
+    "groupCode": 1
+  },
+  {
+    "id": 10349,
+    "en": "Do you have a reservation? Yes, for two people",
+    "de": "Haben Sie eine Reservierung? Ja, für zwei Personen",
+    "groupCode": 1
+  },
+  {
+    "id": 10350,
+    "en": "What would you like to eat?",
+    "de": "Was möchtest du essen?",
+    "groupCode": 1
+  },
+  {
+    "id": 10351,
+    "en": "A salad costs thirty euros",
+    "de": "Ein Salat kostet dreißig Euro",
+    "groupCode": 1
+  },
+  {
+    "id": 10352,
+    "en": "In a cheap restaurant",
+    "de": "In einem billigen Restaurant",
+    "groupCode": 1
+  },
+  {
+    "id": 10353,
+    "en": "Come! We're going to the Greek",
+    "de": "Komm! Wir gehen zum Griechen",
+    "groupCode": 1
+  },
+  {
+    "id": 10354,
+    "en": "The Greek restaurant nearby is cheap but good",
+    "de": "Das griechische Restaurant in der Nähe ist günstig, aber gut",
+    "groupCode": 1
+  },
+  {
+    "id": 10355,
+    "en": "The food and wine are always delicious",
+    "de": "Das Essen und der Wein sind immer lecker",
+    "groupCode": 1
+  },
+  {
+    "id": 10356,
+    "en": "I am very hungry and thirsty",
+    "de": "I habe großen Hunger und Durst",
     "groupCode": 1
   }
 ]

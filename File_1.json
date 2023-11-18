@@ -331,7 +331,7 @@
   },
   {
     "id": 2056,
-    "fa": "من به اندازه کافی برای این مزخرفات (گه) پول نمی گیرم",
+    "fa": "اندازه کافی به من پرداخت نمیشه برای این مزخرفات (گه)",
     "en": "I don't get paid enough for this shit",
     "groupCode": 0
   },
@@ -367,7 +367,7 @@
   },
   {
     "id": 2062,
-    "fa": "اتفاقی که برای آنها می افتد غیرقابل تحمل است",
+    "fa": "اتفاقی که داره برای آنها می افتد غیرقابل تحمل است",
     "en": "What's happening to them is unbearable",
     "groupCode": 0
   },
@@ -451,7 +451,7 @@
   },
   {
     "id": 2076,
-    "fa": "چه کسی قصد داره راننده شود؟",
+    "fa": "چه کسی قراره راننده شه؟",
     "en": "Who is gonna be the driver?",
     "groupCode": 0
   },
@@ -463,7 +463,7 @@
   },
   {
     "id": 2078,
-    "fa": "چگونه می خواهید به آنجا برسید؟ من اتوبوس می گیرم",
+    "fa": "چگونه قراره به آنجا برسید؟ من قراره اتوبوس بگیرم",
     "en": "How are you gonna get there? I'm gonna take the bus",
     "groupCode": 0
   },
@@ -524,7 +524,7 @@
   {
     "id": 2088,
     "fa": "هیچ ماشینی وجود ندارد",
-    "en": "\n 1.There aren't any cars \n 2.There are no cars",
+    "en": "\n 1.There isn't any car \n 2.There is no car",
     "groupCode": 0
   },
   {
@@ -572,7 +572,7 @@
   },
   {
     "id": 2096,
-    "fa": "شما می توانید چتر من را بردارید، اما لطفا آن را برگردانید",
+    "fa": "شما می توانید چتر من را بردارید، اما لطفا برش گردانید",
     "en": "You can take my umbrella, but please bring it back",
     "groupCode": 0
   },
@@ -602,7 +602,7 @@
   },
   {
     "id": 2101,
-    "fa": "من دوست دارم موها را کوتاه کنم",
+    "fa": "من مایلم موها را کوتاه کنم",
     "en": "I'd like to have a haircut",
     "groupCode": 0
   },
@@ -639,7 +639,7 @@
   },
   {
     "id": 2107,
-    "fa": "من هرگز امنیت خانواده ام را به خطر نمی اندازم",
+    "fa": "من هرگز (فرضی) امنیت خانواده ام را به خطر نمی اندازم",
     "en": "I would never compromise the safety of my family",
     "groupCode": 0
   },
@@ -663,7 +663,7 @@
   },
   {
     "id": 2111,
-    "fa": "من شما را با دقت تماشا می کنم",
+    "fa": "من دارم شما را با دقت تماشا می کنم",
     "en": "I am watching you intently",
     "groupCode": 0
   },
@@ -753,7 +753,7 @@
   },
   {
     "id": 2126,
-    "fa": "امروز صبح او را گرفتم در حال نگاه کردن به آپارتمانم",
+    "fa": "این صبح او را گرفتم در حال نگاه کردن درون آپارتمانم",
     "en": "This morning I caught him looking into my apartment",
     "groupCode": 0
   },

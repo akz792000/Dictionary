@@ -509,7 +509,7 @@
   },
   {
     "id": 85,
-    "fa": "من قصد دارم فشار خونتون را بگیرم",
+    "fa": "من قراره فشار خونتون را بگیرم",
     "en": "I'm gonna take your blood pressure",
     "groupCode": 0
   },
@@ -1299,8 +1299,9 @@
   },
   {
     "id": 216,
-    "fa": "چطور باهاش کنار میای؟",
+    "fa": "چطور بدستش آوردی؟",
     "en": "How do you come by it?",
+    "desc": "This phrase generally means to obtain or acquire something",
     "groupCode": 0
   },
   {
@@ -1740,8 +1741,8 @@
   },
   {
     "id": 289,
-    "fa": "ما قصد داریم یه چند روز بیشتر بمانیم",
-    "en": "We are going to stay for a few more days",
+    "fa": "ما قراره یه چند روز بیشتر بمانیم",
+    "en": "We are gonna stay for a few more days",
     "groupCode": 0
   },
   {
@@ -2555,8 +2556,8 @@
   },
   {
     "id": 424,
-    "fa": "من قصد دارم پرش بانجی را امتحان کنم، اما می ترسم",
-    "en": "I am going to try bungee jumping, but I get cold feet",
+    "fa": "من قراره پرش بانجی را امتحان کنم، اما می ترسم",
+    "en": "I am gonna try bungee jumping, but I get cold feet",
     "groupCode": 0
   },
   {
@@ -2873,7 +2874,7 @@
   },
   {
     "id": 477,
-    "fa": "حتی به این قصد ندارم فکر کنم که گاز گرفتن این مورچه چقدر دردناک خواهد بود",
+    "fa": "حتی قرار نیست فکر کنم که گاز گرفتن این مورچه چقدر دردناک خواهد بود",
     "en": "I am not even gonna think of how painful a bite from this ant would be",
     "groupCode": 0
   },
@@ -2939,7 +2940,7 @@
   },
   {
     "id": 488,
-    "fa": "بخوای نخوای",
+    "fa": "دوست داشته باشی یا نه",
     "en": "Like it or not",
     "groupCode": 0
   },
@@ -3533,7 +3534,7 @@
   },
   {
     "id": 586,
-    "fa": "من قصد دارم که پشتم را خم کنم و به نظر میرسه که تسلیم هستم",
+    "fa": "من قراره که پشتم را خم کنم و به نظر میرسه که تسلیم هستم",
     "en": "I am gonna curl my back over and it looks like I'm being submissive",
     "groupCode": 0
   },
@@ -4053,7 +4054,7 @@
   },
   {
     "id": 671,
-    "fa": "بزن کنار! قصد دارم بالا میارم",
+    "fa": "بزن کنار! قراره بالا میارم",
     "en": "Pull over! I'm gonna barf!",
     "groupCode": 0
   },
@@ -4089,7 +4090,7 @@
   },
   {
     "id": 677,
-    "fa": "بهترین توصیه ای که به خود جوان ترت بگی چیه؟",
+    "fa": "چیه بهترین توصیه ای که تو بگی (فرضی) به خود جوان ترت؟",
     "en": "What is the best piece of advice you'd tell to your younger self?",
     "groupCode": 0
   },
@@ -5798,7 +5799,7 @@
   },
   {
     "id": 957,
-    "fa": "قصد داری به من مشت بزنی؟",
+    "fa": "قراره به من مشت بزنی؟",
     "en": "Are you going to punch me?",
     "groupCode": 0
   },
@@ -6106,7 +6107,7 @@
   },
   {
     "id": 1007,
-    "fa": "من قصد دارم این ساندویچ را در سلفون بپیچم",
+    "fa": "من قراره این ساندویچ را در سلفون بپیچم",
     "en": "I'm gonna wrap this sandwich in Saran (/səˈræn/) wrap",
     "groupCode": 0
   },
@@ -6497,7 +6498,7 @@
   },
   {
     "id": 1071,
-    "fa": "نگران آن وظیفه نباشید، آن را به من بسپارید",
+    "fa": "نگران آن وظیفه نباشید، به من بسپاریدش",
     "en": "Don't worry about that task, leave it to me",
     "groupCode": 0
   },
@@ -6994,7 +6995,7 @@
   },
   {
     "id": 1153,
-    "fa": "دانشگاه کتاب درسی را امانت می دهد",
+    "fa": "دانشگاه کتاب درسی را قرض می دهد",
     "en": "The university lends textbook",
     "groupCode": 0
   },
@@ -7031,7 +7032,7 @@
   },
   {
     "id": 1159,
-    "fa": "من قصد دارم به گونه ای بهت توضیح بدم که برات درکش آسان تر باشه",
+    "fa": "من قراره به گونه ای بهت توضیح بدم که برات درکش آسان تر باشه",
     "en": "I'm gonna explain it to you in a way that makes it much easier for you to understand",
     "groupCode": 0
   },
@@ -7153,7 +7154,7 @@
   },
   {
     "id": 1179,
-    "fa": "من قصد دارم برای امتحانم درس بخوانم و بعد شاید یک شو خواهم دید",
+    "fa": "من قراره برای امتحانم درس بخوانم و بعد شاید یک شو خواهم دید",
     "en": "I'm gonna study for my exam and then maybe I'll watch a show",
     "groupCode": 0
   },
@@ -7887,8 +7888,8 @@
   },
   {
     "id": 1300,
-    "fa": "پیش بینی آب و هوا چیست؟ داره میره برای یک طوفان گرد و غبار",
-    "en": "What's the weather forecast? There's going to be a dust storm",
+    "fa": "پیش بینی آب و هوا چیست؟ قراره یک طوفان گرد و غبار باشد",
+    "en": "What's the weather forecast? There's gonna be a dust storm",
     "groupCode": 0
   },
   {
@@ -8020,7 +8021,7 @@
   },
   {
     "id": 1322,
-    "fa": "چی قصد داری بهشون بگی؟",
+    "fa": "چی قراره بهشون بگی؟",
     "en": "What are you gonna tell them?",
     "groupCode": 0
   },
@@ -11327,7 +11328,7 @@
   },
   {
     "id": 1869,
-    "fa": "شما هرگز نمی دانید چه زمانی قصد دارید به یکی نیاز داشته باشید",
+    "fa": "شما هرگز نمی دانید چه زمانی قراره به یکی نیاز داشته باشید",
     "en": "You never know when you are gonna need one",
     "groupCode": 0
   },
@@ -11814,7 +11815,7 @@
   },
   {
     "id": 1950,
-    "fa": "یادت هست به من گفتی \"من هیچ کس نمی شوم و معتاد می شوم؟\"",
+    "fa": "یادت هست به من گفتی \"من قراره هیچ کس نشم و معتاد شم؟\"",
     "en": "Do you remember you told me, I'm gonna be nobody, and I will be a drug addict?",
     "groupCode": 0
   },
@@ -12064,7 +12065,7 @@
   },
   {
     "id": 1991,
-    "fa": "شامپانزه های وحشی در زیستگاه طبیعی خود به زیبایی در میان درختان تاب می خورند",
+    "fa": "شامپانزه های وحشی در زیستگاه طبیعی خود دارن  تاب می خورند با ظرافت در میان درختان",
     "en": "Wild chimps in their natural habitat are swing gracefully through the trees",
     "groupCode": 0
   },
@@ -12106,7 +12107,7 @@
   },
   {
     "id": 1998,
-    "fa": "من توی اتاق رفتم و برگشتم, منتظر خبر بودم",
+    "fa": "من گام برداشتم جلو و عقب در اتاق, منتظر خبر بودم",
     "en": "I paced back and forth in the room, waiting for the news",
     "groupCode": 0
   },
