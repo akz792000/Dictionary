@@ -1300,7 +1300,7 @@
   {
     "id": 216,
     "fa": "چطور بدستش آوردی؟",
-    "en": "How do you come by it?",
+    "en": "How did you come by it?",
     "desc": "This phrase generally means to obtain or acquire something",
     "groupCode": 0
   },
@@ -1336,7 +1336,7 @@
   },
   {
     "id": 222,
-    "fa": "چه نوع کار (در طول دوره) خواهم داشت تا انجام دهم؟",
+    "fa": "چه نوع کار (در طول دوره) خواهم داشت (فرضی) تا انجام دهم؟",
     "en": "What kind of coursework would I have to do?",
     "groupCode": 0
   },
@@ -11574,7 +11574,7 @@
   },
   {
     "id": 1910,
-    "fa": "چه تاریخی دوست دارید (مودبانه) تغییرش بدی به؟",
+    "fa": "چه تاریخی مایلید (مودبانه) تغییرش بدی به؟",
     "en": "What date would you like to change it to?",
     "groupCode": 0
   },
@@ -11918,7 +11918,7 @@
   },
   {
     "id": 1967,
-    "fa": "پیگیری مصاحبه ای که هفته گذشته داشتم، مایلم آخرین پیشرفت آن را جویا شوم",
+    "fa": "پیگیری مصاحبه ای که هفته گذشته داشتم، مایلم آخرین پیشرفتش را جویا شم",
     "en": "Following up for the interview that I had last week, I'd like to inquire about the latest progress of it",
     "groupCode": 0
   },
@@ -12065,8 +12065,8 @@
   },
   {
     "id": 1991,
-    "fa": "شامپانزه های وحشی در زیستگاه طبیعی خود دارن  تاب می خورند با ظرافت در میان درختان",
-    "en": "Wild chimps in their natural habitat are swing gracefully through the trees",
+    "fa": "شامپانزه های وحشی در زیستگاه طبیعی خود تاب می خورند با ظرافت در میان درختان",
+    "en": "Wild chimps in their natural habitat swing gracefully through the trees",
     "groupCode": 0
   },
   {

@@ -218,7 +218,7 @@
   {
     "id": 2037,
     "fa": "اگر من انجام نداده بودم آن را، شرکت خیلی وقت پیش ورشکست شده بود",
-    "en": "If I hadn't done that, the company would long ago have gone bankrupt",
+    "en": "If I hadn't done that, the company would have long ago gone bankrupt",
     "groupCode": 0
   },
   {
@@ -271,7 +271,7 @@
   },
   {
     "id": 2046,
-    "fa": "برای من طولی نمیکشه که قلقش دستم بیاد",
+    "fa": "برای من زیاد طول نمی کشد که قلقش دستم بیاد",
     "en": "It does not take long for me to get the hang of it",
     "groupCode": 0
   },
@@ -361,13 +361,13 @@
   },
   {
     "id": 2061,
-    "fa": "کاری که او انجام داد وحشتناک بود و هیچ توجیهی برای آن وجود ندارد",
+    "fa": "چیزی که او (مرد) انجام داد وحشتناک بود و هیچ توجیهی براش وجود ندارد",
     "en": "What he did was horrific and there's no justification for it",
     "groupCode": 0
   },
   {
     "id": 2062,
-    "fa": "اتفاقی که داره برای آنها می افتد غیرقابل تحمل است",
+    "fa": "چیزی که داره برای آنها اتفاق می افتد غیرقابل تحمل است",
     "en": "What's happening to them is unbearable",
     "groupCode": 0
   },
@@ -535,7 +535,7 @@
   },
   {
     "id": 2090,
-    "fa": "ما داشتیم صحبت می کردیم ولی تلفن قطع شد",
+    "fa": "ما (همین الان) داشتیم صحبت می کردیم ولی تلفن قطع شد",
     "en": "We were just talking but the line cut out",
     "desc": "Only moments ago, we were talking when the line disconnected",
     "groupCode": 0
@@ -560,7 +560,7 @@
   },
   {
     "id": 2094,
-    "fa": "سیاستی که تورم را از بین می برد",
+    "fa": "سیاستی که تورم را از (فرضی) بین می برد",
     "en": "A policy that would eliminate inflation",
     "groupCode": 0
   },
@@ -578,7 +578,7 @@
   },
   {
     "id": 2097,
-    "fa": "به دلایلی مبهم، او (مرد) نتوانست حضور پیدا کند",
+    "fa": "به دلایلی مبهم، او (مرد) موفق نشد (ناموفق) حضور پیدا کند",
     "en": "For some obscure reasons, he failed to turn up",
     "groupCode": 0
   },
@@ -681,7 +681,7 @@
   },
   {
     "id": 2114,
-    "fa": "وقتم تموم شده ولی نگران نباش بدون تو باهاش کنار میام",
+    "fa": "وقتم تموم شده ولی نگران نباش, بدون تو کنار خواهم آمد",
     "en": "I am out of time but don't worry, I'll get along without you",
     "groupCode": 0
   },
@@ -711,7 +711,7 @@
   },
   {
     "id": 2119,
-    "fa": "چیزهای زیادی است که من دوست دارم در مورد آن",
+    "fa": "چیزهای زیادی است که من دوست دارم (تاکید) در موردش",
     "en": "There are a lot of things that I do like about it",
     "groupCode": 0
   },
@@ -747,13 +747,13 @@
   },
   {
     "id": 2125,
-    "fa": "من دست تکان می دهم و تو دست تکان میدی (برمی گردونی)",
+    "fa": "من دارم دست تکان می دهم و تو داری دست تکان میدی (برمی گردونی)",
     "en": "I'm waving and you're waving back",
     "groupCode": 0
   },
   {
     "id": 2126,
-    "fa": "این صبح او را گرفتم در حال نگاه کردن درون آپارتمانم",
+    "fa": "این صبح او (مرد) را گرفتم در حال نگاه کردن درون آپارتمانم",
     "en": "This morning I caught him looking into my apartment",
     "groupCode": 0
   },
@@ -777,7 +777,7 @@
   },
   {
     "id": 2130,
-    "fa": "امروز هوا خیلی سرده. بفرمایید یک روسری برای گرم نگه داشتن شما",
+    "fa": "امروز هوا خیلی سرده (به تلخی). بفرمایید یک روسری برای گرم نگه داشتن شما",
     "en": "It's bitterly cold today. Here's a scarf to keep you warm",
     "groupCode": 0
   }
