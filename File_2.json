@@ -1343,7 +1343,7 @@
   },
   {
     "id": 10222,
-    "en": "Are you a teacher?",
+    "en": "Are you a teacher? (informal)",
     "de": "Bist du Lehrer?",
     "groupCode": 1
   },
@@ -1446,7 +1446,7 @@
   },
   {
     "id": 10239,
-    "en": "The red jacket is perfect for you",
+    "en": "The red jacket is perfect for you (formal)",
     "de": "Die rote Jacke ist perfekt für Sie",
     "groupCode": 1
   },
@@ -1777,7 +1777,7 @@
   },
   {
     "id": 10294,
-    "en": "Where would you like to go? To the train station",
+    "en": "Where would you like to drive? To the train station",
     "de": "Wohin möchtest du fahren? Zum Bahnhof",
     "desc": "\"Wohin\" means \"where to\" and is used when asking about a destination or direction. For example, \"Wohin möchtest du gehen?\" means \"Where would you like to go?\" because you're asking about the destination or direction of the person's intended movement.\n\n\"Woher\" means \"where from\" and is used when asking about the origin or source of something. For example, \"Woher kommst du?\" means \"Where are you from?\" because you're asking about the place the person is coming from.",
     "groupCode": 1
@@ -2160,6 +2160,54 @@
     "id": 10356,
     "en": "I am very hungry and thirsty",
     "de": "I habe großen Hunger und Durst",
+    "groupCode": 1
+  },
+  {
+    "id": 10357,
+    "en": "Can I help?",
+    "de": "Kann ich helfen?",
+    "groupCode": 1
+  },
+  {
+    "id": 10358,
+    "en": "His student works in the department store",
+    "de": "Seine Schülerin arbeitet im Kaufhaus",
+    "groupCode": 1
+  },
+  {
+    "id": 10359,
+    "en": "Do they look for a jacket?",
+    "de": "Sie suchen ein Sakko?",
+    "groupCode": 1
+  },
+  {
+    "id": 10360,
+    "en": "Ali takes a jacket",
+    "de": "Ali nimmt ein Sakko",
+    "groupCode": 1
+  },
+  {
+    "id": 10361,
+    "en": "They look for a shirt and shoes",
+    "de": "Sie suchen ein Hemd und Schuhe",
+    "groupCode": 1
+  },
+  {
+    "id": 10362,
+    "en": "The shirt here is nice and cheap",
+    "de": "Das Hemd hier ist schön und bilig",
+    "groupCode": 1
+  },
+  {
+    "id": 10363,
+    "en": "I don't look for a jacket and I don't look for a shirt",
+    "de": "Ich suche kein Sakko und ich suche kein Hemd",
+    "groupCode": 1
+  },
+  {
+    "id": 10364,
+    "en": "Please, where are the toilets?",
+    "de": "Bitte, wo sind die Toiletten",
     "groupCode": 1
   }
 ]

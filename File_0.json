@@ -223,7 +223,7 @@
   },
   {
     "id": 38,
-    "fa": "وقتی عصبانی هستی تصمیم نگیر",
+    "fa": "وقتی که عصبانی هستی تصمیم نگیر",
     "en": "Do not make decisions when you are angry",
     "groupCode": 0
   },
@@ -1233,7 +1233,7 @@
   },
   {
     "id": 205,
-    "fa": "هیچکس نیومد منو ببینه وقتی مریض بودم",
+    "fa": "هیچکس نیومد منو ببینه وقتی که مریض بودم",
     "en": "Nobody came to visit me when I was sick",
     "groupCode": 0
   },
@@ -1378,7 +1378,7 @@
   },
   {
     "id": 229,
-    "fa": "همه تو جلسه بودن وقتی من به آنجا رسیدم",
+    "fa": "همه تو جلسه بودن وقتی که من به آنجا رسیدم",
     "en": "Everybody was in the meeting when I got there",
     "groupCode": 0
   },
@@ -3262,7 +3262,7 @@
   },
   {
     "id": 541,
-    "fa": "وقتی حوصله ات سر میره چه می کنی؟",
+    "fa": "وقتی که حوصله ات سر میره چه می کنی؟",
     "en": "What do you do when you get bored?",
     "groupCode": 0
   },
@@ -3931,7 +3931,7 @@
   },
   {
     "id": 651,
-    "fa": "لطفا در هنگام پیاده شدن به رانندگان و دوچرخه سواران توجه کنید",
+    "fa": "لطفا توجه کنید به رانندگان و دوچرخه سواران وقت پیاده شدن",
     "en": "Please pay attention to Motorists and Cyclists when getting off",
     "groupCode": 0
   },
@@ -6032,7 +6032,7 @@
   },
   {
     "id": 995,
-    "fa": "نزدیک بود بمیرم که ناگهان یک غریق نجات مرا از غرق شدن نجات داد",
+    "fa": "نزدیک بود بمیرم وقتی که ناگهان یک غریق نجات مرا از غرق شدن نجات داد",
     "en": "I was about to die when suddenly a lifeguard rescued me from drowning",
     "groupCode": 0
   },
@@ -6449,7 +6449,7 @@
   },
   {
     "id": 1063,
-    "fa": "مدتی است که (تا حالا) نیاز به سرمایه گذاری دارد",
+    "fa": "برای مدتی است که (تا حالا) نیاز به سرمایه گذاری دارد",
     "en": "It has needed investment for a while now",
     "desc": "\"It has needed investment for a while now\": This sentence implies that the subject has been in need of investment for an extended period of time, including the present moment. The use of \"now\" emphasizes that the need for investment has persisted over time and continues to be relevant.\n\n\"It has needed investment for a while\": This sentence indicates that the subject has been in need of investment for a significant duration in the past. However, it does not explicitly mention whether the need for investment still exists at the present moment.",
     "groupCode": 0
@@ -6952,7 +6952,7 @@
   },
   {
     "id": 1146,
-    "fa": "مردم هنگام دویدن سریعتر نفس می کشند",
+    "fa": "مردم وقت دویدن سریعتر نفس می کشند",
     "en": "People breathe faster when they run",
     "groupCode": 0
   },
@@ -7098,7 +7098,7 @@
   },
   {
     "id": 1170,
-    "fa": "آنها داشتن شام می خوردند که ما رسیدیم",
+    "fa": "آنها داشتن شام می خوردند وقتی که ما رسیدیم",
     "en": "They were having dinner when we arrived",
     "groupCode": 0
   },
@@ -7116,7 +7116,7 @@
   },
   {
     "id": 1173,
-    "fa": "چگونه رهبران خوش بینی را حفظ می کنند وقتی خسته هستند؟",
+    "fa": "چگونه رهبران خوش بینی را حفظ می کنند وقتی که خسته هستند؟",
     "en": "How do leaders maintain optimism when they are tired?",
     "groupCode": 0
   },
@@ -7142,7 +7142,7 @@
   },
   {
     "id": 1177,
-    "fa": "وقتی به خانه شما آمدم کمی دسر بیاورم؟",
+    "fa": "وقتی که به خانه شما آمدم کمی دسر بیاورم؟",
     "en": "Shall I bring some dessert when I come to your house?",
     "groupCode": 0
   },
@@ -7966,7 +7966,7 @@
   },
   {
     "id": 1313,
-    "fa": "هی, تازه رسیدم اینجا. می توانید مرا در جریان بزارید در رابطه با آنچه که اتفاق افتاد زمانیکه من دور بودم؟",
+    "fa": "هی, تازه رسیدم اینجا. می توانید مرا در جریان بزارید در رابطه با آنچه که اتفاق افتاد در حالی که من دور بودم؟",
     "en": "Hey, I just got here. Can you fill me in on what happened while I was away?",
     "groupCode": 0
   },
@@ -7985,7 +7985,7 @@
   },
   {
     "id": 1316,
-    "fa": "این صدای اگزوز ماشینم است وقتی داخل تونل دنده معکوس میدم",
+    "fa": "این صدای اگزوز ماشینم است وقتی که داخل تونل دنده معکوس میدم",
     "en": "This is the sound of my car's exhaust when I downshift in a tunnel",
     "groupCode": 0
   },
@@ -8057,7 +8057,7 @@
   },
   {
     "id": 1328,
-    "fa": "وقتی بزرگ شدی میخواهی چی بشی؟",
+    "fa": "وقتی که بزرگ شدی میخواهی چی بشی؟",
     "en": "What do you want to be when you grow up?",
     "groupCode": 0
   },
@@ -8165,7 +8165,7 @@
   },
   {
     "id": 1346,
-    "fa": "اصلاً شد سوشی بخوری زمانیکه در فرانسه بودی؟",
+    "fa": "اصلاً شد سوشی بخوری در حالی که در فرانسه بودی؟",
     "en": "Did you ever eat sushi while you were in France?",
     "groupCode": 0
   },
@@ -8624,7 +8624,7 @@
   },
   {
     "id": 1422,
-    "fa": "کی از بچه هات مراقبت میکنه زمانیکه سر کار هستی",
+    "fa": "کی از بچه هات مراقبت میکنه وقتی که سر کار هستی",
     "en": "Who looks after your children when you're at work?",
     "groupCode": 0
   },
@@ -9975,7 +9975,7 @@
   },
   {
     "id": 1646,
-    "fa": "اتاق داشت تمیز میشد زمانیكه رسیدم",
+    "fa": "اتاق داشت تمیز میشد وقتی که رسیدم",
     "en": "The room was being cleaned when I arrived",
     "groupCode": 0
   },
@@ -10554,7 +10554,7 @@
   },
   {
     "id": 1742,
-    "fa": "چه اتفاقی برای ستاره ها می افتد وقتی آنها می میرند؟",
+    "fa": "چه اتفاقی برای ستاره ها می افتد وقتی که آنها می میرند؟",
     "en": "What happens to stars when they die?",
     "groupCode": 0
   },
@@ -10645,7 +10645,7 @@
   },
   {
     "id": 1757,
-    "fa": "داشتی چیکار میکردی وقتی بهت زنگ زدم؟",
+    "fa": "داشتی چیکار میکردی وقتی که بهت زنگ زدم؟",
     "en": "What were you doing when I called you?",
     "groupCode": 0
   },
@@ -10988,7 +10988,7 @@
   },
   {
     "id": 1813,
-    "fa": "من عادت داشتم (دیگه ندارم) گیتار بزنم وقتی جوانتر بودم",
+    "fa": "من عادت داشتم (دیگه ندارم) گیتار بزنم وقتی که جوانتر بودم",
     "en": "I used to play the guitar when I was younger",
     "desc": "\"Used to\" is used to talk about past habits or situations that no longer exist. It implies that something was once true but is no longer the case",
     "groupCode": 0
@@ -11208,7 +11208,7 @@
   },
   {
     "id": 1849,
-    "fa": "چرا در اینجا به مهاجران نیاز است زمانیکه بسیاری از ما شغل نداریم؟",
+    "fa": "چرا در اینجا به مهاجران نیاز است وقتی که بسیاری از ما شغل نداریم؟",
     "en": "Why are immigrants needed in here when many of us don't have jobs?",
     "groupCode": 0
   },
@@ -11875,7 +11875,7 @@
   },
   {
     "id": 1960,
-    "fa": "بعد از جراحی، تا مدتی هیچ ورزشی انجام نخواهی داد",
+    "fa": "بعد از جراحی، برای مدتی هیچ ورزشی انجام نخواهی داد",
     "en": "After the operation you won't be doing any sport for a while",
     "groupCode": 0
   },
@@ -11979,7 +11979,7 @@
   },
   {
     "id": 1977,
-    "fa": "ما نیاز نیست برای چیزهای کوچک عزاداری کنیم",
+    "fa": "ما نیاز نیست عزاداری کنیم (نیاز است عزاداری نکنیم) برای چیزهای کوچک",
     "en": "We need not mourn over trifles (/ˈtraɪfəl/)",
     "groupCode": 0
   },
@@ -12119,7 +12119,7 @@
   },
   {
     "id": 2000,
-    "fa": "زمان سریع می گذره زمانیکه شما در حال خوش گذرانی هستی",
+    "fa": "زمان سریع می گذره وقتی که شما در حال خوش گذرانی هستی",
     "en": "Time flies when you're having fun",
     "groupCode": 0
   }

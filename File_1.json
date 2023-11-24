@@ -169,8 +169,8 @@
   },
   {
     "id": 2029,
-    "fa": "هرازگاهی برای یک پیاده روی آرام یه سر به پارک می زنم",
-    "en": "Every now and then, I head over to the park for a relaxing walk",
+    "fa": "هرازگاهی برای یه سر به پارک می زنم",
+    "en": "Every now and then, I head over to the park",
     "groupCode": 0
   },
   {
@@ -355,7 +355,7 @@
   },
   {
     "id": 2060,
-    "fa": "خیلی زود جشن نگیرید وقتی در برابر من هستی",
+    "fa": "خیلی زود جشن نگیرید وقتی که در برابر من هستی",
     "en": "Do not celebrate too early when you're up against me",
     "groupCode": 0
   },
@@ -415,7 +415,7 @@
   },
   {
     "id": 2070,
-    "fa": "صندلی خود را پیدا کنید و کیف دستی خود را در قسمت بالای سر جا کنید",
+    "fa": "صندلی خود را پیدا کنید و جا دهید کیف دستی خود را در محفظه بالای سر",
     "en": "Find your seat and stow your carry-on bag in the overhead compartment",
     "groupCode": 0
   },
@@ -447,6 +447,7 @@
     "id": 2075,
     "fa": "چه مدت به ماشین نیاز خواهید داشت؟",
     "en": "How long will you be needing the car?",
+    "desc": "\"How long will you need the car?\" implies a general duration, while \"How long will you be needing the car?\" suggests a more specific or temporary need.",
     "groupCode": 0
   },
   {
@@ -457,7 +458,7 @@
   },
   {
     "id": 2077,
-    "fa": "قبل از بازگرداندن ماشین باید آن را پر کنید",
+    "fa": "باید آن را پر کنید قبل از بازگرداندن ماشین",
     "en": "You should fill it up before you return the car",
     "groupCode": 0
   },
@@ -584,7 +585,7 @@
   },
   {
     "id": 2098,
-    "fa": "هنگام تمیز کردن اتاقم با یک عکس قدیمی مواجه شدم",
+    "fa": "من با یک عکس قدیمی مواجه شدم در حال تمیز کردن اتاقم",
     "en": "I came across an old photo while cleaning my room",
     "groupCode": 0
   },
@@ -669,7 +670,7 @@
   },
   {
     "id": 2112,
-    "fa": "چانه می زدم سر قیمت گلدان عتیقه ",
+    "fa": "من داشتم چانه می زدم سر قیمت گلدان عتیقه",
     "en": "I was haggling over the price of the antique vase",
     "groupCode": 0
   },
@@ -741,7 +742,7 @@
   },
   {
     "id": 2124,
-    "fa": "بعد از مشاجره برای مدت طولانی, معلوم شد که او (زن) دروغ می گوید",
+    "fa": "بعد از مشاجره برای مدت طولانی, معلوم شد که او داشت (زن) دروغ می گوید",
     "en": "After arguing for a long time, it turned out that she was lying",
     "groupCode": 0
   },
