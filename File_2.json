@@ -67,8 +67,8 @@
   },
   {
     "id": 10012,
-    "en": "Welcome!",
-    "de": "Willkommen!",
+    "en": "Welcome! Freut mich sehr",
+    "de": "Willkommen! Very I am pleased (very Nice to meet you)",
     "groupCode": 1
   },
   {
@@ -257,7 +257,7 @@
   },
   {
     "id": 10043,
-    "en": "What is your family name? (formal)",
+    "en": "What is your family name? (polite)",
     "de": "Wie ist Ihr Familienname?",
     "desc": "\"Ihr\" is a formal pronoun used when addressing someone with respect, especially in professional or formal situations. It is equivalent to the English \"your\" (formal) when addressing someone with respect",
     "groupCode": 1
@@ -270,7 +270,7 @@
   },
   {
     "id": 10045,
-    "en": "What is your first name? (formal)",
+    "en": "What is your first name? (polite)",
     "de": "Wie ist Ihr Vorname?",
     "groupCode": 1
   },
@@ -282,7 +282,7 @@
   },
   {
     "id": 10047,
-    "en": "What is your zip code? (formal)",
+    "en": "What is your zip code? (polite)",
     "de": "Wie ist Ihr Postleitzahl/Ort?",
     "groupCode": 1
   },
@@ -342,8 +342,8 @@
   },
   {
     "id": 10057,
-    "en": "\n Switzerland \n Turkey \n",
-    "de": "\n die Schweiz \n die Türkei \n",
+    "en": "\n the Switzerland \n the Turkey \n the Sweden",
+    "de": "\n die Schweiz \n die Türkei \n die Schweden \n",
     "groupCode": 1
   },
   {
@@ -390,14 +390,14 @@
   },
   {
     "id": 10065,
-    "en": "Do you speak German or English? (formal)",
-    "de": "Sprechen Sie Deutsch oder Englisch?",
+    "en": "Do you speak German? No, I speak no German (formal)",
+    "de": "Sprechen Sie Deutsch? Nein, Ich spreche kein Deutsch",
     "groupCode": 1
   },
   {
     "id": 10066,
-    "en": "I speak no German? English?",
-    "de": "Ich spreche kein Deutsch? Englisch?",
+    "en": "Where do you live? (informal) I live in France",
+    "de": "Wo lebst du? Ich lebe in Frankreich",
     "groupCode": 1
   },
   {
@@ -414,8 +414,8 @@
   },
   {
     "id": 10069,
-    "en": "I don't know",
-    "de": "Ich weiß nicht",
+    "en": "Where do they live? I don't know",
+    "de": "Wo leben sie? Ich weiß nicht",
     "groupCode": 1
   },
   {
@@ -498,7 +498,7 @@
   },
   {
     "id": 10083,
-    "en": "Start your German notebook (formal)",
+    "en": "Start your German notebook (polite)",
     "de": "Beginnen Sie Ihr Deutschheft",
     "groupCode": 1
   },
@@ -604,7 +604,7 @@
   },
   {
     "id": 10100,
-    "en": "Is that your cell phone number (formal)? Yes, my cell phone number is...",
+    "en": "Is that your cell phone number (polite)? Yes, my cell phone number is...",
     "de": "Ist das Ihr Handynummer? Ja, meine Handynummer ist ...",
     "groupCode": 1
   },
@@ -1247,7 +1247,7 @@
   },
   {
     "id": 10206,
-    "en": "Sorry, are you a doctor? (formal)",
+    "en": "Sorry, are you a doctor (male)? (formal)",
     "de": "Entschuldigung, sind sie Arzt?",
     "groupCode": 1
   },
@@ -1373,14 +1373,14 @@
   },
   {
     "id": 10227,
-    "en": "She is a professor",
-    "de": "Sie ist Professorin",
+    "en": "Is your wife a lawyer or a professor?",
+    "de": "Ist deine Frau Anwältin oder Professorin?",
     "groupCode": 1
   },
   {
     "id": 10228,
-    "en": "He is a professor",
-    "de": "Er ist Professor",
+    "en": "Is your husband a lawyer or a professor?",
+    "de": "Ist dein Mann Anwalt oder Professor?",
     "groupCode": 1
   },
   {
@@ -1409,8 +1409,8 @@
   },
   {
     "id": 10233,
-    "en": "He's in the department store",
-    "de": "Er ist im Kaufhaus",
+    "en": "Ali is in the department store. He sees Ilia",
+    "de": "Ali ist im Kaufhaus. Er sieht Ilia",
     "desc": "\"Er ist im\": This is a contraction of \"Er ist in dem,\" which means \"He is in the.\" You would use this form when you want to specify that someone is in a specific place, such as a building or a room. For example, \"Er ist im Haus\" means \"He is in the house.\"\n\n\"Er ist in\": This is a more general use of \"in\" without the definite article \"dem.\" You would use this form when you want to say that someone is in a location without specifying \"the\" place. For example, \"Er ist in der Stadt\" means \"He is in the city.\"",
     "groupCode": 1
   },
@@ -1735,7 +1735,7 @@
   },
   {
     "id": 10287,
-    "en": "You (Plural) wouldn't like to stay",
+    "en": "You (polite) wouldn't like to stay",
     "de": "Ihr möchtet nicht bleiben",
     "groupCode": 1
   },
@@ -1899,7 +1899,7 @@
   },
   {
     "id": 10314,
-    "en": "You are human (formal)",
+    "en": "You are human (polite)",
     "de": "Ihr seid Mensch",
     "groupCode": 1
   },
@@ -2208,6 +2208,54 @@
     "id": 10364,
     "en": "Please, where are the toilets?",
     "de": "Bitte, wo sind die Toiletten",
+    "groupCode": 1
+  },
+  {
+    "id": 10365,
+    "en": "He is Chancellor. She is Chancellor",
+    "de": "Er ist Kanzler. Sie ist Kanzlerin",
+    "groupCode": 1
+  },
+  {
+    "id": 10366,
+    "en": "He is policeman. She is policewoman",
+    "de": "Er ist Polizist. Sie ist Polizistin",
+    "groupCode": 1
+  },
+  {
+    "id": 10367,
+    "en": "I pack my vacation clothes for the trip",
+    "de": "Ich packe meine Urlaubskleidung für die Reise",
+    "groupCode": 1
+  },
+  {
+    "id": 10368,
+    "en": "Do you have a reservation? Yes, for two persons",
+    "de": "Haben Sie eine Reservierung? Ja, für zwei Personen",
+    "groupCode": 1
+  },
+  {
+    "id": 10369,
+    "en": "Here is your table (polite)",
+    "de": "Hier ist Ihr Tisch",
+    "groupCode": 1
+  },
+  {
+    "id": 10370,
+    "en": "Is he an artist? Is she an artist?",
+    "de": "Ist er Künstler? Ist sie Künstlerin?",
+    "groupCode": 1
+  },
+  {
+    "id": 10371,
+    "en": "In this area, street shoes are forbidden",
+    "de": "In diesem Bereich sind Straßenschuhe verboten",
+    "groupCode": 1
+  },
+  {
+    "id": 10372,
+    "en": "The artist (she) paints a church in Russia",
+    "de": "Die Künstlerin malt eine Kirche in Russland",
     "groupCode": 1
   }
 ]

@@ -103,14 +103,110 @@
   },
   {
     "id": ,
-    "fa": "",
-    "en": "",
+    "fa": "این رزومه به من داد مصاحبه ها در گوگل",
+    "en": "This resume got me interviews at Google",
     "groupCode": 0
   },
   {
     "id": ,
-    "fa": "",
-    "en": "",
+    "fa": "اینجا داره تنگ میشه من به سختی می توانم نفس بکشم",
+    "en": "It's getting tight in here. I can hardly breathe",
+    "groupCode": 0
+  },
+  {
+    "id": ,
+    "fa": "به لطف گرانش شدید، شما نمی توانید (فرضی) یک عضله را حرکت دهید",
+    "en": "Thanks to the extreme gravity, you wouldn't be able to move a muscle",
+    "groupCode": 0
+  },
+  {
+    "id": ,
+    "fa": "آیا می توانید با آن کفش ها زیاد راه بروید؟ خوب، نه برای مدت طولانی",
+    "en": "Can you walk much in those shoes? Well, not for long",
+    "groupCode": 0
+  },
+  {
+    "id": ,
+    "fa": "بچه شما الان چند سالشه؟",
+    "en": "What age is your baby now?",
+    "groupCode": 0
+  },
+  {
+    "id": ,
+    "fa": "عذرخواهی می کنم برای دیر پاسخم",
+    "en": "I apologise for my late response",
+    "groupCode": 0
+  },
+  {
+    "id": ,
+    "fa": "متأسفانه باید به شما بگویم که امروز باید شما را رد کنم",
+    "en": "I unfortunately have to tell you that I have to turn you down today",
+    "groupCode": 0
+  },
+  {
+    "id": ,
+    "fa": "هیچ نظری ندارم تو از کجا شنیدی",
+    "en": "I have no idea where you heard that",
+    "groupCode": 0
+  },
+  {
+    "id": ,
+    "fa": "طیف کاملی از احساسات و انگیزه ها وجود دارد",
+    "en": "There's a whole spectrum of emotions and motivations",
+    "groupCode": 0
+  },
+  {
+    "id": ,
+    "fa": "یک جک رکیک بود",
+    "en": "It was an extremely vulgar joke",
+    "groupCode": 0
+  },
+  {
+    "id": ,
+    "fa": "اخراج ها دلیلی است که شرکت شما خانواده شما نیست و همکاران شما دوستان شما نیستند",
+    "en": "Layoffs are proof that your company isn't your family and your colleagues aren't your friends",
+    "groupCode": 0
+  },
+  {
+    "id": ,
+    "fa": "تقریبا غیر ممکن است تشخیص دادن تفاوت دو قلوها",
+    "en": "It's almost impossible to tell the twins apart",
+    "groupCode": 0
+  },
+  {
+    "id": ,
+    "fa": "گربه زبونتو خورده (گرفته)؟",
+    "en": "Cat got your tongue?",
+    "groupCode": 0
+  },
+  {
+    "id": ,
+    "fa": "مرا داخل این نکش",
+    "en": "Don't drag me into this",
+    "groupCode": 0
+  },
+  {
+    "id": ,
+    "fa": "کاش می توانستم خلاق باشم",
+    "en": "I wish I could be creative",
+    "groupCode": 0
+  },
+  {
+    "id": ,
+    "fa": "شما یک استعداد زیادی برای ایجاد موقعیت های دشوار دارید",
+    "en": "You have a great talent for creating difficult situations",
+    "groupCode": 0
+  },
+  {
+    "id": ,
+    "fa": "نوشیدن ها پای من",
+    "en": "Drinks are on me",
+    "groupCode": 0
+  },
+  {
+    "id": ,
+    "fa": "بیا دونگی حساب کنیم",
+    "en": "Let's go Dutch",
     "groupCode": 0
   },
   {

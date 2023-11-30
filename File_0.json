@@ -1426,7 +1426,7 @@
   },
   {
     "id": 237,
-    "fa": "یک سگ خوب می تونه جلوی سارقان را بگیره",
+    "fa": "یک سگ خوب می تونه جلوی سارقان را باز دارد (ترساندن)",
     "en": "A good dog can deter burglars",
     "groupCode": 0
   },
@@ -3732,7 +3732,7 @@
   },
   {
     "id": 619,
-    "fa": "اگر سالانه ۱۰۰ هزار دلار درآمد دارید (می سازید)، چقدر از مردتان انتظار دارید که درآمد داشته باشد؟",
+    "fa": "اگر سالانه ۱۰۰ هزار دلار دارید می سازید، چقدر از مردتان انتظار دارید (فرضی) که درآمد داشته باشد؟",
     "en": "If you are making 100k a year, how much you would expect your man to make?",
     "groupCode": 0
   },
@@ -3881,7 +3881,7 @@
   },
   {
     "id": 643,
-    "fa": "من دارم تکامل را رد نمی کنم",
+    "fa": "من دارم تکامل را انکار نمی کنم",
     "en": "I am not denying evolution",
     "groupCode": 0
   },
@@ -4815,7 +4815,7 @@
   },
   {
     "id": 795,
-    "fa": "قیمت های بالا دارد بسیاری از زوج های جوان را از خرید خانه ها منصرف می کند",
+    "fa": "قیمت های بالا دارند بسیاری از زوج های جوان را از خرید خانه ها باز می دارند (ترساندن)",
     "en": "High prices are deterring many young couples from buying houses",
     "desc": "By using the plural form, it conveys the idea that there are multiple potential houses that young couples could buy, but they are being deterred by the high prices. It implies a broader impact on the housing market, affecting a range of houses rather than just one specific house.",
     "groupCode": 0
@@ -5957,7 +5957,7 @@
   },
   {
     "id": 983,
-    "fa": "چرا باید سیب زمینی سرخ کرده روی کباب باشد؟",
+    "fa": "چرا (فرضی) سیب زمینی سرخ کرده روی کباب باشد؟",
     "en": "Why would there be french fries on kebab?",
     "desc": "\"Why would be french fries on kebab\": This sentence is not grammatically correct. It is missing the subject before the verb \"be.\"\nTo make it grammatically correct, you can rephrase it as \"Why would French fries be on a kebab?\"",
     "groupCode": 0
@@ -10950,7 +10950,7 @@
   },
   {
     "id": 1807,
-    "fa": "راه موفقیت بالا و پایین خودش را دارد، هرگز تسلیم نشوید",
+    "fa": "جاده موفقیت بالا و پایین خودش را دارد، هرگز تسلیم نشوید",
     "en": "The road to success has its ups and downs, never give up",
     "groupCode": 0
   },
@@ -11787,6 +11787,7 @@
     "id": 1945,
     "fa": "دیروز چه روزی بود؟ دیروز یکشنبه بود",
     "en": "What day was yesterday? Yesterday was Sunday",
+    "desc": "\"What day was yesterday?\" is more commonly used and natural in English compared to \"What was the day yesterday?\" Both are grammatically correct, but the first option follows typical English word order and is more idiomatic.",
     "groupCode": 0
   },
   {

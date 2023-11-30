@@ -266,7 +266,13 @@
   {
     "id": 20045,
     "en": "Drive",
-    "de": "\n fahr \n fährst \n fährt \n fahren \n fahrt \n fahren",
+    "de": "\n fahre \n fährst \n fährt \n fahren \n fahrt \n fahren",
+    "groupCode": 1
+  },
+  {
+    "id": 20046,
+    "en": "Drive",
+    "de": "\n lebe \n lebst \n lebt \n leben \n lebt \n leben",
     "groupCode": 1
   },
   {
