@@ -1,7 +1,7 @@
 [
   {
     "id": 1,
-    "fa": "من مطمئنم که تو رقابت را پشت سر می گذاری",
+    "fa": "من مطمئنم که تو رقابت را پشت سر خواهی گذاشت",
     "en": "I'm sure you will pull off the competition",
     "groupCode": 0
   },
@@ -61,7 +61,7 @@
   },
   {
     "id": 11,
-    "fa": "اون کار را برای چی انجام دادی؟",
+    "fa": "اون را برای چی انجام دادی؟",
     "en": "What did you do that for?",
     "groupCode": 0
   },
@@ -3899,7 +3899,7 @@
   },
   {
     "id": 646,
-    "fa": "آن از طرف من خواهد بود",
+    "fa": "آن (فرضی) از طرف من خواهد بود",
     "en": "That would be it from my site",
     "desc": "The phrase \"That would be it from my side\" is commonly used to indicate that the speaker has nothing more to add or contribute to the conversation or situation. It implies that the speaker has said or done everything they intended to and has no further input.",
     "groupCode": 0
@@ -11883,7 +11883,8 @@
   {
     "id": 1961,
     "fa": "خون روی زمین ریخته شد. نبود؟",
-    "en": "The blood was spilt on the ground. Was it not?",
+    "en": "The blood was spilt on the ground. Wasn't it?",
+    "desc": "The first one, \"Was it not?\" is more formal, while the second one, \"Wasn't it?\" is less formal and more conversational. Either can be used depending on the context and the tone you want to convey.",
     "groupCode": 0
   },
   {

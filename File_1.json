@@ -211,7 +211,7 @@
   },
   {
     "id": 2036,
-    "fa": "او (مرد) چقدر میتواند پیش برود؟",
+    "fa": "او (مرد) چقدر میتونه پیش بره (برسه)؟",
     "en": "How far can he get?",
     "groupCode": 0
   },
@@ -272,7 +272,7 @@
   {
     "id": 2046,
     "fa": "برای من زیاد طول نمی کشد که قلقش دستم بیاد",
-    "en": "It does not take long for me to get the hang of it",
+    "en": "It doesn't take long for me to get the hang of it",
     "groupCode": 0
   },
   {
@@ -409,7 +409,7 @@
   },
   {
     "id": 2069,
-    "fa": "کارت پرواز خود را دریافت کنید سپس سوار هواپیما بشید",
+    "fa": "کارت پرواز (کارت سفر با هواپیما) خود را دریافت کنید سپس سوار هواپیما بشید",
     "en": "Get your boarding pass then board the plane",
     "groupCode": 0
   },
@@ -458,7 +458,7 @@
   },
   {
     "id": 2077,
-    "fa": "شما باید آن را پر کنید قبل از بازگرداندن ماشین",
+    "fa": "شما باید آن را پر کنید قبل از اینکه شما ماشین را بازگردانبد",
     "en": "You should fill it up before you return the car",
     "groupCode": 0
   },
@@ -470,7 +470,7 @@
   },
   {
     "id": 2079,
-    "fa": "پس از یک پرواز طولانی، برای جمع آوری چمدان های خود به سمت تحویل بار رفتیم",
+    "fa": "پس از یک پرواز طولانی، ما ه سمت تحویل بار رفتیم تا جمع کنیم چمدان هایمان را",
     "en": "After a long flight, we headed to the baggage claim to collect our suitcases",
     "groupCode": 0
   },
@@ -488,7 +488,7 @@
   },
   {
     "id": 2082,
-    "fa": "کت و شلوارم را برای سفر در یک کاور لباس جمع کردم",
+    "fa": "کت و شلوارم را برای سفر در یک کاور لباس جمع (پک) کردم",
     "en": "I packed my suit in a garment bag for the trip",
     "groupCode": 0
   },
@@ -536,7 +536,7 @@
   },
   {
     "id": 2090,
-    "fa": "ما (همین الان) داشتیم صحبت می کردیم ولی تلفن قطع شد",
+    "fa": "ما (همین الان) داشتیم صحبت می کردیم ولی خط قطع شد",
     "en": "We were just talking but the line cut out",
     "desc": "Only moments ago, we were talking when the line disconnected",
     "groupCode": 0
@@ -780,6 +780,366 @@
     "id": 2130,
     "fa": "امروز هوا خیلی سرده (به تلخی). بفرمایید یک روسری برای گرم نگه داشتن شما",
     "en": "It's bitterly cold today. Here's a scarf to keep you warm",
+    "groupCode": 0
+  },
+  {
+    "id": 2131,
+    "fa": "کشورهای مسلمان باید روابط سیاسی خود را با اسرائیل قطع کنند حداقل برای بک مدت محدودی",
+    "en": "Muslim countries should cut off political ties with Israel at least for a limited period of time",
+    "groupCode": 0
+  },
+  {
+    "id": 2132,
+    "fa": "من این را دارم نمی گم، شما داری بهانه می گیری",
+    "en": "I'm not saying that, you're making excuses",
+    "groupCode": 0
+  },
+  {
+    "id": 2133,
+    "fa": "من احساس می کنم (مثل) گوش هایم گرفته",
+    "en": "I feel like my ears are clogged",
+    "groupCode": 0
+  },
+  {
+    "id": 2134,
+    "fa": "شما به سمعک نیاز دارید",
+    "en": "You need a hearing aid",
+    "groupCode": 0
+  },
+  {
+    "id": 2135,
+    "fa": "دیدم تار است",
+    "en": "My vision is blurred",
+    "groupCode": 0
+  },
+  {
+    "id": 2136,
+    "fa": "من نزدیک بین/دور بین هستم",
+    "en": "I'm near sighted/far-sighted",
+    "groupCode": 0
+  },
+  {
+    "id": 2137,
+    "fa": "تو به عینک نیاز داری",
+    "en": "You need glasses",
+    "groupCode": 0
+  },
+  {
+    "id": 2138,
+    "fa": "جریمه شدم",
+    "en": "I was fined",
+    "groupCode": 0
+  },
+  {
+    "id": 2139,
+    "fa": "من نمی خواهم جریمه شوم",
+    "en": "I don't want to be fined",
+    "groupCode": 0
+  },
+  {
+    "id": 2140,
+    "fa": "اگر کار خود را خیلی سریع تکمیل کنید، کار بیشتری به شما داده خواهد شد، نه پول بیشتر",
+    "en": "If you complete your work too quickly, you'll be given more work, not more money",
+    "groupCode": 0
+  },
+  {
+    "id": 2141,
+    "fa": "آیا شما مستأجر جدید هستید؟",
+    "en": "Are you the new tenant?",
+    "groupCode": 0
+  },
+  {
+    "id": 2142,
+    "fa": "آیا پایه ای؟",
+    "en": "Are you down?",
+    "groupCode": 0
+  },
+  {
+    "id": 2143,
+    "fa": "چندین آزمایش آژیر (/سایرن/) در 20 دقیقه آینده انجام خواهد شد",
+    "en": "Multiple siren tests will take place in the next 20 minutes",
+    "groupCode": 0
+  },
+  {
+    "id": 2144,
+    "fa": "سوال من از شماست",
+    "en": "It's my question to you",
+    "groupCode": 0
+  },
+  {
+    "id": 2145,
+    "fa": "نمی توان کمکی کرد",
+    "en": "It can't be helped",
+    "groupCode": 0
+  },
+  {
+    "id": 2146,
+    "fa": "بهتر ساکت باشی",
+    "en": "You better hush",
+    "groupCode": 0
+  },
+  {
+    "id": 2147,
+    "fa": "این رزومه به من داد مصاحبه ها در گوگل",
+    "en": "This resume got me interviews at Google",
+    "groupCode": 0
+  },
+  {
+    "id": 2148,
+    "fa": "اینجا داره تنگ میشه من به سختی می توانم نفس بکشم",
+    "en": "It's getting tight in here. I can hardly breathe",
+    "groupCode": 0
+  },
+  {
+    "id": 2149,
+    "fa": "به لطف گرانش شدید، شما نمی توانید (فرضی) یک عضله را حرکت دهید",
+    "en": "Thanks to the extreme gravity, you wouldn't be able to move a muscle",
+    "groupCode": 0
+  },
+  {
+    "id": 2150,
+    "fa": "آیا می توانید با آن کفش ها زیاد راه بروید؟ خوب، نه برای مدت طولانی",
+    "en": "Can you walk much in those shoes? Well, not for long",
+    "groupCode": 0
+  },
+  {
+    "id": 2151,
+    "fa": "بچه شما الان چند سالشه؟",
+    "en": "What age is your baby now?",
+    "groupCode": 0
+  },
+  {
+    "id": 2152,
+    "fa": "عذرخواهی می کنم برای دیر پاسخم",
+    "en": "I apologise for my late response",
+    "groupCode": 0
+  },
+  {
+    "id": 2153,
+    "fa": "متأسفانه باید به شما بگویم که امروز باید شما را رد کنم",
+    "en": "I unfortunately have to tell you that I have to turn you down today",
+    "groupCode": 0
+  },
+  {
+    "id": 2154,
+    "fa": "هیچ نظری ندارم تو از کجا شنیدی",
+    "en": "I have no idea where you heard that",
+    "groupCode": 0
+  },
+  {
+    "id": 2155,
+    "fa": "طیف کاملی از احساسات و انگیزه ها وجود دارد",
+    "en": "There's a whole spectrum of emotions and motivations",
+    "groupCode": 0
+  },
+  {
+    "id": 2156,
+    "fa": "یک جک رکیک بود",
+    "en": "It was an extremely vulgar joke",
+    "groupCode": 0
+  },
+  {
+    "id": 2157,
+    "fa": "اخراج ها دلیلی است که شرکت شما خانواده شما نیست و همکاران شما دوستان شما نیستند",
+    "en": "Layoffs are proof that your company isn't your family and your colleagues aren't your friends",
+    "groupCode": 0
+  },
+  {
+    "id": 2158,
+    "fa": "تقریبا غیر ممکن است تشخیص دادن تفاوت دو قلوها",
+    "en": "It's almost impossible to tell the twins apart",
+    "groupCode": 0
+  },
+  {
+    "id": 2159,
+    "fa": "گربه زبونتو خورده (گرفته)؟",
+    "en": "Cat got your tongue?",
+    "groupCode": 0
+  },
+  {
+    "id": 2160,
+    "fa": "مرا داخل این نکش",
+    "en": "Don't drag me into this",
+    "groupCode": 0
+  },
+  {
+    "id": 2161,
+    "fa": "کاش می توانستم خلاق باشم",
+    "en": "I wish I could be creative",
+    "groupCode": 0
+  },
+  {
+    "id": 2162,
+    "fa": "شما یک استعداد زیادی برای ایجاد موقعیت های دشوار دارید",
+    "en": "You have a great talent for creating difficult situations",
+    "groupCode": 0
+  },
+  {
+    "id": 2163,
+    "fa": "نوشیدن ها پای من",
+    "en": "Drinks are on me",
+    "groupCode": 0
+  },
+  {
+    "id": 2164,
+    "fa": "بیا دونگی حساب کنیم",
+    "en": "Let's go Dutch",
+    "groupCode": 0
+  },
+  {
+    "id": 2165,
+    "fa": "در این تیم هر کسی تو همه کارا همکاری می کنه",
+    "en": "In this team everyone chips in on everything",
+    "groupCode": 0
+  },
+  {
+    "id": 2166,
+    "fa": "من ایده خود را فردا در جلسه مطرح خواهم کرد",
+    "en": "I'll pitch my idea at the meeting tomorrow",
+    "groupCode": 0
+  },
+  {
+    "id": 2167,
+    "fa": "این شرکت بدترین شرکتی است که تا به حال ما با آن سروکار داشته ایم",
+    "en": "This company has been the single worst company we've ever dealt with",
+    "groupCode": 0
+  },
+  {
+    "id": 2168,
+    "fa": "کاش همه مثل من خوب بودند",
+    "en": "I wish everybody was as nice as I am",
+    "groupCode": 0
+  },
+  {
+    "id": 2169,
+    "fa": "قبل از اینکه ما پروژه را شروع کنیم، اجازه  به من دهید یک پیشینه کوتاه مهبا کنم تا زمینه ای به شما بدهم",
+    "en": "Before we start the project, let me provide a short backstory to give you some context",
+    "groupCode": 0
+  },
+  {
+    "id": 2170,
+    "fa": "برای خودم یک لپ تاپ گرفتم",
+    "en": "I got myself a laptop",
+    "groupCode": 0
+  },
+  {
+    "id": 2171,
+    "fa": "تاریخ انقضا به پایان رسیده است (سررسید شده)",
+    "en": "Expiration date is overdue",
+    "groupCode": 0
+  },
+  {
+    "id": 2172,
+    "fa": "لطفا بنویسید تاریخ باز شدن کارتن جدید شیر را با ماژیک",
+    "en": "Please write the opening date of the new carton of milk with a sharpie",
+    "groupCode": 0
+  },
+  {
+    "id": 2173,
+    "fa": "چه باید بکنیم اگر بخواهیم حسابمون دوباره فعال شود؟",
+    "en": "What should we do if we want to have our account activated again?",
+    "groupCode": 0
+  },
+  {
+    "id": 2174,
+    "fa": "بچه ها تازه به اینجا رسیدید؟",
+    "en": "You guys just got here?",
+    "groupCode": 0
+  },
+  {
+    "id": 2175,
+    "fa": "چه کس دیگری اونجا برام ایستاده بود تا باهاش صحبت کنم؟",
+    "en": "Who else was standing there for me to talk to?",
+    "groupCode": 0
+  },
+  {
+    "id": 2176,
+    "fa": "آیا این حتی یک نام است؟",
+    "en": "Is it even a name?",
+    "groupCode": 0
+  },
+  {
+    "id": 2177,
+    "fa": "مصری فهمیدش",
+    "en": "The Egyption figured it out",
+    "groupCode": 0
+  },
+  {
+    "id": 2178,
+    "fa": "تو قراره درباره اش چه کنی؟",
+    "en": "What are you gonna do about it?",
+    "groupCode": 0
+  },
+  {
+    "id": 2179,
+    "fa": "در شرایط من (فرضی) چه کرده بودید؟",
+    "en": "What would you have done in my situation?",
+    "groupCode": 0
+  },
+  {
+    "id": 2180,
+    "fa": "مشکل ماشینت چیه؟ سپر شکسته است",
+    "en": "What's the matter with your car? The bumper is broken",
+    "groupCode": 0
+  },
+  {
+    "id": 2181,
+    "fa": "گلگیر جلوی ماشینش فرو رفته است",
+    "en": "The front fender on his car is dented",
+    "groupCode": 0
+  },
+  {
+    "id": 2182,
+    "fa": "استفاده کنید از چراغ راهنما هنگام تغییر دادن مسیر",
+    "en": "Use your turn signal when changing lanes",
+    "groupCode": 0
+  },
+  {
+    "id": 2183,
+    "fa": "یک قالپاق براق در کنار جاده پیدا کردم",
+    "en": "I found a shiny hubcap on the roadside",
+    "groupCode": 0
+  },
+  {
+    "id": 2184,
+    "fa": "برف پاک کن ها را روشن کردم در هنگام طوفان باران",
+    "en": "I turned on the windshield wipers during the rainstorm",
+    "groupCode": 0
+  },
+  {
+    "id": 2185,
+    "fa": "آینه بغل را قبل از استارت زدن ماشین تنظیم کردم",
+    "en": "I adjusted the side mirror before starting the car",
+    "groupCode": 0
+  },
+  {
+    "id": 2186,
+    "fa": "یک باربند جدید روی ماشینم نصب کردم",
+    "en": "I installed a new roof rack on my car",
+    "groupCode": 0
+  },
+  {
+    "id": 2187,
+    "fa": "صدات قطع و وصل میشه",
+    "en": "Your voice is breaking up",
+    "groupCode": 0
+  },
+  {
+    "id": 2188,
+    "fa": "تو چغلی منو کردی؟",
+    "en": "Your tattled on me?",
+    "groupCode": 0
+  },
+  {
+    "id": 2189,
+    "fa": "اگر شیطون باشی، مادرت به تو درکونی خواهد زد",
+    "en": "If you're naughty, your mother will spank you",
+    "groupCode": 0
+  },
+  {
+    "id": 2190,
+    "fa": "من به او (زن) سیلی زدم",
+    "en": "I slapped her",
     "groupCode": 0
   }
 ]
