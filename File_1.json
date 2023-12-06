@@ -115,7 +115,7 @@
   },
   {
     "id": 2020,
-    "fa": "اگر تکامل پیدا نکنیم دچار رکود و پوسیدگی می شویم",
+    "fa": "اگر تکامل پیدا نکنیم رکود و پوسیده می شیم",
     "en": "If we do not evolve we stagnate and rot",
     "groupCode": 0
   },
@@ -458,7 +458,7 @@
   },
   {
     "id": 2077,
-    "fa": "شما باید آن را پر کنید قبل از اینکه شما ماشین را بازگردانبد",
+    "fa": "شما باید آن را پر کنید قبل از اینکه شما ماشین را بازگردانید",
     "en": "You should fill it up before you return the car",
     "groupCode": 0
   },
@@ -470,7 +470,7 @@
   },
   {
     "id": 2079,
-    "fa": "پس از یک پرواز طولانی، ما ه سمت تحویل بار رفتیم تا جمع کنیم چمدان هایمان را",
+    "fa": "پس از یک پرواز طولانی، ما به سمت تحویل بار رفتیم تا چمدان هایمان را جمع کنیم",
     "en": "After a long flight, we headed to the baggage claim to collect our suitcases",
     "groupCode": 0
   },
@@ -512,8 +512,8 @@
   },
   {
     "id": 2086,
-    "fa": "من خوشحالم، منم همینطور",
-    "en": "I am happy, so am I",
+    "fa": "من خوشحالم، منم همینطور، منم همینطور",
+    "en": "I am happy, so am I, I am either",
     "groupCode": 0
   },
   {
@@ -784,8 +784,8 @@
   },
   {
     "id": 2131,
-    "fa": "کشورهای مسلمان باید روابط سیاسی خود را با اسرائیل قطع کنند حداقل برای بک مدت محدودی",
-    "en": "Muslim countries should cut off political ties with Israel at least for a limited period of time",
+    "fa": "ما قطع شدیم وسط مکالمه تلفنی مان",
+    "en": "We were cut off in the middle of our phone conversation",
     "groupCode": 0
   },
   {
@@ -808,7 +808,7 @@
   },
   {
     "id": 2135,
-    "fa": "دیدم تار است",
+    "fa": "دیدم تار شده",
     "en": "My vision is blurred",
     "groupCode": 0
   },
@@ -904,7 +904,7 @@
   },
   {
     "id": 2151,
-    "fa": "بچه شما الان چند سالشه؟",
+    "fa": "بچه شما چه سنی هستش الان؟",
     "en": "What age is your baby now?",
     "groupCode": 0
   },
@@ -934,7 +934,7 @@
   },
   {
     "id": 2156,
-    "fa": "یک جک رکیک بود",
+    "fa": "یک جک بیش از اندازه رکیک بود",
     "en": "It was an extremely vulgar joke",
     "groupCode": 0
   },
@@ -1000,7 +1000,7 @@
   },
   {
     "id": 2167,
-    "fa": "این شرکت بدترین شرکتی است که تا به حال ما با آن سروکار داشته ایم",
+    "fa": "این شرکت تنها بدترینی است که ما تا به حال با آن سروکار داشته ایم",
     "en": "This company has been the single worst company we've ever dealt with",
     "groupCode": 0
   },
@@ -1012,7 +1012,7 @@
   },
   {
     "id": 2169,
-    "fa": "قبل از اینکه ما پروژه را شروع کنیم، اجازه  به من دهید یک پیشینه کوتاه مهبا کنم تا زمینه ای به شما بدهم",
+    "fa": "قبل از اینکه ما پروژه را شروع کنیم، اجازه به من دهید یک پیشینه کوتاه مهیا کنم تا زمینه ای به شما بدهم",
     "en": "Before we start the project, let me provide a short backstory to give you some context",
     "groupCode": 0
   },
@@ -1030,8 +1030,8 @@
   },
   {
     "id": 2172,
-    "fa": "لطفا بنویسید تاریخ باز شدن کارتن جدید شیر را با ماژیک",
-    "en": "Please write the opening date of the new carton of milk with a sharpie",
+    "fa": "من استفاده کردم از یک ماژیک برای برچسب زدن به کیسه ناهارم که شامل یک کارتن شیر بود",
+    "en": "I used a Sharpie to label my lunch bag which included a carton of milk",
     "groupCode": 0
   },
   {
@@ -1054,7 +1054,7 @@
   },
   {
     "id": 2176,
-    "fa": "آیا این حتی یک نام است؟",
+    "fa": "آیا هستش حتی یک نام؟",
     "en": "Is it even a name?",
     "groupCode": 0
   },
@@ -1084,7 +1084,7 @@
   },
   {
     "id": 2181,
-    "fa": "گلگیر جلوی ماشینش فرو رفته است",
+    "fa": "گلگیر جلوی ماشینش (مرد) فرو رفته است",
     "en": "The front fender on his car is dented",
     "groupCode": 0
   },
@@ -1120,7 +1120,7 @@
   },
   {
     "id": 2187,
-    "fa": "صدات قطع و وصل میشه",
+    "fa": "صدات داره قطع و وصل میشه",
     "en": "Your voice is breaking up",
     "groupCode": 0
   },
