@@ -273,6 +273,7 @@
     "id": 2046,
     "fa": "برای من زیاد طول نمی کشد که قلقش دستم بیاد",
     "en": "It doesn't take long for me to get the hang of it",
+    "desc": "If you want to use \"a\" with \"long,\" you might say something like \"It doesn't take a long time for me,\" but in the original sentence, \"long\" is already functioning as a noun.",
     "groupCode": 0
   },
   {
@@ -760,7 +761,7 @@
   },
   {
     "id": 2127,
-    "fa": "صدای خراشیدن ناخن ها روی تخته گچی واقعاً مرا می ترساند",
+    "fa": "صدای ناخن ها (در حال) خراشیدن روی تخته گچی واقعاً مرا می ترساند",
     "en": "The sound of nails scraping on a chalkboard really creeps me out",
     "groupCode": 0
   },
@@ -790,7 +791,7 @@
   },
   {
     "id": 2132,
-    "fa": "من این را دارم نمی گم، شما داری بهانه می گیری",
+    "fa": "من دارم اونو نمی گم، شما داری بهانه می گیری",
     "en": "I'm not saying that, you're making excuses",
     "groupCode": 0
   },
@@ -851,7 +852,7 @@
   {
     "id": 2142,
     "fa": "آیا پایه ای؟",
-    "en": "Are you down?",
+    "en": "\n 1.Are you down? \n 2.Are you game?",
     "groupCode": 0
   },
   {
@@ -1008,6 +1009,7 @@
     "id": 2168,
     "fa": "کاش همه مثل من خوب بودند",
     "en": "I wish everybody was as nice as I am",
+    "desc": "\n\"I wish everybody was as nice as I am\" is formally correct, matching the subjective case of the pronoun \"I.\" However, in everyday conversation, it's widely accepted to use \"me\" in this context, as in \"I wish everybody was as nice as me.\" Both versions are commonly used, and the choice may depend on the formality of the context and personal preference.",
     "groupCode": 0
   },
   {

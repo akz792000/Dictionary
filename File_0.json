@@ -4568,7 +4568,7 @@
   },
   {
     "id": 755,
-    "fa": "داری قطع و وصل میشه",
+    "fa": "داری قطع و وصل میشی",
     "en": "You're breaking up",
     "groupCode": 0
   },
@@ -8388,7 +8388,7 @@
   },
   {
     "id": 1383,
-    "fa": "من عرق کردم",
+    "fa": "من عرقی هستم",
     "en": "I'm sweaty",
     "groupCode": 0
   },
@@ -8407,7 +8407,7 @@
   {
     "id": 1386,
     "fa": "من پایه ام",
-    "en": "I'm game",
+    "en": "\n 1.I'm game \n 2.I'm down",
     "groupCode": 0
   },
   {
@@ -8697,7 +8697,7 @@
   {
     "id": 1434,
     "fa": "بعدا سر خواهم زد",
-    "en": "I'll stop by later",
+    "en": "\n 1.I'll stop by later \n 2.I'll come by later",
     "groupCode": 0
   },
   {
@@ -10995,7 +10995,7 @@
   },
   {
     "id": 1814,
-    "fa": "به زود بیدار شدن عادت داشتم از زمانی که کار جدیدم را شروع کردم",
+    "fa": "به زود بیدار شدن عادت کرده ام از زمانی که کار جدیدم را شروع کرده ام",
     "en": "I have been used to waking up early since I started my new job",
     "desc": "\n be used to = عادت داشتن \n get used to = عادت کردن \n",
     "groupCode": 0

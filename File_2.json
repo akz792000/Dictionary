@@ -658,8 +658,8 @@
   },
   {
     "id": 10109,
-    "en": "I eat a salad",
-    "de": "Ich esse einen Salat",
+    "en": "I eat a salad but the salad with tomatoes is expensive",
+    "de": "Ich esse einen Salat aber Der Salat mit Tomaten ist teuer",
     "groupCode": 1
   },
   {
@@ -1947,8 +1947,8 @@
   },
   {
     "id": 10322,
-    "en": "What's in the salad? The salad contains tomatoes, potatoes, fish",
-    "de": "Was ist in dem Salat? In dem Salat sind Tomaten, Kartoffeln, Fisch",
+    "en": "What's in the salad? The salad contains tomatoes, potatoes, fish and meat",
+    "de": "Was ist in dem Salat? In dem Salat sind Tomaten, Kartoffeln, Fisch, Fleisch",
     "groupCode": 1
   },
   {
@@ -2254,8 +2254,38 @@
   },
   {
     "id": 10372,
-    "en": "The artist (she) paints a church in Russia",
-    "de": "Die Künstlerin malt eine Kirche in Russland",
+    "en": "The artist (she) paints a church in Russia very well",
+    "de": "Die Künstlerin malt sehr gut eine Kirche in Russland.",
+    "groupCode": 1
+  },
+  {
+    "id": 10373,
+    "en": "Eight kilos of tomatoes and nine kilos of cheese? What do you cook?",
+    "de": "Acht Kilo Tomaten und neun Kilo Käse? Was kochst du?",
+    "groupCode": 1
+  },
+  {
+    "id": 10374,
+    "en": "He was nice to me",
+    "de": "Er war nett zu mir",
+    "groupCode": 1
+  },
+  {
+    "id": 10375,
+    "en": "How much does eight kilos of strawberries cost?",
+    "de": "Wie viel kostet acht Kilo Erdbeeren?",
+    "groupCode": 1
+  },
+  {
+    "id": 10376,
+    "en": "The doner kebab costs two euros",
+    "de": "Der döner kostet zwei Euro",
+    "groupCode": 1
+  },
+  {
+    "id": 10377,
+    "en": "How much?",
+    "de": "Wie viel?",
     "groupCode": 1
   }
 ]

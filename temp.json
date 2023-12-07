@@ -2,6 +2,17 @@
   {
     "id":,
     "fa": "",
+    "en": "This guy looks a bit like you",
+    "groupCode": 0
+  },  {
+    "id":,
+    "fa": "",
+    "en": "This guy was a bit like me",
+    "groupCode": 0
+  },
+  {
+    "id":,
+    "fa": "",
     "en": "Why I would be angry?",
     "groupCode": 0
   },
@@ -27,6 +38,72 @@
     "id":,
     "fa": "",
     "en": "Have you been smoking any pot today?",
+    "groupCode": 0
+  },
+  {
+    "id":,
+    "fa": "",
+    "en": "keep my place free from intruders",
+    "groupCode": 0
+  },
+  {
+    "id":,
+    "fa": "",
+    "en": "How can i afford an apple",
+    "groupCode": 0
+  },
+  {
+    "id":,
+    "fa": "",
+    "en": "Could I have a blanket and a pillow?",
+    "groupCode": 0
+  },
+  {
+    "id":,
+    "fa": "",
+    "en": "Could I have a blanket and a pillow please?",
+    "groupCode": 0
+  },
+  {
+    "id":,
+    "fa": "",
+    "en": "How long is the flight?",
+    "groupCode": 0
+  },
+  {
+    "id":,
+    "fa": "",
+    "en": "Do me a favor. Don't disturb my friend. He's dead tired",
+    "groupCode": 0
+  },
+  {
+    "id":,
+    "fa": "",
+    "en": "He reminds me of my father",
+    "groupCode": 0
+  },
+  {
+    "id":,
+    "fa": "",
+    "en": "Despite his high position, the boss remained lenient and humble",
+    "groupCode": 0
+  },
+  {
+    "id":,
+    "fa": "",
+    "en": "I wish I could somehow go back in time",
+    "groupCode": 0
+  },
+  {
+    "id":,
+    "fa": "",
+    "en": "I wish I knew back then what I know now",
+    "groupCode": 0
+  },
+  {
+    "id":,
+    "fa": "",
+    "en": "Every time the neighbor's dog barks all night, I get annoyed",
     "groupCode": 0
   }
 ]
