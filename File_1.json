@@ -1185,5 +1185,24 @@
     "fa": "قطعاً آن چیزی نبود که من فکر کردم قرار بود باشد",
     "en": "It was definitely not what I thought it was gonna be",
     "groupCode": 0
+  },
+  {
+    "id": 2198,
+    "fa": "او (مرد) غذاهای ناسالم زیادی می خورد. او اضافه وزن ندارد, اما",
+    "en": "He eats a lot of junk food. He's not overweight, though (but)",
+    "desc": "Equal to \n 1.He eats a lot of junk food. Though, he's not overweight \n 2.Though, He eats a lot of junk food. He's not overweight",
+    "groupCode": 0
+  },
+  {
+    "id": 2199,
+    "fa": "او تجربه دارد. او نتوانسته شغلی پیدا کند, اما",
+    "en": "He has experience. He hasn't been able to get a job, though (but)",
+    "groupCode": 0
+  },
+  {
+    "id": 2200,
+    "fa": "آیا به کمک نیاز دارید؟ من خوبم. با تشکر، اما",
+    "en": "Do you need help? I'm fine. Thanks, though (but)",
+    "groupCode": 0
   }
 ]
