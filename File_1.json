@@ -513,8 +513,8 @@
   },
   {
     "id": 2086,
-    "fa": "من خوشحالم، منم همینطور، منم همینطور",
-    "en": "I am happy, so am I, I am either",
+    "fa": "من خوشحالم، منم همینطور",
+    "en": "I am happy, so am I",
     "groupCode": 0
   },
   {
@@ -647,7 +647,7 @@
   },
   {
     "id": 2108,
-    "fa": "بچه را پوشک کن",
+    "fa": "نوزاد را پوشک کن",
     "en": "Put a diaper on a baby",
     "groupCode": 0
   },
@@ -785,7 +785,7 @@
   },
   {
     "id": 2131,
-    "fa": "ما قطع شدیم وسط مکالمه تلفنی مان",
+    "fa": "ما قطع شدیم در وسط مکالمه تلفنی مان",
     "en": "We were cut off in the middle of our phone conversation",
     "groupCode": 0
   },
@@ -857,8 +857,8 @@
   },
   {
     "id": 2143,
-    "fa": "چندین آزمایش آژیر (/سایرن/) در 20 دقیقه آینده انجام خواهد شد",
-    "en": "Multiple siren tests will take place in the next 20 minutes",
+    "fa": "چندین آزمایش آژیر در 20 دقیقه بعدی انجام خواهد شد",
+    "en": "Multiple siren (/سایرن/) tests will take place in the next 20 minutes",
     "groupCode": 0
   },
   {
@@ -893,7 +893,7 @@
   },
   {
     "id": 2149,
-    "fa": "به لطف گرانش شدید، شما نمی توانید (فرضی) یک عضله را حرکت دهید",
+    "fa": "به لطف گرانش شدید، شما قادر نخواهید بود (فرضی) یک عضله را حرکت دهید",
     "en": "Thanks to the extreme gravity, you wouldn't be able to move a muscle",
     "groupCode": 0
   },
@@ -905,13 +905,13 @@
   },
   {
     "id": 2151,
-    "fa": "بچه شما چه سنی هستش الان؟",
+    "fa": "نوزاد شما الان چه سنی هستش؟",
     "en": "What age is your baby now?",
     "groupCode": 0
   },
   {
     "id": 2152,
-    "fa": "عذرخواهی می کنم برای دیر پاسخم",
+    "fa": "عذرخواهی می کنم برای پاسخ دیرم",
     "en": "I apologise for my late response",
     "groupCode": 0
   },
@@ -923,13 +923,13 @@
   },
   {
     "id": 2154,
-    "fa": "هیچ نظری ندارم تو از کجا شنیدی",
+    "fa": "هیچ نظری ندارم تو آنرا از کجا شنیدی",
     "en": "I have no idea where you heard that",
     "groupCode": 0
   },
   {
     "id": 2155,
-    "fa": "طیف کاملی از احساسات و انگیزه ها وجود دارد",
+    "fa": "یک طیف کاملی از احساسات و انگیزه ها وجود دارد",
     "en": "There's a whole spectrum of emotions and motivations",
     "groupCode": 0
   },
@@ -1001,7 +1001,7 @@
   },
   {
     "id": 2167,
-    "fa": "این شرکت تنها بدترینی است که ما تا به حال با آن سروکار داشته ایم",
+    "fa": "این شرکت هست (مدتی) تنها بدترینی شرکتی (که) تا به حال ما با آن سروکار داشته ایم",
     "en": "This company has been the single worst company we've ever dealt with",
     "groupCode": 0
   },
@@ -1032,8 +1032,8 @@
   },
   {
     "id": 2172,
-    "fa": "من استفاده کردم از یک ماژیک برای برچسب زدن به کیسه ناهارم که شامل یک کارتن شیر بود",
-    "en": "I used a Sharpie to label my lunch bag which included a carton of milk",
+    "fa": "من از یک ماژیک برای برچسب زدن به کیسه ناهارم استفاده کردم",
+    "en": "I used a sharpie to label my lunch bag",
     "groupCode": 0
   },
   {
@@ -1092,7 +1092,7 @@
   },
   {
     "id": 2182,
-    "fa": "استفاده کنید از چراغ راهنما هنگام تغییر دادن مسیر",
+    "fa": "استفاده کن از چراغ راهنمایت وقت تغییر دادن خطها",
     "en": "Use your turn signal when changing lanes",
     "groupCode": 0
   },
@@ -1142,6 +1142,48 @@
     "id": 2190,
     "fa": "من به او (زن) سیلی زدم",
     "en": "I slapped her",
+    "groupCode": 0
+  },
+  {
+    "id": 2191,
+    "fa": "تو موذی هستی",
+    "en": "You're sneaky",
+    "groupCode": 0
+  },
+  {
+    "id": 2192,
+    "fa": "در چه حالی هستی؟ خوب، فقط با جریان پیش میرم",
+    "en": "How are you doing? Good, just going with the flow",
+    "groupCode": 0
+  },
+  {
+    "id": 2193,
+    "fa": "خیلی وسوسه انگیزه",
+    "en": "It's very tempting",
+    "groupCode": 0
+  },
+  {
+    "id": 2194,
+    "fa": "برای آن چند ساعت نیاز داری (فرضی) تدریس کنی؟",
+    "en": "How many hours would you need to teach for that?",
+    "groupCode": 0
+  },
+  {
+    "id": 2195,
+    "fa": "آیا می دانید نام جایی که نیاز دارید بروید چیست؟",
+    "en": "Do you know the name of where you need to go?",
+    "groupCode": 0
+  },
+  {
+    "id": 2196,
+    "fa": "من خیلی بگا رفتم",
+    "en": "I'm so fucked up",
+    "groupCode": 0
+  },
+  {
+    "id": 2197,
+    "fa": "قطعاً آن چیزی نبود که من فکر کردم قرار بود باشد",
+    "en": "It was definitely not what I thought it was gonna be",
     "groupCode": 0
   }
 ]

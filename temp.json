@@ -105,5 +105,72 @@
     "fa": "",
     "en": "Every time the neighbor's dog barks all night, I get annoyed",
     "groupCode": 0
+  },
+  {
+    "id":,
+    "fa": "",
+    "en": "What does the rest of my day look like?",
+    "groupCode": 0
+  },
+  {
+    "id":,
+    "fa": "",
+    "en": "Did you have any trouble finding the office?",
+    "groupCode": 0
+  },
+  {
+    "id":,
+    "fa": "",
+    "en": "Thanks so much for coming in. It's my pleasure, thanks so much for meeting with me",
+    "groupCode": 0
+  },
+  {
+    "id":,
+    "fa": "",
+    "en": "How was your weekend? It was great, we celebrated my mom's birthday",
+    "groupCode": 0
+  },
+  {
+    "id":,
+    "fa": "",
+    "en": "",
+    "groupCode": 0
+  },
+  {
+    "id":,
+    "fa": "",
+    "en": "Did you do anything interesting over the weekend? Nope. The directions on the web site were great",
+    "groupCode": 0
+  },
+  {
+    "id":,
+    "fa": "",
+    "en": "I got a lot done",
+    "groupCode": 0
+  },
+  {
+    "id":,
+    "fa": "",
+    "en": "So, to get started, why don't you tell me a little bit about yourself",
+    "groupCode": 0
+  },
+  {
+    "id":,
+    "fa": "",
+    "en": "I'd like to express my deep gratitude to the following people, without whom this book would not have been possible",
+    "groupCode": 0
+  },
+  {
+    "id":,
+    "fa": "",
+    "en": "I have a belief. If you wanna get to know someone, you gotta give 'em the power; then you can see their true colors",
+    "desc": "\"wanna\" (a colloquial way of saying \"want to\") and \"gotta\" (a contraction of \"got to\")",
+    "groupCode": 0
+  },
+  {
+    "id":,
+    "fa": "",
+    "en": "I don't have time for trivia; let's focus on the important tasks at hand",
+    "groupCode": 0
   }
 ]

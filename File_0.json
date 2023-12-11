@@ -13,7 +13,7 @@
   },
   {
     "id": 3,
-    "fa": "بزار یک چیزی را رک مشخص کنیم",
+    "fa": "بیا یک چیزی را رک مشخص کنیم",
     "en": "Let's get something straight",
     "groupCode": 0
   },
@@ -888,7 +888,7 @@
   },
   {
     "id": 148,
-    "fa": "بیا یک استراحتی داشته باشیم برای کافی ",
+    "fa": "بیا یک استراحتی داشته باشیم برای کافی",
     "en": "Let's take a break for coffee",
     "desc": "\nIn the phrase \"let's,\" the word \"let's\" is a contraction of \"let us.\" It is commonly used in English to suggest or propose that a group of people should do something together.\n\n\"Let's\" is a first-person plural imperative form, implying an invitation or suggestion for joint action. It combines the verb \"let\" (allowing or permitting) with the pronoun \"us\" (referring to the speaker and at least one other person).",
     "groupCode": 0
@@ -2724,7 +2724,7 @@
   },
   {
     "id": 452,
-    "fa": "هر کس دیگری متقاعد شده بودد، اما من مشکوک ماندم",
+    "fa": "هر کس دیگری متقاعد شده بود، اما من مشکوک ماندم",
     "en": "Everyone else was convinced, but I remained skeptical",
     "groupCode": 0
   },
@@ -4109,14 +4109,14 @@
   },
   {
     "id": 680,
-    "fa": "میتونم رد شم؟",
-    "en": "Can I get by?",
+    "fa": "در چه حالی هستی؟ من خوبم. خیلی روز خوبیه اون بیرون",
+    "en": "How are you doing? I'm doing well. It's such a nice day out there",
     "groupCode": 0
   },
   {
     "id": 681,
     "fa": "بذار رد شم",
-    "en": "Let me through",
+    "en": "\n 1.Let me through \n 2.Let me get by",
     "groupCode": 0
   },
   {
@@ -7894,7 +7894,7 @@
   },
   {
     "id": 1301,
-    "fa": "چند بار در هفته ورزش می کنید؟",
+    "fa": "چند بار در هفته تمرین می کنید؟",
     "en": "How many times a week do you exercise?",
     "groupCode": 0
   },
@@ -8636,7 +8636,7 @@
   },
   {
     "id": 1424,
-    "fa": "گفتم اونجا نرو",
+    "fa": "بهت گفتم اونجا نرو",
     "en": "I told you not to go there",
     "groupCode": 0
   },
@@ -9187,6 +9187,7 @@
     "id": 1515,
     "fa": "آیا تا به حال آرزو کردی بتوانی پرواز کنید؟",
     "en": "Do you ever wish you could fly?",
+    "desc" : "\"Do you ever wish\" - This asks about the person's current or habitual desire to go out.\n\n\"Did you ever wish\" - This asks about the person's past desire to go out at some point.",
     "groupCode": 0
   },
   {
@@ -9663,7 +9664,7 @@
   },
   {
     "id": 1594,
-    "fa": "بریم سر کار",
+    "fa": "بیا بریم سر کار",
     "en": "Let's get to work",
     "groupCode": 0
   },
