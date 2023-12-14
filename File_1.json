@@ -68,7 +68,7 @@
   {
     "id": 2012,
     "fa": "جعبه کمک های اولیه کجاست؟",
-    "en": "Where is first aid kit?",
+    "en": "Where is the first aid kit?",
     "groupCode": 0
   },
   {
@@ -79,7 +79,7 @@
   },
   {
     "id": 2014,
-    "fa": "رگ های گردنش (مرد) برآمده می شوند",
+    "fa": "رگ ها در گردنش (مرد) برآمده می شوند",
     "en": "The veins in his neck bulge",
     "groupCode": 0
   },
@@ -478,7 +478,7 @@
   {
     "id": 2080,
     "fa": "نزدیک تسمه نقاله چمدان منتظر ماندم تا چمدانم برسد",
-    "en": "I waited near the baggage carousel for my luggage to arrive",
+    "en": "I waited near the baggage carousel /ˈkerəˌsel/ for my luggage to arrive",
     "groupCode": 0
   },
   {
@@ -803,7 +803,7 @@
   },
   {
     "id": 2134,
-    "fa": "شما به سمعک نیاز دارید",
+    "fa": "شما به یک سمعک نیاز دارید",
     "en": "You need a hearing aid",
     "groupCode": 0
   },
@@ -936,12 +936,12 @@
   {
     "id": 2156,
     "fa": "یک جک بیش از اندازه رکیک بود",
-    "en": "It was an extremely vulgar joke",
+    "en": "It was an extremely vulgar /وُلگر/ joke",
     "groupCode": 0
   },
   {
     "id": 2157,
-    "fa": "اخراج ها دلیلی است که شرکت شما خانواده شما نیست و همکاران شما دوستان شما نیستند",
+    "fa": "اخراج ها دلیلی هستند که شرکت شما خانواده شما نیست و همکاران شما دوستان شما نیستند",
     "en": "Layoffs are proof that your company isn't your family and your colleagues aren't your friends",
     "groupCode": 0
   },
@@ -1164,13 +1164,13 @@
   },
   {
     "id": 2194,
-    "fa": "برای آن چند ساعت نیاز داری (فرضی) تدریس کنی؟",
+    "fa": "چند ساعت نیاز داری (فرضی) تدریس کنی برای آن؟",
     "en": "How many hours would you need to teach for that?",
     "groupCode": 0
   },
   {
     "id": 2195,
-    "fa": "آیا می دانید نام جایی که نیاز دارید بروید چیست؟",
+    "fa": "آیا می دانی نام جایی که نیاز داری بروی؟",
     "en": "Do you know the name of where you need to go?",
     "groupCode": 0
   },
@@ -1203,6 +1203,36 @@
     "id": 2200,
     "fa": "آیا به کمک نیاز دارید؟ من خوبم. با تشکر، اما",
     "en": "Do you need help? I'm fine. Thanks, though (but)",
+    "groupCode": 0
+  },
+  {
+    "id": 2201,
+    "fa": "من تا الان نیم سال است که در شغل جدید کار می کنم",
+    "en": "I've been working at the new job for half a year by now",
+    "groupCode": 0
+  },
+  {
+    "id": 2202,
+    "fa": "بیا بعد از ظهر انجامش دهیم",
+    "en": "Let's do it in the afternoon",
+    "groupCode": 0
+  },
+  {
+    "id": 2203,
+    "fa": "یکی از آنها رادیوش (او) را پشت سر جا گذاشت",
+    "en": "One of them left his radio behind",
+    "groupCode": 0
+  },
+  {
+    "id": 2204,
+    "fa": "اتفاقا اسمشون رو گرفتی؟",
+    "en": "Did you happen to catch their name?",
+    "groupCode": 0
+  },
+  {
+    "id": 2205,
+    "fa": "چرا تعداد زیادی مردم (دارن) از این مکان بیرون رانده می شوند؟",
+    "en": "Why are so many people being kicked out of this place?",
     "groupCode": 0
   }
 ]
