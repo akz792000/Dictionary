@@ -4393,7 +4393,7 @@
   {
     "id": 726,
     "fa": "خیلی عجله دارم",
-    "en": "I'm in a big hurry (هری)",
+    "en": "\n 1.I'm in a big hurry (هری) \n 2.I'm in a big rush",
     "groupCode": 0
   },
   {
@@ -5538,7 +5538,7 @@
     "id": 914,
     "fa": "هرگز نتوانسته بودم تصور کنم که باید همه چیزهایی که داشتم را رها کنم",
     "en": "I could've never imagined that I would have to give up everything I had",
-    "desc": "Modal verb: \"would\" - In this context, \"would\" is used to express a hypothetical or future possibility or obligation. It indicates that something might happen or that there is a requirement to do something.\n\nVerb phrase: \"have to give up\" - This is a combination of the auxiliary verb \"have,\" the infinitive marker \"to,\" and the base form of the verb \"give up.\" Together, they form the phrase indicating the obligation or necessity to surrender or relinquish something.\n\n",
+    "desc": "\"I could have never imagined\" - This part uses the past perfect tense (\"could have imagined\") to express something that was possible but didn't happen.\n\n\"that I would have to give up everything I had\" - This part introduces the conditional structure. It is like a second conditional because it talks about a hypothetical situation in the future, but it's not a pure second conditional because it also reflects on the past.",
     "groupCode": 0
   },
   {

@@ -850,5 +850,11 @@
     "key": "Straße",
     "value": "Artikel: die",
     "groupCode": 1
+  },
+  {
+    "id": 142,
+    "key": "auf jeden Fall",
+    "value": "at any case",
+    "groupCode": 1
   }
 ]

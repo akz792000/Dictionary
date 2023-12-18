@@ -1,32 +1,32 @@
 [
   {
     "id": 10001,
-    "en": "Good Morning",
-    "de": "Guten morgen",
+    "en": "Good Morning. Where is my scarf?",
+    "de": "Guten morgen. Wo ist mein Schal?",
     "groupCode": 1
   },
   {
     "id": 10002,
-    "en": "Good day",
-    "de": "Guten tag",
+    "en": "Good day. It's warm in the summer",
+    "de": "Guten tag. Es ist warm im sommer",
     "groupCode": 1
   },
   {
     "id": 10003,
-    "en": "Good evening",
-    "de": "Guten abend",
+    "en": "Good evening. It's cold sometimes in the spring",
+    "de": "Guten abend. Es ist kalt manchmal im Frühling",
     "groupCode": 1
   },
   {
     "id": 10004,
-    "en": "Good night",
-    "de": "Gute nacht",
+    "en": "Good night. It's cold in the winter",
+    "de": "Gute nacht. Es ist kalt im Winter",
     "groupCode": 1
   },
   {
     "id": 10005,
-    "en": "Bye",
-    "de": "Tschüss",
+    "en": "Bye. It snows very heavily (strongly)",
+    "de": "Tschüss. Es schneit sehr stark",
     "groupCode": 1
   },
   {
@@ -49,14 +49,14 @@
   },
   {
     "id": 10009,
-    "en": "No Problem",
-    "de": "Kein Problem!",
+    "en": "No Problem. My name is Ilia",
+    "de": "Kein Problem! Ich heiße Ilia",
     "groupCode": 1
   },
   {
     "id": 10010,
-    "en": "My name is Ilia",
-    "de": "Ich heiße Ilia",
+    "en": "How is the weather today? It's raining and it's windy",
+    "de": "Wie ist das Wetter heute? Das Wetter ist heute schlecht. Es regnet und es ist windig",
     "groupCode": 1
   },
   {
@@ -2284,8 +2284,62 @@
   },
   {
     "id": 10377,
-    "en": "How much?",
-    "de": "Wie viel?",
+    "en": "How much? The coffee really costs five euros",
+    "de": "Wie viel? Der Kaffee kostet wirklich fünf Euro",
+    "groupCode": 1
+  },
+  {
+    "id": 10378,
+    "en": "You must not to have the video game",
+    "de": "Du musst das Videospiel nicht haben",
+    "groupCode": 1
+  },
+  {
+    "id": 10379,
+    "en": "I definitely must to have the video game",
+    "de": "Ich muss auf jeden Fall das Videospiel haben",
+    "groupCode": 1
+  },
+  {
+    "id": 10380,
+    "en": "You would like to have it",
+    "de": "Du möchtest es haben",
+    "groupCode": 1
+  },
+  {
+    "id": 10381,
+    "en": "No, you have so many video games at home",
+    "de": "Nein, du hast zu hause so viele Videospiele",
+    "groupCode": 1
+  },
+  {
+    "id": 10382,
+    "en": "Are we going home now?",
+    "de": "Gehen wir jetzt nach Hause?",
+    "groupCode": 1
+  },
+  {
+    "id": 10383,
+    "en": "His apartment is so boring but He has a big TV",
+    "de": "Seine Wohnung ist so langweilig aber Er hat Einen großen Fernseher",
+    "groupCode": 1
+  },
+  {
+    "id": 10384,
+    "en": "Where is Ali's girlfriend? She's in the airport",
+    "de": "Wo ist Alis Freundin? Sie ist im Flughafen",
+    "groupCode": 1
+  },
+  {
+    "id": 10385,
+    "en": "She talks to the man at the counter",
+    "de": "Sie spricht mit dem Mann am Schalter",
+    "groupCode": 1
+  },
+  {
+    "id": 10386,
+    "en": "can I help you?",
+    "de": "Kann ich ihnen helfen?",
     "groupCode": 1
   }
 ]

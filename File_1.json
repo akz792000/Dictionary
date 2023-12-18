@@ -1195,7 +1195,7 @@
   },
   {
     "id": 2199,
-    "fa": "او تجربه دارد. او نتوانسته شغلی پیدا کند, اما",
+    "fa": "او تجربه دارد. او قادر نبوده است شغلی بگیرید, اما",
     "en": "He has experience. He hasn't been able to get a job, though (but)",
     "groupCode": 0
   },
@@ -1219,7 +1219,7 @@
   },
   {
     "id": 2203,
-    "fa": "یکی از آنها رادیوش (او) را پشت سر جا گذاشت",
+    "fa": "یکی از آنها رادیوش (مرد) را پشت سر جا گذاشت",
     "en": "One of them left his radio behind",
     "groupCode": 0
   },
@@ -1233,6 +1233,97 @@
     "id": 2205,
     "fa": "چرا تعداد زیادی مردم (دارن) از این مکان بیرون رانده می شوند؟",
     "en": "Why are so many people being kicked out of this place?",
+    "groupCode": 0
+  },
+  {
+    "id": 2206,
+    "fa": "انتظار نداشت این اتفاق بیفتد",
+    "en": "Didn't expect that to happen",
+    "groupCode": 0
+  },
+  {
+    "id": 2207,
+    "fa": "متاسفم که یکم به شما تلنگر زدم در حال عبور",
+    "en": "Sorry for nudging you a bit while passing",
+    "groupCode": 0
+  },
+  {
+    "id": 2208,
+    "fa": "این مرد کمی شبیه شماست",
+    "en": "This guy looks a bit like you",
+    "groupCode": 0
+  },
+  {
+    "id": 2209,
+    "fa": "این مرد کمی مثل من بود",
+    "en": "This guy was a bit like me",
+    "groupCode": 0
+  },
+  {
+    "id": 2210,
+    "fa": "چرا من عصبانی (فرضی) باشم؟",
+    "en": "Why I would be angry?",
+    "groupCode": 0
+  },
+  {
+    "id": 2211,
+    "fa": "ما امیدواریم ما قادر بودیم روز خاکستری زمستانی شما را یک کمی شیرین کنیم",
+    "en": "We hope we were able to sweeten your gray winter day a little bit",
+    "groupCode": 0
+  },
+  {
+    "id": 2212,
+    "fa": "مراقب باشید، اعتیاد آور است",
+    "en": "Be careful, it's addictive",
+    "groupCode": 0
+  },
+  {
+    "id": 2213,
+    "fa": "او (مرد) مرا به یاد پدرم می اندازد",
+    "en": "He reminds me of my father",
+    "groupCode": 0
+  },
+  {
+    "id": 2214,
+    "fa": "علیرغم موقعیت والایش (مرد)، رئیس باقی ماند ملایم و متواضع",
+    "en": "Despite his high position, the boss remained lenient and humble",
+    "groupCode": 0
+  },
+  {
+    "id": 2215,
+    "fa": "کاش می توانستم به نوعی به عقب در زمان برگردم",
+    "en": "I wish I could somehow go back in time",
+    "groupCode": 0
+  },
+  {
+    "id": 2216,
+    "fa": "من یک اعتقاد دارم. اگر می خواهید کسی را بشناسید، شما باید به او قدرت بدهید. سپس می توانید رنگ واقعی آنها را ببینید",
+    "en": "I have a belief. If you wanna get to know someone, you gotta give 'em the power; then you can see their true colors",
+    "desc": "\"wanna\" (a colloquial way of saying \"want to\") and \"gotta\" (a contraction of \"got to\")",
+    "groupCode": 0
+  },
+  {
+    "id": 2217,
+    "fa": "من برای چیزهای بی اهمیت وقت ندارم. بیا روی کارهای مهم در دست تمرکز کنیم",
+    "en": "I don't have time for trivia. let's focus on the important tasks at hand",
+    "groupCode": 0
+  },
+  {
+    "id": 2218,
+    "fa": "هر شب سگ همسایه پارس می کند من اذیت می شوم",
+    "en": "Every time the neighbor's dog barks all night, I get annoyed",
+    "groupCode": 0
+  },
+  {
+    "id": 2219,
+    "fa": "بقیه روزهای من چگونه است؟",
+    "en": "What does the rest of my day look like?",
+    "groupCode": 0
+  },
+  {
+    "id": 2220,
+    "fa": "آیا برای پیدا کردن دفتر مشکلی داشتید؟",
+    "en": "Did you have any trouble finding the office?",
     "groupCode": 0
   }
 ]

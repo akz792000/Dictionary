@@ -1,33 +1,5 @@
 [
-  {
-    "id":,
-    "fa": "",
-    "en": "This guy looks a bit like you",
-    "groupCode": 0
-  },  {
-    "id":,
-    "fa": "",
-    "en": "This guy was a bit like me",
-    "groupCode": 0
-  },
-  {
-    "id":,
-    "fa": "",
-    "en": "Why I would be angry?",
-    "groupCode": 0
-  },
-  {
-    "id":,
-    "fa": "",
-    "en": "We hope we were able to sweeten your gray winter day a little bit",
-    "groupCode": 0
-  },
-  {
-    "id":,
-    "fa": "",
-    "en": "Be careful, it's addictive",
-    "groupCode": 0
-  },
+
   {
     "id":,
     "fa": "",
@@ -75,49 +47,14 @@
     "fa": "",
     "en": "Do me a favor. Don't disturb my friend. He's dead tired",
     "groupCode": 0
-  },
-  {
-    "id":,
-    "fa": "",
-    "en": "He reminds me of my father",
-    "groupCode": 0
-  },
-  {
-    "id":,
-    "fa": "",
-    "en": "Despite his high position, the boss remained lenient and humble",
-    "groupCode": 0
-  },
-  {
-    "id":,
-    "fa": "",
-    "en": "I wish I could somehow go back in time",
-    "groupCode": 0
-  },
+  }
+
   {
     "id":,
     "fa": "",
     "en": "I wish I knew back then what I know now",
     "groupCode": 0
-  },
-  {
-    "id":,
-    "fa": "",
-    "en": "Every time the neighbor's dog barks all night, I get annoyed",
-    "groupCode": 0
-  },
-  {
-    "id":,
-    "fa": "",
-    "en": "What does the rest of my day look like?",
-    "groupCode": 0
-  },
-  {
-    "id":,
-    "fa": "",
-    "en": "Did you have any trouble finding the office?",
-    "groupCode": 0
-  },
+  }
   {
     "id":,
     "fa": "",
@@ -141,13 +78,7 @@
     "fa": "",
     "en": "Did you do anything interesting over the weekend? Nope. The directions on the web site were great",
     "groupCode": 0
-  },
-  {
-    "id":,
-    "fa": "",
-    "en": "I got a lot done",
-    "groupCode": 0
-  },
+  }
   {
     "id":,
     "fa": "",
@@ -158,19 +89,6 @@
     "id":,
     "fa": "",
     "en": "I'd like to express my deep gratitude to the following people, without whom this book would not have been possible",
-    "groupCode": 0
-  },
-  {
-    "id":,
-    "fa": "",
-    "en": "I have a belief. If you wanna get to know someone, you gotta give 'em the power; then you can see their true colors",
-    "desc": "\"wanna\" (a colloquial way of saying \"want to\") and \"gotta\" (a contraction of \"got to\")",
-    "groupCode": 0
-  },
-  {
-    "id":,
-    "fa": "",
-    "en": "I don't have time for trivia; let's focus on the important tasks at hand",
     "groupCode": 0
   }
 ]
