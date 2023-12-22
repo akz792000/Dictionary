@@ -1,38 +1,38 @@
 [
   {
     "id": 10001,
-    "en": "Good Morning. Where is my scarf?",
-    "de": "Guten morgen. Wo ist mein Schal?",
+    "en": "Good Morning. Good day. Good evening. Good night",
+    "de": "Guten morgen. Guten tag. Guten abend. Gute nacht",
     "groupCode": 1
   },
   {
     "id": 10002,
-    "en": "Good day. It's warm in the summer",
-    "de": "Guten tag. Es ist warm im sommer",
+    "en": "Have a nice day, Mr. Garcia! You too! (informal)",
+    "de": "Schönen Tag, Hr. Garcia! Ihnen auch!",
     "groupCode": 1
   },
   {
     "id": 10003,
-    "en": "Good evening. It's cold sometimes in the spring",
-    "de": "Guten abend. Es ist kalt manchmal im Frühling",
+    "en": "Have a nice day, Luis! You too! (formal)",
+    "de": "Schönen Tag, Luis! Dir auch!",
     "groupCode": 1
   },
   {
     "id": 10004,
-    "en": "Good night. It's cold in the winter",
-    "de": "Gute nacht. Es ist kalt im Winter",
+    "en": "Hello",
+    "de": "\n 1.Hallo \n 2.Moin moin! (Northern German) \n 3.Hoi (Swiss German)",
     "groupCode": 1
   },
   {
     "id": 10005,
-    "en": "Bye. It snows very heavily (strongly)",
-    "de": "Tschüss. Es schneit sehr stark",
+    "en": "Bye, have a nice weekend",
+    "de": "Tschüss, Schönes Wochenende",
     "groupCode": 1
   },
   {
     "id": 10006,
     "en": "Excuse me please (formal)",
-    "de": "Entschuldigung Sie, bitte!",
+    "de": "Entschuldigung Sie, bitte",
     "groupCode": 1
   },
   {
@@ -55,20 +55,20 @@
   },
   {
     "id": 10010,
-    "en": "How is the weather today? It's raining and it's windy",
+    "en": "How is the weather today? It rains and it's windy",
     "de": "Wie ist das Wetter heute? Das Wetter ist heute schlecht. Es regnet und es ist windig",
     "groupCode": 1
   },
   {
     "id": 10011,
-    "en": "My name is Ali and I come from Iran and now live in Munich",
+    "en": "My name is Ali and come from Iran and now live in Munich",
     "de": "Ich heiße Ali und komme aus dem Iran und wohne jetzt in München",
     "groupCode": 1
   },
   {
     "id": 10012,
-    "en": "Willkommen! Very I am pleased (very Nice to meet you)",
-    "de": "Welcome! Freut mich sehr",
+    "en": "Willkommen! I am very pleased too (very Nice to meet you)",
+    "de": "Welcome! Freut mich sehr auch",
     "groupCode": 1
   },
   {
@@ -158,8 +158,8 @@
   },
   {
     "id": 10027,
-    "en": "Where do you come from? (informal)",
-    "de": "Woher kommst du?",
+    "en": "Where do you come from?",
+    "de": "\n 1.Woher kommen Sie? (formal) \n 2.Woher kommst du? (informal)",
     "groupCode": 1
   },
   {
@@ -170,8 +170,8 @@
   },
   {
     "id": 10029,
-    "en": "Where do the persons come from?",
-    "de": "Woher kommen die Personen?",
+    "en": "Where do the persons come from? Where do your partner come from?",
+    "de": "Woher kommen die Personen? Woher kommt dein Partner?",
     "groupCode": 1
   },
   {
@@ -194,8 +194,8 @@
   },
   {
     "id": 10033,
-    "en": "Where do you live now? (informal)",
-    "de": "Wo wohnst du jetzt?",
+    "en": "Where do you live now?",
+    "de": "\n 1.Wo wohnen Sie jetzt? (formal) \n 2.Wo wohnst du jetzt? (informal)",
     "groupCode": 1
   },
   {
@@ -206,8 +206,8 @@
   },
   {
     "id": 10035,
-    "en": "Where do you live now? (formal)",
-    "de": "Wo wohnen Sie jetzt?",
+    "en": "He doesn't have a boy friend but he has an aunt",
+    "de": "Er hat keinen Freund aber er hat eine Tante",
     "groupCode": 1
   },
   {
@@ -276,8 +276,8 @@
   },
   {
     "id": 10046,
-    "en": "Where do you come from? (formal)",
-    "de": "Woher kommen Sie?",
+    "en": "My grandpa loves my brother and my brother loves my grandpa",
+    "de": "Mein Opa liebt meinen Bruder und mein Bruder liebt meinen Opa",
     "groupCode": 1
   },
   {
@@ -342,8 +342,8 @@
   },
   {
     "id": 10057,
-    "en": "\n the Switzerland \n the Turkey \n the Sweden",
-    "de": "\n die Schweiz \n die Türkei \n die Schweden \n",
+    "en": "\n the Switzerland (come from Switzerland) \n the Turkey (come from Turkey) \n the Sweden (come from Sweden) \n the USA (come from USA) \n IRAN (come from Iran)",
+    "de": "\n die Schweiz (komme aus der Schweiz) (F) \n die Türkei (komme aus der Türkei) (F) \n die Schweden (komme aus der Schweden) (F) \n die USA (komme aus den USA) (P) \n der Iran (komme aus dem iran) (M)",
     "groupCode": 1
   },
   {
@@ -390,8 +390,8 @@
   },
   {
     "id": 10065,
-    "en": "Do you speak German? No, I speak no German (formal)",
-    "de": "Sprechen Sie Deutsch? Nein, Ich spreche kein Deutsch",
+    "en": "Do you speak German? No, I speak no German",
+    "de": "\n 1.Sprechen Sie Deutsch? Nein, Ich spreche kein Deutsch (formal) \n 2.Sprichst du Deutsch? Nein, Ich spreche kein Deutsch (informal)",
     "groupCode": 1
   },
   {
@@ -468,8 +468,8 @@
   },
   {
     "id": 10078,
-    "en": "Hello, how are you?",
-    "de": "Hallo, wie geht's?",
+    "en": "Hello, How's it going? It's going fine. It's going not so well. It's going badly",
+    "de": "Hallo, wie geht's? Mir geht's super. Mir geht's nicht so gut. Mir geht's Schlecht",
     "groupCode": 1
   },
   {
@@ -560,8 +560,8 @@
   },
   {
     "id": 10093,
-    "en": "These two apples look the same",
-    "de": "Diese zwei Äpfel sehen gleich",
+    "en": "These two apples look the same too",
+    "de": "Diese zwei Äpfel sehen gleich auch",
     "desc": "Diese (Feminine) = Dieser (Masculine) = these \n Gleich = same \n",
     "groupCode": 1
   },
@@ -676,8 +676,8 @@
   },
   {
     "id": 10112,
-    "en": "How are you doing? (informal) Thank you, I'm doing well, and you?",
-    "de": "Wie geht es dir? Dannke, es geht mir gut, und dir?",
+    "en": "How are you doing? (informal) Thank you, I'm doing well, and you? I'm all right",
+    "de": "Wie geht es dir? Dannke, es geht mir gut, und dir? Es geht",
     "groupCode": 1
   },
   {
@@ -708,8 +708,8 @@
   },
   {
     "id": 10117,
-    "en": "Do you speak Portuguese? No, I speak Spanish. I am spanish",
-    "de": "Sprichst du Portugiesisch? Nein, ich spreche Spanisch. Ich bin Spanier",
+    "en": "Do you speak Portuguese? No, I don't speak Portuguese so well. I speak spanish. I am spanish",
+    "de": "Sprichst du Portugiesisch? Nein, Ich spreche nicht so gut Portugiesisch. Ich spreche Spanisch. Ich bin Spanier",
     "groupCode": 1
   },
   {
@@ -750,8 +750,8 @@
   },
   {
     "id": 10124,
-    "en": "Which languages do you speak? (informal)",
-    "de": "Welche Sprachen sprichst du?",
+    "en": "Which languages do you speak?",
+    "de": " \n 1.Welche Sprachen sprechen Sie? (informal) \n 2.Welche Sprachen sprichst du? (informal)",
     "groupCode": 1
   },
   {
@@ -980,14 +980,14 @@
   },
   {
     "id": 10162,
-    "en": "The weather today is bad",
-    "de": "Das Wetter heute ist schlecht",
+    "en": "How is the weather? The weather today is bad",
+    "de": "Wie ist das Wetter? Das Wetter heute ist schlecht",
     "groupCode": 1
   },
   {
     "id": 10163,
-    "en": "Here is the bill",
-    "de": "Hier ist die Rechnung",
+    "en": "Bill, please",
+    "de": "\n 1.Rechnung, bitte \n 2.Zahlen, bitte",
     "groupCode": 1
   },
   {
@@ -1216,8 +1216,8 @@
   },
   {
     "id": 10201,
-    "en": "Oh no, the bread is too delicious",
-    "de": "Oh nein, das Brot ist zu lecker",
+    "en": "Oh no, the bread and strudel are too delicious",
+    "de": "Oh nein, das Brot und der Strudel sind zu lecker",
     "groupCode": 1
   },
   {
@@ -1301,8 +1301,8 @@
   },
   {
     "id": 10215,
-    "en": "My sister is a teacher",
-    "de": "Meine Schwester ist Lehrerin",
+    "en": "My sister is a teacher. Does your girlfriend have a brother or sister?",
+    "de": "Meine Schwester ist Lehrerin. Hat deine Freundin einen Bruder oder eine Schwester?",
     "groupCode": 1
   },
   {
@@ -1367,8 +1367,8 @@
   },
   {
     "id": 10226,
-    "en": "Where is your mother?",
-    "de": "Wo ist deine Mutter?",
+    "en": "Where are your mother and your partner?",
+    "de": "Wo sind deine Mutter und deine Partnerin?",
     "groupCode": 1
   },
   {
@@ -1929,8 +1929,8 @@
   },
   {
     "id": 10319,
-    "en": "I have a question",
-    "de": "Ich habe eine Frage",
+    "en": "I have a question, a cat and a fish",
+    "de": "Ich habe eine Frage, eine Katze und einen Fisch",
     "groupCode": 1
   },
   {
@@ -2046,12 +2046,6 @@
     "id": 10338,
     "en": "A big hat",
     "de": "Ein großer Hut",
-    "groupCode": 1
-  },
-  {
-    "id": 10338,
-    "en": "What's your name then? My name is Ali (informal)",
-    "de": "Wie heißt du denn? Mein name ist Ali",
     "groupCode": 1
   },
   {
@@ -2340,6 +2334,102 @@
     "id": 10386,
     "en": "can I help you?",
     "de": "Kann ich ihnen helfen?",
+    "groupCode": 1
+  },
+  {
+    "id": 10387,
+    "en": "I hate sport (Sport is murder)",
+    "de": "Sport ist Mord",
+    "groupCode": 1
+  },
+  {
+    "id": 10388,
+    "en": "It's warm in the summer. It's cold sometimes in the spring. It's cold in the winter",
+    "de": "Es ist warm im sommer. Es ist kalt manchmal im Frühling. Es ist kalt im Winter",
+    "groupCode": 1
+  },
+  {
+    "id": 10389,
+    "en": "Do you love your cat? No, I love my snail and my dog",
+    "de": "Liebst du deine Katze? Nein, Ich liebe meine Schnecke und meinen Hund",
+    "groupCode": 1
+  },
+  {
+    "id": 10390,
+    "en": "My roomate has a brother",
+    "de": "Mein Mitbewohner hat einen Bruder",
+    "groupCode": 1
+  },
+  {
+    "id": 10391,
+    "en": "It snows very heavily (strongly). Where are my scarf and water bottle?",
+    "de": "Es schneit sehr stark. Wo sind mein Schal und wasserflasche?",
+    "groupCode": 1
+  },
+  {
+    "id": 10392,
+    "en": "Does your partner often hike?",
+    "de": "Wandert deine Partnerin oft?",
+    "groupCode": 1
+  },
+  {
+    "id": 10393,
+    "en": "My grandmother loves your grandfather",
+    "de": "Meine Oma liebt deinen Opa",
+    "groupCode": 1
+  },
+  {
+    "id": 10394,
+    "en": "The movie was shit. My damn cell phone doesn't work",
+    "de": "Der Film war Scheiße. Mein Scheiß Handy funktioniert nicht",
+    "groupCode": 1
+  },
+  {
+    "id": 10395,
+    "en": "Do you have an uncle?",
+    "de": "Hast du einen Onkel?",
+    "groupCode": 1
+  },
+  {
+    "id": 10396,
+    "en": "Is it raining very heavily? Oh no, it's very foggy today",
+    "de": "Regnet es sehr stark? Oh nein, es ist sehr neblig heute",
+    "groupCode": 1
+  },
+  {
+    "id": 10397,
+    "en": "Is it sunny or cloudy today. It's sunny. Where's the sunscreen (sun cream)?",
+    "de": "Ist es heute sonnig oder bewölkt? Es ist sonnig. Wo is die Sonnencreme",
+    "groupCode": 1
+  },
+  {
+    "id": 10398,
+    "en": "Where are you hiking?",
+    "de": "Wo wandern Sie?",
+    "groupCode": 1
+  },
+  {
+    "id": 10399,
+    "en": "It's raining todady. Where is the umbrella?",
+    "de": "Es regnet heute. Wo ist der Regenschirm?",
+    "groupCode": 1
+  },
+  {
+    "id": 10400,
+    "en": "The weather in autumn is fine, but it's often cold",
+    "de": "Das wetter im Herbst ist schön, aber es ist oft kalt",
+    "groupCode": 1
+  },
+  {
+    "id": 10401,
+    "en": "He never hikes in summer and spring",
+    "de": "Er wandert nie im Sommer und im Frühling",
+    "groupCode": 1
+  },
+  {
+    "id": 10402,
+    "en": "What's your name then? My name is Ali (informal)",
+    "de": "Wie heißt du denn? Mein name ist Ali",
     "groupCode": 1
   }
 ]

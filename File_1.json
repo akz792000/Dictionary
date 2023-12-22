@@ -1310,7 +1310,7 @@
   },
   {
     "id": 2218,
-    "fa": "هر دفعه سگ همسایه پارس می کند تمام شب من اذیت می شوم",
+    "fa": "هر دفعه سگ همسایه تمام شب پارس می کند من اذیت می شوم",
     "en": "Every time the neighbor's dog barks all night, I get annoyed",
     "groupCode": 0
   },
@@ -1341,7 +1341,7 @@
   {
     "id": 2223,
     "fa": "جا باز کن بشینم",
-    "en": "\n 1. Scoot over \n 2.Make some room",
+    "en": "\n1. Scoot over \n 2.Make some room",
     "groupCode": 0
   },
   {
@@ -1352,7 +1352,7 @@
   },
   {
     "id": 2225,
-    "fa": "لطفا به من تخفیف بدید",
+    "fa": "لطفا به من یک تخفیف بدید",
     "en": "Please give me a discount",
     "groupCode": 0
   },
@@ -1364,7 +1364,7 @@
   },
   {
     "id": 2227,
-    "fa": "من هر دوی آنها را دوست دارم، اما وقتی با هم بحث می کنند، هیچ کدام را دوست ندارم",
+    "fa": "من هر دوی آنها را دوست دارم، اما هیچ کدام را دوست ندارم وقتی با هم بحث می کنند",
     "en": "I like both of them, but I don't like either of them when they argue",
     "groupCode": 0
   },
@@ -1382,8 +1382,14 @@
   },
   {
     "id": 2230,
-    "fa": "ممکن است زبان انگلیسی ماهر نباشد، بنابراین به طور محبت آمیزی سؤالی را که (الان) پرسیدم دوباره بیان کنید",
+    "fa": "انگلیسیم ممکن است خوب (ماهر) نباشد، بنابراین به طور محبت آمیزی سؤالی را که (الان) پرسیدم دوباره بیان کنید",
     "en": "My english may not be proficient, so kindly rephrase the question I just asked",
+    "groupCode": 0
+  },
+  {
+    "id": 2231,
+    "fa": "مهم است که به این فکر کنید، وگرنه شما ممکن است دچار سوء تفاهم شوید",
+    "en": "It's important to think of this, or else you could get misunderstood",
     "groupCode": 0
   }
 ]

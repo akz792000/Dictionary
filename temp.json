@@ -1,9 +1,16 @@
 [
+  {
+    "id":,
+    "fa": "سعی کردن برای فهمیدن آن مشکل پیچیده میتواند باعث بشود شما سرتان را بیشتر از دیگران بخارانید",
+    "en": "Trying to understand that complicated problem can make you scratch your head over the others",
+    "groupCode": 0
+  },
+
 
   {
     "id":,
     "fa": "",
-    "en": "Why would she waste a wish like that?",
+    "en": "There are so many books out on the market that one can get so overwhelmed with the selection",
     "groupCode": 0
   },
   {
@@ -21,34 +28,9 @@
   {
     "id":,
     "fa": "",
-    "en": "How can i afford an apple",
-    "groupCode": 0
-  },
-  {
-    "id":,
-    "fa": "",
-    "en": "Could I have a blanket and a pillow?",
-    "groupCode": 0
-  },
-  {
-    "id":,
-    "fa": "",
     "en": "Could I have a blanket and a pillow please?",
     "groupCode": 0
-  },
-  {
-    "id":,
-    "fa": "",
-    "en": "How long is the flight?",
-    "groupCode": 0
-  },
-  {
-    "id":,
-    "fa": "",
-    "en": "Do me a favor. Don't disturb my friend. He's dead tired",
-    "groupCode": 0
   }
-
   {
     "id":,
     "fa": "",
@@ -66,13 +48,7 @@
     "fa": "",
     "en": "How was your weekend? It was great, we celebrated my mom's birthday",
     "groupCode": 0
-  },
-  {
-    "id":,
-    "fa": "",
-    "en": "",
-    "groupCode": 0
-  },
+  }
   {
     "id":,
     "fa": "",
@@ -89,6 +65,90 @@
     "id":,
     "fa": "",
     "en": "I'd like to express my deep gratitude to the following people, without whom this book would not have been possible",
+    "groupCode": 0
+  },
+  {
+    "id":,
+    "fa": "",
+    "en": "Another interpretation is that the sentence is a riddle",
+    "groupCode": 0
+  },
+  {
+    "id":,
+    "fa": "",
+    "en": "I first split the sentence into three parts",
+    "groupCode": 0
+  }
+  {
+    "id":,
+    "fa": "",
+    "en": "",
+    "groupCode": 0
+  },
+  {
+    "id":,
+    "fa": "",
+    "en": "",
+    "groupCode": 0
+  },
+  {
+    "id":,
+    "fa": "",
+    "en": "",
+    "groupCode": 0
+  },
+  {
+    "id":,
+    "fa": "",
+    "en": "",
+    "groupCode": 0
+  },
+  {
+    "id":,
+    "fa": "",
+    "en": "",
+    "groupCode": 0
+  },
+  {
+    "id":,
+    "fa": "",
+    "en": "",
+    "groupCode": 0
+  },
+  {
+    "id":,
+    "fa": "",
+    "en": "",
+    "groupCode": 0
+  },
+  {
+    "id":,
+    "fa": "",
+    "en": "",
+    "groupCode": 0
+  },
+  {
+    "id":,
+    "fa": "",
+    "en": "",
+    "groupCode": 0
+  },
+  {
+    "id":,
+    "fa": "",
+    "en": "",
+    "groupCode": 0
+  },
+  {
+    "id":,
+    "fa": "",
+    "en": "",
+    "groupCode": 0
+  },
+  {
+    "id":,
+    "fa": "",
+    "en": "",
     "groupCode": 0
   }
 ]
