@@ -7,7 +7,7 @@
   },
   {
     "id": 2002,
-    "fa": "من حدود پنج سال تجربه کار مربوطه را تجربه کردم",
+    "fa": "من حدود پنج سال تجربه کار مربوطه را دارم",
     "en": "I have got about five years of relevant work experience",
     "groupCode": 0
   },
@@ -1195,7 +1195,7 @@
   },
   {
     "id": 2199,
-    "fa": "او تجربه دارد. او قادر نبوده است شغلی بگیرید, اما",
+    "fa": "او (مرد) تجربه دارد. او قادر نبوده است شغلی بگیرید, اما",
     "en": "He has experience. He hasn't been able to get a job, though (but)",
     "groupCode": 0
   },
@@ -1237,7 +1237,7 @@
   },
   {
     "id": 2206,
-    "fa": "انتظار نداشت این اتفاق بیفتد",
+    "fa": "انتظار نداشت آن اتفاق بیفتد",
     "en": "Didn't expect that to happen",
     "groupCode": 0
   },
@@ -1299,31 +1299,91 @@
     "id": 2216,
     "fa": "من یک اعتقاد دارم. اگر می خواهید کسی را بشناسید، شما باید به او قدرت بدهید. سپس می توانید رنگ واقعی آنها را ببینید",
     "en": "I have a belief. If you wanna get to know someone, you gotta give 'em the power; then you can see their true colors",
-    "desc": "\"wanna\" (a colloquial way of saying \"want to\") and \"gotta\" (a contraction of \"got to\")",
+    "desc": "\"wanna\" (a colloquial way of saying \"want to\") and \"gotta\" (a contraction of \"got to\"). Wanting to know someone:\n\nBasic understanding.\nGeneral information.\nWanting to get to know someone:\n\nDeeper interest.\nBuilding a personal connection.\nLearning about personality and interests.",
     "groupCode": 0
   },
   {
     "id": 2217,
-    "fa": "من برای چیزهای بی اهمیت وقت ندارم. بیا روی کارهای مهم در دست تمرکز کنیم",
+    "fa": "من برای چیزهای بی اهمیت وقت ندارم. بیا روی وظایف مهم در دست تمرکز کنیم",
     "en": "I don't have time for trivia. let's focus on the important tasks at hand",
     "groupCode": 0
   },
   {
     "id": 2218,
-    "fa": "هر شب سگ همسایه پارس می کند من اذیت می شوم",
+    "fa": "هر دفعه سگ همسایه پارس می کند تمام شب من اذیت می شوم",
     "en": "Every time the neighbor's dog barks all night, I get annoyed",
     "groupCode": 0
   },
   {
     "id": 2219,
-    "fa": "بقیه روزهای من چگونه است؟",
+    "fa": "بقیه روز من شبیه چیست؟",
     "en": "What does the rest of my day look like?",
     "groupCode": 0
   },
   {
     "id": 2220,
-    "fa": "آیا برای پیدا کردن دفتر مشکلی داشتید؟",
+    "fa": "آیا برای پیدا کردن دفتر هیچ مشکلی داشتید؟",
     "en": "Did you have any trouble finding the office?",
+    "groupCode": 0
+  },
+  {
+    "id": 2221,
+    "fa": "من مجبورم مرتب بینی ام را بگیرم برای رفع گرفتگی",
+    "en": "I had to blow my nose frequently to relieve congestion",
+    "groupCode": 0
+  },
+  {
+    "id": 2222,
+    "fa": "من در دفتر نشسته به این فکر می کنم چه اتفاقی می افتد اگر به مدیر سیلی بزنم و فرار کنم",
+    "en": "Me sitting in the office thinking about what would happen if I slapped the manager and ran out",
+    "groupCode": 0
+  },
+  {
+    "id": 2223,
+    "fa": "جا باز کن بشینم",
+    "en": "\n 1. Scoot over \n 2.Make some room",
+    "groupCode": 0
+  },
+  {
+    "id": 2224,
+    "fa": "من سه تا عمه و یک خاله دارم",
+    "en": "I have three paternal aunts (اَ) and one maternal aunt",
+    "groupCode": 0
+  },
+  {
+    "id": 2225,
+    "fa": "لطفا به من تخفیف بدید",
+    "en": "Please give me a discount",
+    "groupCode": 0
+  },
+  {
+    "id": 2226,
+    "fa": "تو داری اشتباه میگی",
+    "en": "You are wrong",
+    "groupCode": 0
+  },
+  {
+    "id": 2227,
+    "fa": "من هر دوی آنها را دوست دارم، اما وقتی با هم بحث می کنند، هیچ کدام را دوست ندارم",
+    "en": "I like both of them, but I don't like either of them when they argue",
+    "groupCode": 0
+  },
+  {
+    "id": 2228,
+    "fa": "یک ترک تحصیل راهنمایی می تواند. تو میتوانی؟",
+    "en": "A middle school dropout can. Can you?",
+    "groupCode": 0
+  },
+  {
+    "id": 2229,
+    "fa": "دارو برای چه کسی است؟",
+    "en": "Who the medicine is for?",
+    "groupCode": 0
+  },
+  {
+    "id": 2230,
+    "fa": "ممکن است زبان انگلیسی ماهر نباشد، بنابراین به طور محبت آمیزی سؤالی را که (الان) پرسیدم دوباره بیان کنید",
+    "en": "My english may not be proficient, so kindly rephrase the question I just asked",
     "groupCode": 0
   }
 ]
