@@ -404,7 +404,7 @@
   },
   {
     "id": 2068,
-    "fa": "از طریق فلزیاب عبور کنید",
+    "fa": "از طریق فلزیاب راه بروید",
     "en": "Walk through the metal detector",
     "groupCode": 0
   },
@@ -743,7 +743,7 @@
   },
   {
     "id": 2124,
-    "fa": "بعد از مشاجره برای مدت طولانی, معلوم شد که او داشت (زن) دروغ می گوید",
+    "fa": "بعد از مشاجره کردن برای یک مدت طولانی, معلوم شد که او داشت (زن) دروغ می گفت",
     "en": "After arguing for a long time, it turned out that she was lying",
     "groupCode": 0
   },
@@ -1370,7 +1370,7 @@
   },
   {
     "id": 2228,
-    "fa": "یک ترک تحصیل راهنمایی می تواند. تو میتوانی؟",
+    "fa": "یک ترک تحصیل مدرسه راهنمایی می تواند. تو میتوانی؟",
     "en": "A middle school dropout can. Can you?",
     "groupCode": 0
   },
@@ -1390,6 +1390,216 @@
     "id": 2231,
     "fa": "مهم است که به این فکر کنید، وگرنه شما ممکن است دچار سوء تفاهم شوید",
     "en": "It's important to think of this, or else you could get misunderstood",
+    "groupCode": 0
+  },
+  {
+    "id": 2232,
+    "fa": "چگونه می توانم بگم آیا یک مرد واقعاً من را دوست دارد؟ او شق خواهد کرد",
+    "en": "How can I tell if a man is really into me? He'll have an erection",
+    "groupCode": 0
+  },
+  {
+    "id": 2233,
+    "fa": "من به یک مسئله برخورد کرده ام",
+    "en": "I've run into an issue",
+    "groupCode": 0
+  },
+  {
+    "id": 2234,
+    "fa": "نگه دار بقیه (پول) به عنوان انعامت",
+    "en": "Keep the change as your tip",
+    "groupCode": 0
+  },
+  {
+    "id": 2235,
+    "fa": "کرایه چقدر است؟",
+    "en": "How much is the fare?",
+    "groupCode": 0
+  },
+  {
+    "id": 2236,
+    "fa": "15 دقیقه در یک روز می تواند به شما یک زبان یاد دهد. 15 دقیقه شبکه اجتماعی چه کاری می تواند انجام دهند؟",
+    "en": "15 minutes a day can teach you a language. What can 15 minutes of social media do?",
+    "groupCode": 0
+  },
+  {
+    "id": 2237,
+    "fa": "افکار شما در مورد این ابتکار باورنکردنی چیست؟",
+    "en": "What are your thoughts on this incredible initiative?",
+    "groupCode": 0
+  },
+  {
+    "id": 2238,
+    "fa": "شوخی میکنی؟",
+    "en": "Are you kidding me?",
+    "groupCode": 0
+  },
+  {
+    "id": 2239,
+    "fa": "منو چی فرض کردی؟",
+    "en": "What do you take me for?",
+    "groupCode": 0
+  },
+  {
+    "id": 2240,
+    "fa": "تو مرا فریب دادی",
+    "en": "You tricked me",
+    "groupCode": 0
+  },
+  {
+    "id": 2241,
+    "fa": "پیاده آمدم",
+    "en": "I came on foot",
+    "groupCode": 0
+  },
+  {
+    "id": 2242,
+    "fa": "در را تا آخر نبند",
+    "en": "Don't close the door all the way",
+    "groupCode": 0
+  },
+  {
+    "id": 2243,
+    "fa": "رستگاری در یک چشم به هم زدن می آید",
+    "en": "Salvation comes in the blink of an eye",
+    "groupCode": 0
+  },
+  {
+    "id": 2244,
+    "fa": "علی می بایستی آن را دانلود کرده باشد وقتی وقتی او وصلش کرده (USP)",
+    "en": "Ali must have downloaded that when he plugged in",
+    "groupCode": 0
+  },
+  {
+    "id": 2245,
+    "fa": "نمیدونستم چراغ قوه داری .من هم نه",
+    "en": "I didn't know you had a flashlight. Me neither",
+    "groupCode": 0
+  },
+  {
+    "id": 2246,
+    "fa": "که می توانست خیلی وقت ها به درد بخورد",
+    "en": "That could have come in handy a lot of times",
+    "groupCode": 0
+  },
+  {
+    "id": 2247,
+    "fa": "به یاد داشته باشید استفاده کنید از کمی نمک تا بیشتر شود طعم غذای شما",
+    "en": "Remember to use a pinch of salt to enhance the taste of your dish",
+    "groupCode": 0
+  },
+  {
+    "id": 2248,
+    "fa": "سس کچاپ، خردل و مایونز چاشنی های محبوب برای همبرگرها و هات داگ ها هستند",
+    "en": "Ketchup, mustard /ˈmʌstərd/ and mayonnaise /ˌmeɪəˈneɪz/ are popular condiments for burgers and hot dogs",
+    "groupCode": 0
+  },
+  {
+    "id": 2249,
+    "fa": "من از مردن نمی ترسم اما نمی خواهم فراموش شوم",
+    "en": "I'm not scared of dying but I don't wanna be forgotten",
+    "groupCode": 0
+  },
+  {
+    "id": 2250,
+    "fa": "ما هرگز چیزهای به این خوبی را در فروشگاه من نفروختیم",
+    "en": "We never sold stuff this good in my store",
+    "groupCode": 0
+  },
+  {
+    "id": 2251,
+    "fa": "به نظر می رسد هر روز بدتر می شود",
+    "en": "Seems like it's getting worse everyday",
+    "groupCode": 0
+  },
+  {
+    "id": 2252,
+    "fa": "ما نمی توانیم خیلی بیشتر اینجا بمانیم",
+    "en": "We can't stay here much longer",
+    "groupCode": 0
+  },
+  {
+    "id": 2253,
+    "fa": "شما باید دیوانه باشید که فکر کنید ممکن است فراموش شوید",
+    "en": "You must be crazy to think you could be forgotten",
+    "groupCode": 0
+  },
+  {
+    "id": 2254,
+    "fa": "برگرد به جایی که تو را گذاشتم",
+    "en": "Go back to where I left you",
+    "groupCode": 0
+  },
+  {
+    "id": 2255,
+    "fa": "نمیدانم این به شما میرسد یا نه",
+    "en": "I don't know if this will get to you",
+    "groupCode": 0
+  },
+  {
+    "id": 2256,
+    "fa": "کشتی های کافی برای همه وجود ندارد",
+    "en": "There aren't enough ships for everyone",
+    "groupCode": 0
+  },
+  {
+    "id": 2257,
+    "fa": "سعی کردن برای فهمیدن آن مشکل پیچیده میتواند باعث بشود شما سرتان را بیشتر از دیگران بخارانید",
+    "en": "Trying to understand that complicated problem can make you scratch your head over the others",
+    "groupCode": 0
+  },
+  {
+    "id": 2258,
+    "fa": "پس از دریافت همه اطلاعات به طور همزمان، احساس غرق شدن کردم",
+    "en": "After receiving so much information at once, I felt overwhelmed",
+    "groupCode": 0
+  },
+  {
+    "id": 2259,
+    "fa": "آیا امروز علف کشیده اید؟",
+    "en": "Have you been smoking any weed today?",
+    "groupCode": 0
+  },
+  {
+    "id": 2260,
+    "fa": "صدایی از طبقه پایین شنیدم و ترسیدم که ممکن است مزاحمی باشد",
+    "en": "I heard a noise downstairs and feared there might be an intruder",
+    "groupCode": 0
+  },
+  {
+    "id": 2261,
+    "fa": "آیا می توانم یک پتو و یک بالش داشته باشم لطفا؟",
+    "en": "Could I have a blanket and a pillow please?",
+    "groupCode": 0
+  },
+  {
+    "id": 2262,
+    "fa": "کاش آن موقع می دانستم آنچه را که اکنون می دانم",
+    "en": "I wish I knew back then what I know now",
+    "groupCode": 0
+  },
+  {
+    "id": 2263,
+    "fa": "مایلم تشکر عمیق خود را از افراد زیر ابراز کنم که بدون آنها این کتاب ممکن نبود",
+    "en": "I'd like to express my deep gratitude to the following people, without whom this book would not have been possible",
+    "groupCode": 0
+  },
+  {
+    "id": 2264,
+    "fa": "بنابراین، برای شروع، چرا کمی از خودتان به نمی گویید",
+    "en": "So, to get started, why don't you tell me a little bit about yourself",
+    "groupCode": 0
+  },
+  {
+    "id": 2265,
+    "fa": "بچه ها با اشتیاق این معما را حل کردند تا قفل گنج پنهان را باز کنند",
+    "en": "The children eagerly solved the riddle to unlock the hidden treasure",
+    "groupCode": 0
+  },
+  {
+    "id": 2266,
+    "fa": "من خیلی جلوتر از شما هستم",
+    "en": "I'm way ahead of you",
     "groupCode": 0
   }
 ]

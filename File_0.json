@@ -761,8 +761,8 @@
   },
   {
     "id": 127,
-    "fa": "لطفا من را پیاده کن",
-    "en": "Please drop me off",
+    "fa": "لطفا من را اینجا پیاده کن",
+    "en": "Please drop me off here",
     "groupCode": 0
   },
   {
@@ -2507,7 +2507,7 @@
   },
   {
     "id": 416,
-    "fa": "کسی برای دیدن او به بیمارستان رفته؟",
+    "fa": "آیا کسی برای دیدن او در بیمارستان حضور داشته است؟",
     "en": "Has anyone been to see him in the hospital?",
     "groupCode": 0
   },
@@ -5093,8 +5093,8 @@
   },
   {
     "id": 841,
-    "fa": "یه چیزی پیش اومد",
-    "en": "Something came up",
+    "fa": "یه چیز فوری پیش اومد",
+    "en": "Something urgent has come up",
     "groupCode": 0
   },
   {
@@ -10314,7 +10314,7 @@
   },
   {
     "id": 1702,
-    "fa": "این نشانگر (مارکر) متعلق به کیست؟",
+    "fa": "این نشانگر (مارکر) متعلق به کیه؟",
     "en": "Whose marker is this?",
     "groupCode": 0
   },
@@ -10996,7 +10996,7 @@
   },
   {
     "id": 1814,
-    "fa": "به زود بیدار شدن عادت کرده ام از زمانی که کار جدیدم را شروع کرده ام",
+    "fa": "به زود بیدار شدن عادت داشتم از زمانی که کار جدیدم را شروع کرده ام",
     "en": "I have been used to waking up early since I started my new job",
     "desc": "\n be used to = عادت داشتن \n get used to = عادت کردن \n",
     "groupCode": 0

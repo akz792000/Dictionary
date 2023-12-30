@@ -282,6 +282,18 @@
     "groupCode": 1
   },
   {
+    "id": 20048,
+    "en": "Study",
+    "de": "\n studiere \n studierst \n studiert \n studieren \n studiert \n studieren",
+    "groupCode": 1
+  },
+  {
+    "id": 20049,
+    "en": "Travel",
+    "de": "\n reise \n reist \n reist \n reisen \n reist \n reisen",
+    "groupCode": 1
+  },
+  {
     "id": 30001,
     "en": "In Germany people are allowed to openly say something against the government because -> freedom of expression applies here",
     "de": "in Deutschland dürfen Menschen offen etwas gegen die Regierung sagen, weil -> heir Meinungfreiheit gilt",

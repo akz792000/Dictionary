@@ -116,14 +116,14 @@
   },
   {
     "id": 10020,
-    "en": "What's your name? (informal)",
-    "de": "Wie heißt du?",
+    "en": "My name is Ali and I study philosophy in Munich",
+    "de": "Ich heiß' Ali und ich studier' Philosophie in München",
     "groupCode": 1
   },
   {
     "id": 10021,
-    "en": "What's your name? (formal)",
-    "de": "Wie heißen sie?",
+    "en": "What's your name?",
+    "de": "\n 1.Wie heißen sie? (formal) \n 2.Wie heißt du? (informal)",
     "groupCode": 1
   },
   {
@@ -372,8 +372,8 @@
   },
   {
     "id": 10062,
-    "en": "I beg your pardon (question)",
-    "de": "Wie bitte",
+    "en": "Pardon? (question)",
+    "de": "Wie bitte?",
     "groupCode": 1
   },
   {
@@ -1784,8 +1784,8 @@
   },
   {
     "id": 10295,
-    "en": "Where is the train station?",
-    "de": "Wo ist der Bahnhof?",
+    "en": "Where is the train station please? The train station is here straight ahead",
+    "de": "Wo ist bitte der Bahnhof? Der Bahnhof ist hier geradeaus",
     "groupCode": 1
   },
   {
@@ -2356,7 +2356,7 @@
   },
   {
     "id": 10390,
-    "en": "My roomate has a brother",
+    "en": "My roomate (male) has a brother",
     "de": "Mein Mitbewohner hat einen Bruder",
     "groupCode": 1
   },
@@ -2430,6 +2430,48 @@
     "id": 10402,
     "en": "What's your name then? My name is Ali (informal)",
     "de": "Wie heißt du denn? Mein name ist Ali",
+    "groupCode": 1
+  },
+  {
+    "id": 10403,
+    "en": "Hey Ali, all good? No, I'm a bit stressed",
+    "de": "Hey Ali, alles klar? Nein, Ich bin ein bisschen im Stress",
+    "groupCode": 1
+  },
+  {
+    "id": 10404,
+    "en": "Where are your parents?",
+    "de": "Wo sind deine Eltern?",
+    "groupCode": 1
+  },
+  {
+    "id": 10405,
+    "en": "A plane ticket to Barcelona, please. How much does a plane ticket cost?",
+    "de": "Ein Flugticket nach Barcelona, bitte. Wie viel kostet ein Flugticket?",
+    "groupCode": 1
+  },
+  {
+    "id": 10406,
+    "en": "I have a math test today. I have to travel far away",
+    "de": "Ich habe einen Mathetest heute. Ich muss weit weg reisen",
+    "groupCode": 1
+  },
+  {
+    "id": 10407,
+    "en": "My roommate (female) loves my cat",
+    "de": "Meine Mitbewohnerin liebt meine Katze",
+    "groupCode": 1
+  },
+  {
+    "id": 10408,
+    "en": "Is he sick or healthy? He is healthy",
+    "de": "Ist er krank oder gesund? Er ist gesund",
+    "groupCode": 1
+  },
+  {
+    "id": 10409,
+    "en": "She is in a good mood and happy",
+    "de": "Sie ist gut drauf und glücklich",
     "groupCode": 1
   }
 ]
