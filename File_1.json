@@ -887,7 +887,7 @@
   },
   {
     "id": 2148,
-    "fa": "اینجا داره تنگ میشه من به سختی می توانم نفس بکشم",
+    "fa": "در اینجا داره تنگ میشه من به سختی می توانم نفس بکشم",
     "en": "It's getting tight in here. I can hardly breathe",
     "groupCode": 0
   },
@@ -1365,7 +1365,7 @@
   {
     "id": 2227,
     "fa": "من هر دوی آنها را دوست دارم، اما هیچ کدام را دوست ندارم وقتی با هم بحث می کنند",
-    "en": "I like both of them, but I don't like either of them when they argue",
+    "en": "I like both of them, but I don't like either of them when they argue together",
     "groupCode": 0
   },
   {
@@ -1388,7 +1388,7 @@
   },
   {
     "id": 2231,
-    "fa": "مهم است که به این فکر کنید، وگرنه شما ممکن است دچار سوء تفاهم شوید",
+    "fa": "مهم است که به این فکر کنید، یا دیگر شما می تونید (فرضی) دچار سوء تفاهم شوید",
     "en": "It's important to think of this, or else you could get misunderstood",
     "groupCode": 0
   },
@@ -1430,7 +1430,7 @@
   },
   {
     "id": 2238,
-    "fa": "شوخی میکنی؟",
+    "fa": "داری شوخی میکنی؟",
     "en": "Are you kidding me?",
     "groupCode": 0
   },
@@ -1466,7 +1466,7 @@
   },
   {
     "id": 2244,
-    "fa": "علی می بایستی آن را دانلود کرده باشد وقتی وقتی او وصلش کرده (USP)",
+    "fa": "علی می بایستی آن را دانلود کرده باشد وقتی او وصلش کرد (USB)",
     "en": "Ali must have downloaded that when he plugged in",
     "groupCode": 0
   },
@@ -1478,8 +1478,8 @@
   },
   {
     "id": 2246,
-    "fa": "که می توانست خیلی وقت ها به درد بخورد",
-    "en": "That could have come in handy a lot of times",
+    "fa": "توانسته بود خیلی وقت ها به درد بخورد",
+    "en": "It could have come in handy a lot of times",
     "groupCode": 0
   },
   {
@@ -1502,8 +1502,8 @@
   },
   {
     "id": 2250,
-    "fa": "ما هرگز چیزهای به این خوبی را در فروشگاه من نفروختیم",
-    "en": "We never sold stuff this good in my store",
+    "fa": "من هرگز چیز به این خوبی را در فروشگاه من نفروختیم",
+    "en": "I never sold stuff this good in my store",
     "groupCode": 0
   },
   {
@@ -1520,7 +1520,7 @@
   },
   {
     "id": 2253,
-    "fa": "شما باید دیوانه باشید که فکر کنید ممکن است فراموش شوید",
+    "fa": "شما باید دیوانه باشید فکر کنید شما میتوانستید فراموش شوید",
     "en": "You must be crazy to think you could be forgotten",
     "groupCode": 0
   },
@@ -1532,8 +1532,8 @@
   },
   {
     "id": 2255,
-    "fa": "نمیدانم این به شما میرسد یا نه",
-    "en": "I don't know if this will get to you",
+    "fa": "نمیدانم این به شما خواهد رسید یا نه",
+    "en": "I don't know if this will get to you or not",
     "groupCode": 0
   },
   {
@@ -1562,7 +1562,7 @@
   },
   {
     "id": 2260,
-    "fa": "صدایی از طبقه پایین شنیدم و ترسیدم که ممکن است مزاحمی باشد",
+    "fa": "نویزی از طبقه پایین شنیدم و ترسیدم که ممکن است مزاحمی باشد",
     "en": "I heard a noise downstairs and feared there might be an intruder",
     "groupCode": 0
   },
@@ -1600,6 +1600,30 @@
     "id": 2266,
     "fa": "من خیلی جلوتر از شما هستم",
     "en": "I'm way ahead of you",
+    "groupCode": 0
+  },
+  {
+    "id": 2267,
+    "fa": "ترس دو معنا دارد. همه چیز را فراموش کن و فرار کن یا با همه چیز روبرو شو و برخیز",
+    "en": "Fear has two meanings. Forget everything and run or Face everything and rise",
+    "groupCode": 0
+  },
+  {
+    "id": 2268,
+    "fa": "دهنت سرویسه",
+    "en": "Your ass is grass",
+    "groupCode": 0
+  },
+  {
+    "id": 2269,
+    "fa": "مایلید از این سیاره خارج شوید؟",
+    "en": "Would you like to get off this planet?",
+    "groupCode": 0
+  },
+  {
+    "id": 2270,
+    "fa": "من جایی (دارم) نمی روم تا زمانی که بفهمم پسرم کجاست؟",
+    "en": "I'm not going anywhere until I know where my son is?",
     "groupCode": 0
   }
 ]

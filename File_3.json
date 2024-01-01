@@ -294,6 +294,24 @@
     "groupCode": 1
   },
   {
+    "id": 20050,
+    "en": "Care",
+    "de": "\n pflege \n pflegst \n pflegt \n pflegen \n pflegt \n pflegen",
+    "groupCode": 1
+  },
+  {
+    "id": 20051,
+    "en": "Sell",
+    "de": "\n verkaufe \n verkaufst \n verkauft \n verkaufen \n verkauft \n verkaufen",
+    "groupCode": 1
+  },
+  {
+    "id": 20052,
+    "en": "Service",
+    "de": "\n serviere \n servierst \n serviert \n servieren \n serviert \n servieren",
+    "groupCode": 1
+  },
+  {
     "id": 30001,
     "en": "In Germany people are allowed to openly say something against the government because -> freedom of expression applies here",
     "de": "in Deutschland dürfen Menschen offen etwas gegen die Regierung sagen, weil -> heir Meinungfreiheit gilt",

@@ -3250,7 +3250,7 @@
   },
   {
     "id": 539,
-    "fa": "به نظرم انتخاب درستیه",
+    "fa": "من حدس میزنم انتخاب درستیه",
     "en": "I guess it's a right choice",
     "groupCode": 0
   },
@@ -9748,7 +9748,7 @@
   },
   {
     "id": 1608,
-    "fa": "او (زن) سعی کرد در مورد نگرانی هایش با او (مرد) صحبت کند، اما او (مرد) فقط او (زن) را نادیده گرفت و رفت",
+    "fa": "او (زن) سعی کرد در مورد نگرانی هایش با او (مرد) صحبت کند، اما او (مرد) فقط او (زن) را نادیده گرفت و (راه رفت) دور شد",
     "en": "She tried to talk to him about her concerns, but he just brushed her off and walked away",
     "groupCode": 0
   },
@@ -10861,7 +10861,7 @@
   },
   {
     "id": 1792,
-    "fa": "از او (مرد) نشنیدم برای مدت زیادی",
+    "fa": "از او (مرد) نشنیدم برای مدت زمان زیادی",
     "en": "I haven't heard from him for a long time",
     "groupCode": 0
   },
@@ -11636,7 +11636,7 @@
   {
     "id": 1920,
     "fa": "دیروز ناگهان چراغ جلوی ماشینم سمت راننده سوخت",
-    "en": "Yesterday, suddenly, the headlight of my car on the driver's side burnt out",
+    "en": "Yesterday, suddenly, the headlight of my car on the driver-side burnt out",
     "groupCode": 0
   },
   {

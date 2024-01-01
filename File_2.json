@@ -7,13 +7,13 @@
   },
   {
     "id": 10002,
-    "en": "Have a nice day, Mr. Garcia! You too! (informal)",
+    "en": "Have a nice day, Mr. Garcia! You too!",
     "de": "Schönen Tag, Hr. Garcia! Ihnen auch!",
     "groupCode": 1
   },
   {
     "id": 10003,
-    "en": "Have a nice day, Luis! You too! (formal)",
+    "en": "Have a nice day, Luis! You too!",
     "de": "Schönen Tag, Luis! Dir auch!",
     "groupCode": 1
   },
@@ -37,20 +37,20 @@
   },
   {
     "id": 10007,
-    "en": "Hope to see you",
-    "de": "Auf Wiedersehen",
+    "en": "Hope to see you. Hope to hear you",
+    "de": "Auf Wiedersehen. Auf Wiederhören",
     "groupCode": 1
   },
   {
     "id": 10008,
-    "en": "Hope to hear you",
-    "de": "Auf Wiederhören",
+    "en": "I'm unemployed at the moment. I'm looking for work as a salesman",
+    "de": "Ich bin im Moment arbeitslos. Ich suche Arbeit als Verkäufer",
     "groupCode": 1
   },
   {
     "id": 10009,
-    "en": "No Problem. My name is Ilia",
-    "de": "Kein Problem! Ich heiße Ilia",
+    "en": "No problem! His name is Asghar. He studies mathematics and works as a waiter",
+    "de": "Kein Problem! Er heißt Asghar. Er studiert Mathematik und arbeitet als Kellner",
     "groupCode": 1
   },
   {
@@ -61,8 +61,8 @@
   },
   {
     "id": 10011,
-    "en": "My name is Ali and come from Iran and now live in Munich",
-    "de": "Ich heiße Ali und komme aus dem Iran und wohne jetzt in München",
+    "en": "My name is Ali and come from Iran and now live in Munich. I am a software engineer and work at Knauf",
+    "de": "Ich heiße Ali und komme aus dem Iran und wohne jetzt in München. Ich bin Software-Ingenieur und arbeite bei Knauf",
     "groupCode": 1
   },
   {
@@ -86,20 +86,20 @@
   },
   {
     "id": 10015,
-    "en": "See you later",
-    "de": "Bis Später",
+    "en": "See you later. See you tomorrow. See you soon",
+    "de": "Bis Später. Bis morgen. Bis bald",
     "groupCode": 1
   },
   {
     "id": 10016,
-    "en": "See you tomorrow",
-    "de": "Bis morgen",
+    "en": "She is a saleswoman. She sells sports products at Intersport",
+    "de": "Sie ist Verkäuferin. Sie verkauft Sportprodukte bei Intersport",
     "groupCode": 1
   },
   {
     "id": 10017,
-    "en": "I am Ali",
-    "de": "Ich bin Ali",
+    "en": "Where do your partner come from?",
+    "de": "Woher kommt dein Partner?",
     "groupCode": 1
   },
   {
@@ -128,20 +128,20 @@
   },
   {
     "id": 10022,
-    "en": "You are Mr. Bieber! (formal)",
+    "en": "You are Mr. Bieber!",
     "de": "Sie sind Herr Bieber!",
     "groupCode": 1
   },
   {
     "id": 10023,
-    "en": "Who are you? (informal)",
-    "de": "Wer bist du?",
+    "en": "Who are you?",
+    "de": "\n 1.Wer sind Sie? (formal) \n 2.Wer bist du? (informal)",
     "groupCode": 1
   },
   {
     "id": 10024,
-    "en": "Who are you? (formal)",
-    "de": "Wer sind Sie?",
+    "en": "I'm' a nurse. I care for patients",
+    "de": "Ich bin Krankenpfleger. Ich pflege Patienten",
     "groupCode": 1
   },
   {
@@ -152,8 +152,8 @@
   },
   {
     "id": 10026,
-    "en": "See you soon!",
-    "de": "Bis bald!",
+    "en": "I study law but work as a saleswoman",
+    "de": "Ich studiere Jura aber arbeite als Verkäuferin",
     "groupCode": 1
   },
   {
@@ -164,14 +164,14 @@
   },
   {
     "id": 10028,
-    "en": "Which ones do you know? (formal)",
-    "de": "Welche kennen Sie?",
+    "en": "Which ones do you know?",
+    "de": "\n 1.Welche kennen Sie? (formal) \n 2.Welche kennst du? (informal) ",
     "groupCode": 1
   },
   {
     "id": 10029,
-    "en": "Where do the persons come from? Where do your partner come from?",
-    "de": "Woher kommen die Personen? Woher kommt dein Partner?",
+    "en": "Where do the persons come from?",
+    "de": "Woher kommen die Personen?",
     "groupCode": 1
   },
   {
@@ -646,13 +646,13 @@
   },
   {
     "id": 10107,
-    "en": "Do you have Telegram? (formal)",
-    "de": "Haben Sie Telegram?",
+    "en": "Do you have Telegram?",
+    "de": "\n 1.Haben Sie Telegram? (formal) \n 2.Hast du Telegram? (informal)",
     "groupCode": 1
   },
   {
     "id": 10108,
-    "en": "Read the sentences (formal)",
+    "en": "Read the sentences",
     "de": "Lesen Sie die Sätze",
     "groupCode": 1
   },
@@ -682,8 +682,8 @@
   },
   {
     "id": 10113,
-    "en": "How are you doing? (formal)",
-    "de": "Wie geht es Ihnen?",
+    "en": "How are you doing?",
+    "de": "\n 1.Wie geht es Ihnen? (formal) \n 2.Wie geht's? (informal)",
     "groupCode": 1
   },
   {
@@ -714,8 +714,8 @@
   },
   {
     "id": 10118,
-    "en": "Do you come from Germany? (informal)",
-    "de": "Kommst du aus Deutschland?",
+    "en": "Do you come from Germany?",
+    "de": "\n 1.Kommen Sie aus Deutschland? \n 2.Kommst du aus Deutschland? (informal)",
     "groupCode": 1
   },
   {
@@ -834,20 +834,20 @@
   },
   {
     "id": 10138,
-    "en": "Ali is engineer by profession",
-    "de": "Ali ist Ingenieur von Beruf",
+    "en": "What is your profession? I am an engineer or computer scientist or nerusery teacher or nurse by profession",
+    "de": "Was bist du von Beruf? Ich bin Ingenieur/Ingenieurin oder Informatiker/Informatikerin oder Erzieher/Erzieherin oder Krankenpfleger/Krankenpflegerin von Beruf",
     "groupCode": 1
   },
   {
     "id": 10139,
-    "en": "Akbar is bus driver, but he is unemployed",
-    "de": "Akbar ist Busfahrer, aber er ist arbeitslos",
+    "en": "Akbar is bus driver but I'm unemployed at the moment",
+    "de": "Akbar ist Busfahrer aber Ich bin im Moment arbeitslos",
     "groupCode": 1
   },
   {
     "id": 10140,
-    "en": "The teacher is called Anne",
-    "de": "Die Lehrerin heißt Anne",
+    "en": "The teacher's name is Anne. She teaches biology and chemistry at the high school",
+    "de": "Die Lehrerin heißt Anne. Sie unterrichtet Biologie und Chemie am Gymnasium",
     "groupCode": 1
   },
   {
@@ -1156,20 +1156,20 @@
   },
   {
     "id": 10191,
-    "en": "I am married",
-    "de": "Ich bin verheiratet",
+    "en": "I am married. I am married. I'm not single",
+    "de": "Ich bin verheiratet. Ich bin nicht ledig",
     "groupCode": 1
   },
   {
     "id": 10192,
-    "en": "I am single",
-    "de": "Ich bin ledig",
+    "en": "He works as a project manager",
+    "de": "Er arbeitet als Projektmanager",
     "groupCode": 1
   },
   {
     "id": 10193,
-    "en": "He is a teacher",
-    "de": "Er ist Lehrer",
+    "en": "He is a teacher and teaches music",
+    "de": "Er ist Lehrer und unterricht Musik",
     "groupCode": 1
   },
   {
@@ -1319,8 +1319,8 @@
   },
   {
     "id": 10218,
-    "en": "Is he a waiter?",
-    "de": "Ist er Kellner?",
+    "en": "Is he a waiter? Yes, he is a waiter and serves food",
+    "de": "Ist er Kellner? Ja, er ist a Kellner und serviert Essen",
     "groupCode": 1
   },
   {
@@ -1343,8 +1343,8 @@
   },
   {
     "id": 10222,
-    "en": "Are you a teacher? (informal)",
-    "de": "Bist du Lehrer?",
+    "en": "Are you a teacher?",
+    "de": "\n 1.Sind Sie Lehrer? \n 2.Bist du Lehrer?",
     "groupCode": 1
   },
   {
@@ -2470,8 +2470,8 @@
   },
   {
     "id": 10409,
-    "en": "She is in a good mood and happy",
-    "de": "Sie ist gut drauf und glücklich",
+    "en": "She is in a good mood, happy and healthy",
+    "de": "Sie ist gut drauf, glücklich und gesund",
     "groupCode": 1
   }
 ]
