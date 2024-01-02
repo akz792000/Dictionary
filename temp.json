@@ -1,6 +1,30 @@
 [
   {
     "id":,
+    "fa": "آیا به زبان انگلیسی یا آلمانی تسلط دارید؟",
+    "en": "Do you have fluency in either English or German?",
+    "groupCode": 0
+  },
+  {
+    "id":,
+    "fa": "بهت نمیاد اینقدر رومانتیک باشی",
+    "en": "It doesn't suit you to be so romantic dude",
+    "groupCode": 0
+  },
+  {
+    "id":,
+    "fa": "هیچ دروغی به من گفته نشده",
+    "en": "I haven't been told any lies",
+    "groupCode": 0
+  },
+  {
+    "id":,
+    "fa": "چند کوتوله با سفید برفی وجود دارد؟",
+    "en": "How many dwarves are there with Snow White?",
+    "groupCode": 0
+  },
+  {
+    "id":,
     "fa": "",
     "en": "",
     "groupCode": 0

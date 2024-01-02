@@ -580,7 +580,7 @@
   },
   {
     "id": 2097,
-    "fa": "به دلایلی مبهم، او (مرد) موفق نشد (ناموفق) حضور پیدا کند",
+    "fa": "برای بعضی دلایل مبهم، او (مرد) موفق نشد (ناموفق) حضور پیدا کند",
     "en": "For some obscure reasons, he failed to turn up",
     "groupCode": 0
   },
@@ -917,8 +917,8 @@
   },
   {
     "id": 2153,
-    "fa": "متأسفانه باید به شما بگویم که امروز باید شما را رد کنم",
-    "en": "I unfortunately have to tell you that I have to turn you down today",
+    "fa": "متأسفانه باید شما را امروز رد کنم",
+    "en": "Unfortunately I have to turn you down today",
     "groupCode": 0
   },
   {
@@ -1092,7 +1092,7 @@
   },
   {
     "id": 2182,
-    "fa": "استفاده کن از چراغ راهنمایت وقت تغییر دادن خطها",
+    "fa": "استفاده کن از سیگنال راهنمایت وقت تغییر دادن خطها",
     "en": "Use your turn signal when changing lanes",
     "groupCode": 0
   },
@@ -1382,8 +1382,8 @@
   },
   {
     "id": 2230,
-    "fa": "انگلیسیم ممکن است خوب (ماهر) نباشد، بنابراین به طور محبت آمیزی سؤالی را که (الان) پرسیدم دوباره بیان کنید",
-    "en": "My english may not be proficient, so kindly rephrase the question I just asked",
+    "fa": "انگلیسیم ممکن است خوب (ماهر) نباشد، بنابراین به طور محبت آمیزی سؤالی را که (الان) پرسیدی را دوباره بیان کنید",
+    "en": "My english may not be proficient, so kindly rephrase the question you just asked",
     "groupCode": 0
   },
   {
@@ -1502,7 +1502,7 @@
   },
   {
     "id": 2250,
-    "fa": "من هرگز چیز به این خوبی را در فروشگاه من نفروختیم",
+    "fa": "من هرگز چیز به این خوبی را در مغازه من نفروختیم",
     "en": "I never sold stuff this good in my store",
     "groupCode": 0
   },
@@ -1622,7 +1622,7 @@
   },
   {
     "id": 2270,
-    "fa": "من جایی (دارم) نمی روم تا زمانی که بفهمم پسرم کجاست؟",
+    "fa": "من جایی (دارم) نمی روم تا زمانی که بدانم پسرم کجاست؟",
     "en": "I'm not going anywhere until I know where my son is?",
     "groupCode": 0
   }

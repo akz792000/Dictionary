@@ -3684,7 +3684,7 @@
   },
   {
     "id": 611,
-    "fa": "این پیشنهاد نهایی من است. یا بگیرش یا ولش کن",
+    "fa": "آن پیشنهاد نهایی من است. یا بگیرش یا ولش کن",
     "en": "That's my final offer. Take it or leave it",
     "groupCode": 0
   },
@@ -9640,8 +9640,8 @@
   },
   {
     "id": 1590,
-    "fa": "تا زمانی که طول بکشد",
-    "en": "As long as it takes",
+    "fa": "هر چقدر طول بکشه منتظرت خواهم ماند",
+    "en": "I'll wait for you as long as it takes",
     "groupCode": 0
   },
   {
