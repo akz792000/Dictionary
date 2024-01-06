@@ -67,8 +67,8 @@
   },
   {
     "id": 10012,
-    "en": "Willkommen! I am very pleased too (very Nice to meet you)",
-    "de": "Welcome! Freut mich sehr auch",
+    "en": "Welcome! I am very pleased too (very Nice to meet you)",
+    "de": "Willkommen! Freut mich sehr auch",
     "groupCode": 1
   },
   {
@@ -99,13 +99,13 @@
   {
     "id": 10017,
     "en": "Where do your partner come from?",
-    "de": "Woher kommt dein Partner?",
+    "de": "\n 1.Woher kommt Ihr Partner? \n 2.Woher kommt dein Partner?",
     "groupCode": 1
   },
   {
     "id": 10018,
-    "en": "Hello everyone",
-    "de": "Hallo zusammen",
+    "en": "Is French easy or difficult? It's beautiful but difficult",
+    "de": "Ist Französisch einfach oder schwer? Es ist schön, aber schwer",
     "groupCode": 1
   },
   {
@@ -122,8 +122,8 @@
   },
   {
     "id": 10021,
-    "en": "What's your name?",
-    "de": "\n 1.Wie heißen sie? (formal) \n 2.Wie heißt du? (informal)",
+    "en": "What's your name then? My name is Ali (informal)",
+    "de": "Wie heißt du denn? Mein name ist Ali",
     "groupCode": 1
   },
   {
@@ -236,8 +236,8 @@
   },
   {
     "id": 10040,
-    "en": "Which photo fits?",
-    "de": "Welches Foto passt?",
+    "en": "Which cafe de we go?",
+    "de": "In welches Café gehen wir?",
     "desc": "\"Welche\" is used for feminine and plural nouns:\n\n\"Welche Blume magst du?\" (Which flower do you like?)\n\"Welche Bücher liest du?\" (Which books are you reading?)\n\"Welches\" is used for neuter nouns:\n\n\"Welches Auto fährst du?\" (Which car are you driving?)\n\"Welches Tier ist das?\" (What animal is this?)",
     "groupCode": 1
   },
@@ -318,8 +318,9 @@
   },
   {
     "id": 10053,
-    "en": "Where does that verb stand?",
-    "de": "Wo steht das Verb?",
+    "en": "There are many bars in Berlin but there are few discos in Augsburg",
+    "de": "Es gibt viele Bars in Berlin aber es gibt wenige Discos in Augsburg",
+    "desc": "Es gibt: there are",
     "groupCode": 1
   },
   {
@@ -330,14 +331,15 @@
   },
   {
     "id": 10055,
-    "en": "Who is this?",
-    "de": "Wer ist das?",
+    "en": "Are you in the mood for chocolate? Yes, totally interested. No, not interested. I'm totally up for fries",
+    "de": "Hast du Bock auf Schokolade? Ja, voll Bock oder, Ne, null Bock. Ich habe voll Bock auf Pommes",
     "groupCode": 1
   },
   {
     "id": 10056,
-    "en": "What fits: a or b?",
-    "de": "Was passt: a oder b?",
+    "en": "The cafe here is inexpensive and hip, but that over is expensive and old-fashioned",
+    "de": "Das Café hier ist günstig und hip, aber das da ist teuer und altmodisch",
+    "desc": "Hip is stylish, trendy, or fashionable",
     "groupCode": 1
   },
   {
@@ -348,20 +350,21 @@
   },
   {
     "id": 10058,
-    "en": "Lesson 2",
-    "de": "Leksion 2",
+    "en": "I speak Swedish well",
+    "de": "Ich spreche gut Schwedisch",
     "groupCode": 1
   },
   {
     "id": 10059,
-    "en": "Thank you very much",
-    "de": "Vielen Dank",
+    "en": "Thank you very much, Your welcome",
+    "de": "Vielen Dank, Bitte schön",
     "groupCode": 1
   },
   {
     "id": 10060,
-    "en": "Your welcome",
-    "de": "Bitte schön",
+    "en": "I'm up for ice cream. I have a craving for cake",
+    "de": "Ich habe Bock auf Eis. Ich habe Lust auf Torte",
+    "desc": "While both sentences express a desire for ice cream, the first one (\"Ich habe Bock auf Eis\") might imply a bit more enthusiasm or eagerness compared to the second one (\"Ich habe Lust auf Eis\").",
     "groupCode": 1
   },
   {
@@ -396,8 +399,8 @@
   },
   {
     "id": 10066,
-    "en": "Where do you live? (informal) I live in France",
-    "de": "Wo lebst du? Ich lebe in Frankreich",
+    "en": "Where do you live? (informal) I live in France and speak French",
+    "de": "Wo lebst du? Ich lebe in Frankreich und spreche Französisch",
     "groupCode": 1
   },
   {
@@ -420,8 +423,8 @@
   },
   {
     "id": 10070,
-    "en": "No idea",
-    "de": "Keine Ahnung",
+    "en": "Who is this? No idea",
+    "de": "Wer ist das? Keine Ahnung",
     "groupCode": 1
   },
   {
@@ -498,15 +501,14 @@
   },
   {
     "id": 10083,
-    "en": "Start your German notebook (polite)",
-    "de": "Beginnen Sie Ihr Deutschheft",
+    "en": "She is in a good mood, happy and healthy",
+    "de": "Sie ist gut drauf, glücklich und gesund",
     "groupCode": 1
   },
   {
     "id": 10084,
-    "en": "Names and nouns one writes in uppercase",
-    "de": "Namen und Nomen schreibt man Groß",
-    "desc": "The word \"man\" is used in an impersonal sense, meaning \"one\" or \"people\" in English.",
+    "en": "Is his German very good?",
+    "de": "Ist sein Deutsch sehr gut?",
     "groupCode": 1
   },
   {
@@ -634,8 +636,8 @@
   },
   {
     "id": 10105,
-    "en": "underscore minus dot at",
-    "de": "Unterstrich Minus Punkt at",
+    "en": "Hey Ali, all good? No, I'm a bit stressed",
+    "de": "Hey Ali, alles klar? Nein, Ich bin ein bisschen im Stress",
     "groupCode": 1
   },
   {
@@ -683,7 +685,7 @@
   {
     "id": 10113,
     "en": "How are you doing?",
-    "de": "\n 1.Wie geht es Ihnen? (formal) \n 2.Wie geht's? (informal)",
+    "de": "\n 1.Wie geht es Ihnen? (formal) \n 2.Wie geht's? (informal) \n 3.Wie geht es dir? (informal)",
     "groupCode": 1
   },
   {
@@ -695,15 +697,15 @@
   },
   {
     "id": 10115,
-    "en": "I am hungry",
-    "de": "Ich habe Hunger",
+    "en": "I am hungry and thirsty ",
+    "de": "Ich habe Hunger und Durst",
     "desc": "\n\"Ich habe\" is the correct and standard form of \"I have\" in German. However, in spoken language or informal writing, it's common to use the contracted form \"Ich hab\" instead of \"Ich habe\".",
     "groupCode": 1
   },
   {
     "id": 10116,
-    "en": "I am thirsty",
-    "de": "Ich habe Durst",
+    "en": "Where are your parents?",
+    "de": "Wo sind deine Eltern?",
     "groupCode": 1
   },
   {
@@ -858,8 +860,8 @@
   },
   {
     "id": 10142,
-    "en": "She is great",
-    "de": "Sie ist toll",
+    "en": "She is really great",
+    "de": "Sie ist wirklich toll",
     "groupCode": 1
   },
   {
@@ -888,14 +890,14 @@
   },
   {
     "id": 10147,
-    "en": "How old are you? (informal)",
-    "de": "Wie alt bist du?",
+    "en": "How old are you?",
+    "de": "\n 1.Wie alt sind Sie? (formal) \n 2.Wie alt bist du? (informal)",
     "groupCode": 1
   },
   {
     "id": 10148,
-    "en": "How old are you?  (formal)",
-    "de": "Wie alt sind Sie?",
+    "en": "Do you like going to clubs? No, I prefer going to cafes",
+    "de": "Gehst du gern in Clubs? Nein, Ich gehe lieber in Cafés",
     "groupCode": 1
   },
   {
@@ -944,8 +946,8 @@
   },
   {
     "id": 10156,
-    "en": "I would like to sleep now",
-    "de": "Ich möchte jetzt schlafen",
+    "en": "Would you like to go to a cafe? No, I want to sleep now (formal)",
+    "de": "Möchtest du in ein Cafe gehen? Nein, Ich möchte jetzt schlafen",
     "groupCode": 1
   },
   {
@@ -956,8 +958,8 @@
   },
   {
     "id": 10158,
-    "en": "The Wine or The Water or The Beer or The Tea or The Milk",
-    "de": "der Wein oder das Wasser oder das Bier oder der Tee oder die Milch",
+    "en": "The Wine, The Water, The Beer, The Tea, The Milk",
+    "de": "der Wein, das Wasser, das Bier, der Tee, die Milch",
     "groupCode": 1
   },
   {
@@ -968,8 +970,8 @@
   },
   {
     "id": 10160,
-    "en": "The food needs more salt",
-    "de": "Das Essen braucht mehr Salz",
+    "en": "The food needs more salt and suger",
+    "de": "Das Essen braucht mehr Salz un Zucker",
     "groupCode": 1
   },
   {
@@ -1076,14 +1078,14 @@
   },
   {
     "id": 10178,
-    "en": "How is it like in Austria?",
-    "de": "Wie ist es in österreich?",
+    "en": "How is it like in Austria? Austria is exciting",
+    "de": "Wie ist es in österreich? österreich ist aufregend",
     "groupCode": 1
   },
   {
     "id": 10179,
-    "en": "Germany is exciting",
-    "de": "Deutschland ist aufregend",
+    "en": "A plane ticket to Barcelona, please. How much does a plane ticket cost?",
+    "de": "Ein Flugticket nach Barcelona, bitte. Wie viel kostet ein Flugticket?",
     "groupCode": 1
   },
   {
@@ -1144,14 +1146,14 @@
   },
   {
     "id": 10189,
-    "en": "I have no children",
-    "de": "Ich habe keine Kinder",
+    "en": "I have no children but he has a kid",
+    "de": "Ich habe keine Kinder aber er hat ein Kind",
     "groupCode": 1
   },
   {
     "id": 10190,
-    "en": "I have one child",
-    "de": "Ich habe ein Kind",
+    "en": "I have a math test today. I have to travel far away",
+    "de": "Ich habe einen Mathetest heute. Ich muss weit weg reisen",
     "groupCode": 1
   },
   {
@@ -1248,7 +1250,7 @@
   {
     "id": 10206,
     "en": "Sorry, are you a doctor (male)? (formal)",
-    "de": "Entschuldigung, sind sie Arzt?",
+    "de": "Entschuldigung, sind Sie Arzt?",
     "groupCode": 1
   },
   {
@@ -1416,8 +1418,8 @@
   },
   {
     "id": 10234,
-    "en": "Do you work here? (formal)",
-    "de": "Arbeiten Sie hier?",
+    "en": "Do you work here?",
+    "de": "\n 1.Arbeiten Sie hier? \n 2.Arbeitest du hier?",
     "groupCode": 1
   },
   {
@@ -1536,8 +1538,8 @@
   },
   {
     "id": 10254,
-    "en": "I swim",
-    "de": "Ich schwimme",
+    "en": "My roommate (female) loves my cat",
+    "de": "Meine Mitbewohnerin liebt meine Katze",
     "groupCode": 1
   },
   {
@@ -1560,14 +1562,14 @@
   },
   {
     "id": 10258,
-    "en": "Do you swim sometimes?",
-    "de": "Schwimmst du manchmal?",
+    "en": "Do you swim sometimes? (informal) No, I always swim",
+    "de": "Schwimmst du manchmal? Nein, Ich schwimme immer",
     "groupCode": 1
   },
   {
     "id": 10259,
     "en": "Do you paint sometimes?",
-    "de": "Malst du manchmal?",
+    "de": "\n 1.Malen sie manchmal? \n 2.Malst du manchmal?",
     "groupCode": 1
   },
   {
@@ -1579,7 +1581,7 @@
   {
     "id": 10261,
     "en": "Do you also swim often?",
-    "de": "Schwimmst du auch oft?",
+    "de": "\n 1.Schwimmen Sie auch oft? \n 2.Schwimmst du auch oft?",
     "groupCode": 1
   },
   {
@@ -1626,8 +1628,8 @@
   },
   {
     "id": 10269,
-    "en": "I would like to order a pizza",
-    "de": "Ich möchte eine Pizza bestellen",
+    "en": "Would you like to drink coffee too? I would like to order a pizza",
+    "de": "Möchtest du auch Kaffee trinken? Nein, Ich möchte eine Pizza bestellen",
     "groupCode": 1
   },
   {
@@ -1657,8 +1659,8 @@
   },
   {
     "id": 10274,
-    "en": "What would you like?",
-    "de": "Was möchtest du?",
+    "en": "What would you like to eat?",
+    "de": "\n 1.Was möchtest du essen? \n 2.Was möchten Sie essen?",
     "groupCode": 1
   },
   {
@@ -1669,14 +1671,14 @@
   },
   {
     "id": 10276,
-    "en": "I often play piano",
-    "de": "Ich spiele oft Klavier",
+    "en": "I often play piano and I often play with my cat",
+    "de": "Ich spiele oft Klavier und Ich spiele oft mit meine Katze",
     "groupCode": 1
   },
   {
     "id": 10277,
-    "en": "I often play with my cat",
-    "de": "Ich spiele oft mit meine Katze",
+    "en": "Is he sick or healthy? He is healthy",
+    "de": "Ist er krank oder gesund? Er ist gesund",
     "groupCode": 1
   },
   {
@@ -1729,7 +1731,7 @@
   },
   {
     "id": 10286,
-    "en": "You wouldn't like to leave later",
+    "en": "You wouldn't like to go later",
     "de": "Du möchtest später nicht gehen",
     "groupCode": 1
   },
@@ -1747,8 +1749,8 @@
   },
   {
     "id": 10289,
-    "en": "I am allowed to go",
-    "de": "Ich darf gehen",
+    "en": "What it may be? A piece of cake and a kaffee, please. Is there anything else?",
+    "de": "Was darf es (darf's) sein? Ein Stück Kuchen und Einen Kaffee, bitte. Sonst noch etwas?",
     "groupCode": 1
   },
   {
@@ -1845,8 +1847,8 @@
   },
   {
     "id": 10305,
-    "en": "That is cheap",
-    "de": "Das ist billig",
+    "en": "What are you by profession?",
+    "de": "\n 1.Was sind Sie von Beruf? (formal) \n 2.Was bist du von Beruf? (informal)",
     "groupCode": 1
   },
   {
@@ -1941,7 +1943,7 @@
   },
   {
     "id": 10321,
-    "en": "Chicken is meat. I don't want meat",
+    "en": "Chicken is meat. I wouldn't like meat",
     "de": "Hähnchen ist Fleisch. Ich möchte kein fleisch",
     "groupCode": 1
   },
@@ -2032,8 +2034,8 @@
   },
   {
     "id": 10336,
-    "en": "I need a white dress",
-    "de": "Ich brauche ein weißes Kleid",
+    "en": "I need a white dress and a big hat",
+    "de": "Ich brauche ein weißes Kleid und ein großen Hut",
     "groupCode": 1
   },
   {
@@ -2044,26 +2046,26 @@
   },
   {
     "id": 10338,
-    "en": "A big hat",
-    "de": "Ein großer Hut",
+    "en": "Cell phones cost a lot",
+    "de": "Handys kosten viel",
     "groupCode": 1
   },
   {
     "id": 10339,
-    "en": "My last name is Zandi",
-    "de": "Mein Nachname ist Zandi",
+    "en": "My first name is Ali and  last name is Zandi",
+    "de": "Mein Vorname ist Ali und mein Nachname ist Zandi",
     "groupCode": 1
   },
   {
     "id": 10340,
-    "en": "What is your address then? (informal)",
-    "de": "Wie ist Deine Adresse denn?",
+    "en": "What is your address then?",
+    "de": "\n 1.Wie ist Ihre Adresse denn? \n 2.Wie ist Deine Adresse denn?",
     "groupCode": 1
   },
   {
     "id": 10341,
-    "en": "What is your address then? (formal)",
-    "de": "Wie ist Ihre Adresse denn?",
+    "en": "Can I order? Of course!",
+    "de": "Kann ich bestellen? Gern!",
     "groupCode": 1
   },
   {
@@ -2074,14 +2076,14 @@
   },
   {
     "id": 10343,
-    "en": "My house number is 24",
-    "de": "Meine Hausnummer ist 24",
+    "en": "My house number is 24 and my zip code is 11111",
+    "de": "Meine Hausnummer ist 24 und meine Postleitzahl ist 11111",
     "groupCode": 1
   },
   {
     "id": 10344,
-    "en": "The zip code is 11111",
-    "de": "Die Postleitzahl ist 11111",
+    "en": "He never hikes in summer and spring",
+    "de": "Er wandert nie im Sommer und im Frühling",
     "groupCode": 1
   },
   {
@@ -2098,8 +2100,8 @@
   },
   {
     "id": 10347,
-    "en": "Ali and Ilia go to a restaurant",
-    "de": "Ali und Ilia gehen in ein Restaurant",
+    "en": "Ali and Ilia like to go to a restaurant",
+    "de": "Ali und Ilia gehen gern in ein Restaurant",
     "groupCode": 1
   },
   {
@@ -2116,8 +2118,8 @@
   },
   {
     "id": 10350,
-    "en": "What would you like to eat?",
-    "de": "Was möchtest du essen?",
+    "en": "I would like an apple spritzer and a kaffe, please!",
+    "de": "Ich hätte gerne eine Apfelschorle und einen Kaffee, bitte!",
     "groupCode": 1
   },
   {
@@ -2296,8 +2298,8 @@
   },
   {
     "id": 10380,
-    "en": "You would like to have it",
-    "de": "Du möchtest es haben",
+    "en": "Would you like to have it?",
+    "de": "\n 1.Möchten Sie es haben? \n 2.Möchtest du es haben?",
     "groupCode": 1
   },
   {
@@ -2332,7 +2334,7 @@
   },
   {
     "id": 10386,
-    "en": "can I help you?",
+    "en": "Can I help you?",
     "de": "Kann ich ihnen helfen?",
     "groupCode": 1
   },
@@ -2418,79 +2420,6 @@
     "id": 10400,
     "en": "The weather in autumn is fine, but it's often cold",
     "de": "Das wetter im Herbst ist schön, aber es ist oft kalt",
-    "groupCode": 1
-  },
-  {
-    "id": 10401,
-    "en": "He never hikes in summer and spring",
-    "de": "Er wandert nie im Sommer und im Frühling",
-    "groupCode": 1
-  },
-  {
-    "id": 10402,
-    "en": "What's your name then? My name is Ali (informal)",
-    "de": "Wie heißt du denn? Mein name ist Ali",
-    "groupCode": 1
-  },
-  {
-    "id": 10403,
-    "en": "Hey Ali, all good? No, I'm a bit stressed",
-    "de": "Hey Ali, alles klar? Nein, Ich bin ein bisschen im Stress",
-    "groupCode": 1
-  },
-  {
-    "id": 10404,
-    "en": "Where are your parents?",
-    "de": "Wo sind deine Eltern?",
-    "groupCode": 1
-  },
-  {
-    "id": 10405,
-    "en": "A plane ticket to Barcelona, please. How much does a plane ticket cost?",
-    "de": "Ein Flugticket nach Barcelona, bitte. Wie viel kostet ein Flugticket?",
-    "groupCode": 1
-  },
-  {
-    "id": 10406,
-    "en": "I have a math test today. I have to travel far away",
-    "de": "Ich habe einen Mathetest heute. Ich muss weit weg reisen",
-    "groupCode": 1
-  },
-  {
-    "id": 10407,
-    "en": "My roommate (female) loves my cat",
-    "de": "Meine Mitbewohnerin liebt meine Katze",
-    "groupCode": 1
-  },
-  {
-    "id": 10408,
-    "en": "Is he sick or healthy? He is healthy",
-    "de": "Ist er krank oder gesund? Er ist gesund",
-    "groupCode": 1
-  },
-  {
-    "id": 10409,
-    "en": "She is in a good mood, happy and healthy",
-    "de": "Sie ist gut drauf, glücklich und gesund",
-    "groupCode": 1
-  },
-  {
-    "id": 10410,
-    "en": "What are you by profession?",
-    "de": "\n 1.Was sind Sie von Beruf? (formal) \n 2.Was bist du von Beruf? (informal)",
-    "groupCode": 1
-  },
-  {
-    "id": 10411,
-    "en": "I'm up for ice cream. I have a craving for cake",
-    "de": "Ich habe Bock auf Eis. Ich habe Lust auf Torte",
-    "desc": "While both sentences express a desire for ice cream, the first one (\"Ich habe Bock auf Eis\") might imply a bit more enthusiasm or eagerness compared to the second one (\"Ich habe Lust auf Eis\").",
-    "groupCode": 1
-  },
-  {
-    "id": 10412,
-    "en": "Are you in the mood for chocolate? Yes, totally interested. No, not interested. I'm totally up for fries",
-    "de": "Hast du Bock auf Schokolade? Ja, voll Bock oder, Ne, null Bock. Ich habe voll Bock auf Pommes",
     "groupCode": 1
   }
 ]

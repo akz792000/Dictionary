@@ -25,8 +25,63 @@
   },
   {
     "id":,
-    "fa": "",
-    "en": "",
+    "fa": "شما باید باور کنید که آنجا می بودم اگر می توانستم",
+    "en": "You gotta believe that I would've been there if I could",
+    "groupCode": 0
+  },
+  {
+    "id":,
+    "fa": "میدونم چه جوریه تنها بودن",
+    "en": "I know what it's like to be alone",
+    "groupCode": 0
+  },
+  {
+    "id":,
+    "fa": "آیا او حق بازگشت دارد و منم دارم؟",
+    "en": "Does he have a right to return, and do I?",
+    "groupCode": 0
+  },
+  {
+    "id":,
+    "fa": "چگونه من می توانم حق داشته باشم بروم و زندگی کنم اگر کسی بومی آن سرزمینی که خانواده اش از آنجا رانده شده است آن حق را ندارد؟",
+    "en": "How can I possibly have the right to go and live there if someone indigenous to that land whose family was driven from there does not have that right?",
+    "groupCode": 0
+  },
+  {
+    "id":,
+    "fa": "برای چه چیزی به کمک نیاز دارید؟",
+    "en": "What do you need help for?",
+    "groupCode": 0
+  },
+  {
+    "id":,
+    "fa": "حالیت شد؟ (گرفتی چی میگم؟)",
+    "en": "Get the picture?",
+    "groupCode": 0
+  },
+  {
+    "id":,
+    "fa": "حساب نکن روی کسی که تو را در وضعیت بحرانی ترک کند",
+    "en": "Don't count on someone who leaves you in the lurch",
+    "desc": "lurch: /ˈlɜːrt͡ʃ/ (مانند کشتی در دریای توفانی) ناگهان به یک سوکج شدن، یک ور شدن ",
+    "groupCode": 0
+  },
+  {
+    "id":,
+    "fa": "با من داری حرف می زنی؟",
+    "en": "Are you talking to me?",
+    "groupCode": 0
+  },
+  {
+    "id":,
+    "fa": "خجالتم نده",
+    "en": "Don't make me blush",
+    "groupCode": 0
+  },
+  {
+    "id":,
+    "fa": "نگران نباش اگر شغل را نگرفتی. این آخر دنیا نیست",
+    "en": "Don't worry if you didn't get the job; it's not the end of the world",
     "groupCode": 0
   }
 ]

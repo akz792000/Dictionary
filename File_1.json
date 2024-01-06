@@ -1478,8 +1478,8 @@
   },
   {
     "id": 2246,
-    "fa": "توانسته بود خیلی وقت ها به درد بخورد",
-    "en": "It could have come in handy a lot of times",
+    "fa": "داشتن یک شارژر تلفن در کیف من اغلب مفید است زمانیکه باتری من کم است",
+    "en": "Having a phone charger in my bag often comes in handy when my battery is low",
     "groupCode": 0
   },
   {
@@ -1502,7 +1502,7 @@
   },
   {
     "id": 2250,
-    "fa": "من هرگز چیز به این خوبی را در مغازه من نفروختیم",
+    "fa": "من هرگز چیز به این خوبی در مغازم نفروختم",
     "en": "I never sold stuff this good in my store",
     "groupCode": 0
   },
@@ -1538,7 +1538,7 @@
   },
   {
     "id": 2256,
-    "fa": "کشتی های کافی برای همه وجود ندارد",
+    "fa": "وجود ندارد کشتی های کافی برای همه",
     "en": "There aren't enough ships for everyone",
     "groupCode": 0
   },
@@ -1550,7 +1550,7 @@
   },
   {
     "id": 2258,
-    "fa": "پس از دریافت همه اطلاعات به طور همزمان، احساس غرق شدن کردم",
+    "fa": "پس از دریافت اینقدر اطلاعات به یکباره، احساس غرق شدن کردم",
     "en": "After receiving so much information at once, I felt overwhelmed",
     "groupCode": 0
   },
