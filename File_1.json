@@ -1625,5 +1625,433 @@
     "fa": "من جایی (دارم) نمی روم تا زمانی که بدانم پسرم کجاست؟",
     "en": "I'm not going anywhere until I know where my son is?",
     "groupCode": 0
+  },
+  {
+    "id": 2271,
+    "fa": "آیا تسلط داری به زبان انگلیسی یا آلمانی؟",
+    "en": "Do you have fluency in either English or German?",
+    "groupCode": 0
+  },
+  {
+    "id": 2272,
+    "fa": "بهت نمیاد اینقدر رومانتیک باشی",
+    "en": "It doesn't suit you to be so romantic",
+    "groupCode": 0
+  },
+  {
+    "id": 2273,
+    "fa": "به من هیچ دروغی گفته نشده",
+    "en": "I haven't been told any lies",
+    "groupCode": 0
+  },
+  {
+    "id": 2274,
+    "fa": "چند کوتوله با سفید برفی وجود دارد؟",
+    "en": "How many dwarves /دواوروز/ are there with Snow White?",
+    "groupCode": 0
+  },
+  {
+    "id": 2275,
+    "fa": "شما باید باور کنید که آنجا می بودم اگر می توانستم",
+    "en": "You gotta believe that I would've been there if I could",
+    "groupCode": 0
+  },
+  {
+    "id": 2276,
+    "fa": "میدونم چه جوریه تنها بودن",
+    "en": "I know what it's like to be alone",
+    "groupCode": 0
+  },
+  {
+    "id": 2277,
+    "fa": "آیا او حق بازگشت دارد و منم دارم؟",
+    "en": "Does he have a right to return, and do I?",
+    "groupCode": 0
+  },
+  {
+    "id": 2278,
+    "fa": "چگونه من می توانم حق داشته باشم بروم و زندگی کنم اگر کسی بومی آن سرزمینی که خانواده اش از آنجا رانده شده است آن حق را ندارد؟",
+    "en": "How can I possibly have the right to go and live there if someone indigenous to that land whose family was driven from there does not have that right?",
+    "groupCode": 0
+  },
+  {
+    "id": 2279,
+    "fa": "برای چه چیزی به کمک نیاز دارید؟",
+    "en": "What do you need help for?",
+    "groupCode": 0
+  },
+  {
+    "id": 2280,
+    "fa": "حالیت شد؟ (گرفتی چی میگم؟)",
+    "en": "Get the picture?",
+    "groupCode": 0
+  },
+  {
+    "id": 2281,
+    "fa": "حساب نکن روی کسی که تو را در وضعیت بحرانی ترک کند",
+    "en": "Don't count on someone who leaves you in the lurch",
+    "desc": "lurch: /ˈlɜːrt͡ʃ/ (مانند کشتی در دریای توفانی) ناگهان به یک سوکج شدن، یک ور شدن ",
+    "groupCode": 0
+  },
+  {
+    "id": 2282,
+    "fa": "با من داری حرف می زنی؟",
+    "en": "Are you talking to me?",
+    "groupCode": 0
+  },
+  {
+    "id": 2283,
+    "fa": "خجالتم نده",
+    "en": "Don't make me blush",
+    "groupCode": 0
+  },
+  {
+    "id": 2284,
+    "fa": "نگران نباش اگر شغل را نگرفتی. این آخر دنیا نیست",
+    "en": "Don't worry if you didn't get the job. It's not the end of the world",
+    "groupCode": 0
+  },
+  {
+    "id": 2285,
+    "fa": "تاکتیک های رئیس جمهور می تونه (فرضی) نتیجه معکوس بدهد",
+    "en": "The President's tactics could backfire",
+    "groupCode": 0
+  },
+  {
+    "id": 2286,
+    "fa": "من به اندازه شما مردم را نمی شناسم",
+    "en": "I don't know as many people as you",
+    "groupCode": 0
+  },
+  {
+    "id": 2287,
+    "fa": "من به اندازه شما پول ندارم",
+    "en": "I haven't got as much money as you",
+    "groupCode": 0
+  },
+  {
+    "id": 2288,
+    "fa": "متاسفم برای بهم ریختگی. امروز انتظار کسی را نداشتم. من خونه نبودم",
+    "en": "I'm sorry for the mess. I wasn't expecting anyone today. I wasn't home",
+    "groupCode": 0
+  },
+  {
+    "id": 2289,
+    "fa": "اجازه ندهید نویز شما را از کارتان منحرف کند",
+    "en": "Don't allow noise to distract you from your work",
+    "groupCode": 0
+  },
+  {
+    "id": 2290,
+    "fa": "در بین کارشناسان کسب و کار یک دیدگاه گسترده ای وجود دارد",
+    "en": "There is a widely held view among business experts",
+    "groupCode": 0
+  },
+  {
+    "id": 2291,
+    "fa": "منظره وحشتناکی بود دیدن اینکه شیر بره را می بلعد",
+    "en": "It was a horrid sight to see the lion devour the lamb",
+    "groupCode": 0
+  },
+  {
+    "id": 2292,
+    "fa": "تف بر روی زمین ممنوع است در مکان های عمومی",
+    "en": "Spitting on the floor is forbidden in public places",
+    "groupCode": 0
+  },
+  {
+    "id": 2293,
+    "fa": "اگر فرض درست باشد، نتیجه باید درست باشد",
+    "en": "If the premise is true, then the conclusion must be true",
+    "groupCode": 0
+  },
+  {
+    "id": 2294,
+    "fa": "من نمی خواهم شما را دلسرد کنم، اما فکر نمی کنم این ایده خوبی باشد",
+    "en": "I don't want to discourage you, but I don't think it's such a good idea",
+    "groupCode": 0
+  },
+  {
+    "id": 2295,
+    "fa": "ما به چیزهایی که نمی خواهیم ایمان داریم تا اینکه به چیزهایی که می خواهیم ایمان داشته باشیم",
+    "en": "We are having faith in things we do not want rather than having faith in things we desire",
+    "groupCode": 0
+  },
+  {
+    "id": 2296,
+    "fa": "ما نتوانستیم از بانک پول برداشت کنیم",
+    "en": "We couldn't withdraw money from the bank",
+    "groupCode": 0
+  },
+  {
+    "id": 2297,
+    "fa": "بر دو اصل بود",
+    "en": "It was based upon two principles",
+    "groupCode": 0
+  },
+  {
+    "id": 2298,
+    "fa": "من کم وزنم، اضافه وزن ندارم",
+    "en": "I'm underweight, I'm not overweight",
+    "groupCode": 0
+  },
+  {
+    "id": 2299,
+    "fa": "او (مرد) داره به نظر می رسد نسبت به سرنوشت زن بی تفاوت است",
+    "en": "He is seeming indifference to the woman's fate",
+    "groupCode": 0
+  },
+  {
+    "id": 2300,
+    "fa": "من مهارت هایم را به رخ می کشم",
+    "en": "I show off my skills",
+    "groupCode": 0
+  },
+  {
+    "id": 2301,
+    "fa": "همه جام درد می کنه",
+    "en": "I'm aching all over",
+    "groupCode": 0
+  },
+  {
+    "id": 2302,
+    "fa": "من شهریه (دارم) تحصیلی سال بعد را پرداخت نمی کنم",
+    "en": "I'm not paying next year's tuition",
+    "groupCode": 0
+  },
+  {
+    "id": 2303,
+    "fa": "من اشتباه بزرگی کردم، هرگز نباید از او (زن) جدا می شدم",
+    "en": "I made a huge mistake, I should have never broken up with her",
+    "groupCode": 0
+  },
+  {
+    "id": 2304,
+    "fa": "اگر فرصت دوم را داشتم دوباره این کار را انجام می دادم",
+    "en": "If I had the second chance I would do it all over again",
+    "groupCode": 0
+  },
+  {
+    "id": 2305,
+    "fa": "او (زن) با گیر دادن روی هر جزئیات کوچک ، مرا دیوانه کرد",
+    "en": "She drove me crazy by picking on every little detail",
+    "groupCode": 0
+  },
+  {
+    "id": 2306,
+    "fa": "همانطور که کودکان بالغ می شوند، آنها اغلب ترک عادت می کنند از ترس های دوران کودکی خود",
+    "en": "As children mature, they often grow out of their childhood fears",
+    "groupCode": 0
+  },
+  {
+    "id": 2307,
+    "fa": "هیچ فایده ای برای مقاومت وجود ندارد",
+    "en": "There's no point to resist",
+    "groupCode": 0
+  },
+  {
+    "id": 2308,
+    "fa": "به او (زن) بگویید که شوهرش سر زد",
+    "en": "Tell her that her husband stopped by",
+    "groupCode": 0
+  },
+  {
+    "id": 2309,
+    "fa": "خوب بچه ها, قضیه از این قراره: من مالکبت این مبل را گرفتم",
+    "en": "All right kids, here is the deal: I have taken possession of this sofa",
+    "groupCode": 0
+  },
+  {
+    "id": 2310,
+    "fa": "من واقعاً نمی خواهم همین الان وارد این شوم. این فقط باعث ناراحتی همه خواهد شد",
+    "en": "I really don't wanna get into this right now. It'll just make everybody uncomfortable",
+    "groupCode": 0
+  },
+  {
+    "id": 2311,
+    "fa": "چه چیزی است در مورد من؟ (مشکل من چیه؟) آیا چیز دفع کننده ای در من وجود دارد؟",
+    "en": "What is it about me? Is there something repellent about me?",
+    "groupCode": 0
+  },
+  {
+    "id": 2312,
+    "fa": "از این بدتر نمی تونست باشه",
+    "en": "It couldn't have been worse",
+    "groupCode": 0
+  },
+  {
+    "id": 2313,
+    "fa": "او احساس می کرد به معنای واقعی کلمه و بطور زشت غیر جذاب بعد از اتفاق شرم آور",
+    "en": "She felt literally and hideously unattractive after the embarrassing mishap",
+    "groupCode": 0
+  },
+  {
+    "id": 2314,
+    "fa": "ما باید تاییدیه مون رو همین روزا بگیریم. امیدوارم تا زمان برای شکرگزاری",
+    "en": "We should be getting our approval any day now. Hopefully in time for thanksgiving",
+    "groupCode": 0
+  },
+  {
+    "id": 2315,
+    "fa": "من منتظرم برای یک (تحویل) تا برسه, به محض اینکه بیاد من آفیس خواهم بود",
+    "en": "I am waiting for a delivery to arrive, as soon as it comes I will be in the office",
+    "groupCode": 0
+  },
+  {
+    "id": 2316,
+    "fa": "ما نمی خواهیم هیچ نقطه ای را مبهم بگذاریم",
+    "en": "We don't want to leave any points unclear",
+    "desc": "\"We don't want to leave any points unclear\": Implies a focus on multiple specific details or aspects, ensuring clarity on all of them.\n\n\"We don't want to leave any point unclear\": Indicates a singular focus on a general idea or concept, ensuring that it is not unclear.",
+    "groupCode": 0
+  },
+  {
+    "id": 2317,
+    "fa": "اگر شما برای خودتان تصمیم نگیرید، دیگران به جای شما تصمیم می گیرند",
+    "en": "If you don't make decisions for yourself, others will make decision for you",
+    "groupCode": 0
+  },
+  {
+    "id": 2318,
+    "fa": "سه سال گذشته است، و من هنوز منتظرم تا ریزتراشه های واکسن کووید وارد شوند و زندگی ام را اداره کنند، زیرا من واقعاً با تصمیم هایم همه چیز را خراب کرده ام",
+    "en": "Three years have gone by, and I'm still waiting for the microchips in the COVID vaccine to kick in and start running my life, 'cause I've really screwed things up with my decisions",
+    "groupCode": 0
+  },
+  {
+    "id": 2319,
+    "fa": "برای از دست دادن شما بسیار متاسفم افکار من در این دوران سخت با شما و خانواده شماست. اگر کاری می توانم برای حمایت از شما انجام دهم، لطفاً به من اطلاع دهید",
+    "en": "I'm so sorry for your loss. My thoughts are with you and your family during this difficult time. If there's anything I can do to support you, please let me know",
+    "groupCode": 0
+  },
+  {
+    "id": 2320,
+    "fa": "من باید پسرم را به مدرسه ببرم",
+    "en": "I gotta take my son to school",
+    "groupCode": 0
+  },
+  {
+    "id": 2321,
+    "fa": "من باید پسرم را از مدرسه به خانه بیاورم",
+    "en": "I gotta bring my son home from school",
+    "groupCode": 0
+  },
+  {
+    "id": 2322,
+    "fa": "من باید پسرم را از مدرسه بیاورم",
+    "en": "I gotta pick up my son from school",
+    "groupCode": 0
+  },
+  {
+    "id": 2323,
+    "fa": "برخلاف میلش (زن) او (زن) مجبور شد در این پروژه شرکت کند",
+    "en": "Against her will, she had to participate in the project",
+    "groupCode": 0
+  },
+  {
+    "id": 2324,
+    "fa": "به سلامتی کسانی که پشت سر گذاشتند یک سال دیگر را با این سه جمله Hallo، Bitte، Tschüss در آلمان",
+    "en": "Cheers to those who made it through another year in Germany with these three sentences Hallo, Bitte, Tschüss",
+    "groupCode": 0
+  },
+  {
+    "id": 2325,
+    "fa": "تمام روز سر پا بودم",
+    "en": "I've been on my feet all day",
+    "groupCode": 0
+  },
+  {
+    "id": 2326,
+    "fa": "تو مهارتت رو ثابت کردی",
+    "en": "You've proven your skills",
+    "groupCode": 0
+  },
+  {
+    "id": 2327,
+    "fa": "من با حسن نیت این پیشنهاد شغلی را پذیرفتم و معتقد بودم که این یک فرصت عالی برای حرفه من خواهد بود",
+    "en": "I accepted the job offer in good faith, believing it would be a great opportunity for my career",
+    "groupCode": 0
+  },
+  {
+    "id": 2328,
+    "fa": "به دل نگیر",
+    "en": "Don't take it to heart",
+    "groupCode": 0
+  },
+  {
+    "id": 2329,
+    "fa": "آیا شما سحر خیز هستی یا شب زنده داری؟",
+    "en": "Are you a morning person or a night owl?",
+    "groupCode": 0
+  },
+  {
+    "id": 2330,
+    "fa": "چی برای من داره؟ (چه چیزی در آن است برای من؟)",
+    "en": "What's in it for me?",
+    "groupCode": 0
+  },
+  {
+    "id": 2331,
+    "fa": "آیا دوست دارید از شما سؤال پرسیده شود؟",
+    "en": "\n 1.Do you like being asked questions? \n 2.Do you like to be asked questions?",
+    "groupCode": 0
+  },
+  {
+    "id": 2332,
+    "fa": "آیا خروپف می کنید؟",
+    "en": "Do you snore?",
+    "groupCode": 0
+  },
+  {
+    "id": 2333,
+    "fa": "هر چند وقت فست فود می خورید؟",
+    "en": "How often do you eat fast food?",
+    "groupCode": 0
+  },
+  {
+    "id": 2334,
+    "fa": "آیا شما به چیزی معتاد هستید؟",
+    "en": "Are you addicted to anything?",
+    "groupCode": 0
+  },
+  {
+    "id": 2335,
+    "fa": "به چند ساعت خواب به طور کلی در هر شب نیاز دارید؟",
+    "en": "How many hours of sleep do you generally need per night?",
+    "groupCode": 0
+  },
+  {
+    "id": 2336,
+    "fa": "آیا تا به حال در قرار ملاقات کور بوده اید؟",
+    "en": "Have you ever been on a blind date?",
+    "groupCode": 0
+  },
+  {
+    "id": 2337,
+    "fa": "در دبیرستان در چه موضوعاتی خوب بودید؟",
+    "en": "What subjects were you good at in high school?",
+    "groupCode": 0
+  },
+  {
+    "id": 2338,
+    "fa": "آیا به راحتی خسته می شوید؟",
+    "en": "Do you get bored easily?",
+    "groupCode": 0
+  },
+  {
+    "id": 2339,
+    "fa": "افتخار آفرین ترین دستاورد شما چیست؟",
+    "en": "What's your proudest accomplishment?",
+    "groupCode": 0
+  },
+  {
+    "id": 2340,
+    "fa": "اگر می توانستید جایی زندگی کنید، کجا بود؟",
+    "en": "If you could live anywhere, where would it be?",
+    "groupCode": 0
+  },
+  {
+    "id": 2341,
+    "fa": "این شرکت تصمیم گرفت به خارج واگذار کند خدمات پشتیبانی مشتری خود را به یک تیمی در هند تا سود ببرد از صرفه جویی در هزینه ها و پوشش 24 ساعته",
+    "en": "This company decided to offshore its customer support services to a team in India to take advantage of cost savings and 24/7 coverage",
+    "groupCode": 0
   }
 ]
