@@ -1664,7 +1664,7 @@
   },
   {
     "id": 2277,
-    "fa": "آیا او حق بازگشت دارد و منم دارم؟",
+    "fa": "آیا او (مرد)  یک حق بازگشت دارد و منم دارم؟",
     "en": "Does he have a right to return, and do I?",
     "groupCode": 0
   },
@@ -1761,7 +1761,7 @@
   },
   {
     "id": 2293,
-    "fa": "اگر فرض درست باشد، نتیجه باید درست باشد",
+    "fa": "اگر فرض درست باشد، سپس نتیجه باید درست باشد",
     "en": "If the premise is true, then the conclusion must be true",
     "groupCode": 0
   },
@@ -1773,8 +1773,8 @@
   },
   {
     "id": 2295,
-    "fa": "ما به چیزهایی که نمی خواهیم ایمان داریم تا اینکه به چیزهایی که می خواهیم ایمان داشته باشیم",
-    "en": "We are having faith in things we do not want rather than having faith in things we desire",
+    "fa": "ما به چیزهایی که نمی خواهیم ایمان داریم نسبت به چیزهایی که مایلیم ایمان داشته باشیم",
+    "en": "We're having faith in things we do not want rather than having faith in things we desire",
     "groupCode": 0
   },
   {
@@ -1827,7 +1827,7 @@
   },
   {
     "id": 2304,
-    "fa": "اگر فرصت دوم را داشتم دوباره این کار را انجام می دادم",
+    "fa": "اگر فرصت دوم را داشتم دوباره  همه را دوباره انجام می دادم",
     "en": "If I had the second chance I would do it all over again",
     "groupCode": 0
   },
@@ -1857,8 +1857,8 @@
   },
   {
     "id": 2309,
-    "fa": "خوب بچه ها, قضیه از این قراره: من مالکبت این مبل را گرفتم",
-    "en": "All right kids, here is the deal: I have taken possession of this sofa",
+    "fa": "خوب بچه ها, قضیه از این قراره: من مالکیت این مبل را گرفتم",
+    "en": "All right kids, here's the deal: I have taken possession of this sofa",
     "groupCode": 0
   },
   {
@@ -1881,7 +1881,7 @@
   },
   {
     "id": 2313,
-    "fa": "او احساس می کرد به معنای واقعی کلمه و بطور زشت غیر جذاب بعد از اتفاق شرم آور",
+    "fa": "او (زن) احساس کرد به معنای واقعی کلمه و بطور زشت غیر جذاب بعد از اتفاق شرم آور",
     "en": "She felt literally and hideously unattractive after the embarrassing mishap",
     "groupCode": 0
   },
@@ -1936,7 +1936,7 @@
   },
   {
     "id": 2322,
-    "fa": "من باید پسرم را از مدرسه بیاورم",
+    "fa": "من باید پسرم را از مدرسه بردارم",
     "en": "I gotta pick up my son from school",
     "groupCode": 0
   },
@@ -1960,7 +1960,7 @@
   },
   {
     "id": 2326,
-    "fa": "تو مهارتت رو ثابت کردی",
+    "fa": "تو مهارتهات رو ثابت کردی",
     "en": "You've proven your skills",
     "groupCode": 0
   },
@@ -1990,7 +1990,7 @@
   },
   {
     "id": 2331,
-    "fa": "آیا دوست دارید از شما سؤال پرسیده شود؟",
+    "fa": "آیا دوست دارید از شما سؤالات پرسیده شود؟",
     "en": "\n 1.Do you like being asked questions? \n 2.Do you like to be asked questions?",
     "groupCode": 0
   },
@@ -2044,7 +2044,7 @@
   },
   {
     "id": 2340,
-    "fa": "اگر می توانستید جایی زندگی کنید، کجا بود؟",
+    "fa": "اگر می توانستید هر جایی زندگی کنید، کجا بود؟",
     "en": "If you could live anywhere, where would it be?",
     "groupCode": 0
   },

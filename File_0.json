@@ -6788,7 +6788,7 @@
   },
   {
     "id": 1119,
-    "fa": "هر چه زودتر شروع کنی زودتر تمامش خواهی کرد",
+    "fa": "هر چه زودتر شروع کنی زودتر تمام خواهی کرد",
     "en": "The sooner you start the sooner you will finish",
     "groupCode": 0
   },
@@ -8885,7 +8885,7 @@
   },
   {
     "id": 1465,
-    "fa": "با وجود از دست دادن شوت بسکتبال، مربی بازیکن را تشویق کرد تا یک ضربه دیگر را امتحان کند",
+    "fa": "با وجود از دست دادن شوت بسکتبال، مربی بازیکن را تشویق کرد تا یک شوت دیگر را تلاش کند",
     "en": "Despite missing the basketball shot, the coach encouraged the player to try another shot",
     "groupCode": 0
   },
@@ -11479,7 +11479,7 @@
   },
   {
     "id": 1894,
-    "fa": "من هرگز در عمرم (تاکید) گلف بازی نکرده ام اما مایلم امتحانش کنم",
+    "fa": "من هرگز در عمرم (تاکید) گلف بازی نکرده ام اما مایلم امتحانش (شوت) کنم",
     "en": "I've never ever played golf in my life and I'd like to take a shot at it",
     "groupCode": 0
   },
@@ -11581,8 +11581,8 @@
   },
   {
     "id": 1911,
-    "fa": "از دستت تو و انجام دادن همه این کار کلافه ام",
-    "en": "I'm fed up with you and with doing all this work",
+    "fa": "از دستت کلافه ام",
+    "en": "I'm fed up with you",
     "groupCode": 0
   },
   {
@@ -12086,7 +12086,7 @@
   },
   {
     "id": 1994,
-    "fa": "چه احمقی بودم که اینکارو کردم",
+    "fa": "چه احمقی بودم که اینرو انجام دادم",
     "en": "What a fool I was to do this",
     "groupCode": 0
   },

@@ -1,5 +1,299 @@
 [
-
+  {
+    "id":,
+    "fa": "من پتو را روی صورتم می کشم تا هر شب گرم بمانم",
+    "en": "I pull the blanket over my face to stay warm every night",
+    "groupCode": 0
+  },
+  {
+    "id":,
+    "fa": "آیا در اطراف سلاح یا چیز دیگری وجود داشت؟",
+    "en": "Were there any weapons around or anything?",
+    "groupCode": 0
+  },
+  {
+    "id":,
+    "fa": "دیشب چیز عجیبی شنیدی؟",
+    "en": "Did you hear anything weird last night?",
+    "groupCode": 0
+  },
+  {
+    "id":,
+    "fa": "من در را بستم",
+    "en": "I got my door shut",
+    "desc": "\"I closed my door\": Directly states that you physically closed the door.\n\n\"I got my door shut\": Suggests that you took some action or made sure the door was closed, but it might not explicitly mean that you physically closed it yourself. It implies a sense of personal involvement or responsibility for ensuring the door is closed",
+    "groupCode": 0
+  },
+  {
+    "id":,
+    "fa": "من به شما قول می دهم، من حتی این شخص را نمی شناختم",
+    "en": "I give you my word, I didn't even know this person",
+    "groupCode": 0
+  },
+  {
+    "id":,
+    "fa": "عینک آفتابی چشمان او را پنهان می کند",
+    "en": "The sunglasses conceal her eyes",
+    "groupCode": 0
+  },
+  {
+    "id":,
+    "fa": "متهم به تلاش برای کتمان مدارک متهم است",
+    "en": "The defendant is accused of attempting to conceal evidence",
+    "groupCode": 0
+  },
+  {
+    "id":,
+    "fa": "من به راحتی متقاعد نمی شوم",
+    "en": "I'm not easily persuaded",
+    "groupCode": 0
+  },
+  {
+    "id":,
+    "fa": "آیا می توانید (محترمانه) نرخ فقر را در آینده تخمین بزنید؟",
+    "en": "Could you estimate the rate of poverty in future?",
+    "groupCode": 0
+  },
+  {
+    "id":,
+    "fa": "یک متخصص کسی است که تمام اشتباهاتی را که می توان در یک زمینه محدود مرتکب شد مرتکب شده است",
+    "en": "An expert is a man who has made all the mistakes which can be made in a narrow field",
+    "groupCode": 0
+  },
+  {
+    "id":,
+    "fa": "امروز در مرخصی استعلاجی هستم",
+    "en": "I am on sick leave today",
+    "groupCode": 0
+  },
+  {
+    "id":,
+    "fa": "ما به دنبال راه هایی برای کاهش خطرات هستیم",
+    "en": "We're looking for ways to mitigate risks",
+    "groupCode": 0
+  },
+  {
+    "id":,
+    "fa": "انگار یادم افتاد که تو را اخراج کردم",
+    "en": "I seem to remember firing you",
+    "groupCode": 0
+  },
+  {
+    "id":,
+    "fa": "فقط اینجا صبر کنید، این خیلی طول نمی کشد",
+    "en": "Just wait here, This won't take long",
+    "groupCode": 0
+  },
+  {
+    "id":,
+    "fa": "چقدر پول کم داری",
+    "en": "\n 1.How much money are you short of? \n 2.How much money are you short? \n ",
+    "groupCode": 0
+  },
+  {
+    "id":,
+    "fa": "من به شما هشدار دادم که در آینده صلح نخواهید داشت (فرضی)، اما شما گوش نکردید",
+    "en": "I warned you that you wouldn't have peace in the future, but you didn't listen",
+    "groupCode": 0
+  },
+  {
+    "id": ,
+    "fa": "از دستت انجام دادن همه این کار کلافه ام",
+    "en": "I'm fed up with doing all this work",
+    "groupCode": 0
+  },
+  {
+    "id":,
+    "fa": "",
+    "en": "",
+    "groupCode": 0
+  },
+  {
+    "id":,
+    "fa": "",
+    "en": "",
+    "groupCode": 0
+  },
+  {
+    "id":,
+    "fa": "",
+    "en": "",
+    "groupCode": 0
+  },
+  {
+    "id":,
+    "fa": "",
+    "en": "",
+    "groupCode": 0
+  },
+  {
+    "id":,
+    "fa": "",
+    "en": "",
+    "groupCode": 0
+  },
+  {
+    "id":,
+    "fa": "",
+    "en": "",
+    "groupCode": 0
+  },
+  {
+    "id":,
+    "fa": "",
+    "en": "",
+    "groupCode": 0
+  },
+  {
+    "id":,
+    "fa": "",
+    "en": "",
+    "groupCode": 0
+  },
+  {
+    "id":,
+    "fa": "",
+    "en": "",
+    "groupCode": 0
+  },
+  {
+    "id":,
+    "fa": "",
+    "en": "",
+    "groupCode": 0
+  },
+  {
+    "id":,
+    "fa": "",
+    "en": "",
+    "groupCode": 0
+  },
+  {
+    "id":,
+    "fa": "",
+    "en": "",
+    "groupCode": 0
+  },
+  {
+    "id":,
+    "fa": "",
+    "en": "",
+    "groupCode": 0
+  },
+  {
+    "id":,
+    "fa": "",
+    "en": "",
+    "groupCode": 0
+  },
+  {
+    "id":,
+    "fa": "",
+    "en": "",
+    "groupCode": 0
+  },
+  {
+    "id":,
+    "fa": "",
+    "en": "",
+    "groupCode": 0
+  },
+  {
+    "id":,
+    "fa": "",
+    "en": "",
+    "groupCode": 0
+  },
+  {
+    "id":,
+    "fa": "",
+    "en": "",
+    "groupCode": 0
+  },
+  {
+    "id":,
+    "fa": "",
+    "en": "",
+    "groupCode": 0
+  },
+  {
+    "id":,
+    "fa": "",
+    "en": "",
+    "groupCode": 0
+  },
+  {
+    "id":,
+    "fa": "",
+    "en": "",
+    "groupCode": 0
+  },
+  {
+    "id":,
+    "fa": "",
+    "en": "",
+    "groupCode": 0
+  },
+  {
+    "id":,
+    "fa": "",
+    "en": "",
+    "groupCode": 0
+  },
+  {
+    "id":,
+    "fa": "",
+    "en": "",
+    "groupCode": 0
+  },
+  {
+    "id":,
+    "fa": "",
+    "en": "",
+    "groupCode": 0
+  },
+  {
+    "id":,
+    "fa": "",
+    "en": "",
+    "groupCode": 0
+  },
+  {
+    "id":,
+    "fa": "",
+    "en": "",
+    "groupCode": 0
+  },
+  {
+    "id":,
+    "fa": "",
+    "en": "",
+    "groupCode": 0
+  },
+  {
+    "id":,
+    "fa": "",
+    "en": "",
+    "groupCode": 0
+  },
+  {
+    "id":,
+    "fa": "",
+    "en": "",
+    "groupCode": 0
+  },
+  {
+    "id":,
+    "fa": "",
+    "en": "",
+    "groupCode": 0
+  },
+  {
+    "id":,
+    "fa": "",
+    "en": "",
+    "groupCode": 0
+  },
   {
     "id":,
     "fa": "",
