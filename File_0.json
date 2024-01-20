@@ -7676,7 +7676,7 @@
   {
     "id": 1265,
     "fa": "شاید دارم مبتلا به آنفولانزا یا چیز دیگری می شم",
-    "en": "I might be coming down with a flu or something",
+    "en": "I might be coming down with a flu or something else",
     "groupCode": 0
   },
   {
@@ -8885,7 +8885,7 @@
   },
   {
     "id": 1465,
-    "fa": "با وجود از دست دادن شوت بسکتبال، مربی بازیکن را تشویق کرد تا یک شوت دیگر را تلاش کند",
+    "fa": "با وجود از دست دادن شوت بسکتبال، مربی بازیکن را تشویق کرد تا یک شوت دیگر را سعی کند",
     "en": "Despite missing the basketball shot, the coach encouraged the player to try another shot",
     "groupCode": 0
   },
@@ -11685,7 +11685,7 @@
   {
     "id": 1928,
     "fa": "از شما صمیمانه دعوت می شود تا به ما کمک کنید تا غذای دیروز را تمام کنیم",
-    "en": "You are cordially (کُردیِ لی) invite to help us finish off the food from yesterday",
+    "en": "You are cordially (کُردیِ لی) invited to help us finish off the food from yesterday",
     "groupCode": 0
   },
   {
@@ -11929,6 +11929,7 @@
     "id": 1968,
     "fa": "به دلیل قطع برق، هتل آنها در تاریکی مطلق بود",
     "en": "Due to a power blackout, their hotel was in total darkness",
+    "desc": "Outage: Any period where a system or service is unavailable, partially or completely.\n\nBlackout: A specific term for a complete loss of electrical power over a broad area, often due to issues in the electrical grid",
     "groupCode": 0
   },
   {

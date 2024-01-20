@@ -1032,7 +1032,7 @@
   },
   {
     "id": 2172,
-    "fa": "من از یک ماژیک برای برچسب زدن به کیسه ناهارم استفاده کردم",
+    "fa": "من از یک ماژیک برای برچسب زدن به کیف ناهارم استفاده کردم",
     "en": "I used a sharpie to label my lunch bag",
     "groupCode": 0
   },
@@ -1430,7 +1430,7 @@
   },
   {
     "id": 2238,
-    "fa": "داری شوخی میکنی؟",
+    "fa": "داری با من شوخی میکنی؟",
     "en": "Are you kidding me?",
     "groupCode": 0
   },
@@ -1472,7 +1472,7 @@
   },
   {
     "id": 2245,
-    "fa": "نمیدونستم چراغ قوه داری .من هم نه",
+    "fa": "نمیدونستم تو یک چراغ قوه داری .من هم نه",
     "en": "I didn't know you had a flashlight. Me neither",
     "groupCode": 0
   },
@@ -1526,7 +1526,7 @@
   },
   {
     "id": 2254,
-    "fa": "برگرد به جایی که تو را گذاشتم",
+    "fa": "برگرد برو به جایی که تو را گذاشتم",
     "en": "Go back to where I left you",
     "groupCode": 0
   },
@@ -1646,8 +1646,8 @@
   },
   {
     "id": 2274,
-    "fa": "چند کوتوله با سفید برفی وجود دارد؟",
-    "en": "How many dwarves /دواوروز/ are there with Snow White?",
+    "fa": "چند کوتوله با سفید برفی هستند؟",
+    "en": "How many dwarves /دو اًر وز/ are there with Snow White?",
     "groupCode": 0
   },
   {
@@ -1731,7 +1731,7 @@
   },
   {
     "id": 2288,
-    "fa": "متاسفم برای بهم ریختگی. امروز انتظار کسی را نداشتم. من خونه نبودم",
+    "fa": "متاسفم برای بهم ریختگی. امروز انتظار کسی را نمی داشتم. من خونه نبودم",
     "en": "I'm sorry for the mess. I wasn't expecting anyone today. I wasn't home",
     "groupCode": 0
   },
@@ -1767,7 +1767,7 @@
   },
   {
     "id": 2294,
-    "fa": "من نمی خواهم شما را دلسرد کنم، اما فکر نمی کنم این ایده خوبی باشد",
+    "fa": "من نمی خواهم شما را دلسرد کنم، اما فکر نمی کنم این (تاکید) ایده خوبی باشد",
     "en": "I don't want to discourage you, but I don't think it's such a good idea",
     "groupCode": 0
   },
@@ -1809,7 +1809,7 @@
   },
   {
     "id": 2301,
-    "fa": "همه جام درد می کنه",
+    "fa": "من همه جام داره درد می کنه",
     "en": "I'm aching all over",
     "groupCode": 0
   },
@@ -1827,7 +1827,7 @@
   },
   {
     "id": 2304,
-    "fa": "اگر فرصت دوم را داشتم دوباره  همه را دوباره انجام می دادم",
+    "fa": "اگر فرصت دوم را داشتم من دوباره همش را انجام می دادم",
     "en": "If I had the second chance I would do it all over again",
     "groupCode": 0
   },
@@ -1876,7 +1876,7 @@
   {
     "id": 2312,
     "fa": "از این بدتر نمی تونست باشه",
-    "en": "It couldn't have been worse",
+    "en": "It couldn't have been worse than this",
     "groupCode": 0
   },
   {
@@ -2026,7 +2026,7 @@
   },
   {
     "id": 2337,
-    "fa": "در دبیرستان در چه موضوعاتی خوب بودید؟",
+    "fa": "در چه موضوعاتی در دبیرستان خوب بودید؟",
     "en": "What subjects were you good at in high school?",
     "groupCode": 0
   },

@@ -104,56 +104,56 @@
   },
   {
     "id":,
-    "fa": "",
-    "en": "",
+    "fa": "چون من چیزی می دانستم که او (مرد) نمی دانست",
+    "en": "Because I knew something that He didn't know",
+    "groupCode": 0
+  },
+  {
+    "id":,
+    "fa": "ترجیح می دهم به جای آسانسور از پله برقی استفاده کنم",
+    "en": "I have been abducted. Who has abducted you?",
     "groupCode": 0
   },
   {
     "id":,
     "fa": "",
-    "en": "",
+    "en": "I prefer to take the escalator instead of elevator",
     "groupCode": 0
   },
   {
     "id":,
-    "fa": "",
-    "en": "",
+    "fa": "من انحراف بینی دارم",
+    "en": "I have a deviated nose",
     "groupCode": 0
   },
   {
     "id":,
-    "fa": "",
-    "en": "",
+    "fa": "برای بعضی کارهای اداری باید جایی بروم",
+    "en": "I have to go somewhere for some office work",
     "groupCode": 0
   },
   {
     "id":,
-    "fa": "",
-    "en": "",
+    "fa": "آیا اهل این اطراف هستی؟",
+    "en": "Are you from a round here?",
     "groupCode": 0
   },
   {
     "id":,
-    "fa": "",
-    "en": "",
+    "fa": "چگونه به کتابخانه بروم؟",
+    "en": "How do I get to library?",
     "groupCode": 0
   },
   {
     "id":,
-    "fa": "",
-    "en": "",
+    "fa": "چگونه می توانیم به Marienplatz برویم؟",
+    "en": "How can we get to Marienplatz?",
     "groupCode": 0
   },
   {
     "id":,
-    "fa": "",
-    "en": "",
-    "groupCode": 0
-  },
-  {
-    "id":,
-    "fa": "",
-    "en": "",
+    "fa": "واقعاً لیز است و نزدیک بود بیفتم، اما توانستم نرده ها را نگه دارم",
+    "en": "It's really slippery, and I almost fell, but I managed to hold onto the railings",
     "groupCode": 0
   },
   {
