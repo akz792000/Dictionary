@@ -312,9 +312,39 @@
     "groupCode": 1
   },
   {
-    "id": 30001,
-    "en": "In Germany people are allowed to openly say something against the government because -> freedom of expression applies here",
-    "de": "in Deutschland dürfen Menschen offen etwas gegen die Regierung sagen, weil -> heir Meinungfreiheit gilt",
+    "id": 20053,
+    "en": "Have breakfast",
+    "de": "\n frühstücke \n frühstückst \n frühstückt \n frühstücken \n frühstückt \n frühstücken",
+    "groupCode": 1
+  },
+  {
+    "id": 20054,
+    "en": "Surf",
+    "de": "\n surfe \n surfst \n surft \n surfen \n surft \n surfen",
+    "groupCode": 1
+  },
+  {
+    "id": 20055,
+    "en": "Sing",
+    "de": "\n singe \n singst \n singt \n singen \n singt \n singen",
+    "groupCode": 1
+  },
+  {
+    "id": 20056,
+    "en": "Take a photograph",
+    "de": "\n fotografiere \n fotografierst \n fotografiert \n fotografieren \n fotografiert \n fotografieren",
+    "groupCode": 1
+  },
+  {
+    "id": 20057,
+    "en": "Jog",
+    "de": "\n jogge \n joggst \n joggt \n joggen \n joggt \n joggen",
+    "groupCode": 1
+  },
+  {
+    "id": 20058,
+    "en": "Find",
+    "de": "\n finde \n findest \n findet \n finden \n findet \n finden",
     "groupCode": 1
   }
 ]

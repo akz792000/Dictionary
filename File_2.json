@@ -1,8 +1,8 @@
 [
   {
     "id": 10001,
-    "en": "Good Morning. Good day. Good evening. Good night",
-    "de": "Guten morgen. Guten tag. Guten abend. Gute nacht",
+    "en": "Good Morning. Good day. Good evening. Good night.",
+    "de": "Guten morgen. Guten tag. Guten abend. Gute nacht.",
     "groupCode": 1
   },
   {
@@ -55,8 +55,8 @@
   },
   {
     "id": 10010,
-    "en": "How is the weather today? The weather is bad today. It rains and it's windy",
-    "de": "Wie ist das Wetter heute? Das Wetter ist heute schlecht. Es regnet und es ist windig",
+    "en": "How is the weather today? The weather is bad today. The weather is raining this morning",
+    "de": "Wie ist das Wetter heute? Das Wetter ist heute schlecht. Das wetter ist heute Morgem regnet",
     "groupCode": 1
   },
   {
@@ -98,7 +98,7 @@
   },
   {
     "id": 10017,
-    "en": "Where do your partner come from?",
+    "en": "Where do your partner come from? (polite)",
     "de": "\n 1.Woher kommt Ihr Partner? \n 2.Woher kommt dein Partner?",
     "groupCode": 1
   },
@@ -350,8 +350,8 @@
   },
   {
     "id": 10058,
-    "en": "I speak Swedish well",
-    "de": "Ich spreche gut Schwedisch",
+    "en": "I speak Swedish well, but my mother language is English",
+    "de": "Ich spreche gut Schwedisch, aber meine Muttersprache ist Englisch",
     "groupCode": 1
   },
   {
@@ -405,8 +405,8 @@
   },
   {
     "id": 10067,
-    "en": "I speak a bit of German? English?",
-    "de": "Ich spreche ein bisschen Deutsch? Englisch?",
+    "en": "I speak a bit of German? You speak English. Do you also speak Swedish?",
+    "de": "Ich spreche ein bisschen Deutsch? Du sprichst Englisch. Sprichst du auch Schwedisch?",
     "groupCode": 1
   },
   {
@@ -1279,8 +1279,8 @@
   },
   {
     "id": 10211,
-    "en": "Fast! The man is very sick",
-    "de": "Schnell! Der Mann ist sehr krank",
+    "en": "The man is very sick",
+    "de": "Der Mann ist sehr krank",
     "groupCode": 1
   },
   {
@@ -1363,7 +1363,7 @@
   },
   {
     "id": 10225,
-    "en": "What is your profession?",
+    "en": "What is your profession? (polite)",
     "de": "\n 1.Was ist dein Beruf? \n 2.Was ist Ihr Beruf?",
     "groupCode": 1
   },
@@ -1871,8 +1871,8 @@
   },
   {
     "id": 10309,
-    "en": "Can I pay with card?",
-    "de": "Kann ich mit Karte zahlen?",
+    "en": "Can I pay with card? No, it's only cash",
+    "de": "Kann ich mit Karte zahlen? Nei, es geht nur bar",
     "groupCode": 1
   },
   {
@@ -2420,6 +2420,228 @@
     "id": 10400,
     "en": "The weather in autumn is fine, but it's often cold",
     "de": "Das wetter im Herbst ist schön, aber es ist oft kalt",
+    "groupCode": 1
+  },
+  {
+    "id": 10401,
+    "en": "My French isn't bad",
+    "de": "Mein Französisch ist nicht schlecht",
+    "groupCode": 1
+  },
+  {
+    "id": 10402,
+    "en": "You speak too fast. My English is not very good",
+    "de": "Sie sprechen zu schnell. Mein Englisch ist nicht sehr gut",
+    "groupCode": 1
+  },
+  {
+    "id": 10403,
+    "en": "What is your mother language?",
+    "de": "Was ist deine Muttersprache?",
+    "groupCode": 1
+  },
+  {
+    "id": 10404,
+    "en": "Do you only speak English?",
+    "de": "Sprichst du nur Englisch?",
+    "groupCode": 1
+  },
+  {
+    "id": 10405,
+    "en": "Ms. Klum is an actress and she is very smart. Her German, English and French are perfect",
+    "de": "Frau Klum ist schauspielerin und sie ist sehr klug. Ihr Deutsch, ihr Englisch und ihr Französisch sind perfekt",
+    "groupCode": 1
+  },
+  {
+    "id": 10406,
+    "en": "Keep the change",
+    "de": "Stimmt so",
+    "groupCode": 1
+  },
+  {
+    "id": 10407,
+    "en": "I'd like a beer",
+    "de": "Ich hätte gern ein bier",
+    "groupCode": 1
+  },
+  {
+    "id": 10408,
+    "en": "Do you want to make dinner or eat out? I'd rather go out to eat",
+    "de": "Willst du Essen machen oder Essen gehen? Ich will Essen gehen",
+    "groupCode": 1
+  },
+  {
+    "id": 10409,
+    "en": "Do you want to make food or order food? I would rather go out to eat than make food",
+    "de": "Willst du Essen machen oder Essen bestellen? Ich will lieber Essen gehen als Essen machen",
+    "groupCode": 1
+  },
+  {
+    "id": 10410,
+    "en": "What do you like to eat? I like to eat everything",
+    "de": "Was isst du gern? Ich esse gern alles",
+    "groupCode": 1
+  },
+  {
+    "id": 10411,
+    "en": "I don't eat dairy products or meat but I like to eat pizza",
+    "de": "Ich esse keine Milchprodukte und kein Fleisch aber Ich esse gern Pizza",
+    "groupCode": 1
+  },
+  {
+    "id": 10412,
+    "en": "I'm eating breakfast now",
+    "de": "Ich frühstücke jetzt",
+    "groupCode": 1
+  },
+  {
+    "id": 10413,
+    "en": "What are you doing this morning? I am playing chess this morning",
+    "de": "Was machst du heute Morge? Ich Spiele heute Morgen Schach",
+    "groupCode": 1
+  },
+  {
+    "id": 10414,
+    "en": "Why is German so cool?",
+    "de": "Warum ist Deutsch so cool?",
+    "groupCode": 1
+  },
+  {
+    "id": 10415,
+    "en": "Where do you surf?",
+    "de": "Wo surfst du?",
+    "groupCode": 1
+  },
+  {
+    "id": 10416,
+    "en": "Do you sometimes surf in Sweden? No, I often swim in Sweden",
+    "de": "Surfst du manchmal in Schweden? Nein, ich schwimme oft in Schweden",
+    "groupCode": 1
+  },
+  {
+    "id": 10417,
+    "en": "What do you like to do on vacation?",
+    "de": "Was machst du gern im Urlaub?",
+    "groupCode": 1
+  },
+  {
+    "id": 10418,
+    "en": "My sister jogs every day and my brother never jogs",
+    "de": "Meine Schwester joggt jeden Tag und mein Bruder joggt nie",
+    "groupCode": 1
+  },
+  {
+    "id": 10419,
+    "en": "I buy groceries not every day",
+    "de": "Ich kaufe Lebensmittel nicht jeden tag",
+    "groupCode": 1
+  },
+  {
+    "id": 10420,
+    "en": "Enjoy meal",
+    "de": "\n 1.Guten Appetit. \n 2.Mahlzeit",
+    "groupCode": 1
+  },
+  {
+    "id": 10421,
+    "en": "I like to eat a bread roll for breakfast",
+    "de": "Ich esse gern ein Brötchen zum Frühstück",
+    "groupCode": 1
+  },
+  {
+    "id": 10422,
+    "en": "I like to eat sausage salad for dinner not for lunch",
+    "de": "Ich esse gerne Wurstsalat zum Abendessen, nicht zum Mittagessen",
+    "groupCode": 1
+  },
+  {
+    "id": 10423,
+    "en": "Where do you sing today?",
+    "de": "Wo singst du heute?",
+    "groupCode": 1
+  },
+  {
+    "id": 10424,
+    "en": "I don't take often photos",
+    "de": "Ich fotografiere nicht oft",
+    "groupCode": 1
+  },
+  {
+    "id": 10425,
+    "en": "What do you not like to eat? I don't like to eat meat",
+    "de": "Was isst du nicht gern? Ich esse nicht gern Fleisch",
+    "groupCode": 1
+  },
+  {
+    "id": 10426,
+    "en": "You like to jog on the weekend in France",
+    "de": "Sie joggen gern am Wochenende in Frankreich",
+    "groupCode": 1
+  },
+  {
+    "id": 10427,
+    "en": "It's snowing, but My friends like to jog",
+    "de": "Es schneit, aber Meine Freunde joggen gern",
+    "groupCode": 1
+  },
+  {
+    "id": 10428,
+    "en": "I must go shopping",
+    "de": "Ich muss einkaufen gehen",
+    "groupCode": 1
+  },
+  {
+    "id": 10429,
+    "en": "Is there a butcher shop nearby?",
+    "de": "Ist hier eine Fleischerei in der Nähe?",
+    "groupCode": 1
+  },
+  {
+    "id": 10430,
+    "en": "How is her English? Her English is really perfect",
+    "de": "Wie ist ihr Englisch? Ihr Englisch ist wirklich perfekt",
+    "groupCode": 1
+  },
+  {
+    "id": 10431,
+    "en": "His German is very good and her German is perfect",
+    "de": "Sein Deutsch ist sehr gut und ihr Deutsch ist perfekt",
+    "groupCode": 1
+  },
+  {
+    "id": 10432,
+    "en": "can you help me?",
+    "de": "Können sie mir helfen?",
+    "groupCode": 1
+  },
+  {
+    "id": 10433,
+    "en": "Where can I find the coffee?",
+    "de": "Wo finde ich den Kaffee?",
+    "groupCode": 1
+  },
+  {
+    "id": 10434,
+    "en": "Do you have shower gel? (formal)",
+    "de": "Haben Sie Duschgel?",
+    "groupCode": 1
+  },
+  {
+    "id": 10435,
+    "en": "Unfortunately not",
+    "de": "Leider nicht",
+    "groupCode": 1
+  },
+  {
+    "id": 10436,
+    "en": "How do you say that in German",
+    "de": "Wie heißt das auf deutsch?",
+    "groupCode": 1
+  },
+  {
+    "id": 10437,
+    "en": "I need fruits and vegetables. Where do I find them?",
+    "de": "Ich brauche Obst und Gemüse. Wo finde ich sie?",
     "groupCode": 1
   }
 ]

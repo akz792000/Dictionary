@@ -1647,7 +1647,7 @@
   {
     "id": 2274,
     "fa": "چند کوتوله با سفید برفی هستند؟",
-    "en": "How many dwarves /دو اًر وز/ are there with Snow White?",
+    "en": "How many dwarves /دو اُر وز/ are there with Snow White?",
     "groupCode": 0
   },
   {
@@ -1918,8 +1918,8 @@
   },
   {
     "id": 2319,
-    "fa": "برای از دست دادن شما بسیار متاسفم افکار من در این دوران سخت با شما و خانواده شماست. اگر کاری می توانم برای حمایت از شما انجام دهم، لطفاً به من اطلاع دهید",
-    "en": "I'm so sorry for your loss. My thoughts are with you and your family during this difficult time. If there's anything I can do to support you, please let me know",
+    "fa": "برای از دست دادن شما بسیار متاسفم افکار من در این دوران سخت با شما و خانواده شماست",
+    "en": "I'm so sorry for your loss. My thoughts are with you and your family during this difficult time",
     "groupCode": 0
   },
   {
@@ -2052,6 +2052,18 @@
     "id": 2341,
     "fa": "این شرکت تصمیم گرفت به خارج واگذار کند خدمات پشتیبانی مشتری خود را به یک تیمی در هند تا سود ببرد از صرفه جویی در هزینه ها و پوشش 24 ساعته",
     "en": "This company decided to offshore its customer support services to a team in India to take advantage of cost savings and 24/7 coverage",
+    "groupCode": 0
+  },
+  {
+    "id": 2342,
+    "fa": "اگر کاری می توانم برای حمایت از شما انجام دهم، لطفاً به من اطلاع دهید",
+    "en": "If there's anything I can do to support you, please let me know",
+    "groupCode": 0
+  },
+  {
+    "id": 2343,
+    "fa": "من دوست دارم بدوم (آهسته) آخر هفته در فرانسه",
+    "en": "I like to jog on the weekend in France",
     "groupCode": 0
   }
 ]
