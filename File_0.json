@@ -1189,7 +1189,7 @@
   },
   {
     "id": 198,
-    "fa": "نمی توانم باور کنم که این کار را کردی",
+    "fa": "نمی توانم باور کنم که این را انجام داده ای",
     "en": "I can't believe you have done this",
     "groupCode": 0
   },
@@ -3517,7 +3517,7 @@
   {
     "id": 583,
     "fa": "حدس می زنم این یک مورد نادر است",
-    "en": "This is the edge case I guess",
+    "en": "I guess This is the edge case",
     "groupCode": 0
   },
   {
