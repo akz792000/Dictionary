@@ -10494,7 +10494,7 @@
   },
   {
     "id": 1732,
-    "fa": "با خانواده خوش گذشت؟",
+    "fa": "با خانواده ات خوش گذشت؟",
     "en": "Did you have fun with your family?",
     "groupCode": 0
   },
@@ -11275,7 +11275,7 @@
   },
   {
     "id": 1860,
-    "fa": "با خیال راحت هر چیزی را که می خواهید بردارید",
+    "fa": "با خیال راحت هر چیزی را که می خواهید ببرید",
     "en": "Feel free to take anything you want",
     "groupCode": 0
   },
@@ -11533,8 +11533,8 @@
   },
   {
     "id": 1903,
-    "fa": "او تسلیم این مبارزه خواهد شد",
-    "en": "He will surrender this fight",
+    "fa": "او (مرد) تسلیم این مبارزه خواهد شد",
+    "en": "He'll surrender this fight",
     "groupCode": 0
   },
   {
@@ -12111,7 +12111,7 @@
   },
   {
     "id": 1998,
-    "fa": "من گام برداشتم جلو و عقب در اتاق, منتظر خبر بودم",
+    "fa": "من گام برداشتم عقب و جلو در اتاق, منتظر خبر بودم",
     "en": "I paced back and forth in the room, waiting for the news",
     "groupCode": 0
   },

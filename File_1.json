@@ -259,7 +259,7 @@
   },
   {
     "id": 2044,
-    "fa": "من پسرم را در مهد کودک (مراقبت در روز) پیاده می کنم",
+    "fa": "من پسرم را در یک مهد کودک (مراقبت در روز) پیاده می کنم",
     "en": "I drop off my son at a daycare",
     "groupCode": 0
   },
@@ -779,7 +779,7 @@
   },
   {
     "id": 2130,
-    "fa": "امروز هوا خیلی سرده (به تلخی). بفرمایید یک روسری برای گرم نگه داشتن شما",
+    "fa": "امروز خیلی سرده (به تلخی). بفرمایید یک روسری برای گرم نگه داشتن شما",
     "en": "It's bitterly cold today. Here's a scarf to keep you warm",
     "groupCode": 0
   },
@@ -906,7 +906,7 @@
   {
     "id": 2151,
     "fa": "نوزاد شما الان چه سنی هستش؟",
-    "en": "What age is your baby now?",
+    "en": "How old is your baby now?",
     "groupCode": 0
   },
   {
@@ -996,7 +996,8 @@
   {
     "id": 2166,
     "fa": "من ایده خود را فردا در جلسه مطرح خواهم کرد",
-    "en": "I'll pitch my idea at the meeting tomorrow",
+    "en": "I'll pitch my idea tomorrow at the meeting",
+    "desc": "\"I'll pitch my idea tomorrow at the meeting.\"\n\"I'll pitch my idea at the meeting tomorrow.\"\nThe choice between them depends on the emphasis you want to place. The first sentence emphasizes the timing (tomorrow), while the second emphasizes the location (at the meeting). Both are commonly used, so you can choose the one that fits your intended emphasis.",
     "groupCode": 0
   },
   {
@@ -1640,7 +1641,7 @@
   },
   {
     "id": 2273,
-    "fa": "به من هیچ دروغی گفته نشده",
+    "fa": "به من هیچ دروغی گفته نشده است",
     "en": "I haven't been told any lies",
     "groupCode": 0
   },
@@ -1670,7 +1671,7 @@
   },
   {
     "id": 2278,
-    "fa": "چگونه من می توانم حق داشته باشم بروم و زندگی کنم اگر کسی بومی آن سرزمینی که خانواده اش از آنجا رانده شده است آن حق را ندارد؟",
+    "fa": "چگونه من ممکن است حق داشته باشم بروم و زندگی کنم آنجا اگر کسی بومی آن سرزمینی که خانواده اش از آنجا رانده شده است آن حق را ندارد؟",
     "en": "How can I possibly have the right to go and live there if someone indigenous to that land whose family was driven from there does not have that right?",
     "groupCode": 0
   },
@@ -1899,7 +1900,7 @@
   },
   {
     "id": 2316,
-    "fa": "ما نمی خواهیم هیچ نقطه ای را مبهم بگذاریم",
+    "fa": "ما نمی خواهیم هیچ نقطه ای را مبهم باقی بگذاریم",
     "en": "We don't want to leave any points unclear",
     "desc": "\"We don't want to leave any points unclear\": Implies a focus on multiple specific details or aspects, ensuring clarity on all of them.\n\n\"We don't want to leave any point unclear\": Indicates a singular focus on a general idea or concept, ensuring that it is not unclear.",
     "groupCode": 0
@@ -1918,7 +1919,7 @@
   },
   {
     "id": 2319,
-    "fa": "برای از دست دادن شما بسیار متاسفم افکار من در این دوران سخت با شما و خانواده شماست",
+    "fa": "برای از دست دادن شما بسیار متاسفم. افکار من در این دوران سخت با شما و خانواده شماست",
     "en": "I'm so sorry for your loss. My thoughts are with you and your family during this difficult time",
     "groupCode": 0
   },
@@ -1954,7 +1955,7 @@
   },
   {
     "id": 2325,
-    "fa": "تمام روز سر پا بودم",
+    "fa": "تمام روز سر پاهام بودم",
     "en": "I've been on my feet all day",
     "groupCode": 0
   },
@@ -2050,20 +2051,20 @@
   },
   {
     "id": 2341,
-    "fa": "این شرکت تصمیم گرفت به خارج واگذار کند خدمات پشتیبانی مشتری خود را به یک تیمی در هند تا سود ببرد از صرفه جویی در هزینه ها و پوشش 24 ساعته",
+    "fa": "این شرکت تصمیم گرفت به خارج واگذار کند خدمات پشتیبانی مشتری خود را به یک تیمی در هند تا سود ببرد از صرفه جویی در هزینه ها و پوشش 24/7 ساعته",
     "en": "This company decided to offshore its customer support services to a team in India to take advantage of cost savings and 24/7 coverage",
     "groupCode": 0
   },
   {
     "id": 2342,
-    "fa": "اگر کاری می توانم برای حمایت از شما انجام دهم، لطفاً به من اطلاع دهید",
+    "fa": "اگر چیزی هست می توانم برای حمایت از شما انجام دهم، لطفاً به من اطلاع دهید",
     "en": "If there's anything I can do to support you, please let me know",
     "groupCode": 0
   },
   {
     "id": 2343,
-    "fa": "من دوست دارم بدوم (آهسته) آخر هفته در فرانسه",
-    "en": "I like to jog on the weekend in France",
+    "fa": "من دوست دارم بدوم (آهسته) در بعد از ظهر آخر هفته ها در فرانسه",
+    "en": "I like to jog in the afternoon on weekends in France",
     "groupCode": 0
   }
 ]
