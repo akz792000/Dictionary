@@ -2066,5 +2066,348 @@
     "fa": "من دوست دارم بدوم (آهسته) در بعد از ظهر آخر هفته ها در فرانسه",
     "en": "I like to jog in the afternoon on weekends in France",
     "groupCode": 0
+  },
+  {
+    "id": 2344,
+    "fa": "من پتو را روی صورتم می کشم تا هر شب گرم بمانم",
+    "en": "I pull the blanket over my face to stay warm every night",
+    "groupCode": 0
+  },
+  {
+    "id": 2345,
+    "fa": "آیا در اطراف سلاح یا چیز دیگری وجود داشت؟",
+    "en": "Were there any weapons around or anything?",
+    "groupCode": 0
+  },
+  {
+    "id": 2346,
+    "fa": "دیشب چیز عجیبی شنیدی؟",
+    "en": "Did you hear anything weird last night?",
+    "groupCode": 0
+  },
+  {
+    "id": 2347,
+    "fa": "من در را بستم",
+    "en": "I got my door shut",
+    "desc": "\"I closed my door\": Directly states that you physically closed the door.\n\n\"I got my door shut\": Suggests that you took some action or made sure the door was closed, but it might not explicitly mean that you physically closed it yourself. It implies a sense of personal involvement or responsibility for ensuring the door is closed",
+    "groupCode": 0
+  },
+  {
+    "id": 2348,
+    "fa": "من به شما قول می دهم، من حتی این شخص را نمی شناختم",
+    "en": "I give you my word, I didn't even know this person",
+    "groupCode": 0
+  },
+  {
+    "id": 2349,
+    "fa": "عینک آفتابی چشمان او (زن) را می پوشاند",
+    "en": "The sunglasses conceal her eyes",
+    "groupCode": 0
+  },
+  {
+    "id": 2350,
+    "fa": "مدافع (مدعی علیه) متهم به تلاش برای پوشاندن مدارک است",
+    "en": "The defendant is accused of attempting to conceal evidence",
+    "groupCode": 0
+  },
+  {
+    "id": 2351,
+    "fa": "من به راحتی متقاعد نمی شوم",
+    "en": "I'm not easily persuaded",
+    "groupCode": 0
+  },
+  {
+    "id": 2352,
+    "fa": "آیا می توانید (محترمانه) نرخ فقر را در آینده تخمین بزنید؟",
+    "en": "Could you estimate the rate of poverty in future?",
+    "groupCode": 0
+  },
+  {
+    "id": 2353,
+    "fa": "یک متخصص مردی است که تمام اشتباهات را مرتکب شده است که می توان در یک زمینه محدود بسازد",
+    "en": "An expert is a man who has made all the mistakes which can be made in a narrow field",
+    "groupCode": 0
+  },
+  {
+    "id": 2354,
+    "fa": "امروز در مرخصی استعلاجی هستم",
+    "en": "I am on sick leave today",
+    "groupCode": 0
+  },
+  {
+    "id": 2355,
+    "fa": "ما به دنبال راه هایی برای کاهش خطرات هستیم",
+    "en": "We're looking for ways to mitigate risks",
+    "groupCode": 0
+  },
+  {
+    "id": 2356,
+    "fa": "انگار یادم افتاد که تو را اخراج کردم",
+    "en": "I seem to remember firing you",
+    "groupCode": 0
+  },
+  {
+    "id": 2357,
+    "fa": "فقط اینجا صبر کنید، این خیلی طول نمی کشد",
+    "en": "Just wait here, This won't take long",
+    "groupCode": 0
+  },
+  {
+    "id": 2358,
+    "fa": "چقدر پول کم داری",
+    "en": "\n 1.How much money are you short of? \n 2.How much money are you short? \n ",
+    "groupCode": 0
+  },
+  {
+    "id": 2359,
+    "fa": "من به شما هشدار دادم که در آینده صلح نخواهید داشت (فرضی)، اما شما گوش نکردید",
+    "en": "I warned you that you wouldn't have peace in the future, but you didn't listen",
+    "groupCode": 0
+  },
+  {
+    "id": 2360,
+    "fa": "از دستت انجام دادن همه این کار کلافه ام",
+    "en": "I'm fed up with doing all this work",
+    "groupCode": 0
+  },
+  {
+    "id": 2361,
+    "fa": "چون من چیزی می دانستم که او (مرد) نمی دانست",
+    "en": "Because I knew something that He didn't know",
+    "groupCode": 0
+  },
+  {
+    "id": 2362,
+    "fa": "من ربوده شده ام. چه کسی شما را ربوده است؟",
+    "en": "I have been abducted. Who has abducted you?",
+    "groupCode": 0
+  },
+  {
+    "id": 2363,
+    "fa": "ترجیح می دهم به جای آسانسور از پله برقی استفاده کنم",
+    "en": "I prefer to take the escalator instead of elevator",
+    "groupCode": 0
+  },
+  {
+    "id": 2364,
+    "fa": "من انحراف بینی دارم",
+    "en": "I have a deviated nose",
+    "groupCode": 0
+  },
+  {
+    "id": 2365,
+    "fa": "برای بعضی کارهای اداری باید جایی بروم",
+    "en": "I have to go somewhere for some office work",
+    "groupCode": 0
+  },
+  {
+    "id": 2366,
+    "fa": "آیا اهل این اطراف هستی؟",
+    "en": "Are you from a round here?",
+    "groupCode": 0
+  },
+  {
+    "id": 2367,
+    "fa": "چگونه به کتابخانه بروم (برسم)؟",
+    "en": "How do I get to library?",
+    "groupCode": 0
+  },
+  {
+    "id": 2368,
+    "fa": "چگونه می توانیم به Marienplatz برویم (برسیم)؟",
+    "en": "How can we get to Marienplatz?",
+    "groupCode": 0
+  },
+  {
+    "id": 2369,
+    "fa": "واقعاً لیز است و نزدیک بود بیفتم، اما توانستم نرده ها را نگه دارم",
+    "en": "It's really slippery, and I almost fell, but I managed to hold onto the railings",
+    "groupCode": 0
+  },
+  {
+    "id": 2370,
+    "fa": "پشتت رو به من نکن",
+    "en": "Don't turn your back on me",
+    "groupCode": 0
+  },
+  {
+    "id": 2371,
+    "fa": "فقط کنار ماشین بایست",
+    "en": "Just stand by the car",
+    "groupCode": 0
+  },
+  {
+    "id": 2372,
+    "fa": "تو یه عذرخواهی لعنتی به پسرم مدیونی",
+    "en": "You owe my son a goddamn apology",
+    "groupCode": 0
+  },
+  {
+    "id": 2373,
+    "fa": "من متهم شدم به کاری که انجام ندادم",
+    "en": "I was accused of something that I didn't do",
+    "groupCode": 0
+  },
+  {
+    "id": 2374,
+    "fa": "او (زن) پرداخت کرد به پلیس مخفی به عنوان آدم کش (حرفه ای) تا شوهرش را بکشد",
+    "en": "She paid to undercover cop as a hitman to kill her husband",
+    "groupCode": 0
+  },
+  {
+    "id": 2375,
+    "fa": "اولین محکومیت او (زن) به دلیل فنی لغو شد",
+    "en": "Her first conviction was overturned on a technicality",
+    "groupCode": 0
+  },
+  {
+    "id": 2376,
+    "fa": "خبر تصادف (بسیار) ناراحت کننده بود",
+    "en": "The news of the accident was distressing",
+    "groupCode": 0
+  },
+  {
+    "id": 2377,
+    "fa": "آیا تا به حال به طور تصادفی متوجه شده اید که قرار است اخراج شوید؟",
+    "en": "Have you ever accidentally found out that you were about to be fired?",
+    "groupCode": 0
+  },
+  {
+    "id": 2378,
+    "fa": "فنر تشک جیرجیر کرد وقتی روی تخت غلت زدم",
+    "en": "The mattress spring squeaked as I rolled over in bed",
+    "groupCode": 0
+  },
+  {
+    "id": 2379,
+    "fa": "او (زن) می خواهد شما کشده شوید",
+    "en": "She wants to have you killed",
+    "groupCode": 0
+  },
+  {
+    "id": 2380,
+    "fa": "او (زن) یکی از خونسردترین فردی است که من در حرفه اجرای قانون با او برخورد کرده ام",
+    "en": "She's one the coldest individual that I've run across in my law enforcement career",
+    "groupCode": 0
+  },
+  {
+    "id": 2381,
+    "fa": "او (زن) از بازی های فکری خود برای رسیدن به من استفاده کرد",
+    "en": "She used her mind games to get to me",
+    "groupCode": 0
+  },
+  {
+    "id": 2382,
+    "fa": "من کاملا مات و مبهوت بودم",
+    "en": "I was completely dumbfounded",
+    "groupCode": 0
+  },
+  {
+    "id": 2383,
+    "fa": "او (زن) کمی بیش از حد محافظ است",
+    "en": "She is a little overprotective",
+    "groupCode": 0
+  },
+  {
+    "id": 2384,
+    "fa": "لطفاً ایده های خود را مطرح (پرتاب) کنید زیرا من نمی دانم (سرنخی ندارم) علی دوست دارد چه کاری انجام دهد",
+    "en": "Please shoot your ideas because I am clueless what Ali likes to do",
+    "groupCode": 0
+  },
+  {
+    "id": 2385,
+    "fa": "آیا (مودبانه) بعد از اخراج برمی گردید؟",
+    "en": "Would you return after being laid off?",
+    "groupCode": 0
+  },
+  {
+    "id": 2386,
+    "fa": "اگر این فیلمبرداری نمی شد هیچ کس آن را باور نمی کرد",
+    "en": "If this wasn't filmed nobody would believe it",
+    "groupCode": 0
+  },
+  {
+    "id": 2387,
+    "fa": "من نمی دانم آیا شما بتوانید استطاعت آن را داشته باشید",
+    "en": "I don't know if you can afford it",
+    "groupCode": 0
+  },
+  {
+    "id": 2388,
+    "fa": "هیچ راهی نیست این مرد برای وام تایید شود",
+    "en": "There's no way this guy is getting approved for a loan",
+    "groupCode": 0
+  },
+  {
+    "id": 2389,
+    "fa": "یک کتاب را از روی جلد آن قضاوت نکن",
+    "en": "Don't judge a book by its cover",
+    "groupCode": 0
+  },
+  {
+    "id": 2390,
+    "fa": "وقتش نیست تو خواب باشی",
+    "en": "It's not the time for you to be asleep",
+    "groupCode": 0
+  },
+  {
+    "id": 2391,
+    "fa": "سبد میوه هم انبه خام و هم رسیده دارد",
+    "en": "The fruit basket has both raw and ripe mangoes",
+    "groupCode": 0
+  },
+  {
+    "id": 2392,
+    "fa": "تیم پروژه را زودتر از موعد مقرر به پایان (جمعبندی) رسانده است",
+    "en": "The team has wrapped up the project ahead of schedule",
+    "groupCode": 0
+  },
+  {
+    "id": 2393,
+    "fa": "من به این جمله اعتقاد دارم",
+    "en": "I believe in this sentence",
+    "groupCode": 0
+  },
+  {
+    "id": 2394,
+    "fa": "چرا آن دختر (داره) اینقدر پایش را بلند می کند؟",
+    "en": "Why that girl is lifting her leg so much?",
+    "groupCode": 0
+  },
+  {
+    "id": 2395,
+    "fa": "من می توانم کلیدهای یکسان را با خراش های کوچک روی یکی از آنها تشخیص دهم",
+    "en": "I can tell apart the identical keys by the tiny scratches on one of them",
+    "groupCode": 0
+  },
+  {
+    "id": 2396,
+    "fa": "توضیحات او (مرد) کاملتر از من بود",
+    "en": "His explanation was more complete than mine",
+    "groupCode": 0
+  },
+  {
+    "id": 2397,
+    "fa": "آیا این خوراکی است؟",
+    "en": "Is this edible?",
+    "groupCode": 0
+  },
+  {
+    "id": 2398,
+    "fa": "چرا تو فقط همین را نگفتی؟ من نمی خواستم احساسات شما را جریحه دار کنم",
+    "en": "Why didn't you just say that? I didn't wanna hurt your feelings",
+    "groupCode": 0
+  },
+  {
+    "id": 2399,
+    "fa": "فقط حقیقت را بگو هیچ کس در اینجا توهین برداشت نخواهد کرد",
+    "en": "Just tell the truth. No one will take offence here",
+    "groupCode": 0
+  },
+  {
+    "id": 2400,
+    "fa": "آیا نتوانسته بودید کمی به او آزادی عمل بدهید؟",
+    "en": "Couldn't you have given him a little more leeway?",
+    "groupCode": 0
   }
 ]
