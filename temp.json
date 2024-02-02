@@ -1,9 +1,248 @@
 [
   {
     "id":,
-    "fa": "من پتو را روی صورتم می کشم تا هر شب گرم بمانم",
-    "en": "I pull the blanket over my face to stay warm every night",
+    "fa": "رکود اقتصادی اخیر منجر به عدم اطمینان نگران کننده در مورد امنیت شغلی برای بسیاری از مردم شده است",
+    "en": "The recent economic downturn has led to alarming uncertainties about job security for many people",
     "groupCode": 0
   },
-
+  {
+    "id":,
+    "fa": "لباس هایم را روی بند رخت می گذارم تا در آفتاب خشک شوند",
+    "en": "I put my clothes on the clothesline to dry up in the sun",
+    "groupCode": 0
+  },
+  {
+    "id":,
+    "fa": "نقطه قوت این کشور دموکراسی است نه خودکامگی",
+    "en": "The strength of this country is being democracy not autocracy",
+    "groupCode": 0
+  },
+  {
+    "id":,
+    "fa": "معلم مجبور شد مرخص کند کلاس را زودتر به دلیل قطعی برق",
+    "en": "The teacher had to dismiss the class early due to a power outage",
+    "groupCode": 0
+  },
+  {
+    "id":,
+    "fa": "دیگه بهش اعتماد نداری؟",
+    "en": "Don't you trust him anymore?",
+    "groupCode": 0
+  },
+  {
+    "id":,
+    "fa": "آیا خودت جاه طلبی کاندیداتوری برای ریاست جمهوری را داری؟",
+    "en": "Do you have the ambition to run for the presidency yourself?",
+    "groupCode": 0
+  },
+  {
+    "id":,
+    "fa": "آمریکا می گوید در حمله پهپادی به پایگاهی در شمال شرقی اردن سه تن از نیروهایش کشته و ده ها تن دیگر زخمی شده اند",
+    "en": "The US says three of its troops have been killed and dozens more wounded in a drone attack on a base in northeastern Jordan",
+    "groupCode": 0
+  },
+  {
+    "id":,
+    "fa": "پلیس در جستجوی مرتکب کننده (عامل) جنایت است",
+    "en": "The police are searching for the perpetrator of the crime",
+    "groupCode": 0
+  },
+  {
+    "id":,
+    "fa": "من از او نقل قول می کنم در مقاله تحقیقاتی خود برای حمایت از بحث خود",
+    "en": "I quote him in my research paper to support my argument",
+    "groupCode": 0
+  },
+  {
+    "id":,
+    "fa": "من قادر نخواهم بود برسم به دفتر امروز",
+    "en": "I will not be able to make it to the office today",
+    "groupCode": 0
+  },
+  {
+    "id":,
+    "fa": "من بسیار سوپرایز شدم که این اتهامات علیه من (فرضی) مطرح می شود، زیرا من کار خلافی نکرده بودم",
+    "en": "I was very surprised that these charges would be brought against me because I hadn't done anything wrong",
+    "groupCode": 0
+  },
+  {
+    "id":,
+    "fa": "او (مرد) به تجاوز جنسی متهم شد",
+    "en": "He charged with rape",
+    "groupCode": 0
+  },
+  {
+    "id":,
+    "fa": "خیلی خیالم راحت شد",
+    "en": "I was very relieved",
+    "groupCode": 0
+  },
+  {
+    "id":,
+    "fa": "او (زن) مدام مرا نزدیک تر می کرد و بعد از چند دقیقه با دست مرا از میله بیرون برد",
+    "en": "She kept pulling me closer and after several minutes she led me by the hand out of the bar",
+    "groupCode": 0
+  },
+  {
+    "id":,
+    "fa": "هر دوی ما مشروب خورده بودیم",
+    "en": "We had both been drinking",
+    "groupCode": 0
+  },
+  {
+    "id":,
+    "fa": "پدرم الگوی من بود",
+    "en": "My father was my role model",
+    "groupCode": 0
+  },
+  {
+    "id":,
+    "fa": "صبحتان بخیر عالیجنابان، بزرگواران, دوستان و همکارانتان",
+    "en": "Good morning your highness, excellencies, friends and colleagues",
+    "groupCode": 0
+  },
+  {
+    "id":,
+    "fa": "من می خواهم تشکر کنم از شما برای فرصت اینجا بودن امروز",
+    "en": "I would like to thank you for the opportunity to be here today",
+    "groupCode": 0
+  },
+  {
+    "id":,
+    "fa": "فداکاری بی وقفه او برای بهتر شدن در بازی منجر به پیشرفت قابل توجهی در مهارت های او شد",
+    "en": "His relentless dedication to getting better at the game led to significant improvements in his skills",
+    "groupCode": 0
+  },
+  {
+    "id":,
+    "fa": "رفتم ماشینم را پارک کنم، اما متوجه شدم چرخ عقب سمت چپ روی جدول است",
+    "en": "I went to park my car, but I noticed that the left rear wheel was on curbstone",
+    "groupCode": 0
+  },
+  {
+    "id":,
+    "fa": "آیا زمانی باقی مانده است؟",
+    "en": "Is there any time left?",
+    "groupCode": 0
+  },
+  {
+    "id":,
+    "fa": "آیا من سربار تو هستم؟",
+    "en": "Am I a burden to you?",
+    "groupCode": 0
+  },
+  {
+    "id":,
+    "fa": "به تو چه",
+    "en": "What's it to you?",
+    "groupCode": 0
+  },
+  {
+    "id":,
+    "fa": "",
+    "en": "",
+    "groupCode": 0
+  },
+  {
+    "id":,
+    "fa": "",
+    "en": "",
+    "groupCode": 0
+  },
+  {
+    "id":,
+    "fa": "",
+    "en": "",
+    "groupCode": 0
+  },
+  {
+    "id":,
+    "fa": "",
+    "en": "",
+    "groupCode": 0
+  },
+  {
+    "id":,
+    "fa": "",
+    "en": "",
+    "groupCode": 0
+  },
+  {
+    "id":,
+    "fa": "",
+    "en": "",
+    "groupCode": 0
+  },
+  {
+    "id":,
+    "fa": "",
+    "en": "",
+    "groupCode": 0
+  },
+  {
+    "id":,
+    "fa": "",
+    "en": "",
+    "groupCode": 0
+  },
+  {
+    "id":,
+    "fa": "",
+    "en": "",
+    "groupCode": 0
+  },
+  {
+    "id":,
+    "fa": "",
+    "en": "",
+    "groupCode": 0
+  },
+  {
+    "id":,
+    "fa": "",
+    "en": "",
+    "groupCode": 0
+  },
+  {
+    "id":,
+    "fa": "",
+    "en": "",
+    "groupCode": 0
+  },
+  {
+    "id":,
+    "fa": "",
+    "en": "",
+    "groupCode": 0
+  },
+  {
+    "id":,
+    "fa": "",
+    "en": "",
+    "groupCode": 0
+  },
+  {
+    "id":,
+    "fa": "",
+    "en": "",
+    "groupCode": 0
+  },
+  {
+    "id":,
+    "fa": "",
+    "en": "",
+    "groupCode": 0
+  },
+  {
+    "id":,
+    "fa": "",
+    "en": "",
+    "groupCode": 0
+  },
+  {
+    "id":,
+    "fa": "",
+    "en": "",
+    "groupCode": 0
+  }
 ]

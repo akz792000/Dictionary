@@ -1,7 +1,7 @@
 [
   {
     "id": 2001,
-    "fa": "بهتر می شد (فرضی) اگر می تونستم یک کورس انجام بدم بدون اینکه خیلی از کار دور باشم",
+    "fa": "بهتر می شد (فرضی) اگر می تونستم یک کورس انجام بدم بدون اینکه زمان زیادی از کار دور باشم",
     "en": "It would be better if I could do a course without too much time away from work",
     "groupCode": 0
   },
@@ -1744,7 +1744,7 @@
   },
   {
     "id": 2290,
-    "fa": "در بین کارشناسان کسب و کار یک دیدگاه گسترده ای وجود دارد",
+    "fa": "در بین کارشناسان کسب و کار یک دیدگاه (نگه) گسترده ای وجود دارد",
     "en": "There is a widely held view among business experts",
     "groupCode": 0
   },
@@ -2075,8 +2075,8 @@
   },
   {
     "id": 2345,
-    "fa": "آیا در اطراف سلاح یا چیز دیگری وجود داشت؟",
-    "en": "Were there any weapons around or anything?",
+    "fa": "آیا در اطراف سلاح ها وجود داشت؟",
+    "en": "Were there any weapons around",
     "groupCode": 0
   },
   {
@@ -2087,7 +2087,7 @@
   },
   {
     "id": 2347,
-    "fa": "من در را بستم",
+    "fa": "من درم را بستم",
     "en": "I got my door shut",
     "desc": "\"I closed my door\": Directly states that you physically closed the door.\n\n\"I got my door shut\": Suggests that you took some action or made sure the door was closed, but it might not explicitly mean that you physically closed it yourself. It implies a sense of personal involvement or responsibility for ensuring the door is closed",
     "groupCode": 0
@@ -2124,7 +2124,7 @@
   },
   {
     "id": 2353,
-    "fa": "یک متخصص مردی است که تمام اشتباهات را مرتکب شده است که می توان در یک زمینه محدود بسازد",
+    "fa": "یک متخصص مردی است که مرتکب شده است تمام اشتباهاتی که می توان ساخته شود در یک زمینه باریک",
     "en": "An expert is a man who has made all the mistakes which can be made in a narrow field",
     "groupCode": 0
   },
@@ -2136,7 +2136,7 @@
   },
   {
     "id": 2355,
-    "fa": "ما به دنبال راه هایی برای کاهش خطرات هستیم",
+    "fa": "ما داریم دنبال راه هایی برای کاهش خطرات می گردیم",
     "en": "We're looking for ways to mitigate risks",
     "groupCode": 0
   },
@@ -2148,7 +2148,7 @@
   },
   {
     "id": 2357,
-    "fa": "فقط اینجا صبر کنید، این خیلی طول نمی کشد",
+    "fa": "فقط اینجا صبر کنید، این خیلی طول نخواهد کشید",
     "en": "Just wait here, This won't take long",
     "groupCode": 0
   },
@@ -2184,7 +2184,7 @@
   },
   {
     "id": 2363,
-    "fa": "ترجیح می دهم به جای آسانسور از پله برقی استفاده کنم",
+    "fa": "ترجیح می دهم به جای آسانسور از پله برقی استفاده کنم (بگیرم)",
     "en": "I prefer to take the escalator instead of elevator",
     "groupCode": 0
   },
@@ -2220,7 +2220,7 @@
   },
   {
     "id": 2369,
-    "fa": "واقعاً لیز است و نزدیک بود بیفتم، اما توانستم نرده ها را نگه دارم",
+    "fa": "واقعاً لیز است و نزدیک بود بیفتم، اما مدیریت کردم نرده ها را نگه دارم",
     "en": "It's really slippery, and I almost fell, but I managed to hold onto the railings",
     "groupCode": 0
   },
@@ -2244,7 +2244,7 @@
   },
   {
     "id": 2373,
-    "fa": "من متهم شدم به کاری که انجام ندادم",
+    "fa": "من متهم شدم به چیزی که انجام ندادم",
     "en": "I was accused of something that I didn't do",
     "groupCode": 0
   },
@@ -2268,13 +2268,13 @@
   },
   {
     "id": 2377,
-    "fa": "آیا تا به حال به طور تصادفی متوجه شده اید که قرار است اخراج شوید؟",
+    "fa": "آیا تا به حال به طور تصادفی پی برده اید که داشتید اخراج می شدید؟",
     "en": "Have you ever accidentally found out that you were about to be fired?",
     "groupCode": 0
   },
   {
     "id": 2378,
-    "fa": "فنر تشک جیرجیر کرد وقتی روی تخت غلت زدم",
+    "fa": "فنر تشک جیرجیر کرد وقتی من روی تخت غلت زدم",
     "en": "The mattress spring squeaked as I rolled over in bed",
     "groupCode": 0
   },
@@ -2334,7 +2334,7 @@
   },
   {
     "id": 2388,
-    "fa": "هیچ راهی نیست این مرد برای وام تایید شود",
+    "fa": "هیچ راهی نیست این مرد تایید بشود برای یک وام",
     "en": "There's no way this guy is getting approved for a loan",
     "groupCode": 0
   },
@@ -2358,7 +2358,7 @@
   },
   {
     "id": 2392,
-    "fa": "تیم پروژه را زودتر از موعد مقرر به پایان (جمعبندی) رسانده است",
+    "fa": "تیم به پایان (جمعبندی) رسانده است زودتر از برنامه",
     "en": "The team has wrapped up the project ahead of schedule",
     "groupCode": 0
   },
@@ -2371,7 +2371,7 @@
   {
     "id": 2394,
     "fa": "چرا آن دختر (داره) اینقدر پایش را بلند می کند؟",
-    "en": "Why that girl is lifting her leg so much?",
+    "en": "Why is that girl lifting her leg so much?",
     "groupCode": 0
   },
   {
@@ -2394,7 +2394,7 @@
   },
   {
     "id": 2398,
-    "fa": "چرا تو فقط همین را نگفتی؟ من نمی خواستم احساسات شما را جریحه دار کنم",
+    "fa": "چرا تو فقط اونرو نگفتی؟ من نمی خواستم احساسات شما را صدمه بزنم",
     "en": "Why didn't you just say that? I didn't wanna hurt your feelings",
     "groupCode": 0
   },
