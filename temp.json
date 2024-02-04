@@ -139,44 +139,47 @@
   },
   {
     "id":,
-    "fa": "",
-    "en": "",
+    "fa": "آیا می توانید آن را زودتر از سال گذشته انجام دهید؟ (بسازید)",
+    "en": "Can you make it earlier than last year?",
     "groupCode": 0
   },
   {
     "id":,
-    "fa": "",
-    "en": "",
+    "fa": "خفه شو هر چی من میگم همینه",
+    "en": "Shut up it's what ever I say it is",
     "groupCode": 0
   },
   {
     "id":,
-    "fa": "",
-    "en": "",
+    "fa": "باد شدید می توانست میز پیک نیک را واژگون (چپ) کند",
+    "en": "The strong wind could overturn the picnic table",
     "groupCode": 0
   },
   {
     "id":,
-    "fa": "",
-    "en": "",
+    "fa": "من یک دسته دستی قابل تنظیم خریدم",
+    "en": "I bought a adjustable hand grip",
     "groupCode": 0
   },
   {
     "id":,
-    "fa": "",
-    "en": "",
+    "fa": "کامپیوترت رو درست کردی (دادن به کسی)؟",
+    "en": "Did you have your computer fixed?",
+    "desc": "Passive Causative: We use a causative verb when we want to talk about something that someone else did for us or for another person. It means that the subject caused the action to happen, but didn't do it themselves. Get is more informal",
     "groupCode": 0
   },
   {
     "id":,
-    "fa": "",
-    "en": "",
+    "fa": "هفته دیگه موهامو کوتاه خواهم کرد (دادن به کسی)",
+    "en": "I'll get my hair cut next week",
+    "desc": "Passive Causative: We use a causative verb when we want to talk about something that someone else did for us or for another person. It means that the subject caused the action to happen, but didn't do it themselves. Get is more informal",
     "groupCode": 0
   },
   {
     "id":,
-    "fa": "",
-    "en": "",
+    "fa": "من دادم به برقکار چراغ شکسته ام را نگاه کند",
+    "en": "I had the electrician look at my broken light",
+    "desc": "Active Causative: We can also use the construction 'subject + have + person + infinitive'. This has a very similar meaning to 'have something done', which we've already talked about, but this time we say who did the thing. Get is more informal",
     "groupCode": 0
   },
   {

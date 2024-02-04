@@ -103,8 +103,9 @@
   },
   {
     "id": 2018,
-    "fa": "می دهم دندانپزشکم دندان هایم را چک کند",
+    "fa": "من دادم دندانپزشکم دندان هایم را چک کند",
     "en": "I get my dentist to check up my teeth",
+    "desc": "Active Causative: We can also use the construction 'subject + have + person + infinitive'. This has a very similar meaning to 'have something done', which we've already talked about, but this time we say who did the thing. Get is more informal",
     "groupCode": 0
   },
   {
@@ -1967,7 +1968,7 @@
   },
   {
     "id": 2327,
-    "fa": "من با حسن نیت این پیشنهاد شغلی را پذیرفتم و معتقد بودم که این یک فرصت عالی برای حرفه من خواهد بود",
+    "fa": "من با حسن نیت این پیشنهاد شغلی را پذیرفتم و معتقد بودم این یک فرصت عالی برای حرفه من خواهد (فرضی) بود",
     "en": "I accepted the job offer in good faith, believing it would be a great opportunity for my career",
     "groupCode": 0
   },
@@ -2075,8 +2076,8 @@
   },
   {
     "id": 2345,
-    "fa": "آیا در اطراف سلاح ها وجود داشت؟",
-    "en": "Were there any weapons around",
+    "fa": "آیا در اطراف هیچ سلاحی وجود داشت؟",
+    "en": "Were there any weapons around?",
     "groupCode": 0
   },
   {
@@ -2106,7 +2107,7 @@
   },
   {
     "id": 2350,
-    "fa": "مدافع (مدعی علیه) متهم به تلاش برای پوشاندن مدارک است",
+    "fa": "مدافع (مدعی علیه) متهم به تلاش برای پوشاندن شواهد (مدارک) شد",
     "en": "The defendant is accused of attempting to conceal evidence",
     "groupCode": 0
   },
@@ -2220,8 +2221,8 @@
   },
   {
     "id": 2369,
-    "fa": "واقعاً لیز است و نزدیک بود بیفتم، اما مدیریت کردم نرده ها را نگه دارم",
-    "en": "It's really slippery, and I almost fell, but I managed to hold onto the railings",
+    "fa": "واقعاً لیز بود و نزدیک بود بیفتم، اما مدیریت کردم نرده ها را نگه دارم",
+    "en": "It was really slippery, and I almost fell, but I managed to hold onto the railings",
     "groupCode": 0
   },
   {
@@ -2257,7 +2258,7 @@
   {
     "id": 2375,
     "fa": "اولین محکومیت او (زن) به دلیل فنی لغو شد",
-    "en": "Her first conviction was overturned on a technicality",
+    "en": "Her first conviction was canceled on a technicality",
     "groupCode": 0
   },
   {
@@ -2274,7 +2275,7 @@
   },
   {
     "id": 2378,
-    "fa": "فنر تشک جیرجیر کرد وقتی من روی تخت غلت زدم",
+    "fa": "فنر تشک جیرجیر کرد وقتی من در روی تخت غلت زدم",
     "en": "The mattress spring squeaked as I rolled over in bed",
     "groupCode": 0
   },
@@ -2282,6 +2283,7 @@
     "id": 2379,
     "fa": "او (زن) می خواهد شما کشده شوید",
     "en": "She wants to have you killed",
+    "desc": "Passive Causative: We use a causative verb when we want to talk about something that someone else did for us or for another person. It means that the subject caused the action to happen, but didn't do it themselves. Get is more informal",
     "groupCode": 0
   },
   {
@@ -2322,13 +2324,13 @@
   },
   {
     "id": 2386,
-    "fa": "اگر این فیلمبرداری نمی شد هیچ کس آن را باور نمی کرد",
+    "fa": "اگر این فیلمبرداری نمی شد هیچ کس را باورش نمی کرد",
     "en": "If this wasn't filmed nobody would believe it",
     "groupCode": 0
   },
   {
     "id": 2387,
-    "fa": "من نمی دانم آیا شما بتوانید استطاعت آن را داشته باشید",
+    "fa": "من نمی دانم آیا شما بتوانید استطاعتش را داشته باشید",
     "en": "I don't know if you can afford it",
     "groupCode": 0
   },
@@ -2358,7 +2360,7 @@
   },
   {
     "id": 2392,
-    "fa": "تیم به پایان (جمعبندی) رسانده است زودتر از برنامه",
+    "fa": "تیم پروژه را زودتر از برنامه به پایان (جمعبندی) رسانده است",
     "en": "The team has wrapped up the project ahead of schedule",
     "groupCode": 0
   },
@@ -2400,7 +2402,7 @@
   },
   {
     "id": 2399,
-    "fa": "فقط حقیقت را بگو هیچ کس در اینجا توهین برداشت نخواهد کرد",
+    "fa": "فقط حقیقت را بگو. هیچ کس در اینجا توهین برداشت نخواهد کرد",
     "en": "Just tell the truth. No one will take offence here",
     "groupCode": 0
   },
