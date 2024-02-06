@@ -2107,7 +2107,7 @@
   },
   {
     "id": 2350,
-    "fa": "مدافع (مدعی علیه) متهم به تلاش برای پوشاندن شواهد (مدارک) شد",
+    "fa": "مدافع (مدعی علیه) متهم است به تلاش برای پوشاندن شواهد (مدارک)",
     "en": "The defendant is accused of attempting to conceal evidence",
     "groupCode": 0
   },
@@ -2149,8 +2149,8 @@
   },
   {
     "id": 2357,
-    "fa": "فقط اینجا صبر کنید، این خیلی طول نخواهد کشید",
-    "en": "Just wait here, This won't take long",
+    "fa": "همسر شاد, زندگی شاد",
+    "en": "Happy wife, Happy life",
     "groupCode": 0
   },
   {
@@ -2360,7 +2360,7 @@
   },
   {
     "id": 2392,
-    "fa": "تیم پروژه را زودتر از برنامه به پایان (جمعبندی) رسانده است",
+    "fa": "تیم پروژه را جلوتر از برنامه به پایان (جمعبندی) رسانده است",
     "en": "The team has wrapped up the project ahead of schedule",
     "groupCode": 0
   },
