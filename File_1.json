@@ -2257,7 +2257,7 @@
   },
   {
     "id": 2375,
-    "fa": "اولین محکومیت او (زن) به دلیل فنی لغو شد",
+    "fa": "اولین محکومیش (زن) به دلیل فنی لغو شد",
     "en": "Her first conviction was canceled on a technicality",
     "groupCode": 0
   },
@@ -2410,6 +2410,54 @@
     "id": 2400,
     "fa": "آیا نتوانسته بودید کمی به او آزادی عمل بدهید؟",
     "en": "Couldn't you have given him a little more leeway?",
+    "groupCode": 0
+  },
+  {
+    "id": 2401,
+    "fa": "رکود اقتصادی اخیر منجر به عدم اطمینان نگران کننده در مورد امنیت شغلی برای بسیاری از مردم شده است",
+    "en": "The recent economic downturn has led to alarming uncertainties about job security for many people",
+    "groupCode": 0
+  },
+  {
+    "id": 2402,
+    "fa": "لباس هایم را روی بند رخت می گذارم تا در آفتاب خشک شوند",
+    "en": "I put my clothes on the clothesline to dry up in the sun",
+    "groupCode": 0
+  },
+  {
+    "id": 2403,
+    "fa": "نقطه قوت این کشور دموکراسی بودن است نه خودکامگی",
+    "en": "The strength of this country is being democracy not autocracy",
+    "groupCode": 0
+  },
+  {
+    "id": 2404,
+    "fa": "معلم مجبور شد مرخص کند کلاس را زودتر به دلیل قطعی برق",
+    "en": "The teacher had to dismiss the class early due to a power outage",
+    "groupCode": 0
+  },
+  {
+    "id": 2405,
+    "fa": "دیگه بهش (او) اعتماد نداری؟",
+    "en": "Don't you trust him anymore?",
+    "groupCode": 0
+  },
+  {
+    "id": 2406,
+    "fa": "لطفا به در تکیه ندید",
+    "en": "Please do not lean against the door",
+    "groupCode": 0
+  },
+  {
+    "id": 2407,
+    "fa": "هیچ تضمینی وجود ندارد که هوا برای رویداد فضای باز آفتابی باشد",
+    "en": "There is no guarantee that the weather will be sunny for the outdoor event",
+    "groupCode": 0
+  },
+  {
+    "id": 2408,
+    "fa": "تمام تلاش هایم بی نتیجه ماند",
+    "en": "All my efforts were in vain",
     "groupCode": 0
   }
 ]

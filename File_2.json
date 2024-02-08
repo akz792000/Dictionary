@@ -2643,5 +2643,131 @@
     "en": "I need fruits and vegetables. Where do I find them?",
     "de": "Ich brauche Obst und Gemüse. Wo finde ich sie?",
     "groupCode": 1
+  },
+  {
+    "id": 10438,
+    "en": "Where is the swimming pool?",
+    "de": "Wo ist das Schwimmbad?",
+    "groupCode": 1
+  },
+  {
+    "id": 10439,
+    "en": "The lawyer has no money",
+    "de": "Der Anwalt hat kein Geld",
+    "groupCode": 1
+  },
+  {
+    "id": 10440,
+    "en": "What is he doing this morning? He wants to go to the café",
+    "de": "Was macht er heute Morgen? Er möchte ins Café gehen",
+    "groupCode": 1
+  },
+  {
+    "id": 10441,
+    "en": "What are you doing this morning? I would like to go to the swimming pool, but it rains",
+    "de": "Was machst du heute Morgen? Ich möchte ins Schwimmbad gehen, aber es regnet",
+    "groupCode": 1
+  },
+  {
+    "id": 10442,
+    "en": "Would you like to go to the restaurant with Grandma and Grandpa? I can't. I have no time",
+    "de": "Möchtest du mit Oma und Opa ins Restaurant gehen? Ich kann nicht. Ich habe keine Zeit",
+    "groupCode": 1
+  },
+  {
+    "id": 10443,
+    "en": "That works",
+    "de": "Das geht!",
+    "groupCode": 1
+  },
+  {
+    "id": 10444,
+    "en": "Do you have time?",
+    "de": "Hast du Zeit?",
+    "groupCode": 1
+  },
+  {
+    "id": 10445,
+    "en": "Would she like to go jogging? No, She would like to go hiking",
+    "de": "Möchte sie joggen gehen? Nein, Sie möchte wandern gehen",
+    "groupCode": 1
+  },
+  {
+    "id": 10446,
+    "en": "Do you have time this evening?",
+    "de": "Hast du Zeit heute Abend?",
+    "groupCode": 1
+  },
+  {
+    "id": 10447,
+    "en": "Would you like to go to the cafe at six this evening? (formal)",
+    "de": "Möchten sie heute Abend um sechs in Café gehen?",
+    "groupCode": 1
+  },
+  {
+    "id": 10448,
+    "en": "I look forward to you",
+    "de": "Ich freue mich auf dich",
+    "groupCode": 1
+  },
+  {
+    "id": 10449,
+    "en": "Really a shame",
+    "de": "Wirklich schade",
+    "groupCode": 1
+  },
+  {
+    "id": 10450,
+    "en": "When do you have time?",
+    "de": "Wann hast du Zeit?",
+    "groupCode": 1
+  },
+  {
+    "id": 10451,
+    "en": "I would like to play football, but I don't have time",
+    "de": "Ich möchte fußball spielen, aber ich habe keine Zeit",
+    "groupCode": 1
+  },
+  {
+    "id": 10452,
+    "en": "Would you like to play football this afternoon?",
+    "de": "Möchtest du heute Nachmittag um Fußball spielen?",
+    "groupCode": 1
+  },
+  {
+    "id": 10453,
+    "en": "He never has time",
+    "de": "Er hat nie Zeit",
+    "groupCode": 1
+  },
+  {
+    "id": 10454,
+    "en": "The entrance ticket is expensive",
+    "de": "Die Eintrittskarte ist teuer",
+    "groupCode": 1
+  },
+  {
+    "id": 10455,
+    "en": "I want to go to the café, but till when is it open?",
+    "de": "Ich möchte ins Café gehen, aber bis wann ist es geöffnet?",
+    "groupCode": 1
+  },
+  {
+    "id": 10456,
+    "en": "Until when is the museum open?",
+    "de": "Bis wann ist das Museum geöffnet?",
+    "groupCode": 1
+  },
+  {
+    "id": 10457,
+    "en": "The game is from two to four",
+    "de": "Das Spiel ist von zwei bis vier",
+    "groupCode": 1
+  },
+  {
+    "id": 10458,
+    "en": "What are you doing from two to four this afternoon?",
+    "de": "Was machst du heute Nachmittag von zwei bis vier?",
+    "groupCode": 1
   }
 ]

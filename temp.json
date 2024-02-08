@@ -1,34 +1,5 @@
 [
-  {
-    "id":,
-    "fa": "رکود اقتصادی اخیر منجر به عدم اطمینان نگران کننده در مورد امنیت شغلی برای بسیاری از مردم شده است",
-    "en": "The recent economic downturn has led to alarming uncertainties about job security for many people",
-    "groupCode": 0
-  },
-  {
-    "id":,
-    "fa": "لباس هایم را روی بند رخت می گذارم تا در آفتاب خشک شوند",
-    "en": "I put my clothes on the clothesline to dry up in the sun",
-    "groupCode": 0
-  },
-  {
-    "id":,
-    "fa": "نقطه قوت این کشور دموکراسی است نه خودکامگی",
-    "en": "The strength of this country is being democracy not autocracy",
-    "groupCode": 0
-  },
-  {
-    "id":,
-    "fa": "معلم مجبور شد مرخص کند کلاس را زودتر به دلیل قطعی برق",
-    "en": "The teacher had to dismiss the class early due to a power outage",
-    "groupCode": 0
-  },
-  {
-    "id":,
-    "fa": "دیگه بهش اعتماد نداری؟",
-    "en": "Don't you trust him anymore?",
-    "groupCode": 0
-  },
+
   {
     "id":,
     "fa": "آیا خودت جاه طلبی کاندیداتوری برای ریاست جمهوری را داری؟",
@@ -184,68 +155,71 @@
   },
   {
     "id":,
-    "fa": "",
-    "en": "",
+    "fa": "مادرم را آرام کردی",
+    "en": "1. Did you sedate my mother? 2.Did you calm my mother down?",
+    "groupCode": 0
+  },
+  {
+    "id":,
+    "fa": "برو رو زمین الان",
+    "en": "Get down on the ground now",
+    "groupCode": 0
+  },
+  {
+    "id":,
+    "fa": "دستان خود را از جیب خود دور نگه دارید",
+    "en": "Keep your hands out of your pocket",
     "groupCode": 0
   },
   {
     "id":,
     "fa": "",
-    "en": "",
+    "en": "Why are you being asked to attest?",
     "groupCode": 0
   },
   {
     "id":,
-    "fa": "",
-    "en": "",
+    "fa": "شاید تو باید پسرت را طوری بزرگ می کردی که نیایند با آدم هایی مثل من معامله نکن",
+    "en": "Maybe you should've raised your son not to go into business with guys like me",
     "groupCode": 0
   },
   {
     "id":,
-    "fa": "",
-    "en": "",
+    "fa": "اونا اصلا قابل اعتماد به نظر نمی رسند",
+    "en": "They don't look trustworthy at all",
     "groupCode": 0
   },
   {
     "id":,
-    "fa": "",
-    "en": "",
+    "fa": "تو به نظر مارموز میرسی",
+    "en": "You sound shadier",
     "groupCode": 0
   },
   {
     "id":,
-    "fa": "",
-    "en": "",
+    "fa": "من در حال حاضر با کمبود کلمات مواجه هستم، اما از آنجایی که باید صحبت کنم نمی توانم این کار را بکنم",
+    "en": "I'm currently running short on words, but I can't afford this since I have to speak",
     "groupCode": 0
   },
   {
     "id":,
-    "fa": "",
-    "en": "",
+    "fa": "من همیشه صحبتم را با یک سلب مسئولیت شروع می کنم",
+    "en": "I always start my talk with a disclaimer",
     "groupCode": 0
   },
   {
     "id":,
-    "fa": "",
-    "en": "",
+    "fa": "من هرگز ادعا نکرده ام که یک سخنران انگیزشی هستم",
+    "en": "I've never claimed to be a motivational speaker",
     "groupCode": 0
   },
   {
     "id":,
-    "fa": "",
-    "en": "",
-    "groupCode": 0
-  },
-  {
-    "id":,
-    "fa": "",
-    "en": "",
-    "groupCode": 0
-  },
-  {
-    "id":,
-    "fa": "",
-    "en": "",
+    "fa": "من زندگی ام را وقف پیگیری بی وقفه (بی امان) دانش و خرد می کنم",
+    "en": "I dedicate my life to the relentless pursuit of knowledge and wisdom",
     "groupCode": 0
   }
 ]
+
+https://www.youtube.com/watch?v=RYhODLiB4Fw
+//1:08
