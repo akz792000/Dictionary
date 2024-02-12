@@ -2426,8 +2426,8 @@
   },
   {
     "id": 2403,
-    "fa": "نقطه قوت این کشور دموکراسی بودن است نه خودکامگی",
-    "en": "The strength of this country is being democracy not autocracy",
+    "fa": "قدرت این کشور قرار دارد در دموکراسی, نه خودکامگی",
+    "en": "The strength of this country lies in democracy, not autocracy",
     "groupCode": 0
   },
   {
@@ -2450,14 +2450,210 @@
   },
   {
     "id": 2407,
-    "fa": "هیچ تضمینی وجود ندارد که هوا برای رویداد فضای باز آفتابی باشد",
+    "fa": "هیچ تضمینی وجود ندارد که هوا برای رویداد خارج از خانه آفتابی (خواهد) باشد",
     "en": "There is no guarantee that the weather will be sunny for the outdoor event",
     "groupCode": 0
   },
   {
     "id": 2408,
-    "fa": "تمام تلاش هایم بی نتیجه ماند",
+    "fa": "تمام تلاش هایم بی نتیجه بود",
     "en": "All my efforts were in vain",
+    "groupCode": 0
+  },
+  {
+    "id": 2409,
+    "fa": "آیا خودت جاه طلبی کاندیداتوری برای ریاست جمهوری را داری؟",
+    "en": "Do you have the ambition to run for the presidency yourself?",
+    "groupCode": 0
+  },
+  {
+    "id": 2410,
+    "fa": "آمریکا می گوید در حمله پهپادی به پایگاهی در شمال شرقی اردن سه تن از نیروهایش کشته و ده ها تن دیگر زخمی شده اند",
+    "en": "The US says three of its troops have been killed and dozens more wounded in a drone attack on a base in northeastern Jordan",
+    "groupCode": 0
+  },
+  {
+    "id": 2411,
+    "fa": "پلیس داره دنبال مرتکب کننده (عامل) جنایت می گرده",
+    "en": "The police are searching for the perpetrator of the crime",
+    "groupCode": 0
+  },
+  {
+    "id": 2412,
+    "fa": "من از او نقل قول می کنم در مقاله تحقیقاتی خود برای حمایت از بحث خود",
+    "en": "I quote him in my research paper to support my argument",
+    "groupCode": 0
+  },
+  {
+    "id": 2413,
+    "fa": "من قادر نخواهم بود برسم به دفتر امروز",
+    "en": "I will not be able to make it to the office today",
+    "groupCode": 0
+  },
+  {
+    "id": 2414,
+    "fa": "من بسیار سوپرایز شدم که این اتهامات علیه من (فرضی) مطرح می شود، زیرا من کار خلافی نکرده بودم",
+    "en": "I was very surprised that these charges would be brought against me because I hadn't done anything wrong",
+    "groupCode": 0
+  },
+  {
+    "id": 2415,
+    "fa": "او (مرد) به تجاوز جنسی متهم شد",
+    "en": "He charged with rape",
+    "groupCode": 0
+  },
+  {
+    "id": 2416,
+    "fa": "خیلی خیالم راحت شد",
+    "en": "I was very relieved",
+    "groupCode": 0
+  },
+  {
+    "id": 2417,
+    "fa": "او (زن) مدام مرا نزدیک تر می کرد و بعد از چند دقیقه با دست مرا از بار (مشروب فروشی) به بیرون هدایت کرد",
+    "en": "She kept pulling me closer and after several minutes she led me by the hand out of the bar",
+    "groupCode": 0
+  },
+  {
+    "id": 2418,
+    "fa": "هر دوی ما مشروب خورده بودیم",
+    "en": "We had both been drinking",
+    "groupCode": 0
+  },
+  {
+    "id": 2419,
+    "fa": "هیچ خبری ندارم مرخصی استعلاجی بودم",
+    "en": "I have no update I was on the sick leave",
+    "groupCode": 0
+  },
+  {
+    "id": 2420,
+    "fa": "او (زن) در کار خود موفق شد در حالی که مورد تحقیر قرار نمی گرفت",
+    "en": "She succeeded in her work while not being despised",
+    "groupCode": 0
+  },
+  {
+    "id": 2421,
+    "fa": "خبرم کن پس از اتمام کارت",
+    "en": "Let me know once you're done",
+    "groupCode": 0
+  },
+  {
+    "id": 2422,
+    "fa": "من در حال حاضر با کمبود کلمات مواجه هستم، اما از آنجایی که باید صحبت کنم نمی توانم این کار را بکنم",
+    "en": "I'm currently running short on words, but I can't afford this since I have to speak",
+    "groupCode": 0
+  },
+  {
+    "id": 2423,
+    "fa": "من همیشه صحبتم را با یک سلب مسئولیت شروع می کنم",
+    "en": "I always start my talk with a disclaimer",
+    "groupCode": 0
+  },
+  {
+    "id": 2424,
+    "fa": "من هرگز ادعا نکرده ام که یک سخنران انگیزشی هستم",
+    "en": "I've never claimed to be a motivational speaker",
+    "groupCode": 0
+  },
+  {
+    "id": 2425,
+    "fa": "من زندگی ام را وقف پیگیری بی وقفه (بی امان) دانش و خرد می کنم",
+    "en": "I dedicate my life to the relentless pursuit of knowledge and wisdom",
+    "groupCode": 0
+  },
+  {
+    "id": 2426,
+    "fa": "شاید تو باید پسرت را طوری بزرگ می کردی که نیایند با آدم هایی مثل من معامله نکن",
+    "en": "Maybe you should've raised your son not to go into business with guys like me",
+    "groupCode": 0
+  },
+  {
+    "id": 2427,
+    "fa": "اونا اصلا قابل اعتماد به نظر نمی رسند",
+    "en": "They don't look trustworthy at all",
+    "groupCode": 0
+  },
+  {
+    "id": 2428,
+    "fa": "تو به نظر مارموز میرسی",
+    "en": "You sound shadier",
+    "groupCode": 0
+  },
+  {
+    "id": 2429,
+    "fa": "مادرم را آرام کردی؟",
+    "en": "1. Did you sedate my mother? 2.Did you calm my mother down?",
+    "groupCode": 0
+  },
+  {
+    "id": 2430,
+    "fa": "من یک دسته دستی قابل تنظیم خریدم",
+    "en": "I bought a adjustable hand grip",
+    "groupCode": 0
+  },
+  {
+    "id": 2431,
+    "fa": "کامپیوترت رو درست کردی (دادن به کسی)؟",
+    "en": "Did you have your computer fixed?",
+    "desc": "Passive Causative: We use a causative verb when we want to talk about something that someone else did for us or for another person. It means that the subject caused the action to happen, but didn't do it themselves. Get is more informal",
+    "groupCode": 0
+  },
+  {
+    "id": 2432,
+    "fa": "هفته دیگه موهامو کوتاه خواهم کرد (دادن به کسی)",
+    "en": "I'll get my hair cut next week",
+    "desc": "Passive Causative: We use a causative verb when we want to talk about something that someone else did for us or for another person. It means that the subject caused the action to happen, but didn't do it themselves. Get is more informal",
+    "groupCode": 0
+  },
+  {
+    "id": 2433,
+    "fa": "من دادم به برقکار چراغ شکسته ام را نگاه کند",
+    "en": "I had the electrician look at my broken light",
+    "desc": "Active Causative: We can also use the construction 'subject + have + person + infinitive'. This has a very similar meaning to 'have something done', which we've already talked about, but this time we say who did the thing. Get is more informal",
+    "groupCode": 0
+  },
+  {
+    "id": 2434,
+    "fa": "باد شدید می توانست میز پیک نیک را واژگون (چپ) کند",
+    "en": "The strong wind could overturn the picnic table",
+    "groupCode": 0
+  },
+  {
+    "id": 2435,
+    "fa": "برو رو زمین الان",
+    "en": "Get down on the ground now",
+    "groupCode": 0
+  },
+  {
+    "id": 2436,
+    "fa": "پدرم الگوی من بود",
+    "en": "My father was my role model",
+    "groupCode": 0
+  },
+  {
+    "id": 2437,
+    "fa": "صبحتان بخیر عالیجنابان، بزرگواران, دوستان و همکارانتان",
+    "en": "Good morning your highness, excellencies, friends and colleagues",
+    "groupCode": 0
+  },
+
+  {
+    "id": 2438,
+    "fa": "آیا زمانی باقی مانده است؟",
+    "en": "Is there any time left?",
+    "groupCode": 0
+  },
+  {
+    "id": 2439,
+    "fa": "آیا من سربار تو هستم؟",
+    "en": "Am I a burden to you?",
+    "groupCode": 0
+  },
+  {
+    "id": 2440,
+    "fa": "به تو چه",
+    "en": "What's it to you?",
     "groupCode": 0
   }
 ]
