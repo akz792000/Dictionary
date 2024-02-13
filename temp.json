@@ -27,22 +27,46 @@
   },
   {
     "id":,
-    "fa": "خفه شو هر چی من میگم همینه",
-    "en": "Shut up it's what ever I say it is",
+    "fa": "چرا از شما دارن می خواهند که شهادت دهید؟",
+    "en": "\n 1.Why are you being asked to attest? \n 2.Why are you being asked to testify?",
     "groupCode": 0
   },
   {
     "id":,
-    "fa": "دستان خود را از جیب خود دور نگه دارید",
-    "en": "Keep your hands out of your pocket",
+    "fa": "من هنوز بیمارم. دکتر مرخصی استعلاجی مرا 3 روز دیگر تمدید کردد",
+    "en": "I'm still sick. The doctor extended my sick leave for another 3 days",
     "groupCode": 0
   },
   {
     "id":,
-    "fa": "",
-    "en": "Why are you being asked to attest?",
+    "fa": "او (مرد) تو را به خاطر متفاوت بودنش تحقیر کرد",
+    "en": "He despised you for being different",
     "groupCode": 0
   },
+  {
+    "id":,
+    "fa": "ما باید برای حفظ محیط زیست خود برای نسل های آینده گامها را برداریم",
+    "en": "We need to take steps to sustain our environment for future generations",
+    "groupCode": 0
+  },
+  {
+    "id":,
+    "fa": "شمشیر خود را بکش و مرد خود را نجات بده",
+    "en": "Draw your sword and save your man",
+    "groupCode": 0
+  },
+  {
+    "id":,
+    "fa": "امیدوارم این ایمیل شما را در حال خوبی بیابد",
+    "en": "I hope this email finds you well",
+    "groupCode": 0
+  },
+  {
+    "id":,
+    "fa": "آیا به طور خلاصه (مخلص کلام) وظایف خود را می دانید؟",
+    "en": "Do you know your responsibilities in a nutshell?",
+    "groupCode": 0
+  }
 ]
 
 https://www.youtube.com/watch?v=RYhODLiB4Fw

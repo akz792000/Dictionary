@@ -104,7 +104,7 @@
   {
     "id": 2018,
     "fa": "من دادم دندانپزشکم دندان هایم را چک کند",
-    "en": "I get my dentist to check up my teeth",
+    "en": "I got my dentist to check up my teeth",
     "desc": "Active Causative: We can also use the construction 'subject + have + person + infinitive'. This has a very similar meaning to 'have something done', which we've already talked about, but this time we say who did the thing. Get is more informal",
     "groupCode": 0
   },
@@ -2438,7 +2438,7 @@
   },
   {
     "id": 2405,
-    "fa": "دیگه بهش (او) اعتماد نداری؟",
+    "fa": "دیگه بهش (مرد) اعتماد نداری؟",
     "en": "Don't you trust him anymore?",
     "groupCode": 0
   },
@@ -2522,7 +2522,7 @@
   },
   {
     "id": 2419,
-    "fa": "هیچ خبری ندارم مرخصی استعلاجی بودم",
+    "fa": "هیچ بروزرسانی ندارم مرخصی استعلاجی بودم",
     "en": "I have no update I was on the sick leave",
     "groupCode": 0
   },
@@ -2576,20 +2576,20 @@
   },
   {
     "id": 2428,
-    "fa": "تو به نظر مارموز میرسی",
+    "fa": "تو به نظر مارموزتر میرسی",
     "en": "You sound shadier",
     "groupCode": 0
   },
   {
     "id": 2429,
     "fa": "مادرم را آرام کردی؟",
-    "en": "1. Did you sedate my mother? 2.Did you calm my mother down?",
+    "en": "\n 1. Did you sedate my mother? \n 2.Did you calm my mother down?",
     "groupCode": 0
   },
   {
     "id": 2430,
     "fa": "من یک دسته دستی قابل تنظیم خریدم",
-    "en": "I bought a adjustable hand grip",
+    "en": "I bought an adjustable hand grip",
     "groupCode": 0
   },
   {
@@ -2615,7 +2615,7 @@
   },
   {
     "id": 2434,
-    "fa": "باد شدید می توانست میز پیک نیک را واژگون (چپ) کند",
+    "fa": "باد قوی می توانست میز پیک نیک را واژگون (چپ) کند",
     "en": "The strong wind could overturn the picnic table",
     "groupCode": 0
   },
@@ -2654,6 +2654,36 @@
     "id": 2440,
     "fa": "به تو چه",
     "en": "What's it to you?",
+    "groupCode": 0
+  },
+  {
+    "id": 2441,
+    "fa": "آیا تمرین داره امروز برگزار می شود؟",
+    "en": "Is the training taking place today?",
+    "groupCode": 0
+  },
+  {
+    "id": 2442,
+    "fa": "من میرم یه قهوه بخورم",
+    "en": "I'm gonna get a coffee",
+    "groupCode": 0
+  },
+  {
+    "id": 2443,
+    "fa": "ورزش منظم و رژیم غذایی متعادل کمک می کند به لاغری و سالم ماندن",
+    "en": "Regular exercise and a balanced diet help to keep lean and healthy",
+    "groupCode": 0
+  },
+  {
+    "id": 2444,
+    "fa": "خفه شو. هر چی من میگم همینه",
+    "en": "Shut up. It's what ever I say it is",
+    "groupCode": 0
+  },
+  {
+    "id": 2445,
+    "fa": "دستان خود را از جیب خود دور نگه دارید",
+    "en": "Keep your hands out of your pocket",
     "groupCode": 0
   }
 ]
