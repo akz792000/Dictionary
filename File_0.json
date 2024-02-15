@@ -3335,8 +3335,8 @@
   },
   {
     "id": 553,
-    "fa": "پا روی گاز بگذار",
-    "en": "Step on the gas",
+    "fa": "پا روی گاز بگذار و از آن ماشین سبقت بگیر",
+    "en": "Step on the gas and overtake that car",
     "groupCode": 0
   },
   {
@@ -8352,7 +8352,7 @@
   },
   {
     "id": 1377,
-    "fa": "خوابم میاد",
+    "fa": "من احساس خواب می کنم",
     "en": "I feel sleepy",
     "groupCode": 0
   },

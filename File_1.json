@@ -2480,7 +2480,7 @@
   },
   {
     "id": 2412,
-    "fa": "من از او نقل قول می کنم در مقاله تحقیقاتی خود برای حمایت از بحث خود",
+    "fa": "من از او (مرد) نقل قول می کنم در مقاله تحقیقاتی خودم برای حمایت از بحثم",
     "en": "I quote him in my research paper to support my argument",
     "groupCode": 0
   },
@@ -2534,7 +2534,7 @@
   },
   {
     "id": 2421,
-    "fa": "خبرم کن پس از اتمام کارت",
+    "fa": "بزار بدونم پس از اتمام کارم",
     "en": "Let me know once you're done",
     "groupCode": 0
   },
@@ -2576,7 +2576,7 @@
   },
   {
     "id": 2428,
-    "fa": "تو به نظر مارموزتر میرسی",
+    "fa": "تو به نظر مرموزتر میرسی",
     "en": "You sound shadier",
     "groupCode": 0
   },
@@ -2658,7 +2658,7 @@
   },
   {
     "id": 2441,
-    "fa": "آیا تمرین داره امروز برگزار می شود؟",
+    "fa": "آیا آموزش داره امروز برگزار می شود؟",
     "en": "Is the training taking place today?",
     "groupCode": 0
   },
@@ -2677,13 +2677,25 @@
   {
     "id": 2444,
     "fa": "خفه شو. هر چی من میگم همینه",
-    "en": "Shut up. It's what ever I say it is",
+    "en": "Shut up. It's what ever I say",
     "groupCode": 0
   },
   {
     "id": 2445,
-    "fa": "دستان خود را از جیب خود دور نگه دارید",
+    "fa": "دستان خود را از جیب خودت خارج نگه دار",
     "en": "Keep your hands out of your pocket",
+    "groupCode": 0
+  },
+  {
+    "id": 2446,
+    "fa": "من اغلب در هاوایی موج سواری می کنم",
+    "en": "I often surf in Hawaii",
+    "groupCode": 0
+  },
+  {
+    "id": 2447,
+    "fa": "این جاده شماست و تنها مال شماست، دیگران ممکن است با شما طیش (راه) کند، اما هیچکس نمی تواند برای شما طیش (راه) کند",
+    "en": "It's your road, and yours alone, others may walk it with you, but no one can walk it for you",
     "groupCode": 0
   }
 ]
