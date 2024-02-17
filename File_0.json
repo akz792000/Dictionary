@@ -4145,7 +4145,7 @@
   },
   {
     "id": 686,
-    "fa": "ناراحت نمیشی رانندگی کنی (مودبانه)؟ من دارم احساس خستگی می کنم و ممنون می شوم اگر بتوانید فرمان را بگیرید",
+    "fa": "ناراحت میشی رانندگی کنی (مودبانه)؟ من دارم احساس خستگی می کنم و ممنون می شوم اگر بتوانید فرمان را بگیرید",
     "en": "Would you mind driving? I'm feeling tired and would appreciate it if you could take the wheel",
     "desc": "\"Would you mind driving?\": This is a question asking if the person is willing to drive. It is a polite way to inquire if they have any objection or if it would be a problem for them to drive.\n\n\"You don't mind driving\": This is a statement assuming or confirming that the person is willing to drive. It suggests that the speaker believes the person is okay with driving and does not have any objections.\n\nIn summary, the first phrase asks for permission or willingness to drive, while the second phrase assumes or confirms the person's willingness to drive.",
     "groupCode": 0
@@ -4416,8 +4416,8 @@
   },
   {
     "id": 730,
-    "fa": "بفرمایید بشینید",
-    "en": "Take a seat",
+    "fa": "او (زن) ۲ ماه باردار است",
+    "en": "She's 2 months pregnant",
     "groupCode": 0
   },
   {
@@ -8740,6 +8740,7 @@
     "id": 1441,
     "fa": "من پاریس نبودم. منم نبودم",
     "en": "I haven't been to paris. Neither have I",
+    "desc": "\"I haven't been to Paris\" means I haven't visited the city.\n\n\"I haven't been in Paris\" suggests I haven't been physically inside the city.",
     "groupCode": 0
   },
   {
@@ -9566,8 +9567,8 @@
   },
   {
     "id": 1578,
-    "fa": "هر جا که راحت هستید، بفرمایید بنشینید",
-    "en": "Have a seat wherever you're comfortable",
+    "fa": "بفرمایید بنشینید، هر جا که راحت هستید",
+    "en": "\n 1.Have a seat wherever you're comfortable \n 2.Take a seat wherever you're comfortable",
     "desc": "\"Take a seat\" and \"Have a seat\" are used in a similar context and are generally interchangeable",
     "groupCode": 0
   },
