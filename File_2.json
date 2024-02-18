@@ -424,7 +424,7 @@
   {
     "id": 10070,
     "en": "Who is this? No idea",
-    "de": "Wer ist das? Keine Ahnung",
+    "de": "Wer ist that? Keine Ahnung",
     "groupCode": 1
   },
   {
@@ -947,7 +947,7 @@
   {
     "id": 10156,
     "en": "Would you like to go to a cafe? No, I want to sleep now (formal)",
-    "de": "Möchtest du in ein Cafe gehen? Nein, Ich möchte jetzt schlafen",
+    "de": "Möchtest du in ein Café gehen? Nein, Ich möchte jetzt schlafen",
     "groupCode": 1
   },
   {
@@ -2664,8 +2664,8 @@
   },
   {
     "id": 10441,
-    "en": "What are you doing this morning? I would like to go to the swimming pool, but it rains",
-    "de": "Was machst du heute Morgen? Ich möchte ins Schwimmbad gehen, aber es regnet",
+    "en": "What are you doing this morning from seven to nine? I would like to go to the swimming pool, but it rains",
+    "de": "Was machst du heute Morgen von sieben bis neun? Ich möchte ins Schwimmbad gehen, aber es regnet",
     "groupCode": 1
   },
   {
@@ -2695,7 +2695,7 @@
   {
     "id": 10446,
     "en": "Do you have time this evening?",
-    "de": "Hast du Zeit heute Abend?",
+    "de": "Hast du heute Abend Zeit?",
     "groupCode": 1
   },
   {
@@ -2742,8 +2742,8 @@
   },
   {
     "id": 10454,
-    "en": "The entrance ticket is expensive",
-    "de": "Die Eintrittskarte ist teuer",
+    "en": "The entrance ticket is (not) expensive",
+    "de": "Die Eintrittskarte ist (nicht) teuer",
     "groupCode": 1
   },
   {
@@ -2766,8 +2766,230 @@
   },
   {
     "id": 10458,
-    "en": "What are you doing from two to four this afternoon?",
-    "de": "Was machst du heute Nachmittag von zwei bis vier?",
+    "en": "What are you doing from two to four this afternoon? I'm cooking potatoes at three",
+    "de": "Was machst du heute Nachmittag von zwei bis vier? Ich koche un drei Kartoffeln",
+    "groupCode": 1
+  },
+  {
+    "id": 10459,
+    "en": "The museum is open from eight to five",
+    "de": "Das Museum ist von acht bis fünf geöffnet",
+    "groupCode": 1
+  },
+  {
+    "id": 10460,
+    "en": "I would like to play basketball at two",
+    "de": "Ich möchte um zwei Basketball spielen",
+    "groupCode": 1
+  },
+  {
+    "id": 10461,
+    "en": "When is the game? This (today) afternoon. I'm looking forward",
+    "de": "Wann ist das Spiel? Heute Nachmittag. Ich freue mich",
+    "groupCode": 1
+  },
+  {
+    "id": 10462,
+    "en": "Would you like to go to the coffee shop on Saturday?",
+    "de": "Möchtest du am Samstag ins Café gehen?",
+    "groupCode": 1
+  },
+  {
+    "id": 10463,
+    "en": "The game is this afternoon at three",
+    "de": "Das Spiel ist heute Nachmittag um drei",
+    "groupCode": 1
+  },
+  {
+    "id": 10464,
+    "en": "I want to go to the swimming pool today, but it's cold and cloudy",
+    "de": "Ich möchte heute ins Schwimmbad gehen, aber es ist kalt und bewölkt",
+    "groupCode": 1
+  },
+  {
+    "id": 10465,
+    "en": "I can't, I don't have any money",
+    "de": "Ich kann nicht, ich habe kein Geld",
+    "groupCode": 1
+  },
+  {
+    "id": 10466,
+    "en": "My father and I go to the cinema on the weekend",
+    "de": "Mein Vater und ich gehen am wochenende ins kino",
+    "groupCode": 1
+  },
+  {
+    "id": 10467,
+    "en": "When does Ms. Merkel have time?",
+    "de": "Wann hat Frau Merkel Zeit?",
+    "groupCode": 1
+  },
+  {
+    "id": 10468,
+    "en": "I don't have time at six",
+    "de": "Ich habe um sechs keine Zeit",
+    "groupCode": 1
+  },
+  {
+    "id": 10469,
+    "en": "I can't at five. Do you have time on Saturday?",
+    "de": "Ich kann nicht um fünf. Hast du am Samstag Zeit?",
+    "groupCode": 1
+  },
+  {
+    "id": 10470,
+    "en": "The swimming pool is only open until five",
+    "de": "Das schwimmbad ist nur bis fünf geöffnet",
+    "groupCode": 1
+  },
+  {
+    "id": 10471,
+    "en": "The chair is modern",
+    "de": "Der Stuhl ist modern",
+    "groupCode": 1
+  },
+  {
+    "id": 10472,
+    "en": "The table is ugly",
+    "de": "Der Tisch ist hässlich",
+    "groupCode": 1
+  },
+  {
+    "id": 10473,
+    "en": "Do my friends have a chair and a table?",
+    "de": "Haben meine Freunde einen Stuhl und einen Tisch?",
+    "groupCode": 1
+  },
+  {
+    "id": 10474,
+    "en": "For here or for take away",
+    "de": "Zum hier essen oder zum mitnehmen",
+    "groupCode": 1
+  },
+  {
+    "id": 10475,
+    "en": "I like your carpet",
+    "de": "Ich mag deinen Teppich",
+    "groupCode": 1
+  },
+  {
+    "id": 10476,
+    "en": "I like the table",
+    "de": "Ich mag den Tisch",
+    "groupCode": 1
+  },
+  {
+    "id": 10477,
+    "en": "we need a table and a chair",
+    "de": "Wir brauchen einen Tisch und einen Stuhl",
+    "groupCode": 1
+  },
+  {
+    "id": 10478,
+    "en": "How much does the couch cost?",
+    "de": "Wie viel kostet die Couch?",
+    "groupCode": 1
+  },
+  {
+    "id": 10479,
+    "en": "Who has a chair?",
+    "de": "Wer hat einen Stuhl?",
+    "groupCode": 1
+  },
+  {
+    "id": 10480,
+    "en": "The bedroom is very bright",
+    "de": "Das Schlafzimmer ist sehr hell",
+    "groupCode": 1
+  },
+  {
+    "id": 10481,
+    "en": "Who likes the table?",
+    "de": "Wer mag den Tisch?",
+    "groupCode": 1
+  },
+  {
+    "id": 10482,
+    "en": "I don't like the apartment",
+    "de": "Ich mag die Wohnung nicht",
+    "groupCode": 1
+  },
+  {
+    "id": 10483,
+    "en": "My roommates are nice and the apartment is always clean",
+    "de": "Meine Mitbewohner sind nett und die Wohnung ist immer sauber",
+    "groupCode": 1
+  },
+  {
+    "id": 10484,
+    "en": "Your apartment is really bright.",
+    "de": "Deine Wohnung ist wirklich hell",
+    "groupCode": 1
+  },
+  {
+    "id": 10485,
+    "en": "Thank you that works",
+    "de": "Danke, Das geht",
+    "groupCode": 1
+  },
+  {
+    "id": 10486,
+    "en": "Where is the bathroom?",
+    "de": "Wo ist das Badezimmer?",
+    "groupCode": 1
+  },
+  {
+    "id": 10487,
+    "en": "I don't like the bed and bookcase",
+    "de": "Ich mag das Bett und das Bücherregal nicht",
+    "groupCode": 1
+  },
+  {
+    "id": 10488,
+    "en": "The apartment is dark. We need a lamp",
+    "de": "Die Wohnung ist dunkel. Wir brauchen eine Lampe",
+    "groupCode": 1
+  },
+  {
+    "id": 10489,
+    "en": "Do you like the bedroom or not?",
+    "de": "Magst du das Schlafzimmer oder nicht?",
+    "groupCode": 1
+  },
+  {
+    "id": 10490,
+    "en": "I like my bedroom. The bed is comfortable and the bookcase is perfect",
+    "de": "Ich mag mein Schlafzimmer. Das bett ist bequem und das Bucherregal ist perfet",
+    "groupCode": 1
+  },
+  {
+    "id": 10491,
+    "en": "The game is on Saturday at three",
+    "de": "Das Speilt ist am Samstag um drei",
+    "groupCode": 1
+  },
+  {
+    "id": 10492,
+    "en": "What time is your family coming today?",
+    "de": "Wie viel Uhr kommt deine Familie heute?",
+    "groupCode": 1
+  },
+  {
+    "id": 10493,
+    "en": "The closet is cool. Do you like the closet?",
+    "de": "Das Schrank ist cool. Magst du den Schrank?",
+    "groupCode": 1
+  },
+  {
+    "id": 10494,
+    "en": "I like the desk, but I don't like the carpet",
+    "de": "Ich mag den Schreibtisch, aber ich mag den Teppich nicht",
+    "groupCode": 1
+  },
+  {
+    "id": 10495,
+    "en": "Would you like to go to the swimming pool on Sunday?",
+    "de": "Möchtest du am Sonntag ins Schwimmbad gehen?",
     "groupCode": 1
   }
 ]

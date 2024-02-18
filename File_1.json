@@ -1215,7 +1215,7 @@
   },
   {
     "id": 2202,
-    "fa": "بیا بعد از ظهر انجامش دهیم",
+    "fa": "بیا در بعد از ظهر انجامش دهیم",
     "en": "Let's do it in the afternoon",
     "groupCode": 0
   },
@@ -2712,8 +2712,20 @@
   },
   {
     "id": 2450,
-    "fa": "او (زن) باردار است",
+    "fa": "او (زن) در انتظار یک بچه است",
     "en": "She's expecting a baby",
+    "groupCode": 0
+  },
+  {
+    "id": 2451,
+    "fa": "ببخشید پشتم به شماست",
+    "en": "Excuse my back",
+    "groupCode": 0
+  },
+  {
+    "id": 2452,
+    "fa": "پیر نشدی",
+    "en": "You haven't aged a day",
     "groupCode": 0
   }
 ]

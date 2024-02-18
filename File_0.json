@@ -10741,7 +10741,7 @@
     "id": 1772,
     "fa": "نصف اعضای هیئت علمی رفته اند",
     "en": "Half of the faculty is gone",
-    "desc": "The choice between \"is\" and \"has\" often depends on regional preferences and the style guide you are following. In American English, for instance, you might hear \"is gone\" more frequently, while in British English, \"has gone\" might be more common. Ultimately, both are grammatically acceptable.",
+    "desc": "\"Half of The Faculty is gone\": Currently, half of the faculty is not here.\n\n\"Half of The Faculty was gone\": In the past, half of the faculty was not present.",
     "groupCode": 0
   },
   {
