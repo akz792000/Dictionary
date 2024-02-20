@@ -2596,7 +2596,6 @@
     "id": 2431,
     "fa": "کامپیوترت رو درست کردی (دادن به کسی)؟",
     "en": "Did you have your computer fixed?",
-
     "groupCode": 0
   },
   {
@@ -2637,7 +2636,6 @@
     "en": "Good morning your highness, excellencies, friends and colleagues",
     "groupCode": 0
   },
-
   {
     "id": 2438,
     "fa": "آیا زمانی باقی مانده است؟",
@@ -2726,6 +2724,66 @@
     "id": 2452,
     "fa": "پیر نشدی",
     "en": "You haven't aged a day",
+    "groupCode": 0
+  },
+  {
+    "id": 2453,
+    "fa": "خیلی زود است برای اون",
+    "en": "It's far too early for that",
+    "groupCode": 0
+  },
+  {
+    "id": 2454,
+    "fa": "برای بهبودی از مرخصی ام به استراحت نیاز دارم",
+    "en": "I need time off to recover from my time off",
+    "groupCode": 0
+  },
+  {
+    "id": 2455,
+    "fa": "به من پیشنهاد کار در مونیخ داده شده است",
+    "en": "I have been offered a job in Munich",
+    "groupCode": 0
+  },
+  {
+    "id": 2456,
+    "fa": "آیا  خواهم توانست پس انداز کنم و سبک زندگی متوسطی داشته باشم؟",
+    "en": "Will I be able to save and live a moderate lifestyle?",
+    "groupCode": 0
+  },
+  {
+    "id": 2457,
+    "fa": "باید اعتراف کنم که کمی شک دارم در مورد حقوقی که گفتی",
+    "en": "I must admit that I'm a bit skeptical about the salary you mentioned",
+    "groupCode": 0
+  },
+  {
+    "id": 2458,
+    "fa": "من به شما هشدار می دهم تحقیق و دقت لازم خود را انجام دهی قبل از پذیرش پیشنهاد شغلی",
+    "en": "I would caution you to do your own research and due diligence before accepting the job offer",
+    "groupCode": 0
+  },
+  {
+    "id": 2459,
+    "fa": "اطمینان حاصل کنید شما درک واضحی از هزینه زندگی دارید و اینکه حقوق پیشنهاد شده برای پوشش هزینه های شما کافی است",
+    "en": "Make sure you have a clear understanding of the cost of living and whether the salary being offered is sufficient to cover your expenses",
+    "groupCode": 0
+  },
+  {
+    "id": 2460,
+    "fa": "من می خواهم تشکر کنم از شما برای فرصت اینجا بودن امروز",
+    "en": "I would like to thank you for the opportunity to be here today",
+    "groupCode": 0
+  },
+  {
+    "id": 2461,
+    "fa": "آیا می توانید آن را زودتر از سال گذشته انجام دهید؟ (بسازید)",
+    "en": "Can you make it earlier than last year?",
+    "groupCode": 0
+  },
+  {
+    "id": 2462,
+    "fa": "چرا از شما دارن می خواهند که شهادت دهید؟",
+    "en": "\n 1.Why are you being asked to attest? \n 2.Why are you being asked to testify?",
     "groupCode": 0
   }
 ]

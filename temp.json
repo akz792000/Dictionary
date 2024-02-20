@@ -1,10 +1,21 @@
 [
-
-
+,
   {
     "id":,
-    "fa": "من می خواهم تشکر کنم از شما برای فرصت اینجا بودن امروز",
-    "en": "I would like to thank you for the opportunity to be here today",
+    "fa": "",
+    "en": "",
+    "groupCode": 0
+  },
+  {
+    "id":,
+    "fa": "",
+    "en": "",
+    "groupCode": 0
+  },
+  {
+    "id":,
+    "fa": "",
+    "en": "",
     "groupCode": 0
   },
   {
@@ -17,18 +28,6 @@
     "id":,
     "fa": "رفتم ماشینم را پارک کنم، اما متوجه شدم چرخ عقب سمت چپ روی جدول است",
     "en": "I went to park my car, but I noticed that the left rear wheel was on curbstone",
-    "groupCode": 0
-  },
-  {
-    "id":,
-    "fa": "آیا می توانید آن را زودتر از سال گذشته انجام دهید؟ (بسازید)",
-    "en": "Can you make it earlier than last year?",
-    "groupCode": 0
-  },
-  {
-    "id":,
-    "fa": "چرا از شما دارن می خواهند که شهادت دهید؟",
-    "en": "\n 1.Why are you being asked to attest? \n 2.Why are you being asked to testify?",
     "groupCode": 0
   },
   {
