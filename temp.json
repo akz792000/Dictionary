@@ -1,5 +1,6 @@
 [
-,
+
+
   {
     "id":,
     "fa": "",
@@ -18,6 +19,84 @@
     "en": "",
     "groupCode": 0
   },
+  {
+    "id":,
+    "fa": "",
+    "en": "",
+    "groupCode": 0
+  },
+  {
+    "id":,
+    "fa": "",
+    "en": "",
+    "groupCode": 0
+  },
+  {
+    "id":,
+    "fa": "",
+    "en": "",
+    "groupCode": 0
+  },
+  {
+    "id":,
+    "fa": "",
+    "en": "",
+    "groupCode": 0
+  },
+  {
+    "id":,
+    "fa": "",
+    "en": "",
+    "groupCode": 0
+  },
+  {
+    "id":,
+    "fa": "",
+    "en": "",
+    "groupCode": 0
+  },
+  {
+    "id":,
+    "fa": "",
+    "en": "",
+    "groupCode": 0
+  },
+  {
+    "id":,
+    "fa": "",
+    "en": "",
+    "groupCode": 0
+  },
+  {
+    "id":,
+    "fa": "",
+    "en": "",
+    "groupCode": 0
+  },
+  {
+    "id":,
+    "fa": "",
+    "en": "",
+    "groupCode": 0
+  },
+  {
+    "id":,
+    "fa": "",
+    "en": "",
+    "groupCode": 0
+  },
+  {
+    "id":,
+    "fa": "",
+    "en": "",
+    "groupCode": 0
+  },
+  {
+    "id":,
+    "fa": "",
+    "en": "",
+    "groupCode": 0
+  }
   {
     "id":,
     "fa": "فداکاری بی وقفه او برای بهتر شدن در بازی منجر به پیشرفت قابل توجهی در مهارت های او شد",
@@ -112,42 +191,6 @@
     "id":,
     "fa": "باید عاری از ابهام، مفروضات ضمنی و جزئیات اضافی باشد",
     "en": "It should be free of ambiguity, implicit assumptions, and extraneous details",
-    "groupCode": 0
-  },
-  {
-    "id":,
-    "fa": "",
-    "en": "",
-    "groupCode": 0
-  },
-  {
-    "id":,
-    "fa": "",
-    "en": "",
-    "groupCode": 0
-  },
-  {
-    "id":,
-    "fa": "",
-    "en": "",
-    "groupCode": 0
-  },
-  {
-    "id":,
-    "fa": "",
-    "en": "",
-    "groupCode": 0
-  },
-  {
-    "id":,
-    "fa": "",
-    "en": "",
-    "groupCode": 0
-  },
-  {
-    "id":,
-    "fa": "",
-    "en": "",
     "groupCode": 0
   }
 ]

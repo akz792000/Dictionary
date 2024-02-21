@@ -1847,7 +1847,7 @@
   },
   {
     "id": 2307,
-    "fa": "هیچ فایده ای برای مقاومت وجود ندارد",
+    "fa": "هیچ فایده ای (پوینت) برای مقاومت وجود ندارد",
     "en": "There's no point to resist",
     "groupCode": 0
   },
@@ -2746,13 +2746,13 @@
   },
   {
     "id": 2456,
-    "fa": "آیا  خواهم توانست پس انداز کنم و سبک زندگی متوسطی داشته باشم؟",
+    "fa": "آیا قادر خواهم بود پس انداز کنم و زندگی متوسطی داشته باشم؟",
     "en": "Will I be able to save and live a moderate lifestyle?",
     "groupCode": 0
   },
   {
     "id": 2457,
-    "fa": "باید اعتراف کنم که کمی شک دارم در مورد حقوقی که گفتی",
+    "fa": "باید اعتراف کنم که کمی شک دارم در مورد حقوقی که ذکر کردی",
     "en": "I must admit that I'm a bit skeptical about the salary you mentioned",
     "groupCode": 0
   },
@@ -2770,7 +2770,7 @@
   },
   {
     "id": 2460,
-    "fa": "من می خواهم تشکر کنم از شما برای فرصت اینجا بودن امروز",
+    "fa": "من مایلم تشکر کنم از شما برای فرصت اینجا بودن امروز",
     "en": "I would like to thank you for the opportunity to be here today",
     "groupCode": 0
   },
@@ -2782,8 +2782,74 @@
   },
   {
     "id": 2462,
-    "fa": "چرا از شما دارن می خواهند که شهادت دهید؟",
+    "fa": "چرا از شما دارن می پرسند که شهادت دهید؟",
     "en": "\n 1.Why are you being asked to attest? \n 2.Why are you being asked to testify?",
+    "groupCode": 0
+  },
+  {
+    "id": 2463,
+    "fa": "آیا نام ترجیحی دارید؟",
+    "en": "Do you have a preferred name?",
+    "groupCode": 0
+  },
+  {
+    "id": 2464,
+    "fa": "اصلا چرا حرف زدم؟",
+    "en": "Why did I even speak up?",
+    "groupCode": 0
+  },
+  {
+    "id": 2465,
+    "fa": "دانشمند به یک شرکت رقیب فرار کرد",
+    "en": "The scientist defected to a rival company",
+    "groupCode": 0
+  },
+  {
+    "id": 2466,
+    "fa": "خوشحالم شما اینجایی",
+    "en": "I'm glad you're here",
+    "groupCode": 0
+  },
+  {
+    "id": 2467,
+    "fa": "شما هم همین را شنیدید آقا؟",
+    "en": "Is that what you heard too sir?",
+    "groupCode": 0
+  },
+  {
+    "id": 2468,
+    "fa": "آنقدرها هم نگذشته است",
+    "en": "It hasn't been that long",
+    "groupCode": 0
+  },
+  {
+    "id": 2469,
+    "fa": "چند وقت است که شما دو نفر ازدواج کرده اید؟",
+    "en": "How long have you two been married?",
+    "groupCode": 0
+  },
+  {
+    "id": 2470,
+    "fa": "مرد, تو ذاتاً نژادپرست هستی",
+    "en": "Man, you're innately racist",
+    "groupCode": 0
+  },
+  {
+    "id": 2471,
+    "fa": "آیا مطمئنی هر کاری که تا الان انجام دادیم توسط علی انجام شده؟",
+    "en": "Are you sure that everything we have done so far has been done by Ali?",
+    "groupCode": 0
+  },
+  {
+    "id": 2472,
+    "fa": "او (زن) شکاک است و همیشه می پرسد برای مدرک قبل از اینکه به چیزی باور داشته باشد",
+    "en": "She's a skeptic and always asks for evidence before believing in something",
+    "groupCode": 0
+  },
+  {
+    "id": 2473,
+    "fa": "تعریف شما از خوشبختی چیست؟",
+    "en": "What is your definition of happiness?",
     "groupCode": 0
   }
 ]

@@ -1094,7 +1094,7 @@
   {
     "id": 182,
     "fa": "به تو ربطی نداره",
-    "en": "It doesn't concern you",
+    "en": "\n 1.It's not your concern \n 2.It doesn't concern you",
     "groupCode": 0
   },
   {
@@ -4275,7 +4275,7 @@
   },
   {
     "id": 707,
-    "fa": "بگذار فقط کلاه تو را صاف کنم",
+    "fa": "بگذار فقط کلاه ایمنیت را صاف کنم",
     "en": "Let me just straighten out your helmet",
     "desc": "\"Let me straighten your helmet\": This sentence suggests that the helmet may be misaligned or not sitting properly on the person's head. By using \"straighten,\" it implies the action of adjusting the position or alignment of the helmet to make it sit correctly.\n\n\"Let me straighten out your helmet\": This sentence conveys a similar meaning to the first sentence, but the addition of \"out\" suggests that there may be some disorder or irregularity in the current state of the helmet. Using \"straighten out\" implies not only adjusting the alignment but also resolving any issues or irregularities with the helmet.",
     "groupCode": 0
@@ -4664,7 +4664,7 @@
   },
   {
     "id": 771,
-    "fa": "با یک صدم این مبلغ میتونم براتون انجام بدم",
+    "fa": "من میتونم براتون انجام بدم با یک صدم این مبلغ",
     "en": "I can do it for you for one hundredth of this amount",
     "groupCode": 0
   },
