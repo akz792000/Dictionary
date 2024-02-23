@@ -1,58 +1,50 @@
 [
-
-
   {
     "id":,
-    "fa": "",
-    "en": "",
+    "fa": "اگه بری من ناراحت نمیشم",
+    "en": "If you leave I won't be offended",
+    "groupCode": 0
+  }
+  {
+    "id":,
+    "fa": "این تنها کلمه ای است که براستی توصیف می کند آن شخص را",
+    "en": "This is the only word that truly describes what that person is",
     "groupCode": 0
   },
   {
     "id":,
-    "fa": "",
-    "en": "",
+    "fa": "یک بادکنک در مثانه شما باد کرده است",
+    "en": "There is a balloon inflated in your bladder",
     "groupCode": 0
   },
   {
     "id":,
-    "fa": "",
-    "en": "",
+    "fa": "من به نوعی کنجکاو هستم که شما چگونه واکنش نشان خواهید داد",
+    "en": "I'm kind of curious how you'll react",
     "groupCode": 0
   },
   {
     "id":,
-    "fa": "",
-    "en": "",
+    "fa": "بنابراین اگر من جای شما بودم، شروع به صحبت می کردم",
+    "en": "So if I were you, I'd start talking",
     "groupCode": 0
   },
   {
     "id":,
-    "fa": "",
-    "en": "",
+    "fa": "بهترین کوله پشتی سبک و ضد آب برای حمل لپ تاپ چیست؟",
+    "en": "What is the best lightweight and waterproof backpack for carrying laptops?",
     "groupCode": 0
   },
   {
     "id":,
-    "fa": "",
-    "en": "",
+    "fa": "فکر می کنم باید دو یا سه اسلاید جلوتر را به من بدهی",
+    "en": "I think you should give me two or three slides forward",
     "groupCode": 0
   },
   {
     "id":,
-    "fa": "",
-    "en": "",
-    "groupCode": 0
-  },
-  {
-    "id":,
-    "fa": "",
-    "en": "",
-    "groupCode": 0
-  },
-  {
-    "id":,
-    "fa": "",
-    "en": "",
+    "fa": "سود تقسیمی سهم سودی است که بین سهامداران تقسیم می شود",
+    "en": "The dividend is the share of profits distributed to shareholders",
     "groupCode": 0
   },
   {

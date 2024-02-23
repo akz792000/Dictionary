@@ -1228,7 +1228,7 @@
   {
     "id": 2204,
     "fa": "اتفاقا اسمشون رو گرفتی؟",
-    "en": "Did you happen to catch their name?",
+    "en": "\n 1.Did you happen to catch their name? \n 2.Did you get their name by chance?",
     "groupCode": 0
   },
   {
@@ -2360,7 +2360,7 @@
   },
   {
     "id": 2392,
-    "fa": "تیم پروژه را جلوتر از برنامه به پایان (جمعبندی) رسانده است",
+    "fa": "تیم به پایان (جمعبندی) رسانده است پروژه را جلوتر از برنامه",
     "en": "The team has wrapped up the project ahead of schedule",
     "groupCode": 0
   },
@@ -2456,7 +2456,7 @@
   },
   {
     "id": 2408,
-    "fa": "تمام تلاش هایم بی نتیجه بود",
+    "fa": "تمام تلاش هایم بیهوده بود",
     "en": "All my efforts were in vain",
     "groupCode": 0
   },
@@ -2499,7 +2499,7 @@
   {
     "id": 2415,
     "fa": "او (مرد) به تجاوز جنسی متهم شد",
-    "en": "He charged with rape",
+    "en": "\n 1.He was charged with rape \n 2.He was accused of rape",
     "groupCode": 0
   },
   {
@@ -2552,7 +2552,7 @@
   },
   {
     "id": 2424,
-    "fa": "من هرگز ادعا نکرده ام که یک سخنران انگیزشی هستم",
+    "fa": "من هرگز ادعا سخنران انگیزشی بودن نکردم",
     "en": "I've never claimed to be a motivational speaker",
     "groupCode": 0
   },
@@ -2812,13 +2812,13 @@
   },
   {
     "id": 2467,
-    "fa": "شما هم همین را شنیدید آقا؟",
+    "fa": "آیا آن چیزی است که شما هم شنیدید آقا؟",
     "en": "Is that what you heard too sir?",
     "groupCode": 0
   },
   {
     "id": 2468,
-    "fa": "آنقدرها هم نگذشته است",
+    "fa": "آنقدرها هم نشده است",
     "en": "It hasn't been that long",
     "groupCode": 0
   },
@@ -2836,7 +2836,7 @@
   },
   {
     "id": 2471,
-    "fa": "آیا مطمئنی هر کاری که تا الان انجام دادیم توسط علی انجام شده؟",
+    "fa": "آیا مطمئنی که هر کاری ما انجام دادیم تا الان توسط علی انجام شده؟",
     "en": "Are you sure that everything we have done so far has been done by Ali?",
     "groupCode": 0
   },
@@ -2854,7 +2854,7 @@
   },
   {
     "id": 2474,
-    "fa": "رفتم ماشینم را پارک کنم، اما متوجه شدم چرخ عقب سمت چپ روی جدول است",
+    "fa": "رفتم ماشینم را پارک کنم، اما متوجه شدم که چرخ عقب سمت چپ روی جدول است",
     "en": "I went to park my car, but I noticed that the left rear wheel was on curbstone",
     "groupCode": 0
   },

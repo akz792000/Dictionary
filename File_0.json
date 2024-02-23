@@ -7,7 +7,7 @@
   },
   {
     "id": 2,
-    "fa": "چه چیزی باعث شد اینقدر طولش بدی؟",
+    "fa": "چه چیزی شد اینقدر طولش دادی؟",
     "en": "What took you so long?",
     "groupCode": 0
   },
@@ -857,7 +857,7 @@
   },
   {
     "id": 143,
-    "fa": "زیاد طول نمیکشه",
+    "fa": "زیاد طول نخواهد کشید",
     "en": "It won't take long",
     "groupCode": 0
   },
@@ -4600,6 +4600,7 @@
     "id": 760,
     "fa": "من می خواهم مرخصی ساعتی بگیرم",
     "en": "I want to take hourly leave",
+    "desc": "\"I want to take hourly leave\" suggests a specific, short-term break for a few hours. On the other hand, \"I want to take time off\" is a more general statement, indicating a desire for a break without specifying the duration.",
     "groupCode": 0
   },
   {
@@ -10838,7 +10839,7 @@
   },
   {
     "id": 1788,
-    "fa": "نگران نباش, من ناامیدت نمی کنم (نمیزارم پایین بری)",
+    "fa": "نگران نباش, من ناامیدت نخواهم کرد (نمیزارم پایین بری)",
     "en": "Don't worry, I won't let you down",
     "groupCode": 0
   },
