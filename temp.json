@@ -1,50 +1,82 @@
 [
-  {
-    "id":,
-    "fa": "اگه بری من ناراحت نمیشم",
-    "en": "If you leave I won't be offended",
-    "groupCode": 0
-  }
-  {
-    "id":,
-    "fa": "این تنها کلمه ای است که براستی توصیف می کند آن شخص را",
-    "en": "This is the only word that truly describes what that person is",
-    "groupCode": 0
-  },
-  {
-    "id":,
-    "fa": "یک بادکنک در مثانه شما باد کرده است",
-    "en": "There is a balloon inflated in your bladder",
-    "groupCode": 0
-  },
-  {
-    "id":,
-    "fa": "من به نوعی کنجکاو هستم که شما چگونه واکنش نشان خواهید داد",
-    "en": "I'm kind of curious how you'll react",
-    "groupCode": 0
-  },
-  {
-    "id":,
-    "fa": "بنابراین اگر من جای شما بودم، شروع به صحبت می کردم",
-    "en": "So if I were you, I'd start talking",
-    "groupCode": 0
-  },
-  {
-    "id":,
-    "fa": "بهترین کوله پشتی سبک و ضد آب برای حمل لپ تاپ چیست؟",
-    "en": "What is the best lightweight and waterproof backpack for carrying laptops?",
-    "groupCode": 0
-  },
-  {
-    "id":,
-    "fa": "فکر می کنم باید دو یا سه اسلاید جلوتر را به من بدهی",
-    "en": "I think you should give me two or three slides forward",
-    "groupCode": 0
-  },
+
+
   {
     "id":,
     "fa": "سود تقسیمی سهم سودی است که بین سهامداران تقسیم می شود",
     "en": "The dividend is the share of profits distributed to shareholders",
+    "groupCode": 0
+  },
+  {
+    "id":,
+    "fa": "در طول سال, ما سمینارهای بیشتری پیشنهاد خواهیم داد",
+    "en": "In the course of the year, we will offer further seminars",
+    "groupCode": 0
+  },
+  {
+    "id":,
+    "fa": "شما بیشتر از همیشه خوش آمدید برای آمدن به آفیس در هر زمانی و استفاده کنی از هر ورودی",
+    "en": "You are all more than welcome to come to the office at any time and use any of the entrances",
+    "groupCode": 0
+  },
+  {
+    "id":,
+    "fa": "شما فقط داری 16 مسابقه باقی مانده",
+    "en": "You only have 16 matches left",
+    "groupCode": 0
+  },
+  {
+    "id":,
+    "fa": "سوپریادگیران 4.2 برابر بیشتر احتمال دارد دوره خود را به پایان برسانند",
+    "en": "Super learners are 4.2x more likely to finish their course",
+    "groupCode": 0
+  },
+  {
+    "id":,
+    "fa": "",
+    "en": "Wrong place wrong time Raiden. No, I am exactly where I should be",
+    "groupCode": 0
+  },
+  {
+    "id":,
+    "fa": "",
+    "en": "Why can't we dig deeper than 12.2 km into the Earth?",
+    "groupCode": 0
+  },
+  {
+    "id":,
+    "fa": "معمولاً چه چیزی شما را از ارائه بازخورد به متقاضیان رد شده باز می دارد؟",
+    "en": "What usually holds you back from providing feedback to rejected applicants?",
+    "groupCode": 0
+  },
+  {
+    "id":,
+    "fa": "",
+    "en": "",
+    "groupCode": 0
+  },
+  {
+    "id":,
+    "fa": "",
+    "en": "",
+    "groupCode": 0
+  },
+  {
+    "id":,
+    "fa": "",
+    "en": "",
+    "groupCode": 0
+  },
+  {
+    "id":,
+    "fa": "",
+    "en": "",
+    "groupCode": 0
+  },
+  {
+    "id":,
+    "fa": "",
+    "en": "",
     "groupCode": 0
   },
   {

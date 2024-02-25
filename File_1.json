@@ -2492,7 +2492,7 @@
   },
   {
     "id": 2414,
-    "fa": "من بسیار سوپرایز شدم که این اتهامات علیه من (فرضی) مطرح می شود، زیرا من کار خلافی نکرده بودم",
+    "fa": "من بسیار سوپرایز شدم که این اتهامات علیه من (فرضی) مطرح می شود، زیرا من کار اشتباهی نکرده بودم",
     "en": "I was very surprised that these charges would be brought against me because I hadn't done anything wrong",
     "groupCode": 0
   },
@@ -2704,7 +2704,7 @@
   },
   {
     "id": 2449,
-    "fa": "او (زن) یک پسر به دنیا آورد",
+    "fa": "او (زن) یک پسر بچه به دنیا آورد",
     "en": "She gave birth to a baby boy",
     "groupCode": 0
   },
@@ -2842,7 +2842,7 @@
   },
   {
     "id": 2472,
-    "fa": "او (زن) شکاک است و همیشه می پرسد برای مدرک قبل از اینکه به چیزی باور داشته باشد",
+    "fa": "او (زن) یک شکاک است و همیشه می پرسد برای مدرک قبل از اینکه به چیزی باور داشته باشد",
     "en": "She's a skeptic and always asks for evidence before believing in something",
     "groupCode": 0
   },
@@ -2862,6 +2862,96 @@
     "id": 2475,
     "fa": "من هنوز بیمارم. دکتر مرخصی استعلاجی مرا 3 روز دیگر تمدید کردد",
     "en": "I'm still sick. The doctor extended my sick leave for another 3 days",
+    "groupCode": 0
+  },
+  {
+    "id": 2476,
+    "fa": "او (زن) بوی بد دهان دارد",
+    "en": "She has bad breath",
+    "groupCode": 0
+  },
+  {
+    "id": 2477,
+    "fa": "صحبت آنها را در راهرو ناخواسته شنیدم",
+    "en": "I overheard their conversation in the hallway",
+    "groupCode": 0
+  },
+  {
+    "id": 2478,
+    "fa": "ما راه های خود را جداگانه خواهیم رفت",
+    "en": "We'll go our separate ways",
+    "groupCode": 0
+  },
+  {
+    "id": 2479,
+    "fa": "ماس مالی نکن",
+    "en": "Don't cut corners",
+    "groupCode": 0
+  },
+  {
+    "id": 2480,
+    "fa": "منو قال گذاشتی",
+    "en": "You stood me up",
+    "groupCode": 0
+  },
+  {
+    "id": 2481,
+    "fa": "زبون به دهن بگیر",
+    "en": "Hold your tongue",
+    "groupCode": 0
+  },
+  {
+    "id": 2482,
+    "fa": "برام سخنرانی نکن",
+    "en": "Don't lecture me",
+    "groupCode": 0
+  },
+  {
+    "id": 2483,
+    "fa": "سال چندمی؟",
+    "en": "What year are you in?",
+    "groupCode": 0
+  },
+  {
+    "id": 2484,
+    "fa": "اگه بری من ناراحت نمیشم",
+    "en": "If you leave I won't be offended",
+    "groupCode": 0
+  },
+  {
+    "id": 2485,
+    "fa": "این تنها کلمه ای است که براستی توصیف می کند آن شخص را",
+    "en": "This is the only word that truly describes what that person is",
+    "groupCode": 0
+  },
+  {
+    "id": 2486,
+    "fa": "یک بادکنک در مثانه شما باد کرده است",
+    "en": "There is a balloon inflated in your bladder",
+    "groupCode": 0
+  },
+  {
+    "id": 2487,
+    "fa": "من به نوعی کنجکاو هستم که شما چگونه واکنش نشان خواهید داد",
+    "en": "I'm kind of curious how you'll react",
+    "groupCode": 0
+  },
+  {
+    "id": 2488,
+    "fa": "بنابراین اگر من جای شما بودم، شروع به صحبت می کردم",
+    "en": "So if I were you, I'd start talking",
+    "groupCode": 0
+  },
+  {
+    "id": 2489,
+    "fa": "بهترین کوله پشتی سبک و ضد آب برای حمل لپ تاپ چیست؟",
+    "en": "What is the best lightweight and waterproof backpack for carrying laptops?",
+    "groupCode": 0
+  },
+  {
+    "id": 2490,
+    "fa": "فکر می کنم باید دو یا سه اسلاید جلوتر را به من بدهی",
+    "en": "I think you should give me two or three slides forward",
     "groupCode": 0
   }
 ]

@@ -1,8 +1,8 @@
 [
   {
     "id": 10001,
-    "en": "Good Morning. Good day. Good evening. Good night.",
-    "de": "Guten morgen. Guten tag. Guten abend. Gute nacht.",
+    "en": "Good night",
+    "de": "Gute nacht",
     "groupCode": 1
   },
   {
@@ -37,8 +37,8 @@
   },
   {
     "id": 10007,
-    "en": "Hope to see you. Hope to hear you",
-    "de": "Auf Wiedersehen. Auf Wiederhören",
+    "en": "Hope to see you",
+    "de": "Auf Wiedersehen",
     "groupCode": 1
   },
   {
@@ -55,8 +55,8 @@
   },
   {
     "id": 10010,
-    "en": "How is the weather today? The weather is bad today. The weather is raining this morning",
-    "de": "Wie ist das Wetter heute? Das Wetter ist heute schlecht. Das wetter ist heute Morgem regnet",
+    "en": "How is the weather today? The weather is bad today",
+    "de": "Wie ist das Wetter heute? Das Wetter ist heute schlecht",
     "groupCode": 1
   },
   {
@@ -86,8 +86,8 @@
   },
   {
     "id": 10015,
-    "en": "See you later. See you tomorrow. See you soon",
-    "de": "Bis Später. Bis morgen. Bis bald",
+    "en": "See you later",
+    "de": "Bis Später",
     "groupCode": 1
   },
   {
@@ -116,8 +116,8 @@
   },
   {
     "id": 10020,
-    "en": "My name is Ali and I study philosophy in Munich",
-    "de": "Ich heiß' Ali und ich studier' Philosophie in München",
+    "en": "Good evening. My name is Ali and I study philosophy in Munich",
+    "de": "Guten abend. Ich heiß' Ali und ich studier' Philosophie in München",
     "groupCode": 1
   },
   {
@@ -158,14 +158,14 @@
   },
   {
     "id": 10027,
-    "en": "Where do you come from?",
-    "de": "\n 1.Woher kommen Sie? (formal) \n 2.Woher kommst du? (informal)",
+    "en": "Where do you come from? (formal)",
+    "de": "Woher kommen Sie?",
     "groupCode": 1
   },
   {
     "id": 10028,
-    "en": "Which ones do you know?",
-    "de": "\n 1.Welche kennen Sie? (formal) \n 2.Welche kennst du? (informal) ",
+    "en": "Which ones do you know? (informal)",
+    "de": "Welche kennst du?",
     "groupCode": 1
   },
   {
@@ -194,8 +194,8 @@
   },
   {
     "id": 10033,
-    "en": "Where do you live now?",
-    "de": "\n 1.Wo wohnen Sie jetzt? (formal) \n 2.Wo wohnst du jetzt? (informal)",
+    "en": "Where do you live now? (informal)",
+    "de": "Wo wohnst du jetzt?",
     "groupCode": 1
   },
   {
@@ -393,8 +393,8 @@
   },
   {
     "id": 10065,
-    "en": "Do you speak German? No, I speak no German",
-    "de": "\n 1.Sprechen Sie Deutsch? Nein, Ich spreche kein Deutsch (formal) \n 2.Sprichst du Deutsch? Nein, Ich spreche kein Deutsch (informal)",
+    "en": "Do you speak German? (formal) No, I speak no German",
+    "de": "Sprechen Sie Deutsch? Nein, Ich spreche kein Deutsch",
     "groupCode": 1
   },
   {
@@ -405,8 +405,8 @@
   },
   {
     "id": 10067,
-    "en": "I speak a bit of German? You speak English. Do you also speak Swedish?",
-    "de": "Ich spreche ein bisschen Deutsch? Du sprichst Englisch. Sprichst du auch Schwedisch?",
+    "en": "I speak a bit of German?",
+    "de": "Ich spreche ein bisschen Deutsch?",
     "groupCode": 1
   },
   {
@@ -423,7 +423,7 @@
   },
   {
     "id": 10070,
-    "en": "Who is this? No idea",
+    "en": "Who is that? No idea",
     "de": "Wer ist that? Keine Ahnung",
     "groupCode": 1
   },
@@ -666,14 +666,14 @@
   },
   {
     "id": 10110,
-    "en": "\n Are you angry? \n No, I'm not angry",
-    "de": "\n Bist du wütend? Nein, \n Ich bin nicht wütend",
+    "en": "Are you angry? No, I'm not angry",
+    "de": "Bist du wütend? Nein, Ich bin nicht wütend",
     "groupCode": 1
   },
   {
     "id": 10111,
-    "en": "I am tired",
-    "de": "Ich bin müde",
+    "en": "I am so tired",
+    "de": "Ich bin so müde",
     "groupCode": 1
   },
   {
@@ -716,8 +716,8 @@
   },
   {
     "id": 10118,
-    "en": "Do you come from Germany?",
-    "de": "\n 1.Kommen Sie aus Deutschland? \n 2.Kommst du aus Deutschland? (informal)",
+    "en": "Do you come from Germany? (formal)",
+    "de": "Kommen Sie aus Deutschland?",
     "groupCode": 1
   },
   {
@@ -752,8 +752,8 @@
   },
   {
     "id": 10124,
-    "en": "Which languages do you speak?",
-    "de": " \n 1.Welche Sprachen sprechen Sie? (informal) \n 2.Welche Sprachen sprichst du? (informal)",
+    "en": "Which languages do you speak? (informal)",
+    "de": "Welche Sprachen sprichst du?",
     "groupCode": 1
   },
   {
@@ -890,8 +890,8 @@
   },
   {
     "id": 10147,
-    "en": "How old are you?",
-    "de": "\n 1.Wie alt sind Sie? (formal) \n 2.Wie alt bist du? (informal)",
+    "en": "How old are you? (formal)",
+    "de": "Wie alt sind Sie?",
     "groupCode": 1
   },
   {
@@ -1345,8 +1345,8 @@
   },
   {
     "id": 10222,
-    "en": "Are you a teacher?",
-    "de": "\n 1.Sind Sie Lehrer? \n 2.Bist du Lehrer?",
+    "en": "Are you a teacher? (informal)",
+    "de": "Bist du Lehrer?",
     "groupCode": 1
   },
   {
@@ -1418,8 +1418,8 @@
   },
   {
     "id": 10234,
-    "en": "Do you work here?",
-    "de": "\n 1.Arbeiten Sie hier? \n 2.Arbeitest du hier?",
+    "en": "Do you work here? (formal)",
+    "de": "Arbeiten Sie hier?",
     "groupCode": 1
   },
   {
@@ -1568,8 +1568,8 @@
   },
   {
     "id": 10259,
-    "en": "Do you paint sometimes?",
-    "de": "\n 1.Malen sie manchmal? \n 2.Malst du manchmal?",
+    "en": "Do you paint sometimes? (formal)",
+    "de": "Malen sie manchmal?",
     "groupCode": 1
   },
   {
@@ -1580,8 +1580,8 @@
   },
   {
     "id": 10261,
-    "en": "Do you also swim often?",
-    "de": "\n 1.Schwimmen Sie auch oft? \n 2.Schwimmst du auch oft?",
+    "en": "Do you also swim often? (informal)",
+    "de": "Schwimmst du auch oft?",
     "groupCode": 1
   },
   {
@@ -1659,8 +1659,8 @@
   },
   {
     "id": 10274,
-    "en": "What would you like to eat?",
-    "de": "\n 1.Was möchtest du essen? \n 2.Was möchten Sie essen?",
+    "en": "What would you like to eat? (informal)",
+    "de": "Was möchten Sie essen?",
     "groupCode": 1
   },
   {
@@ -1847,8 +1847,8 @@
   },
   {
     "id": 10305,
-    "en": "What are you by profession?",
-    "de": "\n 1.Was sind Sie von Beruf? (formal) \n 2.Was bist du von Beruf? (informal)",
+    "en": "What are you by profession? (formal)",
+    "de": "Was sind Sie von Beruf?",
     "groupCode": 1
   },
   {
@@ -2058,7 +2058,7 @@
   },
   {
     "id": 10340,
-    "en": "What is your address then?",
+    "en": "What is your address then? (polite)",
     "de": "\n 1.Wie ist Ihre Adresse denn? \n 2.Wie ist Deine Adresse denn?",
     "groupCode": 1
   },
@@ -2172,13 +2172,13 @@
   },
   {
     "id": 10359,
-    "en": "Do they look for a jacket?",
+    "en": "Do they look for a suit jacket?",
     "de": "Sie suchen ein Sakko?",
     "groupCode": 1
   },
   {
     "id": 10360,
-    "en": "Ali takes a jacket",
+    "en": "Ali takes a suit jacket",
     "de": "Ali nimmt ein Sakko",
     "groupCode": 1
   },
@@ -2196,14 +2196,14 @@
   },
   {
     "id": 10363,
-    "en": "I don't look for a jacket and I don't look for a shirt",
+    "en": "I don't look for a suit jacket and I don't look for a shirt",
     "de": "Ich suche kein Sakko und ich suche kein Hemd",
     "groupCode": 1
   },
   {
     "id": 10364,
-    "en": "Please, where are the toilets?",
-    "de": "Bitte, wo sind die Toiletten",
+    "en": "Where are the toilets?",
+    "de": "Wo sind die Toiletten",
     "groupCode": 1
   },
   {
@@ -2298,8 +2298,8 @@
   },
   {
     "id": 10380,
-    "en": "Would you like to have it?",
-    "de": "\n 1.Möchten Sie es haben? \n 2.Möchtest du es haben?",
+    "en": "Would you like to have it? (formal)",
+    "de": "Möchten Sie es haben?",
     "groupCode": 1
   },
   {
@@ -2990,6 +2990,360 @@
     "id": 10495,
     "en": "Would you like to go to the swimming pool on Sunday?",
     "de": "Möchtest du am Sonntag ins Schwimmbad gehen?",
+    "groupCode": 1
+  },
+  {
+    "id": 10496,
+    "en": "Is the game on Saturday or on Sunday?",
+    "de": "Ist das Spiel am samstag oder am Sonntag?",
+    "groupCode": 1
+  },
+  {
+    "id": 10497,
+    "en": "You speak English. Do you also speak Swedish?",
+    "de": "Du sprichst Englisch. Sprichst du auch Schwedisch?",
+    "groupCode": 1
+  },
+  {
+    "id": 10498,
+    "en": "My girlfriend is from Germany",
+    "de": "Meine Freundin kommt aus Deutschland",
+    "groupCode": 1
+  },
+  {
+    "id": 10499,
+    "en": "Why is the table so modern?",
+    "de": "Warum ist der Tisch so modern?",
+    "groupCode": 1
+  },
+  {
+    "id": 10500,
+    "en": "He visits his grandmother in the hospital",
+    "de": "Er besucht seine Großmutter im Krankenhaus",
+    "groupCode": 1
+  },
+  {
+    "id": 10501,
+    "en": "I am a little bit sad. My room is so white and boring",
+    "de": "Ich bin ein bisschen traurig. Mein Zimmer ist so weiß und langweilig",
+    "groupCode": 1
+  },
+  {
+    "id": 10502,
+    "en": "It's spring and it's sunny outside",
+    "de": "Es ist frühling und draußen ist es sonnig",
+    "groupCode": 1
+  },
+  {
+    "id": 10503,
+    "en": "I always love working in my garden in the spring",
+    "de": "Ich arbeite im Frühling immer so gern in meinem Garten\n",
+    "groupCode": 1
+  },
+  {
+    "id": 10504,
+    "en": "I have an idea",
+    "de": "Ich habe eine Idee",
+    "groupCode": 1
+  },
+  {
+    "id": 10505,
+    "en": "Give me thirty minutes!",
+    "de": "Gib mir dreißig Minuten!",
+    "groupCode": 1
+  },
+  {
+    "id": 10506,
+    "en": "See you soon",
+    "de": "\n 1.Bis gleich \n 2.Bis bald",
+    "groupCode": 1
+  },
+  {
+    "id": 10507,
+    "en": "Where would you like to go jogging?",
+    "de": "Wo möchtest du joggen gehen?",
+    "groupCode": 1
+  },
+  {
+    "id": 10508,
+    "en": "Are you nervous? (informal)",
+    "de": "Bist du Nervös?",
+    "groupCode": 1
+  },
+  {
+    "id": 10509,
+    "en": "Do you have a job interview on Tuesday?",
+    "de": "Hast du ein Jobinterview am Dienstag?",
+    "groupCode": 1
+  },
+  {
+    "id": 10510,
+    "en": "Your job interview isn't on Thursday?",
+    "de": "Dein Jobinterview ist nicht am Donnerstag?",
+    "groupCode": 1
+  },
+  {
+    "id": 10511,
+    "en": "Do you have new clothes for the job interview?",
+    "de": "Hast du neue Kleidung für das Job Interview?",
+    "groupCode": 1
+  },
+  {
+    "id": 10512,
+    "en": "I surf but not every day",
+    "de": "Ich surfe aber nicht jeden tag",
+    "groupCode": 1
+  },
+  {
+    "id": 10513,
+    "en": "When are we going to the department store?",
+    "de": "Wann gehen wir ins Kaufhaus?",
+    "groupCode": 1
+  },
+  {
+    "id": 10514,
+    "en": "I don't have a blouse",
+    "de": "Ich habe keine Bluse",
+    "groupCode": 1
+  },
+  {
+    "id": 10515,
+    "en": "I'm excited and a little nervous",
+    "de": "Ich bin aufgeregt und ein bisschen nervös",
+    "groupCode": 1
+  },
+  {
+    "id": 10516,
+    "en": "What do you want to buy?",
+    "de": "Was möchtest du kaufen?",
+    "groupCode": 1
+  },
+  {
+    "id": 10517,
+    "en": "What do you have to buy?",
+    "de": "Was musst du kaufen?",
+    "groupCode": 1
+  },
+  {
+    "id": 10518,
+    "en": "Do you have to go to the department store?",
+    "de": "Musst du ins Kaufhaus gehen?",
+    "groupCode": 1
+  },
+  {
+    "id": 10519,
+    "en": "Max is searching for a shirt for the job interview",
+    "de": "Max sucht ein Hemd für das Jobinterview",
+    "groupCode": 1
+  },
+  {
+    "id": 10520,
+    "en": "What are you searching for? I'm searching for a shirt and a suite jacket",
+    "de": "Was suchen Sie? Ich suche ein Hemd und ein Sakko",
+    "groupCode": 1
+  },
+  {
+    "id": 10521,
+    "en": "What would you like to buy for the job interview? I'm searching for a dress and a scarf",
+    "de": "Was möchtest du für das jobinterview kaufen? Ich suche ein Klied und einen Schal",
+    "groupCode": 1
+  },
+  {
+    "id": 10522,
+    "en": "Are you searching for a shirt?",
+    "de": "Suchst du ein Hemd?",
+    "groupCode": 1
+  },
+  {
+    "id": 10523,
+    "en": "I need a blouse in size S",
+    "de": "Ich brauche eine Bluse in Größe S",
+    "groupCode": 1
+  },
+  {
+    "id": 10524,
+    "en": "Oh, it doesn't fit! I need size L, not S",
+    "de": "Oh, es passt nicht! Ich brauche Größe L, nicht S",
+    "groupCode": 1
+  },
+  {
+    "id": 10525,
+    "en": "Good afternoon, which size are you looking for?",
+    "de": "Guten Tag, welche Größe suchen Sie?",
+    "groupCode": 1
+  },
+  {
+    "id": 10526,
+    "en": "Excuse me, where is the elevator?",
+    "de": "Entschuldigung, wo ist der Aufzug?",
+    "groupCode": 1
+  },
+  {
+    "id": 10527,
+    "en": "The shoes are too big",
+    "de": "Die Schuhe sind zu groß",
+    "groupCode": 1
+  },
+  {
+    "id": 10528,
+    "en": "Your sweater is ugly",
+    "de": "Dein Pullover ist hässlich",
+    "groupCode": 1
+  },
+  {
+    "id": 10529,
+    "en": "The suit jacket isn't stylish",
+    "de": "Das Sakko ist nicht schick",
+    "groupCode": 1
+  },
+  {
+    "id": 10530,
+    "en": "The jeans are for my father",
+    "de": "Die Jeans sind für meinen Vater",
+    "groupCode": 1
+  },
+  {
+    "id": 10531,
+    "en": "Do you like the t-shirt, Nina? Yes, but it doesn't fit",
+    "de": "Magst du das T-Shirt, Nina? Ja, aber er passt nicht",
+    "groupCode": 1
+  },
+  {
+    "id": 10532,
+    "en": "Do you need to buy new clothes?",
+    "de": "Musst du neue Kleidung kaufen?",
+    "groupCode": 1
+  },
+  {
+    "id": 10533,
+    "en": "My friends like to go to the department store",
+    "de": "Meine Freunde gehen gern ins Kaufhaus",
+    "groupCode": 1
+  },
+  {
+    "id": 10534,
+    "en": "I would like to buy a shirt in size L",
+    "de": "Ich möchte ein hemd in Größe L kaufen",
+    "groupCode": 1
+  },
+  {
+    "id": 10535,
+    "en": "I don't like my work. I have a job interview on Monday",
+    "de": "Ich mag meine Arbeit nicht. Ich habe am Montag ein Jobinterview",
+    "groupCode": 1
+  },
+  {
+    "id": 10536,
+    "en": "The department store is open until seven",
+    "de": "Das Kaufhaus ist bis sieben geöffnet",
+    "groupCode": 1
+  },
+  {
+    "id": 10537,
+    "en": "The size doesn't fit",
+    "de": "Die Größe passt nicht",
+    "groupCode": 1
+  },
+  {
+    "id": 10538,
+    "en": "Do you have to buy a blouse? Yes, I have to buy a blouse",
+    "de": "Musst du eine Bluse Kaufen? Ja, Ich muss eine Bluse kaufen",
+    "groupCode": 1
+  },
+  {
+    "id": 10539,
+    "en": "Sorry, which size do you need?",
+    "de": "Entschuldigung welche Größe brauchen sie",
+    "groupCode": 1
+  },
+  {
+    "id": 10540,
+    "en": "The shirt is so ugly",
+    "de": "Das Hemd ist so hässlich",
+    "groupCode": 1
+  },
+  {
+    "id": 10541,
+    "en": "Yes, my grandpa likes the shoes. I would like to buy the shoes for my grandpa",
+    "de": "Ja, mein Opa mag die Schuhe. Ich möchte die Schuhe fur meinen Opa kaufen",
+    "groupCode": 1
+  },
+  {
+    "id": 10542,
+    "en": "I need shoes. I am going hiking on the weekend",
+    "de": "Ich brauche Schuhe. Ich gehe am Wochenende wandern",
+    "groupCode": 1
+  },
+  {
+    "id": 10543,
+    "en": "Where is your friend from?",
+    "de": "Woher kommt dein Freund?",
+    "groupCode": 1
+  },
+  {
+    "id": 10544,
+    "en": "I have a date later but I'm a little sick",
+    "de": "Ich habe später ein Date aber Ich bin ein bisschen krank",
+    "groupCode": 1
+  },
+  {
+    "id": 10545,
+    "en": "I have a headache. This is not good. You have to go to a doctor",
+    "de": "Ich habe Kopfschmerzen. Das ist nicht gut. Du musst zum Arzt gehen",
+    "groupCode": 1
+  },
+  {
+    "id": 10546,
+    "en": "I don't want to be sick",
+    "de": "Ich will nicht krank sein",
+    "groupCode": 1
+  },
+  {
+    "id": 10547,
+    "en": "I have a date tonight",
+    "de": "Ich habe heute Abend ein Date",
+    "groupCode": 1
+  },
+  {
+    "id": 10548,
+    "en": "She is intelligent, she is also funny",
+    "de": "Sie ist intelligent, ist sie auch lustig",
+    "groupCode": 1
+  },
+  {
+    "id": 10549,
+    "en": "The round-trip ticket costs thirty euros",
+    "de": "Die Hin-und Rückfahrt kostet dreißig Euro",
+    "groupCode": 1
+  },
+  {
+    "id": 10550,
+    "en": "Two tickets costs thirty euros",
+    "de": "Zwei fahrkarten kosten dreißig Euro",
+    "groupCode": 1
+  },
+  {
+    "id": 10551,
+    "en": "Good morning! I would like a ticket to Vienna, please",
+    "de": "Guten Morgen! Ich mochte eine Fahrkarte nach Wien, bitte",
+    "groupCode": 1
+  },
+  {
+    "id": 10552,
+    "en": "Hope to hear you",
+    "de": "Auf Wiederhören",
+    "groupCode": 1
+  },
+  {
+    "id": 10553,
+    "en": "The weather is raining this morning",
+    "de": "Das wetter ist heute Morgem regnet",
+    "groupCode": 1
+  },
+  {
+    "id": 10554,
+    "en": "See you tomorrow",
+    "de": "Bis morgen",
     "groupCode": 1
   }
 ]

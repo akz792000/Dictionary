@@ -346,5 +346,17 @@
     "en": "Find",
     "de": "\n finde \n findest \n findet \n finden \n findet \n finden",
     "groupCode": 1
+  },
+  {
+    "id": 20059,
+    "en": "Buy",
+    "de": "\n kaufe \n kaufst \n kauft \n kaufen \n kauft \n kaufen",
+    "groupCode": 1
+  },
+  {
+    "id": 20060,
+    "en": "Buy",
+    "de": "\n suche \n suchst \n sucht \n suchen \n sucht \n suchen",
+    "groupCode": 1
   }
 ]
