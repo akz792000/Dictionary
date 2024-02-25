@@ -2534,7 +2534,7 @@
   },
   {
     "id": 2421,
-    "fa": "بزار بدونم به محض اتمام کارت",
+    "fa": "بزار بدونم به محض انجام دادن",
     "en": "Let me know once you're done",
     "groupCode": 0
   },
@@ -2758,7 +2758,7 @@
   },
   {
     "id": 2458,
-    "fa": "من به شما هشدار می دهم تحقیق و دقت لازم خود را انجام دهی قبل از پذیرش پیشنهاد شغلی",
+    "fa": "من به شما هشدار می دهم (فرضی) تحقیق و دقت لازم خود را انجام دهی قبل از پذیرش پیشنهاد شغلی",
     "en": "I would caution you to do your own research and due diligence before accepting the job offer",
     "groupCode": 0
   },
@@ -2782,7 +2782,7 @@
   },
   {
     "id": 2462,
-    "fa": "چرا از شما دارن می پرسند که شهادت دهید؟",
+    "fa": "چرا داره از شما پرسیده میشه که شهادت دهید؟",
     "en": "\n 1.Why are you being asked to attest? \n 2.Why are you being asked to testify?",
     "groupCode": 0
   },
@@ -2854,8 +2854,8 @@
   },
   {
     "id": 2474,
-    "fa": "رفتم ماشینم را پارک کنم، اما متوجه شدم که چرخ عقب سمت چپ روی جدول است",
-    "en": "I went to park my car, but I noticed that the left rear wheel was on curbstone",
+    "fa": "وقتی ماشینم را پارک کردم، متوجه شدم که چرخ عقب سمت چپ روی جدول است",
+    "en": "When I parked my car, I noticed that the left rear wheel was on curbstone",
     "groupCode": 0
   },
   {
