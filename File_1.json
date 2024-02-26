@@ -2764,8 +2764,9 @@
   },
   {
     "id": 2459,
-    "fa": "اطمینان حاصل کنید شما درک واضحی از هزینه زندگی دارید و اینکه حقوق پیشنهاد شده برای پوشش هزینه های شما کافی است",
+    "fa": "اطمینان حاصل کنید شما درک واضحی از هزینه زندگی دارید و اینکه حقوق پیشنهاد شده (در حال حاضر) برای پوشش هزینه های شما کافی است",
     "en": "Make sure you have a clear understanding of the cost of living and whether the salary being offered is sufficient to cover your expenses",
+    "desc": "The salary being offered\":\n\nThis construction places emphasis on the fact that there is a salary, and it is currently being offered or presented. It's a more complete sentence where \"The salary\" is the subject, and \"being offered\" is a present participle phrase describing the current action.\n\"Offered-salary\":\n\nThis construction is a bit more concise and treats \"offered\" as an adjective modifying \"salary.\" It is common in some contexts, especially in titles or headings, to use this kind of hyphenated phrase for brevity. It places equal emphasis on both parts but may be considered more streamlined or technical.",
     "groupCode": 0
   },
   {
@@ -2872,13 +2873,13 @@
   },
   {
     "id": 2477,
-    "fa": "صحبت آنها را در راهرو ناخواسته شنیدم",
+    "fa": "مکالمه آنها را در راهرو ناخواسته شنیدم",
     "en": "I overheard their conversation in the hallway",
     "groupCode": 0
   },
   {
     "id": 2478,
-    "fa": "ما راه های خود را جداگانه خواهیم رفت",
+    "fa": "ما راه های جداگانه خود را خواهیم رفت",
     "en": "We'll go our separate ways",
     "groupCode": 0
   },
@@ -2914,13 +2915,13 @@
   },
   {
     "id": 2484,
-    "fa": "اگه بری من ناراحت نمیشم",
+    "fa": "اگه شما ترک کنی من ناراحت نخواهم شد",
     "en": "If you leave I won't be offended",
     "groupCode": 0
   },
   {
     "id": 2485,
-    "fa": "این تنها کلمه ای است که براستی توصیف می کند آن شخص را",
+    "fa": "این تنها کلمه ای است که براستی توصیف می کند آن شخص چیست",
     "en": "This is the only word that truly describes what that person is",
     "groupCode": 0
   },
@@ -2952,6 +2953,18 @@
     "id": 2490,
     "fa": "فکر می کنم باید دو یا سه اسلاید جلوتر را به من بدهی",
     "en": "I think you should give me two or three slides forward",
+    "groupCode": 0
+  },
+  {
+    "id": 2491,
+    "fa": "من ساعت 09:30 قرار دارم و ممکن است کمی سخت باشد برای رسیدن (گرفتن) دیلی",
+    "en": "I have an appointment at 09:30 and it might be a bit tight to catch the daily",
+    "groupCode": 0
+  },
+  {
+    "id": 2492,
+    "fa": "هیچ به روز رسانی از طرف من در مورد هر گونه وظایف اسپرینت وجود ندارد. فقط در صورتی که نتوانم (فرضی) به تماس برسم",
+    "en": "No updates from my side regarding any sprint tasks. Just in case I couldn't make it to the call",
     "groupCode": 0
   }
 ]
