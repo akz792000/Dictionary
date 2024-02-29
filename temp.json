@@ -121,12 +121,7 @@
     "en": "",
     "groupCode": 0
   }
-  {
-    "id":,
-    "fa": "فداکاری بی وقفه او برای بهتر شدن در بازی منجر به پیشرفت قابل توجهی در مهارت های او شد",
-    "en": "His relentless dedication to getting better at the game led to significant improvements in his skills",
-    "groupCode": 0
-  }
+
   {
     "id":,
     "fa": "او (مرد) تو را به خاطر متفاوت بودنش تحقیر کرد",
@@ -185,12 +180,6 @@
     "id":,
     "fa": "طبق مطالعات, تقریباً 70 درصد پروژه های نرم افزاری به موقع تحویل داده نمی شوند",
     "en": "According to studies, approximately 70% of software projects are not delivered on time",
-    "groupCode": 0
-  },
-  {
-    "id":,
-    "fa": "صحبت در مورد راه حل منطقی نیست قبل از اینکه در مورد مشکل به توافق برسیم, و بی معنی است که در مورد گامهای اجرا صحبت کنی مقبل از اینکه در مورد راه حل به توافق برسیم",
-    "en": "There is no sense in talking about the solution before we agree on the problem, and no sense talking about the implementation steps before we agree on the solution",
     "groupCode": 0
   },
   {

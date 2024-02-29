@@ -2729,7 +2729,7 @@
   {
     "id": 2453,
     "fa": "خیلی زود است برای اون",
-    "en": "It's far too early for that",
+    "en": "It's too early for that",
     "groupCode": 0
   },
   {
@@ -2946,7 +2946,7 @@
   {
     "id": 2489,
     "fa": "بهترین کوله پشتی سبک و ضد آب برای حمل لپ تاپ چیست؟",
-    "en": "What is the best lightweight and waterproof backpack for carrying laptops?",
+    "en": "What is the best lightweight and waterproof backpack for carrying laptop?",
     "groupCode": 0
   },
   {
@@ -2958,13 +2958,151 @@
   {
     "id": 2491,
     "fa": "من ساعت 09:30 قرار دارم و ممکن است کمی سخت باشد برای رسیدن (گرفتن) دیلی",
-    "en": "I have an appointment at 09:30 and it might be a bit tight to catch the daily",
+    "en": "I have an appointment at 09:30 and it might be a bit difficult to catch the daily",
     "groupCode": 0
   },
   {
     "id": 2492,
     "fa": "هیچ به روز رسانی از طرف من در مورد هر گونه وظایف اسپرینت وجود ندارد. فقط در صورتی که نتوانم (فرضی) به تماس برسم",
     "en": "No updates from my side regarding any sprint tasks. Just in case I couldn't make it to the call",
+    "groupCode": 0
+  },
+  {
+    "id": 2493,
+    "fa": "لطفا اصلاحم کنید اگر اشتباه می کنم",
+    "en": "Please correct me if I'm wrong",
+    "groupCode": 0
+  },
+  {
+    "id": 2494,
+    "fa": "شما در مسیر درستی هستید، اما اجازه دهید به من چند نکته را روشن و تصحیح کنم",
+    "en": "You're on the right track, but let me clarify and correct a few points",
+    "groupCode": 0
+  },
+  {
+    "id": 2495,
+    "fa": "درست متوجه من شدی",
+    "en": "You got me correctly",
+    "groupCode": 0
+  },
+  {
+    "id": 2496,
+    "fa": "با این عجله کجا داری میری؟",
+    "en": "Where are you off in such a hurry?",
+    "groupCode": 0
+  },
+  {
+    "id": 2497,
+    "fa": "وضعیت اقامت آلمان شما چگونه است؟",
+    "en": "What is your german residence status?",
+    "groupCode": 0
+  },
+  {
+    "id": 2498,
+    "fa": "چگونه از ملک استفاده خواهید کرد؟",
+    "en": "How will you use the property?",
+    "groupCode": 0
+  },
+  {
+    "id": 2499,
+    "fa": "آیا دوره آزمایشی خود را گذرانده اید؟",
+    "en": "Have you passed your probation period?",
+    "groupCode": 0
+  },
+  {
+    "id": 2500,
+    "fa": "در مورد چه چیزی بیشتر کنجکاو هستید؟",
+    "en": "What are you most curious about?",
+    "groupCode": 0
+  },
+  {
+    "id": 2501,
+    "fa": "چه نوع ملکی را در نظر دارید بخرید؟",
+    "en": "What type of property are you considering buying?",
+    "groupCode": 0
+  },
+  {
+    "id": 2502,
+    "fa": "در کدام شهر به دنبال خرید هستید؟",
+    "en": "In which city are you looking to buy?",
+    "groupCode": 0
+  },
+  {
+    "id": 2503,
+    "fa": "درآمد خالص ماهانه شما چقدر است؟",
+    "en": "What is your net monthly income?",
+    "groupCode": 0
+  },
+  {
+    "id": 2504,
+    "fa": "آیا دارید برنامه ریزی می کنید تا بخرید با نفر دوم؟",
+    "en": "Are you planning to buy with a second person?",
+    "groupCode": 0
+  },
+  {
+    "id": 2505,
+    "fa": "هر ماه چقدر می توانید به پرداخت وام مسکن خود اختصاص دهید؟",
+    "en": "How much can you dedicate to your mortgage payments every month?",
+    "groupCode": 0
+  },
+  {
+    "id": 2506,
+    "fa": "چه مقدار از پس انداز خود را می توانید به خرید خود اختصاص دهید؟",
+    "en": "How much of your savings can you dedicate to your purchase?",
+    "groupCode": 0
+  },
+  {
+    "id": 2507,
+    "fa": "آیا در حال حاضر صاحب خانه در آلمان هستید؟",
+    "en": "Are you already a homeowner in Germany?",
+    "groupCode": 0
+  },
+  {
+    "id": 2508,
+    "fa": "چقدر اجاره سرد برای خانه خود می پردازید؟",
+    "en": "How much cold rent are you paying for your home?",
+    "groupCode": 0
+  },
+  {
+    "id": 2509,
+    "fa": "آیا شما بالای 30 سال هستی؟",
+    "en": "Are you over 30 years old?",
+    "groupCode": 0
+  },
+  {
+    "id": 2510,
+    "fa": "من خوابم برد",
+    "en": "I fell asleep",
+    "groupCode": 0
+  },
+  {
+    "id": 2511,
+    "fa": "باردار هستید یا شیردهی؟",
+    "en": "Are you pregnant or breastfeeding?",
+    "groupCode": 0
+  },
+  {
+    "id": 2512,
+    "fa": "هر روز چقدر برای خودتان وقت دارید؟",
+    "en": "How much time do you have for yourself every day?",
+    "groupCode": 0
+  },
+  {
+    "id": 2513,
+    "fa": "چند ساعت میخوابی؟",
+    "en": "How many hours do you sleep?",
+    "groupCode": 0
+  },
+  {
+    "id": 2514,
+    "fa": "فداکاری بی وقفه او برای بهتر شدن در بازی منجر به پیشرفت قابل توجهی در مهارت های او شد",
+    "en": "His relentless dedication to getting better at the game led to significant improvements in his skills",
+    "groupCode": 0
+  },
+  {
+    "id": 2515,
+    "fa": "صحبت در مورد راه حل منطقی نیست قبل از اینکه در مورد مشکل به توافق برسیم, و بی معنی است که در مورد گامهای اجرا صحبت کنی مقبل از اینکه در مورد راه حل به توافق برسیم",
+    "en": "There is no sense in talking about the solution before we agree on the problem, and no sense talking about the implementation steps before we agree on the solution",
     "groupCode": 0
   }
 ]

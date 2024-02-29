@@ -117,7 +117,7 @@
   {
     "id": 10020,
     "en": "Good evening. My name is Ali and I study philosophy in Munich",
-    "de": "Guten abend. Ich heiß' Ali und ich studier' Philosophie in München",
+    "de": "Guten abend. Ich heiße Ali und ich studiere Philosophie in München",
     "groupCode": 1
   },
   {
@@ -2748,7 +2748,7 @@
   },
   {
     "id": 10455,
-    "en": "I want to go to the café, but till when is it open?",
+    "en": "I would like to go to the café, but till when is it open?",
     "de": "Ich möchte ins Café gehen, aber bis wann ist es geöffnet?",
     "groupCode": 1
   },
@@ -3114,7 +3114,7 @@
   },
   {
     "id": 10516,
-    "en": "What do you want to buy?",
+    "en": "What would you like to buy?",
     "de": "Was möchtest du kaufen?",
     "groupCode": 1
   },
@@ -3306,8 +3306,8 @@
   },
   {
     "id": 10548,
-    "en": "She is intelligent, she is also funny",
-    "de": "Sie ist intelligent, ist sie auch lustig",
+    "en": "She is intelligent, is she also funny?",
+    "de": "Sie ist intelligent, ist sie auch lustig?",
     "groupCode": 1
   },
   {

@@ -1094,7 +1094,7 @@
   {
     "id": 182,
     "fa": "به تو ربطی نداره",
-    "en": "\n 1.It's not your concern \n 2.It doesn't concern you",
+    "en": "\n 1.It's not your concern \n 2.It doesn't concern you \n 3.It's not up to you",
     "groupCode": 0
   },
   {
@@ -3432,8 +3432,8 @@
   },
   {
     "id": 569,
-    "fa": "داری کجا میری؟ من به رختخواب می روم",
-    "en": "Where are you off to? I am off to bed",
+    "fa": "داری کجا میری سحر خیز؟ من به رختخواب می روم",
+    "en": "Where are you off to early bird? I am off to bed",
     "groupCode": 0
   },
   {
@@ -5142,7 +5142,7 @@
   },
   {
     "id": 849,
-    "fa": "او (مرد) همیشه کار درست را انجام می دهد",
+    "fa": "او (مرد) همیشه چیز (کار) درست را انجام می دهد",
     "en": "He always does the right thing",
     "groupCode": 0
   },
@@ -7464,8 +7464,8 @@
   },
   {
     "id": 1230,
-    "fa": "چطور تو بودی؟",
-    "en": "How have you been?",
+    "fa": "البته, من انتظار دیگری ندارم",
+    "en": "Of course, I wouldn't expect anything else",
     "groupCode": 0
   },
   {
@@ -8881,8 +8881,8 @@
   },
   {
     "id": 1464,
-    "fa": "به شما مربوط نیست",
-    "en": "It's not up to you",
+    "fa": "این کمترین کاری است که می توانم برای قدردانی انجام دهم",
+    "en": "This is the least, I could do in appreciation",
     "groupCode": 0
   },
   {
@@ -11451,7 +11451,7 @@
   },
   {
     "id": 1889,
-    "fa": "تقریبا 3 سال از ما وقت گرفته",
+    "fa": "تقریبا 3 سال از ما گرفته است",
     "en": "It has taken us almost 3 years",
     "groupCode": 0
   },
