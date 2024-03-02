@@ -38,7 +38,7 @@
   {
     "id": 2007,
     "fa": "ورق بزن و به صفحه بعد نگاه کن",
-    "en": "Turn over and look at the next page",
+    "en": "Turn the page and look at the next page",
     "groupCode": 0
   },
   {
@@ -1510,7 +1510,7 @@
   },
   {
     "id": 2251,
-    "fa": "به نظر می رسد هر روز بدتر می شود",
+    "fa": "به نظر می رسد داره هر روز بدتر می شود",
     "en": "Seems like it's getting worse everyday",
     "groupCode": 0
   },
@@ -2819,8 +2819,8 @@
   },
   {
     "id": 2468,
-    "fa": "آنقدرها هم نشده است",
-    "en": "It hasn't been that long",
+    "fa": "از آخرین باری که با هم صحبت کردیم زیاد نگذشته است",
+    "en": "It hasn't been that long since we last spoke",
     "groupCode": 0
   },
   {
@@ -2957,8 +2957,8 @@
   },
   {
     "id": 2491,
-    "fa": "من ساعت 09:30 قرار دارم و ممکن است کمی سخت باشد برای رسیدن (گرفتن) دیلی",
-    "en": "I have an appointment at 09:30 and it might be a bit difficult to catch the daily",
+    "fa": "من ساعت 9:30 قرار دارم و ممکن است کمی سخت باشد برای رسیدن (گرفتن) دیلی",
+    "en": "I have an appointment at 9:30 and it might be a bit difficult to catch the daily",
     "groupCode": 0
   },
   {
@@ -2988,12 +2988,12 @@
   {
     "id": 2496,
     "fa": "با این عجله کجا داری میری؟",
-    "en": "Where are you off in such a hurry?",
+    "en": "Where are you off to in such a hurry?",
     "groupCode": 0
   },
   {
     "id": 2497,
-    "fa": "وضعیت اقامت آلمان شما چگونه است؟",
+    "fa": "وضعیت اقامت آلمان شما چجوریه؟",
     "en": "What is your german residence status?",
     "groupCode": 0
   },
@@ -3023,7 +3023,7 @@
   },
   {
     "id": 2502,
-    "fa": "در کدام شهر به دنبال خرید هستید؟",
+    "fa": "در کدام شهر داری می گردی برای خریدن؟",
     "en": "In which city are you looking to buy?",
     "groupCode": 0
   },
@@ -3047,19 +3047,19 @@
   },
   {
     "id": 2506,
-    "fa": "چه مقدار از پس انداز خود را می توانید به خرید خود اختصاص دهید؟",
+    "fa": "چه مقدار از پس انداز خود را می توانید شما به خرید خود اختصاص دهید؟",
     "en": "How much of your savings can you dedicate to your purchase?",
     "groupCode": 0
   },
   {
     "id": 2507,
-    "fa": "آیا در حال حاضر صاحب خانه در آلمان هستید؟",
+    "fa": "آیا در حال حاضر یک صاحب خانه در آلمان هستید؟",
     "en": "Are you already a homeowner in Germany?",
     "groupCode": 0
   },
   {
     "id": 2508,
-    "fa": "چقدر اجاره سرد برای خانه خود می پردازید؟",
+    "fa": "چقدر اجاره سرد برای خانه خود دارید می پردازید؟",
     "en": "How much cold rent are you paying for your home?",
     "groupCode": 0
   },
@@ -3083,7 +3083,7 @@
   },
   {
     "id": 2512,
-    "fa": "هر روز چقدر برای خودتان وقت دارید؟",
+    "fa": "چقدر زمان برای خودتان دارید هر روز؟",
     "en": "How much time do you have for yourself every day?",
     "groupCode": 0
   },
@@ -3095,14 +3095,68 @@
   },
   {
     "id": 2514,
-    "fa": "فداکاری بی وقفه او برای بهتر شدن در بازی منجر به پیشرفت قابل توجهی در مهارت های او شد",
+    "fa": "فداکاری بی وقفه او (مرد) برای بهتر شدن در بازی منجر به بهبودها قابل توجهی در مهارت های او شد",
     "en": "His relentless dedication to getting better at the game led to significant improvements in his skills",
     "groupCode": 0
   },
   {
     "id": 2515,
-    "fa": "صحبت در مورد راه حل منطقی نیست قبل از اینکه در مورد مشکل به توافق برسیم, و بی معنی است که در مورد گامهای اجرا صحبت کنی مقبل از اینکه در مورد راه حل به توافق برسیم",
+    "fa": "هیچ حسی وجود ندارد صحبت کردن در مورد راه حل قبل از اینکه ما در مورد مشکل به توافق برسیم, و حسی وجود ندارد صحبت کردن در مورد گامهای اجرا قبل از اینکه ما در مورد راه حل به توافق برسیم",
     "en": "There is no sense in talking about the solution before we agree on the problem, and no sense talking about the implementation steps before we agree on the solution",
+    "groupCode": 0
+  },
+  {
+    "id": 2516,
+    "fa": "سقف را سوراخ کردم تا یک لوستر زیبا آویزان کنم",
+    "en": "I drilled the ceiling to hang a beautiful chandelier",
+    "groupCode": 0
+  },
+  {
+    "id": 2517,
+    "fa": "مجبور شدم برگردم (بچرخم) و به خانه برگردم چون کیف پولم را فراموش کرده بودم",
+    "en": "I had to turn around and go back home because I forgot my wallet",
+    "groupCode": 0
+  },
+  {
+    "id": 2518,
+    "fa": "جعبه را برگردانید و به پایین آن نگاه کنید",
+    "en": "Turn over the box and look at the bottom",
+    "groupCode": 0
+  },
+  {
+    "id": 2519,
+    "fa": "من به شما حسادت می کنم",
+    "en": "I envy you",
+    "groupCode": 0
+  },
+  {
+    "id": 2520,
+    "fa": "احمق نباش",
+    "en": "Don't be daft",
+    "groupCode": 0
+  },
+  {
+    "id": 2521,
+    "fa": "من جمعه ها (تا لنگ ظهر) میخوابم",
+    "en": "I sleep in on Fridays",
+    "groupCode": 0
+  },
+  {
+    "id": 2522,
+    "fa": "غذای شما افتضاح است",
+    "en": "Your food is abysmal",
+    "groupCode": 0
+  },
+  {
+    "id": 2523,
+    "fa": "این عکس مال چند سال پیشه؟",
+    "en": "How many years ago is this photo from?",
+    "groupCode": 0
+  },
+  {
+    "id": 2524,
+    "fa": "میشه زمان این عکس رو به من بگید",
+    "en": "Can you tell me the time frame of this photo",
     "groupCode": 0
   }
 ]
