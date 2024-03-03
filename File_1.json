@@ -3158,5 +3158,11 @@
     "fa": "میشه زمان این عکس رو به من بگید",
     "en": "Can you tell me the time frame of this photo",
     "groupCode": 0
+  },
+  {
+    "id": 2525,
+    "fa": "من درخواست های مردمی را که نمی شناسم تایید نمی کنم",
+    "en": "I don't approve requests from people I don't know",
+    "groupCode": 0
   }
 ]
