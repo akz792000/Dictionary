@@ -946,7 +946,7 @@
   },
   {
     "id": 10156,
-    "en": "Would you like to go to a cafe? No, I want to sleep now (formal)",
+    "en": "Would you like to go to a cafe? No, I want to sleep now (informal)",
     "de": "Möchtest du in ein Café gehen? Nein, Ich möchte jetzt schlafen",
     "groupCode": 1
   },
@@ -2964,8 +2964,8 @@
   },
   {
     "id": 10491,
-    "en": "The game is on Saturday at three",
-    "de": "Das Speilt ist am Samstag um drei",
+    "en": "The game is on Saturday at half past six",
+    "de": "Das Speilt ist am Samstag um helb sieben",
     "groupCode": 1
   },
   {
@@ -3150,7 +3150,7 @@
   },
   {
     "id": 10522,
-    "en": "Are you searching for a shirt?",
+    "en": "Are you searching for a shirt? (informal)",
     "de": "Suchst du ein Hemd?",
     "groupCode": 1
   },
@@ -3168,7 +3168,7 @@
   },
   {
     "id": 10525,
-    "en": "Good afternoon, which size are you looking for?",
+    "en": "Good afternoon, which size are you looking for? (formal)",
     "de": "Guten Tag, welche Größe suchen Sie?",
     "groupCode": 1
   },
@@ -3300,7 +3300,7 @@
   },
   {
     "id": 10547,
-    "en": "I have a date tonight",
+    "en": "I have a date this evening",
     "de": "Ich habe heute Abend ein Date",
     "groupCode": 1
   },
@@ -3318,14 +3318,14 @@
   },
   {
     "id": 10550,
-    "en": "Two tickets costs thirty euros",
+    "en": "Two tickets cost thirty euros",
     "de": "Zwei fahrkarten kosten dreißig Euro",
     "groupCode": 1
   },
   {
     "id": 10551,
     "en": "Good morning! I would like a ticket to Vienna, please",
-    "de": "Guten Morgen! Ich mochte eine Fahrkarte nach Wien, bitte",
+    "de": "Guten Morgen! Ich möchte eine Fahrkarte nach Wien, bitte",
     "groupCode": 1
   },
   {
@@ -3344,6 +3344,174 @@
     "id": 10554,
     "en": "See you tomorrow",
     "de": "Bis morgen",
+    "groupCode": 1
+  },
+  {
+    "id": 10555,
+    "en": "It is two o'clock",
+    "de": "Es ist zwei Uhr",
+    "groupCode": 1
+  },
+  {
+    "id": 10556,
+    "en": "When is the departure? The departure ist in five minutes",
+    "de": "Wann ist die Abfahrt? Die Abfahrt ist in fünf Minuten",
+    "groupCode": 1
+  },
+  {
+    "id": 10557,
+    "en": "Oh no, the train is too late",
+    "de": "Oh nein, der Zug ist zu Spät",
+    "groupCode": 1
+  },
+  {
+    "id": 10558,
+    "en": "I am coming in ten minutes",
+    "de": "Ich komme in zehn Minuten",
+    "groupCode": 1
+  },
+  {
+    "id": 10559,
+    "en": "Is the train fast?",
+    "de": "Ist der Zug schnell?",
+    "groupCode": 1
+  },
+  {
+    "id": 10560,
+    "en": "Attention, the train has a five-minute delay",
+    "de": "Achtung der zug hat fünf Minuten Verspätung",
+    "groupCode": 1
+  },
+  {
+    "id": 10561,
+    "en": "There is a delay today. The departure is now in spring",
+    "de": "Es gibt heute eine Verspätung. Die Abfahrt ist jetzt im Frühling",
+    "groupCode": 1
+  },
+  {
+    "id": 10562,
+    "en": "Attention, the train to Bonn comes at seven o'clock",
+    "de": "Achtung, Der Zug nach Bonn kommt um sieben Uhr",
+    "groupCode": 1
+  },
+  {
+    "id": 10563,
+    "en": "Where is the ICE to Vienna? The ICE is on track twenty",
+    "de": "Wo ist der ICE nach Wien? Der ICE ist auf Gleis zwanzig",
+    "groupCode": 1
+  },
+  {
+    "id": 10564,
+    "en": "The tickets are in the travel center",
+    "de": "Die Fahrkarten sind im Reisezentrum",
+    "groupCode": 1
+  },
+  {
+    "id": 10565,
+    "en": "I would like to cancel my ticket",
+    "de": "Ich möchte meine Fahrkarte stornieren",
+    "groupCode": 1
+  },
+  {
+    "id": 10566,
+    "en": "Grandpa, would you like to cancel your ticket to Paris?",
+    "de": "Opa, möchtest du deine Fahrkarte nach Paris stornieren?",
+    "groupCode": 1
+  },
+  {
+    "id": 10567,
+    "en": "The train to Vienna is cancelled",
+    "de": "Der Zug nach Wien fällt aus",
+    "groupCode": 1
+  },
+  {
+    "id": 10568,
+    "en": "Do you often pay with credit card?",
+    "de": "Zahlst du oft mit Kreditkarte?",
+    "groupCode": 1
+  },
+  {
+    "id": 10569,
+    "en": "Can you pay at the travel center? (formal)",
+    "de": "Können sie im Reisezentrum zahlen?",
+    "groupCode": 1
+  },
+  {
+    "id": 10570,
+    "en": "I never pay by credit card",
+    "de": "Ich zahle nie mit Kreditkarte",
+    "groupCode": 1
+  },
+  {
+    "id": 10571,
+    "en": "Where is the train door?",
+    "de": "Wo ist die Zugtür?",
+    "groupCode": 1
+  },
+  {
+    "id": 10572,
+    "en": "Is the dining car open?",
+    "de": "Ist der Speisewagen geöffnet?",
+    "groupCode": 1
+  },
+  {
+    "id": 10573,
+    "en": "My seat is in the back",
+    "de": "Mein Sitz ist hinten",
+    "groupCode": 1
+  },
+  {
+    "id": 10574,
+    "en": "Is the seat free? The seat is free",
+    "de": "Ist der Sitz frei? Ja, der Sitz ist frei",
+    "groupCode": 1
+  },
+  {
+    "id": 10575,
+    "en": "Where is the next station?",
+    "de": "Wo ist die nächste Station?",
+    "groupCode": 1
+  },
+  {
+    "id": 10576,
+    "en": "You always come too late",
+    "de": "Du kommst immer zu spät",
+    "groupCode": 1
+  },
+  {
+    "id": 10577,
+    "en": "How much do four tickets cost?",
+    "de": "Wie viel kosten vier Fahrkarten?",
+    "groupCode": 1
+  },
+  {
+    "id": 10578,
+    "en": "My seat is in the back",
+    "de": "Mein Sitz ist hinten",
+    "groupCode": 1
+  },
+  {
+    "id": 10579,
+    "en": "Why don't you like the jacket? It's great, but it doesn't fit",
+    "de": "Warum magst du das Sakko nicht? Es ist toll, aber es passt nicht",
+    "groupCode": 1
+  },
+  {
+    "id": 10580,
+    "en": "Is the ICE coming at four o'clock? And is the ICE on platform ten?",
+    "de": "Kommt der ICE um vier Uhr? Und ist der ICE auf Gleis zehen?",
+    "groupCode": 1
+  },
+  {
+    "id": 10581,
+    "en": "Attention! The train from Berlin to Munich has a delay",
+    "de": "Achtung! der Zug von Berlin nach München hat eine Verspätung",
+    "groupCode": 1
+  },
+  {
+    "id": 10582,
+    "en": "He arrives twenty minuts too late on platform two",
+    "de": "Er kommt zwanzig Minuten zu spät auf Gleis zwei",
     "groupCode": 1
   }
 ]
