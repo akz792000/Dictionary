@@ -3513,5 +3513,11 @@
     "en": "He arrives twenty minuts too late on platform two",
     "de": "Er kommt zwanzig Minuten zu spät auf Gleis zwei",
     "groupCode": 1
+  },
+  {
+    "id": 10583,
+    "en": "The train is not on platform eight. The train comes at two o'clock",
+    "de": "Der Zug ist nicht auf Gleis acht. Der Zug kommt um zwei Uhr",
+    "groupCode": 1
   }
 ]

@@ -630,8 +630,8 @@
   },
   {
     "id": 2105,
-    "fa": "من شک دارم در مورد کاری که برای شما انجام می دهند",
-    "en": "I'm a sceptic on what they do for you",
+    "fa": "من کمی شک دارم در مورد کاری که برای شما انجام می دهند",
+    "en": "I'm a bit skeptical on what they do for you",
     "groupCode": 0
   },
   {
@@ -3017,7 +3017,7 @@
   },
   {
     "id": 2501,
-    "fa": "چه نوع ملکی را در نظر دارید بخرید؟",
+    "fa": "چه نوع ملکی را داری در نظر میگیری بخری؟",
     "en": "What type of property are you considering buying?",
     "groupCode": 0
   },
@@ -3115,12 +3115,14 @@
     "id": 2517,
     "fa": "مجبور شدم برگردم (بچرخم) و به خانه برگردم چون کیف پولم را فراموش کرده بودم",
     "en": "I had to turn around and go back home because I forgot my wallet",
+    "desc": "Turn over: Typically refers to revenue, sales, or flipping an object.\nTurn around: Generally means to reverse direction, or in a business context, to achieve a positive change or improvement",
     "groupCode": 0
   },
   {
     "id": 2518,
-    "fa": "جعبه را برگردانید و به پایین آن نگاه کنید",
+    "fa": "جعبه را برگردان و به پایین نگاه کن",
     "en": "Turn over the box and look at the bottom",
+    "desc": "Turn over: Typically refers to revenue, sales, or flipping an object.\nTurn around: Generally means to reverse direction, or in a business context, to achieve a positive change or improvement",
     "groupCode": 0
   },
   {
@@ -3155,14 +3157,50 @@
   },
   {
     "id": 2524,
-    "fa": "میشه زمان این عکس رو به من بگید",
+    "fa": "میشه زمان (دوره زمانی) این عکس رو به من بگید",
     "en": "Can you tell me the time frame of this photo",
     "groupCode": 0
   },
   {
     "id": 2525,
-    "fa": "من درخواست های مردمی را که نمی شناسم تایید نمی کنم",
+    "fa": "من درخواست های از مردمی را که نمی شناسم تایید نمی کنم",
     "en": "I don't approve requests from people I don't know",
+    "groupCode": 0
+  },
+  {
+    "id": 2526,
+    "fa": "وقتی چیزی را قول می دهم، اصلا و ابدا آن قول را نمی شکنم",
+    "en": "When I promise something, I never ever break that promise",
+    "groupCode": 0
+  },
+  {
+    "id": 2527,
+    "fa": "مبلمان را گردگیری می کنم سپس لباس ها را آویزان می کنم تا خشک شوند",
+    "en": "I dust the furniture then hang the clothes to dry",
+    "groupCode": 0
+  },
+  {
+    "id": 2528,
+    "fa": "لباس هایم را تا می کنم",
+    "en": "I fold my clothes",
+    "groupCode": 0
+  },
+  {
+    "id": 2529,
+    "fa": "تو هرگز نخواهی فهمید جهنمی را که در درونم احساس می کنم",
+    "en": "You'll never understand the hell I feel inside me",
+    "groupCode": 0
+  },
+  {
+    "id": 2530,
+    "fa": "من آب (بدون گاز) را به آب گازدار ترجیح می دهم",
+    "en": "I prefer still water to sparkling water",
+    "groupCode": 0
+  },
+  {
+    "id": 2531,
+    "fa": "در میان گزینه های در منو، یکی مانده به آخر توجه من را جلب کرد",
+    "en": "Among the choices on the menu, one left to last caught my eye",
     "groupCode": 0
   }
 ]
