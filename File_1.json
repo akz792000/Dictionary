@@ -3019,6 +3019,7 @@
     "id": 2501,
     "fa": "چه نوع ملکی را داری در نظر میگیری بخری؟",
     "en": "What type of property are you considering buying?",
+    "desc": "The first sentence, \"What type of property are you considering buying?\" is more commonly used and sounds more natural. It follows a common structure in English where the verb \"considering\" is followed directly by the gerund form of the verb \"buy\" (buying).\n\nThe second sentence, \"What type of property are you considering to buy?\" is grammatically correct but might be considered a bit less common. In this case, \"considering\" is followed by the infinitive form of the verb \"to buy.\"",
     "groupCode": 0
   },
   {
@@ -3101,7 +3102,7 @@
   },
   {
     "id": 2515,
-    "fa": "هیچ حسی وجود ندارد صحبت کردن در مورد راه حل قبل از اینکه ما در مورد مشکل به توافق برسیم, و حسی وجود ندارد صحبت کردن در مورد گامهای اجرا قبل از اینکه ما در مورد راه حل به توافق برسیم",
+    "fa": "هیچ حسی وجود ندارد صحبت کردن در مورد راه حل قبل از اینکه ما در مورد مشکل به توافق برسیم, و حسی وجود ندارد صحبت کردن در مورد گامهای پیاده سازی قبل از اینکه ما در مورد راه حل به توافق برسیم",
     "en": "There is no sense in talking about the solution before we agree on the problem, and no sense talking about the implementation steps before we agree on the solution",
     "groupCode": 0
   },
@@ -3157,7 +3158,7 @@
   },
   {
     "id": 2524,
-    "fa": "میشه زمان (دوره زمانی) این عکس رو به من بگید",
+    "fa": "می تونی زمان (دوره زمانی) این عکس رو به من بگید",
     "en": "Can you tell me the time frame of this photo",
     "groupCode": 0
   },
@@ -3199,8 +3200,124 @@
   },
   {
     "id": 2531,
-    "fa": "در میان گزینه های در منو، یکی مانده به آخر توجه من را جلب کرد",
+    "fa": "در میان انتخاب ها در منو، یکی مانده به آخر توجه من را جلب کرد",
     "en": "Among the choices on the menu, one left to last caught my eye",
+    "groupCode": 0
+  },
+  {
+    "id": 2532,
+    "fa": "من هوا تو دارم",
+    "en": "I got your back",
+    "groupCode": 0
+  },
+  {
+    "id": 2533,
+    "fa": "ما دو سال اختلاف داریم",
+    "en": "We are two years apart",
+    "groupCode": 0
+  },
+  {
+    "id": 2534,
+    "fa": "من قلقلکیم",
+    "en": "I'm ticklish",
+    "groupCode": 0
+  },
+  {
+    "id": 2535,
+    "fa": "من قلقلکیم",
+    "en": "I'm ticklish",
+    "groupCode": 0
+  },
+  {
+    "id": 2536,
+    "fa": "حرف بیهوده نزن",
+    "en": "Don't talk nonsense",
+    "groupCode": 0
+  },
+  {
+    "id": 2537,
+    "fa": "دو روز پیش مچ پایم پیچ خورد وقتی داشتم پینگ پنگ بازی می کردم",
+    "en": "Two days ago, my ankle got twisted while I was playing ping pong",
+    "groupCode": 0
+  },
+  {
+    "id": 2538,
+    "fa": "دو گزینه دسر به من پیشنهاد شد، اما هیچ کدام را دوست ندارم",
+    "en": "\n 1.I was offered two dessert options, but I like neither of them \n 2.I was offered two dessert options, but I don't like either of them",
+    "groupCode": 0
+  },
+  {
+    "id": 2539,
+    "fa": "من سعی می کنم حفظ کنم یک سبک زندگی سالم را با ورزش منظم و خوردن غذایی مغذی",
+    "en": "I try to sustain a healthy lifestyle by exercising regularly and eating nutritious meals",
+    "groupCode": 0
+  },
+  {
+    "id": 2540,
+    "fa": "من 15ام میرسم",
+    "en": "I will be arriving on the 15th",
+    "desc": "will be arrived: This construction is grammatically incorrect. \"Arrive\" is not a verb that can be used in the passive voice in this context",
+    "groupCode": 0
+  },
+  {
+    "id": 2541,
+    "fa": "من با ظرافت در 15ام وارد می شوم, با دقت هماهنگ شده برنامه سفر من برای اطمینان دادن به یک ورود یکپارچه و سروقت",
+    "en": "I will be gracefully arriving on the 15th, having meticulously coordinated my travel itinerary to ensure a seamless and punctual entrance",
+    "desc": "The structure \"having + past participle\" is called a present perfect participle. It indicates that one action (in this case, \"having meticulously coordinated\") occurred before another action (arriving). It's a way to express a sequence of events where the first action happened before the main action.\n\nHere's a breakdown:\n\n\"I will be gracefully arriving on the 15th\": This is the main action, indicating the future arrival.\n\"having meticulously coordinated my travel itinerary\": This is the action that occurred before the main action, providing additional information about the preparation for the arrival.\nIn general, we use \"having + past participle\" in situations where we want to show a chronological order of events, with the action after \"having\" happening before the main action in the sentence. It adds a sense of completion or preparation to the main action.",
+    "groupCode": 0
+  },
+  {
+    "id": 2542,
+    "fa": "مادرم تمام روز را در خانه گذراند",
+    "en": "My mother spent the entire day at home",
+    "groupCode": 0
+  },
+  {
+    "id": 2543,
+    "fa": "وقتی رسیدند سر و صدا را شنیدند",
+    "en": "When they arrived, they heard the noise",
+    "groupCode": 0
+  },
+  {
+    "id": 2544,
+    "fa": "من معمولاً سفر را برعهده می گیرم بوسیله ماشین خودم",
+    "en": "I usually undertake travel by means of my own car",
+    "groupCode": 0
+  },
+  {
+    "id": 2545,
+    "fa": "من معمولا با ماشین سفر می کنم",
+    "en": "I usually travel by car",
+    "groupCode": 0
+  },
+  {
+    "id": 2546,
+    "fa": "مهم است احترام گذاشتن به حریف",
+    "en": "It's important to respect the opponent",
+    "groupCode": 0
+  },
+  {
+    "id": 2547,
+    "fa": "هشت نفر از آنها وجود دارد، بنابراین آنها نمی توانند همه با هم بنشینند",
+    "en": "There are eight of them, so they can't all sit together",
+    "groupCode": 0
+  },
+  {
+    "id": 2548,
+    "fa": "من همه جا دنبال کتاب گشتم",
+    "en": "I've been looking for the book everywhere",
+    "groupCode": 0
+  },
+  {
+    "id": 2549,
+    "fa": "شما ممکن است نیاز داشته باشید یک جفت عینک برای خواندن این",
+    "en": "You may need a pair of glasses to read this",
+    "groupCode": 0
+  },
+  {
+    "id": 2550,
+    "fa": "هیچ کس نمی توانست بشنود چه چیزی آنها داشتند می گفتند",
+    "en": "Nobody could hear what they were saying",
     "groupCode": 0
   }
 ]

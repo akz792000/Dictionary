@@ -1475,7 +1475,7 @@
   },
   {
     "id": 245,
-    "fa": "من تقریبا روی سشوارت افتادم در راه دستشویی",
+    "fa": "من تقریبا روی سشوارت افتادم در راه حمام",
     "en": "I almost fell over your hairdryer on the way to the bathroom",
     "groupCode": 0
   },
@@ -3981,7 +3981,7 @@
   },
   {
     "id": 659,
-    "fa": "به هر حال، به طور خلاصه، من به خاطر نوشتن گرافیتی روی کابین های دستشویی اخراج شدم",
+    "fa": "به هر حال، به طور خلاصه، من به خاطر نوشتن گرافیتی روی کابین های حمام اخراج شدم",
     "en": "Anyway, long short story, I got expelled for writing graffiti on bathroom stalls",
     "groupCode": 0
   },
@@ -5929,6 +5929,7 @@
     "id": 978,
     "fa": "خیلی خوب، من باید برم سر کار، ساعت 5 بر خواهم گشت",
     "en": "All right, I gotta go to work, I'll be back at 5",
+    "desc": "\"I gotta get to work\": Indicates urgency or the need to start working.\n\n\"I gotta go to work\": Expresses the general need to go to work, without specifying immediate departure.",
     "groupCode": 0
   },
   {
