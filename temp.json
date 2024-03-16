@@ -2,7 +2,12 @@
   {
     "id":,
     "fa": "",
-    "en": "",
+    "en": "It will be good if can get the head ups from lena",
+    "groupCode": 0
+  },  {
+    "id":,
+    "fa": "",
+    "en": "It means that we need to introduce two new endpoints to avoid any blocking changes for the frontend.",
     "groupCode": 0
   },
   {

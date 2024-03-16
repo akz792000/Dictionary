@@ -3643,7 +3643,7 @@
   {
     "id": 604,
     "fa": "من چیزی برای خجالت ندارم",
-    "en": "I don't have anything to be ashamed of",
+    "en": "\n 1.I don't have anything to be ashamed of \n 2.I have nothing to be ashamed of",
     "groupCode": 0
   },
   {
@@ -12102,7 +12102,7 @@
   },
   {
     "id": 1996,
-    "fa": "من مستعد این هستم که هر درد و دردی را اغراق کنم",
+    "fa": "من مستعد این هستم که هر درد و رنج را اغراق کنم",
     "en": "I'm apt to exaggerate any aches and pains",
     "groupCode": 0
   },

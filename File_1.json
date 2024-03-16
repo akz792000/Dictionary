@@ -2289,7 +2289,7 @@
   {
     "id": 2380,
     "fa": "او (زن) یکی از خونسردترین فردی است که من در حرفه اجرای قانون با او برخورد کرده ام",
-    "en": "She's one the coldest individual that I've run across in my law enforcement career",
+    "en": "She's one of the coldest individual that I've run across in my law enforcement career",
     "groupCode": 0
   },
   {
@@ -2897,7 +2897,7 @@
   },
   {
     "id": 2481,
-    "fa": "زبون به دهن بگیر",
+    "fa": "زبونت به دهن بگیر",
     "en": "Hold your tongue",
     "groupCode": 0
   },
@@ -2964,7 +2964,7 @@
   {
     "id": 2492,
     "fa": "هیچ به روز رسانی از طرف من در مورد هر گونه وظایف اسپرینت وجود ندارد. فقط در صورتی که نتوانم (فرضی) به تماس برسم",
-    "en": "No updates from my side regarding any sprint tasks. Just in case I couldn't make it to the call",
+    "en": "No updates from my side regarding to any sprint tasks. Just in case I couldn't make it to the call",
     "groupCode": 0
   },
   {
@@ -3224,8 +3224,8 @@
   },
   {
     "id": 2535,
-    "fa": "من قلقلکیم",
-    "en": "I'm ticklish",
+    "fa": "به مردم گفتم شما را اذیت نکنند، اما نمی توانم کنترل کنم آنچه را انجام می دهند",
+    "en": "I told people not to bother you, but I can't control what they do",
     "groupCode": 0
   },
   {
@@ -3236,7 +3236,7 @@
   },
   {
     "id": 2537,
-    "fa": "دو روز پیش مچ پایم پیچ خورد وقتی داشتم پینگ پنگ بازی می کردم",
+    "fa": "دو روز پیش, مچ پایم پیچ خورد وقتی داشتم پینگ پنگ بازی می کردم",
     "en": "Two days ago, my ankle got twisted while I was playing ping pong",
     "groupCode": 0
   },
@@ -3248,7 +3248,7 @@
   },
   {
     "id": 2539,
-    "fa": "من سعی می کنم حفظ کنم یک سبک زندگی سالم را با ورزش منظم و خوردن غذایی مغذی",
+    "fa": "من سعی می کنم حفظ کنم یک سبک زندگی سالم را با ورزش منظم و خوردن غذاهای مغذی",
     "en": "I try to sustain a healthy lifestyle by exercising regularly and eating nutritious meals",
     "groupCode": 0
   },
@@ -3274,7 +3274,7 @@
   },
   {
     "id": 2543,
-    "fa": "وقتی رسیدند سر و صدا را شنیدند",
+    "fa": "وقتی رسیدند, سر و صدا را شنیدند",
     "en": "When they arrived, they heard the noise",
     "groupCode": 0
   },
@@ -3318,6 +3318,186 @@
     "id": 2550,
     "fa": "هیچ کس نمی توانست بشنود چه چیزی آنها داشتند می گفتند",
     "en": "Nobody could hear what they were saying",
+    "groupCode": 0
+  },
+  {
+    "id": 2551,
+    "fa": "من باقی مانده ها را کنار گذاشتم تا که ما بعداً آنها را بخوریم",
+    "en": "I put away the leftovers so that we can eat them later",
+    "groupCode": 0
+  },
+  {
+    "id": 2552,
+    "fa": "از او (مرد) مراقبت کردم وقتی مریض بود",
+    "en": "I cared for him when he was sick",
+    "groupCode": 0
+  },
+  {
+    "id": 2553,
+    "fa": "بابت تاخیرم صمیمانه عذرخواهی میکنم",
+    "en": "\n 1.I sincerely apologize for my tardiness \n 2.I sincerely apologize for my delay",
+    "groupCode": 0
+  },
+  {
+    "id": 2554,
+    "fa": "من متواضعانه کمی قهوه خواستم",
+    "en": "I humbly asked for some coffee",
+    "groupCode": 0
+  },
+  {
+    "id": 2555,
+    "fa": "والدین از فرزندان خود در برابر مشکلات محافظت می کنند",
+    "en": "Parents protect their children from problems",
+    "groupCode": 0
+  },
+  {
+    "id": 2556,
+    "fa": "او از تب یونجه رنج برد",
+    "en": "She suffered from hay fever",
+    "groupCode": 0
+  },
+  {
+    "id": 2557,
+    "fa": "من کاملاً به توانایی های شما ایمان دارم",
+    "en": "I firmly believe in your capabilities",
+    "groupCode": 0
+  },
+  {
+    "id": 2558,
+    "fa": "من قهرمانانه یک بچه گربه را از آتش سوزان نجات دادم",
+    "en": "I heroically saved a kitten from a blazing fire",
+    "groupCode": 0
+  },
+  {
+    "id": 2559,
+    "fa": "من به صراحت این رفتار را تایید نمی کنم",
+    "en": "I unequivocally disapprove of this behavior.",
+    "groupCode": 0
+  },
+  {
+    "id": 2560,
+    "fa": "این کیک رایحه ای دلپذیر یادآور توت فرنگی ساطع می کند",
+    "en": "This cake emanates a delightful aroma reminiscent of strawberries",
+    "groupCode": 0
+  },
+  {
+    "id": 2561,
+    "fa": "من برای تکمیل تکالیفم به تمرکز مطلق (تقسیم نشده) نیاز دارم",
+    "en": "I require undivided focus to complete my homework",
+    "groupCode": 0
+  },
+  {
+    "id": 2562,
+    "fa": "ما تقریباً در همه چیز توافق داریم. من با شما موافقم",
+    "en": "We agree on almost everything. I agree with you",
+    "groupCode": 0
+  },
+  {
+    "id": 2563,
+    "fa": "من او (مرد) را رسمی به پدر و مادرم معرفی کردم",
+    "en": "I formally introduced him to my parents",
+    "groupCode": 0
+  },
+  {
+    "id": 2564,
+    "fa": "من به دوست دخترم توصیه کردم ماشین بخرد",
+    "en": "I advised my girlfriend to buy a car",
+    "groupCode": 0
+  },
+  {
+    "id": 2565,
+    "fa": "مشروط است به شرایط آب و هوا",
+    "en": "It is contingent upon the weather conditions",
+    "groupCode": 0
+  },
+  {
+    "id": 2566,
+    "fa": "من مقدار قابل توجهی از بودجه را خرج گاز می کنم",
+    "en": "I expend a considerable amount of funds on gas",
+    "groupCode": 0
+  },
+  {
+    "id": 2567,
+    "fa": "بیایید در این مسابقه شرکت کنیم",
+    "en": "Let's participate in this contest",
+    "groupCode": 0
+  },
+  {
+    "id": 2568,
+    "fa": "پدر و مادرش او (مرد) را به خاطر سیگار کشیدن تنبیه کردند",
+    "en": "His parents punished him for smoking",
+    "groupCode": 0
+  },
+  {
+    "id": 2569,
+    "fa": "چگونه می توان سگ و گربه را تشخیص داد؟",
+    "en": "How can one distinguish between a dog and a cat?",
+    "groupCode": 0
+  },
+  {
+    "id": 2570,
+    "fa": "من اخیراً ابتکار عمل را در دست گرفتم تا برای یک فرصت شغلی امیدوار کننده درخواست کنم",
+    "en": "I recently took the initiative to apply for a promising new job opportunity",
+    "groupCode": 0
+  },
+  {
+    "id": 2571,
+    "fa": "من نیاز دارم از این مکان فرار کنم",
+    "en": "I need to escape from this place",
+    "groupCode": 0
+  },
+  {
+    "id": 2572,
+    "fa": "او (زن) بخشید او (مرد) را به خاطر خیانت",
+    "en": "She forgave him for cheating",
+    "groupCode": 0
+  },
+  {
+    "id": 2573,
+    "fa": "آیا در مواقع ضروری به خود متکی هستید یا به دیگران؟",
+    "en": "Do you rely on yourself or on others in times of need?",
+    "groupCode": 0
+  },
+  {
+    "id": 2574,
+    "fa": "می توانم ببینم عاقل تر هستی از زمانی که او (زن) به دنیا آمده",
+    "en": "I can see you are wiser since she was born",
+    "groupCode": 0
+  },
+  {
+    "id": 2575,
+    "fa": "چیز مورد علاقه من در مورد یک پدر بودن (این) است پیوسته گفته میشود من اشتباه می کنم تمام مواقع توسط مردمی که برای غذا، سرپناه و پول به من وابسته هستند",
+    "en": "My favorite thing about being a dad is constantly being told I'm wrong all the time by people who depend on me for food, shelter and money",
+    "groupCode": 0
+  },
+  {
+    "id": 2576,
+    "fa": "جسارت او در جلسه همه را شگفت زده کرد",
+    "en": "His audacity /aˈdæsəti/ surprised everyone at the meeting",
+    "groupCode": 0
+  },
+  {
+    "id": 2577,
+    "fa": "آن شلاق زن جوان همیشه حرف هوشمندانه ای برای گفتن دارد",
+    "en": "That young whippersnapper always has something clever to say",
+    "groupCode": 0
+  },
+  {
+    "id": 2578,
+    "fa": "چلغوز کسی است که از شما جوانتر است اما به طرز آزاردهنده ای بیش از حد اعتماد به نفس و گستاخی دارد",
+    "en": "A whippersnapper is someone who is younger than you are but also irritatingly overconfident and impertinent",
+    "groupCode": 0
+  },
+  {
+    "id": 2579,
+    "fa": "نمی خوام دوباره پام پیچ بخوره",
+    "en": "I don't want my foot to get twisted again",
+    "groupCode": 0
+  },
+  {
+    "id": 2580,
+    "fa": "مگه قرار نبود لینکشو برام بفرستی؟",
+    "en": "Weren't you supposed to send me the link?",
     "groupCode": 0
   }
 ]
