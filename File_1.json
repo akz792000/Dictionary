@@ -2408,7 +2408,7 @@
   },
   {
     "id": 2400,
-    "fa": "آیا نتوانسته بودید کمی به او آزادی عمل بدهید؟",
+    "fa": "آیا نتوانسته بودید کمی به او (مرد) آزادی عمل بدهید؟",
     "en": "Couldn't you have given him a little more leeway?",
     "groupCode": 0
   },
@@ -3274,7 +3274,7 @@
   },
   {
     "id": 2543,
-    "fa": "وقتی رسیدند, سر و صدا را شنیدند",
+    "fa": "وقتی آنها رسیدند, آنها نویز را شنیدند",
     "en": "When they arrived, they heard the noise",
     "groupCode": 0
   },
@@ -3352,7 +3352,7 @@
   },
   {
     "id": 2556,
-    "fa": "او از تب یونجه رنج برد",
+    "fa": "او (زن) از تب یونجه رنج برد",
     "en": "She suffered from hay fever",
     "groupCode": 0
   },
@@ -3394,7 +3394,7 @@
   },
   {
     "id": 2563,
-    "fa": "من او (مرد) را رسمی به پدر و مادرم معرفی کردم",
+    "fa": "من او (مرد) را رسمی به والدین معرفی کردم",
     "en": "I formally introduced him to my parents",
     "groupCode": 0
   },
@@ -3418,19 +3418,19 @@
   },
   {
     "id": 2567,
-    "fa": "بیایید در این مسابقه شرکت کنیم",
+    "fa": "بیایید در این رقابت شرکت کنیم",
     "en": "Let's participate in this contest",
     "groupCode": 0
   },
   {
     "id": 2568,
-    "fa": "پدر و مادرش او (مرد) را به خاطر سیگار کشیدن تنبیه کردند",
+    "fa": "والدینش او (مرد) را به خاطر سیگار کشیدن تنبیه کردند",
     "en": "His parents punished him for smoking",
     "groupCode": 0
   },
   {
     "id": 2569,
-    "fa": "چگونه می توان سگ و گربه را تشخیص داد؟",
+    "fa": "چگونه (یک نفر) می توان تشخیص بده بین یک سگ و یک گربه؟",
     "en": "How can one distinguish between a dog and a cat?",
     "groupCode": 0
   },
@@ -3448,8 +3448,8 @@
   },
   {
     "id": 2572,
-    "fa": "او (زن) بخشید او (مرد) را به خاطر خیانت",
-    "en": "She forgave him for cheating",
+    "fa": "او (زن) بخشید او (مرد) را به خاطر خیانتش",
+    "en": "She forgave him for his cheating",
     "groupCode": 0
   },
   {
@@ -3472,7 +3472,7 @@
   },
   {
     "id": 2576,
-    "fa": "جسارت او در جلسه همه را شگفت زده کرد",
+    "fa": "گستاخی او (مرد) در جلسه همه را شگفت زده کرد",
     "en": "His audacity /aˈdæsəti/ surprised everyone at the meeting",
     "groupCode": 0
   },
@@ -3490,13 +3490,13 @@
   },
   {
     "id": 2579,
-    "fa": "نمی خوام دوباره پام پیچ بخوره",
-    "en": "I don't want my foot to get twisted again",
+    "fa": "من واقعاً نمی خواهم مچ پایم دوباره پیچ بخورد، به خصوص نه به صورت تصادفی",
+    "en": "I really don't want my ankle to get twisted again, especially not by accident",
     "groupCode": 0
   },
   {
     "id": 2580,
-    "fa": "مگه قرار نبود لینکشو برام بفرستی؟",
+    "fa": "مگه قرار نبود لینکو برام بفرستی؟",
     "en": "Weren't you supposed to send me the link?",
     "groupCode": 0
   }
