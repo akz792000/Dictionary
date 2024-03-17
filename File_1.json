@@ -3371,13 +3371,13 @@
   {
     "id": 2559,
     "fa": "من به صراحت این رفتار را تایید نمی کنم",
-    "en": "I unequivocally disapprove of this behavior.",
+    "en": "I unequivocally (آن ایکوای ویکیلی) disapprove of this behavior.",
     "groupCode": 0
   },
   {
     "id": 2560,
     "fa": "این کیک رایحه ای دلپذیر یادآور توت فرنگی ساطع می کند",
-    "en": "This cake emanates a delightful aroma reminiscent of strawberries",
+    "en": "This cake emanates a delightful aroma (əˈrōmə) reminiscent (ˌreməˈnis(ə)nt) of strawberries",
     "groupCode": 0
   },
   {
@@ -3478,8 +3478,8 @@
   },
   {
     "id": 2577,
-    "fa": "آن شلاق زن جوان همیشه حرف هوشمندانه ای برای گفتن دارد",
-    "en": "That young whippersnapper always has something clever to say",
+    "fa": "گاهی اوقات یک ضرب المثل قدیمی را می گویم تا به پسرم درس ارزشمندی بدهم",
+    "en": "Sometimes I share an old proverb to teach my son a valuable lesson",
     "groupCode": 0
   },
   {
