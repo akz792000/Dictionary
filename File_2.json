@@ -898,6 +898,7 @@
     "id": 10148,
     "en": "Do you like going to clubs? No, I prefer going to cafes",
     "de": "Gehst du gern in Clubs? Nein, Ich gehe lieber in Cafés",
+    "desc": "Both \"I prefer going to cafes\" and \"I prefer to go to cafes\" are correct. The first uses a gerund (\"going\"), while the second uses an infinitive (\"to go\"). They mean the same thing but might be used in different contexts or for stylistic variation.",
     "groupCode": 1
   },
   {
@@ -971,19 +972,19 @@
   {
     "id": 10160,
     "en": "The food needs more salt and suger",
-    "de": "Das Essen braucht mehr Salz un Zucker",
+    "de": "Das Essen braucht mehr Salz und Zucker",
     "groupCode": 1
   },
   {
     "id": 10161,
-    "en": "The schnitzel is meat. I eat no meat",
-    "de": "Das Schnitzel ist Fleisch. Ich esse kein Fleisch",
+    "en": "The schnitzel is meat. I eat no meat. Where is my salad?",
+    "de": "Das Schnitzel ist Fleisch. Ich esse kein Fleisch. Wo ist mein Salat?",
     "groupCode": 1
   },
   {
     "id": 10162,
-    "en": "How is the weather? The weather today is bad",
-    "de": "Wie ist das Wetter? Das Wetter heute ist schlecht",
+    "en": "Would you like to go to the hotel by foot?",
+    "de": "Möchtest du zu Fuss bis zum Hotel gehen?",
     "groupCode": 1
   },
   {
@@ -2496,8 +2497,8 @@
   },
   {
     "id": 10413,
-    "en": "What are you doing this morning? I am playing chess this morning",
-    "de": "Was machst du heute Morge? Ich Spiele heute Morgen Schach",
+    "en": "What are you doing this morning? (formal) I am playing chess this morning",
+    "de": "Was machst du heute Morgen? Ich Spiele heute Morgen Schach",
     "groupCode": 1
   },
   {
@@ -2538,8 +2539,8 @@
   },
   {
     "id": 10420,
-    "en": "Enjoy meal",
-    "de": "\n 1.Guten Appetit. \n 2.Mahlzeit",
+    "en": "Here is the food enjoy your meal",
+    "de": "Hier ist das Essen Guten Appetit",
     "groupCode": 1
   },
   {
@@ -2658,13 +2659,13 @@
   },
   {
     "id": 10440,
-    "en": "What is he doing this morning? He wants to go to the café",
+    "en": "What is he doing this morning? He would like to go to the café",
     "de": "Was macht er heute Morgen? Er möchte ins Café gehen",
     "groupCode": 1
   },
   {
     "id": 10441,
-    "en": "What are you doing this morning from seven to nine? I would like to go to the swimming pool, but it rains",
+    "en": "What are you doing this morning from seven to nine? (formal) I would like to go to the swimming pool, but it rains",
     "de": "Was machst du heute Morgen von sieben bis neun? Ich möchte ins Schwimmbad gehen, aber es regnet",
     "groupCode": 1
   },
@@ -2682,7 +2683,7 @@
   },
   {
     "id": 10444,
-    "en": "Do you have time?",
+    "en": "Do you have time? (informal)",
     "de": "Hast du Zeit?",
     "groupCode": 1
   },
@@ -2959,7 +2960,7 @@
   {
     "id": 10490,
     "en": "I like my bedroom. The bed is comfortable and the bookcase is perfect",
-    "de": "Ich mag mein Schlafzimmer. Das bett ist bequem und das Bucherregal ist perfet",
+    "de": "Ich mag mein Schlafzimmer. Das bett ist bequem und das Bucherregal ist perfekt",
     "groupCode": 1
   },
   {
@@ -3486,13 +3487,13 @@
   },
   {
     "id": 10578,
-    "en": "My seat is in the back",
-    "de": "Mein Sitz ist hinten",
+    "en": "How long does the taxi ride to the hotel last?",
+    "de": "Wie lange dauert die Taxifahrt bis zum Hotel?",
     "groupCode": 1
   },
   {
     "id": 10579,
-    "en": "Why don't you like the jacket? It's great, but it doesn't fit",
+    "en": "Why don't you like the suit jacket? It's great, but it doesn't fit",
     "de": "Warum magst du das Sakko nicht? Es ist toll, aber es passt nicht",
     "groupCode": 1
   },
@@ -3518,6 +3519,126 @@
     "id": 10583,
     "en": "The train is not on platform eight. The train comes at two o'clock",
     "de": "Der Zug ist nicht auf Gleis acht. Der Zug kommt um zwei Uhr",
+    "groupCode": 1
+  },
+  {
+    "id": 10584,
+    "en": "Who likes the lamp?",
+    "de": "Wer mag die Lampe?",
+    "groupCode": 1
+  },
+  {
+    "id": 10585,
+    "en": "I'm not hungry",
+    "de": "Ich habe keinen Hunger",
+    "groupCode": 1
+  },
+  {
+    "id": 10586,
+    "en": "I would like to eat Greek food",
+    "de": "Ich möchte griechisch essen",
+    "groupCode": 1
+  },
+  {
+    "id": 10587,
+    "en": "There's no food here and I'm hungry",
+    "de": "Es gibt kein Essen hier und ich habe Hunger",
+    "groupCode": 1
+  },
+  {
+    "id": 10588,
+    "en": "I would like to eat Italian food later",
+    "de": "Ich möchte später italienisch essen",
+    "groupCode": 1
+  },
+  {
+    "id": 10589,
+    "en": "Would you like to go to the coffee shop later?",
+    "de": "Möchtest du später ins Café gehen?",
+    "groupCode": 1
+  },
+  {
+    "id": 10590,
+    "en": "What would you like to drink? (formal) I would like to drink a beer",
+    "de": "Was möchten Sie trinken? Ich möchte ein Bier trinken",
+    "groupCode": 1
+  },
+  {
+    "id": 10591,
+    "en": "Good morning! Would you like to drink tea or kaffee? (formal)",
+    "de": "Guten Morgen! Möchten Sie Tee oder Kaffee trinken?",
+    "groupCode": 1
+  },
+  {
+    "id": 10592,
+    "en": "For my son a sparkling apple and for me a glass of red wine",
+    "de": "Für meinen Sohn eine Apfelschorle und Für mich ein Glas Rotwein",
+    "groupCode": 1
+  },
+  {
+    "id": 10593,
+    "en": "For you a salad with tomatoes (formal)",
+    "de": "Für Sie einen Salat mit Tomaten",
+    "groupCode": 1
+  },
+  {
+    "id": 10594,
+    "en": "Why is the glass of water so hot?",
+    "de": "Warum ist das Glas Wasser so heiß?",
+    "groupCode": 1
+  },
+  {
+    "id": 10595,
+    "en": "I don't eat sugar but I like to eat apple cake",
+    "de": "Ich esse keinen Zucker aber Ich esse gern Apfelkuchen",
+    "groupCode": 1
+  },
+  {
+    "id": 10596,
+    "en": "I don't eat dessert but I drink coffee without milk",
+    "de": "Iche esse keinen Nachtisch aber Ich trinke Kaffee ohne Milch",
+    "groupCode": 1
+  },
+  {
+    "id": 10597,
+    "en": "Is the fruit salad sweet?",
+    "de": "Ist der Obstsalat süß?",
+    "groupCode": 1
+  },
+  {
+    "id": 10598,
+    "en": "Do you pay separately?",
+    "de": "Zahlen Sie getrennt?",
+    "groupCode": 1
+  },
+  {
+    "id": 10599,
+    "en": "Would you prefer to pay together or separately?",
+    "de": "Möchtest du lieber zusammen oder getrennt zahlen?",
+    "groupCode": 1
+  },
+  {
+    "id": 10600,
+    "en": "Here is the bill. That makes a total of thirty-five euros",
+    "de": "Hier ist die Rechnung. Das macht zusammen fünfunddreißig Euro",
+    "groupCode": 1
+  },
+  {
+    "id": 10601,
+    "en": "Would you like to pay in cash? (formal)",
+    "de": "Möchten Sie bar zahlen?",
+    "groupCode": 1
+  },
+  {
+    "id": 10602,
+    "en": "Ilia is in the school. It's time for lunch",
+    "de": "Ilia ist in der Schule. Es ist Zeit für das Mittagessen",
+    "groupCode": 1
+  },
+  {
+    "id": 10603,
+    "en": "Would you like salad or fries with the fish? I love fries and salad",
+    "de": "Möchtest du mit dem Fisch Salat oder Pommes? Ich liebe Pommes und Salat",
     "groupCode": 1
   }
 ]

@@ -3348,6 +3348,7 @@
     "id": 2555,
     "fa": "والدین از فرزندان خود در برابر مشکلات محافظت می کنند",
     "en": "Parents protect their children from problems",
+    "desc": "\"My parent is at work.\" (referring to one mother or father)\n\"My parents are at work.\" (referring to both the mother and father)",
     "groupCode": 0
   },
   {
@@ -3478,7 +3479,7 @@
   },
   {
     "id": 2577,
-    "fa": "گاهی اوقات یک ضرب المثل قدیمی را می گویم تا به پسرم درس ارزشمندی بدهم",
+    "fa": "گاهی اوقات یک ضرب المثل قدیمی را اشتراک می گذارم تا به پسرم درس ارزشمندی بدهم",
     "en": "Sometimes I share an old proverb to teach my son a valuable lesson",
     "groupCode": 0
   },
