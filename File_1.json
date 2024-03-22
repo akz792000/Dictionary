@@ -3242,8 +3242,8 @@
   },
   {
     "id": 2538,
-    "fa": "دو گزینه دسر به من پیشنهاد شد، اما هیچ کدام را دوست ندارم",
-    "en": "\n 1.I was offered two dessert options, but I like neither of them \n 2.I was offered two dessert options, but I don't like either of them",
+    "fa": "دو گزینه دسر به من پیشنهاد شد، اما هیچ کدام را دوست نداشتم",
+    "en": "\n 1.I was offered two dessert options, but I liked neither of them \n 2.I was offered two dessert options, but I didn't like either of them",
     "groupCode": 0
   },
   {
@@ -3261,9 +3261,8 @@
   },
   {
     "id": 2541,
-    "fa": "من با ظرافت در 15ام وارد می شوم, با دقت هماهنگ شده برنامه سفر من برای اطمینان دادن به یک ورود یکپارچه و سروقت",
-    "en": "I will be gracefully arriving on the 15th, having meticulously coordinated my travel itinerary to ensure a seamless and punctual entrance",
-    "desc": "The structure \"having + past participle\" is called a present perfect participle. It indicates that one action (in this case, \"having meticulously coordinated\") occurred before another action (arriving). It's a way to express a sequence of events where the first action happened before the main action.\n\nHere's a breakdown:\n\n\"I will be gracefully arriving on the 15th\": This is the main action, indicating the future arrival.\n\"having meticulously coordinated my travel itinerary\": This is the action that occurred before the main action, providing additional information about the preparation for the arrival.\nIn general, we use \"having + past participle\" in situations where we want to show a chronological order of events, with the action after \"having\" happening before the main action in the sentence. It adds a sense of completion or preparation to the main action.",
+    "fa": "آخرین باری که کسی شما را بلند کرد کی بود؟",
+    "en": "When was the last time someone picked you up?",
     "groupCode": 0
   },
   {
@@ -3371,14 +3370,14 @@
   },
   {
     "id": 2559,
-    "fa": "من به صراحت این رفتار را تایید نمی کنم",
-    "en": "I unequivocally (آن ایکوای ویکیلی) disapprove of this behavior.",
+    "fa": "این مورد برای شما نیست",
+    "en": "This is not the case for you",
     "groupCode": 0
   },
   {
     "id": 2560,
-    "fa": "این کیک رایحه ای دلپذیر یادآور توت فرنگی ساطع می کند",
-    "en": "This cake emanates a delightful aroma (əˈrōmə) reminiscent (ˌreməˈnis(ə)nt) of strawberries",
+    "fa": "این کیک رایحه ای دلپذیر از توت فرنگی ساطع می کند",
+    "en": "This cake emanates a delightful aroma (əˈrōmə) of strawberries",
     "groupCode": 0
   },
   {
@@ -3479,8 +3478,8 @@
   },
   {
     "id": 2577,
-    "fa": "گاهی اوقات یک ضرب المثل قدیمی را اشتراک می گذارم تا به پسرم درس ارزشمندی بدهم",
-    "en": "Sometimes I share an old proverb to teach my son a valuable lesson",
+    "fa": "گاهی اوقات یک ضرب المثل قدیمی را با پسرم در میان می گذارم تا درس ارزشمندی به او بدهم",
+    "en": "Sometimes I share an old proverb with my son to teach him a valuable lesson",
     "groupCode": 0
   },
   {
@@ -3499,6 +3498,67 @@
     "id": 2580,
     "fa": "مگه قرار نبود لینکو برام بفرستی؟",
     "en": "Weren't you supposed to send me the link?",
+    "groupCode": 0
+  },
+  {
+    "id": 2581,
+    "fa": "بیایید ایده شما را مطرح کنیم (در بشقاب بزاریم) و ببینیم چگونه همه بهش  پاسخ می دهند",
+    "en": "Let's put our idea on the plate and see how everyone responds to it",
+    "groupCode": 0
+  },
+  {
+    "id": 2582,
+    "fa": "همه ما آن یک همکار را داریم کسی که کار را 10 برابر خنده دارتر می کند",
+    "en": "We all have that one coworker who makes work 10x funnier",
+    "groupCode": 0
+  },
+  {
+    "id": 2583,
+    "fa": "چقدر ترسو هستی",
+    "en": "How cowardly are you?",
+    "desc": "\"coward\" is actually a noun, not an adjective like \"beautiful\" or \"ugly.\" Therefore, the correct phrasing would use \"cowardly\" as the adjective",
+    "groupCode": 0
+  },
+  {
+    "id": 2584,
+    "fa": "او (مرد) اون پایین گیر کرده و من قراره در را برایش باز کنم",
+    "en": "He's stuck down there, and I'm gonna open the door for him",
+    "groupCode": 0
+  },
+  {
+    "id": 2585,
+    "fa": "من نمی خواهم شما را بیمار کنم، بنابراین دارم از شما دور می مانم",
+    "en": "I don't want to get you sick, so I'm staying away from you",
+    "groupCode": 0
+  },
+  {
+    "id": 2586,
+    "fa": "آیا کسی به ویروس من مبتلا شده است؟",
+    "en": "Did anybody get infected by my virus?",
+    "groupCode": 0
+  },
+  {
+    "id": 2587,
+    "fa": "آیا در حال حاضر غذا خوردی؟",
+    "en": "Did you have lunch already?",
+    "groupCode": 0
+  },
+  {
+    "id": 2588,
+    "fa": "آیا کسی در این دو روز به ویروس من مبتلا شده است؟",
+    "en": "Was anyone infected by my virus in the two days since?",
+    "groupCode": 0
+  },
+  {
+    "id": 2589,
+    "fa": "فقط دو روز تا شروع تعطیلات ما باقی مانده است",
+    "en": "Only two days away until our vacation begins",
+    "groupCode": 0
+  },
+  {
+    "id": 2590,
+    "fa": "آیا برای امروز است؟",
+    "en": "Is it from today?",
     "groupCode": 0
   }
 ]
