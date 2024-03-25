@@ -3514,7 +3514,7 @@
   },
   {
     "id": 2583,
-    "fa": "چقدر ترسو هستی",
+    "fa": "چقدر ترسو هستی؟",
     "en": "How cowardly are you?",
     "desc": "\"coward\" is actually a noun, not an adjective like \"beautiful\" or \"ugly.\" Therefore, the correct phrasing would use \"cowardly\" as the adjective",
     "groupCode": 0
@@ -3557,8 +3557,68 @@
   },
   {
     "id": 2590,
-    "fa": "آیا برای امروز است؟",
+    "fa": "مال امروزه؟",
     "en": "Is it from today?",
+    "groupCode": 0
+  },
+  {
+    "id": 2591,
+    "fa": "لوله نشتی دارد",
+    "en": "The pipe is leaking",
+    "groupCode": 0
+  },
+  {
+    "id": 2592,
+    "fa": "لامپ سوخته",
+    "en": "The bulb is burnt out",
+    "groupCode": 0
+  },
+  {
+    "id": 2593,
+    "fa": "شیر آب چکه می کند",
+    "en": "The faucet is dripping",
+    "groupCode": 0
+  },
+  {
+    "id": 2594,
+    "fa": "پارچه پاره شده",
+    "en": "The cloth is torn",
+    "groupCode": 0
+  },
+  {
+    "id": 2595,
+    "fa": "من اشتهای سالمی دارم",
+    "en": "I have a healthy appetite",
+    "groupCode": 0
+  },
+  {
+    "id": 2596,
+    "fa": "تو همیشه به من اشتها میاری",
+    "en": "You always give me an appetite",
+    "groupCode": 0
+  },
+  {
+    "id": 2597,
+    "fa": "آن را نخور که اشتهای شما را از بین خواهد (خراب کردن) برد",
+    "en": "Don't eat that it'll spoil your appetite",
+    "groupCode": 0
+  },
+  {
+    "id": 2598,
+    "fa": "گاهی اوقات وقتی می دانم امتحان دارم بداخلاق می شوم",
+    "en": "Sometimes I get cranky when I know I have an exam",
+    "groupCode": 0
+  },
+  {
+    "id": 2599,
+    "fa": " مجبور شدم جریمه پرداخت کنم وقتی چکم برگشت خورد",
+    "en": "I had to pay a penalty fee when my check bounced",
+    "groupCode": 0
+  },
+  {
+    "id": 2600,
+    "fa": "کدوم ماموریت بودی؟",
+    "en": "Which mission were you on?",
     "groupCode": 0
   }
 ]

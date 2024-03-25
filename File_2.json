@@ -947,7 +947,7 @@
   },
   {
     "id": 10156,
-    "en": "Would you like to go to a cafe? No, I want to sleep now (informal)",
+    "en": "Would you like to go to a cafe? (informal) No, I would like to sleep now",
     "de": "Möchtest du in ein Café gehen? Nein, Ich möchte jetzt schlafen",
     "groupCode": 1
   },
@@ -2617,7 +2617,7 @@
   },
   {
     "id": 10433,
-    "en": "Where can I find the coffee?",
+    "en": "Where do I find the coffee?",
     "de": "Wo finde ich den Kaffee?",
     "groupCode": 1
   },
@@ -2695,7 +2695,7 @@
   },
   {
     "id": 10446,
-    "en": "Do you have time this evening?",
+    "en": "Do you have time this evening? (informal)",
     "de": "Hast du heute Abend Zeit?",
     "groupCode": 1
   },
@@ -2791,7 +2791,7 @@
   },
   {
     "id": 10462,
-    "en": "Would you like to go to the coffee shop on Saturday?",
+    "en": "Would you like to go to the coffee shop on Saturday? (informal)",
     "de": "Möchtest du am Samstag ins Café gehen?",
     "groupCode": 1
   },
@@ -3115,7 +3115,7 @@
   },
   {
     "id": 10516,
-    "en": "What would you like to buy?",
+    "en": "What would you like to buy? (informal)",
     "de": "Was möchtest du kaufen?",
     "groupCode": 1
   },
@@ -3139,7 +3139,7 @@
   },
   {
     "id": 10520,
-    "en": "What are you searching for? I'm searching for a shirt and a suite jacket",
+    "en": "What are you searching for? (formal) I'm searching for a shirt and a suite jacket",
     "de": "Was suchen Sie? Ich suche ein Hemd und ein Sakko",
     "groupCode": 1
   },
@@ -3427,7 +3427,7 @@
   },
   {
     "id": 10568,
-    "en": "Do you often pay with credit card?",
+    "en": "Do you often pay with credit card? (informal)",
     "de": "Zahlst du oft mit Kreditkarte?",
     "groupCode": 1
   },
@@ -3553,7 +3553,7 @@
   },
   {
     "id": 10589,
-    "en": "Would you like to go to the coffee shop later?",
+    "en": "Would you like to go to the coffee shop later? (informal)",
     "de": "Möchtest du später ins Café gehen?",
     "groupCode": 1
   },
@@ -3607,13 +3607,13 @@
   },
   {
     "id": 10598,
-    "en": "Do you pay separately?",
+    "en": "Do you pay separately? (formal)",
     "de": "Zahlen Sie getrennt?",
     "groupCode": 1
   },
   {
     "id": 10599,
-    "en": "Would you prefer to pay together or separately?",
+    "en": "Would you prefer to pay together or separately? (informal)",
     "de": "Möchtest du lieber zusammen oder getrennt zahlen?",
     "groupCode": 1
   },
