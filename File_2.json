@@ -896,7 +896,7 @@
   },
   {
     "id": 10148,
-    "en": "Do you like going to clubs? No, I prefer going to cafes",
+    "en": "Do you like going to clubs? (informal) No, I prefer going to cafes",
     "de": "Gehst du gern in Clubs? Nein, Ich gehe lieber in Cafés",
     "desc": "Both \"I prefer going to cafes\" and \"I prefer to go to cafes\" are correct. The first uses a gerund (\"going\"), while the second uses an infinitive (\"to go\"). They mean the same thing but might be used in different contexts or for stylistic variation.",
     "groupCode": 1
@@ -983,7 +983,7 @@
   },
   {
     "id": 10162,
-    "en": "Would you like to go to the hotel by foot?",
+    "en": "Would you like to go to the hotel by foot? (informal)",
     "de": "Möchtest du zu Fuss bis zum Hotel gehen?",
     "groupCode": 1
   },
@@ -2971,7 +2971,7 @@
   },
   {
     "id": 10492,
-    "en": "What time is your family coming today?",
+    "en": "What time is your family coming today? (informal)",
     "de": "Wie viel Uhr kommt deine Familie heute?",
     "groupCode": 1
   },
@@ -3145,7 +3145,7 @@
   },
   {
     "id": 10521,
-    "en": "What would you like to buy for the job interview? I'm searching for a dress and a scarf",
+    "en": "What would you like to buy for the job interview? (informal) I'm searching for a dress and a scarf",
     "de": "Was möchtest du für das jobinterview kaufen? Ich suche ein Klied und einen Schal",
     "groupCode": 1
   },
@@ -3415,7 +3415,7 @@
   },
   {
     "id": 10566,
-    "en": "Grandpa, would you like to cancel your ticket to Paris?",
+    "en": "Grandpa, would you like to cancel your ticket to Paris? (informal)",
     "de": "Opa, möchtest du deine Fahrkarte nach Paris stornieren?",
     "groupCode": 1
   },
@@ -3475,7 +3475,7 @@
   },
   {
     "id": 10576,
-    "en": "You always come too late",
+    "en": "You always come too late (informal)",
     "de": "Du kommst immer zu spät",
     "groupCode": 1
   },
