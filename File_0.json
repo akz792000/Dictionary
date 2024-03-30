@@ -1270,7 +1270,7 @@
   {
     "id": 211,
     "fa": "من ترجیح می دهم به جای رفتن به هتل در اینجا بمانم",
-    "en": "I prefer to stay here instead of going to a hotel",
+    "en": "\n 1.I prefer to stay here instead of going to a hotel \n 2.I'd rather stay here instead of going to hotel",
     "groupCode": 0
   },
   {
@@ -3445,7 +3445,7 @@
   {
     "id": 571,
     "fa": "دو دلم",
-    "en": "I am torn",
+    "en": "\n 1.I am torn \n 2.I'm of two minds",
     "groupCode": 0
   },
   {
@@ -11820,7 +11820,7 @@
   },
   {
     "id": 1950,
-    "fa": "یادت هست به من گفتی \"من قراره هیچ کس نشم و معتاد شم؟\"",
+    "fa": "یادت هست به من گفتی \"من قراره هیچ کس نشم و یک معتاد خواهم شد؟\"",
     "en": "Do you remember you told me, I'm gonna be nobody, and I will be a drug addict?",
     "groupCode": 0
   },

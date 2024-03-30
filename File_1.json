@@ -2797,6 +2797,7 @@
     "id": 2464,
     "fa": "اصلا چرا حرف زدم؟",
     "en": "Why did I even speak up?",
+    "desc": "\"How did I even speak?\": Expresses surprise or disbelief at one's ability to speak.\n\"How did I even speak up?\": Emphasizes the act of speaking out or expressing oneself, possibly in a surprising or unexpected situation.",
     "groupCode": 0
   },
   {
@@ -3605,7 +3606,7 @@
   },
   {
     "id": 2598,
-    "fa": "گاهی اوقات وقتی می دانم امتحان دارم بداخلاق می شوم",
+    "fa": "بعضی وقت ها بداخلاق می شوم وقتی می دانم امتحان دارم",
     "en": "Sometimes I get cranky when I know I have an exam",
     "groupCode": 0
   },
@@ -3619,6 +3620,366 @@
     "id": 2600,
     "fa": "کدوم ماموریت بودی؟",
     "en": "Which mission were you on?",
+    "groupCode": 0
+  },
+  {
+    "id": 2601,
+    "fa": "صحبتم تمام شد",
+    "en": "I'm done talking",
+    "groupCode": 0
+  },
+  {
+    "id": 2602,
+    "fa": "من پمپ می کنم مقداری صابون برای شستن دست هایم",
+    "en": "I pump some soap to wash my hands",
+    "groupCode": 0
+  },
+  {
+    "id": 2603,
+    "fa": "مرحوم پدرم خیلی دوست داشت از دوران کودکی خود قصه بگوید",
+    "en": "My late father loved to tell stories about his childhood",
+    "groupCode": 0
+  },
+  {
+    "id": 2604,
+    "fa": "چشم خوردم",
+    "en": "I'm jinxed",
+    "groupCode": 0
+  },
+  {
+    "id": 2605,
+    "fa": "تو چشمم زدی",
+    "en": "You jinxed me",
+    "groupCode": 0
+  },
+  {
+    "id": 2606,
+    "fa": "شما را با کسی اشتباه گرفتم",
+    "en": "I mistook you for someone",
+    "groupCode": 0
+  },
+  {
+    "id": 2607,
+    "fa": "از من عصبانی هستی؟",
+    "en": "Are you angry with me?",
+    "groupCode": 0
+  },
+  {
+    "id": 2608,
+    "fa": "برق رفت اما بعد از 10 دقیقه دوباره اومد",
+    "en": "Power went out but after 10 minutes came back on",
+    "groupCode": 0
+  },
+  {
+    "id": 2609,
+    "fa": "خانم صاحبخانه اجاره را بالا برده",
+    "en": "The landlady has put the rent up",
+    "groupCode": 0
+  },
+  {
+    "id": 2610,
+    "fa": "صاحبخانه دو اتاق را به دانشجویان اجاره می دهد",
+    "en": "The landlord rents out two rooms to students",
+    "groupCode": 0
+  },
+  {
+    "id": 2611,
+    "fa": "من پکرم",
+    "en": "I feel blue",
+    "groupCode": 0
+  },
+  {
+    "id": 2612,
+    "fa": "هیچ وقت به ذهنم نرسید",
+    "en": "It never crossed my mind",
+    "groupCode": 0
+  },
+  {
+    "id": 2613,
+    "fa": "در نظر داشته باشید",
+    "en": "Bear in mind",
+    "groupCode": 0
+  },
+  {
+    "id": 2614,
+    "fa": "بزار اینجا پیاده شم",
+    "en": "Let me off here",
+    "groupCode": 0
+  },
+  {
+    "id": 2615,
+    "fa": "از ذهنم رفت (لیز خورد)",
+    "en": "It slipped my mind",
+    "groupCode": 0
+  },
+  {
+    "id": 2616,
+    "fa": "حواسم پرت است",
+    "en": "I'm absent-minded",
+    "groupCode": 0
+  },
+  {
+    "id": 2617,
+    "fa": "نوک زبونمه",
+    "en": "It's on the tip of my tongue",
+    "groupCode": 0
+  },
+  {
+    "id": 2618,
+    "fa": "حواسم پرت شد",
+    "en": "I got distracted",
+    "groupCode": 0
+  },
+  {
+    "id": 2619,
+    "fa": "سر در نمیارم",
+    "en": "Beats me",
+    "groupCode": 0
+  },
+  {
+    "id": 2620,
+    "fa": "مشغول پختن شام بودم",
+    "en": "I was busy cooking dinner",
+    "groupCode": 0
+  },
+  {
+    "id": 2621,
+    "fa": "من به توت ها حساسیت دارم",
+    "en": "I'm allergic to berries",
+    "groupCode": 0
+  },
+  {
+    "id": 2622,
+    "fa": "دیابت تو خانوادم ارثیه",
+    "en": "Diabetes runs in my family",
+    "groupCode": 0
+  },
+  {
+    "id": 2623,
+    "fa": "کچلی تو خانوادم ارثیه",
+    "en": "Baldness runs in my family",
+    "groupCode": 0
+  },
+  {
+    "id": 2624,
+    "fa": "همسرم خیلی شوره موی سر و مو خوره داره",
+    "en": "My wife has lots of dandruff and split ends",
+    "groupCode": 0
+  },
+  {
+    "id": 2625,
+    "fa": "چه عطری میزنی؟",
+    "en": "What perfume are you wearing?",
+    "groupCode": 0
+  },
+  {
+    "id": 2626,
+    "fa": "توصیه من این است که غذای سالم بخورید",
+    "en": "My advice is to eat healthy food",
+    "groupCode": 0
+  },
+  {
+    "id": 2627,
+    "fa": "بیایید ببینیم چند بار تلاش می برد",
+    "en": "Let's see how many tries it takes",
+    "groupCode": 0
+  },
+  {
+    "id": 2628,
+    "fa": "آخرین بار کی احساس خوشبختی کردی؟",
+    "en": "When did you last feel happy?",
+    "groupCode": 0
+  },
+  {
+    "id": 2629,
+    "fa": "دوباره شروع کردی",
+    "en": "There you go again",
+    "groupCode": 0
+  },
+  {
+    "id": 2630,
+    "fa": "من به عجله ننداز",
+    "en": "Don't rush me",
+    "groupCode": 0
+  },
+  {
+    "id": 2631,
+    "fa": "کمی چایی دم کردم",
+    "en": "I brewed some tea",
+    "groupCode": 0
+  },
+  {
+    "id": 2632,
+    "fa": "به کی رفتی؟",
+    "en": "Who do you take after?",
+    "groupCode": 0
+  },
+  {
+    "id": 2633,
+    "fa": "خودتو سرزنش نکن",
+    "en": "Don't beat yourself up!",
+    "groupCode": 0
+  },
+  {
+    "id": 2634,
+    "fa": "از تو بعیده صبور باشی",
+    "en": "It's unlike you to be patient",
+    "groupCode": 0
+  },
+  {
+    "id": 2635,
+    "fa": "معمولا چه ساعتی باز می کنید و می بندید؟",
+    "en": "What time do you usually open and close?",
+    "groupCode": 0
+  },
+  {
+    "id": 2636,
+    "fa": "کلی کار سرم ریخته",
+    "en": "I'm snowed under",
+    "groupCode": 0
+  },
+  {
+    "id": 2637,
+    "fa": "این بدان معنی است که ما باید دو نقطه پایانی جدید را معرفی کنیم تا از هرگونه تغییر مسدود کننده جلوگیری کنیم",
+    "en": "It means that we need to introduce two new endpoints to avoid any blocking changes",
+    "groupCode": 0
+  },
+  {
+    "id": 2638,
+    "fa": "آنها در راه خانه در مورد روی داد صحبت کردند",
+    "en": "They spoke about the incident on the way home",
+    "groupCode": 0
+  },
+  {
+    "id": 2639,
+    "fa": "به او (زن) دادند 50 یورو برای تولدش",
+    "en": "She was given 50 euros for her birthday",
+    "groupCode": 0
+  },
+  {
+    "id": 2640,
+    "fa": "کاش می توانستم راه حل بهتری پیدا کنم، اما هیچ راه حلی وجود ندارد",
+    "en": "I wish I could find a better solution, but there isn't any",
+    "groupCode": 0
+  },
+  {
+    "id": 2641,
+    "fa": "خواندن این خیلی سخت است! حتما شما هم همین مشکلات را دارید",
+    "en": "This is very difficult to read! You must be having the same difficulties, too",
+    "groupCode": 0
+  },
+  {
+    "id": 2642,
+    "fa": "این آن نوع فیلمی نیست که من به آن علاقه دارم",
+    "en": "That's not the sort of film I'm interested in",
+    "groupCode": 0
+  },
+  {
+    "id": 2643,
+    "fa": "من (هر دو) به وجد آمدم و ترسیده بودم",
+    "en": "I was both ecstatic and terrified",
+    "groupCode": 0
+  },
+  {
+    "id": 2644,
+    "fa": "طبق مطالعات, تقریباً 70 درصد پروژه های نرم افزاری به موقع تحویل داده نمی شوند",
+    "en": "According to studies, approximately 70% of software projects are not delivered on time",
+    "groupCode": 0
+  },
+  {
+    "id": 2645,
+    "fa": "در اینجا ما ازش استفاده خواهیم کرد برای یادگیری پیچیدگی های حوزه های تجاری",
+    "en": "Here we will use it to learn the intricacies of business domains",
+    "groupCode": 0
+  },
+  {
+    "id": 2646,
+    "fa": "باید عاری از ابهام، مفروضات ضمنی و جزئیات اضافی باشد",
+    "en": "It should be free of ambiguity, implicit assumptions, and extraneous details",
+    "groupCode": 0
+  },
+  {
+    "id": 2647,
+    "fa": "آیا به طور خلاصه (مخلص کلام) وظایف خود را می دانید؟",
+    "en": "Do you know your responsibilities in a nutshell?",
+    "groupCode": 0
+  },
+  {
+    "id": 2648,
+    "fa": "از خواب بیدار شدن هر روز صبح با لبخندی روشن آسان تر از آن چیزی است که تو فکر می کنی",
+    "en": "Getting up every morning with a bright smile is easier than you think",
+    "groupCode": 0
+  },
+  {
+    "id": 2649,
+    "fa": "با مراقبت های موثر و روتین دندان، شما قرار می دهید اساس سلامت دهان و دندان که تا سنین بالا خوب دوام می آورد",
+    "en": "With effective and routine dental care, you lay the foundation for oral and dental health that lasts well into old age",
+    "groupCode": 0
+  },
+  {
+    "id": 2650,
+    "fa": "دندانپزشک من گفت خوب مسواک بزنید و نخ دندان بکشید برای جلوگیری از ایجاد جرم (پلاک)",
+    "en": "My dentist said to brush and floss well to avoid tartar (plaque) buildup",
+    "groupCode": 0
+  },
+  {
+    "id": 2651,
+    "fa": "اون هست یکی از بدخلق ترین گربه هایی که تا به حال دیده ام",
+    "en": "That is one of the grumpiest cat I have ever seen",
+    "groupCode": 0
+  },
+  {
+    "id": 2652,
+    "fa": "هی اونجوری (لعنتی) به من نگاه نکن",
+    "en": "Hey, don't fucking look at me like that",
+    "groupCode": 0
+  },
+  {
+    "id": 2653,
+    "fa": "اون یک گربه (لعنتی) با قیافه عجیب و غریب است",
+    "en": "That's a weird-looking fucking cat",
+    "groupCode": 0
+  },
+  {
+    "id": 2654,
+    "fa": "پس از این ما می دانیم احتمال انجام (ساختن) این ضربه در مسابقات چقدر است",
+    "en": "After this we know what's the likelihood of making this shot in the tournament",
+    "groupCode": 0
+  },
+  {
+    "id": 2655,
+    "fa": "برو لعنتی از اینجا",
+    "en": "Get the fuck out of here",
+    "groupCode": 0
+  },
+  {
+    "id": 2656,
+    "fa": "تبریکات برای شغل جدید",
+    "en": "Congratulations on your new job",
+    "groupCode": 0
+  },
+  {
+    "id": 2657,
+    "fa": "من می خواهم موهای همسرم کوتاه شود",
+    "en": "I want my wife to get a haircut",
+    "groupCode": 0
+  },
+  {
+    "id": 2658,
+    "fa": "با من خودمونی نشو",
+    "en": "Don't get fresh with me",
+    "groupCode": 0
+  },
+  {
+    "id": 2659,
+    "fa": "چقدر تا پایان کارتان باقی مانده است؟",
+    "en": "How much time is left till the end of your work?",
+    "groupCode": 0
+  },
+  {
+    "id": 2660,
+    "fa": "خوب است که مرطوب بمانید (آب بیشتری بنوشید)",
+    "en": "It's good to stay hydrated",
     "groupCode": 0
   }
 ]
