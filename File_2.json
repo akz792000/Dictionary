@@ -2719,7 +2719,7 @@
   },
   {
     "id": 10450,
-    "en": "When do you have time?",
+    "en": "When do you have time? (informal)",
     "de": "Wann hast du Zeit?",
     "groupCode": 1
   },
@@ -3571,7 +3571,7 @@
   },
   {
     "id": 10592,
-    "en": "For my son a sparkling apple and for me a glass of red wine",
+    "en": "For my son an apple spritzer and for me a glass of red wine",
     "de": "Für meinen Sohn eine Apfelschorle und Für mich ein Glas Rotwein",
     "groupCode": 1
   },
@@ -3639,6 +3639,138 @@
     "id": 10603,
     "en": "Would you like salad or fries with the fish? I love fries and salad",
     "de": "Möchtest du mit dem Fisch Salat oder Pommes? Ich liebe Pommes und Salat",
+    "groupCode": 1
+  },
+  {
+    "id": 10604,
+    "en": "Here is the bill. I would like to pay in cash",
+    "de": "Hier ist die Rechnung. Ich möchte bar zahlen",
+    "groupCode": 1
+  },
+  {
+    "id": 10605,
+    "en": "Salad is really healthy",
+    "de": "Salat ist wirklich gesund",
+    "groupCode": 1
+  },
+  {
+    "id": 10606,
+    "en": "I don't know it",
+    "de": "Ich weiß es nicht",
+    "groupCode": 1
+  },
+  {
+    "id": 10607,
+    "en": "My roommates aren't hungry",
+    "de": "Meine Mitbewohner haben keinen Hunger",
+    "groupCode": 1
+  },
+  {
+    "id": 10608,
+    "en": "I would like to drink the apple spritzer. The apple spritzer is for me",
+    "de": "Ich möchte die Apfelschorle trinken. Die Apfelschorle ist für mich",
+    "groupCode": 1
+  },
+  {
+    "id": 10609,
+    "en": "Would you like to order the sandwich with cheese?",
+    "de": "Möchten Sie das Sandwich mit Käse bestellen?",
+    "groupCode": 1
+  },
+  {
+    "id": 10610,
+    "en": "We're paying cash today",
+    "de": "Wir zahlen heute bar",
+    "groupCode": 1
+  },
+  {
+    "id": 10611,
+    "en": "I like eating meat. You must buy schnitzel for me",
+    "de": "Ich esse gern Fleisch. Du musst Schnitzel für mich kaufen",
+    "groupCode": 1
+  },
+  {
+    "id": 10612,
+    "en": "Where is the river?",
+    "de": "Wo ist der Fluss?",
+    "groupCode": 1
+  },
+  {
+    "id": 10613,
+    "en": "Would you like to visit me?",
+    "de": "Möchtest du mich besuchen?",
+    "groupCode": 1
+  },
+  {
+    "id": 10614,
+    "en": "The city museum is on the left",
+    "de": "Das Stadtmuseum ist links",
+    "groupCode": 1
+  },
+  {
+    "id": 10615,
+    "en": "Would you like to see the marketplace later?",
+    "de": "Möchtest du später den Marktplatz sehen?",
+    "groupCode": 1
+  },
+  {
+    "id": 10616,
+    "en": "I'm looking for the city center",
+    "de": "Ich suche das Stadtzentrum",
+    "groupCode": 1
+  },
+  {
+    "id": 10617,
+    "en": "We're looking for the art museum",
+    "de": "Wir suchen das Kunstmuseum",
+    "groupCode": 1
+  },
+  {
+    "id": 10618,
+    "en": "The art museum is not open, but the artist (man) paints here",
+    "de": "Das Kunstmuseum ist nicht geöffnet, aber der Künstler malt hier",
+    "groupCode": 1
+  },
+  {
+    "id": 10619,
+    "en": "The elephant doesn't love the zoo",
+    "de": "Der Elefant liebt den Zoo nicht",
+    "groupCode": 1
+  },
+  {
+    "id": 10620,
+    "en": "I would like to visit a zoo on vacation",
+    "de": "Ich möchte im Urlaub einen Zoo besuchen",
+    "groupCode": 1
+  },
+  {
+    "id": 10621,
+    "en": "The ticket costs around fifteen euros",
+    "de": "Die Fahrkarte kostet circa fünfzehn Euro",
+    "groupCode": 1
+  },
+  {
+    "id": 10622,
+    "en": "Where is the restaurant? Go to the left and then to the right",
+    "de": "Wo ist das Restaurant? Gehen Sie links und dann rechts",
+    "groupCode": 1
+  },
+  {
+    "id": 10623,
+    "en": "Go straight ahead for approximately ten minutes",
+    "de": "Gehen Sie circa zehn Minuten geradeaus",
+    "groupCode": 1
+  },
+  {
+    "id": 10624,
+    "en": "I'm looking for the city museum. Do I have to go right or left?",
+    "de": "Ich suche das Stadtmuseum. Muss ich rechts oder links gehen?",
+    "groupCode": 1
+  },
+  {
+    "id": 10625,
+    "en": "Would you like to order the fruit salad or the apple cake",
+    "de": "Möchten Sie den Obstsalat oder den Apfelkuchen bestellen",
     "groupCode": 1
   }
 ]

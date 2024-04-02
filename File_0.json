@@ -1910,7 +1910,7 @@
   {
     "id": 317,
     "fa": "من احساس تهوع دارم",
-    "en": "I feel queasy",
+    "en": "\n 1.I feel queasy \n 2.I feel nauseous",
     "groupCode": 0
   },
   {
@@ -4556,8 +4556,8 @@
   },
   {
     "id": 753,
-    "fa": "من تصادفی شنیدم که این زوج در مورد سالگرد ازدواجشان صحبت می کنند، بنابراین فکر کردم آنها را غافلگیر کنم",
-    "en": "I overheard this couple talking about their anniversary so I thought I'd surprise them",
+    "fa": "من تصادفی شنیدم که این زوج در مورد سالگرد ازدواجشان صحبت می کنند، بنابراین فکر کردم آنها را غافلگیر (فرضی) کنم",
+    "en": "I overheard this couple was talking about their anniversary so I thought I'd surprise them",
     "groupCode": 0
   },
   {
@@ -5940,7 +5940,7 @@
   },
   {
     "id": 980,
-    "fa": "وقتی چیز ها سخت میشه، نفس عمیق بکشید و به اعصاب خود مسلط باشید. شما می توانید این را انجام دهید",
+    "fa": "وقتی چیز ها سخت میشه، نفس عمیق بکشید و به اعصاب خود مسلط باشید. شما می توانید از عهده این کار (هندل کردن) بر بیایید",
     "en": "When things get tough, take a deep breath and get a grip. You can handle this",
     "groupCode": 0
   },

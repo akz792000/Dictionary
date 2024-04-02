@@ -3636,7 +3636,7 @@
   },
   {
     "id": 2603,
-    "fa": "مرحوم پدرم خیلی دوست داشت از دوران کودکی خود قصه بگوید",
+    "fa": "مرحوم پدرم علاقه داشت (عشق) قصه بگوید درباره دوران کودکیش",
     "en": "My late father loved to tell stories about his childhood",
     "groupCode": 0
   },
@@ -3690,14 +3690,14 @@
   },
   {
     "id": 2612,
-    "fa": "هیچ وقت به ذهنم نرسید",
+    "fa": "هیچ وقت از ذهنم عبور نکرد",
     "en": "It never crossed my mind",
     "groupCode": 0
   },
   {
     "id": 2613,
     "fa": "در نظر داشته باشید",
-    "en": "Bear in mind",
+    "en": "\n 1.Bear in mind \n 2.Keep in mind",
     "groupCode": 0
   },
   {
@@ -3786,8 +3786,8 @@
   },
   {
     "id": 2628,
-    "fa": "آخرین بار کی احساس خوشبختی کردی؟",
-    "en": "When did you last feel happy?",
+    "fa": "آخرین باری که احساس خوشبختی کردی کی بود؟",
+    "en": "When was the last time you felt happy?",
     "groupCode": 0
   },
   {
@@ -3846,7 +3846,7 @@
   },
   {
     "id": 2638,
-    "fa": "آنها در راه خانه در مورد روی داد صحبت کردند",
+    "fa": "آنها صحبت کردند در مورد رویداد در راه خانه",
     "en": "They spoke about the incident on the way home",
     "groupCode": 0
   },
@@ -3858,13 +3858,13 @@
   },
   {
     "id": 2640,
-    "fa": "کاش می توانستم راه حل بهتری پیدا کنم، اما هیچ راه حلی وجود ندارد",
+    "fa": "کاش می توانستم راه حل بهتری پیدا کنم، اما هیچی وجود ندارد",
     "en": "I wish I could find a better solution, but there isn't any",
     "groupCode": 0
   },
   {
     "id": 2641,
-    "fa": "خواندن این خیلی سخت است! حتما شما هم همین مشکلات را دارید",
+    "fa": " این خیلی سخت است برای خواندن! شما هم می بایستی همین مشکلات را داشته باشید",
     "en": "This is very difficult to read! You must be having the same difficulties, too",
     "groupCode": 0
   },
@@ -3954,7 +3954,7 @@
   },
   {
     "id": 2656,
-    "fa": "تبریکات برای شغل جدید",
+    "fa": "تبریکات برای شغل جدیدت",
     "en": "Congratulations on your new job",
     "groupCode": 0
   },
@@ -3980,6 +3980,66 @@
     "id": 2660,
     "fa": "خوب است که مرطوب بمانید (آب بیشتری بنوشید)",
     "en": "It's good to stay hydrated",
+    "groupCode": 0
+  },
+  {
+    "id": 2661,
+    "fa": "بیایید خلاصه کنیم این سطح را با یک جایزه در پایان",
+    "en": "Let's recap this level with a reward at the end",
+    "groupCode": 0
+  },
+  {
+    "id": 2662,
+    "fa": "کدام یک از شما در رشته (فیلد) پزشکی قبول شدید؟",
+    "en": "Which one of you was accepted in the field of medicine?",
+    "groupCode": 0
+  },
+  {
+    "id": 2663,
+    "fa": "نگرانی شما نابجاست (بی مورد)",
+    "en": "Your concern is misplaced",
+    "groupCode": 0
+  },
+  {
+    "id": 2664,
+    "fa": "روزه ای؟",
+    "en": "Are you fasting?",
+    "groupCode": 0
+  },
+  {
+    "id": 2665,
+    "fa": "جای شما خالی بود",
+    "en": "You were missed",
+    "groupCode": 0
+  },
+  {
+    "id": 2666,
+    "fa": "ترجیح میدم تو بری دکتر زودتر به جای دیرتر",
+    "en": "I would rather you went to the doctor sooner rather than later",
+    "groupCode": 0
+  },
+  {
+    "id": 2667,
+    "fa": "دارم (لباس) عوض میکنم",
+    "en": "I'm getting changed",
+    "groupCode": 0
+  },
+  {
+    "id": 2668,
+    "fa": "بهترین هدیه ای که تا به حال به کسی داده اید چیست؟",
+    "en": "What's the best gift you've ever given someone?",
+    "groupCode": 0
+  },
+  {
+    "id": 2669,
+    "fa": "همه پول شما کجا رفته؟",
+    "en": "Where is your all money gone?",
+    "groupCode": 0
+  },
+  {
+    "id": 2670,
+    "fa": "او (زن) دندان درد دارد. او فکر می کند که پوسیدگی دارد",
+    "en": "She has a toothache. She thinks she has a cavity",
     "groupCode": 0
   }
 ]

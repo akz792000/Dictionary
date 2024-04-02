@@ -358,5 +358,11 @@
     "en": "Search",
     "de": "\n suche \n suchst \n sucht \n suchen \n sucht \n suchen",
     "groupCode": 1
+  },
+  {
+    "id": 20061,
+    "en": "Cost",
+    "de": "\n koste \n kostest \n kostet \n kosten \n kostet \n kosten",
+    "groupCode": 1
   }
 ]
