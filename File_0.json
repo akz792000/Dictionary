@@ -2338,7 +2338,7 @@
   },
   {
     "id": 388,
-    "fa": "کار ما اینجا تمام نشده",
+    "fa": "ما اینجا (کار) تمام نکردیم",
     "en": "We're not done here",
     "groupCode": 0
   },
@@ -3931,7 +3931,7 @@
   },
   {
     "id": 651,
-    "fa": "لطفا توجه کنید به رانندگان و دوچرخه سواران وقت پیاده شدن",
+    "fa": "لطفا توجه کنید به موتور سوارها و دوچرخه سواران وقت پیاده شدن",
     "en": "Please pay attention to Motorists and Cyclists when getting off",
     "groupCode": 0
   },
@@ -4520,7 +4520,7 @@
   },
   {
     "id": 747,
-    "fa": "ممنون برای یک روز خوش",
+    "fa": "ممنون برای یک روز خوشایند",
     "en": "Thanks for a pleasant day",
     "groupCode": 0
   },
@@ -7453,7 +7453,7 @@
   },
   {
     "id": 1228,
-    "fa": "من داشتم میمردم که این مکان را امتحان کنم",
+    "fa": "من داشتم میمردم این مکان را امتحان (سعی) کنم",
     "en": "I've been dying to try this place",
     "groupCode": 0
   },
@@ -8863,7 +8863,7 @@
   },
   {
     "id": 1461,
-    "fa": "اختلاف در سن آن ها به نظر می رسد مهم نباشه",
+    "fa": "اختلاف در سن آن ها به نظر رسید مهم نباشه",
     "en": "The discrepancy in their ages seemed not to matter",
     "desc": "Subject + auxiliary verb (did not/didn't) + main verb (seem) + infinitive marker (to) + main verb (matter)",
     "groupCode": 0
@@ -9765,6 +9765,7 @@
     "id": 1610,
     "fa": "چرا امروز تمومش نکنیم؟",
     "en": "Why don't we call it a day?",
+    "desc": "The sentence \"why don't we call it a day?\" is a common English idiom. It means suggesting to stop what one is doing, usually work or an activity, and end it for the day. It implies that the speaker thinks it's time to finish or stop what they're doing, often because they feel they have accomplished enough or because they want to relax or take a break",
     "groupCode": 0
   },
   {

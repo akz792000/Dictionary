@@ -1860,7 +1860,7 @@
   },
   {
     "id": 10307,
-    "en": "How much does that cost? It costs one euro",
+    "en": "How much does that cost? That costs one euro",
     "de": "Wie viel kostet das? Das kostet einen Euro",
     "groupCode": 1
   },
@@ -2653,7 +2653,7 @@
   },
   {
     "id": 10439,
-    "en": "The lawyer has no money",
+    "en": "The lawyer (male) has no money",
     "de": "Der Anwalt hat kein Geld",
     "groupCode": 1
   },
@@ -3769,8 +3769,56 @@
   },
   {
     "id": 10625,
-    "en": "Would you like to order the fruit salad or the apple cake",
+    "en": "Would you (formal) like to order the fruit salad or the apple cake",
     "de": "Möchten Sie den Obstsalat oder den Apfelkuchen bestellen",
+    "groupCode": 1
+  },
+  {
+    "id": 10626,
+    "en": "Would you (formal) like the fruit salad without sugar?",
+    "de": "Möchten Sie den Obstsalat ohne Zucker?",
+    "groupCode": 1
+  },
+  {
+    "id": 10627,
+    "en": "Where is the bus?",
+    "de": "Wo ist der Bus?",
+    "groupCode": 1
+  },
+  {
+    "id": 10628,
+    "en": "The bus stop is on the left",
+    "de": "Die Bushaltestelle ist links",
+    "groupCode": 1
+  },
+  {
+    "id": 10629,
+    "en": "here is the bus stop, but the bus has delay",
+    "de": "Hier ist die Bushaltestelle, aber der Bus hat Verspätung",
+    "groupCode": 1
+  },
+  {
+    "id": 10630,
+    "en": "Take bus number eleven",
+    "de": "\n 1.Fahren Sie mit Bus Nummer elf \n 2.Nehmen Sie den Bus Nummer elf",
+    "groupCode": 1
+  },
+  {
+    "id": 10631,
+    "en": "Wait! You can't go now",
+    "de": "Warten Sie! Sie können jetzt nicht gehen",
+    "groupCode": 1
+  },
+  {
+    "id": 10632,
+    "en": "Do you go by foot?",
+    "de": "Gehst du zu Fuß?",
+    "groupCode": 1
+  },
+  {
+    "id": 10633,
+    "en": "The game lasts thirty minutes",
+    "de": "Das Spiel dauert dreißig Minuten",
     "groupCode": 1
   }
 ]

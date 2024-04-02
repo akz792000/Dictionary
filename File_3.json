@@ -364,5 +364,11 @@
     "en": "Cost",
     "de": "\n koste \n kostest \n kostet \n kosten \n kostet \n kosten",
     "groupCode": 1
+  },
+  {
+    "id": 20062,
+    "en": "Teach",
+    "de": "\n unterrichte \n unterrichtest \n unterrichtet \n unterrichten \n unterrichtet \n unterrichten",
+    "groupCode": 1
   }
 ]

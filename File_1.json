@@ -3552,7 +3552,7 @@
   },
   {
     "id": 2589,
-    "fa": "فقط دو روز تا شروع تعطیلات ما باقی مانده است",
+    "fa": "فقط دو روز دیگه تا شروع تعطیلات ما باقی مانده است",
     "en": "Only two days away until our vacation begins",
     "groupCode": 0
   },
@@ -3714,7 +3714,7 @@
   },
   {
     "id": 2616,
-    "fa": "حواسم پرت است",
+    "fa": "حواسم پرته",
     "en": "I'm absent-minded",
     "groupCode": 0
   },
@@ -3732,8 +3732,8 @@
   },
   {
     "id": 2619,
-    "fa": "سر در نمیارم",
-    "en": "Beats me",
+    "fa": "چقدر این شیر در یخچال مانده است؟ سر در نمیارم. تاریخ انقضا را بررسی کنید",
+    "en": "How long has this milk been in the fridge? Beats me. Check the expiration date",
     "groupCode": 0
   },
   {
@@ -3840,7 +3840,7 @@
   },
   {
     "id": 2637,
-    "fa": "این بدان معنی است که ما باید دو نقطه پایانی جدید را معرفی کنیم تا از هرگونه تغییر مسدود کننده جلوگیری کنیم",
+    "fa": "این بدان معنی است که ما باید دو نقطه پایانی جدید را معرفی کنیم تا اجتناب کنیم از هرگونه تغییر مسدود کننده",
     "en": "It means that we need to introduce two new endpoints to avoid any blocking changes",
     "groupCode": 0
   },
@@ -3870,7 +3870,7 @@
   },
   {
     "id": 2642,
-    "fa": "این آن نوع فیلمی نیست که من به آن علاقه دارم",
+    "fa": "اون نوع فیلمی نیست که من به آن علاقه دارم",
     "en": "That's not the sort of film I'm interested in",
     "groupCode": 0
   },
@@ -3900,7 +3900,7 @@
   },
   {
     "id": 2647,
-    "fa": "آیا به طور خلاصه (مخلص کلام) وظایف خود را می دانید؟",
+    "fa": "آیا به طور خلاصه (مخلص کلام) مسئولیت های خود را می دانید؟",
     "en": "Do you know your responsibilities in a nutshell?",
     "groupCode": 0
   },
@@ -3942,7 +3942,7 @@
   },
   {
     "id": 2654,
-    "fa": "پس از این ما می دانیم احتمال انجام (ساختن) این ضربه در مسابقات چقدر است",
+    "fa": "پس از این ما می دانیم احتمال انجام (ساختن) این ضربه در مسابقه چقدر است",
     "en": "After this we know what's the likelihood of making this shot in the tournament",
     "groupCode": 0
   },
@@ -3972,7 +3972,7 @@
   },
   {
     "id": 2659,
-    "fa": "چقدر تا پایان کارتان باقی مانده است؟",
+    "fa": "چقدر زمان تا پایان کارتان باقی مانده است؟",
     "en": "How much time is left till the end of your work?",
     "groupCode": 0
   },
@@ -4014,8 +4014,8 @@
   },
   {
     "id": 2666,
-    "fa": "ترجیح میدم تو بری دکتر زودتر به جای دیرتر",
-    "en": "I would rather you went to the doctor sooner rather than later",
+    "fa": "ترجیح میدم تو بری دکتر",
+    "en": "I would rather you went to the doctor",
     "groupCode": 0
   },
   {
