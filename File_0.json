@@ -3031,7 +3031,7 @@
   {
     "id": 503,
     "fa": "من فقط 20 دقیقه رفته بودم",
-    "en": "I was only gone 20 minutes",
+    "en": "I was gone only for 20 minutes",
     "groupCode": 0
   },
   {
@@ -4360,7 +4360,7 @@
   },
   {
     "id": 721,
-    "fa": "او (زن) همیشه به هر سوالی پاسخ رک می دهد",
+    "fa": "او (زن) همیشه یک پاسخ رک به هر سوالی می دهد",
     "en": "She always gives a straight answer to any question",
     "desc": "In English, the most common sentence structure is subject + verb + object. This structure is known as a basic declarative sentence. \n Adverbs can be placed before or after the verb they modify. In this case, \"always\" comes before the verb \"gives\" to indicate that the action of giving a straight answer is consistently performed. So, the corrected sentence structure is subject + adverb + verb + object.",
     "groupCode": 0
@@ -9164,7 +9164,7 @@
   },
   {
     "id": 1511,
-    "fa": "آرزو داری نزدیک دریا زندگی کنی؟",
+    "fa": "تو آرزو می کردی تو نزدیک دریا زندگی می کردی؟",
     "en": "Do you wish you lived near the sea?",
     "groupCode": 0
   },

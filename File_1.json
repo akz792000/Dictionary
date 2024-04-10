@@ -756,7 +756,7 @@
   },
   {
     "id": 2126,
-    "fa": "این صبح او (مرد) را گرفتم در حال نگاه کردن درون آپارتمانم",
+    "fa": "این صبح من او (مرد) را گرفتم (در حال) نگاه کردن درون آپارتمانم",
     "en": "This morning I caught him looking into my apartment",
     "groupCode": 0
   },
@@ -1908,7 +1908,7 @@
   },
   {
     "id": 2317,
-    "fa": "اگر شما برای خودتان تصمیم نگیرید، دیگران به جای شما تصمیم می گیرند",
+    "fa": "اگر شما برای خودتان تصمیم نگیرید، دیگران به جای شما تصمیم خواهند گرفت",
     "en": "If you don't make decisions for yourself, others will make decision for you",
     "groupCode": 0
   },
@@ -2698,7 +2698,7 @@
   },
   {
     "id": 2448,
-    "fa": "شما گامهای بلندی دارید بر میدارید",
+    "fa": "شما گامهای بلندی دارید بر میدارید (می سازید)",
     "en": "You're making great strides",
     "groupCode": 0
   },
@@ -3437,7 +3437,7 @@
   },
   {
     "id": 2570,
-    "fa": "من اخیراً ابتکار عمل را در دست گرفتم تا برای یک فرصت شغلی امیدوار کننده درخواست کنم",
+    "fa": "من اخیراً ابتکار عمل را در دست گرفتم تا برای یک فرصت شغلی جدید امیدوار کننده درخواست کنم",
     "en": "I recently took the initiative to apply for a promising new job opportunity",
     "groupCode": 0
   },
@@ -3552,7 +3552,7 @@
   },
   {
     "id": 2589,
-    "fa": "فقط دو روز دیگه تا شروع تعطیلات ما باقی مانده است",
+    "fa": "فقط دو روز دیگر تا شروع تعطیلی ما باقی مانده",
     "en": "Only two days away until our vacation begins",
     "groupCode": 0
   },
@@ -3636,7 +3636,7 @@
   },
   {
     "id": 2603,
-    "fa": "مرحوم پدرم علاقه داشت (عشق) قصه بگوید درباره دوران کودکیش",
+    "fa": "مرحوم پدرم علاقه داشت (عشق) قصه ها بگوید درباره دوران کودکیش",
     "en": "My late father loved to tell stories about his childhood",
     "groupCode": 0
   },
@@ -3864,8 +3864,8 @@
   },
   {
     "id": 2641,
-    "fa": " این خیلی سخت است برای خواندن! شما هم می بایستی همین مشکلات را داشته باشید",
-    "en": "This is very difficult to read! You must be having the same difficulties, too",
+    "fa": " این خیلی مشکل است برای خواندن! شما هم می بایستی همین مشکلات را داشته باشید",
+    "en": "This is very difficult to read! You must be having the same difficulties",
     "groupCode": 0
   },
   {
@@ -4040,6 +4040,78 @@
     "id": 2670,
     "fa": "او (زن) دندان درد دارد. او فکر می کند که پوسیدگی دارد",
     "en": "She has a toothache. She thinks she has a cavity",
+    "groupCode": 0
+  },
+  {
+    "id": 2671,
+    "fa": "چقدر پیشرفت کردی؟ (ساختی)",
+    "en": "How much progress did you make?",
+    "groupCode": 0
+  },
+  {
+    "id": 2672,
+    "fa": "من کی قراره کار کنم؟",
+    "en": "When am I supposed to work?",
+    "groupCode": 0
+  },
+  {
+    "id": 2673,
+    "fa": "زنجیر تایم در داخل موتور قرار می گیرد و روغن موتور را دریافت می کند و می تواند برای مدت طولانی دوام بیاورد، در حالی که تسمه های تایم در خارج از موتور قرار دارند و تمایل به خشک شدن و ترک خوردن دارند",
+    "en": "Timing chain is housed within the engine and receive lubrication from engine oil and can last a long time, while timing belt is located outside of the engine and tend to dry out and crack",
+    "groupCode": 0
+  },
+  {
+    "id": 2674,
+    "fa": "سرماخوردگی خفیف و گلو درد دارم",
+    "en": "I have a mild cold and sore throat",
+    "groupCode": 0
+  },
+  {
+    "id": 2675,
+    "fa": "فکر می کنی من یک احمق هستم",
+    "en": "You think I'm a fool",
+    "groupCode": 0
+  },
+  {
+    "id": 2676,
+    "fa": "آماده ای برای سفارش دادن؟",
+    "en": "Are you ready to order?",
+    "groupCode": 0
+  },
+  {
+    "id": 2677,
+    "fa": "می توانم چیزی برای شروع به شما بدهم؟",
+    "en": "Can I get you something to start with?",
+    "groupCode": 0
+  },
+  {
+    "id": 2678,
+    "fa": "من مایلم (داشته باشم) ماهی تن با سالاد",
+    "en": "I'd like the tuna with a salad",
+    "groupCode": 0
+  },
+  {
+    "id": 2679,
+    "fa": "استیک خود را چگونه (مودبانه) دوست دارید؟ آبدار, نیم پز یا کاملا پخته",
+    "en": "How would you like your steak? rare, medium or well done",
+    "groupCode": 0
+  },
+  {
+    "id": 2680,
+    "fa": "آیا مرا هنوز دوست داشتی اگر به دنیا نمی آمدم؟",
+    "en": "Would you still love me if I wasn't born?",
+    "groupCode": 0
+  },
+  {
+    "id": 2681,
+    "fa": "از شما بعیده که چنین اشتباهی را مرتکب شوی، اما از من بعید نیست این کار را انجام دهم",
+    "en": "It's unlike you to make such a mistake, but I'm not unlikely to do this",
+    "groupCode": 0
+  },
+  {
+    "id": 2682,
+    "fa": "چشمانش (زن) ضعیف است",
+    "en": "She has poor eyesight",
     "groupCode": 0
   }
 ]
