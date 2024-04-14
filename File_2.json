@@ -43,14 +43,14 @@
   },
   {
     "id": 10008,
-    "en": "I'm unemployed at the moment. I'm looking for work as a salesman",
-    "de": "Ich bin im Moment arbeitslos. Ich suche Arbeit als Verkäufer",
+    "en": "I'm unemployed at the moment",
+    "de": "Ich bin im Moment arbeitslos",
     "groupCode": 1
   },
   {
     "id": 10009,
-    "en": "No problem! His name is Asghar. He studies mathematics and works as a waiter",
-    "de": "Kein Problem! Er heißt Asghar. Er studiert Mathematik und arbeitet als Kellner",
+    "en": "No problem! His name is Asghar",
+    "de": "Kein Problem! Er heißt Asghar",
     "groupCode": 1
   },
   {
@@ -61,8 +61,8 @@
   },
   {
     "id": 10011,
-    "en": "My name is Ali and come from Iran and now live in Munich. I am a software engineer and work at Knauf",
-    "de": "Ich heiße Ali und komme aus dem Iran und wohne jetzt in München. Ich bin Software-Ingenieur und arbeite bei Knauf",
+    "en": "My name is Ali and come from Iran and now live in Munich",
+    "de": "Ich heiße Ali und komme aus dem Iran und wohne jetzt in München",
     "groupCode": 1
   },
   {
@@ -92,8 +92,8 @@
   },
   {
     "id": 10016,
-    "en": "She is a saleswoman. She sells sports products at Intersport",
-    "de": "Sie ist Verkäuferin. Sie verkauft Sportprodukte bei Intersport",
+    "en": "She is a saleswoman",
+    "de": "Sie ist Verkäuferin",
     "groupCode": 1
   },
   {
@@ -140,8 +140,8 @@
   },
   {
     "id": 10024,
-    "en": "I'm a nurse. I care for patients",
-    "de": "Ich bin Krankenpfleger. Ich pflege Patienten",
+    "en": "I'm a nurse",
+    "de": "Ich bin Krankenpfleger",
     "groupCode": 1
   },
   {
@@ -218,8 +218,8 @@
   },
   {
     "id": 10037,
-    "en": "This is Dana. She is from Lublin. This is in Poland. She now lives in Germany",
-    "de": "Das ist Dana. Sie ist aus Lublin. Das ist in Polen. Sie wohnt jetzt in Deutschland",
+    "en": "This is Dana. She is from Lublin. She now lives in Germany",
+    "de": "Das ist Dana. Sie ist aus Lublin. Sie wohnt jetzt in Deutschland",
     "groupCode": 1
   },
   {
@@ -331,8 +331,8 @@
   },
   {
     "id": 10055,
-    "en": "Are you in the mood for chocolate? Yes, totally interested. No, not interested. I'm totally up for fries",
-    "de": "Hast du Bock auf Schokolade? Ja, voll Bock oder, Ne, null Bock. Ich habe voll Bock auf Pommes",
+    "en": "I care for patients",
+    "de": "Ich pflege Patienten",
     "groupCode": 1
   },
   {
@@ -362,8 +362,8 @@
   },
   {
     "id": 10060,
-    "en": "I'm up for ice cream. I have a craving for cake",
-    "de": "Ich habe Bock auf Eis. Ich habe Lust auf Torte",
+    "en": "I have a craving for cake",
+    "de": "\n 1.Ich habe Bock auf Eis 2.Ich habe Lust auf Torte",
     "desc": "While both sentences express a desire for ice cream, the first one (\"Ich habe Bock auf Eis\") might imply a bit more enthusiasm or eagerness compared to the second one (\"Ich habe Lust auf Eis\").",
     "groupCode": 1
   },
@@ -399,8 +399,8 @@
   },
   {
     "id": 10066,
-    "en": "Where do you live? (informal) I live in France and speak French",
-    "de": "Wo lebst du? Ich lebe in Frankreich und spreche Französisch",
+    "en": "Where do you live? (informal) I live in France",
+    "de": "Wo lebst du? Ich lebe in Frankreich",
     "groupCode": 1
   },
   {
@@ -471,8 +471,8 @@
   },
   {
     "id": 10078,
-    "en": "Hello, How's it going? It's going fine. It's going not so well. It's going badly",
-    "de": "Hallo, wie geht's? Mir geht's super. Mir geht's nicht so gut. Mir geht's Schlecht",
+    "en": "Hello, How's it going? It's going fine",
+    "de": "Hallo, wie geht's? Mir geht's super",
     "groupCode": 1
   },
   {
@@ -1787,8 +1787,8 @@
   },
   {
     "id": 10295,
-    "en": "Where is the train station please? The train station is here straight ahead",
-    "de": "Wo ist bitte der Bahnhof? Der Bahnhof ist hier geradeaus",
+    "en": "Where is the train station please? The train station is here straight ahead and then left",
+    "de": "Wo ist bitte der Bahnhof? Der Bahnhof ist hier geradeaus und dann links",
     "groupCode": 1
   },
   {
@@ -3541,8 +3541,8 @@
   },
   {
     "id": 10587,
-    "en": "There's no food here and I'm hungry",
-    "de": "Es gibt kein Essen hier und ich habe Hunger",
+    "en": "There's no food here",
+    "de": "Es gibt kein Essen hier",
     "groupCode": 1
   },
   {
@@ -3819,6 +3819,114 @@
     "id": 10633,
     "en": "The game lasts thirty minutes",
     "de": "Das Spiel dauert dreißig Minuten",
+    "groupCode": 1
+  },
+  {
+    "id": 10634,
+    "en": "How long do I have to go by foot?",
+    "de": "Wie lange muss ich zu Fuß gehen?",
+    "groupCode": 1
+  },
+  {
+    "id": 10635,
+    "en": "When does bus number fourteen come?",
+    "de": "Wann kommt Bus Nummer vierzehn?",
+    "groupCode": 1
+  },
+  {
+    "id": 10636,
+    "en": "Would you rather eat now or later?",
+    "de": "Möchtest du lieber jetzt oder später essen?",
+    "groupCode": 1
+  },
+  {
+    "id": 10637,
+    "en": "Do you like the dessert?",
+    "de": "Magst du den Nachtisch?",
+    "groupCode": 1
+  },
+  {
+    "id": 10638,
+    "en": "We have eggs, milk and potatoes",
+    "de": "Wie haben Eier, Milch und Kartoffeln",
+    "groupCode": 1
+  },
+  {
+    "id": 10639,
+    "en": "That can't be",
+    "de": "Das kann nicht sein",
+    "groupCode": 1
+  },
+  {
+    "id": 10640,
+    "en": "We need a taxi to the hotel",
+    "de": "Wir brauchen ein Taxi bis zum Hotel",
+    "groupCode": 1
+  },
+  {
+    "id": 10641,
+    "en": "You can't swim in the river",
+    "de": "Sie können nicht im Fluss schwimmen",
+    "groupCode": 1
+  },
+  {
+    "id": 10642,
+    "en": "Does it snow in Rome in winter?",
+    "de": "Schneit es im Winter in Rom?",
+    "groupCode": 1
+  },
+  {
+    "id": 10643,
+    "en": "Can you repeat the address?",
+    "de": "Können Sie die Adresse widerholen?",
+    "groupCode": 1
+  },
+  {
+    "id": 10644,
+    "en": "When is your birthday?",
+    "de": "Wann hast du Geburtstag?",
+    "groupCode": 1
+  },
+  {
+    "id": 10645,
+    "en": "What do you do on the first of March?",
+    "de": "Was machst du am ersten März?",
+    "groupCode": 1
+  },
+  {
+    "id": 10646,
+    "en": "I'm looking for work as a salesman",
+    "de": "Ich suche Arbeit als Verkäufer",
+    "groupCode": 1
+  },
+  {
+    "id": 10647,
+    "en": "He studies mathematics and works as a waiter",
+    "de": "Er studiert Mathematik und arbeitet als Kellner",
+    "groupCode": 1
+  },
+  {
+    "id": 10648,
+    "en": "I am a software engineer and work at Knauf",
+    "de": "Ich bin Software-Ingenieur und arbeite bei Knauf",
+    "groupCode": 1
+  },
+  {
+    "id": 10649,
+    "en": "She sells sports products at Intersport",
+    "de": "Sie verkauft Sportprodukte bei Intersport",
+    "groupCode": 1
+  },
+  {
+    "id": 10650,
+    "en": "Hello, How's it going? It's going not so well. It's going badly",
+    "de": "Hallo, wie geht's? Mir geht's nicht so gut. Mir geht's Schlecht",
+    "groupCode": 1
+  },
+  {
+    "id": 10651,
+    "en": "Hello, How's it going? It's going badly",
+    "de": "Hallo, wie geht's? Mir geht's Schlecht",
     "groupCode": 1
   }
 ]
