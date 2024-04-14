@@ -1064,7 +1064,7 @@
   },
   {
     "id": 2177,
-    "fa": "مصری فهمیدش",
+    "fa": "مصری پی بردش",
     "en": "The Egyption figured it out",
     "groupCode": 0
   },
@@ -2964,7 +2964,7 @@
   },
   {
     "id": 2492,
-    "fa": "هیچ به روز رسانی از طرف من در مورد هر گونه وظایف اسپرینت وجود ندارد. فقط در صورتی که نتوانم (فرضی) به تماس برسم",
+    "fa": "هیچ به روز رسانی از طرف من در مورد هر گونه وظایف اسپرینت وجود ندارد. محض اینکه (فقط در صورتی که) نتوانم (فرضی) به تماس برسم",
     "en": "No updates from my side regarding to any sprint tasks. Just in case I couldn't make it to the call",
     "groupCode": 0
   },
@@ -3888,13 +3888,13 @@
   },
   {
     "id": 2645,
-    "fa": "در اینجا ما ازش استفاده خواهیم کرد برای یادگیری پیچیدگی های حوزه های تجاری",
+    "fa": "در اینجا ما ازش استفاده خواهیم کرد برای یادگیری  ریزه کاریهای حوزه های تجاری",
     "en": "Here we will use it to learn the intricacies of business domains",
     "groupCode": 0
   },
   {
     "id": 2646,
-    "fa": "باید عاری از ابهام، مفروضات ضمنی و جزئیات اضافی باشد",
+    "fa": "باید عاری از ابهام، مفروضات ضمنی و جزئیات اضافی (نامربوط) باشد",
     "en": "It should be free of ambiguity, implicit assumptions, and extraneous details",
     "groupCode": 0
   },
@@ -4112,6 +4112,244 @@
     "id": 2682,
     "fa": "چشمانش (زن) ضعیف است",
     "en": "She has poor eyesight",
+    "groupCode": 0
+  },
+  {
+    "id": 2683,
+    "fa": "فقط یک دقیقه دیگر فرصت دارید",
+    "en": "You only have one more minute left",
+    "groupCode": 0
+  },
+  {
+    "id": 2684,
+    "fa": "لطفاً به ما اطلاع دهید که چه گزینه ای را انتخاب خواهید کرد",
+    "en": "Please let us know what option you will be choosing",
+    "groupCode": 0
+  },
+  {
+    "id": 2685,
+    "fa": "حقوق خوب در انگلستان چقدر است؟",
+    "en": "What's a good salary in UK?",
+    "groupCode": 0
+  },
+  {
+    "id": 2686,
+    "fa": "چه بود اولین نشانه ای که شما دیگر آنقدر که فکر می کردید جوان نیستید؟",
+    "en": "What was the first indication that you were no longer as young as you thought?",
+    "groupCode": 0
+  },
+  {
+    "id": 2687,
+    "fa": "او (مرد) تو را به خاطر متفاوت بودنش تحقیر کرد",
+    "en": "He despised you for being different",
+    "groupCode": 0
+  },
+  {
+    "id": 2688,
+    "fa": "ما باید برای حفظ محیط زیست خود برای نسل های آینده گامها را برداریم",
+    "en": "We need to take steps to sustain our environment for future generations",
+    "groupCode": 0
+  },
+  {
+    "id": 2689,
+    "fa": "شمشیر خود را بکش و مرد خود را نجات بده",
+    "en": "Draw your sword and save your man",
+    "groupCode": 0
+  },
+  {
+    "id": 2690,
+    "fa": "امیدوارم این ایمیل شما را در حال خوبی بیابد",
+    "en": "I hope this email finds you well",
+    "groupCode": 0
+  },
+  {
+    "id": 2691,
+    "fa": "نوشتن یک چک بی محل می تواند (فرضی) شما را در دردسر بیاندازد (داخل آب داغ افتادن)",
+    "en": "Writing a rubber check could land you in financial hot water",
+    "groupCode": 0
+  },
+  {
+    "id": 2692,
+    "fa": "فردی که بیشتر صحبت می کند، بیشترین احتمال را دارد که رهبر شود",
+    "en": "The person who talks the most is the most likely to become the leader",
+    "groupCode": 0
+  },
+  {
+    "id": 2693,
+    "fa": "زمان آن است که توقف داد به پاداش دادن به افراد برای تسلط بر بحث و شروع به ارزش دادن به کیفیت بر کمیت",
+    "en": "It's time to stop rewarding people for dominating the discussion, and start valuing quality over quantity",
+    "groupCode": 0
+  },
+  {
+    "id": 2694,
+    "fa": "نوازنده ای که این آهنگ را نوشته فرانسوی است",
+    "en": "The musician who wrote this song is French",
+    "desc": "Who (pronoun) relates to subject",
+    "groupCode": 0
+  },
+  {
+    "id": 2695,
+    "fa": "او (زن) نمی تواند به خاطر بیاورد که چه کسی را دیده",
+    "en": "She can't remember whom she saw",
+    "desc": "Whom (pronoun) relates to object",
+    "groupCode": 0
+  },
+  {
+    "id": 2696,
+    "fa": "من برگر و چیپس داشتم که همیشه از آنها لذت می برم",
+    "en": "I had burger and chips, which I always enjoy",
+    "desc": "Which (pronoun) relates to animals and objects",
+    "groupCode": 0
+  },
+  {
+    "id": 2697,
+    "fa": "میدونی دلیلی که چرا مارکت امروز بسته است؟",
+    "en": "Do you know the reason why the market is closed today?",
+    "desc": "Why (pronoun) refers to reason",
+    "groupCode": 0
+  },
+  {
+    "id": 2698,
+    "fa": "روزی که کنسرت برگزار می شود شنبه است",
+    "en": "The day when the concert takes place is Saturday",
+    "desc": "When (pronoun) refers to time",
+    "groupCode": 0
+  },
+  {
+    "id": 2699,
+    "fa": "این خانه ای است که پسرم در آن به دنیا آمد",
+    "en": "This is the house where my son was born",
+    "desc": "Where (pronoun) refers to places",
+    "groupCode": 0
+  },
+  {
+    "id": 2700,
+    "fa": "پسری که تلفنش الان زنگ خورد باید بایستد",
+    "en": "The boy whose phone just rang should stand up",
+    "desc": "Whose (pronoun) refers to possession",
+    "groupCode": 0
+  },
+  {
+    "id": 2701,
+    "fa": "من می توانم به شما کمک کنم از ایوان خود عبور کنید",
+    "en": "I can help you cross your porch",
+    "groupCode": 0
+  },
+  {
+    "id": 2702,
+    "fa": "تو رقت انگیزی (حقیر)",
+    "en": "You're a pathetic",
+    "groupCode": 0
+  },
+  {
+    "id": 2703,
+    "fa": "تو سخت در اشتباهی",
+    "en": "You're dead wrong",
+    "groupCode": 0
+  },
+  {
+    "id": 2704,
+    "fa": "تو یه ترسویی",
+    "en": "You're a coward",
+    "groupCode": 0
+  },
+  {
+    "id": 2705,
+    "fa": "من همیشه هودی مورد علاقه ام را می پوشم وقتی سرد می شود بیرون, و آن را در می آورم به محض اینکه به داخل برگردم",
+    "en": "I always put on my favorite hoodie when it gets chilly outside, and I take it off as soon as I'm back inside",
+    "groupCode": 0
+  },
+  {
+    "id": 2706,
+    "fa": "من در محلت برت میدارم (خواهم)، سپس می توانیم بسته را در راه مهمانی بزاریم (پیاده کنیم)",
+    "en": "I'll pick you up at your place, then we can drop off the package on our way to the party",
+    "groupCode": 0
+  },
+  {
+    "id": 2707,
+    "fa": "هر بار که می خواهم گربم را حمام کنم، او سعی میکند فرار کند, و در نهایت مجبور میشوم به دنبال او در خانه بدوم",
+    "en": "Every time I try to give my cat a bath, she tries to run away, and I end up having to run after her around the house",
+    "groupCode": 0
+  },
+  {
+    "id": 2708,
+    "fa": "سرعتم را بالا بردم تا چراغ سبز را بگیرم، اما برای جلوگیری از جریمه سرعتم را کم کردم",
+    "en": "I sped up to catch the green light, but then I slowed down to avoid a fine",
+    "groupCode": 0
+  },
+  {
+    "id": 2709,
+    "fa": "من برای متنفر بودن از افرادی که از من متنفرند وقت ندارم، زیرا زیاد مشغول دوست داشتن کسانی هستم که مرا دوست دارند",
+    "en": "I don't have time to hate the people who hate me, because I'm too busy loving the people who love me",
+    "groupCode": 0
+  },
+  {
+    "id": 2710,
+    "fa": "بزرگترین اشتباهی که می توانید (فرضی) مرتکب شوید (بسازید) انتظار کمال داشتن از خودتان هر روز (تک تک روز) است",
+    "en": "The biggest mistake you could make is expecting perfection of yourself every single day",
+    "groupCode": 0
+  },
+  {
+    "id": 2711,
+    "fa": "این انضباط نیست، این دیوانگی است و شما را تخلیه (از انرژی) می کند",
+    "en": "That is not discipline, that is insanity and it will drain you",
+    "groupCode": 0
+  },
+  {
+    "id": 2712,
+    "fa": "نظم و انضباط در مورد کمال نیست، بلکه در مورد تداوم است",
+    "en": "Discipline is not about perfection, it's about continuity",
+    "groupCode": 0
+  },
+  {
+    "id": 2713,
+    "fa": "موارد اضافی (نامربوط) را از لیست حذف کنید",
+    "en": "Remove any extraneous items from the list",
+    "desc": "\n\"Extra\" generally means \"additional\" or \"more than is needed.\" For example, if you order a pizza with extra cheese, you're asking for more cheese than the standard amount.\n\n\"Extraneous,\" on the other hand, refers to something that is unnecessary or irrelevant to the matter at hand. For instance, if you're discussing a topic in a meeting and someone brings up unrelated details, those details could be considered extraneous.",
+    "groupCode": 0
+  },
+  {
+    "id": 2714,
+    "fa": "من درخواست ضمنی خود را درک کردم و مطابق آن عمل کردم",
+    "en": "I understood my implicit request and acted accordingly",
+    "groupCode": 0
+  },
+  {
+    "id": 2715,
+    "fa": "یک قاعده ضمنی ممکن است بر اساس هنجارهای اجتماعی درک شود، در حالی که یک قانون صریح به وضوح در یک کتاب قوانین بیان شده است",
+    "en": "An implicit rule might be understood based on societal norms, while an explicit rule is clearly stated in a rulebook",
+    "desc": "\"Implicit\" refers to something that is suggested or understood without being directly expressed. It's something that is implied or inferred from context.\n\"Explicit,\" on the other hand, refers to something that is stated directly and clearly, leaving no room for ambiguity or misunderstanding.",
+    "groupCode": 0
+  },
+  {
+    "id": 2716,
+    "fa": "یارانه ضمنی کاهش قیمت کالا است، یارانه صریح مبلغی است که مستقیماً به حساب واریز می شود.",
+    "en": "The implicit subsidy is the reduction in the price of goods, the explicit subsidy is the amount of money that is directly deposited into the account",
+    "groupCode": 0
+  },
+  {
+    "id": 2717,
+    "fa": "از فردا گاییده میشه",
+    "en": "You will be screwed up from tomorrow",
+    "groupCode": 0
+  },
+  {
+    "id": 2718,
+    "fa": "با قاطعیت، گامی مطمئن به سوی هدفم بر می دارم",
+    "en": "With determination, I take a confident stride towards my goal",
+    "groupCode": 0
+  },
+  {
+    "id": 2719,
+    "fa": "وثیقه شما برای اوراق قرضه چیست؟",
+    "en": "What's your collateral for the bond?",
+    "groupCode": 0
+  },
+  {
+    "id": 2720,
+    "fa": "بیایید ببینیم چند نقطه در جدول بالا رفتیم",
+    "en": "Let's see how many spots we moved up in the table",
+    "desc": "\"Spot\" is often used informally to refer to a position or rank in a list or table. In this context, it implies the specific place or position in the table. So, when you say \"how many spots we moved up,\" it means how many positions higher we have moved in the table",
     "groupCode": 0
   }
 ]

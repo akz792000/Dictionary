@@ -2514,7 +2514,7 @@
   {
     "id": 417,
     "fa": "من باید کفش هایم را بپوشم",
-    "en": "I have to wear my shoes in",
+    "en": "\n 1.I have to wear my shoes in \n 2.I have to put on my shoes it",
     "groupCode": 0
   },
   {
@@ -3086,7 +3086,7 @@
   {
     "id": 512,
     "fa": "همین الان مطلع شدم",
-    "en": "I was just informed",
+    "en": "I am just informed",
     "groupCode": 0
   },
   {
@@ -5028,7 +5028,7 @@
   },
   {
     "id": 830,
-    "fa": "وقتی کار همکارم تمام شد، او (مرد) پیش شما خواهد آمد",
+    "fa": "وقتی کار همکارم انجام شد، او (مرد) پیش شما خواهد آمد",
     "en": "When my colleague is done, he will come to you",
     "groupCode": 0
   },
@@ -8590,7 +8590,7 @@
   },
   {
     "id": 1416,
-    "fa": "من حلش خواهم كرد",
+    "fa": "من پی خواهم برد",
     "en": "I'll figure it out",
     "groupCode": 0
   },
