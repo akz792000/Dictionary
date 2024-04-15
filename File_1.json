@@ -3888,7 +3888,7 @@
   },
   {
     "id": 2645,
-    "fa": "در اینجا ما ازش استفاده خواهیم کرد برای یادگیری  ریزه کاریهای حوزه های تجاری",
+    "fa": "در اینجا ما ازش استفاده خواهیم کرد برای یادگیری ریزه کاریهای حوزه های تجاری",
     "en": "Here we will use it to learn the intricacies of business domains",
     "groupCode": 0
   },
@@ -4057,7 +4057,7 @@
   {
     "id": 2673,
     "fa": "زنجیر تایم در داخل موتور قرار می گیرد و روغن موتور را دریافت می کند و می تواند برای مدت طولانی دوام بیاورد، در حالی که تسمه های تایم در خارج از موتور قرار دارند و تمایل به خشک شدن و ترک خوردن دارند",
-    "en": "Timing chain is housed within the engine and receive lubrication from engine oil and can last a long time, while timing belt is located outside of the engine and tend to dry out and crack",
+    "en": "Timing chain is housed within the engine and receives lubrication from engine oil and can last a long time, while timing belt is located outside of the engine and tends to dry out and crack",
     "groupCode": 0
   },
   {
@@ -4104,7 +4104,7 @@
   },
   {
     "id": 2681,
-    "fa": "از شما بعیده که چنین اشتباهی را مرتکب شوی، اما از من بعید نیست این کار را انجام دهم",
+    "fa": "از شما بعیده که چنین اشتباهی را مرتکب شوی، اما من بعید نیستم این کار را انجام دهم",
     "en": "It's unlike you to make such a mistake, but I'm not unlikely to do this",
     "groupCode": 0
   },
@@ -4122,7 +4122,7 @@
   },
   {
     "id": 2684,
-    "fa": "لطفاً به ما اطلاع دهید که چه گزینه ای را انتخاب خواهید کرد",
+    "fa": "لطفاً اجازه دهید ما بدانیم چه گزینه ای را انتخاب خواهید کرد",
     "en": "Please let us know what option you will be choosing",
     "groupCode": 0
   },
@@ -4146,7 +4146,7 @@
   },
   {
     "id": 2688,
-    "fa": "ما باید برای حفظ محیط زیست خود برای نسل های آینده گامها را برداریم",
+    "fa": "ما نیاز است گامها را برداریم تا حفظ کنیم محیط زیست خودمان را برای نسل های آینده",
     "en": "We need to take steps to sustain our environment for future generations",
     "groupCode": 0
   },
@@ -4196,9 +4196,8 @@
   },
   {
     "id": 2696,
-    "fa": "من برگر و چیپس داشتم که همیشه از آنها لذت می برم",
-    "en": "I had burger and chips, which I always enjoy",
-    "desc": "Which (pronoun) relates to animals and objects",
+    "fa": "وقتی آخرین بار چک کردم, همه سر کار بودند",
+    "en": "When I last checked, everyone was at work",
     "groupCode": 0
   },
   {
@@ -4231,7 +4230,7 @@
   },
   {
     "id": 2701,
-    "fa": "من می توانم به شما کمک کنم از ایوان خود عبور کنید",
+    "fa": "من می توانم به شما کمک کنم از ایوان خودتون عبور کنید",
     "en": "I can help you cross your porch",
     "groupCode": 0
   },
@@ -4255,26 +4254,26 @@
   },
   {
     "id": 2705,
-    "fa": "من همیشه هودی مورد علاقه ام را می پوشم وقتی سرد می شود بیرون, و آن را در می آورم به محض اینکه به داخل برگردم",
+    "fa": "من همیشه هودی مورد علاقه ام را می پوشم وقتی خنک می شود بیرون, و آن را در می آورم به محض اینکه به داخل برگردم",
     "en": "I always put on my favorite hoodie when it gets chilly outside, and I take it off as soon as I'm back inside",
     "groupCode": 0
   },
   {
     "id": 2706,
-    "fa": "من در محلت برت میدارم (خواهم)، سپس می توانیم بسته را در راه مهمانی بزاریم (پیاده کنیم)",
+    "fa": "من در محلت برت میدارم (خواهم)، سپس می توانیم بسته را در راه مهمانی مان بزاریم (پیاده کنیم)",
     "en": "I'll pick you up at your place, then we can drop off the package on our way to the party",
     "groupCode": 0
   },
   {
     "id": 2707,
-    "fa": "هر بار که می خواهم گربم را حمام کنم، او سعی میکند فرار کند, و در نهایت مجبور میشوم به دنبال او در خانه بدوم",
+    "fa": "هر بار که می خواهم گربم را حمام کنم، او (زن) سعی میکند فرار کند, و در نهایت مجبور میشوم به دنبال او در خانه بدوم",
     "en": "Every time I try to give my cat a bath, she tries to run away, and I end up having to run after her around the house",
     "groupCode": 0
   },
   {
     "id": 2708,
     "fa": "سرعتم را بالا بردم تا چراغ سبز را بگیرم، اما برای جلوگیری از جریمه سرعتم را کم کردم",
-    "en": "I sped up to catch the green light, but then I slowed down to avoid a fine",
+    "en": "I sped up to catch the green light, but then slowed down to avoid a fine",
     "groupCode": 0
   },
   {
@@ -4291,7 +4290,7 @@
   },
   {
     "id": 2711,
-    "fa": "این انضباط نیست، این دیوانگی است و شما را تخلیه (از انرژی) می کند",
+    "fa": "اون انضباط نیست، این دیوانگی است و شما را تخلیه (از انرژی) می کند",
     "en": "That is not discipline, that is insanity and it will drain you",
     "groupCode": 0
   },
@@ -4303,14 +4302,14 @@
   },
   {
     "id": 2713,
-    "fa": "موارد اضافی (نامربوط) را از لیست حذف کنید",
+    "fa": "هر موارد اضافی (نامربوط) را از لیست حذف کنید",
     "en": "Remove any extraneous items from the list",
     "desc": "\n\"Extra\" generally means \"additional\" or \"more than is needed.\" For example, if you order a pizza with extra cheese, you're asking for more cheese than the standard amount.\n\n\"Extraneous,\" on the other hand, refers to something that is unnecessary or irrelevant to the matter at hand. For instance, if you're discussing a topic in a meeting and someone brings up unrelated details, those details could be considered extraneous.",
     "groupCode": 0
   },
   {
     "id": 2714,
-    "fa": "من درخواست ضمنی خود را درک کردم و مطابق آن عمل کردم",
+    "fa": "من درخواست ضمنی خود را فهمیدم و مطابق آن عمل کردم",
     "en": "I understood my implicit request and acted accordingly",
     "groupCode": 0
   },
@@ -4323,7 +4322,7 @@
   },
   {
     "id": 2716,
-    "fa": "یارانه ضمنی کاهش قیمت کالا است، یارانه صریح مبلغی است که مستقیماً به حساب واریز می شود.",
+    "fa": "یارانه ضمنی کاهش قیمت کالا است، یارانه صریح مبلغی است که مستقیماً به حساب واریز می شود",
     "en": "The implicit subsidy is the reduction in the price of goods, the explicit subsidy is the amount of money that is directly deposited into the account",
     "groupCode": 0
   },

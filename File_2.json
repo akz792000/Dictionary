@@ -1304,7 +1304,7 @@
   },
   {
     "id": 10215,
-    "en": "My sister is a teacher. Does your girlfriend have a brother or sister?",
+    "en": "My sister is a teacher. Does your girlfriend have a brother or a sister? (informal)",
     "de": "Meine Schwester ist Lehrerin. Hat deine Freundin einen Bruder oder eine Schwester?",
     "groupCode": 1
   },
@@ -2378,7 +2378,7 @@
   {
     "id": 10393,
     "en": "My grandmother loves your grandfather and your son",
-    "de": "Meine Oma liebt deinen Opa un deinen Sohn",
+    "de": "Meine Oma liebt deinen Opa und deinen Sohn",
     "groupCode": 1
   },
   {
@@ -3811,7 +3811,7 @@
   },
   {
     "id": 10632,
-    "en": "Do you go by foot?",
+    "en": "Do you go by foot? (informal)",
     "de": "Gehst du zu Fuß?",
     "groupCode": 1
   },
