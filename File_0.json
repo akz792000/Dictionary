@@ -49,7 +49,7 @@
   },
   {
     "id": 9,
-    "fa": "برای مدت طولانی تو اینجا منتظری؟",
+    "fa": "برای یک زمان زیادی تو اینجا منتظری؟",
     "en": "Have you been waiting here for a long time?",
     "groupCode": 0
   },
@@ -248,7 +248,7 @@
   },
   {
     "id": 42,
-    "fa": "اگر ناراحت نمیشی, وقتی رسیدی خونه با من تماس بگیر",
+    "fa": "اگر ناراحت نمیشی, به محض اینکه رسیدی خونه با من تماس بگیر",
     "en": "If you don't mind, call me once you get home",
     "desc": "\"Call me once you get home\" implies a prompt or immediate action, while \"Call me when you get home\" allows for a more flexible timeframe.",
     "groupCode": 0
@@ -5374,7 +5374,7 @@
   },
   {
     "id": 887,
-    "fa": "نیاز دارم درب بطری را بردارم و محتویات آن را بیرون بیاورم",
+    "fa": "من نیاز دارم درب بطری را بردارم و محتویات آن را بیرون بیاورم",
     "en": "I need to take off the bottle cap and take out the contents",
     "groupCode": 0
   },
@@ -5422,7 +5422,7 @@
   },
   {
     "id": 895,
-    "fa": "از آخرین باری که همدیگر را دیدیم خیلی گذشته",
+    "fa": "از آخرین باری که همدیگر را دیدیم یک زمان زیادی گذشته",
     "en": "It has been a long time since we last met",
     "groupCode": 0
   },
@@ -7485,6 +7485,7 @@
     "id": 1233,
     "fa": "بستن کمربند ایمنی در بسیاری از کشورها اجباری است",
     "en": "Wearing a seatbelt is compulsory in many countries",
+    "desc": " So, while \"fasten your seatbelt\" is appropriate for airplanes, \"wearing a seatbelt\" is more commonly used for cars and other vehicles",
     "groupCode": 0
   },
   {
@@ -8506,7 +8507,8 @@
   {
     "id": 1402,
     "fa": "به کی شکایت کردی؟",
-    "en": "To whom did you complain?",
+    "en": "Whom did you complain to?",
+    "desc": "\"Whom did you complain to?\" is less formal but commonly used in everyday conversation.\n\"To whom did you complain?\" is more formal and suitable for written or formal speech.",
     "groupCode": 0
   },
   {
@@ -8710,7 +8712,7 @@
   },
   {
     "id": 1436,
-    "fa": "میتونیم الان (بحث) تمومش کنیم",
+    "fa": "میتونیم الان (بحث) تمومش کنیم؟",
     "en": "Can we drop it now?",
     "groupCode": 0
   },
@@ -10865,7 +10867,7 @@
   },
   {
     "id": 1792,
-    "fa": "از او (مرد) نشنیدم برای مدت زمان زیادی",
+    "fa": "از او (مرد) نشنیدم برای یک زمان زیادی",
     "en": "I haven't heard from him for a long time",
     "groupCode": 0
   },
@@ -11429,7 +11431,7 @@
   },
   {
     "id": 1885,
-    "fa": "باید موتور رو جدا کنم ببینم مشکلش چیه",
+    "fa": "من نیاز دارم موتور رو جدا کنم تا ببینم مشکل چیه",
     "en": "I need to take the engine apart to see what the problem is",
     "groupCode": 0
   },

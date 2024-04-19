@@ -744,7 +744,7 @@
   },
   {
     "id": 2124,
-    "fa": "بعد از مشاجره کردن برای یک مدت طولانی, معلوم شد که او داشت (زن) دروغ می گفت",
+    "fa": "بعد از مشاجره کردن برای یک زمان زیادی, معلوم شد که او داشت (زن) دروغ می گفت",
     "en": "After arguing for a long time, it turned out that she was lying",
     "groupCode": 0
   },
@@ -2700,6 +2700,7 @@
     "id": 2448,
     "fa": "شما گامهای بلندی دارید بر میدارید (می سازید)",
     "en": "You're making great strides",
+    "desc": "A step is a basic movement involving lifting one foot and putting it down, while a stride is a longer, purposeful step covering more distance",
     "groupCode": 0
   },
   {
@@ -3207,7 +3208,7 @@
   },
   {
     "id": 2532,
-    "fa": "من هوا تو دارم",
+    "fa": "من هوا تو داشتم",
     "en": "I got your back",
     "groupCode": 0
   },
@@ -4056,7 +4057,7 @@
   },
   {
     "id": 2673,
-    "fa": "زنجیر تایم در داخل موتور قرار می گیرد و روغن موتور را دریافت می کند و می تواند برای مدت طولانی دوام بیاورد، در حالی که تسمه های تایم در خارج از موتور قرار دارند و تمایل به خشک شدن و ترک خوردن دارند",
+    "fa": "زنجیر تایم در داخل موتور قرار می گیرد و روغن موتور را دریافت می کند و می تواند برای یک زمان زیادی دوام بیاورد، در حالی که تسمه های تایم در خارج از موتور قرار دارند و تمایل به خشک شدن و ترک خوردن دارند",
     "en": "Timing chain is housed within the engine and receives lubrication from engine oil and can last a long time, while timing belt is located outside of the engine and tends to dry out and crack",
     "groupCode": 0
   },
@@ -4122,8 +4123,9 @@
   },
   {
     "id": 2684,
-    "fa": "لطفاً اجازه دهید ما بدانیم چه گزینه ای را انتخاب خواهید کرد",
-    "en": "Please let us know what option you will be choosing",
+    "fa": "لطفاً بگزارید ما بدانیم چه گزینه ای را انتخاب خواهید کرد به محض اینکه شما تقومت را چک کردی",
+    "en": "Please let us know what option you will be choosing once you've checked your calendar",
+    "desc": "Use \"Please let us know what option you will be choosing\" when the decision may take time or involve a process.\nUse \"Please let us know what option you will choose\" when the decision can be made quickly or easily.",
     "groupCode": 0
   },
   {
@@ -4134,7 +4136,7 @@
   },
   {
     "id": 2686,
-    "fa": "چه بود اولین نشانه ای که شما دیگر آنقدر که فکر می کردید جوان نیستید؟",
+    "fa": "چه بود اولین نشانه ای که شما دیگر آنقدر جوانی نیستید که فکر می کردید؟",
     "en": "What was the first indication that you were no longer as young as you thought?",
     "groupCode": 0
   },
@@ -4196,7 +4198,7 @@
   },
   {
     "id": 2696,
-    "fa": "وقتی آخرین بار چک کردم, همه سر کار بودند",
+    "fa": "وقتی آخرین چک را کردم, همه سر کار بودند",
     "en": "When I last checked, everyone was at work",
     "groupCode": 0
   },
@@ -4254,7 +4256,7 @@
   },
   {
     "id": 2705,
-    "fa": "من همیشه هودی مورد علاقه ام را می پوشم وقتی خنک می شود بیرون, و آن را در می آورم به محض اینکه به داخل برگردم",
+    "fa": "من همیشه هودی مورد علاقه ام را می پوشم وقتی بیرون خنک می شود, و آن را در می آورم به محض اینکه به داخل برگشتم",
     "en": "I always put on my favorite hoodie when it gets chilly outside, and I take it off as soon as I'm back inside",
     "groupCode": 0
   },
@@ -4267,12 +4269,12 @@
   {
     "id": 2707,
     "fa": "هر بار که می خواهم گربم را حمام کنم، او (زن) سعی میکند فرار کند, و در نهایت مجبور میشوم به دنبال او در خانه بدوم",
-    "en": "Every time I try to give my cat a bath, she tries to run away, and I end up having to run after her around the house",
+    "en": "\n 1.Every time I try to give my cat a bath, she tries to run away, and I end up having to run after her around the house. \n 2.Every time I try to bathe my cat, she tries to run away, and I end up having to run after her around the house",
     "groupCode": 0
   },
   {
     "id": 2708,
-    "fa": "سرعتم را بالا بردم تا چراغ سبز را بگیرم، اما برای جلوگیری از جریمه سرعتم را کم کردم",
+    "fa": "سرعتم را بالا بردم تا چراغ سبز را بگیرم، اما سپس سرعتم را کم کردم تا جلوگیری (کنم) از جریمه",
     "en": "I sped up to catch the green light, but then slowed down to avoid a fine",
     "groupCode": 0
   },
@@ -4290,8 +4292,8 @@
   },
   {
     "id": 2711,
-    "fa": "اون انضباط نیست، این دیوانگی است و شما را تخلیه (از انرژی) می کند",
-    "en": "That is not discipline, that is insanity and it will drain you",
+    "fa": "اون انضباط نیست، اون دیوانگی است و شما را تخلیه (از انرژی) خواهد کرد",
+    "en": "That's not discipline, that's insanity and it'll drain you",
     "groupCode": 0
   },
   {
@@ -4315,7 +4317,7 @@
   },
   {
     "id": 2715,
-    "fa": "یک قاعده ضمنی ممکن است بر اساس هنجارهای اجتماعی درک شود، در حالی که یک قانون صریح به وضوح در یک کتاب قوانین بیان شده است",
+    "fa": "یک قاعده ضمنی ممکن است بر اساس هنجارهای اجتماعی درک شود، در حالی که یک قانون صریح به وضوح در یک کتاب قانون اظهار شده است",
     "en": "An implicit rule might be understood based on societal norms, while an explicit rule is clearly stated in a rulebook",
     "desc": "\"Implicit\" refers to something that is suggested or understood without being directly expressed. It's something that is implied or inferred from context.\n\"Explicit,\" on the other hand, refers to something that is stated directly and clearly, leaving no room for ambiguity or misunderstanding.",
     "groupCode": 0
@@ -4336,6 +4338,7 @@
     "id": 2718,
     "fa": "با قاطعیت، گامی مطمئن به سوی هدفم بر می دارم",
     "en": "With determination, I take a confident stride towards my goal",
+    "desc": "A step is a basic movement involving lifting one foot and putting it down, while a stride is a longer, purposeful step covering more distance",
     "groupCode": 0
   },
   {
@@ -4349,6 +4352,30 @@
     "fa": "بیایید ببینیم چند نقطه در جدول بالا رفتیم",
     "en": "Let's see how many spots we moved up in the table",
     "desc": "\"Spot\" is often used informally to refer to a position or rank in a list or table. In this context, it implies the specific place or position in the table. So, when you say \"how many spots we moved up,\" it means how many positions higher we have moved in the table",
+    "groupCode": 0
+  },
+  {
+    "id": 2721,
+    "fa": "اگر پشیمان بودی از خواب بیدار می شدی",
+    "en": "If you were sorry you would've woken up",
+    "groupCode": 0
+  },
+  {
+    "id": 2722,
+    "fa": "دهانش (زن) بو می ده",
+    "en": "She has smelly breath",
+    "groupCode": 0
+  },
+  {
+    "id": 2723,
+    "fa": "ما تکرار می کنیم این درس را دوباره",
+    "en": "We repeat this lesson again",
+    "groupCode": 0
+  },
+  {
+    "id": 2724,
+    "fa": "به چه کسی اختصاص دهم؟",
+    "en": "\n 1.Whom should I assign to? \n 2.To whom should I assign?",
     "groupCode": 0
   }
 ]
