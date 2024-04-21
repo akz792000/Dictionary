@@ -2516,7 +2516,7 @@
   },
   {
     "id": 2418,
-    "fa": "هر دوی ما مشروب خورده بودیم",
+    "fa": "هر دوی ما نوشیده بودیم",
     "en": "We had both been drinking",
     "groupCode": 0
   },
@@ -4123,7 +4123,7 @@
   },
   {
     "id": 2684,
-    "fa": "لطفاً بگزارید ما بدانیم چه گزینه ای را انتخاب خواهید کرد به محض اینکه شما تقومت را چک کردی",
+    "fa": "لطفاً بگذارید ما بدانیم چه گزینه ای را انتخاب خواهید کرد به محض اینکه شما تقومیت را چک کردی",
     "en": "Please let us know what option you will be choosing once you've checked your calendar",
     "desc": "Use \"Please let us know what option you will be choosing\" when the decision may take time or involve a process.\nUse \"Please let us know what option you will choose\" when the decision can be made quickly or easily.",
     "groupCode": 0
@@ -4376,6 +4376,145 @@
     "id": 2724,
     "fa": "به چه کسی اختصاص دهم؟",
     "en": "\n 1.Whom should I assign to? \n 2.To whom should I assign?",
+    "groupCode": 0
+  },
+  {
+    "id": 2725,
+    "fa": "لطفا منو روشن (آگاه) کن",
+    "en": "Please enlighten me",
+    "groupCode": 0
+  },
+  {
+    "id": 2726,
+    "fa": "من قراره پنهان شوم",
+    "en": "I'm gonna hide out",
+    "groupCode": 0
+  },
+  {
+    "id": 2727,
+    "fa": "من به معنای واقعی کلمه طبقه بالا پنهان شدم همین الان",
+    "en": "I'm literally hiding upstairs right now",
+    "groupCode": 0
+  },
+  {
+    "id": 2728,
+    "fa": "والدینش (زن) طلاق گرفته بودند و خواهرش به اسکیزوفرنی شدید داشت",
+    "en": "Her parents were divorced and and her sister has severe schizophrenia",
+    "groupCode": 0
+  },
+  {
+    "id": 2729,
+    "fa": "به دلیل زیبایی و اعتماد به نفسش (زن)، آسان بود برایش تا برسد به آنچه او فکر می کرد او می خواست",
+    "en": "Because of her beauty and confidence, it was easy for her to get what she taught she wanted",
+    "groupCode": 0
+  },
+  {
+    "id": 2730,
+    "fa": "راستش را بخواهید, برخی از تجربیاتم واقعا تحقیرآمیز بود برای من",
+    "en": "Honestly, some of my experiences were really humiliating for me",
+    "groupCode": 0
+  },
+  {
+    "id": 2731,
+    "fa": "ای کاش هیچ وقت اتفاق نمی افتاد",
+    "en": "I wish that they never happened",
+    "groupCode": 0
+  },
+  {
+    "id": 2732,
+    "fa": "من دچار وسواس جمع آوری تمبر شدم",
+    "en": "I became obsessed with collecting stamps",
+    "groupCode": 0
+  },
+  {
+    "id": 2733,
+    "fa": "بعد از اینکه ناهار خورده بودیم، بادبادک هایمان را به پرواز در آوردیم. این فوق العاده بود چون خودمان آنها را ساخته بودیم",
+    "en": "After we had eaten lunch, we flew our kites. That was fantastic because we had made them ourselves",
+    "groupCode": 0
+  },
+  {
+    "id": 2734,
+    "fa": "اگر تنها فرزند خانواده بودید، چیزها ممکن بود متفاوت بود برای شما در بسیاری جهات",
+    "en": "If you had been the only child in the family, things might have been different for you in so many ways",
+    "groupCode": 0
+  },
+  {
+    "id": 2735,
+    "fa": "مردان 60 ساله دونده ماراتن به طور متوسط هر سال دو دقیقه سریعتر می دوند",
+    "en": "Men aged 60 running the marathon run on average two minutes faster each year",
+    "groupCode": 0
+  },
+  {
+    "id": 2736,
+    "fa": "انسان بدون اخلاق حیوانی وحشی در جهان آزاد است",
+    "en": "A man without ethics is a wild animal free in the world",
+    "groupCode": 0
+  },
+  {
+    "id": 2737,
+    "fa": "به عنوان یک نوجوان, او (زن) به ندرت نظرش را به دلیل ترس از خندیدن به زبان می آورد",
+    "en": "As a teenager, she rarely spoke her mind out of fear of being laughed at",
+    "groupCode": 0
+  },
+  {
+    "id": 2738,
+    "fa": "او (مرد) تا حد مرگ ترسیده بود",
+    "en": "He was frightened to death",
+    "groupCode": 0
+  },
+  {
+    "id": 2739,
+    "fa": "بسیاری از سوالات در مورد مغز هنوز پاسخ داده نشده اند",
+    "en": "Many questions about the brain have not yet been answered",
+    "groupCode": 0
+  },
+  {
+    "id": 2740,
+    "fa": "سطح مغز را قشر مغز می نامند",
+    "en": "The surface of the brain is called the cerebral /ˈseribrəl/ cortex",
+    "groupCode": 0
+  },
+  {
+    "id": 2741,
+    "fa": "در نهایت تصمیم گرفتم خودم درست کنم",
+    "en": "In the end I decided to make one myself",
+    "groupCode": 0
+  },
+  {
+    "id": 2742,
+    "fa": "همه می دانند که دو عقل بهتر از یک عقل است",
+    "en": "Everybody knows that two heads are better than one",
+    "groupCode": 0
+  },
+  {
+    "id": 2743,
+    "fa": "امسال چقدر به سرپرست انعام دادید؟",
+    "en": "\n 1.How much did you tip the superintendent this year? \n 2.How much did you tip the superintendent this year?",
+    "groupCode": 0
+  },
+  {
+    "id": 2744,
+    "fa": "ارسال پاسخ های خودکار غیرشخصی (بی احساس) است",
+    "en": "It is impersonal to send automated responses",
+    "groupCode": 0
+  },
+  {
+    "id": 2745,
+    "fa": "من قبلا هیچ وقت نقد (بررسی شده) نشده بودم",
+    "en": "I have never gotten reviewed before",
+    "groupCode": 0
+  },
+  {
+    "id": 2746,
+    "fa": "مردم در مورد من چه می گویند اگر نتوانم از شادی تو لذت ببرم؟",
+    "en": "What would people say about me if I can't revel /ˈrevəl/ in your joy?",
+    "groupCode": 0
+  },
+  {
+    "id": 2747,
+    "fa": "آیا انگشت شما در آن صندلی گیر کرده است؟",
+    "en": "Is your finger caught /ˈkɑːt/ in that chair?",
+    "desc": "زمان گذشته و اسم مفعول فعل: catch",
     "groupCode": 0
   }
 ]
