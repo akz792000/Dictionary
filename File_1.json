@@ -2058,7 +2058,7 @@
   },
   {
     "id": 2342,
-    "fa": "اگر چیزی هست می توانم برای حمایت از شما انجام دهم، لطفاً به من اطلاع دهید",
+    "fa": "اگر چیزی هست می توانم برای حمایت از شما انجام دهم، لطفاً بزار بدونم",
     "en": "If there's anything I can do to support you, please let me know",
     "groupCode": 0
   },
@@ -4374,7 +4374,7 @@
   },
   {
     "id": 2724,
-    "fa": "به چه کسی اختصاص دهم؟",
+    "fa": "به چه کسی باید اختصاص دهم؟",
     "en": "\n 1.Whom should I assign to? \n 2.To whom should I assign?",
     "groupCode": 0
   },
@@ -4392,20 +4392,20 @@
   },
   {
     "id": 2727,
-    "fa": "من به معنای واقعی کلمه طبقه بالا پنهان شدم همین الان",
+    "fa": "من دارم به معنای واقعی کلمه طبقه بالا پنهان شدم همین الان",
     "en": "I'm literally hiding upstairs right now",
     "groupCode": 0
   },
   {
     "id": 2728,
-    "fa": "والدینش (زن) طلاق گرفته بودند و خواهرش به اسکیزوفرنی شدید داشت",
-    "en": "Her parents were divorced and and her sister has severe schizophrenia",
+    "fa": "والدینش (زن) طلاق گرفته بودند و خواهرش اسکیزوفرنی شدید داشت",
+    "en": "Her parents were divorced and and her sister has severe schizophrenia /ˌskɪtsoʊˈfriːnɪə/",
     "groupCode": 0
   },
   {
     "id": 2729,
-    "fa": "به دلیل زیبایی و اعتماد به نفسش (زن)، آسان بود برایش تا برسد به آنچه او فکر می کرد او می خواست",
-    "en": "Because of her beauty and confidence, it was easy for her to get what she taught she wanted",
+    "fa": "به دلیل زیبایی و اعتماد به نفسش (زن)، برای او آسان بود چیزی که می خواست را بگیرد",
+    "en": "Because of her beauty and confidence, it was easy for her to get what she wanted",
     "groupCode": 0
   },
   {
@@ -4416,7 +4416,7 @@
   },
   {
     "id": 2731,
-    "fa": "ای کاش هیچ وقت اتفاق نمی افتاد",
+    "fa": "کاش هیچ وقت آنها اتفاق نمی افتادند",
     "en": "I wish that they never happened",
     "groupCode": 0
   },
@@ -4440,8 +4440,8 @@
   },
   {
     "id": 2735,
-    "fa": "مردان 60 ساله دونده ماراتن به طور متوسط هر سال دو دقیقه سریعتر می دوند",
-    "en": "Men aged 60 running the marathon run on average two minutes faster each year",
+    "fa": "مردان 60 ساله هر سال به طور متوسط دو دقیقه سریعتر در ماراتن می دوند",
+    "en": "Men aged 60 run the marathon an average of two minutes faster each year",
     "groupCode": 0
   },
   {
@@ -4476,7 +4476,7 @@
   },
   {
     "id": 2741,
-    "fa": "در نهایت تصمیم گرفتم خودم درست کنم",
+    "fa": "در نهایت تصمیم گرفتم خودم یکی درست کنم",
     "en": "In the end I decided to make one myself",
     "groupCode": 0
   },
@@ -4494,7 +4494,7 @@
   },
   {
     "id": 2744,
-    "fa": "ارسال پاسخ های خودکار غیرشخصی (بی احساس) است",
+    "fa": "غیرشخصی (بی احساس) است ارسال کردن پاسخ های خودکار",
     "en": "It is impersonal to send automated responses",
     "groupCode": 0
   },
@@ -4515,6 +4515,12 @@
     "fa": "آیا انگشت شما در آن صندلی گیر کرده است؟",
     "en": "Is your finger caught /ˈkɑːt/ in that chair?",
     "desc": "زمان گذشته و اسم مفعول فعل: catch",
+    "groupCode": 0
+  },
+  {
+    "id": 2748,
+    "fa": "من مخالفش نیستم",
+    "en": "I'm not against it",
     "groupCode": 0
   }
 ]
