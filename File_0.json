@@ -3384,7 +3384,7 @@
   {
     "id": 561,
     "fa": "رشته شما چیست؟",
-    "en": "What is your major?",
+    "en": "What's your major?",
     "groupCode": 0
   },
   {
@@ -10581,12 +10581,12 @@
   {
     "id": 1745,
     "fa": "پنیر کپک زده",
-    "en": "The cheese is mouldy",
+    "en": "\n 1.The cheese is mouldy \n 2.The cheese is moldy",
     "groupCode": 0
   },
   {
     "id": 1746,
-    "fa": "نان کهنه است",
+    "fa": "نان بیات است",
     "en": "The bread is stale",
     "groupCode": 0
   },
@@ -11811,7 +11811,7 @@
   },
   {
     "id": 1948,
-    "fa": "او (مرد) دیوانه است زیرا من او (مرد) را در شطرنج شکست دادم",
+    "fa": "او (مرد) دیوانه است چون من او (مرد) را در شطرنج شکست دادم",
     "en": "He's mad because I beat him in chess",
     "groupCode": 0
   },

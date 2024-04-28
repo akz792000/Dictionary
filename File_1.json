@@ -1552,7 +1552,7 @@
   },
   {
     "id": 2258,
-    "fa": "پس از دریافت اینقدر اطلاعات به یکباره، احساس غرق شدن کردم",
+    "fa": "پس از دریافت اینقدر اطلاعات به یکباره، متاثر شدم (احساس غرق شدن کردم)",
     "en": "After receiving so much information at once, I felt overwhelmed",
     "groupCode": 0
   },
@@ -2312,7 +2312,7 @@
   },
   {
     "id": 2384,
-    "fa": "لطفاً ایده های خود را مطرح (پرتاب) کنید زیرا من نمی دانم (سرنخی ندارم) علی دوست دارد چه کاری انجام دهد",
+    "fa": "لطفاً ایده های خود را مطرح (پرتاب) کنید چون من نمی دانم (سرنخی ندارم) علی دوست دارد چه کاری انجام دهد",
     "en": "Please shoot your ideas because I am clueless what Ali likes to do",
     "groupCode": 0
   },
@@ -2492,7 +2492,7 @@
   },
   {
     "id": 2414,
-    "fa": "من بسیار سوپرایز شدم که این اتهامات علیه من (فرضی) مطرح می شود، زیرا من کار اشتباهی نکرده بودم",
+    "fa": "من بسیار سوپرایز شدم که این اتهامات علیه من (فرضی) مطرح می شود، چون من کار اشتباهی نکرده بودم",
     "en": "I was very surprised that these charges would be brought against me because I hadn't done anything wrong",
     "groupCode": 0
   },
@@ -2522,7 +2522,7 @@
   },
   {
     "id": 2419,
-    "fa": "هیچ بروزرسانی ندارم مرخصی استعلاجی بودم",
+    "fa": "من هیچ آپدیتی ندارم من مرخصی استعلاجی بودم",
     "en": "I have no update I was on the sick leave",
     "groupCode": 0
   },
@@ -4234,6 +4234,7 @@
     "id": 2701,
     "fa": "من می توانم به شما کمک کنم از ایوان خودتون عبور کنید",
     "en": "I can help you cross your porch",
+    "desc": "\"I can help you cross your porch.\" - Direct and commonly used.\n\"I can help you to cross your porch.\" - Also correct, but less common in everyday speech.",
     "groupCode": 0
   },
   {
@@ -4256,7 +4257,7 @@
   },
   {
     "id": 2705,
-    "fa": "من همیشه هودی مورد علاقه ام را می پوشم وقتی بیرون خنک می شود, و آن را در می آورم به محض اینکه به داخل برگشتم",
+    "fa": "من همیشه هودی مورد علاقه ام را می پوشم وقتی بیرون خنک می شود, و من آن را در می آورم به محض اینکه به داخل برگشتم",
     "en": "I always put on my favorite hoodie when it gets chilly outside, and I take it off as soon as I'm back inside",
     "groupCode": 0
   },
@@ -4280,13 +4281,13 @@
   },
   {
     "id": 2709,
-    "fa": "من برای متنفر بودن از افرادی که از من متنفرند وقت ندارم، زیرا زیاد مشغول دوست داشتن کسانی هستم که مرا دوست دارند",
+    "fa": "من برای متنفر بودن از افرادی که از من متنفرند وقت ندارم، چون زیاد مشغول دوست داشتن کسانی هستم که مرا دوست دارند",
     "en": "I don't have time to hate the people who hate me, because I'm too busy loving the people who love me",
     "groupCode": 0
   },
   {
     "id": 2710,
-    "fa": "بزرگترین اشتباهی که می توانید (فرضی) مرتکب شوید (بسازید) انتظار کمال داشتن از خودتان هر روز (تک تک روز) است",
+    "fa": "بزرگترین اشتباهی که می توانستی (فرضی) مرتکب شوید (بسازید) انتظار کمال داشتن از خودتان هر روز (تک تک روز) است",
     "en": "The biggest mistake you could make is expecting perfection of yourself every single day",
     "groupCode": 0
   },
@@ -4399,12 +4400,12 @@
   {
     "id": 2728,
     "fa": "والدینش (زن) طلاق گرفته بودند و خواهرش اسکیزوفرنی شدید داشت",
-    "en": "Her parents were divorced and and her sister has severe schizophrenia /ˌskɪtsoʊˈfriːnɪə/",
+    "en": "Her parents were divorced and her sister has severe schizophrenia /ˌskɪtsoʊˈfriːnɪə/",
     "groupCode": 0
   },
   {
     "id": 2729,
-    "fa": "به دلیل زیبایی و اعتماد به نفسش (زن)، برای او آسان بود چیزی که می خواست را بگیرد",
+    "fa": "به خاطر زیبایی و اعتماد به نفسش (زن)، برای او آسان بود چیزی که می خواست را بگیرد",
     "en": "Because of her beauty and confidence, it was easy for her to get what she wanted",
     "groupCode": 0
   },
@@ -4446,7 +4447,7 @@
   },
   {
     "id": 2736,
-    "fa": "انسان بدون اخلاق حیوانی وحشی در جهان آزاد است",
+    "fa": "انسان بدون اخلاق است یک حیوان وحشی آزاد در جهان",
     "en": "A man without ethics is a wild animal free in the world",
     "groupCode": 0
   },
@@ -4506,8 +4507,8 @@
   },
   {
     "id": 2746,
-    "fa": "مردم در مورد من چه می گویند اگر نتوانم از شادی تو لذت ببرم؟",
-    "en": "What would people say about me if I can't revel /ˈrevəl/ in your joy?",
+    "fa": "مردم در مورد من چه می گویند اگر نتوانستم از شادی تو لذت ببرم؟",
+    "en": "What would people say about me if I couldn't revel /ˈrevəl/ in your joy?",
     "groupCode": 0
   },
   {
@@ -4521,6 +4522,138 @@
     "id": 2748,
     "fa": "من مخالفش نیستم",
     "en": "I'm not against it",
+    "groupCode": 0
+  },
+  {
+    "id": 2749,
+    "fa": "آیا شیک های پروتئینی واقعا کمک می کنند؟",
+    "en": "Do protein shakes really help?",
+    "groupCode": 0
+  },
+  {
+    "id": 2750,
+    "fa": "آیا پوش آپ ها پرس سینه (نیمکت) شما را افزایش می دهند؟",
+    "en": "Do pushups increase your bench press?",
+    "groupCode": 0
+  },
+  {
+    "id": 2751,
+    "fa": "من تازه صبحانه خوردم (داشتم)",
+    "en": "I just had breakfast",
+    "groupCode": 0
+  },
+  {
+    "id": 2752,
+    "fa": "کشور من ثروتمند است, مملو با منابع طبیعی از نفت و گاز است",
+    "en": "My country is affluent, loaded with natural resources of oil and gas",
+    "groupCode": 0
+  },
+  {
+    "id": 2753,
+    "fa": "به جا نمیارمت",
+    "en": "I can't place you",
+    "groupCode": 0
+  },
+  {
+    "id": 2754,
+    "fa": "این شرکت فراخوانی برای محصول معیوب صادر کرد",
+    "en": "The company issued a recall for the faulty product",
+    "groupCode": 0
+  },
+  {
+    "id": 2755,
+    "fa": "این به اون در",
+    "en": "Tit for tat",
+    "groupCode": 0
+  },
+  {
+    "id": 2756,
+    "fa": "من معمولاً از اشتباه پسرم چشم پوشی می کنم",
+    "en": "I usually turn a blind eye about my son's mistake",
+    "groupCode": 0
+  },
+  {
+    "id": 2757,
+    "fa": "سلام منو برسون",
+    "en": "Say hi for me",
+    "groupCode": 0
+  },
+  {
+    "id": 2758,
+    "fa": "کپسول آتش نشانی به سرعت شعله های آتش را خاموش کرد",
+    "en": "The fire extinguisher quickly put out the flames",
+    "groupCode": 0
+  },
+  {
+    "id": 2759,
+    "fa": "من مشروب خور تیر بودم",
+    "en": "I was a heavy drinker",
+    "groupCode": 0
+  },
+  {
+    "id": 2760,
+    "fa": "رئیس سابق من داره الان می پرسه برای جای تقریبی فایل های مهم",
+    "en": "My ex-boss is now asking for the whereabouts of important files",
+    "groupCode": 0
+  },
+  {
+    "id": 2761,
+    "fa": "من انگشت پام به میز زدم",
+    "en": "I stubbed my toe on the table",
+    "groupCode": 0
+  },
+  {
+    "id": 2762,
+    "fa": "خودم را نیشگون گرفتم",
+    "en": "I pinched myself",
+    "groupCode": 0
+  },
+  {
+    "id": 2763,
+    "fa": "من سرم را به بیرون زدگی دیوار زدم",
+    "en": "I bumped my head against the wall extrusion",
+    "groupCode": 0
+  },
+  {
+    "id": 2764,
+    "fa": "من فقط مقدار کمی از کیک برایم باقی مانده بود بعد از به اشتراک گذاشتنش با دوستانم",
+    "en": "I had only a fractional amount of the cake left after sharing it with my friends",
+    "groupCode": 0
+  },
+  {
+    "id": 2765,
+    "fa": "این باید محبوب ترین دسر من در تمام دوران باشد",
+    "en": "This has got to be my most favorite dessert of all time",
+    "groupCode": 0
+  },
+  {
+    "id": 2766,
+    "fa": "احمق هستی یا چیزی؟",
+    "en": "Are you stupid or something?",
+    "groupCode": 0
+  },
+  {
+    "id": 2767,
+    "fa": "من قراره الان فحشت بدم",
+    "en": "I'm gonna curse you now",
+    "groupCode": 0
+  },
+  {
+    "id": 2768,
+    "fa": "من از کاری که قرار است انجام دهم گیج شده ام",
+    "en": "I'm confused of what I'm supposed to be doing",
+    "groupCode": 0
+  },
+  {
+    "id": 2769,
+    "fa": "سمعکم داره بازی در میاره (درست کار نمی کنه)",
+    "en": "My hearing aid is acting up",
+    "groupCode": 0
+  },
+  {
+    "id": 2770,
+    "fa": "به پایین اسکرول کنید اما نه تا آخر",
+    "en": "Scroll down but not all the way",
     "groupCode": 0
   }
 ]
