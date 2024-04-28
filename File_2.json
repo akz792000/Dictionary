@@ -31,7 +31,7 @@
   },
   {
     "id": 10006,
-    "en": "Excuse me please (formal)",
+    "en": "Excuse me please",
     "de": "Entschuldigung Sie, bitte",
     "groupCode": 1
   },
@@ -122,7 +122,7 @@
   },
   {
     "id": 10021,
-    "en": "What's your name then? My name is Ali (informal)",
+    "en": "What's your name then? My name is Ali",
     "de": "Wie heißt du denn? Mein name ist Ali",
     "groupCode": 1
   },
@@ -135,7 +135,7 @@
   {
     "id": 10023,
     "en": "Who are you?",
-    "de": "\n 1.Wer sind Sie? (formal) \n 2.Wer bist du? (informal)",
+    "de": "\n 1.Wer sind Sie? \n 2.Wer bist du?",
     "groupCode": 1
   },
   {
@@ -158,13 +158,13 @@
   },
   {
     "id": 10027,
-    "en": "Where do you come from? (formal)",
+    "en": "Where do you come from?",
     "de": "Woher kommen Sie?",
     "groupCode": 1
   },
   {
     "id": 10028,
-    "en": "Which ones do you know? (informal)",
+    "en": "Which ones do you know?",
     "de": "Welche kennst du?",
     "groupCode": 1
   },
@@ -182,7 +182,7 @@
   },
   {
     "id": 10031,
-    "en": "Do you come from Syria? (informal)",
+    "en": "Do you come from Syria?",
     "de": "Kommst du aus Syrien?",
     "groupCode": 1
   },
@@ -194,7 +194,7 @@
   },
   {
     "id": 10033,
-    "en": "Where do you live now? (informal)",
+    "en": "Where do you live now?",
     "de": "Wo wohnst du jetzt?",
     "groupCode": 1
   },
@@ -212,7 +212,7 @@
   },
   {
     "id": 10036,
-    "en": "Complete the table with information from 4a (formal)",
+    "en": "Complete the table with information from 4a",
     "de": "Ergänzen Sie die Tabelle mit Informationen aus 4a",
     "groupCode": 1
   },
@@ -288,7 +288,7 @@
   },
   {
     "id": 10048,
-    "en": "What is your Telephone number? (formal)",
+    "en": "What is your Telephone number?",
     "de": "Wie ist Ihr Telefonnummer?",
     "groupCode": 1
   },
@@ -393,13 +393,13 @@
   },
   {
     "id": 10065,
-    "en": "Do you speak German? (formal) No, I speak no German",
+    "en": "Do you speak German? No, I speak no German",
     "de": "Sprechen Sie Deutsch? Nein, Ich spreche kein Deutsch",
     "groupCode": 1
   },
   {
     "id": 10066,
-    "en": "Where do you live? (informal) I live in France",
+    "en": "Where do you live? I live in France",
     "de": "Wo lebst du? Ich lebe in Frankreich",
     "groupCode": 1
   },
@@ -441,7 +441,7 @@
   },
   {
     "id": 10073,
-    "en": "Complete the dialog (formal)",
+    "en": "Complete the dialog",
     "de": "Ergänzen Sie die Dialog",
     "groupCode": 1
   },
@@ -453,7 +453,7 @@
   },
   {
     "id": 10075,
-    "en": "Write sentences (formal)",
+    "en": "Write sentences",
     "de": "Schreiben Sie die Sätze",
     "groupCode": 1
   },
@@ -642,14 +642,14 @@
   },
   {
     "id": 10106,
-    "en": "Which of these banks do you know? (informal)",
+    "en": "Which of these banks do you know?",
     "de": "Welche dieser Banken kennst du?",
     "groupCode": 1
   },
   {
     "id": 10107,
     "en": "Do you have Telegram?",
-    "de": "\n 1.Haben Sie Telegram? (formal) \n 2.Hast du Telegram? (informal)",
+    "de": "\n 1.Haben Sie Telegram? \n 2.Hast du Telegram?",
     "groupCode": 1
   },
   {
@@ -678,14 +678,14 @@
   },
   {
     "id": 10112,
-    "en": "How are you doing? (informal) Thank you, I'm doing well, and you? I'm all right",
+    "en": "How are you doing? Thank you, I'm doing well, and you? I'm all right",
     "de": "Wie geht es dir? Dannke, es geht mir gut, und dir? Es geht",
     "groupCode": 1
   },
   {
     "id": 10113,
     "en": "How are you doing?",
-    "de": "\n 1.Wie geht es Ihnen? (formal) \n 2.Wie geht's? (informal) \n 3.Wie geht es dir? (informal)",
+    "de": "\n 1.Wie geht es Ihnen? \n 2.Wie geht's? \n 3.Wie geht es dir?",
     "groupCode": 1
   },
   {
@@ -716,7 +716,7 @@
   },
   {
     "id": 10118,
-    "en": "Do you come from Germany? (formal)",
+    "en": "Do you come from Germany?",
     "de": "Kommen Sie aus Deutschland?",
     "groupCode": 1
   },
@@ -734,7 +734,7 @@
   },
   {
     "id": 10121,
-    "en": "But you speak German well (informal)",
+    "en": "But you speak German well",
     "de": "Aber du sprichst gut Deutsch",
     "groupCode": 1
   },
@@ -752,7 +752,7 @@
   },
   {
     "id": 10124,
-    "en": "Which languages do you speak? (informal)",
+    "en": "Which languages do you speak?",
     "de": "Welche Sprachen sprichst du?",
     "groupCode": 1
   },
@@ -782,7 +782,7 @@
   },
   {
     "id": 10129,
-    "en": "Dana and Pablo are my friends. You also learn German (formal)",
+    "en": "Dana and Pablo are my friends. You also learn German",
     "de": "Dana und Pablo sind meine Freunde. Sie lernen auch Deutsch",
     "groupCode": 1
   },
@@ -890,13 +890,13 @@
   },
   {
     "id": 10147,
-    "en": "How old are you? (formal)",
+    "en": "How old are you?",
     "de": "Wie alt sind Sie?",
     "groupCode": 1
   },
   {
     "id": 10148,
-    "en": "Do you like going to clubs? (informal) No, I prefer going to cafes",
+    "en": "Do you like going to clubs? No, I prefer going to cafes",
     "de": "Gehst du gern in Clubs? Nein, Ich gehe lieber in Cafés",
     "desc": "Both \"I prefer going to cafes\" and \"I prefer to go to cafes\" are correct. The first uses a gerund (\"going\"), while the second uses an infinitive (\"to go\"). They mean the same thing but might be used in different contexts or for stylistic variation.",
     "groupCode": 1
@@ -947,7 +947,7 @@
   },
   {
     "id": 10156,
-    "en": "Would you like to go to a cafe? (informal) No, I would like to sleep now",
+    "en": "Would you like to go to a cafe? No, I would like to sleep now",
     "de": "Möchtest du in ein Café gehen? Nein, Ich möchte jetzt schlafen",
     "groupCode": 1
   },
@@ -983,7 +983,7 @@
   },
   {
     "id": 10162,
-    "en": "Would you like to go to the hotel by foot? (informal)",
+    "en": "Would you like to go to the hotel by foot?",
     "de": "Möchtest du zu Fuss bis zum Hotel gehen?",
     "groupCode": 1
   },
@@ -1250,7 +1250,7 @@
   },
   {
     "id": 10206,
-    "en": "Sorry, are you a doctor (male)? (formal)",
+    "en": "Sorry, are you a doctor (male)?",
     "de": "Entschuldigung, sind Sie Arzt?",
     "groupCode": 1
   },
@@ -1304,7 +1304,7 @@
   },
   {
     "id": 10215,
-    "en": "My sister is a teacher. Does your girlfriend have a brother or a sister? (informal)",
+    "en": "My sister is a teacher. Does your girlfriend have a brother or a sister?",
     "de": "Meine Schwester ist Lehrerin. Hat deine Freundin einen Bruder oder eine Schwester?",
     "groupCode": 1
   },
@@ -1346,7 +1346,7 @@
   },
   {
     "id": 10222,
-    "en": "Are you a teacher? (informal)",
+    "en": "Are you a teacher?",
     "de": "Bist du Lehrer?",
     "groupCode": 1
   },
@@ -1419,7 +1419,7 @@
   },
   {
     "id": 10234,
-    "en": "Do you work here? (formal)",
+    "en": "Do you work here?",
     "de": "Arbeiten Sie hier?",
     "groupCode": 1
   },
@@ -1431,13 +1431,13 @@
   },
   {
     "id": 10236,
-    "en": "Do you like the red jacket here? (formal)",
+    "en": "Do you like the red jacket here?",
     "de": "Mögen Sie die rote Jacke hier?",
     "groupCode": 1
   },
   {
     "id": 10237,
-    "en": "Do you like that black jacket over there? (formal)",
+    "en": "Do you like that black jacket over there?",
     "de": "Mögen sie die schwarze Jacke da drüben?",
     "groupCode": 1
   },
@@ -1449,7 +1449,7 @@
   },
   {
     "id": 10239,
-    "en": "The red jacket is perfect for you (formal)",
+    "en": "The red jacket is perfect for you",
     "de": "Die rote Jacke ist perfekt für Sie",
     "groupCode": 1
   },
@@ -1461,7 +1461,7 @@
   },
   {
     "id": 10241,
-    "en": "You do your job very well (formal)",
+    "en": "You do your job very well",
     "de": "Sie machen Ihre Arbeit sehr gut",
     "groupCode": 1
   },
@@ -1563,13 +1563,13 @@
   },
   {
     "id": 10258,
-    "en": "Do you swim sometimes? (informal) No, I always swim",
+    "en": "Do you swim sometimes? No, I always swim",
     "de": "Schwimmst du manchmal? Nein, Ich schwimme immer",
     "groupCode": 1
   },
   {
     "id": 10259,
-    "en": "Do you paint sometimes? (formal)",
+    "en": "Do you paint sometimes?",
     "de": "Malen sie manchmal?",
     "groupCode": 1
   },
@@ -1581,7 +1581,7 @@
   },
   {
     "id": 10261,
-    "en": "Do you also swim often? (informal)",
+    "en": "Do you also swim often?",
     "de": "Schwimmst du auch oft?",
     "groupCode": 1
   },
@@ -1660,7 +1660,7 @@
   },
   {
     "id": 10274,
-    "en": "What would you like to eat? (informal)",
+    "en": "What would you like to eat?",
     "de": "Was möchten Sie essen?",
     "groupCode": 1
   },
@@ -1848,7 +1848,7 @@
   },
   {
     "id": 10305,
-    "en": "What are you by profession? (formal)",
+    "en": "What are you by profession?",
     "de": "Was sind Sie von Beruf?",
     "groupCode": 1
   },
@@ -1896,7 +1896,7 @@
   },
   {
     "id": 10313,
-    "en": "You see the car (informal)",
+    "en": "You see the car",
     "de": "Du siehst das Auto",
     "groupCode": 1
   },
@@ -2299,7 +2299,7 @@
   },
   {
     "id": 10380,
-    "en": "Would you like to have it? (formal)",
+    "en": "Would you like to have it?",
     "de": "Möchten Sie es haben?",
     "groupCode": 1
   },
@@ -2497,7 +2497,7 @@
   },
   {
     "id": 10413,
-    "en": "What are you doing this morning? (formal) I am playing chess this morning",
+    "en": "What are you doing this morning? I am playing chess this morning",
     "de": "Was machst du heute Morgen? Ich Spiele heute Morgen Schach",
     "groupCode": 1
   },
@@ -2623,7 +2623,7 @@
   },
   {
     "id": 10434,
-    "en": "Do you have shower gel? (formal)",
+    "en": "Do you have shower gel?",
     "de": "Haben Sie Duschgel?",
     "groupCode": 1
   },
@@ -2665,7 +2665,7 @@
   },
   {
     "id": 10441,
-    "en": "What are you doing this morning from seven to nine? (formal) I would like to go to the swimming pool, but it rains",
+    "en": "What are you doing this morning from seven to nine? I would like to go to the swimming pool, but it rains",
     "de": "Was machst du heute Morgen von sieben bis neun? Ich möchte ins Schwimmbad gehen, aber es regnet",
     "groupCode": 1
   },
@@ -2683,7 +2683,7 @@
   },
   {
     "id": 10444,
-    "en": "Do you have time? (informal)",
+    "en": "Do you have time?",
     "de": "Hast du Zeit?",
     "groupCode": 1
   },
@@ -2695,13 +2695,13 @@
   },
   {
     "id": 10446,
-    "en": "Do you have time this evening? (informal)",
+    "en": "Do you have time this evening?",
     "de": "Hast du heute Abend Zeit?",
     "groupCode": 1
   },
   {
     "id": 10447,
-    "en": "Would you like to go to the cafe at six this evening? (formal)",
+    "en": "Would you like to go to the cafe at six this evening?",
     "de": "Möchten sie heute Abend um sechs in Café gehen?",
     "groupCode": 1
   },
@@ -2719,7 +2719,7 @@
   },
   {
     "id": 10450,
-    "en": "When do you have time? (informal)",
+    "en": "When do you have time?",
     "de": "Wann hast du Zeit?",
     "groupCode": 1
   },
@@ -2791,7 +2791,7 @@
   },
   {
     "id": 10462,
-    "en": "Would you like to go to the coffee shop on Saturday? (informal)",
+    "en": "Would you like to go to the coffee shop on Saturday?",
     "de": "Möchtest du am Samstag ins Café gehen?",
     "groupCode": 1
   },
@@ -2971,7 +2971,7 @@
   },
   {
     "id": 10492,
-    "en": "What time is your family coming today? (informal)",
+    "en": "What time is your family coming today?",
     "de": "Wie viel Uhr kommt deine Familie heute?",
     "groupCode": 1
   },
@@ -3067,7 +3067,7 @@
   },
   {
     "id": 10508,
-    "en": "Are you nervous? (informal)",
+    "en": "Are you nervous?",
     "de": "Bist du Nervös?",
     "groupCode": 1
   },
@@ -3115,7 +3115,7 @@
   },
   {
     "id": 10516,
-    "en": "What would you like to buy? (informal)",
+    "en": "What would you like to buy?",
     "de": "Was möchtest du kaufen?",
     "groupCode": 1
   },
@@ -3139,19 +3139,19 @@
   },
   {
     "id": 10520,
-    "en": "What are you searching for? (formal) I'm searching for a shirt and a suite jacket",
+    "en": "What are you searching for? I'm searching for a shirt and a suite jacket",
     "de": "Was suchen Sie? Ich suche ein Hemd und ein Sakko",
     "groupCode": 1
   },
   {
     "id": 10521,
-    "en": "What would you like to buy for the job interview? (informal) I'm searching for a dress and a scarf",
+    "en": "What would you like to buy for the job interview? I'm searching for a dress and a scarf",
     "de": "Was möchtest du für das jobinterview kaufen? Ich suche ein Klied und einen Schal",
     "groupCode": 1
   },
   {
     "id": 10522,
-    "en": "Are you searching for a shirt? (informal)",
+    "en": "Are you searching for a shirt?",
     "de": "Suchst du ein Hemd?",
     "groupCode": 1
   },
@@ -3169,7 +3169,7 @@
   },
   {
     "id": 10525,
-    "en": "Good afternoon, which size are you looking for? (formal)",
+    "en": "Good afternoon, which size are you looking for?",
     "de": "Guten Tag, welche Größe suchen Sie?",
     "groupCode": 1
   },
@@ -3415,7 +3415,7 @@
   },
   {
     "id": 10566,
-    "en": "Grandpa, would you like to cancel your ticket to Paris? (informal)",
+    "en": "Grandpa, would you like to cancel your ticket to Paris?",
     "de": "Opa, möchtest du deine Fahrkarte nach Paris stornieren?",
     "groupCode": 1
   },
@@ -3427,13 +3427,13 @@
   },
   {
     "id": 10568,
-    "en": "Do you often pay with credit card? (informal)",
+    "en": "Do you often pay with credit card?",
     "de": "Zahlst du oft mit Kreditkarte?",
     "groupCode": 1
   },
   {
     "id": 10569,
-    "en": "Can you pay at the travel center? (formal)",
+    "en": "Can you pay at the travel center?",
     "de": "Können sie im Reisezentrum zahlen?",
     "groupCode": 1
   },
@@ -3475,7 +3475,7 @@
   },
   {
     "id": 10576,
-    "en": "You always come too late (informal)",
+    "en": "You always come too late",
     "de": "Du kommst immer zu spät",
     "groupCode": 1
   },
@@ -3553,19 +3553,19 @@
   },
   {
     "id": 10589,
-    "en": "Would you like to go to the coffee shop later? (informal)",
+    "en": "Would you like to go to the coffee shop later?",
     "de": "Möchtest du später ins Café gehen?",
     "groupCode": 1
   },
   {
     "id": 10590,
-    "en": "What would you like to drink? (formal) I would like to drink a beer",
+    "en": "What would you like to drink? I would like to drink a beer",
     "de": "Was möchten Sie trinken? Ich möchte ein Bier trinken",
     "groupCode": 1
   },
   {
     "id": 10591,
-    "en": "Good morning! Would you like to drink tea or kaffee? (formal)",
+    "en": "Good morning! Would you like to drink tea or kaffee?",
     "de": "Guten Morgen! Möchten Sie Tee oder Kaffee trinken?",
     "groupCode": 1
   },
@@ -3577,7 +3577,7 @@
   },
   {
     "id": 10593,
-    "en": "For you a salad with tomatoes (formal)",
+    "en": "For you a salad with tomatoes",
     "de": "Für Sie einen Salat mit Tomaten",
     "groupCode": 1
   },
@@ -3607,13 +3607,13 @@
   },
   {
     "id": 10598,
-    "en": "Do you pay separately? (formal)",
+    "en": "Do you pay separately?",
     "de": "Zahlen Sie getrennt?",
     "groupCode": 1
   },
   {
     "id": 10599,
-    "en": "Would you prefer to pay together or separately? (informal)",
+    "en": "Would you prefer to pay together or separately?",
     "de": "Möchtest du lieber zusammen oder getrennt zahlen?",
     "groupCode": 1
   },
@@ -3625,7 +3625,7 @@
   },
   {
     "id": 10601,
-    "en": "Would you like to pay in cash? (formal)",
+    "en": "Would you like to pay in cash?",
     "de": "Möchten Sie bar zahlen?",
     "groupCode": 1
   },
@@ -3769,13 +3769,13 @@
   },
   {
     "id": 10625,
-    "en": "Would you (formal) like to order the fruit salad or the apple cake",
+    "en": "Would you like to order the fruit salad or the apple cake",
     "de": "Möchten Sie den Obstsalat oder den Apfelkuchen bestellen",
     "groupCode": 1
   },
   {
     "id": 10626,
-    "en": "Would you (formal) like the fruit salad without sugar?",
+    "en": "Would you like the fruit salad without sugar?",
     "de": "Möchten Sie den Obstsalat ohne Zucker?",
     "groupCode": 1
   },
@@ -3811,7 +3811,7 @@
   },
   {
     "id": 10632,
-    "en": "Do you go by foot? (informal)",
+    "en": "Do you go by foot?",
     "de": "Gehst du zu Fuß?",
     "groupCode": 1
   },
@@ -3927,6 +3927,180 @@
     "id": 10651,
     "en": "Hello, How's it going? It's going badly",
     "de": "Hallo, wie geht's? Mir geht's Schlecht",
+    "groupCode": 1
+  },
+  {
+    "id": 10652,
+    "en": "Is your birthday on the first of March?",
+    "de": "Hast du am ersten März Geburtstag?",
+    "groupCode": 1
+  },
+  {
+    "id": 10653,
+    "en": "My birthday is on the first of April",
+    "de": "Ich habe am ersten April Geburtstag",
+    "groupCode": 1
+  },
+  {
+    "id": 10654,
+    "en": "My son's birthday is on the second of March",
+    "de": "Mein Sohn hat am zweiten März Geburtstag",
+    "groupCode": 1
+  },
+  {
+    "id": 10655,
+    "en": "My girlfriend's birthday is on the second of April",
+    "de": "Am zweiten April hat meine Freundin Geburtstag",
+    "groupCode": 1
+  },
+  {
+    "id": 10656,
+    "en": "What are you doing on the fourth of April?",
+    "de": "Was machst du am vierten April?",
+    "groupCode": 1
+  },
+  {
+    "id": 10657,
+    "en": "My wife is having a party on the third of April",
+    "de": "Meine Frau macht am dritten April eine Party",
+    "groupCode": 1
+  },
+  {
+    "id": 10658,
+    "en": "I'm having a party and my friends are coming",
+    "de": "Ich mache eine Party und meine Freunde kommen",
+    "groupCode": 1
+  },
+  {
+    "id": 10659,
+    "en": "Are you having a picnic on the seventh of March?",
+    "de": "Machst du am siebten März ein Picknick?",
+    "groupCode": 1
+  },
+  {
+    "id": 10660,
+    "en": "I can come tomorrow",
+    "de": "Ich kann morgen kommen",
+    "groupCode": 1
+  },
+  {
+    "id": 10661,
+    "en": "I'm having a party, can you come?",
+    "de": "Ich mache eine Party kannst du kommen",
+    "groupCode": 1
+  },
+  {
+    "id": 10662,
+    "en": "We're having a picnic at the weekend. Can you come?",
+    "de": "Wir machen am Wochenende ein picknick. Kannst du kommen?",
+    "groupCode": 1
+  },
+  {
+    "id": 10663,
+    "en": "We're having a party on the tenth of July",
+    "de": "Wir machen am zehnten Juli eine Party",
+    "groupCode": 1
+  },
+  {
+    "id": 10664,
+    "en": "Where is my invitation?",
+    "de": "Wo ist meine Einladung?",
+    "groupCode": 1
+  },
+  {
+    "id": 10665,
+    "en": "I am definitely coming",
+    "de": "Ich komme auf jeden Fall",
+    "groupCode": 1
+  },
+  {
+    "id": 10666,
+    "en": "Ali and Ilia, Would you like to come?",
+    "de": "Ali und Ilia, Möchtet ihr kommen?",
+    "groupCode": 1
+  },
+  {
+    "id": 10667,
+    "en": "Ali and Ilia, are you having a picnic?",
+    "de": "Ali und Ilia, macht ihr ein Picknick?",
+    "groupCode": 1
+  },
+  {
+    "id": 10668,
+    "en": "You definitely have to come to the party",
+    "de": "Du musst auf jeden Fall zur Party kommen",
+    "groupCode": 1
+  },
+  {
+    "id": 10669,
+    "en": "We are coming on the second of April",
+    "de": "Wir kommen am zweiten April",
+    "groupCode": 1
+  },
+  {
+    "id": 10670,
+    "en": "Do you have a gift for me?",
+    "de": "Hast du ein Geschenk fur mich?",
+    "groupCode": 1
+  },
+  {
+    "id": 10671,
+    "en": "Ali and Ilia, can you buy a gift today?",
+    "de": "Ali und Ilia, könnt ihr heute ein Geschenk kaufen?",
+    "groupCode": 1
+  },
+  {
+    "id": 10672,
+    "en": "Nina and Peter, where are you celebrating the birthday?",
+    "de": "Nina und Peter, wo feiert ihr den Geburtstag?",
+    "groupCode": 1
+  },
+  {
+    "id": 10673,
+    "en": "I'm celebrating my birthday in the park",
+    "de": "Ich feiere meinen Geburtstag im Park",
+    "groupCode": 1
+  },
+  {
+    "id": 10674,
+    "en": "Are you celebrating in the restaurant? No, we're celebrating at home",
+    "de": "Feiert ihr im Restaurant? Nein, wir feiern zu Hause",
+    "groupCode": 1
+  },
+  {
+    "id": 10675,
+    "en": "Do you need new clothes for the job interview?",
+    "de": "Brauchst du neue Kleidung für das Job Interview?",
+    "groupCode": 1
+  },
+  {
+    "id": 10676,
+    "en": "Where are you celebrating your birthday? At home! Are you coming?",
+    "de": "Wo feierst du deinen Geburtstag? Zu Hause! Kommst du?",
+    "groupCode": 1
+  },
+  {
+    "id": 10677,
+    "en": "Ilia and Ali, are you coming to the party too?",
+    "de": "Ilia und Ali, kommt ihr auch zur Party?",
+    "groupCode": 1
+  },
+  {
+    "id": 10678,
+    "en": "Are you celebrating your birthday at home?",
+    "de": "Feierst du deinen Geburtstag zu Hause?",
+    "groupCode": 1
+  },
+  {
+    "id": 10679,
+    "en": "",
+    "de": "Wir möchten im Restaurant essen",
+    "groupCode": 1
+  },
+  {
+    "id": 10680,
+    "en": "",
+    "de": "",
     "groupCode": 1
   }
 ]
