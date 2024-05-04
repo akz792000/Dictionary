@@ -2353,8 +2353,8 @@
   },
   {
     "id": 10389,
-    "en": "Do you love your cat? No, I love my snail and my dog",
-    "de": "Liebst du deine Katze? Nein, Ich liebe meine Schnecke und meinen Hund",
+    "en": "Do you love your cat or your fish? No, I love my snail and my dog",
+    "de": "Liebst du deine Katze oder deinen Fisch? Nein, Ich liebe meine Schnecke und meinen Hund",
     "groupCode": 1
   },
   {
@@ -3805,8 +3805,8 @@
   },
   {
     "id": 10631,
-    "en": "Wait! You can't go now",
-    "de": "Warten Sie! Sie können jetzt nicht gehen",
+    "en": "Wait please! You can't go now",
+    "de": "Warten Sie bitte! Sie können jetzt nicht gehen",
     "groupCode": 1
   },
   {
@@ -4101,6 +4101,187 @@
     "id": 10680,
     "en": "Does he always paint?",
     "de": "Malt er immer?",
+    "groupCode": 1
+  },
+  {
+    "id": 10681,
+    "en": "The party is at home, not in the park",
+    "de": "Die Party ist zu Hause, nicht im Park",
+    "groupCode": 1
+  },
+  {
+    "id": 10682,
+    "en": "Ali and Ilia, are you coming to the party later?",
+    "de": "Ali und Ilia, kommt ihr später zur Party?",
+    "groupCode": 1
+  },
+  {
+    "id": 10683,
+    "en": "We're celebrating my birthday in the park",
+    "de": "Wir feiern meinen Geburtstag im Park",
+    "groupCode": 1
+  },
+  {
+    "id": 10684,
+    "en": "The train always comes too late",
+    "de": "Der Zug kommt immer zu spät",
+    "groupCode": 1
+  },
+  {
+    "id": 10685,
+    "en": "What are you searching for?",
+    "de": "Wonach suchst du?",
+    "groupCode": 1
+  },
+  {
+    "id": 10686,
+    "en": "What does it smell like? It smells like flowers",
+    "de": "Wonach riecht es? Es riecht nach Blumen",
+    "desc": "wonach: there is no universal answer or translation. \"wonach\" can be used to ask about anything that requires \"nach\"",
+    "groupCode": 1
+  },
+  {
+    "id": 10687,
+    "en": "Customer finds receipt from 2002",
+    "de": "Kunde findet Kassenzettel von 2002",
+    "groupCode": 1
+  },
+  {
+    "id": 10688,
+    "en": "Do you need a bag?",
+    "de": "Brauchen sie eine tüte?",
+    "groupCode": 1
+  },
+  {
+    "id": 10689,
+    "en": "Complete! Do you like it?",
+    "de": "Fertig! Magst du es?",
+    "groupCode": 1
+  },
+  {
+    "id": 10690,
+    "en": "Why do I have green hair?",
+    "de": "Warum habe ich grüne Haare?",
+    "groupCode": 1
+  },
+  {
+    "id": 10691,
+    "en": "Ali shows Ilie the picture",
+    "de": "Ali zeigt Ilie das Bild",
+    "groupCode": 1
+  },
+  {
+    "id": 10692,
+    "en": "Why is my head so big?",
+    "de": "Warum ist mein Kopf so Groß?",
+    "groupCode": 1
+  },
+  {
+    "id": 10693,
+    "en": "These are not my eyes",
+    "de": "Das sind nicht meine Augen",
+    "groupCode": 1
+  },
+  {
+    "id": 10694,
+    "en": "Do you like to dance?",
+    "de": "Tanzt du gern?",
+    "groupCode": 1
+  },
+  {
+    "id": 10695,
+    "en": "What hobbies do you have?",
+    "de": "Welche Hobbys hast du?",
+    "groupCode": 1
+  },
+  {
+    "id": 10696,
+    "en": "I don't dance well",
+    "de": "Ich tanze nicht gut",
+    "groupCode": 1
+  },
+  {
+    "id": 10697,
+    "en": "My brother likes to go surfing",
+    "de": "Mein Bruder geht gern surfen",
+    "groupCode": 1
+  },
+  {
+    "id": 10698,
+    "en": "I don't like the movie",
+    "de": "Ich mag den Film nicht",
+    "groupCode": 1
+  },
+  {
+    "id": 10699,
+    "en": "The violin is very expensive",
+    "de": "Die Geige ist sehr teuer",
+    "groupCode": 1
+  },
+  {
+    "id": 10700,
+    "en": "Do you play an instrument?",
+    "de": "Spielst du ein Instrument?",
+    "groupCode": 1
+  },
+  {
+    "id": 10701,
+    "en": "Ali and Ilia, would you like to watch a movie?",
+    "de": "Ali und Ilia, möchtet ihr einen Film sehen?",
+    "groupCode": 1
+  },
+  {
+    "id": 10702,
+    "en": "I can play an instrument and you?",
+    "de": "Ich kann ein Instrument spielen und du?",
+    "groupCode": 1
+  },
+  {
+    "id": 10703,
+    "en": "Ali and Ilia, do you often play tennis together?",
+    "de": "Ali und Ilia, spielt ihr oft Tennis zusammen?",
+    "groupCode": 1
+  },
+  {
+    "id": 10704,
+    "en": "My aunt's birthday is on Sunday",
+    "de": "Meine Tante hat Geburtstag am Sonntag",
+    "groupCode": 1
+  },
+  {
+    "id": 10705,
+    "en": "My brother likes to listen to jazz",
+    "de": "Mein Bruder hört gern Jazz",
+    "groupCode": 1
+  },
+  {
+    "id": 10706,
+    "en": "I don't like to listen to podcasts",
+    "de": "Ich höre nicht gern Podcasts",
+    "groupCode": 1
+  },
+  {
+    "id": 10707,
+    "en": "The train door is at the rear left",
+    "de": "Die zugtür ist hinten links",
+    "groupCode": 1
+  },
+  {
+    "id": 10708,
+    "en": "The departure is at half past seven",
+    "de": "Die Abfährt ist um halb acht",
+    "groupCode": 1
+  },
+  {
+    "id": 10709,
+    "en": "The witch likes to cook",
+    "de": "Die Hexe kocht gern",
+    "groupCode": 1
+  },
+  {
+    "id": 10710,
+    "en": "I often camp in the forest",
+    "de": "Ich campe oft im Wald",
     "groupCode": 1
   }
 ]

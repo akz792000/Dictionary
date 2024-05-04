@@ -3420,7 +3420,7 @@
   {
     "id": 567,
     "fa": "برام اهمیت نداره",
-    "en": "I don't give a shit",
+    "en": "\n 1.I don't give a shit \n 2.I don't give a flying fish",
     "groupCode": 0
   },
   {
@@ -5368,7 +5368,7 @@
   },
   {
     "id": 886,
-    "fa": "دیروز یک ساعت در آسانسور گیر کردم. کاملا خسته کننده بود",
+    "fa": "من دیروز یک ساعت در آسانسور گیر کردم. کاملا خسته کننده بود",
     "en": "I got stuck in the elevator for an hour yesterday. It was quite frustrating",
     "groupCode": 0
   },
@@ -8048,7 +8048,7 @@
   },
   {
     "id": 1326,
-    "fa": "من هنوز کارم را اینجا تمام نکردم",
+    "fa": "من کارم را اینجا تمام نکرده ام",
     "en": "I haven't finished my work here",
     "groupCode": 0
   },

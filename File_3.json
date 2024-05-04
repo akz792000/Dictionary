@@ -370,5 +370,23 @@
     "en": "Teach",
     "de": "\n unterrichte \n unterrichtest \n unterrichtet \n unterrichten \n unterrichtet \n unterrichten",
     "groupCode": 1
+  },
+  {
+    "id": 20063,
+    "en": "Show",
+    "de": "\n zeige \n zeigst \n zeigt \n zeigen \n zeigt \n zeigen",
+    "groupCode": 1
+  },
+  {
+    "id": 20064,
+    "en": "Dance",
+    "de": "\n tanze \n tanzt \n tanzt \n tanzen \n tanzt \n tanzen",
+    "groupCode": 1
+  },
+  {
+    "id": 20065,
+    "en": "camp",
+    "de": "\n campe \n campst \n campt \n campen \n campt \n campen",
+    "groupCode": 1
   }
 ]
