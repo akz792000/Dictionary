@@ -4822,9 +4822,8 @@
   },
   {
     "id": 2798,
-    "fa": "پیدا نمی شود",
-    "en": "It's not being found",
-    "desc": "The active -> Ali isn't finding it",
+    "fa": "من پبداش نمی کنم. پیدا نمی شود",
+    "en": "I'm not finding it. It's not being found",
     "groupCode": 0
   },
   {
