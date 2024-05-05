@@ -4600,7 +4600,7 @@
   {
     "id": 2761,
     "fa": "من انگشت پام به میز کوبیدم",
-    "en": "I stubbed my toe on the table",
+    "en": "I stubbed /stˈʌb/ my toe on the table",
     "groupCode": 0
   },
   {
@@ -4659,8 +4659,9 @@
   },
   {
     "id": 2771,
-    "fa": "",
+    "fa": "ما مایلیم اطمینان حاصل کنیم از یک آبشار اطلاعاتی دقیق در سازمان خود",
     "en": "We would like to ensure a strict information cascade within our organization",
+    "desc": "The sentence means that the speaker or the organization desires to establish a controlled flow of information within their organization",
     "groupCode": 0
   },
   {
@@ -4677,13 +4678,13 @@
   },
   {
     "id": 2774,
-    "fa": "او (زن) سال ها از حساب شرکت اختلاس می کرد",
+    "fa": "او (زن) سال ها از حساب شرکت اختلاس کرده بود",
     "en": "She had been embezzling money from the corporate account for years",
     "groupCode": 0
   },
   {
     "id": 2775,
-    "fa": "بعد از ساعت ها مذاکره بالاخره به خواسته های ما تن دادند",
+    "fa": "بعد از ساعت ها مذاکره, آنها بالاخره به خواسته های ما تن دادند",
     "en": "After hours of negotiation, they finally gave in to our demands",
     "desc": "\"Give up\" means to quit or surrender.\n\"Give in\" means to yield or comply.",
     "groupCode": 0
@@ -4697,7 +4698,7 @@
   {
     "id": 2777,
     "fa": "او (مرد) یک دیوانه (عجیب و غریب) تناسب اندام است. او هر روز ورزش می کند",
-    "en": "He's a fitness freak; he works out every day",
+    "en": "He's a fitness freak. He works out every day",
     "groupCode": 0
   },
   {
@@ -4714,7 +4715,7 @@
   },
   {
     "id": 2780,
-    "fa": "او (مرد) پیامی از خود به جا گذاشت که هرگز فراموش نخواهد شد",
+    "fa": "او (مرد) پیامی به جا گذاشت که هرگز فراموش نخواهد شد",
     "en": "He left a message that will never be forgotten",
     "groupCode": 0
   },
@@ -4786,7 +4787,7 @@
   },
   {
     "id": 2792,
-    "fa": "او (مرد) سیگارش را در زیرسیگاری خاموش کرد",
+    "fa": "او (مرد) ته سیگارش را در زیرسیگاری خاموش کرد",
     "en": "He stubbed out his cigarette in the ashtray",
     "groupCode": 0
   },
@@ -4804,13 +4805,13 @@
   },
   {
     "id": 2795,
-    "fa": "چقدر داشتن یک کانال یوتیوب با بازدید زیاد سود دارد؟",
+    "fa": "چقدر داشتن یک کانال یوتیوب با بازدیدهای زیاد سود دارد؟",
     "en": "How profitable is having a Youtube channel with a lot of views?",
     "groupCode": 0
   },
   {
     "id": 2796,
-    "fa": "اصلاً چرا این کار را (فرضی) می کنید؟",
+    "fa": "اصلاً چرا آن کار را (فرضی) می کنید؟",
     "en": "Why would you even do that?",
     "groupCode": 0
   },
@@ -4822,20 +4823,26 @@
   },
   {
     "id": 2798,
-    "fa": "من پبداش نمی کنم. پیدا نمی شود",
+    "fa": "من (دارم) پیداش نمی کنم. (داره) پیدا نمی شود",
     "en": "I'm not finding it. It's not being found",
     "groupCode": 0
   },
   {
     "id": 2799,
-    "fa": "من می دانم که یک تنظیم کننده صدا چگونه به نظر می رسد",
+    "fa": "من می دانم که یک تنظیم کننده صدا چطور به نظر می رسد",
     "en": "I know what a voice tuner looks like",
     "groupCode": 0
   },
   {
     "id": 2800,
-    "fa": "تو همین الان گفتی. ثبت شده است",
+    "fa": "تو همین الان آن را گفتی. ثبت شده است",
     "en": "You just said that. It's recorded",
+    "groupCode": 0
+  },
+  {
+    "id": 2801,
+    "fa": "قربانی تا حد مرگ چاقو خورده بود",
+    "en": "The victim had been stabbed /stæb/ to death",
     "groupCode": 0
   }
 ]

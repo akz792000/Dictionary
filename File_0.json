@@ -1481,7 +1481,7 @@
   },
   {
     "id": 246,
-    "fa": "دوست دارم اول یه ذره مرتب کنی، وسایلت همه جای خونه هست",
+    "fa": "من مایلم اول یه ذره مرتب کنی، وسایلت همه جای خونه هست",
     "en": "I would like you to tidy up a bit first, your things are all over the house",
     "groupCode": 0
   },
@@ -6512,7 +6512,7 @@
   },
   {
     "id": 1073,
-    "fa": "بدون شک استعداد من فوق العاده است",
+    "fa": "استعداد من بدون شک فوق العاده است",
     "en": "My talent is extraordinary without doubt",
     "groupCode": 0
   },
@@ -7137,7 +7137,7 @@
   },
   {
     "id": 1176,
-    "fa": "من شما را تا مترو خواهم رساند",
+    "fa": "من شما را تا مترو (با ماشین) خواهم رساند",
     "en": "I'll give you a ride to the subway",
     "desc": "If someone mentions driving you to the subway, they are explicitly referring to using their car for transportation. However, if they say they'll give you a ride to the subway, it could involve various modes of transportation, including driving, public transportation, or other means.",
     "groupCode": 0
