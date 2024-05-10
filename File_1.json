@@ -1239,8 +1239,8 @@
   },
   {
     "id": 2206,
-    "fa": "انتظار نداشت آن اتفاق بیفتد",
-    "en": "Didn't expect that to happen",
+    "fa": "من انتظار نداشتم آن اتفاق بیفتد",
+    "en": "I didn't expect that to happen",
     "groupCode": 0
   },
   {
@@ -3457,7 +3457,7 @@
   },
   {
     "id": 2573,
-    "fa": "آیا در مواقع ضروری به خود متکی هستید یا به دیگران؟",
+    "fa": "آیا به خود متکی هستید یا به دیگران در مواقع ضروری؟",
     "en": "Do you rely on yourself or on others in times of need?",
     "groupCode": 0
   },
@@ -4320,7 +4320,7 @@
   {
     "id": 2715,
     "fa": "یک قاعده ضمنی ممکن است بر اساس هنجارهای اجتماعی درک شود، در حالی که یک قانون صریح به وضوح در یک کتاب قانون اظهار شده است",
-    "en": "An implicit rule might be understood based on societal norms, while an explicit rule is clearly stated in a rulebook",
+    "en": "An implicit rule might be understood based on societal /səˈsaɪətl̩/ norms, while an explicit rule is clearly stated in a rulebook",
     "desc": "\"Implicit\" refers to something that is suggested or understood without being directly expressed. It's something that is implied or inferred from context.\n\"Explicit,\" on the other hand, refers to something that is stated directly and clearly, leaving no room for ambiguity or misunderstanding.",
     "groupCode": 0
   },
@@ -4674,11 +4674,12 @@
     "id": 2773,
     "fa": "همه لباسه ای قدیمی ام (کهنه ام) را بخشیدم",
     "en": "I gave all my old clothes away",
+    "desc": "\n\"I gave all my old clothes away\": Indicates giving away every piece of old clothing.\n\"I gave all of my old clothes away\": Emphasizes the completeness of the action, suggesting every single item was given away.",
     "groupCode": 0
   },
   {
     "id": 2774,
-    "fa": "او (زن) سال ها از حساب شرکت اختلاس کرده بود",
+    "fa": "او (زن) سال ها از حساب شرکت پول اختلاس کرده بود",
     "en": "She had been embezzling money from the corporate account for years",
     "groupCode": 0
   },
@@ -4703,7 +4704,7 @@
   },
   {
     "id": 2778,
-    "fa": "از این دستورالعمل ها سر درنمی آورم",
+    "fa": "من از این دستورالعمل ها سر درنمی آورم",
     "en": "I can't work these instructions out",
     "groupCode": 0
   },
@@ -4805,13 +4806,13 @@
   },
   {
     "id": 2795,
-    "fa": "چقدر داشتن یک کانال یوتیوب با بازدیدهای زیاد سود دارد؟",
+    "fa": "چقدر سودمند است داشتن یک کانال یوتیوب با بازدیدهای زیاد؟",
     "en": "How profitable is having a Youtube channel with a lot of views?",
     "groupCode": 0
   },
   {
     "id": 2796,
-    "fa": "اصلاً چرا آن کار را (فرضی) می کنید؟",
+    "fa": "چرا اصلاً آن کار را (فرضی) می کنید؟",
     "en": "Why would you even do that?",
     "groupCode": 0
   },
@@ -4843,6 +4844,36 @@
     "id": 2801,
     "fa": "قربانی تا حد مرگ چاقو خورده بود",
     "en": "The victim had been stabbed /stæb/ to death",
+    "groupCode": 0
+  },
+  {
+    "id": 2802,
+    "fa": "خیلی رو داری",
+    "en": "You have a lot of nerve",
+    "groupCode": 0
+  },
+  {
+    "id": 2803,
+    "fa": "شام مهمون من",
+    "en": "Dinner is on me",
+    "groupCode": 0
+  },
+  {
+    "id": 2804,
+    "fa": "پرداخت قبض به تاخیر افتاده است",
+    "en": "The bill payment is overdue",
+    "groupCode": 0
+  },
+  {
+    "id": 2805,
+    "fa": "میشه خصوصی صحبت کنیم؟",
+    "en": "Can we talk in private?",
+    "groupCode": 0
+  },
+  {
+    "id": 2806,
+    "fa": "خفن ترین کاری که والدین شما انجام داده اند چیست؟",
+    "en": "What is the most badass thing your parent has ever done?",
     "groupCode": 0
   }
 ]
