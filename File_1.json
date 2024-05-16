@@ -2103,6 +2103,7 @@
     "id": 2349,
     "fa": "عینک آفتابی چشمان او (زن) را می پوشاند",
     "en": "The sunglasses conceal her eyes",
+    "desc": "So, \"conceal\" should be in its plural form \"conceal\" to match the plural subject \"sunglasses.\"",
     "groupCode": 0
   },
   {
@@ -3099,7 +3100,7 @@
   },
   {
     "id": 2514,
-    "fa": "فداکاری بی وقفه او (مرد) برای بهتر شدن در بازی منجر به بهبودها قابل توجهی در مهارت های او شد",
+    "fa": "فداکاری پیگیر (بدون تسلیم) او (مرد) برای بهتر شدن در بازی منجر به بهبودها قابل توجهی در مهارت های او شد",
     "en": "His relentless dedication to getting better at the game led to significant improvements in his skills",
     "groupCode": 0
   },
@@ -4401,7 +4402,7 @@
   {
     "id": 2728,
     "fa": "والدینش (زن) طلاق گرفته بودند و خواهرش اسکیزوفرنی شدید داشت",
-    "en": "Her parents were divorced and her sister has severe schizophrenia /ˌskɪtsoʊˈfriːnɪə/",
+    "en": "Her parents were divorced and her sister had severe schizophrenia /ˌskɪtsoʊˈfriːnɪə/",
     "groupCode": 0
   },
   {
@@ -4728,13 +4729,13 @@
   },
   {
     "id": 2782,
-    "fa": "اراده تسلیم ناپذیرش (مرد) هدایت کرد او را به غلبه هر چالشی (که) با آن روبرو شد",
+    "fa": "اراده راسخش (تسلیم ناپذیری) (مرد) هدایت کرد او را به غلبه هر چالشی (که) با آن روبرو شد",
     "en": "His indomitable will led him to conquer every challenge he faced",
     "groupCode": 0
   },
   {
     "id": 2783,
-    "fa": "من روحیه تسلیم ناپذیری دارم",
+    "fa": "من روحیه راسخی (تسلیم ناپذیری) دارم",
     "en": "I have an indomitable spirit",
     "groupCode": 0
   },
@@ -4758,13 +4759,13 @@
   },
   {
     "id": 2787,
-    "fa": "سرسخت باشید هنگام پیگیری اهداف خود",
+    "fa": "پیگیر (بدون تسلیم) باشید هنگام پیگیری اهداف خود",
     "en": "Be relentless when pursuing your goals",
     "groupCode": 0
   },
   {
     "id": 2788,
-    "fa": "اگر چیزی می خواهید باید سرسخت باشید",
+    "fa": "اگر چیزی می خواهید باید پیگیر (بدون تسلیم) باشید",
     "en": "If you want something you have got to be relentless",
     "groupCode": 0
   },
@@ -4812,7 +4813,7 @@
   },
   {
     "id": 2796,
-    "fa": "چرا اصلاً آن کار را (فرضی) می کنید؟",
+    "fa": "چرا اصلاً آن را (فرضی) انجام میدی؟",
     "en": "Why would you even do that?",
     "groupCode": 0
   },
@@ -4874,6 +4875,54 @@
     "id": 2806,
     "fa": "خفن ترین چیزی که والدین شما انجام داده اند چیست؟",
     "en": "What is the most badass thing your parent has ever done?",
+    "groupCode": 0
+  },
+  {
+    "id": 2807,
+    "fa": "شما نبایستی تمام پول خود را در فروشگاه اپل خرج می کردید",
+    "en": "You shouldn't have spent all of your money in the Apple store",
+    "groupCode": 0
+  },
+  {
+    "id": 2808,
+    "fa": "آیا (این) خشک کن باید آن صدا را ایجاد کند؟ به نظر می رسد شکسته است",
+    "en": "Should the dryer be making that noise? It sounds broken",
+    "groupCode": 0
+  },
+  {
+    "id": 2809,
+    "fa": "شما باید حداقل 24 ساعت قبل قرار ملاقات خود را لغو کنید",
+    "en": "You should cancel your appointment at least 24 hours in advance",
+    "groupCode": 0
+  },
+  {
+    "id": 2810,
+    "fa": "شما نبایستی هنگام رانندگی از گوشی خود استفاده می کردید",
+    "en": "You shouldn't have been using your phone while driving",
+    "groupCode": 0
+  },
+  {
+    "id": 2811,
+    "fa": "گوشی من باید تمام شب شارژ می شد، اما هنوز روی فقط 12 درصد باتری است",
+    "en": "My phone should've been charging all night, but it's still on just 12% battery",
+    "groupCode": 0
+  },
+  {
+    "id": 2812,
+    "fa": "من تسلیم شدم و اجازه دادم ماشینم را برای آخر هفته قرض بگیرند",
+    "en": "I relented and allowed them to borrow my car for the weekend",
+    "groupCode": 0
+  },
+  {
+    "id": 2813,
+    "fa": "او با عزم تزلزل ناپذیرش, او (زن) احساس شکست ناپذیری می کرد",
+    "en": "With her unwavering determination, she felt invincible",
+    "groupCode": 0
+  },
+  {
+    "id": 2814,
+    "fa": "بسیاری از مردم نسبت به نقش های جدید تردیدهای جدی دارند",
+    "en": "Many people have serious misgivings about the new roles",
     "groupCode": 0
   }
 ]
