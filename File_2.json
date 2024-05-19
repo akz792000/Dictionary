@@ -98,7 +98,7 @@
   },
   {
     "id": 10017,
-    "en": "Where do your partner come from? (polite)",
+    "en": "Where do your partner come from?",
     "de": "\n 1.Woher kommt Ihr Partner? \n 2.Woher kommt dein Partner?",
     "groupCode": 1
   },
@@ -258,7 +258,7 @@
   {
     "id": 10043,
     "en": "What is your family name? (polite)",
-    "de": "Wie ist Ihr Familienname?",
+    "de": "Wie ist Ihr (plural) Familienname?",
     "desc": "\"Ihr\" is a formal pronoun used when addressing someone with respect, especially in professional or formal situations. It is equivalent to the English \"your\" (formal) when addressing someone with respect",
     "groupCode": 1
   },
@@ -271,7 +271,7 @@
   {
     "id": 10045,
     "en": "What is your first name? (polite)",
-    "de": "Wie ist Ihr Vorname?",
+    "de": "Wie ist Ihr (plural) Vorname?",
     "groupCode": 1
   },
   {
@@ -282,13 +282,13 @@
   },
   {
     "id": 10047,
-    "en": "What is your zip code? (polite)",
+    "en": "What is your (plural) zip code? (polite)",
     "de": "Wie ist Ihr Postleitzahl/Ort?",
     "groupCode": 1
   },
   {
     "id": 10048,
-    "en": "What is your Telephone number?",
+    "en": "What is your (plural) Telephone number?",
     "de": "Wie ist Ihr Telefonnummer?",
     "groupCode": 1
   },
@@ -1364,7 +1364,7 @@
   },
   {
     "id": 10225,
-    "en": "What is your profession? (polite)",
+    "en": "What is your profession?",
     "de": "\n 1.Was ist dein Beruf? \n 2.Was ist Ihr Beruf?",
     "groupCode": 1
   },
@@ -1738,7 +1738,7 @@
   },
   {
     "id": 10287,
-    "en": "You (polite) wouldn't like to stay",
+    "en": "You (plural) wouldn't like to stay",
     "de": "Ihr möchtet nicht bleiben",
     "groupCode": 1
   },
@@ -1902,7 +1902,7 @@
   },
   {
     "id": 10314,
-    "en": "You are human (polite)",
+    "en": "You are human (plural)",
     "de": "Ihr seid Mensch",
     "groupCode": 1
   },
@@ -4015,14 +4015,14 @@
   },
   {
     "id": 10666,
-    "en": "Ali and Ilia, Would you like to come?",
-    "de": "Ali und Ilia, Möchtet ihr kommen?",
+    "en": "Would you (plural) like to come?",
+    "de": "Möchtet ihr kommen?",
     "groupCode": 1
   },
   {
     "id": 10667,
-    "en": "Ali and Ilia, are you having a picnic?",
-    "de": "Ali und Ilia, macht ihr ein Picknick?",
+    "en": "Are you (plural) having a picnic?",
+    "de": "Macht ihr ein Picknick?",
     "groupCode": 1
   },
   {
@@ -4045,14 +4045,14 @@
   },
   {
     "id": 10671,
-    "en": "Ali and Ilia, can you buy a gift today?",
-    "de": "Ali und Ilia, könnt ihr heute ein Geschenk kaufen?",
+    "en": "Can you (plural) buy a gift today?",
+    "de": "Könnt ihr heute ein Geschenk kaufen?",
     "groupCode": 1
   },
   {
     "id": 10672,
-    "en": "Nina and Peter, where are you celebrating the birthday?",
-    "de": "Nina und Peter, wo feiert ihr den Geburtstag?",
+    "en": "Where are you (plural) celebrating the birthday?",
+    "de": "Wo feiert ihr den Geburtstag?",
     "groupCode": 1
   },
   {
@@ -4063,7 +4063,7 @@
   },
   {
     "id": 10674,
-    "en": "Are you celebrating in the restaurant? No, we're celebrating at home",
+    "en": "Are you (plural) celebrating in the restaurant? No, we're celebrating at home",
     "de": "Feiert ihr im Restaurant? Nein, wir feiern zu Hause",
     "groupCode": 1
   },
@@ -4081,8 +4081,8 @@
   },
   {
     "id": 10677,
-    "en": "Ilia and Ali, are you coming to the party too?",
-    "de": "Ilia und Ali, kommt ihr auch zur Party?",
+    "en": "Are you (plural) coming to the party too?",
+    "de": "Kommt ihr auch zur Party?",
     "groupCode": 1
   },
   {
@@ -4111,8 +4111,8 @@
   },
   {
     "id": 10682,
-    "en": "Ali and Ilia, are you coming to the party later?",
-    "de": "Ali und Ilia, kommt ihr später zur Party?",
+    "en": "Are you (plural) coming to the party later?",
+    "de": "Kommt ihr später zur Party?",
     "groupCode": 1
   },
   {
@@ -4226,8 +4226,8 @@
   },
   {
     "id": 10701,
-    "en": "Ali and Ilia, would you like to watch a movie?",
-    "de": "Ali und Ilia, möchtet ihr einen Film sehen?",
+    "en": "Would you (plural) like to watch a movie?",
+    "de": "Möchtet ihr einen Film sehen?",
     "groupCode": 1
   },
   {
@@ -4238,8 +4238,8 @@
   },
   {
     "id": 10703,
-    "en": "Ali and Ilia, do you often play tennis together?",
-    "de": "Ali und Ilia, spielt ihr oft Tennis zusammen?",
+    "en": "Do you (plural) often play tennis together?",
+    "de": "Spielt ihr oft Tennis zusammen?",
     "groupCode": 1
   },
   {
@@ -4282,6 +4282,126 @@
     "id": 10710,
     "en": "I often camp in the forest",
     "de": "Ich campe oft im Wald",
+    "groupCode": 1
+  },
+  {
+    "id": 10711,
+    "en": "Where do you (plural) want to go hiking in the forest?",
+    "de": "Wo wollt ihr im Wald wandern gehen?",
+    "groupCode": 1
+  },
+  {
+    "id": 10712,
+    "en": "I want to grill next week",
+    "de": "Ich will nächste Woche grillen",
+    "groupCode": 1
+  },
+  {
+    "id": 10713,
+    "en": "I have no time next week",
+    "de": "Ich habe nächste Woche keine Zeit",
+    "groupCode": 1
+  },
+  {
+    "id": 10714,
+    "en": "We have time next week. Do you (plural) want to go camping?",
+    "de": "Wir haben nächste Woche Zeit. Wollt ihr campen gehen?",
+    "groupCode": 1
+  },
+  {
+    "id": 10715,
+    "en": "It is foggy in the forest, do you want to camp here?",
+    "de": "Es ist neblig im Walt, willst du hier campen?",
+    "groupCode": 1
+  },
+  {
+    "id": 10716,
+    "en": "Do you (plural) want to listen to jazz together?",
+    "de": "Wollt ihr zusammen Jazz hören?",
+    "groupCode": 1
+  },
+  {
+    "id": 10717,
+    "en": "I don't have a stomachache anymore, I'm healthy",
+    "de": "Ich habe keine bauchschmerzen mehr, ich bin gesund",
+    "groupCode": 1
+  },
+  {
+    "id": 10718,
+    "en": "Are your grandma and grandpa healthy too?",
+    "de": "Sind deine Oma und dein Opa auch gesund?",
+    "groupCode": 1
+  },
+  {
+    "id": 10719,
+    "en": "You are healthy and I am happy",
+    "de": "Du bist gesund und ich bin glücklich",
+    "groupCode": 1
+  },
+  {
+    "id": 10720,
+    "en": "At what time is your appointment? My appointment is at four o'clock",
+    "de": "Um wie viel Uhr ist ihr termin? Mein Termin is um schzehn Uhr",
+    "groupCode": 1
+  },
+  {
+    "id": 10721,
+    "en": "I'm not tired at night",
+    "de": "Ich bin nachts nicht müde",
+    "groupCode": 1
+  },
+  {
+    "id": 10722,
+    "en": "Do you have a pill?",
+    "de": "Hast du eine Tablette?",
+    "groupCode": 1
+  },
+  {
+    "id": 10723,
+    "en": "Akbar, go to the doctor please",
+    "de": "Akbar, geh Zum Arzt bitte",
+    "groupCode": 1
+  },
+  {
+    "id": 10724,
+    "en": "Are you not hungery anymore?",
+    "de": "Hast du kinen Hunger mehr?",
+    "groupCode": 1
+  },
+  {
+    "id": 10725,
+    "en": "I would like to make an appointment",
+    "de": "Ich mochte einen Termin machen",
+    "groupCode": 1
+  },
+  {
+    "id": 10726,
+    "en": "I'm sad and I'm sleeping too much",
+    "de": "Ich bin traurig und ich bin schlafe zu viel",
+    "groupCode": 1
+  },
+  {
+    "id": 10727,
+    "en": "My bed is not comfortable and I don't sleep much",
+    "de": "Mein Bett ist nicht bequem und ich schlafe nicht viel",
+    "groupCode": 1
+  },
+  {
+    "id": 10728,
+    "en": "Do you want to jog in the park tomorrow?",
+    "de": "Wollt ihr morgen im Park joggen?",
+    "groupCode": 1
+  },
+  {
+    "id": 10729,
+    "en": "Can you sleep well at night, Mr. Kohl?",
+    "de": "Können Sie nachts gut schlafen, Herr Kohl?",
+    "groupCode": 1
+  },
+  {
+    "id": 10730,
+    "en": "I am always thirsty at night",
+    "de": "Ich habe nachts immer Durst",
     "groupCode": 1
   }
 ]

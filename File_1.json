@@ -3891,7 +3891,7 @@
   },
   {
     "id": 2645,
-    "fa": "در اینجا ما ازش استفاده خواهیم کرد برای یادگیری ریزه کاریهای حوزه های تجاری",
+    "fa": "اینجا ما ازش استفاده خواهیم کرد برای یادگیری ریزه کاریهای حوزه های تجاری",
     "en": "Here we will use it to learn the intricacies of business domains",
     "groupCode": 0
   },
@@ -4107,7 +4107,7 @@
   },
   {
     "id": 2681,
-    "fa": "از شما بعیده که چنین اشتباهی را مرتکب شوی، اما من بعید نیستم این کار را انجام دهم",
+    "fa": "از شما بعیده که چنین اشتباهی را مرتکب شوی، اما من بعید نیستم این را انجام دهم",
     "en": "It's unlike you to make such a mistake, but I'm not unlikely to do this",
     "groupCode": 0
   },
@@ -4277,7 +4277,7 @@
   },
   {
     "id": 2708,
-    "fa": "سرعتم را بالا بردم تا چراغ سبز را بگیرم، اما سپس سرعتم را کم کردم تا جلوگیری (کنم) از جریمه",
+    "fa": "سرعتم را بالا بردم تا چراغ سبز را بگیرم، اما سپس سرعتم را کم کردم تا جلوگیری (کنم) از یک جریمه",
     "en": "I sped up to catch the green light, but then slowed down to avoid a fine",
     "groupCode": 0
   },
@@ -4879,7 +4879,7 @@
   },
   {
     "id": 2807,
-    "fa": "شما نبایستی تمام پول خود را در فروشگاه اپل خرج می کردید",
+    "fa": "شما نمی بایستی تمام پول خود را در فروشگاه اپل خرج می کردید",
     "en": "You shouldn't have spent all of your money in the Apple store",
     "groupCode": 0
   },
@@ -4897,13 +4897,13 @@
   },
   {
     "id": 2810,
-    "fa": "شما نبایستی هنگام رانندگی از گوشی خود استفاده می کردید",
+    "fa": "شما نمی بایستی هنگام رانندگی از گوشی خود استفاده می کردید",
     "en": "You shouldn't have been using your phone while driving",
     "groupCode": 0
   },
   {
     "id": 2811,
-    "fa": "گوشی من باید تمام شب شارژ می شد، اما هنوز روی فقط 12 درصد باتری است",
+    "fa": "گوشی من می بایستی تمام شب شارژ می شد، اما هنوز روی فقط 12 درصد باتری است",
     "en": "My phone should've been charging all night, but it's still on just 12% battery",
     "groupCode": 0
   },
@@ -4921,8 +4921,74 @@
   },
   {
     "id": 2814,
-    "fa": "بسیاری از مردم نسبت به نقش های جدید تردیدهای جدی دارند",
-    "en": "Many people have serious misgivings about the new roles",
+    "fa": "بسیاری از مردم نسبت به قوانین جدید تردیدهای جدی دارند",
+    "en": "Many people have serious misgivings about the new rules",
+    "groupCode": 0
+  },
+  {
+    "id": 2815,
+    "fa": "من می خواهم برای همسرم یک وقت ملاقات بگیرم",
+    "en": "I want to make an appointment for my wife",
+    "groupCode": 0
+  },
+  {
+    "id": 2816,
+    "fa": "آیا علی در تماس است؟",
+    "en": "Is Ali in the call?",
+    "groupCode": 0
+  },
+  {
+    "id": 2817,
+    "fa": "در چه مواردی به مشاوره نیاز دارید؟",
+    "en": "What do you need advice on?",
+    "groupCode": 0
+  },
+  {
+    "id": 2818,
+    "fa": "امروز, من ساعت 11 نوبت پزشکی دارم. من بعد از آن بر خواهم گشت",
+    "en": "Today, I have a medical appointment at 11. I'll be back after that",
+    "groupCode": 0
+  },
+  {
+    "id": 2819,
+    "fa": "اگر چوبی پرتاب کنم، تعقیبش می کنی؟",
+    "en": "If I threw a stick, would you chase it?",
+    "groupCode": 0
+  },
+  {
+    "id": 2820,
+    "fa": "ما ارزش قائل هستیم برای نظر شما به همان اندازه که ما ارزش قائل هستیم برای یک مداد رنگی سفید",
+    "en": "We value your opinion about as much as we value a white crayon",
+    "groupCode": 0
+  },
+  {
+    "id": 2821,
+    "fa": "یا تمام راه را بالا می روید یا تا آخر",
+    "en": "Either you're going all the way up or all the way down",
+    "groupCode": 0
+  },
+  {
+    "id": 2822,
+    "fa": "او (زن) واقعاً آنها را (عین) علف زد",
+    "en": "She really mowed them down",
+    "groupCode": 0
+  },
+  {
+    "id": 2823,
+    "fa": "نقاط ضعف خود را به نقاط قوت تبدیل کنید, و هیچ چیز نمی تواند مانع موفقیت شما شود",
+    "en": "Turn your weaknesses into strengths, and nothing can stop your success",
+    "groupCode": 0
+  },
+  {
+    "id": 2824,
+    "fa": "از کجا باید می دانستم؟",
+    "en": "How was I supposed to know?",
+    "groupCode": 0
+  },
+  {
+    "id": 2825,
+    "fa": "احتمال اینکه او زنده از آنجا خارج شود حدود 1 یا 2 درصد است",
+    "en": "The chances (likelihood) of him getting out of there alive are about 1 or 2 percent",
     "groupCode": 0
   }
 ]
