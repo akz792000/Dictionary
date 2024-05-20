@@ -454,7 +454,7 @@
   },
   {
     "id": 2076,
-    "fa": "چه کسی قراره راننده شه؟",
+    "fa": "چه کسی قصد دارد راننده شه؟",
     "en": "Who is gonna be the driver?",
     "groupCode": 0
   },
@@ -466,7 +466,7 @@
   },
   {
     "id": 2078,
-    "fa": "چگونه قراره به آنجا برسید؟ من قراره اتوبوس بگیرم",
+    "fa": "چگونه قصد دارد به آنجا برسید؟ من قصد دارم اتوبوس بگیرم",
     "en": "How are you gonna get there? I'm gonna take the bus",
     "groupCode": 0
   },
@@ -1070,7 +1070,7 @@
   },
   {
     "id": 2178,
-    "fa": "تو قراره درباره اش چه کنی؟",
+    "fa": "تو قصد داری درباره اش چه کنی؟",
     "en": "What are you gonna do about it?",
     "groupCode": 0
   },
@@ -1184,7 +1184,7 @@
   },
   {
     "id": 2197,
-    "fa": "قطعاً آن چیزی نبود که من فکر کردم قرار بود باشد",
+    "fa": "قطعاً آن چیزی نبود که من فکر کردم قصد دارد باشد",
     "en": "It was definitely not what I thought it was gonna be",
     "groupCode": 0
   },
@@ -2664,7 +2664,7 @@
   },
   {
     "id": 2442,
-    "fa": "من میرم یه قهوه بگیرم",
+    "fa": "من قصد دارم یه قهوه بگیرم",
     "en": "I'm gonna get a coffee",
     "groupCode": 0
   },
@@ -3525,7 +3525,7 @@
   },
   {
     "id": 2584,
-    "fa": "او (مرد) اون پایین گیر کرده و من قراره در را برایش باز کنم",
+    "fa": "او (مرد) اون پایین گیر کرده و من قصد دارم در را برایش باز کنم",
     "en": "He's stuck down there, and I'm gonna open the door for him",
     "groupCode": 0
   },
@@ -4389,7 +4389,7 @@
   },
   {
     "id": 2726,
-    "fa": "من قراره پنهان شوم",
+    "fa": "من قصد دارم پنهان شوم",
     "en": "I'm gonna hide out",
     "groupCode": 0
   },
@@ -4503,7 +4503,7 @@
   },
   {
     "id": 2745,
-    "fa": "من قبلا هیچ وقت نقد (بررسی شده) نشده بودم",
+    "fa": "من قبلا هیچ وقت نقد (بررسی شده) نشدم",
     "en": "I have never gotten reviewed before",
     "groupCode": 0
   },
@@ -4636,7 +4636,7 @@
   },
   {
     "id": 2767,
-    "fa": "من قراره الان فحشت بدم",
+    "fa": "من قصد دارم الان فحشت بدم",
     "en": "I'm gonna curse you now",
     "groupCode": 0
   },
@@ -4939,7 +4939,7 @@
   },
   {
     "id": 2817,
-    "fa": "در چه مواردی به مشاوره نیاز دارید؟",
+    "fa": "در چه مواردی به نصیحت نیاز دارید؟",
     "en": "What do you need advice on?",
     "groupCode": 0
   },
@@ -4981,7 +4981,7 @@
   },
   {
     "id": 2824,
-    "fa": "از کجا باید می دانستم؟",
+    "fa": "چگونه قرار است بدونم؟",
     "en": "How was I supposed to know?",
     "groupCode": 0
   },
@@ -4989,6 +4989,97 @@
     "id": 2825,
     "fa": "احتمال اینکه او زنده از آنجا خارج شود حدود 1 یا 2 درصد است",
     "en": "The chances (likelihood) of him getting out of there alive are about 1 or 2 percent",
+    "groupCode": 0
+  },
+  {
+    "id": 2826,
+    "fa": "من قصد دارم امشب دیر برسم. پس, بیدار نمان و منتظر من مباش",
+    "en": "I'm gonna be late tonight. So, don't stay up and wait for me",
+    "groupCode": 0
+  },
+  {
+    "id": 2827,
+    "fa": "تو واقعا داری قطع و وصل میشی ، من فکر کنم باتریم می بایستی کم باشه",
+    "en": "You're really dropping out, I think my battery must be low",
+    "desc": "likely refers to the phone call's poor connection. The phrase suggests that the person's voice is cutting out or the call is dropping, making it hard to hear what they're saying",
+    "groupCode": 0
+  },
+  {
+    "id": 2828,
+    "fa": "کاش تا الان او (مرد) مرده بود",
+    "en": "I wish he were dead by now",
+    "groupCode": 0
+  },
+  {
+    "id": 2829,
+    "fa": "اگر تو میتونی صدای من را بشنوی، ما داریم به یک مکان نزدیک می رویم",
+    "en": "If you can hear me, we're going to a place nearby",
+    "groupCode": 0
+  },
+  {
+    "id": 2830,
+    "fa": "تعجب می کنم کجایی؟",
+    "en": "I wonder where you are?",
+    "groupCode": 0
+  },
+  {
+    "id": 2831,
+    "fa": "او (مرد) وقتی 16 ساله بود ترک تحصیل کرد",
+    "en": "He dropped out of school when he was 16",
+    "groupCode": 0
+  },
+  {
+    "id": 2832,
+    "fa": "اما خدا لعنتت کنه, تو دوباره عاشقم کردی",
+    "en": "But goddamn, you got me in love again",
+    "groupCode": 0
+  },
+  {
+    "id": 2833,
+    "fa": "من قبل از امتحان دیدمش (مرد) و برایم آرزوی موفقیت کرد",
+    "en": "I saw him before the exam and he wished me luck",
+    "groupCode": 0
+  },
+  {
+    "id": 2834,
+    "fa": "برای شما آرزوی اقامتی خوش در اینجا دارم",
+    "en": "I wish you a pleasant stay here",
+    "groupCode": 0
+  },
+  {
+    "id": 2835,
+    "fa": "کاش این همه آدم نبود",
+    "en": "I wish there weren't so many people",
+    "groupCode": 0
+  },
+  {
+    "id": 2836,
+    "fa": "ای کاش فردا مجبور نبودم کار کنم، اما متاسفانه دارم",
+    "en": "I wish I didn't have to work tomorrow, but unfortunately I do",
+    "groupCode": 0
+  },
+  {
+    "id": 2837,
+    "fa": "کاش او (زن) اینجا بود",
+    "en": "I wish she were(was) here",
+    "groupCode": 0
+  },
+  {
+    "id": 2838,
+    "fa": "کاش مجبور نبودی به این زودی بری",
+    "en": "I wish you didn't have to go so soon",
+    "groupCode": 0
+  },
+  {
+    "id": 2839,
+    "fa": "کاش بلد بودم چگونه آشپزی کنم",
+    "en": "I wish I knew how to cook",
+    "groupCode": 0
+  },
+  {
+    "id": 2840,
+    "fa": "امیدوارم او (مرد) مرده باشه تا الان",
+    "en": "I hope he's dead by now",
     "groupCode": 0
   }
 ]
