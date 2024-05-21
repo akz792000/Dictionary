@@ -1,0 +1,392 @@
+[
+  {
+    "id": 20001,
+    "en": "Be",
+    "de": "\n bin \n bist \n ist \n sind (زیند) \n seid (زاید) \n sind",
+    "groupCode": 1
+  },
+  {
+    "id": 20002,
+    "en": "Be called",
+    "de": "\n heiße (هایسِ) \n heißt (هایسْت) \n heißt \n heißen \n heißt \n heißen (هایسن) \n",
+    "groupCode": 1
+  },
+  {
+    "id": 20003,
+    "en": "Come",
+    "de": "\n komme (کُمِ) \n kommst (کُمسْت) \n kommt (کُمْت) \n kommen (کُمِن) \n kommt \n kommen \n",
+    "groupCode": 1
+  },
+  {
+    "id": 20004,
+    "en": "Hear",
+    "de": "\n höre (هُرِ) \n hörst (هُرسْت) \n hört (هُرْت) \n hören (هُرِن) \n hört \n hören \n",
+    "groupCode": 1
+  },
+  {
+    "id": 20005,
+    "en": "Know",
+    "de": "\n kenne (کِنِ) \n kennst (کِنسْت) \n kennt (کِنْت) \n kennen (کِنِن) \n kennt \n kennen \n",
+    "groupCode": 1
+  },
+  {
+    "id": 20006,
+    "en": "Live",
+    "de": "\n wohne (وُنِ) \n wohnst (وُنْسْت) \n wohnt (وُنْت) \n wohnen (وُنِن) \n wohnt \n wohnen \n",
+    "groupCode": 1
+  },
+  {
+    "id": 20007,
+    "en": "Say",
+    "de": "\n sage (زاگِ) \n sagst (زاگْسْت) \n sagt (زاگْت) \n sagen (زاگِن) \n sagt \n sagen (زاگِن)",
+    "groupCode": 1
+  },
+  {
+    "id": 20008,
+    "en": "Speak",
+    "de": "\n spreche (اشپرِشِ) \n sprichst (اشپریشْسْت) \n spricht (اشپریشْت) \n sprechen (اشپرِشِن) \n sprecht (اشپرِشْت) \n sprechen \n",
+    "groupCode": 1
+  },
+  {
+    "id": 20009,
+    "en": "Read",
+    "de": "\n lese (لِزِ) \n liest (لیست) \n liest \n lesen (لِزن) \n lest (لِست) \n lesen \n",
+    "groupCode": 1
+  },
+  {
+    "id": 20010,
+    "en": "Complete",
+    "de": "\n ergänze (ارگنسِ) \n ergänzt (ارگنسْت) \n ergänzt \n ergänzen (ارگنسِن) \n ergänzt \n ergänzen \n",
+    "groupCode": 1
+  },
+  {
+    "id": 20011,
+    "en": "Register",
+    "de": "\n melde an (مِلدِ آن) \n meldest an (مِلدِسْت) \n meldet an (مِلدِت) \n melden an \n meldet an \n melden an \n",
+    "groupCode": 1
+  },
+  {
+    "id": 20012,
+    "en": "Write",
+    "de": "\n schreibe (شرایْبِ) \n schreibst (شرایبْسْت) \n schreibt (شرایبْت) \n schreiben (شرایْبِن) \n schreibt \n schreiben \n",
+    "groupCode": 1
+  },
+  {
+    "id": 20013,
+    "en": "Ask",
+    "de": "\n frage (فراگِ) \n fragst (فراگْست) \n fragt (فراگْت) \n fragen \n fragt \n fragen \n",
+    "groupCode": 1
+  },
+  {
+    "id": 20014,
+    "en": "Answer",
+    "de": "\n antwort (آنتوُرت) \n antwortest (آنتوُرتِست) \n antwortet (آنتوُرتِت) \n antworten (آنتوُرتِن) \n antwortet \n antworten \n",
+    "groupCode": 1
+  },
+  {
+    "id": 20015,
+    "en": "Play",
+    "de": "\n spiel (اشپیلِ) \n spielst (اشپیلسْت) \n spielt (اشپیلْت) \n spielen (اشپیلِن) \n spielt \n spielen \n",
+    "groupCode": 1
+  },
+  {
+    "id": 20016,
+    "en": "Cross",
+    "de": "\n kreuze (کُریتزِ) \n kreuzt (کُریتزت) \n kreuzt \n kreuzen (کُریتزِن) \n kreuzt \n kreuzen \n",
+    "groupCode": 1
+  },
+  {
+    "id": 20017,
+    "en": "Note",
+    "de": "\n notiere (نُتیرِ) \n notierst (نُتیرِست) \n notiert (نُتیرِت) \n notieren (نُتیرِن) \n notiert \n notieren \n",
+    "groupCode": 1
+  },
+  {
+    "id": 20018,
+    "en": "Need",
+    "de": "\n brauche (بِرآوخِ) \n brauchst (بِرآوخست) \n braucht (بِرآوخت) \n brauchen (بِرآوخِن) \n braucht \n brauchen \n",
+    "groupCode": 1
+  },
+  {
+    "id": 20019,
+    "en": "Save",
+    "de": "\n speichere (اشپای شِرِ) \n speicherst (اشپای شرست) \n speichert (اشپای شرت) \n speichern (اشپای شرن) \n speichert \n speichern \n",
+    "groupCode": 1
+  },
+  {
+    "id": 20020,
+    "en": "Sleep",
+    "de": "\n schlafe (اشلافِ) \n schläfst (اشلفست) \n schläft (اشلفت) \n schlafen \n schlaft (اشلافت) \n schlafen (اشلافن)",
+    "groupCode": 1
+  },
+  {
+    "id": 20021,
+    "en": "Have",
+    "de": "\n habe (هابِ) \n hast (هاست) \n hat (هات) \n haben \n habt (هابت) \n haben",
+    "groupCode": 1
+  },
+  {
+    "id": 20022,
+    "en": "Eat",
+    "de": "\n esse (اسِ) \n isst (ایِستِ) \n isst \n essen \n esst (اسْت) \n essen (اسِن)",
+    "groupCode": 1
+  },
+  {
+    "id": 20023,
+    "en": "Work",
+    "de": "\n arbeite \n arbeitest \n arbeitet \n arbeiten \n arbeitet \n arbeiten (آربایتن)",
+    "groupCode": 1
+  },
+  {
+    "id": 20024,
+    "en": "See",
+    "de": "\n sehe (زِاِ) \n siehst (زیست) \n sieht (زیت) \n sehen \n seht (زیت) \n sehen (زِِاِن)",
+    "groupCode": 1
+  },
+  {
+    "id": 20025,
+    "en": "Learn",
+    "de": "\n lerne (لرنِ) \n lernst (لرنسْت) \n lernt (لرنْت) \n lernen (لرنِن) \n lernt (لرنْت) \n lernen (لرنِن)",
+    "groupCode": 1
+  },
+  {
+    "id": 20026,
+    "en": "Would like",
+    "de": "\n möchte (مُچت) \n möchtest (مُچتست) \n möchte (مُچتِ) \n möchten \n möchtet (مُچتت) \n möchten",
+    "groupCode": 1
+  },
+  {
+    "id": 20027,
+    "en": "Wear",
+    "de": "\n trage (تراگِ) \n trägst (تِرِگست) \n trägt (تِرِگت) \n tragen (تراگنِ) \n tragt (تراگت) \n tragen",
+    "groupCode": 1
+  },
+  {
+    "id": 20028,
+    "en": "Cook",
+    "de": "\n koche (کُخِ) \n kochst (کُخست) \n kocht (کُخت) \n kochen (کُخِن) \n kocht \n kochen",
+    "groupCode": 1
+  },
+  {
+    "id": 20029,
+    "en": "Swim",
+    "de": "\n schwimme (شوویمِ) \n schwimmst (شوویمست) \n schwimmt (شوویمت) \n schwimmen (شوویمن) \n schwimmet \n schwimmen",
+    "groupCode": 1
+  },
+  {
+    "id": 20030,
+    "en": "Paint",
+    "de": "\n male (مالِ) \n malst (مالست) \n malt (مالت) \n malen (مالِن) \n malt \n malen",
+    "groupCode": 1
+  },
+  {
+    "id": 20031,
+    "en": "Sit",
+    "de": "\n sitze (زیتسِ) \n sitzt (زیتسْت) \n sitzt (زیتسْت) \n sitzen (زیتستن) \n sitzt \n sitzen",
+    "groupCode": 1
+  },
+  {
+    "id": 20032,
+    "en": "Can",
+    "de": "\n kann (کان) \n Kannst (کاَنست) \n kann \n können \n könnt \n können",
+    "groupCode": 1
+  },
+  {
+    "id": 20033,
+    "en": "Go",
+    "de": "\n gehe (گِ اِ) \n gehst (گِست) \n geht (گِت) \n gehen (گِ اِن) \n geht \n gehen",
+    "groupCode": 1
+  },
+  {
+    "id": 20034,
+    "en": "Order",
+    "de": "\n bestelle (بشتِلِ) \n bestellst (بشتِلسْت) \n bestellt (بشتِلْت) \n bestellen (بشتِلِن) \n bestellt \n bestellen",
+    "groupCode": 1
+  },
+  {
+    "id": 20035,
+    "en": "Take",
+    "de": "\n nehme (نِمِ) \n nimmst (نیمسْت) \n nimmt (نیمْت) \n nehmen (نِمِن) \n nehmt \n nehmen",
+    "groupCode": 1
+  },
+  {
+    "id": 20036,
+    "en": "Do, Make",
+    "de": "\n mache (ماخِ) \n machst (ماخسْت) \n macht (ماخْت) \n machen (ماخِن) \n macht \n machen",
+    "groupCode": 1
+  },
+  {
+    "id": 20037,
+    "en": "Buy",
+    "de": "\n kaufe \n kaufst \n kauft \n kaufen \n kauft \n kaufen ",
+    "groupCode": 1
+  },
+  {
+    "id": 20038,
+    "en": "Want",
+    "de": "\n will \n willst \n will \n wollen \n wollt \n wollen",
+    "groupCode": 1
+  },
+  {
+    "id": 20039,
+    "en": "Stay",
+    "de": "\n bleibe \n bleibst \n bleibt \n bleiben \n bleibt \n bleiben",
+    "groupCode": 1
+  },
+  {
+    "id": 20040,
+    "en": "Be allowed",
+    "de": "\n darf (دارف) \n darfst \n darft \n dürfen \n dürft \n dürfen",
+    "groupCode": 1
+  },
+  {
+    "id": 20041,
+    "en": "Must",
+    "de": "\n muss \n musst \n muss \n müssen \n müsst \n müssen",
+    "groupCode": 1
+  },
+  {
+    "id": 20042,
+    "en": "Should",
+    "de": "\n soll \n sollst \n soll \n sollen \n sollt \n sollen (زُلِن)",
+    "groupCode": 1
+  },
+  {
+    "id": 20043,
+    "en": "Understand",
+    "de": "\n verstehe (فِشت اِ) \n verstehst \n versteht \n verstehen \n versteht \n verstehen",
+    "groupCode": 1
+  },
+  {
+    "id": 20044,
+    "en": "Repeat",
+    "de": "\n Wiederholen \n hole wieder \n holst wieder \n holt wieder \n holen wieder \n holt wieder \n holen wieder",
+    "groupCode": 1
+  },
+  {
+    "id": 20045,
+    "en": "Drive",
+    "de": "\n fahre \n fährst \n fährt \n fahren \n fahrt \n fahren",
+    "groupCode": 1
+  },
+  {
+    "id": 20046,
+    "en": "Drive",
+    "de": "\n lebe \n lebst \n lebt \n leben \n lebt \n leben",
+    "groupCode": 1
+  },
+  {
+    "id": 20047,
+    "en": "Hike",
+    "de": "\n wandere \n wanderst \n wandert \n wandern \n wandert \n wandern",
+    "groupCode": 1
+  },
+  {
+    "id": 20048,
+    "en": "Study",
+    "de": "\n studiere \n studierst \n studiert \n studieren \n studiert \n studieren",
+    "groupCode": 1
+  },
+  {
+    "id": 20049,
+    "en": "Travel",
+    "de": "\n reise \n reist \n reist \n reisen \n reist \n reisen",
+    "groupCode": 1
+  },
+  {
+    "id": 20050,
+    "en": "Care",
+    "de": "\n pflege \n pflegst \n pflegt \n pflegen \n pflegt \n pflegen",
+    "groupCode": 1
+  },
+  {
+    "id": 20051,
+    "en": "Sell",
+    "de": "\n verkaufe \n verkaufst \n verkauft \n verkaufen \n verkauft \n verkaufen",
+    "groupCode": 1
+  },
+  {
+    "id": 20052,
+    "en": "Service",
+    "de": "\n serviere \n servierst \n serviert \n servieren \n serviert \n servieren",
+    "groupCode": 1
+  },
+  {
+    "id": 20053,
+    "en": "Have breakfast",
+    "de": "\n frühstücke \n frühstückst \n frühstückt \n frühstücken \n frühstückt \n frühstücken",
+    "groupCode": 1
+  },
+  {
+    "id": 20054,
+    "en": "Surf",
+    "de": "\n surfe \n surfst \n surft \n surfen \n surft \n surfen",
+    "groupCode": 1
+  },
+  {
+    "id": 20055,
+    "en": "Sing",
+    "de": "\n singe \n singst \n singt \n singen \n singt \n singen",
+    "groupCode": 1
+  },
+  {
+    "id": 20056,
+    "en": "Take a photograph",
+    "de": "\n fotografiere \n fotografierst \n fotografiert \n fotografieren \n fotografiert \n fotografieren",
+    "groupCode": 1
+  },
+  {
+    "id": 20057,
+    "en": "Jog",
+    "de": "\n jogge \n joggst \n joggt \n joggen \n joggt \n joggen",
+    "groupCode": 1
+  },
+  {
+    "id": 20058,
+    "en": "Find",
+    "de": "\n finde \n findest \n findet \n finden \n findet \n finden",
+    "groupCode": 1
+  },
+  {
+    "id": 20059,
+    "en": "Buy",
+    "de": "\n kaufe \n kaufst \n kauft \n kaufen \n kauft \n kaufen",
+    "groupCode": 1
+  },
+  {
+    "id": 20060,
+    "en": "Search",
+    "de": "\n suche \n suchst \n sucht \n suchen \n sucht \n suchen",
+    "groupCode": 1
+  },
+  {
+    "id": 20061,
+    "en": "Cost",
+    "de": "\n koste \n kostest \n kostet \n kosten \n kostet \n kosten",
+    "groupCode": 1
+  },
+  {
+    "id": 20062,
+    "en": "Teach",
+    "de": "\n unterrichte \n unterrichtest \n unterrichtet \n unterrichten \n unterrichtet \n unterrichten",
+    "groupCode": 1
+  },
+  {
+    "id": 20063,
+    "en": "Show",
+    "de": "\n zeige \n zeigst \n zeigt \n zeigen \n zeigt \n zeigen",
+    "groupCode": 1
+  },
+  {
+    "id": 20064,
+    "en": "Dance",
+    "de": "\n tanze \n tanzt \n tanzt \n tanzen \n tanzt \n tanzen",
+    "groupCode": 1
+  },
+  {
+    "id": 20065,
+    "en": "Camp",
+    "de": "\n campe \n campst \n campt \n campen \n campt \n campen",
+    "groupCode": 1
+  }
+]

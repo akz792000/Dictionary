@@ -466,7 +466,7 @@
   },
   {
     "id": 2078,
-    "fa": "چگونه قصد دارد به آنجا برسید؟ من قصد دارم اتوبوس بگیرم",
+    "fa": "چگونه قصد داری به آنجا برسی؟ من قصد دارم اتوبوس بگیرم",
     "en": "How are you gonna get there? I'm gonna take the bus",
     "groupCode": 0
   },
@@ -812,6 +812,7 @@
     "id": 2135,
     "fa": "دیدم تار شده",
     "en": "My vision is blurred",
+    "desc": "\"Blurry\" is an adjective describing the current state of being unclear or out of focus.\n\"Blurred\" is both an adjective and the past participle of the verb \"blur,\" indicating that something has been made unclear or out of focus.",
     "groupCode": 0
   },
   {
@@ -4981,7 +4982,7 @@
   },
   {
     "id": 2824,
-    "fa": "چگونه قرار است بدونم؟",
+    "fa": "چگونه قرار بود بدونم؟",
     "en": "How was I supposed to know?",
     "groupCode": 0
   },
@@ -5024,7 +5025,7 @@
   },
   {
     "id": 2831,
-    "fa": "او (مرد) وقتی 16 ساله بود ترک تحصیل کرد",
+    "fa": "او (مرد) ترک تحصیل کرد وقتی 16 ساله بود",
     "en": "He dropped out of school when he was 16",
     "groupCode": 0
   },
@@ -5036,7 +5037,7 @@
   },
   {
     "id": 2833,
-    "fa": "من قبل از امتحان دیدمش (مرد) و برایم آرزوی موفقیت کرد",
+    "fa": "من قبل از امتحان دیدمش (مرد) و او برایم آرزوی شانس کرد",
     "en": "I saw him before the exam and he wished me luck",
     "groupCode": 0
   },

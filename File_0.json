@@ -6360,6 +6360,7 @@
     "id": 1048,
     "fa": "دیدش (زن) بعد از برداشتن عینکش تار شده بود",
     "en": "Her vision got blurry (بلِری) after removing her glasses",
+    "desc": "\"Blurry\" is an adjective describing the current state of being unclear or out of focus.\n\"Blurred\" is both an adjective and the past participle of the verb \"blur,\" indicating that something has been made unclear or out of focus.",
     "groupCode": 0
   },
   {
@@ -9699,7 +9700,7 @@
   },
   {
     "id": 1599,
-    "fa": "آیا رای بگیریم؟",
+    "fa": "آیا (یک) رای بگیریم؟",
     "en": "Do we take a vote?",
     "groupCode": 0
   },
@@ -9976,7 +9977,7 @@
   },
   {
     "id": 1645,
-    "fa": "در طول شب با نویز بلندی از خواب بیدار شدیم",
+    "fa": "ما با نویز بلندی از خواب بیدار شدیم در طول شب",
     "en": "We were woken up by a loud noise during the night",
     "groupCode": 0
   },
