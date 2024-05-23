@@ -7,25 +7,25 @@
   },
   {
     "id": 10002,
-    "en": "My name is Ali and come from Iran and now live in Munich",
-    "de": "Ich heiße Ali und komme aus dem Iran und wohne jetzt in München",
+    "en": "My name is Ali and I come from Iran and I live in Munich now",
+    "de": "Ich heiße Ali und Ich komme aus dem Iran und Ich wohne jetzt in München",
     "groupCode": 1
   },
   {
     "id": 10003,
     "en": "Good evening. My name is Ali and I study philosophy in Munich",
-    "de": "Guten abend. Ich heiße Ali und ich studiere Philosophie in München",
+    "de": "Guten abend. Ich heiße Ali und Ich studiere Philosophie in München",
     "groupCode": 1
   },
   {
     "id": 10004,
-    "en": "What's your name then? My name is Ali",
+    "en": "What is your name then? My name is Ali",
     "de": "Wie heißt du denn? Mein name ist Ali",
     "groupCode": 1
   },
   {
     "id": 10005,
-    "en": "The teacher's name is Anne. She teaches biology and chemistry at the high school",
+    "en": "The teacher is name is Anne. She teaches biology and chemistry at the high school",
     "de": "Die Lehrerin heißt Anne. Sie unterrichtet Biologie und Chemie am Gymnasium",
     "groupCode": 1
   },
@@ -43,8 +43,8 @@
   },
   {
     "id": 10008,
-    "en": "No black dress. France is hot",
-    "de": "Kein schwarzes Kleid. Frankreich ist heiß",
+    "en": "No black dress",
+    "de": "Kein schwarzes Kleid",
     "groupCode": 1
   },
   {
@@ -55,7 +55,7 @@
   },
   {
     "id": 10010,
-    "en": "How do you say that in German",
+    "en": "What is that called in German?",
     "de": "Wie heißt das auf deutsch?",
     "groupCode": 1
   },
@@ -67,8 +67,8 @@
   },
   {
     "id": 10012,
-    "en": "What's your name? Say your name?",
-    "de": "Wie heißen sie? Sagen Sie Ihren Namen?",
+    "en": "Say your name?",
+    "de": "Sagen Sie Ihren Namen?",
     "groupCode": 1
   },
   {
@@ -79,7 +79,7 @@
   },
   {
     "id": 10014,
-    "en": "What's your name? My name is Ali",
+    "en": "What is your name? My name is Ali",
     "de": "Wie heißt du? Ich heiße Ali",
     "groupCode": 1
   },
@@ -91,7 +91,7 @@
   },
   {
     "id": 10016,
-    "en": "Write down the telephone numbers",
+    "en": "Write down (Note) the telephone numbers",
     "de": "Notieren Sie die Telefonnummern",
     "groupCode": 1
   },
@@ -109,7 +109,7 @@
   },
   {
     "id": 10019,
-    "en": "Hello, How's it going? It's going fine",
+    "en": "Hello, How is it going? It is going fine",
     "de": "Hallo, wie geht's? Mir geht's super",
     "groupCode": 1
   },
@@ -217,8 +217,8 @@
   },
   {
     "id": 10037,
-    "en": "\n the Switzerland (come from Switzerland) \n the Turkey (come from Turkey) \n the Sweden (come from Sweden) \n the USA (come from USA) \n IRAN (come from Iran)",
-    "de": "\n die Schweiz (komme aus der Schweiz) (F) \n die Türkei (komme aus der Türkei) (F) \n die Schweden (komme aus der Schweden) (F) \n die USA (komme aus den USA) (P) \n der Iran (komme aus dem iran) (M)",
+    "en": "\n the Switzerland (come from Switzerland)",
+    "de": "\n die Schweiz (komme aus der Schweiz) (F)",
     "groupCode": 1
   },
   {
@@ -235,8 +235,8 @@
   },
   {
     "id": 10040,
-    "en": "Two people come from Spain, one person from Italy",
-    "de": "Zwei Leute kommen aus Spanien, eine Person aus Italien",
+    "en": "Two people come from Spain",
+    "de": "Zwei Leute kommen aus Spanien",
     "groupCode": 1
   },
   {
@@ -247,50 +247,50 @@
   },
   {
     "id": 10042,
-    "en": "The others come from India, Romania, Portugal, the USA and Brazil",
-    "de": "Die anderen kommen aus Indien, Rumänien, Portugal, aus den USA und aus Brasilien",
+    "en": "The others come from India",
+    "de": "Die anderen kommen aus Indien",
     "groupCode": 1
   },
   {
     "id": 10043,
-    "en": "I come from Iran, speak Persian, and am Persian",
-    "de": "Ich komme aus dem Iran, spreche Persisch und bin Perser/Perserin",
+    "en": "I come from Iran, I speak Persian, and I am Persian",
+    "de": "Ich komme aus dem Iran, Ich spreche Persisch und Ich bin Perser/Perserin",
     "groupCode": 1
   },
   {
     "id": 10044,
-    "en": "I come from France, speak French, and am French",
-    "de": "Ich komme aus Frankreich, spreche Französisch und bin Franzose/Französin",
+    "en": "I come from France, I speak French, and I am French",
+    "de": "Ich komme aus Frankreich, Ich spreche Französisch und Ich bin Franzose/Französin",
     "groupCode": 1
   },
   {
     "id": 10045,
-    "en": "I come from Poland, speak Polish, and am Polish",
-    "de": "Ich komme aus Polen, spreche Polnisch und bin Pole/Polin",
+    "en": "I come from Poland, I speak Polish, and I am Polish",
+    "de": "Ich komme aus Polen, Ich spreche Polnisch und Ich bin Pole/Polin",
     "groupCode": 1
   },
   {
     "id": 10046,
-    "en": "I come from Italy, speak Italian, and am Italian",
-    "de": "Ich komme aus Italien, spreche Italienisch und bin Italiener/Italienerin",
+    "en": "I come from Italy, I speak Italian, and I am Italian",
+    "de": "Ich komme aus Italien, Ich spreche Italienisch und Ich bin Italiener/Italienerin",
     "groupCode": 1
   },
   {
     "id": 10047,
-    "en": "I come from Portugal, speak Portuguese, and am Portuguese",
-    "de": "Ich komme aus Portugal, spreche Portugiesisch und bin Portugiese/Portugiesin",
+    "en": "I come from Portugal, I speak Portuguese, and I am Portuguese",
+    "de": "Ich komme aus Portugal, Ich spreche Portugiesisch und Ich bin Portugiese/Portugiesin",
     "groupCode": 1
   },
   {
     "id": 10048,
-    "en": "I come from Syria, speak Arabic, and am Syrian",
-    "de": "Ich komme aus Syrien, spreche Arabisch und bin Syrer/Syrerin",
+    "en": "I come from Syria, I speak Arabic, and I am Syrian",
+    "de": "Ich komme aus Syrien, Ich spreche Arabisch und Ich bin Syrer/Syrerin",
     "groupCode": 1
   },
   {
     "id": 10049,
-    "en": "I come from Greece, speak Greek, and am Greek",
-    "de": "Ich komme aus Griechenland, spreche Griechisch und bin Grieche/Griechin",
+    "en": "I come from Greece, I speak Greek, and I am Greek",
+    "de": "Ich komme aus Griechenland, Ich spreche Griechisch und Ich bin Grieche/Griechin",
     "groupCode": 1
   },
   {
@@ -409,7 +409,7 @@
   },
   {
     "id": 10069,
-    "en": "Would you (plural) like to come?",
+    "en": "Would you like to come?",
     "de": "Möchtet ihr kommen?",
     "groupCode": 1
   },
@@ -433,13 +433,13 @@
   },
   {
     "id": 10073,
-    "en": "Are you (plural) coming to the party too?",
+    "en": "Are you coming to the party too?",
     "de": "Kommt ihr auch zur Party?",
     "groupCode": 1
   },
   {
     "id": 10074,
-    "en": "Are you (plural) coming to the party later?",
+    "en": "Are you coming to the party later?",
     "de": "Kommt ihr später zur Party?",
     "groupCode": 1
   },
@@ -501,6 +501,120 @@
     "id": 10084,
     "en": "I am single and I live alone",
     "de": "Ich bin Single und ich lebe allein",
+    "groupCode": 1
+  },
+  {
+    "id": 10085,
+    "en": "France is hot",
+    "de": "Frankreich ist heiß",
+    "groupCode": 1
+  },
+  {
+    "id": 10085,
+    "en": "What does that mean in German?",
+    "de": "Was bedeutet das auf Deutsch?",
+    "groupCode": 1
+  },
+  {
+    "id": 10086,
+    "en": "the Turkey (come from Turkey)",
+    "de": "die Türkei (komme aus der Türkei)",
+    "groupCode": 1
+  },
+  {
+    "id": 10087,
+    "en": "the Sweden (come from Sweden)",
+    "de": "die Schweden (komme aus der Schweden)",
+    "groupCode": 1
+  },
+  {
+    "id": 10088,
+    "en": "the USA (come from USA)",
+    "de": "die USA (komme aus den USA)",
+    "groupCode": 1
+  },
+  {
+    "id": 10089,
+    "en": "IRAN (come from Iran)",
+    "de": "der Iran (komme aus dem iran)",
+    "groupCode": 1
+  },
+  {
+    "id": 10090,
+    "en": "One person from Italy",
+    "de": "Eine Person aus Italien",
+    "groupCode": 1
+  },
+  {
+    "id": 10091,
+    "en": "The others come from Romania",
+    "de": "Die anderen kommen aus Rumänien",
+    "groupCode": 1
+  },
+  {
+    "id": 10092,
+    "en": "The others come from Portugal",
+    "de": "Die anderen kommen aus Portugal",
+    "groupCode": 1
+  },
+  {
+    "id": 10093,
+    "en": "The others come from the USA",
+    "de": "Die anderen kommen aus den USA",
+    "groupCode": 1
+  },
+  {
+    "id": 10094,
+    "en": "Don't you come from Brazil? No, I don't come from Brazil. I com Turkey",
+    "de": "Kommst du nicht aus Brasilien? Nein, Ich komme nicht aus Brasilien. Ich komme aus der Turkei",
+    "groupCode": 1
+  },
+  {
+    "id": 10095,
+    "en": "Don't you come from Iran? Yes, I come from Iran",
+    "de": "Kommst du nicht aus dem Iran? Doch, ich komme aus dem Iran",
+    "groupCode": 1
+  },
+  {
+    "id": 10096,
+    "en": "The others come from Brazil",
+    "de": "Die anderen kommen aus Brasilien",
+    "groupCode": 1
+  },
+  {
+    "id": 10097,
+    "en": "Complete! Do you like it?",
+    "de": "Fertig! Magst du es?",
+    "groupCode": 1
+  },
+  {
+    "id": 10098,
+    "en": "I don't like the movie",
+    "de": "Ich mag den Film nicht",
+    "groupCode": 1
+  },
+  {
+    "id": 10099,
+    "en": "I like your carpet",
+    "de": "Ich mag deinen Teppich",
+    "groupCode": 1
+  },
+  {
+    "id": 10100,
+    "en": "Who likes the table?",
+    "de": "Wer mag den Tisch?",
+    "groupCode": 1
+  },
+  {
+    "id": 10101,
+    "en": "I don't like the apartment",
+    "de": "Ich mag die Wohnung nicht",
+    "groupCode": 1
+  },
+  {
+    "id": 10102,
+    "en": "Good night",
+    "de": "Gute nacht",
     "groupCode": 1
   }
 ]

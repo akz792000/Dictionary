@@ -1,10 +1,31 @@
 [
-  {
-    "id": 10001,
-    "en": "Good night",
-    "de": "Gute nacht",
-    "groupCode": 1
-  },
+
+
+
+  Mogen ( mogen, mogt, mogen)
+
+
+  Du mags kein Eis, oder?
+
+  mogen + nein + Verb = nicht. Ich mag nich laufen
+  Mogen + nein + Namen = kein/e ich mag keine Spinnen
+
+  Ich bin der Groste. Ich bin die Groste.
+
+  Gros, gorser, am grosten
+
+  Gehts dir gut? ja, mir gehts gut. Nein, mir gehts nicht gut.
+  Wie gehts dir? mir gehts gut. Mir gehts nicht gut. Mir gehts schlecht.
+
+  Die Menschen machen Witze. Sie lachen viel und haben Spas?
+
+  Bist du nich unverheiratet? Doch ich bin unverheiratet
+
+  Ich bin single, Du bist nicht single, oder? bist du nicht single?
+
+
+  Sie macht eine Ausbildung,
+
   {
     "id": 10002,
     "en": "Have a nice day, Mr. Garcia! You too!",
@@ -2615,13 +2636,7 @@
     "en": "For here or for take away",
     "de": "Zum hier essen oder zum mitnehmen",
     "groupCode": 1
-  },
-  {
-    "id": 10475,
-    "en": "I like your carpet",
-    "de": "Ich mag deinen Teppich",
-    "groupCode": 1
-  },
+  }
   {
     "id": 10476,
     "en": "I like the table",
@@ -2651,19 +2666,7 @@
     "en": "The bedroom is very bright",
     "de": "Das Schlafzimmer ist sehr hell",
     "groupCode": 1
-  },
-  {
-    "id": 10481,
-    "en": "Who likes the table?",
-    "de": "Wer mag den Tisch?",
-    "groupCode": 1
-  },
-  {
-    "id": 10482,
-    "en": "I don't like the apartment",
-    "de": "Ich mag die Wohnung nicht",
-    "groupCode": 1
-  },
+  }
   {
     "id": 10483,
     "en": "My roommates are nice and the apartment is always clean",
@@ -3748,12 +3751,6 @@
     "groupCode": 1
   },
   {
-    "id": 10689,
-    "en": "Complete! Do you like it?",
-    "de": "Fertig! Magst du es?",
-    "groupCode": 1
-  },
-  {
     "id": 10690,
     "en": "Why do I have green hair?",
     "de": "Warum habe ich grüne Haare?",
@@ -3794,13 +3791,7 @@
     "en": "I don't dance well",
     "de": "Ich tanze nicht gut",
     "groupCode": 1
-  },
-  {
-    "id": 10698,
-    "en": "I don't like the movie",
-    "de": "Ich mag den Film nicht",
-    "groupCode": 1
-  },
+  }
   {
     "id": 10699,
     "en": "The violin is very expensive",
