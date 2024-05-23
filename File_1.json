@@ -357,7 +357,7 @@
   },
   {
     "id": 2060,
-    "fa": "خیلی زود جشن نگیرید وقتی که در برابر من هستی",
+    "fa": "خیلی زود جشن نگیرید وقتی در برابر من هستی",
     "en": "Do not celebrate too early when you're up against me",
     "groupCode": 0
   },
@@ -1481,7 +1481,7 @@
   },
   {
     "id": 2246,
-    "fa": "داشتن یک شارژر تلفن در کیف من اغلب مفید است زمانیکه باتری من کم است",
+    "fa": "داشتن یک شارژر تلفن در کیف من اغلب مفید است وقتی باتری من کم است",
     "en": "Having a phone charger in my bag often comes in handy when my battery is low",
     "groupCode": 0
   },
@@ -4760,7 +4760,7 @@
   },
   {
     "id": 2787,
-    "fa": "پیگیر (بدون تسلیم) باشید هنگام پیگیری اهداف خود",
+    "fa": "پیگیر (بدون تسلیم) باشید وقتی پیگیری اهداف خود",
     "en": "Be relentless when pursuing your goals",
     "groupCode": 0
   },
@@ -4964,7 +4964,7 @@
   },
   {
     "id": 2821,
-    "fa": "یا تمام راه را بالا می روید یا تا آخر",
+    "fa": "یا تو داری تمام راه را بالا می روی یا تمام راه را پایین",
     "en": "Either you're going all the way up or all the way down",
     "groupCode": 0
   },
@@ -4990,6 +4990,7 @@
     "id": 2825,
     "fa": "احتمال اینکه او زنده از آنجا خارج شود حدود 1 یا 2 درصد است",
     "en": "The chances (likelihood) of him getting out of there alive are about 1 or 2 percent",
+    "desc": "In this sentence, \"percent\" is a measure of probability, not a countable noun like \"person.\" Therefore, the word \"percent\" is used in the same way whether it refers to a singular or plural value",
     "groupCode": 0
   },
   {
@@ -5000,7 +5001,7 @@
   },
   {
     "id": 2827,
-    "fa": "تو واقعا داری قطع و وصل میشی ، من فکر کنم باتریم می بایستی کم باشه",
+    "fa": "تو واقعا داری قطع و وصل میشی، من فکر کنم باتریم می بایستی کم باشه",
     "en": "You're really dropping out, I think my battery must be low",
     "desc": "likely refers to the phone call's poor connection. The phrase suggests that the person's voice is cutting out or the call is dropping, making it hard to hear what they're saying",
     "groupCode": 0
@@ -5025,7 +5026,7 @@
   },
   {
     "id": 2831,
-    "fa": "او (مرد) ترک تحصیل کرد وقتی 16 ساله بود",
+    "fa": "او (مرد) ترک تحصیل کرد از مدرسه وقتی 16 ساله بود",
     "en": "He dropped out of school when he was 16",
     "groupCode": 0
   },
