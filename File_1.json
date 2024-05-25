@@ -5083,5 +5083,67 @@
     "fa": "امیدوارم او (مرد) مرده باشه تا الان",
     "en": "I hope he's dead by now",
     "groupCode": 0
+  },
+  {
+    "id": 2841,
+    "fa": "به تدریج, او (زن) پذیرفت او (مرد) را به عنوان یکی از اعضای خانواده",
+    "en": "Gradually, she accepted him as one of the family",
+    "desc": "We don't put adverb between the verb and its object",
+    "groupCode": 0
+  },
+  {
+    "id": 2842,
+    "fa": "آیا فکر می کنی ما به موقع آن را انجام خواهیم داد؟ گمان نمی کنم",
+    "en": "Do you think we will make it in time? I suppose not",
+    "groupCode": 0
+  },
+  {
+    "id": 2843,
+    "fa": "من امانت می دهم به تو کتاب را تا زمانی که برگردانیش",
+    "en": "I will lend you the book so long as you return it",
+    "groupCode": 0
+  },
+  {
+    "id": 2844,
+    "fa": "او (مرد) مشتاقانه منتظر آمدنش (زن) بود",
+    "en": "He was eagerly anticipating her arrival",
+    "groupCode": 0
+  },
+  {
+    "id": 2845,
+    "fa": "خوشبختانه، نجات در آخرین لحظه آمد",
+    "en": "Luckily, the rescue came in the nick of time",
+    "groupCode": 0
+  },
+  {
+    "id": 2846,
+    "fa": "تقصیر من نبود. من فقط در زمان اشتباه در مکان اشتباه بودم",
+    "en": "It wasn't my fault. I was just in the wrong place at the wrong time",
+    "groupCode": 0
+  },
+  {
+    "id": 2847,
+    "fa": "این سرقت در روز روشن رخ داد، در یکی از شلوغ ترین نقاط شهر",
+    "en": "The robbery occurred in broad daylight, in one of the busiest parts of town",
+    "desc": "This is because \"one of the\" implies that you are referring to one item within a group of multiple items. Therefore, \"parts\" should be plural to indicate that there are multiple busy parts, and you are talking about one of them.",
+    "groupCode": 0
+  },
+  {
+    "id": 2848,
+    "fa": "من دارم احساس بدی دارم و دارم برمی گردم به رختخواب",
+    "en": "I'm feeling poorly and I'm going back to bed",
+    "groupCode": 0
+  },
+  {
+    "id": 2849,
+    "fa": "می تواند وای فای باعث سرطان شود؟",
+    "en": "Can WiFi cause cancer?",
+    "groupCode": 0
+  },
+  {
+    "id": 2850,
+    "fa": "آیا ترکیه جای خوبی برای زندگی است اگر ترک نیستید؟",
+    "en": "Is Turkey a good place to live if you're not Turkish?",
+    "groupCode": 0
   }
 ]
