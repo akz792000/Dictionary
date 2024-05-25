@@ -3616,7 +3616,7 @@
   },
   {
     "id": 2599,
-    "fa": " مجبور شدم جریمه پرداخت کنم وقتی چکم برگشت خورد",
+    "fa": "مجبور شدم هزینه جریمه را پرداخت کنم وقتی چکم برگشت خورد",
     "en": "I had to pay a penalty fee when my check bounced",
     "groupCode": 0
   },
@@ -4420,7 +4420,7 @@
   },
   {
     "id": 2731,
-    "fa": "کاش هیچ وقت آنها اتفاق نمی افتادند",
+    "fa": "کاش که آنها هیچ وقت اتفاق نمی افتادند",
     "en": "I wish that they never happened",
     "groupCode": 0
   },
@@ -4511,7 +4511,7 @@
   {
     "id": 2746,
     "fa": "مردم در مورد من چه می گویند اگر نتوانستم از شادی تو لذت ببرم؟",
-    "en": "What would people say about me if I couldn't revel /ˈrevəl/ in your joy?",
+    "en": "What would people say about me if I can't revel /ˈrevəl/ in your joy?",
     "groupCode": 0
   },
   {
@@ -5144,6 +5144,12 @@
     "id": 2850,
     "fa": "آیا ترکیه جای خوبی برای زندگی است اگر ترک نیستید؟",
     "en": "Is Turkey a good place to live if you're not Turkish?",
+    "groupCode": 0
+  },
+  {
+    "id": 2851,
+    "fa": "شماره روی پیراهنش (زن) چی بود؟",
+    "en": "What was the number on her shirt?",
     "groupCode": 0
   }
 ]
