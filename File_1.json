@@ -4886,7 +4886,7 @@
   },
   {
     "id": 2808,
-    "fa": "آیا (این) خشک کن باید آن صدا را ایجاد کند؟ به نظر می رسد شکسته است",
+    "fa": "بایستی (این) خشک کن آن صدا را ایجاد کند؟ به نظر می رسد شکسته است",
     "en": "Should the dryer be making that noise? It sounds broken",
     "groupCode": 0
   },
@@ -5087,26 +5087,26 @@
   {
     "id": 2841,
     "fa": "به تدریج, او (زن) پذیرفت او (مرد) را به عنوان یکی از اعضای خانواده",
-    "en": "Gradually, she accepted him as one of the family",
+    "en": "Gradually, she accepted him as one of the family member",
     "desc": "We don't put adverb between the verb and its object",
     "groupCode": 0
   },
   {
     "id": 2842,
-    "fa": "آیا فکر می کنی ما به موقع آن را انجام خواهیم داد؟ گمان نمی کنم",
+    "fa": "آیا فکر می کنی ما به موقع آن را انجام (ساختن) خواهیم داد؟ گمان نمی کنم",
     "en": "Do you think we will make it in time? I suppose not",
     "groupCode": 0
   },
   {
     "id": 2843,
-    "fa": "من امانت می دهم به تو کتاب را تا زمانی که برگردانیش",
+    "fa": "من قرض خواهم داد به تو کتاب را تا زمانی که برگردانیش",
     "en": "I will lend you the book so long as you return it",
     "groupCode": 0
   },
   {
     "id": 2844,
     "fa": "او (مرد) مشتاقانه منتظر آمدنش (زن) بود",
-    "en": "He was eagerly anticipating her arrival",
+    "en": "He was eagerly waiting her arrival",
     "groupCode": 0
   },
   {
@@ -5150,6 +5150,121 @@
     "id": 2851,
     "fa": "شماره روی پیراهنش (زن) چی بود؟",
     "en": "What was the number on her shirt?",
+    "groupCode": 0
+  },
+  {
+    "id": 2852,
+    "fa": "لطفاً این نسخه تنظیم شده را امتحان کنید و بزار بدونم اگر مشترک هنوز از دست رفته است",
+    "en": "Please try this adjusted version and let me know if the subscriber is still lost",
+    "groupCode": 0
+  },
+  {
+    "id": 2853,
+    "fa": "می دانم به راحتی تحت تأثیر قرار می گیرم",
+    "en": "I know I'm easily influenced",
+    "groupCode": 0
+  },
+  {
+    "id": 2854,
+    "fa": "امیدوارم, گرفتار نشوم",
+    "en": "Hopefully, I don't get caught",
+    "groupCode": 0
+  },
+  {
+    "id": 2855,
+    "fa": "یکی از مجرمان به سزای اعمال خود رسید",
+    "en": "One of the criminals was punished for his actions",
+    "groupCode": 0
+  },
+  {
+    "id": 2856,
+    "fa": "تو فکر کردی (کارم) تمام شدم، اما من تازه شروع کردم",
+    "en": "You thought I was finished, but I'm just getting started",
+    "groupCode": 0
+  },
+  {
+    "id": 2857,
+    "fa": "او (مرد) توانایی عجیبی در چاپلوسی دارد",
+    "en": "He has uncanny ability in flattery",
+    "groupCode": 0
+  },
+  {
+    "id": 2858,
+    "fa": "ما توانایی عجیبی برای جلوگیری از بحران داریم",
+    "en": "We have an uncanny ability to avert crises",
+    "desc": "The plural of \"crisis\" is \"crises.\"",
+    "groupCode": 0
+  },
+  {
+    "id": 2859,
+    "fa": "من مرداد ماه میرم ایران و پروازم جمعه 19 هست و ساعت 10 صبح ترک میکنه",
+    "en": "I'm going to Iran in August and my flight is on Friday the 19th and it departs at 10am",
+    "groupCode": 0
+  },
+  {
+    "id": 2860,
+    "fa": "من خیلی وقت پیش باید بهت میگفتم",
+    "en": "I should have told you a long time ago",
+    "groupCode": 0
+  },
+  {
+    "id": 2861,
+    "fa": "من حتی یک دکتر نیستم، فقط وانمود می کنم که یک دکتر هستم",
+    "en": "I'm not even a doctor, I just pretend to be a doctor",
+    "groupCode": 0
+  },
+  {
+    "id": 2862,
+    "fa": "یک صبحانه مقوی بهترین راه برای شروع یک روز سازنده است",
+    "en": "A hearty breakfast is the best way to start a productive day",
+    "groupCode": 0
+  },
+  {
+    "id": 2863,
+    "fa": "کسی میخواهد به من کمک کند از این (مخمصه) بیام بیرون؟",
+    "en": "Somebody wanna help me out here?",
+    "groupCode": 0
+  },
+  {
+    "id": 2864,
+    "fa": "این احتمال وجود دارد که اجارم را نخواهم ساخت (نتونم اجارم را بدم)",
+    "en": "There is a possibility that I won't make rent",
+    "groupCode": 0
+  },
+  {
+    "id": 2865,
+    "fa": "اگر نتوانم (فرضی) فوراً پولت را پس بدهم، من احساس گناه و تنش میکنم هر بار که تو را میدیدم",
+    "en": "If I couldn't pay you back right away, I'd feel guilty and tense every time I saw you",
+    "groupCode": 0
+  },
+  {
+    "id": 2866,
+    "fa": "او (مرد) احساسات شدیدی دارد",
+    "en": "He has got intense emotions",
+    "groupCode": 0
+  },
+  {
+    "id": 2867,
+    "fa": "اگر وقت کافی داشتم من ملاقات میکردم خانواده ام هر هفته",
+    "en": "If I had enough time I would visit my family every week",
+    "groupCode": 0
+  },
+  {
+    "id": 2868,
+    "fa": "چرا از مامان و بابا قرض نمی گیری؟",
+    "en": "Why don't you borrow it from mom and dad?",
+    "groupCode": 0
+  },
+  {
+    "id": 2869,
+    "fa": "بالاخره به جایی رسیدم جایکه پول کافی به دست آوردم",
+    "en": "I'm finally at a place where I got enough money",
+    "groupCode": 0
+  },
+  {
+    "id": 2870,
+    "fa": "من می توانم استطاعت داشته باشم زندگی کنم اینجا با خودم",
+    "en": "I can afford to live here by myself",
     "groupCode": 0
   }
 ]
