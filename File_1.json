@@ -3489,7 +3489,7 @@
   },
   {
     "id": 2578,
-    "fa": "چلغوز کسی است که از شما جوانتر است اما به طرز آزاردهنده ای بیش از حد اعتماد به نفس و گستاخی دارد",
+    "fa": "چلغوز کسی است که از شما جوانتر است اما همچنین به طرز آزاردهنده ای بیش از حد اعتماد به نفس و گستاخی دارد",
     "en": "A whippersnapper is someone who is younger than you are but also irritatingly overconfident and impertinent",
     "groupCode": 0
   },
@@ -4886,7 +4886,7 @@
   },
   {
     "id": 2808,
-    "fa": "بایستی (این) خشک کن آن صدا را ایجاد کند؟ به نظر می رسد شکسته است",
+    "fa": "بایستی (این) خشک کن آن نویز را ایجاد کند؟ به نظر می رسد شکسته است",
     "en": "Should the dryer be making that noise? It sounds broken",
     "groupCode": 0
   },
@@ -5105,7 +5105,7 @@
   },
   {
     "id": 2844,
-    "fa": "او (مرد) مشتاقانه منتظر آمدنش (زن) بود",
+    "fa": "او (مرد) مشتاقانه داشت انتظار می کشید برای آمدنش (زن)",
     "en": "He was eagerly waiting her arrival",
     "groupCode": 0
   },
@@ -5172,7 +5172,7 @@
   },
   {
     "id": 2855,
-    "fa": "یکی از مجرمان به سزای اعمال خود رسید",
+    "fa": "یکی از مجرمان تنبیه شد برای اعمالش (مرد)",
     "en": "One of the criminals was punished for his actions",
     "groupCode": 0
   },
@@ -5184,21 +5184,21 @@
   },
   {
     "id": 2857,
-    "fa": "او (مرد) توانایی عجیبی در چاپلوسی دارد",
+    "fa": "او (مرد) توانایی عجیبی (عجیب و غریب) در چاپلوسی دارد",
     "en": "He has uncanny ability in flattery",
     "groupCode": 0
   },
   {
     "id": 2858,
-    "fa": "ما توانایی عجیبی برای جلوگیری از بحران داریم",
+    "fa": "ما توانایی عجیبی (عجیب و غریب) برای جلوگیری از بحران داریم",
     "en": "We have an uncanny ability to avert crises",
     "desc": "The plural of \"crisis\" is \"crises.\"",
     "groupCode": 0
   },
   {
     "id": 2859,
-    "fa": "من مرداد ماه میرم ایران و پروازم جمعه 19 هست و ساعت 10 صبح ترک میکنه",
-    "en": "I'm going to Iran in August and my flight is on Friday the 19th and it departs at 10am",
+    "fa": "من July دارم میرم ایران و پروازم جمعه 19 هست و ساعت 10 صبح ترک میکنه",
+    "en": "I'm going to Iran in July and my flight is on Friday the 19th and it departs at 10am",
     "groupCode": 0
   },
   {
@@ -5222,7 +5222,8 @@
   {
     "id": 2863,
     "fa": "کسی میخواهد به من کمک کند از این (مخمصه) بیام بیرون؟",
-    "en": "Somebody wanna help me out here?",
+    "en": "Does somebody want to help me out here?",
+    "desc": "Help me out here: Asking for help with the current situation.\n\nExample: \"Can somebody help me out here with this task?\"\nHelp me out of here: Asking for help to leave the current place or situation.\n\nExample: \"Can somebody help me out of here? I'm trapped.\"",
     "groupCode": 0
   },
   {
@@ -5245,13 +5246,13 @@
   },
   {
     "id": 2867,
-    "fa": "اگر وقت کافی داشتم من ملاقات میکردم خانواده ام هر هفته",
+    "fa": "اگر وقت کافی داشتم خانوادم را هر هفته ملاقات میکردم",
     "en": "If I had enough time I would visit my family every week",
     "groupCode": 0
   },
   {
     "id": 2868,
-    "fa": "چرا از مامان و بابا قرض نمی گیری؟",
+    "fa": "چرا از مامان و بابا قرضش نمی گیری؟",
     "en": "Why don't you borrow it from mom and dad?",
     "groupCode": 0
   },
