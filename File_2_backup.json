@@ -254,12 +254,6 @@
     "groupCode": 1
   },
   {
-    "id": 10050,
-    "en": "zero one two three four five six seven eight nine ten",
-    "de": "null eins zwei drei vier fünf sechs sieben acht neun zehn",
-    "groupCode": 1
-  },
-  {
     "id": 10051,
     "en": "I buy the table",
     "de": "Ich kaufe den Tisch",
@@ -514,13 +508,6 @@
     "id": 10095,
     "en": "The prefix for munich is 089",
     "de": "Die Vorwahl für München ist 089",
-    "groupCode": 1
-  },
-
-  {
-    "id": 10097,
-    "en": "\n eleven \n twelve \n thirteen \n sixteen \n seventeen \n twenty \n twenty-one \n thirty \n forty \n fifty \n sixty \n seventy \n (one) hundred \n",
-    "de": "\n elf \n zwölf \n dreizehn \n sechzehn \n siebzehn \n zwanzig \n einundzwanzig \n dreißig \n vierzig \n fünfzig \n sechzig \n siebzig \n (ein)hundert (هوندات) \n",
     "groupCode": 1
   },
   {
