@@ -5106,7 +5106,7 @@
   {
     "id": 2844,
     "fa": "او (مرد) مشتاقانه داشت انتظار می کشید برای آمدنش (زن)",
-    "en": "He was eagerly waiting her arrival",
+    "en": "He was eagerly waiting for her arrival",
     "groupCode": 0
   },
   {
@@ -5154,7 +5154,7 @@
   },
   {
     "id": 2852,
-    "fa": "لطفاً این نسخه تنظیم شده را امتحان کنید و بزار بدونم اگر مشترک هنوز از دست رفته است",
+    "fa": "لطفاً این ورژن تنظیم شده را امتحان کنید و بزار بدونم اگر مشترک هنوز از دست رفته است",
     "en": "Please try this adjusted version and let me know if the subscriber is still lost",
     "groupCode": 0
   },
@@ -5184,8 +5184,8 @@
   },
   {
     "id": 2857,
-    "fa": "او (مرد) توانایی عجیبی (عجیب و غریب) در چاپلوسی دارد",
-    "en": "He has uncanny ability in flattery",
+    "fa": "او (مرد) یک توانایی عجیبی (عجیب و غریب) در چاپلوسی دارد",
+    "en": "He has av uncanny ability in flattery",
     "groupCode": 0
   },
   {
@@ -5198,7 +5198,7 @@
   {
     "id": 2859,
     "fa": "من July دارم میرم ایران و پروازم جمعه 19 هست و ساعت 10 صبح ترک میکنه",
-    "en": "I'm going to Iran in July and my flight is on Friday the 19th and it departs at 10am",
+    "en": "I'm going to Iran in July and my flight is on Friday the 26th and it departs at 10am",
     "groupCode": 0
   },
   {
@@ -5234,8 +5234,9 @@
   },
   {
     "id": 2865,
-    "fa": "اگر نتوانم (فرضی) فوراً پولت را پس بدهم، من احساس گناه و تنش میکنم هر بار که تو را میدیدم",
+    "fa": "اگر نتوانم (فرضی) فوراً پولت را پرداخت کنم، من (فرضی) احساس گناه و تنش میکنم هر بار که تو را میدیدم",
     "en": "If I couldn't pay you back right away, I'd feel guilty and tense every time I saw you",
+    "desc": "(\"saw\") is better because it maintains a consistent conditional mood throughout the sentence.",
     "groupCode": 0
   },
   {
@@ -5258,14 +5259,44 @@
   },
   {
     "id": 2869,
-    "fa": "من بالاخره به جایی رسیدم که پول کافی به دست آوردم",
-    "en": "I'm finally at a place where I got enough money",
+    "fa": "من بالاخره به جایی رسیدم که پول کافی به دست می آورم",
+    "en": "I'm finally at a place where I get enough money",
     "groupCode": 0
   },
   {
     "id": 2870,
     "fa": "من می توانم استطاعت داشته باشم زندگی کنم اینجا با خودم",
     "en": "I can afford to live here by myself",
+    "groupCode": 0
+  },
+  {
+    "id": 2871,
+    "fa": "چه چیزی در حال بحث است؟",
+    "en": "What is being discussed?",
+    "groupCode": 0
+  },
+  {
+    "id": 2872,
+    "fa": "کمیته داره به تفصیل تغییرات سیاستهای جدید را بحث می کنه",
+    "en": "The committee is discussing the new policy changes in detail",
+    "groupCode": 0
+  },
+  {
+    "id": 2873,
+    "fa": "تغییرات سیاستهای جدید داره به تفصیل توسط کمیته بحث می شود",
+    "en": "The new policy changes are being discussed in detail by the committee",
+    "groupCode": 0
+  },
+  {
+    "id": 2874,
+    "fa": "حرف نزن, عمل کن",
+    "en": "Cease talking, act",
+    "groupCode": 0
+  },
+  {
+    "id": 2875,
+    "fa": "تو هرگز من را نخواهی گرفت",
+    "en": "You won't ever get me",
     "groupCode": 0
   }
 ]
