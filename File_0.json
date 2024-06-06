@@ -469,6 +469,7 @@
     "id": 78,
     "fa": "گلوم درد میکنه",
     "en": "I've got a sore throat",
+    "desc": "We say 'a sore throat' because we're referring to one instance of discomfort",
     "groupCode": 0
   },
   {
@@ -8261,7 +8262,7 @@
   {
     "id": 1361,
     "fa": "من یبوست دارم",
-    "en": "I'm constipated",
+    "en": "\n 1.I'm constipated \n 2.I have constipation",
     "groupCode": 0
   },
   {
@@ -11765,7 +11766,7 @@
     "id": 1940,
     "fa": "مجبورم نکن پنجه هایم را نشان دهم",
     "en": "Don't make me show my claws (کلاس)",
-    "desc": "\"Make\" is a causative verb, and after it, the base form of the verb (show) is used, not the infinitive form \"to show.\"",
+    "desc": "Active Causative Formulas\nUsing \"make\":\n\nSubject + make + person + bare infinitive\nExample: \"She makes him clean the house.\"\nUsing \"have\":\n\nSubject + have + person + bare infinitive\nExample: \"She has the mechanic check the car.\"\nUsing \"let\":\n\nSubject + let + person + bare infinitive\nExample: \"They let him enter the room.\"\nUsing \"get\":\n\nSubject + get + person + to + bare infinitive\nExample: \"He gets her to cook dinner.\"",
     "groupCode": 0
   },
   {

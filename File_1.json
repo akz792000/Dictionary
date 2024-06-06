@@ -105,7 +105,7 @@
     "id": 2018,
     "fa": "من دادم دندانپزشکم دندان هایم را چک کند",
     "en": "I got my dentist to check up my teeth",
-    "desc": "Active Causative: 'subject + have + person + bare infinitive'. Get someone do something",
+    "desc": "Active Causative Formulas\nUsing \"make\":\n\nSubject + make + person + bare infinitive\nExample: \"She makes him clean the house.\"\nUsing \"have\":\n\nSubject + have + person + bare infinitive\nExample: \"She has the mechanic check the car.\"\nUsing \"let\":\n\nSubject + let + person + bare infinitive\nExample: \"They let him enter the room.\"\nUsing \"get\":\n\nSubject + get + person + to + bare infinitive\nExample: \"He gets her to cook dinner.\"",
     "groupCode": 0
   },
   {
@@ -1982,7 +1982,7 @@
   {
     "id": 2329,
     "fa": "آیا شما سحر خیز هستی یا شب زنده داری؟",
-    "en": "Are you a morning person or a night owl?",
+    "en": "\n 1.Are you a morning person or a night owl? \n 2.Are you an early bird or a night owl?",
     "groupCode": 0
   },
   {
@@ -2285,7 +2285,7 @@
     "id": 2379,
     "fa": "او (زن) می خواهد شما کشده شوید",
     "en": "She wants to have you killed",
-    "desc": "Passive Causative: Someone does something for you",
+    "desc": "Passive Causative Formulas\nUsing \"have\":\n\nSubject + have + object + past participle\nExample: \"She had her hair cut.\"\nUsing \"get\":\n\nSubject + get + object + past participle\nExample: \"He got his car fixed.\"",
     "groupCode": 0
   },
   {
@@ -2605,14 +2605,14 @@
     "id": 2432,
     "fa": "هفته دیگه موهامو کوتاه خواهم کرد (دادن به کسی)",
     "en": "I'll get my hair cut next week",
-    "desc": "Passive Causative: Someone does something for you",
+    "desc": "Passive Causative Formulas\nUsing \"have\":\n\nSubject + have + object + past participle\nExample: \"She had her hair cut.\"\nUsing \"get\":\n\nSubject + get + object + past participle\nExample: \"He got his car fixed.\"",
     "groupCode": 0
   },
   {
     "id": 2433,
     "fa": "من دادم به برقکار چراغ شکسته ام را نگاه کند",
     "en": "I got the electrician to look at my broken light",
-    "desc": "Active Causative: 'subject + have + person + bare infinitive'. Get someone do something",
+    "desc": "Active Causative Formulas\nUsing \"make\":\n\nSubject + make + person + bare infinitive\nExample: \"She makes him clean the house.\"\nUsing \"have\":\n\nSubject + have + person + bare infinitive\nExample: \"She has the mechanic check the car.\"\nUsing \"let\":\n\nSubject + let + person + bare infinitive\nExample: \"They let him enter the room.\"\nUsing \"get\":\n\nSubject + get + person + to + bare infinitive\nExample: \"He gets her to cook dinner.\"",
     "groupCode": 0
   },
   {
@@ -3946,7 +3946,7 @@
   },
   {
     "id": 2654,
-    "fa": "پس از این ما می دانیم احتمال انجام (ساختن) این ضربه در مسابقه چقدر است",
+    "fa": "پس از این ما می دانیم احتمال انجام (ساختن) این ضربه در تورنمنت چقدر است",
     "en": "After this we know what's the likelihood of making this shot in the tournament",
     "groupCode": 0
   },
@@ -5111,7 +5111,7 @@
   },
   {
     "id": 2845,
-    "fa": "خوشبختانه، نجات در آخرین لحظه آمد",
+    "fa": "شانسی، نجات در آخرین لحظه آمد",
     "en": "Luckily, the rescue came in the nick of time",
     "groupCode": 0
   },
@@ -5185,7 +5185,7 @@
   {
     "id": 2857,
     "fa": "او (مرد) یک توانایی عجیبی (عجیب و غریب) در چاپلوسی دارد",
-    "en": "He has av uncanny ability in flattery",
+    "en": "He has an uncanny ability in flattery",
     "groupCode": 0
   },
   {
@@ -5197,7 +5197,7 @@
   },
   {
     "id": 2859,
-    "fa": "من July دارم میرم ایران و پروازم جمعه 19 هست و ساعت 10 صبح ترک میکنه",
+    "fa": "من July دارم میرم ایران و پروازم جمعه 26 هست و ساعت 10 صبح ترک میکنه",
     "en": "I'm going to Iran in July and my flight is on Friday the 26th and it departs at 10am",
     "groupCode": 0
   },
@@ -5234,7 +5234,7 @@
   },
   {
     "id": 2865,
-    "fa": "اگر نتوانم (فرضی) فوراً پولت را پرداخت کنم، من (فرضی) احساس گناه و تنش میکنم هر بار که تو را میدیدم",
+    "fa": "اگر نتوانم (فرضی) فوراً پولت را پرداخت کنم (پس دادن)، من (فرضی) احساس گناه و تنش میکنم هر بار که تو را میدیدم",
     "en": "If I couldn't pay you back right away, I'd feel guilty and tense every time I saw you",
     "desc": "(\"saw\") is better because it maintains a consistent conditional mood throughout the sentence.",
     "groupCode": 0
@@ -5259,7 +5259,7 @@
   },
   {
     "id": 2869,
-    "fa": "من بالاخره به جایی رسیدم که پول کافی به دست می آورم",
+    "fa": "من بالاخره در جایی هستم که پول کافی به دست می گیرم",
     "en": "I'm finally at a place where I get enough money",
     "groupCode": 0
   },
@@ -5297,6 +5297,62 @@
     "id": 2875,
     "fa": "تو هرگز من را نخواهی گرفت",
     "en": "You won't ever get me",
+    "groupCode": 0
+  },
+  {
+    "id": 2876,
+    "fa": "پس از صحبت با لوکاس، او به من رساند که فردا، همه شرکت کنندگان اجازه دارند مستقیماً به رویداد بروند. نیازی نیست از قبل به دفتر بیایید",
+    "en": "After conferring with Lukas, he conveyed to me that tomorrow, all attendees are permitted to go directly to the event. There is no need to come to the office beforehand",
+    "desc": "confer with = میشه مشورت",
+    "groupCode": 0
+  },
+  {
+    "id": 2877,
+    "fa": "این فقط قرار نیست اتفاق بیفتد",
+    "en": "That is not just supposed to be happen",
+    "groupCode": 0
+  },
+  {
+    "id": 2878,
+    "fa": "آیا شوهران خوشبخت خیانت می کنند؟",
+    "en": "Do happily married husbands cheat?",
+    "groupCode": 0
+  },
+  {
+    "id": 2879,
+    "fa": "من رد شدم در یک مصاحبه",
+    "en": "I was rejected in an interview",
+    "groupCode": 0
+  },
+  {
+    "id": 2880,
+    "fa": "از اینکه عضو ارزشمندی هستید متشکرم",
+    "en": "Thanks for being a valued member",
+    "groupCode": 0
+  },
+  {
+    "id": 2881,
+    "fa": "تو قرار نبود بدون مجوز قبلی در اتاق جلسه باشید",
+    "en": "You weren't supposed to be in the meeting room without prior authorization",
+    "groupCode": 0
+  },
+  {
+    "id": 2882,
+    "fa": "او (زن) سرفه مداوم دارد",
+    "en": "She has a persistent cough",
+    "desc": "In general, if you can count individual items, you use \"a\" or \"an\". If the noun refers to a mass or uncountable quantity, you don't use \"a\" or \"an\".",
+    "groupCode": 0
+  },
+  {
+    "id": 2883,
+    "fa": "من اسهال دارم",
+    "en": "I have diarrhea",
+    "groupCode": 0
+  },
+  {
+    "id": 2884,
+    "fa": "به دم آکاردئونی تکیه نکنید",
+    "en": "Don't lean against the bellows",
     "groupCode": 0
   }
 ]
