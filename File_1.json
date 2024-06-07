@@ -2048,7 +2048,7 @@
   {
     "id": 2340,
     "fa": "اگر می توانستید هر جایی زندگی کنید، کجا بود؟",
-    "en": "If you could live anywhere, where would it be?",
+    "en": "If you could live anywhere, where it would be?",
     "groupCode": 0
   },
   {
@@ -5228,7 +5228,7 @@
   },
   {
     "id": 2864,
-    "fa": "این احتمال وجود دارد که اجارم را نخواهم ساخت (نتونم اجارم را بدم)",
+    "fa": "این احتمال وجود دارد که اجاره را نخواهم ساخت (نتونم اجارم را بدم)",
     "en": "There is a possibility that I won't make rent",
     "groupCode": 0
   },
@@ -5314,7 +5314,7 @@
   },
   {
     "id": 2878,
-    "fa": "آیا شوهران خوشبخت خیانت می کنند؟",
+    "fa": "آیا شوهران متاهل شاد خیانت می کنند؟",
     "en": "Do happily married husbands cheat?",
     "groupCode": 0
   },
