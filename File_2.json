@@ -510,12 +510,6 @@
     "groupCode": 1
   },
   {
-    "id": 10085,
-    "en": "What does that mean in German?",
-    "de": "Was bedeutet das auf Deutsch?",
-    "groupCode": 1
-  },
-  {
     "id": 10086,
     "en": "Turkey (come from Turkey)",
     "de": "Die Türkei (komme aus der Türkei)",
@@ -621,6 +615,367 @@
     "id": 10103,
     "en": "I am a software engineer and work as a backend engineer at knauf",
     "de": "Ich bin Software Ingenieur/Ingenieurin und arbeite als Backend Ingenieur/Ingenieurin bei knauf",
+    "groupCode": 1
+  },
+  {
+    "id": 10104,
+    "en": "the picture is so beautiful",
+    "de": "das Bild ist so schön",
+    "groupCode": 1
+  },
+  {
+    "id": 10105,
+    "en": "Ali shows Ilie the picture",
+    "de": "Ali zeigt Ilie das Bild",
+    "groupCode": 1
+  },
+  {
+    "id": 10106,
+    "en": "Have a nice day, Luis! You too!",
+    "de": "Schönen Tag, Ali! Dir auch!",
+    "groupCode": 1
+  },
+  {
+    "id": 10107,
+    "en": "Have a nice day, Mr. Garcia! You too!",
+    "de": "Schönen Tag, Hr. Garcia! Ihnen auch!",
+    "groupCode": 1
+  },
+  {
+    "id": 10108,
+    "en": "Bye, have a nice weekend",
+    "de": "Tschüss, Schönes Wochenende",
+    "groupCode": 1
+  },
+  {
+    "id": 10109,
+    "en": "Is French easy or difficult? It's beautiful but difficult",
+    "de": "Ist Französisch einfach oder schwer? Es ist schön, aber schwer",
+    "groupCode": 1
+  },
+  {
+    "id": 10110,
+    "en": "Thank you Ms. Dumitru. Hope to see you",
+    "de": "Danke schön, Frau Dumitru. Auf Wiedersehen",
+    "groupCode": 1
+  },
+  {
+    "id": 10111,
+    "en": "Thank you very much, Your welcome",
+    "de": "Vielen Dank, Bitte schön",
+    "groupCode": 1
+  },
+  {
+    "id": 10112,
+    "en": "Is Vienna big, old, beautiful and cool?",
+    "de": "Ist Wien groß, alt, schön und cool?",
+    "groupCode": 1
+  },
+  {
+    "id": 10113,
+    "en": "He has very beautiful shoes",
+    "de": "Er hat sehr schöne Schuhe",
+    "groupCode": 1
+  },
+  {
+    "id": 10114,
+    "en": "He's in a beautiful restaurant",
+    "de": "Er ist in einem schönen Restaurant",
+    "groupCode": 1
+  },
+  {
+    "id": 10115,
+    "en": "The shirt here is nice and cheap",
+    "de": "Das Hemd hier ist schön und bilig",
+    "groupCode": 1
+  },
+  {
+    "id": 10116,
+    "en": "The weather in autumn is fine, but it's often cold",
+    "de": "Das wetter im Herbst ist schön, aber es ist oft kalt",
+    "groupCode": 1
+  },
+  {
+    "id": 10117,
+    "en": "The entrance ticket is (not) expensive",
+    "de": "Die Eintrittskarte ist (nicht) teuer",
+    "groupCode": 1
+  },
+  {
+    "id": 10118,
+    "en": "The violin is very expensive",
+    "de": "Die Geige ist sehr teuer",
+    "groupCode": 1
+  },
+  {
+    "id": 10119,
+    "en": "The cafe here is inexpensive and hip, but that over is expensive and old-fashioned",
+    "de": "Das Café hier ist günstig und hip, aber das da ist teuer und altmodisch",
+    "desc": "Hip is stylish, trendy, or fashionable",
+    "groupCode": 1
+  },
+  {
+    "id": 10120,
+    "en": "Tehran is of course expensive",
+    "de": "Tehran ist Natürlich teuer",
+    "groupCode": 1
+  },
+  {
+    "id": 10121,
+    "en": "I eat a salad but the salad with tomatoes is expensive",
+    "de": "Ich esse einen Salat aber Der Salat mit Tomaten ist teuer",
+    "groupCode": 1
+  },
+  {
+    "id": 10122,
+    "en": "Is food expensive?",
+    "de": "Ist Essen teuer?",
+    "groupCode": 1
+  },
+  {
+    "id": 10123,
+    "en": "The cafe is too expensive",
+    "de": "Das Café ist zu teuer",
+    "groupCode": 1
+  },
+  {
+    "id": 10124,
+    "en": "The table is ugly",
+    "de": "Der Tisch ist hässlich",
+    "groupCode": 1
+  },
+  {
+    "id": 10125,
+    "en": "Your sweater is ugly",
+    "de": "Dein Pullover ist hässlich",
+    "groupCode": 1
+  },
+  {
+    "id": 10126,
+    "en": "The shirt is so ugly. Oh yes, I alse agree (I find it also)",
+    "de": "Das Hemd ist so hässlich. Oh ja, Das finde ich auch",
+    "groupCode": 1
+  },
+  {
+    "id": 10127,
+    "en": "The black jacket is very warm and cheap",
+    "de": "Die schwarze Jacke ist sehr warm und billig",
+    "groupCode": 1
+  },
+  {
+    "id": 10128,
+    "en": "In a cheap restaurant",
+    "de": "In einem billigen Restaurant",
+    "groupCode": 1
+  },
+  {
+    "id": 10129,
+    "en": "You are lucky",
+    "de": "Sie haben Glück",
+    "groupCode": 1
+  },
+  {
+    "id": 10130,
+    "en": "This is a special offer",
+    "de": "Das ist ein sonderangebot",
+    "groupCode": 1
+  },
+  {
+    "id": 10131,
+    "en": "The chair is modern",
+    "de": "Der Stuhl ist modern",
+    "groupCode": 1
+  },
+  {
+    "id": 10132,
+    "en": "Do my friends have a chair and a table?",
+    "de": "Haben meine Freunde einen Stuhl und einen Tisch?",
+    "groupCode": 1
+  },
+  {
+    "id": 10133,
+    "en": "we need a table and a chair",
+    "de": "Wir brauchen einen Tisch und einen Stuhl",
+    "groupCode": 1
+  },
+  {
+    "id": 10134,
+    "en": "Who has a chair?",
+    "de": "Wer hat einen Stuhl?",
+    "groupCode": 1
+  },
+  {
+    "id": 10135,
+    "en": "I don't like the bed and bookcase",
+    "de": "Ich mag das Bett und das Bücherregal nicht",
+    "groupCode": 1
+  },
+  {
+    "id": 10136,
+    "en": "I like my bedroom. The bed is comfortable and the bookcase is perfect",
+    "de": "Ich mag mein Schlafzimmer. Das bett ist bequem und das Bucherregal ist perfekt",
+    "groupCode": 1
+  },
+  {
+    "id": 10137,
+    "en": "My bed is not comfortable and I don't sleep much",
+    "de": "Mein Bett ist nicht bequem und ich schlafe nicht viel",
+    "groupCode": 1
+  },
+  {
+    "id": 10138,
+    "en": "The apartment is dark. We need a lamp",
+    "de": "Die Wohnung ist dunkel. Wir brauchen eine Lampe",
+    "groupCode": 1
+  },
+  {
+    "id": 10139,
+    "en": "Who likes the lamp?",
+    "de": "Wer mag die Lampe?",
+    "groupCode": 1
+  },
+  {
+    "id": 10140,
+    "en": "Look at the couch. It is so beautiful",
+    "de": "Schau (doch) mal, die Couch. Sie ist so schön",
+    "groupCode": 1
+  },
+  {
+    "id": 10141,
+    "en": "Look at the armchair. It is so cheap",
+    "de": "Schau (doch) mal, der Sessel. Er ist so günstig",
+    "groupCode": 1
+  },
+  {
+    "id": 10142,
+    "en": "Look at the shelf. It's so cheap",
+    "de": "Schau (doch) mal, das Regal. Es ist so billig",
+    "groupCode": 1
+  },
+  {
+    "id": 10143,
+    "en": "How much do four tickets cost?",
+    "de": "Wie viel kosten vier Fahrkarten?",
+    "groupCode": 1
+  },
+  {
+    "id": 10144,
+    "en": "At what time is your appointment? My appointment is at four o'clock",
+    "de": "Um wie viel Uhr ist ihr termin? Mein Termin is um schzehn Uhr",
+    "groupCode": 1
+  },
+  {
+    "id": 10145,
+    "en": "A plane ticket to Barcelona, please. How much does a plane ticket cost?",
+    "de": "Ein Flugticket nach Barcelona, bitte. Wie viel kostet ein Flugticket?",
+    "groupCode": 1
+  },
+  {
+    "id": 10146,
+    "en": "How much does that cost? That costs one euro",
+    "de": "Wie viel kostet das? Das kostet einen Euro",
+    "groupCode": 1
+  },
+  {
+    "id": 10147,
+    "en": "How much does an apple spritzer cost and a cola?",
+    "de": "Wie viel kostet eine Apfelschorle und eine Cola?",
+    "groupCode": 1
+  },
+  {
+    "id": 10148,
+    "en": "How much does eight kilos of strawberries cost?",
+    "de": "Wie viel kostet acht Kilo Erdbeeren?",
+    "groupCode": 1
+  },
+  {
+    "id": 10149,
+    "en": "How much? The coffee really costs five euros",
+    "de": "Wie viel? Der Kaffee kostet wirklich fünf Euro",
+    "groupCode": 1
+  },
+  {
+    "id": 10150,
+    "en": "The closet is cool. Do you like the closet?",
+    "de": "Das Schrank ist cool. Magst du den Schrank?",
+    "groupCode": 1
+  },
+  {
+    "id": 10151,
+    "en": "I like the desk, but I don't like the carpet",
+    "de": "Ich mag den Schreibtisch, aber ich mag den Teppich nicht",
+    "groupCode": 1
+  },
+  {
+    "id": 10152,
+    "en": "Why is the table so modern?",
+    "de": "Warum ist der Tisch so modern?",
+    "groupCode": 1
+  },
+  {
+    "id": 10153,
+    "en": "I buy the sofa",
+    "de": "Ich kaufe das Sofa",
+    "groupCode": 1
+  },
+  {
+    "id": 10154,
+    "en": "Here is your table (polite)",
+    "de": "Hier ist Ihr Tisch",
+    "groupCode": 1
+  },
+  {
+    "id": 10155,
+    "en": "I like the table",
+    "de": "Ich mag den Tisch",
+    "groupCode": 1
+  },
+  {
+    "id": 10156,
+    "en": "The bedroom is very bright",
+    "de": "Das Schlafzimmer ist sehr hell",
+    "groupCode": 1
+  },
+  {
+    "id": 10157,
+    "en": "Where is the bathroom?",
+    "de": "Wo ist das Badezimmer?",
+    "groupCode": 1
+  },
+  {
+    "id": 10158,
+    "en": "Do you like the bedroom or not?",
+    "de": "Magst du das Schlafzimmer oder nicht?",
+    "groupCode": 1
+  },
+  {
+    "id": 10159,
+    "en": "I am a little bit sad. My room is so white and boring",
+    "de": "Ich bin ein bisschen traurig. Mein Zimmer ist so weiß und langweilig",
+    "groupCode": 1
+  },
+  {
+    "id": 10160,
+    "en": "The closet is not practical. It is too small",
+    "de": "Der Schrank ist nicht praktisch. Er ist zu klein",
+    "groupCode": 1
+  },
+  {
+    "id": 10161,
+    "en": "How do you find the hotel room?",
+    "de": "Wie finden Sie die Hotelzimmer?",
+    "groupCode": 1
+  },
+  {
+    "id": 10162,
+    "en": "Mark the stars and talk to your partner",
+    "de": "Markieren Sie die Sterne und sprechen Sie mit Ihrer Partnerin / Ihrem Partner",
+    "groupCode": 1
+  },
+  {
+    "id": 10163,
+    "en": "What does that mean in German?",
+    "de": "Was bedeutet das auf Deutsch?",
     "groupCode": 1
   }
 ]
