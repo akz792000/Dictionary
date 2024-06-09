@@ -5360,5 +5360,97 @@
     "fa": "یک پلیس در جلو وجود دارد",
     "en": "There is a cup upfront",
     "groupCode": 0
+  },
+  {
+    "id": 2886,
+    "fa": "ترجیح می دهم در خانه غذا بخورم تا بیرون بروم",
+    "en": "I would rather eat at home than go out",
+    "groupCode": 0
+  },
+  {
+    "id": 2887,
+    "fa": "اخبار تلویزیون ساعت چند است؟",
+    "en": "What time is the news on TV?",
+    "groupCode": 0
+  },
+  {
+    "id": 2888,
+    "fa": "او (زن) یک پوزخند گستاخانه ای دارد",
+    "en": "She has such a cheeky grin",
+    "groupCode": 0
+  },
+  {
+    "id": 2889,
+    "fa": "بچه هایی که حاضر جوابی می کنند تلقی می شوند گستاخ و بی احترام",
+    "en": "Children who talk back are regarded as cheeky and disrespectful",
+    "groupCode": 0
+  },
+  {
+    "id": 2890,
+    "fa": "او (زن) جوابی به من نداد اما سرش را با حواص پرتی تکان داد",
+    "en": "She didn't answer me but gave me an absent-minded nod",
+    "groupCode": 0
+  },
+  {
+    "id": 2891,
+    "fa": "از افراد دو رو دوری کن",
+    "en": "Stay away from two-faced people",
+    "groupCode": 0
+  },
+  {
+    "id": 2892,
+    "fa": "او (مرد) واقعاً خسیس است و هرگز برای کسی یک نوشیدنی نمی خرد وقتی ما بیرون می رویم",
+    "en": "He's really stingy and never buys anyone a drink when we go out",
+    "groupCode": 0
+  },
+  {
+    "id": 2893,
+    "fa": "این یک روش زیرکانه (موذی) و یواشکی برای انجام تجارت است",
+    "en": "It's a sneaky and underhanded way of doing business",
+    "desc": "\"It's a sneaky and underhand way of doing business.\" (more common in British English)\n\"It's a sneaky and underhanded way of doing business.\" (more common in American English)",
+    "groupCode": 0
+  },
+  {
+    "id": 2894,
+    "fa": "تست بازیگری چطور پیش رفت؟",
+    "en": "How did the audition go?",
+    "groupCode": 0
+  },
+  {
+    "id": 2895,
+    "fa": "من کارگردان را ملاقات کردم، شما هرگز باور نخواهید کرد که چه کسی بود",
+    "en": "I met the director. You will never believe who it was",
+    "desc": "Using \"it was\" in this context is grammatically correct because the pronoun \"it\" refers to the unknown identity of the director rather than their gender. When the identity of the person is being emphasized as surprising or unknown, \"it\" is commonly used.",
+    "groupCode": 0
+  },
+  {
+    "id": 2896,
+    "fa": "من به شما یک سرنخ خواهم داد",
+    "en": "\n 1.I'll give you one hint \n 2.I'll give you a clue",
+    "groupCode": 0
+  },
+  {
+    "id": 2897,
+    "fa": "او (مرد) آبله مرغان گرفته",
+    "en": "He has got chicken pox",
+    "groupCode": 0
+  },
+  {
+    "id": 2898,
+    "fa": "اگر قبلاً آن را نداشته اید، شانسش هست  شما (قصد داشتن) آن را بگیرید",
+    "en": "If you haven't already had it, chances are you are gonna get it",
+    "groupCode": 0
+  },
+  {
+    "id": 2899,
+    "fa": "من هرگز آن را نداشتم و احساس می کنم خیلی جا ماندم",
+    "en": "I've never had it and I feel so left out",
+    "groupCode": 0
+  },
+  {
+    "id": 2900,
+    "fa": "اگر در نظر بگیرید چه تعداد مرد واقعا هستند، درصد بسیار کمی است",
+    "en": "If you consider how many guys there actually are, it's a very small percentage",
+    "groupCode": 0
   }
 ]
