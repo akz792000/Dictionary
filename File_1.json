@@ -1770,7 +1770,7 @@
   },
   {
     "id": 2294,
-    "fa": "من نمی خواهم شما را دلسرد کنم، اما فکر نمی کنم این (تاکید) ایده خوبی باشد",
+    "fa": "من نمی خواهم شما را دلسرد کنم، اما فکر نمی کنم یک چنین ایده خوبی باشد",
     "en": "I don't want to discourage you, but I don't think it's such a good idea",
     "groupCode": 0
   },
@@ -2992,7 +2992,7 @@
   },
   {
     "id": 2496,
-    "fa": "با این عجله کجا داری میری؟",
+    "fa": "با یک چنین عجله کجا داری میری؟",
     "en": "Where are you off to in such a hurry?",
     "groupCode": 0
   },
@@ -3844,7 +3844,7 @@
   },
   {
     "id": 2637,
-    "fa": "این بدان معنی است که ما باید دو نقطه پایانی جدید را معرفی کنیم تا اجتناب کنیم از هرگونه تغییر مسدود کننده",
+    "fa": "این بدان معنی است که ما نیاز داریم دو نقطه پایانی جدید را معرفی کنیم تا اجتناب کنیم از هرگونه تغییر مسدود کننده",
     "en": "It means that we need to introduce two new endpoints to avoid any blocking changes",
     "groupCode": 0
   },
@@ -3874,7 +3874,7 @@
   },
   {
     "id": 2642,
-    "fa": "اون نوع فیلمی نیست که من به آن علاقه دارم",
+    "fa": "اون نوع فیلمی نیست من به آن علاقه دارم",
     "en": "That's not the sort of film I'm interested in",
     "groupCode": 0
   },
@@ -4108,7 +4108,7 @@
   },
   {
     "id": 2681,
-    "fa": "از شما بعیده که چنین اشتباهی را مرتکب شوی، اما من بعید نیستم این را انجام دهم",
+    "fa": "از شما بعیده که یک چنین اشتباهی را مرتکب شوی، اما من بعید نیستم این را انجام دهم",
     "en": "It's unlike you to make such a mistake, but I'm not unlikely to do this",
     "groupCode": 0
   },
@@ -5228,7 +5228,7 @@
   },
   {
     "id": 2864,
-    "fa": "این احتمال وجود دارد که اجاره را نخواهم ساخت (نتونم اجارم را بدم)",
+    "fa": "این امکان وجود دارد که اجاره را نخواهم ساخت (نتونم اجارم را بدم)",
     "en": "There is a possibility that I won't make rent",
     "groupCode": 0
   },
@@ -5277,13 +5277,13 @@
   },
   {
     "id": 2872,
-    "fa": "کمیته داره به تفصیل تغییرات سیاستهای جدید را بحث می کنه",
+    "fa": "کمیته داره به تفصیل تغییرات سیاست جدید را بحث می کنه",
     "en": "The committee is discussing the new policy changes in detail",
     "groupCode": 0
   },
   {
     "id": 2873,
-    "fa": "تغییرات سیاستهای جدید داره به تفصیل توسط کمیته بحث می شود",
+    "fa": "تغییرات سیاست جدید داره به تفصیل توسط کمیته بحث می شود",
     "en": "The new policy changes are being discussed in detail by the committee",
     "groupCode": 0
   },
@@ -5301,14 +5301,14 @@
   },
   {
     "id": 2876,
-    "fa": "پس از صحبت با لوکاس، او به من رساند که فردا، همه شرکت کنندگان اجازه دارند مستقیماً به رویداد بروند. نیازی نیست از قبل به دفتر بیایید",
+    "fa": "پس از مشورت کردن با لوکاس، او به من رساند که فردا، همه شرکت کنندگان اجازه دارند مستقیماً به رویداد بروند. نیازی نیست از قبل به دفتر بیایید",
     "en": "After conferring with Lukas, he conveyed to me that tomorrow, all attendees are permitted to go directly to the event. There is no need to come to the office beforehand",
     "desc": "confer with = میشه مشورت",
     "groupCode": 0
   },
   {
     "id": 2877,
-    "fa": "این فقط قرار نیست اتفاق بیفتد",
+    "fa": "آن فقط قرار نیست اتفاق بیفتد",
     "en": "That is not just supposed to be happen",
     "groupCode": 0
   },
@@ -5375,7 +5375,7 @@
   },
   {
     "id": 2888,
-    "fa": "او (زن) یک پوزخند گستاخانه ای دارد",
+    "fa": "او (زن) یک چنین پوزخند گستاخانه ای دارد",
     "en": "She has such a cheeky grin",
     "groupCode": 0
   },
@@ -5387,7 +5387,7 @@
   },
   {
     "id": 2890,
-    "fa": "او (زن) جوابی به من نداد اما سرش را با حواص پرتی تکان داد",
+    "fa": "او (زن) جوابی به من نداد اما سرش را با یک حواس پرتی تکان داد",
     "en": "She didn't answer me but gave me an absent-minded nod",
     "groupCode": 0
   },
@@ -5443,7 +5443,7 @@
   },
   {
     "id": 2899,
-    "fa": "من هرگز آن را نداشتم و احساس می کنم خیلی جا ماندم",
+    "fa": "من هرگز نداشتمش و احساس می کنم خیلی جا ماندم",
     "en": "I've never had it and I feel so left out",
     "groupCode": 0
   },
