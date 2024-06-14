@@ -1487,8 +1487,8 @@
   },
   {
     "id": 2247,
-    "fa": "به یاد داشته باشید استفاده کنید از کمی نمک تا بیشتر شود طعم غذای شما",
-    "en": "Remember to use a pinch of salt to enhance the taste of your dish",
+    "fa": "به یاد داشته باشید استفاده کنید از کمی نمک و کمی فلفل تا بیشتر شود طعم غذای شما",
+    "en": "Remember to use a pinch of salt or touch of pepper to enhance the taste of your dish",
     "groupCode": 0
   },
   {
@@ -5393,7 +5393,7 @@
   },
   {
     "id": 2891,
-    "fa": "از افراد دو رو دوری کن",
+    "fa": "از مردم دو رو دوری کن",
     "en": "Stay away from two-faced people",
     "groupCode": 0
   },
@@ -5405,7 +5405,7 @@
   },
   {
     "id": 2893,
-    "fa": "این یک روش زیرکانه (موذی) و یواشکی برای انجام تجارت است",
+    "fa": "این یک راه زیرکانه (موذی) و یواشکی برای انجام تجارت است",
     "en": "It's a sneaky and underhanded way of doing business",
     "desc": "\"It's a sneaky and underhand way of doing business.\" (more common in British English)\n\"It's a sneaky and underhanded way of doing business.\" (more common in American English)",
     "groupCode": 0
@@ -5451,6 +5451,90 @@
     "id": 2900,
     "fa": "اگر در نظر بگیرید چه تعداد مرد واقعا هستند، درصد بسیار کمی است",
     "en": "If you consider how many guys there actually are, it's a very small percentage",
+    "groupCode": 0
+  },
+  {
+    "id": 2901,
+    "fa": "من یک زخم کوچک روی چانه ام دارم",
+    "en": "I have a little scar on my chin",
+    "groupCode": 0
+  },
+  {
+    "id": 2902,
+    "fa": "چه چیزی کلسترول را سریع کاهش می دهد در یک هفته؟",
+    "en": "What reduces cholesterol quickly in one week?",
+    "groupCode": 0
+  },
+  {
+    "id": 2903,
+    "fa": "آنها هیچ تعهد اخلاقی ندارند",
+    "en": "They have no moral obligations",
+    "groupCode": 0
+  },
+  {
+    "id": 2904,
+    "fa": "من ابروهای پرپشتی داشتم که در مرکز با هم رشد می کردند",
+    "en": "I had bushy eyebrows that grew together in the center",
+    "groupCode": 0
+  },
+  {
+    "id": 2905,
+    "fa": "میانگین هزینه یک خانه افزایش یافت در حدود 50 درصد",
+    "en": "The average cost of a house went up by about 50%",
+    "groupCode": 0
+  },
+  {
+    "id": 2906,
+    "fa": "اگر عجله نکنیم، پروازمان را از دست خواهیم داد",
+    "en": "If we don't hurry up, we'll miss our flight",
+    "groupCode": 0
+  },
+  {
+    "id": 2907,
+    "fa": "کمی چیزها را عجله کنید",
+    "en": "Hurry things up a little",
+    "groupCode": 0
+  },
+  {
+    "id": 2908,
+    "fa": "من واقعاً باید انگلیسی خود را تقویت کنم زیرا حدود 10 سال است که به این زبان صحبت نمی کنم",
+    "en": "I really need to brush up on my english because I haven't spoken the language in about 10 years",
+    "groupCode": 0
+  },
+  {
+    "id": 2909,
+    "fa": "به سمتش (زن) رفتم و سلام کردم",
+    "en": "I went up to her and said hello",
+    "groupCode": 0
+  },
+  {
+    "id": 2910,
+    "fa": "او (زن) به سمت من آمد تا سلام کند",
+    "en": "She came up to me to say hi",
+    "groupCode": 0
+  },
+  {
+    "id": 2911,
+    "fa": "به سمتش (پیاده) رفتم و به او سیلی زدم",
+    "en": "I walked up to him and slapped him",
+    "groupCode": 0
+  },
+  {
+    "id": 2912,
+    "fa": "هر بار که این بحث را مطرح می کنید، ما یک بحثی داریم",
+    "en": "Every time you bring up this discussion, we have an argument",
+    "groupCode": 0
+  },
+  {
+    "id": 2913,
+    "fa": "وقتی در پمپ بنزین هستم، باک را تا آخر پر می کنم",
+    "en": "When I'm at the gas station, I fill up the tank all the way",
+    "groupCode": 0
+  },
+  {
+    "id": 2914,
+    "fa": "قبلاً می گفتم که هیچ وقت نمی خواستم بچه دار شوم، اما در نهایت بچه دار شدم",
+    "en": "I used to say that I never wanted to have kids, but I ended up having one",
     "groupCode": 0
   }
 ]
