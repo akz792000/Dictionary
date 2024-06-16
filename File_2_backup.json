@@ -832,12 +832,6 @@
     "groupCode": 1
   },
   {
-    "id": 10178,
-    "en": "How is it like in Austria? Austria is exciting",
-    "de": "Wie ist es in österreich? österreich ist aufregend",
-    "groupCode": 1
-  },
-  {
     "id": 10180,
     "en": "Romania is also great",
     "de": "Rumänien ist auch super",
@@ -1344,13 +1338,7 @@
     "en": "Dad, a little question",
     "de": "Papa, eine kleine Frage",
     "groupCode": 1
-  },
-  {
-    "id": 10267,
-    "en": "The football game is very exciting",
-    "de": "Das Fußballspiel ist sehr aufregend",
-    "groupCode": 1
-  },
+  }
   {
     "id": 10268,
     "en": "I really need money",
@@ -2043,12 +2031,6 @@
     "id": 10398,
     "en": "Where are you hiking?",
     "de": "Wo wandern Sie?",
-    "groupCode": 1
-  },
-  {
-    "id": 10399,
-    "en": "It's raining todady. Where is the umbrella?",
-    "de": "Es regnet heute. Wo ist der Regenschirm?",
     "groupCode": 1
   },
   {

@@ -977,5 +977,179 @@
     "en": "What does that mean in German?",
     "de": "Was bedeutet das auf Deutsch?",
     "groupCode": 1
+  },
+  {
+    "id": 10164,
+    "en": "Connect the sentences",
+    "de": "Verbinden sie die sätze",
+    "groupCode": 1
+  },
+  {
+    "id": 10165,
+    "en": "What does Ilia draw?",
+    "de": "Was zeichnet Ilia?",
+    "groupCode": 1
+  },
+  {
+    "id": 10166,
+    "en": "Is this a book? No, this is not a book",
+    "de": "Ist das ein Buch? Nein, das ist kein Buch",
+    "groupCode": 1
+  },
+  {
+    "id": 10167,
+    "en": "Is that a clock? Yes, that is a clock",
+    "de": "Ist das eine Uhr? Ja, das ist eine Uhr",
+    "groupCode": 1
+  },
+  {
+    "id": 10168,
+    "en": "Is this a ballpoint pen or a pen or ein pencil??",
+    "de": "Ist das ein Kugelschreiber oder ein Stift oder ein Bleistift?",
+    "groupCode": 1
+  },
+  {
+    "id": 10169,
+    "en": "I see something! Do you see it too?",
+    "de": "Ich sehe etwas! Siehst du es auch?",
+    "groupCode": 1
+  },
+  {
+    "id": 10170,
+    "en": "Colors (white, yellow, orange, red, green, blue, brown, black, dunkelbraun, hellbraun)",
+    "de": "Farben(weiß, gelb, orange, rot, grün, blau, braun, schwarz, dark brown, light brown)",
+    "groupCode": 1
+  },
+  {
+    "id": 10171,
+    "en": "Materials (wood, paper, metal)",
+    "de": "Materialien (Holz, Papier, Metal)",
+    "groupCode": 1
+  },
+  {
+    "id": 10172,
+    "en": "The phone is too expensive",
+    "de": "Das Handy ist zu teuer",
+    "groupCode": 1
+  },
+  {
+    "id": 10173,
+    "en": "The hotel is large",
+    "de": "Das Hotel ist groß",
+    "groupCode": 1
+  },
+  {
+    "id": 10174,
+    "en": "I wear glasses",
+    "de": "Ich trage eine Brille",
+    "groupCode": 1
+  },
+  {
+    "id": 10175,
+    "en": "The camera is new",
+    "de": "Die Kamera ist neu",
+    "groupCode": 1
+  },
+  {
+    "id": 10176,
+    "en": "The bottle is empty.",
+    "de": "Die Flasche ist leer",
+    "groupCode": 1
+  },
+  {
+    "id": 10177,
+    "en": "There are many things in the room. A sofa, a table, a picture, a bottle, a pencil, a book, a key, a bag and so on",
+    "de": "Im Zimmer sind viele Dinge. Ein Sofa, ein Tisch, ein Bild, eine Flasche, ein Bleistift, ein Buch, ein Schlussel, eine Tasche und so weiter",
+    "groupCode": 1
+  },
+  {
+    "id": 10178,
+    "en": "How do you spell lighter?",
+    "de": "Wie schreibt man feuerzeug?",
+    "groupCode": 1
+  },
+  {
+    "id": 10179,
+    "en": "Excuse me, what is that called in German",
+    "de": "Entschuldigung, wie heißt das auf deutsch?",
+    "groupCode": 1
+  },
+  {
+    "id": 10180,
+    "en": "The wallet is brown",
+    "de": "Der Geldbeutel ist braun",
+    "groupCode": 1
+  },
+  {
+    "id": 10181,
+    "en": "The lighter is red",
+    "de": "Das Feuerzeug ist rot",
+    "groupCode": 1
+  },
+  {
+    "id": 10182,
+    "en": "The tissue is clean",
+    "de": "Das Taschentuch ist sauber",
+    "groupCode": 1
+  },
+  {
+    "id": 10183,
+    "en": "It's raining todady. Where is the umbrella?",
+    "de": "Es regnet heute. Wo ist der Regenschirm (Schirm)?",
+    "groupCode": 1
+  },
+  {
+    "id": 10184,
+    "en": "How is it like in Austria? Austria is exciting",
+    "de": "Wie ist es in österreich? österreich ist aufregend",
+    "groupCode": 1
+  },
+  {
+    "id": 10185,
+    "en": "The football game is very exciting",
+    "de": "Das Fußballspiel ist sehr aufregend",
+    "groupCode": 1
+  },
+  {
+    "id": 10186,
+    "en": "She is wearing a beautiful necklace",
+    "de": "Sie trägt eine schöne Kette",
+    "groupCode": 1
+  },
+  {
+    "id": 10187,
+    "en": "I have found the key",
+    "de": "Ich habe den Schlüssel gefunden",
+    "groupCode": 1
+  },
+  {
+    "id": 10188,
+    "en": "I have lost my bag",
+    "de": "Ich habe meine Tasche verloren",
+    "groupCode": 1
+  },
+  {
+    "id": 10189,
+    "en": "What are you ordering? I'm ordering the sunglasses",
+    "de": "Was bestellst du? Ich bestelle die Sonnenbrille",
+    "groupCode": 1
+  },
+  {
+    "id": 10190,
+    "en": "The zip code is 12345",
+    "de": "Die Postleitzahl ist 12345",
+    "groupCode": 1
+  },
+  {
+    "id": 10191,
+    "en": "The city(place) is called Munich",
+    "de": "Der Ort heißt München",
+    "groupCode": 1
+  },
+  {
+    "id": 10192,
+    "en": "The country is France",
+    "de": "Das Land ist Frankreich",
+    "groupCode": 1
   }
 ]
