@@ -5551,14 +5551,14 @@
   },
   {
     "id": 2917,
-    "fa": "تو به او مدیونی جان دخترت را",
+    "fa": "تو به او (مرد) جان دخترت را مدیونی",
     "en": "You owe him your daughter's life",
     "groupCode": 0
   },
   {
     "id": 2918,
-    "fa": "من بدهکار او هستم",
-    "en": "I am in his debt",
+    "fa": "من بدهکار او (مرد) هستم",
+    "en": "\n 1.I am in his debt \n 2.I owe him",
     "groupCode": 0
   },
   {
@@ -5577,6 +5577,18 @@
     "id": 2921,
     "fa": "آیا واقعاً این موضوع را کاملا فکر کردی؟ زیرا ریسک بسیار بزرگی است",
     "en": "Have you really thought this through? Cause it's a pretty big risk",
+    "groupCode": 0
+  },
+  {
+    "id": 2921,
+    "fa": "از همون اول دروغ گفتی",
+    "en": "From the very beginning you lied",
+    "groupCode": 0
+  },
+  {
+    "id": 2921,
+    "fa": "اگر ایده ای به من میدهید، احتمالاً بدترین چیزی (که) میتوانید بگویید (این) است (که) 'تصور کنی اگر بخواهی'",
+    "en": "If you're pitching me an idea, probably the worst thing you can say is 'Imagine if you will'",
     "groupCode": 0
   }
 ]

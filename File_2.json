@@ -25,7 +25,7 @@
   },
   {
     "id": 10005,
-    "en": "The teacher is name is Anne. She teaches biology and chemistry at the high school",
+    "en": "The teacher's name is Anne. She teaches biology and chemistry at the high school",
     "de": "Die Lehrerin heißt Anne. Sie unterrichtet Biologie und Chemie am Gymnasium",
     "groupCode": 1
   },
@@ -67,7 +67,7 @@
   },
   {
     "id": 10012,
-    "en": "Say your name?",
+    "en": "Say your (polite) name?",
     "de": "Sagen Sie Ihren Namen?",
     "groupCode": 1
   },
@@ -134,7 +134,7 @@
   {
     "id": 10023,
     "en": "Can I pay with card? No, it's only cash",
-    "de": "Kann ich mit Karte zahlen? Nei, es geht nur bar",
+    "de": "Kann ich mit Karte zahlen? Nein, es geht nur bar",
     "groupCode": 1
   },
   {
@@ -175,8 +175,8 @@
   },
   {
     "id": 10030,
-    "en": "Where do your partner come from?",
-    "de": "\n 1.Woher kommt Ihr Partner? \n 2.Woher kommt dein Partner?",
+    "en": "Where do your (polite) partner come from?",
+    "de": "Woher kommt Ihr Partner?",
     "groupCode": 1
   },
   {
@@ -223,7 +223,7 @@
   },
   {
     "id": 10038,
-    "en": "Do you come from Germany?",
+    "en": "Do you (polite) come from Germany? ",
     "de": "Kommen Sie aus Deutschland?",
     "groupCode": 1
   },
@@ -313,8 +313,8 @@
   },
   {
     "id": 10053,
-    "en": "Come! We're going to the Greek",
-    "de": "Komm! Wir gehen zum Griechen",
+    "en": "Would you (polite) like to pay in cash?",
+    "de": "Möchten Sie bar zahlen?",
     "groupCode": 1
   },
   {
@@ -392,7 +392,7 @@
   {
     "id": 10066,
     "en": "I'm having a party, can you come?",
-    "de": "Ich mache eine Party kannst du kommen",
+    "de": "Ich mache eine Party, kannst du kommen?",
     "groupCode": 1
   },
   {
@@ -409,7 +409,7 @@
   },
   {
     "id": 10069,
-    "en": "Would you like to come?",
+    "en": "Would you (plural) like to come?",
     "de": "Möchtet ihr kommen?",
     "groupCode": 1
   },
@@ -433,7 +433,7 @@
   },
   {
     "id": 10073,
-    "en": "Are you coming to the party too?",
+    "en": "Are you (plural) coming to the party too?",
     "de": "Kommt ihr auch zur Party?",
     "groupCode": 1
   },
@@ -451,31 +451,31 @@
   },
   {
     "id": 10076,
-    "en": "Then close your books",
+    "en": "Then close your (polite) books",
     "de": "Schließen Sie dann Ihre Bücher",
     "groupCode": 1
   },
   {
     "id": 10077,
-    "en": "What else do you know?",
+    "en": "What else do you (polite) know?",
     "de": "Was wissen sie noch?",
     "groupCode": 1
   },
   {
     "id": 10078,
-    "en": "Write down the names",
+    "en": "Write down (Note) the names",
     "de": "Notieren Sie die Namen",
     "groupCode": 1
   },
   {
     "id": 10079,
-    "en": "How old are you? He is 28 years old and she is also 28",
+    "en": "How old are you? (plural) He is 28 years old and she is also 28",
     "de": "Wie alt seid ihr? Er ist 28 Jahre alt und Sie ist auch 28",
     "groupCode": 1
   },
   {
     "id": 10080,
-    "en": "Do you live together? Yes, we live together but we are not married",
+    "en": "Do you (plural) live together? Yes, we live together but we are not married",
     "de": "Lebt ihr zusammen? Ja, wir leben zusammen aber wir sind nicht verheiratet",
     "groupCode": 1
   },
@@ -559,7 +559,7 @@
   },
   {
     "id": 10094,
-    "en": "Don't you come from Brazil? No, I don't come from Brazil. I com Turkey",
+    "en": "Don't you come from Brazil? No, I don't come from Brazil. I come from Turkey",
     "de": "Kommst du nicht aus Brasilien? Nein, Ich komme nicht aus Brasilien. Ich komme aus der Turkei",
     "groupCode": 1
   },
@@ -577,7 +577,7 @@
   },
   {
     "id": 10097,
-    "en": "Complete! Do you like it?",
+    "en": "Finish! Do you like it?",
     "de": "Fertig! Magst du es?",
     "groupCode": 1
   },
@@ -625,8 +625,8 @@
   },
   {
     "id": 10105,
-    "en": "Ali shows Ilie the picture",
-    "de": "Ali zeigt Ilie das Bild",
+    "en": "Ali shows Ilia the picture",
+    "de": "Ali zeigt Ilia das Bild",
     "groupCode": 1
   },
   {
@@ -703,14 +703,14 @@
   },
   {
     "id": 10118,
-    "en": "The violin is very expensive",
-    "de": "Die Geige ist sehr teuer",
+    "en": "The violin is very inexpensive",
+    "de": "Die Geige ist sehr günstig",
     "groupCode": 1
   },
   {
     "id": 10119,
-    "en": "The cafe here is inexpensive and hip, but that over is expensive and old-fashioned",
-    "de": "Das Café hier ist günstig und hip, aber das da ist teuer und altmodisch",
+    "en": "Der Kaffee here is inexpensive, but that over is expensive and old-fashioned",
+    "de": "Der Kaffee hier ist günstig, aber das da ist teuer und altmodisch",
     "desc": "Hip is stylish, trendy, or fashionable",
     "groupCode": 1
   },
@@ -734,8 +734,8 @@
   },
   {
     "id": 10123,
-    "en": "The cafe is too expensive",
-    "de": "Das Café ist zu teuer",
+    "en": "The coffee is too cheap",
+    "de": "Der Kaffee ist zu bilig",
     "groupCode": 1
   },
   {
@@ -770,7 +770,7 @@
   },
   {
     "id": 10129,
-    "en": "You are lucky",
+    "en": "You (polite) are lucky",
     "de": "Sie haben Glück",
     "groupCode": 1
   },
@@ -861,7 +861,7 @@
   {
     "id": 10144,
     "en": "At what time is your appointment? My appointment is at four o'clock",
-    "de": "Um wie viel Uhr ist ihr termin? Mein Termin is um schzehn Uhr",
+    "de": "Um wie viel Uhr ist ihr (polite) termin? Mein Termin is um schzehn Uhr",
     "groupCode": 1
   },
   {
@@ -920,7 +920,7 @@
   },
   {
     "id": 10154,
-    "en": "Here is your table (polite)",
+    "en": "Here is your (polite) table",
     "de": "Hier ist Ihr Tisch",
     "groupCode": 1
   },
@@ -963,12 +963,12 @@
   {
     "id": 10161,
     "en": "How do you find the hotel room?",
-    "de": "Wie finden Sie die Hotelzimmer?",
+    "de": "Wie finden Sie (polite) das Hotelzimmer?",
     "groupCode": 1
   },
   {
     "id": 10162,
-    "en": "Mark the stars and talk to your partner",
+    "en": "Mark the stars and talk to your (polite) partner",
     "de": "Markieren Sie die Sterne und sprechen Sie mit Ihrer Partnerin / Ihrem Partner",
     "groupCode": 1
   },
