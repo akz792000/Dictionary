@@ -5497,7 +5497,7 @@
   },
   {
     "id": 2908,
-    "fa": "من واقعاً باید انگلیسی خود را تقویت کنم زیرا حدود 10 سال است که به این زبان صحبت نمی کنم",
+    "fa": "من واقعاً نیاز دارم انگلیسی خود را تقویت کنم زیرا من  به این زبان صحبت نمی کنم در حدود 10 سال",
     "en": "I really need to brush up on my english because I haven't spoken the language in about 10 years",
     "groupCode": 0
   },
@@ -5515,13 +5515,13 @@
   },
   {
     "id": 2911,
-    "fa": "به سمتش (پیاده) رفتم و به او سیلی زدم",
+    "fa": "به سمتش (مرد) (پیاده) رفتم و به او سیلی زدم",
     "en": "I walked up to him and slapped him",
     "groupCode": 0
   },
   {
     "id": 2912,
-    "fa": "هر بار که این بحث را مطرح می کنید، ما یک بحثی داریم",
+    "fa": "هر بار که تو این بحث را مطرح می کنی، ما یک بحثی داریم",
     "en": "Every time you bring up this discussion, we have an argument",
     "groupCode": 0
   },
@@ -5533,8 +5533,50 @@
   },
   {
     "id": 2914,
-    "fa": "قبلاً می گفتم که هیچ وقت نمی خواستم بچه دار شوم، اما در نهایت بچه دار شدم",
+    "fa": "من عادت داشتم (دیگه ندارم) بگم که هیچ وقت نمی خواستم بچه دار شوم، اما در نهایت بچه دار شدم",
     "en": "I used to say that I never wanted to have kids, but I ended up having one",
+    "groupCode": 0
+  },
+  {
+    "id": 2915,
+    "fa": "شما باید از خودتان خجالت بکشید",
+    "en": "You should be ashamed of yourself",
+    "groupCode": 0
+  },
+  {
+    "id": 2916,
+    "fa": "اوه، متاسفم، آیا من سلیقه شما نیستم؟",
+    "en": "Oh, I'm sorry, am I not your type?",
+    "groupCode": 0
+  },
+  {
+    "id": 2917,
+    "fa": "تو به او مدیونی جان دخترت را",
+    "en": "You owe him your daughter's life",
+    "groupCode": 0
+  },
+  {
+    "id": 2918,
+    "fa": "من بدهکار او هستم",
+    "en": "I am in his debt",
+    "groupCode": 0
+  },
+  {
+    "id": 2919,
+    "fa": "آخرین باری که رانندگی کردم ترسیده بودم",
+    "en": "Last time I drove I was terrified",
+    "groupCode": 0
+  },
+  {
+    "id": 2920,
+    "fa": "شما عالی کار می کنید",
+    "en": "You are doing great",
+    "groupCode": 0
+  },
+  {
+    "id": 2921,
+    "fa": "آیا واقعاً این موضوع را کاملا فکر کردی؟ زیرا ریسک بسیار بزرگی است",
+    "en": "Have you really thought this through? Cause it's a pretty big risk",
     "groupCode": 0
   }
 ]
