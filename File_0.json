@@ -1802,7 +1802,7 @@
   },
   {
     "id": 299,
-    "fa": "مشکلیه؟",
+    "fa": "آیا آن مشکلیه؟",
     "en": "Is that a problem?",
     "groupCode": 0
   },
@@ -6237,8 +6237,8 @@
   },
   {
     "id": 1028,
-    "fa": "آیا تا به حال خارج رفتی؟",
-    "en": "Have ever gone abroad?",
+    "fa": "آیا شما تا به حال خارج رفتی؟",
+    "en": "Have you ever gone abroad?",
     "desc": "\"Have you ever been abroad?\" is the more commonly used phrase to ask about someone's experience of being in another country. \"Have you ever gone abroad?\" can also be understood, but it specifically highlights the act of physically traveling to another country.",
     "groupCode": 0
   },
@@ -7255,7 +7255,7 @@
   },
   {
     "id": 1195,
-    "fa": "این شخصی است که من در مورد او به شما گفتم",
+    "fa": "این فردی است که من در مورد او به شما گفتم",
     "en": "This is the person whom I told you about",
     "groupCode": 0
   },

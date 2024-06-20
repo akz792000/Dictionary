@@ -4120,7 +4120,7 @@
   },
   {
     "id": 2683,
-    "fa": "فقط یک دقیقه دیگر فرصت دارید",
+    "fa": "فقط یک دقیقه بیشتر فرصت دارید",
     "en": "You only have one more minute left",
     "groupCode": 0
   },
@@ -4243,7 +4243,7 @@
   {
     "id": 2702,
     "fa": "تو رقت انگیزی (حقیر)",
-    "en": "You're a pathetic",
+    "en": "You're pathetic",
     "groupCode": 0
   },
   {
@@ -5497,7 +5497,7 @@
   },
   {
     "id": 2908,
-    "fa": "من واقعاً نیاز دارم انگلیسی خود را تقویت کنم زیرا من  به این زبان صحبت نمی کنم در حدود 10 سال",
+    "fa": "من واقعاً نیاز دارم انگلیسی خود را تقویت کنم زیرا من در حدود 10 سال به این زبان صحبت نمی کنم",
     "en": "I really need to brush up on my english because I haven't spoken the language in about 10 years",
     "groupCode": 0
   },
@@ -5589,6 +5589,48 @@
     "id": 2921,
     "fa": "اگر ایده ای به من میدهید، احتمالاً بدترین چیزی (که) میتوانید بگویید (این) است (که) 'تصور کنی اگر بخواهی'",
     "en": "If you're pitching me an idea, probably the worst thing you can say is 'Imagine if you will'",
+    "groupCode": 0
+  },
+  {
+    "id": 2922,
+    "fa": "تو آدم رقت انگیزی هستی",
+    "en": "You're a pathetic person",
+    "groupCode": 0
+  },
+  {
+    "id": 2923,
+    "fa": "من هیچ کدام شما را نمی شناسم",
+    "en": "\n 1.I don't know either of you \n 2.I do not know either of you \n 3.I know neither of you",
+    "groupCode": 0
+  },
+  {
+    "id": 2924,
+    "fa": "راس شکارچی اقیانوس کیست؟",
+    "en": "Who is the apex predator of the ocean?",
+    "groupCode": 0
+  },
+  {
+    "id": 2925,
+    "fa": "چه زمانی فکر میکنید میتوان آن را نهایی کرد تا ما بتوانیم آن را به preprod پوش کنیم؟",
+    "en": "When do you think it can be finalized so we can push it to preprod?",
+    "groupCode": 0
+  },
+  {
+    "id": 2926,
+    "fa": "من مایلم از این فرصت استفاده کنم تا تشکر کنم از همه برای زحمات و پیگیرشان",
+    "en": "I would like to take this opportunity to thank everyone for their hard work and dedication",
+    "groupCode": 0
+  },
+  {
+    "id": 2927,
+    "fa": "او (مرد) قرار است چه کسی را انتخاب کند؟",
+    "en": "Who is he going to pick?",
+    "groupCode": 0
+  },
+  {
+    "id": 2928,
+    "fa": "تست غیر قابل اعتماد است",
+    "en": "\n 1.The test is unreliable \n 2.The test is flaky",
     "groupCode": 0
   }
 ]
