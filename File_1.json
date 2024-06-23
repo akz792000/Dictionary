@@ -2926,7 +2926,7 @@
   },
   {
     "id": 2485,
-    "fa": "این تنها کلمه ای است که براستی توصیف می کند آن شخص چیست",
+    "fa": "این تنها کلمه ای است که براستی توصیف می کند آن فرد چیست",
     "en": "This is the only word that truly describes what that person is",
     "groupCode": 0
   },
@@ -5437,7 +5437,7 @@
   },
   {
     "id": 2898,
-    "fa": "اگر قبلاً آن را نداشته اید، شانسش هست  شما (قصد داشتن) آن را بگیرید",
+    "fa": "اگر قبلاً نداشته ایدش، شانسش هست  شما (قصد داشتن) بگیریدش",
     "en": "If you haven't already had it, chances are you are gonna get it",
     "groupCode": 0
   },
@@ -5593,14 +5593,14 @@
   },
   {
     "id": 2922,
-    "fa": "تو آدم رقت انگیزی هستی",
+    "fa": "تو فرد رقت انگیزی هستی",
     "en": "You're a pathetic person",
     "groupCode": 0
   },
   {
     "id": 2923,
     "fa": "من هیچ کدام شما را نمی شناسم",
-    "en": "\n 1.I don't know either of you \n 2.I do not know either of you \n 3.I know neither of you",
+    "en": "\n 1.I don't know any of you \n 2.I don't know either of you \n 3.I know neither of you",
     "groupCode": 0
   },
   {
@@ -5611,26 +5611,99 @@
   },
   {
     "id": 2925,
-    "fa": "چه زمانی فکر میکنید میتوان آن را نهایی کرد تا ما بتوانیم آن را به preprod پوش کنیم؟",
+    "fa": "کی فکر میکنید میتوان نهاییش کرد تا ما بتوانیم آن را به preprod پوش کنیم؟",
     "en": "When do you think it can be finalized so we can push it to preprod?",
     "groupCode": 0
   },
   {
     "id": 2926,
-    "fa": "من مایلم از این فرصت استفاده کنم تا تشکر کنم از همه برای زحمات و پیگیرشان",
+    "fa": "من مایلم از این فرصت استفاده کنم تا تشکر کنم از همه برای کار سخت و پیگیرشان",
     "en": "I would like to take this opportunity to thank everyone for their hard work and dedication",
     "groupCode": 0
   },
   {
     "id": 2927,
-    "fa": "او (مرد) قرار است چه کسی را انتخاب کند؟",
-    "en": "Who is he going to pick?",
+    "fa": "او (مرد) قصد دارد چه کسی را انتخاب کند؟",
+    "en": "Who is he gonna pick?",
     "groupCode": 0
   },
   {
     "id": 2928,
     "fa": "تست غیر قابل اعتماد است",
     "en": "\n 1.The test is unreliable \n 2.The test is flaky",
+    "groupCode": 0
+  },
+  {
+    "id": 2929,
+    "fa": "من باید کفش هایم را بپوشم",
+    "en": "I have to put on my shoes",
+    "desc": "\"Put on\" describes the process of getting dressed.\n\"Wear\" describes the state of having clothes or shoes on.",
+    "groupCode": 0
+  },
+  {
+    "id": 2930,
+    "fa": "من الان کشف شده ام",
+    "en": "I have just been discovered",
+    "groupCode": 0
+  },
+  {
+    "id": 2931,
+    "fa": "قول بده شما نگرخید (ترسیدن) و نخواهی بگی چقدر عالی است تا وقتی که من (کارم) انجام بشه",
+    "en": "Promise you won't freak out and say how great it is until I'm done",
+    "groupCode": 0
+  },
+  {
+    "id": 2932,
+    "fa": "اگر یک روزی یک عنکبوت ببینم، می گرخم (ترسیدن)",
+    "en": "If I saw a spider one day, I would freak out",
+    "groupCode": 0
+  },
+  {
+    "id": 2933,
+    "fa": "اگر بخواهم تماس بگیرم برای یک رفرنس برای آخرین شغل شما، با چه کسی برای اطلاعات بیشتر باید تماس بگیرم؟",
+    "en": "If I wanna call for a reference on your last job, whom should I contact for more information?",
+    "groupCode": 0
+  },
+  {
+    "id": 2934,
+    "fa": "این در بالای نامه نیست. آن در پایین است",
+    "en": "That's not at the top of the letter; it's at the bottom",
+    "groupCode": 0
+  },
+  {
+    "id": 2935,
+    "fa": "من می توانم نویزی از آپارتمان زیرم بشنوم",
+    "en": "I can hear noise from the apartment below mine",
+    "groupCode": 0
+  },
+  {
+    "id": 2936,
+    "fa": "منظره از آپارتمان بالای من باید شگفت انگیز باشد",
+    "en": "The view from the apartment above mine must be amazing",
+    "groupCode": 0
+  },
+  {
+    "id": 2937,
+    "fa": "بیا ببینیم آیا شما شخصا به همان اندازه که روی کاغذ هست خوب هستید",
+    "en": "Let's see if you are as good in person as you are on paper",
+    "groupCode": 0
+  },
+  {
+    "id": 2938,
+    "fa": "او (مرد) دیروز از دیدن من خیلی خوشحال به نظر می رسید",
+    "en": "He seemed so happy to see me yesterday",
+    "groupCode": 0
+  },
+  {
+    "id": 2939,
+    "fa": "پس از (اینکه) پدرش (مرد) فوت کرد، او (مرد) به ثروت زیادی دست یافت",
+    "en": "After his father died, he came into a large fortune",
+    "groupCode": 0
+  },
+  {
+    "id": 2940,
+    "fa": "در حالی که عقب کشیدم، با چاقو به سمتم آمد (حمله کرد)",
+    "en": "As I backed away, he came at me with a knife",
     "groupCode": 0
   }
 ]

@@ -2514,8 +2514,9 @@
   },
   {
     "id": 417,
-    "fa": "من باید کفش هایم را بپوشم",
-    "en": "\n 1.I have to wear my shoes in \n 2.I have to put on my shoes it",
+    "fa": "من باید کفش هایم پام باشه تا برم بیرون",
+    "en": "I have to wear my shoes in order to go outside",
+    "desc": "\"Put on\" describes the process of getting dressed.\n\"Wear\" describes the state of having clothes or shoes on.",
     "groupCode": 0
   },
   {
