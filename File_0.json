@@ -1850,7 +1850,7 @@
   },
   {
     "id": 307,
-    "fa": "گواهینامه رانندگیم همراهم نیست",
+    "fa": "من گواهینامه رانندگیم را با خودم ندارم",
     "en": "I don't have my driving license with me",
     "groupCode": 0
   },
@@ -7149,6 +7149,7 @@
     "id": 1177,
     "fa": "وقتی به خانه شما آمدم کمی دسر بیاورم؟",
     "en": "Shall I bring some dessert when I come to your house?",
+    "desc": "Shall I bring some dessert when I come to your house?\n\nThis version emphasizes the physical place or building.\nShall I bring some dessert when I come to your home?\n\nThis version emphasizes the place where you live, giving it a slightly warmer or more personal tone.\nEither sentence is grammatically correct and understandable, so you can choose based on the nuance you prefer.",
     "groupCode": 0
   },
   {
@@ -7358,7 +7359,7 @@
   },
   {
     "id": 1212,
-    "fa": "من عاشق دکور هستم، شیک و سنتی است",
+    "fa": "من عاشق دکور هستم، ظریف و سنتی است",
     "en": "I love the decor, it's elegant and traditional",
     "groupCode": 0
   },
@@ -11931,7 +11932,7 @@
   },
   {
     "id": 1967,
-    "fa": "پیگیری مصاحبه ای که هفته گذشته داشتم، مایلم آخرین پیشرفتش را جویا شم",
+    "fa": "پیگیری برای مصاحبه ای که هفته گذشته داشتم، مایلم آخرین پیشرفتش را جویا شم",
     "en": "Following up for the interview that I had last week, I'd like to inquire about the latest progress of it",
     "groupCode": 0
   },
@@ -11975,7 +11976,7 @@
   },
   {
     "id": 1974,
-    "fa": "او (مرد) از مدرسه اخراج شد به خاطر رفتار مختل کننده",
+    "fa": "او (مرد) از مدرسه اخراج شده به خاطر رفتار مختل کننده",
     "en": "He was expelled from school for disruptive behaviour",
     "groupCode": 0
   },

@@ -5166,7 +5166,7 @@
   },
   {
     "id": 2854,
-    "fa": "امیدوارم, گرفتار نشوم",
+    "fa": "امیدوارم, گرفتار نشوم (گیر نیافتم)",
     "en": "Hopefully, I don't get caught",
     "groupCode": 0
   },
@@ -5666,7 +5666,7 @@
   },
   {
     "id": 2934,
-    "fa": "این در بالای نامه نیست. آن در پایین است",
+    "fa": "آن در بالای نامه نیست. در پایین است",
     "en": "That's not at the top of the letter; it's at the bottom",
     "groupCode": 0
   },
@@ -5702,8 +5702,80 @@
   },
   {
     "id": 2940,
-    "fa": "در حالی که عقب کشیدم، با چاقو به سمتم آمد (حمله کرد)",
+    "fa": "در حالی که عقب کشیدم، او (مرد) با چاقو به سمتم آمد (حمله کرد)",
     "en": "As I backed away, he came at me with a knife",
+    "groupCode": 0
+  },
+  {
+    "id": 2941,
+    "fa": "من خجالت می کشم",
+    "en": "I'm embarrassed",
+    "groupCode": 0
+  },
+  {
+    "id": 2942,
+    "fa": "من باید پیاده شوم",
+    "en": "I have to drop off",
+    "groupCode": 0
+  },
+  {
+    "id": 2943,
+    "fa": "آزاد کن خودت را از غل و زنجیر تعصب",
+    "en": "Free yourself from the shackles of dogma",
+    "groupCode": 0
+  },
+  {
+    "id": 2944,
+    "fa": "من راحتم",
+    "en": "I'm comfy",
+    "groupCode": 0
+  },
+  {
+    "id": 2945,
+    "fa": "فردا برات خواهم آورد",
+    "en": "I'll bring it to you tomorrow",
+    "groupCode": 0
+  },
+  {
+    "id": 2946,
+    "fa": "ما در کارناوال سوار چرخ و فلک شدیم",
+    "en": "We rode the Ferris wheel at the carnival",
+    "groupCode": 0
+  },
+  {
+    "id": 2947,
+    "fa": "با تشکر از جلسه، و من مشتاقانه منتظر جلسات بعدی هستم",
+    "en": "Thanks for the session, and I'm looking forward to the next ones",
+    "groupCode": 0
+  },
+  {
+    "id": 2948,
+    "fa": "متاسفم من هیچوقت قصد نداشتم بفهمی",
+    "en": "I'm sorry I never meant for you to find out",
+    "groupCode": 0
+  },
+  {
+    "id": 2949,
+    "fa": "می خواستی گرفتار بشی (گیر بیافتی)؟",
+    "en": "Did you want to get caught?",
+    "groupCode": 0
+  },
+  {
+    "id": 2950,
+    "fa": "آیا تا به حال به رخ داده است که من ممکن است آنقدر احمق باشم؟",
+    "en": "Did it ever occur to you that I might be that stupid?",
+    "groupCode": 0
+  },
+  {
+    "id": 2951,
+    "fa": "این فیلم ها برای زنان توهین آمیز و تحقیرآمیز است",
+    "en": "These movies are offensive and degrading to women",
+    "groupCode": 0
+  },
+  {
+    "id": 2952,
+    "fa": "آن کت و شلوار شیک است",
+    "en": "That suit is flattering",
     "groupCode": 0
   }
 ]
