@@ -25,7 +25,7 @@
   },
   {
     "id": 10005,
-    "en": "Do you (polite) like salad?",
+    "en": "Do you like (polite) salad?",
     "de": "Mögen Sie Salat?",
     "groupCode": 1
   },
@@ -37,7 +37,7 @@
   },
   {
     "id": 10007,
-    "en": "What do you particularly like? I especially like orange",
+    "en": "What do you particularly like? I particularly like orange",
     "de": "Was magst du besonders gern? Besonders gern mag ich Orange",
     "groupCode": 1
   },
@@ -49,8 +49,8 @@
   },
   {
     "id": 10009,
-    "en": "Salad makes you fit, beautiful and intelligent. Great! Then I don't need salad",
-    "de": "Salat macht fit, schon und intelligent. Well fine! Dann brauche ich keinen Salat",
+    "en": "Salad makes you fit, beautiful and intelligent. Then I don't need salad",
+    "de": "Salat macht fit, schon und intelligent. Dann brauche ich keinen Salat",
     "groupCode": 1
   },
   {
@@ -109,7 +109,7 @@
   },
   {
     "id": 10019,
-    "en": "I have tomatoes and lettuce on the table",
+    "en": "I have tomatoes and salad on the table",
     "de": "Ich habe Tomaten und Salat auf dem Tisch",
     "groupCode": 1
   },
@@ -139,7 +139,7 @@
   },
   {
     "id": 10024,
-    "en": "Would you like to order the fruit salad or the apple cake?",
+    "en": "Would you like (polite) to order the fruit salad or the apple cake?",
     "de": "Möchten Sie den Obstsalat oder den Apfelkuchen bestellen?",
     "groupCode": 1
   },
@@ -175,8 +175,8 @@
   },
   {
     "id": 10030,
-    "en": "Colors (white, yellow, orange, red, green, blue, brown, black, dunkelbraun, hellbraun)",
-    "de": "Farben(weiß, gelb, orange, rot, grün, blau, braun, schwarz, dark brown, light brown)",
+    "en": "Colors (white, yellow, orange, red, green, blue, brown, black, dark brown, light brown)",
+    "de": "Farben(weiß, gelb, orange, rot, grün, blau, braun, schwarz, dunkelbraun, hellbraun)",
     "groupCode": 1
   },
   {
@@ -193,13 +193,13 @@
   },
   {
     "id": 10033,
-    "en": "Good day! What do you (polite) wish (want)? A cup of coffee and a cake, please",
+    "en": "Good day! What do you wish (want) (polite)? A cup of coffee and a cake, please",
     "de": "Guten Tag! Sie wünschen? Eine Tasse Kaffee und einen Kuchen, bitte",
     "groupCode": 1
   },
   {
     "id": 10034,
-    "en": "Would you like a nut cake? No thanks!",
+    "en": "Would you like (polite) a nut cake? No thanks!",
     "de": "Möchten Sie vielleicht einen Nusskuchen? Nein, danke!",
     "groupCode": 1
   },
@@ -211,7 +211,7 @@
   },
   {
     "id": 10036,
-    "en": "Would you like an apple cake? I would like a chocolate cake",
+    "en": "Would you like (polite) an apple cake? I would like a chocolate cake",
     "de": "Möchten Sie einen Apfelkuchen? Ich möchte einen Schokoladenkuchen",
     "groupCode": 1
   },
@@ -259,8 +259,8 @@
   },
   {
     "id": 10044,
-    "en": "Oh no, the bread and strudel are too delicious",
-    "de": "Oh nein, das Brot und der Strudel sind zu lecker",
+    "en": "Oh no, the bread and cake are too delicious",
+    "de": "Oh nein, das Brot und der kuchen sind zu lecker",
     "groupCode": 1
   },
   {
@@ -565,14 +565,15 @@
   },
   {
     "id": 10095,
-    "en": "How do you find the hotel room?",
-    "de": "Wie finden Sie (polite) das Hotelzimmer?",
+    "en": "How do you find (polite) the hotel room?",
+    "de": "Wie finden Sie das Hotelzimmer?",
     "groupCode": 1
   },
   {
     "id": 10096,
-    "en": "Mark the stars and talk to your (polite) partner",
+    "en": "Mark (polite) the stars and talk (polite) to your partner",
     "de": "Markieren Sie die Sterne und sprechen Sie mit Ihrer Partnerin / Ihrem Partner",
+    "desc": "mit is dativ - fur is akkusative",
     "groupCode": 1
   },
   {
@@ -583,7 +584,7 @@
   },
   {
     "id": 10098,
-    "en": "Connect the sentences",
+    "en": "Connect (polite) the sentences",
     "de": "Verbinden sie die sätze",
     "groupCode": 1
   },
