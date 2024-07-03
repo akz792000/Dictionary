@@ -810,7 +810,7 @@
   },
   {
     "id": 2135,
-    "fa": "دیدم تار شده",
+    "fa": "دیدم تار است",
     "en": "My vision is blurred",
     "desc": "\"Blurry\" is an adjective describing the current state of being unclear or out of focus.\n\"Blurred\" is both an adjective and the past participle of the verb \"blur,\" indicating that something has been made unclear or out of focus.",
     "groupCode": 0
@@ -3047,7 +3047,7 @@
   },
   {
     "id": 2505,
-    "fa": "هر ماه چقدر می توانید به پرداخت وام مسکن خود اختصاص دهید؟",
+    "fa": "هر ماه چقدر می توانید به پرداخت های وام مسکن خود اختصاص دهید؟",
     "en": "How much can you dedicate to your mortgage payments every month?",
     "groupCode": 0
   },
@@ -5740,18 +5740,20 @@
     "id": 2946,
     "fa": "ما در کارناوال سوار چرخ و فلک شدیم",
     "en": "We rode the Ferris wheel at the carnival",
+    "desc": "The preposition \"at\" is typically used to refer to an event or location where an activity takes place, which fits the context of a carnival",
     "groupCode": 0
   },
   {
     "id": 2947,
-    "fa": "با تشکر از جلسه، و من مشتاقانه منتظر جلسات بعدی هستم",
-    "en": "Thanks for the session, and I'm looking forward to the next ones",
+    "fa": "با تشکر از جلسه و من مشتاقانه منتظر جلسات بعدی هستم",
+    "en": "Thanks for the session and I'm looking forward to the next ones",
     "groupCode": 0
   },
   {
     "id": 2948,
-    "fa": "من هرگز قصد نداشتم بفهمی",
+    "fa": "من هرگز قصد نداشتم پی ببری",
     "en": "I never meant for you to find out",
+    "desc": "Prepositional phrase: \"for you to find out\"",
     "groupCode": 0
   },
   {
@@ -5776,6 +5778,91 @@
     "id": 2952,
     "fa": "آن کت و شلوار شیک است",
     "en": "That suit is flattering",
+    "groupCode": 0
+  },
+  {
+    "id": 2953,
+    "fa": "نباید آنطور باشد",
+    "en": "It doesn't have to be that way",
+    "groupCode": 0
+  },
+  {
+    "id": 2954,
+    "fa": "فراموش کردم کرم ضد آفتاب بزنم",
+    "en": "I forgot to put on sunscreen",
+    "groupCode": 0
+  },
+  {
+    "id": 2955,
+    "fa": "من به تصمیمم (گذشته) نگاه کردم و متوجه شدم اشتباه کردم",
+    "en": "I looked back on my decision and realized I was wrong",
+    "groupCode": 0
+  },
+  {
+    "id": 2956,
+    "fa": "من اغلب به روزهای دانشگاهی خود (گذشته) نگاه می کنم زیرا واقعاً از آن دوران در زندگی ام لذت می بردم",
+    "en": "I often look back on my college days because I really enjoyed that time in my life",
+    "groupCode": 0
+  },
+  {
+    "id": 2957,
+    "fa": "به زودی, کارم را رها خواهم کرد و هرگز به عقب نگاه نخواهم کرد",
+    "en": "Soon, I'll quit my job and I'll never look back",
+    "groupCode": 0
+  },
+  {
+    "id": 2958,
+    "fa": "همین الان, دارم عینک میزنم چون زودتر عینک زدم",
+    "en": "Right now, I'm wearing glasses because earlier I put them on",
+    "groupCode": 0
+  },
+  {
+    "id": 2959,
+    "fa": "چرا این کار برای مدت طولانی به تعویق انداختم؟",
+    "en": "Why did I put this off for so long?",
+    "groupCode": 0
+  },
+  {
+    "id": 2960,
+    "fa": "یک ثانیه صبر کن، بگذار من عینکم را بزنم",
+    "en": "Wait a second, let me put on my glasses",
+    "groupCode": 0
+  },
+  {
+    "id": 2961,
+    "fa": "نگران نباش, وقتی بیرون رفتم آن را می پوشم",
+    "en": "Don't worry, I'll put it on when I go outside",
+    "desc": "Put (something) on: to put something on your body / face",
+    "groupCode": 0
+  },
+  {
+    "id": 2962,
+    "fa": "ببخشید، من قصد نداشتم حرف شما را قطع کنم. لطفا ادامه بده",
+    "en": "Sorry, I didn't mean to interrupt you. Please go on",
+    "groupCode": 0
+  },
+  {
+    "id": 2963,
+    "fa": "او (زن) همیشه تکالیفش را تا آخرین لحظه به تعویق می انداخت",
+    "en": "She always puts off her homework until the last minute",
+    "groupCode": 0
+  },
+  {
+    "id": 2964,
+    "fa": "یادگیری افعال مرکب را به تعویق نینداز!",
+    "en": "Don't put off learning phrasal verbs!",
+    "groupCode": 0
+  },
+  {
+    "id": 2965,
+    "fa": "آیا می توانید آدرس رستوران را برای من نگاه کنی (داخل کتاب)؟",
+    "en": "Can you look up the address of the restaurant for me?",
+    "groupCode": 0
+  },
+  {
+    "id": 2966,
+    "fa": "آنها توسط افراد مسلح نقابدار به اسارت گرفته شدند",
+    "en": "They were taken captive by masked gunman",
     "groupCode": 0
   }
 ]

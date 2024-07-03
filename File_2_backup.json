@@ -1,32 +1,125 @@
 [
+  Mogen
+  (
+  mogen,
+  mogt,
+  mogen)
 
 
+  Du
+  mags
+  kein
+  Eis,
+  oder
+  ?
 
-  Mogen ( mogen, mogt, mogen)
+  mogen
+  +
+  nein
+  +
+  Verb
+  =
+  nicht.
+  Ich
+  mag
+  nich
+  laufen
+  Mogen
+  +
+  nein
+  +
+  Namen
+  =
+  kein/e
+  ich
+  mag
+  keine
+  Spinnen
+
+  Ich
+  bin
+  der
+  Groste.
+  Ich
+  bin
+  die
+  Groste.
+
+  Gros,
+  gorser,
+  am
+  grosten
+
+  Gehts
+  dir
+  gut
+  ?
+  ja,
+  mir
+  gehts
+  gut.
+  Nein,
+  mir
+  gehts
+  nicht
+  gut.
+  Wie
+  gehts
+  dir
+  ?
+  mir
+  gehts
+  gut.
+  Mir
+  gehts
+  nicht
+  gut.
+  Mir
+  gehts
+  schlecht.
+
+  Die
+  Menschen
+  machen
+  Witze.
+  Sie
+  lachen
+  viel
+  und
+  haben
+  Spas
+  ?
+
+  Bist
+  du
+  nich
+  unverheiratet
+  ?
+  Doch
+  ich
+  bin
+  unverheiratet
+
+  Ich
+  bin
+  single,
+  Du
+  bist
+  nicht
+  single,
+  oder
+  ?
+  bist
+  du
+  nicht
+  single
+  ?
 
 
-  Du mags kein Eis, oder?
-
-  mogen + nein + Verb = nicht. Ich mag nich laufen
-  Mogen + nein + Namen = kein/e ich mag keine Spinnen
-
-  Ich bin der Groste. Ich bin die Groste.
-
-  Gros, gorser, am grosten
-
-  Gehts dir gut? ja, mir gehts gut. Nein, mir gehts nicht gut.
-  Wie gehts dir? mir gehts gut. Mir gehts nicht gut. Mir gehts schlecht.
-
-  Die Menschen machen Witze. Sie lachen viel und haben Spas?
-
-  Bist du nich unverheiratet? Doch ich bin unverheiratet
-
-  Ich bin single, Du bist nicht single, oder? bist du nicht single?
-
-
-  Sie macht eine Ausbildung,
-
-
+  Sie
+  macht
+  eine
+  Ausbildung,
   {
     "id": 10004,
     "en": "Hello",
@@ -35,7 +128,6 @@
   },
   {
     "id": 10005,
-
     "groupCode": 1
   },
   {
@@ -56,15 +148,12 @@
     "de": "Ich bin im Moment arbeitslos",
     "groupCode": 1
   },
-
   {
     "id": 10010,
     "en": "How is the weather today? The weather is bad today",
     "de": "Wie ist das Wetter heute? Das Wetter ist heute schlecht",
     "groupCode": 1
   },
-
-
   {
     "id": 10013,
     "en": "One more again slowly please",
@@ -96,8 +185,6 @@
     "de": "\n Montag \n Dienstag \n Mittwoch \n Donnerstag \n Freitag \n Samstag \n Sonntag",
     "groupCode": 1
   },
-
-
   {
     "id": 10022,
     "en": "You are Mr. Bieber!",
@@ -144,12 +231,6 @@
     "id": 10034,
     "en": "Who says that?",
     "de": "Wer sagt das?",
-    "groupCode": 1
-  },
-  {
-    "id": 10035,
-    "en": "He doesn't have a boy friend but he has an aunt and a fish",
-    "de": "Er hat keinen Freund aber er hat eine Tante and einen Fisch",
     "groupCode": 1
   },
   {
@@ -230,7 +311,6 @@
   },
   {
     "id": 10051,
-
     "groupCode": 1
   },
   {
@@ -758,19 +838,7 @@
     "en": "Would you like to go to a cafe? No, I would like to sleep now",
     "de": "Möchtest du in ein Café gehen? Nein, Ich möchte jetzt schlafen",
     "groupCode": 1
-  },
-  {
-    "id": 10157,
-    "en": "I eat bread by white sausage",
-    "de": "Ich esse Brot mit Weißwurst",
-    "groupCode": 1
-  },
-  {
-    "id": 10158,
-    "en": "The Wine, The Water, The Beer, The Tea, The Milk",
-    "de": "der Wein, das Wasser, das Bier, der Tee, die Milch",
-    "groupCode": 1
-  },
+  }
   {
     "id": 10159,
     "en": "My daughter is very smart",
@@ -781,12 +849,6 @@
     "id": 10160,
     "en": "The food needs more salt and suger",
     "de": "Das Essen braucht mehr Salz und Zucker",
-    "groupCode": 1
-  },
-  {
-    "id": 10161,
-    "en": "The schnitzel is meat. I eat no meat. Where is my salad?",
-    "de": "Das Schnitzel ist Fleisch. Ich esse kein Fleisch. Wo ist mein Salat?",
     "groupCode": 1
   },
   {
@@ -958,13 +1020,7 @@
     "en": "Is the coffee delicious?",
     "de": "Ist der Kaffee lecker?",
     "groupCode": 1
-  },
-  {
-    "id": 10201,
-    "en": "Oh no, the bread and strudel are too delicious",
-    "de": "Oh nein, das Brot und der Strudel sind zu lecker",
-    "groupCode": 1
-  },
+  }
   {
     "id": 10202,
     "en": "The food here is very good",
@@ -1461,12 +1517,6 @@
     "groupCode": 1
   },
   {
-    "id": 10289,
-    "en": "What it may be? A piece of cake and a kaffee, please. Is there anything else?",
-    "de": "Was darf es (darf's) sein? Ein Stück Kuchen und Einen Kaffee, bitte. Sonst noch etwas?",
-    "groupCode": 1
-  },
-  {
     "id": 10290,
     "en": "Ali takes a taxi",
     "de": "Ali nimmt ein Taxi",
@@ -1601,12 +1651,6 @@
     "groupCode": 1
   },
   {
-    "id": 10319,
-    "en": "I have a question, a cat and a fish",
-    "de": "Ich habe eine Frage, eine Katze und einen Fisch",
-    "groupCode": 1
-  },
-  {
     "id": 10320,
     "en": "I'm vegetarian. Do you have vegetarian food?",
     "de": "Ich bin Vegetarier. Haben Sie vegetarisches Essen?",
@@ -1616,18 +1660,6 @@
     "id": 10321,
     "en": "Chicken is meat. I wouldn't like meat",
     "de": "Hähnchen ist Fleisch. Ich möchte kein fleisch",
-    "groupCode": 1
-  },
-  {
-    "id": 10322,
-    "en": "What's in the salad? The salad contains tomatoes, potatoes, fish and meat",
-    "de": "Was ist in dem Salat? In dem Salat sind Tomaten, Kartoffeln, Fisch, Fleisch",
-    "groupCode": 1
-  },
-  {
-    "id": 10323,
-    "en": "I do not eat fish! I'm vegetarian",
-    "de": "Ich esse keinen Fisch! Ich bin vegetarier",
     "groupCode": 1
   },
   {
@@ -1896,12 +1928,6 @@
     "groupCode": 1
   },
   {
-    "id": 10373,
-    "en": "Eight kilos of tomatoes and nine kilos of cheese? What do you cook?",
-    "de": "Acht Kilo Tomaten und neun Kilo Käse? Was kochst du?",
-    "groupCode": 1
-  },
-  {
     "id": 10374,
     "en": "He was nice to me",
     "de": "Er war nett zu mir",
@@ -1977,12 +2003,6 @@
     "id": 10388,
     "en": "It's warm in the summer. It's cold sometimes in the spring. It's cold in the winter",
     "de": "Es ist warm im sommer. Es ist kalt manchmal im Frühling. Es ist kalt im Winter",
-    "groupCode": 1
-  },
-  {
-    "id": 10389,
-    "en": "Do you love your cat or your fish? No, I love my snail and my dog",
-    "de": "Liebst du deine Katze oder deinen Fisch? Nein, Ich liebe meine Schnecke und meinen Hund",
     "groupCode": 1
   },
   {
@@ -2145,12 +2165,6 @@
     "id": 10419,
     "en": "I buy groceries not every day",
     "de": "Ich kaufe Lebensmittel nicht jeden tag",
-    "groupCode": 1
-  },
-  {
-    "id": 10420,
-    "en": "Here is the food enjoy your meal",
-    "de": "Hier ist das Essen Guten Appetit",
     "groupCode": 1
   },
   {
@@ -2801,7 +2815,6 @@
     "de": "Oh nein, der Zug ist zu Spät",
     "groupCode": 1
   },
-
   {
     "id": 10559,
     "en": "Is the train fast?",
@@ -2953,27 +2966,9 @@
     "groupCode": 1
   },
   {
-    "id": 10591,
-    "en": "Good morning! Would you like to drink tea or kaffee?",
-    "de": "Guten Morgen! Möchten Sie Tee oder Kaffee trinken?",
-    "groupCode": 1
-  },
-  {
     "id": 10592,
     "en": "For my son an apple spritzer and for me a glass of red wine",
     "de": "Für meinen Sohn eine Apfelschorle und Für mich ein Glas Rotwein",
-    "groupCode": 1
-  },
-  {
-    "id": 10593,
-    "en": "For you a salad with tomatoes",
-    "de": "Für Sie einen Salat mit Tomaten",
-    "groupCode": 1
-  }
-  {
-    "id": 10595,
-    "en": "I don't eat sugar but I like to eat apple cake",
-    "de": "Ich esse keinen Zucker aber Ich esse gern Apfelkuchen",
     "groupCode": 1
   },
   {
@@ -3010,12 +3005,6 @@
     "id": 10602,
     "en": "Ilia is in the school. It's time for lunch",
     "de": "Ilia ist in der Schule. Es ist Zeit für das Mittagessen",
-    "groupCode": 1
-  },
-  {
-    "id": 10603,
-    "en": "Would you like salad or fries with the fish? I love fries and salad",
-    "de": "Möchtest du mit dem Fisch Salat oder Pommes? Ich liebe Pommes und Salat",
     "groupCode": 1
   },
   {
@@ -3058,12 +3047,6 @@
     "id": 10610,
     "en": "We're paying cash today",
     "de": "Wir zahlen heute bar",
-    "groupCode": 1
-  },
-  {
-    "id": 10611,
-    "en": "I like eating meat. You must buy schnitzel for me",
-    "de": "Ich esse gern Fleisch. Du musst Schnitzel für mich kaufen",
     "groupCode": 1
   },
   {
@@ -3142,12 +3125,6 @@
     "id": 10624,
     "en": "I'm looking for the city museum. Do I have to go right or left?",
     "de": "Ich suche das Stadtmuseum. Muss ich rechts oder links gehen?",
-    "groupCode": 1
-  },
-  {
-    "id": 10625,
-    "en": "Would you like to order the fruit salad or the apple cake",
-    "de": "Möchten Sie den Obstsalat oder den Apfelkuchen bestellen",
     "groupCode": 1
   },
   {
@@ -3647,6 +3624,800 @@
     "id": 10730,
     "en": "I am always thirsty at night",
     "de": "Ich habe nachts immer Durst",
+    "groupCode": 1
+  },
+
+  {
+    "id": 10011,
+    "en": "Why is the glass of water so hot?",
+    "de": "Warum ist das Glas Wasser so heiß?",
+    "groupCode": 1
+  },
+  {
+    "id": 10012,
+    "en": "Say your (polite) name?",
+    "de": "Sagen Sie Ihren Namen?",
+    "groupCode": 1
+  },
+  {
+    "id": 10013,
+    "en": "Who is this? This is ali",
+    "de": "Wer ist das? Das is Ali",
+    "groupCode": 1
+  },
+  {
+    "id": 10014,
+    "en": "zero one two three four five six seven eight nine ten",
+    "de": "null eins zwei drei vier fünf sechs sieben acht neun zehn",
+    "groupCode": 1
+  },
+  {
+    "id": 10015,
+    "en": "Who are you? I am Ali",
+    "de": "Wer bist du? Ich bin Ali",
+    "groupCode": 1
+  },
+  {
+    "id": 10016,
+    "en": "Write down (Note) the telephone numbers",
+    "de": "Notieren Sie die Telefonnummern",
+    "groupCode": 1
+  },
+  {
+    "id": 10017,
+    "en": "Who knows most of the names?",
+    "de": "Wer weiß meisten Namen?",
+    "groupCode": 1
+  },
+  {
+    "id": 10018,
+    "en": "A B C D E F G H I J K L M N O P Q R S T U V W X Y Z",
+    "de": "ah be ce de eh(اِ) ef ge(گِ) ha(ها) ih(ای) jot(یُت) ka el em en oh pe qu(کو) er es te uh(او) vau(فآو) we(وِ) ix ypsilon(اُپسیلُن) zet",
+    "groupCode": 1
+  },
+  {
+    "id": 10019,
+    "en": "Hello, How is it going? It is going fine",
+    "de": "Hallo, wie geht's? Mir geht's super",
+    "groupCode": 1
+  },
+  {
+    "id": 10020,
+    "en": "How are you doing? Thank you, I'm doing well, and you? I'm all right",
+    "de": "Wie geht es dir? (1.Wie geht es Ihnen? 2.Wie geht's?) Dannke, es geht mir gut, und dir? Es geht",
+    "groupCode": 1
+  },
+  {
+    "id": 10022,
+    "en": "Anne goes to her apartment",
+    "de": "Anne geht zu ihrer Wohnung",
+    "groupCode": 1
+  },
+  {
+    "id": 10023,
+    "en": "Can I pay with card? No, it's only cash",
+    "de": "Kann ich mit Karte zahlen? Nein, es geht nur bar",
+    "groupCode": 1
+  },
+  {
+    "id": 10024,
+    "en": "Listen and cross them",
+    "de": "Hören sie und kreuzen sie",
+    "groupCode": 1
+  },
+  {
+    "id": 10025,
+    "en": "Thank you that works",
+    "de": "Danke, Das geht",
+    "groupCode": 1
+  },
+  {
+    "id": 10026,
+    "en": "Hello, How's it going? It's going not so well. It's going badly",
+    "de": "Hallo, wie geht's? Mir geht's nicht so gut. Mir geht's Schlecht",
+    "groupCode": 1
+  },
+  {
+    "id": 10027,
+    "en": "Hello, How's it going? Good and you?",
+    "de": "Hallo, Wie geht's dir? Es geht und dir?",
+    "groupCode": 1
+  },
+  {
+    "id": 10028,
+    "en": "My brother likes to go surfing",
+    "de": "Mein Bruder geht gern surfen",
+    "groupCode": 1
+  },
+  {
+    "id": 10029,
+    "en": "Welcome! I am very pleased too (very Nice to meet you)",
+    "de": "Willkommen! Freut mich sehr auch",
+    "groupCode": 1
+  },
+  {
+    "id": 10030,
+    "en": "Where do your (polite) partner come from?",
+    "de": "Woher kommt Ihr Partner?",
+    "groupCode": 1
+  },
+  {
+    "id": 10031,
+    "en": "Where do you come from?",
+    "de": "Woher kommen Sie?",
+    "groupCode": 1
+  },
+  {
+    "id": 10032,
+    "en": "Where do the persons come from?",
+    "de": "Woher kommen die Personen?",
+    "groupCode": 1
+  },
+  {
+    "id": 10033,
+    "en": "This is bahador. He comes from Istanbul, and you?",
+    "de": "Das ist Bahador. Er kommt aus Istanbul, und du?",
+    "groupCode": 1
+  },
+  {
+    "id": 10034,
+    "en": "Do you come from Syria?",
+    "de": "Kommst du aus Syrien?",
+    "groupCode": 1
+  },
+  {
+    "id": 10035,
+    "en": "This is Pablo. He comes from Spain, from Leon. He now lives in Munich",
+    "de": "Das ist Pablo. Er kommt aus Spanien (اِشپانین), aus Leon. Er wohnt jetzt in München",
+    "groupCode": 1
+  },
+  {
+    "id": 10036,
+    "en": "The men come",
+    "de": "Die Männer kommen",
+    "groupCode": 1
+  },
+  {
+    "id": 10037,
+    "en": "The Switzerland (come from Switzerland)",
+    "de": "Die Schweiz (komme aus der Schweiz) (F)",
+    "groupCode": 1
+  },
+  {
+    "id": 10038,
+    "en": "Do you (polite) come from Germany? ",
+    "de": "Kommen Sie aus Deutschland?",
+    "groupCode": 1
+  },
+  {
+    "id": 10039,
+    "en": "He and she come from Greece",
+    "de": "Er und sie kommen aus Griechenland",
+    "groupCode": 1
+  },
+  {
+    "id": 10040,
+    "en": "Two people come from Spain",
+    "de": "Zwei Leute kommen aus Spanien",
+    "groupCode": 1
+  },
+  {
+    "id": 10041,
+    "en": "Two come from Syria and three from Poland",
+    "de": "Zwei kommen aus Syrien und drei aus Polen",
+    "groupCode": 1
+  },
+  {
+    "id": 10042,
+    "en": "The others come from India",
+    "de": "Die anderen kommen aus Indien",
+    "groupCode": 1
+  },
+  {
+    "id": 10043,
+    "en": "I come from Iran and I speak Persian and I am Persian",
+    "de": "Ich komme aus dem Iran und Ich spreche Persisch und Ich bin Perser/Perserin",
+    "groupCode": 1
+  },
+  {
+    "id": 10044,
+    "en": "I come from France, I speak French, and I am French",
+    "de": "Ich komme aus Frankreich, Ich spreche Französisch und Ich bin Franzose/Französin",
+    "groupCode": 1
+  },
+  {
+    "id": 10045,
+    "en": "I come from Poland, I speak Polish, and I am Polish",
+    "de": "Ich komme aus Polen, Ich spreche Polnisch und Ich bin Pole/Polin",
+    "groupCode": 1
+  },
+  {
+    "id": 10046,
+    "en": "I come from Italy, I speak Italian, and I am Italian",
+    "de": "Ich komme aus Italien, Ich spreche Italienisch und Ich bin Italiener/Italienerin",
+    "groupCode": 1
+  },
+  {
+    "id": 10047,
+    "en": "I come from Portugal, I speak Portuguese, and I am Portuguese",
+    "de": "Ich komme aus Portugal, Ich spreche Portugiesisch und Ich bin Portugiese/Portugiesin",
+    "groupCode": 1
+  },
+  {
+    "id": 10048,
+    "en": "I come from Syria, I speak Arabic, and I am Syrian",
+    "de": "Ich komme aus Syrien, Ich spreche Arabisch und Ich bin Syrer/Syrerin",
+    "groupCode": 1
+  },
+  {
+    "id": 10049,
+    "en": "I come from Greece, I speak Greek, and I am Greek",
+    "de": "Ich komme aus Griechenland, Ich spreche Griechisch und Ich bin Grieche/Griechin",
+    "groupCode": 1
+  },
+  {
+    "id": 10050,
+    "en": "An elegant woman comes to Ali",
+    "de": "Eine elegante Frau kommt zu Ali",
+    "groupCode": 1
+  },
+  {
+    "id": 10051,
+    "en": "We can't come",
+    "de": "Wir können nicht kommen",
+    "groupCode": 1
+  },
+  {
+    "id": 10052,
+    "en": "U-seven and u-eight come on platform ten",
+    "de": "U-Sieben und U-acht kommen auf Gleis zehn",
+    "groupCode": 1
+  },
+  {
+    "id": 10053,
+    "en": "Would you (polite) like to pay in cash?",
+    "de": "Möchten Sie bar zahlen?",
+    "groupCode": 1
+  },
+  {
+    "id": 10054,
+    "en": "What time is your family coming today?",
+    "de": "Wie viel Uhr kommt deine Familie heute?",
+    "groupCode": 1
+  },
+  {
+    "id": 10055,
+    "en": "My girlfriend is from Germany",
+    "de": "Meine Freundin kommt aus Deutschland",
+    "groupCode": 1
+  },
+  {
+    "id": 10056,
+    "en": "Where is your friend from?",
+    "de": "Woher kommt dein Freund?",
+    "groupCode": 1
+  },
+  {
+    "id": 10057,
+    "en": "I am coming in ten minutes",
+    "de": "Ich komme in zehn Minuten",
+    "groupCode": 1
+  },
+  {
+    "id": 10058,
+    "en": "Attention, the train to Bonn comes at seven o'clock",
+    "de": "Achtung, Der Zug nach Bonn kommt um sieben Uhr",
+    "groupCode": 1
+  },
+  {
+    "id": 10059,
+    "en": "You always come too late",
+    "de": "Du kommst immer zu spät",
+    "groupCode": 1
+  },
+  {
+    "id": 10060,
+    "en": "Is the ICE coming at four o'clock? And is the ICE on platform ten?",
+    "de": "Kommt der ICE um vier Uhr? Und ist der ICE auf Gleis zehen?",
+    "groupCode": 1
+  },
+  {
+    "id": 10061,
+    "en": "He arrives twenty minuts too late on platform two",
+    "de": "Er kommt zwanzig Minuten zu spät auf Gleis zwei",
+    "groupCode": 1
+  },
+  {
+    "id": 10062,
+    "en": "The train is not on platform eight. The train comes at two o'clock",
+    "de": "Der Zug ist nicht auf Gleis acht. Der Zug kommt um zwei Uhr",
+    "groupCode": 1
+  },
+  {
+    "id": 10063,
+    "en": "When does bus number fourteen come?",
+    "de": "Wann kommt Bus Nummer vierzehn?",
+    "groupCode": 1
+  },
+  {
+    "id": 10064,
+    "en": "I'm having a party and my friends are coming",
+    "de": "Ich mache eine Party und meine Freunde kommen",
+    "groupCode": 1
+  },
+  {
+    "id": 10065,
+    "en": "I can come tomorrow",
+    "de": "Ich kann morgen kommen",
+    "groupCode": 1
+  },
+  {
+    "id": 10066,
+    "en": "I'm having a party, can you come?",
+    "de": "Ich mache eine Party, kannst du kommen?",
+    "groupCode": 1
+  },
+  {
+    "id": 10067,
+    "en": "We're having a picnic at the weekend. Can you come?",
+    "de": "Wir machen am Wochenende ein picknick. Kannst du kommen?",
+    "groupCode": 1
+  },
+  {
+    "id": 10068,
+    "en": "I am definitely coming",
+    "de": "Ich komme auf jeden Fall",
+    "groupCode": 1
+  },
+  {
+    "id": 10069,
+    "en": "Would you (plural) like to come?",
+    "de": "Möchtet ihr kommen?",
+    "groupCode": 1
+  },
+  {
+    "id": 10070,
+    "en": "You definitely have to come to the party",
+    "de": "Du musst auf jeden Fall zur Party kommen",
+    "groupCode": 1
+  },
+  {
+    "id": 10071,
+    "en": "We are coming on the second of April",
+    "de": "Wir kommen am zweiten April",
+    "groupCode": 1
+  },
+  {
+    "id": 10072,
+    "en": "Where are you celebrating your birthday? At home! Are you coming?",
+    "de": "Wo feierst du deinen Geburtstag? Zu Hause! Kommst du?",
+    "groupCode": 1
+  },
+  {
+    "id": 10073,
+    "en": "Are you (plural) coming to the party too?",
+    "de": "Kommt ihr auch zur Party?",
+    "groupCode": 1
+  },
+  {
+    "id": 10074,
+    "en": "Are you coming to the party later?",
+    "de": "Kommt ihr später zur Party?",
+    "groupCode": 1
+  },
+  {
+    "id": 10075,
+    "en": "The train always comes too late",
+    "de": "Der Zug kommt immer zu spät",
+    "groupCode": 1
+  },
+  {
+    "id": 10076,
+    "en": "Then close your (polite) books",
+    "de": "Schließen Sie dann Ihre Bücher",
+    "groupCode": 1
+  },
+  {
+    "id": 10077,
+    "en": "What else do you (polite) know?",
+    "de": "Was wissen sie noch?",
+    "groupCode": 1
+  },
+  {
+    "id": 10078,
+    "en": "Write down (Note) the names",
+    "de": "Notieren Sie die Namen",
+    "groupCode": 1
+  },
+  {
+    "id": 10079,
+    "en": "How old are you? (plural) He is 28 years old and she is also 28",
+    "de": "Wie alt seid ihr? Er ist 28 Jahre alt und Sie ist auch 28",
+    "groupCode": 1
+  },
+  {
+    "id": 10080,
+    "en": "Do you (plural) live together? Yes, we live together but we are not married",
+    "de": "Lebt ihr zusammen? Ja, wir leben zusammen aber wir sind nicht verheiratet",
+    "groupCode": 1
+  },
+  {
+    "id": 10081,
+    "en": "He/She is a parcel deliverer and works at HotSped",
+    "de": "Er/Sie ist Paketzusteller/Paketzustellerin und arbeitet bei HotSped",
+    "groupCode": 1
+  },
+  {
+    "id": 10082,
+    "en": "We live in Munich and We have no children",
+    "de": "Wir wohnen in Munchen und Wir haben keine Kinder",
+    "groupCode": 1
+  },
+  {
+    "id": 10083,
+    "en": "We are not divorced and we have a child",
+    "de": "Wir sind nicht geschieden und wir haben ein kind",
+    "groupCode": 1
+  },
+  {
+    "id": 10084,
+    "en": "I am single and I live alone",
+    "de": "Ich bin Single und ich lebe allein",
+    "groupCode": 1
+  },
+  {
+    "id": 10085,
+    "en": "France is hot",
+    "de": "Frankreich ist heiß",
+    "groupCode": 1
+  },
+  {
+    "id": 10086,
+    "en": "Turkey (come from Turkey)",
+    "de": "Die Türkei (komme aus der Türkei)",
+    "groupCode": 1
+  },
+  {
+    "id": 10087,
+    "en": "Sweden (come from Sweden)",
+    "de": "Die Schweden (komme aus der Schweden)",
+    "groupCode": 1
+  },
+  {
+    "id": 10088,
+    "en": "The USA (come from USA)",
+    "de": "Die USA (komme aus den USA)",
+    "groupCode": 1
+  },
+  {
+    "id": 10089,
+    "en": "IRAN (come from Iran)",
+    "de": "Der Iran (komme aus dem iran)",
+    "groupCode": 1
+  },
+  {
+    "id": 10104,
+    "en": "the picture is so beautiful",
+    "de": "das Bild ist so schön",
+    "groupCode": 1
+  },
+  {
+    "id": 10105,
+    "en": "Ali shows Ilia the picture",
+    "de": "Ali zeigt Ilia das Bild",
+    "groupCode": 1
+  },
+  {
+    "id": 10106,
+    "en": "Have a nice day, Luis! You too!",
+    "de": "Schönen Tag, Ali! Dir auch!",
+    "groupCode": 1
+  },
+  {
+    "id": 10107,
+    "en": "Have a nice day, Mr. Garcia! You too!",
+    "de": "Schönen Tag, Hr. Garcia! Ihnen auch!",
+    "groupCode": 1
+  },
+  {
+    "id": 10108,
+    "en": "Bye, have a nice weekend",
+    "de": "Tschüss, Schönes Wochenende",
+    "groupCode": 1
+  },
+  {
+    "id": 10109,
+    "en": "Is French easy or difficult? It's beautiful but difficult",
+    "de": "Ist Französisch einfach oder schwer? Es ist schön, aber schwer",
+    "groupCode": 1
+  },
+  {
+    "id": 10110,
+    "en": "Thank you Ms. Dumitru. Hope to see you",
+    "de": "Danke schön, Frau Dumitru. Auf Wiedersehen",
+    "groupCode": 1
+  },
+  {
+    "id": 10111,
+    "en": "Thank you very much, Your welcome",
+    "de": "Vielen Dank, Bitte schön",
+    "groupCode": 1
+  },
+  {
+    "id": 10112,
+    "en": "Is Vienna big, old, beautiful and cool?",
+    "de": "Ist Wien groß, alt, schön und cool?",
+    "groupCode": 1
+  },
+  {
+    "id": 10113,
+    "en": "He has very beautiful shoes",
+    "de": "Er hat sehr schöne Schuhe",
+    "groupCode": 1
+  },
+  {
+    "id": 10114,
+    "en": "He's in a beautiful restaurant",
+    "de": "Er ist in einem schönen Restaurant",
+    "groupCode": 1
+  },
+  {
+    "id": 10115,
+    "en": "The shirt here is nice and cheap",
+    "de": "Das Hemd hier ist schön und bilig",
+    "groupCode": 1
+  },
+  {
+    "id": 10116,
+    "en": "The weather in autumn is fine, but it's often cold",
+    "de": "Das wetter im Herbst ist schön, aber es ist oft kalt",
+    "groupCode": 1
+  },
+  {
+    "id": 10117,
+    "en": "The entrance ticket is (not) expensive",
+    "de": "Die Eintrittskarte ist (nicht) teuer",
+    "groupCode": 1
+  },
+  {
+    "id": 10118,
+    "en": "The violin is very inexpensive",
+    "de": "Die Geige ist sehr günstig",
+    "groupCode": 1
+  },
+  {
+    "id": 10119,
+    "en": "Der Kaffee here is inexpensive, but that over is expensive and old-fashioned",
+    "de": "Der Kaffee hier ist günstig, aber das da ist teuer und altmodisch",
+    "desc": "Hip is stylish, trendy, or fashionable",
+    "groupCode": 1
+  },
+  {
+    "id": 10120,
+    "en": "Tehran is of course expensive",
+    "de": "Tehran ist Natürlich teuer",
+    "groupCode": 1
+  },
+  {
+    "id": 10122,
+    "en": "Is food expensive?",
+    "de": "Ist Essen teuer?",
+    "groupCode": 1
+  },
+  {
+    "id": 10123,
+    "en": "The coffee is too cheap",
+    "de": "Der Kaffee ist zu bilig",
+    "groupCode": 1
+  },
+  {
+    "id": 10124,
+    "en": "The table is ugly",
+    "de": "Der Tisch ist hässlich",
+    "groupCode": 1
+  },
+  {
+    "id": 10125,
+    "en": "Your sweater is ugly",
+    "de": "Dein Pullover ist hässlich",
+    "groupCode": 1
+  },
+  {
+    "id": 10126,
+    "en": "The shirt is so ugly. Oh yes, I alse agree (I find it also)",
+    "de": "Das Hemd ist so hässlich. Oh ja, Das finde ich auch",
+    "groupCode": 1
+  },
+  {
+    "id": 10127,
+    "en": "The black jacket is very warm and cheap",
+    "de": "Die schwarze Jacke ist sehr warm und billig",
+    "groupCode": 1
+  },
+  {
+    "id": 10128,
+    "en": "In a cheap restaurant",
+    "de": "In einem billigen Restaurant",
+    "groupCode": 1
+  },
+  {
+    "id": 10129,
+    "en": "You (polite) are lucky",
+    "de": "Sie haben Glück",
+    "groupCode": 1
+  },
+  {
+    "id": 10130,
+    "en": "This is a special offer",
+    "de": "Das ist ein sonderangebot",
+    "groupCode": 1
+  },
+  {
+    "id": 10131,
+    "en": "The chair is modern",
+    "de": "Der Stuhl ist modern",
+    "groupCode": 1
+  },
+  {
+    "id": 10132,
+    "en": "Do my friends have a chair and a table?",
+    "de": "Haben meine Freunde einen Stuhl und einen Tisch?",
+    "groupCode": 1
+  },
+  {
+    "id": 10133,
+    "en": "we need a table and a chair",
+    "de": "Wir brauchen einen Tisch und einen Stuhl",
+    "groupCode": 1
+  },
+  {
+    "id": 10134,
+    "en": "Who has a chair?",
+    "de": "Wer hat einen Stuhl?",
+    "groupCode": 1
+  },
+  {
+    "id": 10135,
+    "en": "I don't like the bed and bookcase",
+    "de": "Ich mag das Bett und das Bücherregal nicht",
+    "groupCode": 1
+  },
+  {
+    "id": 10136,
+    "en": "I like my bedroom. The bed is comfortable and the bookcase is perfect",
+    "de": "Ich mag mein Schlafzimmer. Das bett ist bequem und das Bucherregal ist perfekt",
+    "groupCode": 1
+  },
+  {
+    "id": 10137,
+    "en": "My bed is not comfortable and I don't sleep much",
+    "de": "Mein Bett ist nicht bequem und ich schlafe nicht viel",
+    "groupCode": 1
+  },
+  {
+    "id": 10138,
+    "en": "The apartment is dark. We need a lamp",
+    "de": "Die Wohnung ist dunkel. Wir brauchen eine Lampe",
+    "groupCode": 1
+  },
+  {
+    "id": 10139,
+    "en": "Who likes the lamp?",
+    "de": "Wer mag die Lampe?",
+    "groupCode": 1
+  },
+  {
+    "id": 10140,
+    "en": "Look at the couch. It is so beautiful",
+    "de": "Schau (doch) mal, die Couch. Sie ist so schön",
+    "groupCode": 1
+  },
+  {
+    "id": 10141,
+    "en": "Look at the armchair. It is so cheap",
+    "de": "Schau (doch) mal, der Sessel. Er ist so günstig",
+    "groupCode": 1
+  },
+  {
+    "id": 10142,
+    "en": "Look at the shelf. It's so cheap",
+    "de": "Schau (doch) mal, das Regal. Es ist so billig",
+    "groupCode": 1
+  },
+  {
+    "id": 10143,
+    "en": "How much do four tickets cost?",
+    "de": "Wie viel kosten vier Fahrkarten?",
+    "groupCode": 1
+  },
+  {
+    "id": 10144,
+    "en": "At what time is your appointment? My appointment is at four o'clock",
+    "de": "Um wie viel Uhr ist ihr (polite) termin? Mein Termin is um schzehn Uhr",
+    "groupCode": 1
+  },
+  {
+    "id": 10145,
+    "en": "A plane ticket to Barcelona, please. How much does a plane ticket cost?",
+    "de": "Ein Flugticket nach Barcelona, bitte. Wie viel kostet ein Flugticket?",
+    "groupCode": 1
+  },
+  {
+    "id": 10146,
+    "en": "How much does that cost? That costs one euro",
+    "de": "Wie viel kostet das? Das kostet einen Euro",
+    "groupCode": 1
+  },
+  {
+    "id": 10147,
+    "en": "How much does an apple spritzer cost and a cola?",
+    "de": "Wie viel kostet eine Apfelschorle und eine Cola?",
+    "groupCode": 1
+  },
+  {
+    "id": 10148,
+    "en": "How much does eight kilos of strawberries cost?",
+    "de": "Wie viel kostet acht Kilo Erdbeeren?",
+    "groupCode": 1
+  },
+  {
+    "id": 10149,
+    "en": "How much? The coffee really costs five euros",
+    "de": "Wie viel? Der Kaffee kostet wirklich fünf Euro",
+    "groupCode": 1
+  },
+  {
+    "id": 10150,
+    "en": "The closet is cool. Do you like the closet?",
+    "de": "Der Schrank ist cool. Magst du den Schrank?",
+    "groupCode": 1
+  },
+  {
+    "id": 10151,
+    "en": "I like the desk, but I don't like the carpet",
+    "de": "Ich mag den Schreibtisch, aber ich mag den Teppich nicht",
+    "groupCode": 1
+  },
+  {
+    "id": 10152,
+    "en": "Why is the table so modern?",
+    "de": "Warum ist der Tisch so modern?",
+    "groupCode": 1
+  },
+  {
+    "id": 10153,
+    "en": "I buy the sofa",
+    "de": "Ich kaufe das Sofa",
+    "groupCode": 1
+  },
+  {
+    "id": 10154,
+    "en": "Here is your (polite) table",
+    "de": "Hier ist Ihr Tisch",
+    "groupCode": 1
+  },
+  {
+    "id": 10155,
+    "en": "I like the table",
+    "de": "Ich mag den Tisch",
+    "groupCode": 1
+  },
+  {
+    "id": 10156,
+    "en": "The bedroom is very bright",
+    "de": "Das Schlafzimmer ist sehr hell",
+    "groupCode": 1
+  },
+  {
+    "id": 10157,
+    "en": "Where is the bathroom?",
+    "de": "Wo ist das Badezimmer?",
+    "groupCode": 1
+  },
+  {
+    "id": 10158,
+    "en": "Do you like the bedroom or not?",
+    "de": "Magst du das Schlafzimmer oder nicht?",
     "groupCode": 1
   }
 ]
