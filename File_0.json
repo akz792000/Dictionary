@@ -5767,7 +5767,7 @@
   {
     "id": 951,
     "fa": "این تلفظ می شود دقیقاً برعکس آنچه قبلاً داشتیم",
-    "en": "This is pronounced exactly the opposite way from what we had before",
+    "en": "\n 1.This is pronounced exactly the opposite way from what we had before \n 2.This is pronounced exactly the other way around from what we had before",
     "groupCode": 0
   },
   {
@@ -7791,7 +7791,7 @@
   },
   {
     "id": 1283,
-    "fa": "ما آن را به دل گرفتیم و به راه حل های مناسب فکر کردیم",
+    "fa": "ما به دل گرفتیمش و به راه حل های مناسب فکر کردیم",
     "en": "We took it to heart and thought about appropriate solutions",
     "desc": "\n\"Take it to heart\" is an idiomatic expression that means to take something very seriously or personally, often with strong emotional impact",
     "groupCode": 0

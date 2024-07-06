@@ -5794,7 +5794,7 @@
   },
   {
     "id": 2955,
-    "fa": "من به تصمیمم (گذشته) نگاه کردم و متوجه شدم اشتباه کردم",
+    "fa": "من به تصمیمم (گذشته) نگاه کردم و پی بردم اشتباه کردم",
     "en": "I looked back on my decision and realized I was wrong",
     "groupCode": 0
   },
@@ -5812,13 +5812,13 @@
   },
   {
     "id": 2958,
-    "fa": "همین الان, دارم عینک میزنم چون زودتر عینک زدم",
+    "fa": "همین الان, من دارم عینک میزنم چون من زودتر اون رو (عینک) زدم",
     "en": "Right now, I'm wearing glasses because earlier I put them on",
     "groupCode": 0
   },
   {
     "id": 2959,
-    "fa": "چرا این کار برای مدت طولانی به تعویق انداختم؟",
+    "fa": "چرا این را برای مدت طولانی به تعویق انداختم؟",
     "en": "Why did I put this off for so long?",
     "groupCode": 0
   },
@@ -5830,9 +5830,9 @@
   },
   {
     "id": 2961,
-    "fa": "نگران نباش, وقتی بیرون رفتم آن را می پوشم",
+    "fa": "نگران نباش, آن را خواهم پوشید وقتی بیرون میروم",
     "en": "Don't worry, I'll put it on when I go outside",
-    "desc": "Put (something) on: to put something on your body / face",
+    "desc": "\n 1.Put (something) on: to put something on your body / face \n 2.In English, after \"when,\" \"if,\" \"before,\" \"after,\" \"while,\" \"until,\" \"once,\" and similar conjunctions, we use the simple present tense to refer to future actions. So, \"when I go outside\" is correct.",
     "groupCode": 0
   },
   {
@@ -5843,7 +5843,7 @@
   },
   {
     "id": 2963,
-    "fa": "او (زن) همیشه تکالیفش را تا آخرین لحظه به تعویق می انداخت",
+    "fa": "او (زن) همیشه تکالیفش را تا آخرین دقیقه به تعویق می انداخت",
     "en": "She always puts off her homework until the last minute",
     "groupCode": 0
   },
@@ -5863,6 +5863,90 @@
     "id": 2966,
     "fa": "آنها توسط افراد مسلح نقابدار به اسارت گرفته شدند",
     "en": "They were taken captive by masked gunman",
+    "groupCode": 0
+  },
+  {
+    "id": 2967,
+    "fa": "ارزش یک بار امتحان را دارد",
+    "en": "It's worth a try",
+    "groupCode": 0
+  },
+  {
+    "id": 2968,
+    "fa": "من چاک کونم خارش دارم",
+    "en": "I've got a rash in my ass crack",
+    "groupCode": 0
+  },
+  {
+    "id": 2969,
+    "fa": "من طولش نخواهم داد",
+    "en": "I won't be long",
+    "groupCode": 0
+  },
+  {
+    "id": 2970,
+    "fa": "کدام برنامه Algolia داره استفاده می شه؟",
+    "en": "Which Algolia app is being used?",
+    "groupCode": 0
+  },
+  {
+    "id": 2971,
+    "fa": "به من گفتند قرار (قصد) بود یک صحنه بوسیدن وجود داشته باشد",
+    "en": "I was told there was going to be a kissing scene",
+    "groupCode": 0
+  },
+  {
+    "id": 2972,
+    "fa": "من چیزی برای خوردن ندارم",
+    "en": "I don't have anything left to eat",
+    "groupCode": 0
+  },
+  {
+    "id": 2973,
+    "fa": "برادرم و من کاملا با هم خوب هستیم",
+    "en": "My brother and I get along quite well",
+    "groupCode": 0
+  },
+  {
+    "id": 2974,
+    "fa": "من همیشه با او (زن) کنار آمده ام. از آن رو است که ما بسیار نزدیک هستیم",
+    "en": "I've always gotten along with her. That's why we're so close",
+    "groupCode": 0
+  },
+  {
+    "id": 2975,
+    "fa": "او (مرد) ژاکت را امتحان کرد اما دوستش نداشت",
+    "en": "He tried on the sweater but he didn't like it",
+    "groupCode": 0
+  },
+  {
+    "id": 2976,
+    "fa": "او (مرد) در طول ده سالی که به عنوان مدیر منطقه ای فعالیت می کرد، زحمات زیادی کشید",
+    "en": "He put in a lot of hard work during his ten years as regional manager",
+    "groupCode": 0
+  },
+  {
+    "id": 2977,
+    "fa": "این خواننده (زن) انرژی و اشتیاق زیادی در اجراهایش می گذارد",
+    "en": "The singer puts a lot of energy and enthusiasm in her performances",
+    "groupCode": 0
+  },
+  {
+    "id": 2978,
+    "fa": "اگر می خواهید افعال عبارتی را یاد بگیرید، باید تلاش زیادی را وارد کنید",
+    "en": "If you want to learn phrasal verbs, you have to put in a lot of effort",
+    "groupCode": 0
+  },
+  {
+    "id": 2979,
+    "fa": "افعال امری جایی برای پرسش یا بحث باقی نمی گذارند",
+    "en": "Imperative verbs don't leave room for questions or discussion",
+    "groupCode": 0
+  },
+  {
+    "id": 2980,
+    "fa": "برچسب بازگشتی را برش دهید و بچسبانیدش روی قسمت بیرونی بسته بازگشتی",
+    "en": "Cut out the return label and stick it on the outside of the return package",
     "groupCode": 0
   }
 ]
