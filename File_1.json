@@ -5807,7 +5807,7 @@
   {
     "id": 2957,
     "fa": "به زودی, کارم را رها خواهم کرد و هرگز به عقب نگاه نخواهم کرد",
-    "en": "Soon, I'll quit my job and I'll never look back",
+    "en": "Soon, I'll quit my job and never look back",
     "groupCode": 0
   },
   {
@@ -5843,7 +5843,7 @@
   },
   {
     "id": 2963,
-    "fa": "او (زن) همیشه تکالیفش را تا آخرین دقیقه به تعویق می انداخت",
+    "fa": "او (زن) همیشه تکالیفش را تا آخرین دقیقه به تعویق می اندازد",
     "en": "She always puts off her homework until the last minute",
     "groupCode": 0
   },
@@ -5897,7 +5897,7 @@
   },
   {
     "id": 2972,
-    "fa": "من چیزی برای خوردن ندارم",
+    "fa": "من هیچی باقی برای خوردن ندارم",
     "en": "I don't have anything left to eat",
     "groupCode": 0
   },
@@ -5921,7 +5921,7 @@
   },
   {
     "id": 2976,
-    "fa": "او (مرد) در طول ده سالی که به عنوان مدیر منطقه ای فعالیت می کرد، زحمات زیادی کشید",
+    "fa": "او (مرد) زحمات زیادی بکار بست در طول ده سالش به عنوان مدیر منطقه ای",
     "en": "He put in a lot of hard work during his ten years as regional manager",
     "groupCode": 0
   },
@@ -5939,14 +5939,26 @@
   },
   {
     "id": 2979,
-    "fa": "افعال امری جایی برای پرسش یا بحث باقی نمی گذارند",
-    "en": "Imperative verbs don't leave room for questions or discussion",
+    "fa": "افعال امری جایی باقی نمی گذارند برای پرسش ها یا بحث ها",
+    "en": "Imperative verbs don't leave room for questions or discussions",
     "groupCode": 0
   },
   {
     "id": 2980,
     "fa": "برچسب بازگشتی را برش دهید و بچسبانیدش روی قسمت بیرونی بسته بازگشتی",
     "en": "Cut out the return label and stick it on the outside of the return package",
+    "groupCode": 0
+  },
+  {
+    "id": 2981,
+    "fa": "در نهایت, ما برگشتیم",
+    "en": "In the end, we got back",
+    "groupCode": 0
+  },
+  {
+    "id": 2982,
+    "fa": "در پایان سفر, واقعا خسته بودم",
+    "en": "At the end of the trip, I was really tired",
     "groupCode": 0
   }
 ]
