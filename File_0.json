@@ -7532,6 +7532,7 @@
     "id": 1240,
     "fa": "چی فکر می کنی در موردش تا الان؟",
     "en": "What do you think about it so far?",
+    "desc": "\"What do you think of it?\"\n\nAsking for an opinion or impression.\nExample: \"What do you think of the cake?\"\n\"What do you think about it?\"\n\nAsking for a detailed or considered opinion.\nExample: \"What do you think about the new plan?\"",
     "groupCode": 0
   },
   {
@@ -10873,6 +10874,7 @@
     "id": 1792,
     "fa": "از او (مرد) نشنیدم برای یک زمان زیادی",
     "en": "I haven't heard from him for a long time",
+    "desc": "\"I haven't heard of him\":\n\nMeaning: You are not aware of who he is; you have no knowledge about this person.\nExample: \"Who is John Smith? I haven't heard of him.\"\n\"I haven't heard from him\":\n\nMeaning: You have not received any communication from him.\nExample: \"John was supposed to call me yesterday, but I haven't heard from him.\"",
     "groupCode": 0
   },
   {

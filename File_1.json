@@ -443,6 +443,7 @@
     "id": 2074,
     "fa": "چه اندازه ماشینی (فرضی) دوست دارید؟",
     "en": "What size car would you like?",
+    "desc": "Adjective-Noun Order: In English, adjectives usually come before the nouns they modify. In this case, \"size\" is an adjective describing the noun \"car.",
     "groupCode": 0
   },
   {
@@ -5921,7 +5922,7 @@
   },
   {
     "id": 2976,
-    "fa": "او (مرد) زحمات زیادی بکار بست در طول ده سالش به عنوان مدیر منطقه ای",
+    "fa": "او (مرد) کار سخت زیاد بکار بست در طول ده سالش به عنوان مدیر منطقه ای",
     "en": "He put in a lot of hard work during his ten years as regional manager",
     "groupCode": 0
   },
@@ -5959,6 +5960,54 @@
     "id": 2982,
     "fa": "در پایان سفر, واقعا خسته بودم",
     "en": "At the end of the trip, I was really tired",
+    "groupCode": 0
+  },
+  {
+    "id": 2983,
+    "fa": "پس از تجربه یک گلودرد مداوم، من از کشف آن شگفت زده شدم یک سنگ لوزه مقصر بود",
+    "en": "After experiencing a persistent sore throat, I was surprised to discover that a tonsil stone was the culprit",
+    "groupCode": 0
+  },
+  {
+    "id": 2984,
+    "fa": "این تی شرت حداکثر تا 25 تیرماه تحویل خواهد شد",
+    "en": "The T-shirt will be delivered by July 16 at the latest",
+    "groupCode": 0
+  },
+  {
+    "id": 2985,
+    "fa": "دومی می تواند به پایین منتقل شود",
+    "en": "The second one can be moved to the bottom",
+    "groupCode": 0
+  },
+  {
+    "id": 2986,
+    "fa": "با تشکر از همه کسانی که این رویداد را جمع آوری کردند",
+    "en": "Kudos to everyone who put the event together",
+    "groupCode": 0
+  },
+  {
+    "id": 2987,
+    "fa": "آرشیو پر از عکس ها و نامه ها بود",
+    "en": "The archive was full of photos and letters",
+    "groupCode": 0
+  },
+  {
+    "id": 2988,
+    "fa": "او (زن) داره از شوهرش شکایت می کنه به چه دلیلی؟",
+    "en": "She is suing her husband on what grounds?",
+    "groupCode": 0
+  },
+  {
+    "id": 2989,
+    "fa": "اگر می توانستی به غیر از خودت یک نفر باشی، کی می شدی؟",
+    "en": "If you could be one person besides yourself, who would you be?",
+    "groupCode": 0
+  },
+  {
+    "id": 2990,
+    "fa": "من برای ناهار به آشپزخانه می روم چون هنوز (چیزی) نخورده ام. اگر دوست داری, می توانی به من بپیوندی",
+    "en": "I'm heading to the kitchen for lunch because I haven't eaten yet. If you like, you can join me",
     "groupCode": 0
   }
 ]
