@@ -4675,7 +4675,7 @@
   },
   {
     "id": 2773,
-    "fa": "همه لباسه ای قدیمی ام (کهنه ام) را بخشیدم",
+    "fa": "همه لباسه ای قدیمی ام (کهنه ام) را بخشیدم (دادم رفت)",
     "en": "I gave all my old clothes away",
     "desc": "\n\"I gave all my old clothes away\": Indicates giving away every piece of old clothing.\n\"I gave all of my old clothes away\": Emphasizes the completeness of the action, suggesting every single item was given away.",
     "groupCode": 0
@@ -5970,7 +5970,7 @@
   },
   {
     "id": 2984,
-    "fa": "این تی شرت حداکثر تا 25 تیرماه تحویل خواهد شد",
+    "fa": "این تی شرت حداکثر تا 16 جولای تحویل خواهد شد",
     "en": "The T-shirt will be delivered by July 16 at the latest",
     "groupCode": 0
   },
@@ -5982,7 +5982,7 @@
   },
   {
     "id": 2986,
-    "fa": "با تشکر از همه کسانی که این رویداد را جمع آوری کردند",
+    "fa": "(کودو) با تشکر از همه کسانی که این رویداد را گرد هم آورده اند",
     "en": "Kudos to everyone who put the event together",
     "groupCode": 0
   },
@@ -6000,7 +6000,7 @@
   },
   {
     "id": 2989,
-    "fa": "اگر می توانستی به غیر از خودت یک نفر باشی، کی می شدی؟",
+    "fa": "اگر می توانستی به غیر از خودت یک نفر (شخص) باشی، کی می شدی؟",
     "en": "If you could be one person besides yourself, who would you be?",
     "groupCode": 0
   },
@@ -6008,6 +6008,127 @@
     "id": 2990,
     "fa": "من برای ناهار به آشپزخانه می روم چون هنوز (چیزی) نخورده ام. اگر دوست داری, می توانی به من بپیوندی",
     "en": "I'm heading to the kitchen for lunch because I haven't eaten yet. If you like, you can join me",
+    "groupCode": 0
+  },
+  {
+    "id": 2991,
+    "fa": "ساخت چین است",
+    "en": "It's made in China",
+    "groupCode": 0
+  },
+  {
+    "id": 2992,
+    "fa": "من برای تولدم هدیه گرفتم",
+    "en": "I got a present for my birthday",
+    "groupCode": 0
+  },
+  {
+    "id": 2993,
+    "fa": "دیروز ایمیلم رو گرفتی؟",
+    "en": "Did you get my email yesterday?",
+    "groupCode": 0
+  },
+  {
+    "id": 2994,
+    "fa": "من از معلمم توصیه های واقعا خوبی گرفتم",
+    "en": "I got some really good advice from my teacher",
+    "groupCode": 0
+  },
+  {
+    "id": 2995,
+    "fa": "میتوانم یک لیوان آب بگیرم, لطفا؟",
+    "en": "Can I get a glass of water, please?",
+    "groupCode": 0
+  },
+  {
+    "id": 2996,
+    "fa": "من باید این را بنویسم. یک ثانیه, بگذار یک خودکار بگیرم",
+    "en": "I need to write this down. One second, let me get a pen",
+    "groupCode": 0
+  },
+  {
+    "id": 2997,
+    "fa": "میخوای چیزی برات بگیرم؟",
+    "en": "Do you want me to get you anything?",
+    "groupCode": 0
+  },
+  {
+    "id": 2998,
+    "fa": "این بازیگر (مرد) برای بازی خود جایزه گرفت",
+    "en": "The actor got an award for his performance",
+    "groupCode": 0
+  },
+  {
+    "id": 2999,
+    "fa": "من امیدوارم تیم محبوبم مقام اول مسابقات را بگیرد (خواهد گرفت)",
+    "en": "I hope my favorite team will get first place in the competition",
+    "groupCode": 0
+  },
+  {
+    "id": 3000,
+    "fa": "نوجوان فلوریدا گرفت یک سال در زندان برای جعل هویت یک کارمند بهداشتی",
+    "en": "Florida teen gets a year in jail for impersonating a health worker",
+    "groupCode": 0
+  },
+  {
+    "id": 3001,
+    "fa": "از غذای آن رستوران مسمومیت غذایی گرفتم. من دیگر هرگز آنجا نمی روم",
+    "en": "I got food poisoning from the food at that restaurant. I'm never going there again",
+    "groupCode": 0
+  },
+  {
+    "id": 3002,
+    "fa": "تو باید کمی بخوابی چون دیر شده",
+    "en": "You should get some sleep because it's getting late",
+    "groupCode": 0
+  },
+  {
+    "id": 3003,
+    "fa": "بیرون داره سرد میشه",
+    "en": "\n 1.It's getting cold outside \n 2.It's becoming cold outside",
+    "groupCode": 0
+  },
+  {
+    "id": 3004,
+    "fa": "او (مرد) خیلی راحت عصبانی می شود",
+    "en": "\n 1.He gets angry very easily \n 2.He becomes angry very easily",
+    "groupCode": 0
+  },
+  {
+    "id": 3005,
+    "fa": "فکر می کنید خواننده های معروف هنوز روی صحنه عصبی می شوند؟",
+    "en": "Do you think famous singers still get nervous on stage?",
+    "groupCode": 0
+  },
+  {
+    "id": 3006,
+    "fa": "من هنوز آماده نیستم اما من باید آماده شوم",
+    "en": "I'm not ready yet but I have to get ready",
+    "desc": "",
+    "groupCode": 0
+  },
+  {
+    "id": 3007,
+    "fa": "Be یک حالت را توصیف می کند و Get یک عمل را توصیف می کند",
+    "en": "Be describes a state and Get describes an action",
+    "groupCode": 0
+  },
+  {
+    "id": 3008,
+    "fa": "در سال 1987, پدر و مادرم ازدواج نکرده بودند. آنها مجرد بودند. پدر و مادرم در سال 1988 ازدواج کردند",
+    "en": "In 1987, my parents we not married. They were single. My parents got married in 1988",
+    "groupCode": 0
+  },
+  {
+    "id": 3009,
+    "fa": "هیچ چیز به اندازه میهن پرستی به انسان قدرت نمی دهد",
+    "en": "Nothing empowers man more than patriotism",
+    "groupCode": 0
+  },
+  {
+    "id": 3010,
+    "fa": "آن مکان چند تا سرسره دارد؟",
+    "en": "How many slides does that place have?",
     "groupCode": 0
   }
 ]
