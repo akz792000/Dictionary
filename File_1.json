@@ -5434,6 +5434,7 @@
     "id": 2897,
     "fa": "او (مرد) آبله مرغان گرفته",
     "en": "He has got chicken pox",
+    "desc": "In English, \"fever\" is a countable noun when referring to an instance of the condition, hence \"a fever\" is correct. On the other hand, \"chicken pox\" is treated as an uncountable noun referring to the disease in general, so we do not use an article.",
     "groupCode": 0
   },
   {
@@ -5964,7 +5965,7 @@
   },
   {
     "id": 2983,
-    "fa": "پس از تجربه یک گلودرد مداوم، من از کشف آن شگفت زده شدم یک سنگ لوزه مقصر بود",
+    "fa": "پس از تجربه یک گلودرد مداوم، من شگفت زده شدم از کشف که یک سنگ لوزه مقصر بود",
     "en": "After experiencing a persistent sore throat, I was surprised to discover that a tonsil stone was the culprit",
     "groupCode": 0
   },
@@ -5994,7 +5995,7 @@
   },
   {
     "id": 2988,
-    "fa": "او (زن) داره از شوهرش شکایت می کنه به چه دلیلی؟",
+    "fa": "او (زن) داره از شوهرش شکایت می کنه بر چه زمینه هایی؟",
     "en": "She is suing her husband on what grounds?",
     "groupCode": 0
   },
@@ -6006,7 +6007,7 @@
   },
   {
     "id": 2990,
-    "fa": "من برای ناهار به آشپزخانه می روم چون هنوز (چیزی) نخورده ام. اگر دوست داری, می توانی به من بپیوندی",
+    "fa": "من دارم برای ناهار به آشپزخانه می روم چون هنوز (چیزی) نخورده ام. اگر دوست داری, می توانی به من بپیوندی",
     "en": "I'm heading to the kitchen for lunch because I haven't eaten yet. If you like, you can join me",
     "groupCode": 0
   },
@@ -6030,8 +6031,9 @@
   },
   {
     "id": 2994,
-    "fa": "من از معلمم توصیه های واقعا خوبی گرفتم",
+    "fa": "من از معلمم بعضی توصیه های واقعا خوبی گرفتم",
     "en": "I got some really good advice from my teacher",
+    "desc": "The word \"advice\" is an uncountable noun in English, so it does not have a plural form",
     "groupCode": 0
   },
   {
@@ -6042,32 +6044,32 @@
   },
   {
     "id": 2996,
-    "fa": "من باید این را بنویسم. یک ثانیه, بگذار یک خودکار بگیرم",
+    "fa": "من نیاز دارم این را بنویسم. یک ثانیه, بگذار یک خودکار بگیرم",
     "en": "I need to write this down. One second, let me get a pen",
     "groupCode": 0
   },
   {
     "id": 2997,
-    "fa": "میخوای چیزی برات بگیرم؟",
+    "fa": "از من میخوای برات هر چیزی بگیرم؟",
     "en": "Do you want me to get you anything?",
     "groupCode": 0
   },
   {
     "id": 2998,
-    "fa": "این بازیگر (مرد) برای بازی خود جایزه گرفت",
+    "fa": "این هنرپیشه (مرد) برای بازی خود یک جایزه گرفت",
     "en": "The actor got an award for his performance",
     "groupCode": 0
   },
   {
     "id": 2999,
-    "fa": "من امیدوارم تیم محبوبم مقام اول مسابقات را بگیرد (خواهد گرفت)",
+    "fa": "من امیدوارم تیم محبوبم مقام اول رقابت را بگیرد (خواهد گرفت)",
     "en": "I hope my favorite team will get first place in the competition",
     "groupCode": 0
   },
   {
     "id": 3000,
     "fa": "نوجوان فلوریدا گرفت یک سال در زندان برای جعل هویت یک کارمند بهداشتی",
-    "en": "Florida teen gets a year in jail for impersonating a health worker",
+    "en": "Florida teen got a year in jail for impersonating a health worker",
     "groupCode": 0
   },
   {
@@ -6115,13 +6117,13 @@
   },
   {
     "id": 3008,
-    "fa": "در سال 1987, پدر و مادرم ازدواج نکرده بودند. آنها مجرد بودند. پدر و مادرم در سال 1988 ازدواج کردند",
-    "en": "In 1987, my parents we not married. They were single. My parents got married in 1988",
+    "fa": "در سال ۱۹۴۷, والدینم ازدواج نکرده بودند. آنها مجرد بودند. والدینم در سال ۱۹۴۸ ازدواج کردند",
+    "en": "In 1947, my parents we not married. They were single. My parents got married in 1948",
     "groupCode": 0
   },
   {
     "id": 3009,
-    "fa": "هیچ چیز به اندازه میهن پرستی به انسان قدرت نمی دهد",
+    "fa": "هیچ چیز بیشتر از میهن پرستی به انسان قدرت نمی دهد",
     "en": "Nothing empowers man more than patriotism",
     "groupCode": 0
   },
@@ -6129,6 +6131,72 @@
     "id": 3010,
     "fa": "آن مکان چند تا سرسره دارد؟",
     "en": "How many slides does that place have?",
+    "groupCode": 0
+  },
+  {
+    "id": 3011,
+    "fa": "نه یعنی نه",
+    "en": "No means no",
+    "groupCode": 0
+  },
+  {
+    "id": 3012,
+    "fa": "چگونه قرار به آن پاسخ دهم؟",
+    "en": "How am I supposed to respond to that?",
+    "groupCode": 0
+  },
+  {
+    "id": 3013,
+    "fa": "باتری گوشیم تموم شده",
+    "en": "My phone battery is dead",
+    "groupCode": 0
+  },
+  {
+    "id": 3014,
+    "fa": "من فقط به یک سر شارژر نیاز دارم",
+    "en": "I just need a brick",
+    "groupCode": 0
+  },
+  {
+    "id": 3015,
+    "fa": "پریز برق کجاست؟",
+    "en": "Where is the outlet?",
+    "groupCode": 0
+  },
+  {
+    "id": 3016,
+    "fa": "من این مشکل را از زمانی که یادم می آید داشتم",
+    "en": "I have had this problem as long as I remember",
+    "groupCode": 0
+  },
+  {
+    "id": 3017,
+    "fa": "آیا می توانم فردا با شلوارک سر کار بیایم؟",
+    "en": "Can I come to work wearing shorts tomorrow?",
+    "groupCode": 0
+  },
+  {
+    "id": 3018,
+    "fa": "ورق ها را بُر بزنید و به هر نفر هفت ورق بدهید",
+    "en": "Shuffle the cards and deal out seven to each player",
+    "groupCode": 0
+  },
+  {
+    "id": 3019,
+    "fa": "به احتمال زیاد فردا باران می بارد",
+    "en": "It is highly likely that it will rain tomorrow",
+    "groupCode": 0
+  },
+  {
+    "id": 3020,
+    "fa": "آنها می توانند نحوه انجام کار افراد را تجزیه و تحلیل کنند",
+    "en": "They can analyze how people get work done",
+    "groupCode": 0
+  },
+  {
+    "id": 3021,
+    "fa": "ما باید این پروژه را تا پایان هفته به پایان برسانیم",
+    "en": "We need to get this project done by the end of the week",
     "groupCode": 0
   }
 ]
