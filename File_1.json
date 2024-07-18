@@ -6198,5 +6198,11 @@
     "fa": "ما باید این پروژه را تا پایان هفته به پایان برسانیم",
     "en": "We need to get this project done by the end of the week",
     "groupCode": 0
+  },
+  {
+    "id": 3022,
+    "fa": "ما اجازه نداریم از مردمی که نمی شناسیم چک بگیریم",
+    "en": "We are not allowed to take checks from people we don't know",
+    "groupCode": 0
   }
 ]
