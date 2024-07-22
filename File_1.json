@@ -632,7 +632,7 @@
   {
     "id": 2105,
     "fa": "من کمی شک دارم در مورد کاری که برای شما انجام می دهند",
-    "en": "I'm a bit skeptical on what they do for you",
+    "en": "I'm a bit skeptical about what they do for you",
     "groupCode": 0
   },
   {
@@ -3311,6 +3311,7 @@
     "id": 2548,
     "fa": "من همه جا دنبال کتاب گشتم",
     "en": "I've been looking for the book everywhere",
+    "desc": "Anywhere: Refers to any place in a non-specific way, used in negatives or questions. E.g., \"I can't find it anywhere.\"\n\nEverywhere: Refers to all possible places, indicating a thorough search or presence in all locations. E.g., \"I looked everywhere for it.",
     "groupCode": 0
   },
   {
@@ -3871,6 +3872,7 @@
     "id": 2641,
     "fa": " این خیلی مشکل است برای خواندن! شما هم می بایستی همین مشکلات را داشته باشید",
     "en": "This is very difficult to read! You must be having the same difficulties",
+    "desc": "\"Should have\": Indicates a past expectation or recommendation. Not suitable for present difficulties.\n\"Must have\": Refers to a strong deduction about a past situation. Doesn't fit with present difficulties.\n\"Must be having\": Indicates a strong deduction about current, ongoing difficulties",
     "groupCode": 0
   },
   {
@@ -6068,7 +6070,7 @@
   },
   {
     "id": 3000,
-    "fa": "نوجوان فلوریدا گرفت یک سال در زندان برای جعل هویت یک کارمند بهداشتی",
+    "fa": "نوجوان فلوریدا گرفت یک سال در زندان برای جعل هویت یک کارگر بهداشتی",
     "en": "Florida teen got a year in jail for impersonating a health worker",
     "groupCode": 0
   },
@@ -6177,25 +6179,25 @@
   },
   {
     "id": 3018,
-    "fa": "ورق ها را بُر بزنید و به هر نفر هفت ورق بدهید",
+    "fa": "ورق ها را بُر بزنید و به هر بازیکن هفت ورق بدهید",
     "en": "Shuffle the cards and deal out seven to each player",
     "groupCode": 0
   },
   {
     "id": 3019,
-    "fa": "به احتمال زیاد فردا باران می بارد",
-    "en": "It is highly likely that it will rain tomorrow",
+    "fa": "به احتمال زیاد فردا باران خواهد بارید",
+    "en": "\n 1.It is highly likely that it will rain tomorrow \n 2.It's most likely that it will rain tomorrow",
     "groupCode": 0
   },
   {
     "id": 3020,
-    "fa": "آنها می توانند نحوه انجام کار افراد را تجزیه و تحلیل کنند",
+    "fa": "آنها می توانند تجزیه و تحلیل کنند چگونه مردم کار را انجام می دهند",
     "en": "They can analyze how people get work done",
     "groupCode": 0
   },
   {
     "id": 3021,
-    "fa": "ما باید این پروژه را تا پایان هفته به پایان برسانیم",
+    "fa": "ما نیاز داریم این پروژه را تا پایان هفته به پایان برسانیم",
     "en": "We need to get this project done by the end of the week",
     "groupCode": 0
   },
@@ -6203,6 +6205,67 @@
     "id": 3022,
     "fa": "ما اجازه نداریم از مردمی که نمی شناسیم چک بگیریم",
     "en": "We are not allowed to take checks from people we don't know",
+    "groupCode": 0
+  },
+  {
+    "id": 3023,
+    "fa": "من مقداری شک دارم در مورد کاری که برای شما انجام می دهند",
+    "en": "I have some doubts about what they do for you",
+    "groupCode": 0
+  },
+  {
+    "id": 3024,
+    "fa": "کدامیک صحیح است؟ مختصر توضیح دهید",
+    "en": "Which one is correct? Explain briefly",
+    "groupCode": 0
+  },
+  {
+    "id": 3025,
+    "fa": "دی وی دی مال کیا هستند؟",
+    "en": "Whose DVDs are they?",
+    "groupCode": 0
+  },
+  {
+    "id": 3026,
+    "fa": "من دیشب زود رسیدم خونه",
+    "en": "\n 1.I arrived home early last night \n 2.I got home early last night",
+    "desc": "You use \"at\" with \"home\" in certain contexts, particularly when emphasizing location or presence rather than movement",
+    "groupCode": 0
+  },
+  {
+    "id": 3027,
+    "fa": "علی معمولاً چه زمانی خرید می کند؟",
+    "en": "When does Ali usually do his shopping?",
+    "groupCode": 0
+  },
+  {
+    "id": 3028,
+    "fa": "اون یک عکس قدیمی از پدرم است زمانیکه موهای بلند داشت",
+    "en": "That's an old photo of my father when he had long hair",
+    "groupCode": 0
+  },
+  {
+    "id": 3029,
+    "fa": "من قصد دارم برای تولدش (زن) به او یک کتاب بدهم",
+    "en": "I'm gonna give her a book for her birthday",
+    "groupCode": 0
+  },
+  {
+    "id": 3030,
+    "fa": "ویسکی از چه چیزی ساخته شده است؟",
+    "en": "What is whiskey made of?",
+    "groupCode": 0
+  },
+  {
+    "id": 3031,
+    "fa": "وقتی جلسه تمام شد، این یادداشت را به او بدهید",
+    "en": "\n 1.When the meeting is over, give her this note \n 2.When the meeting finishes, give her this note",
+    "groupCode": 0
+  },
+  {
+    "id": 3032,
+    "fa": "اون یکی است مثل این یکیه",
+    "en": "That one is the same as this one",
     "groupCode": 0
   }
 ]

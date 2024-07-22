@@ -101,7 +101,7 @@
   {
     "id":,
     "fa": "",
-    "en": "Alan didn't know whether to go on or stop",
+    "en": "",
     "groupCode": 0
   },
   {
@@ -113,7 +113,7 @@
   {
     "id":,
     "fa": "",
-    "en": "They started early in the day so they managed to finish in time",
+    "en": "",
     "groupCode": 0
   },
   {
@@ -125,13 +125,13 @@
   {
     "id":,
     "fa": "",
-    "en": "Dinner will be ready presently, but we still have time for a drink",
+    "en": "",
     "groupCode": 0
   },
   {
     "id":,
     "fa": "",
-    "en": "The sign outside the house that we wanted to buy said 'Sold'",
+    "en": "",
     "groupCode": 0
   },
   {
@@ -149,20 +149,13 @@
   {
     "id":,
     "fa": "",
-    "en": "We think one picture is very much like another",
+    "en": "",
     "groupCode": 0
   },
   {
     "id":,
     "fa": "",
     "en": "They certainly didn't expect everyone to turn up for the meeting!",
-    "groupCode": 0
-  },
-  {
-    "id":,
-    "fa": "",
-    "en": "She glance through the door and then walked on",
-    "desc": "Glance: This usually implies a deliberate but brief look. You choose to glance at something, even if only for a moment.\nGlimpse: This suggests an unintentional or fleeting view. You might catch a glimpse of something out of the corner of your eye, or it might disappear before you get a good look.",
     "groupCode": 0
   },
   {
@@ -211,32 +204,6 @@
     "id":,
     "fa": "",
     "en": "I ran out of petrol on my way home",
-    "groupCode": 0
-  },
-  {
-    "id":,
-    "fa": "",
-    "en": "\n 1.I dare not mention the incident to him; he'll go crazy \n 2.I don't dare mention the incident to him; he'll go crazy",
-    "desc": "\"Daren't\" (I daren't mention the incident): This form is a contraction of \"dare not.\" It is more commonly used in British English and can be considered somewhat formal. It is often seen in written language and may sound a bit old-fashioned.\n\n\"Don't dare\" (I don't dare mention the incident): This is a more casual and widely used form in both British and American English. It is less formal and more commonly heard in spoken language",
-    "groupCode": 0
-  },
-  {
-    "id":,
-    "fa": "",
-    "en": "I caught a glimpse of the animal before it disappeared",
-    "desc": "Glance: This usually implies a deliberate but brief look. You choose to glance at something, even if only for a moment.\nGlimpse: This suggests an unintentional or fleeting view. You might catch a glimpse of something out of the corner of your eye, or it might disappear before you get a good look.",
-    "groupCode": 0
-  },
-  {
-    "id":,
-    "fa": "crtisize",
-    "en": "He's always running down the government, but never votes.",
-    "groupCode": 0
-  },
-  {
-    "id":,
-    "fa": "",
-    "en": "That door creaks when opened. Can you oil it?",
     "groupCode": 0
   },
   {
