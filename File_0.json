@@ -6965,7 +6965,7 @@
   {
     "id": 1147,
     "fa": "من برای هر گونه ناراحتی ناشی از لغو عذرخواهی می کنم",
-    "en": "I apologise for any inconvenience caused by the cancellation",
+    "en": "\n 1.I apologise for any inconvenience caused by the cancellation \n 2.I apologise for any inconvenience due to the cancellation.",
     "groupCode": 0
   },
   {
