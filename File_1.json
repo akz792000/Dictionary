@@ -3479,7 +3479,7 @@
   },
   {
     "id": 2576,
-    "fa": "گستاخی او (مرد) در جلسه همه را شگفت زده کرد",
+    "fa": "گستاخی او (مرد) در جلسه همه را سوپرایز کرد",
     "en": "His audacity /aˈdæsəti/ surprised everyone at the meeting",
     "groupCode": 0
   },
@@ -5967,7 +5967,7 @@
   },
   {
     "id": 2983,
-    "fa": "پس از تجربه یک گلودرد مداوم، من شگفت زده شدم از کشف که یک سنگ لوزه مقصر بود",
+    "fa": "پس از تجربه یک گلودرد مداوم، من سوپرایز شدم از کشف اینکه یک سنگ لوزه مقصر بود",
     "en": "After experiencing a persistent sore throat, I was surprised to discover that a tonsil stone was the culprit",
     "groupCode": 0
   },
@@ -6271,20 +6271,20 @@
   {
     "id": 3033,
     "fa": "\n & \n ' \n * \n @ \n - \n $ \n ! \n # \n \" \n / \\",
-    "en": "\n Ampersand & (And) \n Apostrophe ' (Prime, Single Quotation Mark) \n Asterisk * (Star, Times) \n At Sign @ (Each) \n Dash - – — (Hyphen, En Dash, Em Dash) \n Dollar Sign $ \n Exclamation ! and Inverted Exclamation ¡ \n Number Sign # (Pound Sign, Hash) \n Quotation Mark \n (Double Prime, Double Quotation Marks) \n Slash / (Forward Slash) \\ (Backward Slash)",
+    "en": "\n Ampersand & (And) \n Apostrophe ' (Prime, Single Quotation Mark) \n Asterisk * (Star, Times) \n At Sign @ (Each) \n Dash - (Hyphen) \n Dollar Sign $ \n Exclamation ! and Inverted Exclamation ¡ \n Number Sign # (Pound Sign, Hash) \n Quotation Mark \" (Double Prime, Double Quotation Marks) \n Slash / (Forward Slash) \\ (Backward Slash)",
     "groupCode": 0
   },
   {
     "id": 3034,
     "fa": "من یک احساسی دارم او (زن) من را خیلی دوست ندارد",
-    "en": "I gotta feeling she doesn't like me very much",
+    "en": "\n 1.I gotta feeling she doesn't like me very much \n 2.I have a feeling she doesn't like me very much",
     "desc": "Gotta = Got a = Have a",
     "groupCode": 0
   },
   {
     "id": 3035,
-    "fa": "کم خونی دارم و به آهن بیشتری نیاز دارم",
-    "en": "I have anemia and need more iron",
+    "fa": "من کم خونی دارم و به آهن بیشتری نیاز دارم",
+    "en": "I have anemia (/əˈnēmēə/ انیمیا) and need more iron",
     "groupCode": 0
   },
   {
@@ -6301,20 +6301,50 @@
   },
   {
     "id": 3038,
-    "fa": "کلاه سوزان به اندازه کلاه تو گران است",
+    "fa": "کلاه سوزان به اندازه مال تو گران است",
     "en": "Susan's hat is as expensive as yours",
     "groupCode": 0
   },
   {
     "id": 3039,
-    "fa": "مهم است احترام گذاشتن به حریف",
-    "en": "It's important to respect the opponent",
+    "fa": "او (مرد) نه شراب می نوشد و نه آبجو",
+    "en": "He doesn't drink neither wine nor beer",
     "groupCode": 0
   },
   {
     "id": 3040,
     "fa": "از آنجایی که درحال حاضر باران نمی بارد، من برای قدم زدن بیرون خواهم رفت",
     "en": "As it isn't raining at the moment, I'll go out for a walk",
+    "groupCode": 0
+  },
+  {
+    "id": 3041,
+    "fa": "من قول دادم او را ببرم دفعه بعد (که) آنها در شهر اجرا کنند",
+    "en": "I promised to take her the next time they perform in town",
+    "groupCode": 0
+  },
+  {
+    "id": 3042,
+    "fa": "خواهرانش به او (مرد) گفتند او خیلی پیر شده است برای تماشای کارتون ها",
+    "en": "Her sisters told him he was getting too old to watch cartoons",
+    "groupCode": 0
+  },
+  {
+    "id": 3043,
+    "fa": "مادرم معمولاً برای ناهار یکشنبه چیز خوبی می پزد",
+    "en": "My mother usually cooks something nice for Sunday lunch",
+    "groupCode": 0
+  },
+  {
+    "id": 3044,
+    "fa": "نه من قهوه میخورم و نه خواهرم",
+    "en": "I don't drink coffee and neither does my sister",
+    "groupCode": 0
+  },
+  {
+    "id": 3045,
+    "fa": "من فکر می کنم او (مرد) را می شناسم. من شاید سال گذشته در یک مهمانی با او ملاقات کرده باشم",
+    "en": "I think I know him. I may have met him last year at a party",
     "groupCode": 0
   }
 ]
