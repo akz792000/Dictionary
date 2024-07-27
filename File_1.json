@@ -6319,7 +6319,7 @@
   },
   {
     "id": 3041,
-    "fa": "من قول دادم او را ببرم دفعه بعد (که) آنها در شهر اجرا کنند",
+    "fa": "من قول دادم او (زن) را ببرم دفعه بعد (که) آنها در شهر اجرا می کنند",
     "en": "I promised to take her the next time they perform in town",
     "groupCode": 0
   },
@@ -6331,7 +6331,7 @@
   },
   {
     "id": 3043,
-    "fa": "مادرم معمولاً برای ناهار یکشنبه چیز خوبی می پزد",
+    "fa": "مادرم معمولاً چیز خوبی می پزد برای ناهار یکشنبه",
     "en": "My mother usually cooks something nice for Sunday lunch",
     "groupCode": 0
   },
@@ -6345,6 +6345,36 @@
     "id": 3045,
     "fa": "من فکر می کنم او (مرد) را می شناسم. من شاید سال گذشته در یک مهمانی با او ملاقات کرده باشم",
     "en": "I think I know him. I may have met him last year at a party",
+    "groupCode": 0
+  },
+  {
+    "id": 3046,
+    "fa": "من بهت ایمیل میزنم وقتی رسیدم آنجا",
+    "en": "I'll email you when I get there",
+    "groupCode": 0
+  },
+  {
+    "id": 3047,
+    "fa": "من مایلم شما را به جایی که مادرتان را ملاقات کردم ببرم",
+    "en": "I would like to take you to the place where I met your mother",
+    "groupCode": 0
+  },
+  {
+    "id": 3048,
+    "fa": "اگر او را دیده بودم, من از او پرسیده بودم",
+    "en": "If I had seen her, I would have asked her",
+    "groupCode": 0
+  },
+  {
+    "id": 3049,
+    "fa": "علی خوشحال به نظر می رسد",
+    "en": "Ali looks happy",
+    "groupCode": 0
+  },
+  {
+    "id": 3050,
+    "fa": "او (زن) حتی به ما نگاه نکرد! اون چیزی بود که من دوست نداشتم",
+    "en": "She didn't even look at us! That's what I didn't like",
     "groupCode": 0
   }
 ]
