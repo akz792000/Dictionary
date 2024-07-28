@@ -1857,6 +1857,7 @@
     "id": 2308,
     "fa": "به او (زن) بگویید که شوهرش سر زد",
     "en": "Tell her that her husband stopped by",
+    "desc": "Stopped by: Implies a brief, casual visit.\nCame by: Neutral term for any visit, without implying duration or purpose.",
     "groupCode": 0
   },
   {
@@ -6361,7 +6362,7 @@
   },
   {
     "id": 3048,
-    "fa": "اگر او را دیده بودم, من از او پرسیده بودم",
+    "fa": "اگر او (زن) را دیده بودم, من از او پرسیده بودم",
     "en": "If I had seen her, I would have asked her",
     "groupCode": 0
   },
@@ -6375,6 +6376,37 @@
     "id": 3050,
     "fa": "او (زن) حتی به ما نگاه نکرد! اون چیزی بود که من دوست نداشتم",
     "en": "She didn't even look at us! That's what I didn't like",
+    "groupCode": 0
+  },
+  {
+    "id": 3051,
+    "fa": "اگه از من میخوای بیام, فقط بپرس",
+    "en": "If you want me to come, just ask",
+    "groupCode": 0
+  },
+  {
+    "id": 3052,
+    "fa": "من نمی دانستم ادامه دهم یا توقف کنم",
+    "en": "I didn't know whether to go on or stop",
+    "groupCode": 0
+  },
+  {
+    "id": 3053,
+    "fa": "من نتونستم او (زن) را پیدا کنم. حتما او خرید رفته بود",
+    "en": "I couldn't find her. She must have gone shopping",
+    "groupCode": 0
+  },
+  {
+    "id": 3054,
+    "fa": "او (زن) قبلاً مرا ندیده بود. او (زن) داره منو با یکی دیگه اشتباه میگیره",
+    "en": "She has never seen me before. She's confusing me with someone else",
+    "groupCode": 0
+  },
+  {
+    "id": 3055,
+    "fa": "ارائه آنها موفقیت آمیز بود، اگرچه آنها آن را به خوبی آماده نکرده بودند",
+    "en": "Their presentation was a success, though they hadn't prepared it very well",
+    "desc": "\"Although\": Used at the beginning of a sentence or clause to contrast.\n\nE.g., \"Although they hadn't prepared it well, the presentation was a success.\"\n\"Though\": Can be used at the end of a sentence for contrast, or at the beginning.\n\nE.g., \"Their presentation was a success, though they hadn't prepared it well.\"\n\n\n\n\n\n",
     "groupCode": 0
   }
 ]
