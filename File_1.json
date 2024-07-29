@@ -6235,7 +6235,7 @@
   },
   {
     "id": 3027,
-    "fa": "کی معمولاً علی خریدش را انجام می دهد؟",
+    "fa": "کی علی معمولاً خریدش را انجام می دهد؟",
     "en": "When does Ali usually do his shopping?",
     "groupCode": 0
   },
@@ -6338,7 +6338,7 @@
   },
   {
     "id": 3044,
-    "fa": "نه من قهوه میخورم و نه خواهرم",
+    "fa": "من قهوه نمیخورم (نمی نوشم) و خواهرم نمی خوره (نمی نوشه)",
     "en": "I don't drink coffee and neither does my sister",
     "groupCode": 0
   },
@@ -6374,7 +6374,7 @@
   },
   {
     "id": 3050,
-    "fa": "او (زن) حتی به ما نگاه نکرد! اون چیزی بود که من دوست نداشتم",
+    "fa": "او (زن) حتی به ما نگاه نکرد! اون چیزی است که من دوست نداشتم",
     "en": "She didn't even look at us! That's what I didn't like",
     "groupCode": 0
   },
@@ -6392,21 +6392,51 @@
   },
   {
     "id": 3053,
-    "fa": "من نتونستم او (زن) را پیدا کنم. حتما او خرید رفته بود",
+    "fa": "من نتونستم او (زن) را پیدا کنم. او می بایستی خرید رفته باشه",
     "en": "I couldn't find her. She must have gone shopping",
     "groupCode": 0
   },
   {
     "id": 3054,
-    "fa": "او (زن) قبلاً مرا ندیده بود. او (زن) داره منو با یکی دیگه اشتباه میگیره",
+    "fa": "او (زن) هرگز مرا قبلاً ندیده بود. او (زن) داره منو با یکی دیگه اشتباه میگیره",
     "en": "She has never seen me before. She's confusing me with someone else",
     "groupCode": 0
   },
   {
     "id": 3055,
-    "fa": "ارائه آنها موفقیت آمیز بود، اگرچه آنها آن را به خوبی آماده نکرده بودند",
+    "fa": "ارائه آنها یک موفقیت بود، اگرچه آنها آن را به خیلی خوب آماده نکرده بودند",
     "en": "Their presentation was a success, though they hadn't prepared it very well",
     "desc": "\"Although\": Used at the beginning of a sentence or clause to contrast.\n\nE.g., \"Although they hadn't prepared it well, the presentation was a success.\"\n\"Though\": Can be used at the end of a sentence for contrast, or at the beginning.\n\nE.g., \"Their presentation was a success, though they hadn't prepared it well.\"\n\n\n\n\n\n",
+    "groupCode": 0
+  },
+  {
+    "id": 3056,
+    "fa": "من همیشه دستکش ظرفشویی می پوشم تا از دستانم در برابر آب داغ و مواد شوینده محافظت کنم",
+    "en": "I always wear dishwashing gloves to protect my hands from hot water and detergent",
+    "groupCode": 0
+  },
+  {
+    "id": 3057,
+    "fa": "از شما می خواهم یک بار دیگر آن را چک کنید",
+    "en": "I would like you to check it once again",
+    "groupCode": 0
+  },
+  {
+    "id": 3058,
+    "fa": "آنها در اوایل روز شروع کردند، بنابراین آنها توانستند به موقع تمام کنند",
+    "en": "They started early in the day, so they managed to finish in time",
+    "groupCode": 0
+  },
+  {
+    "id": 3059,
+    "fa": "فکر می کنی تا ساعت هفت تمام کنیم؟ من می ترسم که نه",
+    "en": "Do you think we'll finish by seven o'clock? I'm afraid not",
+    "groupCode": 0
+  },
+  {
+    "id": 3060,
+    "fa": "قطار چقدر طول می کشد تا به لندن برسد؟",
+    "en": "\n 1.How long does the train take to reach London? \n 2.How long does the train take to get to London?",
     "groupCode": 0
   }
 ]
