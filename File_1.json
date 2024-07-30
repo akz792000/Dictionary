@@ -6417,19 +6417,19 @@
   },
   {
     "id": 3057,
-    "fa": "از شما می خواهم یک بار دیگر آن را چک کنید",
+    "fa": "من (مودبانه) از شما می خواهم یک بار دیگر آن را چک کنید",
     "en": "I would like you to check it once again",
     "groupCode": 0
   },
   {
     "id": 3058,
-    "fa": "آنها در اوایل روز شروع کردند، بنابراین آنها توانستند به موقع تمام کنند",
+    "fa": "آنها در اوایل روز شروع کردند، بنابراین آنها مدیریت کردن به موقع تمام کنند",
     "en": "They started early in the day, so they managed to finish in time",
     "groupCode": 0
   },
   {
     "id": 3059,
-    "fa": "فکر می کنی تا ساعت هفت تمام کنیم؟ من می ترسم که نه",
+    "fa": "فکر می کنی تا ساعت هفت تمام خواهیم کرد؟ من می ترسم که نه",
     "en": "Do you think we'll finish by seven o'clock? I'm afraid not",
     "groupCode": 0
   },
@@ -6441,8 +6441,8 @@
   },
   {
     "id": 3061,
-    "fa": "علی تنها در باغ نشسته بود (داشت)",
-    "en": "Ali was sitting by herself in the garden",
+    "fa": "علی تنها در باغ با خودش نشسته بود (داشت)",
+    "en": "Ali was sitting by himself in the garden",
     "groupCode": 0
   },
   {
@@ -6468,6 +6468,45 @@
     "id": 3065,
     "fa": "من از خواب بیدار شدم و دیگر نتوانستم بخوابم",
     "en": "I woke up and couldn't get back to sleep",
+    "groupCode": 0
+  },
+  {
+    "id": 3066,
+    "fa": "او (زن) به من خیانت کرده است. من فکر کنم نامزدیمون رو قطع خواهم کرد",
+    "en": "She has been cheating on me. I think I'll break off our engagement",
+    "desc": "\"Break up\" is mostly used for romantic relationships.\n\"Break off\" can be used more broadly, including engagements, negotiations, or other formal agreements.",
+    "groupCode": 0
+  },
+  {
+    "id": 3067,
+    "fa": "ما فکر می کنیم این عکس خیلی شبیه عکس دیگری است",
+    "en": "We think this picture is very much like another",
+    "groupCode": 0
+  },
+  {
+    "id": 3068,
+    "fa": "آنها مطمئناً انتظار نداشتند همه برای جلسه حاضر شوند",
+    "en": "They certainly didn't expect everyone to turn up for the meeting",
+    "groupCode": 0
+  },
+  {
+    "id": 3069,
+    "fa": "او (مرد) نگاهی کوتاه به ساعتش انداخت تا ساعت را چک کند",
+    "en": "She glanced at her watch to check the time",
+    "desc": "Glance: A quick, deliberate look. For example, \"She glanced at her phone.\"",
+    "groupCode": 0
+  },
+  {
+    "id": 3070,
+    "fa": "او (مرد) نگاهی تصادفی به سلبریتی انداخت که او (زن) با عجله از کنارش می گذشت",
+    "en": "He caught a glimpse of the celebrity as she hurried past",
+    "desc": "A brief, often accidental view. For example, \"He caught a glimpse of the deer in the forest.",
+    "groupCode": 0
+  },
+  {
+    "id": 3071,
+    "fa": "یک نفر کلاهی مثل کلاه من در اتاق جا گذاشت",
+    "en": "Somebody left a hat like mine in the room",
     "groupCode": 0
   }
 ]
