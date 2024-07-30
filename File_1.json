@@ -6438,5 +6438,36 @@
     "fa": "قطار چقدر طول می کشد تا به لندن برسد؟",
     "en": "\n 1.How long does the train take to reach London? \n 2.How long does the train take to get to London?",
     "groupCode": 0
+  },
+  {
+    "id": 3061,
+    "fa": "علی تنها در باغ نشسته بود (داشت)",
+    "en": "Ali was sitting by herself in the garden",
+    "groupCode": 0
+  },
+  {
+    "id": 3062,
+    "fa": "شام به زودی آماده خواهد شد، اما ما هنوز برای نوشیدن وقت داریم",
+    "en": "Dinner will be ready presently, but we still have time for a drink",
+    "groupCode": 0
+  },
+  {
+    "id": 3063,
+    "fa": "بچه های زیادی از مدرسه ما در مسابقه شرکت کرده بودند",
+    "en": "A lot of kids from our school had participated in the race",
+    "groupCode": 0
+  },
+  {
+    "id": 3064,
+    "fa": "مطمئنم او (زن) بدش نمی آید که به من لطفی کند",
+    "en": "I'm sure she wouldn't mind doing me a favour",
+    "desc": "\"To do\": The infinitive form \"to do\" is not used after \"wouldn't mind.\"",
+    "groupCode": 0
+  },
+  {
+    "id": 3065,
+    "fa": "من از خواب بیدار شدم و دیگر نتوانستم بخوابم",
+    "en": "I woke up and couldn't get back to sleep",
+    "groupCode": 0
   }
 ]
