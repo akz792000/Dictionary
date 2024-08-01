@@ -5585,18 +5585,6 @@
     "groupCode": 0
   },
   {
-    "id": 2921,
-    "fa": "از همون اول دروغ گفتی",
-    "en": "From the very beginning you lied",
-    "groupCode": 0
-  },
-  {
-    "id": 2921,
-    "fa": "اگر ایده ای به من میدهید، احتمالاً بدترین چیزی (که) میتوانید بگویید (این) است (که) 'تصور کنی اگر بخواهی'",
-    "en": "If you're pitching me an idea, probably the worst thing you can say is 'Imagine if you will'",
-    "groupCode": 0
-  },
-  {
     "id": 2922,
     "fa": "تو فرد رقت انگیزی هستی",
     "en": "You're a pathetic person",
@@ -5672,7 +5660,7 @@
   {
     "id": 2934,
     "fa": "آن در بالای نامه نیست. در پایین است",
-    "en": "That's not at the top of the letter; it's at the bottom",
+    "en": "That's not at the top of the letter. It's at the bottom",
     "groupCode": 0
   },
   {
@@ -6491,8 +6479,8 @@
   },
   {
     "id": 3069,
-    "fa": "او (مرد) نگاهی کوتاه به ساعتش انداخت تا ساعت را چک کند",
-    "en": "She glanced at her watch to check the time",
+    "fa": "من نگاهی کوتاه به ساعتم انداختم تا زمان را چک کنم",
+    "en": "I glanced at my watch to check the time",
     "desc": "Glance: A quick, deliberate look. For example, \"She glanced at her phone.\"",
     "groupCode": 0
   },
@@ -6507,6 +6495,18 @@
     "id": 3071,
     "fa": "یک نفر کلاهی مثل کلاه من در اتاق جا گذاشت",
     "en": "Somebody left a hat like mine in the room",
+    "groupCode": 0
+  },
+  {
+    "id": 3072,
+    "fa": "از همون اول دروغ گفتی",
+    "en": "From the very beginning you lied",
+    "groupCode": 0
+  },
+  {
+    "id": 3073,
+    "fa": "اگر ایده ای به من میدهید، احتمالاً بدترین چیزی (که) میتوانید بگویید (این) است (که) 'تصور کنی اگر بخواهی'",
+    "en": "If you're pitching me an idea, probably the worst thing you can say is 'Imagine if you will'",
     "groupCode": 0
   }
 ]
