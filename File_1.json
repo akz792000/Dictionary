@@ -4486,6 +4486,7 @@
     "id": 2741,
     "fa": "در نهایت تصمیم گرفتم خودم یکی درست کنم",
     "en": "In the end I decided to make one myself",
+    "desc": "\"I decided to make one myself\":\nTranslation: تصمیم گرفتم خودم یکی درست کنم.\nTransliteration: \"Tasmim gereftam khodam yeki dorost konam.\"\n\"I decided to make one by myself\":\nTranslation: تصمیم گرفتم به تنهایی یکی درست کنم.\nTransliteration: \"Tasmim gereftam be tanhai yeki dorost konam.\"",
     "groupCode": 0
   },
   {
@@ -6417,7 +6418,7 @@
   },
   {
     "id": 3059,
-    "fa": "فکر می کنی تا ساعت هفت تمام خواهیم کرد؟ من می ترسم که نه",
+    "fa": "فکر می کنی ما تا ساعت هفت تمام خواهیم کرد؟ من می ترسم که نه",
     "en": "Do you think we'll finish by seven o'clock? I'm afraid not",
     "groupCode": 0
   },
@@ -6436,7 +6437,8 @@
   {
     "id": 3062,
     "fa": "شام به زودی آماده خواهد شد، اما ما هنوز برای نوشیدن وقت داریم",
-    "en": "Dinner will be ready presently, but we still have time for a drink",
+    "en": "\n 1.Dinner will be ready soon, but we still have time for a drink \n 2.Dinner will be ready presently, but we still have time for a drink",
+    "desc": "Dinner will be ready soon:\nMeaning: Dinner will be ready in a short amount of time.\nTone: Informal and common in everyday speech.\nDinner will be ready presently:\nMeaning: Dinner will be ready very shortly.\nTone: Slightly more formal and can sound old-fashioned.\nKey Difference:\n\"Soon\" is more casual and flexible.\n\"Presently\" is more formal and suggests it will happen very soon.",
     "groupCode": 0
   },
   {
@@ -6447,7 +6449,7 @@
   },
   {
     "id": 3064,
-    "fa": "مطمئنم او (زن) بدش نمی آید که به من لطفی کند",
+    "fa": "من مطمئنم او (زن) بدش نمی آید که به من لطفی کند",
     "en": "I'm sure she wouldn't mind doing me a favour",
     "desc": "\"To do\": The infinitive form \"to do\" is not used after \"wouldn't mind.\"",
     "groupCode": 0
