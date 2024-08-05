@@ -2492,6 +2492,7 @@
     "id": 2413,
     "fa": "من قادر نخواهم بود برسم به دفتر امروز",
     "en": "I will not be able to make it to the office today",
+    "desc": "\"Get to\" emphasizes the physical act of reaching a place.\n\"Make it\" is a more general term for being unable to attend or participate in something.",
     "groupCode": 0
   },
   {
@@ -2539,7 +2540,7 @@
   },
   {
     "id": 2421,
-    "fa": "بزار بدونم به محض انجام دادن",
+    "fa": "بزار بدونم به محض اینکه شما انجام دادی",
     "en": "Let me know once you're done",
     "groupCode": 0
   },
@@ -3589,7 +3590,7 @@
   },
   {
     "id": 2594,
-    "fa": "پارچه پاره شده",
+    "fa": "پارچه پاره است",
     "en": "The cloth is torn",
     "groupCode": 0
   },
@@ -5999,7 +6000,7 @@
   },
   {
     "id": 2990,
-    "fa": "من دارم برای ناهار به آشپزخانه می روم چون هنوز (چیزی) نخورده ام. اگر دوست داری, می توانی به من بپیوندی",
+    "fa": "من دارم برای ناهار به (سمت) آشپزخانه می روم چون هنوز (چیزی) نخورده ام. اگر دوست داری, می توانی به من بپیوندی",
     "en": "I'm heading to the kitchen for lunch because I haven't eaten yet. If you like, you can join me",
     "groupCode": 0
   },
@@ -6163,8 +6164,8 @@
   },
   {
     "id": 3017,
-    "fa": "آیا می توانم فردا با شلوارک سر کار بیایم؟",
-    "en": "Can I come to work wearing shorts tomorrow?",
+    "fa": "آیا می توانم فردا با شلوارک به آفیس بیام؟",
+    "en": "Can I come to office wearing shorts tomorrow?",
     "groupCode": 0
   },
   {
@@ -6509,6 +6510,50 @@
     "id": 3073,
     "fa": "اگر ایده ای به من میدهید، احتمالاً بدترین چیزی (که) میتوانید بگویید (این) است (که) 'تصور کنی اگر بخواهی'",
     "en": "If you're pitching me an idea, probably the worst thing you can say is 'Imagine if you will'",
+    "groupCode": 0
+  },
+  {
+    "id": 3074,
+    "fa": "صداقت برای من مهم است",
+    "en": "Honesty is important to me",
+    "desc": "to me: Opinion",
+    "groupCode": 0
+  },
+  {
+    "id": 3075,
+    "fa": "برای من مهم است که به طور منظم ورزش کنم",
+    "en": "It's important for me to exercise regularly",
+    "desc": "For me: Benefit",
+    "groupCode": 0
+  },
+  {
+    "id": 3076,
+    "fa": "در زیر سه سهم سمی است برای فروش در اسرع وقت قبل از سقوط اجتناب ناپذیر آنها به پایین",
+    "en": "Below are three toxic stocks to sell ASAP before they inevitably plunge lower",
+    "groupCode": 0
+  },
+  {
+    "id": 3077,
+    "fa": "ما باید نسخه را بالا (بامپ) ببریم",
+    "en": "We need to bump the version",
+    "groupCode": 0
+  },
+  {
+    "id": 3078,
+    "fa": "بزاق من بیش از حد معمول پلاک ایجاد می کند",
+    "en": "My saliva /səˈlaɪvə/ makes more plaque /ˈplæk/ than usual",
+    "groupCode": 0
+  },
+  {
+    "id": 3079,
+    "fa": "این احتمال وجود دارد که جلسه مجدداً برنامه ریزی خواهد شد",
+    "en": "It's likely to happen that the meeting will be rescheduled",
+    "groupCode": 0
+  },
+  {
+    "id": 3080,
+    "fa": "شما باید یک صلاحیتی در مددکاری (کار) اجتماعی کسب کنید",
+    "en": "You'll need to acquire a qualification in social work",
     "groupCode": 0
   }
 ]

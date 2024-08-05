@@ -433,6 +433,7 @@
     "id": 72,
     "fa": "پشیمان نخواهید شد",
     "en": "You won't regret it",
+    "desc": "You won't be regret: This is grammatically incorrect. The word \"regret\" is a verb and a noun, but it is not used as an adjective. The correct adjective form is \"regretful.\"",
     "groupCode": 0
   },
   {
@@ -788,6 +789,7 @@
     "id": 131,
     "fa": "من می خوام تا وقتی برگشتم، رفته باشی",
     "en": "I want you gone by the time I get back",
+    "desc": "\"Get back\": Implies returning to a place after being away.\n\nExample: \"I want to go on by the time I get back\" (suggests a focus on the return process).\n\"Come back\": Simply means returning to a place or situation.\n\nExample: \"I want to go on by the time I come back\" (suggests a more straightforward return).",
     "groupCode": 0
   },
   {
