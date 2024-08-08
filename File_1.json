@@ -3403,8 +3403,8 @@
   },
   {
     "id": 2563,
-    "fa": "من او (مرد) را رسمی به والدین معرفی کردم",
-    "en": "I formally introduced him to my parents",
+    "fa": "من او (زن) را رسمی به والدین معرفی کردم",
+    "en": "I formally introduced her to my parents",
     "groupCode": 0
   },
   {
@@ -6415,6 +6415,7 @@
     "id": 3058,
     "fa": "آنها در اوایل روز شروع کردند، بنابراین آنها مدیریت کردن به موقع تمام کنند",
     "en": "They started early in the day, so they managed to finish in time",
+    "desc": "Finish or finish off both convey similar meanings, but \"finish off\" can imply a more thorough completion",
     "groupCode": 0
   },
   {
@@ -6489,8 +6490,8 @@
   },
   {
     "id": 3070,
-    "fa": "او (مرد) نگاهی تصادفی به سلبریتی انداخت که او (زن) با عجله از کنارش می گذشت",
-    "en": "He caught a glimpse of the celebrity as she hurried past",
+    "fa": "او (مرد) نگاهی تصادفی به سلبریتی انداخت که او (زن) با عجله از کنارش گذشت",
+    "en": "He caught a glimpse of the celebrity as she quickly passed",
     "desc": "A brief, often accidental view. For example, \"He caught a glimpse of the deer in the forest.",
     "groupCode": 0
   },
@@ -6528,31 +6529,31 @@
   },
   {
     "id": 3076,
-    "fa": "در زیر سه سهم سمی است برای فروش در اسرع وقت قبل از سقوط اجتناب ناپذیر آنها به پایین",
+    "fa": "در زیر سه سهم سمی است برای فروش در اسرع وقت قبل از شیرجه اجتناب ناپذیر آنها به پایینتر",
     "en": "Below are three toxic stocks to sell ASAP before they inevitably plunge lower",
     "groupCode": 0
   },
   {
     "id": 3077,
-    "fa": "ما باید نسخه را بالا (بامپ) ببریم",
+    "fa": "ما نیاز داریم نسخه را بالا (بامپ) ببریم",
     "en": "We need to bump the version",
     "groupCode": 0
   },
   {
     "id": 3078,
-    "fa": "بزاق من بیش از حد معمول پلاک ایجاد می کند",
-    "en": "My saliva /səˈlaɪvə/ makes more plaque /ˈplæk/ than usual",
+    "fa": "بزاق من می سازد پلاک بیشتر از (مال) یک شخص معمولی",
+    "en": "My saliva /səˈlaɪvə/ makes more plaque /ˈplæk/ than a normal person's.",
     "groupCode": 0
   },
   {
     "id": 3079,
     "fa": "این احتمال وجود دارد که جلسه مجدداً برنامه ریزی خواهد شد",
-    "en": "It's likely to happen that the meeting will be rescheduled",
+    "en": "It's likely that the meeting will be rescheduled",
     "groupCode": 0
   },
   {
     "id": 3080,
-    "fa": "شما باید یک صلاحیتی در مددکاری (کار) اجتماعی کسب کنید",
+    "fa": "شما نیاز خواهید داشت یک صلاحیت در مددکاری (کار) اجتماعی کسب کنید",
     "en": "You'll need to acquire a qualification in social work",
     "groupCode": 0
   }
