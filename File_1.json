@@ -182,7 +182,7 @@
   },
   {
     "id": 2031,
-    "fa": "بچه دزدها تقاضای باج کردند",
+    "fa": "بچه دزدها تقاضای یک باج کردند",
     "en": "The kidnappers demanded a ransom (/ˈrænsəm/)",
     "groupCode": 0
   },
@@ -2061,7 +2061,7 @@
   },
   {
     "id": 2342,
-    "fa": "اگر چیزی هست می توانم برای حمایت از شما انجام دهم، لطفاً بزار بدونم",
+    "fa": "اگر چیزی هست می توانم برای حمایت از شما انجام دهم، لطفاً به من اطلاع بده",
     "en": "If there's anything I can do to support you, please let me know",
     "groupCode": 0
   },
@@ -2540,7 +2540,7 @@
   },
   {
     "id": 2421,
-    "fa": "بزار بدونم به محض اینکه شما انجام دادی",
+    "fa": "به من اطلاع بده به محض اینکه شما انجام دادی",
     "en": "Let me know once you're done",
     "groupCode": 0
   },
@@ -5100,12 +5100,12 @@
   {
     "id": 2842,
     "fa": "آیا فکر می کنی ما به موقع آن را انجام (ساختن) خواهیم داد؟ گمان نمی کنم",
-    "en": "Do you think we will make it in time? I suppose not",
+    "en": "Do you think we will make it on time? I suppose not",
     "groupCode": 0
   },
   {
     "id": 2843,
-    "fa": "من قرض خواهم داد به تو کتاب را تا زمانی که برگردانیش",
+    "fa": "من قرض خواهم داد به تو کتاب را به شرطی که (تا زمانی که) برگردانیش",
     "en": "I will lend you the book so long as you return it",
     "groupCode": 0
   },
@@ -5160,7 +5160,7 @@
   },
   {
     "id": 2852,
-    "fa": "لطفاً این ورژن تنظیم شده را امتحان کنید و بزار بدونم اگر مشترک هنوز از دست رفته است",
+    "fa": "لطفاً این ورژن تنظیم شده را امتحان کنید و به من اطلاع بده اگر مشترک هنوز از دست رفته است",
     "en": "Please try this adjusted version and let me know if the subscriber is still lost",
     "groupCode": 0
   },
@@ -6414,8 +6414,7 @@
   {
     "id": 3058,
     "fa": "آنها در اوایل روز شروع کردند، بنابراین آنها مدیریت کردن به موقع تمام کنند",
-    "en": "They started early in the day, so they managed to finish in time",
-    "desc": "Finish or finish off both convey similar meanings, but \"finish off\" can imply a more thorough completion",
+    "en": "They started early in the day, so they managed to finish off on time",
     "groupCode": 0
   },
   {
@@ -6555,6 +6554,102 @@
     "id": 3080,
     "fa": "شما نیاز خواهید داشت یک صلاحیت در مددکاری (کار) اجتماعی کسب کنید",
     "en": "You'll need to acquire a qualification in social work",
+    "groupCode": 0
+  },
+  {
+    "id": 3081,
+    "fa": "لباس ها خشک شدند هنوز؟",
+    "en": "Are the clothes dry yet?",
+    "groupCode": 0
+  },
+  {
+    "id": 3082,
+    "fa": "شانس کمی (باریک) است که یک جای پارک در مرکز شهر بگیریم",
+    "en": "It's a slim chance we'll get a parking spot downtown",
+    "groupCode": 0
+  },
+  {
+    "id": 3083,
+    "fa": "انواع کفش برای مناسبت های مختلف: کفش های کتانی بند دار برای دویدن، چکمه های کش دار برای روزهای بارانی، کفش های راحتی برای بیرون رفتن های معمولی، و چکمه های زیپ دار برای یک ظاهر شیک",
+    "en": "Types of shoes for various occasions: lace-up sneakers for running, pull-on boots for rainy days, slip-on loafers for casual outings, and zip-up boots for a stylish touch",
+    "groupCode": 0
+  },
+  {
+    "id": 3084,
+    "fa": "شما می توانید تا دیروقت بیرون بمانید به شرطی که (تا زمانی که) به من اطلاع بدی کجا هستی",
+    "en": "You can stay out late so long as you let me know where you are",
+    "groupCode": 0
+  },
+  {
+    "id": 3085,
+    "fa": "برای برنده شدن چه چیزی لازم است اگر می تونستی آن را در یک کلمه خلاصه کنی؟",
+    "en": "What does it take to win if you could summarize it in one word?",
+    "groupCode": 0
+  },
+  {
+    "id": 3086,
+    "fa": "دو ثروتمندترین مرد روی زمین نتونستند همسرشان را راضی نگه دارند، چه امیدی دارید؟",
+    "en": "The two richest men on Earth couldn't keep their wives happy, what hope do you have?",
+    "groupCode": 0
+  },
+  {
+    "id": 3087,
+    "fa": "قرار بده یک گلدان از گل های تازه را روی میز برای یک ظاهر شیک",
+    "en": "Place a vase of fresh flowers on the table for a stylish touch",
+    "groupCode": 0
+  },
+  {
+    "id": 3088,
+    "fa": "اضافه کن یک روسری به لباس خودت برای بک ظاهر شیک",
+    "en": "Add a scarf for a stylish touch to your outfit",
+    "groupCode": 0
+  },
+  {
+    "id": 3089,
+    "fa": "بپیچ هدیه را با یک روبان برای بک ظاهر شیک",
+    "en": "Wrap the present with a ribbon for a stylish touch",
+    "groupCode": 0
+  },
+  {
+    "id": 3090,
+    "fa": "شلوار پوشیدی؟",
+    "en": "Are you wearing pants?",
+    "groupCode": 0
+  },
+  {
+    "id": 3091,
+    "fa": "اگر به من بود، دیگر پول خرج (فرضی) نمی کردم",
+    "en": "If it were up to me, I wouldn't spend any more money",
+    "groupCode": 0
+  },
+  {
+    "id": 3092,
+    "fa": "به عقب نگاه نکن هیچ چیز برای تو نیست",
+    "en": "Don't look back there is nothing for you",
+    "groupCode": 0
+  },
+  {
+    "id": 3093,
+    "fa": "بخشی از من که تو هستی هرگز نمی میری",
+    "en": "The part of me that is you never die",
+    "groupCode": 0
+  },
+  {
+    "id": 3094,
+    "fa": "آنها می تونستند (توانسته بودن) با کار بیشتر پروژه را به موقع تمام کنند",
+    "en": "They could have finished the project on time with more work",
+    "groupCode": 0
+  },
+  {
+    "id": 3095,
+    "fa": "کاش تمام پنجره ها را چک کرده بودم قبل از رفتن",
+    "en": "I wish I had checked all the windows before leaving",
+    "groupCode": 0
+  },
+  {
+    "id": 3096,
+    "fa": "ترش کردم",
+    "en": "I have heartburn",
     "groupCode": 0
   }
 ]

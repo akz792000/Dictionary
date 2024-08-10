@@ -3755,7 +3755,7 @@
   },
   {
     "id": 622,
-    "fa": "لطفا بزار بدونم اگر کمک نیاز داری با هر چیز دیگری",
+    "fa": "لطفا به من اطلاع بده اگر کمک نیاز داری با هر چیز دیگری",
     "en": "Please let me know if you need assistance with anything else",
     "groupCode": 0
   },
@@ -7022,7 +7022,7 @@
   },
   {
     "id": 1156,
-    "fa": "به پایان رساندن یک ماراتن موفقیت کوچکی نیست",
+    "fa": "به پایان رساندن یک ماراتن موفقیت کوچیکی نیست (دستاورد بزرگی است)",
     "en": "Finishing a marathon is no small accomplishment",
     "groupCode": 0
   },
@@ -8769,7 +8769,7 @@
   },
   {
     "id": 1444,
-    "fa": "بزار بدونم در نظرات زیر",
+    "fa": "به من اطلاع بده در نظرات زیر",
     "en": "Let me know in the comments below",
     "groupCode": 0
   },
@@ -8874,8 +8874,7 @@
   {
     "id": 1461,
     "fa": "اختلاف در سن آن ها به نظر رسید مهم نباشه",
-    "en": "The discrepancy in their ages seemed not to matter",
-    "desc": "Subject + auxiliary verb (did not/didn't) + main verb (seem) + infinitive marker (to) + main verb (matter)",
+    "en": "\n 1.The discrepancy in their ages did not seem to matter \n 2.The discrepancy in their ages seemed not to matter",
     "groupCode": 0
   },
   {
@@ -8982,7 +8981,7 @@
   },
   {
     "id": 1479,
-    "fa": "سپاسگزار می شم (مودبانه) اگر بزاری بدونم (مودبانه) در اسرع وقت تصمیمت را",
+    "fa": "سپاسگزار می شم (مودبانه) اگر به من اطلاع بدی (مودبانه) در اسرع وقت تصمیمت را",
     "en": "I would be grateful if you would let me know your decision as soon as possible",
     "groupCode": 0
   },
