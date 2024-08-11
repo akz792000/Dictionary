@@ -3756,7 +3756,7 @@
   {
     "id": 622,
     "fa": "لطفا به من اطلاع بده اگر کمک نیاز داری با هر چیز دیگری",
-    "en": "Please let me know if you need assistance with anything else",
+    "en": "Let me know if you need help with anything else",
     "groupCode": 0
   },
   {
@@ -7023,7 +7023,7 @@
   {
     "id": 1156,
     "fa": "به پایان رساندن یک ماراتن موفقیت کوچیکی نیست (دستاورد بزرگی است)",
-    "en": "Finishing a marathon is no small accomplishment",
+    "en": "\n 1.Finishing a marathon is no small accomplishment \n 2.Finishing a marathon is no mean feat",
     "groupCode": 0
   },
   {

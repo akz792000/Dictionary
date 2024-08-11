@@ -6414,7 +6414,7 @@
   {
     "id": 3058,
     "fa": "آنها در اوایل روز شروع کردند، بنابراین آنها مدیریت کردن به موقع تمام کنند",
-    "en": "They started early in the day, so they managed to finish off on time",
+    "en": "They started early in the day, so they managed to finish on time",
     "groupCode": 0
   },
   {
@@ -6564,7 +6564,7 @@
   },
   {
     "id": 3082,
-    "fa": "شانس کمی (باریک) است که یک جای پارک در مرکز شهر بگیریم",
+    "fa": "شانس کمی (باریک) است که ما خواهیم گرفت یک جای پارک در مرکز شهر",
     "en": "It's a slim chance we'll get a parking spot downtown",
     "groupCode": 0
   },
@@ -6582,7 +6582,7 @@
   },
   {
     "id": 3085,
-    "fa": "برای برنده شدن چه چیزی لازم است اگر می تونستی آن را در یک کلمه خلاصه کنی؟",
+    "fa": "جه می بره برای بردن (چه چیزی لازم است) اگر می تونستی آن را در یک کلمه خلاصه کنی؟",
     "en": "What does it take to win if you could summarize it in one word?",
     "groupCode": 0
   },
@@ -6600,13 +6600,13 @@
   },
   {
     "id": 3088,
-    "fa": "اضافه کن یک روسری به لباس خودت برای بک ظاهر شیک",
-    "en": "Add a scarf for a stylish touch to your outfit",
+    "fa": "اضافه کن یک روسری به لباس خودت برای یک ظاهر شیک",
+    "en": "Add a scarf to your outfit for a stylish touch",
     "groupCode": 0
   },
   {
     "id": 3089,
-    "fa": "بپیچ هدیه را با یک روبان برای بک ظاهر شیک",
+    "fa": "بپیچ هدیه را با یک روبان برای یک ظاهر شیک",
     "en": "Wrap the present with a ribbon for a stylish touch",
     "groupCode": 0
   },
@@ -6650,6 +6650,90 @@
     "id": 3096,
     "fa": "ترش کردم",
     "en": "I have heartburn",
+    "groupCode": 0
+  },
+  {
+    "id": 3097,
+    "fa": "دلیلی برای پشیمانی وجود ندارد",
+    "en": "There's no reason to be sorry",
+    "groupCode": 0
+  },
+  {
+    "id": 3098,
+    "fa": "دلیلی برای ترس وجود ندارد",
+    "en": "There's no reason to be afraid",
+    "groupCode": 0
+  },
+  {
+    "id": 3099,
+    "fa": "ترجیح می دم خوش شانس باشم تا باهوش",
+    "en": "I'd rather be lucky than smart",
+    "groupCode": 0
+  },
+  {
+    "id": 3100,
+    "fa": "ترجیح می دم بمیرم تا نامیدت کنم",
+    "en": "I'd rather die than disappoint you",
+    "groupCode": 0
+  },
+  {
+    "id": 3101,
+    "fa": "ترجیح می دم در موردش صحبت کنم",
+    "en": "I'd rather not talk about it",
+    "groupCode": 0
+  },
+  {
+    "id": 3102,
+    "fa": "پشیمانم از خوردن (داشتن) این غذا",
+    "en": "I regret having this food",
+    "groupCode": 0
+  },
+  {
+    "id": 3103,
+    "fa": "بازگشت دلالت دارد به مکانی بعد از دور بودن",
+    "en": "Get back implies returning to a place after having been away",
+    "groupCode": 0
+  },
+  {
+    "id": 3104,
+    "fa": "این خیلی بعید است، اما من فکر می کنم ما ممکنه برنده شیم",
+    "en": "It's a long shot, but I think we might win",
+    "groupCode": 0
+  },
+  {
+    "id": 3105,
+    "fa": "بی خوابی او (زن) تمرکز در کار را سخت می کرد",
+    "en": "Her insomnia made it hard to focus at work",
+    "groupCode": 0
+  },
+  {
+    "id": 3106,
+    "fa": "او (مرد) پس از ایستادن خیلی زیاد احساس ضعف کرد",
+    "en": "He felt faint after standing for too long",
+    "groupCode": 0
+  },
+  {
+    "id": 3107,
+    "fa": "من احساس سوزن و سوزن (سنجاق) در دستم حس می کنم",
+    "en": "I feel pins and needles in my hand",
+    "groupCode": 0
+  },
+  {
+    "id": 3108,
+    "fa": "احساس بی حالی می کنم",
+    "en": "I feel lethargic",
+    "groupCode": 0
+  },
+  {
+    "id": 3109,
+    "fa": "او (زن) با یک پزشک ازدواج کرده است.",
+    "en": "She is married to a doctor",
+    "groupCode": 0
+  },
+  {
+    "id": 3110,
+    "fa": "میشه این عکس رو برای من قاب کنی؟",
+    "en": "Can you frame this photo for me?",
     "groupCode": 0
   }
 ]
