@@ -3755,8 +3755,8 @@
   },
   {
     "id": 622,
-    "fa": "لطفا به من اطلاع بده اگر کمک نیاز داری با هر چیز دیگری",
-    "en": "Let me know if you need help with anything else",
+    "fa": "به من اطلاع بده اگر چیز دیگری هست که به کمک نیاز دارید",
+    "en": "Let me know if there's anything else you need help with",
     "groupCode": 0
   },
   {
@@ -8315,7 +8315,7 @@
   },
   {
     "id": 1369,
-    "fa": "بسیاری از مردم ازدواج شاد داشتند اما در نهایت طلاق گرفتند",
+    "fa": "بسیاری از مردم ازدواج خوشحالی داشتند اما در نهایت طلاق گرفتند",
     "en": "A lot of people had a happy marriage but they ended up getting divorced",
     "groupCode": 0
   },
