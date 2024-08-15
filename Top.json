@@ -1,0 +1,45 @@
+[
+  {
+    "id":,
+    "fa": "Private Equity",
+    "en": "Private equity refers to investment in private companies (not publicly traded on stock exchanges) through the purchase of shares or stakes. Investors provide capital with the expectation of high returns, often by improving the company's performance and eventually selling it at a profit",
+    "groupCode": 0
+  },
+  {
+    "id":,
+    "fa": "M&A",
+    "en": "Mergers and acquisitions (M&A) refer to the processes of combining companies (mergers) or purchasing one company by another (acquisitions).\n\nMergers occur when two companies join to form a new entity.\nAcquisitions happen when one company buys another, which then becomes part of the buying company.\nM&A activities are often used to expand market reach, enhance capabilities, or increase efficiencies",
+    "groupCode": 0
+  },
+  {
+    "id":,
+    "fa": "VC",
+    "en": "VC stands for venture capital. It refers to funding provided to early-stage, high-growth potential startups or small businesses in exchange for equity. Venture capital is typically used to help these companies grow and scale before they become profitable or go public.",
+    "groupCode": 0
+  },
+  {
+    "id":,
+    "fa": "Different between VC and PE",
+    "en": "Venture Capital (VC) invests in early-stage startups with high growth potential, often with high risk and high reward. Private Equity (PE) invests in mature, established companies, focusing on improving their value and often involves larger investments with lower risk",
+    "groupCode": 0
+  },
+  {
+    "id":,
+    "fa": "Ticket size",
+    "en": "Ticket size refers to the amount of money invested in a single deal or transaction. In finance and investment, it indicates the scale of individual investments, such as the size of a venture capital investment or a private equity buyout",
+    "groupCode": 0
+  },
+  {
+    "id": ,
+    "fa": "What is pig butchering Scam?",
+    "en": "A pig butchering scam is a type of fraud where scammers build a relationship with a victim to gain their trust, then persuade them to invest large sums of money with false promises of high returns. Eventually, the scammers disappear with the money, leaving the victim with significant financial losses. The term \"pig butchering\" comes from the idea of fattening up a pig (the victim) before slaughtering it (defrauding them)",
+    "groupCode": 0
+  }
+]
+
+
+
+
+
+
+

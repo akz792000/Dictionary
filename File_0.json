@@ -4610,7 +4610,7 @@
   },
   {
     "id": 761,
-    "fa": "پس از اتمام پروژه، هیجان زده بودم از دریافت دستمزد برای سخت کوشیم",
+    "fa": "پس از اتمام پروژه، هیجان زده بودم از پرداخت شدن (دریافت حقوق) برای سخت کوشیم",
     "en": "After completing the project, I was thrilled to get paid for my hard work",
     "groupCode": 0
   },
@@ -6724,7 +6724,7 @@
   },
   {
     "id": 1107,
-    "fa": "داشت یادم می رفت! نیاز داریم در راه خانه مقداری مواد غذایی برداریم",
+    "fa": "داشت فراموش می شد! نیاز داریم در راه خانه مقداری مواد غذایی برداریم",
     "en": "I almost forgot! We need to pick up some groceries on the way home",
     "groupCode": 0
   },
@@ -7137,7 +7137,7 @@
   },
   {
     "id": 1175,
-    "fa": "بچه ها به نظر نمی رسید متوجه سرما باشند",
+    "fa": "بچه ها به نظر نمی رسه متوجه سرما باشند",
     "en": "Children don't seem to notice the cold",
     "groupCode": 0
   },
@@ -9199,7 +9199,7 @@
     "id": 1515,
     "fa": "آیا تا به حال آرزو کردی بتوانی پرواز کنید؟",
     "en": "Do you ever wish you could fly?",
-    "desc" : "\"Do you ever wish\" - This asks about the person's current or habitual desire to go out.\n\n\"Did you ever wish\" - This asks about the person's past desire to go out at some point.",
+    "desc": "\"Do you ever wish\" - This asks about the person's current or habitual desire to go out.\n\n\"Did you ever wish\" - This asks about the person's past desire to go out at some point.",
     "groupCode": 0
   },
   {
@@ -10801,7 +10801,7 @@
   },
   {
     "id": 1780,
-    "fa": "چه چیزی به شما پرداخت می شود در یک ماه؟",
+    "fa": "چه (حقوقی می گیرید) به شما پرداخت می شود در یک ماه؟",
     "en": "What do you get paid a month?",
     "groupCode": 0
   },
@@ -12140,6 +12140,6073 @@
     "id": 2000,
     "fa": "زمان سریع می گذره وقتی شما در حال خوش گذرانی هستی",
     "en": "Time flies when you're having fun",
+    "groupCode": 0
+  },
+  {
+    "id": 2001,
+    "fa": "بهتر می شد (فرضی) اگر می تونستم یک کورس انجام بدم بدون اینکه زمان زیادی از کار دور باشم",
+    "en": "It would be better if I could do a course without too much time away from work",
+    "groupCode": 0
+  },
+  {
+    "id": 2002,
+    "fa": "من حدود پنج سال تجربه کار مربوطه را دارم",
+    "en": "I have got about five years of relevant work experience",
+    "groupCode": 0
+  },
+  {
+    "id": 2003,
+    "fa": "یک مقلد مباش",
+    "en": "Don't be an imitator",
+    "groupCode": 0
+  },
+  {
+    "id": 2004,
+    "fa": "ما خیلی وقت می خواستیم به کتابخانه ملحق شویم",
+    "en": "We have been meaning to join the library for a while",
+    "groupCode": 0
+  },
+  {
+    "id": 2005,
+    "fa": "آیا می توانم یک دوست را به پارتی بیاورم؟",
+    "en": "Can I bring a friend along to the party?",
+    "groupCode": 0
+  },
+  {
+    "id": 2006,
+    "fa": "من داشتم می غلطیدم تمام شب",
+    "en": "I was tossing all night",
+    "groupCode": 0
+  },
+  {
+    "id": 2007,
+    "fa": "ورق بزن و به صفحه بعد نگاه کن",
+    "en": "Turn the page and look at the next page",
+    "groupCode": 0
+  },
+  {
+    "id": 2008,
+    "fa": "من آن کفش های مشکی را امتحان کردم",
+    "en": "I tried on those black shoes",
+    "groupCode": 0
+  },
+  {
+    "id": 2009,
+    "fa": "من حجم کار سنگینی دارم",
+    "en": "I have a heavy workload",
+    "groupCode": 0
+  },
+  {
+    "id": 2010,
+    "fa": "کشیدن سیگار برای سلامتی شما زیان آور است",
+    "en": "Cigarette (/ˌsɪɡəˈret/) smoking is detrimental to your health",
+    "groupCode": 0
+  },
+  {
+    "id": 2011,
+    "fa": "ناگفته نماند که، من تا حدی با این ادعا موافق نیستم",
+    "en": "Having said that, I partially disagree with this given assertion",
+    "groupCode": 0
+  },
+  {
+    "id": 2012,
+    "fa": "جعبه کمک های اولیه کجاست؟",
+    "en": "Where is the first aid kit?",
+    "groupCode": 0
+  },
+  {
+    "id": 2013,
+    "fa": "تو این را با من تمام می کنی چون من خیلی غر می زنم",
+    "en": "You are ending this with me because I am too whining",
+    "groupCode": 0
+  },
+  {
+    "id": 2014,
+    "fa": "رگ ها در گردنش (مرد) برآمده می شوند",
+    "en": "The veins in his neck bulge",
+    "groupCode": 0
+  },
+  {
+    "id": 2015,
+    "fa": "من همیشه  می یام با ایده های خلاقانه",
+    "en": "I always come up with creative ideas",
+    "groupCode": 0
+  },
+  {
+    "id": 2016,
+    "fa": "به لطف نیاز دارم",
+    "en": "I need a favor",
+    "groupCode": 0
+  },
+  {
+    "id": 2017,
+    "fa": "من معمولا از ساعت 5 به بعد در خانه هستم",
+    "en": "I'm usually at home from 5 o'clock onward",
+    "groupCode": 0
+  },
+  {
+    "id": 2018,
+    "fa": "من دادم دندانپزشکم دندان هایم را چک کند",
+    "en": "I got my dentist to check up my teeth",
+    "desc": "Active Causative Formulas\nUsing \"make\":\n\nSubject + make + person + bare infinitive\nExample: \"She makes him clean the house.\"\nUsing \"have\":\n\nSubject + have + person + bare infinitive\nExample: \"She has the mechanic check the car.\"\nUsing \"let\":\n\nSubject + let + person + bare infinitive\nExample: \"They let him enter the room.\"\nUsing \"get\":\n\nSubject + get + person + to + bare infinitive\nExample: \"He gets her to cook dinner.\"",
+    "groupCode": 0
+  },
+  {
+    "id": 2019,
+    "fa": "این را نمی توان نادیده گرفت",
+    "en": "This can't be overlooked",
+    "groupCode": 0
+  },
+  {
+    "id": 2020,
+    "fa": "اگر تکامل پیدا نکنیم رکود و پوسیده می شیم",
+    "en": "If we do not evolve we stagnate and rot",
+    "groupCode": 0
+  },
+  {
+    "id": 2021,
+    "fa": "من پیشنهاد می کنم که شما در جلسه حضور داشته باشید",
+    "en": "I suggest that you be present at the meeting",
+    "groupCode": 0
+  },
+  {
+    "id": 2022,
+    "fa": "شیر آب را باز کن",
+    "en": "\n 1.Turn on the faucet \n 2.Turn on the tap",
+    "groupCode": 0
+  },
+  {
+    "id": 2023,
+    "fa": "او (مرد) کر، لال و کور به دنیا آمد",
+    "en": "He was born deaf, dumb (/dʌm/), and blind",
+    "groupCode": 0
+  },
+  {
+    "id": 2024,
+    "fa": "روی پارکت های ضعیف پا نگذارید",
+    "en": "Don't tramp on the weak floorboards",
+    "groupCode": 0
+  },
+  {
+    "id": 2025,
+    "fa": "من رو شانسم حساب باز نمی کنم",
+    "en": "\n 1.I don't reckon my chances \n 2.I don't count on my chances",
+    "groupCode": 0
+  },
+  {
+    "id": 2026,
+    "fa": "مرغ کمی بی مزه است",
+    "en": "The chicken is a little bland",
+    "groupCode": 0
+  },
+  {
+    "id": 2027,
+    "fa": "با قفل ور نرو",
+    "en": "Don't fumble with the lock",
+    "groupCode": 0
+  },
+  {
+    "id": 2028,
+    "fa": "به نظر می رسد که شما میل شدیدی به این وظیفه دارید",
+    "en": "It seems that you have an overwhelming desire for this task",
+    "groupCode": 0
+  },
+  {
+    "id": 2029,
+    "fa": "هرازگاهی برای یه سر به پارک می زنم",
+    "en": "Every now and then, I head over to the park",
+    "groupCode": 0
+  },
+  {
+    "id": 2030,
+    "fa": "مسئولیت دفع ضایعات بر عهده چه کسی است؟",
+    "en": "Whose responsibility is it to dispose of scrap materials (/məˈtɪr.i.əl/)?",
+    "groupCode": 0
+  },
+  {
+    "id": 2031,
+    "fa": "بچه دزدها تقاضای یک باج کردند",
+    "en": "The kidnappers demanded a ransom (/ˈrænsəm/)",
+    "groupCode": 0
+  },
+  {
+    "id": 2032,
+    "fa": "گاهی اوقات من (فرضی) عذاب می کشیدم روی هر تصمیمی قبل از اینکه انتخابی کنم",
+    "en": "Sometimes, I would agonize (/ˈæɡəˌnaɪz/) over every decision before making a choice",
+    "groupCode": 0
+  },
+  {
+    "id": 2033,
+    "fa": "دید خود را نسبت به زندگی گسترش دهید",
+    "en": "Broaden your outlook on life",
+    "groupCode": 0
+  },
+  {
+    "id": 2034,
+    "fa": "این یک راه حل ساده و کم هزینه (گران نیست) است",
+    "en": "This is a simple and inexpensive solution",
+    "groupCode": 0
+  },
+  {
+    "id": 2035,
+    "fa": "شما اشتباه می فهمید، او (مرد) دیگر در خیابان نیست",
+    "en": "You misunderstand, He is no longer on the street",
+    "groupCode": 0
+  },
+  {
+    "id": 2036,
+    "fa": "او (مرد) چقدر میتونه پیش بره (برسه)؟",
+    "en": "How far can he get?",
+    "groupCode": 0
+  },
+  {
+    "id": 2037,
+    "fa": "اگر من انجام نداده بودم آن را، شرکت خیلی وقت پیش ورشکست شده بود",
+    "en": "If I hadn't done that, the company would have long ago gone bankrupt",
+    "groupCode": 0
+  },
+  {
+    "id": 2038,
+    "fa": "آنقدر داره برات طول میکشه که مدفوع کنی؟",
+    "en": "Is it taking you that long to poop?",
+    "groupCode": 0
+  },
+  {
+    "id": 2039,
+    "fa": "من همچنین به چند دستمال اضافی نیاز دارم",
+    "en": "I also need some extra napkins",
+    "groupCode": 0
+  },
+  {
+    "id": 2040,
+    "fa": "من می توانم همچنین مقداری سس اضافی بگیرم؟",
+    "en": "Can I also get some extra sauce?",
+    "groupCode": 0
+  },
+  {
+    "id": 2041,
+    "fa": "می توانم یک جعبه (برای بردن غذا) دریافت کنم لطفا؟",
+    "en": "Can I get a to-go box please?",
+    "groupCode": 0
+  },
+  {
+    "id": 2042,
+    "fa": "احمقانه ترین چیزی که انجام دادی به عنوان یک بچه چیست؟",
+    "en": "What's the dumbest thing you did as a kid?",
+    "groupCode": 0
+  },
+  {
+    "id": 2043,
+    "fa": "تو منو ترسوندی (برینم تو خودم)",
+    "en": "You scared the shit out of me",
+    "groupCode": 0
+  },
+  {
+    "id": 2044,
+    "fa": "من پسرم را در یک مهد کودک (مراقبت در روز) پیاده می کنم",
+    "en": "I drop off my son at a daycare",
+    "groupCode": 0
+  },
+  {
+    "id": 2045,
+    "fa": "اهل تقریبی کجای آلمان هستی؟",
+    "en": "Whereabouts in Germany are you from?",
+    "groupCode": 0
+  },
+  {
+    "id": 2046,
+    "fa": "برای من زیاد طول نمی کشد که قلقش دستم بیاد",
+    "en": "It doesn't take long for me to get the hang of it",
+    "desc": "If you want to use \"a\" with \"long,\" you might say something like \"It doesn't take a long time for me,\" but in the original sentence, \"long\" is already functioning as a noun.",
+    "groupCode": 0
+  },
+  {
+    "id": 2047,
+    "fa": "من تمام زیر و بم شغلم را بلدم",
+    "en": "I know all the ins and outs of my job",
+    "groupCode": 0
+  },
+  {
+    "id": 2048,
+    "fa": "الان یا هیچوقت",
+    "en": "Now or never",
+    "groupCode": 0
+  },
+  {
+    "id": 2049,
+    "fa": "ساعت 6 آماده خواهد شد، چند دقیقه کم و بیش",
+    "en": "It'll be ready at 6, give or take a few minutes",
+    "groupCode": 0
+  },
+  {
+    "id": 2050,
+    "fa": "از شما خواسته خواهد شد تأیید بدید هویت خود را",
+    "en": "You will be asked to give proof of your identity",
+    "groupCode": 0
+  },
+  {
+    "id": 2051,
+    "fa": "تو خیلی احمقی. دیوانه چو دیوانه ببیند خوشش آید",
+    "en": "You're such an idiot. It takes one to know me",
+    "groupCode": 0
+  },
+  {
+    "id": 2052,
+    "fa": "اشکالی نداره منم باهات بیام",
+    "en": "Mind if I tag along?",
+    "groupCode": 0
+  },
+  {
+    "id": 2053,
+    "fa": "منو تو رودربایستی ننداز",
+    "en": "Don't put me on the spot",
+    "groupCode": 0
+  },
+  {
+    "id": 2054,
+    "fa": "اگر غذای ناسالم دارید, شما ممکن است بگیرید مسمومیت غذایی",
+    "en": "If you have unhealthy food, you might get food poisoning",
+    "groupCode": 0
+  },
+  {
+    "id": 2055,
+    "fa": "وجدانم راحته",
+    "en": "My conscience is clear",
+    "groupCode": 0
+  },
+  {
+    "id": 2056,
+    "fa": "من به اندازه کافی (حقوق دریافت نمی کنم) پرداخت نمیشه برای این مزخرفات (گه)",
+    "en": "I don't get paid enough for this shit",
+    "groupCode": 0
+  },
+  {
+    "id": 2057,
+    "fa": "یک سکه را بنداز تا مشخص شود آیا شیر میاد یا خط",
+    "en": "Flip a coin to determine if it lands heads or tails",
+    "groupCode": 0
+  },
+  {
+    "id": 2058,
+    "fa": "مشغول صحبت کردن با تلفن بودم",
+    "en": "I was busy talking on the phone",
+    "groupCode": 0
+  },
+  {
+    "id": 2059,
+    "fa": "به او (مرد) اجازه نده روت تاثیر (بد) بزاره",
+    "en": "Don't let him get to you",
+    "groupCode": 0
+  },
+  {
+    "id": 2060,
+    "fa": "خیلی زود جشن نگیرید وقتی در برابر من هستی",
+    "en": "Do not celebrate too early when you're up against me",
+    "groupCode": 0
+  },
+  {
+    "id": 2061,
+    "fa": "چیزی که او (مرد) انجام داد وحشتناک بود و هیچ توجیهی براش وجود ندارد",
+    "en": "What he did was horrific and there's no justification for it",
+    "groupCode": 0
+  },
+  {
+    "id": 2062,
+    "fa": "چیزی که داره برای آنها اتفاق می افتد غیرقابل تحمل است",
+    "en": "What's happening to them is unbearable",
+    "groupCode": 0
+  },
+  {
+    "id": 2063,
+    "fa": "اگر می خواهید مشکل را حل کنید، باید تمام حقیقت را در نظر بگیرید",
+    "en": "If you wanna solve the problem, you have to take in the whole truth",
+    "groupCode": 0
+  },
+  {
+    "id": 2064,
+    "fa": "همه ما تا حدی شریک جرم هستیم",
+    "en": "All of us are complicit to some degree",
+    "groupCode": 0
+  },
+  {
+    "id": 2065,
+    "fa": "کاسه ای زیر نیم کاسست (یک اتفاق مشکوک در حال رخ دادن است)",
+    "en": "There's some monkey business going on",
+    "groupCode": 0
+  },
+  {
+    "id": 2066,
+    "fa": "کفش هایتان را در بیاورید و جیب هایتان را خالی کنید",
+    "en": "Take off your shoes and empty your pockets",
+    "groupCode": 0
+  },
+  {
+    "id": 2067,
+    "fa": "کیف خود را روی تسمه نقاله قرار دهید",
+    "en": "Put your bag on the conveyor belt",
+    "groupCode": 0
+  },
+  {
+    "id": 2068,
+    "fa": "از طریق فلزیاب راه بروید",
+    "en": "Walk through the metal detector",
+    "groupCode": 0
+  },
+  {
+    "id": 2069,
+    "fa": "کارت پرواز (کارت سفر با هواپیما) خود را دریافت کنید سپس سوار هواپیما بشید",
+    "en": "Get your boarding pass then board the plane",
+    "groupCode": 0
+  },
+  {
+    "id": 2070,
+    "fa": "صندلی خود را پیدا کنید و جا دهید کیف دستی خود را در محفظه بالای سر",
+    "en": "Find your seat and stow your carry-on bag in the overhead compartment",
+    "groupCode": 0
+  },
+  {
+    "id": 2071,
+    "fa": "کمربند ایمنی خود را ببندید",
+    "en": "Fasten your seat belt",
+    "groupCode": 0
+  },
+  {
+    "id": 2072,
+    "fa": "در دروازه چک این کنید",
+    "en": "Check in at the gate",
+    "groupCode": 0
+  },
+  {
+    "id": 2073,
+    "fa": "غرفه ماشین کرایه کجاست؟",
+    "en": "Where's the rental car booth?",
+    "groupCode": 0
+  },
+  {
+    "id": 2074,
+    "fa": "چه اندازه ماشینی (فرضی) دوست دارید؟",
+    "en": "What size car would you like?",
+    "desc": "Adjective-Noun Order: In English, adjectives usually come before the nouns they modify. In this case, \"size\" is an adjective describing the noun \"car.",
+    "groupCode": 0
+  },
+  {
+    "id": 2075,
+    "fa": "چه مدت به ماشین نیاز خواهید داشت؟",
+    "en": "How long will you be needing the car?",
+    "desc": "\"How long will you need the car?\" implies a general duration, while \"How long will you be needing the car?\" suggests a more specific or temporary need.",
+    "groupCode": 0
+  },
+  {
+    "id": 2076,
+    "fa": "چه کسی قصد دارد راننده شه؟",
+    "en": "Who is gonna be the driver?",
+    "groupCode": 0
+  },
+  {
+    "id": 2077,
+    "fa": "شما باید آن را پر کنید قبل از اینکه شما ماشین را بازگردانید",
+    "en": "You should fill it up before you return the car",
+    "groupCode": 0
+  },
+  {
+    "id": 2078,
+    "fa": "چگونه قصد داری به آنجا برسی؟ من قصد دارم اتوبوس بگیرم",
+    "en": "How are you gonna get there? I'm gonna take the bus",
+    "groupCode": 0
+  },
+  {
+    "id": 2079,
+    "fa": "پس از یک پرواز طولانی، ما به سمت تحویل بار رفتیم تا چمدان هایمان را جمع کنیم",
+    "en": "After a long flight, we headed to the baggage claim to collect our suitcases",
+    "groupCode": 0
+  },
+  {
+    "id": 2080,
+    "fa": "نزدیک تسمه نقاله چمدان منتظر ماندم تا چمدانم برسد",
+    "en": "I waited near the baggage carousel /ˈkerəˌsel/ for my luggage to arrive",
+    "groupCode": 0
+  },
+  {
+    "id": 2081,
+    "fa": "کارمند فرودگاه گاری بار را با چرخ از روی آسفالت عبور داد",
+    "en": "The airport employee wheeled the baggage cart across the tarmac",
+    "groupCode": 0
+  },
+  {
+    "id": 2082,
+    "fa": "کت و شلوارم را برای سفر در یک کاور لباس جمع (پک) کردم",
+    "en": "I packed my suit in a garment bag for the trip",
+    "groupCode": 0
+  },
+  {
+    "id": 2083,
+    "fa": "من قبل از فرود فرم اظهارنامه گمرکی را پر کردم",
+    "en": "I filled out the customs declaration form before landing",
+    "groupCode": 0
+  },
+  {
+    "id": 2084,
+    "fa": "مهماندار در طول پرواز نوشیدنی سرو کرد",
+    "en": "The flight attendant served drinks during the flight",
+    "groupCode": 0
+  },
+  {
+    "id": 2085,
+    "fa": "من خوشحال نیستم، منم نیستم، منم نیستم",
+    "en": "I am not happy, neither (nor) am I, I am not either",
+    "groupCode": 0
+  },
+  {
+    "id": 2086,
+    "fa": "من خوشحالم، منم همینطور",
+    "en": "I am happy, so am I",
+    "groupCode": 0
+  },
+  {
+    "id": 2087,
+    "fa": "این خاطرات با گذشت زمان کم نخواهد شد",
+    "en": "These memories will not be diminished by time",
+    "groupCode": 0
+  },
+  {
+    "id": 2088,
+    "fa": "هیچ ماشینی وجود ندارد",
+    "en": "\n 1.There isn't any car \n 2.There is no car",
+    "groupCode": 0
+  },
+  {
+    "id": 2089,
+    "fa": "باکتری باعث تخمیر می شود",
+    "en": "Bacteria causes fermentation",
+    "groupCode": 0
+  },
+  {
+    "id": 2090,
+    "fa": "ما (همین الان) داشتیم صحبت می کردیم ولی خط قطع شد",
+    "en": "We were just talking but the line cut out",
+    "desc": "Only moments ago, we were talking when the line disconnected",
+    "groupCode": 0
+  },
+  {
+    "id": 2091,
+    "fa": "پدر من یک صدای زیبای آواز خواندن داشت",
+    "en": "My father had a beautiful singing voice",
+    "groupCode": 0
+  },
+  {
+    "id": 2092,
+    "fa": "یک بوی زننده-نامطبوع اینجا است",
+    "en": "There's a nasty smell in here",
+    "groupCode": 0
+  },
+  {
+    "id": 2093,
+    "fa": "بدن شروع به پوسیدگی کرده بود",
+    "en": "The body had begun to decay",
+    "groupCode": 0
+  },
+  {
+    "id": 2094,
+    "fa": "سیاستی که تورم را از (فرضی) بین می برد",
+    "en": "A policy that would eliminate inflation",
+    "groupCode": 0
+  },
+  {
+    "id": 2095,
+    "fa": "او (زن) تحت یک پیوند ریه موفقیت آمیز ماه پیش قرار گرفت",
+    "en": "She underwent a successful lung transplant last month",
+    "groupCode": 0
+  },
+  {
+    "id": 2096,
+    "fa": "شما می توانید چتر من را بردارید، اما لطفا برش گردانید",
+    "en": "You can take my umbrella, but please bring it back",
+    "groupCode": 0
+  },
+  {
+    "id": 2097,
+    "fa": "برای بعضی دلایل مبهم، او (مرد) موفق نشد (ناموفق) حضور پیدا کند",
+    "en": "For some obscure reasons, he failed to turn up",
+    "groupCode": 0
+  },
+  {
+    "id": 2098,
+    "fa": "من با یک عکس قدیمی مواجه شدم در حال تمیز کردن اتاقم",
+    "en": "I came across an old photo while cleaning my room",
+    "groupCode": 0
+  },
+  {
+    "id": 2099,
+    "fa": "تو همیشه درباره حشرات چندش میشی",
+    "en": "You have always been squeamish about bugs",
+    "groupCode": 0
+  },
+  {
+    "id": 2100,
+    "fa": "سعی کنید مصرف کنید یک آرام بخش",
+    "en": "Try taking a tranquilizer",
+    "groupCode": 0
+  },
+  {
+    "id": 2101,
+    "fa": "من مایلم موها را کوتاه کنم",
+    "en": "I'd like to have a haircut",
+    "groupCode": 0
+  },
+  {
+    "id": 2102,
+    "fa": "به فرض که اخبار درست باشد، بعدش چی",
+    "en": "Suppose the news is true, what then",
+    "groupCode": 0
+  },
+  {
+    "id": 2103,
+    "fa": "من بی خیالتم",
+    "en": "I am over you",
+    "desc": "I have no feelings about you",
+    "groupCode": 0
+  },
+  {
+    "id": 2104,
+    "fa": "از روی قصد انجام ندادم",
+    "en": "I didn't do it intentionally",
+    "groupCode": 0
+  },
+  {
+    "id": 2105,
+    "fa": "من کمی شک دارم در مورد کاری که برای شما انجام می دهند",
+    "en": "I'm a bit skeptical about what they do for you",
+    "groupCode": 0
+  },
+  {
+    "id": 2106,
+    "fa": "من خراب و داغونم",
+    "en": "I'm a wreck",
+    "groupCode": 0
+  },
+  {
+    "id": 2107,
+    "fa": "من هرگز (فرضی) امنیت خانواده ام را به خطر نمی اندازم",
+    "en": "I would never compromise the safety of my family",
+    "groupCode": 0
+  },
+  {
+    "id": 2108,
+    "fa": "نوزاد را پوشک کن",
+    "en": "Put a diaper on a baby",
+    "groupCode": 0
+  },
+  {
+    "id": 2109,
+    "fa": "تحملم کن",
+    "en": "Bear with me",
+    "groupCode": 0
+  },
+  {
+    "id": 2110,
+    "fa": "نام مرا با صدای بلند صدا نزنید",
+    "en": "Do not call out my name",
+    "groupCode": 0
+  },
+  {
+    "id": 2111,
+    "fa": "من دارم شما را با دقت تماشا می کنم",
+    "en": "I am watching you intently",
+    "groupCode": 0
+  },
+  {
+    "id": 2112,
+    "fa": "من داشتم چانه می زدم سر قیمت گلدان عتیقه",
+    "en": "I was haggling over the price of the antique vase",
+    "groupCode": 0
+  },
+  {
+    "id": 2113,
+    "fa": "چیزی که الان گفتم را پس میگیرم",
+    "en": "I take back what I just said",
+    "groupCode": 0
+  },
+  {
+    "id": 2114,
+    "fa": "وقتم تموم شده ولی نگران نباش, بدون تو کنار خواهم آمد",
+    "en": "I am out of time but don't worry, I'll get along without you",
+    "groupCode": 0
+  },
+  {
+    "id": 2115,
+    "fa": "من نمی توانم در نظر بگیرم تمام چیزهاییکه دارن اتفاق می افتند در دنیا",
+    "en": "I can't take into consideration everything that is happening in the world",
+    "groupCode": 0
+  },
+  {
+    "id": 2116,
+    "fa": "من جوان نیستم (مرغ بهاری)",
+    "en": "I'm no spring chicken",
+    "groupCode": 0
+  },
+  {
+    "id": 2117,
+    "fa": "لطفا خاکستر سیگارت را رو روی قالی نتکان",
+    "en": "Please don't flick your cigarette ash on the carpet",
+    "groupCode": 0
+  },
+  {
+    "id": 2118,
+    "fa": "هوا آلوده شده بود توسط دودها از ماشین ها",
+    "en": "The air was tainted by fumes from the cars",
+    "groupCode": 0
+  },
+  {
+    "id": 2119,
+    "fa": "چیزهای زیادی است که من دوست دارم (تاکید) در موردش",
+    "en": "There are a lot of things that I do like about it",
+    "groupCode": 0
+  },
+  {
+    "id": 2120,
+    "fa": "از همان ابتدا، من فهمیدم دستورالعمل ها را بدون هیچ توضیح بیشتر",
+    "en": "Right off the bat, I understood the instructions without any further explanation",
+    "groupCode": 0
+  },
+  {
+    "id": 2121,
+    "fa": "لطفا صبر کنید تا هواپیما بگذرد",
+    "en": "Please wait for the plane to pass by",
+    "groupCode": 0
+  },
+  {
+    "id": 2122,
+    "fa": "خیلی عجیبه",
+    "en": "It's very odd",
+    "groupCode": 0
+  },
+  {
+    "id": 2123,
+    "fa": "آن یک سوء تفاهم کامل بود",
+    "en": "That was a complete misunderstanding",
+    "groupCode": 0
+  },
+  {
+    "id": 2124,
+    "fa": "بعد از مشاجره کردن برای یک زمان زیادی, معلوم شد که او داشت (زن) دروغ می گفت",
+    "en": "After arguing for a long time, it turned out that she was lying",
+    "groupCode": 0
+  },
+  {
+    "id": 2125,
+    "fa": "من دارم دست تکان می دهم و تو داری دست تکان میدی (برمی گردونی)",
+    "en": "I'm waving and you're waving back",
+    "groupCode": 0
+  },
+  {
+    "id": 2126,
+    "fa": "این صبح من او (مرد) را گرفتم (در حال) نگاه کردن درون آپارتمانم",
+    "en": "This morning I caught him looking into my apartment",
+    "groupCode": 0
+  },
+  {
+    "id": 2127,
+    "fa": "صدای ناخن ها (در حال) خراشیدن روی تخته گچی واقعاً مرا می ترساند",
+    "en": "The sound of nails scraping on a chalkboard really creeps me out",
+    "groupCode": 0
+  },
+  {
+    "id": 2128,
+    "fa": "ببینید آن رشته ها چقدر صاف هستند",
+    "en": "Look how straight those noodles are",
+    "groupCode": 0
+  },
+  {
+    "id": 2129,
+    "fa": "نامزد کرده بودم",
+    "en": "I was engaged",
+    "groupCode": 0
+  },
+  {
+    "id": 2130,
+    "fa": "امروز خیلی سرده (به تلخی). بفرمایید یک روسری برای گرم نگه داشتن شما",
+    "en": "It's bitterly cold today. Here's a scarf to keep you warm",
+    "groupCode": 0
+  },
+  {
+    "id": 2131,
+    "fa": "ما قطع شدیم در وسط مکالمه تلفنی مان",
+    "en": "We were cut off in the middle of our phone conversation",
+    "groupCode": 0
+  },
+  {
+    "id": 2132,
+    "fa": "من دارم اونو نمی گم، شما داری بهانه می گیری",
+    "en": "I'm not saying that, you're making excuses",
+    "groupCode": 0
+  },
+  {
+    "id": 2133,
+    "fa": "من احساس می کنم (مثل) گوش هایم گرفته",
+    "en": "I feel like my ears are clogged",
+    "groupCode": 0
+  },
+  {
+    "id": 2134,
+    "fa": "شما به یک سمعک نیاز دارید",
+    "en": "You need a hearing aid",
+    "groupCode": 0
+  },
+  {
+    "id": 2135,
+    "fa": "دیدم تار است",
+    "en": "My vision is blurred",
+    "desc": "\"Blurry\" is an adjective describing the current state of being unclear or out of focus.\n\"Blurred\" is both an adjective and the past participle of the verb \"blur,\" indicating that something has been made unclear or out of focus.",
+    "groupCode": 0
+  },
+  {
+    "id": 2136,
+    "fa": "من نزدیک بین/دور بین هستم",
+    "en": "I'm near sighted/far-sighted",
+    "groupCode": 0
+  },
+  {
+    "id": 2137,
+    "fa": "تو به عینک نیاز داری",
+    "en": "You need glasses",
+    "groupCode": 0
+  },
+  {
+    "id": 2138,
+    "fa": "جریمه شدم",
+    "en": "I was fined",
+    "groupCode": 0
+  },
+  {
+    "id": 2139,
+    "fa": "من نمی خواهم جریمه شوم",
+    "en": "I don't want to be fined",
+    "groupCode": 0
+  },
+  {
+    "id": 2140,
+    "fa": "اگر کار خود را خیلی سریع تکمیل کنید، کار بیشتری به شما داده خواهد شد، نه پول بیشتر",
+    "en": "If you complete your work too quickly, you'll be given more work, not more money",
+    "groupCode": 0
+  },
+  {
+    "id": 2141,
+    "fa": "آیا شما مستأجر جدید هستید؟",
+    "en": "Are you the new tenant?",
+    "groupCode": 0
+  },
+  {
+    "id": 2142,
+    "fa": "آیا پایه ای؟",
+    "en": "\n 1.Are you down? \n 2.Are you game?",
+    "groupCode": 0
+  },
+  {
+    "id": 2143,
+    "fa": "چندین آزمایش آژیر در 20 دقیقه بعدی انجام خواهد شد",
+    "en": "Multiple siren (/سایرن/) tests will take place in the next 20 minutes",
+    "groupCode": 0
+  },
+  {
+    "id": 2144,
+    "fa": "سوال من از شماست",
+    "en": "It's my question to you",
+    "groupCode": 0
+  },
+  {
+    "id": 2145,
+    "fa": "نمی توان کمکی کرد",
+    "en": "It can't be helped",
+    "groupCode": 0
+  },
+  {
+    "id": 2146,
+    "fa": "بهتر ساکت باشی",
+    "en": "You better hush",
+    "groupCode": 0
+  },
+  {
+    "id": 2147,
+    "fa": "این رزومه به من داد مصاحبه ها در گوگل",
+    "en": "This resume got me interviews at Google",
+    "groupCode": 0
+  },
+  {
+    "id": 2148,
+    "fa": "در اینجا داره تنگ میشه من به سختی می توانم نفس بکشم",
+    "en": "It's getting tight in here. I can hardly breathe",
+    "groupCode": 0
+  },
+  {
+    "id": 2149,
+    "fa": "به لطف گرانش شدید، شما قادر نخواهید بود (فرضی) یک عضله را حرکت دهید",
+    "en": "Thanks to the extreme gravity, you wouldn't be able to move a muscle",
+    "groupCode": 0
+  },
+  {
+    "id": 2150,
+    "fa": "آیا می توانید با آن کفش ها زیاد راه بروید؟ خوب، نه برای مدت طولانی",
+    "en": "Can you walk much in those shoes? Well, not for long",
+    "groupCode": 0
+  },
+  {
+    "id": 2151,
+    "fa": "نوزاد شما الان چه سنی هستش؟",
+    "en": "How old is your baby now?",
+    "groupCode": 0
+  },
+  {
+    "id": 2152,
+    "fa": "عذرخواهی می کنم برای پاسخ دیرم",
+    "en": "I apologise for my late response",
+    "groupCode": 0
+  },
+  {
+    "id": 2153,
+    "fa": "متأسفانه باید شما را امروز رد کنم",
+    "en": "Unfortunately I have to turn you down today",
+    "groupCode": 0
+  },
+  {
+    "id": 2154,
+    "fa": "هیچ نظری ندارم تو آنرا از کجا شنیدی",
+    "en": "I have no idea where you heard that",
+    "groupCode": 0
+  },
+  {
+    "id": 2155,
+    "fa": "یک طیف کاملی از احساسات و انگیزه ها وجود دارد",
+    "en": "There's a whole spectrum of emotions and motivations",
+    "groupCode": 0
+  },
+  {
+    "id": 2156,
+    "fa": "یک جک بیش از اندازه رکیک بود",
+    "en": "It was an extremely vulgar /وُلگر/ joke",
+    "groupCode": 0
+  },
+  {
+    "id": 2157,
+    "fa": "اخراج ها دلیلی هستند که شرکت شما خانواده شما نیست و همکاران شما دوستان شما نیستند",
+    "en": "Layoffs are proof that your company isn't your family and your colleagues aren't your friends",
+    "groupCode": 0
+  },
+  {
+    "id": 2158,
+    "fa": "تقریبا غیر ممکن است تشخیص دادن تفاوت دو قلوها",
+    "en": "It's almost impossible to tell the twins apart",
+    "groupCode": 0
+  },
+  {
+    "id": 2159,
+    "fa": "گربه زبونتو خورده (گرفته)؟",
+    "en": "Cat got your tongue?",
+    "groupCode": 0
+  },
+  {
+    "id": 2160,
+    "fa": "مرا داخل این نکش",
+    "en": "Don't drag me into this",
+    "groupCode": 0
+  },
+  {
+    "id": 2161,
+    "fa": "کاش می توانستم خلاق باشم",
+    "en": "I wish I could be creative",
+    "groupCode": 0
+  },
+  {
+    "id": 2162,
+    "fa": "شما یک استعداد زیادی برای ایجاد موقعیت های دشوار دارید",
+    "en": "You have a great talent for creating difficult situations",
+    "groupCode": 0
+  },
+  {
+    "id": 2163,
+    "fa": "نوشیدن ها پای من",
+    "en": "Drinks are on me",
+    "groupCode": 0
+  },
+  {
+    "id": 2164,
+    "fa": "بیا دونگی حساب کنیم",
+    "en": "Let's go Dutch",
+    "groupCode": 0
+  },
+  {
+    "id": 2165,
+    "fa": "در این تیم هر کسی تو همه کارا همکاری می کنه",
+    "en": "In this team everyone chips in on everything",
+    "groupCode": 0
+  },
+  {
+    "id": 2166,
+    "fa": "من ایده خود را فردا در جلسه مطرح خواهم کرد",
+    "en": "I'll pitch my idea tomorrow at the meeting",
+    "desc": "\"I'll pitch my idea tomorrow at the meeting.\"\n\"I'll pitch my idea at the meeting tomorrow.\"\nThe choice between them depends on the emphasis you want to place. The first sentence emphasizes the timing (tomorrow), while the second emphasizes the location (at the meeting). Both are commonly used, so you can choose the one that fits your intended emphasis.",
+    "groupCode": 0
+  },
+  {
+    "id": 2167,
+    "fa": "این شرکت هست (مدتی) تنها بدترینی شرکتی (که) تا به حال ما با آن سروکار داشته ایم",
+    "en": "This company has been the single worst company we've ever dealt with",
+    "groupCode": 0
+  },
+  {
+    "id": 2168,
+    "fa": "کاش همه مثل من خوب بودند",
+    "en": "I wish everybody was as nice as I am",
+    "desc": "\n\"I wish everybody was as nice as I am\" is formally correct, matching the subjective case of the pronoun \"I.\" However, in everyday conversation, it's widely accepted to use \"me\" in this context, as in \"I wish everybody was as nice as me.\" Both versions are commonly used, and the choice may depend on the formality of the context and personal preference.",
+    "groupCode": 0
+  },
+  {
+    "id": 2169,
+    "fa": "قبل از اینکه ما پروژه را شروع کنیم، اجازه به من دهید یک پیشینه کوتاه مهیا کنم تا زمینه ای به شما بدهم",
+    "en": "Before we start the project, let me provide a short backstory to give you some context",
+    "groupCode": 0
+  },
+  {
+    "id": 2170,
+    "fa": "برای خودم یک لپ تاپ گرفتم",
+    "en": "I got myself a laptop",
+    "groupCode": 0
+  },
+  {
+    "id": 2171,
+    "fa": "تاریخ انقضا به پایان رسیده است (سررسید شده)",
+    "en": "Expiration date is overdue",
+    "groupCode": 0
+  },
+  {
+    "id": 2172,
+    "fa": "من از یک ماژیک برای برچسب زدن به کیف ناهارم استفاده کردم",
+    "en": "I used a sharpie to label my lunch bag",
+    "groupCode": 0
+  },
+  {
+    "id": 2173,
+    "fa": "چه باید بکنیم اگر بخواهیم حسابمون دوباره فعال شود؟",
+    "en": "What should we do if we want to have our account activated again?",
+    "groupCode": 0
+  },
+  {
+    "id": 2174,
+    "fa": "بچه ها تازه به اینجا رسیدید؟",
+    "en": "You guys just got here?",
+    "groupCode": 0
+  },
+  {
+    "id": 2175,
+    "fa": "چه کس دیگری اونجا برام ایستاده بود تا باهاش صحبت کنم؟",
+    "en": "Who else was standing there for me to talk to?",
+    "groupCode": 0
+  },
+  {
+    "id": 2176,
+    "fa": "آیا هستش حتی یک نام؟",
+    "en": "Is it even a name?",
+    "groupCode": 0
+  },
+  {
+    "id": 2177,
+    "fa": "مصری پی بردش",
+    "en": "The Egyption figured it out",
+    "groupCode": 0
+  },
+  {
+    "id": 2178,
+    "fa": "تو قصد داری درباره اش چه کنی؟",
+    "en": "What are you gonna do about it?",
+    "groupCode": 0
+  },
+  {
+    "id": 2179,
+    "fa": "در شرایط من (فرضی) چه کرده بودید؟",
+    "en": "What would you have done in my situation?",
+    "groupCode": 0
+  },
+  {
+    "id": 2180,
+    "fa": "مشکل ماشینت چیه؟ سپر شکسته است",
+    "en": "What's the matter with your car? The bumper is broken",
+    "groupCode": 0
+  },
+  {
+    "id": 2181,
+    "fa": "گلگیر جلوی ماشینش (مرد) فرو رفته است",
+    "en": "The front fender on his car is dented",
+    "groupCode": 0
+  },
+  {
+    "id": 2182,
+    "fa": "استفاده کن از سیگنال راهنمایت وقت تغییر دادن خطها",
+    "en": "Use your turn signal when changing lanes",
+    "groupCode": 0
+  },
+  {
+    "id": 2183,
+    "fa": "یک قالپاق براق در کنار جاده پیدا کردم",
+    "en": "I found a shiny hubcap on the roadside",
+    "groupCode": 0
+  },
+  {
+    "id": 2184,
+    "fa": "برف پاک کن ها را روشن کردم در هنگام طوفان باران",
+    "en": "I turned on the windshield wipers during the rainstorm",
+    "groupCode": 0
+  },
+  {
+    "id": 2185,
+    "fa": "آینه بغل را قبل از استارت زدن ماشین تنظیم کردم",
+    "en": "I adjusted the side mirror before starting the car",
+    "groupCode": 0
+  },
+  {
+    "id": 2186,
+    "fa": "یک باربند جدید روی ماشینم نصب کردم",
+    "en": "I installed a new roof rack on my car",
+    "groupCode": 0
+  },
+  {
+    "id": 2187,
+    "fa": "صدات داره قطع و وصل میشه",
+    "en": "Your voice is breaking up",
+    "groupCode": 0
+  },
+  {
+    "id": 2188,
+    "fa": "تو چغلی منو کردی؟",
+    "en": "Your tattled on me?",
+    "groupCode": 0
+  },
+  {
+    "id": 2189,
+    "fa": "اگر شیطون باشی، مادرت به تو درکونی خواهد زد",
+    "en": "If you're naughty, your mother will spank you",
+    "groupCode": 0
+  },
+  {
+    "id": 2190,
+    "fa": "من به او (زن) سیلی زدم",
+    "en": "I slapped her",
+    "groupCode": 0
+  },
+  {
+    "id": 2191,
+    "fa": "تو موذی هستی",
+    "en": "You're sneaky",
+    "groupCode": 0
+  },
+  {
+    "id": 2192,
+    "fa": "در چه حالی هستی؟ خوب، فقط با جریان پیش میرم",
+    "en": "How are you doing? Good, just going with the flow",
+    "groupCode": 0
+  },
+  {
+    "id": 2193,
+    "fa": "خیلی وسوسه انگیزه",
+    "en": "It's very tempting",
+    "groupCode": 0
+  },
+  {
+    "id": 2194,
+    "fa": "چند ساعت نیاز داری (فرضی) تدریس کنی برای آن؟",
+    "en": "How many hours would you need to teach for that?",
+    "groupCode": 0
+  },
+  {
+    "id": 2195,
+    "fa": "آیا می دانی نام جایی که نیاز داری بروی؟",
+    "en": "Do you know the name of where you need to go?",
+    "groupCode": 0
+  },
+  {
+    "id": 2196,
+    "fa": "من خیلی بگا رفتم",
+    "en": "I'm so fucked up",
+    "groupCode": 0
+  },
+  {
+    "id": 2197,
+    "fa": "قطعاً آن چیزی نبود که من فکر کردم قصد دارد باشد",
+    "en": "It was definitely not what I thought it was gonna be",
+    "groupCode": 0
+  },
+  {
+    "id": 2198,
+    "fa": "او (مرد) غذاهای ناسالم زیادی می خورد. او اضافه وزن ندارد, اما",
+    "en": "He eats a lot of junk food. He's not overweight, though (but)",
+    "desc": "Equal to \n 1.He eats a lot of junk food. Though, he's not overweight \n 2.Though, He eats a lot of junk food. He's not overweight",
+    "groupCode": 0
+  },
+  {
+    "id": 2199,
+    "fa": "او (مرد) تجربه دارد. او قادر نبوده است شغلی بگیرید, اما",
+    "en": "He has experience. He hasn't been able to get a job, though (but)",
+    "groupCode": 0
+  },
+  {
+    "id": 2200,
+    "fa": "آیا به کمک نیاز دارید؟ من خوبم. با تشکر، اما",
+    "en": "Do you need help? I'm fine. Thanks, though (but)",
+    "groupCode": 0
+  },
+  {
+    "id": 2201,
+    "fa": "من تا الان نیم سال است که در شغل جدید کار می کنم",
+    "en": "I've been working at the new job for half a year by now",
+    "groupCode": 0
+  },
+  {
+    "id": 2202,
+    "fa": "بیا در بعد از ظهر انجامش دهیم",
+    "en": "Let's do it in the afternoon",
+    "groupCode": 0
+  },
+  {
+    "id": 2203,
+    "fa": "یکی از آنها رادیوش (مرد) را پشت سر جا گذاشت",
+    "en": "One of them left his radio behind",
+    "groupCode": 0
+  },
+  {
+    "id": 2204,
+    "fa": "اتفاقا اسمشون رو گرفتی؟",
+    "en": "\n 1.Did you happen to catch their name? \n 2.Did you get their name by chance?",
+    "groupCode": 0
+  },
+  {
+    "id": 2205,
+    "fa": "چرا تعداد زیادی مردم (دارن) از این مکان بیرون رانده می شوند؟",
+    "en": "Why are so many people being kicked out of this place?",
+    "groupCode": 0
+  },
+  {
+    "id": 2206,
+    "fa": "من انتظار نداشتم آن اتفاق بیفتد",
+    "en": "I didn't expect that to happen",
+    "groupCode": 0
+  },
+  {
+    "id": 2207,
+    "fa": "متاسفم که یکم به شما تلنگر زدم در حال عبور",
+    "en": "Sorry for nudging you a bit while passing",
+    "groupCode": 0
+  },
+  {
+    "id": 2208,
+    "fa": "این مرد کمی شبیه شماست",
+    "en": "This guy looks a bit like you",
+    "groupCode": 0
+  },
+  {
+    "id": 2209,
+    "fa": "این مرد کمی مثل من بود",
+    "en": "This guy was a bit like me",
+    "groupCode": 0
+  },
+  {
+    "id": 2210,
+    "fa": "چرا من عصبانی (فرضی) باشم؟",
+    "en": "Why I would be angry?",
+    "groupCode": 0
+  },
+  {
+    "id": 2211,
+    "fa": "ما امیدواریم ما قادر بودیم روز خاکستری زمستانی شما را یک کمی شیرین کنیم",
+    "en": "We hope we were able to sweeten your gray winter day a little bit",
+    "groupCode": 0
+  },
+  {
+    "id": 2212,
+    "fa": "مراقب باشید، اعتیاد آور است",
+    "en": "Be careful, it's addictive",
+    "groupCode": 0
+  },
+  {
+    "id": 2213,
+    "fa": "او (مرد) مرا به یاد پدرم می اندازد",
+    "en": "He reminds me of my father",
+    "groupCode": 0
+  },
+  {
+    "id": 2214,
+    "fa": "علیرغم موقعیت والایش (مرد)، رئیس باقی ماند ملایم و متواضع",
+    "en": "Despite his high position, the boss remained lenient and humble",
+    "groupCode": 0
+  },
+  {
+    "id": 2215,
+    "fa": "کاش می توانستم به نوعی به عقب در زمان برگردم",
+    "en": "I wish I could somehow go back in time",
+    "groupCode": 0
+  },
+  {
+    "id": 2216,
+    "fa": "من یک اعتقاد دارم. اگر می خواهید کسی را بشناسید، شما باید به او قدرت بدهید. سپس می توانید رنگ واقعی آنها را ببینید",
+    "en": "I have a belief. If you wanna get to know someone, you gotta give 'em the power; then you can see their true colors",
+    "desc": "\"wanna\" (a colloquial way of saying \"want to\") and \"gotta\" (a contraction of \"got to\"). Wanting to know someone:\n\nBasic understanding.\nGeneral information.\nWanting to get to know someone:\n\nDeeper interest.\nBuilding a personal connection.\nLearning about personality and interests.",
+    "groupCode": 0
+  },
+  {
+    "id": 2217,
+    "fa": "من برای چیزهای بی اهمیت وقت ندارم. بیا روی وظایف مهم در دست تمرکز کنیم",
+    "en": "I don't have time for trivia. let's focus on the important tasks at hand",
+    "groupCode": 0
+  },
+  {
+    "id": 2218,
+    "fa": "هر دفعه سگ همسایه تمام شب پارس می کند من اذیت می شوم",
+    "en": "Every time the neighbor's dog barks all night, I get annoyed",
+    "groupCode": 0
+  },
+  {
+    "id": 2219,
+    "fa": "بقیه روز من شبیه چیست؟",
+    "en": "What does the rest of my day look like?",
+    "groupCode": 0
+  },
+  {
+    "id": 2220,
+    "fa": "آیا برای پیدا کردن دفتر هیچ مشکلی داشتید؟",
+    "en": "Did you have any trouble finding the office?",
+    "groupCode": 0
+  },
+  {
+    "id": 2221,
+    "fa": "من مجبورم مرتب بینی ام را بگیرم برای رفع گرفتگی",
+    "en": "I had to blow my nose frequently to relieve congestion",
+    "groupCode": 0
+  },
+  {
+    "id": 2222,
+    "fa": "من در دفتر نشسته به این فکر می کنم چه اتفاقی می افتد اگر به مدیر سیلی بزنم و فرار کنم",
+    "en": "Me sitting in the office thinking about what would happen if I slapped the manager and ran out",
+    "groupCode": 0
+  },
+  {
+    "id": 2223,
+    "fa": "جا باز کن بشینم",
+    "en": "\n1. Scoot over \n 2.Make some room",
+    "groupCode": 0
+  },
+  {
+    "id": 2224,
+    "fa": "من سه تا عمه و یک خاله دارم",
+    "en": "I have three paternal aunts (اَ) and one maternal aunt",
+    "groupCode": 0
+  },
+  {
+    "id": 2225,
+    "fa": "لطفا به من یک تخفیف بدید",
+    "en": "Please give me a discount",
+    "groupCode": 0
+  },
+  {
+    "id": 2226,
+    "fa": "تو داری اشتباه میگی",
+    "en": "You are wrong",
+    "groupCode": 0
+  },
+  {
+    "id": 2227,
+    "fa": "من هر دوی آنها را دوست دارم، اما هیچ کدام را دوست ندارم وقتی با هم بحث می کنند",
+    "en": "I like both of them, but I don't like either of them when they argue together",
+    "groupCode": 0
+  },
+  {
+    "id": 2228,
+    "fa": "یک ترک تحصیل مدرسه راهنمایی می تواند. تو میتوانی؟",
+    "en": "A middle school dropout can. Can you?",
+    "groupCode": 0
+  },
+  {
+    "id": 2229,
+    "fa": "دارو برای چه کسی است؟",
+    "en": "Who the medicine is for?",
+    "groupCode": 0
+  },
+  {
+    "id": 2230,
+    "fa": "انگلیسیم ممکن است خوب (ماهر) نباشد، بنابراین به طور محبت آمیزی سؤالی را که (الان) پرسیدی را دوباره بیان کنید (به طرز دیگری بیان کردن)",
+    "en": "My english may not be proficient, so kindly rephrase the question you just asked",
+    "groupCode": 0
+  },
+  {
+    "id": 2231,
+    "fa": "مهم است که به این فکر کنید، یا دیگر شما می تونید (فرضی) دچار سوء تفاهم شوید",
+    "en": "It's important to think of this, or else you could get misunderstood",
+    "groupCode": 0
+  },
+  {
+    "id": 2232,
+    "fa": "چگونه می توانم بگم آیا یک مرد واقعاً من را دوست دارد؟ او شق خواهد کرد",
+    "en": "How can I tell if a man is really into me? He'll have an erection",
+    "groupCode": 0
+  },
+  {
+    "id": 2233,
+    "fa": "من به یک مسئله برخورد کرده ام",
+    "en": "I've run into an issue",
+    "groupCode": 0
+  },
+  {
+    "id": 2234,
+    "fa": "نگه دار بقیه (پول) به عنوان انعامت",
+    "en": "Keep the change as your tip",
+    "groupCode": 0
+  },
+  {
+    "id": 2235,
+    "fa": "کرایه چقدر است؟",
+    "en": "How much is the fare?",
+    "groupCode": 0
+  },
+  {
+    "id": 2236,
+    "fa": "15 دقیقه در یک روز می تواند به شما یک زبان یاد دهد. 15 دقیقه شبکه اجتماعی چه کاری می تواند انجام دهند؟",
+    "en": "15 minutes a day can teach you a language. What can 15 minutes of social media do?",
+    "groupCode": 0
+  },
+  {
+    "id": 2237,
+    "fa": "افکار شما در مورد این ابتکار باورنکردنی چیست؟",
+    "en": "What are your thoughts on this incredible initiative?",
+    "groupCode": 0
+  },
+  {
+    "id": 2238,
+    "fa": "داری با من شوخی میکنی؟",
+    "en": "Are you kidding me?",
+    "groupCode": 0
+  },
+  {
+    "id": 2239,
+    "fa": "منو چی فرض کردی؟",
+    "en": "What do you take me for?",
+    "groupCode": 0
+  },
+  {
+    "id": 2240,
+    "fa": "تو مرا فریب دادی",
+    "en": "You tricked me",
+    "groupCode": 0
+  },
+  {
+    "id": 2241,
+    "fa": "پیاده آمدم",
+    "en": "I came on foot",
+    "groupCode": 0
+  },
+  {
+    "id": 2242,
+    "fa": "در را تا آخر نبند",
+    "en": "Don't close the door all the way",
+    "groupCode": 0
+  },
+  {
+    "id": 2243,
+    "fa": "رستگاری در یک چشم به هم زدن می آید",
+    "en": "Salvation comes in the blink of an eye",
+    "groupCode": 0
+  },
+  {
+    "id": 2244,
+    "fa": "علی می بایستی آن را دانلود کرده باشد وقتی او وصلش کرد (USB)",
+    "en": "Ali must have downloaded that when he plugged in",
+    "groupCode": 0
+  },
+  {
+    "id": 2245,
+    "fa": "نمیدونستم تو یک چراغ قوه داری .من هم نه",
+    "en": "I didn't know you had a flashlight. Me neither",
+    "groupCode": 0
+  },
+  {
+    "id": 2246,
+    "fa": "داشتن یک شارژر تلفن در کیف من اغلب مفید است وقتی باتری من کم است",
+    "en": "Having a phone charger in my bag often comes in handy when my battery is low",
+    "groupCode": 0
+  },
+  {
+    "id": 2247,
+    "fa": "به یاد داشته باشید استفاده کنید از کمی نمک و کمی فلفل تا بیشتر شود طعم غذای شما",
+    "en": "Remember to use a pinch of salt or touch of pepper to enhance the taste of your dish",
+    "groupCode": 0
+  },
+  {
+    "id": 2248,
+    "fa": "سس کچاپ، خردل و مایونز چاشنی های محبوب برای همبرگرها و هات داگ ها هستند",
+    "en": "Ketchup, mustard /ˈmʌstərd/ and mayonnaise /ˌmeɪəˈneɪz/ are popular condiments for burgers and hot dogs",
+    "groupCode": 0
+  },
+  {
+    "id": 2249,
+    "fa": "من از مردن نمی ترسم اما نمی خواهم فراموش شوم",
+    "en": "I'm not scared of dying but I don't wanna be forgotten",
+    "groupCode": 0
+  },
+  {
+    "id": 2250,
+    "fa": "من هرگز چیز به این خوبی در مغازم نفروختم",
+    "en": "I never sold stuff this good in my store",
+    "groupCode": 0
+  },
+  {
+    "id": 2251,
+    "fa": "به نظر می رسد داره هر روز بدتر می شود",
+    "en": "Seems like it's getting worse everyday",
+    "groupCode": 0
+  },
+  {
+    "id": 2252,
+    "fa": "ما نمی توانیم خیلی بیشتر اینجا بمانیم",
+    "en": "We can't stay here much longer",
+    "groupCode": 0
+  },
+  {
+    "id": 2253,
+    "fa": "شما باید دیوانه باشید فکر کنید شما میتوانستید فراموش شوید",
+    "en": "You must be crazy to think you could be forgotten",
+    "groupCode": 0
+  },
+  {
+    "id": 2254,
+    "fa": "برگرد برو به جایی که تو را گذاشتم",
+    "en": "Go back to where I left you",
+    "groupCode": 0
+  },
+  {
+    "id": 2255,
+    "fa": "نمیدانم این به شما خواهد رسید یا نه",
+    "en": "I don't know if this will get to you or not",
+    "groupCode": 0
+  },
+  {
+    "id": 2256,
+    "fa": "وجود ندارد کشتی های کافی برای همه",
+    "en": "There aren't enough ships for everyone",
+    "groupCode": 0
+  },
+  {
+    "id": 2257,
+    "fa": "سعی کردن برای فهمیدن آن مشکل پیچیده میتواند باعث بشود شما سرتان را بیشتر از دیگران بخارانید",
+    "en": "Trying to understand that complicated problem can make you scratch your head over the others",
+    "groupCode": 0
+  },
+  {
+    "id": 2258,
+    "fa": "پس از دریافت اینقدر اطلاعات به یکباره، متاثر شدم (احساس غرق شدن کردم)",
+    "en": "After receiving so much information at once, I felt overwhelmed",
+    "groupCode": 0
+  },
+  {
+    "id": 2259,
+    "fa": "آیا امروز علف کشیده اید؟",
+    "en": "Have you been smoking any weed today?",
+    "groupCode": 0
+  },
+  {
+    "id": 2260,
+    "fa": "نویزی از طبقه پایین شنیدم و ترسیدم که ممکن است مزاحمی باشد",
+    "en": "I heard a noise downstairs and feared there might be an intruder",
+    "groupCode": 0
+  },
+  {
+    "id": 2261,
+    "fa": "آیا می توانم یک پتو و یک بالش داشته باشم لطفا؟",
+    "en": "Could I have a blanket and a pillow please?",
+    "groupCode": 0
+  },
+  {
+    "id": 2262,
+    "fa": "کاش آن موقع می دانستم آنچه را که اکنون می دانم",
+    "en": "I wish I knew back then what I know now",
+    "groupCode": 0
+  },
+  {
+    "id": 2263,
+    "fa": "مایلم تشکر عمیق خود را از افراد زیر ابراز کنم که بدون آنها این کتاب ممکن نبود",
+    "en": "I'd like to express my deep gratitude to the following people, without whom this book would not have been possible",
+    "groupCode": 0
+  },
+  {
+    "id": 2264,
+    "fa": "بنابراین، برای شروع، چرا کمی از خودتان به نمی گویید",
+    "en": "So, to get started, why don't you tell me a little bit about yourself",
+    "groupCode": 0
+  },
+  {
+    "id": 2265,
+    "fa": "بچه ها با اشتیاق این معما را حل کردند تا قفل گنج پنهان را باز کنند",
+    "en": "The children eagerly solved the riddle to unlock the hidden treasure",
+    "groupCode": 0
+  },
+  {
+    "id": 2266,
+    "fa": "من خیلی جلوتر از شما هستم",
+    "en": "I'm way ahead of you",
+    "groupCode": 0
+  },
+  {
+    "id": 2267,
+    "fa": "ترس دو معنا دارد. همه چیز را فراموش کن و فرار کن یا با همه چیز روبرو شو و برخیز",
+    "en": "Fear has two meanings. Forget everything and run or Face everything and rise",
+    "groupCode": 0
+  },
+  {
+    "id": 2268,
+    "fa": "دهنت سرویسه",
+    "en": "Your ass is grass",
+    "groupCode": 0
+  },
+  {
+    "id": 2269,
+    "fa": "مایلید از این سیاره خارج شوید؟",
+    "en": "Would you like to get off this planet?",
+    "groupCode": 0
+  },
+  {
+    "id": 2270,
+    "fa": "من جایی (دارم) نمی روم تا زمانی که بدانم پسرم کجاست؟",
+    "en": "I'm not going anywhere until I know where my son is?",
+    "groupCode": 0
+  },
+  {
+    "id": 2271,
+    "fa": "آیا تسلط داری به زبان انگلیسی یا آلمانی؟",
+    "en": "Do you have fluency in either English or German?",
+    "groupCode": 0
+  },
+  {
+    "id": 2272,
+    "fa": "بهت نمیاد اینقدر رومانتیک باشی",
+    "en": "It doesn't suit you to be so romantic",
+    "groupCode": 0
+  },
+  {
+    "id": 2273,
+    "fa": "به من هیچ دروغی گفته نشده است",
+    "en": "I haven't been told any lies",
+    "groupCode": 0
+  },
+  {
+    "id": 2274,
+    "fa": "چند کوتوله با سفید برفی هستند؟",
+    "en": "How many dwarves /دو اُر وز/ are there with Snow White?",
+    "groupCode": 0
+  },
+  {
+    "id": 2275,
+    "fa": "شما باید باور کنید که آنجا می بودم اگر می توانستم",
+    "en": "You gotta believe that I would've been there if I could",
+    "groupCode": 0
+  },
+  {
+    "id": 2276,
+    "fa": "میدونم چه جوریه تنها بودن",
+    "en": "I know what it's like to be alone",
+    "groupCode": 0
+  },
+  {
+    "id": 2277,
+    "fa": "آیا او (مرد)  یک حق بازگشت دارد و منم دارم؟",
+    "en": "Does he have a right to return, and do I?",
+    "groupCode": 0
+  },
+  {
+    "id": 2278,
+    "fa": "چگونه من ممکن است حق داشته باشم بروم و زندگی کنم آنجا اگر کسی بومی آن سرزمینی که خانواده اش از آنجا رانده شده است آن حق را ندارد؟",
+    "en": "How can I possibly have the right to go and live there if someone indigenous to that land whose family was driven from there does not have that right?",
+    "groupCode": 0
+  },
+  {
+    "id": 2279,
+    "fa": "برای چه چیزی به کمک نیاز دارید؟",
+    "en": "What do you need help for?",
+    "groupCode": 0
+  },
+  {
+    "id": 2280,
+    "fa": "حالیت شد؟ (گرفتی چی میگم؟)",
+    "en": "Get the picture?",
+    "groupCode": 0
+  },
+  {
+    "id": 2281,
+    "fa": "حساب نکن روی کسی که تو را در وضعیت بحرانی ترک کند",
+    "en": "Don't count on someone who leaves you in the lurch",
+    "desc": "lurch: /ˈlɜːrt͡ʃ/ (مانند کشتی در دریای توفانی) ناگهان به یک سوکج شدن، یک ور شدن ",
+    "groupCode": 0
+  },
+  {
+    "id": 2282,
+    "fa": "با من داری حرف می زنی؟",
+    "en": "Are you talking to me?",
+    "groupCode": 0
+  },
+  {
+    "id": 2283,
+    "fa": "خجالتم نده",
+    "en": "Don't make me blush",
+    "groupCode": 0
+  },
+  {
+    "id": 2284,
+    "fa": "نگران نباش اگر شغل را نگرفتی. این آخر دنیا نیست",
+    "en": "Don't worry if you didn't get the job. It's not the end of the world",
+    "groupCode": 0
+  },
+  {
+    "id": 2285,
+    "fa": "تاکتیک های رئیس جمهور می تونه (فرضی) نتیجه معکوس بدهد",
+    "en": "The President's tactics could backfire",
+    "groupCode": 0
+  },
+  {
+    "id": 2286,
+    "fa": "من به اندازه شما مردم را نمی شناسم",
+    "en": "I don't know as many people as you",
+    "groupCode": 0
+  },
+  {
+    "id": 2287,
+    "fa": "من به اندازه شما پول ندارم",
+    "en": "I haven't got as much money as you",
+    "groupCode": 0
+  },
+  {
+    "id": 2288,
+    "fa": "متاسفم برای بهم ریختگی. امروز انتظار کسی را نمی داشتم. من خونه نبودم",
+    "en": "I'm sorry for the mess. I wasn't expecting anyone today. I wasn't home",
+    "groupCode": 0
+  },
+  {
+    "id": 2289,
+    "fa": "اجازه ندهید نویز شما را از کارتان منحرف کند",
+    "en": "Don't allow noise to distract you from your work",
+    "groupCode": 0
+  },
+  {
+    "id": 2290,
+    "fa": "در بین کارشناسان کسب و کار یک دیدگاه (نگه) گسترده ای وجود دارد",
+    "en": "There is a widely held view among business experts",
+    "groupCode": 0
+  },
+  {
+    "id": 2291,
+    "fa": "منظره وحشتناکی بود دیدن اینکه شیر بره را می بلعد",
+    "en": "It was a horrid sight to see the lion devour the lamb",
+    "groupCode": 0
+  },
+  {
+    "id": 2292,
+    "fa": "تف بر روی زمین ممنوع است در مکان های عمومی",
+    "en": "Spitting on the floor is forbidden in public places",
+    "groupCode": 0
+  },
+  {
+    "id": 2293,
+    "fa": "اگر فرض درست باشد، سپس نتیجه باید درست باشد",
+    "en": "If the premise is true, then the conclusion must be true",
+    "groupCode": 0
+  },
+  {
+    "id": 2294,
+    "fa": "من نمی خواهم شما را دلسرد کنم، اما فکر نمی کنم یک چنین ایده خوبی باشد",
+    "en": "I don't want to discourage you, but I don't think it's such a good idea",
+    "groupCode": 0
+  },
+  {
+    "id": 2295,
+    "fa": "ما به چیزهایی که نمی خواهیم ایمان داریم نسبت به چیزهایی که مایلیم ایمان داشته باشیم",
+    "en": "We're having faith in things we do not want rather than having faith in things we desire",
+    "groupCode": 0
+  },
+  {
+    "id": 2296,
+    "fa": "ما نتوانستیم از بانک پول برداشت کنیم",
+    "en": "We couldn't withdraw money from the bank",
+    "groupCode": 0
+  },
+  {
+    "id": 2297,
+    "fa": "بر دو اصل بود",
+    "en": "It was based upon two principles",
+    "groupCode": 0
+  },
+  {
+    "id": 2298,
+    "fa": "من کم وزنم، اضافه وزن ندارم",
+    "en": "I'm underweight, I'm not overweight",
+    "groupCode": 0
+  },
+  {
+    "id": 2299,
+    "fa": "او (مرد) داره به نظر می رسد نسبت به سرنوشت زن بی تفاوت است",
+    "en": "He is seeming indifference to the woman's fate",
+    "groupCode": 0
+  },
+  {
+    "id": 2300,
+    "fa": "من مهارت هایم را به رخ می کشم",
+    "en": "I show off my skills",
+    "groupCode": 0
+  },
+  {
+    "id": 2301,
+    "fa": "من همه جام داره درد می کنه",
+    "en": "I'm aching all over",
+    "groupCode": 0
+  },
+  {
+    "id": 2302,
+    "fa": "من شهریه (دارم) تحصیلی سال بعد را پرداخت نمی کنم",
+    "en": "I'm not paying next year's tuition",
+    "groupCode": 0
+  },
+  {
+    "id": 2303,
+    "fa": "من اشتباه بزرگی کردم، هرگز نباید از او (زن) جدا می شدم",
+    "en": "I made a huge mistake, I should have never broken up with her",
+    "groupCode": 0
+  },
+  {
+    "id": 2304,
+    "fa": "اگر فرصت دوم را داشته باشم من دوباره همش را انجام می دادم",
+    "en": "If I had the second chance I would do it all over again",
+    "groupCode": 0
+  },
+  {
+    "id": 2305,
+    "fa": "او (زن) با گیر دادن روی هر جزئیات کوچک ، مرا دیوانه کرد",
+    "en": "She drove me crazy by picking on every little detail",
+    "groupCode": 0
+  },
+  {
+    "id": 2306,
+    "fa": "همانطور که کودکان بالغ می شوند، آنها اغلب ترک عادت می کنند از ترس های دوران کودکی خود",
+    "en": "As children mature, they often grow out of their childhood fears",
+    "groupCode": 0
+  },
+  {
+    "id": 2307,
+    "fa": "هیچ فایده ای (پوینت) برای مقاومت وجود ندارد",
+    "en": "There's no point to resist",
+    "groupCode": 0
+  },
+  {
+    "id": 2308,
+    "fa": "به او (زن) بگویید که شوهرش سر زد",
+    "en": "Tell her that her husband stopped by",
+    "desc": "Stopped by: Implies a brief, casual visit.\nCame by: Neutral term for any visit, without implying duration or purpose.",
+    "groupCode": 0
+  },
+  {
+    "id": 2309,
+    "fa": "خوب بچه ها, قضیه از این قراره: من مالکیت این مبل را گرفتم",
+    "en": "All right kids, here's the deal: I have taken possession of this sofa",
+    "groupCode": 0
+  },
+  {
+    "id": 2310,
+    "fa": "من واقعاً نمی خواهم همین الان وارد این شوم. این فقط باعث ناراحتی همه خواهد شد",
+    "en": "I really don't wanna get into this right now. It'll just make everybody uncomfortable",
+    "groupCode": 0
+  },
+  {
+    "id": 2311,
+    "fa": "چه چیزی است در مورد من؟ (مشکل من چیه؟) آیا چیز دفع کننده ای در من وجود دارد؟",
+    "en": "What is it about me? Is there something repellent about me?",
+    "groupCode": 0
+  },
+  {
+    "id": 2312,
+    "fa": "از این بدتر نمی تونست باشه",
+    "en": "It couldn't have been worse than this",
+    "groupCode": 0
+  },
+  {
+    "id": 2313,
+    "fa": "او (زن) احساس کرد به معنای واقعی کلمه و بطور زشت غیر جذاب بعد از اتفاق شرم آور",
+    "en": "She felt literally and hideously unattractive after the embarrassing mishap",
+    "groupCode": 0
+  },
+  {
+    "id": 2314,
+    "fa": "ما باید تاییدیه مون رو همین روزا بگیریم. امیدوارم تا زمان برای شکرگزاری",
+    "en": "We should be getting our approval any day now. Hopefully in time for thanksgiving",
+    "groupCode": 0
+  },
+  {
+    "id": 2315,
+    "fa": "من منتظرم برای یک (تحویل) تا برسه, به محض اینکه بیاد من آفیس خواهم بود",
+    "en": "I am waiting for a delivery to arrive, as soon as it comes I will be in the office",
+    "groupCode": 0
+  },
+  {
+    "id": 2316,
+    "fa": "ما نمی خواهیم هیچ نقطه ای را مبهم باقی بگذاریم",
+    "en": "We don't want to leave any points unclear",
+    "desc": "\"We don't want to leave any points unclear\": Implies a focus on multiple specific details or aspects, ensuring clarity on all of them.\n\n\"We don't want to leave any point unclear\": Indicates a singular focus on a general idea or concept, ensuring that it is not unclear.",
+    "groupCode": 0
+  },
+  {
+    "id": 2317,
+    "fa": "اگر شما برای خودتان تصمیم نگیرید، دیگران به جای شما تصمیم خواهند گرفت",
+    "en": "If you don't make decisions for yourself, others will make decision for you",
+    "groupCode": 0
+  },
+  {
+    "id": 2318,
+    "fa": "سه سال گذشته است، و من هنوز منتظرم تا ریزتراشه های واکسن کووید وارد شوند و زندگی ام را اداره کنند، زیرا من واقعاً با تصمیم هایم همه چیز را خراب کرده ام",
+    "en": "Three years have gone by, and I'm still waiting for the microchips in the COVID vaccine to kick in and start running my life, 'cause I've really screwed things up with my decisions",
+    "groupCode": 0
+  },
+  {
+    "id": 2319,
+    "fa": "برای از دست دادن شما بسیار متاسفم. افکار من در این دوران سخت با شما و خانواده شماست",
+    "en": "I'm so sorry for your loss. My thoughts are with you and your family during this difficult time",
+    "groupCode": 0
+  },
+  {
+    "id": 2320,
+    "fa": "من باید پسرم را به مدرسه ببرم",
+    "en": "I gotta take my son to school",
+    "groupCode": 0
+  },
+  {
+    "id": 2321,
+    "fa": "من باید پسرم را از مدرسه به خانه بیاورم",
+    "en": "I gotta bring my son home from school",
+    "groupCode": 0
+  },
+  {
+    "id": 2322,
+    "fa": "من باید پسرم را از مدرسه بردارم",
+    "en": "I gotta pick up my son from school",
+    "groupCode": 0
+  },
+  {
+    "id": 2323,
+    "fa": "برخلاف میلش (زن) او (زن) مجبور شد در این پروژه شرکت کند",
+    "en": "Against her will, she had to participate in the project",
+    "groupCode": 0
+  },
+  {
+    "id": 2324,
+    "fa": "به سلامتی کسانی که پشت سر گذاشتند یک سال دیگر را با این سه جمله Hallo، Bitte، Tschüss در آلمان",
+    "en": "Cheers to those who made it through another year in Germany with these three sentences Hallo, Bitte, Tschüss",
+    "groupCode": 0
+  },
+  {
+    "id": 2325,
+    "fa": "تمام روز سر پاهام بودم",
+    "en": "I've been on my feet all day",
+    "groupCode": 0
+  },
+  {
+    "id": 2326,
+    "fa": "تو مهارتهات رو ثابت کردی",
+    "en": "You've proven your skills",
+    "groupCode": 0
+  },
+  {
+    "id": 2327,
+    "fa": "من با حسن نیت این پیشنهاد شغلی را پذیرفتم و معتقد بودم این یک فرصت عالی برای حرفه من خواهد (فرضی) بود",
+    "en": "I accepted the job offer in good faith, believing it would be a great opportunity for my career",
+    "groupCode": 0
+  },
+  {
+    "id": 2328,
+    "fa": "به دل نگیر",
+    "en": "Don't take it to heart",
+    "groupCode": 0
+  },
+  {
+    "id": 2329,
+    "fa": "آیا شما سحر خیز هستی یا شب زنده داری؟",
+    "en": "\n 1.Are you a morning person or a night owl? \n 2.Are you an early bird or a night owl?",
+    "groupCode": 0
+  },
+  {
+    "id": 2330,
+    "fa": "چی برای من داره؟ (چه چیزی در آن است برای من؟)",
+    "en": "What's in it for me?",
+    "groupCode": 0
+  },
+  {
+    "id": 2331,
+    "fa": "آیا دوست دارید از شما سؤالات پرسیده شود؟",
+    "en": "\n 1.Do you like being asked questions? \n 2.Do you like to be asked questions?",
+    "groupCode": 0
+  },
+  {
+    "id": 2332,
+    "fa": "آیا خروپف می کنید؟",
+    "en": "Do you snore?",
+    "groupCode": 0
+  },
+  {
+    "id": 2333,
+    "fa": "هر چند وقت فست فود می خورید؟",
+    "en": "How often do you eat fast food?",
+    "groupCode": 0
+  },
+  {
+    "id": 2334,
+    "fa": "آیا شما به چیزی معتاد هستید؟",
+    "en": "Are you addicted to anything?",
+    "groupCode": 0
+  },
+  {
+    "id": 2335,
+    "fa": "به چند ساعت خواب به طور کلی در هر شب نیاز دارید؟",
+    "en": "How many hours of sleep do you generally need per night?",
+    "groupCode": 0
+  },
+  {
+    "id": 2336,
+    "fa": "آیا تا به حال در قرار ملاقات کور بوده اید؟",
+    "en": "Have you ever been on a blind date?",
+    "groupCode": 0
+  },
+  {
+    "id": 2337,
+    "fa": "در چه موضوعاتی در دبیرستان خوب بودید؟",
+    "en": "What subjects were you good at in high school?",
+    "groupCode": 0
+  },
+  {
+    "id": 2338,
+    "fa": "آیا به راحتی خسته می شوید؟",
+    "en": "Do you get bored easily?",
+    "groupCode": 0
+  },
+  {
+    "id": 2339,
+    "fa": "افتخار آفرین ترین دستاورد شما چیست؟",
+    "en": "What's your proudest accomplishment?",
+    "groupCode": 0
+  },
+  {
+    "id": 2340,
+    "fa": "اگر می توانستید هر جایی زندگی کنید، کجا بود؟",
+    "en": "If you could live anywhere, where it would be?",
+    "groupCode": 0
+  },
+  {
+    "id": 2341,
+    "fa": "این شرکت تصمیم گرفت به خارج واگذار کند خدمات پشتیبانی مشتری خود را به یک تیمی در هند تا سود ببرد از صرفه جویی در هزینه ها و پوشش 24/7 ساعته",
+    "en": "This company decided to offshore its customer support services to a team in India to take advantage of cost savings and 24/7 coverage",
+    "groupCode": 0
+  },
+  {
+    "id": 2342,
+    "fa": "اگر چیزی هست می توانم برای حمایت از شما انجام دهم، لطفاً به من اطلاع بده",
+    "en": "If there's anything I can do to support you, please let me know",
+    "groupCode": 0
+  },
+  {
+    "id": 2343,
+    "fa": "من دوست دارم بدوم (آهسته) در بعد از ظهر آخر هفته ها در فرانسه",
+    "en": "I like to jog in the afternoon on weekends in France",
+    "groupCode": 0
+  },
+  {
+    "id": 2344,
+    "fa": "من پتو را روی صورتم می کشم تا هر شب گرم بمانم",
+    "en": "I pull the blanket over my face to stay warm every night",
+    "groupCode": 0
+  },
+  {
+    "id": 2345,
+    "fa": "آیا در اطراف هیچ سلاحی وجود داشت؟",
+    "en": "Were there any weapons around?",
+    "groupCode": 0
+  },
+  {
+    "id": 2346,
+    "fa": "دیشب چیز عجیبی شنیدی؟",
+    "en": "Did you hear anything weird last night?",
+    "groupCode": 0
+  },
+  {
+    "id": 2347,
+    "fa": "من درم را بستم",
+    "en": "I got my door shut",
+    "desc": "\"I closed my door\": Directly states that you physically closed the door.\n\n\"I got my door shut\": Suggests that you took some action or made sure the door was closed, but it might not explicitly mean that you physically closed it yourself. It implies a sense of personal involvement or responsibility for ensuring the door is closed",
+    "groupCode": 0
+  },
+  {
+    "id": 2348,
+    "fa": "من به شما قول می دهم، من حتی این شخص را نمی شناختم",
+    "en": "I give you my word, I didn't even know this person",
+    "groupCode": 0
+  },
+  {
+    "id": 2349,
+    "fa": "عینک آفتابی چشمان او (زن) را می پوشاند",
+    "en": "The sunglasses conceal her eyes",
+    "desc": "So, \"conceal\" should be in its plural form \"conceal\" to match the plural subject \"sunglasses.\"",
+    "groupCode": 0
+  },
+  {
+    "id": 2350,
+    "fa": "مدافع (مدعی علیه) متهم است به تلاش برای پوشاندن شواهد (مدارک)",
+    "en": "The defendant is accused of attempting to conceal evidence",
+    "groupCode": 0
+  },
+  {
+    "id": 2351,
+    "fa": "من به راحتی متقاعد نمی شوم",
+    "en": "I'm not easily persuaded",
+    "groupCode": 0
+  },
+  {
+    "id": 2352,
+    "fa": "آیا می توانید (محترمانه) نرخ فقر را در آینده تخمین بزنید؟",
+    "en": "Could you estimate the rate of poverty in future?",
+    "groupCode": 0
+  },
+  {
+    "id": 2353,
+    "fa": "یک متخصص مردی است که مرتکب شده است تمام اشتباهاتی که می توان ساخته شود در یک زمینه باریک",
+    "en": "An expert is a man who has made all the mistakes which can be made in a narrow field",
+    "groupCode": 0
+  },
+  {
+    "id": 2354,
+    "fa": "امروز در مرخصی استعلاجی هستم",
+    "en": "I am on sick leave today",
+    "groupCode": 0
+  },
+  {
+    "id": 2355,
+    "fa": "ما داریم دنبال راه هایی برای کاهش خطرات می گردیم",
+    "en": "We're looking for ways to mitigate risks",
+    "groupCode": 0
+  },
+  {
+    "id": 2356,
+    "fa": "انگار یادم افتاد که تو را اخراج کردم",
+    "en": "I seem to remember firing you",
+    "groupCode": 0
+  },
+  {
+    "id": 2357,
+    "fa": "همسر خوشحال, زندگی شاد",
+    "en": "Happy wife, Happy life",
+    "groupCode": 0
+  },
+  {
+    "id": 2358,
+    "fa": "چقدر پول کم داری",
+    "en": "\n 1.How much money are you short of? \n 2.How much money are you short? \n ",
+    "groupCode": 0
+  },
+  {
+    "id": 2359,
+    "fa": "من به شما هشدار دادم که در آینده صلح نخواهید داشت (فرضی)، اما شما گوش نکردید",
+    "en": "I warned you that you wouldn't have peace in the future, but you didn't listen",
+    "groupCode": 0
+  },
+  {
+    "id": 2360,
+    "fa": "از دستت انجام دادن همه این کار کلافه ام",
+    "en": "I'm fed up with doing all this work",
+    "groupCode": 0
+  },
+  {
+    "id": 2361,
+    "fa": "چون من چیزی می دانستم که او (مرد) نمی دانست",
+    "en": "Because I knew something that He didn't know",
+    "groupCode": 0
+  },
+  {
+    "id": 2362,
+    "fa": "من ربوده شده ام. چه کسی شما را ربوده است؟",
+    "en": "I have been abducted. Who has abducted you?",
+    "groupCode": 0
+  },
+  {
+    "id": 2363,
+    "fa": "ترجیح می دهم به جای آسانسور از پله برقی استفاده کنم (بگیرم)",
+    "en": "I prefer to take the escalator instead of elevator",
+    "groupCode": 0
+  },
+  {
+    "id": 2364,
+    "fa": "من انحراف بینی دارم",
+    "en": "I have a deviated nose",
+    "groupCode": 0
+  },
+  {
+    "id": 2365,
+    "fa": "برای بعضی کارهای اداری باید جایی بروم",
+    "en": "I have to go somewhere for some office work",
+    "groupCode": 0
+  },
+  {
+    "id": 2366,
+    "fa": "آیا اهل این اطراف هستی؟",
+    "en": "Are you from around here?",
+    "groupCode": 0
+  },
+  {
+    "id": 2367,
+    "fa": "چگونه به کتابخانه بروم (برسم)؟",
+    "en": "How do I get to library?",
+    "groupCode": 0
+  },
+  {
+    "id": 2368,
+    "fa": "چگونه می توانیم به Marienplatz برویم (برسیم)؟",
+    "en": "How can we get to Marienplatz?",
+    "groupCode": 0
+  },
+  {
+    "id": 2369,
+    "fa": "واقعاً لیز بود و نزدیک بود بیفتم، اما مدیریت کردم نرده ها را نگه دارم",
+    "en": "It was really slippery, and I almost fell, but I managed to hold onto the railings",
+    "groupCode": 0
+  },
+  {
+    "id": 2370,
+    "fa": "پشتت رو به من نکن",
+    "en": "Don't turn your back on me",
+    "groupCode": 0
+  },
+  {
+    "id": 2371,
+    "fa": "فقط کنار ماشین بایست",
+    "en": "Just stand by the car",
+    "groupCode": 0
+  },
+  {
+    "id": 2372,
+    "fa": "تو یه عذرخواهی لعنتی به پسرم مدیونی",
+    "en": "You owe my son a goddamn apology",
+    "groupCode": 0
+  },
+  {
+    "id": 2373,
+    "fa": "من متهم شدم به چیزی که انجام ندادم",
+    "en": "I was accused of something that I didn't do",
+    "groupCode": 0
+  },
+  {
+    "id": 2374,
+    "fa": "او (زن) پرداخت کرد به پلیس مخفی به عنوان آدم کش (حرفه ای) تا شوهرش را بکشد",
+    "en": "She paid to undercover cop as a hitman to kill her husband",
+    "groupCode": 0
+  },
+  {
+    "id": 2375,
+    "fa": "اولین محکومیش (زن) به دلیل فنی لغو شد",
+    "en": "Her first conviction was canceled on a technicality",
+    "groupCode": 0
+  },
+  {
+    "id": 2376,
+    "fa": "خبر تصادف (بسیار) ناراحت کننده بود",
+    "en": "The news of the accident was distressing",
+    "groupCode": 0
+  },
+  {
+    "id": 2377,
+    "fa": "آیا تا به حال به طور تصادفی پی برده اید که داشتید اخراج می شدید؟",
+    "en": "Have you ever accidentally found out that you were about to be fired?",
+    "groupCode": 0
+  },
+  {
+    "id": 2378,
+    "fa": "فنر تشک جیرجیر کرد وقتی من در روی تخت غلت زدم",
+    "en": "The mattress spring squeaked as I rolled over in bed",
+    "groupCode": 0
+  },
+  {
+    "id": 2379,
+    "fa": "او (زن) می خواهد شما کشده شوید",
+    "en": "She wants to have you killed",
+    "desc": "Passive Causative Formulas\nUsing \"have\":\n\nSubject + have + object + past participle\nExample: \"She had her hair cut.\"\nUsing \"get\":\n\nSubject + get + object + past participle\nExample: \"He got his car fixed.\"",
+    "groupCode": 0
+  },
+  {
+    "id": 2380,
+    "fa": "او (زن) یکی از خونسردترین فردی است که من در حرفه اجرای قانون با او برخورد کرده ام",
+    "en": "She's one of the coldest individual that I've run across in my law enforcement career",
+    "groupCode": 0
+  },
+  {
+    "id": 2381,
+    "fa": "او (زن) از بازی های فکری خود برای رسیدن به من استفاده کرد",
+    "en": "She used her mind games to get to me",
+    "groupCode": 0
+  },
+  {
+    "id": 2382,
+    "fa": "من کاملا مات و مبهوت بودم",
+    "en": "I was completely dumbfounded",
+    "groupCode": 0
+  },
+  {
+    "id": 2383,
+    "fa": "او (زن) کمی بیش از حد محافظ است",
+    "en": "She is a little overprotective",
+    "groupCode": 0
+  },
+  {
+    "id": 2384,
+    "fa": "لطفاً ایده های خود را مطرح (پرتاب) کنید چون من نمی دانم (سرنخی ندارم) علی دوست دارد چه کاری انجام دهد",
+    "en": "Please shoot your ideas because I am clueless what Ali likes to do",
+    "groupCode": 0
+  },
+  {
+    "id": 2385,
+    "fa": "آیا (مودبانه) بعد از اخراج برمی گردید؟",
+    "en": "Would you return after being laid off?",
+    "groupCode": 0
+  },
+  {
+    "id": 2386,
+    "fa": "اگر این فیلمبرداری نمی شد هیچ کس را باورش نمی کرد",
+    "en": "If this wasn't filmed nobody would believe it",
+    "groupCode": 0
+  },
+  {
+    "id": 2387,
+    "fa": "من نمی دانم آیا شما بتوانید استطاعتش را داشته باشید",
+    "en": "I don't know if you can afford it",
+    "groupCode": 0
+  },
+  {
+    "id": 2388,
+    "fa": "هیچ راهی نیست این مرد تایید بشود برای یک وام",
+    "en": "There's no way this guy is getting approved for a loan",
+    "groupCode": 0
+  },
+  {
+    "id": 2389,
+    "fa": "یک کتاب را از روی جلد آن قضاوت نکن",
+    "en": "Don't judge a book by its cover",
+    "groupCode": 0
+  },
+  {
+    "id": 2390,
+    "fa": "وقتش نیست تو خواب باشی",
+    "en": "It's not the time for you to be asleep",
+    "groupCode": 0
+  },
+  {
+    "id": 2391,
+    "fa": "سبد میوه هم انبه خام و هم رسیده دارد",
+    "en": "The fruit basket has both raw and ripe mangoes",
+    "groupCode": 0
+  },
+  {
+    "id": 2392,
+    "fa": "تیم به پایان (جمعبندی) رسانده است پروژه را جلوتر از برنامه",
+    "en": "The team has wrapped up the project ahead of schedule",
+    "groupCode": 0
+  },
+  {
+    "id": 2393,
+    "fa": "من به این جمله اعتقاد دارم",
+    "en": "I believe in this sentence",
+    "groupCode": 0
+  },
+  {
+    "id": 2394,
+    "fa": "چرا آن دختر (داره) اینقدر پایش را بلند می کند؟",
+    "en": "Why is that girl lifting her leg so much?",
+    "groupCode": 0
+  },
+  {
+    "id": 2395,
+    "fa": "من می توانم کلیدهای یکسان را با خراش های کوچک روی یکی از آنها تشخیص دهم",
+    "en": "I can tell apart the identical keys by the tiny scratches on one of them",
+    "groupCode": 0
+  },
+  {
+    "id": 2396,
+    "fa": "توضیحات او (مرد) کاملتر از من بود",
+    "en": "His explanation was more complete than mine",
+    "groupCode": 0
+  },
+  {
+    "id": 2397,
+    "fa": "آیا این خوراکی است؟",
+    "en": "Is this edible?",
+    "groupCode": 0
+  },
+  {
+    "id": 2398,
+    "fa": "چرا تو فقط اونرو نگفتی؟ من نمی خواستم احساسات شما را صدمه بزنم",
+    "en": "Why didn't you just say that? I didn't wanna hurt your feelings",
+    "groupCode": 0
+  },
+  {
+    "id": 2399,
+    "fa": "فقط حقیقت را بگو. هیچ کس در اینجا توهین برداشت نخواهد کرد",
+    "en": "Just tell the truth. No one will take offence here",
+    "groupCode": 0
+  },
+  {
+    "id": 2400,
+    "fa": "آیا نتوانسته بودید کمی به او (مرد) آزادی عمل بدهید؟",
+    "en": "Couldn't you have given him a little more leeway?",
+    "groupCode": 0
+  },
+  {
+    "id": 2401,
+    "fa": "رکود اقتصادی اخیر منجر به عدم اطمینان نگران کننده در مورد امنیت شغلی برای بسیاری از مردم شده است",
+    "en": "The recent economic downturn has led to alarming uncertainties about job security for many people",
+    "groupCode": 0
+  },
+  {
+    "id": 2402,
+    "fa": "لباس هایم را روی بند رخت می گذارم تا در آفتاب خشک شوند",
+    "en": "I put my clothes on the clothesline to dry up in the sun",
+    "groupCode": 0
+  },
+  {
+    "id": 2403,
+    "fa": "قدرت این کشور قرار دارد در دموکراسی, نه خودکامگی",
+    "en": "The strength of this country lies in democracy, not autocracy",
+    "groupCode": 0
+  },
+  {
+    "id": 2404,
+    "fa": "معلم مجبور شد مرخص کند کلاس را زودتر به دلیل قطعی برق",
+    "en": "The teacher had to dismiss the class early due to a power outage",
+    "groupCode": 0
+  },
+  {
+    "id": 2405,
+    "fa": "دیگه بهش (مرد) اعتماد نداری؟",
+    "en": "Don't you trust him anymore?",
+    "groupCode": 0
+  },
+  {
+    "id": 2406,
+    "fa": "لطفا به در تکیه ندید",
+    "en": "Please do not lean against the door",
+    "groupCode": 0
+  },
+  {
+    "id": 2407,
+    "fa": "هیچ تضمینی وجود ندارد که هوا برای رویداد خارج از خانه آفتابی (خواهد) باشد",
+    "en": "There is no guarantee that the weather will be sunny for the outdoor event",
+    "groupCode": 0
+  },
+  {
+    "id": 2408,
+    "fa": "تمام تلاش هایم بیهوده بود",
+    "en": "All my efforts were in vain",
+    "groupCode": 0
+  },
+  {
+    "id": 2409,
+    "fa": "آیا خودت جاه طلبی کاندیداتوری برای ریاست جمهوری را داری؟",
+    "en": "Do you have the ambition to run for the presidency yourself?",
+    "groupCode": 0
+  },
+  {
+    "id": 2410,
+    "fa": "آمریکا می گوید در حمله پهپادی به پایگاهی در شمال شرقی اردن سه تن از نیروهایش کشته و ده ها تن دیگر زخمی شده اند",
+    "en": "The US says three of its troops have been killed and dozens more wounded in a drone attack on a base in northeastern Jordan",
+    "groupCode": 0
+  },
+  {
+    "id": 2411,
+    "fa": "پلیس داره دنبال مرتکب کننده (عامل) جنایت می گرده",
+    "en": "The police are searching for the perpetrator of the crime",
+    "groupCode": 0
+  },
+  {
+    "id": 2412,
+    "fa": "من از او (مرد) نقل قول می کنم در مقاله تحقیقاتی خودم برای حمایت از بحثم",
+    "en": "I quote him in my research paper to support my argument",
+    "groupCode": 0
+  },
+  {
+    "id": 2413,
+    "fa": "من قادر نخواهم بود برسم به دفتر امروز",
+    "en": "I will not be able to make it to the office today",
+    "desc": "\"Get to\" emphasizes the physical act of reaching a place.\n\"Make it\" is a more general term for being unable to attend or participate in something.",
+    "groupCode": 0
+  },
+  {
+    "id": 2414,
+    "fa": "من بسیار سوپرایز شدم که این اتهامات علیه من (فرضی) مطرح می شود، چون من کار اشتباهی نکرده بودم",
+    "en": "I was very surprised that these charges would be brought against me because I hadn't done anything wrong",
+    "groupCode": 0
+  },
+  {
+    "id": 2415,
+    "fa": "او (مرد) به تجاوز جنسی متهم شد",
+    "en": "\n 1.He was charged with rape \n 2.He was accused of rape",
+    "groupCode": 0
+  },
+  {
+    "id": 2416,
+    "fa": "خیلی خیالم راحت شد",
+    "en": "I was very relieved",
+    "groupCode": 0
+  },
+  {
+    "id": 2417,
+    "fa": "او (زن) مدام مرا نزدیک تر می کرد و بعد از چند دقیقه با دست مرا از بار (مشروب فروشی) به بیرون هدایت کرد",
+    "en": "She kept pulling me closer and after several minutes she led me by the hand out of the bar",
+    "groupCode": 0
+  },
+  {
+    "id": 2418,
+    "fa": "هر دوی ما نوشیده بودیم",
+    "en": "We had both been drinking",
+    "desc": "Both typically comes before the auxiliary verb have in English sentences",
+    "groupCode": 0
+  },
+  {
+    "id": 2419,
+    "fa": "من هیچ آپدیتی ندارم من مرخصی استعلاجی بودم",
+    "en": "I have no update I was on the sick leave",
+    "groupCode": 0
+  },
+  {
+    "id": 2420,
+    "fa": "او (زن) در کار خود موفق شد در حالی که مورد تحقیر قرار نمی گرفت",
+    "en": "She succeeded in her work while not being despised",
+    "groupCode": 0
+  },
+  {
+    "id": 2421,
+    "fa": "به من اطلاع بده به محض اینکه شما انجام دادی",
+    "en": "Let me know once you're done",
+    "groupCode": 0
+  },
+  {
+    "id": 2422,
+    "fa": "من در حال حاضر با کمبود کلمات مواجه هستم",
+    "en": "I'm currently running short on words",
+    "groupCode": 0
+  },
+  {
+    "id": 2423,
+    "fa": "من همیشه صحبتم را با یک سلب مسئولیت شروع می کنم",
+    "en": "I always start my talk with a disclaimer",
+    "groupCode": 0
+  },
+  {
+    "id": 2424,
+    "fa": "من هرگز ادعا سخنران انگیزشی بودن نکردم",
+    "en": "I've never claimed to be a motivational speaker",
+    "groupCode": 0
+  },
+  {
+    "id": 2425,
+    "fa": "من زندگی ام را وقف پیگیری بی وقفه (بی امان) دانش و خرد می کنم",
+    "en": "I dedicate my life to the relentless pursuit of knowledge and wisdom",
+    "groupCode": 0
+  },
+  {
+    "id": 2426,
+    "fa": "شاید تو باید پسرت را طوری بزرگ می کردی که نیایند با آدم هایی مثل من معامله نکن",
+    "en": "Maybe you should've raised your son not to go into business with guys like me",
+    "groupCode": 0
+  },
+  {
+    "id": 2427,
+    "fa": "اونا اصلا قابل اعتماد به نظر نمی رسند",
+    "en": "They don't look trustworthy at all",
+    "groupCode": 0
+  },
+  {
+    "id": 2428,
+    "fa": "تو به نظر مرموزتر میرسی",
+    "en": "You sound shadier",
+    "groupCode": 0
+  },
+  {
+    "id": 2429,
+    "fa": "مادرم را آرام کردی؟",
+    "en": "\n 1. Did you sedate my mother? \n 2.Did you calm my mother down?",
+    "groupCode": 0
+  },
+  {
+    "id": 2430,
+    "fa": "من یک دسته دستی قابل تنظیم خریدم",
+    "en": "I bought an adjustable hand grip",
+    "groupCode": 0
+  },
+  {
+    "id": 2431,
+    "fa": "کامپیوترت رو درست کردی (دادن به کسی)؟",
+    "en": "Did you have your computer fixed?",
+    "groupCode": 0
+  },
+  {
+    "id": 2432,
+    "fa": "هفته دیگه موهامو کوتاه خواهم کرد (دادن به کسی)",
+    "en": "I'll get my hair cut next week",
+    "desc": "Passive Causative Formulas\nUsing \"have\":\n\nSubject + have + object + past participle\nExample: \"She had her hair cut.\"\nUsing \"get\":\n\nSubject + get + object + past participle\nExample: \"He got his car fixed.\"",
+    "groupCode": 0
+  },
+  {
+    "id": 2433,
+    "fa": "من دادم به برقکار چراغ شکسته ام را نگاه کند",
+    "en": "I got the electrician to look at my broken light",
+    "desc": "Active Causative Formulas\nUsing \"make\":\n\nSubject + make + person + bare infinitive\nExample: \"She makes him clean the house.\"\nUsing \"have\":\n\nSubject + have + person + bare infinitive\nExample: \"She has the mechanic check the car.\"\nUsing \"let\":\n\nSubject + let + person + bare infinitive\nExample: \"They let him enter the room.\"\nUsing \"get\":\n\nSubject + get + person + to + bare infinitive\nExample: \"He gets her to cook dinner.\"",
+    "groupCode": 0
+  },
+  {
+    "id": 2434,
+    "fa": "باد قوی می توانست میز پیک نیک را واژگون (چپ) کند",
+    "en": "The strong wind could overturn the picnic table",
+    "groupCode": 0
+  },
+  {
+    "id": 2435,
+    "fa": "برو رو زمین الان",
+    "en": "Get down on the ground now",
+    "groupCode": 0
+  },
+  {
+    "id": 2436,
+    "fa": "پدرم الگوی من بود",
+    "en": "My father was my role model",
+    "groupCode": 0
+  },
+  {
+    "id": 2437,
+    "fa": "صبحتان بخیر عالیجنابان، بزرگواران, دوستان و همکارانتان",
+    "en": "Good morning your highness, excellencies, friends and colleagues",
+    "groupCode": 0
+  },
+  {
+    "id": 2438,
+    "fa": "آیا زمانی باقی مانده است؟",
+    "en": "Is there any time left?",
+    "groupCode": 0
+  },
+  {
+    "id": 2439,
+    "fa": "آیا من سربار تو هستم؟",
+    "en": "Am I a burden to you?",
+    "groupCode": 0
+  },
+  {
+    "id": 2440,
+    "fa": "به تو چه",
+    "en": "What's it to you?",
+    "groupCode": 0
+  },
+  {
+    "id": 2441,
+    "fa": "آیا آموزش داره امروز برگزار می شود؟",
+    "en": "Is the training taking place today?",
+    "groupCode": 0
+  },
+  {
+    "id": 2442,
+    "fa": "من قصد دارم یه قهوه بگیرم",
+    "en": "I'm gonna get a coffee",
+    "groupCode": 0
+  },
+  {
+    "id": 2443,
+    "fa": "ورزش منظم و رژیم غذایی متعادل کمک می کند به لاغری و سالم ماندن",
+    "en": "Regular exercise and a balanced diet help to keep lean and healthy",
+    "groupCode": 0
+  },
+  {
+    "id": 2444,
+    "fa": "خفه شو. هر چی من میگم همینه",
+    "en": "Shut up. It's what ever I say",
+    "groupCode": 0
+  },
+  {
+    "id": 2445,
+    "fa": "دستان خود را از جیب خودت خارج نگه دار",
+    "en": "Keep your hands out of your pocket",
+    "groupCode": 0
+  },
+  {
+    "id": 2446,
+    "fa": "من اغلب در هاوایی موج سواری می کنم",
+    "en": "I often surf in Hawaii",
+    "groupCode": 0
+  },
+  {
+    "id": 2447,
+    "fa": "این جاده شماست و تنها مال شماست، دیگران ممکن است با شما طیش (راه) کند، اما هیچکس نمی تواند برای شما طیش (راه) کند",
+    "en": "It's your road, and yours alone, others may walk it with you, but no one can walk it for you",
+    "groupCode": 0
+  },
+  {
+    "id": 2448,
+    "fa": "شما گامهای بلندی دارید بر میدارید (می سازید)",
+    "en": "You're making great strides",
+    "desc": "A step is a basic movement involving lifting one foot and putting it down, while a stride is a longer, purposeful step covering more distance",
+    "groupCode": 0
+  },
+  {
+    "id": 2449,
+    "fa": "او (زن) یک پسر بچه به دنیا آورد",
+    "en": "She gave birth to a baby boy",
+    "groupCode": 0
+  },
+  {
+    "id": 2450,
+    "fa": "او (زن) در انتظار یک بچه است",
+    "en": "She's expecting a baby",
+    "groupCode": 0
+  },
+  {
+    "id": 2451,
+    "fa": "ببخشید پشتم به شماست",
+    "en": "Excuse my back",
+    "groupCode": 0
+  },
+  {
+    "id": 2452,
+    "fa": "پیر نشدی",
+    "en": "You haven't aged a day",
+    "groupCode": 0
+  },
+  {
+    "id": 2453,
+    "fa": "خیلی زود است برای اون",
+    "en": "It's too early for that",
+    "groupCode": 0
+  },
+  {
+    "id": 2454,
+    "fa": "برای بهبودی از مرخصی ام به استراحت نیاز دارم",
+    "en": "I need time off to recover from my time off",
+    "groupCode": 0
+  },
+  {
+    "id": 2455,
+    "fa": "به من پیشنهاد کار در مونیخ داده شده است",
+    "en": "I have been offered a job in Munich",
+    "groupCode": 0
+  },
+  {
+    "id": 2456,
+    "fa": "آیا قادر خواهم بود پس انداز کنم و زندگی متوسطی داشته باشم؟",
+    "en": "Will I be able to save and live a moderate lifestyle?",
+    "groupCode": 0
+  },
+  {
+    "id": 2457,
+    "fa": "باید اعتراف کنم که کمی شک دارم در مورد حقوقی که ذکر کردی",
+    "en": "I must admit that I'm a bit skeptical about the salary you mentioned",
+    "groupCode": 0
+  },
+  {
+    "id": 2458,
+    "fa": "من به شما هشدار می دهم (فرضی) تحقیق و دقت لازم خود را انجام دهی قبل از پذیرش پیشنهاد شغلی",
+    "en": "I would caution you to do your own research and due diligence before accepting the job offer",
+    "groupCode": 0
+  },
+  {
+    "id": 2459,
+    "fa": "اطمینان حاصل کنید شما درک واضحی از هزینه زندگی دارید و اینکه حقوق پیشنهاد شده (در حال حاضر) برای پوشش هزینه های شما کافی است",
+    "en": "Make sure you have a clear understanding of the cost of living and whether the salary being offered is sufficient to cover your expenses",
+    "desc": "The salary being offered\":\n\nThis construction places emphasis on the fact that there is a salary, and it is currently being offered or presented. It's a more complete sentence where \"The salary\" is the subject, and \"being offered\" is a present participle phrase describing the current action.\n\"Offered-salary\":\n\nThis construction is a bit more concise and treats \"offered\" as an adjective modifying \"salary.\" It is common in some contexts, especially in titles or headings, to use this kind of hyphenated phrase for brevity. It places equal emphasis on both parts but may be considered more streamlined or technical.",
+    "groupCode": 0
+  },
+  {
+    "id": 2460,
+    "fa": "من مایلم تشکر کنم از شما برای فرصت اینجا بودن امروز",
+    "en": "I would like to thank you for the opportunity to be here today",
+    "groupCode": 0
+  },
+  {
+    "id": 2461,
+    "fa": "آیا می توانید آن را زودتر از سال گذشته انجام دهید؟ (بسازید)",
+    "en": "Can you make it earlier than last year?",
+    "groupCode": 0
+  },
+  {
+    "id": 2462,
+    "fa": "چرا داره از شما پرسیده میشه که شهادت دهید؟",
+    "en": "\n 1.Why are you being asked to attest? \n 2.Why are you being asked to testify?",
+    "groupCode": 0
+  },
+  {
+    "id": 2463,
+    "fa": "آیا نام ترجیحی دارید؟",
+    "en": "Do you have a preferred name?",
+    "groupCode": 0
+  },
+  {
+    "id": 2464,
+    "fa": "اصلا چرا حرف زدم؟",
+    "en": "Why did I even speak up?",
+    "desc": "\"How did I even speak?\": Expresses surprise or disbelief at one's ability to speak.\n\"How did I even speak up?\": Emphasizes the act of speaking out or expressing oneself, possibly in a surprising or unexpected situation.",
+    "groupCode": 0
+  },
+  {
+    "id": 2465,
+    "fa": "دانشمند به یک شرکت رقیب فرار کرد",
+    "en": "The scientist defected to a rival company",
+    "groupCode": 0
+  },
+  {
+    "id": 2466,
+    "fa": "خوشحالم شما اینجایی",
+    "en": "I'm glad you're here",
+    "groupCode": 0
+  },
+  {
+    "id": 2467,
+    "fa": "آیا آن چیزی است که شما هم شنیدید آقا؟",
+    "en": "Is that what you heard too sir?",
+    "groupCode": 0
+  },
+  {
+    "id": 2468,
+    "fa": "از آخرین باری که با هم صحبت کردیم زیاد نگذشته است",
+    "en": "It hasn't been that long since we last spoke",
+    "groupCode": 0
+  },
+  {
+    "id": 2469,
+    "fa": "چند وقت است که شما دو نفر ازدواج کرده اید؟",
+    "en": "How long have you two been married?",
+    "groupCode": 0
+  },
+  {
+    "id": 2470,
+    "fa": "مرد, تو ذاتاً نژادپرست هستی",
+    "en": "Man, you're innately racist",
+    "groupCode": 0
+  },
+  {
+    "id": 2471,
+    "fa": "آیا مطمئنی که هر کاری ما انجام دادیم تا الان توسط علی انجام شده؟",
+    "en": "Are you sure that everything we have done so far has been done by Ali?",
+    "groupCode": 0
+  },
+  {
+    "id": 2472,
+    "fa": "او (زن) یک شکاک است و همیشه می پرسد برای مدرک قبل از اینکه به چیزی باور داشته باشد",
+    "en": "She's a skeptic and always asks for evidence before believing in something",
+    "groupCode": 0
+  },
+  {
+    "id": 2473,
+    "fa": "تعریف شما از خوشبختی چیست؟",
+    "en": "What is your definition of happiness?",
+    "groupCode": 0
+  },
+  {
+    "id": 2474,
+    "fa": "وقتی ماشینم را پارک کردم، متوجه شدم که چرخ عقب سمت چپ روی جدول است",
+    "en": "When I parked my car, I noticed that the left rear wheel was on curbstone",
+    "groupCode": 0
+  },
+  {
+    "id": 2475,
+    "fa": "من هنوز بیمارم. دکتر مرخصی استعلاجی مرا 3 روز دیگر تمدید کردد",
+    "en": "I'm still sick. The doctor extended my sick leave for another 3 days",
+    "groupCode": 0
+  },
+  {
+    "id": 2476,
+    "fa": "او (زن) بوی بد دهان دارد",
+    "en": "She has bad breath",
+    "groupCode": 0
+  },
+  {
+    "id": 2477,
+    "fa": "مکالمه آنها را در راهرو ناخواسته شنیدم",
+    "en": "I overheard their conversation in the hallway",
+    "groupCode": 0
+  },
+  {
+    "id": 2478,
+    "fa": "ما راه های جداگانه خود را خواهیم رفت",
+    "en": "We'll go our separate ways",
+    "groupCode": 0
+  },
+  {
+    "id": 2479,
+    "fa": "ماس مالی نکن",
+    "en": "Don't cut corners",
+    "groupCode": 0
+  },
+  {
+    "id": 2480,
+    "fa": "منو قال گذاشتی",
+    "en": "You stood me up",
+    "groupCode": 0
+  },
+  {
+    "id": 2481,
+    "fa": "زبونت به دهن بگیر",
+    "en": "Hold your tongue",
+    "groupCode": 0
+  },
+  {
+    "id": 2482,
+    "fa": "برام سخنرانی نکن",
+    "en": "Don't lecture me",
+    "groupCode": 0
+  },
+  {
+    "id": 2483,
+    "fa": "سال چندمی؟",
+    "en": "What year are you in?",
+    "groupCode": 0
+  },
+  {
+    "id": 2484,
+    "fa": "اگه شما ترک کنی من ناراحت نخواهم شد",
+    "en": "If you leave I won't be offended",
+    "groupCode": 0
+  },
+  {
+    "id": 2485,
+    "fa": "این تنها کلمه ای است که براستی توصیف می کند آن فرد چیست",
+    "en": "This is the only word that truly describes what that person is",
+    "groupCode": 0
+  },
+  {
+    "id": 2486,
+    "fa": "یک بادکنک در مثانه شما باد کرده است",
+    "en": "There is a balloon inflated in your bladder",
+    "groupCode": 0
+  },
+  {
+    "id": 2487,
+    "fa": "من به نوعی کنجکاو هستم که شما چگونه واکنش نشان خواهید داد",
+    "en": "I'm kind of curious how you'll react",
+    "groupCode": 0
+  },
+  {
+    "id": 2488,
+    "fa": "بنابراین اگر من جای شما بودم، شروع به صحبت می کردم",
+    "en": "So if I were you, I'd start talking",
+    "groupCode": 0
+  },
+  {
+    "id": 2489,
+    "fa": "بهترین کوله پشتی سبک و ضد آب برای حمل لپ تاپ چیست؟",
+    "en": "What is the best lightweight and waterproof backpack for carrying laptop?",
+    "groupCode": 0
+  },
+  {
+    "id": 2490,
+    "fa": "فکر می کنم باید دو یا سه اسلاید جلوتر را به من بدهی",
+    "en": "I think you should give me two or three slides forward",
+    "groupCode": 0
+  },
+  {
+    "id": 2491,
+    "fa": "من ساعت 9:30 قرار دارم و ممکن است کمی سخت باشد برای رسیدن (گرفتن) دیلی",
+    "en": "I have an appointment at 9:30 and it might be a bit difficult to catch the daily",
+    "groupCode": 0
+  },
+  {
+    "id": 2492,
+    "fa": "هیچ به روز رسانی از طرف من در مورد هر گونه وظایف اسپرینت وجود ندارد. محض اینکه (فقط در صورتی که) نتوانم (فرضی) به تماس برسم",
+    "en": "No updates from my side regarding to any sprint tasks. Just in case I couldn't make it to the call",
+    "groupCode": 0
+  },
+  {
+    "id": 2493,
+    "fa": "لطفا اصلاحم کنید اگر اشتباه می کنم",
+    "en": "Please correct me if I'm wrong",
+    "groupCode": 0
+  },
+  {
+    "id": 2494,
+    "fa": "شما در مسیر درستی هستید، اما اجازه دهید به من چند نکته را روشن و تصحیح کنم",
+    "en": "You're on the right track, but let me clarify and correct a few points",
+    "groupCode": 0
+  },
+  {
+    "id": 2495,
+    "fa": "درست متوجه من شدی",
+    "en": "You got me correctly",
+    "groupCode": 0
+  },
+  {
+    "id": 2496,
+    "fa": "با یک چنین عجله کجا داری میری؟",
+    "en": "Where are you off to in such a hurry?",
+    "groupCode": 0
+  },
+  {
+    "id": 2497,
+    "fa": "وضعیت اقامت آلمان شما چجوریه؟",
+    "en": "What is your german residence status?",
+    "groupCode": 0
+  },
+  {
+    "id": 2498,
+    "fa": "چگونه از ملک استفاده خواهید کرد؟",
+    "en": "How will you use the property?",
+    "groupCode": 0
+  },
+  {
+    "id": 2499,
+    "fa": "آیا دوره آزمایشی خود را گذرانده اید؟",
+    "en": "Have you passed your probation period?",
+    "groupCode": 0
+  },
+  {
+    "id": 2500,
+    "fa": "در مورد چه چیزی بیشتر کنجکاو هستید؟",
+    "en": "What are you most curious about?",
+    "groupCode": 0
+  },
+  {
+    "id": 2501,
+    "fa": "چه نوع ملکی را داری در نظر میگیری بخری؟",
+    "en": "What type of property are you considering buying?",
+    "desc": "The first sentence, \"What type of property are you considering buying?\" is more commonly used and sounds more natural. It follows a common structure in English where the verb \"considering\" is followed directly by the gerund form of the verb \"buy\" (buying).\n\nThe second sentence, \"What type of property are you considering to buy?\" is grammatically correct but might be considered a bit less common. In this case, \"considering\" is followed by the infinitive form of the verb \"to buy.\"",
+    "groupCode": 0
+  },
+  {
+    "id": 2502,
+    "fa": "در کدام شهر داری می گردی برای خریدن؟",
+    "en": "In which city are you looking to buy?",
+    "groupCode": 0
+  },
+  {
+    "id": 2503,
+    "fa": "درآمد خالص ماهانه شما چه است؟",
+    "en": "What is your net monthly income?",
+    "groupCode": 0
+  },
+  {
+    "id": 2504,
+    "fa": "آیا دارید برنامه ریزی می کنید تا بخرید با نفر دوم؟",
+    "en": "Are you planning to buy with a second person?",
+    "groupCode": 0
+  },
+  {
+    "id": 2505,
+    "fa": "هر ماه چقدر می توانید به پرداخت های وام مسکن خود اختصاص دهید؟",
+    "en": "How much can you dedicate to your mortgage payments every month?",
+    "groupCode": 0
+  },
+  {
+    "id": 2506,
+    "fa": "چه مقدار از پس انداز خود را می توانید شما به خرید خود اختصاص دهید؟",
+    "en": "How much of your savings can you dedicate to your purchase?",
+    "groupCode": 0
+  },
+  {
+    "id": 2507,
+    "fa": "آیا در حال حاضر یک صاحب خانه در آلمان هستید؟",
+    "en": "Are you already a homeowner in Germany?",
+    "groupCode": 0
+  },
+  {
+    "id": 2508,
+    "fa": "چقدر اجاره سرد برای خانه خود دارید می پردازید؟",
+    "en": "How much cold rent are you paying for your home?",
+    "groupCode": 0
+  },
+  {
+    "id": 2509,
+    "fa": "آیا شما بالای 30 سال هستی؟",
+    "en": "Are you over 30 years old?",
+    "groupCode": 0
+  },
+  {
+    "id": 2510,
+    "fa": "من خوابم برد",
+    "en": "I fell asleep",
+    "groupCode": 0
+  },
+  {
+    "id": 2511,
+    "fa": "باردار هستید یا شیردهی؟",
+    "en": "Are you pregnant or breastfeeding?",
+    "groupCode": 0
+  },
+  {
+    "id": 2512,
+    "fa": "چقدر زمان برای خودتان دارید هر روز؟",
+    "en": "How much time do you have for yourself every day?",
+    "groupCode": 0
+  },
+  {
+    "id": 2513,
+    "fa": "چند ساعت میخوابی؟",
+    "en": "How many hours do you sleep?",
+    "groupCode": 0
+  },
+  {
+    "id": 2514,
+    "fa": "فداکاری پیگیر (بدون تسلیم) او (مرد) برای بهتر شدن در بازی منجر به بهبودها قابل توجهی در مهارت های او شد",
+    "en": "His relentless dedication to getting better at the game led to significant improvements in his skills",
+    "groupCode": 0
+  },
+  {
+    "id": 2515,
+    "fa": "هیچ حسی وجود ندارد صحبت کردن در مورد راه حل قبل از اینکه ما در مورد مشکل به توافق برسیم, و حسی وجود ندارد صحبت کردن در مورد گامهای پیاده سازی قبل از اینکه ما در مورد راه حل به توافق برسیم",
+    "en": "There is no sense in talking about the solution before we agree on the problem, and no sense talking about the implementation steps before we agree on the solution",
+    "groupCode": 0
+  },
+  {
+    "id": 2516,
+    "fa": "سقف را سوراخ کردم تا یک لوستر زیبا آویزان کنم",
+    "en": "I drilled the ceiling to hang a beautiful chandelier",
+    "groupCode": 0
+  },
+  {
+    "id": 2517,
+    "fa": "مجبور شدم برگردم (بچرخم) و به خانه برگردم چون کیف پولم را فراموش کرده بودم",
+    "en": "I had to turn around and go back home because I forgot my wallet",
+    "desc": "Turn over: Typically refers to revenue, sales, or flipping an object.\nTurn around: Generally means to reverse direction, or in a business context, to achieve a positive change or improvement",
+    "groupCode": 0
+  },
+  {
+    "id": 2518,
+    "fa": "جعبه را برگردان و به پایین نگاه کن",
+    "en": "Turn over the box and look at the bottom",
+    "desc": "Turn over: Typically refers to revenue, sales, or flipping an object.\nTurn around: Generally means to reverse direction, or in a business context, to achieve a positive change or improvement",
+    "groupCode": 0
+  },
+  {
+    "id": 2519,
+    "fa": "من به شما حسادت می کنم",
+    "en": "I envy you",
+    "groupCode": 0
+  },
+  {
+    "id": 2520,
+    "fa": "احمق نباش",
+    "en": "Don't be daft",
+    "groupCode": 0
+  },
+  {
+    "id": 2521,
+    "fa": "من جمعه ها (تا لنگ ظهر) میخوابم",
+    "en": "I sleep in on Fridays",
+    "groupCode": 0
+  },
+  {
+    "id": 2522,
+    "fa": "غذای شما افتضاح است",
+    "en": "Your food is abysmal",
+    "groupCode": 0
+  },
+  {
+    "id": 2523,
+    "fa": "این عکس مال چند سال پیشه؟",
+    "en": "How many years ago is this photo from?",
+    "groupCode": 0
+  },
+  {
+    "id": 2524,
+    "fa": "می تونی زمان (دوره زمانی) این عکس رو به من بگید",
+    "en": "Can you tell me the time frame of this photo",
+    "groupCode": 0
+  },
+  {
+    "id": 2525,
+    "fa": "من درخواست های از مردمی را که نمی شناسم تایید نمی کنم",
+    "en": "I don't approve requests from people I don't know",
+    "groupCode": 0
+  },
+  {
+    "id": 2526,
+    "fa": "وقتی چیزی را قول می دهم، اصلا و ابدا آن قول را نمی شکنم",
+    "en": "When I promise something, I never ever break that promise",
+    "groupCode": 0
+  },
+  {
+    "id": 2527,
+    "fa": "مبلمان را گردگیری می کنم سپس لباس ها را آویزان می کنم تا خشک شوند",
+    "en": "I dust the furniture then hang the clothes to dry",
+    "groupCode": 0
+  },
+  {
+    "id": 2528,
+    "fa": "لباس هایم را تا می کنم",
+    "en": "I fold my clothes",
+    "groupCode": 0
+  },
+  {
+    "id": 2529,
+    "fa": "تو هرگز نخواهی فهمید جهنمی را که در درونم احساس می کنم",
+    "en": "You'll never understand the hell I feel inside me",
+    "groupCode": 0
+  },
+  {
+    "id": 2530,
+    "fa": "من آب (بدون گاز) را به آب گازدار ترجیح می دهم",
+    "en": "I prefer still water to sparkling water",
+    "groupCode": 0
+  },
+  {
+    "id": 2531,
+    "fa": "در میان انتخاب ها در منو، یکی مانده به آخر توجه من را جلب کرد",
+    "en": "Among the choices on the menu, one left to last caught my eye",
+    "groupCode": 0
+  },
+  {
+    "id": 2532,
+    "fa": "من هوا تو داشتم",
+    "en": "I got your back",
+    "groupCode": 0
+  },
+  {
+    "id": 2533,
+    "fa": "ما دو سال اختلاف داریم",
+    "en": "We are two years apart",
+    "groupCode": 0
+  },
+  {
+    "id": 2534,
+    "fa": "من قلقلکیم",
+    "en": "I'm ticklish",
+    "groupCode": 0
+  },
+  {
+    "id": 2535,
+    "fa": "به مردم گفتم شما را اذیت نکنند، اما نمی توانم کنترل کنم آنچه را انجام می دهند",
+    "en": "I told people not to bother you, but I can't control what they do",
+    "groupCode": 0
+  },
+  {
+    "id": 2536,
+    "fa": "حرف بیهوده نزن",
+    "en": "Don't talk nonsense",
+    "groupCode": 0
+  },
+  {
+    "id": 2537,
+    "fa": "دو روز پیش, مچ پایم پیچ خورد وقتی داشتم پینگ پنگ بازی می کردم",
+    "en": "Two days ago, my ankle got twisted while I was playing ping pong",
+    "groupCode": 0
+  },
+  {
+    "id": 2538,
+    "fa": "دو گزینه دسر به من پیشنهاد شد، اما هیچ کدام را دوست نداشتم",
+    "en": "\n 1.I was offered two dessert options, but I liked neither of them \n 2.I was offered two dessert options, but I didn't like either of them",
+    "groupCode": 0
+  },
+  {
+    "id": 2539,
+    "fa": "من سعی می کنم حفظ کنم یک سبک زندگی سالم را با ورزش منظم و خوردن غذاهای مغذی",
+    "en": "I try to sustain a healthy lifestyle by exercising regularly and eating nutritious meals",
+    "groupCode": 0
+  },
+  {
+    "id": 2540,
+    "fa": "من 15ام میرسم",
+    "en": "I will be arriving on the 15th",
+    "desc": "will be arrived: This construction is grammatically incorrect. \"Arrive\" is not a verb that can be used in the passive voice in this context",
+    "groupCode": 0
+  },
+  {
+    "id": 2541,
+    "fa": "آخرین باری که کسی شما را بلند کرد کی بود؟",
+    "en": "When was the last time someone picked you up?",
+    "groupCode": 0
+  },
+  {
+    "id": 2542,
+    "fa": "مادرم تمام روز را در خانه گذراند",
+    "en": "My mother spent the entire day at home",
+    "groupCode": 0
+  },
+  {
+    "id": 2543,
+    "fa": "وقتی آنها رسیدند, آنها نویز را شنیدند",
+    "en": "When they arrived, they heard the noise",
+    "groupCode": 0
+  },
+  {
+    "id": 2544,
+    "fa": "من معمولاً سفر را برعهده می گیرم بوسیله ماشین خودم",
+    "en": "I usually undertake travel by means of my own car",
+    "groupCode": 0
+  },
+  {
+    "id": 2545,
+    "fa": "من معمولا با ماشین سفر می کنم",
+    "en": "I usually travel by car",
+    "groupCode": 0
+  },
+  {
+    "id": 2546,
+    "fa": "مهم است احترام گذاشتن به حریف",
+    "en": "It's important to respect the opponent",
+    "groupCode": 0
+  },
+  {
+    "id": 2547,
+    "fa": "هشت نفر از آنها وجود دارد، بنابراین آنها نمی توانند همه با هم بنشینند",
+    "en": "There are eight of them, so they can't all sit together",
+    "groupCode": 0
+  },
+  {
+    "id": 2548,
+    "fa": "من همه جا دنبال کتاب گشتم",
+    "en": "I've been looking for the book everywhere",
+    "desc": "Anywhere: Refers to any place in a non-specific way, used in negatives or questions. E.g., \"I can't find it anywhere.\"\n\nEverywhere: Refers to all possible places, indicating a thorough search or presence in all locations. E.g., \"I looked everywhere for it.",
+    "groupCode": 0
+  },
+  {
+    "id": 2549,
+    "fa": "شما ممکن است نیاز داشته باشید یک جفت عینک برای خواندن این",
+    "en": "You may need a pair of glasses to read this",
+    "groupCode": 0
+  },
+  {
+    "id": 2550,
+    "fa": "هیچ کس نمی توانست بشنود چه چیزی آنها داشتند می گفتند",
+    "en": "Nobody could hear what they were saying",
+    "groupCode": 0
+  },
+  {
+    "id": 2551,
+    "fa": "من باقی مانده ها را کنار گذاشتم تا که ما بعداً آنها را بخوریم",
+    "en": "I put away the leftovers so that we can eat them later",
+    "groupCode": 0
+  },
+  {
+    "id": 2552,
+    "fa": "از او (مرد) مراقبت کردم وقتی مریض بود",
+    "en": "I cared for him when he was sick",
+    "groupCode": 0
+  },
+  {
+    "id": 2553,
+    "fa": "بابت تاخیرم صمیمانه عذرخواهی میکنم",
+    "en": "\n 1.I sincerely apologize for my tardiness \n 2.I sincerely apologize for my delay",
+    "groupCode": 0
+  },
+  {
+    "id": 2554,
+    "fa": "من متواضعانه کمی قهوه خواستم",
+    "en": "I humbly asked for some coffee",
+    "groupCode": 0
+  },
+  {
+    "id": 2555,
+    "fa": "والدین از فرزندان خود در برابر مشکلات محافظت می کنند",
+    "en": "Parents protect their children from problems",
+    "desc": "\"My parent is at work.\" (referring to one mother or father)\n\"My parents are at work.\" (referring to both the mother and father)",
+    "groupCode": 0
+  },
+  {
+    "id": 2556,
+    "fa": "او (زن) از تب یونجه رنج برد",
+    "en": "She suffered from hay fever",
+    "groupCode": 0
+  },
+  {
+    "id": 2557,
+    "fa": "من کاملاً به توانایی های شما ایمان دارم",
+    "en": "I firmly believe in your capabilities",
+    "groupCode": 0
+  },
+  {
+    "id": 2558,
+    "fa": "من قهرمانانه یک بچه گربه را از آتش سوزان نجات دادم",
+    "en": "I heroically saved a kitten from a blazing fire",
+    "groupCode": 0
+  },
+  {
+    "id": 2559,
+    "fa": "این مورد برای شما نیست",
+    "en": "This is not the case for you",
+    "groupCode": 0
+  },
+  {
+    "id": 2560,
+    "fa": "این کیک رایحه ای دلپذیر از توت فرنگی ها ساطع می کند",
+    "en": "This cake emanates a delightful aroma (əˈrōmə) of strawberries",
+    "groupCode": 0
+  },
+  {
+    "id": 2561,
+    "fa": "من برای تکمیل تکالیفم به تمرکز مطلق (تقسیم نشده) نیاز دارم",
+    "en": "I require undivided focus to complete my homework",
+    "groupCode": 0
+  },
+  {
+    "id": 2562,
+    "fa": "ما تقریباً در همه چیز توافق داریم. من با شما موافقم",
+    "en": "We agree on almost everything. I agree with you",
+    "groupCode": 0
+  },
+  {
+    "id": 2563,
+    "fa": "من او (زن) را رسمی به والدین معرفی کردم",
+    "en": "I formally introduced her to my parents",
+    "groupCode": 0
+  },
+  {
+    "id": 2564,
+    "fa": "من به دوست دخترم توصیه کردم ماشین بخرد",
+    "en": "I advised my girlfriend to buy a car",
+    "groupCode": 0
+  },
+  {
+    "id": 2565,
+    "fa": "مشروط است به شرایط آب و هوا",
+    "en": "It is contingent upon the weather conditions",
+    "groupCode": 0
+  },
+  {
+    "id": 2566,
+    "fa": "من مقدار قابل توجهی از بودجه را خرج گاز می کنم",
+    "en": "I expend a considerable amount of funds on gas",
+    "groupCode": 0
+  },
+  {
+    "id": 2567,
+    "fa": "بیایید در این رقابت شرکت کنیم",
+    "en": "Let's participate in this contest",
+    "groupCode": 0
+  },
+  {
+    "id": 2568,
+    "fa": "والدینش او (مرد) را به خاطر سیگار کشیدن تنبیه کردند",
+    "en": "His parents punished him for smoking",
+    "groupCode": 0
+  },
+  {
+    "id": 2569,
+    "fa": "چگونه (یک نفر) می توان تشخیص بده بین یک سگ و یک گربه؟",
+    "en": "How can one distinguish between a dog and a cat?",
+    "groupCode": 0
+  },
+  {
+    "id": 2570,
+    "fa": "من اخیراً ابتکار عمل را در دست گرفتم تا برای یک فرصت شغلی جدید امیدوار کننده درخواست کنم",
+    "en": "I recently took the initiative to apply for a promising new job opportunity",
+    "groupCode": 0
+  },
+  {
+    "id": 2571,
+    "fa": "من نیاز دارم از این مکان فرار کنم",
+    "en": "I need to escape from this place",
+    "groupCode": 0
+  },
+  {
+    "id": 2572,
+    "fa": "او (زن) بخشید او (مرد) را به خاطر خیانتش",
+    "en": "She forgave him for his cheating",
+    "groupCode": 0
+  },
+  {
+    "id": 2573,
+    "fa": "آیا به خود متکی هستید یا به دیگران در مواقع ضروری؟",
+    "en": "Do you rely on yourself or on others in times of need?",
+    "groupCode": 0
+  },
+  {
+    "id": 2574,
+    "fa": "می توانم ببینم عاقل تر هستی از زمانی که او (زن) به دنیا آمده",
+    "en": "I can see you are wiser since she was born",
+    "groupCode": 0
+  },
+  {
+    "id": 2575,
+    "fa": "چیز مورد علاقه من در مورد یک پدر بودن (این) است پیوسته گفته میشود من اشتباه می کنم تمام مواقع توسط مردمی که برای غذا، سرپناه و پول به من وابسته هستند",
+    "en": "My favorite thing about being a dad is constantly being told I'm wrong all the time by people who depend on me for food, shelter and money",
+    "groupCode": 0
+  },
+  {
+    "id": 2576,
+    "fa": "گستاخی او (مرد) در جلسه همه را سوپرایز کرد",
+    "en": "His audacity /aˈdæsəti/ surprised everyone at the meeting",
+    "groupCode": 0
+  },
+  {
+    "id": 2577,
+    "fa": "گاهی اوقات یک ضرب المثل قدیمی را با پسرم در میان می گذارم تا درس ارزشمندی به او بدهم",
+    "en": "Sometimes I share an old proverb with my son to teach him a valuable lesson",
+    "groupCode": 0
+  },
+  {
+    "id": 2578,
+    "fa": "چلغوز کسی است که از شما جوانتر است اما همچنین به طرز آزاردهنده ای بیش از حد اعتماد به نفس و گستاخی دارد",
+    "en": "A whippersnapper is someone who is younger than you are but also irritatingly overconfident and impertinent",
+    "groupCode": 0
+  },
+  {
+    "id": 2579,
+    "fa": "من واقعاً نمی خواهم مچ پایم دوباره پیچ بخورد، به خصوص نه به صورت تصادفی",
+    "en": "I really don't want my ankle to get twisted again, especially not by accident",
+    "groupCode": 0
+  },
+  {
+    "id": 2580,
+    "fa": "مگه قرار نبود لینکو برام بفرستی؟",
+    "en": "Weren't you supposed to send me the link?",
+    "groupCode": 0
+  },
+  {
+    "id": 2581,
+    "fa": "بیایید ایده شما را مطرح کنیم (در بشقاب بزاریم) و ببینیم چگونه همه بهش  پاسخ می دهند",
+    "en": "Let's put our idea on the plate and see how everyone responds to it",
+    "groupCode": 0
+  },
+  {
+    "id": 2582,
+    "fa": "همه ما آن یک همکار را داریم کسی که کار را 10 برابر خنده دارتر می کند",
+    "en": "We all have that one coworker who makes work 10x funnier",
+    "groupCode": 0
+  },
+  {
+    "id": 2583,
+    "fa": "چقدر ترسو هستی؟",
+    "en": "How cowardly are you?",
+    "desc": "\"coward\" is actually a noun, not an adjective like \"beautiful\" or \"ugly.\" Therefore, the correct phrasing would use \"cowardly\" as the adjective",
+    "groupCode": 0
+  },
+  {
+    "id": 2584,
+    "fa": "او (مرد) اون پایین گیر کرده و من قصد دارم در را برایش باز کنم",
+    "en": "He's stuck down there, and I'm gonna open the door for him",
+    "groupCode": 0
+  },
+  {
+    "id": 2585,
+    "fa": "من نمی خواهم شما را بیمار کنم، بنابراین دارم از شما دور می مانم",
+    "en": "I don't want to get you sick, so I'm staying away from you",
+    "groupCode": 0
+  },
+  {
+    "id": 2586,
+    "fa": "آیا کسی به ویروس من مبتلا شده است؟",
+    "en": "Did anybody get infected by my virus?",
+    "groupCode": 0
+  },
+  {
+    "id": 2587,
+    "fa": "آیا در حال حاضر غذا خوردی؟",
+    "en": "Did you have lunch already?",
+    "groupCode": 0
+  },
+  {
+    "id": 2588,
+    "fa": "آیا کسی در این دو روز به ویروس من مبتلا شده است؟",
+    "en": "Was anyone infected by my virus in the two days since?",
+    "groupCode": 0
+  },
+  {
+    "id": 2589,
+    "fa": "فقط دو روز دیگر تا شروع تعطیلی ما باقی مانده",
+    "en": "Only two days away until our vacation begins",
+    "groupCode": 0
+  },
+  {
+    "id": 2590,
+    "fa": "مال امروزه؟",
+    "en": "Is it from today?",
+    "groupCode": 0
+  },
+  {
+    "id": 2591,
+    "fa": "لوله نشتی دارد",
+    "en": "The pipe is leaking",
+    "groupCode": 0
+  },
+  {
+    "id": 2592,
+    "fa": "لامپ سوخته",
+    "en": "The bulb is burnt out",
+    "groupCode": 0
+  },
+  {
+    "id": 2593,
+    "fa": "شیر آب چکه می کند",
+    "en": "The faucet is dripping",
+    "groupCode": 0
+  },
+  {
+    "id": 2594,
+    "fa": "پارچه پاره است",
+    "en": "The cloth is torn",
+    "groupCode": 0
+  },
+  {
+    "id": 2595,
+    "fa": "من اشتهای سالمی دارم",
+    "en": "I have a healthy appetite",
+    "groupCode": 0
+  },
+  {
+    "id": 2596,
+    "fa": "تو همیشه به من اشتها میاری",
+    "en": "You always give me an appetite",
+    "groupCode": 0
+  },
+  {
+    "id": 2597,
+    "fa": "آن را نخور که اشتهای شما را از بین خواهد (خراب کردن) برد",
+    "en": "Don't eat that it'll spoil your appetite",
+    "groupCode": 0
+  },
+  {
+    "id": 2598,
+    "fa": "بعضی وقت ها بداخلاق می شوم وقتی می دانم امتحان دارم",
+    "en": "Sometimes I get cranky when I know I have an exam",
+    "groupCode": 0
+  },
+  {
+    "id": 2599,
+    "fa": "مجبور شدم هزینه جریمه را پرداخت کنم وقتی چکم برگشت خورد",
+    "en": "I had to pay a penalty fee when my check bounced",
+    "groupCode": 0
+  },
+  {
+    "id": 2600,
+    "fa": "کدوم ماموریت بودی؟",
+    "en": "Which mission were you on?",
+    "groupCode": 0
+  },
+  {
+    "id": 2601,
+    "fa": "صحبتم تمام شد",
+    "en": "I'm done talking",
+    "groupCode": 0
+  },
+  {
+    "id": 2602,
+    "fa": "من پمپ می کنم مقداری صابون برای شستن دست هایم",
+    "en": "I pump some soap to wash my hands",
+    "groupCode": 0
+  },
+  {
+    "id": 2603,
+    "fa": "مرحوم پدرم علاقه داشت (عشق) قصه ها بگوید درباره دوران کودکیش",
+    "en": "My late father loved to tell stories about his childhood",
+    "groupCode": 0
+  },
+  {
+    "id": 2604,
+    "fa": "چشم خوردم",
+    "en": "I'm jinxed",
+    "groupCode": 0
+  },
+  {
+    "id": 2605,
+    "fa": "تو چشمم زدی",
+    "en": "You jinxed me",
+    "groupCode": 0
+  },
+  {
+    "id": 2606,
+    "fa": "شما را با کسی اشتباه گرفتم",
+    "en": "I mistook you for someone",
+    "groupCode": 0
+  },
+  {
+    "id": 2607,
+    "fa": "از من عصبانی هستی؟",
+    "en": "Are you angry with me?",
+    "groupCode": 0
+  },
+  {
+    "id": 2608,
+    "fa": "برق رفت اما بعد از 10 دقیقه دوباره اومد",
+    "en": "Power went out but after 10 minutes came back on",
+    "groupCode": 0
+  },
+  {
+    "id": 2609,
+    "fa": "خانم صاحبخانه اجاره را بالا برده",
+    "en": "The landlady has put the rent up",
+    "groupCode": 0
+  },
+  {
+    "id": 2610,
+    "fa": "صاحبخانه دو اتاق را به دانشجویان اجاره می دهد",
+    "en": "The landlord rents out two rooms to students",
+    "groupCode": 0
+  },
+  {
+    "id": 2611,
+    "fa": "من پکرم",
+    "en": "I feel blue",
+    "groupCode": 0
+  },
+  {
+    "id": 2612,
+    "fa": "هیچ وقت از ذهنم عبور نکرد",
+    "en": "It never crossed my mind",
+    "groupCode": 0
+  },
+  {
+    "id": 2613,
+    "fa": "در نظر داشته باشید",
+    "en": "\n 1.Bear in mind \n 2.Keep in mind",
+    "groupCode": 0
+  },
+  {
+    "id": 2614,
+    "fa": "بزار اینجا پیاده شم",
+    "en": "Let me off here",
+    "groupCode": 0
+  },
+  {
+    "id": 2615,
+    "fa": "از ذهنم رفت (لیز خورد)",
+    "en": "It slipped my mind",
+    "groupCode": 0
+  },
+  {
+    "id": 2616,
+    "fa": "حواسم پرته",
+    "en": "I'm absent-minded",
+    "groupCode": 0
+  },
+  {
+    "id": 2617,
+    "fa": "نوک زبونمه",
+    "en": "It's on the tip of my tongue",
+    "groupCode": 0
+  },
+  {
+    "id": 2618,
+    "fa": "حواسم پرت شد",
+    "en": "I got distracted",
+    "groupCode": 0
+  },
+  {
+    "id": 2619,
+    "fa": "چقدر این شیر در یخچال مانده است؟ سر در نمیارم. تاریخ انقضا را بررسی کنید",
+    "en": "How long has this milk been in the fridge? Beats me. Check the expiration date",
+    "groupCode": 0
+  },
+  {
+    "id": 2620,
+    "fa": "مشغول پختن شام بودم",
+    "en": "I was busy cooking dinner",
+    "groupCode": 0
+  },
+  {
+    "id": 2621,
+    "fa": "من به توت ها حساسیت دارم",
+    "en": "I'm allergic to berries",
+    "groupCode": 0
+  },
+  {
+    "id": 2622,
+    "fa": "دیابت تو خانوادم ارثیه",
+    "en": "Diabetes runs in my family",
+    "groupCode": 0
+  },
+  {
+    "id": 2623,
+    "fa": "کچلی تو خانوادم ارثیه",
+    "en": "Baldness runs in my family",
+    "groupCode": 0
+  },
+  {
+    "id": 2624,
+    "fa": "همسرم خیلی شوره موی سر و مو خوره داره",
+    "en": "My wife has lots of dandruff and split ends",
+    "groupCode": 0
+  },
+  {
+    "id": 2625,
+    "fa": "چه عطری میزنی؟",
+    "en": "What perfume are you wearing?",
+    "groupCode": 0
+  },
+  {
+    "id": 2626,
+    "fa": "توصیه من این است که غذای سالم بخورید",
+    "en": "My advice is to eat healthy food",
+    "groupCode": 0
+  },
+  {
+    "id": 2627,
+    "fa": "بیایید ببینیم چند بار تلاش می برد",
+    "en": "Let's see how many tries it takes",
+    "groupCode": 0
+  },
+  {
+    "id": 2628,
+    "fa": "آخرین باری که احساس خوشحالی کردی کی بود؟",
+    "en": "When was the last time you felt happy?",
+    "groupCode": 0
+  },
+  {
+    "id": 2629,
+    "fa": "دوباره شروع کردی",
+    "en": "There you go again",
+    "groupCode": 0
+  },
+  {
+    "id": 2630,
+    "fa": "من به عجله ننداز",
+    "en": "Don't rush me",
+    "groupCode": 0
+  },
+  {
+    "id": 2631,
+    "fa": "کمی چایی دم کردم",
+    "en": "I brewed some tea",
+    "groupCode": 0
+  },
+  {
+    "id": 2632,
+    "fa": "به کی رفتی؟",
+    "en": "Who do you take after?",
+    "groupCode": 0
+  },
+  {
+    "id": 2633,
+    "fa": "خودتو سرزنش نکن",
+    "en": "Don't beat yourself up!",
+    "groupCode": 0
+  },
+  {
+    "id": 2634,
+    "fa": "از تو بعیده صبور باشی",
+    "en": "It's unlike you to be patient",
+    "groupCode": 0
+  },
+  {
+    "id": 2635,
+    "fa": "معمولا چه ساعتی باز می کنید و می بندید؟",
+    "en": "What time do you usually open and close?",
+    "groupCode": 0
+  },
+  {
+    "id": 2636,
+    "fa": "کلی کار سرم ریخته",
+    "en": "I'm snowed under",
+    "groupCode": 0
+  },
+  {
+    "id": 2637,
+    "fa": "این بدان معنی است که ما نیاز داریم دو نقطه پایانی جدید را معرفی کنیم تا اجتناب کنیم از هرگونه تغییر مسدود کننده",
+    "en": "It means that we need to introduce two new endpoints to avoid any blocking changes",
+    "groupCode": 0
+  },
+  {
+    "id": 2638,
+    "fa": "آنها صحبت کردند در مورد رویداد در راه خانه",
+    "en": "They spoke about the incident on the way home",
+    "groupCode": 0
+  },
+  {
+    "id": 2639,
+    "fa": "به او (زن) دادند 50 یورو برای تولدش",
+    "en": "She was given 50 euros for her birthday",
+    "groupCode": 0
+  },
+  {
+    "id": 2640,
+    "fa": "کاش می توانستم راه حل بهتری پیدا کنم، اما هیچی وجود ندارد",
+    "en": "I wish I could find a better solution, but there isn't any",
+    "groupCode": 0
+  },
+  {
+    "id": 2641,
+    "fa": " این خیلی مشکل است برای خواندن! شما هم می بایستی همین مشکلات را داشته باشید",
+    "en": "This is very difficult to read! You must be having the same difficulties",
+    "desc": "\"Should have\": Indicates a past expectation or recommendation. Not suitable for present difficulties.\n\"Must have\": Refers to a strong deduction about a past situation. Doesn't fit with present difficulties.\n\"Must be having\": Indicates a strong deduction about current, ongoing difficulties",
+    "groupCode": 0
+  },
+  {
+    "id": 2642,
+    "fa": "اون نوع فیلمی نیست من به آن علاقه دارم",
+    "en": "That's not the sort of film I'm interested in",
+    "groupCode": 0
+  },
+  {
+    "id": 2643,
+    "fa": "من (هر دو) به وجد آمدم و ترسیده بودم",
+    "en": "I was both ecstatic and terrified",
+    "groupCode": 0
+  },
+  {
+    "id": 2644,
+    "fa": "طبق مطالعات, تقریباً 70 درصد پروژه های نرم افزاری به موقع تحویل داده نمی شوند",
+    "en": "According to studies, approximately 70% of software projects are not delivered on time",
+    "groupCode": 0
+  },
+  {
+    "id": 2645,
+    "fa": "اینجا ما ازش استفاده خواهیم کرد برای یادگیری ریزه کاریهای حوزه های تجاری",
+    "en": "Here we will use it to learn the intricacies of business domains",
+    "groupCode": 0
+  },
+  {
+    "id": 2646,
+    "fa": "باید عاری از ابهام، مفروضات ضمنی و جزئیات اضافی (نامربوط) باشد",
+    "en": "It should be free of ambiguity, implicit assumptions, and extraneous details",
+    "groupCode": 0
+  },
+  {
+    "id": 2647,
+    "fa": "آیا به طور خلاصه (مخلص کلام) مسئولیت های خود را می دانید؟",
+    "en": "Do you know your responsibilities in a nutshell?",
+    "groupCode": 0
+  },
+  {
+    "id": 2648,
+    "fa": "از خواب بیدار شدن هر روز صبح با لبخندی روشن آسان تر از آن چیزی است که تو فکر می کنی",
+    "en": "Getting up every morning with a bright smile is easier than you think",
+    "groupCode": 0
+  },
+  {
+    "id": 2649,
+    "fa": "با مراقبت های موثر و روتین دندان، شما قرار می دهید اساس سلامت دهان و دندان که تا سنین بالا خوب دوام می آورد",
+    "en": "With effective and routine dental care, you lay the foundation for oral and dental health that lasts well into old age",
+    "groupCode": 0
+  },
+  {
+    "id": 2650,
+    "fa": "دندانپزشک من گفت خوب مسواک بزنید و نخ دندان بکشید برای جلوگیری از ایجاد جرم (پلاک)",
+    "en": "My dentist said to brush and floss well to avoid tartar (plaque) buildup",
+    "groupCode": 0
+  },
+  {
+    "id": 2651,
+    "fa": "اون هست یکی از بدخلق ترین گربه هایی که تا به حال دیده ام",
+    "en": "That is one of the grumpiest cat I have ever seen",
+    "groupCode": 0
+  },
+  {
+    "id": 2652,
+    "fa": "هی اونجوری (لعنتی) به من نگاه نکن",
+    "en": "Hey, don't fucking look at me like that",
+    "groupCode": 0
+  },
+  {
+    "id": 2653,
+    "fa": "اون یک گربه (لعنتی) با قیافه عجیب و غریب است",
+    "en": "That's a weird-looking fucking cat",
+    "groupCode": 0
+  },
+  {
+    "id": 2654,
+    "fa": "پس از این ما می دانیم احتمال انجام (ساختن) این ضربه در تورنمنت چقدر است",
+    "en": "After this we know what's the likelihood of making this shot in the tournament",
+    "groupCode": 0
+  },
+  {
+    "id": 2655,
+    "fa": "برو لعنتی از اینجا",
+    "en": "Get the fuck out of here",
+    "groupCode": 0
+  },
+  {
+    "id": 2656,
+    "fa": "تبریکات برای شغل جدیدت",
+    "en": "Congratulations on your new job",
+    "groupCode": 0
+  },
+  {
+    "id": 2657,
+    "fa": "من می خواهم موهای همسرم کوتاه شود",
+    "en": "I want my wife to get a haircut",
+    "groupCode": 0
+  },
+  {
+    "id": 2658,
+    "fa": "با من خودمونی نشو",
+    "en": "Don't get fresh with me",
+    "groupCode": 0
+  },
+  {
+    "id": 2659,
+    "fa": "چقدر زمان تا پایان کارتان باقی مانده است؟",
+    "en": "How much time is left till the end of your work?",
+    "groupCode": 0
+  },
+  {
+    "id": 2660,
+    "fa": "خوب است که مرطوب بمانید (آب بیشتری بنوشید)",
+    "en": "It's good to stay hydrated",
+    "groupCode": 0
+  },
+  {
+    "id": 2661,
+    "fa": "بیایید خلاصه کنیم این سطح را با یک جایزه در پایان",
+    "en": "Let's recap this level with a reward at the end",
+    "groupCode": 0
+  },
+  {
+    "id": 2662,
+    "fa": "کدام یک از شما در رشته (فیلد) پزشکی قبول شدید؟",
+    "en": "Which one of you was accepted in the field of medicine?",
+    "groupCode": 0
+  },
+  {
+    "id": 2663,
+    "fa": "نگرانی شما نابجاست (بی مورد)",
+    "en": "Your concern is misplaced",
+    "groupCode": 0
+  },
+  {
+    "id": 2664,
+    "fa": "روزه ای؟",
+    "en": "Are you fasting?",
+    "groupCode": 0
+  },
+  {
+    "id": 2665,
+    "fa": "جای شما خالی بود",
+    "en": "You were missed",
+    "groupCode": 0
+  },
+  {
+    "id": 2666,
+    "fa": "ترجیح میدم تو بری دکتر",
+    "en": "I would rather you went to the doctor",
+    "groupCode": 0
+  },
+  {
+    "id": 2667,
+    "fa": "دارم (لباس) عوض میکنم",
+    "en": "I'm getting changed",
+    "groupCode": 0
+  },
+  {
+    "id": 2668,
+    "fa": "بهترین هدیه ای که تا به حال به کسی داده اید چیست؟",
+    "en": "What's the best gift you've ever given someone?",
+    "groupCode": 0
+  },
+  {
+    "id": 2669,
+    "fa": "همه پول شما کجا رفته؟",
+    "en": "Where is your all money gone?",
+    "groupCode": 0
+  },
+  {
+    "id": 2670,
+    "fa": "او (زن) دندان درد دارد. او فکر می کند که پوسیدگی دارد",
+    "en": "She has a toothache. She thinks she has a cavity",
+    "groupCode": 0
+  },
+  {
+    "id": 2671,
+    "fa": "چقدر پیشرفت کردی؟ (ساختی)",
+    "en": "How much progress did you make?",
+    "groupCode": 0
+  },
+  {
+    "id": 2672,
+    "fa": "من کی قراره کار کنم؟",
+    "en": "When am I supposed to work?",
+    "groupCode": 0
+  },
+  {
+    "id": 2673,
+    "fa": "زنجیر تایم در داخل موتور قرار می گیرد و روغن موتور را دریافت می کند و می تواند برای یک زمان زیادی دوام بیاورد، در حالی که تسمه های تایم در خارج از موتور قرار دارند و تمایل به خشک شدن و ترک خوردن دارند",
+    "en": "Timing chain is housed within the engine and receives lubrication from engine oil and can last a long time, while timing belt is located outside of the engine and tends to dry out and crack",
+    "groupCode": 0
+  },
+  {
+    "id": 2674,
+    "fa": "سرماخوردگی خفیف و گلو درد دارم",
+    "en": "I have a mild cold and sore throat",
+    "groupCode": 0
+  },
+  {
+    "id": 2675,
+    "fa": "فکر می کنی من یک احمق هستم",
+    "en": "You think I'm a fool",
+    "groupCode": 0
+  },
+  {
+    "id": 2676,
+    "fa": "آماده ای برای سفارش دادن؟",
+    "en": "Are you ready to order?",
+    "groupCode": 0
+  },
+  {
+    "id": 2677,
+    "fa": "می توانم چیزی برای شروع به شما بدهم؟",
+    "en": "Can I get you something to start with?",
+    "groupCode": 0
+  },
+  {
+    "id": 2678,
+    "fa": "من مایلم (داشته باشم) ماهی تن با سالاد",
+    "en": "I'd like the tuna with a salad",
+    "groupCode": 0
+  },
+  {
+    "id": 2679,
+    "fa": "استیک خود را چگونه (مودبانه) دوست دارید؟ آبدار, نیم پز یا کاملا پخته",
+    "en": "How would you like your steak? rare, medium or well done",
+    "groupCode": 0
+  },
+  {
+    "id": 2680,
+    "fa": "آیا مرا هنوز دوست داشتی اگر به دنیا نمی آمدم؟",
+    "en": "Would you still love me if I wasn't born?",
+    "groupCode": 0
+  },
+  {
+    "id": 2681,
+    "fa": "از شما بعیده که یک چنین اشتباهی را مرتکب شوی، اما من بعید نیستم این را انجام دهم",
+    "en": "It's unlike you to make such a mistake, but I'm not unlikely to do this",
+    "groupCode": 0
+  },
+  {
+    "id": 2682,
+    "fa": "چشمانش (زن) ضعیف است",
+    "en": "She has poor eyesight",
+    "groupCode": 0
+  },
+  {
+    "id": 2683,
+    "fa": "فقط یک دقیقه بیشتر فرصت دارید",
+    "en": "You only have one more minute left",
+    "groupCode": 0
+  },
+  {
+    "id": 2684,
+    "fa": "لطفاً بگذارید ما بدانیم چه گزینه ای را انتخاب خواهید کرد به محض اینکه شما تقومیت را چک کردی",
+    "en": "Please let us know what option you will be choosing once you've checked your calendar",
+    "desc": "Use \"Please let us know what option you will be choosing\" when the decision may take time or involve a process.\nUse \"Please let us know what option you will choose\" when the decision can be made quickly or easily.",
+    "groupCode": 0
+  },
+  {
+    "id": 2685,
+    "fa": "حقوق خوب در انگلستان چقدر است؟",
+    "en": "What's a good salary in UK?",
+    "groupCode": 0
+  },
+  {
+    "id": 2686,
+    "fa": "چه بود اولین نشانه ای که شما دیگر آنقدر جوانی نیستید که فکر می کردید؟",
+    "en": "What was the first indication that you were no longer as young as you thought?",
+    "groupCode": 0
+  },
+  {
+    "id": 2687,
+    "fa": "او (مرد) تو را به خاطر متفاوت بودنش تحقیر کرد",
+    "en": "He despised you for being different",
+    "groupCode": 0
+  },
+  {
+    "id": 2688,
+    "fa": "ما نیاز است گامها را برداریم تا حفظ کنیم محیط زیست خودمان را برای نسل های آینده",
+    "en": "We need to take steps to sustain our environment for future generations",
+    "groupCode": 0
+  },
+  {
+    "id": 2689,
+    "fa": "شمشیر خود را بکش و مرد خود را نجات بده",
+    "en": "Draw your sword and save your man",
+    "groupCode": 0
+  },
+  {
+    "id": 2690,
+    "fa": "امیدوارم این ایمیل شما را در حال خوبی بیابد",
+    "en": "I hope this email finds you well",
+    "groupCode": 0
+  },
+  {
+    "id": 2691,
+    "fa": "نوشتن یک چک بی محل می تواند (فرضی) شما را در دردسر بیاندازد (داخل آب داغ افتادن)",
+    "en": "Writing a rubber check could land you in financial hot water",
+    "groupCode": 0
+  },
+  {
+    "id": 2692,
+    "fa": "فردی که بیشتر صحبت می کند، بیشترین احتمال را دارد که رهبر شود",
+    "en": "The person who talks the most is the most likely to become the leader",
+    "groupCode": 0
+  },
+  {
+    "id": 2693,
+    "fa": "زمان آن است که توقف داد به پاداش دادن به افراد برای تسلط بر بحث و شروع به ارزش دادن به کیفیت بر کمیت",
+    "en": "It's time to stop rewarding people for dominating the discussion, and start valuing quality over quantity",
+    "groupCode": 0
+  },
+  {
+    "id": 2694,
+    "fa": "نوازنده ای که این آهنگ را نوشته فرانسوی است",
+    "en": "The musician who wrote this song is French",
+    "desc": "Who (pronoun) relates to subject",
+    "groupCode": 0
+  },
+  {
+    "id": 2695,
+    "fa": "او (زن) نمی تواند به خاطر بیاورد که چه کسی را دیده",
+    "en": "She can't remember whom she saw",
+    "desc": "Whom (pronoun) relates to object",
+    "groupCode": 0
+  },
+  {
+    "id": 2696,
+    "fa": "وقتی آخرین چک را کردم, همه سر کار بودند",
+    "en": "When I last checked, everyone was at work",
+    "groupCode": 0
+  },
+  {
+    "id": 2697,
+    "fa": "میدونی دلیلی که چرا مارکت امروز بسته است؟",
+    "en": "Do you know the reason why the market is closed today?",
+    "desc": "Why (pronoun) refers to reason",
+    "groupCode": 0
+  },
+  {
+    "id": 2698,
+    "fa": "روزی که کنسرت برگزار می شود شنبه است",
+    "en": "The day when the concert takes place is Saturday",
+    "desc": "When (pronoun) refers to time",
+    "groupCode": 0
+  },
+  {
+    "id": 2699,
+    "fa": "این خانه ای است که پسرم در آن به دنیا آمد",
+    "en": "This is the house where my son was born",
+    "desc": "Where (pronoun) refers to places",
+    "groupCode": 0
+  },
+  {
+    "id": 2700,
+    "fa": "پسری که تلفنش الان زنگ خورد باید بایستد",
+    "en": "The boy whose phone just rang should stand up",
+    "desc": "Whose (pronoun) refers to possession",
+    "groupCode": 0
+  },
+  {
+    "id": 2701,
+    "fa": "من می توانم به شما کمک کنم از ایوان خودتون عبور کنید",
+    "en": "I can help you cross your porch",
+    "desc": "\"I can help you cross your porch.\" - Direct and commonly used.\n\"I can help you to cross your porch.\" - Also correct, but less common in everyday speech.",
+    "groupCode": 0
+  },
+  {
+    "id": 2702,
+    "fa": "تو رقت انگیزی (حقیر)",
+    "en": "You're pathetic",
+    "groupCode": 0
+  },
+  {
+    "id": 2703,
+    "fa": "تو سخت در اشتباهی",
+    "en": "You're dead wrong",
+    "groupCode": 0
+  },
+  {
+    "id": 2704,
+    "fa": "تو یه ترسویی",
+    "en": "You're a coward",
+    "groupCode": 0
+  },
+  {
+    "id": 2705,
+    "fa": "من همیشه هودی مورد علاقه ام را می پوشم وقتی بیرون خنک می شود, و من آن را در می آورم به محض اینکه به داخل برگشتم",
+    "en": "I always put on my favorite hoodie when it gets chilly outside, and I take it off as soon as I'm back inside",
+    "groupCode": 0
+  },
+  {
+    "id": 2706,
+    "fa": "من در محلت برت میدارم (خواهم)، سپس می توانیم بسته را در راه پارتی مان بزاریم (پیاده کنیم)",
+    "en": "I'll pick you up at your place, then we can drop off the package on our way to the party",
+    "groupCode": 0
+  },
+  {
+    "id": 2707,
+    "fa": "هر بار که می خواهم گربم را حمام کنم، او (زن) سعی میکند فرار کند, و در نهایت مجبور میشوم به دنبال او در خانه بدوم",
+    "en": "\n 1.Every time I try to give my cat a bath, she tries to run away, and I end up having to run after her around the house. \n 2.Every time I try to bathe my cat, she tries to run away, and I end up having to run after her around the house",
+    "groupCode": 0
+  },
+  {
+    "id": 2708,
+    "fa": "سرعتم را بالا بردم تا چراغ سبز را بگیرم، اما سپس سرعتم را کم کردم تا جلوگیری (کنم) از یک جریمه",
+    "en": "I sped up to catch the green light, but then slowed down to avoid a fine",
+    "groupCode": 0
+  },
+  {
+    "id": 2709,
+    "fa": "من برای متنفر بودن از افرادی که از من متنفرند وقت ندارم، چون زیاد مشغول دوست داشتن کسانی هستم که مرا دوست دارند",
+    "en": "I don't have time to hate the people who hate me, because I'm too busy loving the people who love me",
+    "groupCode": 0
+  },
+  {
+    "id": 2710,
+    "fa": "بزرگترین اشتباهی که می توانستی (فرضی) مرتکب شوید (بسازید) انتظار کمال داشتن از خودتان هر روز (تک تک روز) است",
+    "en": "The biggest mistake you could make is expecting perfection of yourself every single day",
+    "groupCode": 0
+  },
+  {
+    "id": 2711,
+    "fa": "اون انضباط نیست، اون دیوانگی است و شما را تخلیه (از انرژی) خواهد کرد",
+    "en": "That's not discipline, that's insanity and it'll drain you",
+    "groupCode": 0
+  },
+  {
+    "id": 2712,
+    "fa": "نظم و انضباط در مورد کمال نیست، بلکه در مورد تداوم است",
+    "en": "Discipline is not about perfection, it's about continuity",
+    "groupCode": 0
+  },
+  {
+    "id": 2713,
+    "fa": "هر موارد اضافی (نامربوط) را از لیست حذف کنید",
+    "en": "Remove any extraneous items from the list",
+    "desc": "\n\"Extra\" generally means \"additional\" or \"more than is needed.\" For example, if you order a pizza with extra cheese, you're asking for more cheese than the standard amount.\n\n\"Extraneous,\" on the other hand, refers to something that is unnecessary or irrelevant to the matter at hand. For instance, if you're discussing a topic in a meeting and someone brings up unrelated details, those details could be considered extraneous.",
+    "groupCode": 0
+  },
+  {
+    "id": 2714,
+    "fa": "من درخواست ضمنی خود را فهمیدم و مطابق آن عمل کردم",
+    "en": "I understood my implicit request and acted accordingly",
+    "groupCode": 0
+  },
+  {
+    "id": 2715,
+    "fa": "یک قاعده ضمنی ممکن است بر اساس هنجارهای اجتماعی درک شود، در حالی که یک قانون صریح به وضوح در یک کتاب قانون اظهار شده است",
+    "en": "An implicit rule might be understood based on societal /səˈsaɪətl̩/ norms, while an explicit rule is clearly stated in a rulebook",
+    "desc": "\"Implicit\" refers to something that is suggested or understood without being directly expressed. It's something that is implied or inferred from context.\n\"Explicit,\" on the other hand, refers to something that is stated directly and clearly, leaving no room for ambiguity or misunderstanding.",
+    "groupCode": 0
+  },
+  {
+    "id": 2716,
+    "fa": "یارانه ضمنی کاهش قیمت کالا است، یارانه صریح مبلغی است که مستقیماً به حساب واریز می شود",
+    "en": "The implicit subsidy is the reduction in the price of goods, the explicit subsidy is the amount of money that is directly deposited into the account",
+    "groupCode": 0
+  },
+  {
+    "id": 2717,
+    "fa": "از فردا گاییده میشه",
+    "en": "You will be screwed up from tomorrow",
+    "groupCode": 0
+  },
+  {
+    "id": 2718,
+    "fa": "با قاطعیت، گامی مطمئن به سوی هدفم بر می دارم",
+    "en": "With determination, I take a confident stride towards my goal",
+    "desc": "A step is a basic movement involving lifting one foot and putting it down, while a stride is a longer, purposeful step covering more distance",
+    "groupCode": 0
+  },
+  {
+    "id": 2719,
+    "fa": "وثیقه شما برای اوراق قرضه چیست؟",
+    "en": "What's your collateral for the bond?",
+    "groupCode": 0
+  },
+  {
+    "id": 2720,
+    "fa": "بیایید ببینیم چند نقطه در جدول بالا رفتیم",
+    "en": "Let's see how many spots we moved up in the table",
+    "desc": "\"Spot\" is often used informally to refer to a position or rank in a list or table. In this context, it implies the specific place or position in the table. So, when you say \"how many spots we moved up,\" it means how many positions higher we have moved in the table",
+    "groupCode": 0
+  },
+  {
+    "id": 2721,
+    "fa": "اگر پشیمان بودی از خواب بیدار می شدی",
+    "en": "If you were sorry you would've woken up",
+    "groupCode": 0
+  },
+  {
+    "id": 2722,
+    "fa": "دهانش (زن) بو می ده",
+    "en": "She has smelly breath",
+    "groupCode": 0
+  },
+  {
+    "id": 2723,
+    "fa": "ما تکرار می کنیم این درس را دوباره",
+    "en": "We repeat this lesson again",
+    "groupCode": 0
+  },
+  {
+    "id": 2724,
+    "fa": "به چه کسی باید اختصاص دهم؟",
+    "en": "\n 1.Whom should I assign to? \n 2.To whom should I assign?",
+    "groupCode": 0
+  },
+  {
+    "id": 2725,
+    "fa": "لطفا منو روشن (آگاه) کن",
+    "en": "Please enlighten me",
+    "groupCode": 0
+  },
+  {
+    "id": 2726,
+    "fa": "من قصد دارم پنهان شوم",
+    "en": "I'm gonna hide out",
+    "groupCode": 0
+  },
+  {
+    "id": 2727,
+    "fa": "من دارم به معنای واقعی کلمه طبقه بالا پنهان شدم همین الان",
+    "en": "I'm literally hiding upstairs right now",
+    "groupCode": 0
+  },
+  {
+    "id": 2728,
+    "fa": "والدینش (زن) طلاق گرفته بودند و خواهرش اسکیزوفرنی شدید داشت",
+    "en": "Her parents were divorced and her sister had severe schizophrenia /ˌskɪtsoʊˈfriːnɪə/",
+    "groupCode": 0
+  },
+  {
+    "id": 2729,
+    "fa": "به خاطر زیبایی و اعتماد به نفسش (زن)، برای او آسان بود چیزی که می خواست را بگیرد",
+    "en": "Because of her beauty and confidence, it was easy for her to get what she wanted",
+    "groupCode": 0
+  },
+  {
+    "id": 2730,
+    "fa": "راستش را بخواهید, برخی از تجربیاتم واقعا تحقیرآمیز بود برای من",
+    "en": "Honestly, some of my experiences were really humiliating for me",
+    "groupCode": 0
+  },
+  {
+    "id": 2731,
+    "fa": "کاش که آنها هیچ وقت اتفاق نمی افتادند",
+    "en": "I wish that they never happened",
+    "groupCode": 0
+  },
+  {
+    "id": 2732,
+    "fa": "من دچار وسواس جمع آوری تمبر شدم",
+    "en": "I became obsessed with collecting stamps",
+    "groupCode": 0
+  },
+  {
+    "id": 2733,
+    "fa": "بعد از اینکه ناهار خورده بودیم، بادبادک هایمان را به پرواز در آوردیم. این فوق العاده بود چون خودمان آنها را ساخته بودیم",
+    "en": "After we had eaten lunch, we flew our kites. That was fantastic because we had made them ourselves",
+    "groupCode": 0
+  },
+  {
+    "id": 2734,
+    "fa": "اگر تنها فرزند خانواده بودید، چیزها ممکن بود متفاوت بود برای شما در بسیاری جهات",
+    "en": "If you had been the only child in the family, things might have been different for you in so many ways",
+    "groupCode": 0
+  },
+  {
+    "id": 2735,
+    "fa": "مردان 60 ساله هر سال به طور متوسط دو دقیقه سریعتر در ماراتن می دوند",
+    "en": "Men aged 60 run the marathon an average of two minutes faster each year",
+    "groupCode": 0
+  },
+  {
+    "id": 2736,
+    "fa": "انسان بدون اخلاق است یک حیوان وحشی آزاد در جهان",
+    "en": "A man without ethics is a wild animal free in the world",
+    "groupCode": 0
+  },
+  {
+    "id": 2737,
+    "fa": "به عنوان یک نوجوان, او (زن) به ندرت نظرش را به دلیل ترس از خندیدن به زبان می آورد",
+    "en": "As a teenager, she rarely spoke her mind out of fear of being laughed at",
+    "groupCode": 0
+  },
+  {
+    "id": 2738,
+    "fa": "او (مرد) تا حد مرگ ترسیده بود",
+    "en": "He was frightened to death",
+    "groupCode": 0
+  },
+  {
+    "id": 2739,
+    "fa": "بسیاری از سوالات در مورد مغز هنوز پاسخ داده نشده اند",
+    "en": "Many questions about the brain have not yet been answered",
+    "groupCode": 0
+  },
+  {
+    "id": 2740,
+    "fa": "سطح مغز را قشر مغز می نامند",
+    "en": "The surface of the brain is called the cerebral /ˈseribrəl/ cortex",
+    "groupCode": 0
+  },
+  {
+    "id": 2741,
+    "fa": "در نهایت تصمیم گرفتم خودم یکی درست کنم",
+    "en": "In the end I decided to make one myself",
+    "desc": "\"I decided to make one myself\":\nTranslation: تصمیم گرفتم خودم یکی درست کنم.\nTransliteration: \"Tasmim gereftam khodam yeki dorost konam.\"\n\"I decided to make one by myself\":\nTranslation: تصمیم گرفتم به تنهایی یکی درست کنم.\nTransliteration: \"Tasmim gereftam be tanhai yeki dorost konam.\"",
+    "groupCode": 0
+  },
+  {
+    "id": 2742,
+    "fa": "همه می دانند که دو عقل بهتر از یک عقل است",
+    "en": "Everybody knows that two heads are better than one",
+    "groupCode": 0
+  },
+  {
+    "id": 2743,
+    "fa": "امسال چقدر به سرپرست انعام دادید؟",
+    "en": "\n 1.How much did you tip the superintendent this year? \n 2.How much did you tip the superintendent this year?",
+    "groupCode": 0
+  },
+  {
+    "id": 2744,
+    "fa": "غیرشخصی (بی احساس) است ارسال کردن پاسخ های خودکار",
+    "en": "It is impersonal to send automated responses",
+    "groupCode": 0
+  },
+  {
+    "id": 2745,
+    "fa": "من قبلا هیچ وقت نقد (بررسی شده) نشدم",
+    "en": "I have never gotten reviewed before",
+    "groupCode": 0
+  },
+  {
+    "id": 2746,
+    "fa": "مردم در مورد من چه می گویند اگر نتوانستم از شادی تو لذت ببرم؟",
+    "en": "What would people say about me if I can't revel /ˈrevəl/ in your joy?",
+    "groupCode": 0
+  },
+  {
+    "id": 2747,
+    "fa": "آیا انگشت شما در آن صندلی گیر کرده است؟",
+    "en": "Is your finger caught /ˈkɑːt/ in that chair?",
+    "desc": "زمان گذشته و اسم مفعول فعل: catch",
+    "groupCode": 0
+  },
+  {
+    "id": 2748,
+    "fa": "من مخالفش نیستم",
+    "en": "I'm not against it",
+    "groupCode": 0
+  },
+  {
+    "id": 2749,
+    "fa": "آیا شیک های پروتئینی واقعا کمک می کنند؟",
+    "en": "Do protein shakes really help?",
+    "groupCode": 0
+  },
+  {
+    "id": 2750,
+    "fa": "آیا پوش آپ ها پرس سینه (نیمکت) شما را افزایش می دهند؟",
+    "en": "Do pushups increase your bench press?",
+    "groupCode": 0
+  },
+  {
+    "id": 2751,
+    "fa": "من تازه صبحانه خوردم (داشتم)",
+    "en": "I just had breakfast",
+    "groupCode": 0
+  },
+  {
+    "id": 2752,
+    "fa": "کشور من ثروتمند است, مملو با منابع طبیعی از نفت و گاز است",
+    "en": "My country is affluent, loaded with natural resources of oil and gas",
+    "groupCode": 0
+  },
+  {
+    "id": 2753,
+    "fa": "به جا نمیارمت",
+    "en": "I can't place you",
+    "groupCode": 0
+  },
+  {
+    "id": 2754,
+    "fa": "این شرکت فراخوانی برای محصول معیوب صادر کرد",
+    "en": "The company issued a recall for the faulty product",
+    "groupCode": 0
+  },
+  {
+    "id": 2755,
+    "fa": "این به اون در",
+    "en": "Tit for tat",
+    "groupCode": 0
+  },
+  {
+    "id": 2756,
+    "fa": "من معمولاً از اشتباه پسرم چشم پوشی می کنم",
+    "en": "I usually turn a blind eye about my son's mistake",
+    "groupCode": 0
+  },
+  {
+    "id": 2757,
+    "fa": "سلام منو برسون",
+    "en": "Say hi for me",
+    "groupCode": 0
+  },
+  {
+    "id": 2758,
+    "fa": "کپسول آتش نشانی به سرعت شعله های آتش را خاموش کرد",
+    "en": "The fire extinguisher quickly put out the flames",
+    "groupCode": 0
+  },
+  {
+    "id": 2759,
+    "fa": "من مشروب خور تیر بودم",
+    "en": "I was a heavy drinker",
+    "groupCode": 0
+  },
+  {
+    "id": 2760,
+    "fa": "رئیس سابق من داره الان می پرسه برای جای تقریبی فایل های مهم",
+    "en": "My ex-boss is now asking for the whereabouts of important files",
+    "groupCode": 0
+  },
+  {
+    "id": 2761,
+    "fa": "من انگشت پام به میز کوبیدم",
+    "en": "I stubbed /stˈʌb/ my toe on the table",
+    "groupCode": 0
+  },
+  {
+    "id": 2762,
+    "fa": "خودم را نیشگون گرفتم",
+    "en": "I pinched myself",
+    "groupCode": 0
+  },
+  {
+    "id": 2763,
+    "fa": "من سرم را به بیرون زدگی دیوار زدم",
+    "en": "I bumped my head against the wall extrusion",
+    "groupCode": 0
+  },
+  {
+    "id": 2764,
+    "fa": "من فقط مقدار کمی از کیک برایم باقی مانده بود بعد از به اشتراک گذاشتنش با دوستانم",
+    "en": "I had only a fractional amount of cake left after sharing it with my friends",
+    "groupCode": 0
+  },
+  {
+    "id": 2765,
+    "fa": "این باید محبوب ترین دسر من در تمام دوران باشد",
+    "en": "This has got to be my most favorite dessert of all time",
+    "groupCode": 0
+  },
+  {
+    "id": 2766,
+    "fa": "احمق هستی یا چیزی؟",
+    "en": "Are you stupid or something?",
+    "groupCode": 0
+  },
+  {
+    "id": 2767,
+    "fa": "من قصد دارم الان فحشت بدم",
+    "en": "I'm gonna curse you now",
+    "groupCode": 0
+  },
+  {
+    "id": 2768,
+    "fa": "من از کاری که قرار است انجام دهم گیج شده ام",
+    "en": "I'm confused of what I'm supposed to be doing",
+    "groupCode": 0
+  },
+  {
+    "id": 2769,
+    "fa": "سمعکم داره بازی در میاره (درست کار نمی کنه)",
+    "en": "My hearing aid is acting up",
+    "groupCode": 0
+  },
+  {
+    "id": 2770,
+    "fa": "به پایین اسکرول کنید اما نه تا آخر",
+    "en": "Scroll down but not all the way",
+    "groupCode": 0
+  },
+  {
+    "id": 2771,
+    "fa": "ما مایلیم اطمینان حاصل کنیم از یک آبشار اطلاعاتی دقیق در سازمان خود",
+    "en": "We would like to ensure a strict information cascade within our organization",
+    "desc": "The sentence means that the speaker or the organization desires to establish a controlled flow of information within their organization",
+    "groupCode": 0
+  },
+  {
+    "id": 2772,
+    "fa": "شاید زمانی بوده است که خودم (فرضی) را فاش میکردم (لو دادم)",
+    "en": "There might've been a time when I would give myself away",
+    "groupCode": 0
+  },
+  {
+    "id": 2773,
+    "fa": "همه لباسه ای قدیمی ام (کهنه ام) را بخشیدم (دادم رفت)",
+    "en": "I gave all my old clothes away",
+    "desc": "\n\"I gave all my old clothes away\": Indicates giving away every piece of old clothing.\n\"I gave all of my old clothes away\": Emphasizes the completeness of the action, suggesting every single item was given away.",
+    "groupCode": 0
+  },
+  {
+    "id": 2774,
+    "fa": "او (زن) سال ها از حساب شرکت پول اختلاس کرده بود",
+    "en": "She had been embezzling money from the corporate account for years",
+    "groupCode": 0
+  },
+  {
+    "id": 2775,
+    "fa": "بعد از ساعت ها مذاکره, آنها بالاخره به خواسته های ما تن دادند",
+    "en": "After hours of negotiation, they finally gave in to our demands",
+    "desc": "\"Give up\" means to quit or surrender.\n\"Give in\" means to yield or comply.",
+    "groupCode": 0
+  },
+  {
+    "id": 2776,
+    "fa": " با او (مرد) بازی نکن. او آدم عجیب و غریبی است",
+    "en": "Don't play with him. He is a freak",
+    "groupCode": 0
+  },
+  {
+    "id": 2777,
+    "fa": "او (مرد) یک دیوانه (عجیب و غریب) تناسب اندام است. او هر روز ورزش می کند",
+    "en": "He's a fitness freak. He works out every day",
+    "groupCode": 0
+  },
+  {
+    "id": 2778,
+    "fa": "من  نمی توانم این دستورالعمل ها را عملی کنم (سر درنمی آورم)",
+    "en": "I can't work these instructions out",
+    "groupCode": 0
+  },
+  {
+    "id": 2779,
+    "fa": "فقط از من دست نکش",
+    "en": "Just don't give up on me",
+    "groupCode": 0
+  },
+  {
+    "id": 2780,
+    "fa": "او (مرد) پیامی به جا گذاشت که هرگز فراموش نخواهد شد",
+    "en": "He left a message that will never be forgotten",
+    "groupCode": 0
+  },
+  {
+    "id": 2781,
+    "fa": "چند نفر از شما آنجا هستید؟",
+    "en": "How many of you are there?",
+    "groupCode": 0
+  },
+  {
+    "id": 2782,
+    "fa": "اراده راسخش (تسلیم ناپذیری) (مرد) هدایت کرد او را به غلبه هر چالشی (که) با آن روبرو شد",
+    "en": "His indomitable will led him to conquer every challenge he faced",
+    "groupCode": 0
+  },
+  {
+    "id": 2783,
+    "fa": "من روحیه راسخی (تسلیم ناپذیری) دارم",
+    "en": "I have an indomitable spirit",
+    "groupCode": 0
+  },
+  {
+    "id": 2784,
+    "fa": "آیا تقریباً انجام داده ای؟",
+    "en": "Are you almost done?",
+    "groupCode": 0
+  },
+  {
+    "id": 2785,
+    "fa": "من تو را از زمانی که یه جغله بچه بودی می شناسم",
+    "en": "I've know you since you were knee-high to a grasshopper",
+    "groupCode": 0
+  },
+  {
+    "id": 2786,
+    "fa": "ملخ با ظرافت از میان مزرعه پرید",
+    "en": "The grasshopper leaped gracefully through the field",
+    "groupCode": 0
+  },
+  {
+    "id": 2787,
+    "fa": "پیگیر (بدون تسلیم) باشید وقتی اهدافتان را پی گیری می کنید",
+    "en": "Be relentless when pursuing your goals",
+    "groupCode": 0
+  },
+  {
+    "id": 2788,
+    "fa": "اگر چیزی می خواهید باید پیگیر (بدون تسلیم) باشید",
+    "en": "If you want something you have got to be relentless",
+    "groupCode": 0
+  },
+  {
+    "id": 2789,
+    "fa": "از این لحظه به بعد, همه چیز تغییر خواهد کرد",
+    "en": "From this moment on, everything will change",
+    "groupCode": 0
+  },
+  {
+    "id": 2790,
+    "fa": "تو زخمی هستی",
+    "en": "You are wounded",
+    "groupCode": 0
+  },
+  {
+    "id": 2791,
+    "fa": "او (زن) انگشت پایش را به پله کوبید",
+    "en": "She stubbed her toe on the step",
+    "groupCode": 0
+  },
+  {
+    "id": 2792,
+    "fa": "او (مرد) ته سیگارش را در زیرسیگاری خاموش کرد",
+    "en": "He stubbed out his cigarette in the ashtray",
+    "groupCode": 0
+  },
+  {
+    "id": 2793,
+    "fa": "او (زن) تهدید کرد به کشتن او (مرد) با چاقو",
+    "en": "She threatened to kill him with a knife",
+    "groupCode": 0
+  },
+  {
+    "id": 2794,
+    "fa": "اونجا عمقش چقدره؟",
+    "en": "How deep is there?",
+    "groupCode": 0
+  },
+  {
+    "id": 2795,
+    "fa": "چقدر سودمند است داشتن یک کانال یوتیوب با بازدیدهای زیاد؟",
+    "en": "How profitable is having a Youtube channel with a lot of views?",
+    "groupCode": 0
+  },
+  {
+    "id": 2796,
+    "fa": "چرا اصلاً آن را (فرضی) انجام میدی؟",
+    "en": "Why would you even do that?",
+    "groupCode": 0
+  },
+  {
+    "id": 2797,
+    "fa": "از کجا پول برداشت کرده اید؟",
+    "en": "Where have you withdrawn the money?",
+    "groupCode": 0
+  },
+  {
+    "id": 2798,
+    "fa": "من (دارم) پیداش نمی کنم. (داره) پیدا نمی شود",
+    "en": "I'm not finding it. It's not being found",
+    "groupCode": 0
+  },
+  {
+    "id": 2799,
+    "fa": "من می دانم که یک تنظیم کننده صدا چطور به نظر می رسد",
+    "en": "I know what a voice tuner looks like",
+    "groupCode": 0
+  },
+  {
+    "id": 2800,
+    "fa": "تو همین الان آن را گفتی. ثبت شده است",
+    "en": "You just said that. It's recorded",
+    "groupCode": 0
+  },
+  {
+    "id": 2801,
+    "fa": "قربانی تا حد مرگ چاقو خورده بود",
+    "en": "The victim had been stabbed /stæb/ to death",
+    "groupCode": 0
+  },
+  {
+    "id": 2802,
+    "fa": "خیلی رو داری",
+    "en": "You have a lot of nerve",
+    "groupCode": 0
+  },
+  {
+    "id": 2803,
+    "fa": "شام مهمون من",
+    "en": "Dinner is on me",
+    "groupCode": 0
+  },
+  {
+    "id": 2804,
+    "fa": "پرداخت قبض به تاخیر افتاده است",
+    "en": "The bill payment is overdue",
+    "groupCode": 0
+  },
+  {
+    "id": 2805,
+    "fa": "میتونیم خصوصی صحبت کنیم؟",
+    "en": "Can we talk in private?",
+    "groupCode": 0
+  },
+  {
+    "id": 2806,
+    "fa": "خفن ترین چیزی که والدین شما انجام داده اند چیست؟",
+    "en": "What is the most badass thing your parent has ever done?",
+    "groupCode": 0
+  },
+  {
+    "id": 2807,
+    "fa": "شما نمی بایستی تمام پول خود را در فروشگاه اپل خرج می کردید",
+    "en": "You shouldn't have spent all of your money in the Apple store",
+    "groupCode": 0
+  },
+  {
+    "id": 2808,
+    "fa": "بایستی (این) خشک کن آن نویز را ایجاد کند؟ به نظر می رسد شکسته است",
+    "en": "Should the dryer be making that noise? It sounds broken",
+    "groupCode": 0
+  },
+  {
+    "id": 2809,
+    "fa": "شما باید حداقل 24 ساعت قبل قرار ملاقات خود را لغو کنید",
+    "en": "You should cancel your appointment at least 24 hours in advance",
+    "groupCode": 0
+  },
+  {
+    "id": 2810,
+    "fa": "شما نمی بایستی هنگام رانندگی از گوشی خود استفاده می کردید",
+    "en": "You shouldn't have been using your phone while driving",
+    "groupCode": 0
+  },
+  {
+    "id": 2811,
+    "fa": "گوشی من می بایستی تمام شب شارژ می شد، اما هنوز روی فقط 12 درصد باتری است",
+    "en": "My phone should've been charging all night, but it's still on just 12% battery",
+    "groupCode": 0
+  },
+  {
+    "id": 2812,
+    "fa": "من تسلیم شدم و اجازه دادم ماشینم را برای آخر هفته قرض بگیرند",
+    "en": "I relented and allowed them to borrow my car for the weekend",
+    "groupCode": 0
+  },
+  {
+    "id": 2813,
+    "fa": "او با عزم تزلزل ناپذیرش, او (زن) احساس شکست ناپذیری می کرد",
+    "en": "With her unwavering determination, she felt invincible",
+    "groupCode": 0
+  },
+  {
+    "id": 2814,
+    "fa": "بسیاری از مردم نسبت به قوانین جدید تردیدهای جدی دارند",
+    "en": "Many people have serious misgivings about the new rules",
+    "groupCode": 0
+  },
+  {
+    "id": 2815,
+    "fa": "من می خواهم برای همسرم یک وقت ملاقات بگیرم",
+    "en": "I want to make an appointment for my wife",
+    "groupCode": 0
+  },
+  {
+    "id": 2816,
+    "fa": "آیا علی در تماس است؟",
+    "en": "Is Ali in the call?",
+    "groupCode": 0
+  },
+  {
+    "id": 2817,
+    "fa": "در چه مواردی به نصیحت نیاز دارید؟",
+    "en": "What do you need advice on?",
+    "groupCode": 0
+  },
+  {
+    "id": 2818,
+    "fa": "امروز, من ساعت 11 نوبت پزشکی دارم. من بعد از آن بر خواهم گشت",
+    "en": "Today, I have a medical appointment at 11. I'll be back after that",
+    "groupCode": 0
+  },
+  {
+    "id": 2819,
+    "fa": "اگر چوبی پرتاب کنم، تعقیبش می کنی؟",
+    "en": "If I threw a stick, would you chase it?",
+    "groupCode": 0
+  },
+  {
+    "id": 2820,
+    "fa": "ما ارزش قائل هستیم برای نظر شما به همان اندازه که ما ارزش قائل هستیم برای یک مداد رنگی سفید",
+    "en": "We value your opinion about as much as we value a white crayon",
+    "groupCode": 0
+  },
+  {
+    "id": 2821,
+    "fa": "یا تو داری تمام راه را بالا می روی یا تمام راه را پایین",
+    "en": "Either you're going all the way up or all the way down",
+    "groupCode": 0
+  },
+  {
+    "id": 2822,
+    "fa": "او (زن) واقعاً آنها را (عین) علف زد",
+    "en": "She really mowed them down",
+    "groupCode": 0
+  },
+  {
+    "id": 2823,
+    "fa": "نقاط ضعف خود را به نقاط قوت تبدیل کنید, و هیچ چیز نمی تواند مانع موفقیت شما شود",
+    "en": "Turn your weaknesses into strengths, and nothing can stop your success",
+    "groupCode": 0
+  },
+  {
+    "id": 2824,
+    "fa": "چگونه قرار بود بدونم؟",
+    "en": "How was I supposed to know?",
+    "groupCode": 0
+  },
+  {
+    "id": 2825,
+    "fa": "احتمال اینکه او زنده از آنجا خارج شود حدود 1 یا 2 درصد است",
+    "en": "The chances (likelihood) of him getting out of there alive are about 1 or 2 percent",
+    "desc": "In this sentence, \"percent\" is a measure of probability, not a countable noun like \"person.\" Therefore, the word \"percent\" is used in the same way whether it refers to a singular or plural value",
+    "groupCode": 0
+  },
+  {
+    "id": 2826,
+    "fa": "من قصد دارم امشب دیر برسم. پس, بیدار نمان و منتظر من مباش",
+    "en": "I'm gonna be late tonight. So, don't stay up and wait for me",
+    "groupCode": 0
+  },
+  {
+    "id": 2827,
+    "fa": "تو واقعا داری قطع و وصل میشی، من فکر کنم باتریم می بایستی کم باشه",
+    "en": "You're really dropping out, I think my battery must be low",
+    "desc": "likely refers to the phone call's poor connection. The phrase suggests that the person's voice is cutting out or the call is dropping, making it hard to hear what they're saying",
+    "groupCode": 0
+  },
+  {
+    "id": 2828,
+    "fa": "کاش تا الان او (مرد) مرده بود",
+    "en": "I wish he were dead by now",
+    "groupCode": 0
+  },
+  {
+    "id": 2829,
+    "fa": "اگر تو میتونی صدای من را بشنوی، ما داریم به یک مکان نزدیک می رویم",
+    "en": "If you can hear me, we're going to a place nearby",
+    "groupCode": 0
+  },
+  {
+    "id": 2830,
+    "fa": "تعجب می کنم کجایی؟",
+    "en": "I wonder where you are?",
+    "groupCode": 0
+  },
+  {
+    "id": 2831,
+    "fa": "او (مرد) ترک تحصیل کرد از مدرسه وقتی 16 ساله بود",
+    "en": "He dropped out of school when he was 16",
+    "groupCode": 0
+  },
+  {
+    "id": 2832,
+    "fa": "اما خدا لعنتت کنه, تو دوباره عاشقم کردی",
+    "en": "But goddamn, you got me in love again",
+    "groupCode": 0
+  },
+  {
+    "id": 2833,
+    "fa": "من قبل از امتحان دیدمش (مرد) و او برایم آرزوی شانس کرد",
+    "en": "I saw him before the exam and he wished me luck",
+    "groupCode": 0
+  },
+  {
+    "id": 2834,
+    "fa": "برای شما آرزوی اقامتی خوش در اینجا دارم",
+    "en": "I wish you a pleasant stay here",
+    "groupCode": 0
+  },
+  {
+    "id": 2835,
+    "fa": "کاش این همه آدم نبود",
+    "en": "I wish there weren't so many people",
+    "groupCode": 0
+  },
+  {
+    "id": 2836,
+    "fa": "ای کاش فردا مجبور نبودم کار کنم، اما متاسفانه دارم",
+    "en": "I wish I didn't have to work tomorrow, but unfortunately I do",
+    "groupCode": 0
+  },
+  {
+    "id": 2837,
+    "fa": "کاش او (زن) اینجا بود",
+    "en": "I wish she were(was) here",
+    "groupCode": 0
+  },
+  {
+    "id": 2838,
+    "fa": "کاش مجبور نبودی به این زودی بری",
+    "en": "I wish you didn't have to go so soon",
+    "groupCode": 0
+  },
+  {
+    "id": 2839,
+    "fa": "کاش بلد بودم چگونه آشپزی کنم",
+    "en": "I wish I knew how to cook",
+    "groupCode": 0
+  },
+  {
+    "id": 2840,
+    "fa": "امیدوارم او (مرد) مرده باشه تا الان",
+    "en": "I hope he's dead by now",
+    "groupCode": 0
+  },
+  {
+    "id": 2841,
+    "fa": "به تدریج, او (زن) پذیرفت او (مرد) را به عنوان یکی از اعضای خانواده",
+    "en": "Gradually, she accepted him as one of the family member",
+    "desc": "We don't put adverb between the verb and its object",
+    "groupCode": 0
+  },
+  {
+    "id": 2842,
+    "fa": "آیا فکر می کنی ما به موقع آن را انجام (ساختن) خواهیم داد؟ گمان نمی کنم",
+    "en": "Do you think we will make it on time? I suppose not",
+    "groupCode": 0
+  },
+  {
+    "id": 2843,
+    "fa": "من قرض خواهم داد به تو کتاب را به شرطی که (تا زمانی که) برگردانیش",
+    "en": "I will lend you the book so long as you return it",
+    "groupCode": 0
+  },
+  {
+    "id": 2844,
+    "fa": "او (مرد) مشتاقانه داشت انتظار می کشید برای آمدنش (زن)",
+    "en": "He was eagerly waiting for her arrival",
+    "groupCode": 0
+  },
+  {
+    "id": 2845,
+    "fa": "شانسی، نجات در آخرین لحظه آمد",
+    "en": "Luckily, the rescue came in the nick of time",
+    "groupCode": 0
+  },
+  {
+    "id": 2846,
+    "fa": "تقصیر من نبود. من فقط در مکان اشتباه در زمان اشتباه بودم",
+    "en": "It wasn't my fault. I was just in the wrong place at the wrong time",
+    "groupCode": 0
+  },
+  {
+    "id": 2847,
+    "fa": "این سرقت در روز روشن رخ داد، در یکی از شلوغ ترین نقاط شهر",
+    "en": "The robbery occurred in broad daylight, in one of the busiest parts of town",
+    "desc": "This is because \"one of the\" implies that you are referring to one item within a group of multiple items. Therefore, \"parts\" should be plural to indicate that there are multiple busy parts, and you are talking about one of them.",
+    "groupCode": 0
+  },
+  {
+    "id": 2848,
+    "fa": "من دارم احساس بدی دارم و دارم برمی گردم به رختخواب",
+    "en": "I'm feeling poorly and I'm going back to bed",
+    "groupCode": 0
+  },
+  {
+    "id": 2849,
+    "fa": "می تواند وای فای باعث سرطان شود؟",
+    "en": "Can WiFi cause cancer?",
+    "groupCode": 0
+  },
+  {
+    "id": 2850,
+    "fa": "آیا ترکیه جای خوبی برای زندگی است اگر ترک نیستید؟",
+    "en": "Is Turkey a good place to live if you're not Turkish?",
+    "groupCode": 0
+  },
+  {
+    "id": 2851,
+    "fa": "شماره روی پیراهنش (زن) چی بود؟",
+    "en": "What was the number on her shirt?",
+    "groupCode": 0
+  },
+  {
+    "id": 2852,
+    "fa": "لطفاً این ورژن تنظیم شده را امتحان کنید و به من اطلاع بده اگر مشترک هنوز از دست رفته است",
+    "en": "Please try this adjusted version and let me know if the subscriber is still lost",
+    "groupCode": 0
+  },
+  {
+    "id": 2853,
+    "fa": "می دانم به راحتی تحت تأثیر قرار می گیرم",
+    "en": "I know I'm easily influenced",
+    "groupCode": 0
+  },
+  {
+    "id": 2854,
+    "fa": "امیدوارم, گرفتار نشوم (گیر نیافتم)",
+    "en": "Hopefully, I don't get caught",
+    "groupCode": 0
+  },
+  {
+    "id": 2855,
+    "fa": "یکی از مجرمان تنبیه شد برای اعمالش (مرد)",
+    "en": "One of the criminals was punished for his actions",
+    "groupCode": 0
+  },
+  {
+    "id": 2856,
+    "fa": "تو فکر کردی (کارم) تمام شدم، اما من تازه شروع کردم",
+    "en": "You thought I was finished, but I'm just getting started",
+    "groupCode": 0
+  },
+  {
+    "id": 2857,
+    "fa": "او (مرد) یک توانایی عجیبی (عجیب و غریب) در چاپلوسی دارد",
+    "en": "He has an uncanny ability in flattery",
+    "groupCode": 0
+  },
+  {
+    "id": 2858,
+    "fa": "ما توانایی عجیبی (عجیب و غریب) برای جلوگیری (برگردون) از بحران داریم",
+    "en": "We have an uncanny ability to avert crises",
+    "desc": "The plural of \"crisis\" is \"crises.\"",
+    "groupCode": 0
+  },
+  {
+    "id": 2859,
+    "fa": "من July دارم میرم ایران و پروازم جمعه 26 هست و ساعت 10 صبح ترک میکنه",
+    "en": "I'm going to Iran in July and my flight is on Friday the 26th and it departs at 10am",
+    "groupCode": 0
+  },
+  {
+    "id": 2860,
+    "fa": "من خیلی وقت پیش باید بهت میگفتم",
+    "en": "I should have told you a long time ago",
+    "groupCode": 0
+  },
+  {
+    "id": 2861,
+    "fa": "من حتی یک دکتر نیستم، فقط وانمود می کنم که یک دکتر هستم",
+    "en": "I'm not even a doctor, I just pretend to be a doctor",
+    "groupCode": 0
+  },
+  {
+    "id": 2862,
+    "fa": "یک صبحانه مقوی بهترین راه برای شروع یک روز سازنده است",
+    "en": "A hearty breakfast is the best way to start a productive day",
+    "groupCode": 0
+  },
+  {
+    "id": 2863,
+    "fa": "کسی میخواهد به من کمک کند از این (مخمصه) بیام بیرون؟",
+    "en": "Does somebody want to help me out here?",
+    "desc": "Help me out here: Asking for help with the current situation.\n\nExample: \"Can somebody help me out here with this task?\"\nHelp me out of here: Asking for help to leave the current place or situation.\n\nExample: \"Can somebody help me out of here? I'm trapped.\"",
+    "groupCode": 0
+  },
+  {
+    "id": 2864,
+    "fa": "این امکان وجود دارد که اجاره را نخواهم ساخت (نتونم اجارم را بدم)",
+    "en": "There is a possibility that I won't make rent",
+    "groupCode": 0
+  },
+  {
+    "id": 2865,
+    "fa": "اگر نتوانم (فرضی) فوراً پولت را پرداخت کنم (پس دادن)، من (فرضی) احساس گناه و تنش میکنم هر بار که تو را میدیدم",
+    "en": "If I couldn't pay you back right away, I'd feel guilty and tense every time I saw you",
+    "desc": "(\"saw\") is better because it maintains a consistent conditional mood throughout the sentence.",
+    "groupCode": 0
+  },
+  {
+    "id": 2866,
+    "fa": "او (مرد) احساسات شدیدی دارد",
+    "en": "He has got intense emotions",
+    "groupCode": 0
+  },
+  {
+    "id": 2867,
+    "fa": "اگر وقت کافی داشتم خانوادم را هر هفته ملاقات میکردم",
+    "en": "If I had enough time I would visit my family every week",
+    "groupCode": 0
+  },
+  {
+    "id": 2868,
+    "fa": "چرا از مامان و بابا قرضش نمی گیری؟",
+    "en": "Why don't you borrow it from mom and dad?",
+    "groupCode": 0
+  },
+  {
+    "id": 2869,
+    "fa": "من بالاخره در جایی هستم که پول کافی به دست می گیرم",
+    "en": "I'm finally at a place where I get enough money",
+    "groupCode": 0
+  },
+  {
+    "id": 2870,
+    "fa": "من می توانم استطاعت داشته باشم زندگی کنم اینجا با خودم",
+    "en": "I can afford to live here by myself",
+    "groupCode": 0
+  },
+  {
+    "id": 2871,
+    "fa": "چه چیزی در حال بحث است؟",
+    "en": "What is being discussed?",
+    "groupCode": 0
+  },
+  {
+    "id": 2872,
+    "fa": "کمیته داره به تفصیل تغییرات سیاست جدید را بحث می کنه",
+    "en": "The committee is discussing the new policy changes in detail",
+    "groupCode": 0
+  },
+  {
+    "id": 2873,
+    "fa": "تغییرات سیاست جدید داره به تفصیل توسط کمیته بحث می شود",
+    "en": "The new policy changes are being discussed in detail by the committee",
+    "groupCode": 0
+  },
+  {
+    "id": 2874,
+    "fa": "حرف نزن, عمل کن",
+    "en": "Cease talking, act",
+    "groupCode": 0
+  },
+  {
+    "id": 2875,
+    "fa": "تو هرگز من را نخواهی گرفت",
+    "en": "You won't ever get me",
+    "groupCode": 0
+  },
+  {
+    "id": 2876,
+    "fa": "پس از مشورت کردن با لوکاس، او به من رساند که فردا، همه شرکت کنندگان اجازه دارند مستقیماً به رویداد بروند. نیازی نیست از قبل به دفتر بیایید",
+    "en": "After conferring with Lukas, he conveyed to me that tomorrow, all attendees are permitted to go directly to the event. There is no need to come to the office beforehand",
+    "desc": "confer with = میشه مشورت",
+    "groupCode": 0
+  },
+  {
+    "id": 2877,
+    "fa": "آن فقط قرار نیست اتفاق بیفتد",
+    "en": "That is not just supposed to be happen",
+    "groupCode": 0
+  },
+  {
+    "id": 2878,
+    "fa": "آیا شوهران متاهل شاد خیانت می کنند؟",
+    "en": "Do happily married husbands cheat?",
+    "groupCode": 0
+  },
+  {
+    "id": 2879,
+    "fa": "من رد شدم در یک مصاحبه",
+    "en": "I was rejected in an interview",
+    "groupCode": 0
+  },
+  {
+    "id": 2880,
+    "fa": "از اینکه عضو ارزشمندی هستید متشکرم",
+    "en": "Thanks for being a valued member",
+    "groupCode": 0
+  },
+  {
+    "id": 2881,
+    "fa": "تو قرار نبود بدون مجوز قبلی در اتاق جلسه باشید",
+    "en": "You weren't supposed to be in the meeting room without prior authorization",
+    "groupCode": 0
+  },
+  {
+    "id": 2882,
+    "fa": "او (زن) سرفه مداوم دارد",
+    "en": "She has a persistent cough",
+    "desc": "In general, if you can count individual items, you use \"a\" or \"an\". If the noun refers to a mass or uncountable quantity, you don't use \"a\" or \"an\".",
+    "groupCode": 0
+  },
+  {
+    "id": 2883,
+    "fa": "من اسهال دارم",
+    "en": "I have diarrhea",
+    "groupCode": 0
+  },
+  {
+    "id": 2884,
+    "fa": "به دم آکاردئونی تکیه نکنید",
+    "en": "Don't lean against the bellows",
+    "groupCode": 0
+  },
+  {
+    "id": 2885,
+    "fa": "یک پلیس در جلو وجود دارد",
+    "en": "There is a cup upfront",
+    "groupCode": 0
+  },
+  {
+    "id": 2886,
+    "fa": "ترجیح می دهم در خانه غذا بخورم تا بیرون بروم",
+    "en": "I would rather eat at home than go out",
+    "groupCode": 0
+  },
+  {
+    "id": 2887,
+    "fa": "اخبار تلویزیون ساعت چند است؟",
+    "en": "What time is the news on TV?",
+    "groupCode": 0
+  },
+  {
+    "id": 2888,
+    "fa": "او (زن) یک چنین پوزخند گستاخانه ای دارد",
+    "en": "She has such a cheeky grin",
+    "groupCode": 0
+  },
+  {
+    "id": 2889,
+    "fa": "بچه هایی که حاضر جوابی می کنند تلقی می شوند گستاخ و بی احترام",
+    "en": "Children who talk back are regarded as cheeky and disrespectful",
+    "groupCode": 0
+  },
+  {
+    "id": 2890,
+    "fa": "او (زن) جوابی به من نداد اما سرش را با یک حواس پرتی تکان داد",
+    "en": "She didn't answer me but gave me an absent-minded nod",
+    "groupCode": 0
+  },
+  {
+    "id": 2891,
+    "fa": "از مردم دو رو دوری کن",
+    "en": "Stay away from two-faced people",
+    "groupCode": 0
+  },
+  {
+    "id": 2892,
+    "fa": "او (مرد) واقعاً خسیس است و هرگز برای کسی یک نوشیدنی نمی خرد وقتی ما بیرون می رویم",
+    "en": "He's really stingy and never buys anyone a drink when we go out",
+    "groupCode": 0
+  },
+  {
+    "id": 2893,
+    "fa": "این یک راه زیرکانه (موذی) و یواشکی برای انجام تجارت است",
+    "en": "It's a sneaky and underhanded way of doing business",
+    "desc": "\"It's a sneaky and underhand way of doing business.\" (more common in British English)\n\"It's a sneaky and underhanded way of doing business.\" (more common in American English)",
+    "groupCode": 0
+  },
+  {
+    "id": 2894,
+    "fa": "تست بازیگری چطور پیش رفت؟",
+    "en": "How did the audition go?",
+    "groupCode": 0
+  },
+  {
+    "id": 2895,
+    "fa": "من کارگردان را ملاقات کردم، شما هرگز باور نخواهید کرد که چه کسی بود",
+    "en": "I met the director. You will never believe who it was",
+    "desc": "Using \"it was\" in this context is grammatically correct because the pronoun \"it\" refers to the unknown identity of the director rather than their gender. When the identity of the person is being emphasized as surprising or unknown, \"it\" is commonly used.",
+    "groupCode": 0
+  },
+  {
+    "id": 2896,
+    "fa": "من به شما یک سرنخ خواهم داد",
+    "en": "\n 1.I'll give you one hint \n 2.I'll give you a clue",
+    "groupCode": 0
+  },
+  {
+    "id": 2897,
+    "fa": "او (مرد) آبله مرغان گرفته",
+    "en": "He has got chicken pox",
+    "desc": "In English, \"fever\" is a countable noun when referring to an instance of the condition, hence \"a fever\" is correct. On the other hand, \"chicken pox\" is treated as an uncountable noun referring to the disease in general, so we do not use an article.",
+    "groupCode": 0
+  },
+  {
+    "id": 2898,
+    "fa": "اگر قبلاً نداشته ایدش، شانسش هست  شما (قصد داشتن) بگیریدش",
+    "en": "If you haven't already had it, chances are you are gonna get it",
+    "groupCode": 0
+  },
+  {
+    "id": 2899,
+    "fa": "من هرگز نداشتمش و احساس می کنم خیلی جا ماندم",
+    "en": "I've never had it and I feel so left out",
+    "groupCode": 0
+  },
+  {
+    "id": 2900,
+    "fa": "اگر در نظر بگیرید چه تعداد مرد واقعا هستند، درصد بسیار کمی است",
+    "en": "If you consider how many guys there actually are, it's a very small percentage",
+    "groupCode": 0
+  },
+  {
+    "id": 2901,
+    "fa": "من یک زخم کوچک روی چانه ام دارم",
+    "en": "I have a little scar on my chin",
+    "groupCode": 0
+  },
+  {
+    "id": 2902,
+    "fa": "چه چیزی کلسترول را سریع کاهش می دهد در یک هفته؟",
+    "en": "What reduces cholesterol quickly in one week?",
+    "groupCode": 0
+  },
+  {
+    "id": 2903,
+    "fa": "آنها هیچ تعهد اخلاقی ندارند",
+    "en": "They have no moral obligations",
+    "groupCode": 0
+  },
+  {
+    "id": 2904,
+    "fa": "من ابروهای پرپشتی داشتم که در مرکز با هم رشد می کردند",
+    "en": "I had bushy eyebrows that grew together in the center",
+    "groupCode": 0
+  },
+  {
+    "id": 2905,
+    "fa": "میانگین هزینه یک خانه افزایش یافت در حدود 50 درصد",
+    "en": "The average cost of a house went up by about 50%",
+    "groupCode": 0
+  },
+  {
+    "id": 2906,
+    "fa": "اگر عجله نکنیم، پروازمان را از دست خواهیم داد",
+    "en": "If we don't hurry up, we'll miss our flight",
+    "groupCode": 0
+  },
+  {
+    "id": 2907,
+    "fa": "کمی چیزها را عجله کنید",
+    "en": "Hurry things up a little",
+    "groupCode": 0
+  },
+  {
+    "id": 2908,
+    "fa": "من واقعاً نیاز دارم انگلیسی خود را تقویت کنم زیرا من در حدود 10 سال به این زبان صحبت نمی کنم",
+    "en": "I really need to brush up on my english because I haven't spoken the language in about 10 years",
+    "groupCode": 0
+  },
+  {
+    "id": 2909,
+    "fa": "به سمتش (زن) رفتم و سلام کردم",
+    "en": "I went up to her and said hello",
+    "groupCode": 0
+  },
+  {
+    "id": 2910,
+    "fa": "او (زن) به سمت من آمد تا سلام کند",
+    "en": "She came up to me to say hi",
+    "groupCode": 0
+  },
+  {
+    "id": 2911,
+    "fa": "به سمتش (مرد) (پیاده) رفتم و به او سیلی زدم",
+    "en": "I walked up to him and slapped him",
+    "groupCode": 0
+  },
+  {
+    "id": 2912,
+    "fa": "هر بار که تو این بحث را مطرح می کنی، ما یک بحثی داریم",
+    "en": "Every time you bring up this discussion, we have an argument",
+    "groupCode": 0
+  },
+  {
+    "id": 2913,
+    "fa": "وقتی در پمپ بنزین هستم، باک را تا آخر پر می کنم",
+    "en": "When I'm at the gas station, I fill up the tank all the way",
+    "groupCode": 0
+  },
+  {
+    "id": 2914,
+    "fa": "من عادت داشتم (دیگه ندارم) بگم که هیچ وقت نمی خواستم بچه دار شوم، اما در نهایت بچه دار شدم",
+    "en": "I used to say that I never wanted to have kids, but I ended up having one",
+    "groupCode": 0
+  },
+  {
+    "id": 2915,
+    "fa": "شما باید از خودتان خجالت بکشید",
+    "en": "You should be ashamed of yourself",
+    "groupCode": 0
+  },
+  {
+    "id": 2916,
+    "fa": "اوه، متاسفم، آیا من سلیقه شما نیستم؟",
+    "en": "Oh, I'm sorry, am I not your type?",
+    "groupCode": 0
+  },
+  {
+    "id": 2917,
+    "fa": "تو به او (مرد) جان دخترت را مدیونی",
+    "en": "You owe him your daughter's life",
+    "groupCode": 0
+  },
+  {
+    "id": 2918,
+    "fa": "من بدهکار او (مرد) هستم",
+    "en": "\n 1.I am in his debt \n 2.I owe him",
+    "groupCode": 0
+  },
+  {
+    "id": 2919,
+    "fa": "آخرین باری که رانندگی کردم ترسیده بودم",
+    "en": "Last time I drove I was terrified",
+    "groupCode": 0
+  },
+  {
+    "id": 2920,
+    "fa": "شما عالی کار می کنید",
+    "en": "You are doing great",
+    "groupCode": 0
+  },
+  {
+    "id": 2921,
+    "fa": "آیا واقعاً این موضوع را کاملا فکر کردی؟ زیرا ریسک بسیار بزرگی است",
+    "en": "Have you really thought this through? Cause it's a pretty big risk",
+    "groupCode": 0
+  },
+  {
+    "id": 2922,
+    "fa": "تو فرد رقت انگیزی هستی",
+    "en": "You're a pathetic person",
+    "groupCode": 0
+  },
+  {
+    "id": 2923,
+    "fa": "من هیچ کدام شما را نمی شناسم",
+    "en": "\n 1.I don't know any of you \n 2.I don't know either of you \n 3.I know neither of you",
+    "groupCode": 0
+  },
+  {
+    "id": 2924,
+    "fa": "راس شکارچی اقیانوس کیست؟",
+    "en": "Who is the apex predator of the ocean?",
+    "groupCode": 0
+  },
+  {
+    "id": 2925,
+    "fa": "کی فکر میکنید میتوان نهاییش کرد تا ما بتوانیم آن را به preprod پوش کنیم؟",
+    "en": "When do you think it can be finalized so we can push it to preprod?",
+    "groupCode": 0
+  },
+  {
+    "id": 2926,
+    "fa": "من مایلم از این فرصت استفاده کنم تا تشکر کنم از همه برای کار سخت و پیگیرشان",
+    "en": "I would like to take this opportunity to thank everyone for their hard work and dedication",
+    "groupCode": 0
+  },
+  {
+    "id": 2927,
+    "fa": "او (مرد) قصد دارد چه کسی را انتخاب کند؟",
+    "en": "Who is he gonna pick?",
+    "groupCode": 0
+  },
+  {
+    "id": 2928,
+    "fa": "تست غیر قابل اعتماد است",
+    "en": "\n 1.The test is unreliable \n 2.The test is flaky",
+    "groupCode": 0
+  },
+  {
+    "id": 2929,
+    "fa": "من باید کفش هایم را بپوشم",
+    "en": "I have to put on my shoes",
+    "desc": "\"Put on\" describes the process of getting dressed.\n\"Wear\" describes the state of having clothes or shoes on.",
+    "groupCode": 0
+  },
+  {
+    "id": 2930,
+    "fa": "من الان کشف شده ام",
+    "en": "I have just been discovered",
+    "groupCode": 0
+  },
+  {
+    "id": 2931,
+    "fa": "قول بده شما نگرخید (ترسیدن) و نخواهی بگی چقدر عالی است تا وقتی که من (کارم) انجام بشه",
+    "en": "Promise you won't freak out and say how great it is until I'm done",
+    "groupCode": 0
+  },
+  {
+    "id": 2932,
+    "fa": "اگر یک روزی یک عنکبوت ببینم، می گرخم (ترسیدن)",
+    "en": "If I saw a spider one day, I would freak out",
+    "groupCode": 0
+  },
+  {
+    "id": 2933,
+    "fa": "اگر بخواهم تماس بگیرم برای یک رفرنس برای آخرین شغل شما، با چه کسی برای اطلاعات بیشتر باید ارتباط بگیرم؟",
+    "en": "If I wanna call for a reference on your last job, whom should I contact for more information?",
+    "groupCode": 0
+  },
+  {
+    "id": 2934,
+    "fa": "آن در بالای نامه نیست. در پایین است",
+    "en": "That's not at the top of the letter. It's at the bottom",
+    "groupCode": 0
+  },
+  {
+    "id": 2935,
+    "fa": "من می توانم نویزی از آپارتمان زیرم بشنوم",
+    "en": "I can hear noise from the apartment below mine",
+    "groupCode": 0
+  },
+  {
+    "id": 2936,
+    "fa": "منظره از آپارتمان بالای من باید شگفت انگیز باشد",
+    "en": "The view from the apartment above mine must be amazing",
+    "groupCode": 0
+  },
+  {
+    "id": 2937,
+    "fa": "بیا ببینیم آیا شما شخصا به همان اندازه که روی کاغذ هست خوب هستید",
+    "en": "Let's see if you are as good in person as you are on paper",
+    "groupCode": 0
+  },
+  {
+    "id": 2938,
+    "fa": "او (مرد) دیروز از دیدن من خیلی خوشحال به نظر می رسید",
+    "en": "He seemed so happy to see me yesterday",
+    "groupCode": 0
+  },
+  {
+    "id": 2939,
+    "fa": "پس از (اینکه) پدرش (مرد) فوت کرد، او (مرد) به ثروت زیادی دست یافت",
+    "en": "After his father died, he came into a large fortune",
+    "groupCode": 0
+  },
+  {
+    "id": 2940,
+    "fa": "در حالی که عقب کشیدم، او (مرد) با یک چاقو به سمتم آمد (حمله کرد)",
+    "en": "As I backed away, he came at me with a knife",
+    "groupCode": 0
+  },
+  {
+    "id": 2941,
+    "fa": "من خجالت می کشم",
+    "en": "I'm embarrassed",
+    "groupCode": 0
+  },
+  {
+    "id": 2942,
+    "fa": "من باید پیاده شوم",
+    "en": "I have to drop off",
+    "groupCode": 0
+  },
+  {
+    "id": 2943,
+    "fa": "آزاد کن خودت را از غل و زنجیر تعصب",
+    "en": "Free yourself from the shackles of dogma",
+    "groupCode": 0
+  },
+  {
+    "id": 2944,
+    "fa": "من راحتم",
+    "en": "I'm comfy",
+    "groupCode": 0
+  },
+  {
+    "id": 2945,
+    "fa": "فردا برات خواهم آورد",
+    "en": "I'll bring it to you tomorrow",
+    "groupCode": 0
+  },
+  {
+    "id": 2946,
+    "fa": "ما در کارناوال سوار چرخ و فلک شدیم",
+    "en": "We rode the Ferris wheel at the carnival",
+    "desc": "The preposition \"at\" is typically used to refer to an event or location where an activity takes place, which fits the context of a carnival",
+    "groupCode": 0
+  },
+  {
+    "id": 2947,
+    "fa": "با تشکر از جلسه و من مشتاقانه منتظر جلسات بعدی هستم",
+    "en": "Thanks for the session and I'm looking forward to the next ones",
+    "groupCode": 0
+  },
+  {
+    "id": 2948,
+    "fa": "من هرگز قصد نداشتم پی ببری",
+    "en": "I never meant for you to find out",
+    "desc": "Prepositional phrase: \"for you to find out\"",
+    "groupCode": 0
+  },
+  {
+    "id": 2949,
+    "fa": "می خواستی گرفتار بشی (گیر بیافتی)؟",
+    "en": "Did you want to get caught?",
+    "groupCode": 0
+  },
+  {
+    "id": 2950,
+    "fa": "آیا تا به حال برات رخ داده که تو ممکن است آنقدر احمق باشم؟",
+    "en": "Did it ever occur to you that you might be that stupid?",
+    "groupCode": 0
+  },
+  {
+    "id": 2951,
+    "fa": "این فیلم ها برای زنان توهین آمیز و تحقیرآمیز است",
+    "en": "These movies are offensive and degrading to women",
+    "groupCode": 0
+  },
+  {
+    "id": 2952,
+    "fa": "آن کت و شلوار شیک است",
+    "en": "That suit is flattering",
+    "groupCode": 0
+  },
+  {
+    "id": 2953,
+    "fa": "نباید آنطور باشد",
+    "en": "It doesn't have to be that way",
+    "groupCode": 0
+  },
+  {
+    "id": 2954,
+    "fa": "فراموش کردم کرم ضد آفتاب بزنم",
+    "en": "I forgot to put on sunscreen",
+    "groupCode": 0
+  },
+  {
+    "id": 2955,
+    "fa": "من به تصمیمم (گذشته) نگاه کردم و پی بردم اشتباه کردم",
+    "en": "I looked back on my decision and realized I was wrong",
+    "groupCode": 0
+  },
+  {
+    "id": 2956,
+    "fa": "من اغلب به روزهای دانشگاهی خود (گذشته) نگاه می کنم زیرا واقعاً از آن دوران در زندگی ام لذت می بردم",
+    "en": "I often look back on my college days because I really enjoyed that time in my life",
+    "groupCode": 0
+  },
+  {
+    "id": 2957,
+    "fa": "به زودی, کارم را رها خواهم کرد و هرگز به عقب نگاه نخواهم کرد",
+    "en": "Soon, I'll quit my job and never look back",
+    "groupCode": 0
+  },
+  {
+    "id": 2958,
+    "fa": "من عینک می زنم تا بهتر ببینم",
+    "en": "I wear glasses to see better",
+    "desc": "\"I wear glasses to see better\" means using glasses regularly.\n\"I put on glasses to see better\" means putting them on at a specific time when needed.",
+    "groupCode": 0
+  },
+  {
+    "id": 2959,
+    "fa": "چرا این را برای مدت طولانی به تعویق انداختم؟",
+    "en": "Why did I put this off for so long?",
+    "groupCode": 0
+  },
+  {
+    "id": 2960,
+    "fa": "یک ثانیه صبر کن، بگذار من عینکم را بزنم",
+    "en": "Wait a second, let me put on my glasses",
+    "groupCode": 0
+  },
+  {
+    "id": 2961,
+    "fa": "نگران نباش, آن را خواهم پوشید وقتی بیرون میروم",
+    "en": "Don't worry, I'll put it on when I go outside",
+    "desc": "\n 1.Put (something) on: to put something on your body / face \n 2.In English, after \"when,\" \"if,\" \"before,\" \"after,\" \"while,\" \"until,\" \"once,\" and similar conjunctions, we use the simple present tense to refer to future actions. So, \"when I go outside\" is correct.",
+    "groupCode": 0
+  },
+  {
+    "id": 2962,
+    "fa": "ببخشید، من قصد نداشتم حرف شما را قطع کنم. لطفا ادامه بده",
+    "en": "Sorry, I didn't mean to interrupt you. Please go on",
+    "groupCode": 0
+  },
+  {
+    "id": 2963,
+    "fa": "او (زن) همیشه تکالیفش را تا آخرین دقیقه به تعویق می اندازد",
+    "en": "She always puts off her homework until the last minute",
+    "groupCode": 0
+  },
+  {
+    "id": 2964,
+    "fa": "یادگیری افعال مرکب را به تعویق نینداز!",
+    "en": "Don't put off learning phrasal verbs!",
+    "groupCode": 0
+  },
+  {
+    "id": 2965,
+    "fa": "آیا می توانید آدرس رستوران را برای من نگاه کنی (داخل کتاب)؟",
+    "en": "Can you look up the address of the restaurant for me?",
+    "groupCode": 0
+  },
+  {
+    "id": 2966,
+    "fa": "آنها توسط افراد مسلح نقابدار به اسارت گرفته شدند",
+    "en": "They were taken captive by masked gunman",
+    "groupCode": 0
+  },
+  {
+    "id": 2967,
+    "fa": "ارزش یک بار امتحان را دارد",
+    "en": "It's worth a try",
+    "groupCode": 0
+  },
+  {
+    "id": 2968,
+    "fa": "من چاک کونم خارش دارم",
+    "en": "I've got a rash in my ass crack",
+    "groupCode": 0
+  },
+  {
+    "id": 2969,
+    "fa": "من طولش نخواهم داد",
+    "en": "I won't be long",
+    "groupCode": 0
+  },
+  {
+    "id": 2970,
+    "fa": "کدام برنامه Algolia داره استفاده می شه؟",
+    "en": "Which Algolia app is being used?",
+    "groupCode": 0
+  },
+  {
+    "id": 2971,
+    "fa": "به من گفتند قرار (قصد) بود یک صحنه بوسیدن وجود داشته باشد",
+    "en": "I was told there was going to be a kissing scene",
+    "groupCode": 0
+  },
+  {
+    "id": 2972,
+    "fa": "من هیچی باقی برای خوردن ندارم",
+    "en": "I don't have anything left to eat",
+    "groupCode": 0
+  },
+  {
+    "id": 2973,
+    "fa": "برادرم و من کاملا با هم خوب هستیم",
+    "en": "My brother and I get along quite well",
+    "groupCode": 0
+  },
+  {
+    "id": 2974,
+    "fa": "من همیشه با او (زن) کنار آمده ام. از آن رو است که ما بسیار نزدیک هستیم",
+    "en": "I've always gotten along with her. That's why we're so close",
+    "groupCode": 0
+  },
+  {
+    "id": 2975,
+    "fa": "او (مرد) ژاکت را امتحان کرد اما دوستش نداشت",
+    "en": "He tried on the sweater but he didn't like it",
+    "groupCode": 0
+  },
+  {
+    "id": 2976,
+    "fa": "او (مرد) کار سخت زیاد بکار بست در طول ده سالش به عنوان مدیر منطقه ای",
+    "en": "He put in a lot of hard work during his ten years as regional manager",
+    "groupCode": 0
+  },
+  {
+    "id": 2977,
+    "fa": "این خواننده (زن) انرژی و اشتیاق زیادی در اجراهایش می گذارد",
+    "en": "The singer puts a lot of energy and enthusiasm in her performances",
+    "groupCode": 0
+  },
+  {
+    "id": 2978,
+    "fa": "اگر می خواهید افعال عبارتی را یاد بگیرید، باید تلاش زیادی را وارد کنید",
+    "en": "If you want to learn phrasal verbs, you have to put in a lot of effort",
+    "groupCode": 0
+  },
+  {
+    "id": 2979,
+    "fa": "افعال امری جایی باقی نمی گذارند برای پرسش ها یا بحث ها",
+    "en": "Imperative verbs don't leave room for questions or discussions",
+    "groupCode": 0
+  },
+  {
+    "id": 2980,
+    "fa": "برچسب بازگشتی را برش دهید و بچسبانیدش روی قسمت بیرونی بسته بازگشتی",
+    "en": "Cut out the return label and stick it on the outside of the return package",
+    "groupCode": 0
+  },
+  {
+    "id": 2981,
+    "fa": "در نهایت, ما برگشتیم",
+    "en": "In the end, we got back",
+    "groupCode": 0
+  },
+  {
+    "id": 2982,
+    "fa": "در پایان سفر, واقعا خسته بودم",
+    "en": "At the end of the trip, I was really tired",
+    "groupCode": 0
+  },
+  {
+    "id": 2983,
+    "fa": "پس از تجربه یک گلودرد مداوم، من سوپرایز شدم از کشف اینکه یک سنگ لوزه مقصر بود",
+    "en": "After experiencing a persistent sore throat, I was surprised to discover that a tonsil stone was the culprit",
+    "groupCode": 0
+  },
+  {
+    "id": 2984,
+    "fa": "این تی شرت حداکثر تا 16 جولای تحویل خواهد شد",
+    "en": "The T-shirt will be delivered by July 16 at the latest",
+    "groupCode": 0
+  },
+  {
+    "id": 2985,
+    "fa": "دومی می تواند به پایین منتقل شود",
+    "en": "The second one can be moved to the bottom",
+    "groupCode": 0
+  },
+  {
+    "id": 2986,
+    "fa": "(کودو) با تشکر از همه کسانی که این رویداد را گرد هم آورده اند",
+    "en": "Kudos to everyone who put the event together",
+    "groupCode": 0
+  },
+  {
+    "id": 2987,
+    "fa": "آرشیو پر از عکس ها و نامه ها بود",
+    "en": "The archive was full of photos and letters",
+    "groupCode": 0
+  },
+  {
+    "id": 2988,
+    "fa": "او (زن) داره از شوهرش شکایت می کنه بر چه زمینه هایی؟",
+    "en": "She is suing her husband on what grounds?",
+    "groupCode": 0
+  },
+  {
+    "id": 2989,
+    "fa": "اگر می توانستی به غیر از خودت یک نفر (شخص) باشی، کی می شدی؟",
+    "en": "If you could be one person besides yourself, who would you be?",
+    "groupCode": 0
+  },
+  {
+    "id": 2990,
+    "fa": "من دارم برای ناهار به (سمت) آشپزخانه می روم چون هنوز (چیزی) نخورده ام. اگر دوست داری, می توانی به من بپیوندی",
+    "en": "I'm heading to the kitchen for lunch because I haven't eaten yet. If you like, you can join me",
+    "groupCode": 0
+  },
+  {
+    "id": 2991,
+    "fa": "ساخت چین است",
+    "en": "It's made in China",
+    "groupCode": 0
+  },
+  {
+    "id": 2992,
+    "fa": "من برای تولدم هدیه گرفتم",
+    "en": "I got a present for my birthday",
+    "groupCode": 0
+  },
+  {
+    "id": 2993,
+    "fa": "دیروز ایمیلم رو گرفتی؟",
+    "en": "Did you get my email yesterday?",
+    "groupCode": 0
+  },
+  {
+    "id": 2994,
+    "fa": "من از معلمم بعضی توصیه های واقعا خوبی گرفتم",
+    "en": "I got some really good advice from my teacher",
+    "desc": "The word \"advice\" is an uncountable noun in English, so it does not have a plural form",
+    "groupCode": 0
+  },
+  {
+    "id": 2995,
+    "fa": "میتوانم یک لیوان آب بگیرم, لطفا؟",
+    "en": "Can I get a glass of water, please?",
+    "groupCode": 0
+  },
+  {
+    "id": 2996,
+    "fa": "من نیاز دارم این را بنویسم. یک ثانیه, بگذار یک خودکار بگیرم",
+    "en": "I need to write this down. One second, let me get a pen",
+    "groupCode": 0
+  },
+  {
+    "id": 2997,
+    "fa": "از من میخوای برات هر چیزی بگیرم؟",
+    "en": "Do you want me to get you anything?",
+    "groupCode": 0
+  },
+  {
+    "id": 2998,
+    "fa": "این هنرپیشه (مرد) برای بازی خود یک جایزه گرفت",
+    "en": "The actor got an award for his performance",
+    "groupCode": 0
+  },
+  {
+    "id": 2999,
+    "fa": "من امیدوارم تیم محبوبم مقام اول رقابت را بگیرد (خواهد گرفت)",
+    "en": "I hope my favorite team will get first place in the competition",
+    "groupCode": 0
+  },
+  {
+    "id": 3000,
+    "fa": "نوجوان فلوریدا گرفت یک سال در زندان برای جعل هویت یک کارگر بهداشتی",
+    "en": "Florida teen got a year in jail for impersonating a health worker",
     "groupCode": 0
   }
 ]
