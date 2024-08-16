@@ -685,7 +685,7 @@
   },
   {
     "id": 3113,
-    "fa": "آنها باید کاری بکنند تا جمعیت خود را آرام کنند",
+    "fa": "آنها باید کاری بکنند فقط برای آرام کردن جمعیت خود",
     "en": "They have to do something just to appease their own population",
     "groupCode": 0
   },
@@ -717,7 +717,7 @@
   },
   {
     "id": 3118,
-    "fa": "شرکت ما داره بررسی می کنه هم فرصتهای VC برای استارت آپ ها و معاملات PE برای به دست آوردن شرکت های تاسیس شده",
+    "fa": "شرکت ما داره کاوش می کنه هم فرصتهای VC برای استارت آپ ها و معاملات PE برای به دست آوردن شرکت های تاسیس شده",
     "en": "Our firm is exploring both VC (Virtual Capital) opportunities for startups and PE (Private Equity) deals to acquire established companies",
     "desc": "VC stands for venture capital. It refers to funding provided to early-stage, high-growth potential startups or small businesses in exchange for equity. Venture capital is typically used to help these companies grow and scale before they become profitable or go public.",
     "groupCode": 0
@@ -743,7 +743,7 @@
   },
   {
     "id": 3122,
-    "fa": "اینها برای چه استفاده می شه؟",
+    "fa": "اینها برای چه استفاده می شده؟",
     "en": "What were these used for?",
     "groupCode": 0
   },
@@ -763,6 +763,13 @@
     "id": 3125,
     "fa": "این عکس شما را (شیک) نشان نمی ده",
     "en": "This picture doesn't flatter you",
+    "groupCode": 0
+  },
+  {
+    "id": 3126,
+    "fa": "شرکت مشاوره توسط یک شرکت فناوری بزرگتر خریداری شد",
+    "en": "The consulting firm was acquired by a larger technology company",
+    "desc": "Use \"company\" when referring to any type of business, especially larger or more diverse businesses, like technology companies, manufacturing companies, or retail companies.\n\nUse \"firm\" when referring to businesses that provide professional services, such as law firms, accounting firms, or consulting firms, typically smaller or partnership-based businesses.",
     "groupCode": 0
   }
 ]
