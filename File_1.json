@@ -771,5 +771,278 @@
     "en": "The consulting firm was acquired by a larger technology company",
     "desc": "Use \"company\" when referring to any type of business, especially larger or more diverse businesses, like technology companies, manufacturing companies, or retail companies.\n\nUse \"firm\" when referring to businesses that provide professional services, such as law firms, accounting firms, or consulting firms, typically smaller or partnership-based businesses.",
     "groupCode": 0
+  },
+  {
+    "id": 3127,
+    "fa": "تو حق نداشتی به من بگویی که نسبت به من حس داشتی",
+    "en": "You had no right to tell me you had feelings for me",
+    "groupCode": 0
+  },
+  {
+    "id": 3128,
+    "fa": "من (حالم) عالی بودم قبل از اینکه من پی بردم در مورد شما",
+    "en": "I was doing great before I found out about you",
+    "groupCode": 0
+  },
+  {
+    "id": 3129,
+    "fa": "چطور هیچوقت به من چیزی نگفتی؟",
+    "en": "How come you never said anything to me?",
+    "groupCode": 0
+  },
+  {
+    "id": 3130,
+    "fa": "کم سخت بگیر بهش (مرد). او جونیور است",
+    "en": "Cut him some slack. He is a junior",
+    "groupCode": 0
+  },
+  {
+    "id": 3131,
+    "fa": "من امید داشتم که اون حرفش پیش بیاد",
+    "en": "I was hoping that would come up",
+    "groupCode": 0
+  },
+  {
+    "id": 3132,
+    "fa": "بیا در اینجا تجدید نظر (گرفتن بعضی نظرات) داشته باشیم این چیزها به یک دلیلی اتفاق می افتند",
+    "en": "Let's get some perspective here these things happen for a reason",
+    "groupCode": 0
+  },
+  {
+    "id": 3133,
+    "fa": "او (مرد) همیشه ایده های عالی را مطرح می کند",
+    "en": "He always comes up with great ideas",
+    "groupCode": 0
+  },
+  {
+    "id": 3134,
+    "fa": "کسی هنوز از علی شنیده؟",
+    "en": "Anyone head from Ali yet?",
+    "groupCode": 0
+  },
+  {
+    "id": 3135,
+    "fa": "من دقیقاً می دانم که او (زن) داره برش چی می گذره (حالش چطوره)",
+    "en": "I know exactly what she's going through",
+    "groupCode": 0
+  },
+  {
+    "id": 3136,
+    "fa": "خیلی نگران هستی در مورد اومدن مامانت",
+    "en": "You're so uptight about your mom coming",
+    "groupCode": 0
+  },
+  {
+    "id": 3137,
+    "fa": "در مورد امتحانات غصه نخور، آنها به زودی تمام خواهد شد",
+    "en": "Don't get uptight about the exams, they will be over soon",
+    "groupCode": 0
+  },
+  {
+    "id": 3138,
+    "fa": "من فقط نمی خواهم مامانم فکر کند که چون من با فهیم ازدواج نکردم، زندگی من چرند است",
+    "en": "I just don't want my mom to think that because I didn't marry Fahim, my life is crap",
+    "groupCode": 0
+  },
+  {
+    "id": 3139,
+    "fa": "این یک باری از مزخرف بود",
+    "en": "That was a load of crap",
+    "groupCode": 0
+  },
+  {
+    "id": 3140,
+    "fa": "او (مرد) داره خفه میشه",
+    "en": "He's choking",
+    "groupCode": 0
+  },
+  {
+    "id": 3141,
+    "fa": "کسی اینجا دکتره؟",
+    "en": "Is anyone here a doctor?",
+    "groupCode": 0
+  },
+  {
+    "id": 3142,
+    "fa": "او (مرد) به دلیل استرس (صداش درنمی آید) خفه شد",
+    "en": "He choked up due to the stress",
+    "groupCode": 0
+  },
+  {
+    "id": 3143,
+    "fa": "اون مسخره ترین چیزی است که من تا به حال شنیده ام",
+    "en": "That's the most ridiculous thing I've ever heard",
+    "groupCode": 0
+  },
+  {
+    "id": 3144,
+    "fa": "تو مرا فروختی",
+    "en": "You sold me out",
+    "groupCode": 0
+  },
+  {
+    "id": 3145,
+    "fa": "تو الان به من ضریه زدی؟",
+    "en": "Did you just flick me?",
+    "groupCode": 0
+  },
+  {
+    "id": 3146,
+    "fa": "هر بار که سرت را می چرخانی، موهایت به صورتم ضریه می زنه",
+    "en": "Every time you turn your head, your hair flick my face",
+    "groupCode": 0
+  },
+  {
+    "id": 3147,
+    "fa": "او (زن) خاک را از روی کتش تکان داد",
+    "en": "She flicked the dust off her coat",
+    "groupCode": 0
+  },
+  {
+    "id": 3148,
+    "fa": "تو نمیذاری (مودبانه) تمومش کنم",
+    "en": "You wouldn't let me finish",
+    "groupCode": 0
+  },
+  {
+    "id": 3149,
+    "fa": "یک فاجعه در حمل و نقل رخ داد و من باید این را سفارش بدم",
+    "en": "There was a disaster in shipping and I've gotta get this order in",
+    "groupCode": 0
+  },
+  {
+    "id": 3150,
+    "fa": "من باید این کار را انجام دهم",
+    "en": "\n 1.I have got to get this done \n 2.I must complete this task",
+    "desc": "The phrase \"I have got to get\" is an informal way of saying \"I need to get\" or \"I must get.\" It's used to express a strong need or obligation to obtain or do something",
+    "groupCode": 0
+  },
+  {
+    "id": 3151,
+    "fa": "من (الان) چیزهای زیادی برای سروکله زدن دارم",
+    "en": "I just have too much to deal with",
+    "groupCode": 0
+  },
+  {
+    "id": 3152,
+    "fa": "من ترکیب (رمزی) این را حدود یک سال پیش فراموش کردم",
+    "en": "I forgot the combination to this about a year ago",
+    "groupCode": 0
+  },
+  {
+    "id": 3153,
+    "fa": "آیا چوب استیک (چوب ژاپنی) دارید؟",
+    "en": "\n 1.You got any Chopsticks? \n 2.Do you have any Chopsticks?",
+    "desc": "The phrase \"You got any ChapStick?\" is an informal way of saying \"Have you got any ChapStick?\"",
+    "groupCode": 0
+  },
+  {
+    "id": 3154,
+    "fa": "اون یک بلوز خیره کننده است",
+    "en": "That is a stunning blouse",
+    "groupCode": 0
+  },
+  {
+    "id": 3155,
+    "fa": "من مقداری از ادکلن شما را قرض گرفتم و امیدوارم او دوستش داشته باشد",
+    "en": "I borrowed some of your cologne /kuh·lown/ and I hope she likes it",
+    "groupCode": 0
+  },
+  {
+    "id": 3156,
+    "fa": "او (مرد) آنقدر درد داشت که آنها مجبور شدند او را به بیمارستان ببرند",
+    "en": "He was in such pain that they had to take him to the hospital",
+    "groupCode": 0
+  },
+  {
+    "id": 3157,
+    "fa": "او (زن) مرا به یاد کسی می اندازد که سال ها پیش ملاقات کردم",
+    "en": "She reminds me of somebody I met years ago",
+    "groupCode": 0
+  },
+  {
+    "id": 3158,
+    "fa": "من تصمیم گرفتم انجامش بدم فقط به خاطر خودم",
+    "en": "I've decided to do it just for my sake",
+    "groupCode": 0
+  },
+  {
+    "id": 3159,
+    "fa": "درست (فقط) زمانی که فکر می کنید تمام شده؛ یک مشکل جدید پیش می آید",
+    "en": "Just when you think it’s over; a new problem comes up",
+    "groupCode": 0
+  },
+  {
+    "id": 3160,
+    "fa": "هرج و مرج کامل به وجود آمد، وقتی زلزله شروع شد",
+    "en": "Total chaos broke out when the earthquake started",
+    "groupCode": 0
+  },
+  {
+    "id": 3161,
+    "fa": "آیا می توانید به من اطمینان دهید که به کار بیشتری نیاز نخواهد بود؟",
+    "en": "Can you assure me it won't need any more work?",
+    "groupCode": 0
+  },
+  {
+    "id": 3162,
+    "fa": "من (مرد) نگاهی تصادفی به حیوان انداختم قبل از اینکه ناپدبد بشه",
+    "en": "I caught a glimpse of the animal before it disappeared",
+    "groupCode": 0
+  },
+  {
+    "id": 3163,
+    "fa": "او همیشه در حال انتقاد از دولت است، اما هرگز رای نمی دهد",
+    "en": "He's always running down the government, but never votes",
+    "groupCode": 0
+  },
+  {
+    "id": 3164,
+    "fa": "مردم نیاز دارند به یک زندگی خانوادگی پایدار برای اجتناب از استرس",
+    "en": "People need a stable family life to avoid stress",
+    "groupCode": 0
+  },
+  {
+    "id": 3165,
+    "fa": "آن در جیرجیر می کند وقتی که باز می شود. میتونی روغنش بزنی؟",
+    "en": "That door creaks when opened. Can you oil it?",
+    "desc": "\"opened\" is used correctly as a past participle that functions similarly to an adjective. You don’t need to include \"it is\" in the sentence.\n\nHere's why:\n\n\"When opened\" means \"when the door is opened.\"",
+    "groupCode": 0
+  },
+  {
+    "id": 3166,
+    "fa": "دستگاهی (ماشینی) که می توانید ببینید از قطعات ریز زیادی تشکیل شده است",
+    "en": "The machine that you can see consists of many tiny parts",
+    "groupCode": 0
+  },
+  {
+    "id": 3167,
+    "fa": "من می دانم که چه چیزی را روی میز می گذارم و عاشق احساس توانایی داشتن که کمک کنم به مشتریان مختلف",
+    "en": "I know what I bring to the table and love the feeling of being able to help a variety of clients",
+    "groupCode": 0
+  },
+  {
+    "id": 3168,
+    "fa": "من یک زجرآوری برای سازماندهی فایل ها انجام دادم",
+    "en": "I did a painstaking job of organizing the files",
+    "groupCode": 0
+  },
+  {
+    "id": 3169,
+    "fa": "من باید یک عالمه بشاشم",
+    "en": "I gotta take a massive piss",
+    "groupCode": 0
+  },
+  {
+    "id": 3170,
+    "fa": "من قصد رفتن نداشتم، اما من در نهایت جابجا شدم به دلیل اینکه شغل جدیدی گرفتم",
+    "en": "I wasn't planning to leave, but I ended up moving because I got a new job",
+    "groupCode": 0
+  },
+  {
+    "id": 3171,
+    "fa": "می توانم عطرت را تا مایل ها استشمام کنم",
+    "en": "I can smell your scent for miles",
+    "groupCode": 0
   }
 ]
