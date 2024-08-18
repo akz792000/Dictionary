@@ -5604,7 +5604,7 @@
   },
   {
     "id": 924,
-    "fa": "کوچکترین گونه ای پستاندار جهان کدامند؟",
+    "fa": "کوچکترین گونه پستاندار جهان چی هستند؟",
     "en": "What is the world's smallest species of mammal?",
     "groupCode": 0
   },
@@ -8874,7 +8874,7 @@
   {
     "id": 1461,
     "fa": "اختلاف در سن آن ها به نظر رسید مهم نباشه",
-    "en": "\n 1.The discrepancy in their ages did not seem to matter \n 2.The discrepancy in their ages seemed not to matter",
+    "en": "The discrepancy in their ages seemed not to matter",
     "groupCode": 0
   },
   {
@@ -18120,8 +18120,9 @@
   },
   {
     "id": 2986,
-    "fa": "(کودو) با تشکر از همه کسانی که این رویداد را گرد هم آورده اند",
+    "fa": "(کودو) با تشکر از همه کسانی که این رویداد را گرد هم آوردند",
     "en": "Kudos to everyone who put the event together",
+    "desc": "\"Kudos to everyone who put the event together\" is correct if the event has already happened.\n\n\"Kudos to everyone who puts the event together\" is correct if the event is ongoing or happens regularly.",
     "groupCode": 0
   },
   {
