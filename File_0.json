@@ -431,7 +431,7 @@
   },
   {
     "id": 72,
-    "fa": "پشیمان نخواهید شد",
+    "fa": "ازش پشیمان نخواهید شد",
     "en": "You won't regret it",
     "desc": "You won't be regret: This is grammatically incorrect. The word \"regret\" is a verb and a noun, but it is not used as an adjective. The correct adjective form is \"regretful.\"",
     "groupCode": 0
@@ -4967,7 +4967,7 @@
   },
   {
     "id": 819,
-    "fa": "آن چیزی که به نظر می رسد نیست",
+    "fa": "نیستش چیزی که به نظر می رسد",
     "en": "It's not what it looks like",
     "groupCode": 0
   },
@@ -5033,7 +5033,7 @@
   },
   {
     "id": 830,
-    "fa": "وقتی کار همکارم انجام شد، او (مرد) پیش شما خواهد آمد",
+    "fa": "وقتی (کار) همکارم انجام شد، او (مرد) پیش شما خواهد آمد",
     "en": "When my colleague is done, he will come to you",
     "groupCode": 0
   },
@@ -5391,7 +5391,7 @@
   },
   {
     "id": 889,
-    "fa": "در طول طوفان، تگرگها شیشه جلوی من را خرد کردند، نیازم شد آن را تعویض کنم",
+    "fa": "در طول طوفان، تگرگها شیشه جلوی من را خرد کردند، نیازم شد تعویضش کنم",
     "en": "During the storm, the hailstones shattered my windshield, requiring me to replace it",
     "groupCode": 0
   },
@@ -16659,7 +16659,7 @@
   },
   {
     "id": 2746,
-    "fa": "مردم در مورد من چه می گویند اگر نتوانستم از شادی تو لذت ببرم؟",
+    "fa": "مردم در مورد من چه می گویند (فرضی) اگر نتوانستم از شادی تو لذت ببرم؟",
     "en": "What would people say about me if I can't revel /ˈrevəl/ in your joy?",
     "groupCode": 0
   },
@@ -17713,13 +17713,13 @@
   },
   {
     "id": 2919,
-    "fa": "آخرین باری که رانندگی کردم ترسیده بودم",
+    "fa": "آخرین باری که من رانندگی کردم من وحشت کرده بودم",
     "en": "Last time I drove I was terrified",
     "groupCode": 0
   },
   {
     "id": 2920,
-    "fa": "شما عالی کار می کنید",
+    "fa": "شما عالی دارید کار می کنید",
     "en": "You are doing great",
     "groupCode": 0
   },

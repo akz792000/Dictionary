@@ -116,7 +116,7 @@
   },
   {
     "id": 3020,
-    "fa": "آنها می توانند تجزیه و تحلیل کنند چگونه مردم کار را انجام می دهند",
+    "fa": "آنها می توانندآنالیز کنند چگونه مردم کار را انجام می دهند",
     "en": "They can analyze how people get work done",
     "groupCode": 0
   },
@@ -436,7 +436,7 @@
   },
   {
     "id": 3072,
-    "fa": "از همون اول دروغ گفتی",
+    "fa": "از همون خیلی اول دروغ گفتی",
     "en": "From the very beginning you lied",
     "groupCode": 0
   },
@@ -703,7 +703,7 @@
   },
   {
     "id": 3116,
-    "fa": "شرکت های سهامی خاص برای افزایش بها شرکت ها را خریداری و بهبود می بخشند",
+    "fa": "شرکت های سهامی خاص شرکت ها را خریداری و بهبود می بخشند برای افزایش بها",
     "en": "Private equity firms buy and improve companies to increase their value",
     "desc": "Private equity refers to investment in private companies (not publicly traded on stock exchanges) through the purchase of shares or stakes. Investors provide capital with the expectation of high returns, often by improving the company's performance and eventually selling it at a profit",
     "groupCode": 0
@@ -743,7 +743,7 @@
   },
   {
     "id": 3122,
-    "fa": "اینها برای چه استفاده می شده؟",
+    "fa": "اینها برای چه استفاده می شدند؟",
     "en": "What were these used for?",
     "groupCode": 0
   },
@@ -767,7 +767,7 @@
   },
   {
     "id": 3126,
-    "fa": "شرکت مشاوره توسط یک شرکت فناوری بزرگتر خریداری شد",
+    "fa": "شرکت مشاوره کسب شد (خریداری شد) توسط یک شرکت فناوری بزرگتر",
     "en": "The consulting firm was acquired by a larger technology company",
     "desc": "Use \"company\" when referring to any type of business, especially larger or more diverse businesses, like technology companies, manufacturing companies, or retail companies.\n\nUse \"firm\" when referring to businesses that provide professional services, such as law firms, accounting firms, or consulting firms, typically smaller or partnership-based businesses.",
     "groupCode": 0
@@ -888,7 +888,7 @@
   },
   {
     "id": 3146,
-    "fa": "هر بار که سرت را می چرخانی، موهایت به صورتم ضریه می زنه",
+    "fa": "هر بار که سرت را می چرخانی، موهایت به صورتم ضربه می زنه",
     "en": "Every time you turn your head, your hair flick my face",
     "groupCode": 0
   },
@@ -906,7 +906,7 @@
   },
   {
     "id": 3149,
-    "fa": "یک فاجعه در حمل و نقل رخ داد و من باید این را سفارش بدم",
+    "fa": "یک فاجعه در حمل و نقل بود و من باید این را سفارش بدم",
     "en": "There was a disaster in shipping and I've gotta get this order in",
     "groupCode": 0
   },
@@ -944,13 +944,13 @@
   },
   {
     "id": 3155,
-    "fa": "من مقداری از ادکلن شما را قرض گرفتم و امیدوارم او دوستش داشته باشد",
+    "fa": "من مقداری از ادکلن شما را قرض گرفتم و امیدوارم او (زن) دوستش داشته باشد",
     "en": "I borrowed some of your cologne /kuh·lown/ and I hope she likes it",
     "groupCode": 0
   },
   {
     "id": 3156,
-    "fa": "او (مرد) آنقدر درد داشت که آنها مجبور شدند او را به بیمارستان ببرند",
+    "fa": "او (مرد) آنقدر در درد بود که آنها مجبور شدند او را به بیمارستان ببرند",
     "en": "He was in such pain that they had to take him to the hospital",
     "groupCode": 0
   },
@@ -992,7 +992,7 @@
   },
   {
     "id": 3163,
-    "fa": "او (مرد) همیشه در حال انتقاد از دولت است، اما هرگز رای نمی دهد",
+    "fa": "او (مرد) همیشه داره از دولت انتقاد می کند، اما هرگز رای نمی دهد",
     "en": "He's always running down the government, but never votes",
     "groupCode": 0
   },
@@ -1017,7 +1017,7 @@
   },
   {
     "id": 3167,
-    "fa": "من می دانم که چه چیزی را روی میز می گذارم و عاشق احساس توانایی داشتن که کمک کنم به مشتریان مختلف",
+    "fa": "من می دانم که چه چیزی را (روی) میز می آورم و عاشق احساس توانایی داشتن کمک کردن به مشتریان مختلف هستم",
     "en": "I know what I bring to the table and love the feeling of being able to help a variety of clients",
     "groupCode": 0
   },
@@ -1071,13 +1071,13 @@
   },
   {
     "id": 3176,
-    "fa": "من دیگه از شکست نمی ترسم",
+    "fa": "من دیگه از شکست خوردن نمی ترسم",
     "en": "I'm no longer afraid of failing",
     "groupCode": 0
   },
   {
     "id": 3177,
-    "fa": "من فقط می خواهم عذرخواهی کنم از مردمی که من نامیدم پیر در 30 سالگی وقتیکه من 18 سالم بودم",
+    "fa": "من فقط می خواهم عذرخواهی کنم از مردمی که من نامیدم پیر در 30 (سالگی) وقتیکه من 18 (سالم) بودم",
     "en": "I just want to apologize to the people I called old at 30 when I was 18",
     "groupCode": 0
   },
