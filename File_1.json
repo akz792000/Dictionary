@@ -798,7 +798,7 @@
   },
   {
     "id": 3131,
-    "fa": "من امید داشتم که اون حرفش پیش بیاد",
+    "fa": "من امید می داشتم که اون حرفش پیش بیاد",
     "en": "I was hoping that would come up",
     "groupCode": 0
   },
@@ -817,7 +817,7 @@
   {
     "id": 3134,
     "fa": "کسی هنوز از علی شنیده؟",
-    "en": "Anyone head from Ali yet?",
+    "en": "Has anyone heard from Ali yet?",
     "groupCode": 0
   },
   {
@@ -828,13 +828,13 @@
   },
   {
     "id": 3136,
-    "fa": "خیلی نگران هستی در مورد اومدن مامانت",
+    "fa": "تو خیلی نگران هستی در مورد اومدن مامانت",
     "en": "You're so uptight about your mom coming",
     "groupCode": 0
   },
   {
     "id": 3137,
-    "fa": "در مورد امتحانات غصه نخور، آنها به زودی تمام خواهد شد",
+    "fa": "در مورد امتحانات نگران نباش، آنها به زودی تمام خواهد شد",
     "en": "Don't get uptight about the exams, they will be over soon",
     "groupCode": 0
   },
@@ -846,7 +846,7 @@
   },
   {
     "id": 3139,
-    "fa": "این یک باری از مزخرف بود",
+    "fa": "اون یک باری از مزخرف بود",
     "en": "That was a load of crap",
     "groupCode": 0
   },
@@ -882,7 +882,7 @@
   },
   {
     "id": 3145,
-    "fa": "تو الان به من ضریه زدی؟",
+    "fa": "تو الان به من ضربه زدی؟",
     "en": "Did you just flick me?",
     "groupCode": 0
   },
@@ -900,7 +900,7 @@
   },
   {
     "id": 3148,
-    "fa": "تو نمیذاری (مودبانه) تمومش کنم",
+    "fa": "تو نمیذاری (مودبانه) تموم کنم",
     "en": "You wouldn't let me finish",
     "groupCode": 0
   },
@@ -912,8 +912,8 @@
   },
   {
     "id": 3150,
-    "fa": "من باید این کار را انجام دهم",
-    "en": "\n 1.I have got to get this done \n 2.I must complete this task",
+    "fa": "من باید این را انجام دهم",
+    "en": "I have got to get this done",
     "desc": "The phrase \"I have got to get\" is an informal way of saying \"I need to get\" or \"I must get.\" It's used to express a strong need or obligation to obtain or do something",
     "groupCode": 0
   },
@@ -931,7 +931,7 @@
   },
   {
     "id": 3153,
-    "fa": "آیا چوب استیک (چوب ژاپنی) دارید؟",
+    "fa": "آیا چوب استیک دیگری (چوب ژاپنی) دارید؟",
     "en": "\n 1.You got any Chopsticks? \n 2.Do you have any Chopsticks?",
     "desc": "The phrase \"You got any ChapStick?\" is an informal way of saying \"Have you got any ChapStick?\"",
     "groupCode": 0
@@ -1053,7 +1053,7 @@
   },
   {
     "id": 3173,
-    "fa": "من آن را اینظور بیان می کنم: سخت کوشی در نهایت نتیجه می دهد",
+    "fa": "من آن را اینطور بیان می کنم: سخت کوشی در نهایت نتیجه می دهد",
     "en": "I put it this way: hard work pays off in the end",
     "groupCode": 0
   },
