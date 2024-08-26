@@ -787,7 +787,7 @@
   {
     "id": 3129,
     "fa": "چطور هیچوقت به من چیزی نگفتی؟",
-    "en": "How come you never said anything to me?",
+    "en": "\n 1.How come you never told me anything? \n 2.How come you never said anything to me?",
     "groupCode": 0
   },
   {
@@ -912,14 +912,14 @@
   },
   {
     "id": 3150,
-    "fa": "من باید این را انجام دهم",
+    "fa": "من باید این را به انجام برسانم",
     "en": "I have got to get this done",
     "desc": "The phrase \"I have got to get\" is an informal way of saying \"I need to get\" or \"I must get.\" It's used to express a strong need or obligation to obtain or do something",
     "groupCode": 0
   },
   {
     "id": 3151,
-    "fa": "من (الان) چیزهای زیادی برای سروکله زدن دارم",
+    "fa": "من (الان چیزهای) زیادی برای سروکله زدن دارم",
     "en": "I just have too much to deal with",
     "groupCode": 0
   },
@@ -1017,14 +1017,14 @@
   },
   {
     "id": 3167,
-    "fa": "من می دانم که چه چیزی را (روی) میز می آورم و عاشق احساس توانایی داشتن کمک کردن به مشتریان مختلف هستم",
+    "fa": "من می دانم که چه چیزی را (روی) میز می آورم و عاشق احساس توانایی داشتن کمک کردن به یک تنوعی از مشتریان هستم",
     "en": "I know what I bring to the table and love the feeling of being able to help a variety of clients",
     "groupCode": 0
   },
   {
     "id": 3168,
-    "fa": "من یک کار زجرآوری برای سازماندهی فایل ها انجام دادم",
-    "en": "I did a painstaking job of organizing the files",
+    "fa": "من هفته‌ها را صرف انجام تحقیقات پرزحمت کردم تا مطمئن شوم همه جزئیات کامل باشند",
+    "en": "I spent weeks doing painstaking research to ensure every details was perfect",
     "groupCode": 0
   },
   {
@@ -1035,7 +1035,7 @@
   },
   {
     "id": 3170,
-    "fa": "من قصد ترک کردن نمی داشتم، اما من در نهایت جابجا شدم چون من یک شغل جدید گرفتم",
+    "fa": "من نقشه ترک کردن نمی داشتم، اما من در نهایت جابجا شدم چون من یک شغل جدید گرفتم",
     "en": "I wasn't planning to leave, but I ended up moving because I got a new job",
     "groupCode": 0
   },
@@ -1053,7 +1053,7 @@
   },
   {
     "id": 3173,
-    "fa": "من آن را اینطور بیان می کنم: سخت کوشی در نهایت نتیجه می دهد",
+    "fa": "من اینطور بیانش می کنم: سخت کوشی در نهایت نتیجه می دهد",
     "en": "I put it this way: hard work pays off in the end",
     "groupCode": 0
   },
@@ -1097,6 +1097,36 @@
     "id": 3180,
     "fa": "خیلی خوب انجام دادی",
     "en": "You did so well",
+    "groupCode": 0
+  },
+  {
+    "id": 3181,
+    "fa": "اگر شما می خواهید گریه کنید، برش دهید مقداری پیاز را تا هیچ کسی متوجه نشود که شما دارید گریه می کنید",
+    "en": "If you wanna cry, cut some onions so nobody would notice that you're crying",
+    "groupCode": 0
+  },
+  {
+    "id": 3182,
+    "fa": "من قصد ندارم بدنام کنم آنها را",
+    "en": "I don't mean to denigrate them",
+    "groupCode": 0
+  },
+  {
+    "id": 3183,
+    "fa": "اونها رو بدنام نکن ارزشش را ندارد",
+    "en": "Don't denigrate them it's not worth it",
+    "groupCode": 0
+  },
+  {
+    "id": 3184,
+    "fa": "آیا من می توانم اجاره کل سال خود را (روی) یک آپارتمان جلوتر پرداخت کنم؟",
+    "en": "Can I pay my entire year lease on an apartment upfront?",
+    "groupCode": 0
+  },
+  {
+    "id": 3185,
+    "fa": "در این لحظه بود (که) علی دانست او دیگر نمی‌خواهد تاکو بخورد",
+    "en": "It was at this moment Ali knew he didn't want to eat tacos anymore",
     "groupCode": 0
   }
 ]
