@@ -822,7 +822,7 @@
   },
   {
     "id": 3135,
-    "fa": "من دقیقاً می دانم که او (زن) داره برش چی می گذره (حالش چطوره)",
+    "fa": "من می دانم دقیقاً که او (زن) داره برش چی می گذره (حالش چطوره)",
     "en": "I know exactly what she's going through",
     "groupCode": 0
   },
@@ -1072,7 +1072,7 @@
   {
     "id": 3176,
     "fa": "من دیگه از شکست خوردن نمی ترسم",
-    "en": "I'm no longer afraid of failing",
+    "en": "\n 1.I'm no longer afraid of failing \n 2.I'm not afraid of failing anymore",
     "groupCode": 0
   },
   {
@@ -1101,7 +1101,7 @@
   },
   {
     "id": 3181,
-    "fa": "اگر شما می خواهید گریه کنید، برش دهید مقداری پیاز را تا هیچ کسی متوجه نشود که شما دارید گریه می کنید",
+    "fa": "اگر شما می خواهید گریه کنید، ببرید مقداری پیاز را تا هیچ کسی (فرضی) متوجه نشود که شما دارید گریه می کنید",
     "en": "If you wanna cry, cut some onions so nobody would notice that you're crying",
     "groupCode": 0
   },
@@ -1125,7 +1125,7 @@
   },
   {
     "id": 3185,
-    "fa": "در این لحظه بود (که) علی دانست او دیگر نمی‌خواهد تاکو بخورد",
+    "fa": "در این لحظه بود (که) علی دانست او دیگه نمی‌خواهد تاکو بخورد",
     "en": "It was at this moment Ali knew he didn't want to eat tacos anymore",
     "groupCode": 0
   }
