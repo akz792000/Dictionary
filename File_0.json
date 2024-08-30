@@ -6712,7 +6712,7 @@
   },
   {
     "id": 1105,
-    "fa": "ما بک تطبیق هم هستیم (به هم میاییم)! شخصیت ها و علایق ما به طور کامل (عالی) با هم هماهنگ هستند",
+    "fa": "ما یک تطبیق هم هستیم (به هم میاییم)! شخصیت ها و علایق ما به طور کامل (عالی) با هم هماهنگ هستند",
     "en": "We're a perfect match! Our personalities and interests align perfectly",
     "groupCode": 0
   },
@@ -13191,7 +13191,7 @@
   },
   {
     "id": 2174,
-    "fa": "بچه ها تازه به اینجا رسیدید؟",
+    "fa": "شما بچه ها (تازه) به اینجا رسیدید؟",
     "en": "You guys just got here?",
     "groupCode": 0
   },
@@ -15866,7 +15866,7 @@
   {
     "id": 2616,
     "fa": "حواسم پرته",
-    "en": "I'm absent-minded",
+    "en": "\n 1.I'm absent-minded \n 2.I'm distracted",
     "groupCode": 0
   },
   {
@@ -18140,7 +18140,7 @@
   {
     "id": 2989,
     "fa": "اگر می توانستی به غیر از خودت یک نفر (شخص) باشی، کی می شدی؟",
-    "en": "If you could be one person besides yourself, who would you be?",
+    "en": "\n 1.If you could be one person besides yourself, who would you be? \n 2.If you could be one other than yourself, who would you be?",
     "groupCode": 0
   },
   {
