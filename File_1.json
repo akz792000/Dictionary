@@ -1131,8 +1131,14 @@
   },
   {
     "id": 3186,
-    "fa": "",
+    "fa": "من اعتقاد داشتم به خودم زمانی که هیچ کس دیگری نداشت",
     "en": "I believed in me when no one else did",
+    "groupCode": 0
+  },
+  {
+    "id": 3187,
+    "fa": "سیاستمداران در حال حاضر به شنیدن شکایات افراد مشهور نازپرورده عادت کرده اند",
+    "en": "Politicians are by now used to hearing the complaints of pampered celebrities",
     "groupCode": 0
   }
 ]
