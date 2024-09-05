@@ -1556,7 +1556,7 @@
   },
   {
     "id": 258,
-    "fa": "میشه دلیلشو بدونم لطفا؟",
+    "fa": "ممکنه دلیلشو بدونم لطفا؟",
     "en": "May I know the reason, please?",
     "groupCode": 0
   },
@@ -2747,25 +2747,25 @@
   },
   {
     "id": 455,
-    "fa": "میشه بهتون ملحق شم؟",
+    "fa": "ممکنه بهتون ملحق شم؟",
     "en": "May I join you?",
     "groupCode": 0
   },
   {
     "id": 456,
-    "fa": "میشه یه چیزی بگم؟",
+    "fa": "ممکنه یه چیزی بگم؟",
     "en": "May I have a word?",
     "groupCode": 0
   },
   {
     "id": 457,
-    "fa": "میشه یه خواهشی کنم؟",
+    "fa": "ممکنه یه خواهشی کنم؟",
     "en": "May I ask a favor?",
     "groupCode": 0
   },
   {
     "id": 458,
-    "fa": "میشه توجهتون رو بدید به من؟",
+    "fa": "ممکنه توجهتون رو بدید به من؟",
     "en": "May I have your attention?",
     "groupCode": 0
   },
@@ -3898,8 +3898,8 @@
   },
   {
     "id": 645,
-    "fa": "رفیق بی صدا هستی",
-    "en": "You are on mute buddy",
+    "fa": "رفیق بی صدا هستی، می توانی خودت رو صدادار کنی؟",
+    "en": "You are on mute buddy, can you unmute yourself?",
     "groupCode": 0
   },
   {
@@ -4221,7 +4221,7 @@
   {
     "id": 697,
     "fa": "من به همراه دوستم توسط کناف استخدام شدم",
-    "en": "I was recruited by the Knauf along with my friend",
+    "en": "I was recruited by Knauf along with my friend",
     "groupCode": 0
   },
   {
@@ -6578,7 +6578,7 @@
   },
   {
     "id": 1083,
-    "fa": "به رستوران هندی برویم یا (مودبانه) غذاهای چینی را ترجیح می دهید؟ برای من فرقی نمیکنه",
+    "fa": "میشه به رستوران هندی برویم یا (مودبانه) غذاهای چینی را ترجیح می دهید؟ برای من فرقی نمیکنه",
     "en": "Shall we go to the Indian restaurant, or would you prefer Chinese food? I'm easy",
     "groupCode": 0
   },
@@ -7150,7 +7150,7 @@
   },
   {
     "id": 1177,
-    "fa": "وقتی به خانه شما آمدم کمی دسر بیاورم؟",
+    "fa": "میشه وقتی به خانه شما آمدم کمی دسر بیاورم؟",
     "en": "Shall I bring some dessert when I come to your house?",
     "desc": "Shall I bring some dessert when I come to your house?\n\nThis version emphasizes the physical place or building.\nShall I bring some dessert when I come to your home?\n\nThis version emphasizes the place where you live, giving it a slightly warmer or more personal tone.\nEither sentence is grammatically correct and understandable, so you can choose based on the nuance you prefer.",
     "groupCode": 0
@@ -8194,7 +8194,7 @@
   },
   {
     "id": 1349,
-    "fa": "او (مرد) تصمیم گرفت با قاطعیت وظیفه دشوار را رسیدگی کند",
+    "fa": "او (مرد) تصمیم گرفت با قاطعیت وظیفه دشوار را مقابله کند",
     "en": "He decided to tackle the difficult task with determination",
     "groupCode": 0
   },
@@ -11844,7 +11844,7 @@
   },
   {
     "id": 1952,
-    "fa": "چه ساعتی باید ترک کنیم؟",
+    "fa": "چه ساعتی میشه ترک کنیم؟",
     "en": "What time shall we leave?",
     "groupCode": 0
   },
@@ -11980,7 +11980,7 @@
   },
   {
     "id": 1974,
-    "fa": "او (مرد) از مدرسه اخراج شده به خاطر رفتار مختل کننده",
+    "fa": "او (مرد) از مدرسه اخراج شده برای رفتار مختل کننده",
     "en": "He was expelled from school for disruptive behaviour",
     "groupCode": 0
   },
@@ -16402,8 +16402,8 @@
   },
   {
     "id": 2704,
-    "fa": "تو یه ترسویی",
-    "en": "You're a coward",
+    "fa": "تو یک ترسویی",
+    "en": "\n 1.You're a coward \n 2.You're a timid",
     "groupCode": 0
   },
   {
@@ -17137,7 +17137,7 @@
   },
   {
     "id": 2825,
-    "fa": "احتمال اینکه او زنده از آنجا خارج شود حدود 1 یا 2 درصد است",
+    "fa": "شانس های او (برای اینکه) زنده از آنجا خارج شود حدود 1 یا 2 درصد است",
     "en": "The chances (likelihood) of him getting out of there alive are about 1 or 2 percent",
     "desc": "In this sentence, \"percent\" is a measure of probability, not a countable noun like \"person.\" Therefore, the word \"percent\" is used in the same way whether it refers to a singular or plural value",
     "groupCode": 0

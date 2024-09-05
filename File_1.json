@@ -1035,7 +1035,7 @@
   },
   {
     "id": 3170,
-    "fa": "من نقشه ترک کردن نمی داشتم، اما من در نهایت جابجا شدم چون من یک شغل جدید گرفتم",
+    "fa": "من نقشه ترک کردن نمی کشیدم، اما من در نهایت جابجا شدم چون من یک شغل جدید گرفتم",
     "en": "I wasn't planning to leave, but I ended up moving because I got a new job",
     "groupCode": 0
   },
@@ -1137,8 +1137,86 @@
   },
   {
     "id": 3187,
-    "fa": "سیاستمداران در حال حاضر به شنیدن شکایات افراد مشهور نازپرورده عادت کرده اند",
+    "fa": "سیاستمداران در حال حاضر به شنیدن شکایات افراد مشهور نازپرورده عادت دارند",
     "en": "Politicians are by now used to hearing the complaints of pampered celebrities",
+    "groupCode": 0
+  },
+  {
+    "id": 3188,
+    "fa": "تو به اندازه کافی بزرگ هستی که پدر من باشی",
+    "en": "You're old enough to be my father",
+    "groupCode": 0
+  },
+  {
+    "id": 3189,
+    "fa": "من نمی تونم شما را ببینم، لطفاً شما می تونی دوربین خود را روشن کنید؟",
+    "en": "I can't see you, can you please turn your camera on?",
+    "groupCode": 0
+  },
+  {
+    "id": 3190,
+    "fa": "تو داری یخ میزنی",
+    "en": "You're freezing",
+    "groupCode": 0
+  },
+  {
+    "id": 3191,
+    "fa": "نفرت انگیزترین کاری که تو دیدی کسی بدون شرم انجام دهد چیست؟",
+    "en": "What is the most disgusting thing you've seen someone do with no shame?",
+    "groupCode": 0
+  },
+  {
+    "id": 3192,
+    "fa": "نیاز نیست اینقدر به روم بیاری",
+    "en": "No need to rub it in",
+    "groupCode": 0
+  },
+  {
+    "id": 3193,
+    "fa": "من همیشه انجام می دهم تحقیقات بازار قبل از عرضه یک محصول جدید",
+    "en": "I always conduct market research before launching a new product",
+    "groupCode": 0
+  },
+  {
+    "id": 3194,
+    "fa": "جدی هستی؟ (در حال حاضر)",
+    "en": "Are you being serious?",
+    "groupCode": 0
+  },
+  {
+    "id": 3195,
+    "fa": "لاستیک هام (ماشین) کاملا پاره شده و من نیاز دارم پنچری رو درست کنم",
+    "en": "My tires are completely torn apart, and I need to fix the puncture",
+    "groupCode": 0
+  },
+  {
+    "id": 3196,
+    "fa": "من فکر کردم اون پمپ بنزین کمتر شلوغ است",
+    "en": "I thought that gas station was less crowded",
+    "groupCode": 0
+  },
+  {
+    "id": 3197,
+    "fa": "پارک در اوایل صبح بسیار ساکت تر است",
+    "en": "The park is much quieter in the early morning",
+    "groupCode": 0
+  },
+  {
+    "id": 3198,
+    "fa": "او (مرد) در اطراف مردم جدید کمی ترسو است",
+    "en": "He's a bit timid around new people",
+    "groupCode": 0
+  },
+  {
+    "id": 3199,
+    "fa": "اونا دارن پول چاپ (ضرب) می کنند",
+    "en": "They are minting money",
+    "groupCode": 0
+  },
+  {
+    "id": 3200,
+    "fa": "شما خیلی مناسب (گزینه عالی) خواهید بود (فرضی) برای مهندسی نرم افزار",
+    "en": "You'd be a great fit for Software Engineer",
     "groupCode": 0
   }
 ]
