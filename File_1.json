@@ -214,7 +214,7 @@
   },
   {
     "id": 3036,
-    "fa": "یه یاد نمیارم سوال کرده باشم",
+    "fa": "یه یاد نمیارم پرسیده باشم",
     "en": "I don't recall asking",
     "groupCode": 0
   },
@@ -962,7 +962,7 @@
   },
   {
     "id": 3158,
-    "fa": "من تصمیم گرفتم انجامش بدم فقط به خاطر خودم",
+    "fa": "من تصمیم گرفتم انجامش بدم فقط برای خاطر خودم",
     "en": "I've decided to do it just for my sake",
     "groupCode": 0
   },
@@ -1023,7 +1023,7 @@
   },
   {
     "id": 3168,
-    "fa": "من هفته‌ها را صرف انجام تحقیقات پرزحمت کردم تا مطمئن شوم همه جزئیات کامل باشند",
+    "fa": "من هفته‌ها را صرف انجام تحقیق پرزحمت کردم تا مطمئن شوم همه جزئیات کامل باشند",
     "en": "I spent weeks doing painstaking research to ensure every details was perfect",
     "groupCode": 0
   },
@@ -1161,8 +1161,9 @@
   },
   {
     "id": 3191,
-    "fa": "نفرت انگیزترین کاری که تو دیدی کسی بدون شرم انجام دهد چیست؟",
+    "fa": "منزجر کنندهترین چیزی که تو دیدی کسی بدون شرم انجام دهد چیست؟",
     "en": "What is the most disgusting thing you've seen someone do with no shame?",
+    "desc": "In your sentence, \"What is the most disgusting thing you've seen someone do with no shame?\", the structure involves:\n\n\"You've seen\": This part uses the present perfect tense and refers to a past action (seeing something happen).\n\n\"Someone do\": After verbs like \"seen,\" \"heard,\" or \"watched,\" we use the base form of the verb (do) rather than its past tense (did).\n\nBreakdown:\n\"Seen\" (past participle) is already in the past tense.\nAfter \"seen,\" you use the base form of the verb \"do,\" not \"did,\" because \"seen\" is followed by the base form of the verb.\nExample Comparisons:\nCorrect: \"I've seen someone do something\" (Base form \"do\" after \"seen\").\nIncorrect: \"I've seen someone did something\" (Using \"did\" here is incorrect because it’s the past tense form, which doesn’t fit the structure after \"seen\").",
     "groupCode": 0
   },
   {
@@ -1217,6 +1218,67 @@
     "id": 3200,
     "fa": "شما خیلی مناسب (گزینه عالی) خواهید بود (فرضی) برای مهندسی نرم افزار",
     "en": "You'd be a great fit for Software Engineer",
+    "groupCode": 0
+  },
+  {
+    "id": 3201,
+    "fa": "ما می خواهیم مطمئن شویم که همه سالم به خانه می رسند",
+    "en": "We want to make sure everyone gets home safely",
+    "groupCode": 0
+  },
+  {
+    "id": 3202,
+    "fa": "ما مایلیم به شما یادآوری کنیم که تعطیلات سالانه خود را تا 31 دسامبر برنامه ریزی کنید",
+    "en": "We would like to remind you to plan your annual vacation by December 31",
+    "groupCode": 0
+  },
+  {
+    "id": 3203,
+    "fa": "من پاسپورت همسر و پسرم را به روز کرده ام و مایلم تقاضا بدم برای نو کردن مجوزهای اقامت آنها برای منعکس کردن جزئیات جدید پاسپورت و تاریخ های انقضا",
+    "en": "I have updated my wife and son's passports, and I would like to request the renewal of their residence permits to reflect the new passport details and expiration dates",
+    "groupCode": 0
+  },
+  {
+    "id": 3204,
+    "fa": "تنها قسمتی از توضیحات که باقی می ماند قسمت آخر است",
+    "en": "The only part of the description that remains is the last one",
+    "desc": "A restrictive clause gives essential information needed to understand the sentence. It tells you which specific person or thing you're talking about.\n\nUse \"that\" for restrictive clauses. Example: \"The car that is red is mine.\" (The clause \"that is red\" tells you which car.)\nA non-restrictive clause adds extra information that isn’t essential to understand the sentence.\n\nUse \"which\" for non-restrictive clauses. Example: \"The car, which is red, is mine.\" (The color is just extra info here.)\nIn your sentence, \"that remains\" is essential, so we use \"that\" instead of \"which.\"",
+    "groupCode": 0
+  },
+  {
+    "id": 3205,
+    "fa": "من بیخیالش نیستم",
+    "en": "I am not over it",
+    "groupCode": 0
+  },
+  {
+    "id": 3206,
+    "fa": "این بزرگش رو داری؟",
+    "en": "Do you have this in large?",
+    "groupCode": 0
+  },
+  {
+    "id": 3207,
+    "fa": "اندازه منه",
+    "en": "It fits me",
+    "groupCode": 0
+  },
+  {
+    "id": 3208,
+    "fa": "بهت میاد",
+    "en": "It suits you",
+    "groupCode": 0
+  },
+  {
+    "id": 3209,
+    "fa": "سر به سرم نذار",
+    "en": "Don't tease me",
+    "groupCode": 0
+  },
+  {
+    "id": 3210,
+    "fa": "اینجا کمبود مسکن مقرون به صرفه وجود دارد و من نمی خواهم وام مسکن بزرگی بگیرم",
+    "en": "There is a shortage of affordable housing here and I don't want to take a big mortgage",
     "groupCode": 0
   }
 ]
