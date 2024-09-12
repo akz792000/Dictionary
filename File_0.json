@@ -1060,7 +1060,7 @@
   },
   {
     "id": 176,
-    "fa": "لطفا نمک رو بده من",
+    "fa": "لطفا نمک رو (پاس) بده من",
     "en": "Pass me the salt please",
     "groupCode": 0
   },
@@ -2778,7 +2778,7 @@
   {
     "id": 460,
     "fa": "جیش دارم",
-    "en": "Nature is calling me",
+    "en": "\n 1.Nature is calling me \n 2.Nature calls",
     "groupCode": 0
   },
   {
@@ -6978,7 +6978,7 @@
   },
   {
     "id": 1149,
-    "fa": "لطفا ببرش آنجا ",
+    "fa": "لطفا ببرش آنجا",
     "en": "Please take it over there",
     "groupCode": 0
   },
@@ -12518,7 +12518,7 @@
   },
   {
     "id": 2063,
-    "fa": "اگر می خواهید مشکل را حل کنید، باید تمام حقیقت را در نظر بگیرید",
+    "fa": "اگر می خواهید مشکل را حل کنید، باید تمام حقیقت را درک کنید",
     "en": "If you wanna solve the problem, you have to take in the whole truth",
     "groupCode": 0
   },

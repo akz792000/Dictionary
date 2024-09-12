@@ -195,8 +195,8 @@
   },
   {
     "id": 3033,
-    "fa": "\n & \n ' \n * \n @ \n - \n $ \n ! \n # \n \" \n / \\",
-    "en": "\n Ampersand & (And) \n Apostrophe ' (Prime, Single Quotation Mark) \n Asterisk * (Star, Times) \n At Sign @ (Each) \n Dash - (Hyphen) \n Dollar Sign $ \n Exclamation ! and Inverted Exclamation ¡ \n Number Sign # (Pound Sign, Hash) \n Quotation Mark \" (Double Prime, Double Quotation Marks) \n Slash / (Forward Slash) \\ (Backward Slash)",
+    "fa": "\n & \n ' \n *",
+    "en": "\n Ampersand & (And) \n Apostrophe ' (Prime, Single Quotation Mark) \n Asterisk * (Star, Times)",
     "groupCode": 0
   },
   {
@@ -1161,7 +1161,7 @@
   },
   {
     "id": 3191,
-    "fa": "منزجر کنندهترین چیزی که تو دیدی کسی بدون شرم انجام دهد چیست؟",
+    "fa": "منزجر کننده ترین چیزی که تو دیدی کسی بدون شرم انجام دهد چیست؟",
     "en": "What is the most disgusting thing you've seen someone do with no shame?",
     "desc": "In your sentence, \"What is the most disgusting thing you've seen someone do with no shame?\", the structure involves:\n\n\"You've seen\": This part uses the present perfect tense and refers to a past action (seeing something happen).\n\n\"Someone do\": After verbs like \"seen,\" \"heard,\" or \"watched,\" we use the base form of the verb (do) rather than its past tense (did).\n\nBreakdown:\n\"Seen\" (past participle) is already in the past tense.\nAfter \"seen,\" you use the base form of the verb \"do,\" not \"did,\" because \"seen\" is followed by the base form of the verb.\nExample Comparisons:\nCorrect: \"I've seen someone do something\" (Base form \"do\" after \"seen\").\nIncorrect: \"I've seen someone did something\" (Using \"did\" here is incorrect because it’s the past tense form, which doesn’t fit the structure after \"seen\").",
     "groupCode": 0
@@ -1277,8 +1277,69 @@
   },
   {
     "id": 3210,
-    "fa": "اینجا کمبود مسکن مقرون به صرفه وجود دارد و من نمی خواهم وام مسکن بزرگی بگیرم",
+    "fa": "اینجا کمبود مسکن مقرون به صرفه وجود دارد و من نمی خواهم وام مسکن بزرگی بر دارم",
     "en": "There is a shortage of affordable housing here and I don't want to take a big mortgage",
+    "groupCode": 0
+  },
+  {
+    "id": 3211,
+    "fa": "اگر ما استثنا را چاپ کرده بودیم، ما آن را در لاگ داشته بودیم",
+    "en": "If we had printed the exception, we would have had it in the log",
+    "groupCode": 0
+  },
+  {
+    "id": 3212,
+    "fa": "می توانی نخود را به من (پاس) بدی؟",
+    "en": "Can you pass me the chickpeas?",
+    "groupCode": 0
+  },
+  {
+    "id": 3213,
+    "fa": "تابلو می گوید: جای خالی نیست",
+    "en": "The sign says: No Vacancy",
+    "groupCode": 0
+  },
+  {
+    "id": 3214,
+    "fa": "رفیق, بیشتر اوقات, من اینجوریم",
+    "en": "Dude, most of the time, I am like this",
+    "groupCode": 0
+  },
+  {
+    "id": 3215,
+    "fa": "من در مورد شیرینی احساس بی طرفی می کنم",
+    "en": "I feel quite neutral about sweets",
+    "groupCode": 0
+  },
+  {
+    "id": 3216,
+    "fa": "رابطه جنسی معمولی چقدر طول می کشد؟",
+    "en": "How long normal sex lasts?",
+    "groupCode": 0
+  },
+  {
+    "id": 3217,
+    "fa": "\n @ \n - \n $ \n ! ¡",
+    "en": "\n At Sign @ (Each) \n Dash - (Hyphen) \n Dollar Sign $ \n Exclamation ! and Inverted Exclamation ¡",
+    "groupCode": 0
+  },
+  {
+    "id": 3218,
+    "fa": "\n # \n \" \n / \\",
+    "en": "\n Number Sign # (Pound Sign, Hash) \n Quotation Mark \" (Double Prime, Double Quotation Marks) \n Slash / (Forward Slash) \\ (Backward Slash)",
+    "groupCode": 0
+  },
+  {
+    "id": 3219,
+    "fa": "برام ساندویچ درست کن، اما گوجه فرنگی نذار (را نگه دار)",
+    "en": "Make me the sandwich, but hold the tomato",
+    "desc": "This means you are asking someone to make a sandwich for you, but you don't want tomato in it. \"Hold the tomato\" is an idiomatic way of saying \"leave out the tomato.",
+    "groupCode": 0
+  },
+  {
+    "id": 3220,
+    "fa": "من خیلی از صحبت های معلم را درک نکردم",
+    "en": "I didn't take in much of the teacher said",
     "groupCode": 0
   }
 ]
