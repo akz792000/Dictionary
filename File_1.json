@@ -195,8 +195,8 @@
   },
   {
     "id": 3033,
-    "fa": "\n & \n ' \n *",
-    "en": "\n Ampersand & (And) \n Apostrophe ' (Prime, Single Quotation Mark) \n Asterisk * (Star, Times)",
+    "fa": "\n & \n ' \n * \n {} \n _ \n |",
+    "en": "\n Ampersand (And) \n Apostrophe ' (Single Quotation Mark) \n Asterisk (Star) \n Braces \n Underscore \n Pipe",
     "groupCode": 0
   },
   {
@@ -1228,7 +1228,7 @@
   },
   {
     "id": 3202,
-    "fa": "ما مایلیم به شما یادآوری کنیم که تعطیلات سالانه خود را تا 31 دسامبر برنامه ریزی کنید",
+    "fa": "ما مایلیم به شما یادآوری کنیم که تعطیلات سالانه خود را تا 31 دسامبر نقشه بریزید",
     "en": "We would like to remind you to plan your annual vacation by December 31",
     "groupCode": 0
   },
@@ -1283,7 +1283,7 @@
   },
   {
     "id": 3211,
-    "fa": "اگر ما استثنا را چاپ کرده بودیم، ما آن را در لاگ داشته بودیم",
+    "fa": "اگر ما استثنا را چاپ کرده بودیم، ما در لاگ داشته بودیمش",
     "en": "If we had printed the exception, we would have had it in the log",
     "groupCode": 0
   },
@@ -1307,7 +1307,7 @@
   },
   {
     "id": 3215,
-    "fa": "من در مورد شیرینی احساس بی طرفی می کنم",
+    "fa": "من در مورد شیرینی کاملا احساس بی طرفی می کنم",
     "en": "I feel quite neutral about sweets",
     "groupCode": 0
   },
@@ -1319,14 +1319,14 @@
   },
   {
     "id": 3217,
-    "fa": "\n @ \n - \n $ \n ! ¡",
-    "en": "\n At Sign @ (Each) \n Dash - (Hyphen) \n Dollar Sign $ \n Exclamation ! and Inverted Exclamation ¡",
+    "fa": "\n @ \n - \n $ \n ! \n ¡ \n # \n ,",
+    "en": "\n At Sign \n Dash (Hyphen) \n Dollar Sign $ \n Exclamation \n Inverted Exclamation \n Number Sign (Hash) \n Comma",
     "groupCode": 0
   },
   {
     "id": 3218,
-    "fa": "\n # \n \" \n / \\",
-    "en": "\n Number Sign # (Pound Sign, Hash) \n Quotation Mark \" (Double Prime, Double Quotation Marks) \n Slash / (Forward Slash) \\ (Backward Slash)",
+    "fa": "\n \" \n / \n \\ \n [] \n () ",
+    "en": "\n Quotation Mark \" Double Quotation Marks \n Slash (Forward Slash) \n (Backward Slash) \n Brackets \n Parentheses",
     "groupCode": 0
   },
   {
@@ -1340,6 +1340,44 @@
     "id": 3220,
     "fa": "من خیلی از صحبت های معلم را درک نکردم",
     "en": "I didn't take in much of the teacher said",
+    "groupCode": 0
+  },
+  {
+    "id": 3221,
+    "fa": "چیز زیادی باقی نمانده است",
+    "en": "There is not too much left",
+    "groupCode": 0
+  },
+  {
+    "id": 3222,
+    "fa": "خوب خواهد بود اگر ما بتوانیم از علی اطلاعات (خلاصه کلام) بگیریم",
+    "en": "It will be good if we can get a heads-up from Ali",
+    "desc": "Heads-up: a short talk or statement about how a situation or plan is developing",
+    "groupCode": 0
+  },
+  {
+    "id": 3223,
+    "fa": "رئیس جلسه ای تشکیل داد تا در مورد مسیری که پروژه داشت انجام می شد به ما اطلاعات (خلاصه کلام) بدهد",
+    "en": "The boss called a meeting to give us a heads-up on the way the project was going",
+    "desc": "Heads-up: a short talk or statement about how a situation or plan is developing",
+    "groupCode": 0
+  },
+  {
+    "id": 3224,
+    "fa": "من فکر می کنم شما باید از چنین فرصتی استفاده کنید!",
+    "en": "I think you should take advantage of such an opportunity!",
+    "groupCode": 0
+  },
+  {
+    "id": 3225,
+    "fa": "بالاخره بهار اینجا است و بار دیگر زمان آن است که تایرهای زمستانی خود را با لاستیک های تابستانی چسبناک تعویض کنید",
+    "en": "Spring is finally here, and it's time once again to swap your winter tires for grippy summer tires",
+    "groupCode": 0
+  },
+  {
+    "id": 3226,
+    "fa": "وقتی شروع به بهتر کردن خود می کنید، تنهایی بهایی (قیمتی) است که می پردازید",
+    "en": "When you start to improve yourself, loneliness is the price you pay",
     "groupCode": 0
   }
 ]
