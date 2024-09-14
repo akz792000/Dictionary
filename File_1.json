@@ -691,7 +691,7 @@
   },
   {
     "id": 3114,
-    "fa": "اگر یک بازار آزاد را از بین ببرید، یک بازار سیاه ایجاد می کنید",
+    "fa": "اگر یک بازار آزاد را از بین ببرید، شما یک بازار سیاه ایجاد می کنید",
     "en": "If you destroy a free market you create a black market",
     "groupCode": 0
   },
@@ -1307,7 +1307,7 @@
   },
   {
     "id": 3215,
-    "fa": "من در مورد شیرینی کاملا احساس بی طرفی می کنم",
+    "fa": "من احساس بی طرفی می کنم کاملا در مورد شیرینی های",
     "en": "I feel quite neutral about sweets",
     "groupCode": 0
   },
@@ -1319,14 +1319,14 @@
   },
   {
     "id": 3217,
-    "fa": "\n @ \n - \n $ \n ! \n ¡ \n # \n ,",
-    "en": "\n At Sign \n Dash (Hyphen) \n Dollar Sign $ \n Exclamation \n Inverted Exclamation \n Number Sign (Hash) \n Comma",
+    "fa": "\n 1.@ \n 2.- \n 3.$ \n 4.! \n 5.¡ \n 6.# \n 7.,",
+    "en": "\n 1.At Sign \n 2.Dash (Hyphen) \n 3.Dollar Sign $ \n 4.Exclamation \n 5.Inverted Exclamation \n 6.Number Sign (Hash) \n 7.Comma",
     "groupCode": 0
   },
   {
     "id": 3218,
-    "fa": "\n \" \n / \n \\ \n [] \n () ",
-    "en": "\n Quotation Mark \" Double Quotation Marks \n Slash (Forward Slash) \n (Backward Slash) \n Brackets \n Parentheses",
+    "fa": "\n 1.\" \n 2./ \n 3.\\ \n 4.[] \n 5.() ",
+    "en": "\n 1.Double Quotation Marks \n 2.Slash (Forward Slash) \n 3.Backward Slash \n 4.Brackets \n 5.Parentheses",
     "groupCode": 0
   },
   {
@@ -1357,7 +1357,7 @@
   },
   {
     "id": 3223,
-    "fa": "رئیس جلسه ای تشکیل داد تا در مورد مسیری که پروژه داشت انجام می شد به ما اطلاعات (خلاصه کلام) بدهد",
+    "fa": "رئیس یک جلسه تشکیل داد تا به ما اطلاعات (خلاصه کلام) بدهد در مورد مسیری که پروژه داشت می رفت",
     "en": "The boss called a meeting to give us a heads-up on the way the project was going",
     "desc": "Heads-up: a short talk or statement about how a situation or plan is developing",
     "groupCode": 0
@@ -1370,14 +1370,26 @@
   },
   {
     "id": 3225,
-    "fa": "بالاخره بهار اینجا است و بار دیگر زمان آن است که تایرهای زمستانی خود را با لاستیک های تابستانی چسبناک تعویض کنید",
-    "en": "Spring is finally here, and it's time once again to swap your winter tires for grippy summer tires",
+    "fa": "بالاخره بهار اینجا است, و بار دیگر زمان آن است که تعویض کنید تایرهای زمستانی خود را با لاستیک های تابستانی که طراحی شده اند برای چسبناکی بهتر در موقعیت های گرمتر",
+    "en": "Spring is finally here, and it's time once again to swap your winter tires for summer tires designed for better grip in warmer conditions",
     "groupCode": 0
   },
   {
     "id": 3226,
     "fa": "وقتی شروع به بهتر کردن خود می کنید، تنهایی بهایی (قیمتی) است که می پردازید",
     "en": "When you start to improve yourself, loneliness is the price you pay",
+    "groupCode": 0
+  },
+  {
+    "id": 3227,
+    "fa": "اگر همسرت (زن) اینقدر زیباست, چرا شما اینجا با من هستی؟",
+    "en": "If your wife is so beautiful, why are you here with me?",
+    "groupCode": 0
+  },
+  {
+    "id": 3228,
+    "fa": "من بیش از حد به او (زن) احترام می گذارم که کاری که قصد دارم با او انجام بدهم را با تو انجام دهم",
+    "en": "I respect her too much to do to her what I'm going to do to you",
     "groupCode": 0
   }
 ]
