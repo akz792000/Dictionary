@@ -13,49 +13,7 @@
   {
     "id":,
     "fa": "",
-    "en": "",
-    "groupCode": 0
-  },
-  {
-    "id":,
-    "fa": "",
-    "en": "The cash balance available for withdrawal may be reduced for up to eight weeks",
-    "groupCode": 0
-  }
-  {
-    "id":,
-    "fa": "",
-    "en": "She doesn't like horror films",
-    "groupCode": 0
-  },
-  {
-    "id":,
-    "fa": "",
-    "en": "He wasn't at the office last week",
-    "groupCode": 0
-  },
-  {
-    "id":,
-    "fa": "",
     "en": "The available cash balance may be reduced for up to eight weeks to prevent overdrafts from potential direct debit returns",
-    "groupCode": 0
-  },
-  {
-    "id":,
-    "fa": "",
-    "en": "The direct debits can be revoked within the first eight weeks",
-    "groupCode": 0
-  },
-  {
-    "id":,
-    "fa": "",
-    "en": "It is not possible for us to process your request in a timely manner",
-    "groupCode": 0
-  },
-  {
-    "id":,
-    "fa": "",
-    "en": "Please refrain from additional inquiries by phone",
     "groupCode": 0
   },
   {
@@ -84,8 +42,8 @@
   },
   {
     "id":,
-    "fa": "شما فقط داری 16 مسابقه باقی مانده",
-    "en": "You only have 16 matches left",
+    "fa": "",
+    "en": "",
     "groupCode": 0
   },
   {

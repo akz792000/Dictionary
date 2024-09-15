@@ -195,8 +195,8 @@
   },
   {
     "id": 3033,
-    "fa": "\n & \n ' \n * \n {} \n _ \n |",
-    "en": "\n Ampersand (And) \n Apostrophe ' (Single Quotation Mark) \n Asterisk (Star) \n Braces \n Underscore \n Pipe",
+    "fa": "\n 1.& \n 2.' \n 3.* \n 4.{} \n 5._ \n 6.|",
+    "en": "\n 1.Ampersand (And) \n 2.Apostrophe (Single Quotation Mark) \n 3.Asterisk (Star) \n 4.Braces \n 5.Underscore \n 6.Pipe",
     "groupCode": 0
   },
   {
@@ -1332,7 +1332,7 @@
   {
     "id": 3219,
     "fa": "برام ساندویچ درست کن، اما گوجه فرنگی نذار (را نگه دار)",
-    "en": "Make me the sandwich, but hold the tomato",
+    "en": "Make me a sandwich, but hold the tomato",
     "desc": "This means you are asking someone to make a sandwich for you, but you don't want tomato in it. \"Hold the tomato\" is an idiomatic way of saying \"leave out the tomato.",
     "groupCode": 0
   },
@@ -1358,7 +1358,7 @@
   {
     "id": 3223,
     "fa": "رئیس یک جلسه تشکیل داد تا به ما اطلاعات (خلاصه کلام) بدهد در مورد مسیری که پروژه داشت می رفت",
-    "en": "The boss called a meeting to give us a heads-up on the way the project was going",
+    "en": "Boss called a meeting to give us a heads-up on the way the project was going",
     "desc": "Heads-up: a short talk or statement about how a situation or plan is developing",
     "groupCode": 0
   },
@@ -1390,6 +1390,78 @@
     "id": 3228,
     "fa": "من بیش از حد به او (زن) احترام می گذارم که کاری که قصد دارم با او انجام بدهم را با تو انجام دهم",
     "en": "I respect her too much to do to her what I'm going to do to you",
+    "groupCode": 0
+  },
+  {
+    "id": 3229,
+    "fa": "آیا تا به حال شاهد بوده ای یک زندگی ویران شده از یک اشتباه کوچک؟",
+    "en": "Have you ever witnessed a life ruined from a small mistake?",
+    "groupCode": 0
+  },
+  {
+    "id": 3230,
+    "fa": "او (مرد) هرگز از شر لکه زوی زندگیش خلاص نخواهد شد",
+    "en": "He will never get rid of the stain on his life",
+    "groupCode": 0
+  },
+  {
+    "id": 3231,
+    "fa": "آیا من شنیدنی هستم؟",
+    "en": "Am I audible?",
+    "groupCode": 0
+  },
+  {
+    "id": 3232,
+    "fa": "ویدیوی شما کمی تار است",
+    "en": "Your video is a bit blurry",
+    "groupCode": 0
+  },
+  {
+    "id": 3233,
+    "fa": "وجود دارد مقداری نویز پس زمینه در انتهای شما",
+    "en": "There is some background noise at your end",
+    "groupCode": 0
+  },
+  {
+    "id": 3234,
+    "fa": "موجودی (بالانس) نقدی موجود برای برداشت ممکن است تا هشت هفته کاهش یابد",
+    "en": "The cash balance available for withdrawal may be reduced for up to eight weeks",
+    "groupCode": 0
+  },
+  {
+    "id": 3235,
+    "fa": "او (زن) فیلم های ترسناک را دوست ندارد",
+    "en": "She doesn't like horror films",
+    "groupCode": 0
+  },
+  {
+    "id": 3236,
+    "fa": "بدهی های مستقیم می توان لغو شوند در هشت هفته اول",
+    "en": "The direct debits can be revoked within the first eight weeks",
+    "groupCode": 0
+  },
+  {
+    "id": 3237,
+    "fa": "لطفا از پرس و جوها اضافی توسط تلفن خودداری (اجتناب) کنید",
+    "en": "Please refrain from additional inquiries by phone",
+    "groupCode": 0
+  },
+  {
+    "id": 3238,
+    "fa": "او (مرد) هفته گذشته در دفتر نبود",
+    "en": "He wasn't at the office last week",
+    "groupCode": 0
+  },
+  {
+    "id": 3239,
+    "fa": "برای ما امکان پذیر نیست پردازش کردن درخواست شما در زمان مناسب (به موقع)",
+    "en": "It's not possible for us to process your request in a timely manner",
+    "groupCode": 0
+  },
+  {
+    "id": 3240,
+    "fa": "شما فقط داری 16 مسابقه باقی مانده",
+    "en": "You only have 16 matches left",
     "groupCode": 0
   }
 ]
