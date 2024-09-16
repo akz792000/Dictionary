@@ -1331,7 +1331,7 @@
   },
   {
     "id": 3219,
-    "fa": "برام ساندویچ درست کن، اما گوجه فرنگی نذار (را نگه دار)",
+    "fa": "برام یک ساندویچ درست کن، اما گوجه فرنگی نذار (را نگه دار)",
     "en": "Make me a sandwich, but hold the tomato",
     "desc": "This means you are asking someone to make a sandwich for you, but you don't want tomato in it. \"Hold the tomato\" is an idiomatic way of saying \"leave out the tomato.",
     "groupCode": 0
@@ -1370,7 +1370,7 @@
   },
   {
     "id": 3225,
-    "fa": "بالاخره بهار اینجا است, و بار دیگر زمان آن است که تعویض کنید تایرهای زمستانی خود را با لاستیک های تابستانی که طراحی شده اند برای چسبناکی بهتر در موقعیت های گرمتر",
+    "fa": "بالاخره بهار اینجا است, و زمان آن است بار دیگر تعویض کنید تایرهای زمستانی خود را با لاستیک های تابستانی که طراحی شده اند برای چسبناکی بهتر در موقعیت های گرمتر",
     "en": "Spring is finally here, and it's time once again to swap your winter tires for summer tires designed for better grip in warmer conditions",
     "groupCode": 0
   },
@@ -1396,6 +1396,7 @@
     "id": 3229,
     "fa": "آیا تا به حال شاهد بوده ای یک زندگی ویران شده از یک اشتباه کوچک؟",
     "en": "Have you ever witnessed a life ruined from a small mistake?",
+    "desc": "Let's break it down:\n\nFull version: \"Have you ever witnessed a life that was ruined from a small mistake?\"\nThis is a full passive sentence with \"was.\"\nReduced version: \"Have you ever witnessed a life ruined from a small mistake?\"\nHere, \"that was\" is omitted (which is common in English), and \"ruined\" works as part of a reduced clause.\nSo, even though it's passive, you don’t need \"was\" because it's implied and reduced.",
     "groupCode": 0
   },
   {
@@ -1424,7 +1425,7 @@
   },
   {
     "id": 3234,
-    "fa": "موجودی (بالانس) نقدی موجود برای برداشت ممکن است تا هشت هفته کاهش یابد",
+    "fa": "بالانس نقدی موجود برای برداشت ممکن است تا هشت هفته کاهش یابد",
     "en": "The cash balance available for withdrawal may be reduced for up to eight weeks",
     "groupCode": 0
   },
@@ -1462,6 +1463,54 @@
     "id": 3240,
     "fa": "شما فقط داری 16 مسابقه باقی مانده",
     "en": "You only have 16 matches left",
+    "groupCode": 0
+  },
+  {
+    "id": 3241,
+    "fa": "ادرارم کاملا کف کرده است. بدان معنی است که کلیه هایم آسیب دیده است؟",
+    "en": "My urine has been quite foamy. Does it mean that my kidneys are damaged?",
+    "groupCode": 0
+  },
+  {
+    "id": 3242,
+    "fa": "سرزنشم نکن",
+    "en": "Don't scold me",
+    "groupCode": 0
+  },
+  {
+    "id": 3243,
+    "fa": "بهم گیر نده",
+    "en": "Don't pick on me",
+    "groupCode": 0
+  },
+  {
+    "id": 3244,
+    "fa": "من تصادفاً آرنجم را روی میز کوبیدم",
+    "en": "I accidentally bumped my elbow on the table",
+    "groupCode": 0
+  },
+  {
+    "id": 3245,
+    "fa": "او (مرد) حلقه هایش را روی انگشت اشاره، انگشت وسط، انگشت حلقه و انگشت کوچیکه می انداخت",
+    "en": "He used to wear their rings on his index finger, middle finger, ring finger, and pinky finger",
+    "groupCode": 0
+  },
+  {
+    "id": 3246,
+    "fa": "او (مرد) مچ دستم داره مرا از تایپ کردن می کشد و کف دستم تمام عرق کرده است",
+    "en": "My wrist is killing me from typing, and my palm is all sweaty",
+    "groupCode": 0
+  },
+  {
+    "id": 3247,
+    "fa": "روی کاناپه نشست و رشته هایش را با صدای بلند هورت کشید",
+    "en": "He sat on the couch and slurped his noodles loudly",
+    "groupCode": 0
+  },
+  {
+    "id": 3248,
+    "fa": "در هنگام تماشای تلویزیون, او (مرد) پاپ کورن ملچ ملوچ می کرد",
+    "en": "While watching TV, he munched on popcorn",
     "groupCode": 0
   }
 ]
