@@ -4,5 +4,305 @@
     "en": "I love tea with chocolate. Me either! (I also)",
     "de": "Ich mag Tee mit Schokolade. Ich auch!",
     "groupCode": 1
+  },
+  {
+    "id": 10002,
+    "en": "We are looking for the hotel Maritim",
+    "de": "Wir suchen das hotel Maritim",
+    "groupCode": 1
+  },
+  {
+    "id": 10003,
+    "en": "what is right?",
+    "de": "Was ist richtig?",
+    "groupCode": 1
+  },
+  {
+    "id": 10004,
+    "en": "Both are looking for something",
+    "de": "Die beiden suchen etwas",
+    "groupCode": 1
+  },
+  {
+    "id": 10005,
+    "en": "The woman says, the city map is correct",
+    "de": "Die Frau sagt, der Stadtplan stimmt",
+    "groupCode": 1
+  },
+  {
+    "id": 10006,
+    "en": "The man turns on the navigator",
+    "de": "Der Herr macht den Navigator an",
+    "groupCode": 1
+  },
+  {
+    "id": 10007,
+    "en": "Who says that?",
+    "de": "Wer sagt das?",
+    "groupCode": 1
+  },
+  {
+    "id": 10008,
+    "en": "The woman, the navigator or none",
+    "de": "Die Frau, die Navigator oder keiner",
+    "groupCode": 1
+  },
+  {
+    "id": 10009,
+    "en": "After 600 meters please turn right",
+    "de": "Nach 600 Metern bitte rechts abbiegen",
+    "groupCode": 1
+  },
+  {
+    "id": 10010,
+    "en": "Drive straight ahead further",
+    "de": "Fahr geradeaus weiter",
+    "groupCode": 1
+  },
+  {
+    "id": 10011,
+    "en": "Please turn left",
+    "de": "Bitte links abbiegen",
+    "groupCode": 1
+  },
+  {
+    "id": 10012,
+    "en": "Please turn around",
+    "de": "Bitte wenden Sie",
+    "groupCode": 1
+  },
+  {
+    "id": 10013,
+    "en": "Drive back",
+    "de": "Fahr zurück",
+    "groupCode": 1
+  },
+  {
+    "id": 10014,
+    "en": "What do you see here?",
+    "de": "Was sehen Sie hier?",
+    "groupCode": 1
+  },
+  {
+    "id": 10015,
+    "en": "The bar is at the cube",
+    "de": "Der Stab ist an dem Würfel",
+    "groupCode": 1
+  },
+  {
+    "id": 10016,
+    "en": "The bar is above the pyramid",
+    "de": "Der Stab ist über der Pyramide",
+    "groupCode": 1
+  },
+  {
+    "id": 10017,
+    "en": "The bar is under the pyramid",
+    "de": "Der Stab ist unter der Pyramide",
+    "groupCode": 1
+  },
+  {
+    "id": 10018,
+    "en": "The bar is next to the cube",
+    "de": "Der Stab ist neben dem Würfel",
+    "groupCode": 1
+  },
+  {
+    "id": 10019,
+    "en": "The bar is in front of the cube",
+    "de": "Der Stab ist vor dem Würfel",
+    "groupCode": 1
+  },
+  {
+    "id": 10020,
+    "en": "The bar is between the cubes",
+    "de": "Der Stock ist zwischen den Würfeln",
+    "groupCode": 1
+  },
+  {
+    "id": 10021,
+    "en": "The stick is on the cube",
+    "de": "Der Stab ist auf dem Würfel",
+    "groupCode": 1
+  },
+  {
+    "id": 10022,
+    "en": "The stick is behind the cube",
+    "de": "Der Stab ist hinter dem Würfel",
+    "groupCode": 1
+  },
+  {
+    "id": 10023,
+    "en": "The rod is in the cube",
+    "de": "Der Stab ist in dem Würfel",
+    "groupCode": 1
+  },
+  {
+    "id": 10024,
+    "en": "The restaurant is to the left of the café",
+    "de": "Das Restaurant ist links neben dem Cafe",
+    "groupCode": 1
+  },
+  {
+    "id": 10025,
+    "en": "The river is between the cafés",
+    "de": "Der Fluss ist zwischen den Cafes",
+    "groupCode": 1
+  },
+  {
+    "id": 10026,
+    "en": "The cathedral (the church) is next to the park, between the park and the street",
+    "de": "Der Dom (Die Kirche) ist neben dem Park, zwischen dem Park und der Straße",
+    "groupCode": 1
+  },
+  {
+    "id": 10027,
+    "en": "The traffic light is on/at the street / at the intersection of the streets",
+    "de": "Die Ampel ist an der Straße / an der Kreuzung der Straßen",
+    "groupCode": 1
+  },
+  {
+    "id": 10028,
+    "en": "The police station is in front of the park, next to the street",
+    "de": "Die Polizei ist vor dem Park neben der Straße",
+    "groupCode": 1
+  },
+  {
+    "id": 10029,
+    "en": "The bridge is on/at the street, to the left of the traffic light",
+    "de": "Die Brücke ist an der Straße neben der Ampel, links neben der Ampel",
+    "groupCode": 1
+  },
+  {
+    "id": 10030,
+    "en": "That is in the city center",
+    "de": "Das ist in der Stadtmitte",
+    "groupCode": 1
+  },
+  {
+    "id": 10031,
+    "en": "Is the Maritim Hotel in the center?",
+    "de": "Das Maritim Hotel ist im Zentrum?",
+    "groupCode": 1
+  },
+  {
+    "id": 10032,
+    "en": "Yes, between the train station and the cathedral",
+    "de": "Ja, zwischen dem Bahnhof und dem Dom",
+    "groupCode": 1
+  },
+  {
+    "id": 10033,
+    "en": "Then you will pass under a bridge",
+    "de": "Dann kommen Sie unter einer Brücke durch",
+    "groupCode": 1
+  },
+  {
+    "id": 10034,
+    "en": "At the traffic light, turn left",
+    "de": "An der Ampel fahren Sie nach links",
+    "groupCode": 1
+  },
+  {
+    "id": 10035,
+    "en": "In front of the restaurant, turn right.",
+    "de": "Vor dem Restaurant fahren Sie nach rechts",
+    "groupCode": 1
+  },
+  {
+    "id": 10036,
+    "en": "Drive past the cafés",
+    "de": "An den Cafés fahren Sie vorbei",
+    "groupCode": 1
+  },
+  {
+    "id": 10037,
+    "en": "I'm also a stranger here",
+    "de": "Ich bin auch fremd hier",
+    "groupCode": 1
+  },
+  {
+    "id": 10038,
+    "en": "Can you help me?",
+    "de": "Können Sie mir helfen?",
+    "groupCode": 1
+  },
+  {
+    "id": 10039,
+    "en": "Drive one kilometer straight ahead, and then you'll see it",
+    "de": "Fahren Sie einen Kilometer geradeaus, und dann sehen Sie es",
+    "groupCode": 1
+  },
+  {
+    "id": 10040,
+    "en": "Where is the train station here?",
+    "de": "Wo ist denn hier der Bahnhof?",
+    "groupCode": 1
+  },
+  {
+    "id": 10041,
+    "en": "Do you know the way?",
+    "de": "Kennen Sie den Weg?",
+    "groupCode": 1
+  },
+  {
+    "id": 10042,
+    "en": "Turn around here",
+    "de": "Wenden Sie hier",
+    "groupCode": 1
+  },
+  {
+    "id": 10043,
+    "en": "That is nearby",
+    "de": "Das ist in der Nähe",
+    "groupCode": 1
+  },
+  {
+    "id": 10044,
+    "en": "I am looking for the train station",
+    "de": "Ich suche den Bahnhof.",
+    "groupCode": 1
+  },
+  {
+    "id": 10045,
+    "en": "Thanks anyway",
+    "de": "Danke schön",
+    "groupCode": 1
+  },
+  {
+    "id": 10046,
+    "en": "I'm sorry. I'm not from here",
+    "de": "Tut mir leid. Ich bin nicht von hier",
+    "groupCode": 1
+  },
+  {
+    "id": 10047,
+    "en": "You turn right",
+    "de": "Sie biegen rechts ab",
+    "groupCode": 1
+  },
+  {
+    "id": 10048,
+    "en": "You drive straight ahead",
+    "de": "Sie fahren geradeaus",
+    "groupCode": 1
+  },
+  {
+    "id": 10049,
+    "en": "Should I turn right or left?",
+    "de": "Muss ich nach rechts oder links fahren?",
+    "groupCode": 1
+  },
+  {
+    "id": 10050,
+    "en": "Turn right at the next street",
+    "de": "Fahren Sie die nächste Straße rechts",
+    "groupCode": 1
+  },
+  {
+    "id": 10051,
+    "en": "Very kind. Thank you very much",
+    "de": "Sehr nett. Vielen Dank",
+    "groupCode": 1
   }
 ]
