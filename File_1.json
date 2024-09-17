@@ -1524,5 +1524,11 @@
     "fa": "اگر شما به تعطیلات نیاز دارید، باید برای مدتی دور شوید",
     "en": "If you need a vacation, you need to get away for a while",
     "groupCode": 0
+  },
+  {
+    "id": 3251,
+    "fa": "تو میتونستی (توانسته بودی) کت رو بدی به من و من می گذاشتمش (گذاشته بودمش) روی چوب لباسی برات",
+    "en": "You could have given me your coat, and I would have put it on the hanger for you",
+    "groupCode": 0
   }
 ]
