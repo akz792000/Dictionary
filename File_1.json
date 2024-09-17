@@ -697,7 +697,7 @@
   },
   {
     "id": 3115,
-    "fa": "دور نشو وقتی دارم باهات حرف میزنم",
+    "fa": "دور (پیاده) نشو وقتی دارم باهات حرف میزنم",
     "en": "Don't walk away when I'm talking to you",
     "groupCode": 0
   },
@@ -1467,7 +1467,7 @@
   },
   {
     "id": 3241,
-    "fa": "ادرارم کاملا کف کرده است. بدان معنی است که کلیه هایم آسیب دیده است؟",
+    "fa": "ادرارم کاملا کف کرده است. آیا بدان معنی است که کلیه هایم آسیب دیده؟",
     "en": "My urine has been quite foamy. Does it mean that my kidneys are damaged?",
     "groupCode": 0
   },
@@ -1491,19 +1491,19 @@
   },
   {
     "id": 3245,
-    "fa": "او (مرد) حلقه هایش را روی انگشت اشاره، انگشت وسط، انگشت حلقه و انگشت کوچیکه می انداخت",
+    "fa": "او عادت داشت (مرد) حلقه هایش را روی انگشت اشاره، انگشت وسط، انگشت حلقه و انگشت کوچیکه بپوشد",
     "en": "He used to wear their rings on his index finger, middle finger, ring finger, and pinky finger",
     "groupCode": 0
   },
   {
     "id": 3246,
-    "fa": "او (مرد) مچ دستم داره مرا از تایپ کردن می کشد و کف دستم تمام عرق کرده است",
+    "fa": "مچ دستم داره مرا می کشد از تایپ کردن و کف دستم تمام عرق کرده",
     "en": "My wrist is killing me from typing, and my palm is all sweaty",
     "groupCode": 0
   },
   {
     "id": 3247,
-    "fa": "روی کاناپه نشست و رشته هایش را با صدای بلند هورت کشید",
+    "fa": "او (مرد) روی کاناپه نشست و رشته هایش را با صدای بلند هورت کشید",
     "en": "He sat on the couch and slurped his noodles loudly",
     "groupCode": 0
   },
@@ -1511,6 +1511,18 @@
     "id": 3248,
     "fa": "در هنگام تماشای تلویزیون, او (مرد) پاپ کورن ملچ ملوچ (خرچ و خرچ کردن) می کرد",
     "en": "While watching TV, he munched /mʌnt͡ʃ/ on popcorn",
+    "groupCode": 0
+  },
+  {
+    "id": 3249,
+    "fa": "من از دکتر برگشتم و جراحی انجام دادم",
+    "en": "I'm back from the doctor and got the operation done",
+    "groupCode": 0
+  },
+  {
+    "id": 3250,
+    "fa": "اگر شما به تعطیلات نیاز دارید، باید برای مدتی دور شوید",
+    "en": "If you need a vacation, you need to get away for a while",
     "groupCode": 0
   }
 ]
