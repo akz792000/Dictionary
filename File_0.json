@@ -4634,7 +4634,7 @@
   },
   {
     "id": 765,
-    "fa": "میتونی گوشی بدی به مامان؟",
+    "fa": "میتونی گوشی (تلفن) بدی به مامان؟",
     "en": "Can you put mom on?",
     "groupCode": 0
   },
@@ -14665,7 +14665,7 @@
   },
   {
     "id": 2418,
-    "fa": "هر دوی ما نوشیده بودیم",
+    "fa": "ما هر دو نوشیده بودیم",
     "en": "We had both been drinking",
     "desc": "Both typically comes before the auxiliary verb have in English sentences",
     "groupCode": 0

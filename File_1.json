@@ -534,7 +534,7 @@
   },
   {
     "id": 3088,
-    "fa": "اضافه کن یک روسری به لباس خودت برای یک ظاهر شیک",
+    "fa": "اضافه کن یک روسری به لباس (ست کامل) خودت برای یک ظاهر شیک",
     "en": "Add a scarf to your outfit for a stylish touch",
     "groupCode": 0
   },
@@ -810,7 +810,7 @@
   },
   {
     "id": 3133,
-    "fa": "او (مرد) همیشه ایده های عالی را مطرح می کند",
+    "fa": "او (مرد) همیشه ایده های عالی را (می یاید) مطرح می کند",
     "en": "He always comes up with great ideas",
     "groupCode": 0
   },
@@ -1229,7 +1229,7 @@
   {
     "id": 3202,
     "fa": "ما مایلیم به شما یادآوری کنیم که تعطیلات سالانه خود را تا 31 دسامبر نقشه بریزید",
-    "en": "We would like to remind you to plan your annual vacation by December 31",
+    "en": "We would like to remind you to plan your annual /ˈænjuːəl/ (اَنیواِل) vacation by December 31",
     "groupCode": 0
   },
   {
@@ -1492,7 +1492,7 @@
   {
     "id": 3245,
     "fa": "او عادت داشت (مرد) حلقه هایش را روی انگشت اشاره، انگشت وسط، انگشت حلقه و انگشت کوچیکه بپوشد",
-    "en": "He used to wear their rings on his index finger, middle finger, ring finger, and pinky finger",
+    "en": "He used to wear his rings on his index finger, middle finger, ring finger, and pinky finger",
     "groupCode": 0
   },
   {
@@ -1521,7 +1521,7 @@
   },
   {
     "id": 3250,
-    "fa": "اگر شما به تعطیلات نیاز دارید، باید برای مدتی دور شوید",
+    "fa": "اگر شما به تعطیلات نیاز دارید، شما نیاز داری برای مدتی استراحت کنی (دور شوی)",
     "en": "If you need a vacation, you need to get away for a while",
     "groupCode": 0
   },
@@ -1529,6 +1529,122 @@
     "id": 3251,
     "fa": "تو میتونستی (توانسته بودی) کت رو بدی به من و من می گذاشتمش (گذاشته بودمش) روی چوب لباسی برات",
     "en": "You could have given me your coat, and I would have put it on the hanger for you",
+    "groupCode": 0
+  },
+  {
+    "id": 3252,
+    "fa": "آیا آب لیمو برای کلیه ها مفید است؟",
+    "en": "Is lemon water good for kidneys?",
+    "groupCode": 0
+  },
+  {
+    "id": 3253,
+    "fa": "بنابراین، حیاتی است نگه داشتن بهینه سلامت کلیه برای رفاه کلی",
+    "en": "Therefore, it's crucial to maintain optimal kidney health for overall well-being",
+    "groupCode": 0
+  },
+  {
+    "id": 3254,
+    "fa": "اگر می خواهید به من اعتماد کنید، شما می بایستی من را بشناسی",
+    "en": "If you're gonna trust me, you need to know me",
+    "desc": "\"You need to know me\": They should already understand you.\n\"You need to get to know me\": They need to take time to learn about you.",
+    "groupCode": 0
+  },
+  {
+    "id": 3255,
+    "fa": "ما تازه ملاقات کردیم، اما شما نیاز داری اول من را بشناسی",
+    "en": "We just met, but you need to get to know me first",
+    "desc": "\"You need to know me\": They should already understand you.\n\"You need to get to know me\": They need to take time to learn about you.",
+    "groupCode": 0
+  },
+  {
+    "id": 3256,
+    "fa": "من ازش مراقبت خواهم کرد و به شما بر می گردانم",
+    "en": "I'll take care of it and get back to you",
+    "groupCode": 0
+  },
+  {
+    "id": 3257,
+    "fa": "چه زمانی ما تقریباً می دانیم در مورد بودجه؟",
+    "en": "When we roughly know about the budget?",
+    "groupCode": 0
+  },
+  {
+    "id": 3258,
+    "fa": "یک روز جوانی، روز دیگر نشسته ای اینگونه لبه تختت با کتف بد، زانوی بد و درد سیاتیک",
+    "en": "One day you're young, the next day you're sitting like this at the edge of your bed with a bad shoulder, bad knee, and sciatica /saɪˈætɪkə/ pain",
+    "groupCode": 0
+  },
+  {
+    "id": 3259,
+    "fa": "آنها برای سالگرد خود به یک استراحت عاشقانه رفتند",
+    "en": "They went on a romantic getaway for their anniversary",
+    "groupCode": 0
+  },
+  {
+    "id": 3260,
+    "fa": "من نیاز دارم برای مدتی استراحت کنم (دور باشم)",
+    "en": "I need to get away for a while",
+    "groupCode": 0
+  },
+  {
+    "id": 3261,
+    "fa": "او (مرد) قادر بود بیان کند ایده هایش را به وضوح در طول ارائه (عرضه)",
+    "en": "He was able to articulate his ideas clearly during the presentation",
+    "groupCode": 0
+  },
+  {
+    "id": 3262,
+    "fa": "من لباسم (ست کامل) چک کردم",
+    "en": "I check out my outfit",
+    "groupCode": 0
+  },
+  {
+    "id": 3263,
+    "fa": "من یک کیف انتخاب کردم",
+    "en": "I pick out a bag",
+    "groupCode": 0
+  },
+  {
+    "id": 3264,
+    "fa": "فقط پای خود را داخل کفش خود کنید (بکشید)",
+    "en": "Just slide your foot into your shoe",
+    "groupCode": 0
+  },
+  {
+    "id": 3265,
+    "fa": "لطفا جوراب خود را بپوشید",
+    "en": "Please slip on your socks",
+    "groupCode": 0
+  },
+  {
+    "id": 3266,
+    "fa": "من با احتیاط پیراهنم را میپوشم (داخل شلوار می گذارم) و مطمئن میشوم داخل شلوارم به خوبی تنظیم شده و صاف است، بنابراین تمیز و حرفه ای به نظر میرسد",
+    "en": "I carefully tuck in my shirt, making sure it's neatly adjusted and smooth inside my pants, so it looks clean and professional",
+    "groupCode": 0
+  },
+  {
+    "id": 3267,
+    "fa": "من حوصله ام سر رفت، بنابراین شروع کردم پرتاب تصادفی کش مو در کامیون همکارانم",
+    "en": "I got bored, so I started throwing random hair ties into my coworkers' trucks",
+    "groupCode": 0
+  },
+  {
+    "id": 3268,
+    "fa": "سود تقسیمی سهم سودی است که بین سهامداران تقسیم می شود",
+    "en": "The dividend is the share of profits distributed to shareholders",
+    "groupCode": 0
+  },
+  {
+    "id": 3269,
+    "fa": "در طول سال, ما سمینارهای بیشتری پیشنهاد خواهیم داد",
+    "en": "In the course of the year, we will offer further seminars",
+    "groupCode": 0
+  },
+  {
+    "id": 3270,
+    "fa": "شما بیشتر از همیشه خوش آمدید برای آمدن به آفیس در هر زمانی و استفاده کنی از هر ورودی",
+    "en": "You are all more than welcome to come to the office at any time and use any of the entrances",
     "groupCode": 0
   }
 ]
