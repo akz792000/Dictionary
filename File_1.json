@@ -564,8 +564,8 @@
   },
   {
     "id": 3093,
-    "fa": "بخشی از من که تو هستی هرگز نمی میری",
-    "en": "The part of me that is you never die",
+    "fa": "بخشی از من که تو هستی هرگز نخواهد مرد",
+    "en": "The part of me that is you will never die",
     "groupCode": 0
   },
   {
@@ -1533,7 +1533,7 @@
   },
   {
     "id": 3252,
-    "fa": "آیا آب لیمو برای کلیه ها مفید است؟",
+    "fa": "آیا آب لیمو برای کلیه ها خوب است؟",
     "en": "Is lemon water good for kidneys?",
     "groupCode": 0
   },
@@ -1571,7 +1571,7 @@
   },
   {
     "id": 3258,
-    "fa": "یک روز جوانی، روز دیگر نشسته ای اینگونه لبه تختت با کتف بد، زانوی بد و درد سیاتیک",
+    "fa": "یک روز جوانی، روز بعد شما داری می نشینی اینگونه لبه تختت با کتف بد، زانوی بد و درد سیاتیک",
     "en": "One day you're young, the next day you're sitting like this at the edge of your bed with a bad shoulder, bad knee, and sciatica /saɪˈætɪkə/ pain",
     "groupCode": 0
   },
@@ -1645,6 +1645,126 @@
     "id": 3270,
     "fa": "شما بیشتر از همیشه خوش آمدید برای آمدن به آفیس در هر زمانی و استفاده کنی از هر ورودی",
     "en": "You are all more than welcome to come to the office at any time and use any of the entrances",
+    "groupCode": 0
+  },
+  {
+    "id": 3271,
+    "fa": "آیا می تونی یک جلسه زوم را به زبان انگلیسی با اطمینان رهبری کنی؟",
+    "en": "Can you confidently lead a Zoom meeting in English?",
+    "groupCode": 0
+  },
+  {
+    "id": 3272,
+    "fa": "آیا می تونی یک درگیری بین همکاران را میانجیگری کنی؟",
+    "en": "Can you mediate a conflict between co-workers?",
+    "groupCode": 0
+  },
+  {
+    "id": 3273,
+    "fa": "در صورتیکه تو از دستش دادی",
+    "en": "In case you missed it",
+    "groupCode": 0
+  },
+  {
+    "id": 3274,
+    "fa": "اگر می خواهید انگلیسی تجاری مناسبی را یاد بگیرید، اجتناب کنید از بدام افتادن در چرخه یادگیری جالب اما حرفه ای بی ربط لغات",
+    "en": "If you want to learn proper business English, avoid getting trapped in a cycle of learning interesting but professionally irrelevant vocabulary",
+    "groupCode": 0
+  },
+  {
+    "id": 3275,
+    "fa": "او (مرد) تماس می گیرد به محض اینکه او سوار ماشین می شود",
+    "en": "He calls back as soon as he gets in the car",
+    "groupCode": 0
+  },
+  {
+    "id": 3276,
+    "fa": "من فوری نیاز دارم اطلاعات در مورد تاریخ تحویل برای پروژه ساخت فرودگاه فرانکفورت",
+    "en": "I urgently need information regarding the delivery date for the Frankfurt Airport construction project",
+    "groupCode": 0
+  },
+  {
+    "id": 3277,
+    "fa": "لطفا من رو ببخشید, من یک تماس روی خط دیگه زودتر داشتم",
+    "en": "Please excuse me, I had a call on the other line earlier",
+    "groupCode": 0
+  },
+  {
+    "id": 3278,
+    "fa": "من یک نگاهی به سیستم خواهم داشت",
+    "en": "I'll have a look in the system",
+    "groupCode": 0
+  },
+  {
+    "id": 3279,
+    "fa": " تحویل (کالای) شما خواهد رسید در سایت ساخت در ۲۴ ساعت آینده",
+    "en": "Your delivery will arrive at the construction site within the next 24 hours",
+    "groupCode": 0
+  },
+  {
+    "id": 3280,
+    "fa": "به لطف ادغام یکپارچه، کارمند قادر است بلافاصله اطلاعات دقیقی در مورد وضعیت سفارش ارائه دهد",
+    "en": "Thanks to the seamless integration, the employee is able to immediately provide detailed information on the order status",
+    "groupCode": 0
+  },
+  {
+    "id": 3281,
+    "fa": "این بدان معنی است که دفعه بعد که من قرار می دهم یک سفارش با شما، من می توانم مستقیماً در پورتال جایکه در حال حاضر تحویل در آن قرار دارد و زمانبکه خواهد رسید را ببینم",
+    "en": "This means that the next time I place an order with you, I can see directly in the portal where the delivery is currently located and when it will arrive",
+    "groupCode": 0
+  },
+  {
+    "id": 3282,
+    "fa": "به نظر می رسد شبیه یک رویا",
+    "en": "Sounds like a dream",
+    "groupCode": 0
+  },
+  {
+    "id": 3283,
+    "fa": "من دسترسی شما را از طریق ایمیل ارسال خواهم کرد",
+    "en": "I will send you access by e-mail",
+    "groupCode": 0
+  },
+  {
+    "id": 3284,
+    "fa": "من جدی هستم. آیا به نظر میرسم (شبیه) دارم شوخی می کنم؟",
+    "en": "I'm dead serious. Do I look like I'm kidding?",
+    "groupCode": 0
+  },
+  {
+    "id": 3285,
+    "fa": "مکان اشتباه زمان اشتباه. نه، من دقیقاً جایی هستم که باید باشم",
+    "en": "Wrong place wrong time. No, I am exactly where I should be",
+    "groupCode": 0
+  },
+  {
+    "id": 3286,
+    "fa": "نور داره سوسو می زنه",
+    "en": "The light is flickering",
+    "groupCode": 0
+  },
+  {
+    "id": 3287,
+    "fa": "میز لرزان است",
+    "en": "The table is wobbly and ",
+    "groupCode": 0
+  },
+  {
+    "id": 3288,
+    "fa": "در داره جیرجیر می کنه",
+    "en": "The door is creaking",
+    "groupCode": 0
+  },
+  {
+    "id": 3289,
+    "fa": "رنگ داره کنده میشه (پوست کندن)",
+    "en": "The paint is peeling off",
+    "groupCode": 0
+  },
+  {
+    "id": 3290,
+    "fa": "دوستم و من زیر بار مشکلات هستیم",
+    "en": "My friend and I are under the burden of problems",
     "groupCode": 0
   }
 ]
