@@ -642,7 +642,7 @@
   },
   {
     "id": 3106,
-    "fa": "او (مرد) پس از ایستادن خیلی زیاد احساس ضعف کرد",
+    "fa": "او (مرد) پس از ایستادن برای مدت طولانی احساس ضعف کرد",
     "en": "He felt faint after standing for too long",
     "groupCode": 0
   },
@@ -1545,7 +1545,7 @@
   },
   {
     "id": 3254,
-    "fa": "اگر قصد داری به من اعتماد کنی، شما می بایستی من را بشناسی",
+    "fa": "اگر قصد داری به من اعتماد کنی، شما نیاز داری من را بشناسی",
     "en": "If you're gonna trust me, you need to know me",
     "desc": "\"You need to know me\": They should already understand you.\n\"You need to get to know me\": They need to take time to learn about you.",
     "groupCode": 0
@@ -1619,14 +1619,14 @@
   },
   {
     "id": 3266,
-    "fa": "من پیراهنم را با احتیاط داخل شلوارم فرو می کنم تا تمیز و حرفه ای به نظر برسد",
+    "fa": "من پیراهنم را با احتیاط داخل شلوارم فرو می کنم, بنابراین تمیز و حرفه ای به نظر می رسد",
     "en": "I carefully tuck in my shirt inside my pants, so it looks clean and professional",
     "groupCode": 0
   },
   {
     "id": 3267,
     "fa": "من حوصله ام سر رفت، بنابراین شروع کردم پرتاب تصادفی کش های مو در کامیون همکارانم",
-    "en": "I got bored, so I started throwing random hair ties into my coworkers' trucks",
+    "en": "I got bored, so I started throwing random hair ties into my coworkers' truck",
     "groupCode": 0
   },
   {
@@ -1673,7 +1673,7 @@
   },
   {
     "id": 3275,
-    "fa": "او (مرد) تماس (برمی گرداند تماس) می گیرد به محض اینکه او سوار ماشین می شود",
+    "fa": "او (مرد) تماس (برمی گرداند تماس) می گیرد به محض اینکه (اسرع وقت) او سوار ماشین می شود",
     "en": "He calls back as soon as he gets in the car",
     "groupCode": 0
   },
@@ -1691,7 +1691,7 @@
   },
   {
     "id": 3278,
-    "fa": "من یک نگاهی به سیستم خواهم داشت",
+    "fa": "من یک نگاهی داخل سیستم خواهم داشت",
     "en": "I'll have a look in the system",
     "groupCode": 0
   },
@@ -1699,7 +1699,8 @@
     "id": 3279,
     "fa": " تحویل (کالای) شما خواهد رسید در سایت ساخت در ۲۴ ساعت آینده",
     "en": "Your delivery will arrive at the construction site within the next 24 hours",
-    "groupCode": 0
+    "groupCode": 0,
+    "desc": "The verb \"arrive\" doesn’t always imply that something moves on its own. It’s often used to describe when an object reaches a destination, regardless of who or what is physically transporting it.\n\nIn this case, \"Your delivery will arrive\" means that the delivery is expected to reach the site. The sentence focuses on the final result—the delivery being at the construction site—not on who or what actually brings it there.\n\nIf you prefer to emphasize the fact that it’s being brought by someone, you could rephrase it:\n\n\"Your delivery will be delivered to the construction site.\""
   },
   {
     "id": 3280,
@@ -1787,7 +1788,7 @@
   },
   {
     "id": 3294,
-    "fa": "من کمی کار برای رسیدگی کردن دارم",
+    "fa": "من یه مقدار کار دارم برای رسیدگی کردن",
     "en": "I have some work to catch up on",
     "groupCode": 0
   },
