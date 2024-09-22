@@ -1545,7 +1545,7 @@
   },
   {
     "id": 3254,
-    "fa": "اگر می خواهید به من اعتماد کنید، شما می بایستی من را بشناسی",
+    "fa": "اگر قصد داری به من اعتماد کنی، شما می بایستی من را بشناسی",
     "en": "If you're gonna trust me, you need to know me",
     "desc": "\"You need to know me\": They should already understand you.\n\"You need to get to know me\": They need to take time to learn about you.",
     "groupCode": 0
@@ -1619,13 +1619,13 @@
   },
   {
     "id": 3266,
-    "fa": "من با احتیاط پیراهنم را میپوشم (داخل شلوار می گذارم) و مطمئن میشوم داخل شلوارم به خوبی تنظیم شده و صاف است، بنابراین تمیز و حرفه ای به نظر میرسد",
-    "en": "I carefully tuck in my shirt, making sure it's neatly adjusted and smooth inside my pants, so it looks clean and professional",
+    "fa": "من پیراهنم را با احتیاط داخل شلوارم فرو می کنم تا تمیز و حرفه ای به نظر برسد",
+    "en": "I carefully tuck in my shirt inside my pants, so it looks clean and professional",
     "groupCode": 0
   },
   {
     "id": 3267,
-    "fa": "من حوصله ام سر رفت، بنابراین شروع کردم پرتاب تصادفی کش مو در کامیون همکارانم",
+    "fa": "من حوصله ام سر رفت، بنابراین شروع کردم پرتاب تصادفی کش های مو در کامیون همکارانم",
     "en": "I got bored, so I started throwing random hair ties into my coworkers' trucks",
     "groupCode": 0
   },
@@ -1673,7 +1673,7 @@
   },
   {
     "id": 3275,
-    "fa": "او (مرد) تماس می گیرد به محض اینکه او سوار ماشین می شود",
+    "fa": "او (مرد) تماس (برمی گرداند تماس) می گیرد به محض اینکه او سوار ماشین می شود",
     "en": "He calls back as soon as he gets in the car",
     "groupCode": 0
   },
@@ -1703,13 +1703,13 @@
   },
   {
     "id": 3280,
-    "fa": "به لطف ادغام یکپارچه، کارمند قادر است بلافاصله اطلاعات دقیقی در مورد وضعیت سفارش ارائه دهد",
+    "fa": "به لطف (تشکر) ادغام یکپارچه، کارمند قادر است بلافاصله اطلاعات دقیقی در مورد وضعیت سفارش فراهم کند",
     "en": "Thanks to the seamless integration, the employee is able to immediately provide detailed information on the order status",
     "groupCode": 0
   },
   {
     "id": 3281,
-    "fa": "این بدان معنی است که دفعه بعد که من قرار می دهم یک سفارش با شما، من می توانم مستقیماً در پورتال جایکه در حال حاضر تحویل در آن قرار دارد و زمانبکه خواهد رسید را ببینم",
+    "fa": "این بدان معنی است که دفعه بعد که من قرار می دهم یک سفارش با شما، من می توانم مستقیماً ببینم در پورتال جاییکه در حال حاضر تحویل در آن واقع شده و زمانیکه خواهد رسید",
     "en": "This means that the next time I place an order with you, I can see directly in the portal where the delivery is currently located and when it will arrive",
     "groupCode": 0
   },
@@ -1721,7 +1721,7 @@
   },
   {
     "id": 3283,
-    "fa": "من دسترسی شما را از طریق ایمیل ارسال خواهم کرد",
+    "fa": "من دسترسی را از طریق ایمیل برات ارسال خواهم کرد",
     "en": "I will send you access by e-mail",
     "groupCode": 0
   },
@@ -1746,7 +1746,7 @@
   {
     "id": 3287,
     "fa": "میز لرزان است",
-    "en": "The table is wobbly and ",
+    "en": "The table is wobbly",
     "groupCode": 0
   },
   {
@@ -1765,6 +1765,79 @@
     "id": 3290,
     "fa": "دوستم و من زیر بار مشکلات هستیم",
     "en": "My friend and I are under the burden of problems",
+    "groupCode": 0
+  },
+  {
+    "id": 3291,
+    "fa": "علی, پیشرفت تو غیر قابل توقف",
+    "en": "Ali, your progress is unstoppable",
+    "groupCode": 0
+  },
+  {
+    "id": 3292,
+    "fa": "غیرقابل انکار است که یک لیموناد سرد در ماه جولای قابل پیشی گرفتن نیست",
+    "en": "It is undeniable that a cold lemonade in July cannot be surpassed /sərˈpæs/",
+    "groupCode": 0
+  },
+  {
+    "id": 3293,
+    "fa": "در زمان استراحتم، به بعضی مطالعات (خواندنی) رسیدگی کردم",
+    "en": "During my down time, I caught up on some reading",
+    "groupCode": 0
+  },
+  {
+    "id": 3294,
+    "fa": "من کمی کار برای رسیدگی کردن دارم",
+    "en": "I have some work to catch up on",
+    "groupCode": 0
+  },
+  {
+    "id": 3295,
+    "fa": "محموله شما در 20 سپتامبر 2024 در مرکز تدارکات ما پردازش شد و به منطقه مقصد رسیده است",
+    "en": "Your shipment was processed in our logistics center on September 20, 2024 and has reached the destination region",
+    "groupCode": 0
+  },
+  {
+    "id": 3296,
+    "fa": "تو لایق آن افزایش (حقوق) هستی. الان جا نزن (تسلیم نشو)",
+    "en": "You deserve that raise. Don't back down now",
+    "groupCode": 0
+  },
+  {
+    "id": 3297,
+    "fa": "من یک فرصت داشتم و ازش بهترین استفاده را کردم",
+    "en": "I had one chance, and I made it count",
+    "desc": "The phrase \"made it count\" emphasizes that the person took advantage of that time in a meaningful or useful way",
+    "groupCode": 0
+  },
+  {
+    "id": 3298,
+    "fa": "مربع پنج برابر است با بیست و پنج",
+    "en": "Five squared equals twenty-five",
+    "groupCode": 0
+  },
+  {
+    "id": 3299,
+    "fa": "مکعب دو برابر با هشت است",
+    "en": "Two cubed equals eight",
+    "groupCode": 0
+  },
+  {
+    "id": 3300,
+    "fa": "سه به توان چهار برابر با هشتاد و یک است",
+    "en": "Three to the power of four equals eighty-one",
+    "groupCode": 0
+  },
+  {
+    "id": 3301,
+    "fa": "سه چهارم پیتزا تمام شده بود وقتی به خانه رسیدم",
+    "en": "Three quarters of the pizza was gone by the time I got home",
+    "groupCode": 0
+  },
+  {
+    "id": 3302,
+    "fa": "من یک و دو سوم پیتزا خوردم",
+    "en": "I ate one and two-thirds of a pizza",
     "groupCode": 0
   }
 ]
