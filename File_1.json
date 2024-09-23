@@ -1776,7 +1776,7 @@
   },
   {
     "id": 3292,
-    "fa": "غیرقابل انکار است که یک لیموناد سرد در ماه جولای قابل پیشی گرفتن نیست",
+    "fa": "غیرقابل انکار است که از یک لیموناد سرد در ماه جولای نمی توان پیشی گرفت",
     "en": "It is undeniable that a cold lemonade in July cannot be surpassed /sərˈpæs/",
     "groupCode": 0
   },
@@ -1796,6 +1796,7 @@
     "id": 3295,
     "fa": "محموله شما در 20 سپتامبر 2024 در مرکز تدارکات ما پردازش شد و به منطقه مقصد رسیده است",
     "en": "Your shipment was processed in our logistics center on September 20, 2024 and has reached the destination region",
+    "desc": "\"Logistics\" is the correct term when referring to the overall process of managing the movement of goods, and it is typically used in the plural form in this context",
     "groupCode": 0
   },
   {
@@ -1839,6 +1840,7 @@
     "id": 3302,
     "fa": "من یک و دو سوم پیتزا خوردم",
     "en": "I ate one and two-thirds of a pizza",
+    "desc": "\"Two-thirds\" is plural because you are referring to two parts out of three.",
     "groupCode": 0
   }
 ]
