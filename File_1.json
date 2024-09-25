@@ -45,7 +45,7 @@
   {
     "id": 3008,
     "fa": "در سال ۱۹۴۷, والدینم ازدواج نکرده بودند. آنها مجرد بودند. والدینم در سال ۱۹۴۸ ازدواج کردند",
-    "en": "In 1947, my parents are not married. They were single. My parents got married in 1948",
+    "en": "In 1947, my parents weren't married. They were single. My parents got married in 1948",
     "groupCode": 0
   },
   {
@@ -1841,6 +1841,24 @@
     "fa": "من یک و دو سوم پیتزا خوردم",
     "en": "I ate one and two-thirds of a pizza",
     "desc": "\"Two-thirds\" is plural because you are referring to two parts out of three.",
+    "groupCode": 0
+  },
+  {
+    "id": 3303,
+    "fa": "شما باید صبر خود را افزایش دهید",
+    "en": "You have to increase your patience",
+    "groupCode": 0
+  },
+  {
+    "id": 3304,
+    "fa": "چقدر مکررا باید شلوار جین را بشویید؟",
+    "en": "How frequently should you wash jeans?",
+    "groupCode": 0
+  },
+  {
+    "id": 3305,
+    "fa": "بهترین راه ها برای تقویت سیستم ایمنی چیست؟",
+    "en": "What are the best ways to boost your immunity?",
     "groupCode": 0
   }
 ]
