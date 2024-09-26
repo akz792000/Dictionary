@@ -498,7 +498,7 @@
   },
   {
     "id": 3082,
-    "fa": "شانس کمی (باریک) است برای گرفتن یک جای پارک در مرکز شهر",
+    "fa": "یک شانس کمی (باریک) است برای گرفتن یک جای پارک در مرکز شهر",
     "en": "It's a slim chance of getting a parking spot downtown",
     "groupCode": 0
   },
@@ -804,8 +804,8 @@
   },
   {
     "id": 3132,
-    "fa": "بیا در اینجا تجدید نظر (گرفتن بعضی نظرات) داشته باشیم این چیزها به یک دلیلی اتفاق می افتند",
-    "en": "Let's get some perspective here these things happen for a reason",
+    "fa": "بیا در اینجا بعضی نظرات را بگیریم. این چیزها به یک دلیلی اتفاق می افتند",
+    "en": "Let's get some perspective here. These things happen for a reason",
     "groupCode": 0
   },
   {
@@ -1216,8 +1216,8 @@
   },
   {
     "id": 3200,
-    "fa": "شما خیلی مناسب (گزینه عالی) خواهید بود (فرضی) برای مهندسی نرم افزار",
-    "en": "You'd be a great fit for Software Engineer",
+    "fa": "شما خیلی مناسب (گزینه عالی) خواهید بود (فرضی) برای سمت مهندس نرم افزار",
+    "en": "You'd be a great fit for Software Engineer position",
     "groupCode": 0
   },
   {
@@ -1565,8 +1565,8 @@
   },
   {
     "id": 3257,
-    "fa": "چه زمانی ما تقریباً می دانیم در مورد بودجه؟",
-    "en": "When we roughly know about the budget?",
+    "fa": "چه زمانی ما تقریباً خواهیم دانست در مورد بودجه؟",
+    "en": "When will we roughly know about the budget?",
     "groupCode": 0
   },
   {
@@ -1673,13 +1673,13 @@
   },
   {
     "id": 3275,
-    "fa": "او (مرد) تماس (برمی گرداند تماس) می گیرد به محض اینکه (اسرع وقت) او سوار ماشین می شود",
-    "en": "He calls back as soon as he gets in the car",
+    "fa": "او (مرد) تماس (برمی گرداند تماس) خواهد گرفت به محض اینکه (اسرع وقت) او سوار ماشین می شود",
+    "en": "He' ll call back as soon as he gets in the car",
     "groupCode": 0
   },
   {
     "id": 3276,
-    "fa": "من فوری نیاز دارم اطلاعات در مورد تاریخ تحویل برای پروژه ساخت فرودگاه فرانکفورت",
+    "fa": "من بطور ضروری نیاز دارم اطلاعات در مورد تاریخ تحویل برای پروژه ساخت فرودگاه فرانکفورت",
     "en": "I urgently need information regarding the delivery date for the Frankfurt Airport construction project",
     "groupCode": 0
   },
@@ -1838,7 +1838,7 @@
   },
   {
     "id": 3302,
-    "fa": "من یک و دو سوم پیتزا خوردم",
+    "fa": "من یک و دو سوم از یک پیتزا را خوردم",
     "en": "I ate one and two-thirds of a pizza",
     "desc": "\"Two-thirds\" is plural because you are referring to two parts out of three.",
     "groupCode": 0
@@ -1851,13 +1851,13 @@
   },
   {
     "id": 3304,
-    "fa": "چقدر مکررا باید شلوار جین را بشویید؟",
+    "fa": "چقدر مکررا شما باید شلوار جین را بشویید؟",
     "en": "How frequently should you wash jeans?",
     "groupCode": 0
   },
   {
     "id": 3305,
-    "fa": "بهترین راه ها برای تقویت سیستم ایمنی چیست؟",
+    "fa": "بهترین راه ها برای ترقی دادن (سیستم) ایمنی چیست؟",
     "en": "What are the best ways to boost your immunity?",
     "groupCode": 0
   }

@@ -11656,7 +11656,7 @@
   },
   {
     "id": 1921,
-    "fa": "من بلیط باز دارم و مایلم تاریخ خروج را زمانبندی کنم",
+    "fa": "من بلیط باز دارم و مایلم یک تاریخ خروج را زمانبندی کنم",
     "en": "I have open ended ticket and I would like to schedule a departure date",
     "groupCode": 0
   },
@@ -11925,7 +11925,7 @@
   {
     "id": 1965,
     "fa": "چانه ام را با تیغ (خراش) بریدم",
-    "en": "I nick my chin with the razor",
+    "en": "I nick my chin with razor",
     "desc": "nick=a small cut or notch",
     "groupCode": 0
   },
@@ -14616,7 +14616,7 @@
   },
   {
     "id": 2410,
-    "fa": "آمریکا می گوید در حمله پهپادی به پایگاهی در شمال شرقی اردن سه تن از نیروهایش کشته و ده ها تن دیگر زخمی شده اند",
+    "fa": "آمریکا می گوید سه تن از نیروهایش کشته و ده ها تن دیگر زخمی شده اند در یک حمله پهپادی به پایگاهی در شمال شرقی اردن",
     "en": "The US says three of its troops have been killed and dozens more wounded in a drone attack on a base in northeastern Jordan",
     "groupCode": 0
   },
@@ -15116,7 +15116,7 @@
   {
     "id": 2492,
     "fa": "هیچ به روز رسانی از طرف من در مورد هر گونه وظایف اسپرینت وجود ندارد. محض اینکه (فقط در صورتی که) نتوانم (فرضی) به تماس برسم",
-    "en": "No updates from my side regarding to any sprint tasks. Just in case I couldn't make it to the call",
+    "en": "No updates from my side regarding any sprint tasks. Just in case I couldn't make it to the call",
     "groupCode": 0
   },
   {
@@ -15680,7 +15680,7 @@
   },
   {
     "id": 2585,
-    "fa": "من نمی خواهم شما را بیمار کنم، بنابراین دارم از شما دور می مانم",
+    "fa": "من نمی خواهم شما را بیمار کنم (به شما بیماری بدم)، بنابراین من دارم از شما دور می مانم",
     "en": "I don't want to get you sick, so I'm staying away from you",
     "groupCode": 0
   },
@@ -16477,7 +16477,7 @@
   },
   {
     "id": 2716,
-    "fa": "یارانه ضمنی کاهش قیمت کالا است، یارانه صریح مبلغی است که مستقیماً به حساب واریز می شود",
+    "fa": "یارانه ضمنی کاهش در قیمت کالاها است، یارانه صریح مبلغی از پول است که مستقیماً به حساب واریز می شود",
     "en": "The implicit subsidy is the reduction in the price of goods, the explicit subsidy is the amount of money that is directly deposited into the account",
     "groupCode": 0
   },
