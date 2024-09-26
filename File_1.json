@@ -378,14 +378,14 @@
   },
   {
     "id": 3063,
-    "fa": "بچه های زیادی از مدرسه ما در مسابقه شرکت کرده بودند",
-    "en": "A lot of kids from our school had participated in the race",
+    "fa": "بچه های زیادی از مدرسه ما در مسابقه شرکت کردند",
+    "en": "A lot of kids from our school participated in the race",
     "groupCode": 0
   },
   {
     "id": 3064,
     "fa": "من مطمئنم او (زن) بدش نمی آید که به من لطفی کند",
-    "en": "I'm sure she wouldn't mind doing me a favour",
+    "en": "I'm sure she wouldn't mind doing me a favor",
     "desc": "\"To do\": The infinitive form \"to do\" is not used after \"wouldn't mind.\"",
     "groupCode": 0
   },
@@ -1357,8 +1357,8 @@
   },
   {
     "id": 3223,
-    "fa": "رئیس یک جلسه تشکیل داد تا به ما اطلاعات (خلاصه کلام) بدهد در مورد مسیری که پروژه داشت می رفت",
-    "en": "Boss called a meeting to give us a heads-up on the way the project was going",
+    "fa": "رئیس یک جلسه تشکیل داد تا به ما اطلاعات (خلاصه کلام) بدهد در مورد اینکه (روی) چگونه پروژه داشت می رفت",
+    "en": "The boss called a meeting to give us a heads-up on how the project was going",
     "desc": "Heads-up: a short talk or statement about how a situation or plan is developing",
     "groupCode": 0
   },
@@ -1370,20 +1370,20 @@
   },
   {
     "id": 3225,
-    "fa": "بالاخره بهار اینجا است, و زمان آن است بار دیگر تعویض کنید تایرهای زمستانی خود را با لاستیک های تابستانی که طراحی شده اند برای چسبناکی بهتر در موقعیت های گرمتر",
-    "en": "Spring is finally here, and it's time once again to swap your winter tires for summer tires designed for better grip in warmer conditions",
+    "fa": "بالاخره بهار اینجا است, و زمان آن است بار دیگر تعویض کنید تایرهای زمستانی خود را با تابستانی هاش طراحی شدند برای چسبناکی بهتر در موقعیت های گرمتر",
+    "en": "Spring is finally here, and it's time once again to swap your winter tires for summer ones designed for better grip in warmer conditions",
     "groupCode": 0
   },
   {
     "id": 3226,
-    "fa": "وقتی شروع به بهتر کردن خود می کنید، تنهایی بهایی (قیمتی) است که می پردازید",
-    "en": "When you start to improve yourself, loneliness is the price you pay",
+    "fa": "وقتی شروع به بهتر کردن خود می کنید، تنهایی عوارضی (قیمتی) است که می پردازید",
+    "en": "When you start improving yourself, loneliness is the toll you pay",
     "groupCode": 0
   },
   {
     "id": 3227,
-    "fa": "اگر همسرت (زن) اینقدر زیباست, چرا شما اینجا با من هستی؟",
-    "en": "If your wife is so beautiful, why are you here with me?",
+    "fa": "اگر همسرت (زن) آنقدر زیباست, چرا شما اینجا با من هستی؟",
+    "en": "If your wife's that beautiful, why are you here with me?",
     "groupCode": 0
   },
   {
@@ -1394,8 +1394,8 @@
   },
   {
     "id": 3229,
-    "fa": "آیا تا به حال شاهد بوده ای یک زندگی ویران شده از یک اشتباه کوچک؟",
-    "en": "Have you ever witnessed a life ruined from a small mistake?",
+    "fa": "آیا تا به حال شاهد بوده ای یک زندگی ویران شده با یک اشتباه کوچک؟",
+    "en": "Have you ever witnessed a life ruined by a small mistake?",
     "desc": "Let's break it down:\n\nFull version: \"Have you ever witnessed a life that was ruined from a small mistake?\"\nThis is a full passive sentence with \"was.\"\nReduced version: \"Have you ever witnessed a life ruined from a small mistake?\"\nHere, \"that was\" is omitted (which is common in English), and \"ruined\" works as part of a reduced clause.\nSo, even though it's passive, you don’t need \"was\" because it's implied and reduced.",
     "groupCode": 0
   },
@@ -1426,7 +1426,7 @@
   {
     "id": 3234,
     "fa": "بالانس نقدی موجود برای برداشت ممکن است تا هشت هفته کاهش یابد",
-    "en": "The cash balance available for withdrawal may be reduced for up to eight weeks",
+    "en": "The available cash balance for withdrawal may be reduced for up to eight weeks",
     "groupCode": 0
   },
   {
@@ -1613,26 +1613,26 @@
   },
   {
     "id": 3265,
-    "fa": "لطفا جوراب خود را بپوشید",
-    "en": "Please slip on your socks",
+    "fa": "جوراب خود را بپوشید, لطفا",
+    "en": "Put on your socks, please",
     "groupCode": 0
   },
   {
     "id": 3266,
-    "fa": "من پیراهنم را با احتیاط داخل شلوارم فرو می کنم, بنابراین تمیز و حرفه ای به نظر می رسد",
-    "en": "I carefully tuck in my shirt inside my pants, so it looks clean and professional",
+    "fa": "من پیراهنم را با احتیاط (داخل شلوارم) فرو می کنم تا مطمئن شوم تمیز و حرفه ای به نظر می رسد",
+    "en": "I carefully tuck in my shirt to ensure it looks clean and professional",
     "groupCode": 0
   },
   {
     "id": 3267,
     "fa": "من حوصله ام سر رفت، بنابراین شروع کردم پرتاب تصادفی کش های مو در کامیون همکارانم",
-    "en": "I got bored, so I started throwing random hair ties into my coworkers' truck",
+    "en": "I got bored, so I started tossing random hair ties into my coworkers' truck",
     "groupCode": 0
   },
   {
     "id": 3268,
-    "fa": "سود تقسیمی سهم سودی است که بین سهامداران تقسیم می شود",
-    "en": "The dividend is the share of profits distributed to shareholders",
+    "fa": "یک سود تقسیمی بخشی از سودهای اشتراکی با سهامداران است",
+    "en": "A dividend is the cut of profits shared with shareholders",
     "groupCode": 0
   },
   {
