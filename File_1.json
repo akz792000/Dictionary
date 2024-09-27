@@ -455,8 +455,8 @@
   },
   {
     "id": 3075,
-    "fa": "برای من مهم است که به طور منظم ورزش کنم",
-    "en": "It's important for me to exercise regularly",
+    "fa": "برای من مهم است که ادامه بدی ورزش منظم",
+    "en": "It's important for me to keep up with regular exercise",
     "desc": "For me: Benefit",
     "groupCode": 0
   },
@@ -1357,15 +1357,15 @@
   },
   {
     "id": 3223,
-    "fa": "رئیس یک جلسه تشکیل داد تا به ما اطلاعات (خلاصه کلام) بدهد در مورد اینکه (روی) چگونه پروژه داشت می رفت",
-    "en": "The boss called a meeting to give us a heads-up on how the project was going",
+    "fa": "رئیس یک جلسه تشکیل داد تا به ما یک اطلاعات سریع (خلاصه کلام) بدهد در مورد اینکه (روی) چگونه پروژه داره می ره",
+    "en": "The boss called a meeting to give us a quick heads-up on how the project's going",
     "desc": "Heads-up: a short talk or statement about how a situation or plan is developing",
     "groupCode": 0
   },
   {
     "id": 3224,
-    "fa": "من فکر می کنم شما باید از چنین فرصتی استفاده کنید!",
-    "en": "I think you should take advantage of such an opportunity!",
+    "fa": "من فکر می کنم شما باید کاملا از این فرصت استفاده کنی!",
+    "en": "I think you should totally take advantage of this opportunity!",
     "groupCode": 0
   },
   {
@@ -1770,8 +1770,8 @@
   },
   {
     "id": 3291,
-    "fa": "علی, پیشرفت تو غیر قابل توقف",
-    "en": "Ali, your progress is unstoppable",
+    "fa": "علی, پیشرفت تو کاملا غیر قابل توقف است",
+    "en": "Ali, your progress is totally unstoppable",
     "groupCode": 0
   },
   {
@@ -1783,7 +1783,7 @@
   {
     "id": 3293,
     "fa": "در زمان استراحتم، به بعضی مطالعات (خواندنی) رسیدگی کردم",
-    "en": "During my down time, I caught up on some reading",
+    "en": "During my downtime, I caught up on some reading",
     "groupCode": 0
   },
   {
@@ -1794,8 +1794,8 @@
   },
   {
     "id": 3295,
-    "fa": "محموله شما در 20 سپتامبر 2024 در مرکز تدارکات ما پردازش شد و به منطقه مقصد رسیده است",
-    "en": "Your shipment was processed in our logistics center on September 20, 2024 and has reached the destination region",
+    "fa": "محموله شما در 20 سپتامبر 2024 در مرکز تدارکات ما پردازش شد و به مقصدش رسیده است",
+    "en": "Your shipment was processed at our logistics center on September 20, 2024, and has reached its destination",
     "desc": "\"Logistics\" is the correct term when referring to the overall process of managing the movement of goods, and it is typically used in the plural form in this context",
     "groupCode": 0
   },
@@ -1807,8 +1807,8 @@
   },
   {
     "id": 3297,
-    "fa": "من یک فرصت داشتم و ازش بهترین استفاده را کردم",
-    "en": "I had one chance, and I made it count",
+    "fa": "من یک فرصت (شوت) داشتم و ازش بهترین استفاده را کردم",
+    "en": "I had one shot, and I made it count",
     "desc": "The phrase \"made it count\" emphasizes that the person took advantage of that time in a meaningful or useful way",
     "groupCode": 0
   },
