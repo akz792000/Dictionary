@@ -6,6 +6,312 @@
   {
     "id":,
     "fa": "",
+    "en": "My legs feel weak",
+    "groupCode": 0
+  },
+  {
+    "id":,
+    "fa": "",
+    "en": "My ears are sore",
+    "groupCode": 0
+  },
+  {
+    "id":,
+    "fa": "",
+    "en": "I've got a temperature sore throat",
+    "groupCode": 0
+  },
+  {
+    "id":,
+    "fa": "",
+    "en": "My throat is dry! I can't stop coughing!",
+    "groupCode": 0
+  },
+  {
+    "id":,
+    "fa": "",
+    "en": "I've been feeling depressed",
+    "groupCode": 0
+  },
+  {
+    "id":,
+    "fa": "",
+    "en": "My head hurts! What is wrong with me?",
+    "groupCode": 0
+  },
+  {
+    "id":,
+    "fa": "",
+    "en": "She thinks she might be pregnant",
+    "groupCode": 0
+  },
+  {
+    "id":,
+    "fa": "",
+    "en": "My legs feel weak",
+    "groupCode": 0
+  },
+  {
+    "id":,
+    "fa": "کلم, کاهو, کلم بروکلی, اسفناج, گل کلم",
+    "en": "Cabbage /ˈkæbədʒ/, lettuce /ˈletəs/, broccoli /ˈbrɑːkəli/, spinach /ˈspɪnət͡ʃ/, cauliflower /ˈkɑːləˌflɑːwər/",
+    "groupCode": 0
+  },
+  {
+    "id":,
+    "fa": "کلم قرمز، شلغم، بادمجان، چغندر، فلفل",
+    "en": "Red cabbage, turnip /ˈtɜːrnəp/, eggplant, beetroot, pepper",
+    "groupCode": 0
+  },
+  {
+    "id":,
+    "fa": "پیاز، سیب زمینی، سیر، قارچ، ذرت",
+    "en": "Onion, potato, garlic, mushroom, corn",
+    "groupCode": 0
+  },
+  {
+    "id":,
+    "fa": "",
+    "en": "Carrot, tomato, cucumber, peas, asparagus /əˈsperəɡəs/",
+    "groupCode": 0
+  },
+  {
+    "id":,
+    "fa": "",
+    "en": "I have company",
+    "groupCode": 0
+  },
+  {
+    "id":,
+    "fa": "",
+    "en": "am I invited?",
+    "groupCode": 0
+  },
+  {
+    "id":,
+    "fa": "",
+    "en": "Who invited you? I invited her",
+    "groupCode": 0
+  },
+  {
+    "id":,
+    "fa": "",
+    "en": "Come on in",
+    "groupCode": 0
+  },
+  {
+    "id":,
+    "fa": "اول بزرگترها",
+    "en": "Age before beauty",
+    "groupCode": 0
+  },
+  {
+    "id":,
+    "fa": "",
+    "en": "The wearing of a crash helmet is required by law",
+    "groupCode": 0
+  },
+  {
+    "id":,
+    "fa": "بکش کنار",
+    "en": "back off",
+    "groupCode": 0
+  },
+  {
+    "id":,
+    "fa": "آروم باش",
+    "en": "cool off",
+    "groupCode": 0
+  },
+  {
+    "id":,
+    "fa": "لغو کردن",
+    "en": "call off",
+    "groupCode": 0
+  },
+  {
+    "id":,
+    "fa": "عصبانی کردن",
+    "en": "set off someone",
+    "groupCode": 0
+  },
+  {
+    "id":,
+    "fa": "او عکس خراب می کنه هر بار که سعی می کنم یه عکس بگیرم",
+    "en": "He photobombs every time I try to take a shot",
+    "groupCode": 0
+  },
+  {
+    "id":,
+    "fa": "",
+    "en": "I have a needling feeling in my elbow",
+    "groupCode": 0
+  },
+  {
+    "id":,
+    "fa": "",
+    "en": "I'm bloated",
+    "groupCode": 0
+  },
+  {
+    "id":,
+    "fa": "",
+    "en": "I have come out in rash",
+    "groupCode": 0
+  },
+  {
+    "id":,
+    "fa": "آشنا بازی زیاده اینجا",
+    "en": "There is a lot of nepotism",
+    "groupCode": 0
+  },
+  {
+    "id":,
+    "fa": "",
+    "en": "Can you gie me an aisle seat in the front of the plane",
+    "groupCode": 0
+  },
+  {
+    "id":,
+    "fa": "",
+    "en": "There's no such thing as a free (breakfast, dinner or lunch)",
+    "groupCode": 0
+  },
+  {
+    "id":,
+    "fa": "",
+    "en": "How are you doing? Can't complain",
+    "groupCode": 0
+  },
+  {
+    "id":,
+    "fa": "",
+    "en": "I'm fine or I feel great",
+    "groupCode": 0
+  },
+  {
+    "id":,
+    "fa": "",
+    "en": "I'm pretty good",
+    "groupCode": 0
+  },
+  {
+    "id":,
+    "fa": "تو آسمونام",
+    "en": "I'm on cloud nine",
+    "groupCode": 0
+  },
+  {
+    "id":,
+    "fa": "تو پوست خودم نمی گنجم",
+    "en": "I'm over the moon",
+    "groupCode": 0
+  },
+  {
+    "id":,
+    "fa": "",
+    "en": "I'm doing great",
+    "groupCode": 0
+  },
+  {
+    "id":,
+    "fa": "",
+    "en": "I'm not bad",
+    "groupCode": 0
+  },
+  {
+    "id":,
+    "fa": "",
+    "en": "Never better",
+    "groupCode": 0
+  },
+  {
+    "id":,
+    "fa": "",
+    "en": "Could not be better",
+    "groupCode": 0
+  },
+  {
+    "id":,
+    "fa": "",
+    "en": "Confectionery",
+    "groupCode": 0
+  },
+  {
+    "id":,
+    "fa": "",
+    "en": "contemporary",
+    "groupCode": 0
+  },
+  {
+    "id":,
+    "fa": "ADHD چیست",
+    "en": "Attention-deficit/hyperactivity disorder () is one of the most common mental disorders affecting children. Symptoms of ADHD include inattention (not being able to keep focus), hyperactivity (excess movement that is not fitting to the setting) and impulsivity (hasty acts that occur in the moment without thought)",
+    "groupCode": 0
+  },
+  {
+    "id":,
+    "fa": "",
+    "en": "slipping",
+    "groupCode": 0
+  },
+  {
+    "id":,
+    "fa": "",
+    "en": "tripping",
+    "groupCode": 0
+  },
+  {
+    "id":,
+    "fa": "",
+    "en": "spilling",
+    "groupCode": 0
+  },
+  {
+    "id":,
+    "fa": "",
+    "en": "electric shock",
+    "groupCode": 0
+  },
+  {
+    "id":,
+    "fa": "",
+    "en": "spraining",
+    "groupCode": 0
+  },
+  {
+    "id":,
+    "fa": "",
+    "en": "tumbling",
+    "groupCode": 0
+  },
+  {
+    "id":,
+    "fa": "",
+    "en": "pinching",
+    "groupCode": 0
+  },
+  {
+    "id":,
+    "fa": "",
+    "en": "A calendar invitation has been spent to your email address",
+    "groupCode": 0
+  },
+  {
+    "id":,
+    "fa": "",
+    "en": "You have reached the maximum number of payments while the device is unlock. Before you start you next payment you have to unlock you device again",
+    "groupCode": 0
+  },
+  {
+    "id":,
+    "fa": "",
+    "en": "How to Stop Checking Your Phone Every 10 Seconds",
+    "groupCode": 0
+  },
+  {
+    "id":,
+    "fa": "",
     "en": "\n 1.I dare not mention the incident to him; he'll go crazy \n 2.I don't dare mention the incident to him; he'll go crazy",
     "desc": "\"Daren't\" (I daren't mention the incident): This form is a contraction of \"dare not.\" It is more commonly used in British English and can be considered somewhat formal. It is often seen in written language and may sound a bit old-fashioned.\n\n\"Don't dare\" (I don't dare mention the incident): This is a more casual and widely used form in both British and American English. It is less formal and more commonly heard in spoken language",
     "groupCode": 0
@@ -14,12 +320,6 @@
     "id":,
     "fa": "سوپریادگیران 4.2 برابر بیشتر احتمال دارد دوره خود را به پایان برسانند",
     "en": "Super learners are 4.2x more likely to finish their course",
-    "groupCode": 0
-  },
-  {
-    "id":,
-    "fa": "",
-    "en": "Why can't we dig deeper than 12.2 km into the Earth?",
     "groupCode": 0
   },
   {
@@ -38,18 +338,6 @@
     "id":,
     "fa": "",
     "en": "I won't be able to attend the retro meeting due to an internal parallel meeting",
-    "groupCode": 0
-  },
-  {
-    "id":,
-    "fa": "",
-    "en": "Why do I have to settle for crumbs?",
-    "groupCode": 0
-  },
-  {
-    "id":,
-    "fa": "",
-    "en": "What is the cleverest salary negotiation you've had?",
     "groupCode": 0
   },
   {
@@ -82,12 +370,6 @@
     "en": "Please join us in welcoming her back and offering your support as she transitions into this new role",
     "groupCode": 0
   },
-  {
-    "id":,
-    "fa": "",
-    "en": "He is a filithy lier",
-    "groupCode": 0
-  }
 ]
 
 

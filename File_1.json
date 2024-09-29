@@ -1401,7 +1401,7 @@
   },
   {
     "id": 3230,
-    "fa": "او (مرد) هرگز از شر لکه زوی زندگیش خلاص نخواهد شد",
+    "fa": "او (مرد) هرگز از شر لکه روی زندگیش خلاص نخواهد شد",
     "en": "He will never get rid of the stain on his life",
     "groupCode": 0
   },
@@ -1704,7 +1704,7 @@
   },
   {
     "id": 3280,
-    "fa": "به لطف (تشکر) ادغام یکپارچه، کارمند قادر است بلافاصله اطلاعات دقیقی در مورد وضعیت سفارش فراهم کند",
+    "fa": "به لطف (تشکر) ادغام یکپارچه، کارمند قادر است بلافاصله اطلاعات تفصیلی (با جزییات) در مورد وضعیت سفارش فراهم کند",
     "en": "Thanks to the seamless integration, the employee is able to immediately provide detailed information on the order status",
     "groupCode": 0
   },
@@ -1859,6 +1859,66 @@
     "id": 3305,
     "fa": "بهترین راه ها برای ترقی دادن (سیستم) ایمنی چیست؟",
     "en": "What are the best ways to boost your immunity?",
+    "groupCode": 0
+  },
+  {
+    "id": 3306,
+    "fa": "من احساس بیماری و (در) درد دارم. من هم احساس گرما می کنم و هم سرما",
+    "en": "I feel sick and in pain. I feel both hot and cold",
+    "groupCode": 0
+  },
+  {
+    "id": 3307,
+    "fa": "من برای دو هفته یک سرما خوردگی داشتم",
+    "en": "I have had a cold for two weeks",
+    "groupCode": 0
+  },
+  {
+    "id": 3308,
+    "fa": "من دیابتی هستم",
+    "en": "I'm diabetic /ˌdaɪəˈbetɪk/",
+    "groupCode": 0
+  },
+  {
+    "id": 3309,
+    "fa": "من (مدتی) سر درد (ها) دارم",
+    "en": "I've been having headaches",
+    "groupCode": 0
+  },
+  {
+    "id": 3310,
+    "fa": "پوستم خارش داره و نمیتونم جلوی خراشیدنم رو بگیرم!",
+    "en": "My skin is itchy, and I can't stop scratching!",
+    "groupCode": 0
+  },
+  {
+    "id": 3311,
+    "fa": "من نیاز دارم به یک برگه بیماری از پزشکم تا غیبتم را بهانه کنم از محل کارم",
+    "en": "I need a sick note from my doctor to excuse my absence from work due to my illness",
+    "groupCode": 0
+  },
+  {
+    "id": 3312,
+    "fa": "او (مرد) یک دروغگوی کثیف است",
+    "en": "He is a filthy liar",
+    "groupCode": 0
+  },
+  {
+    "id": 3313,
+    "fa": "هوشمندانه ترین مذاکره حقوقی که داشته اید چه بوده است؟",
+    "en": "What is the cleverest salary negotiation you've had?",
+    "groupCode": 0
+  },
+  {
+    "id": 3314,
+    "fa": "چرا باید به لقمه های ناچیز قانع باشم؟",
+    "en": "Why do I have to settle for crumbs?",
+    "groupCode": 0
+  },
+  {
+    "id": 3315,
+    "fa": "چرا نمی توانیم ما حفاری کنیم بیشتر از 12.2 کیلومتر عمق زمین را؟",
+    "en": "Why can't we dig deeper than 12.2 km into the Earth?",
     "groupCode": 0
   }
 ]
