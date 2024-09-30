@@ -84,18 +84,6 @@
   {
     "id":,
     "fa": "",
-    "en": "am I invited?",
-    "groupCode": 0
-  },
-  {
-    "id":,
-    "fa": "",
-    "en": "Who invited you? I invited her",
-    "groupCode": 0
-  },
-  {
-    "id":,
-    "fa": "",
     "en": "Come on in",
     "groupCode": 0
   },
@@ -370,6 +358,126 @@
     "en": "Please join us in welcoming her back and offering your support as she transitions into this new role",
     "groupCode": 0
   },
+  {
+    "id":,
+    "fa": "",
+    "en": "I'm just a few days away from launching my brand new course",
+    "groupCode": 0
+  },
+  {
+    "id":,
+    "fa": "",
+    "en": "here's so much more I want to tell",
+    "groupCode": 0
+  },
+  {
+    "id":,
+    "fa": "",
+    "en": "How to disagree with your boss without getting sacked",
+    "groupCode": 0
+  },
+  {
+    "id":,
+    "fa": "",
+    "en": "No, this isn’t some magic pill or dodgy marketing sales pitch",
+    "groupCode": 0
+  },
+  {
+    "id":,
+    "fa": "",
+    "en": "Ever dreamt of levelling up your advanced English skills in just an hour?",
+    "groupCode": 0
+  },
+  {
+    "id":,
+    "fa": "",
+    "en": "Please make sure you are undisturbed and have access to a computer.",
+    "groupCode": 0
+  },
+  {
+    "id":,
+    "fa": "",
+    "en": "I'll take a look to see how well it fits the job",
+    "groupCode": 0
+  },
+  {
+    "id":,
+    "fa": "",
+    "en": "",
+    "groupCode": 0
+  },
+  {
+    "id":,
+    "fa": "",
+    "en": "",
+    "groupCode": 0
+  },
+  {
+    "id":,
+    "fa": "",
+    "en": "",
+    "groupCode": 0
+  },
+  {
+    "id":,
+    "fa": "",
+    "en": "",
+    "groupCode": 0
+  },
+  {
+    "id":,
+    "fa": "",
+    "en": "",
+    "groupCode": 0
+  },
+  {
+    "id":,
+    "fa": "",
+    "en": "",
+    "groupCode": 0
+  },
+  {
+    "id":,
+    "fa": "",
+    "en": "",
+    "groupCode": 0
+  },
+  {
+    "id":,
+    "fa": "",
+    "en": "",
+    "groupCode": 0
+  },
+  {
+    "id":,
+    "fa": "",
+    "en": "",
+    "groupCode": 0
+  },
+  {
+    "id":,
+    "fa": "",
+    "en": "",
+    "groupCode": 0
+  },
+  {
+    "id":,
+    "fa": "",
+    "en": "",
+    "groupCode": 0
+  },
+  {
+    "id":,
+    "fa": "",
+    "en": "",
+    "groupCode": 0
+  },
+  {
+    "id":,
+    "fa": "",
+    "en": "",
+    "groupCode": 0
+  }
 ]
 
 

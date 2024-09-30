@@ -1565,7 +1565,7 @@
   },
   {
     "id": 3257,
-    "fa": "چه زمانی ما تقریباً خواهیم دانست در مورد بودجه؟",
+    "fa": "کی ما تقریباً خواهیم دانست در مورد بودجه؟",
     "en": "When will we roughly know about the budget?",
     "groupCode": 0
   },
@@ -1863,7 +1863,7 @@
   },
   {
     "id": 3306,
-    "fa": "من احساس بیماری و (در) درد دارم. من هم احساس گرما می کنم و هم سرما",
+    "fa": "من احساس بیماری و (در) درد دارم. من احساس هر دو گرما و سرما را دارم",
     "en": "I feel sick and in pain. I feel both hot and cold",
     "groupCode": 0
   },
@@ -1887,13 +1887,13 @@
   },
   {
     "id": 3310,
-    "fa": "پوستم خارش داره و نمیتونم جلوی خراشیدنم رو بگیرم!",
+    "fa": "پوستم میخاره و نمیتونم جلوی خاراندن رو بگیرم!",
     "en": "My skin is itchy, and I can't stop scratching!",
     "groupCode": 0
   },
   {
     "id": 3311,
-    "fa": "من نیاز دارم به یک برگه بیماری از پزشکم تا غیبتم را بهانه کنم از محل کارم",
+    "fa": "من نیاز دارم به یک برگه بیماری از پزشکم تا غیبتم را بهانه کنم از محل کار به دلیل بیماریم",
     "en": "I need a sick note from my doctor to excuse my absence from work due to my illness",
     "groupCode": 0
   },
@@ -1919,6 +1919,78 @@
     "id": 3315,
     "fa": "چرا نمی توانیم ما حفاری کنیم بیشتر از 12.2 کیلومتر عمق زمین را؟",
     "en": "Why can't we dig deeper than 12.2 km into the Earth?",
+    "groupCode": 0
+  },
+  {
+    "id": 3316,
+    "fa": "چگونه من سطوح تستوسترون را به طور سریع و به طور ایمن افزایش دهم؟",
+    "en": "How do I increase testosterone levels quickly and safely?",
+    "groupCode": 0
+  },
+  {
+    "id": 3317,
+    "fa": "قراره (قصد) خیلی سرگرم کننده باشه!",
+    "en": "It's ganna be a lot of fun!",
+    "groupCode": 0
+  },
+  {
+    "id": 3318,
+    "fa": "مطمئن شوید که ثبت نام کرده اید و روی آیکون زنگ کلیک کنید تا مطلع شوید زمانیکه رویداد داره شروع میشه",
+    "en": "Make sure you're enrolled and click the bell icon to be notified when the event is about to start",
+    "groupCode": 0
+  },
+  {
+    "id": 3319,
+    "fa": "نگران نباشید اگر گفتید بله - این یک احساس بسیار مشترک است",
+    "en": "Don't worry if you said yes - it's a very common feeling",
+    "groupCode": 0
+  },
+  {
+    "id": 3320,
+    "fa": "اجازه دهید برخی از حقایق چشم باز باور نکردنی را به شما نشان دهم که تصویری از تغییر مهارت های قوی انگلیسی در محل کار را نشان می دهد",
+    "en": "Let me show you some incredibly eye-opening facts that paint a picture of how transformative strong English skills at work can be",
+    "groupCode": 0
+  },
+  {
+    "id": 3321,
+    "fa": "نزدیک به 9 نفر از هر 10 انگلیسی زبان پیشرفته با شغل خودشان راضی هستند",
+    "en": "Nearly 9 out of 10 advanced English speakers are satisfied with their jobs",
+    "groupCode": 0
+  },
+  {
+    "id": 3322,
+    "fa": "آیا چیزی بود شما قرار بود امروز انجام دهید اما نکردید؟",
+    "en": "Was there anything you were supposed to do today but didn't?",
+    "groupCode": 0
+  },
+  {
+    "id": 3323,
+    "fa": "کی تو را دعوتت کرد؟ او (مرد) مرا دعوت کرد",
+    "en": "Who invited you? He invited me",
+    "groupCode": 0
+  },
+  {
+    "id": 3324,
+    "fa": "آیا می توانید به او (مرد) یک اسپرسو بدید؟",
+    "en": "Could you get him an espresso?",
+    "groupCode": 0
+  },
+  {
+    "id": 3325,
+    "fa": "جریان ها می توانند متناهی یا بی نهایت باشند",
+    "en": "Streams can be finite /ˈfaɪˌnaɪt/ or infinite /ˈɪnfənət/",
+    "groupCode": 0
+  },
+  {
+    "id": 3326,
+    "fa": "او شما را دوست می داشت (داشته بود) اگر او (مرد) از شما خبر داشته بود",
+    "en": "He would have loved you too if he had known about you",
+    "groupCode": 0
+  },
+  {
+    "id": 3327,
+    "fa": "اگر می دانست تو کجا بودی، سوراخی در کیهان می شکست (شکسته بود) تا تو را به خانه بیاورد",
+    "en": "If he knew where you were he would have torn a hole in the universe to bring you home",
     "groupCode": 0
   }
 ]

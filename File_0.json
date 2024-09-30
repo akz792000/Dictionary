@@ -10771,7 +10771,7 @@
   },
   {
     "id": 1775,
-    "fa": "تئوری فقط شما را تا اینجا پیش خواهد برد",
+    "fa": "تئوری شما را پیش خواهد برد فقط  تا اینجا",
     "en": "Theory (ثی اِری) will take you only so far",
     "groupCode": 0
   },
@@ -15482,6 +15482,7 @@
     "id": 2552,
     "fa": "از او (مرد) مراقبت کردم وقتی مریض بود",
     "en": "I cared for him when he was sick",
+    "desc": "\"Take care of\" focuses on the practical actions you did (like feeding or helping).\n\"Care for\" includes both practical actions and emotional support, with more emphasis on concern or affection.\nBoth involve helping, but \"care for\" suggests a deeper emotional connection.",
     "groupCode": 0
   },
   {
