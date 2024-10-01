@@ -1682,6 +1682,7 @@
     "id": 3276,
     "fa": "من بطور ضروری نیاز دارم اطلاعات در مورد تاریخ تحویل برای پروژه ساخت فرودگاه فرانکفورت",
     "en": "I urgently need information regarding the delivery date for the Frankfurt Airport construction project",
+    "desc": "\"Regarding,\" \"on,\" and \"about\" all mean concerning or related to but vary in formality:\n\n\"Regarding\": More formal.\n\"On\": Slightly less formal.\n\"About\": Most casual.",
     "groupCode": 0
   },
   {
@@ -1992,6 +1993,85 @@
     "id": 3327,
     "fa": "اگر او (مرد) می دانست تو کجا بودی، سوراخی در کیهان پاره می کرد (پاره کرده بود) تا تو را به خانه بیاورد",
     "en": "If he knew where you were he would have torn a hole in the universe to bring you home",
+    "groupCode": 0
+  },
+  {
+    "id": 3328,
+    "fa": "پاهایم احساس ضعف می کنند",
+    "en": "My legs feel weak",
+    "groupCode": 0
+  },
+  {
+    "id": 3329,
+    "fa": "گوشم درد میکنه",
+    "en": "My ears are sore",
+    "groupCode": 0
+  },
+  {
+    "id": 3330,
+    "fa": "گلویم خشک شده! من نمی توانم سرفه را متوقف کنم!",
+    "en": "My throat is dry! I can't stop coughing!",
+    "groupCode": 0
+  },
+  {
+    "id": 3331,
+    "fa": "من (مدتی) احساس افسردگی می کنم",
+    "en": "I've been feeling depressed",
+    "groupCode": 0
+  },
+  {
+    "id": 3332,
+    "fa": "سرم درد می کند! چه بلایی سرم اومده؟",
+    "en": "My head hurts! What is wrong with me?",
+    "groupCode": 0
+  },
+  {
+    "id": 3333,
+    "fa": "او (زن) فکر می کند او ممکن است باردار باشد",
+    "en": "She thinks she might be pregnant",
+    "groupCode": 0
+  },
+  {
+    "id": 3334,
+    "fa": "کلم, کاهو, کلم بروکلی, اسفناج, گل کلم",
+    "en": "Cabbage /ˈkæbədʒ/, lettuce /ˈletəs/, broccoli /ˈbrɑːkəli/, spinach /ˈspɪnət͡ʃ/, cauliflower /ˈkɑːləˌflɑːwər/",
+    "groupCode": 0
+  },
+  {
+    "id": 3335,
+    "fa": "کلم قرمز، شلغم، بادمجان، چغندر، فلفل",
+    "en": "Red cabbage, turnip /ˈtɜːrnəp/, eggplant, beetroot, pepper",
+    "groupCode": 0
+  },
+  {
+    "id": 3336,
+    "fa": "پیاز، سیب زمینی، سیر، قارچ، ذرت",
+    "en": "Onion, potato, garlic, mushroom, corn",
+    "groupCode": 0
+  },
+  {
+    "id": 3337,
+    "fa": "",
+    "en": "Carrot, tomato, cucumber, peas, asparagus /əˈsperəɡəs/",
+    "groupCode": 0
+  },
+  {
+    "id": 3338,
+    "fa": "بیا داخل",
+    "en": "Come on in",
+    "desc": "\"Come in\": A straightforward invitation to enter.\n\"Come on in\": A casual, friendly invitation, often more welcoming.",
+    "groupCode": 0
+  },
+  {
+    "id": 3339,
+    "fa": "سن قبل از زیبایی اغلب به صورت طنز استفاده می شود زمانیکه اجازه داده می شود فرد جوانتر رهبری را بر عهده بگیرد",
+    "en": "Age before beauty often used humorously when letting someone younger take the lead",
+    "groupCode": 0
+  },
+  {
+    "id": 3340,
+    "fa": "لطفا عقب وایسا؛ تو خیلی به من نزدیکی",
+    "en": "Please back off; you're too close to me",
     "groupCode": 0
   }
 ]

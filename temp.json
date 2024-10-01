@@ -6,103 +6,13 @@
   {
     "id":,
     "fa": "",
-    "en": "My legs feel weak",
-    "groupCode": 0
-  },
-  {
-    "id":,
-    "fa": "",
-    "en": "My ears are sore",
-    "groupCode": 0
-  },
-  {
-    "id":,
-    "fa": "",
-    "en": "I've got a temperature sore throat",
-    "groupCode": 0
-  },
-  {
-    "id":,
-    "fa": "",
-    "en": "My throat is dry! I can't stop coughing!",
-    "groupCode": 0
-  },
-  {
-    "id":,
-    "fa": "",
-    "en": "I've been feeling depressed",
-    "groupCode": 0
-  },
-  {
-    "id":,
-    "fa": "",
-    "en": "My head hurts! What is wrong with me?",
-    "groupCode": 0
-  },
-  {
-    "id":,
-    "fa": "",
-    "en": "She thinks she might be pregnant",
-    "groupCode": 0
-  },
-  {
-    "id":,
-    "fa": "",
-    "en": "My legs feel weak",
-    "groupCode": 0
-  },
-  {
-    "id":,
-    "fa": "کلم, کاهو, کلم بروکلی, اسفناج, گل کلم",
-    "en": "Cabbage /ˈkæbədʒ/, lettuce /ˈletəs/, broccoli /ˈbrɑːkəli/, spinach /ˈspɪnət͡ʃ/, cauliflower /ˈkɑːləˌflɑːwər/",
-    "groupCode": 0
-  },
-  {
-    "id":,
-    "fa": "کلم قرمز، شلغم، بادمجان، چغندر، فلفل",
-    "en": "Red cabbage, turnip /ˈtɜːrnəp/, eggplant, beetroot, pepper",
-    "groupCode": 0
-  },
-  {
-    "id":,
-    "fa": "پیاز، سیب زمینی، سیر، قارچ، ذرت",
-    "en": "Onion, potato, garlic, mushroom, corn",
-    "groupCode": 0
-  },
-  {
-    "id":,
-    "fa": "",
-    "en": "Carrot, tomato, cucumber, peas, asparagus /əˈsperəɡəs/",
-    "groupCode": 0
-  },
-  {
-    "id":,
-    "fa": "",
-    "en": "I have company",
-    "groupCode": 0
-  },
-  {
-    "id":,
-    "fa": "",
-    "en": "Come on in",
-    "groupCode": 0
-  },
-  {
-    "id":,
-    "fa": "اول بزرگترها",
-    "en": "Age before beauty",
-    "groupCode": 0
-  },
-  {
-    "id":,
-    "fa": "",
     "en": "The wearing of a crash helmet is required by law",
     "groupCode": 0
   },
   {
     "id":,
     "fa": "بکش کنار",
-    "en": "back off",
+    "en": "",
     "groupCode": 0
   },
   {
