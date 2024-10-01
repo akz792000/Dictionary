@@ -2325,7 +2325,7 @@
   {
     "id": 385,
     "fa": "به خودت نگیر",
-    "en": "Don't take it personally?",
+    "en": "Don't take it personally",
     "groupCode": 0
   },
   {
@@ -2505,7 +2505,7 @@
   },
   {
     "id": 415,
-    "fa": "بذار بهت نشون بدم",
+    "fa": "بگذار بهت نشون بدم",
     "en": "Let me show it to you",
     "groupCode": 0
   },
@@ -6512,7 +6512,7 @@
   },
   {
     "id": 1072,
-    "fa": "حدس بزن چی شده, برنده لاتاری شدم!",
+    "fa": "حدس بزن چیه, برنده لاتاری شدم!",
     "en": "Guess what, I won the lottery!",
     "groupCode": 0
   },

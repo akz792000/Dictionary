@@ -238,7 +238,7 @@
   },
   {
     "id": 3040,
-    "fa": "از آنجایی که درحال حاضر باران نمی بارد، من برای قدم زدن بیرون خواهم رفت",
+    "fa": "از آنجایی که در این لحظه باران نمی بارد، من برای قدم زدن بیرون خواهم رفت",
     "en": "As it isn't raining at the moment, I'll go out for a walk",
     "groupCode": 0
   },
@@ -1023,7 +1023,7 @@
   },
   {
     "id": 3168,
-    "fa": "من هفته‌ها را صرف انجام تحقیق پرزحمت کردم تا مطمئن شوم همه جزئیات کامل باشند",
+    "fa": "من هفته‌ها صرف کردم (برای) انجام تحقیق پرزحمت تا مطمئن شوم همه جزئیات کامل باشند",
     "en": "I spent weeks doing painstaking research to ensure every details was perfect",
     "groupCode": 0
   },
@@ -1559,8 +1559,9 @@
   },
   {
     "id": 3256,
-    "fa": "من ازش مراقبت خواهم کرد و به شما بر می گردانم",
+    "fa": "من ازش مراقبت خواهم کرد و به شما پاسخ می دهم (بر می گردانم)",
     "en": "I'll take care of it and get back to you",
+    "desc": "\"Get back to you\" = Respond to you after handling it.\n\"Get it back to you\" = Return the item to you after handling it.",
     "groupCode": 0
   },
   {
@@ -1893,7 +1894,7 @@
   },
   {
     "id": 3311,
-    "fa": "من نیاز دارم به یک برگه بیماری از پزشکم تا غیبتم را بهانه کنم از محل کار به دلیل بیماریم",
+    "fa": "من نیاز دارم به یک برگه بیماری از پزشکم تا غیبتم را بهانه کنم از کار به دلیل بیماریم",
     "en": "I need a sick note from my doctor to excuse my absence from work due to my illness",
     "groupCode": 0
   },
@@ -1917,7 +1918,7 @@
   },
   {
     "id": 3315,
-    "fa": "چرا نمی توانیم ما حفاری کنیم بیشتر از 12.2 کیلومتر عمق زمین را؟",
+    "fa": "چرا نمی توانیم ما عمیقتر از 12.2 کیلومتر زمین را حفاری کنیم؟",
     "en": "Why can't we dig deeper than 12.2 km into the Earth?",
     "groupCode": 0
   },
@@ -1947,7 +1948,7 @@
   },
   {
     "id": 3320,
-    "fa": "اجازه دهید برخی از حقایق چشم باز باور نکردنی را به شما نشان دهم که تصویری از تغییر مهارت های قوی انگلیسی در محل کار را نشان می دهد",
+    "fa": "بگذار برخی از حقایق چشم باز کن باور نکردنی را به شما نشان دهم که نقاشی کند یک تصویری از اینکه چگونه مهارت های انگلیسی قوی در محل کار می تواند باشد",
     "en": "Let me show you some incredibly eye-opening facts that paint a picture of how transformative strong English skills at work can be",
     "groupCode": 0
   },
@@ -1959,7 +1960,7 @@
   },
   {
     "id": 3322,
-    "fa": "آیا چیزی بود شما قرار بود امروز انجام دهید اما نکردید؟",
+    "fa": "آیا چیزی بود شما قرار بود امروز انجام بدی اما نکردی؟",
     "en": "Was there anything you were supposed to do today but didn't?",
     "groupCode": 0
   },
@@ -1983,13 +1984,13 @@
   },
   {
     "id": 3326,
-    "fa": "او شما را دوست می داشت (داشته بود) اگر او (مرد) از شما خبر داشته بود",
+    "fa": "او (مرد) شما را دوست می داشت (داشته بود) اگر او از شما خبر داشته بود",
     "en": "He would have loved you too if he had known about you",
     "groupCode": 0
   },
   {
     "id": 3327,
-    "fa": "اگر می دانست تو کجا بودی، سوراخی در کیهان می شکست (شکسته بود) تا تو را به خانه بیاورد",
+    "fa": "اگر او (مرد) می دانست تو کجا بودی، سوراخی در کیهان پاره می کرد (پاره کرده بود) تا تو را به خانه بیاورد",
     "en": "If he knew where you were he would have torn a hole in the universe to bring you home",
     "groupCode": 0
   }
