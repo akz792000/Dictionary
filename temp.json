@@ -5,18 +5,6 @@
 [
   {
     "id":,
-    "fa": "",
-    "en": "The wearing of a crash helmet is required by law",
-    "groupCode": 0
-  },
-  {
-    "id":,
-    "fa": "بکش کنار",
-    "en": "",
-    "groupCode": 0
-  },
-  {
-    "id":,
     "fa": "آروم باش",
     "en": "cool off",
     "groupCode": 0
@@ -48,25 +36,7 @@
   {
     "id":,
     "fa": "",
-    "en": "I'm bloated",
-    "groupCode": 0
-  },
-  {
-    "id":,
-    "fa": "",
     "en": "I have come out in rash",
-    "groupCode": 0
-  },
-  {
-    "id":,
-    "fa": "آشنا بازی زیاده اینجا",
-    "en": "There is a lot of nepotism",
-    "groupCode": 0
-  },
-  {
-    "id":,
-    "fa": "",
-    "en": "Can you gie me an aisle seat in the front of the plane",
     "groupCode": 0
   },
   {
@@ -78,55 +48,7 @@
   {
     "id":,
     "fa": "",
-    "en": "How are you doing? Can't complain",
-    "groupCode": 0
-  },
-  {
-    "id":,
-    "fa": "",
-    "en": "I'm fine or I feel great",
-    "groupCode": 0
-  },
-  {
-    "id":,
-    "fa": "",
-    "en": "I'm pretty good",
-    "groupCode": 0
-  },
-  {
-    "id":,
-    "fa": "تو آسمونام",
-    "en": "I'm on cloud nine",
-    "groupCode": 0
-  },
-  {
-    "id":,
-    "fa": "تو پوست خودم نمی گنجم",
-    "en": "I'm over the moon",
-    "groupCode": 0
-  },
-  {
-    "id":,
-    "fa": "",
-    "en": "I'm doing great",
-    "groupCode": 0
-  },
-  {
-    "id":,
-    "fa": "",
-    "en": "I'm not bad",
-    "groupCode": 0
-  },
-  {
-    "id":,
-    "fa": "",
     "en": "Never better",
-    "groupCode": 0
-  },
-  {
-    "id":,
-    "fa": "",
-    "en": "Could not be better",
     "groupCode": 0
   },
   {
@@ -181,12 +103,6 @@
     "id":,
     "fa": "",
     "en": "tumbling",
-    "groupCode": 0
-  },
-  {
-    "id":,
-    "fa": "",
-    "en": "pinching",
     "groupCode": 0
   },
   {

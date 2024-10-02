@@ -456,7 +456,7 @@
   {
     "id": 3075,
     "fa": "برای من مهم است که ادامه بدی ورزش منظم",
-    "en": "It's important for me to keep up with regular exercise",
+    "en": "It's important for me to keep up regular exercise",
     "desc": "For me: Benefit",
     "groupCode": 0
   },
@@ -1937,7 +1937,7 @@
   },
   {
     "id": 3318,
-    "fa": "مطمئن شوید که ثبت نام کرده اید و روی آیکون زنگ کلیک کنید تا مطلع شوید زمانیکه رویداد داره شروع میشه",
+    "fa": "مطمئن شوید که ثبت نام شده اید و روی آیکون زنگ کلیک کنید تا مطلع شوید زمانیکه رویداد داره شروع میشه",
     "en": "Make sure you're enrolled and click the bell icon to be notified when the event is about to start",
     "groupCode": 0
   },
@@ -1955,7 +1955,7 @@
   },
   {
     "id": 3321,
-    "fa": "نزدیک به 9 نفر از هر 10 انگلیسی زبان پیشرفته با شغل خودشان راضی هستند",
+    "fa": "نزدیک به ۹ نفر از هر ۱۰ انگلیسی زبانان پیشرفته با شغل خودشان راضی هستند",
     "en": "Nearly 9 out of 10 advanced English speakers are satisfied with their jobs",
     "groupCode": 0
   },
@@ -1985,7 +1985,7 @@
   },
   {
     "id": 3326,
-    "fa": "او (مرد) شما را دوست می داشت (داشته بود) اگر او از شما خبر داشته بود",
+    "fa": "او (مرد) هم شما را دوست می داشت (داشته بود) اگر او از شما خبر داشته بود",
     "en": "He would have loved you too if he had known about you",
     "groupCode": 0
   },
@@ -1997,7 +1997,7 @@
   },
   {
     "id": 3328,
-    "fa": "پاهایم احساس ضعف می کنند",
+    "fa": "پاهام (ران هام) احساس ضعف می کنند",
     "en": "My legs feel weak",
     "groupCode": 0
   },
@@ -2009,7 +2009,7 @@
   },
   {
     "id": 3330,
-    "fa": "گلویم خشک شده! من نمی توانم سرفه را متوقف کنم!",
+    "fa": "گلویم خشکه! من نمی توانم سرفه را متوقف کنم!",
     "en": "My throat is dry! I can't stop coughing!",
     "groupCode": 0
   },
@@ -2021,7 +2021,7 @@
   },
   {
     "id": 3332,
-    "fa": "سرم درد می کند! چه بلایی سرم اومده؟",
+    "fa": "سرم درد می کند! چم شده؟",
     "en": "My head hurts! What is wrong with me?",
     "groupCode": 0
   },
@@ -2033,26 +2033,26 @@
   },
   {
     "id": 3334,
-    "fa": "کلم, کاهو, کلم بروکلی, اسفناج, گل کلم",
-    "en": "Cabbage /ˈkæbədʒ/, lettuce /ˈletəs/, broccoli /ˈbrɑːkəli/, spinach /ˈspɪnət͡ʃ/, cauliflower /ˈkɑːləˌflɑːwər/",
+    "fa": "۱.کلم \n ۲.کاهو \n ۳.کلم بروکلی \n ۴.اسفناج \n ۵.گل کلم",
+    "en": "1.Cabbage /ˈkæbədʒ/ \n 2.Lettuce /ˈletəs/ \n 3.Broccoli /ˈbrɑːkəli/ \n 4.Spinach /ˈspɪnət͡ʃ/ \n 5.Cauliflower /ˈkɑːləˌflɑːwər/",
     "groupCode": 0
   },
   {
     "id": 3335,
-    "fa": "کلم قرمز، شلغم، بادمجان، چغندر، فلفل",
-    "en": "Red cabbage, turnip /ˈtɜːrnəp/, eggplant, beetroot, pepper",
+    "fa": "۱.کلم قرمز \n ۲.شلغم \n ۳.بادمجان \n ۴.چغندر \n ۵.فلفل",
+    "en": "1.Red cabbage \n 2.Turnip /ˈtɜːrnəp/ \n 3.Eggplant \n 4.Beetroot \n 5.Pepper",
     "groupCode": 0
   },
   {
     "id": 3336,
-    "fa": "پیاز، سیب زمینی، سیر، قارچ، ذرت",
-    "en": "Onion, potato, garlic, mushroom, corn",
+    "fa": "۱.پیاز \n ۲.سیب زمینی \n ۳.سیر \n ۴.قارچ \n ۵.ذرت",
+    "en": "1.Onion \n 2.Potato \n 3.Garlic \n 4.Mushroom \n 5.Corn",
     "groupCode": 0
   },
   {
     "id": 3337,
-    "fa": "",
-    "en": "Carrot, tomato, cucumber, peas, asparagus /əˈsperəɡəs/",
+    "fa": "۱.هویج \n ۲.گوجه فرنگی \n ۳.خیار \n ۴.نخود فرنگی \n ۵.مارچوبه",
+    "en": "1.Carrot \n 2.Tomato \n 3.Cucumber \n 4.Peas \n 5.Asparagus /əˈsperəɡəs/",
     "groupCode": 0
   },
   {
@@ -2072,6 +2072,66 @@
     "id": 3340,
     "fa": "لطفا عقب وایسا؛ تو خیلی به من نزدیکی",
     "en": "Please back off; you're too close to me",
+    "groupCode": 0
+  },
+  {
+    "id": 3341,
+    "fa": "من تو آسمونام (آسمون نهم)",
+    "en": "I'm on cloud nine",
+    "groupCode": 0
+  },
+  {
+    "id": 3342,
+    "fa": "من تو پوست خودم نمی گنجم",
+    "en": "I'm over the moon",
+    "groupCode": 0
+  },
+  {
+    "id": 3343,
+    "fa": "در چه حالی هستی؟ نمی توان شکایت کرد",
+    "en": "How are you doing? Can't complain",
+    "groupCode": 0
+  },
+  {
+    "id": 3344,
+    "fa": "آیا می توانید به من یک صندلی تو راهرو جلوی هواپیما بدید؟",
+    "en": "Can you give me an aisle seat in the front of the plane?",
+    "groupCode": 0
+  },
+  {
+    "id": 3345,
+    "fa": "آیا می توانید به من یک صندلی تو راهرو جلوی هواپیما بدید؟",
+    "en": "Can you give me an aisle seat in the front of the plane?",
+    "groupCode": 0
+  },
+  {
+    "id": 3346,
+    "fa": "کفش های جدیدم انگشتان پایم داره میزنه (نیشگون می گیرند) و این واقعا ناراحت کننده است",
+    "en": "My new shoes are pinching my toes, and it's really uncomfortable",
+    "groupCode": 0
+  },
+  {
+    "id": 3347,
+    "fa": "در چه حالی هستی؟ بهتر از این نمی شد",
+    "en": "How are you doing? Could not be better",
+    "groupCode": 0
+  },
+  {
+    "id": 3348,
+    "fa": "آشنا بازی زیاده اینجا",
+    "en": "There is a lot of nepotism",
+    "groupCode": 0
+  },
+  {
+    "id": 3349,
+    "fa": "من نفخ کردم",
+    "en": "I'm bloated",
+    "groupCode": 0
+  },
+  {
+    "id": 3350,
+    "fa": "استفاده از کلاه ایمنی طبق قانون الزامی است",
+    "en": "The wearing of a crash helmet is required by law",
     "groupCode": 0
   }
 ]
