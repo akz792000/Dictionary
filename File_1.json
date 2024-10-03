@@ -1907,7 +1907,7 @@
   },
   {
     "id": 3313,
-    "fa": "هوشمندانه ترین مذاکره حقوقی که داشته اید چه بوده است؟",
+    "fa": "هوشمندانه ترین مذاکره حقوقی که داشته اید چیست؟",
     "en": "What is the cleverest salary negotiation you've had?",
     "groupCode": 0
   },
@@ -1991,8 +1991,8 @@
   },
   {
     "id": 3327,
-    "fa": "اگر او (مرد) می دانست تو کجا بودی، سوراخی در کیهان پاره می کرد (پاره کرده بود) تا تو را به خانه بیاورد",
-    "en": "If he knew where you were he would have torn a hole in the universe to bring you home",
+    "fa": "در حال حاضر، او (مرد) هیچ ایده ای ندارد شما کجا هستید. اگر او (مرد) می دانست تو کجا بودی، سوراخی در کیهان پاره می کرد (پاره کرده بود) تا تو را به خانه بیاورد",
+    "en": "Right now, he has no idea where you are. If he knew where you were, he would have torn a hole in the universe to bring you home",
     "groupCode": 0
   },
   {
@@ -2039,19 +2039,19 @@
   },
   {
     "id": 3335,
-    "fa": "۱.کلم قرمز \n ۲.شلغم \n ۳.بادمجان \n ۴.چغندر \n ۵.فلفل",
+    "fa": "۱.کلم قرمز \n ۲.شلغم \n ۳.بادمجان \n ۴.چغندر \n ۵.فلفل ",
     "en": "1.Red cabbage \n 2.Turnip /ˈtɜːrnəp/ \n 3.Eggplant \n 4.Beetroot \n 5.Pepper",
     "groupCode": 0
   },
   {
     "id": 3336,
-    "fa": "۱.پیاز \n ۲.سیب زمینی \n ۳.سیر \n ۴.قارچ \n ۵.ذرت",
+    "fa": "۱.پیاز \n ۲.سیب زمینی \n ۳.سیر \n ۴.قارچ \n ۵.ذرت ",
     "en": "1.Onion \n 2.Potato \n 3.Garlic \n 4.Mushroom \n 5.Corn",
     "groupCode": 0
   },
   {
     "id": 3337,
-    "fa": "۱.هویج \n ۲.گوجه فرنگی \n ۳.خیار \n ۴.نخود فرنگی \n ۵.مارچوبه",
+    "fa": "۱.هویج \n ۲.گوجه فرنگی \n ۳.خیار \n ۴.نخود فرنگی \n ۵.مارچوبه ",
     "en": "1.Carrot \n 2.Tomato \n 3.Cucumber \n 4.Peas \n 5.Asparagus /əˈsperəɡəs/",
     "groupCode": 0
   },
@@ -2082,7 +2082,7 @@
   },
   {
     "id": 3342,
-    "fa": "من تو پوست خودم نمی گنجم",
+    "fa": "من تو پوست خودم نمی گنجم (من رو ماهم)",
     "en": "I'm over the moon",
     "groupCode": 0
   },
@@ -2100,8 +2100,8 @@
   },
   {
     "id": 3345,
-    "fa": "آیا می توانید به من یک صندلی تو راهرو جلوی هواپیما بدید؟",
-    "en": "Can you give me an aisle seat in the front of the plane?",
+    "fa": "متأسفانه بازه زمانی ارائه شده برای ما مناسب نیست. آیا می توانید زمان های موجود در مؤسسه خود را در دوشنبه و جمعه به من اطلاع دهید؟",
+    "en": "Unfortunately, the time slot you provided is not suitable for us. Could you please let me know the available time slots at your institute on Monday and Friday?",
     "groupCode": 0
   },
   {
@@ -2112,14 +2112,14 @@
   },
   {
     "id": 3347,
-    "fa": "در چه حالی هستی؟ بهتر از این نمی شد",
+    "fa": "در چه حالی هستی؟ بهتر از این نمی تونست بشه",
     "en": "How are you doing? Could not be better",
     "groupCode": 0
   },
   {
     "id": 3348,
     "fa": "آشنا بازی زیاده اینجا",
-    "en": "There is a lot of nepotism",
+    "en": "There is a lot of nepotism here",
     "groupCode": 0
   },
   {
@@ -2130,8 +2130,39 @@
   },
   {
     "id": 3350,
-    "fa": "استفاده از کلاه ایمنی طبق قانون الزامی است",
+    "fa": "پوشیدن کلاه ایمنی تصادف نیاز است طبق قانون",
     "en": "The wearing of a crash helmet is required by law",
+    "groupCode": 0
+  },
+  {
+    "id": 3351,
+    "fa": "شروع یک کار جدید در یک کشور خارجی احساس دلهره آور بود، اما من مصمم به موفقیت بودم",
+    "en": "Starting a new job in a foreign country felt daunting, but I was determined to succeed",
+    "groupCode": 0
+  },
+  {
+    "id": 3352,
+    "fa": "وقتی من هفته گذشته گم شدم، او (مرد) نمی دانست که من در مشکل هستم. اگر او (مرد) می دانست تو کجا بودی، سوراخی در کیهان پاره می کرد (پاره کرده بود) تا تو را به خانه بیاورد",
+    "en": "When I got lost last week, he didn't know I was in trouble. If he knew where you were, he would have torn a hole in the universe to bring you home",
+    "groupCode": 0
+  },
+  {
+    "id": 3353,
+    "fa": "این بزرگترین جامعه از زبان آموزان در جهان است",
+    "en": "It's the world's largest community of language learners",
+    "desc": "You need the possessive form \"world's\" to indicate that the community belongs to or is associated with the world.",
+    "groupCode": 0
+  },
+  {
+    "id": 3354,
+    "fa": "خیلی چیزای بیشتر هست که من میخوام بگم",
+    "en": "There's so much more I want to tell",
+    "groupCode": 0
+  },
+  {
+    "id": 3355,
+    "fa": "من نگاهی خواهم انداخت تا ببینم چقدر خوب با این کار مناسب است",
+    "en": "I'll take a look to see how well it fits the job",
     "groupCode": 0
   }
 ]
