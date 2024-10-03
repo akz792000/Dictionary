@@ -1,428 +1,4408 @@
 [
   {
     "id": 10001,
-    "en": "I love tea with chocolate. Me either! (I also)",
-    "de": "Ich mag Tee mit Schokolade. Ich auch!",
+    "en": "A B C D E F G H I J K L M N O P Q R S T U V W X Y Z",
+    "de": "ah be ce de eh(اِ) ef ge(گِ) ha(ها) ih(ای) jot(یُت) ka el em en oh pe qu(کو) er es te uh(او) vau(فآو) we(وِ) ix ypsilon(اُپسیلُن) zet",
     "groupCode": 1
   },
   {
     "id": 10002,
-    "en": "We are looking for the hotel Maritim",
-    "de": "Wir suchen das hotel Maritim",
+    "en": "How are you doing? Thank you, I'm doing well, and you? I'm all right",
+    "de": "Wie geht es dir? (1.Wie geht es Ihnen? 2.Wie geht's?) Dannke, es geht mir gut, und dir? Es geht",
     "groupCode": 1
   },
   {
     "id": 10003,
-    "en": "what is right?",
-    "de": "Was ist richtig?",
+    "en": "Hello, How's it going? It's going not so well. It's going badly",
+    "de": "Hallo, wie geht's? Mir geht's nicht so gut. Mir geht's Schlecht",
     "groupCode": 1
   },
   {
     "id": 10004,
-    "en": "Both are looking for something",
-    "de": "Die beiden suchen etwas",
+    "en": "Hello, How's it going? Good and you?",
+    "de": "Hallo, Wie geht's dir? Es geht und dir?",
     "groupCode": 1
   },
   {
     "id": 10005,
-    "en": "The woman says, the city map is correct",
-    "de": "Die Frau sagt, der Stadtplan stimmt",
+    "en": "Who is this? This is ali",
+    "de": "Wer ist das? Das is Ali",
     "groupCode": 1
   },
   {
     "id": 10006,
-    "en": "The man turns on the navigator",
-    "de": "Der Herr macht den Navigator an",
+    "en": "Excuse me please",
+    "de": "Entschuldigung Sie, bitte",
     "groupCode": 1
   },
   {
     "id": 10007,
+    "en": "Hope to see you",
+    "de": "Auf Wiedersehen",
+    "groupCode": 1
+  },
+  {
+    "id": 10008,
+    "en": "I'm unemployed at the moment",
+    "de": "Ich bin im Moment arbeitslos",
+    "groupCode": 1
+  },
+  {
+    "id": 10009,
+    "en": "zero one two three four five six seven eight nine ten",
+    "de": "null eins zwei drei vier fünf sechs sieben acht neun zehn",
+    "groupCode": 1
+  },
+  {
+    "id": 10010,
+    "en": "How is the weather today? The weather is bad today",
+    "de": "Wie ist das Wetter heute? Das Wetter ist heute schlecht",
+    "groupCode": 1
+  },
+  {
+    "id": 10011,
+    "en": "Why is the glass of water so hot?",
+    "de": "Warum ist das Glas Wasser so heiß?",
+    "groupCode": 1
+  },
+  {
+    "id": 10012,
+    "en": "Say your (polite) name?",
+    "de": "Sagen Sie Ihren Namen?",
+    "groupCode": 1
+  },
+  {
+    "id": 10013,
+    "en": "One more again slowly please",
+    "de": "Bitte noch einmal langsam",
+    "desc": "\n noch = again \n einmal = once",
+    "groupCode": 1
+  },
+  {
+    "id": 10014,
+    "en": "Get well soon!",
+    "de": "Gute Besserung!",
+    "groupCode": 1
+  },
+  {
+    "id": 10015,
+    "en": "See you later",
+    "de": "Bis Später",
+    "groupCode": 1
+  },
+  {
+    "id": 10016,
+    "en": "She is a saleswoman",
+    "de": "Sie ist Verkäuferin",
+    "groupCode": 1
+  },
+  {
+    "id": 10017,
+    "en": "Who knows most of the names?",
+    "de": "Wer weiß meisten Namen?",
+    "groupCode": 1
+  },
+  {
+    "id": 10018,
+    "en": "Good night. What is your name then? My name is Ali",
+    "de": "Gute nacht. Wie heißt du denn? Ich heiße Ali (Mein name ist Ali)",
+    "groupCode": 1
+  },
+  {
+    "id": 10019,
+    "en": "Hello, How is it going? It is going fine",
+    "de": "Hallo, wie geht's? Mir geht's super",
+    "groupCode": 1
+  },
+  {
+    "id": 10020,
+    "en": "\n Monday \n Tuesday \n Wednesday \n Thursday \n Friday \n Saturday \n Sunday",
+    "de": "\n Montag \n Dienstag \n Mittwoch \n Donnerstag \n Freitag \n Samstag \n Sonntag",
+    "groupCode": 1
+  },
+  {
+    "id": 10021,
+    "en": "Anne goes to her apartment",
+    "de": "Anne geht zu ihrer Wohnung",
+    "groupCode": 1
+  },
+  {
+    "id": 10022,
+    "en": "You are Mr. Bieber!",
+    "de": "Sie sind Herr Bieber!",
+    "groupCode": 1
+  },
+  {
+    "id": 10023,
+    "en": "Who are you?",
+    "de": "\n 1.Wer sind Sie? \n 2.Wer bist du?",
+    "groupCode": 1
+  },
+  {
+    "id": 10024,
+    "en": "I'm a nurse",
+    "de": "Ich bin Krankenpfleger",
+    "groupCode": 1
+  },
+  {
+    "id": 10025,
+    "en": "\n Subject pronoun \n\n I, you, he(M)/she(F)/it(N), we, you, they",
+    "de": "\n Subjektpronomen \n\n ich, du, er(M)/sie(F)/es(N), wir, ihr, sie-Sie",
+    "groupCode": 1
+  },
+  {
+    "id": 10026,
+    "en": "I study law but work as a saleswoman",
+    "de": "Ich studiere Jura aber arbeite als Verkäuferin",
+    "groupCode": 1
+  },
+  {
+    "id": 10027,
+    "en": "My brother likes to go surfing",
+    "de": "Mein Bruder geht gern surfen",
+    "groupCode": 1
+  },
+  {
+    "id": 10028,
+    "en": "Which ones do you know?",
+    "de": "Welche kennst du?",
+    "groupCode": 1
+  },
+  {
+    "id": 10029,
+    "en": "Welcome! I am very pleased too (very Nice to meet you)",
+    "de": "Willkommen! Freut mich sehr auch",
+    "groupCode": 1
+  },
+  {
+    "id": 10030,
+    "en": "Where do your (polite) partner come from?",
+    "de": "Woher kommt Ihr Partner?",
+    "groupCode": 1
+  },
+  {
+    "id": 10031,
+    "en": "Where do you come from?",
+    "de": "Woher kommen Sie?",
+    "groupCode": 1
+  },
+  {
+    "id": 10032,
+    "en": "Where do the persons come from?",
+    "de": "Woher kommen die Personen?",
+    "groupCode": 1
+  },
+  {
+    "id": 10033,
+    "en": "Where do you live now?",
+    "de": "Wo wohnst du jetzt?",
+    "groupCode": 1
+  },
+  {
+    "id": 10034,
     "en": "Who says that?",
     "de": "Wer sagt das?",
     "groupCode": 1
   },
   {
-    "id": 10008,
-    "en": "The woman, the navigator or none",
-    "de": "Die Frau, die Navigator oder keiner",
-    "groupCode": 1
-  },
-  {
-    "id": 10009,
-    "en": "After 600 meters please turn right",
-    "de": "Nach 600 Metern bitte rechts abbiegen",
-    "groupCode": 1
-  },
-  {
-    "id": 10010,
-    "en": "Drive straight ahead further",
-    "de": "Fahr geradeaus weiter",
-    "groupCode": 1
-  },
-  {
-    "id": 10011,
-    "en": "Please turn left",
-    "de": "Bitte links abbiegen",
-    "groupCode": 1
-  },
-  {
-    "id": 10012,
-    "en": "Please turn around",
-    "de": "Bitte wenden Sie",
-    "groupCode": 1
-  },
-  {
-    "id": 10013,
-    "en": "Drive back",
-    "de": "Fahr zurück",
-    "groupCode": 1
-  },
-  {
-    "id": 10014,
-    "en": "What do you see here?",
-    "de": "Was sehen Sie hier?",
-    "groupCode": 1
-  },
-  {
-    "id": 10015,
-    "en": "The bar is at the cube",
-    "de": "Der Stab ist an dem Würfel",
-    "groupCode": 1
-  },
-  {
-    "id": 10016,
-    "en": "The bar is above the pyramid",
-    "de": "Der Stab ist über der Pyramide",
-    "groupCode": 1
-  },
-  {
-    "id": 10017,
-    "en": "The bar is under the pyramid",
-    "de": "Der Stab ist unter der Pyramide",
-    "groupCode": 1
-  },
-  {
-    "id": 10018,
-    "en": "The bar is next to the cube",
-    "de": "Der Stab ist neben dem Würfel",
-    "groupCode": 1
-  },
-  {
-    "id": 10019,
-    "en": "The bar is in front of the cube",
-    "de": "Der Stab ist vor dem Würfel",
-    "groupCode": 1
-  },
-  {
-    "id": 10020,
-    "en": "The bar is between the cubes",
-    "de": "Der Stock ist zwischen den Würfeln",
-    "groupCode": 1
-  },
-  {
-    "id": 10021,
-    "en": "The stick is on the cube",
-    "de": "Der Stab ist auf dem Würfel",
-    "groupCode": 1
-  },
-  {
-    "id": 10022,
-    "en": "The stick is behind the cube",
-    "de": "Der Stab ist hinter dem Würfel",
-    "groupCode": 1
-  },
-  {
-    "id": 10023,
-    "en": "The rod is in the cube",
-    "de": "Der Stab ist in dem Würfel",
-    "groupCode": 1
-  },
-  {
-    "id": 10024,
-    "en": "The restaurant is to the left of the café",
-    "de": "Das Restaurant ist links neben dem Cafe",
-    "groupCode": 1
-  },
-  {
-    "id": 10025,
-    "en": "The river is between the cafés",
-    "de": "Der Fluss ist zwischen den Cafes",
-    "groupCode": 1
-  },
-  {
-    "id": 10026,
-    "en": "The cathedral (the church) is next to the park, between the park and the street",
-    "de": "Der Dom (Die Kirche) ist neben dem Park, zwischen dem Park und der Straße",
-    "groupCode": 1
-  },
-  {
-    "id": 10027,
-    "en": "The traffic light is on/at the street / at the intersection of the streets",
-    "de": "Die Ampel ist an der Straße / an der Kreuzung der Straßen",
-    "groupCode": 1
-  },
-  {
-    "id": 10028,
-    "en": "The police station is in front of the park, next to the street",
-    "de": "Die Polizei ist vor dem Park neben der Straße",
-    "groupCode": 1
-  },
-  {
-    "id": 10029,
-    "en": "The bridge is on/at the street, to the left of the traffic light",
-    "de": "Die Brücke ist an der Straße neben der Ampel, links neben der Ampel",
-    "groupCode": 1
-  },
-  {
-    "id": 10030,
-    "en": "That is in the city center",
-    "de": "Das ist in der Stadtmitte",
-    "groupCode": 1
-  },
-  {
-    "id": 10031,
-    "en": "Is the Maritim Hotel in the center?",
-    "de": "Das Maritim Hotel ist im Zentrum?",
-    "groupCode": 1
-  },
-  {
-    "id": 10032,
-    "en": "Yes, between the train station and the cathedral",
-    "de": "Ja, zwischen dem Bahnhof und dem Dom",
-    "groupCode": 1
-  },
-  {
-    "id": 10033,
-    "en": "Then you will pass under a bridge",
-    "de": "Dann kommen Sie unter einer Brücke durch",
-    "groupCode": 1
-  },
-  {
-    "id": 10034,
-    "en": "At the traffic light, turn left",
-    "de": "An der Ampel fahren Sie nach links",
-    "groupCode": 1
-  },
-  {
     "id": 10035,
-    "en": "In front of the restaurant, turn right.",
-    "de": "Vor dem Restaurant fahren Sie nach rechts",
+    "en": "This is Pablo. He comes from Spain, from Leon. He now lives in Munich",
+    "de": "Das ist Pablo. Er kommt aus Spanien (اِشپانین), aus Leon. Er wohnt jetzt in München",
     "groupCode": 1
   },
   {
     "id": 10036,
-    "en": "Drive past the cafés",
-    "de": "An den Cafés fahren Sie vorbei",
+    "en": "Complete the table with information from 4a",
+    "de": "Ergänzen Sie die Tabelle mit Informationen aus 4a",
     "groupCode": 1
   },
   {
     "id": 10037,
-    "en": "I'm also a stranger here",
-    "de": "Ich bin auch fremd hier",
+    "en": "This is Dana. She is from Lublin. She now lives in Germany",
+    "de": "Das ist Dana. Sie ist aus Lublin. Sie wohnt jetzt in Deutschland",
     "groupCode": 1
   },
   {
     "id": 10038,
-    "en": "Can you help me?",
-    "de": "Können Sie mir helfen?",
+    "en": "Do you (polite) come from Germany? ",
+    "de": "Kommen Sie aus Deutschland?",
     "groupCode": 1
   },
   {
     "id": 10039,
-    "en": "Drive one kilometer straight ahead, and then you'll see it",
-    "de": "Fahren Sie einen Kilometer geradeaus, und dann sehen Sie es",
+    "en": "Registration in the company",
+    "de": "Anmeldung in der Firma",
     "groupCode": 1
   },
   {
     "id": 10040,
-    "en": "Where is the train station here?",
-    "de": "Wo ist denn hier der Bahnhof?",
+    "en": "Which cafe de we go?",
+    "de": "In welches Café gehen wir?",
+    "desc": "\"Welche\" is used for feminine and plural nouns:\n\n\"Welche Blume magst du?\" (Which flower do you like?)\n\"Welche Bücher liest du?\" (Which books are you reading?)\n\"Welches\" is used for neuter nouns:\n\n\"Welches Auto fährst du?\" (Which car are you driving?)\n\"Welches Tier ist das?\" (What animal is this?)",
     "groupCode": 1
   },
   {
     "id": 10041,
-    "en": "Do you know the way?",
-    "de": "Kennen Sie den Weg?",
+    "en": "\n Object pronoun - Akkusative \n\n me, you, him(M)/her(F)/it(N), us, you, them",
+    "de": "\n Objektpronomen - Akkusative \n\n mich, dich, ihn(M)/sie(F)/es(N), uns, euch, sie-Sie",
+    "desc": "بی واسطه - چه چیزی را - چه کسی را",
     "groupCode": 1
   },
   {
     "id": 10042,
-    "en": "Turn around here",
-    "de": "Wenden Sie hier",
+    "en": "\n Object pronoun - Dativ \n\n me, you, him(M)/her(F)/it(N), us, you, them",
+    "de": "\n Objektpronomen - Dativ \n\n mir, dir, ihm(M)/ihr(F)/ihm(N), uns, euch, ihnen-Ihnen",
+    "desc": "با واسطه - به چه چیزی - به چه کسی",
     "groupCode": 1
   },
   {
     "id": 10043,
-    "en": "That is nearby",
-    "de": "Das ist in der Nähe",
+    "en": "What is your family name? (polite)",
+    "de": "Wie ist Ihr (plural) Familienname?",
+    "desc": "\"Ihr\" is a formal pronoun used when addressing someone with respect, especially in professional or formal situations. It is equivalent to the English \"your\" (formal) when addressing someone with respect",
     "groupCode": 1
   },
   {
     "id": 10044,
-    "en": "I am looking for the train station",
-    "de": "Ich suche den Bahnhof.",
+    "en": "He beats the children",
+    "de": "Er schlägt die kinder",
     "groupCode": 1
   },
   {
     "id": 10045,
-    "en": "Thanks anyway",
-    "de": "Danke schön",
+    "en": "What is your first name? (polite)",
+    "de": "Wie ist Ihr (plural) Vorname?",
     "groupCode": 1
   },
   {
     "id": 10046,
-    "en": "I'm sorry. I'm not from here",
-    "de": "Tut mir leid. Ich bin nicht von hier",
+    "en": "My grandpa loves my brother and my brother loves my grandpa",
+    "de": "Mein Opa liebt meinen Bruder und mein Bruder liebt meinen Opa",
     "groupCode": 1
   },
   {
     "id": 10047,
-    "en": "You turn right",
-    "de": "Sie biegen rechts ab",
+    "en": "What is your (plural) zip code? (polite)",
+    "de": "Wie ist Ihr Postleitzahl/Ort?",
     "groupCode": 1
   },
   {
     "id": 10048,
-    "en": "You drive straight ahead",
-    "de": "Sie fahren geradeaus",
+    "en": "What is your (plural) Telephone number?",
+    "de": "Wie ist Ihr Telefonnummer?",
     "groupCode": 1
   },
   {
     "id": 10049,
-    "en": "Should I turn right or left?",
-    "de": "Muss ich nach rechts oder links fahren?",
+    "en": "I come from Greece, I speak Greek, and I am Greek",
+    "de": "Ich komme aus Griechenland, Ich spreche Griechisch und Ich bin Grieche/Griechin",
     "groupCode": 1
   },
   {
     "id": 10050,
-    "en": "Turn right at the next street",
-    "de": "Fahren Sie die nächste Straße rechts",
+    "en": "An elegant woman comes to Ali",
+    "de": "Eine elegante Frau kommt zu Ali",
     "groupCode": 1
   },
   {
     "id": 10051,
+    "en": "We can't come",
+    "de": "Wir können nicht kommen",
+    "groupCode": 1
+  },
+  {
+    "id": 10052,
+    "en": "My origin is from Germany",
+    "de": "Meine Herkunft ist aus Deutschland",
+    "groupCode": 1
+  },
+  {
+    "id": 10053,
+    "en": "There are many bars in Berlin but there are few discos in Augsburg",
+    "de": "Es gibt viele Bars in Berlin aber es gibt wenige Discos in Augsburg",
+    "desc": "Es gibt: there are",
+    "groupCode": 1
+  },
+  {
+    "id": 10054,
+    "en": "What time is your family coming today?",
+    "de": "Wie viel Uhr kommt deine Familie heute?",
+    "groupCode": 1
+  },
+  {
+    "id": 10055,
+    "en": "I care for patients",
+    "de": "Ich pflege Patienten",
+    "groupCode": 1
+  },
+  {
+    "id": 10056,
+    "en": "Where is your friend from?",
+    "de": "Woher kommt dein Freund?",
+    "groupCode": 1
+  },
+  {
+    "id": 10057,
+    "en": "I am coming in ten minutes",
+    "de": "Ich komme in zehn Minuten",
+    "groupCode": 1
+  },
+  {
+    "id": 10058,
+    "en": "I speak Swedish well, but my mother language is English",
+    "de": "Ich spreche gut Schwedisch, aber meine Muttersprache ist Englisch",
+    "groupCode": 1
+  },
+  {
+    "id": 10059,
+    "en": "You always come too late",
+    "de": "Du kommst immer zu spät",
+    "groupCode": 1
+  },
+  {
+    "id": 10060,
+    "en": "I have a craving for cake",
+    "de": "\n 1.Ich habe Bock auf Eis 2.Ich habe Lust auf Torte",
+    "desc": "While both sentences express a desire for ice cream, the first one (\"Ich habe Bock auf Eis\") might imply a bit more enthusiasm or eagerness compared to the second one (\"Ich habe Lust auf Eis\").",
+    "groupCode": 1
+  },
+  {
+    "id": 10061,
+    "en": "I am sorry, I can't now",
+    "de": "Es tut mir leid, Ich kann jetzt nicht",
+    "groupCode": 1
+  },
+  {
+    "id": 10062,
+    "en": "Pardon? (question)",
+    "de": "Wie bitte?",
+    "groupCode": 1
+  },
+  {
+    "id": 10063,
+    "en": "Once again, please",
+    "de": "Noch einmal, bitte",
+    "groupCode": 1
+  },
+  {
+    "id": 10064,
+    "en": "Please repeat (fromal)",
+    "de": "Bitte wiederholen Sie!",
+    "groupCode": 1
+  },
+  {
+    "id": 10065,
+    "en": "Do you speak German? No, I speak no German",
+    "de": "Sprechen Sie Deutsch? Nein, Ich spreche kein Deutsch",
+    "groupCode": 1
+  },
+  {
+    "id": 10066,
+    "en": "Where do you live? I live in France",
+    "de": "Wo lebst du? Ich lebe in Frankreich",
+    "groupCode": 1
+  },
+  {
+    "id": 10067,
+    "en": "I speak a bit of German?",
+    "de": "Ich spreche ein bisschen Deutsch?",
+    "groupCode": 1
+  },
+  {
+    "id": 10068,
+    "en": "I don't understand",
+    "de": "Ich verstehe nicht",
+    "groupCode": 1
+  },
+  {
+    "id": 10069,
+    "en": "Where do they live? I don't know",
+    "de": "Wo leben sie? Ich weiß nicht",
+    "groupCode": 1
+  },
+  {
+    "id": 10070,
+    "en": "Who is that? No idea",
+    "de": "Wer ist that? Keine Ahnung",
+    "groupCode": 1
+  },
+  {
+    "id": 10071,
+    "en": "A moment, please",
+    "de": "Einen Moment, bitte",
+    "groupCode": 1
+  },
+  {
+    "id": 10072,
+    "en": "Yes / No / may be",
+    "de": "Ja / Nein / Vielleicht",
+    "groupCode": 1
+  },
+  {
+    "id": 10073,
+    "en": "Complete the dialog",
+    "de": "Ergänzen Sie die Dialog",
+    "groupCode": 1
+  },
+  {
+    "id": 10074,
+    "en": "They help the fathers",
+    "de": "Sie helfen den vätern",
+    "groupCode": 1
+  },
+  {
+    "id": 10075,
+    "en": "Write sentences",
+    "de": "Schreiben Sie die Sätze",
+    "groupCode": 1
+  },
+  {
+    "id": 10076,
+    "en": "Then close your (polite) books",
+    "de": "Schließen Sie dann Ihre Bücher",
+    "groupCode": 1
+  },
+  {
+    "id": 10077,
+    "en": "How do you spell that?",
+    "de": "Wie buchstabiert man das?",
+    "groupCode": 1
+  },
+  {
+    "id": 10078,
+    "en": "Write down (Note) the names",
+    "de": "Notieren Sie die Namen",
+    "groupCode": 1
+  },
+  {
+    "id": 10079,
+    "en": "This is my pen",
+    "de": "Das ist mein Kuli",
+    "groupCode": 1
+  },
+  {
+    "id": 10080,
+    "en": "I have a pencil",
+    "de": "Ich habe einen Bleistift",
+    "groupCode": 1
+  },
+  {
+    "id": 10081,
+    "en": "I need an eraser",
+    "de": "Ich brauche einen Radiergummi",
+    "groupCode": 1
+  },
+  {
+    "id": 10082,
+    "en": "The marker is colorful",
+    "de": "Der Marker ist bunt",
+    "groupCode": 1
+  },
+  {
+    "id": 10083,
+    "en": "She is in a good mood, happy and healthy",
+    "de": "Sie ist gut drauf, glücklich und gesund",
+    "groupCode": 1
+  },
+  {
+    "id": 10084,
+    "en": "Is his German very good?",
+    "de": "Ist sein Deutsch sehr gut?",
+    "groupCode": 1
+  },
+  {
+    "id": 10085,
+    "en": "My husband, my son, my daughter and my wife",
+    "de": "Mein Mann, mein Sohn, meine Tochter and meine Frau",
+    "groupCode": 1
+  },
+  {
+    "id": 10086,
+    "en": "My husband is very smart",
+    "de": "Mein Mann ist sehr klug",
+    "groupCode": 1
+  },
+  {
+    "id": 10087,
+    "en": "I am very nice",
+    "de": "Ich bin sehr nett",
+    "groupCode": 1
+  },
+  {
+    "id": 10088,
+    "en": "Is that you?",
+    "de": "Bist du das?",
+    "desc": "\"Das\" can be translated to \"this\" when it refers to something nearby or within close proximity.\n\"Das\" can be translated to \"that\" when it refers to something more distant or not immediately close.",
+    "groupCode": 1
+  },
+  {
+    "id": 10089,
+    "en": "The task is simple",
+    "de": "Die Aufgabe ist einfach",
+    "groupCode": 1
+  },
+  {
+    "id": 10090,
+    "en": "Hear the telephone conversation",
+    "de": "Hören Sie das Telefongespräch",
+    "groupCode": 1
+  },
+  {
+    "id": 10091,
+    "en": "The telephone number is wrong",
+    "de": "Die Telefonnummer ist falsch",
+    "groupCode": 1
+  },
+  {
+    "id": 10092,
+    "en": "This is the boss",
+    "de": "Das ist der Chef",
+    "groupCode": 1
+  },
+  {
+    "id": 10093,
+    "en": "These two apples look the same too",
+    "de": "Diese zwei Äpfel sehen gleich auch",
+    "desc": "Diese (Feminine) = Dieser (Masculine) = these \n Gleich = same \n",
+    "groupCode": 1
+  },
+  {
+    "id": 10094,
+    "en": "Ali saves the number",
+    "de": "Ali speichert die Nummer",
+    "groupCode": 1
+  },
+  {
+    "id": 10095,
+    "en": "The prefix for munich is 089",
+    "de": "Die Vorwahl für München ist 089",
+    "groupCode": 1
+  },
+  {
+    "id": 10096,
+    "en": "The USA (come from USA)",
+    "de": "Die USA (komme aus den USA)",
+    "groupCode": 1
+  },
+  {
+    "id": 10097,
+    "en": "IRAN (come from Iran)",
+    "de": "Der Iran (komme aus dem iran)",
+    "groupCode": 1
+  },
+  {
+    "id": 10098,
+    "en": "Hear the numbers (pay)",
+    "de": "Hören Sie die Zahlen",
+    "groupCode": 1
+  },
+  {
+    "id": 10099,
+    "en": "Speak out loud",
+    "de": "Sprechen Sie laut",
+    "desc": "laut = loud",
+    "groupCode": 1
+  },
+  {
+    "id": 10100,
+    "en": "Is that your cell phone number (polite)? Yes, my cell phone number is...",
+    "de": "Ist das Ihr Handynummer? Ja, meine Handynummer ist ...",
+    "groupCode": 1
+  },
+  {
+    "id": 10101,
+    "en": "Is your email address new? Yes, my email address is new...",
+    "de": "Ist deine E-Mail-Adresse neu? Ja, meine E-Mail-Adresse ist jetzt ...",
+    "groupCode": 1
+  },
+  {
+    "id": 10102,
+    "en": "Do you have Skype? Yes, sure! My Skype name is...",
+    "de": "Hast du Skype? Ja, klar! Mein Skype-Name ist ...",
+    "groupCode": 1
+  },
+  {
+    "id": 10103,
+    "en": "Are you on Facebook? No, I'm not on Facebook",
+    "de": "Bist du bei Facebook? Nein, Ich bin nicht bei Facebook",
+    "groupCode": 1
+  },
+  {
+    "id": 10104,
+    "en": "Does Ali have Skype?",
+    "de": "Hat Ali Skype?",
+    "groupCode": 1
+  },
+  {
+    "id": 10105,
+    "en": "Hey Ali, all good? No, I'm a bit stressed",
+    "de": "Hey Ali, alles klar? Nein, Ich bin ein bisschen im Stress",
+    "groupCode": 1
+  },
+  {
+    "id": 10106,
+    "en": "Which of these banks do you know?",
+    "de": "Welche dieser Banken kennst du?",
+    "groupCode": 1
+  },
+  {
+    "id": 10107,
+    "en": "Do you have Telegram?",
+    "de": "\n 1.Haben Sie Telegram? \n 2.Hast du Telegram?",
+    "groupCode": 1
+  },
+  {
+    "id": 10108,
+    "en": "Read the sentences",
+    "de": "Lesen Sie die Sätze",
+    "groupCode": 1
+  },
+  {
+    "id": 10109,
+    "en": "Is French easy or difficult? It's beautiful but difficult",
+    "de": "Ist Französisch einfach oder schwer? Es ist schön, aber schwer",
+    "groupCode": 1
+  },
+  {
+    "id": 10110,
+    "en": "Are you angry? No, I'm not angry",
+    "de": "Bist du wütend? Nein, Ich bin nicht wütend",
+    "groupCode": 1
+  },
+  {
+    "id": 10111,
+    "en": "I am so tired",
+    "de": "Ich bin so müde",
+    "groupCode": 1
+  },
+  {
+    "id": 10112,
+    "en": "Is Vienna big, old, beautiful and cool?",
+    "de": "Ist Wien groß, alt, schön und cool?",
+    "groupCode": 1
+  },
+  {
+    "id": 10113,
+    "en": "He has very beautiful shoes",
+    "de": "Er hat sehr schöne Schuhe",
+    "groupCode": 1
+  },
+  {
+    "id": 10114,
+    "en": "I am cold",
+    "de": "Mir ist kalt",
+    "desc": "In German, the verb \"haben\" (to have) is often used to express physical states and needs, such as hunger, thirst, or pain. So, when you say \"Ich habe Hunger,\" you are literally saying \"I have hunger\" in English.\n\nOn the other hand, the phrase \"Mir ist kalt\" (literally, \"to me is cold\") is used to express sensations such as cold or warmth, rather than physical needs. This construction uses the dative case, which is used to indicate the indirect object of a sentence. In this case, \"mir\" (to me) is the indirect object, and \"kalt\" (cold) is the subject of the sentence.",
+    "groupCode": 1
+  },
+  {
+    "id": 10115,
+    "en": "I am hungry and thirsty ",
+    "de": "Ich habe Hunger und Durst",
+    "desc": "\n\"Ich habe\" is the correct and standard form of \"I have\" in German. However, in spoken language or informal writing, it's common to use the contracted form \"Ich hab\" instead of \"Ich habe\".",
+    "groupCode": 1
+  },
+  {
+    "id": 10116,
+    "en": "Where are your parents?",
+    "de": "Wo sind deine Eltern?",
+    "groupCode": 1
+  },
+  {
+    "id": 10117,
+    "en": "Do you speak Portuguese? No, I don't speak Portuguese so well. I speak spanish. I am spanish",
+    "de": "Sprichst du Portugiesisch? Nein, Ich spreche nicht so gut Portugiesisch. Ich spreche Spanisch. Ich bin Spanier",
+    "groupCode": 1
+  },
+  {
+    "id": 10118,
+    "en": "The violin is very inexpensive",
+    "de": "Die Geige ist sehr günstig",
+    "groupCode": 1
+  },
+  {
+    "id": 10119,
+    "en": "You speak Polish! Yes a little",
+    "de": "Du sprichst Polnisch! Ja, ein bisschen",
+    "groupCode": 1
+  },
+  {
+    "id": 10120,
+    "en": "Tehran is of course expensive",
+    "de": "Tehran ist Natürlich teuer",
+    "groupCode": 1
+  },
+  {
+    "id": 10121,
+    "en": "But you speak German well",
+    "de": "Aber du sprichst gut Deutsch",
+    "groupCode": 1
+  },
+  {
+    "id": 10122,
+    "en": "We learn German, but German is a bit difficult",
+    "de": "Wir lernen Deutsch, aber Deutsch ist ein bisschen schwer",
+    "groupCode": 1
+  },
+  {
+    "id": 10123,
+    "en": "My daughter is young",
+    "de": "Meine Tochter ist jung",
+    "groupCode": 1
+  },
+  {
+    "id": 10124,
+    "en": "Which languages do you speak?",
+    "de": "Welche Sprachen sprichst du?",
+    "groupCode": 1
+  },
+  {
+    "id": 10125,
+    "en": "Munich is a city in Germany",
+    "de": "München ist eine Stadt in Deutschland",
+    "groupCode": 1
+  },
+  {
+    "id": 10126,
+    "en": "Canada is wonderful",
+    "de": "Kanada ist wunderbar",
+    "groupCode": 1
+  },
+  {
+    "id": 10127,
+    "en": "He is Chinese and speaks Chinese and a little German",
+    "de": "Er ist Chinese und spricht Chinesisch und ein bisschen Deutsch",
+    "groupCode": 1
+  },
+  {
+    "id": 10128,
+    "en": "Now I learn German",
+    "de": "Jetzt lerne ich Deutsch",
+    "groupCode": 1
+  },
+  {
+    "id": 10129,
+    "en": "Dana and Pablo are my friends. You also learn German",
+    "de": "Dana und Pablo sind meine Freunde. Sie lernen auch Deutsch",
+    "groupCode": 1
+  },
+  {
+    "id": 10130,
+    "en": "This is my German course",
+    "de": "Das ist mein Deutschkurs",
+    "groupCode": 1
+  },
+  {
+    "id": 10131,
+    "en": "We are 14 people",
+    "de": "Wir sind 14 Leute",
+    "groupCode": 1
+  },
+  {
+    "id": 10132,
+    "en": "Together we are 420 years old",
+    "de": "Zusammen sind wir 420 Jahre alt",
+    "groupCode": 1
+  },
+  {
+    "id": 10133,
+    "en": "we need a table and a chair",
+    "de": "Wir brauchen einen Tisch und einen Stuhl",
+    "groupCode": 1
+  },
+  {
+    "id": 10134,
+    "en": "Who has a chair?",
+    "de": "Wer hat einen Stuhl?",
+    "groupCode": 1
+  },
+  {
+    "id": 10135,
+    "en": "I don't like the bed and bookcase",
+    "de": "Ich mag das Bett und das Bücherregal nicht",
+    "groupCode": 1
+  },
+  {
+    "id": 10136,
+    "en": "That's Ali and Ilia",
+    "de": "Das sind Ali und Ilia",
+    "groupCode": 1
+  },
+  {
+    "id": 10137,
+    "en": "She is 24 years old and saleswoman",
+    "de": "Sie ist 24 Jahre alt und Verkäuferin",
+    "groupCode": 1
+  },
+  {
+    "id": 10138,
+    "en": "What is your profession? I am an engineer or computer scientist or nerusery teacher or nurse by profession",
+    "de": "Was bist du von Beruf? Ich bin Ingenieur/Ingenieurin oder Informatiker/Informatikerin oder Erzieher/Erzieherin oder Krankenpfleger/Krankenpflegerin von Beruf",
+    "groupCode": 1
+  },
+  {
+    "id": 10139,
+    "en": "Akbar is bus driver but I'm unemployed at the moment",
+    "de": "Akbar ist Busfahrer aber Ich bin im Moment arbeitslos",
+    "groupCode": 1
+  },
+  {
+    "id": 10140,
+    "en": "The teacher's name is Anne. She teaches biology and chemistry at the high school",
+    "de": "Die Lehrerin heißt Anne. Sie unterrichtet Biologie und Chemie am Gymnasium",
+    "groupCode": 1
+  },
+  {
+    "id": 10141,
+    "en": "Ukrainian \n Russian \n English \n German \n Spanish \n",
+    "de": "Ukrainisch \n Russisch \n Englisch \n Deutsch \n Spanisch \n",
+    "groupCode": 1
+  },
+  {
+    "id": 10142,
+    "en": "She is really great",
+    "de": "Sie ist wirklich toll",
+    "groupCode": 1
+  },
+  {
+    "id": 10143,
+    "en": "Right or wrong",
+    "de": "Richtig oder Falsch",
+    "groupCode": 1
+  },
+  {
+    "id": 10144,
+    "en": "The food is bland",
+    "de": "Das Essen ist fade",
+    "groupCode": 1
+  },
+  {
+    "id": 10145,
+    "en": "Ali speaks four languages",
+    "de": "Ali spricht vier Sprachen",
+    "groupCode": 1
+  },
+  {
+    "id": 10146,
+    "en": "How old is Ali? Ali is 42 years old",
+    "de": "Wie alt ist Ali? Ali ist 42 Jahre alt",
+    "groupCode": 1
+  },
+  {
+    "id": 10147,
+    "en": "How old are you?",
+    "de": "Wie alt sind Sie?",
+    "groupCode": 1
+  },
+  {
+    "id": 10148,
+    "en": "Do you like going to clubs? No, I prefer going to cafes",
+    "de": "Gehst du gern in Clubs? Nein, Ich gehe lieber in Cafés",
+    "desc": "Both \"I prefer going to cafes\" and \"I prefer to go to cafes\" are correct. The first uses a gerund (\"going\"), while the second uses an infinitive (\"to go\"). They mean the same thing but might be used in different contexts or for stylistic variation.",
+    "groupCode": 1
+  },
+  {
+    "id": 10149,
+    "en": "Pizza with cheese",
+    "de": "Pizza mit Käse",
+    "groupCode": 1
+  },
+  {
+    "id": 10150,
+    "en": "The closet is cool. Do you like the closet?",
+    "de": "Der Schrank ist cool. Magst du den Schrank?",
+    "groupCode": 1
+  },
+  {
+    "id": 10151,
+    "en": "This is a cat",
+    "de": "Das ist eine Katze",
+    "groupCode": 1
+  },
+  {
+    "id": 10152,
+    "en": "A bear runs in the forest",
+    "de": "Ein Bär läuft im Wald",
+    "desc": "\n Bär = bear \n läuft = run \n im = in the \n Wald = forest",
+    "groupCode": 1
+  },
+  {
+    "id": 10153,
+    "en": "I buy the sofa",
+    "de": "Ich kaufe das Sofa",
+    "groupCode": 1
+  },
+  {
+    "id": 10154,
+    "en": "This is a small dog",
+    "de": "Das ist ein kleiner Hund",
+    "desc": "In German, the word \"klein\" (small) is an adjective that modifies the noun \"Hund\" (dog). Adjectives in German change their form based on the gender, number, and case of the noun they are describing. In this case, \"Hund\" is a masculine noun, so the correct form of the adjective is \"kleiner\" to match the gender and case",
+    "groupCode": 1
+  },
+  {
+    "id": 10155,
+    "en": "Is Germany big or small?",
+    "de": "Ist Deutschland groß oder klein?",
+    "groupCode": 1
+  },
+  {
+    "id": 10156,
+    "en": "Would you like to go to a cafe? No, I would like to sleep now",
+    "de": "Möchtest du in ein Café gehen? Nein, Ich möchte jetzt schlafen",
+    "groupCode": 1
+  },
+  {
+    "id": 10157,
+    "en": "Where is the bathroom?",
+    "de": "Wo ist das Badezimmer?",
+    "groupCode": 1
+  },
+  {
+    "id": 10158,
+    "en": "Do you like the bedroom or not?",
+    "de": "Magst du das Schlafzimmer oder nicht?",
+    "groupCode": 1
+  },
+  {
+    "id": 10159,
+    "en": "My daughter is very smart",
+    "de": "Meine Tochter ist sehr klug",
+    "groupCode": 1
+  },
+  {
+    "id": 10160,
+    "en": "The food needs more salt and suger",
+    "de": "Das Essen braucht mehr Salz und Zucker",
+    "groupCode": 1
+  },
+  {
+    "id": 10161,
     "en": "Very kind. Thank you very much",
     "de": "Sehr nett. Vielen Dank",
     "groupCode": 1
   },
   {
-    "id": ,
-    "en": "I always drink a cup of tea for lunch",
-    "de": "Ich trinke immer eine Tasse Tee zum Mittagessen",
+    "id": 10162,
+    "en": "Would you like to go to the hotel by foot?",
+    "de": "Möchtest du zu Fuss bis zum Hotel gehen?",
     "groupCode": 1
   },
   {
-    "id": ,
-    "en": "I meet my girl friends Anna and Julia in the café",
-    "de": "Ich treffe meine Freundinnen Anna und Julia im Café",
+    "id": 10163,
+    "en": "Bill, please",
+    "de": "\n 1.Rechnung, bitte \n 2.Zahlen, bitte",
     "groupCode": 1
   },
   {
-    "id": ,
-    "en": "My friends like to eat Italian for dinner",
-    "de": "Meine Freunde essen gern italienisch zum Abendessen",
+    "id": 10164,
+    "en": "The pizza is cold",
+    "de": "Die Pizza ist kalt",
     "groupCode": 1
   },
   {
-    "id": ,
-    "en": "She meets her friends every Thursday",
-    "de": "Sie trifft ihre Freunde jeden Donnerstag",
+    "id": 10165,
+    "en": "Where is the restaurant and the library?",
+    "de": "Wo ist das Restaurant und die Bibliothek?",
     "groupCode": 1
   },
   {
-    "id": ,
-    "en": "She meets her grandma every week",
-    "de": "Sie trifft ihre Oma jede Woche",
+    "id": 10166,
+    "en": "The food is here",
+    "de": "Das Essen ist hier",
     "groupCode": 1
   },
   {
-    "id": ,
-    "en": "Do you like to eat yogurt?",
-    "de": "Isst du gern Joghurt?",
+    "id": 10167,
+    "en": "Here is a sandwich with egg and cheese",
+    "de": "Hier ist ein Sandwich mit Ei und Käse",
     "groupCode": 1
   },
   {
-    "id": ,
-    "en": "Mr Graf, you have to do sports in the evenings",
-    "de": "Herr Graf, Sie müssen abends Sport machen",
+    "id": 10168,
+    "en": "Who are you? I am Ali",
+    "de": "Wer bist du? Ich bin Ali",
     "groupCode": 1
   },
   {
-    "id": ,
-    "en": "What do you do in the mornings",
-    "de": "Was machst du morgens?",
+    "id": 10169,
+    "en": "Here is the menu",
+    "de": "Hier ist die Speisekarte",
     "groupCode": 1
   },
   {
-    "id": ,
-    "en": "I don't do sports in the evenings",
-    "de": "Ich mache abends keinen Sport",
+    "id": 10170,
+    "en": "I come from Italy, I speak Italian, and I am Italian",
+    "de": "Ich komme aus Italien, Ich spreche Italienisch und Ich bin Italiener/Italienerin",
     "groupCode": 1
   },
   {
-    "id": ,
-    "en": "",
-    "de": "wiesco macht du das? das ich gar nicht",
+    "id": 10171,
+    "en": "I come from Portugal, I speak Portuguese, and I am Portuguese",
+    "de": "Ich komme aus Portugal, Ich spreche Portugiesisch und Ich bin Portugiese/Portugiesin",
     "groupCode": 1
   },
   {
-    "id": ,
-    "en": "",
-    "de": "",
+    "id": 10172,
+    "en": "I come from Syria, I speak Arabic, and I am Syrian",
+    "de": "Ich komme aus Syrien, Ich spreche Arabisch und Ich bin Syrer/Syrerin",
     "groupCode": 1
   },
   {
-    "id": ,
-    "en": "",
-    "de": "",
+    "id": 10173,
+    "en": "U-seven and u-eight come on platform ten",
+    "de": "U-Sieben und U-acht kommen auf Gleis zehn",
     "groupCode": 1
   },
   {
-    "id": ,
-    "en": "",
-    "de": "",
+    "id": 10174,
+    "en": "Would you (polite) like to pay in cash?",
+    "de": "Möchten Sie bar zahlen?",
     "groupCode": 1
   },
   {
-    "id": ,
-    "en": "",
-    "de": "",
+    "id": 10175,
+    "en": "My girlfriend is from Germany",
+    "de": "Meine Freundin kommt aus Deutschland",
     "groupCode": 1
   },
   {
-    "id": ,
-    "en": "",
-    "de": "",
+    "id": 10176,
+    "en": "Attention, the train to Bonn comes at seven o'clock",
+    "de": "Achtung, Der Zug nach Bonn kommt um sieben Uhr",
     "groupCode": 1
   },
   {
-    "id": ,
-    "en": "",
-    "de": "",
+    "id": 10177,
+    "en": "Is the ICE coming at four o'clock? And is the ICE on platform ten?",
+    "de": "Kommt der ICE um vier Uhr? Und ist der ICE auf Gleis zehen?",
     "groupCode": 1
   },
   {
-    "id": ,
-    "en": "",
-    "de": "",
+    "id": 10178,
+    "en": "When does bus number fourteen come?",
+    "de": "Wann kommt Bus Nummer vierzehn?",
     "groupCode": 1
   },
   {
-    "id": ,
-    "en": "",
-    "de": "",
+    "id": 10179,
+    "en": "I'm having a party and my friends are coming",
+    "de": "Ich mache eine Party und meine Freunde kommen",
     "groupCode": 1
   },
   {
-    "id": ,
-    "en": "",
-    "de": "",
+    "id": 10180,
+    "en": "Romania is also great",
+    "de": "Rumänien ist auch super",
     "groupCode": 1
   },
   {
-    "id": ,
-    "en": "",
-    "de": "",
+    "id": 10181,
+    "en": "I drink coffee",
+    "de": "Ich trinke Kaffee",
+    "groupCode": 1
+  },
+  {
+    "id": 10182,
+    "en": "My bag is blue",
+    "de": "Meine Tasche ist blau",
+    "groupCode": 1
+  },
+  {
+    "id": 10183,
+    "en": "I wear my jacket",
+    "de": "Ich trage meine Jacke",
+    "groupCode": 1
+  },
+  {
+    "id": 10184,
+    "en": "Oh no, the taxi isn't here anymore!",
+    "de": "Oh nein, das Taxi ist nicht mehr hier!",
+    "desc": "mehr = more",
+    "groupCode": 1
+  },
+  {
+    "id": 10185,
+    "en": "Now I have a big problem",
+    "de": "Jetzt habe ich ein großes Problem",
+    "groupCode": 1
+  },
+  {
+    "id": 10186,
+    "en": "Your passport is not in taxi, it is in your hand",
+    "de": "Dein Pass ist nicht im Taxi, Das ist in deiner Hand",
+    "desc": "\"Im\" is a contraction of \"in dem,\"",
+    "groupCode": 1
+  },
+  {
+    "id": 10187,
+    "en": "It's not in my jacket",
+    "de": "Es ist nicht in meiner Jacke",
+    "groupCode": 1
+  },
+  {
+    "id": 10188,
+    "en": "My hobbies are watching TV and listening to music",
+    "de": "Meine Hobbys sind fernsehen und Musik hören",
+    "groupCode": 1
+  },
+  {
+    "id": 10189,
+    "en": "I have no children but he has a kid",
+    "de": "Ich habe keine Kinder aber er hat ein Kind",
+    "groupCode": 1
+  },
+  {
+    "id": 10190,
+    "en": "I have a math test today. I have to travel far away",
+    "de": "Ich habe einen Mathetest heute. Ich muss weit weg reisen",
+    "groupCode": 1
+  },
+  {
+    "id": 10191,
+    "en": "I am married. I am married. I'm not single",
+    "de": "Ich bin verheiratet. Ich bin nicht ledig",
+    "groupCode": 1
+  },
+  {
+    "id": 10192,
+    "en": "He works as a project manager",
+    "de": "Er arbeitet als Projektmanager",
+    "groupCode": 1
+  },
+  {
+    "id": 10193,
+    "en": "He is a teacher and teaches music",
+    "de": "Er ist Lehrer und unterricht Musik",
+    "groupCode": 1
+  },
+  {
+    "id": 10194,
+    "en": "He is a college student",
+    "de": "Er ist Student",
+    "groupCode": 1
+  },
+  {
+    "id": 10195,
+    "en": "Berlin is also loud",
+    "de": "Berlin ist auch laud",
+    "groupCode": 1
+  },
+  {
+    "id": 10196,
+    "en": "Is the boy Ilia?",
+    "de": "Ist der Junge Ilia?",
+    "groupCode": 1
+  },
+  {
+    "id": 10197,
+    "en": "My son is young",
+    "de": "Mein Sohn ist jung",
+    "groupCode": 1
+  },
+  {
+    "id": 10198,
+    "en": "Where is the mouse? the elephant? the bear? the dog? the owl? the cat?",
+    "de": "Wo ist die Maus? der Elefant? der Bär? der Hund? die Eule? die Katze?",
+    "groupCode": 1
+  },
+  {
+    "id": 10199,
+    "en": "Cheers",
+    "de": "Prost",
+    "groupCode": 1
+  },
+  {
+    "id": 10200,
+    "en": "Is the coffee delicious?",
+    "de": "Ist der Kaffee lecker?",
+    "groupCode": 1
+  },
+  {
+    "id": 10201,
+    "en": "The train is not on platform eight. The train comes at two o'clock",
+    "de": "Der Zug ist nicht auf Gleis acht. Der Zug kommt um zwei Uhr",
+    "groupCode": 1
+  },
+  {
+    "id": 10202,
+    "en": "The food here is very good",
+    "de": "Das essen hier ist sehr gut",
+    "groupCode": 1
+  },
+  {
+    "id": 10203,
+    "en": "You're welcome",
+    "de": "Gern geschehen",
+    "groupCode": 1
+  },
+  {
+    "id": 10204,
+    "en": "Ali is in the supermarket",
+    "de": "Ali ist im Supermarkt",
+    "desc": "\"Er ist im\": This is a contraction of \"Er ist in dem,\" which means \"He is in the.\" You would use this form when you want to specify that someone is in a specific place, such as a building or a room. For example, \"Er ist im Haus\" means \"He is in the house.\"\n\n\"Er ist in\": This is a more general use of \"in\" without the definite article \"dem.\" You would use this form when you want to say that someone is in a location without specifying \"the\" place. For example, \"Er ist in der Stadt\" means \"He is in the city.\"",
+    "groupCode": 1
+  },
+  {
+    "id": 10205,
+    "en": "He arrives twenty minuts too late on platform two",
+    "de": "Er kommt zwanzig Minuten zu spät auf Gleis zwei",
+    "groupCode": 1
+  },
+  {
+    "id": 10206,
+    "en": "Sorry, are you a doctor (male)?",
+    "de": "Entschuldigung, sind Sie Arzt?",
+    "groupCode": 1
+  },
+  {
+    "id": 10207,
+    "en": "Ali is not a doctor",
+    "de": "Ali ist kein Arzt",
+    "groupCode": 1
+  },
+  {
+    "id": 10208,
+    "en": "I am very rich",
+    "de": "Ich bin sehr reich",
+    "groupCode": 1
+  },
+  {
+    "id": 10209,
+    "en": "A man needs a doctor now",
+    "de": "Ein Mann braucht jetzt einen Arzt",
+    "groupCode": 1
+  },
+  {
+    "id": 10210,
+    "en": "He's over there! where the milk is",
+    "de": "Er ist da drüben! wo die Milch ist",
+    "groupCode": 1
+  },
+  {
+    "id": 10211,
+    "en": "The man is very sick",
+    "de": "Der Mann ist sehr krank",
+    "groupCode": 1
+  },
+  {
+    "id": 10212,
+    "en": "Ali sees a woman. He runs to her",
+    "de": "Ali sieht eine Frau. Er läuft zu ihr",
+    "groupCode": 1
+  },
+  {
+    "id": 10213,
+    "en": "Which numbers are hidden?",
+    "de": "Welche Zahlen sind verdeckt?",
+    "groupCode": 1
+  },
+  {
+    "id": 10214,
+    "en": "She is a college student",
+    "de": "Sie ist Studentin",
+    "groupCode": 1
+  },
+  {
+    "id": 10215,
+    "en": "My sister is a teacher. Does your girlfriend have a brother or a sister?",
+    "de": "Meine Schwester ist Lehrerin. Hat deine Freundin einen Bruder oder eine Schwester?",
+    "groupCode": 1
+  },
+  {
+    "id": 10216,
+    "en": "Your mother is a doctor",
+    "de": "Deine Mutter ist Ärztin",
+    "groupCode": 1
+  },
+  {
+    "id": 10217,
+    "en": "Cool, is your work stressful?",
+    "de": "Cool, ist deine Arbeit stressig?",
+    "groupCode": 1
+  },
+  {
+    "id": 10218,
+    "en": "Is he a waiter? Yes, he is a waiter and serves food",
+    "de": "Ist er Kellner? Ja, er ist a Kellner und serviert Essen",
+    "groupCode": 1
+  },
+  {
+    "id": 10219,
+    "en": "My father is also a doctor",
+    "de": "Mein Vater ist auch Arzt",
+    "groupCode": 1
+  },
+  {
+    "id": 10220,
+    "en": "My work is interesting but stressful",
+    "de": "Meine Arbeit ist interessant aber stressig",
+    "groupCode": 1
+  },
+  {
+    "id": 10221,
+    "en": "I wear a blue shirt",
+    "de": "Ich trage ein blaues Hemd",
+    "groupCode": 1
+  },
+  {
+    "id": 10222,
+    "en": "Are you a teacher?",
+    "de": "Bist du Lehrer?",
+    "groupCode": 1
+  },
+  {
+    "id": 10223,
+    "en": "Is your girlfriend an actress?",
+    "de": "Ist deine Freundin Schauspielerin?",
+    "groupCode": 1
+  },
+  {
+    "id": 10224,
+    "en": "Is the doctor your brother? No, he's my husband",
+    "de": "Ist der Arzt dein Bruder? Nein, er ist mein Mann",
+    "groupCode": 1
+  },
+  {
+    "id": 10225,
+    "en": "What is your profession?",
+    "de": "\n 1.Was ist dein Beruf? \n 2.Was ist Ihr Beruf?",
+    "groupCode": 1
+  },
+  {
+    "id": 10226,
+    "en": "Where are your mother and your partner?",
+    "de": "Wo sind deine Mutter und deine Partnerin?",
+    "groupCode": 1
+  },
+  {
+    "id": 10227,
+    "en": "Is your wife a lawyer or a professor?",
+    "de": "Ist deine Frau Anwältin oder Professorin?",
+    "groupCode": 1
+  },
+  {
+    "id": 10228,
+    "en": "Is your husband a lawyer or a professor?",
+    "de": "Ist dein Mann Anwalt oder Professor?",
+    "groupCode": 1
+  },
+  {
+    "id": 10229,
+    "en": "The man is an actor",
+    "de": "Der Mann ist Schauspieler",
+    "groupCode": 1
+  },
+  {
+    "id": 10230,
+    "en": "Is he a waiter?",
+    "de": "Ist er Kellner?",
+    "groupCode": 1
+  },
+  {
+    "id": 10231,
+    "en": "The woman is a waitress",
+    "de": "Die Frau ist Kellnerin",
+    "groupCode": 1
+  },
+  {
+    "id": 10232,
+    "en": "I need a new jacket",
+    "de": "Ich brauche eine neue Jacke",
+    "groupCode": 1
+  },
+  {
+    "id": 10233,
+    "en": "Ali is in the department store. He sees Ilia",
+    "de": "Ali ist im Kaufhaus. Er sieht Ilia",
+    "desc": "\"Er ist im\": This is a contraction of \"Er ist in dem,\" which means \"He is in the.\" You would use this form when you want to specify that someone is in a specific place, such as a building or a room. For example, \"Er ist im Haus\" means \"He is in the house.\"\n\n\"Er ist in\": This is a more general use of \"in\" without the definite article \"dem.\" You would use this form when you want to say that someone is in a location without specifying \"the\" place. For example, \"Er ist in der Stadt\" means \"He is in the city.\"",
+    "groupCode": 1
+  },
+  {
+    "id": 10234,
+    "en": "Do you work here?",
+    "de": "Arbeiten Sie hier?",
+    "groupCode": 1
+  },
+  {
+    "id": 10235,
+    "en": "I need help",
+    "de": "Ich brauche Hilfe",
+    "groupCode": 1
+  },
+  {
+    "id": 10236,
+    "en": "Do you like the red jacket here?",
+    "de": "Mögen Sie die rote Jacke hier?",
+    "groupCode": 1
+  },
+  {
+    "id": 10237,
+    "en": "Do you like that black jacket over there?",
+    "de": "Mögen sie die schwarze Jacke da drüben?",
+    "groupCode": 1
+  },
+  {
+    "id": 10238,
+    "en": "I can come tomorrow",
+    "de": "Ich kann morgen kommen",
+    "groupCode": 1
+  },
+  {
+    "id": 10239,
+    "en": "The red jacket is perfect for you",
+    "de": "Die rote Jacke ist perfekt für Sie",
+    "groupCode": 1
+  },
+  {
+    "id": 10240,
+    "en": "Wonderful, I take the red jacket",
+    "de": "Wunderbar, ich nehme die rote Jacke",
+    "groupCode": 1
+  },
+  {
+    "id": 10241,
+    "en": "You do your job very well",
+    "de": "Sie machen Ihre Arbeit sehr gut",
+    "groupCode": 1
+  },
+  {
+    "id": 10242,
+    "en": "Where is the cash desk please?",
+    "de": "Wo ist die Kasse, bitte?",
+    "groupCode": 1
+  },
+  {
+    "id": 10243,
+    "en": "I don't work here",
+    "de": "Ich arbeite nicht hier",
+    "groupCode": 1
+  },
+  {
+    "id": 10244,
+    "en": "Keep driving",
+    "de": "Fahr weiter",
+    "groupCode": 1
+  },
+  {
+    "id": 10245,
+    "en": "That's great",
+    "de": "Das ist großartig",
+    "groupCode": 1
+  },
+  {
+    "id": 10246,
+    "en": "Let's speak German",
+    "de": "Lass uns deutsch sprechen",
+    "groupCode": 1
+  },
+  {
+    "id": 10247,
+    "en": "He is the new school student",
+    "de": "Er ist der neuer Schüler",
+    "groupCode": 1
+  },
+  {
+    "id": 10248,
+    "en": "They drive to school by bus",
+    "de": "Sie fahren mit dem Bus in die Schule",
+    "groupCode": 1
+  },
+  {
+    "id": 10249,
+    "en": "There is a new student in our school",
+    "de": "In unserer Schule ist ein neuer Schüler",
+    "groupCode": 1
+  },
+  {
+    "id": 10250,
+    "en": "He is smart. He speaks three languages",
+    "de": "Er ist klug. Er spricht drei Sprachen",
+    "groupCode": 1
+  },
+  {
+    "id": 10251,
+    "en": "I'm having a party, can you come?",
+    "de": "Ich mache eine Party, kannst du kommen?",
+    "groupCode": 1
+  },
+  {
+    "id": 10252,
+    "en": "She loves your shoes",
+    "de": "Sie liebt deine schuhe",
+    "groupCode": 1
+  },
+  {
+    "id": 10253,
+    "en": "I never cook here",
+    "de": "Ich koche hier nie",
+    "groupCode": 1
+  },
+  {
+    "id": 10254,
+    "en": "My roommate (female) loves my cat",
+    "de": "Meine Mitbewohnerin liebt meine Katze",
+    "groupCode": 1
+  },
+  {
+    "id": 10255,
+    "en": "I never paint",
+    "de": "Ich male nie",
+    "groupCode": 1
+  },
+  {
+    "id": 10256,
+    "en": "He paints sometimes",
+    "de": "Er malt manchmal",
+    "groupCode": 1
+  },
+  {
+    "id": 10257,
+    "en": "The schnitzel is very delicious! You cook very well",
+    "de": "Das Schnitzel ist sehr lecker. Du kochst sehr gut",
+    "groupCode": 1
+  },
+  {
+    "id": 10258,
+    "en": "Do you swim sometimes? No, I always swim",
+    "de": "Schwimmst du manchmal? Nein, Ich schwimme immer",
+    "groupCode": 1
+  },
+  {
+    "id": 10259,
+    "en": "Do you paint sometimes?",
+    "de": "Malen sie manchmal?",
+    "groupCode": 1
+  },
+  {
+    "id": 10260,
+    "en": "My daughter always cooks",
+    "de": "Meine Tochter kocht immer",
+    "groupCode": 1
+  },
+  {
+    "id": 10261,
+    "en": "Do you also swim often?",
+    "de": "Schwimmst du auch oft?",
+    "groupCode": 1
+  },
+  {
+    "id": 10262,
+    "en": "I am warm",
+    "de": "Mir ist warm",
+    "groupCode": 1
+  },
+  {
+    "id": 10263,
+    "en": "I am full",
+    "de": "Ich bin satt",
+    "groupCode": 1
+  },
+  {
+    "id": 10264,
+    "en": "Ilia and Ali are at home",
+    "de": "Ilia und Ali sind zu Hause",
+    "groupCode": 1
+  },
+  {
+    "id": 10265,
+    "en": "Ilia sits in front of the television",
+    "de": "Ilia sitzt vor dem Fernseher",
+    "groupCode": 1
+  },
+  {
+    "id": 10266,
+    "en": "Dad, a little question",
+    "de": "Papa, eine kleine Frage",
+    "groupCode": 1
+  },
+  {
+    "id": 10267,
+    "en": "We're having a picnic at the weekend. Can you come?",
+    "de": "Wir machen am Wochenende ein picknick. Kannst du kommen?",
+    "groupCode": 1
+  },
+  {
+    "id": 10268,
+    "en": "I really need money",
+    "de": "Ich brauche wirklich Geld",
+    "groupCode": 1
+  },
+  {
+    "id": 10269,
+    "en": "Would you like to drink coffee too? I would like to order a pizza",
+    "de": "Möchtest du auch Kaffee trinken? Nein, Ich möchte eine Pizza bestellen",
+    "groupCode": 1
+  },
+  {
+    "id": 10270,
+    "en": "I would like a new video game",
+    "de": "Ich möchte ein neues Videospiel",
+    "groupCode": 1
+  },
+  {
+    "id": 10271,
+    "en": "I don't go to school on Monday",
+    "de": "Ich gehe am Montag nicht in die Schule",
+    "groupCode": 1
+  },
+  {
+    "id": 10272,
+    "en": "That's easy",
+    "de": "Das ist einfach",
+    "groupCode": 1
+  },
+  {
+    "id": 10273,
+    "en": "I go to the department store now",
+    "de": "Ich gehe jetzt in das Kaufhaus",
+    "desc": "Kaufhaus = Very big store",
+    "groupCode": 1
+  },
+  {
+    "id": 10274,
+    "en": "What would you like to eat?",
+    "de": "Was möchten Sie essen?",
+    "groupCode": 1
+  },
+  {
+    "id": 10275,
+    "en": "Here is an egg",
+    "de": "Hier ist ein Ei",
+    "groupCode": 1
+  },
+  {
+    "id": 10276,
+    "en": "I often play piano and I often play with my cat",
+    "de": "Ich spiele oft Klavier und Ich spiele oft mit meine Katze",
+    "groupCode": 1
+  },
+  {
+    "id": 10277,
+    "en": "Is he sick or healthy? He is healthy",
+    "de": "Ist er krank oder gesund? Er ist gesund",
+    "groupCode": 1
+  },
+  {
+    "id": 10278,
+    "en": "You never play chess",
+    "de": "Du spielst nie Schach",
+    "groupCode": 1
+  },
+  {
+    "id": 10279,
+    "en": "Does your father always cook?",
+    "de": "Kocht dein Vater immer?",
+    "groupCode": 1
+  },
+  {
+    "id": 10280,
+    "en": "Does the dog often swim?",
+    "de": "Schwimmt der Hund oft?",
+    "groupCode": 1
+  },
+  {
+    "id": 10281,
+    "en": "He plays chess very well",
+    "de": "Er spielt sehr gut Schach",
+    "groupCode": 1
+  },
+  {
+    "id": 10282,
+    "en": "My father, my brother, my mother and my sister",
+    "de": "Mein Vater, mein bruder, meine Mutter und meine Schwester",
+    "groupCode": 1
+  },
+  {
+    "id": 10283,
+    "en": "She is the new student",
+    "de": "Sie ist die neue Schülerin",
+    "groupCode": 1
+  },
+  {
+    "id": 10284,
+    "en": "They don't want to stay",
+    "de": "Sie wollen nicht bleiben",
+    "groupCode": 1
+  },
+  {
+    "id": 10285,
+    "en": "I don't want to drink something",
+    "de": "Ich will etwas nicht trinken",
+    "groupCode": 1
+  },
+  {
+    "id": 10286,
+    "en": "You wouldn't like to go later",
+    "de": "Du möchtest später nicht gehen",
+    "groupCode": 1
+  },
+  {
+    "id": 10287,
+    "en": "You (plural) wouldn't like to stay",
+    "de": "Ihr möchtet nicht bleiben",
+    "groupCode": 1
+  },
+  {
+    "id": 10288,
+    "en": "I am definitely coming",
+    "de": "Ich komme auf jeden Fall",
+    "groupCode": 1
+  },
+  {
+    "id": 10289,
+    "en": "Would you (plural) like to come?",
+    "de": "Möchtet ihr kommen?",
+    "groupCode": 1
+  },
+  {
+    "id": 10290,
+    "en": "Ali takes a taxi",
+    "de": "Ali nimmt ein Taxi",
+    "groupCode": 1
+  },
+  {
+    "id": 10291,
+    "en": "His girlfriend Anne drives the taxi",
+    "de": "Seine Freundin Anne fährt das Taxi",
+    "groupCode": 1
+  },
+  {
+    "id": 10292,
+    "en": "Do you drive a taxi?",
+    "de": "Du fährst Taxi?",
+    "groupCode": 1
+  },
+  {
+    "id": 10293,
+    "en": "This is my new job",
+    "de": "Das ist meine neue Arbeit",
+    "groupCode": 1
+  },
+  {
+    "id": 10294,
+    "en": "Where would you like to drive? To the train station",
+    "de": "Wohin möchtest du fahren? Zum Bahnhof",
+    "desc": "\"Wohin\" means \"where to\" and is used when asking about a destination or direction. For example, \"Wohin möchtest du gehen?\" means \"Where would you like to go?\" because you're asking about the destination or direction of the person's intended movement.\n\n\"Woher\" means \"where from\" and is used when asking about the origin or source of something. For example, \"Woher kommst du?\" means \"Where are you from?\" because you're asking about the place the person is coming from.",
+    "groupCode": 1
+  },
+  {
+    "id": 10295,
+    "en": "Where is the train station please? The train station is here straight ahead and then left",
+    "de": "Wo ist bitte der Bahnhof? Der Bahnhof ist hier geradeaus und dann links",
+    "groupCode": 1
+  },
+  {
+    "id": 10296,
+    "en": "We are there",
+    "de": "Wir sind da",
+    "groupCode": 1
+  },
+  {
+    "id": 10297,
+    "en": "This isn't the train station. This is the university",
+    "de": "Das hier ist nicht der Bahnhof. Das ist die Universität",
+    "groupCode": 1
+  },
+  {
+    "id": 10298,
+    "en": "You definitely have to come to the party",
+    "de": "Du musst auf jeden Fall zur Party kommen",
+    "groupCode": 1
+  },
+  {
+    "id": 10299,
+    "en": "This here is library. The library is far away",
+    "de": "Das hier ist Bibliothek. Die Bibliothek ist weit weg",
+    "groupCode": 1
+  },
+  {
+    "id": 10300,
+    "en": "He drives off again",
+    "de": "Er fährt wieder los",
+    "desc": "It typically refers to someone or something resuming an activity or journey after a pause or break",
+    "groupCode": 1
+  },
+  {
+    "id": 10301,
+    "en": "Correct. This here is my apartment",
+    "de": "Richtig. Das hier ist meine Wohnung",
+    "groupCode": 1
+  },
+  {
+    "id": 10302,
+    "en": "I don't want to drive a taxi",
+    "de": "Ich will nicht Taxi fahren",
+    "groupCode": 1
+  },
+  {
+    "id": 10303,
+    "en": "This job is too stressful",
+    "de": "Diese Arbeit ist zu stressig",
+    "groupCode": 1
+  },
+  {
+    "id": 10304,
+    "en": "We are coming on the second of April",
+    "de": "Wir kommen am zweiten April",
+    "groupCode": 1
+  },
+  {
+    "id": 10305,
+    "en": "What are you by profession?",
+    "de": "Was sind Sie von Beruf?",
+    "groupCode": 1
+  },
+  {
+    "id": 10306,
+    "en": "Where are you celebrating your birthday? At home! Are you coming?",
+    "de": "Wo feierst du deinen Geburtstag? Zu Hause! Kommst du?",
+    "groupCode": 1
+  },
+  {
+    "id": 10307,
+    "en": "Are you (plural) coming to the party too?",
+    "de": "Kommt ihr auch zur Party?",
+    "groupCode": 1
+  },
+  {
+    "id": 10308,
+    "en": "Are you coming to the party later?",
+    "de": "Kommt ihr später zur Party?",
+    "groupCode": 1
+  },
+  {
+    "id": 10309,
+    "en": "The train always comes too late",
+    "de": "Der Zug kommt immer zu spät",
+    "groupCode": 1
+  },
+  {
+    "id": 10310,
+    "en": "What does this cost?",
+    "de": "Was kostet das?",
+    "groupCode": 1
+  },
+  {
+    "id": 10311,
+    "en": "I see the man",
+    "de": "Ich sehe den Mann",
+    "groupCode": 1
+  },
+  {
+    "id": 10312,
+    "en": "Peter says the man",
+    "de": "Peter sagt dem Mann",
+    "groupCode": 1
+  },
+  {
+    "id": 10313,
+    "en": "You see the car",
+    "de": "Du siehst das Auto",
+    "groupCode": 1
+  },
+  {
+    "id": 10314,
+    "en": "You are human (plural)",
+    "de": "Ihr seid Mensch",
+    "groupCode": 1
+  },
+  {
+    "id": 10315,
+    "en": "I want 2 kilos of mutton and 1 kilo of veal",
+    "de": "Ich möchte 2 Kilo Hammelfleisch und 1 Kilo Kalbfleisch",
+    "groupCode": 1
+  },
+  {
+    "id": 10316,
+    "en": "He plays piano really well",
+    "de": "Er spielt sehr gut Klavier",
+    "groupCode": 1
+  },
+  {
+    "id": 10317,
+    "en": "What else do you (polite) know?",
+    "de": "Was wissen sie noch?",
+    "groupCode": 1
+  },
+  {
+    "id": 10318,
+    "en": "The waiter brings the menu",
+    "de": "Der Kellner bringt die Speisekarte",
+    "groupCode": 1
+  },
+  {
+    "id": 10319,
+    "en": "How old are you? (plural) He is 28 years old and she is also 28",
+    "de": "Wie alt seid ihr? Er ist 28 Jahre alt und Sie ist auch 28",
+    "groupCode": 1
+  },
+  {
+    "id": 10320,
+    "en": "I'm vegetarian. Do you have vegetarian food?",
+    "de": "Ich bin Vegetarier. Haben Sie vegetarisches Essen?",
+    "groupCode": 1
+  },
+  {
+    "id": 10321,
+    "en": "Chicken is meat. I wouldn't like meat",
+    "de": "Hähnchen ist Fleisch. Ich möchte kein fleisch",
+    "groupCode": 1
+  },
+  {
+    "id": 10322,
+    "en": "Do you (plural) live together? Yes, we live together but we are not married",
+    "de": "Lebt ihr zusammen? Ja, wir leben zusammen aber wir sind nicht verheiratet",
+    "groupCode": 1
+  },
+  {
+    "id": 10323,
+    "en": "He/She is a parcel deliverer and works at HotSped",
+    "de": "Er/Sie ist Paketzusteller/Paketzustellerin und arbeitet bei HotSped",
+    "groupCode": 1
+  },
+  {
+    "id": 10324,
+    "en": "We have fries",
+    "de": "Wir haben Pommes",
+    "groupCode": 1
+  },
+  {
+    "id": 10325,
+    "en": "Thanks, my darling",
+    "de": "Danke, mein Schatz",
+    "groupCode": 1
+  },
+  {
+    "id": 10326,
+    "en": "The church and the park are nearby",
+    "de": "Die Kirche und der Park sind in der Nähe",
+    "groupCode": 1
+  },
+  {
+    "id": 10327,
+    "en": "Is the pharmacy nearby?",
+    "de": "Ist die Apotheke in der Nähe?",
+    "groupCode": 1
+  },
+  {
+    "id": 10328,
+    "en": "The museum and the hotel in Berlin are old",
+    "de": "Das Museum and das Hotel in Berlin sind alt",
+    "groupCode": 1
+  },
+  {
+    "id": 10329,
+    "en": "The bakery is not on the left, but on the right",
+    "de": "Die Bäckerei ist nicht links, sondern rechts",
+    "groupCode": 1
+  },
+  {
+    "id": 10330,
+    "en": "The movie theater is small",
+    "de": "Das Kino ist klein",
+    "groupCode": 1
+  },
+  {
+    "id": 10331,
+    "en": "Where is the ATM?",
+    "de": "Wo ist der Geldautomat?",
+    "groupCode": 1
+  },
+  {
+    "id": 10332,
+    "en": "Is the subway station nearby? No, the subway station is far away",
+    "de": "Ist die U-Bahnstation in der Nähe? Nein, die U-Bahnstation ist weit weg",
+    "groupCode": 1
+  },
+  {
+    "id": 10333,
+    "en": "I need new clothes. For my vacation in France",
+    "de": "Ich brauche neue Kleidung. Für meinen Urlaub in Frankreich",
+    "desc": "\"Ich brauche neue Kleidung\": This translates to \"I need new clothing\" in a more general sense. It refers to a broad spectrum of clothing items, encompassing various types like shirts, pants, dresses, etc.\n\n\"Ich brauche neue Kleider\": This translates to \"I need new dresses\" in a more specific sense. Here, \"Kleider\" refers specifically to dresses or gowns.",
+    "groupCode": 1
+  },
+  {
+    "id": 10334,
+    "en": "I need a dress",
+    "de": "Ich brauche ein Kleid",
+    "groupCode": 1
+  },
+  {
+    "id": 10335,
+    "en": "We live in Munich and We have no children",
+    "de": "Wir wohnen in Munchen und Wir haben keine Kinder",
+    "groupCode": 1
+  },
+  {
+    "id": 10336,
+    "en": "I need a white dress and a big hat",
+    "de": "Ich brauche ein weißes Kleid und ein großen Hut",
+    "groupCode": 1
+  },
+  {
+    "id": 10337,
+    "en": "The hat is too small. I need a big hat",
+    "de": "Der hut ist zu klein. Ich brauche einen großen Hut",
+    "groupCode": 1
+  },
+  {
+    "id": 10338,
+    "en": "Cell phones cost a lot",
+    "de": "Handys kosten viel",
+    "groupCode": 1
+  },
+  {
+    "id": 10339,
+    "en": "My first name is Ali and  last name is Zandi",
+    "de": "Mein Vorname ist Ali und mein Nachname ist Zandi",
+    "groupCode": 1
+  },
+  {
+    "id": 10340,
+    "en": "What is your address then? (polite)",
+    "de": "\n 1.Wie ist Ihre Adresse denn? \n 2.Wie ist Deine Adresse denn?",
+    "groupCode": 1
+  },
+  {
+    "id": 10341,
+    "en": "Can I order? Of course!",
+    "de": "Kann ich bestellen? Gern!",
+    "groupCode": 1
+  },
+  {
+    "id": 10342,
+    "en": "My address is ..., I live on Alistraße",
+    "de": "Meine Adresse ist ..., Ich wohne in der Alistraße",
+    "groupCode": 1
+  },
+  {
+    "id": 10343,
+    "en": "My house number is 24 and my zip code is 11111",
+    "de": "Meine Hausnummer ist 24 und meine Postleitzahl ist 11111",
+    "groupCode": 1
+  },
+  {
+    "id": 10344,
+    "en": "He never hikes in summer and spring",
+    "de": "Er wandert nie im Sommer und im Frühling",
+    "groupCode": 1
+  },
+  {
+    "id": 10345,
+    "en": "Is the hotel old or new?",
+    "de": "Ist das Hotel alt oder neu?",
+    "groupCode": 1
+  },
+  {
+    "id": 10346,
+    "en": "The bakery is on the left and the cinema is on the right",
+    "de": "Die Bäckerei ist links und das Kino ist rechts",
+    "groupCode": 1
+  },
+  {
+    "id": 10347,
+    "en": "Ali and Ilia like to go to a restaurant",
+    "de": "Ali und Ilia gehen gern in ein Restaurant",
+    "groupCode": 1
+  },
+  {
+    "id": 10348,
+    "en": "Of course, today is your birthday",
+    "de": "Natürlich, heute ist dein Geburtstag",
+    "groupCode": 1
+  },
+  {
+    "id": 10349,
+    "en": "Do you have a reservation? Yes, for two people",
+    "de": "Haben Sie eine Reservierung? Ja, für zwei Personen",
+    "groupCode": 1
+  },
+  {
+    "id": 10350,
+    "en": "I would like an apple spritzer and a kaffe, please!",
+    "de": "Ich hätte gerne eine Apfelschorle und einen Kaffee, bitte!",
+    "groupCode": 1
+  },
+  {
+    "id": 10351,
+    "en": "A salad costs thirty euros",
+    "de": "Ein Salat kostet dreißig Euro",
+    "groupCode": 1
+  },
+  {
+    "id": 10352,
+    "en": "We are not divorced and we have a child",
+    "de": "Wir sind nicht geschieden und wir haben ein kind",
+    "groupCode": 1
+  },
+  {
+    "id": 10353,
+    "en": "I am single and I live alone",
+    "de": "Ich bin Single und ich lebe allein",
+    "groupCode": 1
+  },
+  {
+    "id": 10354,
+    "en": "The Greek restaurant nearby is cheap but good",
+    "de": "Das griechische Restaurant in der Nähe ist günstig, aber gut",
+    "groupCode": 1
+  },
+  {
+    "id": 10355,
+    "en": "The food and wine are always delicious",
+    "de": "Das Essen und der Wein sind immer lecker",
+    "groupCode": 1
+  },
+  {
+    "id": 10356,
+    "en": "I am very hungry and thirsty",
+    "de": "I habe großen Hunger und Durst",
+    "groupCode": 1
+  },
+  {
+    "id": 10357,
+    "en": "Can I help?",
+    "de": "Kann ich helfen?",
+    "groupCode": 1
+  },
+  {
+    "id": 10358,
+    "en": "His student works in the department store",
+    "de": "Seine Schülerin arbeitet im Kaufhaus",
+    "groupCode": 1
+  },
+  {
+    "id": 10359,
+    "en": "Do they look for a suit jacket?",
+    "de": "Sie suchen ein Sakko?",
+    "groupCode": 1
+  },
+  {
+    "id": 10360,
+    "en": "Ali takes a suit jacket",
+    "de": "Ali nimmt ein Sakko",
+    "groupCode": 1
+  },
+  {
+    "id": 10361,
+    "en": "They look for a shirt and shoes",
+    "de": "Sie suchen ein Hemd und Schuhe",
+    "groupCode": 1
+  },
+  {
+    "id": 10362,
+    "en": "France is hot",
+    "de": "Frankreich ist heiß",
+    "groupCode": 1
+  },
+  {
+    "id": 10363,
+    "en": "I don't look for a suit jacket and I don't look for a shirt",
+    "de": "Ich suche kein Sakko und ich suche kein Hemd",
+    "groupCode": 1
+  },
+  {
+    "id": 10364,
+    "en": "Where are the toilets?",
+    "de": "Wo sind die Toiletten",
+    "groupCode": 1
+  },
+  {
+    "id": 10365,
+    "en": "He is Chancellor. She is Chancellor",
+    "de": "Er ist Kanzler. Sie ist Kanzlerin",
+    "groupCode": 1
+  },
+  {
+    "id": 10366,
+    "en": "He is policeman. She is policewoman",
+    "de": "Er ist Polizist. Sie ist Polizistin",
+    "groupCode": 1
+  },
+  {
+    "id": 10367,
+    "en": "I pack my vacation clothes for the trip",
+    "de": "Ich packe meine Urlaubskleidung für die Reise",
+    "groupCode": 1
+  },
+  {
+    "id": 10368,
+    "en": "Do you have a reservation? Yes, for two persons",
+    "de": "Haben Sie eine Reservierung? Ja, für zwei Personen",
+    "groupCode": 1
+  },
+  {
+    "id": 10369,
+    "en": "Turkey (come from Turkey)",
+    "de": "Die Türkei (komme aus der Türkei)",
+    "groupCode": 1
+  },
+  {
+    "id": 10370,
+    "en": "Is he an artist? Is she an artist?",
+    "de": "Ist er Künstler? Ist sie Künstlerin?",
+    "groupCode": 1
+  },
+  {
+    "id": 10371,
+    "en": "In this area, street shoes are forbidden",
+    "de": "In diesem Bereich sind Straßenschuhe verboten",
+    "groupCode": 1
+  },
+  {
+    "id": 10372,
+    "en": "The artist (she) paints a church in Russia very well",
+    "de": "Die Künstlerin malt sehr gut eine Kirche in Russland.",
+    "groupCode": 1
+  },
+  {
+    "id": 10373,
+    "en": "Sweden (come from Sweden)",
+    "de": "Die Schweden (komme aus der Schweden)",
+    "groupCode": 1
+  },
+  {
+    "id": 10374,
+    "en": "He was nice to me",
+    "de": "Er war nett zu mir",
+    "groupCode": 1
+  },
+  {
+    "id": 10375,
+    "en": "the picture is so beautiful",
+    "de": "das Bild ist so schön",
+    "groupCode": 1
+  },
+  {
+    "id": 10376,
+    "en": "The doner kebab costs two euros",
+    "de": "Der döner kostet zwei Euro",
+    "groupCode": 1
+  },
+  {
+    "id": 10377,
+    "en": "Ali shows Ilia the picture",
+    "de": "Ali zeigt Ilia das Bild",
+    "groupCode": 1
+  },
+  {
+    "id": 10378,
+    "en": "You must not to have the video game",
+    "de": "Du musst das Videospiel nicht haben",
+    "groupCode": 1
+  },
+  {
+    "id": 10379,
+    "en": "I definitely must to have the video game",
+    "de": "Ich muss auf jeden Fall das Videospiel haben",
+    "groupCode": 1
+  },
+  {
+    "id": 10380,
+    "en": "Would you like to have it?",
+    "de": "Möchten Sie es haben?",
+    "groupCode": 1
+  },
+  {
+    "id": 10381,
+    "en": "No, you have so many video games at home",
+    "de": "Nein, du hast zu hause so viele Videospiele",
+    "groupCode": 1
+  },
+  {
+    "id": 10382,
+    "en": "Are we going home now?",
+    "de": "Gehen wir jetzt nach Hause?",
+    "groupCode": 1
+  },
+  {
+    "id": 10383,
+    "en": "His apartment is so boring but He has a big TV",
+    "de": "Seine Wohnung ist so langweilig aber Er hat Einen großen Fernseher",
+    "groupCode": 1
+  },
+  {
+    "id": 10384,
+    "en": "Where is Ali's girlfriend? She's in the airport",
+    "de": "Wo ist Alis Freundin? Sie ist im Flughafen",
+    "groupCode": 1
+  },
+  {
+    "id": 10385,
+    "en": "She talks to the man at the counter",
+    "de": "Sie spricht mit dem Mann am Schalter",
+    "groupCode": 1
+  },
+  {
+    "id": 10386,
+    "en": "Can I help you?",
+    "de": "Kann ich ihnen helfen?",
+    "groupCode": 1
+  },
+  {
+    "id": 10387,
+    "en": "I hate sport (Sport is murder)",
+    "de": "Sport ist Mord",
+    "groupCode": 1
+  },
+  {
+    "id": 10388,
+    "en": "It's warm in the summer. It's cold sometimes in the spring. It's cold in the winter",
+    "de": "Es ist warm im sommer. Es ist kalt manchmal im Frühling. Es ist kalt im Winter",
+    "groupCode": 1
+  },
+  {
+    "id": 10389,
+    "en": "Have a nice day, Mr. Garcia! You too!",
+    "de": "Schönen Tag, Hr. Garcia! Ihnen auch!",
+    "groupCode": 1
+  },
+  {
+    "id": 10390,
+    "en": "My roomate (male) has a brother",
+    "de": "Mein Mitbewohner hat einen Bruder",
+    "groupCode": 1
+  },
+  {
+    "id": 10391,
+    "en": "It snows very heavily (strongly). Where are my scarf and water bottle?",
+    "de": "Es schneit sehr stark. Wo sind mein Schal und wasserflasche?",
+    "groupCode": 1
+  },
+  {
+    "id": 10392,
+    "en": "Does your partner often hike?",
+    "de": "Wandert deine Partnerin oft?",
+    "groupCode": 1
+  },
+  {
+    "id": 10393,
+    "en": "My grandmother loves your grandfather and your son",
+    "de": "Meine Oma liebt deinen Opa und deinen Sohn",
+    "groupCode": 1
+  },
+  {
+    "id": 10394,
+    "en": "Have a nice day, Luis! You too!",
+    "de": "Schönen Tag, Ali! Dir auch!",
+    "groupCode": 1
+  },
+  {
+    "id": 10395,
+    "en": "Do you have an uncle?",
+    "de": "Hast du einen Onkel?",
+    "groupCode": 1
+  },
+  {
+    "id": 10396,
+    "en": "Is it raining very heavily? Oh no, it's very foggy today",
+    "de": "Regnet es sehr stark? Oh nein, es ist sehr neblig heute",
+    "groupCode": 1
+  },
+  {
+    "id": 10397,
+    "en": "Is it sunny or cloudy today. It's sunny. Where's the sunscreen (sun cream)?",
+    "de": "Ist es heute sonnig oder bewölkt? Es ist sonnig. Wo is die Sonnencreme",
+    "groupCode": 1
+  },
+  {
+    "id": 10398,
+    "en": "Where are you hiking?",
+    "de": "Wo wandern Sie?",
+    "groupCode": 1
+  },
+  {
+    "id": 10399,
+    "en": "Bye, have a nice weekend",
+    "de": "Tschüss, Schönes Wochenende",
+    "groupCode": 1
+  },
+  {
+    "id": 10400,
+    "en": "Thank you Ms. Dumitru. Hope to see you",
+    "de": "Danke schön, Frau Dumitru. Auf Wiedersehen",
+    "groupCode": 1
+  },
+  {
+    "id": 10401,
+    "en": "My French isn't bad",
+    "de": "Mein Französisch ist nicht schlecht",
+    "groupCode": 1
+  },
+  {
+    "id": 10402,
+    "en": "You speak too fast. My English is not very good",
+    "de": "Sie sprechen zu schnell. Mein Englisch ist nicht sehr gut",
+    "groupCode": 1
+  },
+  {
+    "id": 10403,
+    "en": "What is your mother language?",
+    "de": "Was ist deine Muttersprache?",
+    "groupCode": 1
+  },
+  {
+    "id": 10404,
+    "en": "Do you only speak English?",
+    "de": "Sprichst du nur Englisch?",
+    "groupCode": 1
+  },
+  {
+    "id": 10405,
+    "en": "Ms. Klum is an actress and she is very smart. Her German, English and French are perfect",
+    "de": "Frau Klum ist schauspielerin und sie ist sehr klug. Ihr Deutsch, ihr Englisch und ihr Französisch sind perfekt",
+    "groupCode": 1
+  },
+  {
+    "id": 10406,
+    "en": "Keep the change",
+    "de": "Stimmt so",
+    "groupCode": 1
+  },
+  {
+    "id": 10407,
+    "en": "I'd like a beer",
+    "de": "Ich hätte gern ein bier",
+    "groupCode": 1
+  },
+  {
+    "id": 10408,
+    "en": "Do you want to make dinner or eat out? I'd rather go out to eat",
+    "de": "Willst du Essen machen oder Essen gehen? Ich will Essen gehen",
+    "groupCode": 1
+  },
+  {
+    "id": 10409,
+    "en": "Do you want to make food or order food? I would rather go out to eat than make food",
+    "de": "Willst du Essen machen oder Essen bestellen? Ich will lieber Essen gehen als Essen machen",
+    "groupCode": 1
+  },
+  {
+    "id": 10410,
+    "en": "What do you like to eat? I like to eat everything",
+    "de": "Was isst du gern? Ich esse gern alles",
+    "groupCode": 1
+  },
+  {
+    "id": 10411,
+    "en": "I don't eat dairy products or meat but I like to eat pizza",
+    "de": "Ich esse keine Milchprodukte und kein Fleisch aber Ich esse gern Pizza",
+    "groupCode": 1
+  },
+  {
+    "id": 10412,
+    "en": "I'm eating breakfast now",
+    "de": "Ich frühstücke jetzt",
+    "groupCode": 1
+  },
+  {
+    "id": 10413,
+    "en": "What are you doing this morning? I am playing chess this morning",
+    "de": "Was machst du heute Morgen? Ich Spiele heute Morgen Schach",
+    "groupCode": 1
+  },
+  {
+    "id": 10414,
+    "en": "Why is German so cool?",
+    "de": "Warum ist Deutsch so cool?",
+    "groupCode": 1
+  },
+  {
+    "id": 10415,
+    "en": "Where do you surf?",
+    "de": "Wo surfst du?",
+    "groupCode": 1
+  },
+  {
+    "id": 10416,
+    "en": "Do you sometimes surf in Sweden? No, I often swim in Sweden",
+    "de": "Surfst du manchmal in Schweden? Nein, ich schwimme oft in Schweden",
+    "groupCode": 1
+  },
+  {
+    "id": 10417,
+    "en": "What do you like to do on vacation?",
+    "de": "Was machst du gern im Urlaub?",
+    "groupCode": 1
+  },
+  {
+    "id": 10418,
+    "en": "My sister jogs every day and my brother never jogs",
+    "de": "Meine Schwester joggt jeden Tag und mein Bruder joggt nie",
+    "groupCode": 1
+  },
+  {
+    "id": 10419,
+    "en": "I buy groceries not every day",
+    "de": "Ich kaufe Lebensmittel nicht jeden tag",
+    "groupCode": 1
+  },
+  {
+    "id": 10420,
+    "en": "Thank you very much, Your welcome",
+    "de": "Vielen Dank, Bitte schön",
+    "groupCode": 1
+  },
+  {
+    "id": 10421,
+    "en": "I like to eat a bread roll for breakfast",
+    "de": "Ich esse gern ein Brötchen zum Frühstück",
+    "groupCode": 1
+  },
+  {
+    "id": 10422,
+    "en": "I like to eat sausage salad for dinner not for lunch",
+    "de": "Ich esse gerne Wurstsalat zum Abendessen, nicht zum Mittagessen",
+    "groupCode": 1
+  },
+  {
+    "id": 10423,
+    "en": "Where do you sing today?",
+    "de": "Wo singst du heute?",
+    "groupCode": 1
+  },
+  {
+    "id": 10424,
+    "en": "I don't take often photos",
+    "de": "Ich fotografiere nicht oft",
+    "groupCode": 1
+  },
+  {
+    "id": 10425,
+    "en": "What do you not like to eat? I don't like to eat meat",
+    "de": "Was isst du nicht gern? Ich esse nicht gern Fleisch",
+    "groupCode": 1
+  },
+  {
+    "id": 10426,
+    "en": "You like to jog on the weekend in France",
+    "de": "Sie joggen gern am Wochenende in Frankreich",
+    "groupCode": 1
+  },
+  {
+    "id": 10427,
+    "en": "It's snowing, but My friends like to jog",
+    "de": "Es schneit, aber Meine Freunde joggen gern",
+    "groupCode": 1
+  },
+  {
+    "id": 10428,
+    "en": "I must go shopping",
+    "de": "Ich muss einkaufen gehen",
+    "groupCode": 1
+  },
+  {
+    "id": 10429,
+    "en": "Is there a butcher shop nearby?",
+    "de": "Ist hier eine Fleischerei in der Nähe?",
+    "groupCode": 1
+  },
+  {
+    "id": 10430,
+    "en": "How is her English? Her English is really perfect",
+    "de": "Wie ist ihr Englisch? Ihr Englisch ist wirklich perfekt",
+    "groupCode": 1
+  },
+  {
+    "id": 10431,
+    "en": "His German is very good and her German is perfect",
+    "de": "Sein Deutsch ist sehr gut und ihr Deutsch ist perfekt",
+    "groupCode": 1
+  },
+  {
+    "id": 10432,
+    "en": "can you help me?",
+    "de": "Können sie mir helfen?",
+    "groupCode": 1
+  },
+  {
+    "id": 10433,
+    "en": "Where do I find the coffee?",
+    "de": "Wo finde ich den Kaffee?",
+    "groupCode": 1
+  },
+  {
+    "id": 10434,
+    "en": "Do you have shower gel?",
+    "de": "Haben Sie Duschgel?",
+    "groupCode": 1
+  },
+  {
+    "id": 10435,
+    "en": "Unfortunately not",
+    "de": "Leider nicht",
+    "groupCode": 1
+  },
+  {
+    "id": 10436,
+    "en": "He's in a beautiful restaurant",
+    "de": "Er ist in einem schönen Restaurant",
+    "groupCode": 1
+  },
+  {
+    "id": 10437,
+    "en": "I need fruits and vegetables. Where do I find them?",
+    "de": "Ich brauche Obst und Gemüse. Wo finde ich sie?",
+    "groupCode": 1
+  },
+  {
+    "id": 10438,
+    "en": "Where is the swimming pool?",
+    "de": "Wo ist das Schwimmbad?",
+    "groupCode": 1
+  },
+  {
+    "id": 10439,
+    "en": "The lawyer (male) has no money",
+    "de": "Der Anwalt hat kein Geld",
+    "groupCode": 1
+  },
+  {
+    "id": 10440,
+    "en": "What is he doing this morning? He would like to go to the café",
+    "de": "Was macht er heute Morgen? Er möchte ins Café gehen",
+    "groupCode": 1
+  },
+  {
+    "id": 10441,
+    "en": "What are you doing this morning from seven to nine? I would like to go to the swimming pool, but it rains",
+    "de": "Was machst du heute Morgen von sieben bis neun? Ich möchte ins Schwimmbad gehen, aber es regnet",
+    "groupCode": 1
+  },
+  {
+    "id": 10442,
+    "en": "Would you like to go to the restaurant with Grandma and Grandpa? I can't. I have no time",
+    "de": "Möchtest du mit Oma und Opa ins Restaurant gehen? Ich kann nicht. Ich habe keine Zeit",
+    "groupCode": 1
+  },
+  {
+    "id": 10443,
+    "en": "The shirt here is nice and cheap",
+    "de": "Das Hemd hier ist schön und bilig",
+    "groupCode": 1
+  },
+  {
+    "id": 10444,
+    "en": "Do you have time?",
+    "de": "Hast du Zeit?",
+    "groupCode": 1
+  },
+  {
+    "id": 10445,
+    "en": "Would she like to go jogging? No, She would like to go hiking",
+    "de": "Möchte sie joggen gehen? Nein, Sie möchte wandern gehen",
+    "groupCode": 1
+  },
+  {
+    "id": 10446,
+    "en": "Do you have time this evening?",
+    "de": "Hast du heute Abend Zeit?",
+    "groupCode": 1
+  },
+  {
+    "id": 10447,
+    "en": "Would you like to go to the cafe at six this evening?",
+    "de": "Möchten sie heute Abend um sechs in Café gehen?",
+    "groupCode": 1
+  },
+  {
+    "id": 10448,
+    "en": "I look forward to you",
+    "de": "Ich freue mich auf dich",
+    "groupCode": 1
+  },
+  {
+    "id": 10449,
+    "en": "Really a shame",
+    "de": "Wirklich schade",
+    "groupCode": 1
+  },
+  {
+    "id": 10450,
+    "en": "When do you have time?",
+    "de": "Wann hast du Zeit?",
+    "groupCode": 1
+  },
+  {
+    "id": 10451,
+    "en": "I would like to play football, but I don't have time",
+    "de": "Ich möchte fußball spielen, aber ich habe keine Zeit",
+    "groupCode": 1
+  },
+  {
+    "id": 10452,
+    "en": "Would you like to play football this afternoon?",
+    "de": "Möchtest du heute Nachmittag um Fußball spielen?",
+    "groupCode": 1
+  },
+  {
+    "id": 10453,
+    "en": "He never has time",
+    "de": "Er hat nie Zeit",
+    "groupCode": 1
+  },
+  {
+    "id": 10454,
+    "en": "The weather in autumn is fine, but it's often cold",
+    "de": "Das wetter im Herbst ist schön, aber es ist oft kalt",
+    "groupCode": 1
+  },
+  {
+    "id": 10455,
+    "en": "I would like to go to the café, but till when is it open?",
+    "de": "Ich möchte ins Café gehen, aber bis wann ist es geöffnet?",
+    "groupCode": 1
+  },
+  {
+    "id": 10456,
+    "en": "Until when is the museum open?",
+    "de": "Bis wann ist das Museum geöffnet?",
+    "groupCode": 1
+  },
+  {
+    "id": 10457,
+    "en": "The game is from two to four",
+    "de": "Das Spiel ist von zwei bis vier",
+    "groupCode": 1
+  },
+  {
+    "id": 10458,
+    "en": "What are you doing from two to four this afternoon? I'm cooking potatoes at three",
+    "de": "Was machst du heute Nachmittag von zwei bis vier? Ich koche un drei Kartoffeln",
+    "groupCode": 1
+  },
+  {
+    "id": 10459,
+    "en": "The museum is open from eight to five",
+    "de": "Das Museum ist von acht bis fünf geöffnet",
+    "groupCode": 1
+  },
+  {
+    "id": 10460,
+    "en": "I would like to play basketball at two",
+    "de": "Ich möchte um zwei Basketball spielen",
+    "groupCode": 1
+  },
+  {
+    "id": 10461,
+    "en": "When is the game? This (today) afternoon. I'm looking forward",
+    "de": "Wann ist das Spiel? Heute Nachmittag. Ich freue mich",
+    "groupCode": 1
+  },
+  {
+    "id": 10462,
+    "en": "Would you like to go to the coffee shop on Saturday?",
+    "de": "Möchtest du am Samstag ins Café gehen?",
+    "groupCode": 1
+  },
+  {
+    "id": 10463,
+    "en": "The game is this afternoon at three",
+    "de": "Das Spiel ist heute Nachmittag um drei",
+    "groupCode": 1
+  },
+  {
+    "id": 10464,
+    "en": "I want to go to the swimming pool today, but it's cold and cloudy",
+    "de": "Ich möchte heute ins Schwimmbad gehen, aber es ist kalt und bewölkt",
+    "groupCode": 1
+  },
+  {
+    "id": 10465,
+    "en": "I can't, I don't have any money",
+    "de": "Ich kann nicht, ich habe kein Geld",
+    "groupCode": 1
+  },
+  {
+    "id": 10466,
+    "en": "My father and I go to the cinema on the weekend",
+    "de": "Mein Vater und ich gehen am wochenende ins kino",
+    "groupCode": 1
+  },
+  {
+    "id": 10467,
+    "en": "When does Ms. Merkel have time?",
+    "de": "Wann hat Frau Merkel Zeit?",
+    "groupCode": 1
+  },
+  {
+    "id": 10468,
+    "en": "I don't have time at six",
+    "de": "Ich habe um sechs keine Zeit",
+    "groupCode": 1
+  },
+  {
+    "id": 10469,
+    "en": "I can't at five. Do you have time on Saturday?",
+    "de": "Ich kann nicht um fünf. Hast du am Samstag Zeit?",
+    "groupCode": 1
+  },
+  {
+    "id": 10470,
+    "en": "The swimming pool is only open until five",
+    "de": "Das schwimmbad ist nur bis fünf geöffnet",
+    "groupCode": 1
+  },
+  {
+    "id": 10471,
+    "en": "The entrance ticket is (not) expensive",
+    "de": "Die Eintrittskarte ist (nicht) teuer",
+    "groupCode": 1
+  },
+  {
+    "id": 10472,
+    "en": "Der Kaffee here is inexpensive, but that over is expensive and old-fashioned",
+    "de": "Der Kaffee hier ist günstig, aber das da ist teuer und altmodisch",
+    "desc": "Hip is stylish, trendy, or fashionable",
+    "groupCode": 1
+  },
+  {
+    "id": 10473,
+    "en": "Is food expensive?",
+    "de": "Ist Essen teuer?",
+    "groupCode": 1
+  },
+  {
+    "id": 10474,
+    "en": "For here or for take away",
+    "de": "Zum hier essen oder zum mitnehmen",
+    "groupCode": 1
+  },
+  {
+    "id": 10475,
+    "en": "The coffee is too cheap",
+    "de": "Der Kaffee ist zu bilig",
+    "groupCode": 1
+  },
+  {
+    "id": 10476,
+    "en": "The table is ugly",
+    "de": "Der Tisch ist hässlich",
+    "groupCode": 1
+  },
+  {
+    "id": 10477,
+    "en": "Your sweater is ugly",
+    "de": "Dein Pullover ist hässlich",
+    "groupCode": 1
+  },
+  {
+    "id": 10478,
+    "en": "The shirt is so ugly. Oh yes, I alse agree (I find it also)",
+    "de": "Das Hemd ist so hässlich. Oh ja, Das finde ich auch",
+    "groupCode": 1
+  },
+  {
+    "id": 10479,
+    "en": "The black jacket is very warm and cheap",
+    "de": "Die schwarze Jacke ist sehr warm und billig",
+    "groupCode": 1
+  },
+  {
+    "id": 10480,
+    "en": "In a cheap restaurant",
+    "de": "In einem billigen Restaurant",
+    "groupCode": 1
+  },
+  {
+    "id": 10481,
+    "en": "You (polite) are lucky",
+    "de": "Sie haben Glück",
+    "groupCode": 1
+  },
+  {
+    "id": 10482,
+    "en": "The chair is modern",
+    "de": "Der Stuhl ist modern",
+    "groupCode": 1
+  },
+  {
+    "id": 10483,
+    "en": "My roommates are nice and the apartment is always clean",
+    "de": "Meine Mitbewohner sind nett und die Wohnung ist immer sauber",
+    "groupCode": 1
+  },
+  {
+    "id": 10484,
+    "en": "Your apartment is really bright.",
+    "de": "Deine Wohnung ist wirklich hell",
+    "groupCode": 1
+  },
+  {
+    "id": 10485,
+    "en": "This is a special offer",
+    "de": "Das ist ein sonderangebot",
+    "groupCode": 1
+  },
+  {
+    "id": 10486,
+    "en": "Do my friends have a chair and a table?",
+    "de": "Haben meine Freunde einen Stuhl und einen Tisch?",
+    "groupCode": 1
+  },
+  {
+    "id": 10487,
+    "en": "I like my bedroom. The bed is comfortable and the bookcase is perfect",
+    "de": "Ich mag mein Schlafzimmer. Das bett ist bequem und das Bucherregal ist perfekt",
+    "groupCode": 1
+  },
+  {
+    "id": 10488,
+    "en": "My bed is not comfortable and I don't sleep much",
+    "de": "Mein Bett ist nicht bequem und ich schlafe nicht viel",
+    "groupCode": 1
+  },
+  {
+    "id": 10489,
+    "en": "The apartment is dark. We need a lamp",
+    "de": "Die Wohnung ist dunkel. Wir brauchen eine Lampe",
+    "groupCode": 1
+  },
+  {
+    "id": 10490,
+    "en": "Who likes the lamp?",
+    "de": "Wer mag die Lampe?",
+    "groupCode": 1
+  },
+  {
+    "id": 10491,
+    "en": "The game is on Saturday at half past six",
+    "de": "Das Speilt ist am Samstag um helb sieben",
+    "groupCode": 1
+  },
+  {
+    "id": 10492,
+    "en": "Look at the couch. It is so beautiful",
+    "de": "Schau (doch) mal, die Couch. Sie ist so schön",
+    "groupCode": 1
+  },
+  {
+    "id": 10493,
+    "en": "Look at the armchair. It is so cheap",
+    "de": "Schau (doch) mal, der Sessel. Er ist so günstig",
+    "groupCode": 1
+  },
+  {
+    "id": 10494,
+    "en": "Look at the shelf. It's so cheap",
+    "de": "Schau (doch) mal, das Regal. Es ist so billig",
+    "groupCode": 1
+  },
+  {
+    "id": 10495,
+    "en": "Would you like to go to the swimming pool on Sunday?",
+    "de": "Möchtest du am Sonntag ins Schwimmbad gehen?",
+    "groupCode": 1
+  },
+  {
+    "id": 10496,
+    "en": "Is the game on Saturday or on Sunday?",
+    "de": "Ist das Spiel am samstag oder am Sonntag?",
+    "groupCode": 1
+  },
+  {
+    "id": 10497,
+    "en": "You speak English. Do you also speak Swedish?",
+    "de": "Du sprichst Englisch. Sprichst du auch Schwedisch?",
+    "groupCode": 1
+  },
+  {
+    "id": 10498,
+    "en": "How much do four tickets cost?",
+    "de": "Wie viel kosten vier Fahrkarten?",
+    "groupCode": 1
+  },
+  {
+    "id": 10499,
+    "en": "At what time is your appointment? My appointment is at four o'clock",
+    "de": "Um wie viel Uhr ist ihr (polite) termin? Mein Termin is um schzehn Uhr",
+    "groupCode": 1
+  },
+  {
+    "id": 10500,
+    "en": "He visits his grandmother in the hospital",
+    "de": "Er besucht seine Großmutter im Krankenhaus",
+    "groupCode": 1
+  },
+  {
+    "id": 10501,
+    "en": "A plane ticket to Barcelona, please. How much does a plane ticket cost?",
+    "de": "Ein Flugticket nach Barcelona, bitte. Wie viel kostet ein Flugticket?",
+    "groupCode": 1
+  },
+  {
+    "id": 10502,
+    "en": "It's spring and it's sunny outside",
+    "de": "Es ist frühling und draußen ist es sonnig",
+    "groupCode": 1
+  },
+  {
+    "id": 10503,
+    "en": "I always love working in my garden in the spring",
+    "de": "Ich arbeite im Frühling immer so gern in meinem Garten\n",
+    "groupCode": 1
+  },
+  {
+    "id": 10504,
+    "en": "I have an idea",
+    "de": "Ich habe eine Idee",
+    "groupCode": 1
+  },
+  {
+    "id": 10505,
+    "en": "Give me thirty minutes!",
+    "de": "Gib mir dreißig Minuten!",
+    "groupCode": 1
+  },
+  {
+    "id": 10506,
+    "en": "See you soon",
+    "de": "\n 1.Bis gleich \n 2.Bis bald",
+    "groupCode": 1
+  },
+  {
+    "id": 10507,
+    "en": "Where would you like to go jogging?",
+    "de": "Wo möchtest du joggen gehen?",
+    "groupCode": 1
+  },
+  {
+    "id": 10508,
+    "en": "Are you nervous?",
+    "de": "Bist du Nervös?",
+    "groupCode": 1
+  },
+  {
+    "id": 10509,
+    "en": "Do you have a job interview on Tuesday?",
+    "de": "Hast du ein Jobinterview am Dienstag?",
+    "groupCode": 1
+  },
+  {
+    "id": 10510,
+    "en": "Your job interview isn't on Thursday?",
+    "de": "Dein Jobinterview ist nicht am Donnerstag?",
+    "groupCode": 1
+  },
+  {
+    "id": 10511,
+    "en": "Do you have new clothes for the job interview?",
+    "de": "Hast du neue Kleidung für das Job Interview?",
+    "groupCode": 1
+  },
+  {
+    "id": 10512,
+    "en": "I surf but not every day",
+    "de": "Ich surfe aber nicht jeden tag",
+    "groupCode": 1
+  },
+  {
+    "id": 10513,
+    "en": "When are we going to the department store?",
+    "de": "Wann gehen wir ins Kaufhaus?",
+    "groupCode": 1
+  },
+  {
+    "id": 10514,
+    "en": "I don't have a blouse",
+    "de": "Ich habe keine Bluse",
+    "groupCode": 1
+  },
+  {
+    "id": 10515,
+    "en": "I'm excited and a little nervous",
+    "de": "Ich bin aufgeregt und ein bisschen nervös",
+    "groupCode": 1
+  },
+  {
+    "id": 10516,
+    "en": "What would you like to buy?",
+    "de": "Was möchtest du kaufen?",
+    "groupCode": 1
+  },
+  {
+    "id": 10517,
+    "en": "What do you have to buy?",
+    "de": "Was musst du kaufen?",
+    "groupCode": 1
+  },
+  {
+    "id": 10518,
+    "en": "Do you have to go to the department store?",
+    "de": "Musst du ins Kaufhaus gehen?",
+    "groupCode": 1
+  },
+  {
+    "id": 10519,
+    "en": "Max is searching for a shirt for the job interview",
+    "de": "Max sucht ein Hemd für das Jobinterview",
+    "groupCode": 1
+  },
+  {
+    "id": 10520,
+    "en": "What are you searching for? I'm searching for a shirt and a suite jacket",
+    "de": "Was suchen Sie? Ich suche ein Hemd und ein Sakko",
+    "groupCode": 1
+  },
+  {
+    "id": 10521,
+    "en": "What would you like to buy for the job interview? I'm searching for a dress and a scarf",
+    "de": "Was möchtest du für das jobinterview kaufen? Ich suche ein Klied und einen Schal",
+    "groupCode": 1
+  },
+  {
+    "id": 10522,
+    "en": "Are you searching for a shirt?",
+    "de": "Suchst du ein Hemd?",
+    "groupCode": 1
+  },
+  {
+    "id": 10523,
+    "en": "I need a blouse in size S",
+    "de": "Ich brauche eine Bluse in Größe S",
+    "groupCode": 1
+  },
+  {
+    "id": 10524,
+    "en": "Oh, it doesn't fit! I need size L, not S",
+    "de": "Oh, es passt nicht! Ich brauche Größe L, nicht S",
+    "groupCode": 1
+  },
+  {
+    "id": 10525,
+    "en": "Good afternoon, which size are you looking for?",
+    "de": "Guten Tag, welche Größe suchen Sie?",
+    "groupCode": 1
+  },
+  {
+    "id": 10526,
+    "en": "Excuse me, where is the elevator?",
+    "de": "Entschuldigung, wo ist der Aufzug?",
+    "groupCode": 1
+  },
+  {
+    "id": 10527,
+    "en": "The shoes are too big",
+    "de": "Die Schuhe sind zu groß",
+    "groupCode": 1
+  },
+  {
+    "id": 10528,
+    "en": "How much does that cost? That costs one euro",
+    "de": "Wie viel kostet das? Das kostet einen Euro",
+    "groupCode": 1
+  },
+  {
+    "id": 10529,
+    "en": "The suit jacket isn't stylish",
+    "de": "Das Sakko ist nicht schick",
+    "groupCode": 1
+  },
+  {
+    "id": 10530,
+    "en": "The jeans are for my father",
+    "de": "Die Jeans sind für meinen Vater",
+    "groupCode": 1
+  },
+  {
+    "id": 10531,
+    "en": "Do you like the t-shirt, Nina? Yes, but it doesn't fit",
+    "de": "Magst du das T-Shirt, Nina? Ja, aber er passt nicht",
+    "groupCode": 1
+  },
+  {
+    "id": 10532,
+    "en": "Do you need to buy new clothes?",
+    "de": "Musst du neue Kleidung kaufen?",
+    "groupCode": 1
+  },
+  {
+    "id": 10533,
+    "en": "My friends like to go to the department store",
+    "de": "Meine Freunde gehen gern ins Kaufhaus",
+    "groupCode": 1
+  },
+  {
+    "id": 10534,
+    "en": "I would like to buy a shirt in size L",
+    "de": "Ich möchte ein hemd in Größe L kaufen",
+    "groupCode": 1
+  },
+  {
+    "id": 10535,
+    "en": "I don't like my work. I have a job interview on Monday",
+    "de": "Ich mag meine Arbeit nicht. Ich habe am Montag ein Jobinterview",
+    "groupCode": 1
+  },
+  {
+    "id": 10536,
+    "en": "The department store is open until seven",
+    "de": "Das Kaufhaus ist bis sieben geöffnet",
+    "groupCode": 1
+  },
+  {
+    "id": 10537,
+    "en": "The size doesn't fit",
+    "de": "Die Größe passt nicht",
+    "groupCode": 1
+  },
+  {
+    "id": 10538,
+    "en": "Do you have to buy a blouse? Yes, I have to buy a blouse",
+    "de": "Musst du eine Bluse Kaufen? Ja, Ich muss eine Bluse kaufen",
+    "groupCode": 1
+  },
+  {
+    "id": 10539,
+    "en": "Sorry, which size do you need?",
+    "de": "Entschuldigung welche Größe brauchen sie",
+    "groupCode": 1
+  },
+  {
+    "id": 10540,
+    "en": "How much does an apple spritzer cost and a cola?",
+    "de": "Wie viel kostet eine Apfelschorle und eine Cola?",
+    "groupCode": 1
+  },
+  {
+    "id": 10541,
+    "en": "Yes, my grandpa likes the shoes. I would like to buy the shoes for my grandpa",
+    "de": "Ja, mein Opa mag die Schuhe. Ich möchte die Schuhe fur meinen Opa kaufen",
+    "groupCode": 1
+  },
+  {
+    "id": 10542,
+    "en": "I need shoes. I am going hiking on the weekend",
+    "de": "Ich brauche Schuhe. Ich gehe am Wochenende wandern",
+    "groupCode": 1
+  },
+  {
+    "id": 10543,
+    "en": "How much does eight kilos of strawberries cost?",
+    "de": "Wie viel kostet acht Kilo Erdbeeren?",
+    "groupCode": 1
+  },
+  {
+    "id": 10544,
+    "en": "I have a date later but I'm a little sick",
+    "de": "Ich habe später ein Date aber Ich bin ein bisschen krank",
+    "groupCode": 1
+  },
+  {
+    "id": 10545,
+    "en": "I have a headache. This is not good. You have to go to a doctor",
+    "de": "Ich habe Kopfschmerzen. Das ist nicht gut. Du musst zum Arzt gehen",
+    "groupCode": 1
+  },
+  {
+    "id": 10546,
+    "en": "I don't want to be sick",
+    "de": "Ich will nicht krank sein",
+    "groupCode": 1
+  },
+  {
+    "id": 10547,
+    "en": "I have a date this evening",
+    "de": "Ich habe heute Abend ein Date",
+    "groupCode": 1
+  },
+  {
+    "id": 10548,
+    "en": "She is intelligent, is she also funny?",
+    "de": "Sie ist intelligent, ist sie auch lustig?",
+    "groupCode": 1
+  },
+  {
+    "id": 10549,
+    "en": "The round-trip ticket costs thirty euros",
+    "de": "Die Hin-und Rückfahrt kostet dreißig Euro",
+    "groupCode": 1
+  },
+  {
+    "id": 10550,
+    "en": "Two tickets cost thirty euros",
+    "de": "Zwei fahrkarten kosten dreißig Euro",
+    "groupCode": 1
+  },
+  {
+    "id": 10551,
+    "en": "Good morning! I would like a ticket to Vienna, please",
+    "de": "Guten Morgen! Ich möchte eine Fahrkarte nach Wien, bitte",
+    "groupCode": 1
+  },
+  {
+    "id": 10552,
+    "en": "Hope to hear you",
+    "de": "Auf Wiederhören",
+    "groupCode": 1
+  },
+  {
+    "id": 10553,
+    "en": "The weather is raining this morning",
+    "de": "Das wetter ist heute Morgem regnet",
+    "groupCode": 1
+  },
+  {
+    "id": 10554,
+    "en": "See you tomorrow",
+    "de": "Bis morgen",
+    "groupCode": 1
+  },
+  {
+    "id": 10555,
+    "en": "It is two o'clock",
+    "de": "Es ist zwei Uhr",
+    "groupCode": 1
+  },
+  {
+    "id": 10556,
+    "en": "When is the departure? The departure ist in five minutes",
+    "de": "Wann ist die Abfahrt? Die Abfahrt ist in fünf Minuten",
+    "groupCode": 1
+  },
+  {
+    "id": 10557,
+    "en": "Oh no, the train is too late",
+    "de": "Oh nein, der Zug ist zu Spät",
+    "groupCode": 1
+  },
+  {
+    "id": 10558,
+    "en": "How much? The coffee really costs five euros",
+    "de": "Wie viel? Der Kaffee kostet wirklich fünf Euro",
+    "groupCode": 1
+  },
+  {
+    "id": 10559,
+    "en": "Is the train fast?",
+    "de": "Ist der Zug schnell?",
+    "groupCode": 1
+  },
+  {
+    "id": 10560,
+    "en": "Attention, the train has a five-minute delay",
+    "de": "Achtung der zug hat fünf Minuten Verspätung",
+    "groupCode": 1
+  },
+  {
+    "id": 10561,
+    "en": "There is a delay today. The departure is now in spring",
+    "de": "Es gibt heute eine Verspätung. Die Abfahrt ist jetzt im Frühling",
+    "groupCode": 1
+  },
+  {
+    "id": 10562,
+    "en": "I like the desk, but I don't like the carpet",
+    "de": "Ich mag den Schreibtisch, aber ich mag den Teppich nicht",
+    "groupCode": 1
+  },
+  {
+    "id": 10563,
+    "en": "Where is the ICE to Vienna? The ICE is on track twenty",
+    "de": "Wo ist der ICE nach Wien? Der ICE ist auf Gleis zwanzig",
+    "groupCode": 1
+  },
+  {
+    "id": 10564,
+    "en": "The tickets are in the travel center",
+    "de": "Die Fahrkarten sind im Reisezentrum",
+    "groupCode": 1
+  },
+  {
+    "id": 10565,
+    "en": "I would like to cancel my ticket",
+    "de": "Ich möchte meine Fahrkarte stornieren",
+    "groupCode": 1
+  },
+  {
+    "id": 10566,
+    "en": "Grandpa, would you like to cancel your ticket to Paris?",
+    "de": "Opa, möchtest du deine Fahrkarte nach Paris stornieren?",
+    "groupCode": 1
+  },
+  {
+    "id": 10567,
+    "en": "The train to Vienna is cancelled",
+    "de": "Der Zug nach Wien fällt aus",
+    "groupCode": 1
+  },
+  {
+    "id": 10568,
+    "en": "Do you often pay with credit card?",
+    "de": "Zahlst du oft mit Kreditkarte?",
+    "groupCode": 1
+  },
+  {
+    "id": 10569,
+    "en": "Can you pay at the travel center?",
+    "de": "Können sie im Reisezentrum zahlen?",
+    "groupCode": 1
+  },
+  {
+    "id": 10570,
+    "en": "I never pay by credit card",
+    "de": "Ich zahle nie mit Kreditkarte",
+    "groupCode": 1
+  },
+  {
+    "id": 10571,
+    "en": "Where is the train door?",
+    "de": "Wo ist die Zugtür?",
+    "groupCode": 1
+  },
+  {
+    "id": 10572,
+    "en": "Is the dining car open?",
+    "de": "Ist der Speisewagen geöffnet?",
+    "groupCode": 1
+  },
+  {
+    "id": 10573,
+    "en": "My seat is in the back",
+    "de": "Mein Sitz ist hinten",
+    "groupCode": 1
+  },
+  {
+    "id": 10574,
+    "en": "Is the seat free? The seat is free",
+    "de": "Ist der Sitz frei? Ja, der Sitz ist frei",
+    "groupCode": 1
+  },
+  {
+    "id": 10575,
+    "en": "Where is the next station?",
+    "de": "Wo ist die nächste Station?",
+    "groupCode": 1
+  },
+  {
+    "id": 10576,
+    "en": "Why is the table so modern?",
+    "de": "Warum ist der Tisch so modern?",
+    "groupCode": 1
+  },
+  {
+    "id": 10577,
+    "en": "Here is your (polite) table",
+    "de": "Hier ist Ihr Tisch",
+    "groupCode": 1
+  },
+  {
+    "id": 10578,
+    "en": "How long does the taxi ride to the hotel last?",
+    "de": "Wie lange dauert die Taxifahrt bis zum Hotel?",
+    "groupCode": 1
+  },
+  {
+    "id": 10579,
+    "en": "Why don't you like the suit jacket? It's great, but it doesn't fit",
+    "de": "Warum magst du das Sakko nicht? Es ist toll, aber es passt nicht",
+    "groupCode": 1
+  },
+  {
+    "id": 10580,
+    "en": "I like the table",
+    "de": "Ich mag den Tisch",
+    "groupCode": 1
+  },
+  {
+    "id": 10581,
+    "en": "Attention! The train from Berlin to Munich has a delay",
+    "de": "Achtung! der Zug von Berlin nach München hat eine Verspätung",
+    "groupCode": 1
+  },
+  {
+    "id": 10582,
+    "en": "The bedroom is very bright",
+    "de": "Das Schlafzimmer ist sehr hell",
+    "groupCode": 1
+  },
+  {
+    "id": 10583,
+    "en": "I love tea with chocolate. Me either! (I also)",
+    "de": "Ich mag Tee mit Schokolade. Ich auch!",
+    "groupCode": 1
+  },
+  {
+    "id": 10584,
+    "en": "We are looking for the hotel Maritim",
+    "de": "Wir suchen das hotel Maritim",
+    "groupCode": 1
+  },
+  {
+    "id": 10585,
+    "en": "I'm not hungry",
+    "de": "Ich habe keinen Hunger",
+    "groupCode": 1
+  },
+  {
+    "id": 10586,
+    "en": "I would like to eat Greek food",
+    "de": "Ich möchte griechisch essen",
+    "groupCode": 1
+  },
+  {
+    "id": 10587,
+    "en": "There's no food here",
+    "de": "Es gibt kein Essen hier",
+    "groupCode": 1
+  },
+  {
+    "id": 10588,
+    "en": "I would like to eat Italian food later",
+    "de": "Ich möchte später italienisch essen",
+    "groupCode": 1
+  },
+  {
+    "id": 10589,
+    "en": "Would you like to go to the coffee shop later?",
+    "de": "Möchtest du später ins Café gehen?",
+    "groupCode": 1
+  },
+  {
+    "id": 10590,
+    "en": "What would you like to drink? I would like to drink a beer",
+    "de": "Was möchten Sie trinken? Ich möchte ein Bier trinken",
+    "groupCode": 1
+  },
+  {
+    "id": 10591,
+    "en": "what is right?",
+    "de": "Was ist richtig?",
+    "groupCode": 1
+  },
+  {
+    "id": 10592,
+    "en": "For my son an apple spritzer and for me a glass of red wine",
+    "de": "Für meinen Sohn eine Apfelschorle und Für mich ein Glas Rotwein",
+    "groupCode": 1
+  },
+  {
+    "id": 10593,
+    "en": "Both are looking for something",
+    "de": "Die beiden suchen etwas",
+    "groupCode": 1
+  },
+  {
+    "id": 10594,
+    "en": "The woman says, the city map is correct",
+    "de": "Die Frau sagt, der Stadtplan stimmt",
+    "groupCode": 1
+  },
+  {
+    "id": 10595,
+    "en": "The man turns on the navigator",
+    "de": "Der Herr macht den Navigator an",
+    "groupCode": 1
+  },
+  {
+    "id": 10596,
+    "en": "I don't eat dessert but I drink coffee without milk",
+    "de": "Iche esse keinen Nachtisch aber Ich trinke Kaffee ohne Milch",
+    "groupCode": 1
+  },
+  {
+    "id": 10597,
+    "en": "Is the fruit salad sweet?",
+    "de": "Ist der Obstsalat süß?",
+    "groupCode": 1
+  },
+  {
+    "id": 10598,
+    "en": "Do you pay separately?",
+    "de": "Zahlen Sie getrennt?",
+    "groupCode": 1
+  },
+  {
+    "id": 10599,
+    "en": "Would you prefer to pay together or separately?",
+    "de": "Möchtest du lieber zusammen oder getrennt zahlen?",
+    "groupCode": 1
+  },
+  {
+    "id": 10600,
+    "en": "Here is the bill. That makes a total of thirty-five euros",
+    "de": "Hier ist die Rechnung. Das macht zusammen fünfunddreißig Euro",
+    "groupCode": 1
+  },
+  {
+    "id": 10601,
+    "en": "Who says that?",
+    "de": "Wer sagt das?",
+    "groupCode": 1
+  },
+  {
+    "id": 10602,
+    "en": "Ilia is in the school. It's time for lunch",
+    "de": "Ilia ist in der Schule. Es ist Zeit für das Mittagessen",
+    "groupCode": 1
+  },
+  {
+    "id": 10603,
+    "en": "The woman, the navigator or none",
+    "de": "Die Frau, die Navigator oder keiner",
+    "groupCode": 1
+  },
+  {
+    "id": 10604,
+    "en": "Here is the bill. I would like to pay in cash",
+    "de": "Hier ist die Rechnung. Ich möchte bar zahlen",
+    "groupCode": 1
+  },
+  {
+    "id": 10605,
+    "en": "Salad is really healthy",
+    "de": "Salat ist wirklich gesund",
+    "groupCode": 1
+  },
+  {
+    "id": 10606,
+    "en": "I don't know it",
+    "de": "Ich weiß es nicht",
+    "groupCode": 1
+  },
+  {
+    "id": 10607,
+    "en": "My roommates aren't hungry",
+    "de": "Meine Mitbewohner haben keinen Hunger",
+    "groupCode": 1
+  },
+  {
+    "id": 10608,
+    "en": "I would like to drink the apple spritzer. The apple spritzer is for me",
+    "de": "Ich möchte die Apfelschorle trinken. Die Apfelschorle ist für mich",
+    "groupCode": 1
+  },
+  {
+    "id": 10609,
+    "en": "Would you like to order the sandwich with cheese?",
+    "de": "Möchten Sie das Sandwich mit Käse bestellen?",
+    "groupCode": 1
+  },
+  {
+    "id": 10610,
+    "en": "We're paying cash today",
+    "de": "Wir zahlen heute bar",
+    "groupCode": 1
+  },
+  {
+    "id": 10611,
+    "en": "Where is the river?",
+    "de": "Wo ist der Fluss?",
+    "groupCode": 1
+  },
+  {
+    "id": 10612,
+    "en": "He gives me his book",
+    "de": "Er gibt mir sein Buch ( ار گیبت میِ زاین بوخ)",
+    "desc": "Subject + Verb + DAT + AKK",
+    "groupCode": 1
+  },
+  {
+    "id": 10613,
+    "en": "Would you like to visit me?",
+    "de": "Möchtest du mich besuchen?",
+    "groupCode": 1
+  },
+  {
+    "id": 10614,
+    "en": "The city museum is on the left",
+    "de": "Das Stadtmuseum ist links",
+    "groupCode": 1
+  },
+  {
+    "id": 10615,
+    "en": "Would you like to see the marketplace later?",
+    "de": "Möchtest du später den Marktplatz sehen?",
+    "groupCode": 1
+  },
+  {
+    "id": 10616,
+    "en": "I'm looking for the city center",
+    "de": "Ich suche das Stadtzentrum",
+    "groupCode": 1
+  },
+  {
+    "id": 10617,
+    "en": "We're looking for the art museum",
+    "de": "Wir suchen das Kunstmuseum",
+    "groupCode": 1
+  },
+  {
+    "id": 10618,
+    "en": "The art museum is not open, but the artist (man) paints here",
+    "de": "Das Kunstmuseum ist nicht geöffnet, aber der Künstler malt hier",
+    "groupCode": 1
+  },
+  {
+    "id": 10619,
+    "en": "The elephant doesn't love the zoo",
+    "de": "Der Elefant liebt den Zoo nicht",
+    "groupCode": 1
+  },
+  {
+    "id": 10620,
+    "en": "I would like to visit a zoo on vacation",
+    "de": "Ich möchte im Urlaub einen Zoo besuchen",
+    "groupCode": 1
+  },
+  {
+    "id": 10621,
+    "en": "The ticket costs around fifteen euros",
+    "de": "Die Fahrkarte kostet circa fünfzehn Euro",
+    "groupCode": 1
+  },
+  {
+    "id": 10622,
+    "en": "Where is the restaurant? Go to the left and then to the right",
+    "de": "Wo ist das Restaurant? Gehen Sie links und dann rechts",
+    "groupCode": 1
+  },
+  {
+    "id": 10623,
+    "en": "Go straight ahead for approximately ten minutes",
+    "de": "Gehen Sie circa zehn Minuten geradeaus",
+    "groupCode": 1
+  },
+  {
+    "id": 10624,
+    "en": "I'm looking for the city museum. Do I have to go right or left?",
+    "de": "Ich suche das Stadtmuseum. Muss ich rechts oder links gehen?",
+    "groupCode": 1
+  },
+  {
+    "id": 10625,
+    "en": "\n eleven \n twelve \n thirteen \n sixteen \n seventeen \n twenty \n twenty-one \n thirty \n forty \n fifty \n sixty \n seventy \n (one) hundred \n",
+    "de": "\n elf \n zwölf \n dreizehn \n sechzehn \n siebzehn \n zwanzig \n einundzwanzig \n dreißig \n vierzig \n fünfzig \n sechzig \n siebzig \n (ein)hundert (هوندات) \n",
+    "groupCode": 1
+  },
+  {
+    "id": 10626,
+    "en": "Would you like the fruit salad without sugar?",
+    "de": "Möchten Sie den Obstsalat ohne Zucker?",
+    "groupCode": 1
+  },
+  {
+    "id": 10627,
+    "en": "Where is the bus?",
+    "de": "Wo ist der Bus?",
+    "groupCode": 1
+  },
+  {
+    "id": 10628,
+    "en": "The bus stop is on the left",
+    "de": "Die Bushaltestelle ist links",
+    "groupCode": 1
+  },
+  {
+    "id": 10629,
+    "en": "here is the bus stop, but the bus has delay",
+    "de": "Hier ist die Bushaltestelle, aber der Bus hat Verspätung",
+    "groupCode": 1
+  },
+  {
+    "id": 10630,
+    "en": "Take bus number eleven",
+    "de": "\n 1.Fahren Sie mit Bus Nummer elf \n 2.Nehmen Sie den Bus Nummer elf",
+    "groupCode": 1
+  },
+  {
+    "id": 10631,
+    "en": "Wait please! You can't go now",
+    "de": "Warten Sie bitte! Sie können jetzt nicht gehen",
+    "groupCode": 1
+  },
+  {
+    "id": 10632,
+    "en": "Do you go by foot?",
+    "de": "Gehst du zu Fuß?",
+    "groupCode": 1
+  },
+  {
+    "id": 10633,
+    "en": "The game lasts thirty minutes",
+    "de": "Das Spiel dauert dreißig Minuten",
+    "groupCode": 1
+  },
+  {
+    "id": 10634,
+    "en": "How long do I have to go by foot?",
+    "de": "Wie lange muss ich zu Fuß gehen?",
+    "groupCode": 1
+  },
+  {
+    "id": 10635,
+    "en": "The Wine, The Water, The Beer, The Tea, The Milk",
+    "de": "der Wein, das Wasser, das Bier, der Tee, die Milch",
+    "groupCode": 1
+  },
+  {
+    "id": 10636,
+    "en": "Would you rather eat now or later?",
+    "de": "Möchtest du lieber jetzt oder später essen?",
+    "groupCode": 1
+  },
+  {
+    "id": 10637,
+    "en": "Do you like the dessert?",
+    "de": "Magst du den Nachtisch?",
+    "groupCode": 1
+  },
+  {
+    "id": 10638,
+    "en": "We have eggs, milk and potatoes",
+    "de": "Wie haben Eier, Milch und Kartoffeln",
+    "groupCode": 1
+  },
+  {
+    "id": 10639,
+    "en": "That can't be",
+    "de": "Das kann nicht sein",
+    "groupCode": 1
+  },
+  {
+    "id": 10640,
+    "en": "We need a taxi to the hotel",
+    "de": "Wir brauchen ein Taxi bis zum Hotel",
+    "groupCode": 1
+  },
+  {
+    "id": 10641,
+    "en": "You can't swim in the river",
+    "de": "Sie können nicht im Fluss schwimmen",
+    "groupCode": 1
+  },
+  {
+    "id": 10642,
+    "en": "Does it snow in Rome in winter?",
+    "de": "Schneit es im Winter in Rom?",
+    "groupCode": 1
+  },
+  {
+    "id": 10643,
+    "en": "Can you repeat the address?",
+    "de": "Können Sie die Adresse widerholen?",
+    "groupCode": 1
+  },
+  {
+    "id": 10644,
+    "en": "When is your birthday?",
+    "de": "Wann hast du Geburtstag?",
+    "groupCode": 1
+  },
+  {
+    "id": 10645,
+    "en": "What do you do on the first of March?",
+    "de": "Was machst du am ersten März?",
+    "groupCode": 1
+  },
+  {
+    "id": 10646,
+    "en": "I'm looking for work as a salesman",
+    "de": "Ich suche Arbeit als Verkäufer",
+    "groupCode": 1
+  },
+  {
+    "id": 10647,
+    "en": "He studies mathematics and works as a waiter",
+    "de": "Er studiert Mathematik und arbeitet als Kellner",
+    "groupCode": 1
+  },
+  {
+    "id": 10648,
+    "en": "I am a software engineer and work at Knauf",
+    "de": "Ich bin Software-Ingenieur und arbeite bei Knauf",
+    "groupCode": 1
+  },
+  {
+    "id": 10649,
+    "en": "She sells sports products at Intersport",
+    "de": "Sie verkauft Sportprodukte bei Intersport",
+    "groupCode": 1
+  },
+  {
+    "id": 10650,
+    "en": "Colors (white, yellow, orange, red, green, blue, brown, black, dark brown, light brown)",
+    "de": "Farben(weiß, gelb, orange, rot, grün, blau, braun, schwarz, dunkelbraun, hellbraun)",
+    "groupCode": 1
+  },
+  {
+    "id": 10651,
+    "en": "Eight kilos of tomatoes and nine kilos of cheese? What do you cook?",
+    "de": "Acht Kilo Tomaten und neun Kilo Käse? Was kochst du?",
+    "groupCode": 1
+  },
+  {
+    "id": 10652,
+    "en": "Is your birthday on the first of March?",
+    "de": "Hast du am ersten März Geburtstag?",
+    "groupCode": 1
+  },
+  {
+    "id": 10653,
+    "en": "My birthday is on the first of April",
+    "de": "Ich habe am ersten April Geburtstag",
+    "groupCode": 1
+  },
+  {
+    "id": 10654,
+    "en": "My son's birthday is on the second of March",
+    "de": "Mein Sohn hat am zweiten März Geburtstag",
+    "groupCode": 1
+  },
+  {
+    "id": 10655,
+    "en": "My girlfriend's birthday is on the second of April",
+    "de": "Am zweiten April hat meine Freundin Geburtstag",
+    "groupCode": 1
+  },
+  {
+    "id": 10656,
+    "en": "What are you doing on the fourth of April?",
+    "de": "Was machst du am vierten April?",
+    "groupCode": 1
+  },
+  {
+    "id": 10657,
+    "en": "My wife is having a party on the third of April",
+    "de": "Meine Frau macht am dritten April eine Party",
+    "groupCode": 1
+  },
+  {
+    "id": 10658,
+    "en": "Good day! What do you wish (want) (polite)? A cup of coffee and a cake, please",
+    "de": "Guten Tag! Sie wünschen? Eine Tasse Kaffee und einen Kuchen, bitte",
+    "groupCode": 1
+  },
+  {
+    "id": 10659,
+    "en": "Are you having a picnic on the seventh of March?",
+    "de": "Machst du am siebten März ein Picknick?",
+    "groupCode": 1
+  },
+  {
+    "id": 10660,
+    "en": "I eat a salad but the salad with tomatoes is expensive",
+    "de": "Ich esse einen Salat aber Der Salat mit Tomaten ist teuer",
+    "groupCode": 1
+  },
+  {
+    "id": 10661,
+    "en": "Would you like (polite) a nut cake? No thanks!",
+    "de": "Möchten Sie vielleicht einen Nusskuchen? Nein, danke!",
+    "groupCode": 1
+  },
+  {
+    "id": 10662,
+    "en": "Our nut cake is particularly good. But I don't like nut cake. Oh right!",
+    "de": "Unser Nusskuchen ist besonders gut. Ich mag aber keinen Nusskuchen. Ach so!",
+    "groupCode": 1
+  },
+  {
+    "id": 10663,
+    "en": "We're having a party on the tenth of July",
+    "de": "Wir machen am zehnten Juli eine Party",
+    "groupCode": 1
+  },
+  {
+    "id": 10664,
+    "en": "Where is my invitation?",
+    "de": "Wo ist meine Einladung?",
+    "groupCode": 1
+  },
+  {
+    "id": 10665,
+    "en": "Would you like (polite) an apple cake? I would like a chocolate cake",
+    "de": "Möchten Sie einen Apfelkuchen? Ich möchte einen Schokoladenkuchen",
+    "groupCode": 1
+  },
+  {
+    "id": 10666,
+    "en": "A chocolate cake and a cup of coffee",
+    "de": "Einen Schokoladenkuchen und eine Tasse Kaffee",
+    "groupCode": 1
+  },
+  {
+    "id": 10667,
+    "en": "Are you (plural) having a picnic?",
+    "de": "Macht ihr ein Picknick?",
+    "groupCode": 1
+  },
+  {
+    "id": 10668,
+    "en": "Sorry, but we do not have a chocolate cake anymore",
+    "de": "Tut mir leid, aber wir haben keinen Schokoladenkuchen mehr",
+    "groupCode": 1
+  },
+  {
+    "id": 10669,
+    "en": "Too bad! Not good, then I take an apple cake",
+    "de": "Schade! Na gut, dann nehme ich einen Apfelkuchen",
+    "groupCode": 1
+  },
+  {
+    "id": 10670,
+    "en": "Do you have a gift for me?",
+    "de": "Hast du ein Geschenk fur mich?",
+    "groupCode": 1
+  },
+  {
+    "id": 10671,
+    "en": "Can you (plural) buy a gift today?",
+    "de": "Könnt ihr heute ein Geschenk kaufen?",
+    "groupCode": 1
+  },
+  {
+    "id": 10672,
+    "en": "Where are you (plural) celebrating the birthday?",
+    "de": "Wo feiert ihr den Geburtstag?",
+    "groupCode": 1
+  },
+  {
+    "id": 10673,
+    "en": "I'm celebrating my birthday in the park",
+    "de": "Ich feiere meinen Geburtstag im Park",
+    "groupCode": 1
+  },
+  {
+    "id": 10674,
+    "en": "Are you (plural) celebrating in the restaurant? No, we're celebrating at home",
+    "de": "Feiert ihr im Restaurant? Nein, wir feiern zu Hause",
+    "groupCode": 1
+  },
+  {
+    "id": 10675,
+    "en": "Do you need new clothes for the job interview?",
+    "de": "Brauchst du neue Kleidung für das Job Interview?",
+    "groupCode": 1
+  },
+  {
+    "id": 10676,
+    "en": "Now we don’t have any apple pie anymore.",
+    "de": "Jetzt haben wir auch keinen Apfelkuchen mehr.",
+    "groupCode": 1
+  },
+  {
+    "id": 10677,
+    "en": "What else do you have? We only have nut cake",
+    "de": "Was haben Sie denn noch? Wir haben nur noch Nusskuchen",
+    "groupCode": 1
+  },
+  {
+    "id": 10678,
+    "en": "Are you celebrating your birthday at home?",
+    "de": "Feierst du deinen Geburtstag zu Hause?",
+    "groupCode": 1
+  },
+  {
+    "id": 10679,
+    "en": "We would like to eat in the restaurant",
+    "de": "Wir möchten im Restaurant essen",
+    "groupCode": 1
+  },
+  {
+    "id": 10680,
+    "en": "Does he always paint?",
+    "de": "Malt er immer?",
+    "groupCode": 1
+  },
+  {
+    "id": 10681,
+    "en": "The party is at home, not in the park",
+    "de": "Die Party ist zu Hause, nicht im Park",
+    "groupCode": 1
+  },
+  {
+    "id": 10682,
+    "en": "What else do you have?",
+    "de": "Was haben Sie denn noch?",
+    "groupCode": 1
+  },
+  {
+    "id": 10683,
+    "en": "We're celebrating my birthday in the park",
+    "de": "Wir feiern meinen Geburtstag im Park",
+    "groupCode": 1
+  },
+  {
+    "id": 10684,
+    "en": "I eat bread by white sausage",
+    "de": "Ich esse Brot mit Weißwurst",
+    "groupCode": 1
+  },
+  {
+    "id": 10685,
+    "en": "What are you searching for?",
+    "de": "Wonach suchst du?",
+    "groupCode": 1
+  },
+  {
+    "id": 10686,
+    "en": "What does it smell like? It smells like flowers",
+    "de": "Wonach riecht es? Es riecht nach Blumen",
+    "desc": "wonach: there is no universal answer or translation. \"wonach\" can be used to ask about anything that requires \"nach\"",
+    "groupCode": 1
+  },
+  {
+    "id": 10687,
+    "en": "Customer finds receipt from 2002",
+    "de": "Kunde findet Kassenzettel von 2002",
+    "groupCode": 1
+  },
+  {
+    "id": 10688,
+    "en": "Do you need a bag?",
+    "de": "Brauchen sie eine tüte?",
+    "groupCode": 1
+  },
+  {
+    "id": 10689,
+    "en": "Oh no, the bread and cake are too delicious",
+    "de": "Oh nein, das Brot und der kuchen sind zu lecker",
+    "groupCode": 1
+  },
+  {
+    "id": 10690,
+    "en": "Why do I have green hair?",
+    "de": "Warum habe ich grüne Haare?",
+    "groupCode": 1
+  },
+  {
+    "id": 10691,
+    "en": "No problem! His name is Asghar",
+    "de": "Kein Problem! Er heißt Asghar",
+    "groupCode": 1
+  },
+  {
+    "id": 10692,
+    "en": "Why is my head so big?",
+    "de": "Warum ist mein Kopf so Groß?",
+    "groupCode": 1
+  },
+  {
+    "id": 10693,
+    "en": "These are not my eyes",
+    "de": "Das sind nicht meine Augen",
+    "groupCode": 1
+  },
+  {
+    "id": 10694,
+    "en": "Do you like to dance?",
+    "de": "Tanzt du gern?",
+    "groupCode": 1
+  },
+  {
+    "id": 10695,
+    "en": "What hobbies do you have?",
+    "de": "Welche Hobbys hast du?",
+    "groupCode": 1
+  },
+  {
+    "id": 10696,
+    "en": "I don't dance well",
+    "de": "Ich tanze nicht gut",
+    "groupCode": 1
+  },
+  {
+    "id": 10697,
+    "en": "The sausage is too hot",
+    "de": "Die Wurst ist zu heiß",
+    "groupCode": 1
+  },
+  {
+    "id": 10698,
+    "en": "No black dress",
+    "de": "Kein schwarzes Kleid",
+    "groupCode": 1
+  },
+  {
+    "id": 10699,
+    "en": "The movie was shit. My damn cell phone doesn't work",
+    "de": "Der Film war Scheiße. Mein Scheiß Handy funktioniert nicht",
+    "groupCode": 1
+  },
+  {
+    "id": 10700,
+    "en": "Do you play an instrument?",
+    "de": "Spielst du ein Instrument?",
+    "groupCode": 1
+  },
+  {
+    "id": 10701,
+    "en": "Would you (plural) like to watch a movie?",
+    "de": "Möchtet ihr einen Film sehen?",
+    "groupCode": 1
+  },
+  {
+    "id": 10702,
+    "en": "I can play an instrument and you?",
+    "de": "Ich kann ein Instrument spielen und du?",
+    "groupCode": 1
+  },
+  {
+    "id": 10703,
+    "en": "Do you (plural) often play tennis together?",
+    "de": "Spielt ihr oft Tennis zusammen?",
+    "groupCode": 1
+  },
+  {
+    "id": 10704,
+    "en": "My aunt's birthday is on Sunday",
+    "de": "Meine Tante hat Geburtstag am Sonntag",
+    "groupCode": 1
+  },
+  {
+    "id": 10705,
+    "en": "My brother likes to listen to jazz",
+    "de": "Mein Bruder hört gern Jazz",
+    "groupCode": 1
+  },
+  {
+    "id": 10706,
+    "en": "I don't like to listen to podcasts",
+    "de": "Ich höre nicht gern Podcasts",
+    "groupCode": 1
+  },
+  {
+    "id": 10707,
+    "en": "The train door is at the rear left",
+    "de": "Die zugtür ist hinten links",
+    "groupCode": 1
+  },
+  {
+    "id": 10708,
+    "en": "The departure is at half past seven",
+    "de": "Die Abfährt ist um halb acht",
+    "groupCode": 1
+  },
+  {
+    "id": 10709,
+    "en": "The witch likes to cook",
+    "de": "Die Hexe kocht gern",
+    "groupCode": 1
+  },
+  {
+    "id": 10710,
+    "en": "I often camp in the forest",
+    "de": "Ich campe oft im Wald",
+    "groupCode": 1
+  },
+  {
+    "id": 10711,
+    "en": "Where do you (plural) want to go hiking in the forest?",
+    "de": "Wo wollt ihr im Wald wandern gehen?",
+    "groupCode": 1
+  },
+  {
+    "id": 10712,
+    "en": "I want to grill next week",
+    "de": "Ich will nächste Woche grillen",
+    "groupCode": 1
+  },
+  {
+    "id": 10713,
+    "en": "I have no time next week",
+    "de": "Ich habe nächste Woche keine Zeit",
+    "groupCode": 1
+  },
+  {
+    "id": 10714,
+    "en": "We have time next week. Do you (plural) want to go camping?",
+    "de": "Wir haben nächste Woche Zeit. Wollt ihr campen gehen?",
+    "groupCode": 1
+  },
+  {
+    "id": 10715,
+    "en": "It is foggy in the forest, do you want to camp here?",
+    "de": "Es ist neblig im Walt, willst du hier campen?",
+    "groupCode": 1
+  },
+  {
+    "id": 10716,
+    "en": "Do you (plural) want to listen to jazz together?",
+    "de": "Wollt ihr zusammen Jazz hören?",
+    "groupCode": 1
+  },
+  {
+    "id": 10717,
+    "en": "I don't have a stomachache anymore, I'm healthy",
+    "de": "Ich habe keine bauchschmerzen mehr, ich bin gesund",
+    "groupCode": 1
+  },
+  {
+    "id": 10718,
+    "en": "Are your grandma and grandpa healthy too?",
+    "de": "Sind deine Oma und dein Opa auch gesund?",
+    "groupCode": 1
+  },
+  {
+    "id": 10719,
+    "en": "You are healthy and I am happy",
+    "de": "Du bist gesund und ich bin glücklich",
+    "groupCode": 1
+  },
+  {
+    "id": 10720,
+    "en": "Good day. My name is Ali and come from Iran and live in Munich now",
+    "de": "Guten tag. Ich heiße Ali und komme aus dem Iran und wohne jetzt in München",
+    "groupCode": 1
+  },
+  {
+    "id": 10721,
+    "en": "I'm not tired at night",
+    "de": "Ich bin nachts nicht müde",
+    "groupCode": 1
+  },
+  {
+    "id": 10722,
+    "en": "Do you have a pill?",
+    "de": "Hast du eine Tablette?",
+    "groupCode": 1
+  },
+  {
+    "id": 10723,
+    "en": "Akbar, go to the doctor please",
+    "de": "Akbar, geh Zum Arzt bitte",
+    "groupCode": 1
+  },
+  {
+    "id": 10724,
+    "en": "Are you not hungery anymore?",
+    "de": "Hast du kinen Hunger mehr?",
+    "groupCode": 1
+  },
+  {
+    "id": 10725,
+    "en": "I would like to make an appointment",
+    "de": "Ich mochte einen Termin machen",
+    "groupCode": 1
+  },
+  {
+    "id": 10726,
+    "en": "I'm sad and I'm sleeping too much",
+    "de": "Ich bin traurig und ich bin schlafe zu viel",
+    "groupCode": 1
+  },
+  {
+    "id": 10727,
+    "en": "Good evening. His name is Asghar and studies philosophy in Munich",
+    "de": "Guten abend. Er heißt Asghar und studiert Philosophie in München",
+    "groupCode": 1
+  },
+  {
+    "id": 10728,
+    "en": "Do you want to jog in the park tomorrow?",
+    "de": "Wollt ihr morgen im Park joggen?",
+    "groupCode": 1
+  },
+  {
+    "id": 10729,
+    "en": "Can you sleep well at night, Mr. Kohl?",
+    "de": "Können Sie nachts gut schlafen, Herr Kohl?",
+    "groupCode": 1
+  },
+  {
+    "id": 10730,
+    "en": "I am always thirsty at night",
+    "de": "Ich habe nachts immer Durst",
     "groupCode": 1
   }
 ]
