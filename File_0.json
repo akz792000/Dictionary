@@ -499,7 +499,7 @@
   },
   {
     "id": 83,
-    "fa": "تا به حال تو عطسه ببر را دیده اید؟",
+    "fa": "تا به حال تو عطسه ببر را (تاکید) دیده اید؟",
     "en": "Have you ever seen tiger sneezing?",
     "groupCode": 0
   },
@@ -727,7 +727,7 @@
   },
   {
     "id": 121,
-    "fa": "خیلی کار دارم",
+    "fa": "خیلی (کار) برای انجام دارم",
     "en": "I have so much to do",
     "groupCode": 0
   },
@@ -739,8 +739,9 @@
   },
   {
     "id": 123,
-    "fa": "همانطور که گفتم",
-    "en": "Like I said",
+    "fa": "همانطور که زودتر گفتم, جلسه ساعت 3 است",
+    "en": "Like I said earlier, the meeting is at 3",
+    "desc": "\"Like I said\" is informal, common in casual conversation.\n\n\"As I said\" is more formal, used in professional or polished contexts.",
     "groupCode": 0
   },
   {
@@ -964,7 +965,7 @@
   },
   {
     "id": 160,
-    "fa": "بر خلاف هر چیزی که دنیا تا به حال دیده",
+    "fa": "بر خلاف هر چیزی که دنیا تا به حال (تاکید) دیده",
     "en": "Unlike anything the world has ever seen",
     "groupCode": 0
   },
@@ -1345,7 +1346,7 @@
   },
   {
     "id": 223,
-    "fa": "اگر اونو (مرد) ببینم (تاکید) احتمالا ازش امضاش را می خوام",
+    "fa": "اگر اونو (مرد) (تاکید) ببینم احتمالا ازش امضاش را می خوام",
     "en": "If I ever met him, I would probably ask for his autograph",
     "groupCode": 0
   },
@@ -2645,7 +2646,7 @@
   },
   {
     "id": 438,
-    "fa": "این بهترین فیلمیه که تا به حال دیدم",
+    "fa": "این بهترین فیلمیه که تا به حال (تاکید) دیدم",
     "en": "This is the best movie that I have ever seen",
     "groupCode": 0
   },
@@ -3195,7 +3196,7 @@
   },
   {
     "id": 529,
-    "fa": "تا به حال تو به این فکر کرده اید که غذای چند نفر را همزمان می خوری؟",
+    "fa": "تا به حال تو به این (تاکید) فکر کرده اید که غذای چند نفر را همزمان می خوری؟",
     "en": "Have you ever thought about how many people's food you eat at the same time?",
     "groupCode": 0
   },
@@ -5304,7 +5305,7 @@
   },
   {
     "id": 875,
-    "fa": "تا حالا تو در مورد آن شنیده ای؟",
+    "fa": "تا حالا تو در مورد آن (تاکید) شنیده ای؟",
     "en": "Have you ever heard of it?",
     "desc": "\"Have you ever heard of it?\" asks about general awareness, while \"Have you ever heard about it?\" focuses on specific information or news related to the subject.",
     "groupCode": 0
@@ -5536,7 +5537,7 @@
   },
   {
     "id": 913,
-    "fa": "به عنوان یک پزشک، نفرت انگیزترین درخواستی که تا به حال از یک بیمار دریافت کرده اید چیست؟",
+    "fa": "به عنوان یک پزشک، نفرت انگیزترین درخواستی که تا به حال از یک بیمار (تاکید) دریافت کرده اید چیست؟",
     "en": "As a doctor, what is the most obnoxious request you ever received from a patient?",
     "groupCode": 0
   },
@@ -6241,7 +6242,7 @@
   },
   {
     "id": 1028,
-    "fa": "آیا شما تا به حال خارج رفتی؟",
+    "fa": "آیا شما تا به حال (تاکید) خارج رفتی؟",
     "en": "Have you ever gone abroad?",
     "desc": "\"Have you ever been abroad?\" is the more commonly used phrase to ask about someone's experience of being in another country. \"Have you ever gone abroad?\" can also be understood, but it specifically highlights the act of physically traveling to another country.",
     "groupCode": 0
@@ -8176,7 +8177,7 @@
   },
   {
     "id": 1346,
-    "fa": "اصلاً شد سوشی بخوری در حالی که در فرانسه بودی؟",
+    "fa": "اصلاً شد سوشی (تاکید) بخوری در حالی که در فرانسه بودی؟",
     "en": "Did you ever eat sushi while you were in France?",
     "groupCode": 0
   },
@@ -8236,7 +8237,7 @@
   },
   {
     "id": 1356,
-    "fa": "شده با یک آقای بری بیرون؟",
+    "fa": "شده با یک آقای بری (تاکید) بیرون؟",
     "en": "Did you ever go out with a guy?",
     "groupCode": 0
   },
@@ -9174,7 +9175,7 @@
   },
   {
     "id": 1511,
-    "fa": "آیا تا به حال تو آرزو می کردی تو کنار دریا زندگی می کردی؟",
+    "fa": "آیا تا به حال تو (تاکید) آرزو می کردی تو کنار دریا زندگی می کردی؟",
     "en": "Do you ever wish you lived by the sea?",
     "groupCode": 0
   },
@@ -9198,7 +9199,7 @@
   },
   {
     "id": 1515,
-    "fa": "آیا تا به حال آرزو کردی بتوانی پرواز کنید؟",
+    "fa": "آیا تا به حال (تاکید) آرزو کردی بتوانی پرواز کنید؟",
     "en": "Do you ever wish you could fly?",
     "desc": "\"Do you ever wish\" - This asks about the person's current or habitual desire to go out.\n\n\"Did you ever wish\" - This asks about the person's past desire to go out at some point.",
     "groupCode": 0
@@ -10352,7 +10353,7 @@
   },
   {
     "id": 1706,
-    "fa": "تا به حال تو تعجب کرده ای بالاترین ارتفاعی که هر جت جنگنده می تواند به آن برسد چیست؟",
+    "fa": "تا به حال تو (تاکید) تعجب کرده ای بالاترین ارتفاعی که هر جت جنگنده می تواند به آن برسد چیست؟",
     "en": "Have you ever wondered what the highest altitude any fighter jet can reach is?",
     "groupCode": 0
   },
@@ -10771,7 +10772,7 @@
   },
   {
     "id": 1775,
-    "fa": "تئوری شما را پیش خواهد برد فقط  تا اینجا",
+    "fa": "تئوری شما را پیش خواهد برد فقط تا اینجا",
     "en": "Theory (ثی اِری) will take you only so far",
     "groupCode": 0
   },
@@ -13149,7 +13150,7 @@
   },
   {
     "id": 2167,
-    "fa": "این شرکت هست (مدتی) تنها بدترینی شرکتی (که) تا به حال ما با آن سروکار داشته ایم",
+    "fa": "این شرکت هست (مدتی) تنها بدترینی شرکتی (که) تا به حال ما با آن (تاکید) سروکار داشته ایم",
     "en": "This company has been the single worst company we've ever dealt with",
     "groupCode": 0
   },
@@ -14169,7 +14170,7 @@
   },
   {
     "id": 2336,
-    "fa": "آیا تا به حال در قرار ملاقات کور بوده اید؟",
+    "fa": "آیا تا به حال در قرار ملاقات کور (تاکید) بوده اید؟",
     "en": "Have you ever been on a blind date?",
     "groupCode": 0
   },
@@ -14417,7 +14418,7 @@
   },
   {
     "id": 2377,
-    "fa": "آیا تا به حال به طور تصادفی پی برده اید که داشتید اخراج می شدید؟",
+    "fa": "آیا تا به حال به طور تصادفی (تاکید) پی برده اید که داشتید اخراج می شدید؟",
     "en": "Have you ever accidentally found out that you were about to be fired?",
     "groupCode": 0
   },
@@ -14824,7 +14825,7 @@
   },
   {
     "id": 2444,
-    "fa": "خفه شو. هر چی من میگم همینه",
+    "fa": "خفه شو. هر چی من (تاکید) میگم همینه",
     "en": "Shut up. It's what ever I say",
     "groupCode": 0
   },
@@ -15322,7 +15323,7 @@
   },
   {
     "id": 2526,
-    "fa": "وقتی چیزی را قول می دهم، اصلا و ابدا آن قول را نمی شکنم",
+    "fa": "وقتی چیزی را قول می دهم، اصلا و ابدا آن قول را (تاکید) نمی شکنم",
     "en": "When I promise something, I never ever break that promise",
     "groupCode": 0
   },
@@ -16078,7 +16079,7 @@
   },
   {
     "id": 2651,
-    "fa": "اون هست یکی از بدخلق ترین گربه هایی که تا به حال دیده ام",
+    "fa": "اون هست یکی از بدخلق ترین گربه هایی که تا به حال (تاکید) دیده ام",
     "en": "That is one of the grumpiest cat I have ever seen",
     "groupCode": 0
   },
@@ -16180,7 +16181,7 @@
   },
   {
     "id": 2668,
-    "fa": "بهترین هدیه ای که تا به حال به کسی داده اید چیست؟",
+    "fa": "بهترین هدیه ای که تا به حال به کسی (تاکید) داده اید چیست؟",
     "en": "What's the best gift you've ever given someone?",
     "groupCode": 0
   },
@@ -17025,7 +17026,7 @@
   },
   {
     "id": 2806,
-    "fa": "خفن ترین چیزی که والدین شما انجام داده اند چیست؟",
+    "fa": "خفن ترین چیزی که (یکی از والدین) والدین شما (تاکید) انجام دادند چیست؟",
     "en": "What is the most badass thing your parent has ever done?",
     "groupCode": 0
   },
@@ -17446,7 +17447,7 @@
   },
   {
     "id": 2875,
-    "fa": "تو هرگز من را نخواهی گرفت",
+    "fa": "تو هرگز من را (تاکید) نخواهی گرفت",
     "en": "You won't ever get me",
     "groupCode": 0
   },
@@ -17904,7 +17905,7 @@
   },
   {
     "id": 2950,
-    "fa": "آیا تا به حال برات رخ داده که تو ممکن است آنقدر احمق باشم؟",
+    "fa": "آیا تا به حال برات (تاکید) رخ داده که تو ممکن است آنقدر احمق باشم؟",
     "en": "Did it ever occur to you that you might be that stupid?",
     "groupCode": 0
   },

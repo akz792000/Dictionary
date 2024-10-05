@@ -870,7 +870,7 @@
   },
   {
     "id": 3143,
-    "fa": "اون مسخره ترین چیزی است که من تا به حال شنیده ام",
+    "fa": "اون مسخره ترین چیزی است که من تا به حال (تاکید) شنیده ام",
     "en": "That's the most ridiculous thing I've ever heard",
     "groupCode": 0
   },
@@ -1119,8 +1119,8 @@
   },
   {
     "id": 3184,
-    "fa": "آیا من می توانم اجاره کل سال خود را (روی) یک آپارتمان جلوتر پرداخت کنم؟",
-    "en": "Can I pay my entire year lease on an apartment upfront?",
+    "fa": "آیا من می توانم اجاره آپارتمان برای کل سال را جلوتر پرداخت کنم؟",
+    "en": "Can I pay my apartment lease for the entire year upfront?",
     "groupCode": 0
   },
   {
@@ -1394,7 +1394,7 @@
   },
   {
     "id": 3229,
-    "fa": "آیا تا به حال شاهد بوده ای یک زندگی ویران شده با یک اشتباه کوچک؟",
+    "fa": "آیا تا به حال (تاکید) شاهد بوده ای یک زندگی ویران شده با یک اشتباه کوچک؟",
     "en": "Have you ever witnessed a life ruined by a small mistake?",
     "desc": "Let's break it down:\n\nFull version: \"Have you ever witnessed a life that was ruined from a small mistake?\"\nThis is a full passive sentence with \"was.\"\nReduced version: \"Have you ever witnessed a life ruined from a small mistake?\"\nHere, \"that was\" is omitted (which is common in English), and \"ruined\" works as part of a reduced clause.\nSo, even though it's passive, you don’t need \"was\" because it's implied and reduced.",
     "groupCode": 0
@@ -1699,7 +1699,7 @@
   },
   {
     "id": 3279,
-    "fa": " تحویل (کالای) شما خواهد رسید در سایت ساخت در ۲۴ ساعت آینده",
+    "fa": " تحویل (کالای) شما خواهد رسید در سایت ساخت در ۲۴ ساعت بعدی",
     "en": "Your delivery will arrive at the construction site within the next 24 hours",
     "groupCode": 0,
     "desc": "The verb \"arrive\" doesn’t always imply that something moves on its own. It’s often used to describe when an object reaches a destination, regardless of who or what is physically transporting it.\n\nIn this case, \"Your delivery will arrive\" means that the delivery is expected to reach the site. The sentence focuses on the final result—the delivery being at the construction site—not on who or what actually brings it there.\n\nIf you prefer to emphasize the fact that it’s being brought by someone, you could rephrase it:\n\n\"Your delivery will be delivered to the construction site.\""
@@ -1973,7 +1973,7 @@
   },
   {
     "id": 3324,
-    "fa": "آیا می توانید به او (مرد) یک اسپرسو بدید؟",
+    "fa": "آیا می توانید (مودبانه) به او (مرد) یک اسپرسو بدید؟",
     "en": "Could you get him an espresso?",
     "groupCode": 0
   },
@@ -2021,7 +2021,7 @@
   },
   {
     "id": 3332,
-    "fa": "سرم درد می کند! چم شده؟",
+    "fa": "سرم صدمه دیده! چم شده؟",
     "en": "My head hurts! What is wrong with me?",
     "groupCode": 0
   },
@@ -2033,25 +2033,25 @@
   },
   {
     "id": 3334,
-    "fa": "۱.کلم \n ۲.کاهو \n ۳.کلم بروکلی \n ۴.اسفناج \n ۵.گل کلم",
+    "fa": " ۱.کلم \n ۲.کاهو \n ۳.کلم بروکلی \n ۴.اسفناج \n ۵.گل کلم",
     "en": "1.Cabbage /ˈkæbədʒ/ \n 2.Lettuce /ˈletəs/ \n 3.Broccoli /ˈbrɑːkəli/ \n 4.Spinach /ˈspɪnət͡ʃ/ \n 5.Cauliflower /ˈkɑːləˌflɑːwər/",
     "groupCode": 0
   },
   {
     "id": 3335,
-    "fa": "۱.کلم قرمز \n ۲.شلغم \n ۳.بادمجان \n ۴.چغندر \n ۵.فلفل ",
+    "fa": " ۱.کلم قرمز \n ۲.شلغم \n ۳.بادمجان \n ۴.چغندر \n ۵.فلفل",
     "en": "1.Red cabbage \n 2.Turnip /ˈtɜːrnəp/ \n 3.Eggplant \n 4.Beetroot \n 5.Pepper",
     "groupCode": 0
   },
   {
     "id": 3336,
-    "fa": "۱.پیاز \n ۲.سیب زمینی \n ۳.سیر \n ۴.قارچ \n ۵.ذرت ",
+    "fa": " ۱.پیاز \n ۲.سیب زمینی \n ۳.سیر \n ۴.قارچ \n ۵.ذرت ",
     "en": "1.Onion \n 2.Potato \n 3.Garlic \n 4.Mushroom \n 5.Corn",
     "groupCode": 0
   },
   {
     "id": 3337,
-    "fa": "۱.هویج \n ۲.گوجه فرنگی \n ۳.خیار \n ۴.نخود فرنگی \n ۵.مارچوبه ",
+    "fa": " ۱.هویج \n ۲.گوجه فرنگی \n ۳.خیار \n ۴.نخود فرنگی \n ۵.مارچوبه ",
     "en": "1.Carrot \n 2.Tomato \n 3.Cucumber \n 4.Peas \n 5.Asparagus /əˈsperəɡəs/",
     "groupCode": 0
   },
@@ -2100,7 +2100,7 @@
   },
   {
     "id": 3345,
-    "fa": "متأسفانه بازه زمانی ارائه شده برای ما مناسب نیست. آیا می توانید زمان های موجود در مؤسسه خود را در دوشنبه و جمعه به من اطلاع دهید؟",
+    "fa": "متأسفانه بازه زمانی ارائه شده برای ما مناسب نیست. آیا می توانید (مودبانه) زمان های موجود در مؤسسه خود را در دوشنبه و جمعه به من اطلاع دهید؟",
     "en": "Unfortunately, the time slot you provided is not suitable for us. Could you please let me know the available time slots at your institute on Monday and Friday?",
     "groupCode": 0
   },
@@ -2130,7 +2130,7 @@
   },
   {
     "id": 3350,
-    "fa": "پوشیدن کلاه ایمنی تصادف نیاز است طبق قانون",
+    "fa": "پوشیدن یک کلاه ایمنی تصادف نیاز است طبق قانون",
     "en": "The wearing of a crash helmet is required by law",
     "groupCode": 0
   },
@@ -2142,7 +2142,7 @@
   },
   {
     "id": 3352,
-    "fa": "وقتی من هفته گذشته گم شدم، او (مرد) نمی دانست که من در مشکل هستم. اگر او (مرد) می دانست تو کجا بودی، سوراخی در کیهان پاره می کرد (پاره کرده بود) تا تو را به خانه بیاورد",
+    "fa": "وقتی من هفته گذشته گم شدم، او (مرد) نمی دانست که من به دردسر افتاده بودم. اگر او (مرد) می دانست تو کجا بودی، سوراخی در کیهان پاره می کرد (پاره کرده بود) تا تو را به خانه بیاورد",
     "en": "When I got lost last week, he didn't know I was in trouble. If he knew where you were, he would have torn a hole in the universe to bring you home",
     "groupCode": 0
   },
@@ -2163,6 +2163,42 @@
     "id": 3355,
     "fa": "من نگاهی خواهم انداخت تا ببینم چقدر خوب با این کار مناسب است",
     "en": "I'll take a look to see how well it fits the job",
+    "groupCode": 0
+  },
+  {
+    "id": 3356,
+    "fa": "این یک عدد (غیرمنصفانه) ظالمانه و مضحک است",
+    "en": "That's an outrageous, ludicrous /ˈluːdəkrəs/ number",
+    "groupCode": 0
+  },
+  {
+    "id": 3357,
+    "fa": "آخر هفته خوبی داشته باشید",
+    "en": "Have a great weekend",
+    "groupCode": 0
+  },
+  {
+    "id": 3358,
+    "fa": "آیا شما شهروند خوبی نیستید؟",
+    "en": "Aren't you a good citizen?",
+    "groupCode": 0
+  },
+  {
+    "id": 3359,
+    "fa": "من همیشه این دو کلمه را با هم اشتباه می گیرم",
+    "en": "I always confuse these two words",
+    "groupCode": 0
+  },
+  {
+    "id": 3360,
+    "fa": "چند نفر می خواهند به گشت وگذاری بروند؟",
+    "en": "How many people want to go on the excursion?",
+    "groupCode": 0
+  },
+  {
+    "id": 3361,
+    "fa": "تعریف شما رو زیاد شنیدم (شهرت شما بر شما مقدم است)",
+    "en": "Your reputation precedes you",
     "groupCode": 0
   }
 ]
