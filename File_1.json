@@ -2168,7 +2168,7 @@
   {
     "id": 3356,
     "fa": "این یک عدد (غیرمنصفانه) ظالمانه و مضحک است",
-    "en": "That's an outrageous, ludicrous /ˈluːdəkrəs/ number",
+    "en": "That's an outrageous and ludicrous /ˈluːdəkrəs/ number",
     "groupCode": 0
   },
   {
@@ -2191,7 +2191,7 @@
   },
   {
     "id": 3360,
-    "fa": "چند نفر می خواهند به گشت وگذاری بروند؟",
+    "fa": "چند نفر می خواهند به گردش (گشت و گذار) بروند؟",
     "en": "How many people want to go on the excursion?",
     "groupCode": 0
   },
@@ -2200,5 +2200,28 @@
     "fa": "تعریف شما رو زیاد شنیدم (شهرت شما بر شما مقدم است)",
     "en": "Your reputation precedes you",
     "groupCode": 0
+  },
+  {
+    "id": 3362,
+    "fa": "ما مایلیم این بعد از ظهر به گردش (گشت و گذار) برویم",
+    "en": "We would like to go on an excursion this afternoon",
+    "groupCode": 0
+  },
+  {
+    "id": 3363,
+    "fa": "آیا پدر و مادرت ثروتمند هستند؟",
+    "en": "Are your parents rich?",
+    "groupCode": 0
+  },
+  {
+    "id": 3364,
+    "fa": "آیا می توانم یک نی بگیرم، لطفا؟",
+    "en": "Can I get a straw, please?",
+    "groupCode": 0
+  },
+  {
+    "id": 3365,
+    "fa": "کاش زیر آن بار به اندازه این سینی محکم بودم",
+    "en": "I wish I'd be as sturdy as this tray under that load",
+    "groupCode": 0
   }
-]
