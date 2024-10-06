@@ -122,7 +122,7 @@
   },
   {
     "id": 3021,
-    "fa": "ما نیاز داریم این پروژه را تا پایان هفته به پایان برسانیم",
+    "fa": "ما نیاز داریم این پروژه را تا پایان هفته انجام بدیم (به پایان برسانیم)",
     "en": "We need to get this project done by the end of the week",
     "groupCode": 0
   },
@@ -718,7 +718,7 @@
   {
     "id": 3118,
     "fa": "شرکت ما داره کاوش می کنه هم فرصتهای VC برای استارت آپ ها و معاملات PE برای به دست آوردن شرکت های تاسیس شده",
-    "en": "Our firm is exploring both VC (Virtual Capital) opportunities for startups and PE (Private Equity) deals to acquire established companies",
+    "en": "Our firm is exploring both VC (Venture Capital) opportunities for startups and PE (Private Equity) deals to acquire established companies",
     "desc": "VC stands for venture capital. It refers to funding provided to early-stage, high-growth potential startups or small businesses in exchange for equity. Venture capital is typically used to help these companies grow and scale before they become profitable or go public.",
     "groupCode": 0
   },
@@ -2112,8 +2112,8 @@
   },
   {
     "id": 3347,
-    "fa": "در چه حالی هستی؟ بهتر از این نمی تونست بشه",
-    "en": "How are you doing? Could not be better",
+    "fa": "در چه حالی هستی؟ بهتر از (این) نمی تونست بشه",
+    "en": "How are you doing? Couldn't be better",
     "groupCode": 0
   },
   {
@@ -2167,7 +2167,7 @@
   },
   {
     "id": 3356,
-    "fa": "این یک عدد (غیرمنصفانه) ظالمانه و مضحک است",
+    "fa": "اون یک عدد (غیرمنصفانه) ظالمانه و مضحک است",
     "en": "That's an outrageous and ludicrous /ˈluːdəkrəs/ number",
     "groupCode": 0
   },
@@ -2224,4 +2224,48 @@
     "fa": "کاش زیر آن بار به اندازه این سینی محکم بودم",
     "en": "I wish I'd be as sturdy as this tray under that load",
     "groupCode": 0
+  },
+  {
+    "id": 3366,
+    "fa": "پسرم رفتار خوبی داشت در طول پرواز طولانی به آلمان",
+    "en": "My son was well-behaved during the long flight to Germany",
+    "groupCode": 0
+  },
+  {
+    "id": 3367,
+    "fa": "پدربزرگ شما کجا زندگی می کند؟",
+    "en": "Where does your grandfather live?",
+    "groupCode": 0
+  },
+  {
+    "id": 3368,
+    "fa": "چرا خواهر و برادر شما اینقدر جوان و ثروتمند هستند؟",
+    "en": "Why are your siblings so young and rich?",
+    "groupCode": 0
+  },
+  {
+    "id": 3369,
+    "fa": "من یک خواهر (یا برادر) دارم",
+    "en": "I have one sibling",
+    "desc": "The difference between \"sibling\" and \"siblings\" is:\n\n\"Sibling\" (singular): Refers to one brother or sister.\n\nExample: I have one sibling.\n\"Siblings\" (plural): Refers to two or more brothers or sisters.\n\nExample: I have three siblings.\nSo, \"sibling\" is for one, while \"siblings\" is for more than one.",
+    "groupCode": 0
+  },
+  {
+    "id": 3370,
+    "fa": "آیا فرزندان شما در ژانویه کارآموزی می کنند؟",
+    "en": "Are your children doing the internship in January?",
+    "groupCode": 0
+  },
+  {
+    "id": 3371,
+    "fa": "آیا در حال حاضر برنامه هایی دارید؟",
+    "en": "Do you already have plans?",
+    "groupCode": 0
+  },
+  {
+    "id": 3372,
+    "fa": "نوه پسری و نوه دختری من خیلی باهوش هستند",
+    "en": "My grandson and granddaughter are very smart",
+    "groupCode": 0
   }
+]
