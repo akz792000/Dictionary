@@ -1949,7 +1949,7 @@
   },
   {
     "id": 3320,
-    "fa": "بگذار برخی از حقایق چشم باز کن باور نکردنی را به شما نشان دهم که نقاشی کند یک تصویری از اینکه چگونه مهارت های انگلیسی قوی در محل کار می تواند باشد",
+    "fa": "بگذار به شما نشان دهم برخی از حقایق چشم باز کن باور نکردنی را که نقاشی کند یک تصویری از اینکه چقدر تحول آفرین می تواند باشد مهارت های انگلیسی قوی در محل کار",
     "en": "Let me show you some incredibly eye-opening facts that paint a picture of how transformative strong English skills at work can be",
     "groupCode": 0
   },
@@ -2142,8 +2142,8 @@
   },
   {
     "id": 3352,
-    "fa": "وقتی من هفته گذشته گم شدم، او (مرد) نمی دانست که من به دردسر افتاده بودم. اگر او (مرد) می دانست تو کجا بودی، سوراخی در کیهان پاره می کرد (پاره کرده بود) تا تو را به خانه بیاورد",
-    "en": "When I got lost last week, he didn't know I was in trouble. If he knew where you were, he would have torn a hole in the universe to bring you home",
+    "fa": "وقتی من هفته گذشته گم شدم، او (مرد) نمی دانست که من به دردسر افتاده بودم. اگر او (مرد) دانسته بود من کجا بودم، سوراخی در کیهان پاره می کرد (پاره کرده بود) تا تو را به خانه بیاورد",
+    "en": "When I got lost last week, he didn't know I was in trouble. If he had known where I had been, he would have torn a hole in the universe to bring me home",
     "groupCode": 0
   },
   {
@@ -2203,13 +2203,13 @@
   },
   {
     "id": 3362,
-    "fa": "ما مایلیم این بعد از ظهر به گردش (گشت و گذار) برویم",
+    "fa": "ما مایلیم این بعد از ظهر به یک گردش (گشت و گذار) برویم",
     "en": "We would like to go on an excursion this afternoon",
     "groupCode": 0
   },
   {
     "id": 3363,
-    "fa": "آیا پدر و مادرت ثروتمند هستند؟",
+    "fa": "آیا والدین شما ثروتمند هستند؟",
     "en": "Are your parents rich?",
     "groupCode": 0
   },
@@ -2227,7 +2227,7 @@
   },
   {
     "id": 3366,
-    "fa": "پسرم رفتار خوبی داشت در طول پرواز طولانی به آلمان",
+    "fa": "پسرم رفتار خوبی داشت (خوب رفتار بود) در طول پرواز طولانی به آلمان",
     "en": "My son was well-behaved during the long flight to Germany",
     "groupCode": 0
   },
@@ -2239,7 +2239,7 @@
   },
   {
     "id": 3368,
-    "fa": "چرا خواهر و برادر شما اینقدر جوان و ثروتمند هستند؟",
+    "fa": "چرا خواهر و برادر (تنی زادگان) شما اینقدر جوان و ثروتمند هستند؟",
     "en": "Why are your siblings so young and rich?",
     "groupCode": 0
   },
@@ -2252,7 +2252,7 @@
   },
   {
     "id": 3370,
-    "fa": "آیا فرزندان شما در ژانویه کارآموزی می کنند؟",
+    "fa": "آیا فرزندان شما دارن در ژانویه کارآموزی می کنند؟",
     "en": "Are your children doing the internship in January?",
     "groupCode": 0
   },
@@ -2266,6 +2266,12 @@
     "id": 3372,
     "fa": "نوه پسری و نوه دختری من خیلی باهوش هستند",
     "en": "My grandson and granddaughter are very smart",
+    "groupCode": 0
+  }
+  {
+    "id": 3373,
+    "fa": "",
+    "en": " I will check the offered time slots with my wife, and if they match our schedule, I will get back to you",
     "groupCode": 0
   }
 ]
