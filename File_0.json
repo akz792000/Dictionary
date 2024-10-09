@@ -6616,7 +6616,7 @@
   },
   {
     "id": 1089,
-    "fa": "اگر آن را به سوپرمارکت بازگردانید دریافت میکنید مثل 25 سنت براش",
+    "fa": "اگر به سوپرمارکت برش گردانی شما می گیری مثل 25 سنت براش",
     "en": "If you bring it back to the supermarket you get like 25 cents for it",
     "groupCode": 0
   },
@@ -12394,7 +12394,8 @@
   {
     "id": 2042,
     "fa": "احمقانه ترین چیزی که انجام دادی به عنوان یک بچه چیست؟",
-    "en": "What's the dumbest thing you did as a kid?",
+    "en": "\n 1.What's the dumbest thing you did as a kid? \n 2.What's the most dumb thing you did as a kid?",
+    "desc": "\"What's the most dumbest thing you did as a kid?\"\n\nThis sentence is incorrect because \"most\" and \"dumbest\" both serve as superlative markers. Using both together is redundant. You should use just \"dumbest.\"",
     "groupCode": 0
   },
   {

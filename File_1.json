@@ -3,6 +3,7 @@
     "id": 3001,
     "fa": "از غذای آن رستوران مسمومیت غذایی گرفتم. من دیگر هرگز آنجا نمی روم",
     "en": "I got food poisoning from the food at that restaurant. I'm never going there again",
+    "desc": "\"I'm never going there again.\"\n\nPresent continuous; suggests a strong, immediate decision.\n\"I will never go there again.\"\n\nSimple future; emphasizes a definite decision about the future.",
     "groupCode": 0
   },
   {
@@ -2003,7 +2004,7 @@
   },
   {
     "id": 3329,
-    "fa": "گوشم درد میکنه",
+    "fa": "گوشم درد میکنه (دردناک است)",
     "en": "My ears are sore",
     "groupCode": 0
   },
@@ -2100,7 +2101,7 @@
   },
   {
     "id": 3345,
-    "fa": "متأسفانه بازه زمانی ارائه شده برای ما مناسب نیست. آیا می توانید (مودبانه) زمان های موجود در مؤسسه خود را در دوشنبه و جمعه به من اطلاع دهید؟",
+    "fa": "متأسفانه, بازه زمانی که شما ارائه کردید برای ما مناسب نیست. آیا می توانید (مودبانه) لطفا به من اطلاع دهید زمان های موجود در مؤسسه خود را در دوشنبه و جمعه؟",
     "en": "Unfortunately, the time slot you provided is not suitable for us. Could you please let me know the available time slots at your institute on Monday and Friday?",
     "groupCode": 0
   },
@@ -2142,7 +2143,7 @@
   },
   {
     "id": 3352,
-    "fa": "وقتی من هفته گذشته گم شدم، او (مرد) نمی دانست که من به دردسر افتاده بودم. اگر او (مرد) دانسته بود من کجا بودم، سوراخی در کیهان پاره می کرد (پاره کرده بود) تا تو را به خانه بیاورد",
+    "fa": "وقتیکه من هفته گذشته گم شدم، او (مرد) نمی دانست که من به دردسر افتاده بودم. اگر او (مرد) دانسته بود من کجا بودم، سوراخی در کیهان پاره می کرد (پاره کرده بود) تا تو را به خانه بیاورد",
     "en": "When I got lost last week, he didn't know I was in trouble. If he had known where I had been, he would have torn a hole in the universe to bring me home",
     "groupCode": 0
   },
@@ -2161,7 +2162,7 @@
   },
   {
     "id": 3355,
-    "fa": "من نگاهی خواهم انداخت تا ببینم چقدر خوب با این کار مناسب است",
+    "fa": "من نگاهی خواهم انداخت تا ببینم چقدر خوب با کار فیته (مناسب است)",
     "en": "I'll take a look to see how well it fits the job",
     "groupCode": 0
   },
@@ -2270,8 +2271,14 @@
   },
   {
     "id": 3373,
-    "fa": "من با همسرم زمان های پیشنهادی را بررسی خواهیم کرد و اگر با برنامه (زمانی) ما مطابقت داشته باشد، با شما تماس خواهم گرفت",
+    "fa": "من با همسرم زمان های پیشنهادی را چک خواهیم کرد و اگر آنها با برنامه (زمانی) ما مطابقت داشته باشد، من من به شما بر خواهم گرداند",
     "en": "I will check the offered time slots with my wife, and if they match our schedule, I will get back to you",
+    "groupCode": 0
+  },
+  {
+    "id": 3374,
+    "fa": "آیا مادربزرگ شما یک کامپیوتر دارد؟",
+    "en": "Does your grandmother have a computer?",
     "groupCode": 0
   }
 ]
