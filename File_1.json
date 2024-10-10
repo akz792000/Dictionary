@@ -1120,7 +1120,7 @@
   },
   {
     "id": 3184,
-    "fa": "آیا من می توانم اجاره آپارتمان برای کل سال را جلوتر پرداخت کنم؟",
+    "fa": "آیا من می توانم پرداخت کنم اجاره آپارتمانم را برای کل سال جلوتر؟",
     "en": "Can I pay my apartment lease for the entire year upfront?",
     "groupCode": 0
   },
@@ -2222,7 +2222,7 @@
   },
   {
     "id": 3365,
-    "fa": "کاش زیر آن بار به اندازه این سینی محکم بودم",
+    "fa": "ای کاش به اندازه این سینی محکم بودم زیر آن بار",
     "en": "I wish I'd be as sturdy as this tray under that load",
     "groupCode": 0
   },
@@ -2271,7 +2271,7 @@
   },
   {
     "id": 3373,
-    "fa": "من با همسرم زمان های پیشنهادی را چک خواهیم کرد و اگر آنها با برنامه (زمانی) ما مطابقت داشته باشد، من من به شما بر خواهم گرداند",
+    "fa": "من با همسرم زمان های پیشنهادی را چک خواهیم کرد و اگر آنها با برنامه (زمانی) ما مطابقت داشته باشد، من به شما بر خواهم گرداند",
     "en": "I will check the offered time slots with my wife, and if they match our schedule, I will get back to you",
     "groupCode": 0
   },
@@ -2279,6 +2279,60 @@
     "id": 3374,
     "fa": "آیا مادربزرگ شما یک کامپیوتر دارد؟",
     "en": "Does your grandmother have a computer?",
+    "groupCode": 0
+  },
+  {
+    "id": 3375,
+    "fa": "هنگام کار با تراکنش ها در Spring، به طور کلی توصیه می شود به کار بگیرید قابلیت های مدیریت تراکنش Spring را به جای مدیریت تراکنش های دستی",
+    "en": "When working with transactions in Spring, it's generally recommended to leverage Spring's transaction management capabilities instead of manually managing transactions",
+    "groupCode": 0
+  },
+  {
+    "id": 3376,
+    "fa": "چرا همیشه این عادت را دارید که چیزی روی میز من بگذارید؟",
+    "en": "Why do you always have this habit of putting something on my desk?",
+    "groupCode": 0
+  },
+  {
+    "id": 3377,
+    "fa": "شرم آورترین جنایاتی که سلبریتی ها به خاطر (آن) دستگیر شده اند چیست؟",
+    "en": "What are the most embarrassing crimes that celebrities have been arrested for?",
+    "groupCode": 0
+  },
+  {
+    "id": 3378,
+    "fa": "من نیاز دارم به تو در کنارم",
+    "en": "I need you by my side",
+    "groupCode": 0
+  },
+  {
+    "id": 3379,
+    "fa": "من هرگز تو را رها نخواهم کرد",
+    "en": "I will never abandon you",
+    "groupCode": 0
+  },
+  {
+    "id": 3380,
+    "fa": "تو منو خجالت میدی",
+    "en": "You flatter me",
+    "groupCode": 0
+  },
+  {
+    "id": 3381,
+    "fa": "من با شما تماس خواهم گرفت (یک تماس میدم) بعد از اصلاح (١٧اصلاح)",
+    "en": "I will give you a call after the refinement",
+    "groupCode": 0
+  },
+  {
+    "id": 3382,
+    "fa": "من یک ایمیل فرستادم و الان دارم انتظار می کشم برای یک پیگیری",
+    "en": "I sent an email, and now I'm waiting for a follow-up",
+    "groupCode": 0
+  },
+  {
+    "id": 3383,
+    "fa": "دختر کوچولو یک یتیم شد پس از (اینکه) والدینش فوت شدن",
+    "en": "The little girl became an orphan after her parents passed away",
     "groupCode": 0
   }
 ]
