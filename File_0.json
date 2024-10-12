@@ -9732,7 +9732,7 @@
   },
   {
     "id": 1603,
-    "fa": "آن را به سلامتی (خوب) خرج کن",
+    "fa": "به سلامتی (خوب) خرجش کن",
     "en": "Spend it in good health",
     "groupCode": 0
   },
@@ -17924,8 +17924,8 @@
   },
   {
     "id": 2953,
-    "fa": "نباید آنطور باشد",
-    "en": "It doesn't have to be that way",
+    "fa": "آیا واقعا ارزشش را دارد؟ نباید آنطور باشد",
+    "en": "Is it really worth it? It doesn't have to be that way",
     "groupCode": 0
   },
   {

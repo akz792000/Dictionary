@@ -2295,7 +2295,7 @@
   },
   {
     "id": 3377,
-    "fa": "شرم آورترین جنایاتی که سلبریتی ها به خاطر (آن) دستگیر شده اند چیست؟",
+    "fa": "شرم آورترین جنایاتی که سلبریتی ها به خاطر (آن) دستگیر شده اند چیستند؟",
     "en": "What are the most embarrassing crimes that celebrities have been arrested for?",
     "groupCode": 0
   },
@@ -2319,7 +2319,7 @@
   },
   {
     "id": 3381,
-    "fa": "من با شما تماس خواهم گرفت (یک تماس میدم) بعد از اصلاح (١٧اصلاح)",
+    "fa": "من با شما تماس خواهم گرفت (یک تماس میدم) بعد از اصلاح",
     "en": "I will give you a call after the refinement",
     "groupCode": 0
   },
@@ -2333,6 +2333,66 @@
     "id": 3383,
     "fa": "دختر کوچولو یک یتیم شد پس از (اینکه) والدینش فوت شدن",
     "en": "The little girl became an orphan after her parents passed away",
+    "groupCode": 0
+  },
+  {
+    "id": 3384,
+    "fa": "آیا حق دفاع از خودش را دارد, و اگر چنین است, پاسخی متناسب چیست؟",
+    "en": "Does it have the right to defend itself, and if so, what is a proportionate response?",
+    "groupCode": 0
+  },
+  {
+    "id": 3385,
+    "fa": "من در مورد این موضوع یک معضل اخلاقی دارم",
+    "en": "I've been having a moral quandary about the issue",
+    "groupCode": 0
+  },
+  {
+    "id": 3386,
+    "fa": "او (مرد) خسته و ژولیده به نظر رسید",
+    "en": "He looked tired and disheveled",
+    "groupCode": 0
+  },
+  {
+    "id": 3387,
+    "fa": "ملت مستقل مورد حمله قرار گرفت",
+    "en": "The sovereign nation was attacked",
+    "groupCode": 0
+  },
+  {
+    "id": 3388,
+    "fa": "من واقعاً مخالفم با بسیاری از این سازمان ها برای دلایل خودم",
+    "en": "I'm really opposed to a lot of these organizations for my own reasons",
+    "groupCode": 0
+  },
+  {
+    "id": 3389,
+    "fa": "ما توانایی های آنها را تنزل داده ایم",
+    "en": "We've degraded their capabilities",
+    "groupCode": 0
+  },
+  {
+    "id": 3390,
+    "fa": "اجازه ندهید این تروریست ها آینده شما را دیگر بیش از آنچه قبلا انجام داده اند نابود کنند",
+    "en": "Don't let these terrorists destroy your future any more than they've already done",
+    "groupCode": 0
+  },
+  {
+    "id": 3391,
+    "fa": "شما یک فرصت دارید نجات دهید کشور خود را قبل از (اینکه) سقوط کند داخل پرتگاه یک جنگ طولانی که منجر خواهد شد به نابودی",
+    "en": "You have an opportunity to save your country before it falls into the abyss of a long war that will lead to destruction",
+    "groupCode": 0
+  },
+  {
+    "id": 3392,
+    "fa": "اعتقادات او (زن) با ارزش های گروه متضاد است",
+    "en": "Her beliefs are antithetical to the group's values",
+    "groupCode": 0
+  },
+  {
+    "id": 3393,
+    "fa": "این برای همه کسانی است که گرفتن مهربانیم (به عنوان) نقطه ضعف",
+    "en": "This is for all the people who took my kindness as weakness",
     "groupCode": 0
   }
 ]
