@@ -2343,7 +2343,7 @@
   },
   {
     "id": 3385,
-    "fa": "من در مورد این موضوع یک معضل اخلاقی دارم",
+    "fa": "من در مورد (مدتی) این موضوع یک معضل (سر گردانی) اخلاقی دارم",
     "en": "I've been having a moral quandary about the issue",
     "groupCode": 0
   },
@@ -2391,8 +2391,57 @@
   },
   {
     "id": 3393,
-    "fa": "این برای همه کسانی است که گرفتن مهربانیم (به عنوان) نقطه ضعف",
+    "fa": "این برای همه مردمی است کسانیکه گرفتن مهربانیم (به عنوان) نقطه ضعف",
     "en": "This is for all the people who took my kindness as weakness",
+    "groupCode": 0
+  },
+  {
+    "id": 3394,
+    "fa": "من فقط هرگز واقعا احساس خودم را نداشتم و من کاملاً اعتماد به نفسم را از دست دادم",
+    "en": "I just never really felt like myself, and I completely lost my confidence",
+    "groupCode": 0
+  },
+  {
+    "id": 3395,
+    "fa": "من دارم صحبت نمی کنم در مورد کلاهبرداری های آنلاین یا هر چیز مبهم دیگری مانند آن",
+    "en": "I'm not talking about falling for online scams or anything dodgy like that",
+    "groupCode": 0
+  },
+  {
+    "id": 3396,
+    "fa": "من می توانم مغزم را هک کنم در راه های مثبت تا (منجر شدن) به طور موثری کار کند",
+    "en": "I can hack my brain in positive ways to make it work more efficiently",
+    "desc": "To make sth happen: منجر شدن، موجب شدن",
+    "groupCode": 0
+  },
+  {
+    "id": 3397,
+    "fa": "آیا اسلام تا حد زیادی بدترین دین است؟",
+    "en": "Is Islam by far the worst religion?",
+    "groupCode": 0
+  },
+  {
+    "id": 3398,
+    "fa": "من (مست نیست) هوشیارم از الکل برای 7 ماه است",
+    "en": "I've been sober from alcohol for 7 months",
+    "groupCode": 0
+  },
+  {
+    "id": 3399,
+    "fa": "من بیشتر از این نمی توانستم مغرور باشم",
+    "en": "I could not be more proud",
+    "groupCode": 0
+  },
+  {
+    "id": 3400,
+    "fa": "شما خواهید دید که چگونه این دوره راه حل کاملی است برای شکستن کشمکش های زبان انگلیسی شما",
+    "en": "You'll see how this course is the perfect solution to breaking through your English language struggles",
+    "groupCode": 0
+  },
+  {
+    "id": 3401,
+    "fa": "من قرار گرفته ام در معرض ویروس خاصی طی دو ماه گذشته",
+    "en": "I've been exposed to a specific virus over the past two months",
     "groupCode": 0
   }
 ]
