@@ -93,7 +93,7 @@
   {
     "id": 10016,
     "en": "I'm a nurse",
-    "de": "Ich bin Krankenpfleger",
+    "de": "Ich bin Krankenpfleger/Krankenpflegerin",
     "groupCode": 1
   },
   {
@@ -134,15 +134,15 @@
   },
   {
     "id": 10023,
-    "en": "\n Object pronoun - Akkusative \n\n me, you, him(M)/her(F)/it(N), us, you, them",
-    "de": "\n Objektpronomen - Akkusative \n\n mich, dich, ihn(M)/sie(F)/es(N), uns, euch, sie-Sie",
+    "en": "\n Object pronoun - Akkusative \n me, you, him(M)/her(F)/it(N), us, you, them",
+    "de": "\n Objektpronomen - Akkusative \n mich, dich, ihn(M)/sie(F)/es(N), uns, euch, sie-Sie \n Iche liebe dich",
     "desc": "بی واسطه - چه چیزی را - چه کسی را",
     "groupCode": 1
   },
   {
     "id": 10024,
-    "en": "\n Object pronoun - Dativ \n\n me, you, him(M)/her(F)/it(N), us, you, them",
-    "de": "\n Objektpronomen - Dativ \n\n mir, dir, ihm(M)/ihr(F)/ihm(N), uns, euch, ihnen-Ihnen",
+    "en": "\n Object pronoun - Dativ \n me, you, him(M)/her(F)/it(N), us, you, them",
+    "de": "\n Objektpronomen - Dativ \n mir, dir, ihm(M)/ihr(F)/ihm(N), uns, euch, ihnen-Ihnen \n Ich gebe ihm das buch",
     "desc": "با واسطه - به چه چیزی - به چه کسی",
     "groupCode": 1
   },
@@ -604,6 +604,428 @@
     "id": 10100,
     "en": "You see the car",
     "de": "Du siehst das Auto",
+    "groupCode": 1
+  },
+  {
+    "id": 10101,
+    "en": "I am a little bit sad. My room is so white and boring",
+    "de": "Ich bin ein bisschen traurig. Mein Zimmer ist so weiß und langweilig",
+    "groupCode": 1
+  },
+  {
+    "id": 10102,
+    "en": "I'm sad and I'm sleeping too much",
+    "de": "Ich bin traurig und ich bin schlafe zu viel",
+    "groupCode": 1
+  },
+  {
+    "id": 10103,
+    "en": "Du bist müde und traurig, geh zum Arzt",
+    "de": "You are tired and sad, go to the doctor",
+    "groupCode": 1
+  },
+  {
+    "id": 10104,
+    "en": "My turtle doesn't need free time",
+    "de": "Meine Schildkröte braucht keine Freizeit",
+    "groupCode": 1
+  },
+  {
+    "id": 10105,
+    "en": "My father is very satisfied (happy) at home",
+    "de": "Mein Vater ist sehr zufrieden zu Hause",
+    "groupCode": 1
+  },
+  {
+    "id": 10106,
+    "en": "My roommate is my dog, he is well behaved",
+    "de": "Mein Mitbewohner ist mein Hund, er ist brav",
+    "groupCode": 1
+  },
+  {
+    "id": 10107,
+    "en": "Is it raining very heavily? Oh no, it's very foggy today",
+    "de": "Regnet es sehr stark? Oh nein, es ist sehr neblig heute",
+    "groupCode": 1
+  },
+  {
+    "id": 10108,
+    "en": "Mark (polite) the stars and talk (polite) to your partner",
+    "de": "Markieren Sie die Sterne und sprechen Sie mit Ihrer Partnerin / Ihrem Partner",
+    "desc": "mit is dativ - fur is akkusative",
+    "groupCode": 1
+  },
+  {
+    "id": 10109,
+    "en": "What does that mean in German?",
+    "de": "Was bedeutet das auf Deutsch?",
+    "groupCode": 1
+  },
+  {
+    "id": 10110,
+    "en": "Connect (polite) the sentences",
+    "de": "Verbinden sie die sätze",
+    "groupCode": 1
+  },
+  {
+    "id": 10111,
+    "en": "What does Ilia draw?",
+    "de": "Was zeichnet Ilia?",
+    "groupCode": 1
+  },
+  {
+    "id": 10112,
+    "en": "Is this a book? No, this is not a book",
+    "de": "Ist das ein Buch? Nein, das ist kein Buch",
+    "groupCode": 1
+  },
+  {
+    "id": 10113,
+    "en": "He has very beautiful shoes",
+    "de": "Er hat sehr schöne Schuhe",
+    "groupCode": 1
+  },
+  {
+    "id": 10114,
+    "en": "It snows very heavily (strongly). Where are my scarf and water bottle?",
+    "de": "Es schneit sehr stark. Wo sind mein Schal und wasserflasche?",
+    "groupCode": 1
+  },
+  {
+    "id": 10115,
+    "en": "There is a new student in our school",
+    "de": "In unserer Schule ist ein neuer Schüler",
+    "groupCode": 1
+  },
+  {
+    "id": 10116,
+    "en": "Our grandparents have no pets",
+    "de": "Unsere Großeltern haben keine Haustiere",
+    "groupCode": 1
+  },
+  {
+    "id": 10117,
+    "en": "Parents are responsible for their children!",
+    "de": "Eltern haften für ihre (ایقِ) Kinder! (اِلتان هافتن)",
+    "groupCode": 1
+  },
+  {
+    "id": 10118,
+    "en": "He beats the children",
+    "de": "Er schlägt die kinder",
+    "groupCode": 1
+  },
+  {
+    "id": 10119,
+    "en": "I have no children but he has a kid",
+    "de": "Ich habe keine Kinder aber er hat ein Kind",
+    "groupCode": 1
+  },
+  {
+    "id": 10120,
+    "en": "We live in Munich and We have no children",
+    "de": "Wir wohnen in Munchen und Wir haben keine Kinder",
+    "groupCode": 1
+  },
+  {
+    "id": 10121,
+    "en": "\n The cell phone lies on the table \n The cell phone doesn't lie on the table",
+    "de": "\n Das Handy liegt auf dem Tisch \n Das Handy liegt nicht auf dem Tisch (لیگت)",
+    "groupCode": 1
+  },
+  {
+    "id": 10122,
+    "en": "Cell phones cost a lot",
+    "de": "Handys kosten viel",
+    "groupCode": 1
+  },
+  {
+    "id": 10123,
+    "en": "The movie was shit. My damn cell phone doesn't work",
+    "de": "Der Film war Scheiße. Mein Scheiß Handy funktioniert nicht",
+    "groupCode": 1
+  },
+  {
+    "id": 10124,
+    "en": "The phone is too expensive",
+    "de": "Das Handy ist zu teuer",
+    "groupCode": 1
+  },
+  {
+    "id": 10125,
+    "en": "The food needs more salt and suger",
+    "de": "Das Essen braucht mehr Salz und Zucker",
+    "groupCode": 1
+  },
+  {
+    "id": 10126,
+    "en": "Oh no, the taxi isn't here anymore!",
+    "de": "Oh nein, das Taxi ist nicht mehr hier!",
+    "desc": "mehr = more",
+    "groupCode": 1
+  },
+  {
+    "id": 10127,
+    "en": "Sorry, but we do not have a chocolate cake anymore",
+    "de": "Tut mir leid, aber wir haben keinen Schokoladenkuchen mehr",
+    "groupCode": 1
+  },
+  {
+    "id": 10128,
+    "en": "Now we don’t have any apple pie anymore",
+    "de": "Jetzt haben wir auch keinen Apfelkuchen mehr",
+    "groupCode": 1
+  },
+  {
+    "id": 10129,
+    "en": "I don't have a stomachache anymore, I'm healthy",
+    "de": "Ich habe keine bauchschmerzen mehr, ich bin gesund",
+    "groupCode": 1
+  },
+  {
+    "id": 10130,
+    "en": "Are you not hungery anymore?",
+    "de": "Hast du kinen Hunger mehr?",
+    "groupCode": 1
+  },
+  {
+    "id": 10131,
+    "en": "Hey Ali, all good? No, I'm a bit stressed",
+    "de": "Hey Ali, alles klar? Nein, Ich bin ein bisschen im Stress",
+    "groupCode": 1
+  },
+  {
+    "id": 10132,
+    "fa": "کوچکترین گونه پستاندار جهان چی هستند؟",
+    "en": "What is the world's smallest species of mammal?",
+    "groupCode": 0
+  },
+  {
+    "id": 10133,
+    "en": "What do you like to eat? I like to eat everything",
+    "de": "Was isst du gern? Ich esse gern alles",
+    "groupCode": 1
+  },
+  {
+    "id": 10134,
+    "en": "My partner eats almost everything",
+    "de": "Meine Partnerin isst fast alles",
+    "groupCode": 1
+  },
+  {
+    "id": 10135,
+    "en": "Is the mustard too spicy for you?",
+    "de": "Ist der Senf zu scharf für dich?",
+    "groupCode": 1
+  },
+  {
+    "id": 10136,
+    "en": "Why does your sister eat nothing? (Why doesn't your sister eat anything?) The currywurst is too spicy for her",
+    "de": "Warum isst deine Schwester nichts. Die Currywurst ist zu scharf für sie",
+    "groupCode": 1
+  },
+  {
+    "id": 10137,
+    "en": "We must to eat less sugar",
+    "de": "Wir müssen weniger Zucker essen",
+    "groupCode": 1
+  },
+  {
+    "id": 10138,
+    "en": "Mr Graf, you have to do sports in the evenings",
+    "de": "Herr Graf, Sie müssen abends Sport machen",
+    "groupCode": 1
+  },
+  {
+    "id": 10139,
+    "en": "Would you like the fruit salad without sugar?",
+    "de": "Möchten Sie den Obstsalat ohne Zucker?",
+    "groupCode": 1
+  },
+  {
+    "id": 10140,
+    "en": "I don't eat sugar but I like to eat apple cake",
+    "de": "Ich esse keinen Zucker aber Ich esse gern Apfelkuchen",
+    "groupCode": 1
+  },
+  {
+    "id": 10141,
+    "en": "How much does eight kilos of strawberries cost?",
+    "de": "Wie viel kostet acht Kilo Erdbeeren?",
+    "groupCode": 1
+  },
+  {
+    "id": 10142,
+    "en": "Are the strawberries fresh?",
+    "de": "Sind sie Erdbeeren frisch?",
+    "groupCode": 1
+  },
+  {
+    "id": 10143,
+    "en": "What time is your family coming today?",
+    "de": "Wie viel Uhr kommt deine Familie heute?",
+    "groupCode": 1
+  },
+  {
+    "id": 10144,
+    "en": "How much do four tickets cost?",
+    "de": "Wie viel kosten vier Fahrkarten?",
+    "groupCode": 1
+  },
+  {
+    "id": 10145,
+    "en": "At what time is your appointment? My appointment is at four o'clock",
+    "de": "Um wie viel Uhr ist ihr (polite) termin? Mein Termin is um schzehn Uhr",
+    "groupCode": 1
+  },
+  {
+    "id": 10146,
+    "en": "A plane ticket to Barcelona, please. How much does a plane ticket cost?",
+    "de": "Ein Flugticket nach Barcelona, bitte. Wie viel kostet ein Flugticket?",
+    "groupCode": 1
+  },
+  {
+    "id": 10147,
+    "en": "How much does that cost? That costs one euro",
+    "de": "Wie viel kostet das? Das kostet einen Euro",
+    "groupCode": 1
+  },
+  {
+    "id": 10148,
+    "en": "How much does an apple spritzer cost and a cola?",
+    "de": "Wie viel kostet eine Apfelschorle und eine Cola?",
+    "groupCode": 1
+  },
+  {
+    "id": 10149,
+    "en": "How much? The coffee really costs five euros",
+    "de": "Wie viel? Der Kaffee kostet wirklich fünf Euro",
+    "groupCode": 1
+  },
+  {
+    "id": 10150,
+    "en": "How many liters of water does the elephant drink?",
+    "de": "Wie viele Liter Wasser trinkt der Elefant?",
+    "groupCode": 1
+  },
+  {
+    "id": 10151,
+    "en": "I'm sad, I don't have a cell phone anymore",
+    "de": "Ich bin traurig, ich habe kein Handy mehr",
+    "groupCode": 1
+  },
+  {
+    "id": 10152,
+    "en": "This is bahador. He comes from Istanbul, and you?",
+    "de": "Das ist Bahador. Er kommt aus Istanbul, und du?",
+    "groupCode": 1
+  },
+  {
+    "id": 10153,
+    "en": "Do you come from Syria?",
+    "de": "Kommst du aus Syrien?",
+    "groupCode": 1
+  },
+  {
+    "id": 10154,
+    "en": "The men come",
+    "de": "Die Männer kommen",
+    "groupCode": 1
+  },
+  {
+    "id": 10155,
+    "en": "The Switzerland (come from Switzerland)",
+    "de": "Die Schweiz (komme aus der Schweiz) (F)",
+    "groupCode": 1
+  },
+  {
+    "id": 10156,
+    "en": "He and she come from Greece",
+    "de": "Er und sie kommen aus Griechenland",
+    "groupCode": 1
+  },
+  {
+    "id": 10157,
+    "en": "Two people come from Spain",
+    "de": "Zwei Leute kommen aus Spanien",
+    "groupCode": 1
+  },
+  {
+    "id": 10158,
+    "en": "Two come from Syria and three from Poland",
+    "de": "Zwei kommen aus Syrien und drei aus Polen",
+    "groupCode": 1
+  },
+  {
+    "id": 10159,
+    "en": "The others come from India",
+    "de": "Die anderen kommen aus Indien",
+    "groupCode": 1
+  },
+  {
+    "id": 10160,
+    "en": "I come from Iran and I speak Persian and I am Persian",
+    "de": "Ich komme aus dem Iran und Ich spreche Persisch und Ich bin Perser/Perserin",
+    "groupCode": 1
+  },
+  {
+    "id": 10161,
+    "en": "I come from France, I speak French, and I am French",
+    "de": "Ich komme aus Frankreich, Ich spreche Französisch und Ich bin Franzose/Französin",
+    "groupCode": 1
+  },
+  {
+    "id": 10162,
+    "en": "I come from Poland, I speak Polish, and I am Polish",
+    "de": "Ich komme aus Polen, Ich spreche Polnisch und Ich bin Pole/Polin",
+    "groupCode": 1
+  },
+  {
+    "id": 10163,
+    "en": "My brother likes to listen to jazz",
+    "de": "Mein Bruder hört gern Jazz",
+    "groupCode": 1
+  },
+  {
+    "id": 10164,
+    "en": "I don't like to listen to podcasts",
+    "de": "Ich höre nicht gern Podcasts",
+    "groupCode": 1
+  },
+  {
+    "id": 10165,
+    "en": "The train door is at the rear left",
+    "de": "Die zugtür ist hinten links",
+    "groupCode": 1
+  },
+  {
+    "id": 10166,
+    "en": "The departure is at half past seven",
+    "de": "Die Abfährt ist um halb acht",
+    "groupCode": 1
+  },
+  {
+    "id": 10167,
+    "en": "The witch likes to cook",
+    "de": "Die Hexe kocht gern",
+    "groupCode": 1
+  },
+  {
+    "id": 10168,
+    "en": "I often camp in the forest",
+    "de": "Ich campe oft im Wald",
+    "groupCode": 1
+  },
+  {
+    "id": 10169,
+    "en": "Where do you (plural) want to go hiking in the forest?",
+    "de": "Wo wollt ihr im Wald wandern gehen?",
+    "groupCode": 1
+  },
+  {
+    "id": 10170,
+    "en": "I want to grill next week",
+    "de": "Ich will nächste Woche grillen",
     "groupCode": 1
   }
 ]

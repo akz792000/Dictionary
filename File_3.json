@@ -19,97 +19,97 @@
   },
   {
     "id": 20004,
-    "en": "Hear",
+    "en": "Hear (Akkusativ)",
     "de": "\n höre \n hörst \n hört \n hören \n hört \n hören",
     "groupCode": 1
   },
   {
     "id": 20005,
-    "en": "Know",
+    "en": "Know (Akkusativ)",
     "de": "\n kenne \n kennst \n kennt \n kennen \n kennt \n kennen",
     "groupCode": 1
   },
   {
     "id": 20006,
-    "en": "Live",
+    "en": "\n Live \n (Dativ for indicating location. I live in Munich)",
     "de": "\n wohne \n wohnst \n wohnt \n wohnen \n wohnt \n wohnen",
     "groupCode": 1
   },
   {
     "id": 20007,
-    "en": "Say",
+    "en": "Say (Akkusativ)",
     "de": "\n sage \n sagst \n sagt \n sagen \n sagt \n sagen",
     "groupCode": 1
   },
   {
     "id": 20008,
-    "en": "Speak",
+    "en": "Speak (Akkusativ)",
     "de": "\n spreche \n sprichst \n spricht \n sprechen \n sprecht \n sprechen",
     "groupCode": 1
   },
   {
     "id": 20009,
-    "en": "Read",
+    "en": "Read (Akkusativ)",
     "de": "\n lese \n liest \n liest \n lesen \n lest \n lesen",
     "groupCode": 1
   },
   {
     "id": 20010,
-    "en": "Complete",
+    "en": "Complete (Akkusativ)",
     "de": "\n ergänze \n ergänzt \n ergänzt \n ergänzen \n ergänzt \n ergänzen",
     "groupCode": 1
   },
   {
     "id": 20011,
-    "en": "Register",
+    "en": "Register (Akkusativ)",
     "de": "\n melde an \n meldest an \n meldet an \n melden an \n meldet an \n melden an",
     "groupCode": 1
   },
   {
     "id": 20012,
-    "en": "Write",
+    "en": "Write (Akkusativ)",
     "de": "\n schreibe \n schreibst \n schreibt \n schreiben \n schreibt \n schreiben",
     "groupCode": 1
   },
   {
     "id": 20013,
-    "en": "Ask",
+    "en": "Ask (Akkusativ)",
     "de": "\n frage \n fragst \n fragt \n fragen \n fragt \n fragen",
     "groupCode": 1
   },
   {
     "id": 20014,
-    "en": "Answer",
+    "en": "Answer (Dativ)",
     "de": "\n antwort \n antwortest \n antwortet \n antworten \n antwortet \n antworten",
     "groupCode": 1
   },
   {
     "id": 20015,
-    "en": "Play",
+    "en": "Play (Akkusativ)",
     "de": "\n spiel \n spielst \n spielt \n spielen \n spielt \n spielen",
     "groupCode": 1
   },
   {
     "id": 20016,
-    "en": "Cross",
+    "en": "Cross (Akkusativ)",
     "de": "\n kreuze \n kreuzt \n kreuzt \n kreuzen \n kreuzt \n kreuzen",
     "groupCode": 1
   },
   {
     "id": 20017,
-    "en": "Note",
+    "en": "Note (Akkusativ)",
     "de": "\n notiere \n notierst \n notiert \n notieren \n notiert \n notieren",
     "groupCode": 1
   },
   {
     "id": 20018,
-    "en": "Need",
+    "en": "Need (Akkusativ)",
     "de": "\n brauche \n brauchst \n braucht \n brauchen \n braucht \n brauchen",
     "groupCode": 1
   },
   {
     "id": 20019,
-    "en": "Save",
+    "en": "Save (Akkusativ)",
     "de": "\n speichere \n speicherst \n speichert \n speichern \n speichert \n speichern",
     "groupCode": 1
   },
@@ -121,13 +121,13 @@
   },
   {
     "id": 20021,
-    "en": "Have",
+    "en": "Have (Akkusativ)",
     "de": "\n habe \n hast \n hat \n haben \n habt \n haben",
     "groupCode": 1
   },
   {
     "id": 20022,
-    "en": "Eat",
+    "en": "Eat (Akkusativ)",
     "de": "\n esse \n isst \n isst \n essen \n esst \n essen",
     "groupCode": 1
   },
@@ -139,31 +139,31 @@
   },
   {
     "id": 20024,
-    "en": "See",
+    "en": "See (Akkusativ)",
     "de": "\n sehe \n siehst \n sieht \n sehen \n seht \n sehen",
     "groupCode": 1
   },
   {
     "id": 20025,
-    "en": "Learn",
+    "en": "Learn (Akkusativ)",
     "de": "\n lerne \n lernst \n lernt \n lernen \n lernt \n lernen",
     "groupCode": 1
   },
   {
     "id": 20026,
-    "en": "Would like",
+    "en": "Would like (Akkusativ)",
     "de": "\n möchte \n möchtest \n möchte \n möchten \n möchtet \n möchten",
     "groupCode": 1
   },
   {
     "id": 20027,
-    "en": "Wear",
+    "en": "Wear (Akkusativ)",
     "de": "\n trage \n trägst \n trägt \n tragen \n tragt \n tragen",
     "groupCode": 1
   },
   {
     "id": 20028,
-    "en": "Cook",
+    "en": "Cook (Akkusativ)",
     "de": "\n koche \n kochst \n kocht \n kochen \n kocht \n kochen",
     "groupCode": 1
   },
@@ -175,7 +175,7 @@
   },
   {
     "id": 20030,
-    "en": "Paint",
+    "en": "Paint (Akkusativ)",
     "de": "\n male \n malst \n malt \n malen \n malt \n malen",
     "groupCode": 1
   },
@@ -199,31 +199,31 @@
   },
   {
     "id": 20034,
-    "en": "Order",
+    "en": "Order (Akkusativ)",
     "de": "\n bestelle \n bestellst \n bestellt \n bestellen \n bestellt \n bestellen",
     "groupCode": 1
   },
   {
     "id": 20035,
-    "en": "Take",
+    "en": "Take (Akkusativ)",
     "de": "\n nehme \n nimmst \n nimmt \n nehmen \n nehmt \n nehmen",
     "groupCode": 1
   },
   {
     "id": 20036,
-    "en": "Do, Make",
+    "en": "Do, Make (Akkusativ)",
     "de": "\n mache \n machst \n macht \n machen \n macht \n machen",
     "groupCode": 1
   },
   {
     "id": 20037,
-    "en": "Buy",
-    "de": "\n kaufe \n kaufst \n kauft \n kaufen \n kauft \n kaufen ",
+    "en": "Buy (Akkusativ)",
+    "de": "\n kaufe \n kaufst \n kauft \n kaufen \n kauft \n kaufen",
     "groupCode": 1
   },
   {
     "id": 20038,
-    "en": "Want",
+    "en": "Want (Akkusativ)",
     "de": "\n will \n willst \n will \n wollen \n wollt \n wollen",
     "groupCode": 1
   },
@@ -253,13 +253,13 @@
   },
   {
     "id": 20043,
-    "en": "Understand",
+    "en": "Understand (Akkusativ)",
     "de": "\n verstehe \n verstehst \n versteht \n verstehen \n versteht \n verstehen",
     "groupCode": 1
   },
   {
     "id": 20044,
-    "en": "Repeat",
+    "en": "Repeat (Akkusativ)",
     "de": "\n Wiederholen \n hole wieder \n holst wieder \n holt wieder \n holen wieder \n holt wieder \n holen wieder",
     "groupCode": 1
   },
@@ -271,7 +271,7 @@
   },
   {
     "id": 20046,
-    "en": "Drive",
+    "en": "Live",
     "de": "\n lebe \n lebst \n lebt \n leben \n lebt \n leben",
     "groupCode": 1
   },
@@ -283,7 +283,7 @@
   },
   {
     "id": 20048,
-    "en": "Study",
+    "en": "Study (Akkusativ)",
     "de": "\n studiere \n studierst \n studiert \n studieren \n studiert \n studieren",
     "groupCode": 1
   },
@@ -301,13 +301,13 @@
   },
   {
     "id": 20051,
-    "en": "Sell",
+    "en": "Sell (Akkusativ)",
     "de": "\n verkaufe \n verkaufst \n verkauft \n verkaufen \n verkauft \n verkaufen",
     "groupCode": 1
   },
   {
     "id": 20052,
-    "en": "Service",
+    "en": "Service (Akkusativ)",
     "de": "\n serviere \n servierst \n serviert \n servieren \n serviert \n servieren",
     "groupCode": 1
   },
@@ -325,13 +325,13 @@
   },
   {
     "id": 20055,
-    "en": "Sing",
+    "en": "Sing (Akkusativ)",
     "de": "\n singe \n singst \n singt \n singen \n singt \n singen",
     "groupCode": 1
   },
   {
     "id": 20056,
-    "en": "Take a photograph",
+    "en": "Take a photograph (Akkusativ)",
     "de": "\n fotografiere \n fotografierst \n fotografiert \n fotografieren \n fotografiert \n fotografieren",
     "groupCode": 1
   },
@@ -343,19 +343,19 @@
   },
   {
     "id": 20058,
-    "en": "Find",
+    "en": "Find (Akkusativ)",
     "de": "\n finde \n findest \n findet \n finden \n findet \n finden",
     "groupCode": 1
   },
   {
     "id": 20059,
-    "en": "Buy",
+    "en": "Buy (Akkusativ)",
     "de": "\n kaufe \n kaufst \n kauft \n kaufen \n kauft \n kaufen",
     "groupCode": 1
   },
   {
     "id": 20060,
-    "en": "Search",
+    "en": "Search (Akkusativ)",
     "de": "\n suche \n suchst \n sucht \n suchen \n sucht \n suchen",
     "groupCode": 1
   },
@@ -367,13 +367,13 @@
   },
   {
     "id": 20062,
-    "en": "Teach",
+    "en": "Teach (Akkusativ)",
     "de": "\n unterrichte \n unterrichtest \n unterrichtet \n unterrichten \n unterrichtet \n unterrichten",
     "groupCode": 1
   },
   {
     "id": 20063,
-    "en": "Show",
+    "en": "Show (Akkusativ)",
     "de": "\n zeige \n zeigst \n zeigt \n zeigen \n zeigt \n zeigen",
     "groupCode": 1
   },
@@ -387,6 +387,18 @@
     "id": 20065,
     "en": "Camp",
     "de": "\n campe \n campst \n campt \n campen \n campt \n campen",
+    "groupCode": 1
+  },
+  {
+    "id": 20066,
+    "en": "Give (Akkusativ)",
+    "de": "\n gebe \n gibst \n gibt \n geben \n gebt \n geben",
+    "groupCode": 1
+  },
+  {
+    "id": 20066,
+    "en": "Run",
+    "de": "\n lauf \n läufst \n läuft \n laufen \n lauft \n laufen",
     "groupCode": 1
   }
 ]

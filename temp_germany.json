@@ -50,11 +50,6 @@
   },
   {
     "id":,
-    "en": "Parents are responsible for their children!",
-    "de": "Eltern haften für ihre (ایقِ) Kinder! (اِلتان هافتن)"
-  }
-  {
-    "id":,
     "en": "Please do not speak to the driver",
     "de": "Bitte den Fahrer nicht ansprechen (نیشت)"
   }
@@ -187,11 +182,6 @@
   },
   {
     "id":,
-    "en": "\n The cell phone lies on the table \n The cell phone doesn't lie on the table",
-    "de": "\n Das Handy liegt auf dem Tisch \n Das Handy liegt nicht auf dem Tisch (لیگت)"
-  },
-  {
-    "id":,
     "en": "\n I give you the book \n I don't give you the book",
     "de": "\n Ich gebe dir das Buch \n Ich gebe dir nicht das Buch"
   },
@@ -250,74 +240,8 @@
   },
 
 
-  {
-    "id": 10033,
-    "en": "This is bahador. He comes from Istanbul, and you?",
-    "de": "Das ist Bahador. Er kommt aus Istanbul, und du?",
-    "groupCode": 1
-  },
-  {
-    "id": 10034,
-    "en": "Do you come from Syria?",
-    "de": "Kommst du aus Syrien?",
-    "groupCode": 1
-  },
 
-  {
-    "id": 10036,
-    "en": "The men come",
-    "de": "Die Männer kommen",
-    "groupCode": 1
-  },
-  {
-    "id": 10037,
-    "en": "The Switzerland (come from Switzerland)",
-    "de": "Die Schweiz (komme aus der Schweiz) (F)",
-    "groupCode": 1
-  },
 
-  {
-    "id": 10039,
-    "en": "He and she come from Greece",
-    "de": "Er und sie kommen aus Griechenland",
-    "groupCode": 1
-  },
-  {
-    "id": 10040,
-    "en": "Two people come from Spain",
-    "de": "Zwei Leute kommen aus Spanien",
-    "groupCode": 1
-  },
-  {
-    "id": 10041,
-    "en": "Two come from Syria and three from Poland",
-    "de": "Zwei kommen aus Syrien und drei aus Polen",
-    "groupCode": 1
-  },
-  {
-    "id": 10042,
-    "en": "The others come from India",
-    "de": "Die anderen kommen aus Indien",
-    "groupCode": 1
-  },
-  {
-    "id": 10043,
-    "en": "I come from Iran and I speak Persian and I am Persian",
-    "de": "Ich komme aus dem Iran und Ich spreche Persisch und Ich bin Perser/Perserin",
-    "groupCode": 1
-  },
-  {
-    "id": 10044,
-    "en": "I come from France, I speak French, and I am French",
-    "de": "Ich komme aus Frankreich, Ich spreche Französisch und Ich bin Franzose/Französin",
-    "groupCode": 1
-  },
-  {
-    "id": 10045,
-    "en": "I come from Poland, I speak Polish, and I am Polish",
-    "de": "Ich komme aus Polen, Ich spreche Polnisch und Ich bin Pole/Polin",
-    "groupCode": 1
-  },
 
 
 
@@ -656,12 +580,6 @@
   },
   {
     "id": ,
-    "en": "Mr Graf, you have to do sports in the evenings",
-    "de": "Herr Graf, Sie müssen abends Sport machen",
-    "groupCode": 1
-  },
-  {
-    "id": ,
     "en": "What do you do in the mornings",
     "de": "Was machst du morgens?",
     "groupCode": 1
@@ -849,12 +767,6 @@
     "groupCode": 1
   },
   {
-    "id": 10023,
-    "en": "I don't eat sugar but I like to eat apple cake",
-    "de": "Ich esse keinen Zucker aber Ich esse gern Apfelkuchen",
-    "groupCode": 1
-  },
-  {
     "id": 10024,
     "en": "Would you like (polite) to order the fruit salad or the apple cake?",
     "de": "Möchten Sie den Obstsalat oder den Apfelkuchen bestellen?",
@@ -909,12 +821,6 @@
     "id": 10055,
     "en": "Materials (wood, paper, metal)",
     "de": "Materialien (Holz, Papier, Metal)",
-    "groupCode": 1
-  },
-  {
-    "id": 10056,
-    "en": "The phone is too expensive",
-    "de": "Das Handy ist zu teuer",
     "groupCode": 1
   },
   {
@@ -1134,12 +1040,6 @@
     "groupCode": 1
   },
   {
-    "id": 10093,
-    "en": "I am a little bit sad. My room is so white and boring",
-    "de": "Ich bin ein bisschen traurig. Mein Zimmer ist so weiß und langweilig",
-    "groupCode": 1
-  },
-  {
     "id": 10094,
     "en": "The closet is not practical. It is too small",
     "de": "Der Schrank ist nicht praktisch. Er ist zu klein",
@@ -1151,37 +1051,6 @@
     "de": "Wie finden Sie das Hotelzimmer?",
     "groupCode": 1
   },
-  {
-    "id": 10096,
-    "en": "Mark (polite) the stars and talk (polite) to your partner",
-    "de": "Markieren Sie die Sterne und sprechen Sie mit Ihrer Partnerin / Ihrem Partner",
-    "desc": "mit is dativ - fur is akkusative",
-    "groupCode": 1
-  },
-  {
-    "id": 10097,
-    "en": "What does that mean in German?",
-    "de": "Was bedeutet das auf Deutsch?",
-    "groupCode": 1
-  },
-  {
-    "id": 10098,
-    "en": "Connect (polite) the sentences",
-    "de": "Verbinden sie die sätze",
-    "groupCode": 1
-  },
-  {
-    "id": 10099,
-    "en": "What does Ilia draw?",
-    "de": "Was zeichnet Ilia?",
-    "groupCode": 1
-  },
-  {
-    "id": 10100,
-    "en": "Is this a book? No, this is not a book",
-    "de": "Ist das ein Buch? Nein, das ist kein Buch",
-    "groupCode": 1
-  }
 ]
 
 

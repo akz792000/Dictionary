@@ -2291,6 +2291,7 @@
     "id": 3376,
     "fa": "چرا همیشه این عادت را دارید که چیزی روی میز من بگذارید؟",
     "en": "Why do you always have this habit of putting something on my desk?",
+    "desc": "\"Habit of\" is followed by a verb in the gerund form (putting), which is grammatically correct. The phrase \"habit to\" is incorrect in this context",
     "groupCode": 0
   },
   {
@@ -2409,7 +2410,7 @@
   },
   {
     "id": 3396,
-    "fa": "من می توانم مغزم را هک کنم در راه های مثبت تا (منجر شدن) به طور موثری کار کند",
+    "fa": "من می توانم مغزم را هک کنم در راه های مثبت تا وادارش کنم به کار کردن به طور موثر",
     "en": "I can hack my brain in positive ways to make it work more efficiently",
     "desc": "To make sth happen: منجر شدن، موجب شدن",
     "groupCode": 0
@@ -2447,7 +2448,7 @@
   },
   {
     "id": 3402,
-    "fa": "بازوی هنوز دردناک است در جایی که آن را کبود کردم",
+    "fa": "بازوم هنوز دردناک است در جایی که کبودش کردم",
     "en": "My arm is still tender where I bruised it",
     "groupCode": 0
   },
@@ -2465,8 +2466,27 @@
   },
   {
     "id": 3405,
-    "fa": "من نیاز دارم تا آروم شم بعد از بحث",
+    "fa": "من نیاز دارم تا آروم شم بعد از آن بحث",
     "en": "I need to cool off after that argument",
+    "groupCode": 0
+  },
+  {
+    "id": 3406,
+    "fa": "بسیار (وحشی) غافل گیر کننده خواهد بود (فرضی) اگر جیمی کارتر به اندازه کافی زندگی کند که ببیند بازگشت شاه باشد",
+    "en": "It would be pretty wild if Jimmy Carter lived long enough to see the return of the Shah",
+    "desc": "The sentence \"It would be pretty wild\" means that something is expected to be surprising, exciting, or unpredictable. It's often used informally to express that a situation or event would be extreme or unusual in some way.",
+    "groupCode": 0
+  },
+  {
+    "id": 3407,
+    "fa": "شلیک نکن او (مرد) عقب مانده است",
+    "en": "Don't shoot. He's retarded",
+    "groupCode": 0
+  },
+  {
+    "id": 3408,
+    "fa": "من داشتم یک دوراهی انتخابی بین ماندن در شغل فعلیم یا پذیرش یک پیشنهاد جدید",
+    "en": "I had a choice dilemma between staying at my current job or accepting a new offer",
     "groupCode": 0
   }
 ]
