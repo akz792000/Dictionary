@@ -632,7 +632,7 @@
   {
     "id": 105,
     "fa": "راحت باش",
-    "en": "Make yourself at home",
+    "en": "\n 1.Make yourself at home \n 2.Make yourself comfortable",
     "groupCode": 0
   },
   {
@@ -4508,8 +4508,8 @@
   },
   {
     "id": 744,
-    "fa": "راحت باشید",
-    "en": "Make yourself comfortable",
+    "fa": "سینه هایش (درد) واقعا دردناک هستند",
+    "en": "Her breasts are really tender",
     "groupCode": 0
   },
   {
@@ -12911,6 +12911,7 @@
     "id": 2127,
     "fa": "صدای ناخن ها (در حال) خراشیدن روی تخته گچی واقعاً مرا می ترساند",
     "en": "The sound of nails scraping on a chalkboard really creeps me out",
+    "desc": "Scratching and scraping describe an unpleasant sound, but \"scraping\" feels a bit more intense",
     "groupCode": 0
   },
   {
