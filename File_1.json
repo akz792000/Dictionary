@@ -667,7 +667,7 @@
   },
   {
     "id": 3110,
-    "fa": "میشه این عکس رو برای من قاب کنی؟",
+    "fa": "میتونی این عکس رو برای من قاب کنی؟",
     "en": "Can you frame this photo for me?",
     "groupCode": 0
   },
@@ -2410,7 +2410,7 @@
   },
   {
     "id": 3396,
-    "fa": "من می توانم مغزم را هک کنم در راه های مثبت تا وادارش کنم به کار کردن به طور موثر",
+    "fa": "من می توانم مغزم را هک کنم در راه های مثبت تا وادارش کنم به کار کردن به طور موثرتر (بیشتر)",
     "en": "I can hack my brain in positive ways to make it work more efficiently",
     "desc": "To make sth happen: منجر شدن، موجب شدن",
     "groupCode": 0
@@ -2487,6 +2487,48 @@
     "id": 3408,
     "fa": "من داشتم یک دوراهی انتخابی بین ماندن در شغل فعلیم یا پذیرش یک پیشنهاد جدید",
     "en": "I had a choice dilemma between staying at my current job or accepting a new offer",
+    "groupCode": 0
+  },
+  {
+    "id": 3409,
+    "fa": "دایی من به طور غیرقانونی در ایالات متحده زندگی می کند برای تقریباً یک سال است . چرا او دیپورت نشده است؟",
+    "en": "My uncle has been illegally living in the U.S. for almost a year now. Why hasn't he been deported?",
+    "groupCode": 0
+  },
+  {
+    "id": 3410,
+    "fa": "شما می خواهید باز کنید (فروپاشی) ساختار درختی خود را در روابط مستقیم بین بالاترین والد و آخرین فرزند",
+    "en": "You want to collapse your tree structure into direct relationships between the topmost parent and the last child",
+    "groupCode": 0
+  },
+  {
+    "id": 3411,
+    "fa": "فرزندم داره مورد زورگویی قرار می گیرد! چه می توانم انجام دهم؟",
+    "en": "My child is being bullied! What can I do?",
+    "groupCode": 0
+  },
+  {
+    "id": 3412,
+    "fa": "من تصمیم گرفتم بگذارم یک سکه در سطل هر بار که من عصبانی می شوم",
+    "en": "I decided to put a coin in a bucket every time I got irritated",
+    "groupCode": 0
+  },
+  {
+    "id": 3413,
+    "fa": "شما پاداشی داده نمی شود پس از بستن پنجره",
+    "en": "You will not be rewarded after closing the window",
+    "groupCode": 0
+  },
+  {
+    "id": 3414,
+    "fa": "او عکس خراب می کنه هر بار که من سعی می کنم یه عکس بگیرم",
+    "en": "He photobombs every time I try to take a shot",
+    "groupCode": 0
+  },
+  {
+    "id": 3415,
+    "fa": "چگونه متوقف کنیم چک کردن گوشی خود را هر 10 ثانیه؟",
+    "en": "How to stop checking your phone every 10 seconds?",
     "groupCode": 0
   }
 ]
