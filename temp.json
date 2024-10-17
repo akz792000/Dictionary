@@ -3,28 +3,11 @@
 //due to = به دلیل
 
 [
-  {
-    "id":,
-    "fa": "آروم باش",
-    "en": "cool off",
-    "groupCode": 0
-  },
-  {
-    "id":,
-    "fa": "لغو کردن",
-    "en": "call off",
-    "groupCode": 0
-  },
+
   {
     "id":,
     "fa": "عصبانی کردن",
     "en": "set off someone",
-    "groupCode": 0
-  },
-  {
-    "id":,
-    "fa": "او عکس خراب می کنه هر بار که سعی می کنم یه عکس بگیرم",
-    "en": "He photobombs every time I try to take a shot",
     "groupCode": 0
   },
   {
@@ -115,12 +98,6 @@
     "id":,
     "fa": "",
     "en": "You have reached the maximum number of payments while the device is unlock. Before you start you next payment you have to unlock you device again",
-    "groupCode": 0
-  },
-  {
-    "id":,
-    "fa": "",
-    "en": "How to Stop Checking Your Phone Every 10 Seconds",
     "groupCode": 0
   },
   {

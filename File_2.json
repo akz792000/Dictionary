@@ -795,10 +795,9 @@
     "groupCode": 1
   },
   {
-    "id": 10132,
-    "fa": "کوچکترین گونه پستاندار جهان چی هستند؟",
-    "en": "What is the world's smallest species of mammal?",
-    "groupCode": 0
+    "id": 10134,
+    "en": "We see you",
+    "de": "Wir sehen dich"
   },
   {
     "id": 10133,
@@ -1026,6 +1025,18 @@
     "id": 10170,
     "en": "I want to grill next week",
     "de": "Ich will nächste Woche grillen",
+    "groupCode": 1
+  },
+  {
+    "id": 10171,
+    "en": "I have a meeting at the company",
+    "de": "Ich habe eine Sitzung in der Firma",
+    "groupCode": 1
+  },
+  {
+    "id": 10172,
+    "en": "I would like to introduce myself: My name is Ali",
+    "de": "Ich möchte mich vorstellen: Mein Name ist Ali",
     "groupCode": 1
   }
 ]
