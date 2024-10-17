@@ -2491,7 +2491,7 @@
   },
   {
     "id": 3409,
-    "fa": "دایی من به طور غیرقانونی در ایالات متحده زندگی می کند برای تقریباً یک سال است . چرا او دیپورت نشده است؟",
+    "fa": "دایی من به طور غیرقانونی در ایالات متحده زندگی می کند برای الان تقریبا یکساله. چرا او دیپورت نشده است؟",
     "en": "My uncle has been illegally living in the U.S. for almost a year now. Why hasn't he been deported?",
     "groupCode": 0
   },
@@ -2515,13 +2515,13 @@
   },
   {
     "id": 3413,
-    "fa": "شما پاداشی داده نمی شود پس از بستن پنجره",
+    "fa": "به شما پاداشی داده نخواهد شد پس از بستن پنجره",
     "en": "You will not be rewarded after closing the window",
     "groupCode": 0
   },
   {
     "id": 3414,
-    "fa": "او عکس خراب می کنه هر بار که من سعی می کنم یه عکس بگیرم",
+    "fa": "او (مرد) عکس خراب می کنه هر بار که من سعی می کنم یه عکس بگیرم",
     "en": "He photobombs every time I try to take a shot",
     "groupCode": 0
   },
@@ -2529,6 +2529,18 @@
     "id": 3415,
     "fa": "چگونه متوقف کنیم چک کردن گوشی خود را هر 10 ثانیه؟",
     "en": "How to stop checking your phone every 10 seconds?",
+    "groupCode": 0
+  },
+  {
+    "id": 3416,
+    "fa": "من همچنین قصد دارم نمایش بگذارم (رخ کشیدن) برخی از ویژگی های شگفت انگیزی که دوره جدیدم را ایجاد کرده است",
+    "en": "I'm also going to be showing off some of the amazing features that make my new course",
+    "groupCode": 0
+  },
+  {
+    "id": 3417,
+    "fa": "به طور خلاصه، دریافت پاداش اغلب دارای احساس جبران برای اعمال است، در حالی که جایزه دادن بیشتر در مورد به شناخت رسمی از شایستگی یا دستاورد است",
+    "en": "In summary, being rewarded often has a sense of compensation for actions, while being awarded is more about formal recognition of merit or achievement",
     "groupCode": 0
   }
 ]
