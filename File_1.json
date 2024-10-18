@@ -2561,38 +2561,5 @@
     "en": "The dog suddenly came at him",
     "desc": "come at = attack",
     "groupCode": 1
-  },
-  {
-    "id": 3421,
-    "fa": "او (زن) به تجارت خانوادگی دست یافت زمانی که پدر و مادرش بازنشسته شدند",
-    "en": "She came into the family business when her parents retired",
-    "desc": "come into = inherit",
-    "groupCode": 1
-  },
-  {
-    "id": 3422,
-    "fa": "قبل از اینکه ما پروژه را شروع کنیم، بیایید مرور کنیم (توضیح مختصری بدیم) چه کسی چه کاری داره انجام می ده",
-    "en": "Before we start the project, let's just run over who is doing what",
-    "desc": "run over = explain briefly",
-    "groupCode": 1
-  },
-  {
-    "id": 3423,
-    "fa": "میتونی به من بگی چگونه تصادف اتفاق افتاد؟",
-    "en": "Can you tell me how the accident came about?",
-    "desc": "Come about = happen",
-    "groupCode": 1
-  },
-  {
-    "id": 3424,
-    "fa": "مواظب باش او (مرد) به حلقت حمله خواهد کرد (برای حلقت میره)",
-    "en": "Careful he'll go for your throat",
-    "groupCode": 1
-  },
-  {
-    "id": 3425,
-    "fa": "کودکان ممکن است نقش بازی کنند در کلاس در یک تلاش تا توجه بگیرند",
-    "en": "Children may act up in class in an effort to get attention",
-    "groupCode": 1
   }
 ]
