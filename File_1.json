@@ -2594,5 +2594,11 @@
     "fa": "کودکان ممکن است نقش بازی کنند در کلاس در یک تلاش تا توجه بگیرند",
     "en": "Children may act up in class in an effort to get attention",
     "groupCode": 0
+  },
+  {
+    "id": 3426,
+    "fa": "یک دعوتنامه تقویم به آدرس ایمیل شما ارسال شده است",
+    "en": "A calendar invitation has been spent to your email address",
+    "groupCode": 0
   }
 ]
