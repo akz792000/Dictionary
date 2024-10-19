@@ -2398,7 +2398,7 @@
   },
   {
     "id": 3394,
-    "fa": "من فقط هرگز واقعا احساس خودم را نداشتم و من کاملاً اعتماد به نفسم را از دست دادم",
+    "fa": "من فقط هرگز واقعا احساس خودم را نداشتم و من کاملاً اعتمادم را از دست دادم",
     "en": "I just never really felt like myself, and I completely lost my confidence",
     "groupCode": 0
   },
@@ -2460,7 +2460,7 @@
   },
   {
     "id": 3404,
-    "fa": "اگر من خودم آن را امتحان نکرده بودم، من باور نمی کردم",
+    "fa": "اگر من خودم امتحانش نکرده بودم، من باورش نمی کردم",
     "en": "If I hadn't tried it myself I wouldn't believe it",
     "groupCode": 0
   },
@@ -2551,7 +2551,7 @@
   },
   {
     "id": 3419,
-    "fa": "یک دعوتنامه تقویم به آدرس ایمیل شما ارسال شده است",
+    "fa": "یک دعوت تقویم به آدرس ایمیل شما ارسال شده است",
     "en": "A calendar invitation has been spent to your email address",
     "groupCode": 0
   },
@@ -2570,14 +2570,14 @@
   },
   {
     "id": 3422,
-    "fa": "او (زن) به تجارت خانوادگی دست یافت زمانی که پدر و مادرش بازنشسته شدند",
+    "fa": "او (زن) به تجارت خانوادگی دست یافت زمانی که والدینش بازنشسته شدند",
     "en": "She came into the family business when her parents retired",
     "desc": "come into = inherit",
     "groupCode": 0
   },
   {
     "id": 3423,
-    "fa": "قبل از اینکه ما پروژه را شروع کنیم، بیایید مرور کنیم (توضیح مختصری بدیم) چه کسی چه کاری داره انجام می ده",
+    "fa": "قبل از اینکه ما پروژه را شروع کنیم، بیایید مرور کنیم (توضیح مختصری بدیم) چه کسی داره چه کاری را انجام میده",
     "en": "Before we start the project, let's just run over who is doing what",
     "desc": "run over = explain briefly",
     "groupCode": 0
@@ -2605,6 +2605,84 @@
     "id": 3427,
     "fa": "لطفاً مطمئن شوید که مزاحمتی نداری (بی مزاحم هستی) و به رایانه دسترسی دارید",
     "en": "Please make sure you are undisturbed and have access to a computer",
+    "groupCode": 0
+  },
+  {
+    "id": 3428,
+    "fa": "ممنون برای کمک کردن دیروز به من",
+    "en": "Thanks for helping me yesterday",
+    "groupCode": 0
+  },
+  {
+    "id": 3429,
+    "fa": "آیا می توانید به من کمک کنید تا این سند را چاپ کنم؟",
+    "en": "Can you help me print out this document?",
+    "groupCode": 0
+  },
+  {
+    "id": 3430,
+    "fa": "بفرما این قهوه ای است که شما از من خواستی که امروز در راه سر کار برایتان بخرم",
+    "en": "Here's the coffee you asked me to buy for you on the way to work today",
+    "groupCode": 0
+  },
+  {
+    "id": 3431,
+    "fa": "من گزارش شما را دیدم و خیلی مفصل (داری جزییات) بود",
+    "en": "I saw your report and it was very detailed",
+    "groupCode": 0
+  },
+  {
+    "id": 3432,
+    "fa": "منم همینو میخواستم بپرسم",
+    "en": "I'm about to ask the same thing",
+    "groupCode": 0
+  },
+  {
+    "id": 3433,
+    "fa": "او همیشه کسی است که با ما معاشرت میکنه",
+    "en": "He's always the one who runs around with us",
+    "groupCode": 0
+  },
+  {
+    "id": 3434,
+    "fa": "او می داند چگونه ما را شاد (سرحال آوردن) کند",
+    "en": "He knows how to cheers us up",
+    "groupCode": 0
+  },
+  {
+    "id": 3435,
+    "fa": "شاید دوست دخترش دیروز او (مرد) را رها کرده است (دورانداختن)",
+    "en": "Maybe his girlfriend dumped him yesterday",
+    "groupCode": 0
+  },
+  {
+    "id": 3436,
+    "fa": "چی؟ ازش دزدی شده؟ من حدس می زنم اینطور باشد",
+    "en": "What? He was robbed? I guess so",
+    "groupCode": 0
+  },
+  {
+    "id": 3437,
+    "fa": "هر (تاکید) مشکلاتی که او (مرد) داشت، او باید خیلی ناراحت باشد و انگیزه کار کردن را از دست داده",
+    "en": "Whatever problems he had, he must be very sad and lost motivation to work",
+    "groupCode": 0
+  },
+  {
+    "id": 3438,
+    "fa": "من پیشنهاد می کنم که امروز به نوبت او را شاد (سرحال آوردن) کنیم",
+    "en": "I suggest that we should take turns cheering him up today",
+    "groupCode": 0
+  },
+  {
+    "id": 3439,
+    "fa": "هیچ چیز برای ناراحتی وجود ندارد",
+    "en": "There's nothing to be sad about",
+    "groupCode": 0
+  },
+  {
+    "id": 3440,
+    "fa": "میدونستم سورپرایز میشی",
+    "en": "I knew you would be surprised",
     "groupCode": 0
   }
 ]
