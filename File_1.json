@@ -2435,7 +2435,7 @@
   },
   {
     "id": 3400,
-    "fa": "شما خواهید دید که چگونه این دوره راه حل کاملی است برای غلبه کشمکش های زبان انگلیسیتان",
+    "fa": "شما خواهید دید که چگونه این دوره راه حل کاملی است برای غلبه (شکستن از میان) کشمکش های زبان انگلیسیتان",
     "en": "You'll see how this course is the perfect solution to breaking through your English language struggles",
     "desc": "\"Breaking through\" means overcoming or pushing past an obstacle (in this case, English language struggles). It implies not just stopping the struggle but successfully moving beyond it.",
     "groupCode": 0
@@ -2491,7 +2491,7 @@
   },
   {
     "id": 3409,
-    "fa": "دایی من به طور غیرقانونی در ایالات متحده زندگی می کند برای الان تقریبا یکساله. چرا او دیپورت نشده است؟",
+    "fa": "دایی من به طور غیرقانونی در ایالات متحده زندگی می کند برای تقریبا یکساله الان. چرا او دیپورت نشده است؟",
     "en": "My uncle has been illegally living in the U.S. for almost a year now. Why hasn't he been deported?",
     "groupCode": 0
   },
@@ -2539,7 +2539,7 @@
   },
   {
     "id": 3417,
-    "fa": "به طور خلاصه، دریافت پاداش اغلب دارای احساس جبران برای اعمال است، در حالی که جایزه دادن بیشتر در مورد به شناخت رسمی از شایستگی یا دستاورد است",
+    "fa": "به طور خلاصه، دریافت پاداش اغلب دارد یک احساس جبران برای اعمال، در حالی که جایزه دادن بیشتر در مورد به شناخت رسمی از شایستگی یا دستاورد است",
     "en": "In summary, being rewarded often has a sense of compensation for actions, while being awarded is more about formal recognition of merit or achievement",
     "groupCode": 0
   },
@@ -2577,7 +2577,7 @@
   },
   {
     "id": 3423,
-    "fa": "قبل از اینکه ما پروژه را شروع کنیم، بیایید مرور کنیم (توضیح مختصری بدیم) چه کسی داره چه کاری را انجام میده",
+    "fa": "قبل از اینکه ما پروژه را شروع کنیم، بیایید فقط مرور کنیم (بررسی کنیم) چه کسی داره چه کاری را انجام میده",
     "en": "Before we start the project, let's just run over who is doing what",
     "desc": "run over = explain briefly",
     "groupCode": 0
@@ -2639,14 +2639,14 @@
   },
   {
     "id": 3433,
-    "fa": "او همیشه کسی است که با ما معاشرت میکنه",
+    "fa": "او (مرد) همیشه کسی است که با ما معاشرت میکنه",
     "en": "He's always the one who runs around with us",
     "groupCode": 0
   },
   {
     "id": 3434,
     "fa": "او می داند چگونه ما را شاد (سرحال آوردن) کند",
-    "en": "He knows how to cheers us up",
+    "en": "He knows how to cheer us up",
     "groupCode": 0
   },
   {
@@ -2657,7 +2657,7 @@
   },
   {
     "id": 3436,
-    "fa": "چی؟ ازش دزدی شده؟ من حدس می زنم اینطور باشد",
+    "fa": "چی؟ ازش (مرد) دزدی شده؟ من حدس می زنم اینطور باشد",
     "en": "What? He was robbed? I guess so",
     "groupCode": 0
   },
@@ -2669,13 +2669,13 @@
   },
   {
     "id": 3438,
-    "fa": "من پیشنهاد می کنم که امروز به نوبت او را شاد (سرحال آوردن) کنیم",
+    "fa": "من پیشنهاد می کنم ما می بایستی امروز به نوبت او (مرد) را شاد (سرحال آوردن) کنیم",
     "en": "I suggest that we should take turns cheering him up today",
     "groupCode": 0
   },
   {
     "id": 3439,
-    "fa": "هیچ چیز برای ناراحتی وجود ندارد",
+    "fa": "هیچ چیز برای ناراحتی (در مورد) وجود ندارد",
     "en": "There's nothing to be sad about",
     "groupCode": 0
   },
@@ -2683,6 +2683,18 @@
     "id": 3440,
     "fa": "میدونستم سورپرایز میشی",
     "en": "I knew you would be surprised",
+    "groupCode": 0
+  },
+  {
+    "id": 3441,
+    "fa": "من آینده تو هستم",
+    "en": "I'm your future",
+    "groupCode": 0
+  },
+  {
+    "id": 3442,
+    "fa": "لطفاً توجه داشته باشید که ممکن است طول بکشد تا سه روز کاری  برای آدرس ایمیل شما حذف شود از لیست پستی ما",
+    "en": "Please note that it may take up to three business days for your email address to be removed from our mailing list",
     "groupCode": 0
   }
 ]
