@@ -2696,5 +2696,11 @@
     "fa": "لطفاً توجه داشته باشید که ممکن است طول بکشد تا سه روز کاری  برای آدرس ایمیل شما حذف شود از لیست پستی ما",
     "en": "Please note that it may take up to three business days for your email address to be removed from our mailing list",
     "groupCode": 0
+  },
+  {
+    "id": 3443,
+    "fa": "هیچ تصمیم عجولانه ای نگیر",
+    "en": "Don't make any rash decisions",
+    "groupCode": 0
   }
 ]

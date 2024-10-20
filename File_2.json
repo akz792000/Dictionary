@@ -1038,5 +1038,297 @@
     "en": "I would like to introduce myself: My name is Ali",
     "de": "Ich möchte mich vorstellen: Mein Name ist Ali",
     "groupCode": 1
+  },
+  {
+    "id": 10173,
+    "en": "We want to visit you in September",
+    "de": "Wir wollen dich im September besuchen",
+    "groupCode": 1
+  },
+  {
+    "id": 10174,
+    "en": "Do you still have time?",
+    "de": "Hast du noch zeit?",
+    "groupCode": 1
+  },
+  {
+    "id": 10175,
+    "en": "\n 1.Why is my pretzel no longer in the fridge? \n 2.Why is my pretzel not in the refrigerator anymore?",
+    "de": "Warum ist meine Brezel nicht mehr im Kühlschrank?",
+    "groupCode": 1
+  },
+  {
+    "id": 10176,
+    "en": "He carries two pizzas home",
+    "de": "Er trägt zwei Pizzas (Pizzen) nach Hause",
+    "desc": "The plural of \"Pizza\" is typically \"Pizzen\" or just \"Pizzas\" is also accepted",
+    "groupCode": 1
+  },
+  {
+    "id": 10177,
+    "en": "The restaurant is now closed unfortunately",
+    "de": "Das Restaurant ist jetzt leider geschlossen",
+    "groupCode": 1
+  },
+  {
+    "id": 10178,
+    "en": "You have two pizzas! Can I have one?",
+    "de": "Du hast zwei Pizzas! Kann ich eine haben?",
+    "groupCode": 1
+  },
+  {
+    "id": 10179,
+    "en": "I give you money",
+    "de": "Ich gebe dir Geld",
+    "groupCode": 1
+  },
+  {
+    "id": 10180,
+    "en": "Nothing tastes good currently (at the moment)",
+    "de": "Nicht schmeckt zurzeit gut",
+    "groupCode": 1
+  },
+  {
+    "id": 10181,
+    "en": "It is still early",
+    "de": "Es ist noch früh",
+    "groupCode": 1
+  },
+  {
+    "id": 10182,
+    "en": "Are the dumplings really too spicy for you?",
+    "de": "Sind die knödel wirklich zu scharf für dich?",
+    "groupCode": 1
+  },
+  {
+    "id": 10183,
+    "en": "The eggs and ham are green",
+    "de": "Die Eier und der Schinken sind grün",
+    "groupCode": 1
+  },
+  {
+    "id": 10184,
+    "en": "My schnitzel tastes best",
+    "de": "Mein schnitzel schmeckt am besten",
+    "groupCode": 1
+  },
+  {
+    "id": 10185,
+    "en": "The coffee is too dark and too hot for him",
+    "de": "Der kaffee ist zu dunkel und zu heiß für ihn",
+    "groupCode": 1
+  },
+  {
+    "id": 10186,
+    "en": "Ice cream coffee tastes the best in the summer",
+    "de": "Eiskaffee schmeckt am besten im Sommer",
+    "groupCode": 1
+  },
+  {
+    "id": 10187,
+    "en": "Is the mustard too spicy for you?",
+    "de": "Ist der Senf zu scharf für dich?",
+    "groupCode": 1
+  },
+  {
+    "id": 10188,
+    "en": "My roommates always eat curry sausage",
+    "de": "Meine Mitbewohner essen immer Currywurst",
+    "groupCode": 1
+  },
+  {
+    "id": 10189,
+    "en": "Where (where to) is she going?",
+    "de": "Wohin geht sie?",
+    "groupCode": 1
+  },
+  {
+    "id": 10190,
+    "en": "I'm going on a trip this weekend",
+    "de": "Ich mache am Wochenende einen Ausflug",
+    "groupCode": 1
+  },
+  {
+    "id": 10191,
+    "en": "Who is this? This is ali",
+    "de": "Wer ist das? Das is Ali",
+    "groupCode": 1
+  },
+  {
+    "id": 10192,
+    "en": "I'm unemployed at the moment",
+    "de": "Ich bin im Moment arbeitslos",
+    "groupCode": 1
+  },
+  {
+    "id": 10193,
+    "en": "How is the weather today? The weather is bad today",
+    "de": "Wie ist das Wetter heute? Das Wetter ist heute schlecht",
+    "groupCode": 1
+  },
+  {
+    "id": 10194,
+    "en": "Why is the glass of water so hot?",
+    "de": "Warum ist das Glas Wasser so heiß?",
+    "groupCode": 1
+  },
+  {
+    "id": 10195,
+    "en": "Say your (polite) name?",
+    "de": "Sagen Sie Ihren Namen?",
+    "groupCode": 1
+  },
+  {
+    "id": 10196,
+    "en": "She is a saleswoman",
+    "de": "Sie ist Verkäuferin",
+    "groupCode": 1
+  },
+  {
+    "id": 10197,
+    "en": "Who knows most of the names?",
+    "de": "Wer weiß meisten Namen?",
+    "groupCode": 1
+  },
+  {
+    "id": 10198,
+    "en": "Anne goes to her apartment",
+    "de": "Anne geht zu ihrer Wohnung",
+    "groupCode": 1
+  },
+  {
+    "id": 10199,
+    "en": "I study law but work as a saleswoman",
+    "de": "Ich studiere Jura aber arbeite als Verkäuferin",
+    "groupCode": 1
+  },
+  {
+    "id": 10200,
+    "en": "My brother likes to go surfing",
+    "de": "Mein Bruder geht gern surfen",
+    "groupCode": 1
+  },
+  {
+    "id": 10201,
+    "en": "Which ones do you know?",
+    "de": "Welche kennst du?",
+    "groupCode": 1
+  },
+  {
+    "id": 10202,
+    "en": "Welcome! I am very pleased too (very Nice to meet you)",
+    "de": "Willkommen! Freut mich sehr auch",
+    "groupCode": 1
+  },
+  {
+    "id": 10203,
+    "en": "This is Pablo. He comes from Spain, from Leon. He now lives in Munich",
+    "de": "Das ist Pablo. Er kommt aus Spanien (اِشپانین), aus Leon. Er wohnt jetzt in München",
+    "groupCode": 1
+  },
+  {
+    "id": 10204,
+    "en": "Complete the table with information from 4a",
+    "de": "Ergänzen Sie die Tabelle mit Informationen aus 4a",
+    "groupCode": 1
+  },
+  {
+    "id": 10205,
+    "en": "This is Dana. She is from Lublin. She now lives in Germany",
+    "de": "Das ist Dana. Sie ist aus Lublin. Sie wohnt jetzt in Deutschland",
+    "groupCode": 1
+  },
+  {
+    "id": 10206,
+    "en": "Do you (polite) come from Germany? ",
+    "de": "Kommen Sie aus Deutschland?",
+    "groupCode": 1
+  },
+  {
+    "id": 10207,
+    "en": "Registration in the company",
+    "de": "Anmeldung in der Firma",
+    "groupCode": 1
+  },
+  {
+    "id": 10208,
+    "en": "Which cafe de we go?",
+    "de": "In welches Café gehen wir?",
+    "desc": "\"Welche\" is used for feminine and plural nouns:\n\n\"Welche Blume magst du?\" (Which flower do you like?)\n\"Welche Bücher liest du?\" (Which books are you reading?)\n\"Welches\" is used for neuter nouns:\n\n\"Welches Auto fährst du?\" (Which car are you driving?)\n\"Welches Tier ist das?\" (What animal is this?)",
+    "groupCode": 1
+  },
+  {
+    "id": 10209,
+    "en": "What is your family name? (polite)",
+    "de": "Wie ist Ihr (plural) Familienname?",
+    "desc": "\"Ihr\" is a formal pronoun used when addressing someone with respect, especially in professional or formal situations. It is equivalent to the English \"your\" (formal) when addressing someone with respect",
+    "groupCode": 1
+  },
+  {
+    "id": 10210,
+    "en": "What is your first name? (polite)",
+    "de": "Wie ist Ihr (plural) Vorname?",
+    "groupCode": 1
+  },
+  {
+    "id": 10211,
+    "en": "My grandpa loves my brother and my brother loves my grandpa",
+    "de": "Mein Opa liebt meinen Bruder und mein Bruder liebt meinen Opa",
+    "groupCode": 1
+  },
+  {
+    "id": 10212,
+    "en": "What is your (plural) zip code? (polite)",
+    "de": "Wie ist Ihr Postleitzahl/Ort?",
+    "groupCode": 1
+  },
+  {
+    "id": 10213,
+    "en": "What is your (plural) Telephone number?",
+    "de": "Wie ist Ihr Telefonnummer?",
+    "groupCode": 1
+  },
+  {
+    "id": 10214,
+    "en": "I come from Greece, I speak Greek, and I am Greek",
+    "de": "Ich komme aus Griechenland, Ich spreche Griechisch und Ich bin Grieche/Griechin",
+    "groupCode": 1
+  },
+  {
+    "id": 10215,
+    "en": "An elegant woman comes to Ali",
+    "de": "Eine elegante Frau kommt zu Ali",
+    "groupCode": 1
+  },
+  {
+    "id": 10216,
+    "en": "We can't come",
+    "de": "Wir können nicht kommen",
+    "groupCode": 1
+  },
+  {
+    "id": 10217,
+    "en": "My origin is from Germany",
+    "de": "Meine Herkunft ist aus Deutschland",
+    "groupCode": 1
+  },
+  {
+    "id": 10218,
+    "en": "There are many bars in Berlin but there are few discos in Augsburg",
+    "de": "Es gibt viele Bars in Berlin aber es gibt wenige Discos in Augsburg",
+    "desc": "Es gibt: there are",
+    "groupCode": 1
+  },
+  {
+    "id": 10219,
+    "en": "I care for patients",
+    "de": "Ich pflege Patienten",
+    "groupCode": 1
+  },
+  {
+    "id": 10220,
+    "en": "Where is your friend from?",
+    "de": "Woher kommt dein Freund?",
+    "groupCode": 1
   }
 ]
