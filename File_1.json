@@ -2699,8 +2699,76 @@
   },
   {
     "id": 3443,
-    "fa": "هیچ تصمیم عجولانه ای نگیر",
+    "fa": "هیچ تصمیمات عجولانه ای نگیر",
     "en": "Don't make any rash decisions",
+    "groupCode": 0
+  },
+  {
+    "id": 3444,
+    "fa": "کلاهبرداری مدیر عامل شکلی از کلاهبرداری است جاییکه مجرمان ژست می گیرند به عنوان مدیران اجرایی در یک تلاش تا فریب دهند کارمندان را برای اجرای تراکنش های مالی",
+    "en": "CEO fraud is a form of fraud where criminals pose as executives in an attempt to trick employees into performing financial transactions",
+    "groupCode": 0
+  },
+  {
+    "id": 3445,
+    "fa": "من داشتم از محل کار می رفتم که تو زنگ زدی",
+    "en": "I was just about to leave work when you called",
+    "desc": "I was just about to leave: Implies that you were on the verge of leaving at that exact moment but hadn't left yet. It suggests immediate intent or action that was about to happen.\n\n I wanted to leave: Expresses a desire or intention to leave, but doesn't necessarily imply that you were close to doing so. It reflects a wish or plan to leave, which may or may not have been acted upon.",
+    "groupCode": 0
+  },
+  {
+    "id": 3446,
+    "fa": "رئیس من بود یا حداقل فکر کردم اینطور بود",
+    "en": "It was my boss or at least I thought it was",
+    "groupCode": 0
+  },
+  {
+    "id": 3447,
+    "fa": "او (زن) به تازگی یک خرید (کسب) بزرگ در آسیا امضا کرده بود",
+    "en": "She had just signed off on a major acquisition in Asia",
+    "desc": "In short, signed off means completing or ending something, while signed refers specifically to the act of putting a signature on something.",
+    "groupCode": 0
+  },
+  {
+    "id": 3448,
+    "fa": "برای اینکه معامله نهایی شود، موعد یک پرداخت اولیه بلافاصله بود",
+    "en": "In order for the deal to be finalized, an initial payment was due immediately",
+    "groupCode": 0
+  },
+  {
+    "id": 3449,
+    "fa": "اگر از شما خواسته شد از استاندارد منحرف شوید، ابتدا تأییدیه بگیرید",
+    "en": "If you are asked to deviate from standard, get approval first",
+    "groupCode": 0
+  },
+  {
+    "id": 3450,
+    "fa": "فرد ممکن است بسیار مطمئن و فرمانبردار به ظاهر برسد",
+    "en": "The person may appear very assured and commanding",
+    "groupCode": 0
+  },
+  {
+    "id": 3451,
+    "fa": "مجرمان سایبری اکنون می توانند ایمیل های واقعی و فریبنده ایجاد کنند و حتی از سبک یک فردی خاص در پیام تقلید کنند",
+    "en": "Cybercriminals can now create deceptively genuine emails and even imitate the style of a specific person in the message",
+    "groupCode": 0
+  },
+  {
+    "id": 3452,
+    "fa": "اگر یک درخواست مشکوک یافتید، همیشه با یک همکار مشورت کنید و تایید کنید درخواست قانونی است قبل از گرفتن هر عملی",
+    "en": "If you find a request suspicious, always consult a colleague and verify the request is legitimate before taking any action",
+    "groupCode": 0
+  },
+  {
+    "id": 3453,
+    "fa": "آیا یک پرداختی انجام داده اید، اما شما اکنون مشکوک هستید که ممکن است تقلبی بوده باشد؟",
+    "en": "Have you made a payment, but you now suspect it might have been fraudulent?",
+    "groupCode": 0
+  },
+  {
+    "id": 3454,
+    "fa": "این همیشه مشکوک است!",
+    "en": "This is always suspicious!",
     "groupCode": 0
   }
 ]
