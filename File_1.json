@@ -2436,8 +2436,8 @@
   {
     "id": 3400,
     "fa": "شما خواهید دید که چگونه این دوره راه حل کاملی است برای غلبه (شکستن از میان) کشمکش های زبان انگلیسیتان",
-    "en": "You'll see how this course is the perfect solution to breaking through your English language struggles",
-    "desc": "\"Breaking through\" means overcoming or pushing past an obstacle (in this case, English language struggles). It implies not just stopping the struggle but successfully moving beyond it.",
+    "en": "You'll see how this course is the perfect solution to breaking through your english language struggles",
+    "desc": "\"Breaking through\" means overcoming or pushing past an obstacle (in this case, english language struggles). It implies not just stopping the struggle but successfully moving beyond it.",
     "groupCode": 0
   },
   {
@@ -2645,7 +2645,7 @@
   },
   {
     "id": 3434,
-    "fa": "او می داند چگونه ما را شاد (سرحال آوردن) کند",
+    "fa": "او (مرد) می داند چگونه ما را شاد (سرحال آوردن) کند",
     "en": "He knows how to cheer us up",
     "groupCode": 0
   },
@@ -2671,6 +2671,7 @@
     "id": 3438,
     "fa": "من پیشنهاد می کنم ما می بایستی امروز به نوبت او (مرد) را شاد (سرحال آوردن) کنیم",
     "en": "I suggest that we should take turns cheering him up today",
+    "desc": "Using \"cheering\" (the gerund) is more natural after \"take turns,\" as it implies the continuous action of cheering him up",
     "groupCode": 0
   },
   {
@@ -2711,7 +2712,7 @@
   },
   {
     "id": 3445,
-    "fa": "من داشتم از محل کار می رفتم که تو زنگ زدی",
+    "fa": "من تا داشتم محل کار را ترک می کردم که (وقتی که) تو زنگ زدی",
     "en": "I was just about to leave work when you called",
     "desc": "I was just about to leave: Implies that you were on the verge of leaving at that exact moment but hadn't left yet. It suggests immediate intent or action that was about to happen.\n\n I wanted to leave: Expresses a desire or intention to leave, but doesn't necessarily imply that you were close to doing so. It reflects a wish or plan to leave, which may or may not have been acted upon.",
     "groupCode": 0
@@ -2737,25 +2738,25 @@
   },
   {
     "id": 3449,
-    "fa": "اگر از شما خواسته شد از استاندارد منحرف شوید، ابتدا تأییدیه بگیرید",
+    "fa": "اگر از شما خواسته شد از استاندارد منحرف شوید، ابتدا تأییدیه بگیر",
     "en": "If you are asked to deviate from standard, get approval first",
     "groupCode": 0
   },
   {
     "id": 3450,
-    "fa": "فرد ممکن است بسیار مطمئن و فرمانبردار به ظاهر برسد",
+    "fa": "فرد ممکن است ظاهر شود خیلی مطمئن و فرمانبردار",
     "en": "The person may appear very assured and commanding",
     "groupCode": 0
   },
   {
     "id": 3451,
-    "fa": "مجرمان سایبری اکنون می توانند ایمیل های واقعی و فریبنده ایجاد کنند و حتی از سبک یک فردی خاص در پیام تقلید کنند",
+    "fa": "مجرمان سایبری اکنون می توانند ایجاد کنند ایمیل های واقعی و فریبنده و حتی تقلید کنند سبک یک فردی خاص را در پیام",
     "en": "Cybercriminals can now create deceptively genuine emails and even imitate the style of a specific person in the message",
     "groupCode": 0
   },
   {
     "id": 3452,
-    "fa": "اگر یک درخواست مشکوک یافتید، همیشه با یک همکار مشورت کنید و تایید کنید درخواست قانونی است قبل از گرفتن هر عملی",
+    "fa": "اگر یافتی یک درخواست را مشکوک، همیشه مشورت کن با یک همکار و تایید کن درخواست قانونی است قبل از گرفتن هر عملی",
     "en": "If you find a request suspicious, always consult a colleague and verify the request is legitimate before taking any action",
     "groupCode": 0
   },
@@ -2769,6 +2770,36 @@
     "id": 3454,
     "fa": "این همیشه مشکوک است!",
     "en": "This is always suspicious!",
+    "groupCode": 0
+  },
+  {
+    "id": 3455,
+    "fa": "آیا از مهاجرت به آلمان پشیمان هستید؟",
+    "en": "Do you regret moving to Germany?",
+    "groupCode": 0
+  },
+  {
+    "id": 3456,
+    "fa": "درمان فوری فشار خون بالا چیست؟",
+    "en": "What is the instant remedy for high blood pressure?",
+    "groupCode": 0
+  },
+  {
+    "id": 3457,
+    "fa": "من معتقدم هند هنوز چندین دهه از (پشت) چین عقب است",
+    "en": "I believe India is still lagging decades behind China",
+    "groupCode": 0
+  },
+  {
+    "id": 3458,
+    "fa": "من دوست ندارم تعهد آنها فقط در ساعات کاری طول بکشد",
+    "en": "I don't like that their commitment only lasts during work hours",
+    "groupCode": 0
+  },
+  {
+    "id": 3459,
+    "fa": "او (زن) در واقع یک ساعت زودتر آنجا بود",
+    "en": "She was actually an hour early there",
     "groupCode": 0
   }
 ]
