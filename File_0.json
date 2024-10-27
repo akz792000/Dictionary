@@ -2409,7 +2409,7 @@
   },
   {
     "id": 399,
-    "fa": "من نرسیدم تمام مشقهام را انجام بدم بنابراین  باید خیلی زودتر بلندشم",
+    "fa": "من نرسیدم تمام مشقهام را انجام بدم بنابراین باید خیلی زودتر بلندشم",
     "en": "I didn't get around to doing all of my homework so I have to get up much earlier",
     "desc": "In this case, \"homework\" is an uncountable noun, so it doesn't have a plural form. Therefore, you should use \"homework\" instead of \"homeworks\" when referring to multiple assignments or tasks. The choice between \"All my homework\" or \"All of my homework\" often depends on personal preference or the context in which they are used.",
     "groupCode": 0
@@ -10112,7 +10112,7 @@
   },
   {
     "id": 1667,
-    "fa": "قوانین سختگیرانه تر رشد اقتصادی را محدود خواهد کرد",
+    "fa": "قوانین سختگیرانه تر (سفت تر) رشد اقتصادی را محدود خواهد کرد",
     "en": "Tighter rules will cramp economic growth",
     "groupCode": 0
   },
@@ -12200,7 +12200,7 @@
   },
   {
     "id": 2011,
-    "fa": "ناگفته نماند که، من تا حدی با این ادعا موافق نیستم",
+    "fa": "ناگفته نماند که، من تا حدی با این ادعا داده شده موافق نیستم",
     "en": "Having said that, I partially disagree with this given assertion",
     "groupCode": 0
   },
@@ -15162,6 +15162,7 @@
     "id": 2500,
     "fa": "در مورد چه چیزی بیشتر کنجکاو هستید؟",
     "en": "What are you most curious about?",
+    "desc": "Both sentences are correct, but \"What are you most curious about?\" is more commonly used. The phrase \"the most\" adds emphasis but is not necessary for the meaning.",
     "groupCode": 0
   },
   {
@@ -15966,8 +15967,8 @@
   },
   {
     "id": 2633,
-    "fa": "خودتو سرزنش نکن",
-    "en": "Don't beat yourself up!",
+    "fa": "خودتو سرزنش (ضرب و شتم) نکن",
+    "en": "\n 1.Don't beat yourself up! \n 1.Don't scold yourself",
     "groupCode": 0
   },
   {
@@ -17754,7 +17755,7 @@
   },
   {
     "id": 2926,
-    "fa": "من مایلم از این فرصت استفاده کنم تا تشکر کنم از همه برای کار سخت و پیگیرشان",
+    "fa": "من مایلم از این فرصت استفاده کنم تا تشکر کنم از همه برای کار سخت و فداکاری",
     "en": "I would like to take this opportunity to thank everyone for their hard work and dedication",
     "groupCode": 0
   },

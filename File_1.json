@@ -372,7 +372,7 @@
   },
   {
     "id": 3062,
-    "fa": "شام به زودی آماده خواهد شد، اما ما هنوز برای نوشیدن وقت داریم",
+    "fa": "شام به زودی آماده خواهد شد، اما ما هنوز وقت داریم برای یک نوشیدنی",
     "en": "\n 1.Dinner will be ready soon, but we still have time for a drink \n 2.Dinner will be ready presently, but we still have time for a drink",
     "desc": "Dinner will be ready soon:\nMeaning: Dinner will be ready in a short amount of time.\nTone: Informal and common in everyday speech.\nDinner will be ready presently:\nMeaning: Dinner will be ready very shortly.\nTone: Slightly more formal and can sound old-fashioned.\nKey Difference:\n\"Soon\" is more casual and flexible.\n\"Presently\" is more formal and suggests it will happen very soon.",
     "groupCode": 0
@@ -762,7 +762,7 @@
   },
   {
     "id": 3125,
-    "fa": "این عکس شما را (شیک) نشان نمی ده",
+    "fa": "این عکس شما را شیک نشان نمی ده",
     "en": "This picture doesn't flatter you",
     "groupCode": 0
   },
@@ -1474,8 +1474,8 @@
   },
   {
     "id": 3242,
-    "fa": "سرزنشم نکن",
-    "en": "Don't scold me",
+    "fa": "لطفا مرا به خاطر دیر آمدن سرزنش نکن",
+    "en": "Please don't scold me for being late",
     "groupCode": 0
   },
   {
@@ -1522,8 +1522,8 @@
   },
   {
     "id": 3250,
-    "fa": "اگر شما به تعطیلات نیاز دارید، شما نیاز داری برای مدتی استراحت کنی (دور شوی)",
-    "en": "If you need a vacation, you need to get away for a while",
+    "fa": "شما نیاز داری برای مدتی استراحت کنی (دور شوی)",
+    "en": "You need to get away for a while",
     "groupCode": 0
   },
   {
@@ -2314,8 +2314,9 @@
   },
   {
     "id": 3380,
-    "fa": "تو منو خجالت میدی",
+    "fa": "تو منو شرمنده (خجالت) میدی",
     "en": "You flatter me",
+    "desc": "You flatter me: A polite way to downplay a compliment.\n\nYou make me blush: Shows shyness or bashfulness from a compliment.",
     "groupCode": 0
   },
   {
@@ -2634,12 +2635,12 @@
   {
     "id": 3432,
     "fa": "منم همینو میخواستم بپرسم",
-    "en": "I'm about to ask the same thing",
+    "en": "I was about to ask the same thing",
     "groupCode": 0
   },
   {
     "id": 3433,
-    "fa": "او (مرد) همیشه کسی است که با ما معاشرت میکنه",
+    "fa": "او (مرد) همیشه (یک) کسی است که با ما (می گرده) معاشرت میکنه",
     "en": "He's always the one who runs around with us",
     "groupCode": 0
   },
@@ -2750,7 +2751,7 @@
   },
   {
     "id": 3451,
-    "fa": "مجرمان سایبری اکنون می توانند ایجاد کنند ایمیل های واقعی و فریبنده و حتی تقلید کنند سبک یک فردی خاص را در پیام",
+    "fa": "مجرمان سایبری می توانند اکنون ایجاد کنند ایمیل های واقعی فریبنده و حتی تقلید کنند سبکی از یک فرد خاص را در پیام",
     "en": "Cybercriminals can now create deceptively genuine emails and even imitate the style of a specific person in the message",
     "groupCode": 0
   },
@@ -2762,8 +2763,8 @@
   },
   {
     "id": 3453,
-    "fa": "آیا یک پرداختی انجام داده اید، اما شما اکنون مشکوک هستید که ممکن است تقلبی بوده باشد؟",
-    "en": "Have you made a payment, but you now suspect it might have been fraudulent?",
+    "fa": "آیا یک پرداختی انجام دادی، اما شما اکنون مشکوک هستید ممکن است تقلبی بوده باشد؟",
+    "en": "Did you made a payment, but you now suspect it might have been fraudulent?",
     "groupCode": 0
   },
   {
@@ -2774,7 +2775,7 @@
   },
   {
     "id": 3455,
-    "fa": "آیا از مهاجرت به آلمان پشیمان هستید؟",
+    "fa": "آیا شما از مهاجرت به آلمان پشیمان هستی؟",
     "en": "Do you regret moving to Germany?",
     "groupCode": 0
   },
@@ -2792,7 +2793,7 @@
   },
   {
     "id": 3458,
-    "fa": "من دوست ندارم تعهد آنها فقط در ساعات کاری طول بکشد",
+    "fa": "من دوست ندارم که تعهد آنها فقط در طی ساعات کار طول بکشد",
     "en": "I don't like that their commitment only lasts during work hours",
     "groupCode": 0
   },
@@ -2807,6 +2808,67 @@
     "fa": "تیم یک جلسه موردی تشکیل داد برای بحث موضوع فوری",
     "en": "The team set up an ad hoc meeting to discuss the urgent issue",
     "desc": "Ad hoc means something created or done for a specific purpose or situation, often temporary or improvised",
+    "groupCode": 0
+  },
+  {
+    "id": 3461,
+    "fa": "من نباید خودم را به خاطر این اشتباه سرزنش (ضرب و شتم) قرار دهم",
+    "en": "I shouldn't beat myself up over the mistake",
+    "groupCode": 0
+  },
+  {
+    "id": 3462,
+    "fa": "این دستاورد امکان پذیر نمی بود بدون تلاش های خستگی ناپذیر و فداکاری هر یک از شما",
+    "en": "This achievement would not have been possible without the tireless efforts and dedication of each one of you",
+    "groupCode": 0
+  },
+  {
+    "id": 3463,
+    "fa": "من در سمت راست زیر دنده هایم درد دارم",
+    "en": "I have pain on the right side below my ribs",
+    "groupCode": 0
+  },
+  {
+    "id": 3464,
+    "fa": "چه چبزی باعث ادرار کف آلود میشود؟",
+    "en": "What causes foamy urine?",
+    "groupCode": 0
+  },
+  {
+    "id": 3465,
+    "fa": "این خط یک قانون دید پیشفرض را تنظیم میکند تا همه ویژگیها به طور پیشفرض نامرئی شوند",
+    "en": "This line sets a default visibility rule to make all properties invisible by default",
+    "groupCode": 0
+  },
+  {
+    "id": 3466,
+    "fa": "این خط دید پیش فرض را فقط برای فیلدها لغو می کند, همه فیلدها را برای سریال سازی و سریال زدایی JSON واجد شرایط می کند",
+    "en": "This line overrides the default visibility for fields only, making all fields eligible for JSON serialization and deserialization",
+    "groupCode": 0
+  },
+  {
+    "id": 3467,
+    "fa": "روند استخدام ما بسیار رقابتی است و شما خیلی پیشرفت کردید",
+    "en": "Our hiring process is very competitive and you made it very far",
+    "groupCode": 0
+  },
+  {
+    "id": 3468,
+    "fa": "کی او (زن) قراره بچه دار بشه؟",
+    "en": "When is she due to have the baby?",
+    "groupCode": 0
+  },
+  {
+    "id": 3469,
+    "fa": "او (مرد) هرگز خانواده خود را (فرضی) رها نمی کرد, صرف نظر از شرایط",
+    "en": "He would never forsake his family, no matter the circumstances",
+    "desc": "Forsake: Often implies a conscious decision to leave something once valued, with a sense of loyalty or commitment being broken. It’s commonly used in more emotional or serious contexts. \n\nAbandon: Typically means leaving something or someone without intent to return, often suddenly or irresponsibly. It’s used in both neutral and emotional contexts.\n\nExample: \"They had to abandon the project due to lack of funds.\"",
+    "groupCode": 0
+  },
+  {
+    "id": 3470,
+    "fa": "رئیس لغو کرد مخالفت های کمیسیون و قرارداد را امضا کرد",
+    "en": "The chairman overrode the committee's objections and signed the agreement",
     "groupCode": 0
   }
 ]
