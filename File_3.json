@@ -406,5 +406,47 @@
     "en": "Visit",
     "de": "\n besuche \n besuchst \n besucht \n besuchen \n besucht \n besuchen",
     "groupCode": 1
+  },
+  {
+    "id": 20068,
+    "en": "Draw",
+    "de": "\n zeichne \n zeichnest \n zeichnet \n zeichnen \n zeichnet \n zeichnen",
+    "groupCode": 1
+  },
+  {
+    "id": 20069,
+    "en": "Beat",
+    "de": "\n schlage \n schlagest \n schlage \n schlagen \n schlaget \n schlagen",
+    "groupCode": 1
+  },
+  {
+    "id": 20070,
+    "en": "Lay",
+    "de": "\n liege \n liegst \n liegt \n liegen \n liegt \n liegen",
+    "groupCode": 1
+  },
+  {
+    "id": 20071,
+    "en": "Introduce",
+    "de": "\n stelle vor \n stellst vor \n stellt vor \n stellen vor \n stellt vor \n stellen vor",
+    "groupCode": 1
+  },
+  {
+    "id": 20072,
+    "en": "Taste",
+    "de": "\n schmecke \n schmeckest \n schmecke \n schmecken \n schmecket \n schmecken",
+    "groupCode": 1
+  },
+  {
+    "id": 20073,
+    "en": "Close",
+    "de": "\n schließe \n schließt \n schließt \n schließen \n schließt \n schließen",
+    "groupCode": 1
+  },
+  {
+    "id": 20074,
+    "en": "Begin",
+    "de": "\n beginne \n beginnst \n beginnt \n beginnen \n beginnt \n beginnen",
+    "groupCode": 1
   }
 ]

@@ -8,19 +8,19 @@
   {
     "id": 10002,
     "en": "How are you doing? Thank you, I'm doing well, and you? I'm all right",
-    "de": "Wie geht es dir? (1.Wie geht es Ihnen? 2.Wie geht's?) Dannke, es geht mir gut, und dir? Es geht",
+    "de": "Wie geht es dir? (1.Wie geht's dir? 2.Wie geht's?) Dannke, es geht mir gut, und dir? Es geht",
     "groupCode": 1
   },
   {
     "id": 10003,
-    "en": "Hello, How's it going? It's going not so well. It's going badly",
-    "de": "Hallo, wie geht's? Mir geht's nicht so gut. Mir geht's Schlecht",
+    "en": "Do you want to do yoga in forty minutes?",
+    "de": "Willst du in vierzig Minuten Yoga machen?",
     "groupCode": 1
   },
   {
     "id": 10004,
-    "en": "Hello, How's it going? Good and you?",
-    "de": "Hallo, Wie geht's dir? Es geht und dir?",
+    "en": "Hello, How are you doing? (Polite) Good and you?",
+    "de": "Hallo, Wie geht es ihnen? Es geht und ihnen?",
     "groupCode": 1
   },
   {
@@ -68,7 +68,7 @@
   },
   {
     "id": 10012,
-    "en": "Hello, How is it going? It is going fine",
+    "en": "Hello, How is it going? I'm doing great",
     "de": "Hallo, wie geht's? Mir geht's super",
     "groupCode": 1
   },
@@ -106,6 +106,7 @@
     "id": 10018,
     "en": "Where do your (polite) partner come from?",
     "de": "Woher kommt Ihr Partner?",
+    "desc": "\"Woher kommt Ihr Partner?\"\nThis is correct if you’re using the formal \"Sie\" (you), addressing someone politely and referring to their partner (formal possessive form).\n\n\"Woher kommt ihr Partner?\"\nThis is correct if you’re using the informal \"ihr\" (you all), addressing a group informally and referring to their partner (informal possessive form).\n\n",
     "groupCode": 1
   },
   {
@@ -221,13 +222,13 @@
   {
     "id": 10037,
     "en": "This is my pen",
-    "de": "Das ist mein Kuli",
+    "de": "Das ist mein (der) Kuli",
     "groupCode": 1
   },
   {
     "id": 10038,
     "en": "I have a pencil",
-    "de": "Ich habe einen Bleistift",
+    "de": "Ich habe einen (der) Bleistift",
     "groupCode": 1
   },
   {
@@ -416,8 +417,8 @@
   },
   {
     "id": 10069,
-    "en": "He is a college student",
-    "de": "Er ist Student",
+    "en": "He is a college student. She is a college student",
+    "de": "Er ist Student. Sie ist Studentin",
     "groupCode": 1
   },
   {
@@ -446,20 +447,21 @@
   },
   {
     "id": 10074,
-    "en": "Ali is not a doctor",
-    "de": "Ali ist kein Arzt",
+    "en": "Ali is not a doctor. Fahimeh ist not a doctor",
+    "de": "Ali ist kein Arzt. Fahimeh ist keine Ärztin",
     "groupCode": 1
   },
   {
     "id": 10075,
-    "en": "I am very rich",
-    "de": "Ich bin sehr reich",
+    "en": "I am very rich. He is not very rich",
+    "de": "Ich bin sehr reich. Er ist nicht sehr reich",
+    "desc": "In German, \"nicht\" (not) typically goes before adjectives like \"sehr reich\" (very rich). The alternative, \"Es ist sehr reich nicht,\" is incorrect in standard German word order.",
     "groupCode": 1
   },
   {
     "id": 10076,
     "en": "A man needs a doctor now",
-    "de": "Ein Mann braucht jetzt einen Arzt",
+    "de": "Ein Mann braucht jetzt einen Arzt / eine Ärztin",
     "groupCode": 1
   },
   {
@@ -488,8 +490,8 @@
   },
   {
     "id": 10081,
-    "en": "Is he a waiter?",
-    "de": "Ist er Kellner?",
+    "en": "The cinema closes at eleven o'clock",
+    "de": "Das Kino schließt um elf Uhr",
     "groupCode": 1
   },
   {
@@ -560,8 +562,8 @@
   },
   {
     "id": 10093,
-    "en": "She is the new student",
-    "de": "Sie ist die neue Schülerin",
+    "en": "She is the new student. She is the new student",
+    "de": "Sie ist die neue Schülerin. Er ist der neue Schüler",
     "groupCode": 1
   },
   {
@@ -693,7 +695,7 @@
   },
   {
     "id": 10115,
-    "en": "There is a new student in our school",
+    "en": "In our school there is a new student",
     "de": "In unserer Schule ist ein neuer Schüler",
     "groupCode": 1
   },
@@ -706,7 +708,7 @@
   {
     "id": 10117,
     "en": "Parents are responsible for their children!",
-    "de": "Eltern haften für ihre (ایقِ) Kinder! (اِلتان هافتن)",
+    "de": "Eltern haften für ihre Kinder!",
     "groupCode": 1
   },
   {
@@ -874,7 +876,7 @@
   {
     "id": 10145,
     "en": "At what time is your appointment? My appointment is at four o'clock",
-    "de": "Um wie viel Uhr ist ihr (polite) termin? Mein Termin is um schzehn Uhr",
+    "de": "Um wie viel Uhr ist Ihr (polite) termin? Mein Termin is um schzehn Uhr",
     "groupCode": 1
   },
   {
@@ -916,7 +918,7 @@
   {
     "id": 10152,
     "en": "This is bahador. He comes from Istanbul, and you?",
-    "de": "Das ist Bahador. Er kommt aus Istanbul, und du?",
+    "de": "Das ist Bahador. Er kommt aus Istanbul (س), und du?",
     "groupCode": 1
   },
   {
@@ -1018,7 +1020,7 @@
   {
     "id": 10169,
     "en": "Where do you (plural) want to go hiking in the forest?",
-    "de": "Wo wollt ihr im Wald wandern gehen?",
+    "de": "Wo wollt Ihr im Wald wandern gehen?",
     "groupCode": 1
   },
   {
@@ -1329,6 +1331,12 @@
     "id": 10220,
     "en": "Where is your friend from?",
     "de": "Woher kommt dein Freund?",
+    "groupCode": 1
+  },
+  {
+    "id": 10221,
+    "en": "Your course starts today",
+    "de": "Euer Kurs beginnt heute",
     "groupCode": 1
   }
 ]
