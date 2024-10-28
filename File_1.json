@@ -1585,8 +1585,8 @@
   },
   {
     "id": 3260,
-    "fa": "من نیاز دارم برای مدتی استراحت کنم (دور باشم)",
-    "en": "I need to get away for a while",
+    "fa": "کامنت بی ادبانه او (مرد) واقعاً مرا آزار داد, و من دیگر نمی توانستم ساکت بمانم",
+    "en": "His rude comment really set me off, and I couldn't keep quiet any longer",
     "groupCode": 0
   },
   {
@@ -2097,6 +2097,7 @@
     "id": 3344,
     "fa": "آیا می توانید به من یک صندلی تو راهرو جلوی هواپیما بدید؟",
     "en": "Can you give me an aisle seat in the front of the plane?",
+    "desc": "Give me something implies you have something that you can give to someone. Get me something implies you must go and get something before you can give it to someone",
     "groupCode": 0
   },
   {
@@ -2764,7 +2765,7 @@
   {
     "id": 3453,
     "fa": "آیا یک پرداختی انجام دادی، اما شما اکنون مشکوک هستید ممکن است تقلبی بوده باشد؟",
-    "en": "Did you made a payment, but you now suspect it might have been fraudulent?",
+    "en": "Did you make a payment, but you now suspect it might have been fraudulent?",
     "groupCode": 0
   },
   {
@@ -2812,8 +2813,9 @@
   },
   {
     "id": 3461,
-    "fa": "من نباید خودم را به خاطر این اشتباه سرزنش (ضرب و شتم) قرار دهم",
-    "en": "I shouldn't beat myself up over the mistake",
+    "fa": "من نباید خودم را سرزنش (ضرب و شتم) کنم به خاطر اشتباه ",
+    "en": "\n 1.I shouldn't beat myself up over the mistake \n 2.1.I shouldn't beat myself up about the mistake",
+    "desc": "\"I shouldn't beat myself up about the mistake.\"\n\nBoth \"over\" and \"about\" work here, but they carry slight nuances:\n\n\"Over\" emphasizes the reason for being upset, often implying you're dwelling on it.\n\"About\" is more neutral and simply connects the criticism to the topic.",
     "groupCode": 0
   },
   {
@@ -2830,31 +2832,31 @@
   },
   {
     "id": 3464,
-    "fa": "چه چبزی باعث ادرار کف آلود میشود؟",
+    "fa": "چه چیزی باعث ادرار کف آلود میشود؟",
     "en": "What causes foamy urine?",
     "groupCode": 0
   },
   {
     "id": 3465,
-    "fa": "این خط یک قانون دید پیشفرض را تنظیم میکند تا همه ویژگیها به طور پیشفرض نامرئی شوند",
+    "fa": "این خط تنظیم میکند یک قانون دید پیشفرض را تا همه ویژگیها به طور پیشفرض نامرئی بسازد",
     "en": "This line sets a default visibility rule to make all properties invisible by default",
     "groupCode": 0
   },
   {
     "id": 3466,
-    "fa": "این خط دید پیش فرض را فقط برای فیلدها لغو می کند, همه فیلدها را برای سریال سازی و سریال زدایی JSON واجد شرایط می کند",
+    "fa": "این خط لغو می کند دید پیش فرض را فقط برای فیلدها, واجد شرایط می کند همه فیلدها را برای سریال سازی و سریال زدایی JSON",
     "en": "This line overrides the default visibility for fields only, making all fields eligible for JSON serialization and deserialization",
     "groupCode": 0
   },
   {
     "id": 3467,
-    "fa": "روند استخدام ما بسیار رقابتی است و شما خیلی پیشرفت کردید",
+    "fa": "روند استخدام ما بسیار رقابتی است و شما (ساختیش) خیلی جلو رفتی",
     "en": "Our hiring process is very competitive and you made it very far",
     "groupCode": 0
   },
   {
     "id": 3468,
-    "fa": "کی او (زن) قراره بچه دار بشه؟",
+    "fa": "کی او (زن) قراره (موعد اوست) بچه دار بشه؟",
     "en": "When is she due to have the baby?",
     "groupCode": 0
   },
@@ -2867,8 +2869,26 @@
   },
   {
     "id": 3470,
-    "fa": "رئیس لغو کرد مخالفت های کمیسیون و قرارداد را امضا کرد",
+    "fa": "رئیس (رئیس جلسه) مخالفت های کمیته را لغو کرد و قرارداد را امضا کرد",
     "en": "The chairman overrode the committee's objections and signed the agreement",
+    "groupCode": 0
+  },
+  {
+    "id": 3471,
+    "fa": "مسئولیت های روزمره در این نقش چی شکلی است؟",
+    "en": "What do the day-to-day responsibilities look like in this role?",
+    "groupCode": 0
+  },
+  {
+    "id": 3472,
+    "fa": "چه فرصت هایی برای رشد و پیشرفت وجود دارد؟",
+    "en": "What opportunities are there for growth and advancement?",
+    "groupCode": 0
+  },
+  {
+    "id": 3473,
+    "fa": "موفقیت در این نقش را چگونه ارزیابی می کنید؟",
+    "en": "How do you measure success in this role?",
     "groupCode": 0
   }
 ]
