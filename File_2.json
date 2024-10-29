@@ -7,8 +7,8 @@
   },
   {
     "id": 10002,
-    "en": "How are you doing? Thank you, I'm doing well, and you? I'm all right",
-    "de": "Wie geht es dir? (1.Wie geht's dir? 2.Wie geht's?) Dannke, es geht mir gut, und dir? Es geht",
+    "en": "How are you doing? Thank you, I'm doing well, and you?",
+    "de": "Wie geht es dir? (1.Wie geht's dir? 2.Wie geht's?) Dannke, es geht mir gut, und dir?",
     "groupCode": 1
   },
   {
@@ -19,8 +19,8 @@
   },
   {
     "id": 10004,
-    "en": "Hello, How are you doing? (Polite) Good and you?",
-    "de": "Hallo, Wie geht es ihnen? Es geht und ihnen?",
+    "en": "How are you doing? Thank you, I'm doing well, and you?",
+    "de": "Wie geht es Ihnen? Dannke, es geht mir gut, und Ihnen?",
     "groupCode": 1
   },
   {
@@ -104,7 +104,7 @@
   },
   {
     "id": 10018,
-    "en": "Where do your (polite) partner come from?",
+    "en": "Where does your (polite) partner come from?",
     "de": "Woher kommt Ihr Partner?",
     "desc": "\"Woher kommt Ihr Partner?\"\nThis is correct if you’re using the formal \"Sie\" (you), addressing someone politely and referring to their partner (formal possessive form).\n\n\"Woher kommt ihr Partner?\"\nThis is correct if you’re using the informal \"ihr\" (you all), addressing a group informally and referring to their partner (informal possessive form).\n\n",
     "groupCode": 1
@@ -185,8 +185,8 @@
   },
   {
     "id": 10031,
-    "en": "I speak a bit of German?",
-    "de": "Ich spreche ein bisschen Deutsch?",
+    "en": "I speak a bit of German",
+    "de": "Ich spreche ein bisschen Deutsch",
     "groupCode": 1
   },
   {
@@ -222,7 +222,7 @@
   {
     "id": 10037,
     "en": "This is my pen",
-    "de": "Das ist mein (der) Kuli",
+    "de": "Das ist mein (der) Kuli/Kugelschreiber",
     "groupCode": 1
   },
   {

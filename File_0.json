@@ -67,7 +67,7 @@
   },
   {
     "id": 12,
-    "fa": "یک کمی سوء تفاهم وجود داره",
+    "fa": "یک کمی سوء تفاهم وجود دارد",
     "en": "There is a little misunderstanding",
     "groupCode": 0
   },
@@ -329,7 +329,7 @@
   },
   {
     "id": 55,
-    "fa": "همیشه یک راهی هست",
+    "fa": "همیشه یک راهی وجود دارد",
     "en": "There is always a way",
     "groupCode": 0
   },
@@ -2452,7 +2452,7 @@
   },
   {
     "id": 406,
-    "fa": "لپ تاپ شما هیچ مشکلی ندارد",
+    "fa": "لپ تاپ شما هیچ مشکلی (وجود) ندارد",
     "en": "There is nothing wrong with your laptop",
     "groupCode": 0
   },
@@ -7619,7 +7619,7 @@
   },
   {
     "id": 1255,
-    "fa": "یکی آن طرف خیابان است",
+    "fa": "یکی آن طرف خیابان است (وجود دارد)",
     "en": "There's one across the street",
     "groupCode": 0
   },
@@ -7729,7 +7729,7 @@
   },
   {
     "id": 1273,
-    "fa": "خیلی مناسب است",
+    "fa": "خیلی مناسب (راحت) است",
     "en": "It is so convenient",
     "groupCode": 0
   },
@@ -10699,6 +10699,7 @@
     "id": 1764,
     "fa": "لطفا عجولانه نتیجه گیری نکن",
     "en": "Please don't jump to conclusion",
+    "desc": "\"Don't make rash decisions\": Avoid impulsive actions.\n\"Don't jump to conclusions\": Avoid making assumptions too quickly.",
     "groupCode": 0
   },
   {
@@ -12903,7 +12904,7 @@
   },
   {
     "id": 2127,
-    "fa": "صدای ناخن ها (در حال) خراشیدن روی تخته گچی واقعاً مرا می ترساند",
+    "fa": "صدای ناخن ها (در حال) خراشیدن روی یک تخته گچی واقعاً مرا می ترساند",
     "en": "The sound of nails scraping on a chalkboard really creeps me out",
     "desc": "Scratching and scraping describe an unpleasant sound, but \"scraping\" feels a bit more intense",
     "groupCode": 0

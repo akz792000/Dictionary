@@ -1860,7 +1860,7 @@
   },
   {
     "id": 3305,
-    "fa": "بهترین راه ها برای ترقی دادن (سیستم) ایمنی چیست؟",
+    "fa": "بهترین راه ها برای ترقی دادن (سیستم) ایمنی تان چیست؟",
     "en": "What are the best ways to boost your immunity?",
     "groupCode": 0
   },
@@ -2547,8 +2547,9 @@
   },
   {
     "id": 3418,
-    "fa": "کوچکترین گونه های پستاندار جهان چی هستند؟",
+    "fa": "کوچکترین گونه پستاندار جهان چیست؟",
     "en": "What is the world's smallest species of mammal?",
+    "desc": "\"Species\" is both the singular and plural form",
     "groupCode": 0
   },
   {
@@ -2869,7 +2870,7 @@
   },
   {
     "id": 3470,
-    "fa": "رئیس (رئیس جلسه) مخالفت های کمیته را لغو کرد و قرارداد را امضا کرد",
+    "fa": "رئیس (رئیس جلسه) مخالفت های کمیته را لغو کرد و توافق نامه را امضا کرد",
     "en": "The chairman overrode the committee's objections and signed the agreement",
     "groupCode": 0
   },
@@ -2887,8 +2888,14 @@
   },
   {
     "id": 3473,
-    "fa": "موفقیت در این نقش را چگونه ارزیابی می کنید؟",
+    "fa": "موفقیت در این نقش را چگونه اندازه گیری می کنید؟",
     "en": "How do you measure success in this role?",
+    "groupCode": 0
+  },
+  {
+    "id": 3474,
+    "fa": "بدون فکر (بدون برنامه قبلی) رفتار نکنید یا چیزها را خیلی سریع فرض نکنید",
+    "en": "Don't act impulsively or assume things too quickly",
     "groupCode": 0
   }
 ]
