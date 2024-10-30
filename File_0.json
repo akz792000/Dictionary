@@ -85,8 +85,8 @@
   },
   {
     "id": 15,
-    "fa": "حالا که بحثش شد",
-    "en": "Speaking of which",
+    "fa": "حالا که بحثش شد- در ضمن",
+    "en": "\n 1.Speaking of which \n 2.By the way",
     "groupCode": 0
   },
   {
@@ -788,7 +788,7 @@
   },
   {
     "id": 131,
-    "fa": "من می خوام تا وقتی برگشتم، رفته باشی",
+    "fa": "من می خوام تا زمانیکه برگشتم، رفته باشی",
     "en": "I want you gone by the time I get back",
     "desc": "\"Get back\": Implies returning to a place after being away.\n\nExample: \"I want to go on by the time I get back\" (suggests a focus on the return process).\n\"Come back\": Simply means returning to a place or situation.\n\nExample: \"I want to go on by the time I come back\" (suggests a more straightforward return).",
     "groupCode": 0
@@ -6427,7 +6427,7 @@
   },
   {
     "id": 1059,
-    "fa": "من برای دو ساعت منتظر خواهم ماند تا آن زمان که او (مرد) برسد",
+    "fa": "من برای دو ساعت منتظر خواهم ماند تا زمانیکه او (مرد) برسد",
     "en": "I will have been waiting for two hours by the time he arrives",
     "desc": "Future Perfect Continuous tense combines continuity and completion in the future",
     "groupCode": 0
@@ -6852,7 +6852,7 @@
   },
   {
     "id": 1129,
-    "fa": "یک نقص در سیستم وجود داشت",
+    "fa": "یک نقص (مشکل) در سیستم وجود داشت",
     "en": "There was a glitch in the system",
     "groupCode": 0
   },
@@ -11014,7 +11014,7 @@
   },
   {
     "id": 1815,
-    "fa": "تا وقتی به شهر نقل مکان کردم، به نویز قبلاً عادت کرده بودم",
+    "fa": "تا زمانیکه به شهر نقل مکان کردم، به نویز قبلاً عادت کرده بودم",
     "en": "By the time I moved to the city, I had already gotten used to the noise",
     "desc": "\n be used to = عادت داشتن \n get used to = عادت کردن \n",
     "groupCode": 0

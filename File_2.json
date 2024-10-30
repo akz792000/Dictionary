@@ -19,7 +19,7 @@
   },
   {
     "id": 10004,
-    "en": "How are you doing? Thank you, I'm doing well, and you?",
+    "en": "How are you doing (polite)? Thank you, I'm doing well, and you?",
     "de": "Wie geht es Ihnen? Dannke, es geht mir gut, und Ihnen?",
     "groupCode": 1
   },
@@ -319,9 +319,9 @@
     "groupCode": 1
   },
   {
-    "id": 10053,
-    "en": "Pizza with cheese",
-    "de": "Pizza mit Käse",
+    "id": ,
+    "en": "",
+    "de": "",
     "groupCode": 1
   },
   {
@@ -363,8 +363,8 @@
   },
   {
     "id": 10060,
-    "en": "The pizza is cold",
-    "de": "Die Pizza ist kalt",
+    "en": "The pizza with cheese is cold",
+    "de": "Die Pizza mit Käse ist kalt",
     "groupCode": 1
   },
   {
@@ -562,7 +562,7 @@
   },
   {
     "id": 10093,
-    "en": "She is the new student. She is the new student",
+    "en": "She is the new student. He is the new student",
     "de": "Sie ist die neue Schülerin. Er ist der neue Schüler",
     "groupCode": 1
   },
@@ -616,14 +616,14 @@
   },
   {
     "id": 10102,
-    "en": "I'm sad and I'm sleeping too much",
-    "de": "Ich bin traurig und ich bin schlafe zu viel",
+    "en": "I'm sad and I'm very sleepy",
+    "de": "Ich bin traurig und Ich bin sehr schläfrig",
     "groupCode": 1
   },
   {
     "id": 10103,
-    "en": "Du bist müde und traurig, geh zum Arzt",
-    "de": "You are tired and sad, go to the doctor",
+    "en": "You are tired and sad, go to the doctor",
+    "de": "Du bist müde und traurig, geh zum Arzt",
     "groupCode": 1
   },
   {

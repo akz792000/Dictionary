@@ -1835,7 +1835,7 @@
   },
   {
     "id": 3301,
-    "fa": "سه چهارم پیتزا تمام شده بود وقتی به خانه رسیدم",
+    "fa": "سه چهارم پیتزا تمام شده بود تا زمانیکه به خانه رسیدم",
     "en": "Three quarters of the pizza was gone by the time I got home",
     "groupCode": 0
   },
@@ -2765,8 +2765,9 @@
   },
   {
     "id": 3453,
-    "fa": "آیا یک پرداختی انجام دادی، اما شما اکنون مشکوک هستید ممکن است تقلبی بوده باشد؟",
+    "fa": "آیا یک پرداختی انجام دادی، اما شما اکنون مشکوکی ممکن است تقلبی بوده باشد؟",
     "en": "Did you make a payment, but you now suspect it might have been fraudulent?",
+    "desc": "\"Suspect\" is verb and more about the act of doubting or identifying someone involved in wrongdoing.\n\"Suspicious\" describes the feeling or attitude of doubt.",
     "groupCode": 0
   },
   {
@@ -2896,6 +2897,201 @@
     "id": 3474,
     "fa": "بدون فکر (بدون برنامه قبلی) رفتار نکنید یا چیزها را خیلی سریع فرض نکنید",
     "en": "Don't act impulsively or assume things too quickly",
+    "groupCode": 0
+  },
+  {
+    "id": 3475,
+    "fa": "\"nicht\" معمولاً به طور معمول برای نفی افعال، صفت ها یا عبارات خاص استفاده می شود، اما نه اسم های خالی بدون مقاله",
+    "en": "\"nicht\" is typically used to negate verbs, adjectives, or specific statements, but not bare nouns without an article",
+    "groupCode": 0
+  },
+  {
+    "id": 3476,
+    "fa": "من خونه نخواهم بود وقتیکه از مدرسه امشب بیای (وارد بشی). در ضمن، کلیدهایت را فراموش نکنی",
+    "en": "I won't be home when you get in from school tonight. Speaking of which, don't forget your keys",
+    "groupCode": 0
+  },
+  {
+    "id": 3477,
+    "fa": "من خواب خواهم بود تا زمانیکه تو وارد بشی",
+    "en": "I'll be asleep by the time you get in tonight",
+    "groupCode": 0
+  },
+  {
+    "id": 3478,
+    "fa": "دست کم نگیر چقدر این پروژه تلاش نیاز دارد",
+    "en": "Don't underestimate how much effort this project will take",
+    "groupCode": 0
+  },
+  {
+    "id": 3479,
+    "fa": "خواهر و برادرها داشتن دعوا می کردند چه کسی خواهد گرفت (فرضی) آخرین تکه پیتزا را",
+    "en": "The siblings were quarreling over who would get the last slice of pizza",
+    "groupCode": 0
+  },
+  {
+    "id": 3480,
+    "fa": "این در مورد چیست؟",
+    "en": "what's this about?",
+    "groupCode": 0
+  },
+  {
+    "id": 3481,
+    "fa": "در زمان سپیده دم، خالق بخشنده و قدرتمند ما بود",
+    "en": "At the dawn of time, there was our gracious and powerful creator",
+    "desc": "Meaning they will let the other friend start running a few seconds earlier to make it a fairer race",
+    "groupCode": 0
+  },
+  {
+    "id": 3482,
+    "fa": "من به تو برتری اولیه (شروع جلوتر) میدهم",
+    "en": "I'll give you the head start",
+    "groupCode": 0
+  },
+  {
+    "id": 3483,
+    "fa": "چرخ دنده دستگاه شکسته و باعث بدعمل کردنش شده",
+    "en": "The cog in the machine was broken, causing it to malfunction",
+    "groupCode": 0
+  },
+  {
+    "id": 3484,
+    "fa": "منظورم داشتم ارجاع میدادم به شخصی که پشت سرت بود",
+    "en": "I was referring to the person who was behind you",
+    "groupCode": 0
+  },
+  {
+    "id": 3485,
+    "fa": "لوله های قدیمی خورده شده (زنگ زدن) و نیاز به تعویض دارند",
+    "en": "The old pipes were corroded and needed to be replaced",
+    "groupCode": 0
+  },
+  {
+    "id": 3486,
+    "fa": "آزادی ارزش مردن را دارد",
+    "en": "Freedom is worth dying for",
+    "groupCode": 0
+  },
+  {
+    "id": 3487,
+    "fa": "باید چیز جالب تر بیشتری برای خواندن وجود داشته باشد",
+    "en": "There has got to be something more interesting to read",
+    "groupCode": 0
+  },
+  {
+    "id": 3488,
+    "fa": "چنگ نزن (نگیر) تو داری چروکش میکنی",
+    "en": "Don't grab you are gonna crease it",
+    "groupCode": 0
+  },
+  {
+    "id": 3489,
+    "fa": "آنها تابستان گذشته این منطقه را برای طلا استخراج کردند",
+    "en": "They mined the area for gold last summer",
+    "groupCode": 0
+  },
+  {
+    "id": 3490,
+    "fa": "من خوشحالم که امروز رهبری را بر عهده گرفتم",
+    "en": "I am happy to take the lead today",
+    "groupCode": 0
+  },
+  {
+    "id": 3491,
+    "fa": "من متاسفم که من به نوعی اون تصور را به شما دادم",
+    "en": "I'm sorry that I somehow gave you that impression",
+    "groupCode": 0
+  },
+  {
+    "id": 3492,
+    "fa": "اگه من بخاطر تو اخراج شم, خیلی ناراحت خواهم شد",
+    "en": "If I get fired because of you, I'll be very upset.",
+    "groupCode": 0
+  },
+  {
+    "id": 3493,
+    "fa": "من پروتکل ها را به دقت رعایت (کلمه به کلمه) کردم",
+    "en": "I followed the protocols to the letter",
+    "groupCode": 0
+  },
+  {
+    "id": 3494,
+    "fa": "من از طرف او (مرد) بابت اشتباه عذرخواهی می کنم",
+    "en": "I apologize on his behalf for the mistake",
+    "groupCode": 0
+  },
+  {
+    "id": 3495,
+    "fa": "این یک عقب نشینی است اما شکست نیست",
+    "en": "This is a setback but not a failure",
+    "groupCode": 0
+  },
+  {
+    "id": 3496,
+    "fa": "ما به صورت عمومی تحقیر می شیم هر زمان که ما اشتباه کنیم",
+    "en": "We get publicly humiliated whenever we make mistakes",
+    "groupCode": 0
+  },
+  {
+    "id": 3497,
+    "fa": "امشب درست وسط یه چیزی بودم زمانبکه توسط مامانم گیر (در حال انجام دادن یک کار نادرست) افتادم",
+    "en": "Tonight I was right in the middle of something when I got busted by my mom",
+    "desc": "Get busted: It means to get caught doing something wrong",
+    "groupCode": 0
+  },
+  {
+    "id": 3498,
+    "fa": "بیا، حالا داره دیرمون می شه",
+    "en": "Come on, We're gonna be late now",
+    "groupCode": 0
+  },
+  {
+    "id": 3499,
+    "fa": "دست نگه دار، من نیاز دارم ژاکتم را بگیرم",
+    "en": "Hold on, I need to grab my jacket",
+    "groupCode": 0
+  },
+  {
+    "id": 3500,
+    "fa": "آیا می توانی علامت را برای من نگه دارید؟",
+    "en": "Can you hold up the sign for me?",
+    "groupCode": 0
+  },
+  {
+    "id": 3501,
+    "fa": "ترافیک حداقل یک ساعت ما را نگه خواهد داشت",
+    "en": "The traffic jam will hold us up for at least an hour",
+    "groupCode": 0
+  },
+  {
+    "id": 3502,
+    "fa": "مشکل ساز نباش",
+    "en": "Don't be a glitch",
+    "groupCode": 0
+  },
+  {
+    "id": 3503,
+    "fa": "تیم پیروزی خود را جشن گرفت",
+    "en": "The team celebrated their victory",
+    "desc": "In English, it’s common to use \"their\" as a gender-neutral singular pronoun to refer to a collective noun like \"team.\" While \"team\" is singular, it represents a group of individuals, so \"their\" is used to indicate possession collectively.",
+    "groupCode": 0
+  },
+  {
+    "id": 3504,
+    "fa": "این تیم مصمم بود در بازی قهرمانی رقبای خود را شکست دهد",
+    "en": "The team was determined to take down their rivals in the championship game",
+    "groupCode": 0
+  },
+  {
+    "id": 3505,
+    "fa": "آنها در کوتاه ترین زمان حریفان خود را شکست دادن",
+    "en": "They took down their opponents in no time",
+    "groupCode": 0
+  },
+  {
+    "id": 3506,
+    "fa": "واقعیت این است که ما در نیمه راه تکمیل پروژه هستیم",
+    "en": "The fact of the matter is that we are halfway to completing the project",
     "groupCode": 0
   }
 ]

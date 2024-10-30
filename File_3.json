@@ -416,7 +416,7 @@
   {
     "id": 20069,
     "en": "Beat",
-    "de": "\n schlage \n schlagest \n schlage \n schlagen \n schlaget \n schlagen",
+    "de": "\n schlage \n schlägst \n schlägt \n schlagen \n schlagt \n schlagen",
     "groupCode": 1
   },
   {
@@ -434,7 +434,7 @@
   {
     "id": 20072,
     "en": "Taste",
-    "de": "\n schmecke \n schmeckest \n schmecke \n schmecken \n schmecket \n schmecken",
+    "de": "\n schmecke \n schmeckst \n schmeckt \n schmecken \n schmeckt \n schmecken",
     "groupCode": 1
   },
   {
@@ -447,6 +447,12 @@
     "id": 20074,
     "en": "Begin",
     "de": "\n beginne \n beginnst \n beginnt \n beginnen \n beginnt \n beginnen",
+    "groupCode": 1
+  },
+  {
+    "id": 20075,
+    "en": "Connect",
+    "de": "\n verbinde \n verbindest \n verbindet \n verbinden \n verbindet \n verbinden",
     "groupCode": 1
   }
 ]
