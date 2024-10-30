@@ -319,9 +319,9 @@
     "groupCode": 1
   },
   {
-    "id": ,
-    "en": "",
-    "de": "",
+    "id": 10053,
+    "en": "Do you meet your friends every weekend?",
+    "de": "Triffst du deine Freunde jedes Wochenende?",
     "groupCode": 1
   },
   {
@@ -1329,14 +1329,74 @@
   },
   {
     "id": 10220,
-    "en": "Where is your friend from?",
-    "de": "Woher kommt dein Freund?",
+    "en": "Without this I am illiterate",
+    "de": "Ohne dies bin ich Analphabet",
     "groupCode": 1
   },
   {
     "id": 10221,
-    "en": "Your course starts today",
-    "de": "Euer Kurs beginnt heute",
+    "en": "Which actor do you like?",
+    "de": "Welchen Schauspieler magst du?",
+    "groupCode": 1
+  },
+  {
+    "id": 10222,
+    "en": "How long is the horror movie?",
+    "de": "Wie lange dauert der Horrorfilm?",
+    "groupCode": 1
+  },
+  {
+    "id": 10223,
+    "en": "You have to find your brother, where is he?",
+    "de": "Du musst deinen Bruder finden, wo ist er?",
+    "groupCode": 1
+  },
+  {
+    "id": 10224,
+    "en": "Is the film for children or for adults?",
+    "de": "Ist der Film für Kinder oder für Erwachsene?",
+    "groupCode": 1
+  },
+  {
+    "id": 10225,
+    "en": "Only adults can watch the horror film",
+    "de": "Nur Erwachsene können den Horrorfilm sehen",
+    "groupCode": 1
+  },
+  {
+    "id": 10226,
+    "en": "The film is for adults only. My parents go to the cinema alone",
+    "de": "Der Film ist nur für Erwachsene. Meine Eltern gehen allein ins Kino",
+    "groupCode": 1
+  },
+  {
+    "id": 10227,
+    "en": "The film is boring. I don't want to stay in the movie theater for three hours",
+    "de": "Der Film ist langweilig. Ich will nicht drei Stunden im Kino",
+    "groupCode": 1
+  },
+  {
+    "id": 10228,
+    "en": "The film starts in an hour",
+    "de": "Der Film beginnt in einer Stunde",
+    "groupCode": 1
+  },
+  {
+    "id": 10229,
+    "en": "Today is a holiday",
+    "de": "Heute ist ein Feiertag",
+    "groupCode": 1
+  },
+  {
+    "id": 10230,
+    "en": "Is the park really closed?",
+    "de": "Ist der Park wirklich geschlossen?",
+    "groupCode": 1
+  },
+  {
+    "id": 10231,
+    "en": "Is the park really closed?",
+    "de": "ICh gehe in meiner pause joggen",
     "groupCode": 1
   }
 ]
