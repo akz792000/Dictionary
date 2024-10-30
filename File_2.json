@@ -7,7 +7,7 @@
   },
   {
     "id": 10002,
-    "en": "How are you doing? Thank you, I'm doing well, and you?",
+    "en": "How are you doing (informal)? Thank you, I'm doing well, and you?",
     "de": "Wie geht es dir? (1.Wie geht's dir? 2.Wie geht's?) Dannke, es geht mir gut, und dir?",
     "groupCode": 1
   },
@@ -19,7 +19,7 @@
   },
   {
     "id": 10004,
-    "en": "How are you doing (polite)? Thank you, I'm doing well, and you?",
+    "en": "How are you doing (formal)? Thank you, I'm doing well, and you?",
     "de": "Wie geht es Ihnen? Dannke, es geht mir gut, und Ihnen?",
     "groupCode": 1
   },
@@ -93,7 +93,7 @@
   {
     "id": 10016,
     "en": "I'm a nurse",
-    "de": "Ich bin Krankenpfleger/Krankenpflegerin",
+    "de": "Ich bin Krankenpfleger/Krankenpflegerin (Krankenschwester)",
     "groupCode": 1
   },
   {
@@ -104,9 +104,9 @@
   },
   {
     "id": 10018,
-    "en": "Where does your (polite) partner come from?",
+    "en": "Where does your (formal) partner come from?",
     "de": "Woher kommt Ihr Partner?",
-    "desc": "\"Woher kommt Ihr Partner?\"\nThis is correct if you’re using the formal \"Sie\" (you), addressing someone politely and referring to their partner (formal possessive form).\n\n\"Woher kommt ihr Partner?\"\nThis is correct if you’re using the informal \"ihr\" (you all), addressing a group informally and referring to their partner (informal possessive form).\n\n",
+    "desc": "\"Woher kommt Ihr Partner?\"\nThis is correct if you're using the formal \"Sie\" (you), addressing someone politely and referring to their partner (formal possessive form).\n\n\"Woher kommt ihr Partner?\"\nThis is correct if you're using the informal \"ihr\" (you all), addressing a group informally and referring to their partner (informal possessive form).\n\n",
     "groupCode": 1
   },
   {
@@ -277,7 +277,7 @@
   },
   {
     "id": 10046,
-    "en": "Is that your cell phone number (polite)? Yes, my cell phone number is...",
+    "en": "Is that your (formal) cell phone number? Yes, my cell phone number is...",
     "de": "Ist das Ihr Handynummer? Ja, meine Handynummer ist ...",
     "groupCode": 1
   },
@@ -652,7 +652,7 @@
   },
   {
     "id": 10108,
-    "en": "Mark (polite) the stars and talk (polite) to your partner",
+    "en": "Mark (formal) the stars and talk (formal) to your partner",
     "de": "Markieren Sie die Sterne und sprechen Sie mit Ihrer Partnerin / Ihrem Partner",
     "desc": "mit is dativ - fur is akkusative",
     "groupCode": 1
@@ -665,8 +665,8 @@
   },
   {
     "id": 10110,
-    "en": "Connect (polite) the sentences",
-    "de": "Verbinden sie die sätze",
+    "en": "Connect (formal) the sentences",
+    "de": "Verbinden Sie die sätze",
     "groupCode": 1
   },
   {
@@ -695,7 +695,7 @@
   },
   {
     "id": 10115,
-    "en": "In our school there is a new student",
+    "en": "In our school (there) is a new student",
     "de": "In unserer Schule ist ein neuer Schüler",
     "groupCode": 1
   },
@@ -707,8 +707,8 @@
   },
   {
     "id": 10117,
-    "en": "Parents are responsible for their children!",
-    "de": "Eltern haften für ihre Kinder!",
+    "en": "My colleague wants to buy a motorcycle",
+    "de": "Meine Kollegin/Mein Kollege will ein Motorrad kaufen",
     "groupCode": 1
   },
   {
@@ -749,7 +749,7 @@
   },
   {
     "id": 10124,
-    "en": "The phone is too expensive",
+    "en": "The cell phone is too expensive",
     "de": "Das Handy ist zu teuer",
     "groupCode": 1
   },
@@ -774,7 +774,7 @@
   },
   {
     "id": 10128,
-    "en": "Now we don’t have any apple pie anymore",
+    "en": "Now we don't have also apple pie anymore",
     "de": "Jetzt haben wir auch keinen Apfelkuchen mehr",
     "groupCode": 1
   },
@@ -792,7 +792,7 @@
   },
   {
     "id": 10131,
-    "en": "Hey Ali, all good? No, I'm a bit stressed",
+    "en": "Hey Ali, all good? No, I'm a bit in the stress (I'm a bit stressed)",
     "de": "Hey Ali, alles klar? Nein, Ich bin ein bisschen im Stress",
     "groupCode": 1
   },
@@ -864,7 +864,7 @@
   {
     "id": 10143,
     "en": "What time is your family coming today?",
-    "de": "Wie viel Uhr kommt deine Familie heute?",
+    "de": "Wie viel Uhr kommt heute deine Familie?",
     "groupCode": 1
   },
   {
@@ -875,8 +875,8 @@
   },
   {
     "id": 10145,
-    "en": "At what time is your appointment? My appointment is at four o'clock",
-    "de": "Um wie viel Uhr ist Ihr (polite) termin? Mein Termin is um schzehn Uhr",
+    "en": "At what time is your (formal) appointment? My appointment is at four o'clock",
+    "de": "Um wie viel Uhr ist Ihr termin? Mein Termin is um schzehn Uhr",
     "groupCode": 1
   },
   {
@@ -912,7 +912,7 @@
   {
     "id": 10151,
     "en": "I'm sad, I don't have a cell phone anymore",
-    "de": "Ich bin traurig, ich habe kein Handy mehr",
+    "de": "Ich bin traurig, ich habe kein (das) Handy mehr",
     "groupCode": 1
   },
   {
@@ -1019,7 +1019,7 @@
   },
   {
     "id": 10169,
-    "en": "Where do you (plural) want to go hiking in the forest?",
+    "en": "Where do you (formal) want to go hiking in the forest?",
     "de": "Wo wollt Ihr im Wald wandern gehen?",
     "groupCode": 1
   },
@@ -1104,7 +1104,7 @@
   },
   {
     "id": 10183,
-    "en": "The eggs and ham are green",
+    "en": "The eggs and the ham are green",
     "de": "Die Eier und der Schinken sind grün",
     "groupCode": 1
   },
@@ -1176,8 +1176,9 @@
   },
   {
     "id": 10195,
-    "en": "Say your (polite) name?",
+    "en": "Say your (formal) name?",
     "de": "Sagen Sie Ihren Namen?",
+    "desc": "Akkusative and Name is male and \"Namen\" is the accusative form of \"Name\" because it is the direct object of the verb",
     "groupCode": 1
   },
   {
@@ -1242,7 +1243,7 @@
   },
   {
     "id": 10206,
-    "en": "Do you (polite) come from Germany? ",
+    "en": "Do you (formal) come from Germany? ",
     "de": "Kommen Sie aus Deutschland?",
     "groupCode": 1
   },
@@ -1254,22 +1255,22 @@
   },
   {
     "id": 10208,
-    "en": "Which cafe de we go?",
+    "en": "Which cafe do we go?",
     "de": "In welches Café gehen wir?",
     "desc": "\"Welche\" is used for feminine and plural nouns:\n\n\"Welche Blume magst du?\" (Which flower do you like?)\n\"Welche Bücher liest du?\" (Which books are you reading?)\n\"Welches\" is used for neuter nouns:\n\n\"Welches Auto fährst du?\" (Which car are you driving?)\n\"Welches Tier ist das?\" (What animal is this?)",
     "groupCode": 1
   },
   {
     "id": 10209,
-    "en": "What is your family name? (polite)",
-    "de": "Wie ist Ihr (plural) Familienname?",
+    "en": "What is your family name? (formal)",
+    "de": "Wie ist Ihr (formal) Familienname?",
     "desc": "\"Ihr\" is a formal pronoun used when addressing someone with respect, especially in professional or formal situations. It is equivalent to the English \"your\" (formal) when addressing someone with respect",
     "groupCode": 1
   },
   {
     "id": 10210,
-    "en": "What is your first name? (polite)",
-    "de": "Wie ist Ihr (plural) Vorname?",
+    "en": "What is your first name? (formal)",
+    "de": "Wie ist Ihr (formal) Vorname?",
     "groupCode": 1
   },
   {
@@ -1280,13 +1281,13 @@
   },
   {
     "id": 10212,
-    "en": "What is your (plural) zip code? (polite)",
+    "en": "What is your (formal) zip code?",
     "de": "Wie ist Ihr Postleitzahl/Ort?",
     "groupCode": 1
   },
   {
     "id": 10213,
-    "en": "What is your (plural) Telephone number?",
+    "en": "What is your (formal) Telephone number?",
     "de": "Wie ist Ihr Telefonnummer?",
     "groupCode": 1
   },
@@ -1318,7 +1319,7 @@
     "id": 10218,
     "en": "There are many bars in Berlin but there are few discos in Augsburg",
     "de": "Es gibt viele Bars in Berlin aber es gibt wenige Discos in Augsburg",
-    "desc": "Es gibt: there are",
+    "desc": "Es gibt: there are. \n\n \"Wenige\" means \"few\" and is used to describe a small amount without comparison.\n\nExample: Es gibt wenige Discos in Augsburg. (\"There are few discos in Augsburg.\")\n\"Weniger\" means \"fewer\" and is used for comparing two quantities.\n\nExample: Es gibt weniger Discos in Augsburg als in Berlin. (\"There are fewer discos in Augsburg than in Berlin.\")",
     "groupCode": 1
   },
   {
