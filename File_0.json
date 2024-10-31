@@ -790,7 +790,7 @@
     "id": 131,
     "fa": "من می خوام تا زمانیکه برگشتم، رفته باشی",
     "en": "I want you gone by the time I get back",
-    "desc": "\"Get back\": Implies returning to a place after being away.\n\nExample: \"I want to go on by the time I get back\" (suggests a focus on the return process).\n\"Come back\": Simply means returning to a place or situation.\n\nExample: \"I want to go on by the time I come back\" (suggests a more straightforward return).",
+    "desc": "\"Get back\": Implies returning to a place after being away.\n\nExample: \"I want to go on by the time I get back\" (suggests a focus on the return process).\n\"Come back\": Simply means returning to a place or situation.\n\nExample: \"I want to go on by the time I come back\" (suggests a more straightforward return). \n\n Using \"get\" aligns the tenses properly, as the statement is about a future moment when the speaker returns",
     "groupCode": 0
   },
   {
@@ -8804,7 +8804,7 @@
   {
     "id": 1450,
     "fa": "من از قبل سفارش دادم, من الان اومدم تحویل بگیرم",
-    "en": "I pre-ordered, I just come to pick it up",
+    "en": "I pre-ordered, I have just come to pick it up",
     "groupCode": 0
   },
   {
@@ -10461,7 +10461,7 @@
   },
   {
     "id": 1725,
-    "fa": "امروز رو مود نیستم برای بیرون رفتن",
+    "fa": "من رو مود نیستم برای بیرون رفتن امروز",
     "en": "I'm not in the mood for going out today",
     "groupCode": 0
   },

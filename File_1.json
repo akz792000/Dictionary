@@ -2889,7 +2889,7 @@
   },
   {
     "id": 3473,
-    "fa": "موفقیت در این نقش را چگونه اندازه گیری می کنید؟",
+    "fa": "چگونه شما اندازه گیری می کنید موفقیت در این نقش را؟",
     "en": "How do you measure success in this role?",
     "groupCode": 0
   },
@@ -2901,7 +2901,7 @@
   },
   {
     "id": 3475,
-    "fa": "\"nicht\" معمولاً به طور معمول برای نفی افعال، صفت ها یا عبارات خاص استفاده می شود، اما نه اسم های خالی بدون مقاله",
+    "fa": "\"nicht\" به طور معمول برای نفی افعال، صفت ها یا عبارات خاص استفاده می شود، اما نه اسم های خالی بدون یک آرتیکل",
     "en": "\"nicht\" is typically used to negate verbs, adjectives, or specific statements, but not bare nouns without an article",
     "groupCode": 0
   },
@@ -2913,13 +2913,13 @@
   },
   {
     "id": 3477,
-    "fa": "من خواب خواهم بود تا زمانیکه تو وارد بشی",
+    "fa": "من خواب خواهم بود تا زمانیکه تو وارد بشی امشب",
     "en": "I'll be asleep by the time you get in tonight",
     "groupCode": 0
   },
   {
     "id": 3478,
-    "fa": "دست کم نگیر چقدر این پروژه تلاش نیاز دارد",
+    "fa": "دست کم نگیر چقدر تلاش این پروژه نیاز خواهد داشت",
     "en": "Don't underestimate how much effort this project will take",
     "groupCode": 0
   },
@@ -2932,7 +2932,7 @@
   {
     "id": 3480,
     "fa": "این در مورد چیست؟",
-    "en": "what's this about?",
+    "en": "What's this about?",
     "groupCode": 0
   },
   {
@@ -2950,25 +2950,25 @@
   },
   {
     "id": 3483,
-    "fa": "چرخ دنده دستگاه شکسته و باعث بدعمل کردنش شده",
+    "fa": "چرخ دنده درون دستگاه شکسته, باعث بدعمل کردنش شده",
     "en": "The cog in the machine was broken, causing it to malfunction",
     "groupCode": 0
   },
   {
     "id": 3484,
-    "fa": "منظورم داشتم ارجاع میدادم به شخصی که پشت سرت بود",
+    "fa": "من داشتم ارجاع میدادم به شخصی که پشت سرت بود",
     "en": "I was referring to the person who was behind you",
     "groupCode": 0
   },
   {
     "id": 3485,
-    "fa": "لوله های قدیمی خورده شده (زنگ زدن) و نیاز به تعویض دارند",
+    "fa": "لوله های قدیمی خورده شده (زنگ زدن) و نیاز به جابجایی دارند",
     "en": "The old pipes were corroded and needed to be replaced",
     "groupCode": 0
   },
   {
     "id": 3486,
-    "fa": "آزادی ارزش مردن را دارد",
+    "fa": "آزادی ارزش (برای) مردن داره",
     "en": "Freedom is worth dying for",
     "groupCode": 0
   },
@@ -2980,8 +2980,8 @@
   },
   {
     "id": 3488,
-    "fa": "چنگ نزن (نگیر) تو داری چروکش میکنی",
-    "en": "Don't grab you are gonna crease it",
+    "fa": "چنگ نزن (نگیر), تو قصد داری چروکش میکنی",
+    "en": "Don't grab, you are gonna crease it",
     "groupCode": 0
   },
   {
@@ -3022,26 +3022,26 @@
   },
   {
     "id": 3495,
-    "fa": "این یک عقب نشینی است اما شکست نیست",
+    "fa": "این یک عقب نشینی است اما یک شکست نیست",
     "en": "This is a setback but not a failure",
     "groupCode": 0
   },
   {
     "id": 3496,
-    "fa": "ما به صورت عمومی تحقیر می شیم هر زمان که ما اشتباه کنیم",
+    "fa": "ما به صورت عمومی تحقیر می شیم هر زمان که ما اشتباهات می کنیم",
     "en": "We get publicly humiliated whenever we make mistakes",
     "groupCode": 0
   },
   {
     "id": 3497,
-    "fa": "امشب درست وسط یه چیزی بودم زمانبکه توسط مامانم گیر (در حال انجام دادن یک کار نادرست) افتادم",
+    "fa": "امشب من درست وسط چیزی بودم زمانیکه من توسط مامانم گیر (در حال انجام دادن یک کار نادرست) افتادم",
     "en": "Tonight I was right in the middle of something when I got busted by my mom",
     "desc": "Get busted: It means to get caught doing something wrong",
     "groupCode": 0
   },
   {
     "id": 3498,
-    "fa": "بیا، حالا داره دیرمون می شه",
+    "fa": "بیا، ما داره دیرمون می شه حالا",
     "en": "Come on, We're gonna be late now",
     "groupCode": 0
   },
@@ -3065,7 +3065,7 @@
   },
   {
     "id": 3502,
-    "fa": "مشکل ساز نباش",
+    "fa": "یک مشکل ساز نباش",
     "en": "Don't be a glitch",
     "groupCode": 0
   },
@@ -3078,13 +3078,13 @@
   },
   {
     "id": 3504,
-    "fa": "این تیم مصمم بود در بازی قهرمانی رقبای خود را شکست دهد",
+    "fa": "این تیم مصمم بود در بازی قهرمانی رقبای خود را شکست دهد (به پایین کشیدن)",
     "en": "The team was determined to take down their rivals in the championship game",
     "groupCode": 0
   },
   {
     "id": 3505,
-    "fa": "آنها در کوتاه ترین زمان حریفان خود را شکست دادن",
+    "fa": "آنها در کوتاه ترین زمان حریفان خود را شکست دادن (به پایین کشیدن)",
     "en": "They took down their opponents in no time",
     "groupCode": 0
   },
@@ -3098,6 +3098,25 @@
     "id": 3507,
     "fa": "خیلی ممنون که امروز مرا دعوت کردید (دارید)",
     "en": "Thank you so much for having me today",
+    "groupCode": 0
+  },
+  {
+    "id": 3508,
+    "fa": "او (مرد) برای برنده شدن در مناظره از لفاظی متقاعدکننده استفاده کرد",
+    "en": "He used persuasive rhetoric to win the debate",
+    "groupCode": 0
+  },
+  {
+    "id": 3509,
+    "fa": "او (مرد) به خاطر مست راننده کردن دستگیر (غافلگیرانه بازرسی کردن) شد",
+    "en": "He was busted for drunk driving",
+    "groupCode": 0
+  },
+  {
+    "id": 3510,
+    "fa": "در واقع, من دیروز دیدمش (زن)",
+    "en": "As a matter of fact, I did see her yesterday",
+    "desc": "Correct: \"As a matter of fact, I do have experience in that field.\"\nIncorrect: \"As a matter of the fact, I do have experience in that field.\"",
     "groupCode": 0
   }
 ]
