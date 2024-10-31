@@ -332,8 +332,8 @@
   },
   {
     "id": 10055,
-    "en": "This is a cat",
-    "de": "Das ist eine Katze",
+    "en": "Mia is my cat. She is old and sleeps all day! I also have a dog. He is very loud and doesn't sleep enough!",
+    "de": "Mia ist meine Katze. Sie ist alt und schläft den ganzen Tag! Ich habe auch einen Hund. Er ist sehr laut und schläft zu wenig!",
     "groupCode": 1
   },
   {
@@ -580,7 +580,7 @@
   },
   {
     "id": 10096,
-    "en": "Are you coming to the party later?",
+    "en": "Are you (plural) coming to the party later?",
     "de": "Kommt ihr später zur Party?",
     "groupCode": 1
   },
@@ -1404,6 +1404,300 @@
     "id": 10231,
     "en": "Thank you for the information! I am interested in the position, but my German level is currently at A",
     "de": "Vielen Dank für die Information! Ich habe Interesse an der Stelle, aber mein Deutschniveau ist derzeit auf A",
+    "groupCode": 1
+  },
+  {
+    "id": 10232,
+    "en": "The Spanish homeworks this week are interesting, do you agree with me??",
+    "de": "Die Spanisch-Hausaufgaben diese Woche sind interessant, stimmst du mir zu?",
+    "groupCode": 1
+  },
+  {
+    "id": 10233,
+    "en": "I don't know it",
+    "de": "Ich weiß es nicht",
+    "groupCode": 1
+  },
+  {
+    "id": 10234,
+    "en": "I always forget his name",
+    "de": "Ich vergesse immer seinen Namen",
+    "groupCode": 1
+  },
+  {
+    "id": 10235,
+    "en": "Do you often sleep from midnight until noon?",
+    "de": "Schläfst du oft von Mitternacht bis Mittag?",
+    "groupCode": 1
+  },
+  {
+    "id": 10236,
+    "en": "I can't ride my bike. It's raining and the seat is too wet",
+    "de": "Ich kann mein Fahrrad nicht fahren. Es regnet und der Sitz ist zu nass",
+    "groupCode": 1
+  },
+  {
+    "id": 10237,
+    "en": "He has an appointment next weekend",
+    "de": "Er hat nächstes Wochenende einen Termin",
+    "groupCode": 1
+  },
+  {
+    "id": 10238,
+    "en": "She runs without sneakers (gym shoes) in the forest",
+    "de": "\n 1.Sie läuft ohne Turnschuhe im Wald \n 2.Sie läuft im Wald ohne Turnschuhe",
+    "groupCode": 1
+  },
+  {
+    "id": 10239,
+    "en": "How often do you ride your motorcycle in the winter?",
+    "de": "Wie oft fährst du im Winter dein Motorrad?",
+    "groupCode": 1
+  },
+  {
+    "id": 10240,
+    "en": "My son is sick and only sleeps a little",
+    "de": "Mein Sohn ist krank und schläft nur wenig",
+    "groupCode": 1
+  },
+  {
+    "id": 10241,
+    "en": "She sleeps better alone",
+    "de": "Sie schläft besser allein",
+    "groupCode": 1
+  },
+  {
+    "id": 10242,
+    "en": "He drinks three cups of coffee, but he sleeps well",
+    "de": "Er trinkt drei Tassen Kaffee, aber er schläft gut",
+    "groupCode": 1
+  },
+  {
+    "id": 10243,
+    "en": "How can you sleep less than six hours?",
+    "de": "Wie kannst du weniger als sechs Stunden schlafen?",
+    "groupCode": 1
+  },
+  {
+    "id": 10244,
+    "en": "Our neighbors are nice, but they never sleep",
+    "de": "Unsere Nachbarn sind nett, aber sie schlafen nie",
+    "groupCode": 1
+  },
+  {
+    "id": 10245,
+    "en": "The moon is so big and very far away",
+    "de": "Der Mond ist so Groß und sehr weit weg",
+    "groupCode": 1
+  },
+  {
+    "id": 10246,
+    "en": "I have a toothache I can't ride a bike",
+    "de": "Ich habe Zahnschmerzen ich kann kein Fahrrad fahren",
+    "groupCode": 1
+  },
+  {
+    "id": 10247,
+    "en": "Do you go by foot?",
+    "de": "Gehst du zu Fuß?",
+    "groupCode": 1
+  },
+  {
+    "id": 10248,
+    "en": "The streets are clean, she likes to go by foot",
+    "de": "Die Strassen sind sauber, sie geht gern zu Fuß",
+    "groupCode": 1
+  },
+  {
+    "id": 10249,
+    "en": "I don't want to run, I want to sleep",
+    "de": "Ich will nicht laufen, Ich will schlafen",
+    "groupCode": 1
+  },
+  {
+    "id": 10250,
+    "en": "Why is it wet in the car?",
+    "de": "Warum ist es nass im Auto?",
+    "groupCode": 1
+  },
+  {
+    "id": 10251,
+    "en": "I ride a bike in the park every day",
+    "de": "Ich fahre jeden Tag im Park Fahrrad",
+    "groupCode": 1
+  },
+  {
+    "id": 10252,
+    "en": "The picnic is fun",
+    "de": "Das Picknick macht Spaß",
+    "groupCode": 1
+  },
+  {
+    "id": 10253,
+    "en": "I can't find my ID card",
+    "de": "Ich kann meinen Ausweis nicht finden",
+    "groupCode": 1
+  },
+  {
+    "id": 10254,
+    "en": "The police station is in front of the park, next to the street",
+    "de": "Die Polizei ist vor dem Park neben der Straße",
+    "groupCode": 1
+  },
+  {
+    "id": 10255,
+    "en": "In front of the restaurant, turn right.",
+    "de": "Vor dem Restaurant fahren Sie nach rechts",
+    "groupCode": 1
+  },
+  {
+    "id": 10256,
+    "en": "Ilia sits in front of the television",
+    "de": "Ilia sitzt vor dem Fernseher",
+    "groupCode": 1
+  },
+  {
+    "id": 10257,
+    "en": "It is quarter to nine",
+    "de": "Es ist viertel vor neun",
+    "groupCode": 1
+  },
+  {
+    "id": 10258,
+    "en": "Would you like (polite) an apple cake? I would like a chocolate cake",
+    "de": "Möchten Sie einen Apfelkuchen? Ich möchte einen Schokoladenkuchen",
+    "groupCode": 1
+  },
+  {
+    "id": 10259,
+    "en": "Would you like to make an appointment?",
+    "de": "Möchten Sie einen Termin machen?",
+    "groupCode": 1
+  },
+  {
+    "id": 10260,
+    "en": "Ali can already ride a bike but sometimes he rides too fast",
+    "de": "Ali kann schon Fahrrad fahren aber manchmal fährt er zu schnell",
+    "groupCode": 1
+  },
+  {
+    "id": 10261,
+    "en": "Today is a holiday, are the shops open?",
+    "de": "Heute ist ein Feiertag, sind die Geschäfte geöffnet?",
+    "groupCode": 1
+  },
+  {
+    "id": 10262,
+    "en": "Can you (plural) buy the drinks?",
+    "de": "Könnt ihr die Getränke kaufen?",
+    "groupCode": 1
+  },
+  {
+    "id": 10263,
+    "en": "I can visit you next August",
+    "de": "Ich kann dich nächsten August besuchen",
+    "groupCode": 1
+  },
+  {
+    "id": 10264,
+    "en": "She visits her relatives every year",
+    "de": "Sie besucht ihre Verwandten jedes Jahr",
+    "groupCode": 1
+  },
+  {
+    "id": 10265,
+    "en": "No, we unfortunately do not have a double room available",
+    "de": "Nein wir haben leider kein Doppelzimmer frei",
+    "groupCode": 1
+  },
+  {
+    "id": 10266,
+    "en": "My friends are visiting me next August",
+    "de": "Meine Freunde besuchen mich nächsten August",
+    "groupCode": 1
+  },
+  {
+    "id": 10267,
+    "en": "Can you (plural) buy the drinks?",
+    "de": "Könnt ihr die getränke kaufen?",
+    "groupCode": 1
+  },
+  {
+    "id": 10268,
+    "en": "You (formal) must always be on time",
+    "de": "Sie müssen immer pünktlich sein",
+    "groupCode": 1
+  },
+  {
+    "id": 10269,
+    "en": "You (formal) need a resume for the job interview",
+    "de": "Sie brauchen einen Lebenslauf für das Job iterview",
+    "groupCode": 1
+  },
+  {
+    "id": 10270,
+    "en": "I have a driver's license, but I don't have a car",
+    "de": "Ich habe einen Führerschein, aber ich habe kein Auto",
+    "groupCode": 1
+  },
+  {
+    "id": 10271,
+    "en": "Do we always have to work on Saturdays",
+    "de": "Müssen wir immer samstags arbeiten",
+    "groupCode": 1
+  },
+  {
+    "id": 10272,
+    "en": "Until when do we work?",
+    "de": "Bis wann arbeiten wir?",
+    "groupCode": 1
+  },
+  {
+    "id": 10273,
+    "en": "Excuse me what size do you need?",
+    "de": "Entschuldigung welche größe brauchst du?",
+    "groupCode": 1
+  },
+  {
+    "id": 10274,
+    "en": "We would like to grill next week",
+    "de": "Wir möchten nächste Woche grillen",
+    "groupCode": 1
+  },
+  {
+    "id": 10275,
+    "en": "Unfortunately, I have no desire (I don't want to)",
+    "de": "Ich habe leider keine Lust",
+    "groupCode": 1
+  },
+  {
+    "id": 10276,
+    "en": "It's finally the end of the workday! Let's order a pizza",
+    "de": "Es ist endlich Feierabend! Lass uns eine Pizza bestellen",
+    "groupCode": 1
+  },
+  {
+    "id": 10277,
+    "en": "I can finally read my book",
+    "de": "Ich kann mein Buch endlich lesen",
+    "groupCode": 1
+  },
+  {
+    "id": 10278,
+    "en": "My car is broken, can you pick me up?",
+    "de": "Mein Auto ist kaputt, kannst du mich abholen?",
+    "groupCode": 1
+  },
+  {
+    "id": 10279,
+    "en": "How many hours do you work per week?",
+    "de": "Wie viele Stunden arbeitest du pro Woche?",
+    "groupCode": 1
+  },
+  {
+    "id": 10280,
+    "en": "My partner and I like to go to the theater",
+    "de": "Meine Partnerin und ich gehen gern ins Theater",
     "groupCode": 1
   }
 ]
