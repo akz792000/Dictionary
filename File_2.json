@@ -1699,5 +1699,59 @@
     "en": "Is the park really closed?",
     "de": "Ich gehe in meiner pause joggen",
     "groupCode": 1
+  },
+  {
+    "id": 10282,
+    "en": "Are you not thirsty anymore?",
+    "de": "Hast du keinen Durst mehr?",
+    "groupCode": 1
+  },
+  {
+    "id": 10283,
+    "en": "Only one night",
+    "de": "Nur eine Nacht",
+    "groupCode": 1
+  },
+  {
+    "id": 10284,
+    "en": "There is a delay today. The departure is now in spring",
+    "de": "Es gibt heute eine Verspätung. Die Abfahrt ist jetzt im Frühling",
+    "groupCode": 1
+  },
+  {
+    "id": 10285,
+    "en": "Attention, the train has a five-minute delay",
+    "de": "Achtung der zug hat fünf Minuten Verspätung",
+    "groupCode": 1
+  },
+  {
+    "id": 10286,
+    "en": "My boss is drinking a cup of coffee this afternoon",
+    "de": "Mein chef trinkt heute Nachmittag eine Tasse Kaffee",
+    "groupCode": 1
+  },
+  {
+    "id": 10287,
+    "en": "A coffee for my mother and a mineral water for me",
+    "de": "Für meine Mutter einen Kaffee und für mich ein Mineral wasser",
+    "groupCode": 1
+  },
+  {
+    "id": 10288,
+    "en": "I would like to order a fruit salad without tomatoes",
+    "de": "Ich möchte einen Obstsalat ohne Tomaten bestellen",
+    "groupCode": 1
+  },
+  {
+    "id": 10289,
+    "en": "Attention! The train from Berlin to Munich has a delay",
+    "de": "Achtung! der Zug von Berlin nach München hat eine Verspätung",
+    "groupCode": 1
+  },
+  {
+    "id": 10290,
+    "en": "There is no clock in the room",
+    "de": "Es gibt keine Uhr im Zimmer",
+    "groupCode": 1
   }
 ]
