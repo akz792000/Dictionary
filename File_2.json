@@ -1396,12 +1396,6 @@
   },
   {
     "id": 10231,
-    "en": "Is the park really closed?",
-    "de": "Ich gehe in meiner pause joggen",
-    "groupCode": 1
-  },
-  {
-    "id": 10231,
     "en": "Thank you for the information! I am interested in the position, but my German level is currently at A",
     "de": "Vielen Dank für die Information! Ich habe Interesse an der Stelle, aber mein Deutschniveau ist derzeit auf A",
     "groupCode": 1
@@ -1698,6 +1692,12 @@
     "id": 10280,
     "en": "My partner and I like to go to the theater",
     "de": "Meine Partnerin und ich gehen gern ins Theater",
+    "groupCode": 1
+  },
+  {
+    "id": 10281,
+    "en": "Is the park really closed?",
+    "de": "Ich gehe in meiner pause joggen",
     "groupCode": 1
   }
 ]

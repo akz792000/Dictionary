@@ -396,12 +396,6 @@
     "groupCode": 1
   },
   {
-    "id": 20066,
-    "en": "Run",
-    "de": "\n lauf \n läufst \n läuft \n laufen \n lauft \n laufen",
-    "groupCode": 1
-  },
-  {
     "id": 20067,
     "en": "Visit",
     "de": "\n besuche \n besuchst \n besucht \n besuchen \n besucht \n besuchen",
@@ -453,6 +447,12 @@
     "id": 20075,
     "en": "Connect",
     "de": "\n verbinde \n verbindest \n verbindet \n verbinden \n verbindet \n verbinden",
+    "groupCode": 1
+  },
+  {
+    "id": 20076,
+    "en": "Run",
+    "de": "\n lauf \n läufst \n läuft \n laufen \n lauft \n laufen",
     "groupCode": 1
   }
 ]
