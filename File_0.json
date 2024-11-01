@@ -2060,7 +2060,7 @@
   },
   {
     "id": 341,
-    "fa": "نمی خوام بی ادب باشم",
+    "fa": "نمی خوام گستاخی باشم",
     "en": "I don't want to be rude",
     "groupCode": 0
   },
@@ -2506,7 +2506,7 @@
   },
   {
     "id": 415,
-    "fa": "بگذار بهت نشون بدم",
+    "fa": "بگذار بهت نشونش بدم",
     "en": "Let me show it to you",
     "groupCode": 0
   },
@@ -10963,7 +10963,7 @@
   {
     "id": 1807,
     "fa": "جاده موفقیت بالا و پایین خودش را دارد، هرگز تسلیم نشوید",
-    "en": "The road to success has its ups and downs, never give up",
+    "en": "The road to success has its ups and downs, never give up (never surrender)",
     "groupCode": 0
   },
   {

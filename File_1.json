@@ -239,7 +239,7 @@
   },
   {
     "id": 3040,
-    "fa": "از آنجایی که در این لحظه باران نمی بارد، من برای قدم زدن بیرون خواهم رفت",
+    "fa": "از آنجایی که در این لحظه داره باران نمی بارد، من برای قدم زدن بیرون خواهم رفت",
     "en": "As it isn't raining at the moment, I'll go out for a walk",
     "groupCode": 0
   },
@@ -1585,8 +1585,9 @@
   },
   {
     "id": 3260,
-    "fa": "کامنت بی ادبانه او (مرد) واقعاً مرا آزار داد, و من دیگر نمی توانستم ساکت بمانم",
+    "fa": "کامنت گستاخانه او (مرد) واقعاً مرا تحریک کرد, و من نمی توانستم ساکت بمانم دیگر بیشتر",
     "en": "His rude comment really set me off, and I couldn't keep quiet any longer",
+    "desc": "set off: to trigger a strong reaction",
     "groupCode": 0
   },
   {
@@ -2901,7 +2902,7 @@
   },
   {
     "id": 3475,
-    "fa": "\"nicht\" به طور معمول برای نفی افعال، صفت ها یا عبارات خاص استفاده می شود، اما نه اسم های خالی بدون یک آرتیکل",
+    "fa": "\"nicht\" به طور معمول برای نفی افعال، صفت ها یا عبارات خاص استفاده می شود، اما نه اسم های ساده (عریان) بدون یک آرتیکل",
     "en": "\"nicht\" is typically used to negate verbs, adjectives, or specific statements, but not bare nouns without an article",
     "groupCode": 0
   },
@@ -2919,7 +2920,7 @@
   },
   {
     "id": 3478,
-    "fa": "دست کم نگیر چقدر تلاش این پروژه نیاز خواهد داشت",
+    "fa": "دست کم نگیر چقدر تلاش این پروژه نیاز خواهد برد",
     "en": "Don't underestimate how much effort this project will take",
     "groupCode": 0
   },
@@ -2944,13 +2945,13 @@
   },
   {
     "id": 3482,
-    "fa": "من به تو برتری اولیه (شروع جلوتر) میدهم",
+    "fa": "من به تو برتری اولیه (شروع جلوتر) خواهم داد",
     "en": "I'll give you the head start",
     "groupCode": 0
   },
   {
     "id": 3483,
-    "fa": "چرخ دنده درون دستگاه شکسته, باعث بدعمل کردنش شده",
+    "fa": "چرخ دنده درون ماشین شکسته است, (داره) باعث بدعمل کردن شده",
     "en": "The cog in the machine was broken, causing it to malfunction",
     "groupCode": 0
   },
@@ -2986,7 +2987,7 @@
   },
   {
     "id": 3489,
-    "fa": "آنها تابستان گذشته این منطقه را برای طلا استخراج کردند",
+    "fa": "آنها استخراج کردند این منطقه را برای طلا تابستان گذشته",
     "en": "They mined the area for gold last summer",
     "groupCode": 0
   },
@@ -3059,7 +3060,7 @@
   },
   {
     "id": 3501,
-    "fa": "ترافیک حداقل یک ساعت ما را نگه خواهد داشت",
+    "fa": "ترافیک حداقل ما را برای یک ساعت نگه خواهد داشت",
     "en": "The traffic jam will hold us up for at least an hour",
     "groupCode": 0
   },
