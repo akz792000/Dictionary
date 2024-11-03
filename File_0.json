@@ -14622,6 +14622,7 @@
     "id": 2411,
     "fa": "پلیس داره دنبال مرتکب کننده (عامل) جنایت می گرده",
     "en": "The police are searching for the perpetrator of the crime",
+    "desc": "In English, \"police\" is treated as a plural noun, so it takes the plural verb \"are.",
     "groupCode": 0
   },
   {

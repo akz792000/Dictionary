@@ -111,8 +111,9 @@
   },
   {
     "id": 10019,
-    "en": "Where do you come from?",
-    "de": "Woher kommen Sie?",
+    "en": "Where do you come from? I come from Germany. Funny, I do too",
+    "de": "Wo kommst du her? (Woher kommst du?) Ich komme aus Deutschland. Witzig, ich auch (هیِ) (ویتزیگ ایش آوخ)",
+    "desc": "Woher kommst du? ← That's the verb kommen.\n\nWo kommst du her? ← That's the verb herkommen.\n\nThe meaning is similar.",
     "groupCode": 1
   },
   {
@@ -173,7 +174,7 @@
   },
   {
     "id": 10029,
-    "en": "Do you speak German? No, I speak no German",
+    "en": "Do you (formal) speak German? No, I speak no German",
     "de": "Sprechen Sie Deutsch? Nein, Ich spreche kein Deutsch",
     "groupCode": 1
   },
@@ -532,8 +533,8 @@
   },
   {
     "id": 10088,
-    "en": "Do you paint sometimes?",
-    "de": "Malen sie manchmal?",
+    "en": "Do you (formal) paint sometimes?",
+    "de": "Malen Sie manchmal?",
     "groupCode": 1
   },
   {
@@ -744,7 +745,7 @@
   {
     "id": 10123,
     "en": "The movie was shit. My damn cell phone doesn't work",
-    "de": "Der Film war Scheiße. Mein Scheiß Handy funktioniert nicht",
+    "de": "Der Film war Scheiße. Mein Scheiß-Handy funktioniert nicht",
     "groupCode": 1
   },
   {
@@ -840,7 +841,7 @@
   },
   {
     "id": 10139,
-    "en": "Would you like the fruit salad without sugar?",
+    "en": "Would you (formal) like the fruit salad without sugar?",
     "de": "Möchten Sie den Obstsalat ohne Zucker?",
     "groupCode": 1
   },
@@ -1124,7 +1125,7 @@
   {
     "id": 10186,
     "en": "Ice cream coffee tastes the best in the summer",
-    "de": "Eiskaffee schmeckt am besten im Sommer",
+    "de": "Eiskaffee schmeckt im Sommer am besten",
     "groupCode": 1
   },
   {
@@ -1698,7 +1699,7 @@
   {
     "id": 10281,
     "en": "Is the park really closed?",
-    "de": "Ich gehe in meiner pause joggen",
+    "de": "Ist der Park wirklich geschlossen?",
     "groupCode": 1
   },
   {
@@ -1753,6 +1754,99 @@
     "id": 10290,
     "en": "There is no clock in the room",
     "de": "Es gibt keine Uhr im Zimmer",
+    "groupCode": 1
+  },
+  {
+    "id": 10291,
+    "en": "Would you like to drink coffee too? I would like to order a pizza",
+    "de": "Möchtest du auch Kaffee trinken? Nein, Ich möchte eine Pizza bestellen",
+    "groupCode": 1
+  },
+  {
+    "id": 10292,
+    "en": "You are healthy and I am happy",
+    "de": "Du bist gesund und ich bin glücklich",
+    "groupCode": 1
+  },
+  {
+    "id": 10293,
+    "en": "Are your grandma and grandpa healthy too?",
+    "de": "Sind deine Oma und dein Opa auch gesund?",
+    "groupCode": 1
+  },
+  {
+    "id": 10294,
+    "en": "Do you need a bag?",
+    "de": "Brauchen sie eine tüte?",
+    "groupCode": 1
+  },
+  {
+    "id": 10295,
+    "en": "I need an eraser",
+    "de": "Ich brauche einen Radiergummi",
+    "groupCode": 1
+  },
+  {
+    "id": 10296,
+    "en": "These two apples look the same too",
+    "de": "Diese zwei Äpfel sehen gleich auch",
+    "desc": "Diese (Feminine) = Dieser (Masculine) = these \n Gleich = same \n",
+    "groupCode": 1
+  },
+  {
+    "id": 10297,
+    "en": "Dana and Pablo are my friends. You also learn German",
+    "de": "Dana und Pablo sind meine Freunde. Sie lernen auch Deutsch",
+    "groupCode": 1
+  },
+  {
+    "id": 10298,
+    "en": "we need a table and a chair",
+    "de": "Wir brauchen einen Tisch und einen Stuhl",
+    "groupCode": 1
+  },
+  {
+    "id": 10299,
+    "en": "I need help",
+    "de": "Ich brauche Hilfe",
+    "groupCode": 1
+  },
+  {
+    "id": 10300,
+    "en": "Do you also swim often?",
+    "de": "Schwimmst du auch oft?",
+    "groupCode": 1
+  },
+  {
+    "id": 10301,
+    "en": "I go to the department store now",
+    "de": "Ich gehe jetzt in das Kaufhaus",
+    "desc": "Kaufhaus = Very big store",
+    "groupCode": 1
+  },
+  {
+    "id": 10302,
+    "en": "I really need money",
+    "de": "Ich brauche wirklich Geld",
+    "groupCode": 1
+  },
+  {
+    "id": 10303,
+    "en": "Are you (plural) coming to the party too?",
+    "de": "Kommt ihr auch zur Party?",
+    "groupCode": 1
+  },
+  {
+    "id": 10304,
+    "en": "How old are you? (plural) He is 28 years old and she is also 28",
+    "de": "Wie alt seid ihr? Er ist 28 Jahre alt und Sie ist auch 28",
+    "groupCode": 1
+  },
+  {
+    "id": 10305,
+    "en": "I need new clothes. For my vacation in France",
+    "de": "Ich brauche neue Kleidung. Für meinen Urlaub in Frankreich",
+    "desc": "\"Ich brauche neue Kleidung\": This translates to \"I need new clothing\" in a more general sense. It refers to a broad spectrum of clothing items, encompassing various types like shirts, pants, dresses, etc.\n\n\"Ich brauche neue Kleider\": This translates to \"I need new dresses\" in a more specific sense. Here, \"Kleider\" refers specifically to dresses or gowns.",
     "groupCode": 1
   }
 ]
