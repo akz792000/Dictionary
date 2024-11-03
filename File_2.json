@@ -320,12 +320,6 @@
     "groupCode": 1
   },
   {
-    "id": 10053,
-    "en": "Do you meet your friends every weekend?",
-    "de": "Triffst du deine Freunde jedes Wochenende?",
-    "groupCode": 1
-  },
-  {
     "id": 10054,
     "en": "The closet is cool. Do you like the closet?",
     "de": "Der Schrank ist cool. Magst du den Schrank?",
@@ -805,7 +799,7 @@
   },
   {
     "id": 10133,
-    "en": "What do you like to eat? I like to eat everything",
+    "en": "What do you like to eat? I like eating everything",
     "de": "Was isst du gern? Ich esse gern alles",
     "groupCode": 1
   },
@@ -847,7 +841,7 @@
   },
   {
     "id": 10140,
-    "en": "I don't eat sugar but I like to eat apple cake",
+    "en": "I don't eat sugar but I like eating apple cake",
     "de": "Ich esse keinen Zucker aber Ich esse gern Apfelkuchen",
     "groupCode": 1
   },
@@ -985,13 +979,13 @@
   },
   {
     "id": 10163,
-    "en": "My brother likes to listen to jazz",
+    "en": "My brother likes listening to jazz",
     "de": "Mein Bruder hört gern Jazz",
     "groupCode": 1
   },
   {
     "id": 10164,
-    "en": "I don't like to listen to podcasts",
+    "en": "I don't like listening to podcasts",
     "de": "Ich höre nicht gern Podcasts",
     "groupCode": 1
   },
@@ -1009,7 +1003,7 @@
   },
   {
     "id": 10167,
-    "en": "The witch likes to cook",
+    "en": "The witch likes cooking",
     "de": "Die Hexe kocht gern",
     "groupCode": 1
   },
@@ -1209,7 +1203,7 @@
   },
   {
     "id": 10200,
-    "en": "My brother likes to go surfing",
+    "en": "My brother likes going surfing",
     "de": "Mein Bruder geht gern surfen",
     "groupCode": 1
   },
@@ -1259,7 +1253,7 @@
     "id": 10208,
     "en": "Which cafe do we go?",
     "de": "In welches Café gehen wir?",
-    "desc": "\"Welche\" is used for feminine and plural nouns:\n\n\"Welche Blume magst du?\" (Which flower do you like?)\n\"Welche Bücher liest du?\" (Which books are you reading?)\n\"Welches\" is used for neuter nouns:\n\n\"Welches Auto fährst du?\" (Which car are you driving?)\n\"Welches Tier ist das?\" (What animal is this?)",
+    "desc": "Welcher is used for masculine nouns.\nWelches is used for neuter nouns.\nWelche is used for feminine nouns and plural nouns.",
     "groupCode": 1
   },
   {
@@ -1368,13 +1362,13 @@
   },
   {
     "id": 10226,
-    "en": "The film is for adults only. My parents go to the cinema alone",
-    "de": "Der Film ist nur für Erwachsene. Meine Eltern gehen allein ins Kino",
+    "en": "The film is for adults only and not for children. My parents go to the cinema alone",
+    "de": "Der Film ist nur für Erwachsene und nicht für Kinder. Meine Eltern gehen allein ins Kino",
     "groupCode": 1
   },
   {
     "id": 10227,
-    "en": "The film is boring. I don't want to stay in the movie theater for three hours",
+    "en": "The film is boring. I don't want to stay in the cinema (movie theater) for three hours",
     "de": "Der Film ist langweilig. Ich will nicht drei Stunden im Kino",
     "groupCode": 1
   },
@@ -1500,7 +1494,7 @@
   },
   {
     "id": 10248,
-    "en": "The streets are clean, she likes to go by foot",
+    "en": "The streets are clean, she likes going by foot",
     "de": "Die Strassen sind sauber, sie geht gern zu Fuß",
     "groupCode": 1
   },
@@ -1578,7 +1572,7 @@
   },
   {
     "id": 10261,
-    "en": "Today is a holiday, are the shops open?",
+    "en": "Today is a holiday, are the shops (stores) open?",
     "de": "Heute ist ein Feiertag, sind die Geschäfte geöffnet?",
     "groupCode": 1
   },
@@ -1614,8 +1608,8 @@
   },
   {
     "id": 10267,
-    "en": "Can you (plural) buy the drinks?",
-    "de": "Könnt ihr die getränke kaufen?",
+    "en": "You always come too late",
+    "de": "Du kommst immer zu spät",
     "groupCode": 1
   },
   {
@@ -1692,7 +1686,7 @@
   },
   {
     "id": 10280,
-    "en": "My partner and I like to go to the theater",
+    "en": "My partner and I like going to the theater",
     "de": "Meine Partnerin und ich gehen gern ins Theater",
     "groupCode": 1
   },
@@ -1795,7 +1789,7 @@
   },
   {
     "id": 10297,
-    "en": "Dana and Pablo are my friends. You also learn German",
+    "en": "Dana and Pablo are my friends. They also learn German",
     "de": "Dana und Pablo sind meine Freunde. Sie lernen auch Deutsch",
     "groupCode": 1
   },
@@ -1847,6 +1841,126 @@
     "en": "I need new clothes. For my vacation in France",
     "de": "Ich brauche neue Kleidung. Für meinen Urlaub in Frankreich",
     "desc": "\"Ich brauche neue Kleidung\": This translates to \"I need new clothing\" in a more general sense. It refers to a broad spectrum of clothing items, encompassing various types like shirts, pants, dresses, etc.\n\n\"Ich brauche neue Kleider\": This translates to \"I need new dresses\" in a more specific sense. Here, \"Kleider\" refers specifically to dresses or gowns.",
+    "groupCode": 1
+  },
+  {
+    "id": 10306,
+    "en": "Do you want to eat noodles for dinner?",
+    "de": "Willst du nudeln zum Abendessen essen?",
+    "groupCode": 1
+  },
+  {
+    "id": 10307,
+    "en": "I can't read your handwriting",
+    "de": "Ich kann deine Handschrift nicht lesen",
+    "groupCode": 1
+  },
+  {
+    "id": 10308,
+    "en": "The coffee shop closes in forty minutes at nine o'clock",
+    "de": "Das Cafe schließt in vierzig Minuten um neun Uhr",
+    "groupCode": 1
+  },
+  {
+    "id": 10309,
+    "en": "Do you meet your friends every weekend?",
+    "de": "Triffst du deine Freunde jedes Wochenende?",
+    "groupCode": 1
+  },
+  {
+    "id": 10310,
+    "en": "Where are you going to on Friday? Where is the concert?",
+    "de": "Wohin gehst du am Freitag? Wo ist das Konzert?",
+    "groupCode": 1
+  },
+  {
+    "id": 10311,
+    "en": "I like eating meat. You must buy schnitzel for me",
+    "de": "Ich esse gern Fleisch. Du musst Schnitzel für mich kaufen",
+    "groupCode": 1
+  },
+  {
+    "id": 10312,
+    "en": "How long does the taxi ride to the hotel last?",
+    "de": "Wie lange dauert die Taxifahrt bis zum Hotel?",
+    "groupCode": 1
+  },
+  {
+    "id": 10313,
+    "en": "How long do I have to go by foot?",
+    "de": "Wie lange muss ich zu Fuß gehen?",
+    "groupCode": 1
+  },
+  {
+    "id": 10314,
+    "en": "I don't want to see this horror movie",
+    "de": "Ich will diesen Horrorfilm nicht sehen",
+    "groupCode": 1
+  },
+  {
+    "id": 10315,
+    "en": "Can we go to the cinema (movie theater)?",
+    "de": "Können wir ins Kino gehen?",
+    "groupCode": 1
+  },
+  {
+    "id": 10316,
+    "en": "I have to wait one hour, but you have to wait two hours",
+    "de": "Ich muss eine Stunden warten, aber ihr müsst zwei Stunden warten",
+    "groupCode": 1
+  },
+  {
+    "id": 10317,
+    "en": "The movie is boring. It takes still an hour. Can we please leave now?",
+    "de": "Der Film ist langweilig. Er dauert noch eine Stunde. Können wir bitte jetzt gehen?",
+    "groupCode": 1
+  },
+  {
+    "id": 10318,
+    "en": "Do you meet us at quarter past eight?",
+    "de": "Triffst du uns um Viertel nach acht?",
+    "groupCode": 1
+  },
+  {
+    "id": 10319,
+    "en": "We don't have any drinks. Ali, can you buy the wine?",
+    "de": "Wir haben keine Getränke. Ali, kannst du den wein kaufen?",
+    "groupCode": 1
+  },
+  {
+    "id": 10320,
+    "en": "Shops (stores) are closed on public holidays",
+    "de": "Die Geschäfte sind am feiertag geschlossen",
+    "groupCode": 1
+  },
+  {
+    "id": 10321,
+    "en": "Can you buy the drinks? We still need beer",
+    "de": "Kannst du die Getränke kaufen? Wir brauchen noch Bier",
+    "groupCode": 1
+  },
+  {
+    "id": 10322,
+    "en": "Who is that? No idea",
+    "de": "Wer ist that? Keine Ahnung",
+    "groupCode": 1
+  },
+  {
+    "id": 10323,
+    "en": "They help the fathers",
+    "de": "Sie helfen den vätern",
+    "groupCode": 1
+  },
+  {
+    "id": 10324,
+    "en": "Write sentences",
+    "de": "Schreiben Sie die Sätze",
+    "groupCode": 1
+  },
+  {
+    "id": 10325,
+    "en": "How do you spell that?",
+    "de": "Wie buchstabiert man das?",
     "groupCode": 1
   }
 ]
