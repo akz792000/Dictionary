@@ -970,7 +970,7 @@
   {
     "id": 3159,
     "fa": "درست (فقط) زمانی که فکر می کنید تمام شده؛ یک مشکل جدید پیش می آید",
-    "en": "Just when you think it’s over; a new problem comes up",
+    "en": "Just when you think it's over; a new problem comes up",
     "groupCode": 0
   },
   {
@@ -1007,7 +1007,7 @@
     "id": 3165,
     "fa": "آن در جیرجیر می کند وقتی که باز می شود. میتونی روغنش بزنی؟",
     "en": "That door creaks when opened. Can you oil it?",
-    "desc": "\"opened\" is used correctly as a past participle that functions similarly to an adjective. You don’t need to include \"it is\" in the sentence.\n\nHere's why:\n\n\"When opened\" means \"when the door is opened.\"",
+    "desc": "\"opened\" is used correctly as a past participle that functions similarly to an adjective. You don't need to include \"it is\" in the sentence.\n\nHere's why:\n\n\"When opened\" means \"when the door is opened.\"",
     "groupCode": 0
   },
   {
@@ -1164,7 +1164,7 @@
     "id": 3191,
     "fa": "منزجر کننده ترین چیزی که تو دیدی کسی بدون شرم انجام دهد چیست؟",
     "en": "What is the most disgusting thing you've seen someone do with no shame?",
-    "desc": "In your sentence, \"What is the most disgusting thing you've seen someone do with no shame?\", the structure involves:\n\n\"You've seen\": This part uses the present perfect tense and refers to a past action (seeing something happen).\n\n\"Someone do\": After verbs like \"seen,\" \"heard,\" or \"watched,\" we use the base form of the verb (do) rather than its past tense (did).\n\nBreakdown:\n\"Seen\" (past participle) is already in the past tense.\nAfter \"seen,\" you use the base form of the verb \"do,\" not \"did,\" because \"seen\" is followed by the base form of the verb.\nExample Comparisons:\nCorrect: \"I've seen someone do something\" (Base form \"do\" after \"seen\").\nIncorrect: \"I've seen someone did something\" (Using \"did\" here is incorrect because it’s the past tense form, which doesn’t fit the structure after \"seen\").",
+    "desc": "In your sentence, \"What is the most disgusting thing you've seen someone do with no shame?\", the structure involves:\n\n\"You've seen\": This part uses the present perfect tense and refers to a past action (seeing something happen).\n\n\"Someone do\": After verbs like \"seen,\" \"heard,\" or \"watched,\" we use the base form of the verb (do) rather than its past tense (did).\n\nBreakdown:\n\"Seen\" (past participle) is already in the past tense.\nAfter \"seen,\" you use the base form of the verb \"do,\" not \"did,\" because \"seen\" is followed by the base form of the verb.\nExample Comparisons:\nCorrect: \"I've seen someone do something\" (Base form \"do\" after \"seen\").\nIncorrect: \"I've seen someone did something\" (Using \"did\" here is incorrect because it's the past tense form, which doesn't fit the structure after \"seen\").",
     "groupCode": 0
   },
   {
@@ -1243,7 +1243,7 @@
     "id": 3204,
     "fa": "تنها قسمتی از توضیحات که باقی می ماند قسمت آخر است",
     "en": "The only part of the description that remains is the last one",
-    "desc": "A restrictive clause gives essential information needed to understand the sentence. It tells you which specific person or thing you're talking about.\n\nUse \"that\" for restrictive clauses. Example: \"The car that is red is mine.\" (The clause \"that is red\" tells you which car.)\nA non-restrictive clause adds extra information that isn’t essential to understand the sentence.\n\nUse \"which\" for non-restrictive clauses. Example: \"The car, which is red, is mine.\" (The color is just extra info here.)\nIn your sentence, \"that remains\" is essential, so we use \"that\" instead of \"which.\"",
+    "desc": "A restrictive clause gives essential information needed to understand the sentence. It tells you which specific person or thing you're talking about.\n\nUse \"that\" for restrictive clauses. Example: \"The car that is red is mine.\" (The clause \"that is red\" tells you which car.)\nA non-restrictive clause adds extra information that isn't essential to understand the sentence.\n\nUse \"which\" for non-restrictive clauses. Example: \"The car, which is red, is mine.\" (The color is just extra info here.)\nIn your sentence, \"that remains\" is essential, so we use \"that\" instead of \"which.\"",
     "groupCode": 0
   },
   {
@@ -1397,7 +1397,7 @@
     "id": 3229,
     "fa": "آیا تا به حال (تاکید) شاهد بوده ای یک زندگی ویران شده با یک اشتباه کوچک؟",
     "en": "Have you ever witnessed a life ruined by a small mistake?",
-    "desc": "Let's break it down:\n\nFull version: \"Have you ever witnessed a life that was ruined from a small mistake?\"\nThis is a full passive sentence with \"was.\"\nReduced version: \"Have you ever witnessed a life ruined from a small mistake?\"\nHere, \"that was\" is omitted (which is common in English), and \"ruined\" works as part of a reduced clause.\nSo, even though it's passive, you don’t need \"was\" because it's implied and reduced.",
+    "desc": "Let's break it down:\n\nFull version: \"Have you ever witnessed a life that was ruined from a small mistake?\"\nThis is a full passive sentence with \"was.\"\nReduced version: \"Have you ever witnessed a life ruined from a small mistake?\"\nHere, \"that was\" is omitted (which is common in English), and \"ruined\" works as part of a reduced clause.\nSo, even though it's passive, you don't need \"was\" because it's implied and reduced.",
     "groupCode": 0
   },
   {
@@ -1704,7 +1704,7 @@
     "fa": " تحویل (کالای) شما خواهد رسید در سایت ساخت در ۲۴ ساعت بعدی",
     "en": "Your delivery will arrive at the construction site within the next 24 hours",
     "groupCode": 0,
-    "desc": "The verb \"arrive\" doesn’t always imply that something moves on its own. It’s often used to describe when an object reaches a destination, regardless of who or what is physically transporting it.\n\nIn this case, \"Your delivery will arrive\" means that the delivery is expected to reach the site. The sentence focuses on the final result—the delivery being at the construction site—not on who or what actually brings it there.\n\nIf you prefer to emphasize the fact that it’s being brought by someone, you could rephrase it:\n\n\"Your delivery will be delivered to the construction site.\""
+    "desc": "The verb \"arrive\" doesn't always imply that something moves on its own. It's often used to describe when an object reaches a destination, regardless of who or what is physically transporting it.\n\nIn this case, \"Your delivery will arrive\" means that the delivery is expected to reach the site. The sentence focuses on the final result—the delivery being at the construction site—not on who or what actually brings it there.\n\nIf you prefer to emphasize the fact that it's being brought by someone, you could rephrase it:\n\n\"Your delivery will be delivered to the construction site.\""
   },
   {
     "id": 3280,
@@ -1786,7 +1786,7 @@
   },
   {
     "id": 3293,
-    "fa": "در زمان استراحتم، به بعضی مطالعات (خواندنی) رسیدگی کردم",
+    "fa": "در طول زمان استراحتم، به بعضی مطالعات (خواندنی) رسیدگی کردم",
     "en": "During my downtime, I caught up on some reading",
     "groupCode": 0
   },
@@ -2797,7 +2797,7 @@
   },
   {
     "id": 3458,
-    "fa": "من دوست ندارم که تعهد آنها فقط در طی ساعات کار طول بکشد",
+    "fa": "من دوست ندارم که تعهد آنها فقط در طول ساعات کار طول بکشد",
     "en": "I don't like that their commitment only lasts during work hours",
     "groupCode": 0
   },
@@ -2867,7 +2867,7 @@
     "id": 3469,
     "fa": "او (مرد) هرگز خانواده خود را (فرضی) رها نمی کرد, صرف نظر از شرایط",
     "en": "He would never forsake his family, no matter the circumstances",
-    "desc": "Forsake: Often implies a conscious decision to leave something once valued, with a sense of loyalty or commitment being broken. It’s commonly used in more emotional or serious contexts. \n\nAbandon: Typically means leaving something or someone without intent to return, often suddenly or irresponsibly. It’s used in both neutral and emotional contexts.\n\nExample: \"They had to abandon the project due to lack of funds.\"",
+    "desc": "Forsake: Often implies a conscious decision to leave something once valued, with a sense of loyalty or commitment being broken. It's commonly used in more emotional or serious contexts. \n\nAbandon: Typically means leaving something or someone without intent to return, often suddenly or irresponsibly. It's used in both neutral and emotional contexts.\n\nExample: \"They had to abandon the project due to lack of funds.\"",
     "groupCode": 0
   },
   {
@@ -3074,7 +3074,7 @@
     "id": 3503,
     "fa": "تیم پیروزی خود را جشن می گیرد",
     "en": "The team celebrates their victory",
-    "desc": "In English, it’s common to use \"their\" as a gender-neutral singular pronoun to refer to a collective noun like \"team.\" While \"team\" is singular, it represents a group of individuals, so \"their\" is used to indicate possession collectively.",
+    "desc": "In English, it's common to use \"their\" as a gender-neutral singular pronoun to refer to a collective noun like \"team.\" While \"team\" is singular, it represents a group of individuals, so \"their\" is used to indicate possession collectively.",
     "groupCode": 0
   },
   {
@@ -3118,6 +3118,67 @@
     "fa": "در واقع, من دیروز دیدمش (زن)",
     "en": "As a matter of fact, I did see her yesterday",
     "desc": "Correct: \"As a matter of fact, I do have experience in that field.\"\nIncorrect: \"As a matter of the fact, I do have experience in that field.\"",
+    "groupCode": 0
+  },
+  {
+    "id": 3511,
+    "fa": "فردا چه زمانی باید عازم فرودگاه شویم؟",
+    "en": "What time do we have to set off for the airport tomorrow?",
+    "groupCode": 0
+  },
+  {
+    "id": 3512,
+    "fa": "آژیر به اشتباه زده شد",
+    "en": "The alarm was set off by mistake",
+    "groupCode": 0
+  },
+  {
+    "id": 3513,
+    "fa": "من رد کردم عقب نشینی کردن را در طول بحث",
+    "en": "I refused to back down during the argument",
+    "groupCode": 0
+  },
+  {
+    "id": 3514,
+    "fa": "زیباترین لحظه تاریخ است لحظه سقوط یک دیکتاتور",
+    "en": "The most beautiful moment in history is the moment a dictator falls",
+    "groupCode": 0
+  },
+  {
+    "id": 3515,
+    "fa": "یه نفر (الان) کیفم رو دزدید",
+    "en": "Someone just stole my purse",
+    "groupCode": 0
+  },
+  {
+    "id": 3516,
+    "fa": "صدای من را می شنوی؟ آیا صدای من واضح است؟",
+    "en": "Can you hear me? Is my voice clear?",
+    "groupCode": 0
+  },
+  {
+    "id": 3517,
+    "fa": "آیا تا به حال احساس گم شدن کردی وقتی همکارانتان شروع به صحبت انگلیسی با یکدیگر؟",
+    "en": "Do you ever feel lost when your colleagues start speaking English to each other?",
+    "desc": "Did you ever feel – این جمله به یک زمان مشخص در گذشته اشاره دارد. مثل اینکه بپرسیم «آیا در دوران خاصی این حس رو داشتی؟»\n\nDo you ever feel – این حالت به چیزی اشاره دارد که ممکن است همیشه یا به صورت مرتب اتفاق بیفتد، به\u200Cویژه در زمان حال. یعنی «آیا الآن هم گاهی این حس رو داری؟»\n\nHave you ever felt – این جمله به تجربه\u200Cای کلی اشاره دارد که از گذشته تا حالا شاید یک بار اتفاق افتاده باشد. مثل اینکه بپرسیم «تا حالا هیچ وقت این حس رو داشتی؟»\n\nSo:\n\nDid = تجربه\u200Cای در گذشته مشخص\nDo = تجربه\u200Cای جاری و مرتب\nHave = تجربه\u200Cای کلی تا به حال",
+    "groupCode": 0
+  },
+  {
+    "id": 3518,
+    "fa": "آیا یک هزینه اضافی برای تخت اضافی وجود دارد؟",
+    "en": "Is there an additional charge for the extra bed?",
+    "groupCode": 0
+  },
+  {
+    "id": 3519,
+    "fa": "سلام، من علاقه مند به رزرو یک اتاق در هتل شما هستم. من در آگهی دیدم که اتاق برای دو بزرگسال و یک کودک مناسب است",
+    "en": "Hello, I'm interested in booking a room at your hotel. I saw in the advertisement that the room is suitable for two adults and one child",
+    "groupCode": 0
+  },
+  {
+    "id": 3520,
+    "fa": "من متوجه شدم که فقط یک تخت دو نفره دارد. می توانید به من اطلاع دهید آیا راحت است (فرضی) این تخت برای دو بزرگسال و یک کودک یا آیا امکان دارد  ترتیب داد یک تخت اضافی برای کودک؟",
+    "en": "I noticed that it only has one double bed. Could you let me know if this bed would be comfortable for two adults and a child, or if it's possible to arrange an extra bed for the child?",
     "groupCode": 0
   }
 ]
