@@ -1338,7 +1338,7 @@
   },
   {
     "id": 10222,
-    "en": "How long is the horror movie?",
+    "en": "How long does the horror movie take?",
     "de": "Wie lange dauert der Horrorfilm?",
     "groupCode": 1
   },
@@ -1380,8 +1380,8 @@
   },
   {
     "id": 10229,
-    "en": "Today is a holiday",
-    "de": "Heute ist ein Feiertag",
+    "en": "Today is a holiday (celebration day). I am not going to the office. My family and I want to grill",
+    "de": "Heute ist ein feiertag. Ich gehe nicht ins Büro. Meine Familie und ich wollen grillen",
     "groupCode": 1
   },
   {
@@ -1572,7 +1572,7 @@
   },
   {
     "id": 10261,
-    "en": "Today is a holiday, are the shops (stores) open?",
+    "en": "Today is a holiday (celebration day), are the shops (stores) open?",
     "de": "Heute ist ein Feiertag, sind die Geschäfte geöffnet?",
     "groupCode": 1
   },
@@ -1662,7 +1662,7 @@
   },
   {
     "id": 10276,
-    "en": "It's finally the end of the workday! Let's order a pizza",
+    "en": "It's finally the end of the workday (celebration evening)! Let's order a pizza",
     "de": "Es ist endlich Feierabend! Lass uns eine Pizza bestellen",
     "groupCode": 1
   },
@@ -1911,7 +1911,7 @@
   },
   {
     "id": 10317,
-    "en": "The movie is boring. It takes still an hour. Can we please leave now?",
+    "en": "The movie is boring. It takes still an hour. Can we please go now?",
     "de": "Der Film ist langweilig. Er dauert noch eine Stunde. Können wir bitte jetzt gehen?",
     "groupCode": 1
   },
@@ -1929,7 +1929,7 @@
   },
   {
     "id": 10320,
-    "en": "Shops (stores) are closed on public holidays",
+    "en": "Shops (stores) are closed on holiday (celebration day)",
     "de": "Die Geschäfte sind am feiertag geschlossen",
     "groupCode": 1
   },
@@ -1961,6 +1961,126 @@
     "id": 10325,
     "en": "How do you spell that?",
     "de": "Wie buchstabiert man das?",
+    "groupCode": 1
+  },
+  {
+    "id": 10326,
+    "en": "Which T-shirt would you like to pack?",
+    "de": "Welches T-Shirt möchtest du einpacken?",
+    "groupCode": 1
+  },
+  {
+    "id": 10327,
+    "en": "Do the people speak German in Austria?",
+    "de": "Sprechen die Leute in Österreich Deutsch?",
+    "groupCode": 1
+  },
+  {
+    "id": 10328,
+    "en": "I have to wash my clothes again",
+    "de": "Ich muss meine Kleidung wieder waschen",
+    "groupCode": 1
+  },
+  {
+    "id": 10329,
+    "en": "Our grandparents have too many books",
+    "de": "Unsere Großeltern haben zu viele Bücher",
+    "groupCode": 1
+  },
+  {
+    "id": 10330,
+    "en": "Can you maybe visit your grandpa",
+    "de": "Kannst du vielleicht deinen Opa besuchen",
+    "groupCode": 1
+  },
+  {
+    "id": 10331,
+    "en": "Our grandparents have too many books",
+    "de": "Unsere großeltern haben zu viele Bücher",
+    "groupCode": 1
+  },
+  {
+    "id": 10332,
+    "en": "My dog doesn't eat his salad",
+    "de": "Mein Hund isst seinen Salat nicht",
+    "groupCode": 1
+  },
+  {
+    "id": 10333,
+    "en": "He is meeting his friends in one hour",
+    "de": "Er trifft seine Freunde in einer Stunde",
+    "groupCode": 1
+  },
+  {
+    "id": 10334,
+    "en": "He can maybe visit us in February",
+    "de": "Er kann uns vielleicht im Februar besuchen",
+    "groupCode": 1
+  },
+  {
+    "id": 10335,
+    "en": "No, the shoes are not comfortable. They are new",
+    "de": "Nein, die Schuhe sind nicht bequem. Sie sind neu",
+    "groupCode": 1
+  },
+  {
+    "id": 10336,
+    "en": "Do you still need to wash these socks",
+    "de": "Musst du diese Socken noch waschen",
+    "groupCode": 1
+  },
+  {
+    "id": 10337,
+    "en": "Her friends are her family",
+    "de": "Ihre Freunde sind ihre Familie",
+    "groupCode": 1
+  },
+  {
+    "id": 10338,
+    "en": "It's too late. The stores/shops are already closed",
+    "de": "Es ist zu spät. Die Geschäfte sind schon geschlossen",
+    "groupCode": 1
+  },
+  {
+    "id": 10339,
+    "en": "My family and I celebrate the holiday (celebration day) in the park",
+    "de": "Meine Familie und ich feiern den feiertag im Park",
+    "groupCode": 1
+  },
+  {
+    "id": 10340,
+    "en": "The drinks are not for children",
+    "de": "Die Getränke sind nicht für Kinder",
+    "groupCode": 1
+  },
+  {
+    "id": 10341,
+    "en": "I have to do homework",
+    "de": "Ich muss Hausaufgaben machen",
+    "groupCode": 1
+  },
+  {
+    "id": 10342,
+    "en": "My son visits his grandparents every August",
+    "de": "Mein Sohn besucht seine Großeltern jeden August",
+    "groupCode": 1
+  },
+  {
+    "id": 10343,
+    "en": "I visit my grandmother every February",
+    "de": "Ich besuche jeden Februar meine großmutter",
+    "groupCode": 1
+  },
+  {
+    "id": 10344,
+    "en": "My relatives are coming next week. We visit them next May",
+    "de": "Meine Verwandten kommen nächste Woche. Wir besuchen sie nächsten Mai",
+    "groupCode": 1
+  },
+  {
+    "id": 10345,
+    "en": "My family goes camping together every year",
+    "de": "Meine Familie geht jedes Jahr zusammen campen",
     "groupCode": 1
   }
 ]

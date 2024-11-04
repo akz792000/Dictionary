@@ -2866,7 +2866,7 @@
   {
     "id": 3469,
     "fa": "او (مرد) هرگز خانواده خود را (فرضی) رها نمی کرد, صرف نظر از شرایط",
-    "en": "He would never forsake his family, no matter the circumstances",
+    "en": "He would never forsake/abandon his family, no matter the circumstances",
     "desc": "Forsake: Often implies a conscious decision to leave something once valued, with a sense of loyalty or commitment being broken. It's commonly used in more emotional or serious contexts. \n\nAbandon: Typically means leaving something or someone without intent to return, often suddenly or irresponsibly. It's used in both neutral and emotional contexts.\n\nExample: \"They had to abandon the project due to lack of funds.\"",
     "groupCode": 0
   },
@@ -3146,7 +3146,7 @@
   },
   {
     "id": 3515,
-    "fa": "یه نفر (الان) کیفم رو دزدید",
+    "fa": "یه نفر (الان) کیفم (زنانه) رو دزدید",
     "en": "Someone just stole my purse",
     "groupCode": 0
   },
@@ -3165,7 +3165,7 @@
   },
   {
     "id": 3518,
-    "fa": "آیا یک هزینه اضافی برای تخت اضافی وجود دارد؟",
+    "fa": "آیا یک شارژ اضافی برای تخت اضافه وجود دارد؟",
     "en": "Is there an additional charge for the extra bed?",
     "groupCode": 0
   },
@@ -3177,8 +3177,20 @@
   },
   {
     "id": 3520,
-    "fa": "من متوجه شدم که فقط یک تخت دو نفره دارد. می توانید به من اطلاع دهید آیا راحت است (فرضی) این تخت برای دو بزرگسال و یک کودک یا آیا امکان دارد  ترتیب داد یک تخت اضافی برای کودک؟",
+    "fa": "من متوجه شدم که فقط یک تخت دو نفره دارد. می توانید (فرضی) به من اطلاع دهید آیا این تخت راحت است (فرضی) برای دو بزرگسال و یک کودک یا آیا امکان دارد یک تخت اضافی برای کودک  ترتیب داد؟",
     "en": "I noticed that it only has one double bed. Could you let me know if this bed would be comfortable for two adults and a child, or if it's possible to arrange an extra bed for the child?",
+    "groupCode": 0
+  },
+  {
+    "id": 3521,
+    "fa": "ول کن تمام امبد را و متکی فقط به خودت باش",
+    "en": "Let go of all hope and rely only on yourself",
+    "groupCode": 0
+  },
+  {
+    "id": 3522,
+    "fa": "اگر من طوری که تو بزرگ شده بودی، تو را زنده می خوردم, گوشت و استخوان",
+    "en": "If I had grown up the way you did, I would eat you alive, flesh and bone",
     "groupCode": 0
   }
 ]

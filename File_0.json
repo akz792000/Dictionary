@@ -4575,7 +4575,7 @@
   {
     "id": 755,
     "fa": "داری قطع و وصل میشی",
-    "en": "You're breaking up",
+    "en": "You're breaking up / dropping out",
     "groupCode": 0
   },
   {
@@ -17153,7 +17153,7 @@
   {
     "id": 2827,
     "fa": "تو واقعا داری قطع و وصل میشی، من فکر کنم باتریم می بایستی کم باشه",
-    "en": "You're really dropping out, I think my battery must be low",
+    "en": "You're really dropping out / breaking up, I think my battery must be low",
     "desc": "likely refers to the phone call's poor connection. The phrase suggests that the person's voice is cutting out or the call is dropping, making it hard to hear what they're saying",
     "groupCode": 0
   },
