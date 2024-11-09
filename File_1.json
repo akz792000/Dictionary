@@ -2716,7 +2716,7 @@
   },
   {
     "id": 3445,
-    "fa": "من تا داشتم محل کار را ترک می کردم که (وقتی که) تو زنگ زدی",
+    "fa": "من تا داشتم کار را ترک می کردم که (وقتی که) تو زنگ زدی",
     "en": "I was just about to leave work when you called",
     "desc": "I was just about to leave: Implies that you were on the verge of leaving at that exact moment but hadn't left yet. It suggests immediate intent or action that was about to happen.\n\n I wanted to leave: Expresses a desire or intention to leave, but doesn't necessarily imply that you were close to doing so. It reflects a wish or plan to leave, which may or may not have been acted upon.",
     "groupCode": 0
@@ -2920,7 +2920,7 @@
   },
   {
     "id": 3478,
-    "fa": "دست کم نگیر چقدر تلاش این پروژه نیاز خواهد برد",
+    "fa": "دست کم نگیر چقدر تلاش این پروژه خواهد برد",
     "en": "Don't underestimate how much effort this project will take",
     "groupCode": 0
   },
@@ -3042,7 +3042,7 @@
   },
   {
     "id": 3498,
-    "fa": "بیا، ما (قصد) داره دیرمون می شه الان",
+    "fa": "بیا (سریع باش)، ما (قصد) داره دیرمون می شه الان",
     "en": "Come on, We're gonna be late now",
     "groupCode": 0
   },
@@ -3152,8 +3152,8 @@
   },
   {
     "id": 3516,
-    "fa": "صدای من را می شنوی؟ آیا صدای من واضح است؟",
-    "en": "Can you hear me? Is my voice clear?",
+    "fa": "دوست من در پنجاه سالگیش است",
+    "en": "My friend is in his fifties",
     "groupCode": 0
   },
   {
@@ -3183,7 +3183,7 @@
   },
   {
     "id": 3521,
-    "fa": "ول کن تمام امبد را و متکی فقط به خودت باش",
+    "fa": "ول کن تمام امید را و متکی فقط به خودت باش",
     "en": "Let go of all hope and rely only on yourself",
     "groupCode": 0
   },
@@ -3191,6 +3191,54 @@
     "id": 3522,
     "fa": "اگر من طوری که تو بزرگ شده بودی، تو را زنده می خوردم, گوشت و استخوان",
     "en": "If I had grown up the way you did, I would eat you alive, flesh and bone",
+    "groupCode": 0
+  },
+  {
+    "id": 3523,
+    "fa": "من برای دویدن می روم یک روز در میان نه دو روز در میان",
+    "en": "I go for a run every other day not every third day",
+    "groupCode": 0
+  },
+  {
+    "id": 3524,
+    "fa": "مراقب رفتارت باش",
+    "en": "Mind your manners",
+    "groupCode": 0
+  },
+  {
+    "id": 3525,
+    "fa": "وقتی من دیدم منظره را از قله کوه، کلمات مرا ناکام گذاشتند (زبونم بند اومد)",
+    "en": "When I saw the view from the mountaintop, words failed me",
+    "groupCode": 0
+  },
+  {
+    "id": 3526,
+    "fa": "نگران نباشید، استراحت کن و استرس نداشته باشید",
+    "en": "No worries, relax, and don't stress",
+    "groupCode": 0
+  },
+  {
+    "id": 3527,
+    "fa": "او (مرد) دچار اختلال روانی شد و او (زن) اینگونه به دنیا آمد",
+    "en": "He became mentally impaired, and she was born that way",
+    "groupCode": 0
+  },
+  {
+    "id": 3528,
+    "fa": "میشه لطفا تکرارش کنید؟",
+    "en": "Can you please repeat that?",
+    "groupCode": 0
+  },
+  {
+    "id": 3529,
+    "fa": "چگونه می توانم به آنجا برسم؟",
+    "en": "How can I get there?",
+    "groupCode": 0
+  },
+  {
+    "id": 3530,
+    "fa": "این سخت نیست, این آسان است",
+    "en": "It's not rocket science; it's a piece of cake",
     "groupCode": 0
   }
 ]

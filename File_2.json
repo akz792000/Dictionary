@@ -799,7 +799,7 @@
   },
   {
     "id": 10133,
-    "en": "What do you like to eat? I like eating everything",
+    "en": "What do you like eating? I like eating everything",
     "de": "Was isst du gern? Ich esse gern alles",
     "groupCode": 1
   },
@@ -1942,7 +1942,7 @@
   {
     "id": 10322,
     "en": "Who is that? No idea",
-    "de": "Wer ist that? Keine Ahnung",
+    "de": "Wer ist das? Keine Ahnung",
     "groupCode": 1
   },
   {
@@ -2081,6 +2081,12 @@
     "id": 10345,
     "en": "My family goes camping together every year",
     "de": "Meine Familie geht jedes Jahr zusammen campen",
+    "groupCode": 1
+  },
+  {
+    "id": ,
+    "en": "",
+    "de": "Herzliche Grüße und ein schönes Wochenende",
     "groupCode": 1
   }
 ]
