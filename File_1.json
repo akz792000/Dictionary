@@ -2841,13 +2841,13 @@
   },
   {
     "id": 3465,
-    "fa": "این خط تنظیم میکند یک قانون دید پیشفرض را تا همه ویژگیها به طور پیشفرض نامرئی بسازد",
+    "fa": "این خط تنظیم میکند یک قانون دید پیشفرض را تا همه ویژگیها نامرئی بسازد به طور پیشفرض",
     "en": "This line sets a default visibility rule to make all properties invisible by default",
     "groupCode": 0
   },
   {
     "id": 3466,
-    "fa": "این خط لغو می کند دید پیش فرض را فقط برای فیلدها, واجد شرایط می کند همه فیلدها را برای سریال سازی و سریال زدایی JSON",
+    "fa": "این خط لغو می کند دید پیش فرض را برای فیلدها فقط, میسازد همه فیلدها را واجد شرایط برای JSON سریال سازی و سریال زدایی",
     "en": "This line overrides the default visibility for fields only, making all fields eligible for JSON serialization and deserialization",
     "groupCode": 0
   },
@@ -2884,7 +2884,7 @@
   },
   {
     "id": 3472,
-    "fa": "چه فرصت هایی برای رشد و پیشرفت وجود دارد؟",
+    "fa": "چه فرصت هایی هستند برای رشد و پیشرفت؟",
     "en": "What opportunities are there for growth and advancement?",
     "groupCode": 0
   },
@@ -3023,7 +3023,7 @@
   },
   {
     "id": 3495,
-    "fa": "این یک عقب نشینی است اما نه یک شکست",
+    "fa": "این یک پس رفت است اما نه یک شکست",
     "en": "This is a setback but not a failure",
     "groupCode": 0
   },
@@ -3060,7 +3060,7 @@
   },
   {
     "id": 3501,
-    "fa": "ترافیک حداقل ما را برای یک ساعت نگه خواهد داشت",
+    "fa": "ترافیک نگه خواهد داشت ما را برای حداقل یک ساعت",
     "en": "The traffic jam will hold us up for at least an hour",
     "groupCode": 0
   },
@@ -3079,8 +3079,9 @@
   },
   {
     "id": 3504,
-    "fa": "این تیم مصمم بود در بازی قهرمانی رقبای خود را شکست دهد (به پایین کشیدن)",
+    "fa": "این تیم مصمم بود رقبای خود را شکست دهد (به پایین کشیدن) در بازی قهرمانی  ",
     "en": "The team was determined to take down their rivals in the championship game",
+    "desc": "\nIn English, when referring to a group (like \"team\"), we often use \"their\" instead of \"its\" because the group consists of multiple people. So, \"their\" shows possession for the people in the team. In this case, \"their rivals\" means the rivals of the team.",
     "groupCode": 0
   },
   {
@@ -3152,7 +3153,7 @@
   },
   {
     "id": 3516,
-    "fa": "دوست من در پنجاه سالگیش است",
+    "fa": "دوست من در پنجاه سالگیش (مرد) است",
     "en": "My friend is in his fifties",
     "groupCode": 0
   },
@@ -3213,8 +3214,8 @@
   },
   {
     "id": 3526,
-    "fa": "نگران نباشید، استراحت کن و استرس نداشته باشید",
-    "en": "No worries, relax, and don't stress",
+    "fa": "نگران نباش، فقط ریلکس (باش) و استرس نداشته باش",
+    "en": "Don't worry, just relax, and don't stress",
     "groupCode": 0
   },
   {
@@ -3225,7 +3226,7 @@
   },
   {
     "id": 3528,
-    "fa": "میشه لطفا تکرارش کنید؟",
+    "fa": "میتونی لطفا اونو تکرار کنی؟",
     "en": "Can you please repeat that?",
     "groupCode": 0
   },
@@ -3239,6 +3240,66 @@
     "id": 3530,
     "fa": "این سخت نیست, این آسان است",
     "en": "It's not rocket science; it's a piece of cake",
+    "groupCode": 0
+  },
+  {
+    "id": 3531,
+    "fa": "من از یک قابلمه برای جوشاندن پاستا و از یک ماهی تابه برای درست کردن سس استفاده می کنم",
+    "en": "I use a pot to boil the pasta and a saucepan to make the sauce",
+    "groupCode": 0
+  },
+  {
+    "id": 3532,
+    "fa": "رتیل به آرامی روی زمین خزید",
+    "en": "The tarantula crawled slowly on the ground",
+    "groupCode": 0
+  },
+  {
+    "id": 3533,
+    "fa": "من یک بشقاب از پیراشکی ها سفارش دادم",
+    "en": "I ordered a plate of dumplings",
+    "groupCode": 0
+  },
+  {
+    "id": 3534,
+    "fa": "من کلم ترش را برای طعم بیشتر به غذام اضافه کردم",
+    "en": "I added sauerkraut to my food for extra flavor",
+    "groupCode": 0
+  },
+  {
+    "id": 3535,
+    "fa": "شما در نیمه راه رسیدن (نگه داشتن) هدف خود هستید",
+    "en": "You are halfway to keeping your goal",
+    "groupCode": 0
+  },
+  {
+    "id": 3536,
+    "fa": "تیم متحمل یک پس رفت عمده (بزرگ) شد وقتی بهترین بازیکن تیم مجروح شد",
+    "en": "The team suffered a major setback when their best player was injured",
+    "groupCode": 0
+  },
+  {
+    "id": 3537,
+    "fa": "من اجازه جواب دادن به آن را ندارم",
+    "en": "I'm not allowed to answer that",
+    "groupCode": 0
+  },
+  {
+    "id": 3538,
+    "fa": "من فکر می کنم من آماده ام",
+    "en": "I think I'm prepared",
+    "groupCode": 0
+  },
+  {
+    "id": 3539,
+    "fa": "من قادر نخواهم بود حضور داشته باشم در جلسه یکپارچه سازی (رترو) به خاطر یک جلسه داخلی اتفاق می افتد در همان زمان",
+    "en": "I won't be able to attend the retro meeting due to an internal meeting happening at the same time",
+    "groupCode": 0
+  },
+  {
+    "id": 3540,
+    "fa": "من می خواهم استعفا بدهم از شغل فعلی ام چون من پیشنهاد شغلی بهتری گرفتم",
+    "en": "I want to resign from my current job because I got a better job offer",
     "groupCode": 0
   }
 ]
