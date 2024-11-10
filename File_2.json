@@ -1368,7 +1368,7 @@
   },
   {
     "id": 10227,
-    "en": "The film is boring. I don't want to stay in the cinema (movie theater) for three hours",
+    "en": "The film is boring. I don't want to stay in the cinema for three hours",
     "de": "Der Film ist langweilig. Ich will nicht drei Stunden im Kino",
     "groupCode": 1
   },
@@ -1398,7 +1398,7 @@
   },
   {
     "id": 10232,
-    "en": "The Spanish homeworks this week are interesting, do you agree with me??",
+    "en": "The Spanish homeworks this week are interesting, do you agree with me?",
     "de": "Die Spanisch-Hausaufgaben diese Woche sind interessant, stimmst du mir zu?",
     "groupCode": 1
   },
@@ -1899,7 +1899,7 @@
   },
   {
     "id": 10315,
-    "en": "Can we go to the cinema (movie theater)?",
+    "en": "Can we go to the cinema?",
     "de": "Können wir ins Kino gehen?",
     "groupCode": 1
   },
@@ -2084,9 +2084,273 @@
     "groupCode": 1
   },
   {
-    "id": ,
-    "en": "",
+    "id": 10346,
+    "en": "Best regards and have a nice weekend",
     "de": "Herzliche Grüße und ein schönes Wochenende",
+    "groupCode": 1
+  },
+  {
+    "id": 10347,
+    "en": "The room unfortunately doesn't have a window",
+    "de": "Das Zimmer hat leider kein Fenster",
+    "groupCode": 1
+  },
+  {
+    "id": 10348,
+    "en": "Would you like to grill on the holiday (celebration day)?",
+    "de": "Möchtest du am Feiertag grillen?",
+    "groupCode": 1
+  },
+  {
+    "id": 10349,
+    "en": "It ist too dark, I can't find my cell phone",
+    "de": "Es ist zu dunkel, ich kann mein Handy nicht finden",
+    "groupCode": 1
+  },
+  {
+    "id": 10350,
+    "en": "I don't like the bed and bookcase",
+    "de": "Ich mag das Bett und das Bücherregal nicht",
+    "groupCode": 1
+  },
+  {
+    "id": 10351,
+    "en": "I don't like salad. Me neither!",
+    "de": "Ich mag keinen Salad. Ich auch nicht!",
+    "groupCode": 1
+  },
+  {
+    "id": 10352,
+    "en": "I don't like this movie, can we go?",
+    "de": "Ich mag diesen Film nicht, können wir gehen?",
+    "groupCode": 1
+  },
+  {
+    "id": 10353,
+    "en": "I have applied for the job two weeks ago",
+    "de": "Ich habe mich vor zwei Wochen um den Job beworben",
+    "groupCode": 1
+  },
+  {
+    "id": 10354,
+    "en": "I'm playing soccer at one. What are you doing on Sunday?",
+    "de": "Ich spiele um eins Fußball. Was machst du am Sonntag?",
+    "groupCode": 1
+  },
+  {
+    "id": 10355,
+    "en": "My parents go dancing once per week",
+    "de": "Meine Eltern gehen einmal pro Woche tanzen",
+    "groupCode": 1
+  },
+  {
+    "id": 10356,
+    "en": "Do you like doing sports?",
+    "de": "Machst du gern Sport?",
+    "groupCode": 1
+  },
+  {
+    "id": 10357,
+    "en": "We would like to do an excursion this afternoon",
+    "de": "Wir möchten heute Nachmittag einen Ausflug machen",
+    "groupCode": 1
+  },
+  {
+    "id": 10358,
+    "en": "Thanks, but I don't feel like (I don't want to) and I have to work",
+    "de": "Danke, aber ich habe keine Lust und ich muss arbeiten",
+    "groupCode": 1
+  },
+  {
+    "id": 10359,
+    "en": "Do you meet your boyfriend at the cinema every weekend?",
+    "de": "Triffst du deinen Freund jedes Wochenende im Kino?",
+    "groupCode": 1
+  },
+  {
+    "id": 10360,
+    "en": "Why does the film last ten hours?",
+    "de": "Warum dauert der Film zehn Stunden?",
+    "groupCode": 1
+  },
+  {
+    "id": 10361,
+    "en": "The restaurant closes in an hour",
+    "de": "Das Restaurant schließt in einer Stunde",
+    "groupCode": 1
+  },
+  {
+    "id": 10362,
+    "en": "The band plays for an hour",
+    "de": "Die Band spielt eine Stunde",
+    "groupCode": 1
+  },
+  {
+    "id": 10363,
+    "en": "Do you pay separately? No, we want to pay together",
+    "de": "Zahlen Sie getrennt? Nein, Wir möchten zusammen zahlen",
+    "groupCode": 1
+  },
+  {
+    "id": 10364,
+    "en": "It is still early",
+    "de": "Es ist noch früh",
+    "groupCode": 1
+  },
+  {
+    "id": 10365,
+    "en": "The department store is open until seven",
+    "de": "Das Kaufhaus ist bis sieben geöffnet",
+    "groupCode": 1
+  },
+  {
+    "id": 10366,
+    "en": "She eats a roll with ham for lunch",
+    "de": "Sie isst ein Brötchen mit Schinken zum Mittagessen",
+    "groupCode": 1
+  },
+  {
+    "id": 10367,
+    "en": "Wait. Can you take a picture of me here?",
+    "de": "Warten Sie. Können Sie mich hier fotografieren?",
+    "groupCode": 1
+  },
+  {
+    "id": 10368,
+    "en": "I have to wash the socks, they are dirty",
+    "de": "Ich muss die Socken waschen, sie sind schmutzig",
+    "groupCode": 1
+  },
+  {
+    "id": 10369,
+    "en": "I have to pack these socks",
+    "de": "Ich muss dieses Socken einpacken",
+    "groupCode": 1
+  },
+  {
+    "id": 10370,
+    "en": "I want cookies, go to the pastry shop, please",
+    "de": "I will Kekse, geh in die Konditorei, bitte",
+    "groupCode": 1
+  },
+  {
+    "id": 10371,
+    "en": "Buy twenty schnitzels, please",
+    "de": "Kauf zwanzig Stück Schnitzel, bitte",
+    "groupCode": 1
+  },
+  {
+    "id": 10372,
+    "en": "My son drinks apple juice every morning",
+    "de": "Mein Sohn trinkt jeden Morgen Apfelsaft",
+    "groupCode": 1
+  },
+  {
+    "id": 10373,
+    "en": "Can you buy a bottle of wine?",
+    "de": "Kannst du eine Flasche Wein kaufen?",
+    "groupCode": 1
+  },
+  {
+    "id": 10374,
+    "en": "Is there a cake without sugar?",
+    "de": "Gibt es einen Kuchen ohne Zucker?",
+    "groupCode": 1
+  },
+  {
+    "id": 10375,
+    "en": "My baby sleeps a lot, but I sleep only a little",
+    "de": "Mein Baby schläft viel, aber ich schlafe nur wenig",
+    "groupCode": 1
+  },
+  {
+    "id": 10376,
+    "en": "Go to the organic store and buy thirty cucumbers",
+    "de": "Geh in den Bioladen und kauf dreißig Gurken",
+    "groupCode": 1
+  },
+  {
+    "id": 10377,
+    "en": "Your mother is coming, where are the flowers?",
+    "de": "Deine Mutter kommt gleich, wo sind die Blumen?",
+    "groupCode": 1
+  },
+  {
+    "id": 10378,
+    "en": "I want to eat ham, go to the butcher shop",
+    "de": "Ich will Schinken essen, geh in die Metzgerei",
+    "groupCode": 1
+  },
+  {
+    "id": 10379,
+    "en": "Please buy twenty pieces of schnitzel",
+    "de": "Kaufen Sie bitte zwanzig Stücke Schnitzel",
+    "groupCode": 1
+  },
+  {
+    "id": 10380,
+    "en": "The pastry shop is very popular. We always buy apple cacke here",
+    "de": "Die Konditorei ist sehr beliebt. Wir kaufen immer hier Apfelkuchen",
+    "groupCode": 1
+  },
+  {
+    "id": 10381,
+    "en": "Your dog drinks my apple juice",
+    "de": "Dein Hund trinkt meinen Apfelsaft",
+    "groupCode": 1
+  },
+  {
+    "id": 10382,
+    "en": "It's my birthday tomorrow and we're having a party. Go to the supermarket and buy five bottles of white wine",
+    "de": "Ich habe morgen Geburtstag und wir machen eine Party. Geh in den Supermarkt und kauf fünf Flaschen Weißwein",
+    "groupCode": 1
+  },
+  {
+    "id": 10383,
+    "en": "The students have to visit the castle. They are studying history",
+    "de": "Die Studenten müssen das schloss besichtigen. Sie studieren Geschichte",
+    "groupCode": 1
+  },
+  {
+    "id": 10384,
+    "en": "Tourists can't tour the church",
+    "de": "Die Touristen können die Kirche nicht besichtigen",
+    "groupCode": 1
+  },
+  {
+    "id": 10385,
+    "en": "Can tourists take the bus to Frankfurt",
+    "de": "Können die Touristen den Bus nach Frankfurt nehmen",
+    "groupCode": 1
+  },
+  {
+    "id": 10386,
+    "en": "You must visit the castle",
+    "de": "Du musst das Schloss besichtigen",
+    "groupCode": 1
+  },
+  {
+    "id": 10387,
+    "en": "I sleep a lot because I am tired",
+    "de": "Ich schlafe viel, denn ich bin müde",
+    "groupCode": 1
+  },
+  {
+    "id": 10388,
+    "en": "My baby wants to sleep all day",
+    "de": "Mein Baby will den ganzen Tag schlafen",
+    "groupCode": 1
+  },
+  {
+    "id": 10389,
+    "en": "In this area, street shoes are forbidden",
+    "de": "In diesem Bereich sind Straßenschuhe verboten",
+    "groupCode": 1
+  },
+  {
+    "id": 10390,
+    "en": "I want to invite my parents for dinner and we need a dessert. Can you buy bananas and ice cream?",
+    "de": "Ich möchte meine Eltern zum Abendessen einladen und wir brauchen einen Nachtisch. Kannst du Bananen und Eis kaufen?",
     "groupCode": 1
   }
 ]
