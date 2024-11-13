@@ -454,5 +454,17 @@
     "en": "Run",
     "de": "\n lauf \n läufst \n läuft \n laufen \n lauft \n laufen",
     "groupCode": 1
+  },
+  {
+    "id": 20077,
+    "en": "Invite",
+    "de": "\n lade ein \n lädst ein \n lädt ein \n laden ein \n ladet ein \n laden ein",
+    "groupCode": 1
+  },
+  {
+    "id": 20078,
+    "en": "Agree",
+    "de": "\n stimme \n stimmst \n stimmt \n stimmen \n stimmt \n stimmen",
+    "groupCode": 1
   }
 ]

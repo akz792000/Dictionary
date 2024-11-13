@@ -4735,7 +4735,7 @@
   {
     "id": 781,
     "fa": "از همه چیز راضی هستی؟",
-    "en": "Is everything to your satisfaction?",
+    "en": "\n 1.Is everything to your satisfaction? \n Are you satisfied with everything?",
     "groupCode": 0
   },
   {
@@ -5374,7 +5374,7 @@
   },
   {
     "id": 886,
-    "fa": "من دیروز یک ساعت در آسانسور گیر کردم. کاملا خسته کننده بود",
+    "fa": "من دیروز برای یک ساعت در آسانسور گیر کردم. کاملا خسته کننده بود",
     "en": "I got stuck in the elevator for an hour yesterday. It was quite frustrating",
     "groupCode": 0
   },
@@ -5745,7 +5745,7 @@
   },
   {
     "id": 948,
-    "fa": "اون (مرد) بر نمیگرده",
+    "fa": "اون (مرد) (داره) بر نمیگرده",
     "en": "He's not coming back",
     "desc": "\"He's not coming back\" emphasizes the ongoing absence and suggests that the person will not return in the future. \"He does not come back\" indicates a general statement about the person's habit of not returning. The choice between the two phrases depends on the intended context and timeframe of the person's absence.",
     "groupCode": 0
@@ -15662,7 +15662,7 @@
   },
   {
     "id": 2582,
-    "fa": "همه ما آن یک همکار را داریم کسی که کار را 10 برابر خنده دارتر می کند",
+    "fa": "ما همه آن یک همکار را داریم که (کسی) کار را 10 برابر خنده دارتر می کند",
     "en": "We all have that one coworker who makes work 10x funnier",
     "groupCode": 0
   },

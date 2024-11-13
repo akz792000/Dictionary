@@ -1530,7 +1530,7 @@
   },
   {
     "id": 10254,
-    "en": "The police station is in front of the park, next to the street",
+    "en": "The police are in front of the park next to the street",
     "de": "Die Polizei ist vor dem Park neben der Straße",
     "groupCode": 1
   },
@@ -1911,7 +1911,7 @@
   },
   {
     "id": 10317,
-    "en": "The movie is boring. It takes still an hour. Can we please go now?",
+    "en": "The movie is boring. It (he) takes still an hour. Can we please go now?",
     "de": "Der Film ist langweilig. Er dauert noch eine Stunde. Können wir bitte jetzt gehen?",
     "groupCode": 1
   },
@@ -2181,13 +2181,13 @@
   },
   {
     "id": 10362,
-    "en": "The band plays for an hour",
+    "en": "The band plays one hour",
     "de": "Die Band spielt eine Stunde",
     "groupCode": 1
   },
   {
     "id": 10363,
-    "en": "Do you pay separately? No, we want to pay together",
+    "en": "Do you (formal) pay separately? No, we want to pay together",
     "de": "Zahlen Sie getrennt? Nein, Wir möchten zusammen zahlen",
     "groupCode": 1
   },
@@ -2235,7 +2235,7 @@
   },
   {
     "id": 10371,
-    "en": "Buy twenty schnitzels, please",
+    "en": "Buy twenty pieces of schnitzels, please",
     "de": "Kauf zwanzig Stück Schnitzel, bitte",
     "groupCode": 1
   },
@@ -2271,7 +2271,7 @@
   },
   {
     "id": 10377,
-    "en": "Your mother is coming, where are the flowers?",
+    "en": "Your mother is coming soon(shortly), where are the flowers?",
     "de": "Deine Mutter kommt gleich, wo sind die Blumen?",
     "groupCode": 1
   },
@@ -2337,7 +2337,7 @@
   },
   {
     "id": 10388,
-    "en": "My baby wants to sleep all day",
+    "en": "My baby wants to sleep the all day",
     "de": "Mein Baby will den ganzen Tag schlafen",
     "groupCode": 1
   },
@@ -2351,6 +2351,66 @@
     "id": 10390,
     "en": "I want to invite my parents for dinner and we need a dessert. Can you buy bananas and ice cream?",
     "de": "Ich möchte meine Eltern zum Abendessen einladen und wir brauchen einen Nachtisch. Kannst du Bananen und Eis kaufen?",
+    "groupCode": 1
+  },
+  {
+    "id": 10391,
+    "en": "I have to sleep one hour",
+    "de": "Ich muss eine Stunde schlafen",
+    "groupCode": 1
+  },
+  {
+    "id": 10392,
+    "en": "Is your birthday on the first of March?",
+    "de": "Hast du am ersten März Geburtstag?",
+    "groupCode": 1
+  },
+  {
+    "id": 10393,
+    "en": "I can't at five. Do you have time on Saturday?",
+    "de": "Ich kann nicht um fünf. Hast du am Samstag Zeit?",
+    "groupCode": 1
+  },
+  {
+    "id": 10394,
+    "en": "Can you come or do you have to do your homework?",
+    "de": "Kannst du kommen oder musst die hausaufgaben machen?",
+    "groupCode": 1
+  },
+  {
+    "id": 10395,
+    "en": "My aunt's birthday is on Sunday",
+    "de": "Meine Tante hat Geburtstag am Sonntag",
+    "groupCode": 1
+  },
+  {
+    "id": 10396,
+    "en": "My aunt meets her girlfriends on Fridays",
+    "de": "Meine Tante trifft freitags ihre Freundinnen",
+    "groupCode": 1
+  },
+  {
+    "id": 10397,
+    "en": "Why is tomorrow an important day for you?",
+    "de": "Warum ist morgen ein wichtiger Tag für dich?",
+    "groupCode": 1
+  },
+  {
+    "id": 10398,
+    "en": "His girlfriend has a horse, it has its birthday today",
+    "de": "Seine Freundin hat ein Pferd, es hat heute Geburtstag",
+    "groupCode": 1
+  },
+  {
+    "id": 10399,
+    "en": "I am definitely coming to the party",
+    "de": "Ich komme ganz bestimmt zur Party",
+    "groupCode": 1
+  },
+  {
+    "id": 10400,
+    "en": "Is your partner planning a party for you?",
+    "de": "Plant deine Partnerin eine Party für dich?",
     "groupCode": 1
   }
 ]

@@ -679,8 +679,8 @@
   },
   {
     "id": 3112,
-    "fa": "من عاشق خوردن خیار شور هستم با ساندویچم",
-    "en": "I love eating pickle with my sandwich",
+    "fa": "من عاشق خوردن خیار شورها هستم با ساندویچم",
+    "en": "I love eating pickles with my sandwich",
     "desc": "\"pickle\" often refers specifically to pickled cucumber. When talking about pickled versions of other vegetables or fruits, it's more precise to use their specific names, like \"pickled carrot\" or \"pickled pepper,\" to avoid confusio",
     "groupCode": 0
   },
@@ -1987,7 +1987,7 @@
   },
   {
     "id": 3326,
-    "fa": "او (مرد) هم شما را دوست می داشت (داشته بود) اگر او از شما خبر داشته بود",
+    "fa": "او (مرد) همچنین شما را دوست می داشت (داشته بود) اگر او از شما خبر داشته بود",
     "en": "He would have loved you too if he had known about you",
     "groupCode": 0
   },
@@ -2005,7 +2005,7 @@
   },
   {
     "id": 3329,
-    "fa": "گوشم درد میکنه (دردناک است)",
+    "fa": "گوش هایم درد میکنه (دردناک است)",
     "en": "My ears are sore",
     "groupCode": 0
   },
@@ -2440,7 +2440,7 @@
     "id": 3400,
     "fa": "شما خواهید دید که چگونه این دوره راه حل کاملی است برای غلبه (شکستن از میان) کشمکش های زبان انگلیسیتان",
     "en": "You'll see how this course is the perfect solution to breaking through your english language struggles",
-    "desc": "\"Breaking through\" means overcoming or pushing past an obstacle (in this case, english language struggles). It implies not just stopping the struggle but successfully moving beyond it.",
+    "desc": "\"Breaking through\" means overcoming or pushing past an obstacle (in this case, english language struggles). In \"the solution to breaking through your struggles,\" the word \"to\" acts as a preposition, not an infinitive. This is why it’s followed by \"breaking\" (the gerund) rather than \"break.",
     "groupCode": 0
   },
   {
@@ -2843,6 +2843,7 @@
     "id": 3465,
     "fa": "این خط تنظیم میکند یک قانون دید پیشفرض را تا همه ویژگیها نامرئی بسازد به طور پیشفرض",
     "en": "This line sets a default visibility rule to make all properties invisible by default",
+    "desc": "When \"to\" is a preposition (as in \"look forward to,\" \"used to,\" \"committed to\"), it’s followed by a verb in the -ing form.\n\nWhen \"to\" is part of an infinitive (like \"to go,\" \"to see\"), it's followed by the base form of the verb.",
     "groupCode": 0
   },
   {
@@ -2951,7 +2952,7 @@
   },
   {
     "id": 3483,
-    "fa": "چرخ دنده درون ماشین شکسته است, (داره) باعث بدعمل کردن شده",
+    "fa": "چرخ دنده درون ماشین شکسته بود, (داره) باعث بدعمل کردن شده",
     "en": "The cog in the machine was broken, causing it to malfunction",
     "groupCode": 0
   },
@@ -3251,7 +3252,7 @@
   {
     "id": 3532,
     "fa": "رتیل به آرامی روی زمین خزید",
-    "en": "The tarantula crawled slowly on the ground",
+    "en": "The tarantula /təˈrænt͡ʃuːlə/ crawled slowly on the ground",
     "groupCode": 0
   },
   {
@@ -3287,7 +3288,7 @@
   {
     "id": 3538,
     "fa": "من فکر می کنم من آماده ام",
-    "en": "I think I'm prepared",
+    "en": "\n 1.I think I'm prepared \n 2.I think I'm prepared",
     "groupCode": 0
   },
   {
@@ -3300,6 +3301,24 @@
     "id": 3540,
     "fa": "من می خواهم استعفا بدهم از شغل فعلی ام چون من پیشنهاد شغلی بهتری گرفتم",
     "en": "I want to resign from my current job because I got a better job offer",
+    "groupCode": 0
+  },
+  {
+    "id": ,
+    "fa": "وقتی من در ژانویه شروع می کنم، بهتر است شما رفته باشی",
+    "en": "When I start in January, you'd better be gone",
+    "groupCode": 0
+  },
+  {
+    "id": ,
+    "fa": "او (مرد) باید به تنهایی عادت کند",
+    "en": "He has got to be used to being alone",
+    "groupCode": 0
+  },
+  {
+    "id": ,
+    "fa": "",
+    "en": "",
     "groupCode": 0
   }
 ]
