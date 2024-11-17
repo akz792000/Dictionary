@@ -1987,7 +1987,7 @@
   },
   {
     "id": 3326,
-    "fa": "او (مرد) همچنین شما را دوست می داشت (داشته بود) اگر او از شما خبر داشته بود",
+    "fa": "او (مرد) شما را دوست می داشت همچنین (داشته بود) اگر او از شما خبر داشته بود",
     "en": "He would have loved you too if he had known about you",
     "groupCode": 0
   },
@@ -2432,7 +2432,7 @@
   },
   {
     "id": 3399,
-    "fa": "من بیشتر از این نمی توانستم مغرور باشم",
+    "fa": "من نمی توانستم بیشتر از (این) مغرور باشم",
     "en": "I could not be more proud",
     "groupCode": 0
   },
@@ -2829,8 +2829,8 @@
   },
   {
     "id": 3463,
-    "fa": "من در سمت راست زیر دنده هایم درد دارم",
-    "en": "I have pain on the right side below my ribs",
+    "fa": "او (مرد) در سمت راست زیر دنده هایم درد دارم",
+    "en": "He has pain on the right side below my ribs",
     "groupCode": 0
   },
   {
@@ -2885,7 +2885,7 @@
   },
   {
     "id": 3472,
-    "fa": "چه فرصت هایی هستند برای رشد و پیشرفت؟",
+    "fa": "چه فرصت هایی وجود دارند برای رشد و پیشرفت؟",
     "en": "What opportunities are there for growth and advancement?",
     "groupCode": 0
   },
@@ -3313,6 +3313,56 @@
     "id": 3542,
     "fa": "او (مرد) باید به تنهایی عادت کند",
     "en": "He has got to be used to being alone",
+    "groupCode": 0
+  },
+  {
+    "id": 3543,
+    "fa": "من میتونم محو شدنت رو حس کنم",
+    "en": "I can feel you fade away",
+    "groupCode": 0
+  },
+  {
+    "id": 3544,
+    "fa": "قدم هایت مرا بیدار نگه می دارد",
+    "en": "Your steps keep me awake",
+    "groupCode": 0
+  },
+  {
+    "id": 3545,
+    "fa": "با تشکر از شما برای فرصت شگفت انگیز؛ در حالی که من دارم نمی گردم برای ایجاد یک تغییر در حال حاضر، من مایلم در ارتباط بمانم برای همکاری های احتمالی آینده",
+    "en": "Thank you for the amazing opportunity; while I'm not looking to make a change at the moment, I'd like to stay connected for potential future collaborations",
+    "groupCode": 0
+  },
+  {
+    "id": 3546,
+    "fa": "یک سازمان مقاومت است",
+    "en": "It is a resistance organization",
+    "groupCode": 0
+  },
+  {
+    "id": 3547,
+    "fa": "خرابی (شکست) یک قسمت باعث ایجاد یک فرو ریختنی از مسائل در سراسر سیستم شد",
+    "en": "The failure of one part caused a cascade of issues throughout the system",
+    "groupCode": 0
+  },
+  {
+    "id": 3548,
+    "fa": "آب بر روی صخره ها فرو ریخت و آبشار زیبایی را داشت ایجاد می کرد",
+    "en": "The water cascaded down the rocks, creating a beautiful waterfall",
+    "desc": "In the sentence \"The water cascaded down the rocks, creating a beautiful waterfall,\" the word \"creating\" refers to an ongoing action that happens as a result of the cascading water.\n\n\"Creating\" is a present participle that describes the effect or result of the cascading action.\nThe main action is in the past tense (\"cascaded\"), while \"creating\" describes what was happening at the same time.",
+    "groupCode": 0
+  },
+  {
+    "id": 3549,
+    "fa": "من نگرانی هایم را نادیده گرفتم و به کارم ادامه دادم",
+    "en": "I brushed off my concerns and continued with my work",
+    "desc": "You need \"with\" in this case to indicate the ongoing action related to \"work.\"",
+    "groupCode": 0
+  },
+  {
+    "id": 3550,
+    "fa": "من اومدم دنبال خانواده ام. آیا آنها اینجا آمدند؟",
+    "en": "I came looking for my family. Did they come here?",
     "groupCode": 0
   }
 ]

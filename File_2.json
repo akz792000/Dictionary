@@ -44,7 +44,7 @@
   {
     "id": 10008,
     "en": "One more again slowly please",
-    "de": "Bitte noch einmal langsam",
+    "de": "Noch einmal langsam bitte",
     "desc": "\n noch = again \n einmal = once",
     "groupCode": 1
   },
@@ -308,7 +308,7 @@
   },
   {
     "id": 10051,
-    "en": "How old are you?",
+    "en": "How old are you (formal)?",
     "de": "Wie alt sind Sie?",
     "groupCode": 1
   },
@@ -327,7 +327,7 @@
   },
   {
     "id": 10055,
-    "en": "Mia is my cat. She is old and sleeps all day! I also have a dog. He is very loud and doesn't sleep enough!",
+    "en": "Mia is my cat. She is old and sleeps (the) all day! I also have a dog. He is very loud and sleep too little!",
     "de": "Mia ist meine Katze. Sie ist alt und schläft den ganzen Tag! Ich habe auch einen Hund. Er ist sehr laut und schläft zu wenig!",
     "groupCode": 1
   },
@@ -623,7 +623,7 @@
   },
   {
     "id": 10104,
-    "en": "My turtle doesn't need free time",
+    "en": "My turtle need no free time",
     "de": "Meine Schildkröte braucht keine Freizeit",
     "groupCode": 1
   },
@@ -1554,13 +1554,13 @@
   },
   {
     "id": 10258,
-    "en": "Would you like (polite) an apple cake? I would like a chocolate cake",
+    "en": "Would you like (formal) an apple cake? I would like a chocolate cake",
     "de": "Möchten Sie einen Apfelkuchen? Ich möchte einen Schokoladenkuchen",
     "groupCode": 1
   },
   {
     "id": 10259,
-    "en": "Would you like to make an appointment?",
+    "en": "Would you like (formal) to make an appointment?",
     "de": "Möchten Sie einen Termin machen?",
     "groupCode": 1
   },
@@ -1875,8 +1875,9 @@
   },
   {
     "id": 10311,
-    "en": "I like eating meat. You must buy schnitzel for me",
-    "de": "Ich esse gern Fleisch. Du musst Schnitzel für mich kaufen",
+    "en": "I like eating meat and fish. You must buy schnitzel for me",
+    "de": "Ich esse gern Fleisch und Fisch. Du musst Schnitzel für mich kaufen",
+    "desc": "Both are correct! The choice depends on emphasis:\n\n\"Du musst Schnitzel für mich kaufen\": Focuses more on Schnitzel.\n\"Du musst für mich Schnitzel kaufen\": Focuses more on für mich (for me).",
     "groupCode": 1
   },
   {
@@ -2009,6 +2010,7 @@
     "id": 10333,
     "en": "He is meeting his friends in one hour",
     "de": "Er trifft seine Freunde in einer Stunde",
+    "desc": "In \"Er trifft seine Freunde in einer Stunde\", \"einer\" is used because:\n\n\"Stunde\" (hour) is feminine.\nThe preposition \"in\" here indicates time and takes the dative case.\nIn the dative case, the feminine article \"eine\" changes to \"einer.\"",
     "groupCode": 1
   },
   {
@@ -2103,7 +2105,7 @@
   },
   {
     "id": 10349,
-    "en": "It ist too dark, I can't find my cell phone",
+    "en": "It is too dark, I can't find my cell phone",
     "de": "Es ist zu dunkel, ich kann mein Handy nicht finden",
     "groupCode": 1
   },
@@ -2187,7 +2189,7 @@
   },
   {
     "id": 10363,
-    "en": "Do you (formal) pay separately? No, we want to pay together",
+    "en": "Do you (formal) pay separately? No, we would like to pay together",
     "de": "Zahlen Sie getrennt? Nein, Wir möchten zusammen zahlen",
     "groupCode": 1
   },
@@ -2224,7 +2226,7 @@
   {
     "id": 10369,
     "en": "I have to pack these socks",
-    "de": "Ich muss dieses Socken einpacken",
+    "de": "Ich muss diese Socken einpacken",
     "groupCode": 1
   },
   {
@@ -2255,6 +2257,7 @@
     "id": 10374,
     "en": "Is there a cake without sugar?",
     "de": "Gibt es einen Kuchen ohne Zucker?",
+    "desc": "In \"Gibt es einen Kuchen ohne Zucker?\", \"einen\" is used because \"Kuchen\" is masculine and in the accusative case (object of \"es gibt\").",
     "groupCode": 1
   },
   {
@@ -2271,7 +2274,7 @@
   },
   {
     "id": 10377,
-    "en": "Your mother is coming soon(shortly), where are the flowers?",
+    "en": "Your mother is coming right now (soon), where are the flowers?",
     "de": "Deine Mutter kommt gleich, wo sind die Blumen?",
     "groupCode": 1
   },
@@ -2374,13 +2377,13 @@
   {
     "id": 10394,
     "en": "Can you come or do you have to do your homework?",
-    "de": "Kannst du kommen oder musst die hausaufgaben machen?",
+    "de": "Kannst du kommen oder musst du die hausaufgaben machen?",
     "groupCode": 1
   },
   {
     "id": 10395,
     "en": "My aunt's birthday is on Sunday",
-    "de": "Meine Tante hat Geburtstag am Sonntag",
+    "de": "Meine Tante hat am Sonntag Geburtstag",
     "groupCode": 1
   },
   {
@@ -2411,6 +2414,79 @@
     "id": 10400,
     "en": "Is your partner planning a party for you?",
     "de": "Plant deine Partnerin eine Party für dich?",
+    "groupCode": 1
+  },
+  {
+    "id": 10401,
+    "en": "I am coming in ten minutes",
+    "de": "Ich komme in zehn Minuten",
+    "groupCode": 1
+  },
+  {
+    "id": 10402,
+    "en": "I speak Swedish well, but my mother language is English",
+    "de": "Ich spreche gut Schwedisch, aber meine Muttersprache ist Englisch",
+    "groupCode": 1
+  },
+  {
+    "id": 10403,
+    "en": "I have a craving for cake",
+    "de": "\n 1.Ich habe Bock auf Eis 2.Ich habe Lust auf Torte",
+    "desc": "While both sentences express a desire for ice cream, the first one (\"Ich habe Bock auf Eis\") might imply a bit more enthusiasm or eagerness compared to the second one (\"Ich habe Lust auf Eis\").",
+    "groupCode": 1
+  },
+  {
+    "id": 10404,
+    "en": "Where do they live? I don't know",
+    "de": "Wo leben sie? Ich weiß nicht",
+    "groupCode": 1
+  },
+  {
+    "id": 10405,
+    "en": "Then close your (formal) books",
+    "de": "Schließen Sie dann Ihre Bücher",
+    "groupCode": 1
+  },
+  {
+    "id": 10406,
+    "en": "The marker is colorful",
+    "de": "Der Marker ist bunt",
+    "groupCode": 1
+  },
+  {
+    "id": 10407,
+    "en": "She is in a good mood, happy and healthy",
+    "de": "Sie ist gut drauf, glücklich und gesund",
+    "groupCode": 1
+  },
+  {
+    "id": 10408,
+    "en": "Is his German very good?",
+    "de": "Ist sein Deutsch sehr gut?",
+    "groupCode": 1
+  },
+  {
+    "id": 10409,
+    "en": "My husband, my son, my daughter and my wife",
+    "de": "Mein Mann, mein Sohn, meine Tochter and meine Frau",
+    "groupCode": 1
+  },
+  {
+    "id": 10410,
+    "en": "My husband is very smart",
+    "de": "Mein Mann ist sehr klug",
+    "groupCode": 1
+  },
+  {
+    "id": 10411,
+    "en": "Hear the telephone conversation",
+    "de": "Hören Sie das Telefongespräch",
+    "groupCode": 1
+  },
+  {
+    "id": 10412,
+    "en": "The telephone number is wrong",
+    "de": "Die Telefonnummer ist falsch",
     "groupCode": 1
   }
 ]

@@ -75,7 +75,7 @@
   },
   {
     "id":,
-    "en": "You say the boss the information (polite)",
+    "en": "You say the boss the information (formal)",
     "de": "Ihr sagt dem Chef den Bescheid (ایِ زاگت دم شف دن بشاید)",
     "desc": "Subject + Verb + DAT + AKK"
   },
@@ -97,7 +97,7 @@
   },
   {
     "id":,
-    "en": "You say the boss the information (polite)",
+    "en": "You say the boss the information (formal)",
     "de": "Dem Chef sagt ihr den Bescheid (دم شف زاگت ایِ دن بشاید)"
   },
   {
@@ -147,7 +147,7 @@
   },
   {
     "id":,
-    "en": "You ask the teacher the question (polite)",
+    "en": "You ask the teacher the question (formal)",
     "de": "Ihr fragt der Lehrerin die Frage"
   },
 
@@ -629,7 +629,7 @@
   },
   {
     "id": 10005,
-    "en": "Do you like (polite) salad?",
+    "en": "Do you like (formal) salad?",
     "de": "Mögen Sie Salat?",
     "groupCode": 1
   },
@@ -661,12 +661,6 @@
     "id": 10010,
     "en": "What does Bruno answer?",
     "de": "Was antwortet Bruno?",
-    "groupCode": 1
-  },
-  {
-    "id": 10011,
-    "en": "I like to eat meat and fish",
-    "de": "Ich esse gern Fleisch und Fisch",
     "groupCode": 1
   },
   {
@@ -731,7 +725,7 @@
   },
   {
     "id": 10024,
-    "en": "Would you like (polite) to order the fruit salad or the apple cake?",
+    "en": "Would you like (formal) to order the fruit salad or the apple cake?",
     "de": "Möchten Sie den Obstsalat oder den Apfelkuchen bestellen?",
     "groupCode": 1
   },
@@ -1010,7 +1004,7 @@
   },
   {
     "id": 10095,
-    "en": "How do you find (polite) the hotel room?",
+    "en": "How do you find (formal) the hotel room?",
     "de": "Wie finden Sie das Hotelzimmer?",
     "groupCode": 1
   }
