@@ -200,12 +200,6 @@
     "groupCode": 1
   },
 
-  {
-    "id": 10016,
-    "en": "Write down (Note) the telephone numbers",
-    "de": "Notieren Sie die Telefonnummern",
-    "groupCode": 1
-  },
 
   {
     "id": 10023,
@@ -215,7 +209,7 @@
   },
   {
     "id": 10024,
-    "en": "Listen and cross them",
+    "en": "Listen (formal) and cross (formal) them",
     "de": "Hören sie und kreuzen sie",
     "groupCode": 1
   },
@@ -309,7 +303,7 @@
   },
   {
     "id": 10014,
-    "en": "What do you see here?",
+    "en": "What do you (formal) see here?",
     "de": "Was sehen Sie hier?",
     "groupCode": 1
   },
@@ -423,13 +417,13 @@
   },
   {
     "id": 10034,
-    "en": "At the traffic light, turn left",
+    "en": "At the traffic light, turn left (formal)",
     "de": "An der Ampel fahren Sie nach links",
     "groupCode": 1
   },
   {
     "id": 10036,
-    "en": "Drive past the cafés",
+    "en": "Drive (formal) past the cafés",
     "de": "An den Cafés fahren Sie vorbei",
     "groupCode": 1
   },
@@ -441,13 +435,13 @@
   },
   {
     "id": 10038,
-    "en": "Can you help me?",
+    "en": "Can you (formal) help me?",
     "de": "Können Sie mir helfen?",
     "groupCode": 1
   },
   {
     "id": 10039,
-    "en": "Drive one kilometer straight ahead, and then you'll see it",
+    "en": "Drive (formal) one kilometer straight ahead, and then you (formal) see it",
     "de": "Fahren Sie einen Kilometer geradeaus, und dann sehen Sie es",
     "groupCode": 1
   },
@@ -459,13 +453,13 @@
   },
   {
     "id": 10041,
-    "en": "Do you know the way?",
+    "en": "Do you (formal) know the way?",
     "de": "Kennen Sie den Weg?",
     "groupCode": 1
   },
   {
     "id": 10042,
-    "en": "Turn around here",
+    "en": "Turn around (formal) here",
     "de": "Wenden Sie hier",
     "groupCode": 1
   },
@@ -513,7 +507,7 @@
   },
   {
     "id": 10050,
-    "en": "Turn right at the next street",
+    "en": "Turn right (formal) at the next street",
     "de": "Fahren Sie die nächste Straße rechts",
     "groupCode": 1
   },
@@ -629,7 +623,7 @@
   },
   {
     "id": 10005,
-    "en": "Do you like (formal) salad?",
+    "en": "Do you (formal) like salad?",
     "de": "Mögen Sie Salat?",
     "groupCode": 1
   },
@@ -725,7 +719,7 @@
   },
   {
     "id": 10024,
-    "en": "Would you like (formal) to order the fruit salad or the apple cake?",
+    "en": "Would you (formal) like to order the fruit salad or the apple cake?",
     "de": "Möchten Sie den Obstsalat oder den Apfelkuchen bestellen?",
     "groupCode": 1
   },
@@ -743,7 +737,7 @@
   },
   {
     "id": 10027,
-    "en": "Good morning! Would you like to drink tea or kaffee?",
+    "en": "Good morning! Would you (formal) like to drink tea or kaffee?",
     "de": "Guten Morgen! Möchten Sie Tee oder Kaffee trinken?",
     "groupCode": 1
   },

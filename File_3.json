@@ -466,5 +466,11 @@
     "en": "Agree",
     "de": "\n stimme \n stimmst \n stimmt \n stimmen \n stimmt \n stimmen",
     "groupCode": 1
+  },
+  {
+    "id": 20079,
+    "en": "Visit (tour)",
+    "de": "\n besichtige \n besichtigst \n besichtigt \n besichtigen \n besichtigt \n besichtigen",
+    "groupCode": 1
   }
 ]

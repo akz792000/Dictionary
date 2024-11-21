@@ -2194,7 +2194,7 @@
   },
   {
     "id": 3360,
-    "fa": "چند نفر می خواهند به گردش (گشت و گذار) بروند؟",
+    "fa": "چند نفر (مردم) می خواهند به گردش (گشت و گذار) بروند؟",
     "en": "How many people want to go on the excursion?",
     "groupCode": 0
   },
@@ -2829,8 +2829,8 @@
   },
   {
     "id": 3463,
-    "fa": "او (مرد) در سمت راست زیر دنده هایم درد دارم",
-    "en": "He has pain on the right side below my ribs",
+    "fa": "او (مرد) در سمت راست زیر دنده هایش درد دارد",
+    "en": "He has pain on the right side below his ribs",
     "groupCode": 0
   },
   {
@@ -3329,7 +3329,7 @@
   },
   {
     "id": 3545,
-    "fa": "با تشکر از شما برای فرصت شگفت انگیز؛ در حالی که من دارم نمی گردم برای ایجاد یک تغییر در حال حاضر، من مایلم در ارتباط بمانم برای همکاری های احتمالی آینده",
+    "fa": "با تشکر از شما برای فرصت شگفت انگیز؛ در حالی که من دارم نمی گردم برای ایجاد یک تغییر در حال حاضر، من مایلم در ارتباط بمانم برای همکاری های آینده احتمالی",
     "en": "Thank you for the amazing opportunity; while I'm not looking to make a change at the moment, I'd like to stay connected for potential future collaborations",
     "groupCode": 0
   },
@@ -3363,6 +3363,66 @@
     "id": 3550,
     "fa": "من اومدم دنبال خانواده ام. آیا آنها اینجا آمدند؟",
     "en": "I came looking for my family. Did they come here?",
+    "groupCode": 0
+  },
+  {
+    "id": 3551,
+    "fa": "جایز نیست سیگار کشیدن در بیمارستان",
+    "en": "It's not permissible to smoke at the hospital",
+    "groupCode": 0
+  },
+  {
+    "id": 3552,
+    "fa": "خواهرم اونجا داره چه می کند و چرا پرده ها بسته است؟",
+    "en": "What is my sister doing there and why are the drapes shut?",
+    "groupCode": 0
+  },
+  {
+    "id": 3553,
+    "fa": "من فکر می کنم او (زن) داره سعی می کند کاری را با شما انجام دهد از من انتقام بگیرد (به من پاسخ دهد)",
+    "en": "I think she's trying to make something happen with you to get back at me",
+    "groupCode": 0
+  },
+  {
+    "id": 3554,
+    "fa": "نمی تونست داشته باشد هیچ ارتباطی به این موضوع که او (مرد) دیر کرد",
+    "en": "It couldn't have anything to do with the fact that he was late",
+    "groupCode": 0
+  },
+  {
+    "id": 3555,
+    "fa": "او (زن) داره از شما استفاده می کند تا از من انتقام بگیرد (به من پاسخ دهد)",
+    "en": "\n 1.She's using you to get back at me \n 2.She's using you to take revenge on me",
+    "groupCode": 0
+  },
+  {
+    "id": 3556,
+    "fa": "کدام کشور توسعه یافته تر است؟",
+    "en": "Which country is more developed?",
+    "groupCode": 0
+  },
+  {
+    "id": 3557,
+    "fa": "به نظر می رسد یادم می آید او را در مهمانی هفته گذشته ملاقات کردم",
+    "en": "I seem to remember meeting her at the party last week",
+    "groupCode": 0
+  },
+  {
+    "id": 3558,
+    "fa": "چه تعداد امتیاز شما می توانید بگیرید؟",
+    "en": "How many points can you get?",
+    "groupCode": 0
+  },
+  {
+    "id": 3559,
+    "fa": "دست خطش (مرد) خیلی شلخته است من نمی توانم بخوانمش",
+    "en": "His handwriting is so sloppy I can't read it",
+    "groupCode": 0
+  },
+  {
+    "id": 3560,
+    "fa": "اعضای ممتاز 2.6 برابر بیشتر احتمال دارند استخدام شوند به طور متوسط",
+    "en": "Premium members are 2.6x more likely to get hired on average",
     "groupCode": 0
   }
 ]

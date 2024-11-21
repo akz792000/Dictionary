@@ -1181,7 +1181,7 @@
   },
   {
     "id": 196,
-    "fa": "خانواده ات چند نفر است؟ وجود دارد ما چهار نفر",
+    "fa": "خانواده ات چند نفر (مردم) است؟ وجود دارد ما چهار نفر",
     "en": "How many people are there in your family? There are four of us",
     "groupCode": 0
   },
@@ -3196,7 +3196,7 @@
   },
   {
     "id": 529,
-    "fa": "تا به حال تو به این (تاکید) فکر کرده اید که غذای چند نفر را همزمان می خوری؟",
+    "fa": "تا به حال تو به این (تاکید) فکر کرده اید که غذای چند نفر (مردم) را همزمان می خوری؟",
     "en": "Have you ever thought about how many people's food you eat at the same time?",
     "groupCode": 0
   },
@@ -5118,7 +5118,7 @@
   },
   {
     "id": 844,
-    "fa": "پشت هر مرد موفقی یک زن است",
+    "fa": "پشت هر مرد موفقی وجود دارد یک زن",
     "en": "Behind every successful man there is a woman",
     "groupCode": 0
   },
@@ -14289,7 +14289,7 @@
   },
   {
     "id": 2356,
-    "fa": "انگار یادم افتاد که تو را اخراج کردم",
+    "fa": "به نظر می رسد یادم می آید تو را اخراج کردم",
     "en": "I seem to remember firing you",
     "groupCode": 0
   },
@@ -16210,7 +16210,7 @@
   },
   {
     "id": 2673,
-    "fa": "زنجیر تایم در داخل موتور قرار می گیرد و روغن موتور را دریافت می کند و می تواند برای یک زمان زیادی دوام بیاورد، در حالی که تسمه های تایم در خارج از موتور قرار دارند و تمایل به خشک شدن و ترک خوردن دارند",
+    "fa": "زنجیر تایم در داخل موتور قرار می گیرد و دریافت می کند روغنکاری از روغن موتور و می تواند برای یک زمان زیادی دوام بیاورد، در حالی که تسمه های تایم در خارج از موتور قرار دارند و تمایل به خشک شدن و ترک خوردن دارند",
     "en": "Timing chain is housed within the engine and receives lubrication from engine oil and can last a long time, while timing belt is located outside of the engine and tends to dry out and crack",
     "groupCode": 0
   },

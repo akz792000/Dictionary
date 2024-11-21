@@ -210,13 +210,13 @@
   },
   {
     "id": 10035,
-    "en": "Complete the dialog",
+    "en": "Complete (formal) the dialog",
     "de": "Ergänzen Sie die Dialog",
     "groupCode": 1
   },
   {
     "id": 10036,
-    "en": "Write down (Note) the names",
+    "en": "Write down (Note) (formal) the names",
     "de": "Notieren Sie die Namen",
     "groupCode": 1
   },
@@ -265,13 +265,13 @@
   },
   {
     "id": 10044,
-    "en": "Hear the numbers (pay)",
+    "en": "Hear (formal) the numbers (pay)",
     "de": "Hören Sie die Zahlen",
     "groupCode": 1
   },
   {
     "id": 10045,
-    "en": "Speak out loud",
+    "en": "Speak out (formal) loud",
     "de": "Sprechen Sie laut",
     "desc": "laut = loud",
     "groupCode": 1
@@ -284,7 +284,7 @@
   },
   {
     "id": 10047,
-    "en": "Read the sentences",
+    "en": "Read (formal) the sentences",
     "de": "Lesen Sie die Sätze",
     "groupCode": 1
   },
@@ -829,7 +829,7 @@
   },
   {
     "id": 10138,
-    "en": "Mr Graf, you have to do sports in the evenings",
+    "en": "Mr Graf, you (formal) have to do sports in the evenings",
     "de": "Herr Graf, Sie müssen abends Sport machen",
     "groupCode": 1
   },
@@ -841,7 +841,7 @@
   },
   {
     "id": 10140,
-    "en": "I don't eat sugar but I like eating apple cake",
+    "en": "I don't eat (a) sugar but I like eating apple cake",
     "de": "Ich esse keinen Zucker aber Ich esse gern Apfelkuchen",
     "groupCode": 1
   },
@@ -872,7 +872,7 @@
   {
     "id": 10145,
     "en": "At what time is your (formal) appointment? My appointment is at four o'clock",
-    "de": "Um wie viel Uhr ist Ihr termin? Mein Termin is um schzehn Uhr",
+    "de": "Um wie viel Uhr ist Ihr termin? Mein Termin is um sechzehn Uhr",
     "groupCode": 1
   },
   {
@@ -1015,7 +1015,7 @@
   },
   {
     "id": 10169,
-    "en": "Where do you (formal) want to go hiking in the forest?",
+    "en": "Where do you (plural) want to go hiking in the forest?",
     "de": "Wo wollt Ihr im Wald wandern gehen?",
     "groupCode": 1
   },
@@ -1174,7 +1174,7 @@
     "id": 10195,
     "en": "Say your (formal) name?",
     "de": "Sagen Sie Ihren Namen?",
-    "desc": "Akkusative and Name is male and \"Namen\" is the accusative form of \"Name\" because it is the direct object of the verb",
+    "desc": "No, \"Namen\" is not plural in this context. It is the accusative singular form of \"Name\" (name).\n\n\"Name\" is singular, and \"Namen\" is the plural form (meaning \"names\").\nIn the sentence \"Sagen Sie Ihren Namen?\", \"Namen\" refers to just one name, so it is singular.",
     "groupCode": 1
   },
   {
@@ -1227,7 +1227,7 @@
   },
   {
     "id": 10204,
-    "en": "Complete the table with information from 4a",
+    "en": "Complete (formal) the table with information from 4a",
     "de": "Ergänzen Sie die Tabelle mit Informationen aus 4a",
     "groupCode": 1
   },
@@ -1253,7 +1253,7 @@
     "id": 10208,
     "en": "Which cafe do we go?",
     "de": "In welches Café gehen wir?",
-    "desc": "Welcher is used for masculine nouns.\nWelches is used for neuter nouns.\nWelche is used for feminine nouns and plural nouns.",
+    "desc": "Welcher is used for masculine nouns.\nWelches is used for neuter nouns.\nWelche is used for feminine nouns and plural nouns. Preposition required: The verb \"gehen\" (to go) requires a preposition when specifying a destination. Here, \"in\" is used because you're talking about going into a café.\n\"Welches Café gehen wir\" is incorrect because it lacks the necessary preposition.",
     "groupCode": 1
   },
   {
@@ -1536,7 +1536,7 @@
   },
   {
     "id": 10255,
-    "en": "In front of the restaurant, turn right.",
+    "en": "In front of the restaurant, turn (formal) to right.",
     "de": "Vor dem Restaurant fahren Sie nach rechts",
     "groupCode": 1
   },
@@ -1554,13 +1554,13 @@
   },
   {
     "id": 10258,
-    "en": "Would you like (formal) an apple cake? I would like a chocolate cake",
+    "en": "Would you (formal) like an apple cake? I would like a chocolate cake",
     "de": "Möchten Sie einen Apfelkuchen? Ich möchte einen Schokoladenkuchen",
     "groupCode": 1
   },
   {
     "id": 10259,
-    "en": "Would you like (formal) to make an appointment?",
+    "en": "Would you (formal) like to make an appointment?",
     "de": "Möchten Sie einen Termin machen?",
     "groupCode": 1
   },
@@ -1770,7 +1770,7 @@
   },
   {
     "id": 10294,
-    "en": "Do you need a bag?",
+    "en": "Do you (formal) need a bag?",
     "de": "Brauchen sie eine tüte?",
     "groupCode": 1
   },
@@ -1954,7 +1954,7 @@
   },
   {
     "id": 10324,
-    "en": "Write sentences",
+    "en": "Write (formal) sentences",
     "de": "Schreiben Sie die Sätze",
     "groupCode": 1
   },
@@ -2213,7 +2213,7 @@
   },
   {
     "id": 10367,
-    "en": "Wait. Can you take a picture of me here?",
+    "en": "Wait. Can you (formal) take a picture of me here?",
     "de": "Warten Sie. Können Sie mich hier fotografieren?",
     "groupCode": 1
   },
@@ -2286,7 +2286,7 @@
   },
   {
     "id": 10379,
-    "en": "Please buy twenty pieces of schnitzel",
+    "en": "Please buy (formal) twenty pieces of schnitzel",
     "de": "Kaufen Sie bitte zwanzig Stücke Schnitzel",
     "groupCode": 1
   },
@@ -2310,13 +2310,13 @@
   },
   {
     "id": 10383,
-    "en": "The students have to visit the castle. They are studying history",
+    "en": "The students have to visit (tour) the castle. They are studying history",
     "de": "Die Studenten müssen das schloss besichtigen. Sie studieren Geschichte",
     "groupCode": 1
   },
   {
     "id": 10384,
-    "en": "Tourists can't tour the church",
+    "en": "Tourists can't visit (tour) the church",
     "de": "Die Touristen können die Kirche nicht besichtigen",
     "groupCode": 1
   },
@@ -2328,7 +2328,7 @@
   },
   {
     "id": 10386,
-    "en": "You must visit the castle",
+    "en": "You must visit (tour) the castle",
     "de": "Du musst das Schloss besichtigen",
     "groupCode": 1
   },
@@ -2412,7 +2412,7 @@
   },
   {
     "id": 10400,
-    "en": "Is your partner planning a party for you?",
+    "en": "Is your partner (female) planning a party for you?",
     "de": "Plant deine Partnerin eine Party für dich?",
     "groupCode": 1
   },
@@ -2430,9 +2430,8 @@
   },
   {
     "id": 10403,
-    "en": "I have a craving for cake",
-    "de": "\n 1.Ich habe Bock auf Eis 2.Ich habe Lust auf Torte",
-    "desc": "While both sentences express a desire for ice cream, the first one (\"Ich habe Bock auf Eis\") might imply a bit more enthusiasm or eagerness compared to the second one (\"Ich habe Lust auf Eis\").",
+    "en": "Wait (formal) please! You can't go now",
+    "de": "Warten Sie bitte! Sie können jetzt nicht gehen",
     "groupCode": 1
   },
   {
@@ -2443,7 +2442,7 @@
   },
   {
     "id": 10405,
-    "en": "Then close your (formal) books",
+    "en": "Close then your (formal) books",
     "de": "Schließen Sie dann Ihre Bücher",
     "groupCode": 1
   },
@@ -2479,7 +2478,7 @@
   },
   {
     "id": 10411,
-    "en": "Hear the telephone conversation",
+    "en": "Hear (formal) the telephone conversation",
     "de": "Hören Sie das Telefongespräch",
     "groupCode": 1
   },
@@ -2487,6 +2486,114 @@
     "id": 10412,
     "en": "The telephone number is wrong",
     "de": "Die Telefonnummer ist falsch",
+    "groupCode": 1
+  },
+  {
+    "id": 10413,
+    "en": "I visit my relatives every year",
+    "de": "Ich besuche meine Verwandten jedes Jahr",
+    "groupCode": 1
+  },
+  {
+    "id": 10414,
+    "en": "The bus stop is on the left",
+    "de": "Die Bushaltestelle ist links",
+    "groupCode": 1
+  },
+  {
+    "id": 10415,
+    "en": "Where is the customs? The airport is too big",
+    "de": "Wo ist der Zoll? Der Flughafen ist zu Groß",
+    "groupCode": 1
+  },
+  {
+    "id": 10416,
+    "en": "We study for eight weeks in Bonn",
+    "de": "Wir studieren acht Wochen in Bonn",
+    "groupCode": 1
+  },
+  {
+    "id": 10417,
+    "en": "How long are you (formal) taking a vacation in Austria?",
+    "de": "Wie lange machen Sie Urlaub in Österreich?",
+    "groupCode": 1
+  },
+  {
+    "id": 10418,
+    "en": "Wine is unfortunately forbidden",
+    "de": "Wein ist leider verboten?",
+    "groupCode": 1
+  },
+  {
+    "id": 10419,
+    "en": "This is prohibited at the airport. Your dog must stay at home",
+    "de": "Das ist am Flughafen verboten. Ihr Hund muss zu Hause bleiben",
+    "groupCode": 1
+  },
+  {
+    "id": 10420,
+    "en": "Do you (formal) still need a moment?",
+    "de": "Brauchen Sie noch einen Moment?",
+    "groupCode": 1
+  },
+  {
+    "id": 10421,
+    "en": "Go (formal) to counter three, please",
+    "de": "Gehen Sie zum Schalter drei, bitte",
+    "groupCode": 1
+  },
+  {
+    "id": 10422,
+    "en": "That's right, go (formal) to counter eleven",
+    "de": "Das ist richtig, gehen Sie zum Schalter elf",
+    "groupCode": 1
+  },
+  {
+    "id": 10423,
+    "en": "You (formal) must sign here, Mrs. Schmidt",
+    "de": "Sie müssen hier unterschreiben, Frau Schmidt",
+    "groupCode": 1
+  },
+  {
+    "id": 10424,
+    "en": "Can you (formal) sign the form, Mr. Smith",
+    "de": "Können sie das Formular unterschreiben, Herr Smith",
+    "groupCode": 1
+  },
+  {
+    "id": 10425,
+    "en": "My backpack is gray",
+    "de": "Mein Rucksack ist grau",
+    "groupCode": 1
+  },
+  {
+    "id": 10426,
+    "en": "sorry, is there a problem here? Yes, I'm looking for my backpack",
+    "de": "Entschuldigung, gibt es hier ein Problem? Ja, ich suche meinen Rucksack",
+    "groupCode": 1
+  },
+  {
+    "id": 10427,
+    "en": "My suitcase is not heavy",
+    "de": "Mein Koffer ist nicht schwer",
+    "groupCode": 1
+  },
+  {
+    "id": 10428,
+    "en": "I have a problem. My suitcase is too heavy",
+    "de": "Ich habe ein Problem. Mein Koffer ist zu schwer",
+    "groupCode": 1
+  },
+  {
+    "id": 10429,
+    "en": "Whom are you picking up now?",
+    "de": "Wen holst du jetzt ab?",
+    "groupCode": 1
+  },
+  {
+    "id": 10430,
+    "en": "I must go shopping",
+    "de": "Ich muss einkaufen gehen",
     "groupCode": 1
   }
 ]
