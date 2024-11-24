@@ -3424,5 +3424,65 @@
     "fa": "اعضای ممتاز 2.6 برابر بیشتر احتمال دارند استخدام شوند به طور متوسط",
     "en": "Premium members are 2.6x more likely to get hired on average",
     "groupCode": 0
+  },
+  {
+    "id": 3561,
+    "fa": "این جلسه لغو شد",
+    "en": "This meeting got canceled",
+    "groupCode": 0
+  },
+  {
+    "id": 3562,
+    "fa": "من یک بعدازظهر آزاد دارم و یک هزار چیزهایی (که) من نیاز دارم انجام دهم، پس روی چه باید کار کنم در این مدت؟",
+    "en": "I have a free afternoon and a thousand things I need to get done, so what should I work on during this time?",
+    "groupCode": 0
+  },
+  {
+    "id": 3563,
+    "fa": "چقدر من انتظار دارم اون کار طول بکشد؟",
+    "en": "How long I expect that task to take?",
+    "groupCode": 0
+  },
+  {
+    "id": 3564,
+    "fa": "اگر شما ضربه بزنید اینجا را همین الان، شما می توانید یک آزمایش رایگان 7 روزه را امتحان کنید",
+    "en": "If you tap here right now you can try a 7-Day free trial",
+    "groupCode": 0
+  },
+  {
+    "id": 3565,
+    "fa": "چرا ادامش نمیدی (بلندش نمی کنی) از جایی که او (زن) متوقف کرد (انداخت)؟",
+    "en": "Why don't you pick it up where she left off?",
+    "groupCode": 0
+  },
+  {
+    "id": 3566,
+    "fa": "اگر این فراتر می رود از (آن) چه ممکن است برای بودجه شما، من به تصمیم شما احترام می گذارم و آرزو می کنم برای شما بهترین ها را در یافتن کاندبدای مناسب",
+    "en": "If this exceeds what is feasible for your budget, I respect your decision and wish you the best in finding the right candidate",
+    "groupCode": 0
+  },
+  {
+    "id": 3567,
+    "fa": "علی با کیست؟",
+    "en": "Who's Ali with?",
+    "groupCode": 0
+  },
+  {
+    "id": 3568,
+    "fa": "من دیگه تو رو با هیچ کدوم (بیشتر) از دوستام آشنا نمی کنم",
+    "en": "I'm not setting you up with any more of my friends",
+    "groupCode": 0
+  },
+  {
+    "id": 3569,
+    "fa": "نام ببر یکی از دوستانتان را (که) من اونطور (اون روش) انجام دادم",
+    "en": "Name one friend of yours I did that way",
+    "groupCode": 0
+  },
+  {
+    "id": 3570,
+    "fa": "باور کنید یا نه درست است",
+    "en": "Believe it or not it's true",
+    "groupCode": 0
   }
 ]

@@ -1142,7 +1142,7 @@
   },
   {
     "id": 10190,
-    "en": "I'm going on a trip this weekend",
+    "en": "I'm going on a trip at the weekend",
     "de": "Ich mache am Wochenende einen Ausflug",
     "groupCode": 1
   },
@@ -1174,7 +1174,7 @@
     "id": 10195,
     "en": "Say your (formal) name?",
     "de": "Sagen Sie Ihren Namen?",
-    "desc": "No, \"Namen\" is not plural in this context. It is the accusative singular form of \"Name\" (name).\n\n\"Name\" is singular, and \"Namen\" is the plural form (meaning \"names\").\nIn the sentence \"Sagen Sie Ihren Namen?\", \"Namen\" refers to just one name, so it is singular.",
+    "desc": "The N-declension Rule:\nCertain masculine nouns in German, like \"Name\", follow a special pattern called the N-declension. These nouns take an extra -n or -en ending in cases other than the nominative singular.\n\nApplication to \"Name\":\nNominative Singular: der Name (The name)\nAccusative Singular: den Namen (The name)\nDative Singular: dem Namen (To/for the name)\nGenitive Singular: des Namens (Of the name)\nWhy does this happen?\nThis is a historical feature of German grammar for a small group of masculine nouns, mostly those of foreign origin or with specific endings like -e, -ist, or -ent.\n\nExamples:\nNominative: \"Der Name ist schön.\" (The name is nice.)\nAccusative: \"Ich schreibe den Namen.\" (I write the name.)\nSummary:\n\"Name\" changes to \"Namen\" in the accusative because it follows the N-declension rule for masculine nouns.\nArticles still follow the normal accusative rules: der → den.",
     "groupCode": 1
   },
   {
@@ -1412,6 +1412,7 @@
     "id": 10234,
     "en": "I always forget his name",
     "de": "Ich vergesse immer seinen Namen",
+    "desc": "The N-declension Rule:\nCertain masculine nouns in German, like \"Name\", follow a special pattern called the N-declension. These nouns take an extra -n or -en ending in cases other than the nominative singular.\n\nApplication to \"Name\":\nNominative Singular: der Name (The name)\nAccusative Singular: den Namen (The name)\nDative Singular: dem Namen (To/for the name)\nGenitive Singular: des Namens (Of the name)\nWhy does this happen?\nThis is a historical feature of German grammar for a small group of masculine nouns, mostly those of foreign origin or with specific endings like -e, -ist, or -ent.\n\nExamples:\nNominative: \"Der Name ist schön.\" (The name is nice.)\nAccusative: \"Ich schreibe den Namen.\" (I write the name.)\nSummary:\n\"Name\" changes to \"Namen\" in the accusative because it follows the N-declension rule for masculine nouns.\nArticles still follow the normal accusative rules: der → den.",
     "groupCode": 1
   },
   {
@@ -2454,8 +2455,8 @@
   },
   {
     "id": 10407,
-    "en": "She is in a good mood, happy and healthy",
-    "de": "Sie ist gut drauf, glücklich und gesund",
+    "en": "She is good, happy and healthy",
+    "de": "Sie ist gut, glücklich und gesund",
     "groupCode": 1
   },
   {
