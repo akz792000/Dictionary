@@ -2817,8 +2817,8 @@
   {
     "id": 3461,
     "fa": "من نباید خودم را سرزنش (ضرب و شتم) کنم به خاطر اشتباه ",
-    "en": "\n 1.I shouldn't beat myself up over the mistake \n 2.1.I shouldn't beat myself up about the mistake",
-    "desc": "\"I shouldn't beat myself up about the mistake.\"\n\nBoth \"over\" and \"about\" work here, but they carry slight nuances:\n\n\"Over\" emphasizes the reason for being upset, often implying you're dwelling on it.\n\"About\" is more neutral and simply connects the criticism to the topic.",
+    "en": "I shouldn't beat myself up over the mistake",
+    "desc": "\"Beat yourself up over\" is the correct expression, meaning to criticize or blame yourself excessively for something",
     "groupCode": 0
   },
   {
@@ -3403,7 +3403,7 @@
   },
   {
     "id": 3557,
-    "fa": "به نظر می رسد یادم می آید او را در مهمانی هفته گذشته ملاقات کردم",
+    "fa": "من انگار (به نظر رسیدن) یادم می آید او (زن) را در مهمانی هفته گذشته ملاقات کردم",
     "en": "I seem to remember meeting her at the party last week",
     "groupCode": 0
   },

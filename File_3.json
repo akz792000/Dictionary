@@ -472,5 +472,29 @@
     "en": "Visit (tour)",
     "de": "\n besichtige \n besichtigst \n besichtigt \n besichtigen \n besichtigt \n besichtigen",
     "groupCode": 1
+  },
+  {
+    "id": 20080,
+    "en": "Shine",
+    "de": "\n scheine \n scheinst \n scheint \n scheinen \n scheint \n scheinen",
+    "groupCode": 1
+  },
+  {
+    "id": 20081,
+    "en": "Bring along",
+    "de": "\n bringe mit \n bringst mit \n bringt mit \n bringen mit \n bringt mit \n bringen mit",
+    "groupCode": 1
+  },
+  {
+    "id": 20082,
+    "en": "Forget",
+    "de": "\n vergesse \n vergisst \n vergisst \n vergessen \n vergesst \n vergessen",
+    "groupCode": 1
+  },
+  {
+    "id": 20083,
+    "en": "Agree (with)",
+    "de": "\n stimme zu \n stimmst zu \n stimmt zu \n stimmen zu \n stimmt zu \n stimmen zu",
+    "groupCode": 1
   }
 ]

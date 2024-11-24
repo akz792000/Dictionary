@@ -4151,7 +4151,7 @@
   },
   {
     "id": 686,
-    "fa": "ناراحت میشی رانندگی کنی (مودبانه)؟ من دارم احساس خستگی می کنم و ممنون می شوم اگر بتوانید فرمان را بگیرید",
+    "fa": "ناراحت میشی رانندگی کنی (مودبانه)؟ من دارم احساس خستگی می کنم و ممنون می شوم (فرضی) اگر بتوانید (فرضی) فرمان را بگیرید",
     "en": "Would you mind driving? I'm feeling tired and would appreciate it if you could take the wheel",
     "desc": "\"Would you mind driving?\": This is a question asking if the person is willing to drive. It is a polite way to inquire if they have any objection or if it would be a problem for them to drive.\n\n\"You don't mind driving\": This is a statement assuming or confirming that the person is willing to drive. It suggests that the speaker believes the person is okay with driving and does not have any objections.\n\nIn summary, the first phrase asks for permission or willingness to drive, while the second phrase assumes or confirms the person's willingness to drive.",
     "groupCode": 0
@@ -14289,7 +14289,7 @@
   },
   {
     "id": 2356,
-    "fa": "به نظر می رسد یادم می آید تو را اخراج کردم",
+    "fa": "من انگار (به نظر رسیدن) یادم می آید تو را اخراج کردم",
     "en": "I seem to remember firing you",
     "groupCode": 0
   },
@@ -17141,7 +17141,7 @@
     "id": 2825,
     "fa": "شانس های او (برای اینکه) زنده از آنجا خارج شود حدود 1 یا 2 درصد است",
     "en": "The chances (likelihood) of him getting out of there alive are about 1 or 2 percent",
-    "desc": "In this sentence, \"percent\" is a measure of probability, not a countable noun like \"person.\" Therefore, the word \"percent\" is used in the same way whether it refers to a singular or plural value",
+    "desc": "In English, when referring to a percentage range or an unspecified amount, we use \"percent\" in its singular form, even if the number is more than one. For example, \"1 or 2 percent\" is correct, not \"percents.\" \"Percents\" is used when discussing multiple distinct percentages, like \"5, 10, and 15 percents.\"",
     "groupCode": 0
   },
   {
