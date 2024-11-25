@@ -1051,7 +1051,7 @@
   },
   {
     "id": 10175,
-    "en": "\n 1.Why is my pretzel no longer in the fridge? \n 2.Why is my pretzel not in the refrigerator anymore?",
+    "en": "Why is my pretzel no longer (more) in the fridge?",
     "de": "Warum ist meine Brezel nicht mehr im Kühlschrank?",
     "groupCode": 1
   },
@@ -1368,7 +1368,7 @@
   },
   {
     "id": 10227,
-    "en": "The film is boring. I don't want to stay in the cinema for three hours",
+    "en": "The film is boring. I don't want to stay in the cinema (for) three hours",
     "de": "Der Film ist langweilig. Ich will drei Stunden im Kino nicht",
     "groupCode": 1
   },
@@ -1646,7 +1646,7 @@
   },
   {
     "id": 10273,
-    "en": "Excuse me what size do you need?",
+    "en": "Excuse me which size do you need?",
     "de": "Entschuldigung welche größe brauchst du?",
     "groupCode": 1
   },
@@ -2378,7 +2378,7 @@
   },
   {
     "id": 10394,
-    "en": "Can you come or do you have to do your homework?",
+    "en": "Can you come or do you have to do the homework?",
     "de": "Kannst du kommen oder musst du die hausaufgaben machen?",
     "groupCode": 1
   },
@@ -2432,7 +2432,7 @@
   },
   {
     "id": 10403,
-    "en": "Wait (formal) please! You can't go now",
+    "en": "Wait (formal) please! You (formal) can't go now",
     "de": "Warten Sie bitte! Sie können jetzt nicht gehen",
     "groupCode": 1
   },
@@ -2511,7 +2511,7 @@
   },
   {
     "id": 10416,
-    "en": "We study for eight weeks in Bonn",
+    "en": "We study (for) eight weeks in Bonn",
     "de": "Wir studieren acht Wochen in Bonn",
     "groupCode": 1
   },
@@ -2529,13 +2529,13 @@
   },
   {
     "id": 10419,
-    "en": "This is prohibited at the airport. Your dog must stay at home",
+    "en": "This is prohibited at the airport. Your (formal) dog must stay at home",
     "de": "Das ist am Flughafen verboten. Ihr Hund muss zu Hause bleiben",
     "groupCode": 1
   },
   {
     "id": 10420,
-    "en": "Do you (formal) still need a moment?",
+    "en": "Do you (formal) still (more) need a moment?",
     "de": "Brauchen Sie noch einen Moment?",
     "groupCode": 1
   },
@@ -2891,13 +2891,13 @@
   },
   {
     "id": 10479,
-    "en": "I live in a shared apartment, not on campus",
+    "en": "I live in a shared apartment, not on the campus",
     "de": "Ich wohne in einer WG, nicht auf dem Campus",
     "groupCode": 1
   },
   {
     "id": 10480,
-    "en": "I study in London and I live on campus. My roommate (male) is from France. We study together",
+    "en": "I study in London and I live on the campus. My roommate (male) is from France. We study together",
     "de": "Ich studiere in London und ich wohne auf dem Campus. Mein Mitbewohner kommt aus Frankreich. Wir studieren zusammen",
     "groupCode": 1
   },
