@@ -3379,7 +3379,7 @@
   },
   {
     "id": 3553,
-    "fa": "من فکر می کنم او (زن) داره سعی می کند کاری را با شما انجام دهد از من انتقام بگیرد (به من پاسخ دهد)",
+    "fa": "من فکر می کنم او (زن) داره سعی می کند چیزی اتفاق بیافتد ببن شما تا از من انتقام بگیرد (به من پاسخ دهد)",
     "en": "I think she's trying to make something happen with you to get back at me",
     "groupCode": 0
   },
@@ -3439,8 +3439,8 @@
   },
   {
     "id": 3563,
-    "fa": "چقدر من انتظار دارم اون کار طول بکشد؟",
-    "en": "How long I expect that task to take?",
+    "fa": "چقدر من انتظار دارم اون وظیفه طول بکشد؟",
+    "en": "How long do I expect that task to take?",
     "groupCode": 0
   },
   {
@@ -3475,7 +3475,7 @@
   },
   {
     "id": 3569,
-    "fa": "نام ببر یکی از دوستانتان را (که) من اونطور (اون روش) انجام دادم",
+    "fa": "نام ببرید یکی از دوستانت را (که) من اونطور (اون روش) انجام دادم",
     "en": "Name one friend of yours I did that way",
     "groupCode": 0
   },
@@ -3483,6 +3483,37 @@
     "id": 3570,
     "fa": "باور کنید یا نه درست است",
     "en": "Believe it or not it's true",
+    "groupCode": 0
+  },
+  {
+    "id": 3571,
+    "fa": "من گلو درد دارم و سرفه ام شروع شده است، بنابراین امروز به محل کار نمی آیم",
+    "en": "I have a sore throat and I've started coughing, so I won't come to the office today",
+    "groupCode": 0
+  },
+  {
+    "id": 3572,
+    "fa": "ما می خواستیم به شما اطلاع دهیم که تصمیم گرفته ایم با کاندیداتوری شما جلو نرویم",
+    "en": "We wanted to let you know that we have decided to not move forward with your candidacy",
+    "groupCode": 0
+  },
+  {
+    "id": 3573,
+    "fa": "ما خوشحال خواهیم شد اگر شما ما را مد نظر داشته باشید و به طور منظم سایت ما را برای فرصت های مناسب چک کنید",
+    "en": "We would be happy if you kept considering us and regularly check our site for fitting opportunities",
+    "groupCode": 0
+  },
+  {
+    "id": 3574,
+    "fa": "انتظارات حقوق شما فراتر می رود از بودجه برنامه ریزی شده ما برای این موقعیت",
+    "en": "Your salary expectation exceeds our planned budget for the position",
+    "groupCode": 0
+  },
+  {
+    "id": 3575,
+    "fa": "من دیگر شیرینی نمی خورم زیرا نمی خواهم قند بیشتری در رژیم غذایی ام",
+    "en": "I don't eat sweets anymore because I don't want any more sugar in my diet",
+    "desc": "Use \"anymore\" for time-related meanings (no longer or nowadays).\nUse \"any more\" when referring to quantity (additional items or amounts).",
     "groupCode": 0
   }
 ]
