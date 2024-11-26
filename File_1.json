@@ -8,7 +8,7 @@
   },
   {
     "id": 3002,
-    "fa": "تو باید کمی بخوابی چون دیر شده",
+    "fa": "تو باید کمی بخوابی (کمی خواب بگیری) چون دیر شده",
     "en": "You should get some sleep because it's getting late",
     "groupCode": 0
   },
@@ -3457,7 +3457,7 @@
   },
   {
     "id": 3566,
-    "fa": "اگر این فراتر می رود از (آن) چه ممکن است برای بودجه شما، من به تصمیم شما احترام می گذارم و آرزو می کنم برای شما بهترین ها را در یافتن کاندبدای مناسب",
+    "fa": "اگر این فراتر می رود از (آن) چه ممکن است برای بودجه شما، من به تصمیم شما احترام می گذارم و آرزو می کنم برای شما بهترین را در یافتن کاندبدای مناسب",
     "en": "If this exceeds what is feasible for your budget, I respect your decision and wish you the best in finding the right candidate",
     "groupCode": 0
   },
@@ -3493,7 +3493,7 @@
   },
   {
     "id": 3572,
-    "fa": "ما می خواستیم به شما اطلاع دهیم که تصمیم گرفته ایم با کاندیداتوری شما جلو نرویم",
+    "fa": "ما می خواستیم به شما اطلاع دهیم که ما تصمیم گرفته ایم با کاندیداتوری شما جلو نرویم",
     "en": "We wanted to let you know that we have decided to not move forward with your candidacy",
     "groupCode": 0
   },
