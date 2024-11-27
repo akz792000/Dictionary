@@ -3452,12 +3452,13 @@
   {
     "id": 3565,
     "fa": "چرا ادامش نمیدی (بلندش نمی کنی) از جایی که او (زن) متوقف کرد (انداخت)؟",
-    "en": "Why don't you pick it up where she left off?",
+    "en": "Why don't you pick it up (from) where she left off?",
+    "desc": "Without \"from\": Casual and direct.\nWith \"from\": Slightly formal, emphasizes the starting point.",
     "groupCode": 0
   },
   {
     "id": 3566,
-    "fa": "اگر این فراتر می رود از (آن) چه ممکن است برای بودجه شما، من به تصمیم شما احترام می گذارم و آرزو می کنم برای شما بهترین را در یافتن کاندبدای مناسب",
+    "fa": "اگر این فراتر می رود از (آن) چه ممکن است برای بودجه شما، من به تصمیم شما احترام می گذارم و آرزو می کنم برای شما بهترین را در یافتن کاندیدای مناسب",
     "en": "If this exceeds what is feasible for your budget, I respect your decision and wish you the best in finding the right candidate",
     "groupCode": 0
   },
@@ -3499,7 +3500,7 @@
   },
   {
     "id": 3573,
-    "fa": "ما خوشحال خواهیم شد اگر شما ما را مد نظر داشته باشید و به طور منظم سایت ما را برای فرصت های مناسب چک کنید",
+    "fa": "ما خوشحال خواهیم شد (فرضی) اگر شما ما را مد نظر داشته باشید و به طور منظم سایت ما را برای فرصت های مناسب چک کنید",
     "en": "We would be happy if you kept considering us and regularly check our site for fitting opportunities",
     "groupCode": 0
   },
@@ -3514,6 +3515,36 @@
     "fa": "من دیگر شیرینی نمی خورم زیرا نمی خواهم قند بیشتری در رژیم غذایی ام",
     "en": "I don't eat sweets anymore because I don't want any more sugar in my diet",
     "desc": "Use \"anymore\" for time-related meanings (no longer or nowadays).\nUse \"any more\" when referring to quantity (additional items or amounts).",
+    "groupCode": 0
+  },
+  {
+    "id": 3576,
+    "fa": "بستگی دارد چقدر عمیق رابطه او (زن) و پدرش بوده",
+    "en": "It depends on how deep the relationship between her and her father was",
+    "groupCode": 0
+  },
+  {
+    "id": 3577,
+    "fa": "من مجبور شدم کون گشادم رو جمع کنم تا پایان دهم به پروژه قبل از آخرین مهلت (ضرب الاجل)",
+    "en": "I had to work my ass off to finish the project before the deadline",
+    "groupCode": 0
+  },
+  {
+    "id": 3578,
+    "fa": "من (در حال حاضر) صادق هستم",
+    "en": "I am being honest",
+    "groupCode": 0
+  },
+  {
+    "id": 3579,
+    "fa": "پدرت با چه ماشینی تو را به مدرسه می رساند؟",
+    "en": "What car did your dad drive you to school in?",
+    "groupCode": 0
+  },
+  {
+    "id": 3580,
+    "fa": "بیایید دورتر ببریمش و ببینیم این ایده به کجا منجر می شود",
+    "en": "Let's take it farther and see where this idea leads",
     "groupCode": 0
   }
 ]

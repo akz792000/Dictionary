@@ -1694,8 +1694,8 @@
   },
   {
     "id": 10281,
-    "en": "Is the park really closed?",
-    "de": "Ist der Park wirklich geschlossen?",
+    "en": "His German is very good and her German is perfect",
+    "de": "Sein Deutsch ist sehr gut und ihr Deutsch ist perfekt",
     "groupCode": 1
   },
   {
@@ -2113,7 +2113,7 @@
   },
   {
     "id": 10350,
-    "en": "I don't like the bed and bookcase",
+    "en": "I don't like the bed and the bookcase",
     "de": "Ich mag das Bett und das Bücherregal nicht",
     "groupCode": 1
   },
@@ -2131,8 +2131,8 @@
   },
   {
     "id": 10353,
-    "en": "I have applied for the job two weeks ago",
-    "de": "Ich habe mich vor zwei Wochen um den Job beworben",
+    "en": "How is her English? Her English is really perfect",
+    "de": "Wie ist ihr Englisch? Ihr Englisch ist wirklich perfekt",
     "groupCode": 1
   },
   {
@@ -2643,13 +2643,13 @@
   },
   {
     "id": 10438,
-    "en": "What color is your (formal) phone?",
+    "en": "What color does your (formal) cell phone have?",
     "de": "Welche Farbe hat Ihr Handy?",
     "groupCode": 1
   },
   {
     "id": 10439,
-    "en": "Open your (froaml) water bottle, please",
+    "en": "Open your (formal) water bottle, please",
     "de": "Öffnen Sie Ihre Wasserflasche, bitte",
     "groupCode": 1
   },
@@ -2905,6 +2905,181 @@
     "id": 10481,
     "en": "I have the information. I have many (pieces) of information",
     "de": "Ich habe die Information. Ich habe viele Informationen",
+    "groupCode": 1
+  },
+  {
+    "id": 10482,
+    "en": "Finally the homework is done, you are helpful",
+    "de": "Endlich ist die Hausarbeit fertig, du bist hilfreich",
+    "groupCode": 1
+  },
+  {
+    "id": 10483,
+    "en": "Can you work on Saturdays?",
+    "de": "Können Sie samstags arbeiten?",
+    "groupCode": 1
+  },
+  {
+    "id": 10484,
+    "en": "No, I unfortunately cannot work on Saturdays",
+    "de": "Nein, ich kann samstags leider nicht arbeiten",
+    "groupCode": 1
+  },
+  {
+    "id": 10485,
+    "en": "Yes, I have a question for you (formal)",
+    "de": "Ja, ich habe eine Frage für Sie",
+    "groupCode": 1
+  },
+  {
+    "id": 10486,
+    "en": "You need a driver's license for the job",
+    "de": "Sie brauchen einen Führerschein für den job",
+    "groupCode": 1
+  },
+  {
+    "id": 10487,
+    "en": "The city has many offices. Where is your office?",
+    "de": "Die Stadt hat viele Büros. Wo ist dein Büro?",
+    "groupCode": 1
+  },
+  {
+    "id": 10488,
+    "en": "Don’t you drink wheat beer?",
+    "de": "Trinkst du kein Weißbier",
+    "desc": "\"Kein Weißbier\" negates wheat beer in general, not a specific one.\n\nTranslation: \"Don’t you drink wheat beer?\"",
+    "groupCode": 1
+  },
+  {
+    "id": 10489,
+    "en": "I don't like working alone",
+    "de": "Ich arbeite nicht gern allein",
+    "groupCode": 1
+  },
+  {
+    "id": 10490,
+    "en": "Are your (plural) colleagues also friendly, Ali and Ilia?",
+    "de": "Sind eure Kollegen auch freundlich, Ali und Ilia?",
+    "groupCode": 1
+  },
+  {
+    "id": 10491,
+    "en": "Does our boss smoke?",
+    "de": "Raucht unsere Chefin?",
+    "groupCode": 1
+  },
+  {
+    "id": 10492,
+    "en": "I have to go to the doctor, I have a nut allergy",
+    "de": "Ich muss zum Arzt gehen, ich habe eine Nussallergie",
+    "groupCode": 1
+  },
+  {
+    "id": 10493,
+    "en": "The food is hot, eat slowly Ilia",
+    "de": "Das Essen ist heiß, iss langsam Ilia",
+    "groupCode": 1
+  },
+  {
+    "id": 10494,
+    "en": "Go right and then left",
+    "de": "Gehen Sie rechts und dann links",
+    "groupCode": 1
+  },
+  {
+    "id": 10495,
+    "en": "You (formal) are in the photo. Not me",
+    "de": "Sie sind auf dem Foto. Nicht ich",
+    "groupCode": 1
+  },
+  {
+    "id": 10496,
+    "en": "You (formal) have to photograph me",
+    "de": "Sie müssen mich fotografieren",
+    "groupCode": 1
+  },
+  {
+    "id": 10497,
+    "en": "Oh no, I still (more) need to pack socks, but they are dirty! We go in an hour and now I can't wash them more",
+    "de": "Oh nein, ich muss noch socken einpacken, aber sie sind schmutzig! Wir gehen in einer Stunde und jetzt kann ich sie nicht mehr waschen",
+    "groupCode": 1
+  },
+  {
+    "id": 10498,
+    "en": "Here are my sandals, where are my socks?",
+    "de": "Hier sind meine Sandalen, wo sind meine Socken?",
+    "groupCode": 1
+  },
+  {
+    "id": 10499,
+    "en": "You pick up fifteen pizzas and I'll pick up the cake. Is that enough food for the party?",
+    "de": "Du holst fünfzehn Pizzas aub und ich hole den Kuchen ab. Ist das genung Essen fur die Party?",
+    "groupCode": 1
+  },
+  {
+    "id": 10500,
+    "en": "I pick up Ilia earlier",
+    "de": "Ich hole Ilia früher ab",
+    "groupCode": 1
+  },
+  {
+    "id": 10501,
+    "en": "I have a request, can you buy the cake?",
+    "de": "Ich habe eine bitte, kannst du den Kuchen kaufen?",
+    "groupCode": 1
+  },
+  {
+    "id": 10502,
+    "en": "Can you pick me up earlier?",
+    "de": "Kannst du mich früher abholen?",
+    "groupCode": 1
+  },
+  {
+    "id": 10503,
+    "en": "My husband does not have a headache anymore (more)",
+    "de": "Mein mann hat keine Kopfschmerzen mehr",
+    "groupCode": 1
+  },
+  {
+    "id": 10504,
+    "en": "I'm picking you up later",
+    "de": "Ich hole dich später ab",
+    "groupCode": 1
+  },
+  {
+    "id": 10505,
+    "en": "I want to go to the club but I have to clean my car",
+    "de": "Ich will in den Club gehen aber ich muss mein Auto putzen",
+    "groupCode": 1
+  },
+  {
+    "id": 10506,
+    "en": "I can't go to the club without my ID",
+    "de": "Ich kann ohne meinen Ausweis nicht in den Club gehen",
+    "groupCode": 1
+  },
+  {
+    "id": 10507,
+    "en": "My roommate (male) is angry but why?",
+    "de": "Mein Mitbewohner ist verärgert aber warum?",
+    "groupCode": 1
+  },
+  {
+    "id": 10508,
+    "en": "Ali, buy bread and milk next time! Why do you always buy cookies?",
+    "de": "Ali, kauf nächstes Mal Brot und Milch! Warum kaufst du immer kekse?",
+    "groupCode": 1
+  },
+  {
+    "id": 10509,
+    "en": "We don't have any (have no) groceries. When are you going to the supermarket? Ali, go to the supermarket now",
+    "de": "Wir haben keine Lebensmittel. Wann gehst du in den Supermarkt? Ali, geh jetzt in den Supermarkt",
+    "groupCode": 1
+  },
+  {
+    "id": 10510,
+    "en": "You are lazy! You never clean the microwave",
+    "de": "Du bist faul! Du putzt nie die Mikrowelle",
     "groupCode": 1
   }
 ]

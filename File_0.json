@@ -6164,7 +6164,7 @@
   },
   {
     "id": 1016,
-    "fa": "مجبور بودم دو روز متوالی دیر کار کنم تا به ضرب الاجل پروژه برسم",
+    "fa": "مجبور بودم دو روز متوالی دیر کار کنم تا به آخرین مهلت (ضرب الاجل) پروژه برسم",
     "en": "I had to work late two days in a row to meet the project deadline",
     "groupCode": 0
   },
@@ -6261,7 +6261,7 @@
   },
   {
     "id": 1032,
-    "fa": "در نظر داشته باشید که فردا آخرین مهلت عرضه درخواست شماست",
+    "fa": "در نظر داشته باشید که فردا آخرین مهلت (ضرب الاجل) عرضه درخواست شماست",
     "en": "Keep in mind that tomorrow is the deadline for submitting your application",
     "groupCode": 0
   },
@@ -6321,7 +6321,7 @@
   },
   {
     "id": 1042,
-    "fa": "شما باید کار واگذار شده خود را در مهلت مقرر عرضه کنید",
+    "fa": "شما باید کار واگذار شده خود را تا آخرین مهلت (ضرب الاجل) عرضه کنید",
     "en": "You must submit your assignment by the deadline",
     "desc": "\"should\" suggests a recommendation or preference, allowing some discretion, while \"must\" conveys a stronger sense of obligation or requirement, leaving little to no room for choice.",
     "groupCode": 0
