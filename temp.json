@@ -3,7 +3,6 @@
 //due to = به دلیل
 
 [
-
   {
     "id":,
     "fa": "",
@@ -109,12 +108,6 @@
   },
   {
     "id":,
-    "fa": "معمولاً چه چیزی شما را از ارائه بازخورد به متقاضیان رد شده باز می دارد؟",
-    "en": "What usually holds you back from providing feedback to rejected applicants?",
-    "groupCode": 0
-  },
-  {
-    "id":,
     "fa": "",
     "en": "My current employer just offered me a better salary, a 40% increase, in case I don't resign. This only happened after I officially resigned to my boss. What would be my best decision?",
     "groupCode": 0
@@ -152,12 +145,6 @@
   {
     "id":,
     "fa": "",
-    "en": "",
-    "groupCode": 0
-  },
-  {
-    "id":,
-    "fa": "",
     "en": "How to disagree with your boss without getting sacked",
     "groupCode": 0
   },
@@ -172,20 +159,7 @@
     "fa": "",
     "en": "Ever dreamt of levelling up your advanced English skills in just an hour?",
     "groupCode": 0
-  },
-  {
-    "id":,
-    "fa": "",
-    "en": ".",
-    "groupCode": 0
-  },
-  {
-    "id":,
-    "fa": "",
-    "en": "",
-    "groupCode": 0
   }
-
 ]
 
 

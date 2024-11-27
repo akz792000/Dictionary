@@ -320,6 +320,12 @@
     "groupCode": 1
   },
   {
+    "id": 10053,
+    "en": "can you (formal) help me?",
+    "de": "Können sie mir helfen?",
+    "groupCode": 1
+  },
+  {
     "id": 10054,
     "en": "The closet is cool. Do you like the closet?",
     "de": "Der Schrank ist cool. Magst du den Schrank?",
@@ -3080,6 +3086,66 @@
     "id": 10510,
     "en": "You are lazy! You never clean the microwave",
     "de": "Du bist faul! Du putzt nie die Mikrowelle",
+    "groupCode": 1
+  },
+  {
+    "id": 10511,
+    "en": "Do you (plural) want to listen to jazz together?",
+    "de": "Wollt ihr zusammen Jazz hören?",
+    "groupCode": 1
+  },
+  {
+    "id": 10512,
+    "en": "Good day. My name is Ali and come from Iran and live in Munich now",
+    "de": "Guten tag. Ich heiße Ali und komme aus dem Iran und wohne jetzt in München",
+    "groupCode": 1
+  },
+  {
+    "id": 10513,
+    "en": "I'm not tired at night",
+    "de": "Ich bin nachts nicht müde",
+    "groupCode": 1
+  },
+  {
+    "id": 10514,
+    "en": "Do you have a pill?",
+    "de": "Hast du eine Tablette?",
+    "groupCode": 1
+  },
+  {
+    "id": 10515,
+    "en": "Akbar, go to the doctor please",
+    "de": "Akbar, geh Zum Arzt bitte",
+    "groupCode": 1
+  },
+  {
+    "id": 10516,
+    "en": "I would like to make an appointment",
+    "de": "Ich mochte einen Termin machen",
+    "groupCode": 1
+  },
+  {
+    "id": 10517,
+    "en": "Good evening. His name is Asghar and studies philosophy in Munich",
+    "de": "Guten abend. Er heißt Asghar und studiert Philosophie in München",
+    "groupCode": 1
+  },
+  {
+    "id": 10518,
+    "en": "Do you (plural) want to jog in the park tomorrow?",
+    "de": "Wollt ihr morgen im Park joggen?",
+    "groupCode": 1
+  },
+  {
+    "id": 10519,
+    "en": "Can you (formal) sleep well at night, Mr. Kohl?",
+    "de": "Können Sie nachts gut schlafen, Herr Kohl?",
+    "groupCode": 1
+  },
+  {
+    "id": 10520,
+    "en": "I am always thirsty at night",
+    "de": "Ich habe nachts immer Durst",
     "groupCode": 1
   }
 ]
