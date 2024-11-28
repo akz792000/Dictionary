@@ -3546,5 +3546,65 @@
     "fa": "بیایید دورتر ببریمش و ببینیم این ایده به کجا منجر می شود",
     "en": "Let's take it farther and see where this idea leads",
     "groupCode": 0
+  },
+  {
+    "id": 3581,
+    "fa": "من PR مربوطه را ادغام کرده ام، بنابراین شما می تونید برید جلو و الان شروع کنید",
+    "en": "I've merged the relevant PR, so you can go ahead and start now",
+    "groupCode": 0
+  },
+  {
+    "id": 3582,
+    "fa": "من همین الان قطع کردم گوشی رو با خواهرم",
+    "en": "I just got off the phone with my sister",
+    "groupCode": 0
+  },
+  {
+    "id": 3583,
+    "fa": "او (مرد) کسی است که با او (زن) وقت گذرانی می کرد (شوخی می کرد)",
+    "en": "He is the one who fooled around with her",
+    "groupCode": 0
+  },
+  {
+    "id": 3584,
+    "fa": "این مشکل کیه؟ مال ماست",
+    "en": "Whose problem is this? It's ours",
+    "groupCode": 0
+  },
+  {
+    "id": 3585,
+    "fa": "او (مرد) آنقدر سرسخت است که بپرسد برای کمک",
+    "en": "He is too stubborn to ask for help",
+    "groupCode": 0
+  },
+  {
+    "id": 3586,
+    "fa": "به من گوش کن, لطفا",
+    "en": "Hear me out, please",
+    "groupCode": 0
+  },
+  {
+    "id": 3587,
+    "fa": "من کسی دیگری را نداشتم که بپرسم برای کمک",
+    "en": "I had no one else to ask for help",
+    "groupCode": 0
+  },
+  {
+    "id": 3588,
+    "fa": "طول می کشد بیش از چهار برابر تلاشی (که) او (مرد) می خواهد انجام دهد (بره داخلش)",
+    "en": "It takes more than four times the effort he wants to go through",
+    "groupCode": 0
+  },
+  {
+    "id": 3589,
+    "fa": "من نقشه دارم نزدیک شوم به این چالش به روشی عمل گرایانه, در اولویت قرار دهم کارایی و نتایج را",
+    "en": "I plan to approach this challenge in a pragmatic way, prioritizing efficiency and results",
+    "groupCode": 0
+  },
+  {
+    "id": 3590,
+    "fa": "2 ساعت طول نمی کشید اگر کمک خواسته بود و ما اصلاً این مشکل را نداشتیم",
+    "en": "It might have not taken 2 hours if he had asked for help, and we wouldn't be having this problem at all",
+    "groupCode": 0
   }
 ]

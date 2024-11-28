@@ -104,7 +104,7 @@
   },
   {
     "id": 10018,
-    "en": "Where does your (formal) partner come from?",
+    "en": "Where does your (formal) partner (male) come from?",
     "de": "Woher kommt Ihr Partner?",
     "desc": "\"Woher kommt Ihr Partner?\"\nThis is correct if you're using the formal \"Sie\" (you), addressing someone politely and referring to their partner (formal possessive form).\n\n\"Woher kommt ihr Partner?\"\nThis is correct if you're using the informal \"ihr\" (you all), addressing a group informally and referring to their partner (informal possessive form).\n\n",
     "groupCode": 1
@@ -3146,6 +3146,156 @@
     "id": 10520,
     "en": "I am always thirsty at night",
     "de": "Ich habe nachts immer Durst",
+    "groupCode": 1
+  },
+  {
+    "id": 10521,
+    "en": "Our break is not long",
+    "de": "Unsere Pause ist nicht lang",
+    "groupCode": 1
+  },
+  {
+    "id": 10522,
+    "en": "I just want to read, but I have to work",
+    "de": "Ich will nur lesen, aber ich muss arbeiten",
+    "groupCode": 1
+  },
+  {
+    "id": 10523,
+    "en": "I have to go soon",
+    "de": "Ich muss bald gehen",
+    "groupCode": 1
+  },
+  {
+    "id": 10524,
+    "en": "Let's go to the movies",
+    "de": "Lass uns ins Kino gehen",
+    "groupCode": 1
+  },
+  {
+    "id": 10525,
+    "en": "Our end of the workday is at five o'clock",
+    "de": "Unser Feierabend ist um fünf Uhr",
+    "groupCode": 1
+  },
+  {
+    "id": 10526,
+    "en": "My car is broken, can you pick me up?",
+    "de": "Mein Auto ist kaputt, kannst du mich abholen?",
+    "groupCode": 1
+  },
+  {
+    "id": 10527,
+    "en": "Asghar doesn't have a driver's license. I have to pick him up",
+    "de": "Asghar hat keinen Führerschein. Ich muss ihn abholen",
+    "groupCode": 1
+  },
+  {
+    "id": 10528,
+    "en": "It's finally Friday",
+    "de": "Es ist endlich Freitag",
+    "groupCode": 1
+  },
+  {
+    "id": 10529,
+    "en": "Would you like to go to the swimming pool?",
+    "de": "Möchtest du ins Schwimmbad gehen?",
+    "groupCode": 1
+  },
+  {
+    "id": 10530,
+    "en": "My uncle's birthday is on the first of March",
+    "de": "Mein Onkel hat am ersten März Geburtstag",
+    "groupCode": 1
+  },
+  {
+    "id": 10531,
+    "en": "My dog eats a lot and I need a new job",
+    "de": "Mein Hund isst viel und ich brauche einen neuen Job",
+    "groupCode": 1
+  },
+  {
+    "id": 10532,
+    "en": "I want to work in a team",
+    "de": "Ich will in einem Team arbeiten",
+    "groupCode": 1
+  },
+  {
+    "id": 10533,
+    "en": "Ali, are your colleagues nice? Tim and Mia, do your roommates also work here?",
+    "de": "Ali, sind deine Kollegen nett? Tim und Mia, arbeiten eure Mitbewohner auch hier?",
+    "groupCode": 1
+  },
+  {
+    "id": 10534,
+    "en": "My colleague wants to take a vacation",
+    "de": "Mein Kollege will Urlaub machen",
+    "groupCode": 1
+  },
+  {
+    "id": 10535,
+    "en": "My boss Ali, wants to have a party in the office",
+    "de": "Mein Chef Ali, will eine Party im Büro machen",
+    "groupCode": 1
+  },
+  {
+    "id": 10536,
+    "en": "I'm going to the bar now bye",
+    "de": "Ich gehe jetzt in die Bar tschüss",
+    "groupCode": 1
+  },
+  {
+    "id": 10537,
+    "en": "Yes, my partner and I like going to the theater",
+    "de": "Ja, meine Partnerin und ich gehen gern ins Theater",
+    "groupCode": 1
+  },
+  {
+    "id": 10538,
+    "en": "My mother's birthday is on first of March",
+    "de": "Meine Mutter hat am ersten März geburtstag",
+    "groupCode": 1
+  },
+  {
+    "id": 10539,
+    "en": "Can you sit on this chair?",
+    "de": "Kannst du auf diesem Stuhl sitzen?",
+    "groupCode": 1
+  },
+  {
+    "id": 10540,
+    "en": "I would like to do an excursion",
+    "de": "Ich möchte einen Ausflug machen",
+    "groupCode": 1
+  },
+  {
+    "id": 10541,
+    "en": "Don't eat too much schnitzel",
+    "de": "Iss nicht zu viel Schnitzel",
+    "groupCode": 1
+  },
+  {
+    "id": 10542,
+    "en": "There is an excursion to Bonn",
+    "de": "Es gibt einen Ausflug nach Bonn",
+    "groupCode": 1
+  },
+  {
+    "id": 10543,
+    "en": "The train is cancelled, I would like to cancel my ticket",
+    "de": "Der Zug fällt aus, ich möchte meine Fahrkarte stornieren",
+    "groupCode": 1
+  },
+  {
+    "id": 10544,
+    "en": "I'm always thirsty at night",
+    "de": "Ich habe nachts immer durst",
+    "groupCode": 1
+  },
+  {
+    "id": 10545,
+    "en": "My friends like eatting Italian for dinner",
+    "de": "Meine Freunde essen gern italienisch zum Abendessen",
     "groupCode": 1
   }
 ]
