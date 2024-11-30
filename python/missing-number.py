@@ -8,7 +8,7 @@ def find_missing_id(ids):
     return missing_ids
 
 # Load JSON data
-with open('File_0.json', 'r', encoding='utf-8') as file:
+with open('../File_0.json', 'r', encoding='utf-8') as file:
     data = json.load(file)
 
 # Extract all IDs from the JSON data

@@ -1094,8 +1094,8 @@
   },
   {
     "id": 10181,
-    "en": "It is still early",
-    "de": "Es ist noch früh",
+    "en": "Do you (plural) often play tennis together?",
+    "de": "Spielt ihr oft Tennis zusammen?",
     "groupCode": 1
   },
   {
@@ -1130,8 +1130,8 @@
   },
   {
     "id": 10187,
-    "en": "Is the mustard too spicy for you?",
-    "de": "Ist der Senf zu scharf für dich?",
+    "en": "We have time next week. Do you (plural) want to go camping?",
+    "de": "Wir haben nächste Woche Zeit. Wollt ihr campen gehen?",
     "groupCode": 1
   },
   {
@@ -2625,8 +2625,8 @@
   },
   {
     "id": 10434,
-    "en": "How many liters of water does the elephant drink?",
-    "de": "Wie viele Liter Wasser trinkt der Elefant?",
+    "en": "I have no time next week",
+    "de": "Ich habe nächste Woche keine Zeit",
     "groupCode": 1
   },
   {
@@ -2727,8 +2727,8 @@
   },
   {
     "id": 10451,
-    "en": "I am always motivated and I learn quickly",
-    "de": "Ich bin immer motiviert und Ich lerne schnell",
+    "en": "Would you (plural) like to watch a movie?",
+    "de": "Möchtet ihr einen Film sehen?",
     "groupCode": 1
   },
   {
@@ -3180,8 +3180,8 @@
   },
   {
     "id": 10526,
-    "en": "My car is broken, can you pick me up?",
-    "de": "Mein Auto ist kaputt, kannst du mich abholen?",
+    "en": "I can play an instrument and you?",
+    "de": "Ich kann ein Instrument spielen und du?",
     "groupCode": 1
   },
   {
@@ -3296,6 +3296,300 @@
     "id": 10545,
     "en": "My friends like eatting Italian for dinner",
     "de": "Meine Freunde essen gern italienisch zum Abendessen",
+    "groupCode": 1
+  },
+  {
+    "id": 10546,
+    "en": "We want to visit the zoo",
+    "de": "Wir möchten den zoo besuchen",
+    "groupCode": 1
+  },
+  {
+    "id": 10547,
+    "en": "I am happy, my son doesn't have a fever more",
+    "de": "Ich bin glücklich, mein Sohn hat kein Fieber mehr",
+    "groupCode": 1
+  },
+  {
+    "id": 10548,
+    "en": "The single room costs twenty euros per night",
+    "de": "Das Einzelzimmer kostet zwanzig in Euro pro Nacht",
+    "groupCode": 1
+  },
+  {
+    "id": 10549,
+    "en": "Until what time is the bar open?",
+    "de": "Bis wann ist die Bar geöffnet?",
+    "groupCode": 1
+  },
+  {
+    "id": 10550,
+    "en": "Does the bar also have wine or just beer?",
+    "de": "Hat die bar auch Wein oder nur Bier?",
+    "groupCode": 1
+  },
+  {
+    "id": 10551,
+    "en": "How much does a double room cost?",
+    "de": "Wie viel kostet ein Doppelzimmer?",
+    "groupCode": 1
+  },
+  {
+    "id": 10552,
+    "en": "No black dress",
+    "de": "Kein schwarzes Kleid",
+    "groupCode": 1
+  },
+  {
+    "id": 10553,
+    "en": "Do you want the single room with breakfast?",
+    "de": "Wollen Sie das Einzelzimmer mit Frühstück?",
+    "groupCode": 1
+  },
+  {
+    "id": 10554,
+    "en": "There is an armchair in the room",
+    "de": "Es gibt einen Sessel in Zimmer",
+    "groupCode": 1
+  },
+  {
+    "id": 10555,
+    "en": "How many nights would you like to stay?",
+    "de": "Wie viele nächte möchten Sie bleiben?",
+    "groupCode": 1
+  },
+  {
+    "id": 10556,
+    "en": "I celebrate my birthday in the restaurant",
+    "de": "Ich feiere meinen Geburtstag im Restaurant",
+    "groupCode": 1
+  },
+  {
+    "id": 10557,
+    "en": "Do you play an instrument?",
+    "de": "Spielst du ein Instrument?",
+    "groupCode": 1
+  },
+  {
+    "id": 10558,
+    "en": "Drive straight for about 11 minutes",
+    "de": "Fahren Sie circa 11 Minuten geradeaus",
+    "groupCode": 1
+  },
+  {
+    "id": 10559,
+    "en": "We celebrate your birthday in the restaurant",
+    "de": "Wir feiern deinen Geburtstag im Restaurant",
+    "groupCode": 1
+  },
+  {
+    "id": 10560,
+    "en": "You must visit us in October",
+    "de": "Du musst uns im Oktober besuchen",
+    "groupCode": 1
+  },
+  {
+    "id": 10561,
+    "en": "The ham is for her. She likes the ham",
+    "de": "Der Schinken ist für sie. Sie mag den Schinken",
+    "groupCode": 1
+  },
+  {
+    "id": 10562,
+    "en": "The food is hot. Eat slowly Ali",
+    "de": "Das Essen ist heiß. Iss langsam Ali",
+    "groupCode": 1
+  },
+  {
+    "id": 10563,
+    "en": "I don't eat potato salad with ham",
+    "de": "Ich esse keinen kartoffelsalat mit Schinken",
+    "groupCode": 1
+  },
+  {
+    "id": 10564,
+    "en": "Our neighbor is currently looking for an apartment",
+    "de": "Unser Nachbar sucht zurzeit eine Wohnung",
+    "groupCode": 1
+  },
+  {
+    "id": 10565,
+    "en": "My roommates always go to the club at night. They like to dance, but I prefer to sleep",
+    "de": "Meine Mitbewohner gehen nachts immer in den Club. sie tanzen gern, aber ich schlafe lieber",
+    "groupCode": 1
+  },
+  {
+    "id": 10566,
+    "en": "Does your roommate always go to the club?",
+    "de": "Geht deine Mitbewohner immer in den Club?",
+    "groupCode": 1
+  },
+  {
+    "id": 10567,
+    "en": "I like this apartment, but I can't pay the rent",
+    "de": "Ich mag diese Wohnung, aber ich kann die Miete nicht zahlen",
+    "groupCode": 1
+  },
+  {
+    "id": 10568,
+    "en": "It is too expensive without a job",
+    "de": "Es ist zu teuer ohne einen Job",
+    "groupCode": 1
+  },
+  {
+    "id": 10569,
+    "en": "I want an apartment without a balcony",
+    "de": "Ich will meine Wohnung ohne einen Balkon",
+    "groupCode": 1
+  },
+  {
+    "id": 10570,
+    "en": "He never has money for the rent",
+    "de": "Er hat nie Geld für die Miete",
+    "groupCode": 1
+  },
+  {
+    "id": 10571,
+    "en": "I am very angry",
+    "de": "Ich bin sehr verärgert",
+    "groupCode": 1
+  },
+  {
+    "id": 10572,
+    "en": "I pick up Grandpa at three o'clock",
+    "de": "Ich hole Opa um drei Uhr ab",
+    "groupCode": 1
+  },
+  {
+    "id": 10573,
+    "en": "The door is broken",
+    "de": "Die Tür ist kaputt",
+    "groupCode": 1
+  },
+  {
+    "id": 10574,
+    "en": "The sausage is too hot",
+    "de": "Die Wurst ist zu heiß",
+    "groupCode": 1
+  },
+  {
+    "id": 10575,
+    "en": "I need a clock in the room",
+    "de": "Ich brauche eine Uhr im Zimmer",
+    "groupCode": 1
+  },
+  {
+    "id": 10576,
+    "en": "I meet Asghar in the beer garden",
+    "de": "Ich treffe Asghar im Biergarten",
+    "groupCode": 1
+  },
+  {
+    "id": 10577,
+    "en": "Don't drink my Cola anymore",
+    "de": "Trinkt meine Cola nicht mehr",
+    "groupCode": 1
+  },
+  {
+    "id": 10578,
+    "en": "We can't eat anything because our fridge is empty",
+    "de": "Wir können nichts essen, denn unser Kühlschrank ist leer",
+    "groupCode": 1
+  },
+  {
+    "id": 10579,
+    "en": "You are a sweetheart and I love you",
+    "de": "Du bist ein Schatz und Ich liebe dich",
+    "groupCode": 1
+  },
+  {
+    "id": 10580,
+    "en": "You are a sweetheart. Thank you for your help. The apartment is really tidy now. Do you want to go to the restaurant?",
+    "de": "Du bist ein Schatz. Vielen Dank für deine Hilfe. Die Wohnung ist jetzt wirklich ordentlich. Willst du ins Restaurant gehen?",
+    "groupCode": 1
+  },
+  {
+    "id": 10581,
+    "en": "Be quiet please. I'm still not finished",
+    "de": "Sei leise bitte. Ich bin noch nicht fertig",
+    "groupCode": 1
+  },
+  {
+    "id": 10582,
+    "en": "I am reading a children's book with my niece",
+    "de": "Ich lese mit meiner Nichte ein Kinderbuch",
+    "groupCode": 1
+  },
+  {
+    "id": 10583,
+    "en": "Can you read a children's book with my sister?",
+    "de": "Kannst du mit meiner Schwester ein Kinderbuch lesen?",
+    "groupCode": 1
+  },
+  {
+    "id": 10584,
+    "en": "I want an apartment without a balcony",
+    "de": "Ich will eine Wohnung ohne einen Balkon",
+    "groupCode": 1
+  },
+  {
+    "id": 10585,
+    "en": "Are you going fishing with your grandpa today?",
+    "de": "Gehst du heute mit deinem Opa fischen?",
+    "groupCode": 1
+  },
+  {
+    "id": 10586,
+    "en": "Are you going to the beach alone? No, I'm going with my dad",
+    "de": "Gehst du allein zum Strand? Nein, ich gehe mit meinem Vater",
+    "groupCode": 1
+  },
+  {
+    "id": 10587,
+    "en": "I always fish with my brother during the holidays",
+    "de": "Ich fische immer in den Ferien mit meinem Bruder",
+    "groupCode": 1
+  },
+  {
+    "id": 10588,
+    "en": "We are going to the beach we need sunscreen",
+    "de": "Wir gehen zum Strand wir brauchen Sonnencreme",
+    "groupCode": 1
+  },
+  {
+    "id": 10589,
+    "en": "Do you play the violin with your grandpa?",
+    "de": "Spielst du mit deinem Opa Geige?",
+    "groupCode": 1
+  },
+  {
+    "id": 10590,
+    "en": "I drive home and visit my family",
+    "de": "Ich fahre nach Hause und besuche meine Familie",
+    "groupCode": 1
+  },
+  {
+    "id": 10591,
+    "en": "My roommates are going home for the holidays",
+    "de": "Meine Mitbewohner fahren nach Hause in den Ferien",
+    "groupCode": 1
+  },
+  {
+    "id": 10592,
+    "en": "We often fly home during the holidays. The airport is not far away",
+    "de": "Wir fliegen in den ferien oft nach Hause. Der Flughafen ist nicht weit weg",
+    "groupCode": 1
+  },
+  {
+    "id": 10593,
+    "en": "Are you flying home or driving?",
+    "de": "Fliegst du nach Hause oder fährst du?",
+    "groupCode": 1
+  },
+  {
+    "id": 10594,
+    "en": "I am a student and I study history abroad",
+    "de": "Ich bin Studentin und ich studiere Geschichte im Ausland",
     "groupCode": 1
   }
 ]
