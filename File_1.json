@@ -3433,7 +3433,7 @@
   },
   {
     "id": 3562,
-    "fa": "من یک بعدازظهر آزاد دارم و یک هزار چیزهایی (که) من نیاز دارم انجام دهم، پس روی چه باید کار کنم در این مدت؟",
+    "fa": "من یک بعدازظهر آزاد دارم و یک هزار چیزهایی (که) من نیاز دارم انجام دهم، پس روی چه باید کار کنم در این زمان؟",
     "en": "I have a free afternoon and a thousand things I need to get done, so what should I work on during this time?",
     "groupCode": 0
   },
@@ -3506,7 +3506,7 @@
   },
   {
     "id": 3574,
-    "fa": "انتظارات حقوق شما فراتر می رود از بودجه برنامه ریزی شده ما برای این موقعیت",
+    "fa": "انتظار حقوق شما فراتر می رود از بودجه برنامه ریزی شده ما برای این موقعیت",
     "en": "Your salary expectation exceeds our planned budget for the position",
     "groupCode": 0
   },
@@ -3537,13 +3537,13 @@
   },
   {
     "id": 3579,
-    "fa": "پدرت با چه ماشینی تو را به مدرسه می رساند؟",
+    "fa": "پدرت با چه ماشینی تو را به مدرسه (رانندگی) می رساند؟",
     "en": "What car did your dad drive you to school in?",
     "groupCode": 0
   },
   {
     "id": 3580,
-    "fa": "بیایید دورتر ببریمش و ببینیم این ایده به کجا منجر می شود",
+    "fa": "بیایید ببریمش دورتر و ببینیم کجا این ایده منجر می شود",
     "en": "Let's take it farther and see where this idea leads",
     "groupCode": 0
   },
