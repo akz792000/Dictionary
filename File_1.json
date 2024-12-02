@@ -2556,7 +2556,7 @@
   {
     "id": 3419,
     "fa": "یک دعوت تقویم به آدرس ایمیل شما ارسال شده است",
-    "en": "A calendar invitation has been spent to your email address",
+    "en": "A calendar invitation has been sent to your email address",
     "groupCode": 0
   },
   {
@@ -3263,7 +3263,7 @@
   },
   {
     "id": 3534,
-    "fa": "من کلم ترش را برای طعم بیشتر به غذام اضافه کردم",
+    "fa": "من کلم ترش را اضافه کردم به غذام برای طعم بیشتر",
     "en": "I added sauerkraut to my food for extra flavor",
     "groupCode": 0
   },
@@ -3597,13 +3597,13 @@
   },
   {
     "id": 3589,
-    "fa": "من نقشه دارم نزدیک شوم به این چالش به روشی عمل گرایانه, در اولویت قرار دهم کارایی و نتایج را",
+    "fa": "من نقشه می ریزم تا نزدیک شوم به این چالش به یک روش عمل گرایانه, اولویت قرار دادن کارایی و نتایج",
     "en": "I plan to approach this challenge in a pragmatic way, prioritizing efficiency and results",
     "groupCode": 0
   },
   {
     "id": 3590,
-    "fa": "2 ساعت طول نمی کشید اگر کمک خواسته بود و ما اصلاً این مشکل را نداشتیم",
+    "fa": "2 ساعت ممکن نبود طول بکشد اگر او (مرد) کمک خواسته بود و ما اصلاً این مشکل را (فرضی) نمی داشتیم",
     "en": "It might have not taken 2 hours if he had asked for help, and we wouldn't be having this problem at all",
     "groupCode": 0
   },
@@ -3611,6 +3611,31 @@
     "id": 3591,
     "fa": "من نمی توانم درست غذا بخورم زیرا ورم لوزه دارم",
     "en": "I can't eat properly because I have tonsillitis /ˌtɒnsɪˈlaɪtɪs/",
+    "groupCode": 0
+  },
+  {
+    "id": 3592,
+    "fa": "آن مدتی طول کشید. آیا توقف کردی برای یک میان وعده (اسنک)؟",
+    "en": "That took awhile. Did you stop for a snack?",
+    "groupCode": 0
+  },
+  {
+    "id": 3593,
+    "fa": "ایمیل با لحنی (غیرشخصی) بی احساسی نوشته شده بود، فاقد هرگونه گرما و دوستی",
+    "en": "The email was written in an impersonal tone, lacking any warmth or friendliness",
+    "groupCode": 0
+  },
+  {
+    "id": 3594,
+    "fa": "تمرین برای ماراتن برای آدم بی عرضه نیست - شما باید متعهد و سخت کار باشید",
+    "en": "Training for a marathon is not for wimps — you need to be committed and work hard",
+    "groupCode": 0
+  },
+  {
+    "id": 3595,
+    "fa": "من به سوی سرنوشتی سوق داده شده ام (که) من نمی توانم فرار کنم",
+    "en": "I'm led away towards a fate I can't flee",
+    "desc": "\"I'm\" = Subject + verb \"am\" (present tense of \"to be\").\n\"led away\" = Passive verb (past participle \"led\" combined with \"away\" as an adverb showing direction).\n\"towards a fate I can't flee\" = Prepositional phrase indicating where you're being led.\n",
     "groupCode": 0
   }
 ]
