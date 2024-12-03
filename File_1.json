@@ -3627,8 +3627,8 @@
   },
   {
     "id": 3594,
-    "fa": "تمرین برای ماراتن برای آدم بی عرضه نیست - شما باید متعهد و سخت کار باشید",
-    "en": "Training for a marathon is not for wimps — you need to be committed and work hard",
+    "fa": "تمرین برای ماراتن برای بی عرضه ها نیست. شما نیاز دارید متعهد و سخت کار باشید",
+    "en": "Training for a marathon is not for wimps. You need to be committed and work hard",
     "groupCode": 0
   },
   {
@@ -3636,6 +3636,12 @@
     "fa": "من به سوی سرنوشتی سوق داده شده ام (که) من نمی توانم فرار کنم",
     "en": "I'm led away towards a fate I can't flee",
     "desc": "\"I'm\" = Subject + verb \"am\" (present tense of \"to be\").\n\"led away\" = Passive verb (past participle \"led\" combined with \"away\" as an adverb showing direction).\n\"towards a fate I can't flee\" = Prepositional phrase indicating where you're being led.\n",
+    "groupCode": 0
+  },
+  {
+    "id": 3596,
+    "fa": "او (مرد) در راه خانه اش است",
+    "en": "He's on his way home",
     "groupCode": 0
   }
 ]

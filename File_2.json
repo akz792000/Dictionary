@@ -1628,8 +1628,8 @@
   },
   {
     "id": 10269,
-    "en": "You (formal) need a resume for the job interview",
-    "de": "Sie brauchen einen Lebenslauf für das Job iterview",
+    "en": "I am looking for a new job. I am unemployed. I need a resume for the job interview",
+    "de": "Ich suche einen neuen Job. Ich bin Arbeitslos. Ich brauche einen Lebenslauf für das Job iterview",
     "groupCode": 1
   },
   {
@@ -2035,7 +2035,7 @@
   },
   {
     "id": 10336,
-    "en": "Do you still need to wash these socks",
+    "en": "Do you still have to wash these socks",
     "de": "Musst du diese Socken noch waschen",
     "groupCode": 1
   },
@@ -2312,7 +2312,7 @@
   },
   {
     "id": 10382,
-    "en": "It's my birthday tomorrow and we're having a party. Go to the supermarket and buy five bottles of white wine",
+    "en": "It's my birthday tomorrow and we're having (make) a party. Go to the supermarket and buy five bottles of white wine",
     "de": "Ich habe morgen Geburtstag und wir machen eine Party. Geh in den Supermarkt und kauf fünf Flaschen Weißwein",
     "groupCode": 1
   },
@@ -2523,14 +2523,14 @@
   },
   {
     "id": 10417,
-    "en": "How long are you (formal) taking a vacation in Austria?",
+    "en": "How long are you (formal) taking (make) a vacation in Austria?",
     "de": "Wie lange machen Sie Urlaub in Österreich?",
     "groupCode": 1
   },
   {
     "id": 10418,
     "en": "Wine is unfortunately forbidden",
-    "de": "Wein ist leider verboten?",
+    "de": "Wein ist leider verboten",
     "groupCode": 1
   },
   {
@@ -2921,7 +2921,7 @@
   },
   {
     "id": 10483,
-    "en": "Can you work on Saturdays?",
+    "en": "Can you (formal) work on Saturdays?",
     "de": "Können Sie samstags arbeiten?",
     "groupCode": 1
   },
@@ -2933,8 +2933,8 @@
   },
   {
     "id": 10485,
-    "en": "Yes, I have a question for you (formal)",
-    "de": "Ja, ich habe eine Frage für Sie",
+    "en": "Do you (formal) have a question for me? Yes, I have a question for you (formal)",
+    "de": "Haben Sie eine Frage für mich? Ja, ich habe eine Frage für Sie",
     "groupCode": 1
   },
   {
@@ -3408,8 +3408,8 @@
   },
   {
     "id": 10564,
-    "en": "Our neighbor is currently looking for an apartment",
-    "de": "Unser Nachbar sucht zurzeit eine Wohnung",
+    "en": "Our neighbor (male) is currently looking for an apartment. Our neighbor (female) is called Anna and is very quiet",
+    "de": "Unser Nachbar sucht zurzeit eine Wohnung. Unsere Nachbarin heißt Anna und ist sehr leise",
     "groupCode": 1
   },
   {
@@ -3492,7 +3492,7 @@
   },
   {
     "id": 10578,
-    "en": "We can't eat anything because our fridge is empty",
+    "en": "We can eat nothing because our fridge is empty",
     "de": "Wir können nichts essen, denn unser Kühlschrank ist leer",
     "groupCode": 1
   },
@@ -3552,14 +3552,14 @@
   },
   {
     "id": 10588,
-    "en": "We are going to the beach we need sunscreen",
-    "de": "Wir gehen zum Strand wir brauchen Sonnencreme",
+    "en": "We are going to the beach. We need sunscreen",
+    "de": "Wir gehen zum Strand. Wir brauchen Sonnencreme",
     "groupCode": 1
   },
   {
     "id": 10589,
     "en": "Do you play the violin with your grandpa?",
-    "de": "Spielst du mit deinem Opa Geige?",
+    "de": "Spielst du mit deinem Opa die Geige?",
     "groupCode": 1
   },
   {
@@ -3570,7 +3570,7 @@
   },
   {
     "id": 10591,
-    "en": "My roommates are going home for the holidays",
+    "en": "My roommates are driving home for the holidays",
     "de": "Meine Mitbewohner fahren nach Hause in den Ferien",
     "groupCode": 1
   },
@@ -3582,14 +3582,33 @@
   },
   {
     "id": 10593,
-    "en": "Are you flying home or driving?",
+    "en": "Are you flying home or are you driving?",
     "de": "Fliegst du nach Hause oder fährst du?",
     "groupCode": 1
   },
   {
     "id": 10594,
-    "en": "I am a student and I study history abroad",
+    "en": "I am a student (female) and I study history abroad",
     "de": "Ich bin Studentin und ich studiere Geschichte im Ausland",
+    "groupCode": 1
+  },
+  {
+    "id": 10595,
+    "en": "Do you (formal) prefer to work in a team or alone?",
+    "de": "Arbeiten Sie lieber in einem Team oder allein?",
+    "groupCode": 1
+  },
+  {
+    "id": 10596,
+    "en": "I want to be the boss",
+    "de": "Ich möchte der Chef sein",
+    "groupCode": 1
+  },
+  {
+    "id": 10597,
+    "en": "What is your first and last name? My first name is Ali and  last name is Zandi",
+    "de": "Wie ist Ihr Vorname and Nachname? Mein Vorname ist Ali und mein Nachname ist Zandi",
+    "desc": "Both \"Wie sind Ihr Vorname und Nachname?\" and \"Wie ist Ihr Vorname und Nachname?\" are grammatically correct, but \"Wie ist Ihr Vorname und Nachname?\" is more commonly used.",
     "groupCode": 1
   }
 ]
