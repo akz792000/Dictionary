@@ -1670,7 +1670,7 @@
   },
   {
     "id": 10276,
-    "en": "It's finally the end of the workday (celebration evening)! Let's order a pizza",
+    "en": "It's finally end of the workday (celebration evening)! Let's order a pizza",
     "de": "Es ist endlich Feierabend! Lass uns eine Pizza bestellen",
     "groupCode": 1
   },
@@ -3174,7 +3174,7 @@
   },
   {
     "id": 10525,
-    "en": "Our end of the workday is at five o'clock",
+    "en": "Our end of workday is at five o'clock",
     "de": "Unser Feierabend ist um fünf Uhr",
     "groupCode": 1
   },
@@ -3609,6 +3609,24 @@
     "en": "What is your first and last name? My first name is Ali and  last name is Zandi",
     "de": "Wie ist Ihr Vorname and Nachname? Mein Vorname ist Ali und mein Nachname ist Zandi",
     "desc": "Both \"Wie sind Ihr Vorname und Nachname?\" and \"Wie ist Ihr Vorname und Nachname?\" are grammatically correct, but \"Wie ist Ihr Vorname und Nachname?\" is more commonly used.",
+    "groupCode": 1
+  },
+  {
+    "id": 10598,
+    "en": "Are we working or having (make) a picnic?",
+    "de": "Arbeiten wir oder machen wir ein Picknick?",
+    "groupCode": 1
+  },
+  {
+    "id": 10599,
+    "en": "Does our boss smoke?",
+    "de": "Raucht unsere Chefin?",
+    "groupCode": 1
+  },
+  {
+    "id": 10600,
+    "en": "I don't eat dairy products or meat but I like to eat pizza and I don't eat dessert",
+    "de": "Ich esse keine Milchprodukte oder kein Fleisch aber Ich esse gern Pizza und Ich esse keinen Nachtisch",
     "groupCode": 1
   }
 ]
