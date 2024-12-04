@@ -3495,7 +3495,7 @@
   {
     "id": 3572,
     "fa": "ما می خواستیم به شما اطلاع دهیم که ما تصمیم گرفته ایم با کاندیداتوری شما جلو نرویم",
-    "en": "We wanted to let you know that we have decided to not move forward with your candidacy",
+    "en": "We wanted to let you know that we have decided not to move forward with your candidacy",
     "groupCode": 0
   },
   {
@@ -3621,7 +3621,7 @@
   },
   {
     "id": 3593,
-    "fa": "ایمیل با لحنی (غیرشخصی) بی احساسی نوشته شده بود، فاقد هرگونه گرما و دوستی",
+    "fa": "ایمیل با یک لحن (غیرشخصی) بی احساسی نوشته شده بود، فاقد هرگونه گرما یا دوستی",
     "en": "The email was written in an impersonal tone, lacking any warmth or friendliness",
     "groupCode": 0
   },
