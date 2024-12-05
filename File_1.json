@@ -3627,7 +3627,7 @@
   },
   {
     "id": 3594,
-    "fa": "تمرین برای ماراتن برای بی عرضه ها نیست. شما نیاز دارید متعهد و سخت کار باشید",
+    "fa": "تمرین برای یک ماراتن برای بی عرضه ها نیست. شما نیاز دارید متعهد باشید و کار کنید سخت",
     "en": "Training for a marathon is not for wimps. You need to be committed and work hard",
     "groupCode": 0
   },
@@ -3642,6 +3642,36 @@
     "id": 3596,
     "fa": "او (مرد) در راه خانه اش است",
     "en": "He's on his way home",
+    "groupCode": 0
+  },
+  {
+    "id": 3597,
+    "fa": "من یک نوبت پزشکی (ساعت) ۱۰ دارم، من قادر نخواهم بود حضور پبدا کنم در دیلی",
+    "en": "I have a medical appointment at 10, I won't be able to attend the daily",
+    "groupCode": 0
+  },
+  {
+    "id": 3598,
+    "fa": "ممنون از شما برای اطلاع رسانی من در مورد حادثه",
+    "en": "Thank you for informing me about the incident",
+    "groupCode": 0
+  },
+  {
+    "id": 3599,
+    "fa": "من همچنین با ایلیا در مورد رفتارش صحبت کرده ام و تأکید خواهم کرد که چنین اقداماتی قابل قبول نیست, صرف نظر از شرایط",
+    "en": "I have also spoken to Ilia about his behavior and will further emphasize that such actions are not acceptable, regardless of the circumstances",
+    "groupCode": 0
+  },
+  {
+    "id": 3600,
+    "fa": "من می خواستم بپرسم آیا هر دو ایلیا و مالک مسئول تمیز کردن برای میزها هستند، همانطور که به نظر می رسد هر دو درگیر بودن در خط خطی کردن روی میزها",
+    "en": "I wanted to ask if both Ilia and Malik are being held responsible for cleaning the tables, as it seems they were both involved in scribbling on tables",
+    "groupCode": 0
+  },
+  {
+    "id": 3601,
+    "fa": "من قدردانی می کنم (از) درک و تلاش های شما در پرداختن (آدرس دادن) به این موضوع و من ادامه خواهم داد به کار کردن با ایلیا برای رفتار بهتر در آینده",
+    "en": "I appreciate your understanding and efforts in addressing this matter, and I will continue to work with Ilia on better behavior in the future",
     "groupCode": 0
   }
 ]

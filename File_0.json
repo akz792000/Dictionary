@@ -1545,7 +1545,7 @@
   },
   {
     "id": 256,
-    "fa": "کجا ساخته شده؟",
+    "fa": "کجا ساخته شده بود؟",
     "en": "Where was it made?",
     "groupCode": 0
   },
@@ -17892,7 +17892,7 @@
   },
   {
     "id": 2947,
-    "fa": "با تشکر از جلسه و من مشتاقانه منتظر جلسات بعدی هستم",
+    "fa": "با تشکر از جلسه و من (دارم) مشتاقانه منتظر جلسات بعدی هستم",
     "en": "Thanks for the session and I'm looking forward to the next ones",
     "groupCode": 0
   },
