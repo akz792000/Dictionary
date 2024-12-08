@@ -3628,5 +3628,305 @@
     "en": "I don't eat dairy products or meat but I like to eat pizza and I don't eat dessert",
     "de": "Ich esse keine Milchprodukte oder kein Fleisch aber Ich esse gern Pizza und Ich esse keinen Nachtisch",
     "groupCode": 1
+  },
+  {
+    "id": 10601,
+    "en": "Oh no my foot is broken",
+    "de": "Oh nein, mein Fuß ist gebrochen",
+    "groupCode": 1
+  },
+  {
+    "id": 10602,
+    "en": "Do you prefer to grill in the park or at the lake?",
+    "de": "Grillst du lieber im Park oder am See?",
+    "groupCode": 1
+  },
+  {
+    "id": 10603,
+    "en": "Fifty guests are coming to the party tomorrow",
+    "de": "Fünfzig Gaste kommen morgen zur Party",
+    "groupCode": 1
+  },
+  {
+    "id": 10604,
+    "en": "We grill at the lake on Sunday",
+    "de": "Wir grillen am Sonntag am See",
+    "groupCode": 1
+  },
+  {
+    "id": 10605,
+    "en": "Why doesn't Julia come to the barbecue? She is flying to Paris with her sister",
+    "de": "Warum kommt Julia nicht zur Grillparty? Sie fliegt mit ihrer Schwester nach Paris",
+    "groupCode": 1
+  },
+  {
+    "id": 10606,
+    "en": "Many guests are coming to the barbecue, almost two hundred!",
+    "de": "Viele Gäste kommen zur Grillparty, fast zweihundert!",
+    "groupCode": 1
+  },
+  {
+    "id": 10607,
+    "en": "Are you shopping for the bread for the barbecue at the market? The bread there is always fresh",
+    "de": "Kaufst du das Brot für die Grillparty auf dem Markt ein? Das Brot dort ist immer frisch",
+    "groupCode": 1
+  },
+  {
+    "id": 10608,
+    "en": "We shop at the market on Saturdays",
+    "de": "Wir kaufen samstags auf dem Markt ein",
+    "groupCode": 1
+  },
+  {
+    "id": 10609,
+    "en": "Nina is planning a party with her granddaughter",
+    "de": "Nina plant mit ihrer Enkelin eine Party",
+    "groupCode": 1
+  },
+  {
+    "id": 10610,
+    "en": "My daughter is shopping with her son in the supermarket",
+    "de": "Meine Tochter kauft mit ihrem Sohn im Supermarkt ein",
+    "groupCode": 1
+  },
+  {
+    "id": 10611,
+    "en": "We need meat why does everyone bring salad along?",
+    "de": "Wir brauchen Fleisch warum bringen alle Salat mit?",
+    "groupCode": 1
+  },
+  {
+    "id": 10612,
+    "en": "I like to fish with my brother in the summer. The river is nearby",
+    "de": "Ich fische im Sommer gern mit meinem Bruder angeln. Der Fluss ist in der Nähe",
+    "groupCode": 1
+  },
+  {
+    "id": 10613,
+    "en": "I am driving home and visiting my family",
+    "de": "Ich fahre nach Hause und besuche meine Familie",
+    "groupCode": 1
+  },
+  {
+    "id": 10614,
+    "en": "Her sneakers (gym shoes) are wet, but she is still running",
+    "de": "Ihre Turnschuhe sind nass, aber sie Läuft noch",
+    "groupCode": 1
+  },
+  {
+    "id": 10615,
+    "en": "Unfortunately, Eddy is not coming to the barbecue because his foot is broken. He is very sad",
+    "de": "Eddy kommt leider nicht zur Grillparty, denn sein Fuß ist gebrochen. Er ist sehr traurig",
+    "groupCode": 1
+  },
+  {
+    "id": 10616,
+    "en": "We need thirty-seven cups for the guests",
+    "de": "Wir brauchen siebenunddreißig Tassen für die Gäste",
+    "groupCode": 1
+  },
+  {
+    "id": 10617,
+    "en": "Do you prefer to ride a bicycle or a motorcycle",
+    "de": "Fährst du lieber fahrrad oder Motorrad?",
+    "groupCode": 1
+  },
+  {
+    "id": 10618,
+    "en": "When do you have holidays?",
+    "de": "Wann hast du Ferien?",
+    "groupCode": 1
+  },
+  {
+    "id": 10619,
+    "en": "What kind of cake are you bringing along to the party?",
+    "de": "Was für einen Kuchen bringst du zur Party mit?",
+    "groupCode": 1
+  },
+  {
+    "id": 10620,
+    "en": "My parents always invite a lot of people",
+    "de": "Meine Eltern laden immer viele Leute ein",
+    "groupCode": 1
+  },
+  {
+    "id": 10621,
+    "en": "I want to watch TV with my mom",
+    "de": "Ich will mit meiner Mama fernsehen",
+    "groupCode": 1
+  },
+  {
+    "id": 10622,
+    "en": "My sister has no husband. She has a partner",
+    "de": "Meine Schwester hat keinen Mann. Sie hat einen Partner",
+    "groupCode": 1
+  },
+  {
+    "id": 10623,
+    "en": "Yes, many people come later",
+    "de": "Ja, viele Leute kommen später",
+    "groupCode": 1
+  },
+  {
+    "id": 10624,
+    "en": "Do you shop tomatoes at the market?",
+    "de": "Kaufst du Tomaten auf dem Markt ein?",
+    "groupCode": 1
+  },
+  {
+    "id": 10625,
+    "en": "Anna, your girlfriend is flying home tomorrow, right? Can you drive with your girlfriend to the airport?",
+    "de": "Anna, deine Freundin fliegt morgen nach Hause, richtig? Kannst du mit deiner Freundin zum Flughafen fahren?",
+    "groupCode": 1
+  },
+  {
+    "id": 10626,
+    "en": "Can you shop vegetables for the barbecue, please?",
+    "de": "Kannst du Gemüse für die Grillparty einkaufen, bitte?",
+    "groupCode": 1
+  },
+  {
+    "id": 10627,
+    "en": "How many people are coming to the barbecue next week?",
+    "de": "Wie viele Leute kommen nächste Woche zur Grillparty?",
+    "groupCode": 1
+  },
+  {
+    "id": 10628,
+    "en": "I am inviting twenty guests to the barbecue party. Here is your invitation",
+    "de": "Ich lade zwanzig Gäste zur Grillparty ein. Hier ist deine Einladung",
+    "groupCode": 1
+  },
+  {
+    "id": 10629,
+    "en": "My brother wants to eat breakfast with mom every day on vacation",
+    "de": "Mein Bruder will im Urlaub jeden Tag mit Mama frühstücken",
+    "groupCode": 1
+  },
+  {
+    "id": 10630,
+    "en": "How many guests are you inviting?",
+    "de": "Wie viele Gäste lädst du ein?",
+    "groupCode": 1
+  },
+  {
+    "id": 10631,
+    "en": "Is your niece also coming to the barbecue? She likes eating meat, right?",
+    "de": "Kommt deine Nichte auch zur Grillparty? Sie isst gern Fleisch, richtig?",
+    "groupCode": 1
+  },
+  {
+    "id": 10632,
+    "en": "My sister is excited because I have holidays",
+    "de": "Meine schwester ist aufgeregt, denn ich habe ferien",
+    "groupCode": 1
+  },
+  {
+    "id": 10633,
+    "en": "We need meat, why is everybody bringing salad long?",
+    "de": "Wir brauchen Fleisch, warum bringen alle Salat mit?",
+    "groupCode": 1
+  },
+  {
+    "id": 10634,
+    "en": "I can't pay the rent without a job",
+    "de": "Ich kann ohne einen Job die Miete nicht zahlen",
+    "groupCode": 1
+  },
+  {
+    "id": 10635,
+    "en": "I have to shop for a cake for the barbecue party",
+    "de": "Ich muss einen Kuchen für die Grillparty einkaufen",
+    "groupCode": 1
+  },
+  {
+    "id": 10636,
+    "en": "Many guests are coming to the barbecue. I hope everybody gets enough food",
+    "de": "Viele Gäste kommen zur Grillparty. Ich hoffe, alle bekommen genug Essen",
+    "groupCode": 1
+  },
+  {
+    "id": 10637,
+    "en": "He's inviting a band to the party, right?",
+    "de": "Er lädt eine Band zur Party ein, richtig?",
+    "groupCode": 1
+  },
+  {
+    "id": 10638,
+    "en": "I go fishing during the holidays with my dad",
+    "de": "Ich gehe in den Ferien mit meinem Papa Fischen",
+    "groupCode": 1
+  },
+  {
+    "id": 10639,
+    "en": "Is there enough space at the lake for thirty-six guests?",
+    "de": "Gibt es genug Platz am See für sechsunddreißig Gäste?",
+    "groupCode": 1
+  },
+  {
+    "id": 10640,
+    "en": "How many guests are coming to the party?",
+    "de": "Wie viele Gäste kommen zur Party?",
+    "groupCode": 1
+  },
+  {
+    "id": 10641,
+    "en": "The Oktoberfest begins on the nineteenth of September",
+    "de": "Das Oktoberfest beginnt am neunzehnten September",
+    "groupCode": 1
+  },
+  {
+    "id": 10642,
+    "en": "When is your flight? Are you driving to the airport with your brother?",
+    "de": "Wann ist dein Abflug? Fährst du mit deinem Bruder zum Flughafen?",
+    "groupCode": 1
+  },
+  {
+    "id": 10643,
+    "en": "There is not enough space in the refrigerator",
+    "de": "Es gibt nicht genug Platz Im Kühlschrank",
+    "groupCode": 1
+  },
+  {
+    "id": 10644,
+    "en": "What kind of salad would you like to make?",
+    "de": "Was für einen Salat möchtest du machen?",
+    "groupCode": 1
+  },
+  {
+    "id": 10645,
+    "en": "My son is comming with his girlfriend",
+    "de": "Mein Sohn kommt mit seiner Freundin",
+    "groupCode": 1
+  },
+  {
+    "id": 10646,
+    "en": "We have to drive to the airport now, but I definitely want to come back in January",
+    "de": "Wir müssen jetzt zum Flughafen fahren, aber ich will im Januar auf jeden Fall wiederkommen",
+    "groupCode": 1
+  },
+  {
+    "id": 10647,
+    "en": "Anna dances with her mom",
+    "de": "Anna tanzt mit ihrer Mama",
+    "groupCode": 1
+  },
+  {
+    "id": 10648,
+    "en": "Yes, everyone comes to the party",
+    "de": "Ja, alle kommen Zur Party",
+    "groupCode": 1
+  },
+  {
+    "id": 10649,
+    "en": "You can come back next time with your partner (male)",
+    "de": "Du kannst nächstes Mal mit deinem Partner wiederkommen",
+    "groupCode": 1
+  },
+  {
+    "id": 10650,
+    "en": "With whom are you going to the beach?",
+    "de": "Mit wem gehst du zum Strand?",
+    "groupCode": 1
   }
 ]
