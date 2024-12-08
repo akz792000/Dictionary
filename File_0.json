@@ -1672,8 +1672,8 @@
   },
   {
     "id": 277,
-    "fa": "حالم خوب نیست",
-    "en": "I am not feeling well",
+    "fa": "من حالم (احساس) خوب نیست",
+    "en": "I'm not feeling well",
     "groupCode": 0
   },
   {
@@ -15500,7 +15500,7 @@
   },
   {
     "id": 2554,
-    "fa": "من متواضعانه کمی قهوه خواستم",
+    "fa": "من متواضعانه خواستم برای مقداری قهوه",
     "en": "I humbly asked for some coffee",
     "groupCode": 0
   },

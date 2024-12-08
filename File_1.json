@@ -3664,8 +3664,8 @@
   },
   {
     "id": 3600,
-    "fa": "من می خواستم بپرسم آیا هر دو ایلیا و مالک مسئول تمیز کردن برای میزها هستند، همانطور که به نظر می رسد هر دو درگیر بودن در خط خطی کردن روی میزها",
-    "en": "I wanted to ask if both Ilia and Malik are being held responsible for cleaning the tables, as it seems they were both involved in scribbling on tables",
+    "fa": "من می خواستم بپرسم آیا هر دو مسئول تمیز کردن برای میزها بودند، همانطور که به نظر می رسد هر دو درگیر بودن در خط خطی کردن روی میزها",
+    "en": "I wanted to ask if both were being held responsible for cleaning the tables, as it seems they were both involved in scribbling on tables",
     "groupCode": 0
   },
   {
@@ -3688,7 +3688,7 @@
   },
   {
     "id": 3604,
-    "fa": "بچه ها تمام روز بدرفتاری کرده اند",
+    "fa": "بچه ها تمام روز شیطنت کرده اند",
     "en": "The kids have been playing up all day",
     "groupCode": 0
   },
@@ -3700,7 +3700,7 @@
   },
   {
     "id": 3606,
-    "fa": "آیا آن جلسه ای که داشتی برنامه ریزی می کردی اتفاق افتاد [برگزار شد]؟",
+    "fa": "آیا آن جلسه ای که داشتی برنامه ریزی می کردی (تاکید) اتفاق افتاد (برگزار شد)؟",
     "en": "Did the meeting you were planning ever come off?",
     "groupCode": 0
   },
@@ -3712,7 +3712,7 @@
   },
   {
     "id": 3608,
-    "fa": "داروهای مختلف عمل می کنند روی قسمت های مختلف بدن شما در روش های مختلف",
+    "fa": "داروهای مختلف عمل می کنند روی قسمت های مختلف بدن شما در روش های مختلف زیادی",
     "en": "Different drugs act on different parts of your body in many different ways",
     "groupCode": 0
   },
@@ -3726,6 +3726,43 @@
     "id": 3610,
     "fa": "من تو عجله ننداز",
     "en": "Don't rush me",
+    "groupCode": 0
+  },
+  {
+    "id": 3611,
+    "fa": "چرا باید چیزی بگویی که شما بعداً عذرخواهی کنی برای (آن)؟",
+    "en": "Why should you say something that you later apologize for?",
+    "groupCode": 0
+  },
+  {
+    "id": 3612,
+    "fa": "چگونه تصمیم می گیری آیا ارسال کنی به این سرویس یا اون؟",
+    "en": "How do you decide whether to send it to this service or that one?",
+    "groupCode": 0
+  },
+  {
+    "id": 3613,
+    "fa": "پروفایل شما مورد توجه قرار می گیرد",
+    "en": "Your profile is getting noticed",
+    "groupCode": 0
+  },
+  {
+    "id": 3614,
+    "fa": " ۱.پوست درخت \n ۲.کنده (درخت) \n ۳.تنه (درخت) - صندوق عقب (اتومبیل) \n ۴.هیزم \n ۵.تکه چوب، هیزم \n ۶.شاخه",
+    "en": "1.Bark \n 2.Stump \n 3.Trunk \n 4.Log \n 5.Stick \n 6.Branch",
+    "groupCode": 0
+  },
+  {
+    "id": 3615,
+    "fa": "آیا می توانید شعله را روشن نگه دارید؟",
+    "en": "Can you keep the flame lit?",
+    "desc": "\"lit\" in that sentence is an adjective",
+    "groupCode": 0
+  },
+  {
+    "id": 3616,
+    "fa": "او (زن) یک شمع روشن کرد",
+    "en": "She lit a candle",
     "groupCode": 0
   }
 ]
