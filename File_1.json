@@ -2248,7 +2248,7 @@
   },
   {
     "id": 3369,
-    "fa": "من یک خواهر (یا برادر) دارم",
+    "fa": "من یک خواهر و برادر (تنی زادگان) دارم",
     "en": "I have one sibling",
     "desc": "The difference between \"sibling\" and \"siblings\" is:\n\n\"Sibling\" (singular): Refers to one brother or sister.\n\nExample: I have one sibling.\n\"Siblings\" (plural): Refers to two or more brothers or sisters.\n\nExample: I have three siblings.\nSo, \"sibling\" is for one, while \"siblings\" is for more than one.",
     "groupCode": 0
@@ -3148,8 +3148,8 @@
   },
   {
     "id": 3515,
-    "fa": "یه نفر (الان) کیفم (زنانه) رو دزدید",
-    "en": "Someone just stole my purse",
+    "fa": "یه نفر (الان) کیفش (زن) رو دزدید",
+    "en": "Someone just stole her purse",
     "groupCode": 0
   },
   {
@@ -3665,7 +3665,7 @@
   {
     "id": 3600,
     "fa": "من می خواستم بپرسم آیا هر دو مسئول تمیز کردن برای میزها بودند، همانطور که به نظر می رسد هر دو درگیر بودن در خط خطی کردن روی میزها",
-    "en": "I wanted to ask if both were being held responsible for cleaning the tables, as it seems they were both involved in scribbling on tables",
+    "en": "I wanted to ask if both were being held responsible for cleaning the tables, as it seems they were both involved in scribbling on the tables",
     "groupCode": 0
   },
   {
@@ -3730,25 +3730,25 @@
   },
   {
     "id": 3611,
-    "fa": "چرا باید چیزی بگویی که شما بعداً عذرخواهی کنی برای (آن)؟",
+    "fa": "چرا باید تو چیزی بگویی که تو بعداً عذرخواهی کنی برای (آن)؟",
     "en": "Why should you say something that you later apologize for?",
     "groupCode": 0
   },
   {
     "id": 3612,
-    "fa": "چگونه تصمیم می گیری آیا ارسال کنی به این سرویس یا اون؟",
+    "fa": "چگونه تصمیم می گیری آیا ارسالش کنی به این سرویس یا اون یکی؟",
     "en": "How do you decide whether to send it to this service or that one?",
     "groupCode": 0
   },
   {
     "id": 3613,
-    "fa": "پروفایل شما مورد توجه قرار می گیرد",
+    "fa": "پروفایل شما داره مورد توجه قرار می گیرد",
     "en": "Your profile is getting noticed",
     "groupCode": 0
   },
   {
     "id": 3614,
-    "fa": " ۱.پوست درخت \n ۲.کنده (درخت) \n ۳.تنه (درخت) - صندوق عقب (اتومبیل) \n ۴.هیزم \n ۵.تکه چوب، هیزم \n ۶.شاخه",
+    "fa": " ۱.پوست درخت \n ۲.کنده (درخت) \n ۳.تنه (درخت) - صندوق عقب (اتومبیل) \n ۴.هیزم \n ۵.تکه چوب \n ۶.شاخه",
     "en": "1.Bark \n 2.Stump \n 3.Trunk \n 4.Log \n 5.Stick \n 6.Branch",
     "groupCode": 0
   },
