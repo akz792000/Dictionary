@@ -2037,6 +2037,7 @@
     "id": 10336,
     "en": "Do you still have to wash these socks",
     "de": "Musst du diese Socken noch waschen",
+    "desc": "Musst du diese Socken noch waschen?: Focus on still needing to wash the socks.\nMusst du noch diese Socken waschen?: Focus on these socks as additional ones.\nBoth are correct; the first is more common.",
     "groupCode": 1
   },
   {
@@ -2065,7 +2066,7 @@
   },
   {
     "id": 10341,
-    "en": "I have to do homework",
+    "en": "I have to do homeworks",
     "de": "Ich muss Hausaufgaben machen",
     "groupCode": 1
   },
@@ -2384,7 +2385,7 @@
   },
   {
     "id": 10394,
-    "en": "Can you come or do you have to do the homework?",
+    "en": "Can you come or do you have to do the homeworks?",
     "de": "Kannst du kommen oder musst du die hausaufgaben machen?",
     "groupCode": 1
   },
@@ -2697,7 +2698,7 @@
   },
   {
     "id": 10446,
-    "en": "The tourists want to visit the castle",
+    "en": "The tourists want to visit (tour) the castle",
     "de": "Die Touristen wollen das Schloss besichtigen",
     "groupCode": 1
   },
@@ -2771,7 +2772,7 @@
   },
   {
     "id": 10458,
-    "en": "I have to do homework first",
+    "en": "I have to do homeworks first",
     "de": "Ich muss Zuerst Hausaufgaben machen",
     "groupCode": 1
   },

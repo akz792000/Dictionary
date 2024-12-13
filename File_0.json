@@ -6084,7 +6084,7 @@
   },
   {
     "id": 1002,
-    "fa": "سیگار کشیدن از شخصیت تو بعیده",
+    "fa": "(سیگار) کشیدن از شخصیت تو بعیده",
     "en": "It's out of character for you to smoke",
     "groupCode": 0
   },
@@ -7131,7 +7131,7 @@
   },
   {
     "id": 1174,
-    "fa": "آیا شما یکی از این کتاب ها را دارید؟",
+    "fa": "آیا شما هیچ (یک) از این کتاب ها را دارید؟",
     "en": "Do you have any of these books?",
     "desc": "So, in most cases, \"any\" is used directly with a singular or uncountable noun, but when used with plural nouns, it requires the addition of \"of\" before the plural noun.",
     "groupCode": 0
@@ -12864,6 +12864,7 @@
     "id": 2119,
     "fa": "چیزهای زیادی است که من دوست دارم (تاکید) در موردش",
     "en": "There are a lot of things that I do like about it",
+    "desc": "\"Are\" is used because the subject \"things\" is plural.\nIf the subject were singular, you would use \"is\" (e.g., \"There is a lot of water\").",
     "groupCode": 0
   },
   {
@@ -14615,8 +14616,9 @@
   },
   {
     "id": 2409,
-    "fa": "آیا خودت جاه طلبی کاندیداتوری برای ریاست جمهوری را داری؟",
+    "fa": "آیا خودت جاه طلبی کاندیداتور شدن برای ریاست جمهوری را داری؟",
     "en": "Do you have the ambition to run for the presidency yourself?",
+    "desc": "\"Run for\" is the correct phrase when referring to seeking a position or office, like the presidency.",
     "groupCode": 0
   },
   {
@@ -14640,7 +14642,7 @@
   },
   {
     "id": 2413,
-    "fa": "من قادر نخواهم بود برسم به دفتر امروز",
+    "fa": "من قادر نخواهم بود برسم (بسازم) به دفتر امروز",
     "en": "I will not be able to make it to the office today",
     "desc": "\"Get to\" emphasizes the physical act of reaching a place.\n\"Make it\" is a more general term for being unable to attend or participate in something.",
     "groupCode": 0

@@ -1857,6 +1857,7 @@
     "id": 3304,
     "fa": "چقدر مکررا شما باید شلوار جین را بشویید؟",
     "en": "How frequently should you wash jeans?",
+    "desc": "The word \"jeans\" is plural and always refers to a single pair of pants",
     "groupCode": 0
   },
   {
@@ -2742,7 +2743,7 @@
   },
   {
     "id": 3449,
-    "fa": "اگر از شما خواسته شد از استاندارد منحرف شوید، ابتدا تأییدیه بگیر",
+    "fa": "اگر از شما خواسته شد از استاندارد منحرف شوید، تأییدیه بگیر ابتدا",
     "en": "If you are asked to deviate from standard, get approval first",
     "groupCode": 0
   },
@@ -3191,7 +3192,7 @@
   },
   {
     "id": 3522,
-    "fa": "اگر من طوری که تو بزرگ شده بودی، تو را زنده می خوردم, گوشت و استخوان",
+    "fa": "اگر من بزرگ شده بودم طوری که تو شدی، تو را زنده (فرضی) می خوردم, گوشت و استخوان",
     "en": "If I had grown up the way you did, I would eat you alive, flesh and bone",
     "groupCode": 0
   },
@@ -3470,7 +3471,7 @@
   },
   {
     "id": 3568,
-    "fa": "من دیگه تو رو با هیچ کدوم (بیشتر) از دوستام آشنا نمی کنم",
+    "fa": "من تو رو با هیچ کدوم (بیشتر) از دوستام آشنا نمی کنم",
     "en": "I'm not setting you up with any more of my friends",
     "groupCode": 0
   },
@@ -3670,7 +3671,7 @@
   },
   {
     "id": 3601,
-    "fa": "من قدردانی می کنم (از) درک و تلاش های شما در پرداختن (آدرس دادن) به این موضوع و من ادامه خواهم داد به کار کردن با ایلیا برای رفتار بهتر در آینده",
+    "fa": "من قدردانی می کنم (از) درک و تلاش های شما در پرداختن (آدرس دادن) به این موضوع و من ادامه خواهم داد به کار کردن با ایلیا بروی رفتار بهتر در آینده",
     "en": "I appreciate your understanding and efforts in addressing this matter, and I will continue to work with Ilia on better behavior in the future",
     "groupCode": 0
   },
@@ -3731,7 +3732,7 @@
   {
     "id": 3611,
     "fa": "چرا باید تو چیزی بگویی که تو بعداً عذرخواهی کنی برای (آن)؟",
-    "en": "Why should you say something that you later apologize for?",
+    "en": "Why should you say something that you later apologize /əˈpɑːləˌdʒaɪz/ for?",
     "groupCode": 0
   },
   {
@@ -3763,6 +3764,90 @@
     "id": 3616,
     "fa": "او (زن) یک شمع روشن کرد",
     "en": "She lit a candle",
+    "groupCode": 0
+  },
+  {
+    "id": 3617,
+    "fa": "من تصمیم گرفتم کاندید شوم برای مدیریت مهندس کارکنان تا مسئولیت های رهبری بیشتری را بر عهده بگیرم",
+    "en": "I decided to run for Staff Engineer Manager to take on more leadership responsibilities",
+    "groupCode": 0
+  },
+  {
+    "id": 3618,
+    "fa": "من به طور اتفاقی قرارداد و حقوق همکارم را دیدم",
+    "en": "I accidentally saw my coworker's contract and salary",
+    "groupCode": 0
+  },
+  {
+    "id": 3619,
+    "fa": "من احساس می کنم من حقوق کمتری دریافت می کنم (الان کم دریافتم). آیا باید آن را با رئیسم مطرح کنم؟",
+    "en": "I feel like I'm being underpaid. Should I bring it up with my boss?",
+    "groupCode": 0
+  },
+  {
+    "id": 3620,
+    "fa": "می تواند یک افسر پلیس شما را دستگیر کند اگر دارید می خوابید مست در وسیله نقلیه خود اما رانندگی نکرده اید",
+    "en": "Can a police officer arrest you if you're sleeping drunk in your vehicle but haven't been driving?",
+    "groupCode": 0
+  },
+  {
+    "id": 3621,
+    "fa": "هنوز برنده نشدیم؟",
+    "en": "Haven't we won yet?",
+    "groupCode": 0
+  },
+  {
+    "id": 3622,
+    "fa": "متاسفم برای وحشت. من وحشت نکردم",
+    "en": "Sorry for the panic. I wasn't panicked",
+    "groupCode": 0
+  },
+  {
+    "id": 3623,
+    "fa": "ما غرور و تعصب اشتباهی داریم که باید تغییر کند",
+    "en": "We have misguided pride and prejudice that need to be changed",
+    "groupCode": 0
+  },
+  {
+    "id": 3624,
+    "fa": "همه چیز عالی کار می کند از زمانی که شما رفتید",
+    "en": "Everything has been working perfectly since you left",
+    "groupCode": 0
+  },
+  {
+    "id": 3625,
+    "fa": "اگر نقطه پایانی فراخوان شود چندین بار به هر دلیلی، ما داده را ذخیره خواهیم کرد هر بار فراخوان شود",
+    "en": "If the endpoint is called multiple times for any reason, we will persist the data each time it's called",
+    "groupCode": 0
+  },
+  {
+    "id": 3626,
+    "fa": "فرض کردن در مورد تصور یا در نظر گرفتن چیزی است که ممکن است. فرض کنید باران می بارد؛ چه خواهیم کرد (تصور کنید ممکن است باران ببارد)",
+    "en": "Suppose is about imagining or considering something as possible. Suppose it rains; what will we do? (Imagine it might rain)",
+    "groupCode": 0
+  },
+  {
+    "id": 3627,
+    "fa": "فرض کردن در مورد باور کردن چیزی است درست بدون دلیل. من فرض می کنم که او به دلیل ترافیک دیر کرده است (شما بدون اینکه مطمئن باشید آن را باور می کنید)",
+    "en": "Assume is about believing something is true without proof. I assume he's late because of traffic (You believe it without knowing for sure)",
+    "groupCode": 0
+  },
+  {
+    "id": 3628,
+    "fa": "آیا جلسه داره ضبط می شود؟",
+    "en": "Is the meeting being recorded?",
+    "groupCode": 0
+  },
+  {
+    "id": 3629,
+    "fa": "آیا دویست مهمان برای مهمانی زیاد است؟",
+    "en": "Are two hundred guests too many for the party?",
+    "groupCode": 0
+  },
+  {
+    "id": 3630,
+    "fa": "من در آرنجم احساس گزگز دارم",
+    "en": "I have a tingling feeling in my elbow",
     "groupCode": 0
   }
 ]
