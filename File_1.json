@@ -3780,7 +3780,7 @@
   },
   {
     "id": 3619,
-    "fa": "من احساس می کنم من حقوق کمتری دریافت می کنم (الان کم دریافتم). آیا باید آن را با رئیسم مطرح کنم؟",
+    "fa": "من احساس می کنم (مثل) من حقوق کمتری دریافت می کنم (الان کم دریافتم). آیا باید آن را با رئیسم مطرح کنم؟",
     "en": "I feel like I'm being underpaid. Should I bring it up with my boss?",
     "groupCode": 0
   },
@@ -3822,13 +3822,13 @@
   },
   {
     "id": 3626,
-    "fa": "فرض کردن در مورد تصور یا در نظر گرفتن چیزی است که ممکن است. فرض کنید باران می بارد؛ چه خواهیم کرد (تصور کنید ممکن است باران ببارد)",
+    "fa": "فرض کردن است در مورد تصور یا در نظر گرفتن چیزی ممکن. فرض کنید باران می بارد؛ چه خواهیم کرد (تصور کنید ممکن است باران ببارد)",
     "en": "Suppose is about imagining or considering something as possible. Suppose it rains; what will we do? (Imagine it might rain)",
     "groupCode": 0
   },
   {
     "id": 3627,
-    "fa": "فرض کردن در مورد باور کردن چیزی است درست بدون دلیل. من فرض می کنم که او به دلیل ترافیک دیر کرده است (شما بدون اینکه مطمئن باشید آن را باور می کنید)",
+    "fa": "پذیرفتن (فرض کردن) است در مورد باور کردن چیزی درست بدون دلیل. من فرض می کنم که او به دلیل ترافیک دیر کرده است (شما باورش دارید بدون مدرک باور آن را  می کنید)",
     "en": "Assume is about believing something is true without proof. I assume he's late because of traffic (You believe it without knowing for sure)",
     "groupCode": 0
   },
@@ -3840,7 +3840,7 @@
   },
   {
     "id": 3629,
-    "fa": "آیا دویست مهمان برای مهمانی زیاد است؟",
+    "fa": "آیا دویست مهمان برای پارتی زیاد است؟",
     "en": "Are two hundred guests too many for the party?",
     "groupCode": 0
   },
@@ -3848,6 +3848,12 @@
     "id": 3630,
     "fa": "من در آرنجم احساس گزگز دارم",
     "en": "I have a tingling feeling in my elbow",
+    "groupCode": 0
+  },
+  {
+    "id": 3631,
+    "fa": "من خریدم یک کلاه بافتنی پشمی با افتاب گیر و فلپ های گوش برای گرم نگه داشتن",
+    "en": "I bought a wool knitted hat with a visor and ear flaps to keep warm",
     "groupCode": 0
   }
 ]
