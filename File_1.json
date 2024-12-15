@@ -3822,14 +3822,14 @@
   },
   {
     "id": 3626,
-    "fa": "فرض کردن است در مورد تصور یا در نظر گرفتن چیزی ممکن. فرض کنید باران می بارد؛ چه خواهیم کرد (تصور کنید ممکن است باران ببارد)",
-    "en": "Suppose is about imagining or considering something as possible. Suppose it rains; what will we do? (Imagine it might rain)",
+    "fa": "فرض کردن است در مورد تصور یا در نظر گرفتن چیزی ممکن. فرض کنید باران می بارد؛ چه خواهیم کرد",
+    "en": "Suppose is about imagining or considering something as possible. Suppose it rains; what will we do?",
     "groupCode": 0
   },
   {
     "id": 3627,
-    "fa": "پذیرفتن (فرض کردن) است در مورد باور کردن چیزی است درست بدون دلیل. من فرض می کنم که او به دلیل ترافیک دیر کرده است (شما باورش می کنید بدون دانستن البته)",
-    "en": "Assume is about believing something is true without proof. I assume he's late because of traffic (You believe it without knowing for sure)",
+    "fa": "پذیرفتن (فرض کردن) است در مورد باور کردن چیزی است درست بدون دلیل. من فرض می کنم که او به دلیل ترافیک دیر کرده است",
+    "en": "Assume is about believing something is true without proof. I assume he's late because of traffic",
     "groupCode": 0
   },
   {
@@ -3936,7 +3936,7 @@
   },
   {
     "id": 3645,
-    "fa": "محقق نشد چنانکه امید داشتم",
+    "fa": "محقق نشد چنانکه امید داشته بودم",
     "en": "It didn't come true as I had hoped",
     "groupCode": 0
   },
@@ -3968,6 +3968,12 @@
     "id": 3650,
     "fa": "همیشه چیزی برای شکایت وجود دارد",
     "en": "There's always something to complain about",
+    "groupCode": 0
+  },
+  {
+    "id": 3651,
+    "fa": "من می گویم (فرضی) بیایید تمامش کنیم امروز و تلاش کنیم دوباره فردا",
+    "en": "I would say let's call it a day and try again tomorrow",
     "groupCode": 0
   }
 ]
