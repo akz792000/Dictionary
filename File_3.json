@@ -496,5 +496,11 @@
     "en": "Agree (with)",
     "de": "\n stimme zu \n stimmst zu \n stimmt zu \n stimmen zu \n stimmt zu \n stimmen zu",
     "groupCode": 1
+  },
+  {
+    "id": 20084,
+    "en": "Wait",
+    "de": "\n warte \n wartest \n wartet \n warten \n wartet \n warten",
+    "groupCode": 1
   }
 ]
