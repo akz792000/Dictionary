@@ -3780,13 +3780,13 @@
   },
   {
     "id": 3619,
-    "fa": "من احساس می کنم (مثل) من حقوق کمتری دریافت می کنم (الان کم دریافتم). آیا باید آن را با رئیسم مطرح کنم؟",
+    "fa": "من احساس می کنم (مثل) من حقوق کمتری دریافت می کنم (الان کم دریافتم). آیا باید مطرحش کنم با رئیسم؟",
     "en": "I feel like I'm being underpaid. Should I bring it up with my boss?",
     "groupCode": 0
   },
   {
     "id": 3620,
-    "fa": "می تواند یک افسر پلیس شما را دستگیر کند اگر دارید می خوابید مست در وسیله نقلیه خود اما رانندگی نکرده اید",
+    "fa": "می تواند یک افسر پلیس شما را دستگیر کند اگر دارید می خوابید مست در وسیله نقلیه خود اما رانندگی نکرده اید؟",
     "en": "Can a police officer arrest you if you're sleeping drunk in your vehicle but haven't been driving?",
     "groupCode": 0
   },
@@ -3974,6 +3974,150 @@
     "id": 3651,
     "fa": "من می گویم (فرضی) بیایید تمامش کنیم امروز و تلاش کنیم دوباره فردا",
     "en": "I would say let's call it a day and try again tomorrow",
+    "groupCode": 0
+  },
+  {
+    "id": 3652,
+    "fa": "ما  نیاز داریم  به آن شاخص منحصر به فرد روی جدول (پایگاه داده)",
+    "en": "We need that unique index on the table",
+    "groupCode": 0
+  },
+  {
+    "id": 3653,
+    "fa": "من مطمئن خواهم شد جملات مختصر و ساده هستند برای به خاطر سپاری راحتتر",
+    "en": "I'll ensure the sentences are concise and straightforward for easier memorization",
+    "groupCode": 0
+  },
+  {
+    "id": 3654,
+    "fa": "من تحسین می کنم فداکاری و کار سخت شما را در این پروژه",
+    "en": "I applaud your dedication and hard work on this project",
+    "groupCode": 0
+  },
+  {
+    "id": 3655,
+    "fa": "او (مرد) علف های هرز باغ را می کشد",
+    "en": "He's pulling the weeds in the garden",
+    "groupCode": 0
+  },
+  {
+    "id": 3656,
+    "fa": "آیا سطل پر از آب است؟",
+    "en": "Is the bucket full of water?",
+    "groupCode": 0
+  },
+  {
+    "id": 3657,
+    "fa": "آیا مداد تیز است یا کند؟",
+    "en": "Is the pencil sharp or dull?",
+    "groupCode": 0
+  },
+  {
+    "id": 3658,
+    "fa": "چگونه غوز را متوقف کنیم؟",
+    "en": "How to stop slouching?",
+    "groupCode": 0
+  },
+  {
+    "id": 3659,
+    "fa": "بیایید این PR را تأیید و ادغام کنیم تا جلوگیری کنیم از مشکلات آینده",
+    "en": "Let's approve and merge this PR to prevent future problem",
+    "groupCode": 0
+  },
+  {
+    "id": 3660,
+    "fa": "من مطمئن خواهم شد او (مرد) می آورد آنها را به مدرسه در اسرع وقت تا که شما شما بتوانید آن ها را پس بگیرید قبل از تعطیلات",
+    "en": "I will make sure he brings them to school as soon as possible so that you can have them back before the holidays",
+    "groupCode": 0
+  },
+  {
+    "id": 3661,
+    "fa": "علاوه بر این، همانطور که سال داره به پایان می رسد, من می خواستم بپرسم در مورد دو موضوع مهم در مورد پسرم",
+    "en": "Additionally, as the year is coming to a close, I wanted to ask about two important topics regarding my son",
+    "groupCode": 0
+  },
+  {
+    "id": 3662,
+    "fa": "عملکرد کلی او (مرد) در مدرسه چگونه است؟",
+    "en": "How is his overall performance in school?",
+    "groupCode": 0
+  },
+  {
+    "id": 3663,
+    "fa": "شانس های او (مرد) برای واجد شرایط بودن در Gymnasium یا Realschule چیست؟",
+    "en": "What are his chances of qualifying for Gymnasium or Realschule?",
+    "groupCode": 0
+  },
+  {
+    "id": 3664,
+    "fa": "در صورت امکان، من قدردانی خواهم کرد (فرضی) (از) بازخورد شما به صورت کتبی",
+    "en": "If possible, I would appreciate your feedback in writing",
+    "groupCode": 0
+  },
+  {
+    "id": 3665,
+    "fa": "از طرف دیگر، من خوشحال خواهم شد (فرضی) برنامه ریزی کردن یک جلسه بعد از مدرسه در زمانی که برای شما مناسب باشد (کار کند)",
+    "en": "Alternatively, I would be happy to schedule a meeting after school at a time that works for you",
+    "groupCode": 0
+  },
+  {
+    "id": 3666,
+    "fa": "در آخر، من واقعا (درستی) قدردانی می کنم (از) حمایت و راهنمایی شما به او (مرد)",
+    "en": "Lastly, I truly appreciate your support and guidance to him",
+    "groupCode": 0
+  },
+  {
+    "id": 3667,
+    "fa": "من پیشاپیش کریسمس و سال نو را به شما تبریک می گویم",
+    "en": "I wish you a Merry Christmas and a Happy New Year in advance",
+    "groupCode": 0
+  },
+  {
+    "id": 3668,
+    "fa": "من مجبورم صحبت کنم با افرادی که نمی شناسم",
+    "en": "I’m forced to talk to people I don’t know",
+    "groupCode": 0
+  },
+  {
+    "id": 3669,
+    "fa": "در صورت (اینکه) شما اهمیت می دهید، اینجا چند کلمه های کلیدی هستند (که) شما باید بدانید",
+    "en": "In case you care, here are some keywords you should know",
+    "groupCode": 0
+  },
+  {
+    "id": 3670,
+    "fa": "فقط یک روز پیش پا افتاده دیگر در کار",
+    "en": "Just another mundane day at work",
+    "groupCode": 0
+  },
+  {
+    "id": 3671,
+    "fa": "چگونه قرار بود بدانم که اتفاق خواهد افتد (فرضی)؟",
+    "en": "How was I supposed to know that would happen?",
+    "groupCode": 0
+  },
+  {
+    "id": 3672,
+    "fa": "مطمئنا, داشتن یک دم است یکی از بزرگترین نعمت هایی که خداوند به حیوانات داده است. تصور کن یک Trex را با آن عظمت، اما بدون دم!",
+    "en": "Surely, having a tail is one of the greatest blessings that God has given to animals. Imagine a Trex with that greatness, but without a tail!",
+    "groupCode": 0
+  },
+  {
+    "id": 3673,
+    "fa": "اگه من میخواستم برم, من تا حالا رفته بودم",
+    "en": "If I wanted to go, I would've gone by now",
+    "groupCode": 0
+  },
+  {
+    "id": 3674,
+    "fa": "چرا نمی توانند کارتونها مانند این باشند دیگر؟",
+    "en": "Why can't cartoons be like this anymore?",
+    "groupCode": 0
+  },
+  {
+    "id": 3675,
+    "fa": "او (مرد) به شدت برای امتحان درس خواند",
+    "en": "He studied rigorously for the exam",
     "groupCode": 0
   }
 ]
