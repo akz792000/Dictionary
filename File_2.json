@@ -43,7 +43,7 @@
   },
   {
     "id": 10008,
-    "en": "One more again slowly please",
+    "en": "Another one time slowly please",
     "de": "Noch einmal langsam bitte",
     "desc": "\n noch = more \n einmal = once",
     "groupCode": 1
@@ -1051,7 +1051,7 @@
   },
   {
     "id": 10174,
-    "en": "Do you have more time?",
+    "en": "Do you still have time?",
     "de": "Hast du noch zeit?",
     "groupCode": 1
   },
@@ -1920,7 +1920,7 @@
   },
   {
     "id": 10317,
-    "en": "The movie is boring. It (he) takes an hour more. Can we please go now?",
+    "en": "The movie is boring. It (he) takes another an hour. Can we please go now?",
     "de": "Der Film ist langweilig. Er dauert noch eine Stunde. Können wir bitte jetzt gehen?",
     "groupCode": 1
   },
@@ -2542,7 +2542,7 @@
   },
   {
     "id": 10420,
-    "en": "Do you (formal) still (more) need a moment?",
+    "en": "Do you (formal) still need a moment?",
     "de": "Brauchen Sie noch einen Moment?",
     "groupCode": 1
   },
@@ -3007,7 +3007,7 @@
   },
   {
     "id": 10497,
-    "en": "Oh no, I still (more) need to pack socks, but they are dirty! We go in an hour and now I can't wash them more",
+    "en": "Oh no, I still need to pack socks, but they are dirty! We go in an hour and now I can't wash them more",
     "de": "Oh nein, ich muss noch socken einpacken, aber sie sind schmutzig! Wir gehen in einer Stunde und jetzt kann ich sie nicht mehr waschen",
     "groupCode": 1
   },
@@ -3699,7 +3699,8 @@
   {
     "id": 10612,
     "en": "I like to fish with my brother in the summer. The river is nearby",
-    "de": "Ich fische im Sommer gern mit meinem Bruder angeln. Der Fluss ist in der Nähe",
+    "de": "Ich fische im Sommer gern mit meinem Bruder. Der Fluss ist in der Nähe",
+    "desc": "\"Ich fische im Sommer gern mit meinem Bruder\": Focuses on when (in the summer) you fish.\n\"Ich fische gern im Sommer mit meinem Bruder\": Focuses on enjoying fishing, with the time (summer) as additional information.\nBoth are correct, just with slightly different emphases.",
     "groupCode": 1
   },
   {
@@ -3740,7 +3741,7 @@
   },
   {
     "id": 10619,
-    "en": "What kind of cake are you bringing along to the party?",
+    "en": "What kind of (a) cake are you bringing along to the party?",
     "de": "Was für einen Kuchen bringst du zur Party mit?",
     "groupCode": 1
   },
@@ -3824,8 +3825,8 @@
   },
   {
     "id": 10633,
-    "en": "We need meat, why is everybody bringing salad long?",
-    "de": "Wir brauchen Fleisch, warum bringen alle Salat mit?",
+    "en": "That are not my eyes",
+    "de": "Das sind nicht meine Augen",
     "groupCode": 1
   },
   {
@@ -3890,7 +3891,7 @@
   },
   {
     "id": 10644,
-    "en": "What kind of salad would you like to make?",
+    "en": "What kind of (a) salad would you like to make?",
     "de": "Was für einen Salat möchtest du machen?",
     "groupCode": 1
   },
@@ -3915,7 +3916,7 @@
   {
     "id": 10648,
     "en": "Yes, everyone comes to the party",
-    "de": "Ja, alle kommen Zur Party",
+    "de": "Ja, alle kommen zur Party",
     "groupCode": 1
   },
   {
@@ -4023,7 +4024,7 @@
   {
     "id": 10666,
     "en": "We work tonight until midnight",
-    "de": "Wir arbeiten heute Nacht bi Mitternacht",
+    "de": "Wir arbeiten heute Nacht bis Mitternacht",
     "groupCode": 1
   },
   {
@@ -4166,14 +4167,14 @@
   },
   {
     "id": 10690,
-    "en": "I can't walk, my foot is broken",
+    "en": "I can't run, my foot is broken",
     "de": "Ich kann nicht laufen, mein Fuß ist gebrochen",
     "groupCode": 1
   },
   {
     "id": 10691,
     "en": "Ali is coming with his niece. They often grill together! They are comming in fifty minutes, then we can finally eat",
-    "de": "Ali kommt mit seine Nichte. Sie grillen oft zusammen! sie kommen in funfzig Minuten, dan konnen wir enlich essen",
+    "de": "Ali kommt mit seine Nichte. Sie grillen oft zusammen! sie kommen in funfzig Minuten, dann können wir endlich essen",
     "groupCode": 1
   },
   {
@@ -4191,7 +4192,7 @@
   {
     "id": 10694,
     "en": "I invite ten guests. How many guests do you invite?",
-    "de": "Ich lader zehn Gäste ein. Wie viele Gäste lädst du ein?",
+    "de": "Ich lade zehn Gäste ein. Wie viele Gäste lädst du ein?",
     "groupCode": 1
   },
   {
@@ -4214,13 +4215,13 @@
   },
   {
     "id": 10698,
-    "en": "What kind of cheese do you buy?",
+    "en": "What kind of (a) cheese do you buy?",
     "de": "Was für einen Käse kauft ihr ein?",
     "groupCode": 1
   },
   {
     "id": 10699,
-    "en": "What do you need to shop for the barbecue party? Where do you always shop?",
+    "en": "What do you have to shop for the barbecue party? Where do you always shop?",
     "de": "Was musst du für die Grillparty einkaufen? Wo kaufst du immer ein?",
     "groupCode": 1
   },
@@ -4228,6 +4229,66 @@
     "id": 10700,
     "en": "The vegetables are really fresh at the market",
     "de": "Das Gemüse ist wirklich frisch auf dem Markt",
+    "groupCode": 1
+  },
+  {
+    "id": 10701,
+    "en": "What kind of (a) fish are you grilling this evening?",
+    "de": "Was für einen Fisch grillst du heute Abend?",
+    "groupCode": 1
+  },
+  {
+    "id": 10702,
+    "en": "Anna and her husband are shopping for the barbecue party. In his car there is enough space for twenty-one bottles of beer and the groceries",
+    "de": "Anna kauft mit ihrem Mann für die Grillparty ein. In seinem Auto gibt es genug Platz für einundzwanzig Flaschen Bier und die Lebensmittel",
+    "groupCode": 1
+  },
+  {
+    "id": 10703,
+    "en": "Twenty guests come to the party. Lisa does not come alone. Her foot is broken and she cannot drive her car. Her neighbor drives her",
+    "de": "Zwanzig gäste kommen zur Party. Lisa kommt nicht allein. Ihr Fus ist gebrochen und sie kann ihr Auto nicht fahren. Ihr Nachbar fährt sie",
+    "groupCode": 1
+  },
+  {
+    "id": 10704,
+    "en": "I have to bring a basketball to class (lesson)",
+    "de": "Ich muss einen Basketball in den Unterricht mitbringen",
+    "groupCode": 1
+  },
+  {
+    "id": 10705,
+    "en": "The basketballs are in the locker. Over there",
+    "de": "Die Basketbälle sind im Spind. Dort Drüben",
+    "groupCode": 1
+  },
+  {
+    "id": 10706,
+    "en": "The locker is locked",
+    "de": "Der Spind ist verschlossen",
+    "groupCode": 1
+  },
+  {
+    "id": 10707,
+    "en": "Do you have the key for the locker?",
+    "de": "Hast du den Schlüssel für den Spind?",
+    "groupCode": 1
+  },
+  {
+    "id": 10708,
+    "en": "Do you have to work all day?",
+    "de": "Musst du den ganzen Tag arbeiten?",
+    "groupCode": 1
+  },
+  {
+    "id": 10709,
+    "en": "I sleep well because I do yoga every day",
+    "de": "Ich schlafe gut, denn ich mache jeden Tag Yoga",
+    "groupCode": 1
+  },
+  {
+    "id": 10710,
+    "en": "Until what time does your fiancée sleep?",
+    "de": "Bis wann schläft deine verlobter?",
     "groupCode": 1
   }
 ]
