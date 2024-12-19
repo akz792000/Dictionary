@@ -3955,7 +3955,7 @@
   },
   {
     "id": 654,
-    "fa": "تا 7 روز قبل از ورود می توانید بدون پرداخت هزینه کنسلی کنسل کنید",
+    "fa": "شما می توانید کنسل کنید بدون پرداخت هزینه کنسلی تا 7 روز قبل از ورود",
     "en": "You can cancel without paying cancellation fee until 7 days before arrival",
     "groupCode": 0
   },
@@ -15269,7 +15269,7 @@
   },
   {
     "id": 2516,
-    "fa": "سقف را سوراخ کردم تا یک لوستر زیبا آویزان کنم",
+    "fa": "من سقف را (دریل) سوراخ کردم تا یک لوستر زیبا آویزان کنم",
     "en": "I drilled the ceiling to hang a beautiful chandelier",
     "groupCode": 0
   },
@@ -16527,6 +16527,7 @@
     "id": 2722,
     "fa": "دهانش (زن) بو می ده",
     "en": "She has smelly breath",
+    "desc": "This confusion arises because in English, whether to use \"a\" or not depends on the nature of the noun you're describing: countable vs. uncountable nouns. Here’s a quick guide to help you understand:\n\n1. Use \"a\" with singular, countable nouns\nThese are things you can count individually.\n\nExample:\n\"I have a toothache.\" (You can think of \"toothache\" as one specific condition.)\n\"I have a headache.\" (A single, specific headache.)\n2. Do NOT use \"a\" with uncountable nouns\nThese are things you can’t count or divide into individual units.\n\nExample:\n\"I have smelly breath.\" (\"Breath\" is uncountable; it's a general state.)\n\"I have bad news.\" (\"News\" is uncountable, so no article.)\nWhy the difference?\nToothache is treated as one singular, countable problem.\nBreath refers to a state or quality, which is uncountable.\nWhen you're unsure\nHere are some tips:\n\nCan you count it?\n\nIf yes, use \"a\" for one thing (e.g., a cold, a toothache, a fever).\nIf no, don’t use \"a\" (e.g., pain, breath, news).\nDoes it describe a state/condition or an object?\n\nStates/conditions like \"breath,\" \"pain,\" \"health\" are often uncountable.\nLook for patterns in similar phrases:\n\nSingular countable: \"a cough,\" \"a sore throat,\" \"a bruise.\"\nUncountable: \"hunger,\" \"fatigue,\" \"energy.\"",
     "groupCode": 0
   },
   {
@@ -17797,7 +17798,7 @@
   },
   {
     "id": 2931,
-    "fa": "قول بده شما نخواهید گرخید (ترسیدن) و نخواهی بگی چقدر عالی است تا وقتی که من (کارم) انجام بشه",
+    "fa": "قول بده شما نخواهید گرخید (ترسیدن) و بگی چقدر عالی است تا وقتی که من (کارم) انجام بشه",
     "en": "Promise you won't freak out and say how great it is until I'm done",
     "groupCode": 0
   },

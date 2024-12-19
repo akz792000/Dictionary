@@ -3701,7 +3701,7 @@
   },
   {
     "id": 3606,
-    "fa": "آیا آن جلسه ای که داشتی برنامه ریزی می کردی (تاکید) اتفاق افتاد (برگزار شد)؟",
+    "fa": "آیا جلسه ای که داشتی برنامه ریزی می کردی (تاکید) اتفاق افتاد (برگزار شد)؟",
     "en": "Did the meeting you were planning ever come off?",
     "groupCode": 0
   },
@@ -3804,7 +3804,7 @@
   },
   {
     "id": 3623,
-    "fa": "ما غرور و تعصب اشتباهی داریم که باید تغییر کند",
+    "fa": "ما غرور و تعصب اشتباهی داریم که نیاز است تغییر کند",
     "en": "We have misguided pride and prejudice that need to be changed",
     "groupCode": 0
   },
@@ -3996,7 +3996,7 @@
   },
   {
     "id": 3655,
-    "fa": "او داره (مرد) علف های هرز باغ را می کشد (کندن)",
+    "fa": "او داره (مرد) علف های هرز در باغ را می کشد (کندن)",
     "en": "He's pulling the weeds in the garden",
     "groupCode": 0
   },
@@ -4074,7 +4074,7 @@
   },
   {
     "id": 3668,
-    "fa": "من مجبورم صحبت کنم با افرادی که نمی شناسم",
+    "fa": "من مجبور شدم صحبت کنم با افرادی که نمی شناسم",
     "en": "I’m forced to talk to people I don’t know",
     "groupCode": 0
   },
@@ -4118,6 +4118,36 @@
     "id": 3675,
     "fa": "او (مرد) به شدت برای امتحان درس خواند",
     "en": "He studied rigorously for the exam",
+    "groupCode": 0
+  },
+  {
+    "id": 3676,
+    "fa": "این نقشه (احساس میشه) یک کمی ریسکی_خطرناک از (آنچه) من دوست دارم, اما ممکن است همچنان کار کند",
+    "en": "This plan feels a little bit dicier than I like, but it might still work",
+    "groupCode": 0
+  },
+  {
+    "id": 3677,
+    "fa": "من بدم می آید (فرضی) فکر کنم چه اتفاقی افتاده بود اگر من افتاده بودم در داخل آن رودخانه سرد",
+    "en": "I would hate to think what would have happened if I had fallen into that cold river",
+    "groupCode": 0
+  },
+  {
+    "id": 3678,
+    "fa": "از آنجایی که او (زن) باردار است، پزشک نباید استفاده کند از بیهوشی (اَنس تیژا) برای کشیدن دندان",
+    "en": "Since she is pregnant, the doctor shouldn't use anesthesia /ˌænəsˈθiːʒə/ to extract the tooth",
+    "groupCode": 0
+  },
+  {
+    "id": 3679,
+    "fa": "قصد داری به ماهیگیری بری با پدربزرگت امروز؟",
+    "en": "Gonna go fishing with your grandpa today?",
+    "groupCode": 0
+  },
+  {
+    "id": 3680,
+    "fa": "او (مرد) وقت زیادی نداشت، اما او (مرد) ازش بهترین استفاده کرد و پروژه را به موقع تمام کرد",
+    "en": "He didn't have much time, but he made it count and finished the project on time",
     "groupCode": 0
   }
 ]
