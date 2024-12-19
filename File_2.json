@@ -823,8 +823,8 @@
   },
   {
     "id": 10136,
-    "en": "Why does your sister eat nothing? (Why doesn't your sister eat anything?) The currywurst is too spicy for her",
-    "de": "Warum isst deine Schwester nichts. Die Currywurst ist zu scharf für sie",
+    "en": "Why does your sister eat nothing? (Why doesn't your sister eat anything?) The currywurst is too spicy and too salty for her",
+    "de": "Warum isst deine Schwester nichts. Die Currywurst ist zu scharf und zu saltzig für sie",
     "groupCode": 1
   },
   {
@@ -2784,8 +2784,8 @@
   },
   {
     "id": 10460,
-    "en": "Mia and Tim, is your (plural) apartment clean for the party?",
-    "de": "Mia und Tim, ist eure Wohnung sauber für die Party?",
+    "en": "Mia and Tim, is your (plural) apartment clean for the party? Your mother is also coming to the party",
+    "de": "Mia und Tim, ist eure Wohnung sauber für die Party? Eure Mutter kommt auch zur Party",
     "groupCode": 1
   },
   {
@@ -3205,8 +3205,8 @@
   },
   {
     "id": 10530,
-    "en": "My uncle's birthday is on the first of March",
-    "de": "Mein Onkel hat am ersten März Geburtstag",
+    "en": "His sister's birthday is soon",
+    "de": "Seine Schwester hat bald Geburtstag",
     "groupCode": 1
   },
   {
@@ -4289,6 +4289,66 @@
     "id": 10710,
     "en": "Until what time does your fiancée sleep?",
     "de": "Bis wann schläft deine verlobter?",
+    "groupCode": 1
+  },
+  {
+    "id": 10711,
+    "en": "You have to sign the birthday card",
+    "de": "Du musst die Geburtstagskarte unterschreiben",
+    "groupCode": 1
+  },
+  {
+    "id": 10712,
+    "en": "Can you bring carrots? Ali likes to eat vegetables",
+    "de": "Kannst du karotten mitbringen? Ali isst gern Gemüse",
+    "groupCode": 1
+  },
+  {
+    "id": 10713,
+    "en": "You never bring your parents. Why can't you bring them along?",
+    "de": "Du bringst nie deine Eltern mit. Warum kannst du sie nicht mitbringen?",
+    "groupCode": 1
+  },
+  {
+    "id": 10714,
+    "en": "Ali is happy and likes his party",
+    "de": "Ali ist glücklich und mag seine Party",
+    "groupCode": 1
+  },
+  {
+    "id": 10715,
+    "en": "Is tomorrow definitely an important day?",
+    "de": "Ist morgen ganz bestimmt ein wichtiger Tag?",
+    "groupCode": 1
+  },
+  {
+    "id": 10716,
+    "en": "You're crazy. It's not dangerous",
+    "de": "Du spinnst. Es ist nicht gefährlich",
+    "groupCode": 1
+  },
+  {
+    "id": 10717,
+    "en": "But I'm scared! It's too dangerous",
+    "de": "Aber ich habe Angst! Es ist zu gefährlich",
+    "groupCode": 1
+  },
+  {
+    "id": 10718,
+    "en": "I have to pick up two bottles of wine first",
+    "de": "Ich muss zuerst zwei Flaschen wein abholen",
+    "groupCode": 1
+  },
+  {
+    "id": 10719,
+    "en": "I pick you up later",
+    "de": "Ich hole dich später ab",
+    "groupCode": 1
+  },
+  {
+    "id": 10720,
+    "en": "Whom do I pick up?",
+    "de": "Wen hole ich ab?",
     "groupCode": 1
   }
 ]
