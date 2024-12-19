@@ -3620,8 +3620,8 @@
   },
   {
     "id": 10599,
-    "en": "Does our boss smoke?",
-    "de": "Raucht unsere Chefin?",
+    "en": "Is Vienna big, old, beautiful and cool?",
+    "de": "Ist Wien groß, alt, schön und cool?",
     "groupCode": 1
   },
   {
@@ -3705,8 +3705,8 @@
   },
   {
     "id": 10613,
-    "en": "I am driving home and visiting my family",
-    "de": "Ich fahre nach Hause und besuche meine Familie",
+    "en": "I am hungry and thirsty",
+    "de": "Ich habe Hunger und Durst",
     "groupCode": 1
   },
   {
@@ -3939,8 +3939,8 @@
   },
   {
     "id": 10652,
-    "en": "My car is broken, can you pick me up?",
-    "de": "Mein Auto ist kaputt, kannst du mich abholen?",
+    "en": "Are you on Facebook? No, I'm not on Facebook",
+    "de": "Bist du bei Facebook? Nein, Ich bin nicht bei Facebook",
     "groupCode": 1
   },
   {
@@ -3975,8 +3975,8 @@
   },
   {
     "id": 10658,
-    "en": "My son is sick and only sleeps a little",
-    "de": "Mein Sohn ist krank und schläft nur wenig",
+    "en": "The prefix for munich is 089",
+    "de": "Die Vorwahl für München ist 089",
     "groupCode": 1
   },
   {
@@ -4035,8 +4035,8 @@
   },
   {
     "id": 10668,
-    "en": "How can you sleep less than six hours?",
-    "de": "Wie kannst du weniger als sechs Stunden schlafen?",
+    "en": "Is your email address new? Yes, my email address is new...",
+    "de": "Ist deine E-Mail-Adresse neu? Ja, meine E-Mail-Adresse ist jetzt ...",
     "groupCode": 1
   },
   {
@@ -4155,8 +4155,8 @@
   },
   {
     "id": 10688,
-    "en": "My son is coming with his girlfriend",
-    "de": "Mein Sohn kommt mit seiner Freundin",
+    "en": "Colors (white, yellow, orange, red, green, blue, brown, black, dark brown, light brown)",
+    "de": "Farben(weiß, gelb, orange, rot, grün, blau, braun, schwarz, dunkelbraun, hellbraun)",
     "groupCode": 1
   },
   {
@@ -4341,8 +4341,9 @@
   },
   {
     "id": 10719,
-    "en": "I pick you up later",
-    "de": "Ich hole dich später ab",
+    "en": "I am cold",
+    "de": "Mir ist kalt",
+    "desc": "In German, the verb \"haben\" (to have) is often used to express physical states and needs, such as hunger, thirst, or pain. So, when you say \"Ich habe Hunger,\" you are literally saying \"I have hunger\" in English.\n\nOn the other hand, the phrase \"Mir ist kalt\" (literally, \"to me is cold\") is used to express sensations such as cold or warmth, rather than physical needs. This construction uses the dative case, which is used to indicate the indirect object of a sentence. In this case, \"mir\" (to me) is the indirect object, and \"kalt\" (cold) is the subject of the sentence.",
     "groupCode": 1
   },
   {
