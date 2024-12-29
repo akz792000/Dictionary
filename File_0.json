@@ -4508,7 +4508,7 @@
   },
   {
     "id": 744,
-    "fa": "سینه هایش (زن) واقعا دردناک هستند",
+    "fa": "سینه هایش (زن) واقعا دردناک (کبود) هستند",
     "en": "Her breasts are really tender",
     "groupCode": 0
   },
@@ -7717,7 +7717,7 @@
   },
   {
     "id": 1270,
-    "fa": "چندتا باید بگیرم؟",
+    "fa": "چندتا باید بگیرم (بردام)؟",
     "en": "How many do I have to take?",
     "groupCode": 0
   },
@@ -14061,8 +14061,9 @@
   },
   {
     "id": 2317,
-    "fa": "اگر شما برای خودتان تصمیم نگیرید، دیگران به جای شما تصمیم خواهند گرفت",
-    "en": "If you don't make decisions for yourself, others will make decision for you",
+    "fa": "اگر شما برای خودتان تصمیم نگیرید، دیگران برای شما (تصمیم) آنها را می گیرند",
+    "en": "If you don't make decisions for yourself, others will make them for you",
+    "desc": "Use \"decision\" for one choice and \"decisions\" for multiple or general choices. In your sentence, \"decisions\" fits because it's about decision-making in general.",
     "groupCode": 0
   },
   {
@@ -15984,7 +15985,7 @@
   },
   {
     "id": 2634,
-    "fa": "از تو بعیده صبور باشی",
+    "fa": "از تو بعیده (احتمال ندارد) صبور باشی",
     "en": "It's unlike you to be patient",
     "groupCode": 0
   },

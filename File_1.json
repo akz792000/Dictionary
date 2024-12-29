@@ -2441,7 +2441,7 @@
     "id": 3400,
     "fa": "شما خواهید دید که چگونه این دوره راه حل کاملی است برای غلبه (شکستن از میان) کشمکش های زبان انگلیسیتان",
     "en": "You'll see how this course is the perfect solution to breaking through your english language struggles",
-    "desc": "\"Breaking through\" means overcoming or pushing past an obstacle (in this case, english language struggles). In \"the solution to breaking through your struggles,\" the word \"to\" acts as a preposition, not an infinitive. This is why it’s followed by \"breaking\" (the gerund) rather than \"break.",
+    "desc": "\"Breaking through\" means overcoming or pushing past an obstacle (in this case, english language struggles). In \"the solution to breaking through your struggles,\" the word \"to\" acts as a preposition, not an infinitive. This is why it's followed by \"breaking\" (the gerund) rather than \"break.",
     "groupCode": 0
   },
   {
@@ -2452,7 +2452,7 @@
   },
   {
     "id": 3402,
-    "fa": "بازوم هنوز دردناک است در جایی که من کبودش کردم",
+    "fa": "بازوم هنوز دردناک (کبود) است در جایی که من کبودش کردم",
     "en": "My arm is still tender where I bruised it",
     "groupCode": 0
   },
@@ -2844,7 +2844,7 @@
     "id": 3465,
     "fa": "این خط تنظیم میکند یک قانون دید پیشفرض را تا همه ویژگیها نامرئی بسازد به طور پیشفرض",
     "en": "This line sets a default visibility rule to make all properties invisible by default",
-    "desc": "When \"to\" is a preposition (as in \"look forward to,\" \"used to,\" \"committed to\"), it’s followed by a verb in the -ing form.\n\nWhen \"to\" is part of an infinitive (like \"to go,\" \"to see\"), it's followed by the base form of the verb.",
+    "desc": "When \"to\" is a preposition (as in \"look forward to,\" \"used to,\" \"committed to\"), it's followed by a verb in the -ing form.\n\nWhen \"to\" is part of an infinitive (like \"to go,\" \"to see\"), it's followed by the base form of the verb.",
     "groupCode": 0
   },
   {
@@ -3446,7 +3446,7 @@
   },
   {
     "id": 3564,
-    "fa": "اگر شما ضربه بزنید اینجا را همین الان، شما می توانید یک آزمایش رایگان 7 روزه را امتحان کنید",
+    "fa": "اگر شما ضربه بزنید اینجا را همین الان، شما می توانید یک آزمایش رایگان 7 روزه را امتحان (سعی) کنید",
     "en": "If you tap here right now you can try a 7-Day free trial",
     "groupCode": 0
   },
@@ -3489,7 +3489,7 @@
   },
   {
     "id": 3571,
-    "fa": "من گلو درد دارم و سرفه ام شروع شده است، بنابراین امروز به محل کار نمی آیم",
+    "fa": "من گلو درد دارم و سرفه ام شروع شده است، بنابراین من نخواهم آمد به محل کار امروز",
     "en": "I have a sore throat and I've started coughing, so I won't come to the office today",
     "groupCode": 0
   },
@@ -3828,7 +3828,7 @@
   },
   {
     "id": 3627,
-    "fa": "پذیرفتن (فرض کردن) است در مورد باور کردن چیزی است درست بدون دلیل. من فرض می کنم که او به دلیل ترافیک دیر کرده است",
+    "fa": "پذیرفتن (فرض کردن) است در مورد باور کردن چیزی هست درست بدون دلیل. من پذیرفتم او (مرد) به دلیل ترافیک دیر کرده است",
     "en": "Assume is about believing something is true without proof. I assume he's late because of traffic",
     "groupCode": 0
   },
@@ -4026,7 +4026,7 @@
   },
   {
     "id": 3660,
-    "fa": "من مطمئن خواهم شد او (مرد) می آورد آنها را به مدرسه در اسرع وقت تا که شما شما بتوانید آن ها را پس بگیرید قبل از تعطیلات",
+    "fa": "من مطمئن خواهم شد او (مرد) می آورد آنها را به مدرسه در اسرع وقت تا که شما بتوانید آن ها را پس بگیرید (داشته باشید) قبل از تعطیلات",
     "en": "I will make sure he brings them to school as soon as possible so that you can have them back before the holidays",
     "groupCode": 0
   },
@@ -4075,7 +4075,7 @@
   {
     "id": 3668,
     "fa": "من مجبور شدم صحبت کنم با افرادی که نمی شناسم",
-    "en": "I’m forced to talk to people I don’t know",
+    "en": "I'm forced to talk to people I don't know",
     "groupCode": 0
   },
   {
@@ -4148,6 +4148,132 @@
     "id": 3680,
     "fa": "او (مرد) وقت زیادی نداشت، اما او (مرد) ازش بهترین استفاده کرد و پروژه را به موقع تمام کرد",
     "en": "He didn't have much time, but he made it count and finished the project on time",
+    "groupCode": 0
+  },
+  {
+    "id": 3681,
+    "fa": "آیا قبلا اتفاق افتاده است؟",
+    "en": "Has it happened before?",
+    "groupCode": 0
+  },
+  {
+    "id": 3682,
+    "fa": "بسیار سپاسگزارم برای پیام محبت آمیز و آرزوهای گرم شما",
+    "en": "Thank you so much for your kind message and warm wishes",
+    "groupCode": 0
+  },
+  {
+    "id": 3683,
+    "fa": "ما مایلیم تبریک بگوییم به یک کریسمس بسیار مبارک و همچنین یک سال نو شاد",
+    "en": "We would like to wish you both a very Merry Christmas and a Happy New Year as well",
+    "groupCode": 0
+  },
+  {
+    "id": 3684,
+    "fa": "باشد که پر شود تعطیلات شما با شادی، خنده، و لحظات گرامی باشد",
+    "en": "May your holidays be filled with happiness, laughter, and cherished moments",
+    "groupCode": 0
+  },
+  {
+    "id": 3685,
+    "fa": "هتل لوازم بهداشتی رایگان در هر اتاق ارائه (مهیا) می دهد",
+    "en": "The hotel provides free toiletries in every room",
+    "groupCode": 0
+  },
+  {
+    "id": 3686,
+    "fa": "چه ساعتی فردا صبحانه سرو می شود؟",
+    "en": "What time is breakfast served tomorrow?",
+    "groupCode": 0
+  },
+  {
+    "id": 3687,
+    "fa": "چه ساعتی امروز تسویه حساب می شود؟",
+    "en": "What time is check-out today?",
+    "groupCode": 0
+  },
+  {
+    "id": 3688,
+    "fa": "آیا وای فای دارید و رمز عبور چیست؟",
+    "en": "Do you have Wi-Fi, and what's the password?",
+    "groupCode": 0
+  },
+  {
+    "id": 3689,
+    "fa": "می توانید توصیه کنید یک رستوران خوب در این نزدیکی؟",
+    "en": "Can you recommend a good restaurant nearby?",
+    "groupCode": 0
+  },
+  {
+    "id": 3690,
+    "fa": "آیا وجود دارد سالن ورزشی یا استخر (که) من بتوانم استفاده کنم؟",
+    "en": "Is there a gym or pool I can use?",
+    "groupCode": 0
+  },
+  {
+    "id": 3691,
+    "fa": "آیا سرویس اتاق مهیا می کنید؟",
+    "en": "Do you provide room service?",
+    "groupCode": 0
+  },
+  {
+    "id": 3692,
+    "fa": "کجا می توانم من آسانسور یا پله را پیدا کنم؟",
+    "en": "Where can I find the elevator or stairs?",
+    "groupCode": 0
+  },
+  {
+    "id": 3693,
+    "fa": "می توانم من یک تاکسی رزرو کنم یا حمل و نقل را ترتیب دهم؟",
+    "en": "Can I book a taxi or arrange transportation?",
+    "groupCode": 0
+  },
+  {
+    "id": 3694,
+    "fa": "آیا صبحانه شامل اقامت من می شود؟",
+    "en": "Is breakfast included with my stay?",
+    "groupCode": 0
+  },
+  {
+    "id": 3695,
+    "fa": "من گذاشتم تمام یادداشت هایم را در یک کلاسور",
+    "en": "I put all my notes in a binder",
+    "groupCode": 0
+  },
+  {
+    "id": 3696,
+    "fa": "او (مرد) یک بایندر می پوشد برای یک ظاهر مردانه تر",
+    "en": "He wears a binder for a more masculine appearance",
+    "groupCode": 0
+  },
+  {
+    "id": 3697,
+    "fa": "خودتان را خیلی جدی نگیرید. زندگی مانند ساختن یک قلعه شنی است - مهم نیست چقدر بزرگ و زیبا است، در نهایت از بین خواهد رفت (شسته میشه میره)",
+    "en": "Don't take yourself too seriously. Life is like building a sandcastle—no matter how big and beautiful it is, eventually, it'll get washed away",
+    "groupCode": 0
+  },
+  {
+    "id": 3698,
+    "fa": "می توانم من بگیرم یک برگر برای رفتن لطفا؟",
+    "en": "Can I get a burger to go please?",
+    "groupCode": 0
+  },
+  {
+    "id": 3699,
+    "fa": "من یه عالمه کار امروز دارم (چیزهای زیادی در بشقابم دارم)",
+    "en": "I have a lot on my plate today",
+    "groupCode": 0
+  },
+  {
+    "id": 3700,
+    "fa": "من دارم فردا ماشینم رو سرویس میکنم",
+    "en": "I'm getting my car serviced tomorrow",
+    "groupCode": 0
+  },
+  {
+    "id": 3701,
+    "fa": "چه وقتی دوستت دوست دارند سر به سرت بزارند؟",
+    "en": "When your friend likes to tease you?",
     "groupCode": 0
   }
 ]
