@@ -333,7 +333,7 @@
   },
   {
     "id": 10055,
-    "en": "Mia is my cat. She is old and sleeps (the) all day! I also have a dog. He is very loud and sleep too little!",
+    "en": "Mia is my cat. She is old and sleeps the entire day! I also have a dog. He is very loud and sleep too little!",
     "de": "Mia ist meine Katze. Sie ist alt und schläft den ganzen Tag! Ich habe auch einen Hund. Er ist sehr laut und schläft zu wenig!",
     "groupCode": 1
   },
@@ -1033,8 +1033,9 @@
   },
   {
     "id": 10171,
-    "en": "I have a meeting at the company",
+    "en": "I have a meeting in the company",
     "de": "Ich habe eine Sitzung in der Firma",
+    "desc": "\"In the company\": Inside the building.\n\"At the company\": General location.\nUse \"at\" for most cases.",
     "groupCode": 1
   },
   {
@@ -1148,7 +1149,7 @@
   },
   {
     "id": 10190,
-    "en": "I'm going (on) a trip at the weekend",
+    "en": "I'm going (make) (on) a trip at the weekend",
     "de": "Ich mache am Wochenende einen Ausflug",
     "groupCode": 1
   },
@@ -2048,7 +2049,7 @@
   },
   {
     "id": 10338,
-    "en": "It's too late. The stores/shops are already closed",
+    "en": "It's too late. The shops (stores) are already closed",
     "de": "Es ist zu spät. Die Geschäfte sind schon geschlossen",
     "groupCode": 1
   },
@@ -2760,7 +2761,7 @@
   },
   {
     "id": 10456,
-    "en": "I can pick your friend up from the train station later",
+    "en": "I can pick your boyfriend up from the train station later",
     "de": "Ich kann später deinen Freund vom Bahnhof abholen",
     "groupCode": 1
   },
@@ -2886,7 +2887,7 @@
   },
   {
     "id": 10477,
-    "en": "No, my roommate (male) never has time. I have to clean the apartment without my roommate",
+    "en": "No, my roommate (male) never has time. I have to clean the apartment without my roommate (male)",
     "de": "Nein, mein Mitbewohner hat nie Zeit. Ich muss ohne meinen Mitbewohner die Wohnung putzen",
     "groupCode": 1
   },
@@ -3668,7 +3669,7 @@
   },
   {
     "id": 10607,
-    "en": "Are you shopping for the bread for the barbecue party at the market? The bread there is always fresh",
+    "en": "Are you shopping the bread for the barbecue party at the market? The bread there is always fresh",
     "de": "Kaufst du das Brot für die Grillparty auf dem Markt ein? Das Brot dort ist immer frisch",
     "groupCode": 1
   },
@@ -3717,7 +3718,7 @@
   },
   {
     "id": 10615,
-    "en": "Unfortunately, Eddy is not coming to the barbecue party because his foot is broken. He is very sad",
+    "en": "Eddy is unfortunately not coming to the barbecue party because his foot is broken. He is very sad",
     "de": "Eddy kommt leider nicht zur Grillparty, denn sein Fuß ist gebrochen. Er ist sehr traurig",
     "groupCode": 1
   },
@@ -3729,7 +3730,7 @@
   },
   {
     "id": 10617,
-    "en": "Do you prefer to ride a bicycle or a motorcycle",
+    "en": "Do you prefer to ride (a) bicycle or (a) motorcycle",
     "de": "Fährst du lieber fahrrad oder Motorrad?",
     "groupCode": 1
   },
@@ -3759,7 +3760,7 @@
   },
   {
     "id": 10622,
-    "en": "My sister has no husband. She has a partner",
+    "en": "My sister has no husband. She has a partner (male)",
     "de": "Meine Schwester hat keinen Mann. Sie hat einen Partner",
     "groupCode": 1
   },
@@ -3837,7 +3838,7 @@
   },
   {
     "id": 10635,
-    "en": "I have to shop for a cake for the barbecue party",
+    "en": "I have to shop a cake for the barbecue party",
     "de": "Ich muss einen Kuchen für die Grillparty einkaufen",
     "groupCode": 1
   },
@@ -3903,7 +3904,7 @@
   },
   {
     "id": 10646,
-    "en": "We have to drive to the airport now, but I definitely want to come back in January",
+    "en": "We have to drive to the airport now, but I definitely want to come back (again) in January",
     "de": "Wir müssen jetzt zum Flughafen fahren, aber ich will im Januar auf jeden Fall wiederkommen",
     "groupCode": 1
   },
@@ -3921,7 +3922,7 @@
   },
   {
     "id": 10649,
-    "en": "You can come back next time with your partner (male)",
+    "en": "You can come back (again) next time with your partner (male)",
     "de": "Du kannst nächstes Mal mit deinem Partner wiederkommen",
     "groupCode": 1
   },
@@ -4017,7 +4018,7 @@
   },
   {
     "id": 10665,
-    "en": "I want to buy a motorcycle next week. We can ride a motorcycle next weekend",
+    "en": "I want to buy a motorcycle next week. We can ride (a) motorcycle next weekend",
     "de": "Ich will nächste Woche ein Motorrad kaufen. Wir können nächstes Wochenende Motrrad fahren",
     "groupCode": 1
   },
@@ -4299,7 +4300,7 @@
   },
   {
     "id": 10712,
-    "en": "Can you bring carrots? Ali likes to eat vegetables",
+    "en": "Can you bring carrots? Ali likes eating vegetables",
     "de": "Kannst du karotten mitbringen? Ali isst gern Gemüse",
     "groupCode": 1
   },
@@ -4317,14 +4318,14 @@
   },
   {
     "id": 10715,
-    "en": "Is tomorrow definitely an important day?",
+    "en": "Is tomorrow quite certainly an important day?",
     "de": "Ist morgen ganz bestimmt ein wichtiger Tag?",
     "groupCode": 1
   },
   {
     "id": 10716,
     "en": "You're crazy. It's not dangerous",
-    "de": "Du spinnst. Es ist nicht gefährlich",
+    "de": "Du ist spinnst. Es ist nicht gefährlich",
     "groupCode": 1
   },
   {
@@ -4350,6 +4351,247 @@
     "id": 10720,
     "en": "Whom do I pick up?",
     "de": "Wen hole ich ab?",
+    "groupCode": 1
+  },
+  {
+    "id": 10721,
+    "en": "My brother runs every day and I almost never run",
+    "de": "Mein Bruder läuft jeden Tag und ich laufe fast nie",
+    "groupCode": 1
+  },
+  {
+    "id": 10722,
+    "en": "Do you run ten kilometers every day?",
+    "de": "Läufst du jeden Tag zehn Kilometer?",
+    "groupCode": 1
+  },
+  {
+    "id": 10723,
+    "en": "I run hundred kilometers every weekend",
+    "de": "Ich laufe jedes Wochenende hundert Kilometer",
+    "groupCode": 1
+  },
+  {
+    "id": 10724,
+    "en": "The bike is yellow, red and black",
+    "de": "Das fahrrad ist gelb, rot und schwarz",
+    "groupCode": 1
+  },
+  {
+    "id": 10725,
+    "en": "I swim, I ride my bike and I buy",
+    "de": "Ich schwimme, ich fahre Fahrrad und ich kaufe",
+    "groupCode": 1
+  },
+  {
+    "id": 10726,
+    "en": "I ride (a) bicycle and my sister rides (a) motorcycle",
+    "de": "Ich fahre Fahrrad und meine Schwester fährt Motorrad",
+    "groupCode": 1
+  },
+  {
+    "id": 10727,
+    "en": "My motorcycle is broken, I need your bike",
+    "de": "Mein Motorrad ist kaputt, ich brauche dein Fahrrad",
+    "groupCode": 1
+  },
+  {
+    "id": 10728,
+    "en": "Why are you sleeping so little at the moment?",
+    "de": "Warum schläfst du im Moment so wenig?",
+    "groupCode": 1
+  },
+  {
+    "id": 10729,
+    "en": "I only sleep until noon on weekend",
+    "de": "Ich schlafe nur am Wochenende bis Mittag",
+    "groupCode": 1
+  },
+  {
+    "id": 10730,
+    "en": "Do you want to see this horror movie?",
+    "de": "Willst du diesen Horrorfilm sehen?",
+    "groupCode": 1
+  },
+  {
+    "id": 10731,
+    "en": "Oh no, he loves your girlfriend",
+    "de": "Oh nein, er liebt deine freundin",
+    "groupCode": 1
+  },
+  {
+    "id": 10732,
+    "en": "Why are the shops (stores) closed today?",
+    "de": "Warum sind die Geschäfte heute geschlossen?",
+    "groupCode": 1
+  },
+  {
+    "id": 10733,
+    "en": "Do you (formal) have a sweater in size S (small)?",
+    "de": "Haben Sie einen Pullover in Größe S?",
+    "groupCode": 1
+  },
+  {
+    "id": 10734,
+    "en": "Anna runs two hundred kilometers every Saturday, her husband is also very sporty, he runs every day",
+    "de": "Anna läuft jeden Samstag zweihundert Kilometer, Ihr Mann ist auch sehr sportlich, Er läuft jeden Tag",
+    "groupCode": 1
+  },
+  {
+    "id": 10735,
+    "en": "How many kilometers are you running today?",
+    "de": "Wie viele Kilometer läufst du heute?",
+    "groupCode": 1
+  },
+  {
+    "id": 10736,
+    "en": "I'm running a marathon tomorrow, are you running too?",
+    "de": "Ich laufe morgen einen Marathon, läufst du auch?",
+    "groupCode": 1
+  },
+  {
+    "id": 10737,
+    "en": "Do you always ride a bike or do you also go by foot?",
+    "de": "Fährst du immer Fahrrad oder gehst du auch zu Fuß?",
+    "groupCode": 1
+  },
+  {
+    "id": 10738,
+    "en": "My partner is Canadian",
+    "de": "Meine Partnerin ist kanadierin",
+    "groupCode": 1
+  },
+  {
+    "id": 10739,
+    "en": "Our grandparents have a computer",
+    "de": "Unsere Großeltern haben einen Computer",
+    "groupCode": 1
+  },
+  {
+    "id": 10740,
+    "en": "Are you traveling to Japan in June?",
+    "de": "Reist ihr im Juni nach Japan?",
+    "groupCode": 1
+  },
+  {
+    "id": 10741,
+    "en": "My boyfriend has a job interview this afternoon",
+    "de": "Mein Freund hat heute Nachmittag ein Jobinterview",
+    "groupCode": 1
+  },
+  {
+    "id": 10742,
+    "en": "My sister is a teacher. Does your girlfriend have a brother or a sister?",
+    "de": "Meine Schwester ist Lehrerin. Hat deine Freundin einen Bruder oder eine Schwester?",
+    "groupCode": 1
+  },
+  {
+    "id": 10743,
+    "en": "Our neighbors are nice but they never sleep",
+    "de": "Unsere Nachbarn sind nett aber sie schlafen nie",
+    "groupCode": 1
+  },
+  {
+    "id": 10744,
+    "en": "Does your dog sleep better at night?",
+    "de": "Schläft dein Hund besser nachts?",
+    "groupCode": 1
+  },
+  {
+    "id": 10745,
+    "en": "One night costs twenty euros. Five nights cost (one) hundred euros",
+    "de": "Eine Nacht kostet zwanzig Euro. Fünf Nächte kosten hundert Euro",
+    "groupCode": 1
+  },
+  {
+    "id": 10746,
+    "en": "What would you (formal) like to order?",
+    "de": "Was möchten Sie bestellen?",
+    "groupCode": 1
+  },
+  {
+    "id": 10747,
+    "en": "We would like to stay two nights",
+    "de": "Wir möchten zwei Nächte bleiben",
+    "groupCode": 1
+  },
+  {
+    "id": 10748,
+    "en": "Our granddaughter is doing an internship in winter",
+    "de": "Unsere Enkelin macht ein Praktikum im Winter",
+    "groupCode": 1
+  },
+  {
+    "id": 10749,
+    "en": "My grandpa would like to see his girlfriend every day",
+    "de": "Mein Opa möchte seine Freundin jeden Tag sehen",
+    "groupCode": 1
+  },
+  {
+    "id": 10750,
+    "en": "My grandson is doing (make) an internship",
+    "de": "Mein Enkel macht ein praktikum",
+    "groupCode": 1
+  },
+  {
+    "id": 10751,
+    "en": "I can't find the price",
+    "de": "Ich kann den Preis nicht finden",
+    "groupCode": 1
+  },
+  {
+    "id": 10752,
+    "en": "We know the boy, he is nice and helpful",
+    "de": "Wir kennen den Jungen, er ist nett und hilfreich",
+    "desc": "\"Junge\" (boy) is a masculine weak noun (schwaches Nomen).\n\nWeak nouns add -en in all cases except nominative singular.",
+    "groupCode": 1
+  },
+  {
+    "id": 10753,
+    "en": "Oh no, the bread and cake are too delicious",
+    "de": "Oh nein, das Brot und der kuchen sind zu lecker",
+    "groupCode": 1
+  },
+  {
+    "id": 10754,
+    "en": "Why do I have green hair?",
+    "de": "Warum habe ich grüne Haare?",
+    "groupCode": 1
+  },
+  {
+    "id": 10755,
+    "en": "No problem! His name is Asghar",
+    "de": "Kein Problem! Er heißt Asghar",
+    "groupCode": 1
+  },
+  {
+    "id": 10756,
+    "en": "Why is my head so big?",
+    "de": "Warum ist mein Kopf so Groß?",
+    "groupCode": 1
+  },
+  {
+    "id": 10757,
+    "en": "Do you like to dance?",
+    "de": "Tanzt du gern?",
+    "groupCode": 1
+  },
+  {
+    "id": 10758,
+    "en": "What hobbies do you have?",
+    "de": "Welche Hobbys hast du?",
+    "groupCode": 1
+  },
+  {
+    "id": 10759,
+    "en": "We're celebrating my birthday in the park",
+    "de": "Wir feiern meinen Geburtstag im Park",
+    "groupCode": 1
+  },
+  {
+    "id": 10760,
+    "en": "I eat bread by white sausage",
+    "de": "Ich esse Brot mit Weißwurst",
     "groupCode": 1
   }
 ]

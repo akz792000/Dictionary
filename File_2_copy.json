@@ -116,12 +116,6 @@
     "groupCode": 1
   },
   {
-    "id": 10126,
-    "en": "Canada is wonderful",
-    "de": "Kanada ist wunderbar",
-    "groupCode": 1
-  },
-  {
     "id": 10127,
     "en": "He is Chinese and speaks Chinese and a little German",
     "de": "Er ist Chinese und spricht Chinesisch und ein bisschen Deutsch",
@@ -458,12 +452,6 @@
     "id": 10214,
     "en": "She is a college student",
     "de": "Sie ist Studentin",
-    "groupCode": 1
-  },
-  {
-    "id": 10215,
-    "en": "My sister is a teacher. Does your girlfriend have a brother or a sister?",
-    "de": "Meine Schwester ist Lehrerin. Hat deine Freundin einen Bruder oder eine Schwester?",
     "groupCode": 1
   },
   {
@@ -2838,18 +2826,6 @@
     "groupCode": 1
   },
   {
-    "id": 10683,
-    "en": "We're celebrating my birthday in the park",
-    "de": "Wir feiern meinen Geburtstag im Park",
-    "groupCode": 1
-  },
-  {
-    "id": 10684,
-    "en": "I eat bread by white sausage",
-    "de": "Ich esse Brot mit Weißwurst",
-    "groupCode": 1
-  },
-  {
     "id": 10685,
     "en": "What are you searching for?",
     "de": "Wonach suchst du?",
@@ -2866,42 +2842,6 @@
     "id": 10687,
     "en": "Customer finds receipt from 2002",
     "de": "Kunde findet Kassenzettel von 2002",
-    "groupCode": 1
-  },
-  {
-    "id": 10689,
-    "en": "Oh no, the bread and cake are too delicious",
-    "de": "Oh nein, das Brot und der kuchen sind zu lecker",
-    "groupCode": 1
-  },
-  {
-    "id": 10690,
-    "en": "Why do I have green hair?",
-    "de": "Warum habe ich grüne Haare?",
-    "groupCode": 1
-  },
-  {
-    "id": 10691,
-    "en": "No problem! His name is Asghar",
-    "de": "Kein Problem! Er heißt Asghar",
-    "groupCode": 1
-  },
-  {
-    "id": 10692,
-    "en": "Why is my head so big?",
-    "de": "Warum ist mein Kopf so Groß?",
-    "groupCode": 1
-  },
-  {
-    "id": 10694,
-    "en": "Do you like to dance?",
-    "de": "Tanzt du gern?",
-    "groupCode": 1
-  },
-  {
-    "id": 10695,
-    "en": "What hobbies do you have?",
-    "de": "Welche Hobbys hast du?",
     "groupCode": 1
   },
   {

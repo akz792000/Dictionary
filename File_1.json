@@ -3978,7 +3978,7 @@
   },
   {
     "id": 3652,
-    "fa": "ما  نیاز داریم  به آن شاخص منحصر به فرد روی جدول (پایگاه داده)",
+    "fa": "ما نیاز داریم (به) آن شاخص منحصر به فرد روی جدول (پایگاه داده)",
     "en": "We need that unique index on the table",
     "groupCode": 0
   },
@@ -4158,19 +4158,19 @@
   },
   {
     "id": 3682,
-    "fa": "بسیار سپاسگزارم برای پیام محبت آمیز و آرزوهای گرم شما",
+    "fa": "بسیار متشکرم برای پیام محبت آمیز و آرزوهای گرم شما",
     "en": "Thank you so much for your kind message and warm wishes",
     "groupCode": 0
   },
   {
     "id": 3683,
-    "fa": "ما مایلیم تبریک بگوییم به یک کریسمس بسیار مبارک و همچنین یک سال نو شاد",
+    "fa": "ما مایلیم تبریک بگوییم به هر دو یک کریسمس بسیار مبارک و یک سال نو شاد همچنین",
     "en": "We would like to wish you both a very Merry Christmas and a Happy New Year as well",
     "groupCode": 0
   },
   {
     "id": 3684,
-    "fa": "باشد که پر شود تعطیلات شما با شادی، خنده، و لحظات گرامی باشد",
+    "fa": "باشد که تعطیلات شما پر شود با شادی، خنده، و لحظات گرامی",
     "en": "May your holidays be filled with happiness, laughter, and cherished moments",
     "groupCode": 0
   },
@@ -4188,7 +4188,7 @@
   },
   {
     "id": 3687,
-    "fa": "چه ساعتی امروز تسویه حساب می شود؟",
+    "fa": "چه ساعتی امروز تسویه حساب (check-out) است؟",
     "en": "What time is check-out today?",
     "groupCode": 0
   },
@@ -4248,8 +4248,8 @@
   },
   {
     "id": 3697,
-    "fa": "خودتان را خیلی جدی نگیرید. زندگی مانند ساختن یک قلعه شنی است - مهم نیست چقدر بزرگ و زیبا است، در نهایت از بین خواهد رفت (شسته میشه میره)",
-    "en": "Don't take yourself too seriously. Life is like building a sandcastle—no matter how big and beautiful it is, eventually, it'll get washed away",
+    "fa": "خودتان را خیلی جدی نگیرید. زندگی مانند ساختن یک قلعه شنی است - مهم نیست چقدر بزرگ و زیبا است، در نهایت, از بین خواهد رفت (شسته میشه میره)",
+    "en": "Don't take yourself too seriously. Life is like building a sandcastle - no matter how big and beautiful it is, eventually, it'll get washed away",
     "groupCode": 0
   },
   {
@@ -4266,14 +4266,128 @@
   },
   {
     "id": 3700,
-    "fa": "من دارم فردا ماشینم رو سرویس میکنم",
+    "fa": "من دارم می دم فردا ماشینم رو سرویس کنن",
     "en": "I'm getting my car serviced tomorrow",
     "groupCode": 0
   },
   {
     "id": 3701,
-    "fa": "چه وقتی دوستت دوست دارند سر به سرت بزارند؟",
+    "fa": "چه وقتی دوستت دوست دارد سر به سرت بزارد؟",
     "en": "When your friend likes to tease you?",
+    "groupCode": 0
+  },
+  {
+    "id": 3702,
+    "fa": "من کلیدم را داخل ماشین فراموش کردم",
+    "en": "I forgot my key inside the car",
+    "groupCode": 0
+  },
+  {
+    "id": 3703,
+    "fa": "میشه شما سوارم کنی؟",
+    "en": "Can you give me a ride?",
+    "groupCode": 0
+  },
+  {
+    "id": 3704,
+    "fa": "من هدفون/ایرپاد نمی زنم",
+    "en": "I don't wear earbuds/airpods",
+    "groupCode": 0
+  },
+  {
+    "id": 3705,
+    "fa": "هیچکس راضی نیست",
+    "en": "Nobody is content",
+    "groupCode": 0
+  },
+  {
+    "id": 3706,
+    "fa": "به تو ربطی نداره",
+    "en": "None of your business",
+    "groupCode": 0
+  },
+  {
+    "id": 3707,
+    "fa": "هیچ چیز نمی تواند برای همیشه زندگی کند",
+    "en": "Nothing can live permanently",
+    "groupCode": 0
+  },
+  {
+    "id": 3708,
+    "fa": "هر چه بیشتر بهتر",
+    "en": "So much the better",
+    "groupCode": 0
+  },
+  {
+    "id": 3709,
+    "fa": "دست از این سروصدا بردار",
+    "en": "Stop making such a noise",
+    "groupCode": 0
+  },
+  {
+    "id": 3710,
+    "fa": "همیشه اینطور است",
+    "en": "This is always the case",
+    "groupCode": 0
+  },
+  {
+    "id": 3711,
+    "fa": "در بدترین سناریو، ما شکست می خوریم. در بهترین حالت، ما فراتر از انتظارات موفق می شویم",
+    "en": "In the worst-case scenario, we fail; in the best, we succeed beyond expectations",
+    "groupCode": 0
+  },
+  {
+    "id": 3712,
+    "fa": "وضعیت بدتر از آن چیزی است که ما فکر می کردیم",
+    "en": "The situation is worse than we thought",
+    "groupCode": 0
+  },
+  {
+    "id": 3713,
+    "fa": "غذا دادن با قاشق به شما کمک نخواهد کرد شما را در یادگیری توسط خود شما",
+    "en": "Spoon-feeding you won't help you learn on your own",
+    "groupCode": 0
+  },
+  {
+    "id": 3714,
+    "fa": "یک فردی که هست متخصص در زمینه روانپزشکی برای کودکان، نامیده می شود یک روانپزشک کودک یا روانپزشک کودکان",
+    "en": "A person who is an expert in the field of psychiatry for children is called a child psychiatrist or pediatric psychiatrist",
+    "groupCode": 0
+  },
+  {
+    "id": 3715,
+    "fa": "من در ارتباط خواهم بود با تیم برای نهایی کردن طرح",
+    "en": "I'll liaise with the team to finalize the plan",
+    "groupCode": 0
+  },
+  {
+    "id": 3716,
+    "fa": "این واقعا غیر قابل قبول و توهین آمیز است",
+    "en": "This is really unacceptable and insulting",
+    "groupCode": 0
+  },
+  {
+    "id": 3717,
+    "fa": "استعداد او (زن) در صنعت موسیقی بی نظیر است",
+    "en": "Her talent is unparalleled in the music industry",
+    "groupCode": 0
+  },
+  {
+    "id": 3718,
+    "fa": "به ندرت (سختی) چنین منظره ای نفس گیر را دیده بودم",
+    "en": "Hardly ever have I seen such a breathtaking view",
+    "groupCode": 0
+  },
+  {
+    "id": 3719,
+    "fa": "من افتخار می کنم و من هیجان زده ام که شماره 301 هستم",
+    "en": "I'm proud and I'm excited to be number 301",
+    "groupCode": 0
+  },
+  {
+    "id": 3720,
+    "fa": "من امروز برای صبحانه تخم مرغ هم زده داشتم",
+    "en": "I had scrambled eggs for breakfast today",
     "groupCode": 0
   }
 ]

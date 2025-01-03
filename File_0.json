@@ -8809,7 +8809,7 @@
   },
   {
     "id": 1450,
-    "fa": "من از قبل سفارش دادم, من الان اومدم تحویل بگیرم",
+    "fa": "من از قبل سفارش دادم, من الان اومدم تحویلش بگیرم",
     "en": "I pre-ordered, I have just come to pick it up",
     "groupCode": 0
   },
@@ -12003,6 +12003,7 @@
     "id": 1977,
     "fa": "ما نیاز داریم عزاداری نکنیم برای چیزهای کوچک",
     "en": "We need not mourn over trifles (/ˈtraɪfəl/)",
+    "desc": "When \"need\" is used as a modal verb, it is followed directly by the base form of the verb without \"to.\"",
     "groupCode": 0
   },
   {
