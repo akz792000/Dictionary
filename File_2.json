@@ -2774,7 +2774,7 @@
   {
     "id": 10458,
     "en": "I have to do homeworks first",
-    "de": "Ich muss Zuerst Hausaufgaben machen",
+    "de": "Ich muss zuerst Hausaufgaben machen",
     "groupCode": 1
   },
   {
@@ -3248,8 +3248,8 @@
   },
   {
     "id": 10537,
-    "en": "Yes, my partner and I like going to the theater",
-    "de": "Ja, meine Partnerin und ich gehen gern ins Theater",
+    "en": "My wife is having a party on the third of April",
+    "de": "Meine Frau macht am dritten April eine Party",
     "groupCode": 1
   },
   {
@@ -3766,8 +3766,8 @@
   },
   {
     "id": 10623,
-    "en": "Yes, many people come later",
-    "de": "Ja, viele Leute kommen später",
+    "en": "Many people come later",
+    "de": "Viele Leute kommen später",
     "groupCode": 1
   },
   {
@@ -3916,8 +3916,8 @@
   },
   {
     "id": 10648,
-    "en": "Yes, everyone comes to the party",
-    "de": "Ja, alle kommen zur Party",
+    "en": "everyone comes to the party",
+    "de": "Alle kommen zur Party",
     "groupCode": 1
   },
   {
@@ -4397,8 +4397,8 @@
   },
   {
     "id": 10728,
-    "en": "Why are you sleeping so little at the moment?",
-    "de": "Warum schläfst du im Moment so wenig?",
+    "en": "My girlfriend's birthday is on the second of April",
+    "de": "Am zweiten April hat meine Freundin Geburtstag",
     "groupCode": 1
   },
   {
@@ -4548,7 +4548,7 @@
   },
   {
     "id": 10753,
-    "en": "Oh no, the bread and cake are too delicious",
+    "en": "Oh no, the bread and the cake are too delicious",
     "de": "Oh nein, das Brot und der kuchen sind zu lecker",
     "groupCode": 1
   },
@@ -4572,7 +4572,7 @@
   },
   {
     "id": 10757,
-    "en": "Do you like to dance?",
+    "en": "Do you like dancing?",
     "de": "Tanzt du gern?",
     "groupCode": 1
   },
@@ -4592,6 +4592,126 @@
     "id": 10760,
     "en": "I eat bread by white sausage",
     "de": "Ich esse Brot mit Weißwurst",
+    "groupCode": 1
+  },
+  {
+    "id": 10761,
+    "en": "I need a visa, because I am studying abroad",
+    "de": "Ich brauche ein Visum, denn ich studiere im Ausland",
+    "groupCode": 1
+  },
+  {
+    "id": 10762,
+    "en": "I'm flying home tomorrow. My flight number is two nine zero eight",
+    "de": "Ich fliege morgen nach Hause. Meine Flugnummer ist zwei neun null acht",
+    "groupCode": 1
+  },
+  {
+    "id": 10763,
+    "en": "We have holidays in two weeks",
+    "de": "Wir haben in zwei Wochen Ferien",
+    "groupCode": 1
+  },
+  {
+    "id": 10764,
+    "en": "What do you do in the mornings",
+    "de": "Was machst du morgens?",
+    "groupCode": 1
+  },
+  {
+    "id": 10765,
+    "en": "I study in Paris, but I'm driving home at the end of the semester. My father always cooks very well. I'm looking forward to you",
+    "de": "Ich studiere in Paris, aber ich fahre am Semesterende nach Hause. Mein Vater kocht immer sehr gut. Ich freue mich schon",
+    "groupCode": 1
+  },
+  {
+    "id": 10766,
+    "en": "My grandma has two pets. She has a dog and a cat",
+    "de": "Meine Oma hat zwei Haustiere. Sie hat einen Hund und eine katze",
+    "groupCode": 1
+  },
+  {
+    "id": 10767,
+    "en": "My grandma has no pets",
+    "de": "Meine Oma hat keine Haustiere",
+    "groupCode": 1
+  },
+  {
+    "id": 10768,
+    "en": "There is only one computer in the village",
+    "de": "Es gibt im Dorf nur einen Computer",
+    "groupCode": 1
+  },
+  {
+    "id": 10769,
+    "en": "How many chairs do we have?",
+    "de": "Wie viele Stühle haben wir?",
+    "groupCode": 1
+  },
+  {
+    "id": 10770,
+    "en": "This is our dining room. Do you like the table?",
+    "de": "Das ist unser Esszimmer. Magst du den Tisch?",
+    "groupCode": 1
+  },
+  {
+    "id": 10771,
+    "en": "We don't have a dining room, we eat in the living room",
+    "de": "Wir haben kein Esszimmer, wir essen im Wohnzimmer",
+    "groupCode": 1
+  },
+  {
+    "id": 10772,
+    "en": "The pillow is very soft",
+    "de": "Das Kopfkissen ist sehr weich",
+    "groupCode": 1
+  },
+  {
+    "id": 10773,
+    "en": "Open your suitcase, please",
+    "de": "Öffnen Sie ihren Koffer, bitte",
+    "groupCode": 1
+  },
+  {
+    "id": 10774,
+    "en": "Her friends are her family",
+    "de": "Ihre freunde sind ihre Familie",
+    "groupCode": 1
+  },
+  {
+    "id": 10775,
+    "en": "The train to Vienna is cancelled",
+    "de": "Der Zug nach Wien fällt aus",
+    "groupCode": 1
+  },
+  {
+    "id": 10776,
+    "en": "The taxi ride takes about fourteen minutes",
+    "de": "Die Taxifahrt dauert circa vierzehn minuten",
+    "groupCode": 1
+  },
+  {
+    "id": 10777,
+    "en": "What are you searching for?",
+    "de": "Wonach suchst du?",
+    "groupCode": 1
+  },
+  {
+    "id": 10778,
+    "en": "What else do you have?",
+    "de": "Was haben Sie denn noch?",
+    "groupCode": 1
+  },
+  {
+    "id": 10779,
+    "en": "Does he always paint?",
+    "de": "Malt er immer?",
+    "groupCode": 1
+  },
+  {
+    "id": 10780,
+    "en": "Are you celebrating your birthday at home?",
+    "de": "Feierst du deinen Geburtstag zu Hause?",
     "groupCode": 1
   }
 ]
