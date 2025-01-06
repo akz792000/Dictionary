@@ -1575,7 +1575,7 @@
   },
   {
     "id": 261,
-    "fa": "بیا قدم بزنیم",
+    "fa": "بیا یک قدمی بزنیم",
     "en": "Let's take a walk",
     "groupCode": 0
   },
@@ -5210,7 +5210,7 @@
   {
     "id": 859,
     "fa": "من از انبردست برای گرفتن و پیچاندن محکم سیم استفاده کردم",
-    "en": "I used pliers to grip and twist the wire tightly",
+    "en": "I used pliers /لایرز/ to grip and twist the wire tightly",
     "groupCode": 0
   },
   {
@@ -6725,7 +6725,7 @@
   },
   {
     "id": 1107,
-    "fa": "داشت فراموش می شد! ما نیاز داریم در راه خانه مقداری مواد غذایی برداریم",
+    "fa": "من تقریبا فراموش کردم! ما نیاز داریم در راه خانه مقداری مواد غذایی برداریم",
     "en": "I almost forgot! We need to pick up some groceries on the way home",
     "groupCode": 0
   },
@@ -16594,7 +16594,7 @@
   },
   {
     "id": 2733,
-    "fa": "بعد از اینکه ناهار خورده بودیم، بادبادک هایمان را به پرواز در آوردیم. این فوق العاده بود چون خودمان آنها را ساخته بودیم",
+    "fa": "بعد از اینکه ناهار خورده بودیم، بادبادک هایمان را به پرواز در آوردیم. آن فوق العاده بود چون خودمان آنها را ساخته بودیم",
     "en": "After we had eaten lunch, we flew our kites. That was fantastic because we had made them ourselves",
     "groupCode": 0
   },

@@ -3380,7 +3380,7 @@
   },
   {
     "id": 3553,
-    "fa": "من فکر می کنم او (زن) داره سعی می کند چیزی اتفاق بیافتد ببن شما تا از من انتقام بگیرد (به من پاسخ دهد)",
+    "fa": "من فکر می کنم او (زن) داره سعی می کند چیزی اتفاق بیافتد بین شما تا از من انتقام بگیرد (به من پاسخ دهد)",
     "en": "I think she's trying to make something happen with you to get back at me",
     "groupCode": 0
   },
@@ -4068,7 +4068,7 @@
   },
   {
     "id": 3667,
-    "fa": "من پیشاپیش کریسمس و سال نو را به شما تبریک می گویم",
+    "fa": "من پیشاپیش یک کریسمس و یک سال نو را به شما تبریک می گویم",
     "en": "I wish you a Merry Christmas and a Happy New Year in advance",
     "groupCode": 0
   },
@@ -4260,13 +4260,13 @@
   },
   {
     "id": 3699,
-    "fa": "من یه عالمه کار امروز دارم (چیزهای زیادی در بشقابم دارم)",
+    "fa": "من یه عالمه (کار) امروز دارم (چیزهای زیادی در بشقابم دارم)",
     "en": "I have a lot on my plate today",
     "groupCode": 0
   },
   {
     "id": 3700,
-    "fa": "من دارم می دم فردا ماشینم رو سرویس کنن",
+    "fa": "من دارم می دهم فردا ماشینم رو سرویس کنن",
     "en": "I'm getting my car serviced tomorrow",
     "groupCode": 0
   },
@@ -4284,7 +4284,7 @@
   },
   {
     "id": 3703,
-    "fa": "میشه شما سوارم کنی؟",
+    "fa": "می تونی شما سوارم کنی؟",
     "en": "Can you give me a ride?",
     "groupCode": 0
   },
@@ -4320,13 +4320,13 @@
   },
   {
     "id": 3709,
-    "fa": "دست از این سروصدا بردار",
+    "fa": "دست از این سروصدا بردار (درست کردن یک نویز)",
     "en": "Stop making such a noise",
     "groupCode": 0
   },
   {
     "id": 3710,
-    "fa": "همیشه اینطور است",
+    "fa": "این همیشه اینطور است",
     "en": "This is always the case",
     "groupCode": 0
   },
@@ -4386,13 +4386,13 @@
   },
   {
     "id": 3720,
-    "fa": "من امروز برای صبحانه تخم مرغ هم زده داشتم",
+    "fa": "من امروز برای صبحانه تخم مرغهای هم زده داشتم",
     "en": "I had scrambled eggs for breakfast today",
     "groupCode": 0
   },
   {
     "id": 3721,
-    "fa": "آیا شما می توانی این کتری را برای من با آب گرم پر کنید؟",
+    "fa": "آیا شما می توانی این کتری را با آب گرم برام پر کنی؟",
     "en": "Can you fill this kettle with hot water for me?",
     "groupCode": 0
   },
@@ -4418,6 +4418,96 @@
     "id": 3725,
     "fa": "من از رویاهایم دست نخواهم کشید، مهم نیست هر چقدر (هم که) سخت شود",
     "en": "I won't give up on my dreams, no matter how hard it gets",
+    "groupCode": 0
+  },
+  {
+    "id": 3726,
+    "fa": "بالاخره زمان فرا رسیده است",
+    "en": "The time has finally come",
+    "groupCode": 0
+  },
+  {
+    "id": 3727,
+    "fa": "زمستان رفت است",
+    "en": "The winter has gone",
+    "groupCode": 0
+  },
+  {
+    "id": 3728,
+    "fa": "قبل از تصمیم گیری، من نیاز دارم مقداری زمان تا در مورد آن (کامل) فکر کنم",
+    "en": "Before making a decision, I need some time to think it over",
+    "groupCode": 0
+  },
+  {
+    "id": 3729,
+    "fa": "آنقدر شیر آب را باز نکن. کمی آن را کم کن",
+    "en": "Don't turn on the tap that much; turn it down a bit",
+    "groupCode": 0
+  },
+  {
+    "id": 3730,
+    "fa": "زمان داره تمام میشه",
+    "en": "Time is running out",
+    "groupCode": 0
+  },
+  {
+    "id": 3731,
+    "fa": "هنوز داشتی می خوابیدی وقتیکه من امروز صبح بهت زنگ زدم؟",
+    "en": "Were you still sleeping when I called you this morning?",
+    "groupCode": 0
+  },
+  {
+    "id": 3732,
+    "fa": "سیاست را مطرح نکن اگر می خواهی داشته باشی یک گفتگوی آرام با آن مرد",
+    "en": "Don't bring up politics if you want to have a quiet conversation with that guy",
+    "groupCode": 0
+  },
+  {
+    "id": 3733,
+    "fa": "با الکتریسبته ور نرو اگر شما نمی فهمیش",
+    "en": "Don't mess around with electricity if you don't understand it",
+    "groupCode": 0
+  },
+  {
+    "id": 3734,
+    "fa": "F در الفبا قبل از G می یاد",
+    "en": "F comes before G in the alphabet",
+    "groupCode": 0
+  },
+  {
+    "id": 3735,
+    "fa": "کتابم را به من پس بده",
+    "en": "Give me back my book",
+    "groupCode": 0
+  },
+  {
+    "id": 3736,
+    "fa": "صبر کن. بذار چک کنم",
+    "en": "Hang on. Let me check",
+    "groupCode": 0
+  },
+  {
+    "id": 3737,
+    "fa": "او (مرد) به طور تصادفی افشا کرد محل برگزاری جلسه را",
+    "en": "He accidentally let out the location for the meeting",
+    "groupCode": 0
+  },
+  {
+    "id": 3738,
+    "fa": "او (مرد) این توانایی را دارد (که) مطرح کند ایده های جدید را زمانیکه آنها نیاز است",
+    "en": "He has the ability to bring forth new ideas when they are needed",
+    "groupCode": 0
+  },
+  {
+    "id": 3739,
+    "fa": "من سعی می کنم از خطر دور باشم",
+    "en": "I try to keep away from danger",
+    "groupCode": 0
+  },
+  {
+    "id": 3740,
+    "fa": "او (مرد) در برابر قاضی حاضر شد و هزار دلار جریمه شد",
+    "en": "He came up before the a judge and was fined a thousand dollars",
     "groupCode": 0
   }
 ]

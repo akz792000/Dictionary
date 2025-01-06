@@ -1322,7 +1322,6 @@
     "id": 10218,
     "en": "There are many bars in Berlin but there are few discos in Augsburg",
     "de": "Es gibt viele Bars in Berlin aber es gibt wenige Discos in Augsburg",
-    "desc": "Es gibt: there are. \n\n \"Wenige\" means \"few\" and is used to describe a small amount without comparison.\n\nExample: Es gibt wenige Discos in Augsburg. (\"There are few discos in Augsburg.\")\n\"Weniger\" means \"fewer\" and is used for comparing two quantities.\n\nExample: Es gibt weniger Discos in Augsburg als in Berlin. (\"There are fewer discos in Augsburg than in Berlin.\")",
     "groupCode": 1
   },
   {
@@ -3689,6 +3688,7 @@
     "id": 10610,
     "en": "My daughter is shopping with her son in the supermarket",
     "de": "Meine Tochter kauft mit ihrem Sohn im Supermarkt ein",
+    "desc": "\"im Supermarkt\": The preposition in with the dative case (im = in + dem) is used because the action is happening inside the supermarket.\n\"in den Supermarkt\": This would imply movement into the supermarket and would not fit with the verb kauft (buys), as buying does not imply movement.",
     "groupCode": 1
   },
   {
@@ -4260,6 +4260,7 @@
     "id": 10705,
     "en": "The basketballs are in the locker. Over there",
     "de": "Die Basketbälle sind im Spind. Dort Drüben",
+    "desc": "Dort drüben: Specific, distant location, more formal.\nDa drüben: Closer or casual, common in everyday speech.",
     "groupCode": 1
   },
   {
@@ -4578,7 +4579,7 @@
   },
   {
     "id": 10758,
-    "en": "What hobbies do you have?",
+    "en": "Which hobbies do you have?",
     "de": "Welche Hobbys hast du?",
     "groupCode": 1
   },
@@ -4614,13 +4615,13 @@
   },
   {
     "id": 10764,
-    "en": "What do you do in the mornings",
+    "en": "What do you do in the mornings?",
     "de": "Was machst du morgens?",
     "groupCode": 1
   },
   {
     "id": 10765,
-    "en": "I study in Paris, but I'm driving home at the end of the semester. My father always cooks very well. I'm looking forward to you",
+    "en": "I study in Paris, but I'm driving home at the end of the semester. My father always cooks very well. I'm already looking forward to it",
     "de": "Ich studiere in Paris, aber ich fahre am Semesterende nach Hause. Mein Vater kocht immer sehr gut. Ich freue mich schon",
     "groupCode": 1
   },
@@ -4668,7 +4669,7 @@
   },
   {
     "id": 10773,
-    "en": "Open your suitcase, please",
+    "en": "Open your (formal) suitcase, please",
     "de": "Öffnen Sie ihren Koffer, bitte",
     "groupCode": 1
   },
@@ -4694,6 +4695,7 @@
     "id": 10777,
     "en": "What are you searching for?",
     "de": "Wonach suchst du?",
+    "desc": "\n\"Wonach\" is a German question word that means \"what for\" or \"after what\" depending on the context. It's used to ask about the object of a preposition, specifically \"nach\" (after, for).",
     "groupCode": 1
   },
   {
@@ -4712,6 +4714,66 @@
     "id": 10780,
     "en": "Are you celebrating your birthday at home?",
     "de": "Feierst du deinen Geburtstag zu Hause?",
+    "groupCode": 1
+  },
+  {
+    "id": 10781,
+    "en": "Do you sleep better in the forest or in the bed?",
+    "de": "Schläfst du besser im Wald oder im Bett?",
+    "groupCode": 1
+  },
+  {
+    "id": 10782,
+    "en": "I can sleep better at home",
+    "de": "Ich kann zu Hause besser schlafen",
+    "groupCode": 1
+  },
+  {
+    "id": 10783,
+    "en": "Do you always drink four cups of coffee at night?",
+    "de": "Trinkst du immer vier Tassen Kaffee nachts?",
+    "groupCode": 1
+  },
+  {
+    "id": 10784,
+    "en": "What clothes do you want to buy for Spain? The hat there is very chic and only costs ten euros",
+    "de": "Welche Kleidung willst du für Spanien kaufen? Der hut dort ist sehr schick und kostet nur zehn Euro",
+    "groupCode": 1
+  },
+  {
+    "id": 10785,
+    "en": "Which swimsuit do you buy? What do you buy in the city center?",
+    "de": "Welchen Badeanzug kaufst du? Was kaufst du im Stadtzentrum?",
+    "groupCode": 1
+  },
+  {
+    "id": 10786,
+    "en": "Which sweater do you want to see?",
+    "de": "Welchen Pullover willst du sehen?",
+    "groupCode": 1
+  },
+  {
+    "id": 10787,
+    "en": "Which bag are you looking for at the moment?",
+    "de": "Welche tasche suchst du im Moment?",
+    "groupCode": 1
+  },
+  {
+    "id": 10788,
+    "en": "I never wear a jacket",
+    "de": "Ich trage nie eine Jacke",
+    "groupCode": 1
+  },
+  {
+    "id": 10789,
+    "en": "Don't forget the phone again, it's over there",
+    "de": "Vergiss nicht wieder Das Handy, es ist da drüben",
+    "groupCode": 1
+  },
+  {
+    "id": 10790,
+    "en": "I have to wash the dress. It's dirty",
+    "de": "Ich muss das Kleid waschen. Es ist schmutzig",
     "groupCode": 1
   }
 ]
