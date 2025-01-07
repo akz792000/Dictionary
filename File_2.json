@@ -1143,7 +1143,7 @@
   },
   {
     "id": 10189,
-    "en": "Where (where to) is she going?",
+    "en": "Where (to) is she going?",
     "de": "Wohin geht sie?",
     "groupCode": 1
   },
@@ -1877,7 +1877,7 @@
   },
   {
     "id": 10310,
-    "en": "Where are you going to on Friday? Where is the concert?",
+    "en": "Where (to) are you going to on Friday? Where is the concert?",
     "de": "Wohin gehst du am Freitag? Wo ist das Konzert?",
     "groupCode": 1
   },
@@ -4774,6 +4774,104 @@
     "id": 10790,
     "en": "I have to wash the dress. It's dirty",
     "de": "Ich muss das Kleid waschen. Es ist schmutzig",
+    "groupCode": 1
+  },
+  {
+    "id": 10791,
+    "en": "I talk to him, he comes from Rome",
+    "de": "Ich spreche mit ihm, er kommt aus Rom",
+    "groupCode": 1
+  },
+  {
+    "id": 10792,
+    "en": "He talks to Maria and He also lives in Passau",
+    "de": "Er redet mit Maria und Er wohnt auch in Passau",
+    "groupCode": 1
+  },
+  {
+    "id": 10793,
+    "en": "I'm taking a break",
+    "de": "Ich mache eine Pause",
+    "groupCode": 1
+  },
+  {
+    "id": 10794,
+    "en": "Eva and Lena are students (female)",
+    "de": "Eva und Lena sind Studentinnen",
+    "groupCode": 1
+  },
+  {
+    "id": 10795,
+    "en": "Don't you come from Iran? Yes, I come from Iran",
+    "de": "Kommst du nicht aus dem Iran? Doch, ich komme aus dem Iran",
+    "groupCode": 1
+  },
+  {
+    "id": 10796,
+    "en": "You are learning German, aren't you?",
+    "de": "Du lernst doch Deutsch, oder?",
+    "desc": "Explanation:\ndoch: Adds emphasis, implying the speaker expects the answer to be \"yes.\"\noder: A tag question to",
+    "groupCode": 1
+  },
+  {
+    "id": 10797,
+    "en": "What are you by profession? I am an engineer or computer scientist or nerusery teacher or nurse by profession",
+    "de": "Was bist du von Beruf? Ich bin Ingenieur/Ingenieurin oder Informatiker/Informatikerin oder Erzieher/Erzieherin oder Krankenpfleger/Krankenpflegerin von Beruf",
+    "groupCode": 1
+  },
+  {
+    "id": 10798,
+    "en": "What are you (formal) by profession?",
+    "de": "Was sind Sie von Beruf?",
+    "groupCode": 1
+  },
+  {
+    "id": 10799,
+    "en": "Who studies medicine? Anna studies medicine",
+    "de": "Wer studiert Medizin? Anna studiert Medizin",
+    "groupCode": 1
+  },
+  {
+    "id": 10800,
+    "en": "What is Anna studying? She is studying medicine",
+    "de": "Was studiert Anna? Sie studiert Medizin",
+    "groupCode": 1
+  },
+  {
+    "id": 10801,
+    "en": "What is the student's name? Her name is Anna",
+    "de": "Wie heißt die Studentin? Sie heißt Anna",
+    "groupCode": 1
+  },
+  {
+    "id": 10802,
+    "en": "\n Where (to) are you going? (to Egypt) \n Where do you work? (in Egypt) \n Where are you from? (from Egypt)",
+    "de": "\n Wohin gehst du? (nach Ägypten) \n Wo arbeitest du? (in Ägypten) \n Woher kommst du? (aus Ägypten)",
+    "groupCode": 1
+  },
+  {
+    "id": 10803,
+    "en": "Aren't you studying? Yes (But), I am studying",
+    "de": "Studierst du nicht? Doch, ich studiere",
+    "groupCode": 1
+  },
+  {
+    "id": 10804,
+    "en": "Where (to) are you going? I'm going to Munich",
+    "de": "Wohin fährst du? Ich fahre nach München",
+    "groupCode": 1
+  },
+  {
+    "id": 10805,
+    "en": "Where (to) would you like to drive? To the train station",
+    "de": "Wohin möchtest du fahren? Zum Bahnhof",
+    "desc": "\"Wohin\" means \"where to\" and is used when asking about a destination or direction. For example, \"Wohin möchtest du gehen?\" means \"Where would you like to go?\" because you're asking about the destination or direction of the person's intended movement.\n\n\"Woher\" means \"where from\" and is used when asking about the origin or source of something. For example, \"Woher kommst du?\" means \"Where are you from?\" because you're asking about the place the person is coming from.",
+    "groupCode": 1
+  },
+  {
+    "id": 10806,
+    "en": "\n I must go to school tomorrow. \n Must I go to school tomorrow? \n Where (to) must I go tomorrow?",
+    "de": "\n Ich muss morgen zur Schule gehen. \n Muss ich morgen zur Schule gehen? (گبهن) \n Wohin muss ich morgen gehen?",
     "groupCode": 1
   }
 ]

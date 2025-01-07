@@ -164,12 +164,6 @@
     "groupCode": 1
   },
   {
-    "id": 10138,
-    "en": "What is your profession? I am an engineer or computer scientist or nerusery teacher or nurse by profession",
-    "de": "Was bist du von Beruf? Ich bin Ingenieur/Ingenieurin oder Informatiker/Informatikerin oder Erzieher/Erzieherin oder Krankenpfleger/Krankenpflegerin von Beruf",
-    "groupCode": 1
-  },
-  {
     "id": 10139,
     "en": "Akbar is bus driver but I'm unemployed at the moment",
     "de": "Akbar ist Busfahrer aber Ich bin im Moment arbeitslos",
@@ -756,13 +750,6 @@
     "groupCode": 1
   },
   {
-    "id": 10294,
-    "en": "Where would you like to drive? To the train station",
-    "de": "Wohin möchtest du fahren? Zum Bahnhof",
-    "desc": "\"Wohin\" means \"where to\" and is used when asking about a destination or direction. For example, \"Wohin möchtest du gehen?\" means \"Where would you like to go?\" because you're asking about the destination or direction of the person's intended movement.\n\n\"Woher\" means \"where from\" and is used when asking about the origin or source of something. For example, \"Woher kommst du?\" means \"Where are you from?\" because you're asking about the place the person is coming from.",
-    "groupCode": 1
-  },
-  {
     "id": 10295,
     "en": "Where is the train station please? The train station is here straight ahead and then left",
     "de": "Wo ist bitte der Bahnhof? Der Bahnhof ist hier geradeaus und dann links",
@@ -821,12 +808,6 @@
     "id": 10304,
     "en": "We are coming on the second of April",
     "de": "Wir kommen am zweiten April",
-    "groupCode": 1
-  },
-  {
-    "id": 10305,
-    "en": "What are you (formal) by profession?",
-    "de": "Was sind Sie von Beruf?",
     "groupCode": 1
   },
   {

@@ -3647,7 +3647,7 @@
   },
   {
     "id": 3597,
-    "fa": "من یک نوبت پزشکی (ساعت) ۱۰ دارم، من قادر نخواهم بود حضور پبدا کنم در دیلی",
+    "fa": "من یک نوبت پزشکی (ساعت) ۱۰ دارم، من قادر نخواهم بود حضور پیدا کنم در دیلی",
     "en": "I have a medical appointment at 10, I won't be able to attend the daily",
     "groupCode": 0
   },
@@ -4434,13 +4434,13 @@
   },
   {
     "id": 3728,
-    "fa": "قبل از تصمیم گیری، من نیاز دارم مقداری زمان تا در مورد آن (کامل) فکر کنم",
+    "fa": "قبل از تصمیم گیری، من نیاز دارم مقداری زمان تا در موردش (کامل) فکر کنم",
     "en": "Before making a decision, I need some time to think it over",
     "groupCode": 0
   },
   {
     "id": 3729,
-    "fa": "آنقدر شیر آب را باز نکن. کمی آن را کم کن",
+    "fa": "آنقدر شیر آب را باز نکن. کمی کمش کن",
     "en": "Don't turn on the tap that much; turn it down a bit",
     "groupCode": 0
   },
@@ -4464,7 +4464,7 @@
   },
   {
     "id": 3733,
-    "fa": "با الکتریسبته ور نرو اگر شما نمی فهمیش",
+    "fa": "با الکتریسیته ور نرو اگر شما نمی فهمیش",
     "en": "Don't mess around with electricity if you don't understand it",
     "groupCode": 0
   },
@@ -4484,18 +4484,20 @@
     "id": 3736,
     "fa": "صبر کن. بذار چک کنم",
     "en": "Hang on. Let me check",
+    "desc": "Hang on: Informal, means wait, grip something, or endure. (Hang on, I'll be back!)\n\nHold on: Slightly formal, means wait or grip something. (Hold on, this seems wrong.)\n\nKey: \"Hang on\" feels casual; \"Hold on\" can sound more serious.",
     "groupCode": 0
   },
   {
     "id": 3737,
-    "fa": "او (مرد) به طور تصادفی افشا کرد محل برگزاری جلسه را",
+    "fa": "او (مرد) به طور تصادفی افشا کرد محل برگزاری برای جلسه را",
     "en": "He accidentally let out the location for the meeting",
     "groupCode": 0
   },
   {
     "id": 3738,
-    "fa": "او (مرد) این توانایی را دارد (که) مطرح کند ایده های جدید را زمانیکه آنها نیاز است",
+    "fa": "او (مرد) این توانایی را دارد (که) ابداع کند ایده های جدید را زمانیکه آنها نیاز است",
     "en": "He has the ability to bring forth new ideas when they are needed",
+    "desc": "Bring forth: Suggests creating or producing something, often with emphasis on originality or making something emerge. (He can generate new ideas when needed.)\n\nBring up: Suggests introducing or mentioning something in a conversation. (He can mention or propose ideas when needed.)\n\nThe first emphasizes creativity; the second focuses on discussion or presentation.",
     "groupCode": 0
   },
   {
@@ -4507,7 +4509,43 @@
   {
     "id": 3740,
     "fa": "او (مرد) در برابر قاضی حاضر شد و هزار دلار جریمه شد",
-    "en": "He came up before the a judge and was fined a thousand dollars",
+    "en": "He came up before the judge and was fined a thousand dollars",
+    "groupCode": 0
+  },
+  {
+    "id": 3741,
+    "fa": "بازخورد شما باقی می ماند ارزشمند برای ما",
+    "en": "Your feedback remains invaluable to us",
+    "groupCode": 0
+  },
+  {
+    "id": 3742,
+    "fa": "داشتم فکر میکردم امکان پذیر است افزایش دادن امنیت در بخش دیرینه شناسی؟",
+    "en": "I was wondering is it possible to increase security in the paleontology section?",
+    "groupCode": 0
+  },
+  {
+    "id": 3743,
+    "fa": "ما آگاه هستیم از مشکلی (که) شما به آن اشاره می کنید",
+    "en": "We are aware of the problem you're referring to",
+    "groupCode": 0
+  },
+  {
+    "id": 3744,
+    "fa": "من می ترسم (که) کتابخانه بسیار کم پرسنل است",
+    "en": "I am afraid the library is very understaffed",
+    "groupCode": 0
+  },
+  {
+    "id": 3745,
+    "fa": "تو به نظر نمی آیی آنطور که من فکر کرده بودم",
+    "en": "You look nothing like I would have thought",
+    "groupCode": 0
+  },
+  {
+    "id": 3746,
+    "fa": "من کلاس چهارم را جهشی خوندم (رد کردم)",
+    "en": "I skipped fourth grade",
     "groupCode": 0
   }
 ]

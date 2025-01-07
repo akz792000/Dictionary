@@ -502,5 +502,29 @@
     "en": "Wait",
     "de": "\n warte \n wartest \n wartet \n warten \n wartet \n warten",
     "groupCode": 1
+  },
+  {
+    "id": 20085,
+    "en": "Talk",
+    "de": "\n rede \n redest \n redet \n reden \n redet \n reden",
+    "groupCode": 1
+  },
+  {
+    "id": 20086,
+    "en": "Fry",
+    "de": "\n brate \n brätst \n brät \n braten \n bratet \n braten",
+    "groupCode": 1
+  },
+  {
+    "id": 20087,
+    "en": "Hold",
+    "de": "\n halte \n hältst \n hält \n halten \n haltet \n halten",
+    "groupCode": 1
+  },
+  {
+    "id": 20088,
+    "en": "Meet",
+    "de": "\n treffe \n triffst \n trifft \n treffen \n trefft \n treffen",
+    "groupCode": 1
   }
 ]

@@ -127,11 +127,6 @@
   },
   {
     "id":,
-    "en": "\n I must go to school tomorrow. \n Must I go to school tomorrow? \n Where must I go tomorrow?",
-    "de": "\n Ich muss morgen zur Schule gehen. \n Muss ich morgen zur Schule gehen? (گبهن) \n Wohin muss ich morgen gehen?"
-  },
-  {
-    "id":,
     "en": "\n We learn German diligently. \n Do we diligently learn German? \n What do we diligently learn?",
     "de": "\n Wir lernen fleißig Deutsch. \n Lernen wir fleißig Deutsch? \n Was lernen wir fleißig?"
   }
@@ -826,12 +821,6 @@
     "id": 10066,
     "en": "Don't you come from Brazil? No, I don't come from Brazil. I come from Turkey",
     "de": "Kommst du nicht aus Brasilien? Nein, Ich komme nicht aus Brasilien. Ich komme aus der Turkei",
-    "groupCode": 1
-  },
-  {
-    "id": 10067,
-    "en": "Don't you come from Iran? Yes, I come from Iran",
-    "de": "Kommst du nicht aus dem Iran? Doch, ich komme aus dem Iran",
     "groupCode": 1
   },
   {
