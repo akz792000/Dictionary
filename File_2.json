@@ -1404,7 +1404,7 @@
   },
   {
     "id": 10232,
-    "en": "The Spanish homeworks this week are interesting, do you agree with me?",
+    "en": "The Spanish homeworks this (these) week are interesting, do you agree with me?",
     "de": "Die Spanisch-Hausaufgaben diese Woche sind interessant, stimmst du mir zu?",
     "desc": "The \"zu\" is part of the separable verb \"zustimmen\" (to agree).\n\nIn \"Stimmst du mir zu?\", the prefix \"zu\" moves to the end because separable verbs split in main clauses.\n\nTranslation: \"Do you agree with me?\"",
     "groupCode": 1
@@ -1902,7 +1902,7 @@
   },
   {
     "id": 10314,
-    "en": "I don't want to see this horror movie",
+    "en": "I don't want to see this (these) horror movie",
     "de": "Ich will diesen Horrorfilm nicht sehen",
     "groupCode": 1
   },
@@ -2035,7 +2035,7 @@
   },
   {
     "id": 10336,
-    "en": "Do you still have to wash these socks",
+    "en": "Do you still have to wash these (these) socks",
     "de": "Musst du diese Socken noch waschen",
     "desc": "Musst du diese Socken noch waschen?: Focus on still needing to wash the socks.\nMusst du noch diese Socken waschen?: Focus on these socks as additional ones.\nBoth are correct; the first is more common.",
     "groupCode": 1
@@ -2132,7 +2132,7 @@
   },
   {
     "id": 10352,
-    "en": "I don't like this movie, can we go?",
+    "en": "I don't like this (these) movie, can we go?",
     "de": "Ich mag diesen Film nicht, können wir gehen?",
     "groupCode": 1
   },
@@ -2355,7 +2355,7 @@
   },
   {
     "id": 10389,
-    "en": "In this area, street shoes are forbidden",
+    "en": "In this (these) area, street shoes are forbidden",
     "de": "In diesem Bereich sind Straßenschuhe verboten",
     "groupCode": 1
   },
@@ -2832,7 +2832,7 @@
   },
   {
     "id": 10468,
-    "en": "I wear these socks with sandals every day",
+    "en": "I wear these (these) socks with sandals every day",
     "de": "Ich trage jeden Tag diese Socken mit Sandalen",
     "groupCode": 1
   },
@@ -3259,7 +3259,7 @@
   },
   {
     "id": 10539,
-    "en": "Can you sit on this chair?",
+    "en": "Can you sit on this (these) chair?",
     "de": "Kannst du auf diesem Stuhl sitzen?",
     "groupCode": 1
   },
@@ -3427,7 +3427,7 @@
   },
   {
     "id": 10567,
-    "en": "I like this apartment, but I can't pay the rent",
+    "en": "I like this (these) apartment, but I can't pay the rent",
     "de": "Ich mag diese Wohnung, aber ich kann die Miete nicht zahlen",
     "groupCode": 1
   },
@@ -4037,7 +4037,7 @@
   {
     "id": 10668,
     "en": "Is your email address new? Yes, my email address is new...",
-    "de": "Ist deine E-Mail-Adresse neu? Ja, meine E-Mail-Adresse ist jetzt ...",
+    "de": "Ist deine E-Mail-Adresse neu? Ja, meine E-Mail-Adresse ist neu ...",
     "groupCode": 1
   },
   {
@@ -4084,7 +4084,7 @@
   },
   {
     "id": 10676,
-    "en": "Do you want to buy this backpack? No, it is too small",
+    "en": "Do you want to buy this (these) backpack? No, it is too small",
     "de": "Willst du diesen Rucksack kaufen? Nein, er ist zu klein",
     "groupCode": 1
   },
@@ -4108,13 +4108,13 @@
   },
   {
     "id": 10680,
-    "en": "She wants to marry him so much (gladly)",
+    "en": "She would like to marry him so much (gladly)",
     "de": "Sie möchte ihn so gern heiraten",
     "groupCode": 1
   },
   {
     "id": 10681,
-    "en": "This weekend she wants to ask him",
+    "en": "This (these) weekend she wants to ask him",
     "de": "Dieses Wochenende will sie ihn fragen",
     "groupCode": 1
   },
@@ -4133,7 +4133,7 @@
   {
     "id": 10684,
     "en": "I don't like the weather here, it rains every day. But in Tehran the sun always snows, I need a vacation",
-    "de": "Ich mag das Wetter hier nicht, es regnet jeden Tag. Aber in Tehran schneit immer die Sonne, Ich brauche einenn Urlaub",
+    "de": "Ich mag das Wetter hier nicht, es regnet jeden Tag. Aber in Tehran schneit immer die Sonne, Ich brauche einen Urlaub",
     "groupCode": 1
   },
   {
@@ -4144,7 +4144,7 @@
   },
   {
     "id": 10686,
-    "en": "Are you really paying a hundred euros for this hat?",
+    "en": "Are you really paying a hundred euros for this (these) hat?",
     "de": "Zahlst du wirklich hundert Euro für diesen Hut?",
     "groupCode": 1
   },
@@ -4216,7 +4216,7 @@
   },
   {
     "id": 10698,
-    "en": "What kind of (a) cheese do you buy?",
+    "en": "What kind of (a) cheese do you (plural) buy?",
     "de": "Was für einen Käse kauft ihr ein?",
     "groupCode": 1
   },
@@ -4240,13 +4240,13 @@
   },
   {
     "id": 10702,
-    "en": "Anna and her husband are shopping for the barbecue party. In his car there is enough space for twenty-one bottles of beer and the groceries",
+    "en": "Anna are shopping with her husband for the barbecue party. In his car there is enough space for twenty-one bottles of beer and the groceries",
     "de": "Anna kauft mit ihrem Mann für die Grillparty ein. In seinem Auto gibt es genug Platz für einundzwanzig Flaschen Bier und die Lebensmittel",
     "groupCode": 1
   },
   {
     "id": 10703,
-    "en": "Twenty guests come to the party. Lisa does not come alone. Her foot is broken and she cannot drive her car. Her neighbor drives her",
+    "en": "Twenty guests come to the party. Lisa does not come alone. Her foot is broken and she cannot drive her car. Her neighbor (male) drives her",
     "de": "Zwanzig gäste kommen zur Party. Lisa kommt nicht allein. Ihr Fus ist gebrochen und sie kann ihr Auto nicht fahren. Ihr Nachbar fährt sie",
     "groupCode": 1
   },
@@ -4410,7 +4410,7 @@
   },
   {
     "id": 10730,
-    "en": "Do you want to see this horror movie?",
+    "en": "Do you want to see this (these) horror movie?",
     "de": "Willst du diesen Horrorfilm sehen?",
     "groupCode": 1
   },
@@ -4675,7 +4675,7 @@
   },
   {
     "id": 10774,
-    "en": "Her friends are her family",
+    "en": "Her friends (male) are her family",
     "de": "Ihre freunde sind ihre Familie",
     "groupCode": 1
   },
@@ -4780,6 +4780,7 @@
     "id": 10791,
     "en": "I talk to him, he comes from Rome",
     "de": "Ich spreche mit ihm, er kommt aus Rom",
+    "desc": "\"Sprechen\" = formal, about language or speech.\n\n\"Reden\" = informal, about chatting or discussing.",
     "groupCode": 1
   },
   {
@@ -4808,14 +4809,14 @@
   },
   {
     "id": 10796,
-    "en": "You are learning German, aren't you?",
+    "en": "You are learning (emphasis) German, aren't you?",
     "de": "Du lernst doch Deutsch, oder?",
     "desc": "Explanation:\ndoch: Adds emphasis, implying the speaker expects the answer to be \"yes.\"\noder: A tag question to",
     "groupCode": 1
   },
   {
     "id": 10797,
-    "en": "What are you by profession? I am an engineer or computer scientist or nerusery teacher or nurse by profession",
+    "en": "What are you by profession? I am an engineer or computer scientist or nursery teacher or nurse by profession",
     "de": "Was bist du von Beruf? Ich bin Ingenieur/Ingenieurin oder Informatiker/Informatikerin oder Erzieher/Erzieherin oder Krankenpfleger/Krankenpflegerin von Beruf",
     "groupCode": 1
   },
@@ -4871,7 +4872,7 @@
   {
     "id": 10806,
     "en": "\n I must go to school tomorrow. \n Must I go to school tomorrow? \n Where (to) must I go tomorrow?",
-    "de": "\n Ich muss morgen zur Schule gehen. \n Muss ich morgen zur Schule gehen? (گبهن) \n Wohin muss ich morgen gehen?",
+    "de": "\n Ich muss morgen zur Schule gehen. \n Muss ich morgen zur Schule gehen? \n Wohin muss ich morgen gehen?",
     "groupCode": 1
   }
 ]

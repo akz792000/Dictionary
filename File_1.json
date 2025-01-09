@@ -4434,7 +4434,7 @@
   },
   {
     "id": 3728,
-    "fa": "قبل از تصمیم گیری، من نیاز دارم مقداری زمان تا در موردش (کامل) فکر کنم",
+    "fa": "قبل از یک تصمیم گیری، من نیاز دارم مقداری زمان تا در موردش (کامل) فکر کنم",
     "en": "Before making a decision, I need some time to think it over",
     "groupCode": 0
   },
@@ -4514,19 +4514,19 @@
   },
   {
     "id": 3741,
-    "fa": "بازخورد شما باقی می ماند ارزشمند برای ما",
+    "fa": "بازخورد شما باقی می ماند ارزشمند (قابل ارزش گذاری نیست) برای ما",
     "en": "Your feedback remains invaluable to us",
     "groupCode": 0
   },
   {
     "id": 3742,
     "fa": "داشتم فکر میکردم امکان پذیر است افزایش دادن امنیت در بخش دیرینه شناسی؟",
-    "en": "I was wondering is it possible to increase security in the paleontology section?",
+    "en": "I was wondering if it's possible to increase security in the paleontology section?",
     "groupCode": 0
   },
   {
     "id": 3743,
-    "fa": "ما آگاه هستیم از مشکلی (که) شما به آن اشاره می کنید",
+    "fa": "ما آگاه هستیم از مشکلی (که) شما داری به آن اشاره می کنی",
     "en": "We are aware of the problem you're referring to",
     "groupCode": 0
   },
@@ -4546,6 +4546,42 @@
     "id": 3746,
     "fa": "من کلاس چهارم را جهشی خوندم (رد کردم)",
     "en": "I skipped fourth grade",
+    "groupCode": 0
+  },
+  {
+    "id": 3747,
+    "fa": "اینجا است فهرست متواضعانه از ابتکاراتی (که) من می خواهم شما امسال (به آنها) بپردازیم",
+    "en": "Here is a humble list of initiatives I would like us to address this year",
+    "groupCode": 0
+  },
+  {
+    "id": 3748,
+    "fa": "من سه ایستگاه بعدی از اتوبوس پیاده خواهم شد",
+    "en": "I'll get off the bus three stops later",
+    "groupCode": 0
+  },
+  {
+    "id": 3749,
+    "fa": "یک نفس عمیق بکش و به یاد داشته باشید که چالش ها بخشی از زندگی هستند",
+    "en": "Take a deep breath and remember that challenges are part of life",
+    "groupCode": 0
+  },
+  {
+    "id": 3750,
+    "fa": "من صمیمانه امیدوار هستم برای یک چرخش مثبت در وضعیتش (مرد)",
+    "en": "I sincerely hope for a positive turn in his condition",
+    "groupCode": 0
+  },
+  {
+    "id": 3751,
+    "fa": "او مردی مهربان و بخشنده بود. خداوند روحش را قرین رحمت کند",
+    "en": "He was a kind and generous man. May God bless his soul",
+    "groupCode": 0
+  },
+  {
+    "id": 3752,
+    "fa": "همسرش (زن) به من اطلاع خواهد داد جزئیات تشییع جنازه را در روزهای آینده",
+    "en": "His wife will inform me of the funeral details in the coming days",
     "groupCode": 0
   }
 ]
