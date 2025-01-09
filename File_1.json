@@ -3907,7 +3907,7 @@
   {
     "id": 3640,
     "fa": "من نمی خواستم تلاش (ساختن) زیادی کنم",
-    "en": "I didn't want to make much of an effort",
+    "en": "\n 1.I didn't want to make much of an effort \n 2.I didn't want to put in much effort",
     "groupCode": 0
   },
   {
@@ -3997,7 +3997,7 @@
   {
     "id": 3655,
     "fa": "او داره (مرد) علف های هرز در باغ را می کشد (کندن)",
-    "en": "He's pulling the weeds in the garden",
+    "en": "He's pulling weeds in the garden",
     "groupCode": 0
   },
   {
@@ -4009,7 +4009,7 @@
   {
     "id": 3657,
     "fa": "آیا مداد تیز است یا کند؟",
-    "en": "Is the pencil sharp or dull?",
+    "en": "Is the pencil sharp or dull (blunt)?",
     "groupCode": 0
   },
   {
@@ -4021,13 +4021,13 @@
   {
     "id": 3659,
     "fa": "بیایید این PR را تأیید و ادغام کنیم تا جلوگیری کنیم از مشکلات آینده",
-    "en": "Let's approve and merge this PR to prevent future problem",
+    "en": "Let's approve and merge this PR to prevent future problems",
     "groupCode": 0
   },
   {
     "id": 3660,
-    "fa": "من مطمئن خواهم شد او (مرد) می آورد آنها را به مدرسه در اسرع وقت تا که شما بتوانید آن ها را پس بگیرید (داشته باشید) قبل از تعطیلات",
-    "en": "I will make sure he brings them to school as soon as possible so that you can have them back before the holidays",
+    "fa": "من مطمئن خواهم شد او (مرد) می آورد آنها را به مدرسه در اسرع وقت تا شما بتوانید آن ها را پس بگیرید (داشته باشید) قبل از تعطیلات",
+    "en": "I'll make sure he brings them to school ASAP so you can have them back before the holidays",
     "groupCode": 0
   },
   {
@@ -4050,8 +4050,8 @@
   },
   {
     "id": 3664,
-    "fa": "در صورت امکان، من قدردانی خواهم کرد (فرضی) (از) بازخورد شما به صورت کتبی",
-    "en": "If possible, I would appreciate your feedback in writing",
+    "fa": "در صورت امکان، من قدردانی خواهم کرد (فرضی) (از) بازخورد کتبی شما",
+    "en": "\n 1.If possible, I’d appreciate your written feedback \n 2.I would appreciate your feedback in writing",
     "groupCode": 0
   },
   {
