@@ -526,5 +526,47 @@
     "en": "Meet",
     "de": "\n treffe \n triffst \n trifft \n treffen \n trefft \n treffen",
     "groupCode": 1
+  },
+  {
+    "id": 20089,
+    "en": "Know",
+    "de": "\n weiß \n weißt \n weiß \n wissen \n wisst \n wissen",
+    "groupCode": 1
+  },
+  {
+    "id": 20090,
+    "en": "Look, appear",
+    "de": "\n sehe aus \n siehst aus \n sieht aus \n sehen aus \n seht aus \n sehen aus",
+    "groupCode": 1
+  },
+  {
+    "id": 20091,
+    "en": "Lose",
+    "de": "\n verliere \n verlierst \n verliert \n verlieren \n verliert \n verlieren",
+    "groupCode": 1
+  },
+  {
+    "id": 20092,
+    "en": "Help",
+    "de": "\n helfe \n hilfst \n hilft \n helfen \n helft \n helfen",
+    "groupCode": 1
+  },
+  {
+    "id": 20093,
+    "en": "Hope",
+    "de": "\n v \n hoffst \n hofft \n hoffen \n hofft \n hoffen",
+    "groupCode": 1
+  },
+  {
+    "id": 20094,
+    "en": "Call",
+    "de": "\n rufe an \n rufst an \n ruft an \n rufen an \n ruft an \n rufen an",
+    "groupCode": 1
+  },
+  {
+    "id": 20095,
+    "en": "Arrive",
+    "de": "\n komme an \n kommst an \n kommt an \n kommen an \n kommt an \n kommen an",
+    "groupCode": 1
   }
 ]

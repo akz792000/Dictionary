@@ -4791,7 +4791,7 @@
   },
   {
     "id": 10793,
-    "en": "I'm taking a break",
+    "en": "I'm taking (make) a break",
     "de": "Ich mache eine Pause",
     "groupCode": 1
   },
@@ -4873,6 +4873,42 @@
     "id": 10806,
     "en": "\n I must go to school tomorrow. \n Must I go to school tomorrow? \n Where (to) must I go tomorrow?",
     "de": "\n Ich muss morgen zur Schule gehen. \n Muss ich morgen zur Schule gehen? \n Wohin muss ich morgen gehen?",
+    "groupCode": 1
+  },
+  {
+    "id": 10807,
+    "en": "That looks nice",
+    "de": "Das sieht schön aus",
+    "groupCode": 1
+  },
+  {
+    "id": 10808,
+    "en": "I don't know, where he lives",
+    "de": "Ich weiß nicht, wo er wohnt",
+    "groupCode": 1
+  },
+  {
+    "id": 10809,
+    "en": "I've lost my identification",
+    "de": "Ich habe meinen Ausweis verloren",
+    "groupCode": 1
+  },
+  {
+    "id": 10810,
+    "en": "He call me tomorrow",
+    "de": "Er ruft mich morgen an",
+    "groupCode": 1
+  },
+  {
+    "id": 10811,
+    "en": "When does this (these) train arrive in Hamburg?",
+    "de": "Wann kommt dieser Zug in Hamburg an?",
+    "groupCode": 1
+  },
+  {
+    "id": 10812,
+    "en": "We all hope for better weather",
+    "de": "Wir alle hoffen auf besseres Wetter",
     "groupCode": 1
   }
 ]

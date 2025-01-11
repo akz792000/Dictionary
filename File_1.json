@@ -4308,7 +4308,7 @@
   },
   {
     "id": 3707,
-    "fa": "هیچ چیز نمی تواند دایماً زندگی کند",
+    "fa": "هیچ چیز نمی تواند به طور دائم زندگی کند",
     "en": "Nothing can live permanently",
     "groupCode": 0
   },
@@ -4410,7 +4410,7 @@
   },
   {
     "id": 3724,
-    "fa": "او (مرد) نگفت او (مرد) ناراحت است، اما من می توانستم از لحنش درک کنم",
+    "fa": "او (مرد) نگفت او (مرد) ناراحت نبود، اما من می توانستم از لحنش درک کنم",
     "en": "He didn't say he was upset, but I could pick up on his tone",
     "groupCode": 0
   },
@@ -4458,7 +4458,7 @@
   },
   {
     "id": 3732,
-    "fa": "سیاست را مطرح نکن اگر می خواهی داشته باشی یک گفتگوی آرام با آن مرد",
+    "fa": "سیاست ها را مطرح نکن اگر می خواهی داشته باشی یک گفتگوی آرام با آن مرد",
     "en": "Don't bring up politics if you want to have a quiet conversation with that guy",
     "groupCode": 0
   },
@@ -4550,7 +4550,7 @@
   },
   {
     "id": 3747,
-    "fa": "اینجا است فهرست متواضعانه از ابتکاراتی (که) من می خواهم شما امسال (به آنها) بپردازیم",
+    "fa": "اینجا است فهرست متواضعانه ای از ابتکاراتی (که) من مایلم ما امسال (به آنها) بپردازیم",
     "en": "Here is a humble list of initiatives I would like us to address this year",
     "groupCode": 0
   },
@@ -4574,7 +4574,7 @@
   },
   {
     "id": 3751,
-    "fa": "او مردی مهربان و بخشنده بود. خداوند روحش را قرین رحمت کند",
+    "fa": "او یک مرد مهربان و بخشنده بود. خداوند روحش را قرین رحمت کند",
     "en": "He was a kind and generous man. May God bless his soul",
     "groupCode": 0
   },
@@ -4582,6 +4582,54 @@
     "id": 3752,
     "fa": "همسرش (زن) به من اطلاع خواهد داد جزئیات تشییع جنازه را در روزهای آینده",
     "en": "His wife will inform me of the funeral details in the coming days",
+    "groupCode": 0
+  },
+  {
+    "id": 3753,
+    "fa": "وقتی او (مرد) به من گفت سرطان در بدنش متاستاز شده بود، من فهمیدم (که) زمان کمی برای او باقی مانده بود، اما حداقل او در درد زیادی نبود",
+    "en": "When he told me the cancer had metastasized in his body, I understood he had little time left, but at least he wasn't in much paint",
+    "groupCode": 0
+  },
+  {
+    "id": 3754,
+    "fa": "گوش دادن به کسی نیست مانند موافقت با آن",
+    "en": "Listening to someone is not the same as agreeing with them",
+    "groupCode": 0
+  },
+  {
+    "id": 3755,
+    "fa": "من نمی توانم باورم کنم شما هنوز داری این (کارو) انجام میدی",
+    "en": "I can't believe you're still doing this",
+    "groupCode": 0
+  },
+  {
+    "id": 3756,
+    "fa": "اینجا یک نسخه درست شده از جمله شما است",
+    "en": "Here's a corrected version of your sentence",
+    "groupCode": 0
+  },
+  {
+    "id": 3757,
+    "fa": "من عمیقا برای از دست دادن شما متاسفم. لطفاً بدانید که شما می توانید روی من حساب کنید برای هر حمایتی (که) شما نیاز دارید",
+    "en": "I'm deeply sorry for your loss. Please know that you can count on me for any support you need",
+    "groupCode": 0
+  },
+  {
+    "id": 3758,
+    "fa": "اگر من به این راه انجام نداده بودمش، شما تلفنم را برای من نیاورده بودی",
+    "en": "If I hadn't done it this way, you wouldn't have brought me my phone",
+    "groupCode": 0
+  },
+  {
+    "id": 3759,
+    "fa": "من (در) امتحان مردود شدم",
+    "en": "I failed the exam",
+    "groupCode": 0
+  },
+  {
+    "id": 3760,
+    "fa": "او (مرد) دعوتم برای شام را رد کرد",
+    "en": "He passed up my invitation for dinner",
     "groupCode": 0
   }
 ]
