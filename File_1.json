@@ -4122,7 +4122,7 @@
   },
   {
     "id": 3676,
-    "fa": "این نقشه (احساس میشه) یک کمی ریسکی_خطرناک از (آنچه) من دوست دارم, اما ممکن است همچنان کار کند",
+    "fa": "این نقشه احساس میشه یک کمی ریسکی تر_خطرناکتر از (آنچه) من دوست دارم, اما ممکن است هنوز کار کند",
     "en": "This plan feels a little bit dicier than I like, but it might still work",
     "groupCode": 0
   },
@@ -4592,7 +4592,7 @@
   },
   {
     "id": 3754,
-    "fa": "گوش دادن به کسی نیست مانند موافقت با آن",
+    "fa": "گوش دادن به (سخنان) کسی با موافق بودن با او یکسان نیست",
     "en": "Listening to someone is not the same as agreeing with them",
     "groupCode": 0
   },
@@ -4630,6 +4630,43 @@
     "id": 3760,
     "fa": "او (مرد) دعوتم برای شام را رد کرد",
     "en": "He passed up my invitation for dinner",
+    "groupCode": 0
+  },
+  {
+    "id": 3761,
+    "fa": "کارفرمای فعلی یا اخیر (آخرین) شما کیست؟",
+    "en": "Who is your current or most recent employer?",
+    "groupCode": 0
+  },
+  {
+    "id": 3762,
+    "fa": "من دستگیره برای درب قابلمه خریدم",
+    "en": "I bought handles for pot lids",
+    "groupCode": 0
+  },
+  {
+    "id": 3763,
+    "fa": "این هتل (بخش درونی ساختمان) به طور کامل با آتش سوخت سال گذشته",
+    "en": "The hotel was completely gutted by fire last year",
+    "desc": "A building gutted by fire means the fire burned everything inside, but the outer walls or structure may still remain intact",
+    "groupCode": 0
+  },
+  {
+    "id": 3764,
+    "fa": "دیروز, من دیر رسیدم خونه چونکه وجود داشت یه عالمه ترافیک",
+    "en": "Yesterday, I got home late because there was a lot of traffic",
+    "groupCode": 0
+  },
+  {
+    "id": 3765,
+    "fa": "آیا با ما داری میای به پارک؟",
+    "en": "Are you coming along with us to the park?",
+    "groupCode": 0
+  },
+  {
+    "id": 3766,
+    "fa": "چند فنجان قهوه داشتی تا حالا؟",
+    "en": "How many cups of coffee have you had so far?",
     "groupCode": 0
   }
 ]

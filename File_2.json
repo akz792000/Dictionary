@@ -1490,7 +1490,7 @@
   },
   {
     "id": 10246,
-    "en": "I have a toothache I can't ride a bike",
+    "en": "I have a toothache I can't ride (a) bike",
     "de": "Ich habe Zahnschmerzen ich kann kein Fahrrad fahren",
     "groupCode": 1
   },
@@ -1520,7 +1520,7 @@
   },
   {
     "id": 10251,
-    "en": "I ride a bike in the park every day",
+    "en": "I ride (a) bike in the park every day",
     "de": "Ich fahre jeden Tag im Park Fahrrad",
     "groupCode": 1
   },
@@ -1574,7 +1574,7 @@
   },
   {
     "id": 10260,
-    "en": "Ali can already ride a bike but sometimes he rides too fast",
+    "en": "Ali can already ride (a) bike but sometimes he rides too fast",
     "de": "Ali kann schon Fahrrad fahren aber manchmal fährt er zu schnell",
     "groupCode": 1
   },
@@ -1790,8 +1790,8 @@
   },
   {
     "id": 10296,
-    "en": "These two apples look the same too",
-    "de": "Diese zwei Äpfel sehen gleich auch",
+    "en": "These two apples look the same",
+    "de": "Diese zwei Äpfel sehen gleich aus",
     "desc": "Diese (Feminine) = Dieser (Masculine) = these \n Gleich = same \n",
     "groupCode": 1
   },
@@ -2355,8 +2355,8 @@
   },
   {
     "id": 10389,
-    "en": "In this (these) area, street shoes are forbidden",
-    "de": "In diesem Bereich sind Straßenschuhe verboten",
+    "en": "We're having (make) a party on the tenth of July",
+    "de": "Wir machen am zehnten Juli eine Party",
     "groupCode": 1
   },
   {
@@ -2650,7 +2650,7 @@
   },
   {
     "id": 10438,
-    "en": "What color does your (formal) cell phone have?",
+    "en": "Which color does your (formal) cell phone have?",
     "de": "Welche Farbe hat Ihr Handy?",
     "groupCode": 1
   },
@@ -2762,6 +2762,7 @@
     "id": 10456,
     "en": "I can pick your boyfriend up from the train station later",
     "de": "Ich kann später deinen Freund vom Bahnhof abholen",
+    "desc": "\"vom\" is a contraction of \"von\" (from) + \"dem\" (the, dative case)",
     "groupCode": 1
   },
   {
@@ -3319,7 +3320,7 @@
   },
   {
     "id": 10549,
-    "en": "Until what time is the bar open?",
+    "en": "Until when is the bar open?",
     "de": "Bis wann ist die Bar geöffnet?",
     "groupCode": 1
   },
@@ -3355,7 +3356,7 @@
   },
   {
     "id": 10555,
-    "en": "How many nights would you like to stay?",
+    "en": "How many nights would you (formal) like to stay?",
     "de": "Wie viele nächte möchten Sie bleiben?",
     "groupCode": 1
   },
@@ -4012,7 +4013,7 @@
   },
   {
     "id": 10664,
-    "en": "Our baby still can't ride a bike",
+    "en": "Our baby still can't ride (a) bike",
     "de": "Unser Baby kann noch kein Fahrrad fahren",
     "groupCode": 1
   },
@@ -4216,7 +4217,7 @@
   },
   {
     "id": 10698,
-    "en": "What kind of (a) cheese do you (plural) buy?",
+    "en": "What kind of (a) cheese do you (plural) shop?",
     "de": "Was für einen Käse kauft ihr ein?",
     "groupCode": 1
   },
@@ -4289,7 +4290,7 @@
   },
   {
     "id": 10710,
-    "en": "Until what time does your fiancée sleep?",
+    "en": "Until when does your fiancée sleep?",
     "de": "Bis wann schläft deine verlobter?",
     "groupCode": 1
   },
@@ -4301,7 +4302,7 @@
   },
   {
     "id": 10712,
-    "en": "Can you bring carrots? Ali likes eating vegetables",
+    "en": "Can you bring along carrots? Ali likes eating vegetables",
     "de": "Kannst du karotten mitbringen? Ali isst gern Gemüse",
     "groupCode": 1
   },
@@ -4326,7 +4327,7 @@
   {
     "id": 10716,
     "en": "You're crazy. It's not dangerous",
-    "de": "Du ist spinnst. Es ist nicht gefährlich",
+    "de": "Du bist spinnst. Es ist nicht gefährlich",
     "groupCode": 1
   },
   {
@@ -4380,7 +4381,7 @@
   },
   {
     "id": 10725,
-    "en": "I swim, I ride my bike and I buy",
+    "en": "I swim, I ride bike and I buy",
     "de": "Ich schwimme, ich fahre Fahrrad und ich kaufe",
     "groupCode": 1
   },
@@ -4452,14 +4453,14 @@
   },
   {
     "id": 10737,
-    "en": "Do you always ride a bike or do you also go by foot?",
+    "en": "Do you always ride (a) bike or do you also go by foot?",
     "de": "Fährst du immer Fahrrad oder gehst du auch zu Fuß?",
     "groupCode": 1
   },
   {
     "id": 10738,
-    "en": "My partner is Canadian",
-    "de": "Meine Partnerin ist kanadierin",
+    "en": "My partner (female) is Canadian",
+    "de": "Meine Partnerin ist Kanadierin",
     "groupCode": 1
   },
   {
@@ -4877,7 +4878,7 @@
   },
   {
     "id": 10807,
-    "en": "That looks nice",
+    "en": "That looks beautiful",
     "de": "Das sieht schön aus",
     "groupCode": 1
   },
@@ -4885,6 +4886,7 @@
     "id": 10808,
     "en": "I don't know, where he lives",
     "de": "Ich weiß nicht, wo er wohnt",
+    "desc": "No, \"Ich weiß nicht, wo er wohnt\" is correct because in subordinate clauses, the verb goes to the end of the clause in German",
     "groupCode": 1
   },
   {
