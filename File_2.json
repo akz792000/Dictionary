@@ -4912,5 +4912,29 @@
     "en": "We all hope for better weather",
     "de": "Wir alle hoffen auf besseres Wetter",
     "groupCode": 1
+  },
+  {
+    "id": 10813,
+    "en": "Lisa has a school bag for the class. The bag is big because Lisa needs a lot of things at school",
+    "de": "Lisa hat eine Schultasche für den Unterricht. Die Tasche ist groß, denn Lisa braucht in der Schule viele Sachen",
+    "groupCode": 1
+  },
+  {
+    "id": 10814,
+    "en": "She always has pens of different colors in her bag. She uses the pens to write on the board",
+    "de": "Sie hat in der Tasche immer Stifte in verschiedenen Farben. Mit den Stiften schreibt sie an die Tafel",
+    "groupCode": 1
+  },
+  {
+    "id": 10815,
+    "en": "There is also a thick German book in the school bag. Lisa needs it for the class. The German book is very heavy",
+    "de": "In der Schultasche ist auch ein dickes Deutschbuch. Lisa braucht es für den Unterricht. Das Deutschbuch ist sehr schwer",
+    "groupCode": 1
+  },
+  {
+    "id": 10816,
+    "en": "There are a glasses on the kitchen table. It's Lisa's glasses. Lisa can read better with the glasses",
+    "de": "Auf dem Küchentisch liegt eine Brille. Es ist die Brille von Lisa. Lisa kann mit der Brille besser lesen",
+    "groupCode": 1
   }
 ]
