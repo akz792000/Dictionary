@@ -4410,7 +4410,7 @@
   },
   {
     "id": 3724,
-    "fa": "او (مرد) نگفت او (مرد) ناراحت نبود، اما من می توانستم از لحنش درک کنم",
+    "fa": "او (مرد) نگفت او (مرد) ناراحت نیست، اما من می توانستم از لحنش درک کنم",
     "en": "He didn't say he was upset, but I could pick up on his tone",
     "groupCode": 0
   },
@@ -4550,7 +4550,7 @@
   },
   {
     "id": 3747,
-    "fa": "اینجا است فهرست متواضعانه ای از ابتکاراتی (که) من مایلم ما امسال (به آنها) بپردازیم",
+    "fa": "اینجا است یک فهرست متواضعانه ای از ابتکاراتی (که) من مایلم ما امسال (به آنها) بپردازیم",
     "en": "Here is a humble list of initiatives I would like us to address this year",
     "groupCode": 0
   },
@@ -4580,7 +4580,7 @@
   },
   {
     "id": 3752,
-    "fa": "همسرش (زن) به من اطلاع خواهد داد جزئیات تشییع جنازه را در روزهای آینده",
+    "fa": "همسرش (زن) به من اطلاع خواهد داد جزئیات تشییع جنازه را در روزهای آینده (می آیند)",
     "en": "His wife will inform me of the funeral details in the coming days",
     "groupCode": 0
   },
@@ -4640,8 +4640,8 @@
   },
   {
     "id": 3762,
-    "fa": "من دستگیره برای درب قابلمه خریدم",
-    "en": "I bought handles for pot lids",
+    "fa": "من یک دستگیره جدید برای درب قابلمه خریدم",
+    "en": "I bought a new handle for pot lid",
     "groupCode": 0
   },
   {
@@ -4667,6 +4667,36 @@
     "id": 3766,
     "fa": "چند فنجان قهوه داشتی تا حالا؟",
     "en": "How many cups of coffee have you had so far?",
+    "groupCode": 0
+  },
+  {
+    "id": 3767,
+    "fa": "سینوزیت من دوباره عود کرده است، بنابراین به مطب نخواهم آمد",
+    "en": "My sinusitis /ˌsaɪnəˈsaɪtɪs/ has flared up again, so I won't come to the office",
+    "groupCode": 0
+  },
+  {
+    "id": 3768,
+    "fa": "آلرژیه من عود کرد در طول بهار",
+    "en": "My allergies flared up during spring",
+    "groupCode": 0
+  },
+  {
+    "id": 3769,
+    "fa": "مصدومیت قدیمی کمر او (مرد) عود کرد پس از وزنه سنگین بلند کردن",
+    "en": "His old back injury flared up after the heavy lifting",
+    "groupCode": 0
+  },
+  {
+    "id": 3770,
+    "fa": "من می خواهم آن را از محیط DEV حذف کنم و بار اولیه را اجرا کنم تا بفهمم چرا این اختلاف را داریم. لطفا این را در نظر داشته باش",
+    "en": "I want to remove it from the DEV environment and run the initial load to find out why we have this discrepancy. Please bear this in mind",
+    "groupCode": 0
+  },
+  {
+    "id": 3771,
+    "fa": "قیمت بلیط او (مرد) می ارزید بسیار کمتر از بلیط ما، من فکر می کنم رفته تو پاچمون",
+    "en": "His ticket cost much less than ours, I think we've been ripped off",
     "groupCode": 0
   }
 ]
