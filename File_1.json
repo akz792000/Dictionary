@@ -4586,8 +4586,8 @@
   },
   {
     "id": 3753,
-    "fa": "وقتی او (مرد) به من گفت سرطان در بدنش متاستاز شده بود، من فهمیدم (که) زمان کمی برای او باقی مانده بود، اما حداقل او در درد زیادی نبود",
-    "en": "When he told me the cancer had metastasized in his body, I understood he had little time left, but at least he wasn't in much paint",
+    "fa": "وقتی او (مرد) به من گفت سرطان در بدنش متاستاز شده بود، من فهمیدم (که) زمان کمی برای او باقی مانده بود",
+    "en": "When he told me the cancer had metastasized in his body, I understood he had little time left",
     "groupCode": 0
   },
   {
@@ -4641,7 +4641,7 @@
   {
     "id": 3762,
     "fa": "من یک دستگیره جدید برای درب قابلمه خریدم",
-    "en": "I bought a new handle for pot lid",
+    "en": "I bought a new handle for the pot lid",
     "groupCode": 0
   },
   {
@@ -4671,14 +4671,14 @@
   },
   {
     "id": 3767,
-    "fa": "سینوزیت من دوباره عود کرده است، بنابراین به مطب نخواهم آمد",
+    "fa": "سینوزیتم دوباره عود کرده است، بنابراین به آفیس نخواهم آمد",
     "en": "My sinusitis /ˌsaɪnəˈsaɪtɪs/ has flared up again, so I won't come to the office",
     "groupCode": 0
   },
   {
     "id": 3768,
-    "fa": "آلرژیه من عود کرد در طول بهار",
-    "en": "My allergies flared up during spring",
+    "fa": "آلرژیه من عود می کند در طول بهار",
+    "en": "My allergies flare up during spring",
     "groupCode": 0
   },
   {
@@ -4689,7 +4689,7 @@
   },
   {
     "id": 3770,
-    "fa": "من می خواهم آن را از محیط DEV حذف کنم و بار اولیه را اجرا کنم تا بفهمم چرا این اختلاف را داریم. لطفا این را در نظر داشته باش",
+    "fa": "من می خواهم از محیط DEV حذفش کنم و اجرا کنم بار اولیه را تا پی ببرم چرا ما این اختلاف را داریم. لطفا این را در نظر داشته باش",
     "en": "I want to remove it from the DEV environment and run the initial load to find out why we have this discrepancy. Please bear this in mind",
     "groupCode": 0
   },
@@ -4697,6 +4697,37 @@
     "id": 3771,
     "fa": "قیمت بلیط او (مرد) می ارزید بسیار کمتر از بلیط ما، من فکر می کنم رفته تو پاچمون",
     "en": "His ticket cost much less than ours, I think we've been ripped off",
+    "groupCode": 0
+  },
+  {
+    "id": 3772,
+    "fa": "تفاوت این است که CC همه گیرندگان را نشان می دهد، در حالی که BCC آنها را پنهان می کند، از اینرو \"کپی کربن کور\"",
+    "en": "The difference is that CC shows all recipients, while BCC hides them, hence \"blind carbon copy\"",
+    "desc": "In \"carbon copy,\" the term \"carbon\" refers to carbon paper, which was historically used to make duplicate copies of written or typed documents. When sending an email, \"carbon copy\" (CC) is a digital metaphor for sharing a duplicate of the email with others. It doesn't literally involve carbon but symbolizes sending a copy to additional recipients.",
+    "groupCode": 0
+  },
+  {
+    "id": 3773,
+    "fa": "من بدم نمیاد (در حال حاضر) سرد باشم",
+    "en": "I don't mind being cold",
+    "groupCode": 0
+  },
+  {
+    "id": 3774,
+    "fa": "اگر خالی است، به این معنی است که تماس توسط OKTA انجام شده، نه APP",
+    "en": "If it's empty, it means the call was made by OKTA, not the APP",
+    "groupCode": 0
+  },
+  {
+    "id": 3775,
+    "fa": "همه ما می دانیم که ظرفیت انسان برای تحمیل رنج به دیگران محدودیتی ندارد",
+    "en": "We all know that the human capacity to inflict suffering on others has no limits",
+    "groupCode": 0
+  },
+  {
+    "id": 3776,
+    "fa": "قرارداد شما چه زمانی به پایان می رسد؟",
+    "en": "When does your contract end?",
     "groupCode": 0
   }
 ]

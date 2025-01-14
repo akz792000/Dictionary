@@ -5946,7 +5946,7 @@
   },
   {
     "id": 980,
-    "fa": "وقتی چیز ها سخت میشه، نفس عمیق بکشید و به اعصاب خود مسلط باشید. شما می توانید از عهده این کار (هندل کردن) بر بیایید",
+    "fa": "وقتی چیز ها سخت میشه، نفس عمیق بکشید و به اعصاب خود مسلط باشید. شما می توانید از عهده این (هندل کردن) بر بیایید",
     "en": "When things get tough, take a deep breath and get a grip. You can handle this",
     "groupCode": 0
   },
@@ -16894,8 +16894,8 @@
   },
   {
     "id": 2782,
-    "fa": "اراده راسخش (تسلیم ناپذیری) (مرد) هدایت کرد او را به غلبه هر چالشی (که) با آن روبرو شد",
-    "en": "His indomitable will led him to conquer every challenge he faced",
+    "fa": "اراده راسخش (تسلیم ناپذیری) (مرد) هدایت کرد او را به غلبه هر چالشی (که) او روبرو شد",
+    "en": "His indomitable led him to conquer every challenge he faced",
     "groupCode": 0
   },
   {

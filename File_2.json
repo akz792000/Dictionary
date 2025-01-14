@@ -3068,7 +3068,7 @@
   },
   {
     "id": 10507,
-    "en": "My roommate (male) is angry but why?",
+    "en": "My roommate (male) is annoyed but why?",
     "de": "Mein Mitbewohner ist verärgert aber warum?",
     "groupCode": 1
   },
@@ -3452,7 +3452,7 @@
   },
   {
     "id": 10571,
-    "en": "I am very angry",
+    "en": "I am very annoyed",
     "de": "Ich bin sehr verärgert",
     "groupCode": 1
   },
@@ -4253,7 +4253,7 @@
   },
   {
     "id": 10704,
-    "en": "I have to bring a basketball to class (lesson)",
+    "en": "I have to bring along a basketball to class (lesson)",
     "de": "Ich muss einen Basketball in den Unterricht mitbringen",
     "groupCode": 1
   },
@@ -4471,7 +4471,7 @@
   },
   {
     "id": 10740,
-    "en": "Are you traveling to Japan in June?",
+    "en": "Are you (plural) traveling to Japan in June?",
     "de": "Reist ihr im Juni nach Japan?",
     "groupCode": 1
   },
@@ -4915,7 +4915,7 @@
   },
   {
     "id": 10813,
-    "en": "Lisa has a school bag for the class. The bag is big because Lisa needs a lot of things at school",
+    "en": "Lisa has a school bag for the class. The bag is big because Lisa needs a lot of things at the school",
     "de": "Lisa hat eine Schultasche für den Unterricht. Die Tasche ist groß, denn Lisa braucht in der Schule viele Sachen",
     "groupCode": 1
   },
@@ -4933,8 +4933,92 @@
   },
   {
     "id": 10816,
-    "en": "There are a glasses on the kitchen table. It's Lisa's glasses. Lisa can read better with the glasses",
+    "en": "On the kitchen table lies a glasses. It's Lisa's glasses. Lisa can read better with the glasses",
     "de": "Auf dem Küchentisch liegt eine Brille. Es ist die Brille von Lisa. Lisa kann mit der Brille besser lesen",
+    "groupCode": 1
+  },
+  {
+    "id": 10817,
+    "en": "Which T-shirt are you looking for?",
+    "de": "Welches T-Shirt suchst du?",
+    "groupCode": 1
+  },
+  {
+    "id": 10818,
+    "en": "Don't forget your passport again",
+    "de": "Vergiss nicht wieder deinen Pass",
+    "groupCode": 1
+  },
+  {
+    "id": 10819,
+    "en": "Where is the dress is it in the closet?",
+    "de": "Wo ist das Kleid, ist es im Schrank?",
+    "groupCode": 1
+  },
+  {
+    "id": 10820,
+    "en": "We want to celebrate together",
+    "de": "Wir wollen zusammen feiern",
+    "groupCode": 1
+  },
+  {
+    "id": 10821,
+    "en": "Are the dumplings really too spicy for you?",
+    "de": "Sind die Knödel wirklich zu scharf für dich?",
+    "groupCode": 1
+  },
+  {
+    "id": 10822,
+    "en": "Would you like to go by foot to the hotel?",
+    "de": "Möchtest du zu fuß bis zum hotel gehen?",
+    "groupCode": 1
+  },
+  {
+    "id": 10823,
+    "en": "I still want to dance",
+    "de": "I will noch tanzen",
+    "groupCode": 1
+  },
+  {
+    "id": 10824,
+    "en": "Is it sunny today?",
+    "de": "Ist es sonnig heute?",
+    "groupCode": 1
+  },
+  {
+    "id": 10825,
+    "en": "My grandmother has thirty plants at home",
+    "de": "Meine Großmutter hat dreißig Pflanzen zu hause",
+    "groupCode": 1
+  },
+  {
+    "id": 10826,
+    "en": "It's already dark, what time is it?",
+    "de": "Es ist schon dunkel, wie spät ist es?",
+    "groupCode": 1
+  },
+  {
+    "id": 10827,
+    "en": "Every child plays handball",
+    "de": "Jedes Kind spielt Handball",
+    "groupCode": 1
+  },
+  {
+    "id": 10828,
+    "en": "The concert in the park has to end, the weather is bad",
+    "de": "Das Konzert im Park muss enden, das Wetter ist schlecht",
+    "groupCode": 1
+  },
+  {
+    "id": 10829,
+    "en": "When does the concert end?",
+    "de": "Wann hört das Konzert auf?",
+    "groupCode": 1
+  },
+  {
+    "id": 10830,
+    "en": "I think, the concert ends at half past ten",
+    "de": "Ich glaube, das Konzert hört um halb elf auf",
     "groupCode": 1
   }
 ]
