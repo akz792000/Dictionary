@@ -4921,8 +4921,9 @@
   },
   {
     "id": 10814,
-    "en": "She always has pens of different colors in her bag. She uses the pens to write on the board",
+    "en": "She always has pens of different colors in her bag. With the pens she write on the board",
     "de": "Sie hat in der Tasche immer Stifte in verschiedenen Farben. Mit den Stiften schreibt sie an die Tafel",
+    "desc": "Stifte: General term for all writing tools (pens, pencils).\nKuli: Informal for \"ballpoint pen.\"\nKugelschreiber: Formal term for \"ballpoint pen.\"",
     "groupCode": 1
   },
   {

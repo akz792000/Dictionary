@@ -4074,7 +4074,7 @@
   },
   {
     "id": 3668,
-    "fa": "من مجبور شدم صحبت کنم با افرادی که نمی شناسم",
+    "fa": "من مجبور هستم صحبت کنم با افرادی که نمی شناسم",
     "en": "I'm forced to talk to people I don't know",
     "groupCode": 0
   },
@@ -4206,7 +4206,7 @@
   },
   {
     "id": 3690,
-    "fa": "آیا وجود دارد سالن ورزشی یا استخر (که) من بتوانم استفاده کنم؟",
+    "fa": "آیا وجود دارد یک سالن ورزشی یا استخر (که) من بتوانم استفاده کنم؟",
     "en": "Is there a gym or pool I can use?",
     "groupCode": 0
   },
@@ -4410,7 +4410,7 @@
   },
   {
     "id": 3724,
-    "fa": "او (مرد) نگفت او (مرد) ناراحت نیست، اما من می توانستم از لحنش درک کنم",
+    "fa": "او (مرد) نگفت او (مرد) ناراحت بود، اما من می توانستم از لحنش درک کنم",
     "en": "He didn't say he was upset, but I could pick up on his tone",
     "groupCode": 0
   },
@@ -4677,7 +4677,7 @@
   },
   {
     "id": 3768,
-    "fa": "آلرژیه من عود می کند در طول بهار",
+    "fa": "آلرژی هام عود می کند در طول بهار",
     "en": "My allergies flare up during spring",
     "groupCode": 0
   },
@@ -4720,7 +4720,7 @@
   },
   {
     "id": 3775,
-    "fa": "همه ما می دانیم که ظرفیت انسان برای تحمیل رنج به دیگران محدودیتی ندارد",
+    "fa": "ما همه می دانیم که ظرفیت انسان برای تحمیل رنج به دیگران محدودیتی ندارد",
     "en": "We all know that the human capacity to inflict suffering on others has no limits",
     "groupCode": 0
   },
@@ -4728,6 +4728,42 @@
     "id": 3776,
     "fa": "قرارداد شما چه زمانی به پایان می رسد؟",
     "en": "When does your contract end?",
+    "groupCode": 0
+  },
+  {
+    "id": 3777,
+    "fa": "کدام مشاغل IT همچنان مورد تقاضا خواهند بود در سال 2035؟",
+    "en": "Which IT jobs will still be in demand in 2035?",
+    "groupCode": 0
+  },
+  {
+    "id": 3778,
+    "fa": "آیا این خط برای دارندگان بلیط است یا برای گیشه؟",
+    "en": "Is this line for the ticket holders or for the box office?",
+    "groupCode": 0
+  },
+  {
+    "id": 3779,
+    "fa": "آیا وجود دارد یک هزینه پذیرش یا رایگان است؟",
+    "en": "Is there an admission fee or is it free?",
+    "groupCode": 0
+  },
+  {
+    "id": 3780,
+    "fa": "آیا عکاسی در موزه مجاز است؟",
+    "en": "Is photography allowed in the museum?",
+    "groupCode": 0
+  },
+  {
+    "id": 3781,
+    "fa": "او آمد (ایده) با یک ایده ابلهانه که همه را به خنده انداخت",
+    "en": "He came up with a daft idea that made everyone laugh",
+    "groupCode": 0
+  },
+  {
+    "id": 3782,
+    "fa": "من بالاخره تسلیم شدم و قبول کردم که به مهمانی بروم",
+    "en": "I finally gave in and agreed to go to the party",
     "groupCode": 0
   }
 ]
