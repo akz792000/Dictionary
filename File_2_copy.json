@@ -2615,12 +2615,6 @@
     "groupCode": 1
   },
   {
-    "id": 10648,
-    "en": "I am a software engineer and work at Knauf",
-    "de": "Ich bin Software-Ingenieur und arbeite bei Knauf",
-    "groupCode": 1
-  },
-  {
     "id": 10649,
     "en": "She sells sports products at Intersport",
     "de": "Sie verkauft Sportprodukte bei Intersport",
@@ -2732,55 +2726,6 @@
     "id": 10674,
     "en": "Are you (plural) celebrating in the restaurant? No, we're celebrating at home",
     "de": "Feiert ihr im Restaurant? Nein, wir feiern zu Hause",
-    "groupCode": 1
-  },
-  {
-    "id": 10675,
-    "en": "Do you need new clothes for the job interview?",
-    "de": "Brauchst du neue Kleidung für das Job Interview?",
-    "groupCode": 1
-  },
-  {
-    "id": 10677,
-    "en": "What else do you have? We only have nut cake",
-    "de": "Was haben Sie denn noch? Wir haben nur noch Nusskuchen",
-    "groupCode": 1
-  },
-  {
-    "id": 10679,
-    "en": "We would like to eat in the restaurant",
-    "de": "Wir möchten im Restaurant essen",
-    "groupCode": 1
-  },
-  {
-    "id": 10681,
-    "en": "The party is at home, not in the park",
-    "de": "Die Party ist zu Hause, nicht im Park",
-    "groupCode": 1
-  },
-  {
-    "id": 10686,
-    "en": "What does it smell like? It smells like flowers",
-    "de": "Wonach riecht es? Es riecht nach Blumen",
-    "desc": "wonach: there is no universal answer or translation. \"wonach\" can be used to ask about anything that requires \"nach\"",
-    "groupCode": 1
-  },
-  {
-    "id": 10687,
-    "en": "Customer finds receipt from 2002",
-    "de": "Kunde findet Kassenzettel von 2002",
-    "groupCode": 1
-  },
-  {
-    "id": 10696,
-    "en": "I don't dance well",
-    "de": "Ich tanze nicht gut",
-    "groupCode": 1
-  },
-  {
-    "id": 10715,
-    "en": "It is foggy in the forest, do you want to camp here?",
-    "de": "Es ist neblig im Walt, willst du hier campen?",
     "groupCode": 1
   }
 ]

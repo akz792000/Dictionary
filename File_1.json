@@ -4768,20 +4768,39 @@
   },
   {
     "id": 3783,
-    "fa": "1",
-    "en": "My son has a small scar on his upper lip. He was messing around with it, and now his upper lip is completely swollen. I'm worried about the swelling",
+    "fa": "پسرم یک زخم کوچک روی لب بالاییش داشت، اما او باهاش ور رفت و الان لب بالاییش کاملا متورم است. من نگران تورم هستم",
+    "en": "My son had a small scar on his upper lip, but he has been messing with it, and now his upper lip is completely swollen. I'm worried about the swelling",
+    "desc": "\"Messing around with it\" implies a more casual, playful, or careless action.\n\n\"Messing with it\" is more direct and neutral, simply meaning touching or interfering with it.\n\nBoth are correct, but \"messing with it\" is slightly more concise and commonly used in American English",
     "groupCode": 0
   },
   {
     "id": 3784,
-    "fa": "2",
+    "fa": "پسر من حدوداً 10 یا 11 ساله است و در حال گذراندن (دوران) پیش از بلوغ است. من متوجه بعضی رفتارهای نگران کننده ای شده ام: به عنوان مثال، وقتی او زخمی می گیرد، مانند آن (زخم) روی لب بالا، او تمایل دارد که مدام آن را خراب کند. این اتفاق با هر جای زخم روی بدن او می افتد. من می خواهم بحث کنم این رفتار را با یک روانپزشک کودکان",
     "en": "My son is around 10 or 11 years old, and he's going through pre-puberty. I've noticed some concerning behaviors: for example, when he gets a scar, like the one on his upper lip, he tends to keep messing with it. This happens with any scar on his body. I want to discuss this behavior with a pediatric psychiatrist",
     "groupCode": 0
   },
   {
     "id": 3785,
-    "fa": "3",
+    "fa": "پسر من به نظر می رسد به شدت نیاز دارد برای هر چیز قرار گیرد در جای خود. او تمایل دارد بسیار خاص باشد در مورد نظم و آراستگی",
     "en": "My son seems to have a strong need for everything to be in its correct place. He tends to be very particular about order and neatness",
+    "groupCode": 0
+  },
+  {
+    "id": 3786,
+    "fa": "این اتومات می کند بسیاری از کارها را",
+    "en": "This automates a lot of work",
+    "groupCode": 0
+  },
+  {
+    "id": 3787,
+    "fa": "من می خواهم در یک تست سطح A1 آلمانی شرکت کنم و من نیاز دارم خودم را برای این آزمون در گوته آماده کنم",
+    "en": "I want to take a German A1 level test, and I need to prepare myself for this exam at Goethe",
+    "groupCode": 0
+  },
+  {
+    "id": 3788,
+    "fa": "این امتحان در مورد چه خواهد بود؟",
+    "en": "What will this exam be about?",
     "groupCode": 0
   }
 ]
