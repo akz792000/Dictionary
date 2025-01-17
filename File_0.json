@@ -1485,7 +1485,7 @@
   },
   {
     "id": 246,
-    "fa": "من مایلم اول یه ذره مرتب کنی، وسایلت همه جای خونه هست",
+    "fa": "من مایلم اول یه ذره مرتب کنی، چیزهات همه جای خونه هست",
     "en": "I would like you to tidy up a bit first, your things are all over the house",
     "groupCode": 0
   },
@@ -6658,7 +6658,7 @@
   },
   {
     "id": 1096,
-    "fa": "حتی اگر در حال حاضر همه چیز سخت است، شاد باش و به جلو برو",
+    "fa": "حتی اگر در حال حاضر چیزها سخت است، شاد باش و به جلو برو",
     "en": "Even though things are tough right now, cheer up and keep moving forward",
     "groupCode": 0
   },
@@ -15298,7 +15298,7 @@
   },
   {
     "id": 2520,
-    "fa": "احمق نباش",
+    "fa": "ابله نباش",
     "en": "Don't be daft",
     "groupCode": 0
   },

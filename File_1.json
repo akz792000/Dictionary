@@ -4490,7 +4490,7 @@
   {
     "id": 3737,
     "fa": "او (مرد) به طور تصادفی افشا کرد محل برگزاری برای جلسه را",
-    "en": "He accidentally let out the location for the meeting",
+    "en": "He accidentally let out the location of the meeting",
     "groupCode": 0
   },
   {
@@ -4726,7 +4726,7 @@
   },
   {
     "id": 3776,
-    "fa": "قرارداد شما چه زمانی به پایان می رسد؟",
+    "fa": "کی شما چه زمانی به پایان می رسد؟",
     "en": "When does your contract end?",
     "groupCode": 0
   },
@@ -4756,20 +4756,20 @@
   },
   {
     "id": 3781,
-    "fa": "او آمد (ایده) با یک ایده ابلهانه که همه را به خنده انداخت",
+    "fa": "او آمد (ایده) با یک ایده ابلهانه که هر کسی را به خنده انداخت",
     "en": "He came up with a daft idea that made everyone laugh",
     "groupCode": 0
   },
   {
     "id": 3782,
-    "fa": "من بالاخره تسلیم شدم و قبول کردم که به مهمانی بروم",
+    "fa": "من بالاخره تسلیم شدم و موافقت کردم به مهمانی بروم",
     "en": "I finally gave in and agreed to go to the party",
     "groupCode": 0
   },
   {
     "id": 3783,
     "fa": "پسرم یک زخم کوچک روی لب بالاییش داشت، اما او باهاش ور رفت و الان لب بالاییش کاملا متورم است. من نگران تورم هستم",
-    "en": "My son had a small scar on his upper lip, but he has been messing with it, and now his upper lip is completely swollen. I'm worried about the swelling",
+    "en": "My son had a small scar on his upper lip, but he has been messing with it, and now his upper lip is completely swollen /ˈswoʊlən/. I'm worried about the swelling",
     "desc": "\"Messing around with it\" implies a more casual, playful, or careless action.\n\n\"Messing with it\" is more direct and neutral, simply meaning touching or interfering with it.\n\nBoth are correct, but \"messing with it\" is slightly more concise and commonly used in American English",
     "groupCode": 0
   },
@@ -4789,6 +4789,7 @@
     "id": 3786,
     "fa": "این اتومات می کند بسیاری از کارها را",
     "en": "This automates a lot of work",
+    "desc": "\"Work\" (uncountable): Refers to tasks or general effort.\nExample: This automates a lot of work.\n\n\"Works\" (countable): Refers to specific creations (e.g., art, literature).\nExample: She admired his works of art.",
     "groupCode": 0
   },
   {
@@ -4801,6 +4802,25 @@
     "id": 3788,
     "fa": "این امتحان در مورد چه خواهد بود؟",
     "en": "What will this exam be about?",
+    "groupCode": 0
+  },
+  {
+    "id": 3789,
+    "fa": "شغل جدیدم ارائه می کند آزادی عمل بیشتری را (برای) کار کردن از خانه",
+    "en": "My new job offers more leeway to work from home",
+    "groupCode": 0
+  },
+  {
+    "id": 3790,
+    "fa": "من درب بطری را پیچاندم و نوشیدنی را ریختم",
+    "en": "I twisted off the bottle cap and poured the drink",
+    "desc": "Twist off means to remove something by turning it, usually with your hand. It’s often used for objects like bottle caps or lids",
+    "groupCode": 0
+  },
+  {
+    "id": 3791,
+    "fa": "شما نیاز داری درب را بچرخانی تا باز کنی شیشه (مربا)",
+    "en": "You need to twist off the lid to open the jar",
     "groupCode": 0
   }
 ]
