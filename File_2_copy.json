@@ -2669,12 +2669,6 @@
     "groupCode": 1
   },
   {
-    "id": 10662,
-    "en": "Our nut cake is particularly good. But I don't like nut cake. Oh right!",
-    "de": "Unser Nusskuchen ist besonders gut. Ich mag aber keinen Nusskuchen. Ach so!",
-    "groupCode": 1
-  },
-  {
     "id": 10664,
     "en": "Where is my invitation?",
     "de": "Wo ist meine Einladung?",
@@ -2693,12 +2687,6 @@
     "groupCode": 1
   },
   {
-    "id": 10669,
-    "en": "Too bad! Not good, then I take an apple cake",
-    "de": "Schade! Na gut, dann nehme ich einen Apfelkuchen",
-    "groupCode": 1
-  },
-  {
     "id": 10670,
     "en": "Do you have a gift for me?",
     "de": "Hast du ein Geschenk fur mich?",
@@ -2714,12 +2702,6 @@
     "id": 10672,
     "en": "Where are you (plural) celebrating the birthday?",
     "de": "Wo feiert ihr den Geburtstag?",
-    "groupCode": 1
-  },
-  {
-    "id": 10673,
-    "en": "I'm celebrating my birthday in the park",
-    "de": "Ich feiere meinen Geburtstag im Park",
     "groupCode": 1
   },
   {

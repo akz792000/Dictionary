@@ -574,5 +574,29 @@
     "en": "End",
     "de": "\n höre auf \n hörst auf \n hört auf \n hören auf \n hört auf \n hören auf",
     "groupCode": 1
+  },
+  {
+    "id": 20097,
+    "en": "Smell",
+    "de": "\n rieche \n riechst \n riecht \n riechen \n riecht \n riechen",
+    "groupCode": 1
+  },
+  {
+    "id": 20098,
+    "en": "Believe",
+    "de": "\n glaube \n glaubst \n glaubt \n glauben \n glaubt \n glauben",
+    "groupCode": 1
+  },
+  {
+    "id": 20099,
+    "en": "Stand",
+    "de": "\n stehe \n stehst \n steht \n stehen \n steht \n stehen",
+    "groupCode": 1
+  },
+  {
+    "id": 20100,
+    "en": "Get up",
+    "de": "\n stehe auf \n stehst auf \n steht auf \n stehen auf \n steht auf \n stehen auf",
+    "groupCode": 1
   }
 ]

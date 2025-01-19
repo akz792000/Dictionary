@@ -969,7 +969,7 @@
   },
   {
     "id": 3159,
-    "fa": "درست (فقط) زمانی که فکر می کنید تمام شده؛ یک مشکل جدید پیش می آید",
+    "fa": "درست (فقط) زمانی که فکر می کنید تمام است؛ یک مشکل جدید پیش می آید",
     "en": "Just when you think it's over; a new problem comes up",
     "groupCode": 0
   },
@@ -3854,6 +3854,7 @@
     "id": 3631,
     "fa": "من خریدم یک کلاه بافتنی پشمی با افتاب گیر و فلپ های گوش برای گرم نگه داشتن",
     "en": "I bought a wool knitted hat with a visor and ear flaps to keep warm",
+    "desc": "\n\"Wool\" works as an adjective when describing something made of wool, like \"wool hat.\"\n\"Woolen\" is also correct and emphasizes the material, but it's more formal. Both are fine to use!",
     "groupCode": 0
   },
   {
@@ -4726,7 +4727,7 @@
   },
   {
     "id": 3776,
-    "fa": "کی شما چه زمانی به پایان می رسد؟",
+    "fa": "کی قرار شما تمام می شود؟",
     "en": "When does your contract end?",
     "groupCode": 0
   },
@@ -4744,7 +4745,7 @@
   },
   {
     "id": 3779,
-    "fa": "آیا وجود دارد یک هزینه پذیرش یا رایگان است؟",
+    "fa": "آیا وجود دارد یک هزینه پذیرش یا هستش رایگان؟",
     "en": "Is there an admission fee or is it free?",
     "groupCode": 0
   },
@@ -4781,8 +4782,8 @@
   },
   {
     "id": 3785,
-    "fa": "پسر من به نظر می رسد به شدت نیاز دارد برای هر چیز قرار گیرد در جای خود. او تمایل دارد بسیار خاص باشد در مورد نظم و آراستگی",
-    "en": "My son seems to have a strong need for everything to be in its correct place. He tends to be very particular about order and neatness",
+    "fa": "پسر من دارد به شدت نیاز برای همه چیز تا باشد در جای درست خود. او تمایل دارد بسیار خاص باشد در مورد نظم و آراستگی",
+    "en": "My son seems has a strong need for everything to be in its correct place. He tends to be very particular about order and neatness",
     "groupCode": 0
   },
   {
@@ -4821,6 +4822,48 @@
     "id": 3791,
     "fa": "شما نیاز داری درب را بچرخانی تا باز کنی شیشه (مربا)",
     "en": "You need to twist off the lid to open the jar",
+    "groupCode": 0
+  },
+  {
+    "id": 3792,
+    "fa": "من مجبور شدم خیار را بیرون بریزم چون کپک زده بود",
+    "en": "I had to throw out the cucumber because it was moldy",
+    "groupCode": 0
+  },
+  {
+    "id": 3793,
+    "fa": "آیا برای آپلود فایل آماده هستی؟",
+    "en": "Are you ready to upload the file?",
+    "groupCode": 0
+  },
+  {
+    "id": 3794,
+    "fa": "ما فقط 24 ساعت دوریم از دو رویداد هیجان انگیزی که شما مطلقا نمی توانید از دست دهید",
+    "en": "We're just 24 hours away from two exciting events that you absolutely can't miss",
+    "groupCode": 0
+  },
+  {
+    "id": 3795,
+    "fa": "این Dativ است زیرا فعل sein دلالت دارد به یک مکان ایستا یا حالت وجود داشتن",
+    "en": "This is Dativ because the verb sein implies a static location or state of being",
+    "groupCode": 0
+  },
+  {
+    "id": 3796,
+    "fa": "این Akkusativ است زیرا فعل gehen دلالت دارد به حرکت یا یک تغییر مکان",
+    "en": "This is Akkusativ because the verb gehen implies movement or a change of location",
+    "groupCode": 0
+  },
+  {
+    "id": 3797,
+    "fa": "پلیس رسید تا معترضان را متفرق کند",
+    "en": "The police arrived to disperse the protestors",
+    "groupCode": 0
+  },
+  {
+    "id": 3798,
+    "fa": "من باید کمربندم را ببندم تا پس انداز کنم پول کافی برای هزینه های شهریه پسرم",
+    "en": "I have to tighten my belt to save enough money for my son's tuition fees",
     "groupCode": 0
   }
 ]

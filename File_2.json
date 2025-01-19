@@ -2096,7 +2096,7 @@
   },
   {
     "id": 10346,
-    "en": "Best regards and have a nice weekend",
+    "en": "Best regards and (have) a nice weekend",
     "de": "Herzliche Grüße und ein schönes Wochenende",
     "groupCode": 1
   },
@@ -2373,7 +2373,7 @@
   },
   {
     "id": 10392,
-    "en": "Is your birthday on the first of March?",
+    "en": "Do you have birthday on the first of March?",
     "de": "Hast du am ersten März Geburtstag?",
     "groupCode": 1
   },
@@ -4768,7 +4768,7 @@
   {
     "id": 10789,
     "en": "Don't forget the phone again, it's over there",
-    "de": "Vergiss nicht wieder Das Handy, es ist da drüben",
+    "de": "Vergiss nicht wieder das Handy, es ist da drüben",
     "groupCode": 1
   },
   {
@@ -4897,8 +4897,8 @@
   },
   {
     "id": 10810,
-    "en": "He call me tomorrow",
-    "de": "Er ruft mich morgen an",
+    "en": "He will call me tomorrow",
+    "de": "Er wird mich morgen anrufen",
     "groupCode": 1
   },
   {
@@ -4946,13 +4946,13 @@
   },
   {
     "id": 10818,
-    "en": "Don't forget your passport again",
-    "de": "Vergiss nicht wieder deinen Pass",
+    "en": "Too bad! Not good, then I take an apple cake",
+    "de": "Schade! Na gut, dann nehme ich einen Apfelkuchen",
     "groupCode": 1
   },
   {
     "id": 10819,
-    "en": "Where is the dress is it in the closet?",
+    "en": "Where is the dress, is it in the closet?",
     "de": "Wo ist das Kleid, ist es im Schrank?",
     "groupCode": 1
   },
@@ -5018,13 +5018,13 @@
   },
   {
     "id": 10830,
-    "en": "I think, the concert ends at half past ten",
+    "en": "I believe, the concert ends at half past ten",
     "de": "Ich glaube, das Konzert hört um halb elf auf",
     "groupCode": 1
   },
   {
     "id": 10831,
-    "en": "Will you come visit me?",
+    "en": "Do you come visit me?",
     "de": "Kommst du mich besuchen?",
     "groupCode": 1
   },
@@ -5081,6 +5081,126 @@
     "id": 10840,
     "en": "What else do you have? We only have nut cake",
     "de": "Was haben Sie denn noch? Wir haben nur noch Nusskuchen",
+    "groupCode": 1
+  },
+  {
+    "id": 10841,
+    "en": "Do you have a nut allergy?",
+    "de": "Hast du eine Nussallergie?",
+    "groupCode": 1
+  },
+  {
+    "id": 10842,
+    "en": "I don't need a car, I always go by foot",
+    "de": "Ich brauche kein Auto, ich gehe immer zu Fuß",
+    "groupCode": 1
+  },
+  {
+    "id": 10843,
+    "en": "My clothes are too warm for Tehran",
+    "de": "Meine Kleidung ist zu warm für Tehran",
+    "groupCode": 1
+  },
+  {
+    "id": 10844,
+    "en": "The dress is not in the closet",
+    "de": "Das Kleid ist nicht im Schrank",
+    "groupCode": 1
+  },
+  {
+    "id": 10845,
+    "en": "Our nut cake is particularly good. But I don't like nut cake. Oh right!",
+    "de": "Unser Nusskuchen ist besonders gut. Ich mag aber keinen Nusskuchen. Ach so!",
+    "groupCode": 1
+  },
+  {
+    "id": 10846,
+    "en": "I don't like the socks, they are too small",
+    "de": "Ich mag die Socken nicht, sie sind zu klein",
+    "groupCode": 1
+  },
+  {
+    "id": 10847,
+    "en": "Are the suitcases already full?",
+    "de": "Sind die Koffer schon voll?",
+    "groupCode": 1
+  },
+  {
+    "id": 10848,
+    "en": "I'm celebrating my birthday in the park",
+    "de": "Ich feiere meinen Geburtstag im Park",
+    "groupCode": 1
+  },
+  {
+    "id": 10849,
+    "en": "Do you have a birthday in April?",
+    "de": "Hast du im April Geburtstag?",
+    "groupCode": 1
+  },
+  {
+    "id": 10850,
+    "en": "Do you still have to wash these socks?",
+    "de": "Musst du diese Socken noch waschen?",
+    "groupCode": 1
+  },
+  {
+    "id": 10851,
+    "en": "My pets eat bananas every day! On Sundays I always have to buy twenty bananas",
+    "de": "Meine Haustiere essen jeden Tag Bananen! Sonntags muss ich immer zwanzig Bananen",
+    "groupCode": 1
+  },
+  {
+    "id": 10852,
+    "en": "My children like oranges",
+    "de": "Meine Kinder mögen Orangen",
+    "groupCode": 1
+  },
+  {
+    "id": 10853,
+    "en": "I want to invite you to breakfast, are you coming?",
+    "de": "Ich will dich zum Frühstück einladen, kommst du?",
+    "groupCode": 1
+  },
+  {
+    "id": 10854,
+    "en": "How many weeks are you (formal) staying here?",
+    "de": "Wie viele Wochen bleiben Sie hier?",
+    "groupCode": 1
+  },
+  {
+    "id": 10855,
+    "en": "Do you like eating cucumbers",
+    "de": "Isst du gern Gurken?",
+    "groupCode": 1
+  },
+  {
+    "id": 10856,
+    "en": "I had to throw out the cucumber because it was moldy",
+    "de": "Ich musste die Gurke wegwerfen, weil sie schimmelig war",
+    "groupCode": 1
+  },
+  {
+    "id": 10857,
+    "en": "My wife needs a cucumber for the salad",
+    "de": "Meine Frau braucht eine Gurke für den Salat",
+    "groupCode": 1
+  },
+  {
+    "id": 10858,
+    "en": "We need flowers, go to the flower shop",
+    "de": "Wir brauchen Blumen, geh in den Blumenladen",
+    "groupCode": 1
+  },
+  {
+    "id": 10859,
+    "en": "We need less than a hundred pieces of pizza",
+    "de": "Wir brauchen weniger als hundert Stück Pizza",
+    "groupCode": 1
+  },
+  {
+    "id": 10860,
+    "en": "I want to eat ham, go to the butcher",
+    "de": "Ich stehe jeden Tag um 7 Uhr auf",
     "groupCode": 1
   }
 ]
