@@ -4937,5 +4937,35 @@
     "fa": "زمانه (ها) عوض شده ما هرگز برده نخواهیم بودی",
     "en": "The times have changed we will never be slaves",
     "groupCode": 0
+  },
+  {
+    "id": 3811,
+    "fa": "من در سال 2001 از دانشگاه فارغ التحصیل شدم",
+    "en": "I graduated from university in 2001",
+    "groupCode": 0
+  },
+  {
+    "id": 3812,
+    "fa": "خانواده من پنجشنبه خواهند آمد",
+    "en": "My family will arrive on Thursday",
+    "groupCode": 0
+  },
+  {
+    "id": 3813,
+    "fa": "ساعت 19:00 فروشگاه بسته می شود",
+    "en": "The store closes at 19:00",
+    "groupCode": 0
+  },
+  {
+    "id": 3814,
+    "fa": "وقتی شما می خواهید مسلمان شوید، شما نیاز دارید ختنه شوید",
+    "en": "When you want to become Muslim, you need to be circumcised",
+    "groupCode": 0
+  },
+  {
+    "id": 3815,
+    "fa": "آیا او (مرد) مایل است مسلمان شود؟",
+    "en": "Is he willing to become Muslim?",
+    "groupCode": 0
   }
 ]
