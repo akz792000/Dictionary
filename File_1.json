@@ -26,7 +26,7 @@
   },
   {
     "id": 3005,
-    "fa": "فکر می کنید خواننده های معروف هنوز روی صحنه عصبی می شوند؟",
+    "fa": "آیا فکر می کنید خواننده های معروف هنوز روی صحنه عصبی می شوند؟",
     "en": "Do you think famous singers still get nervous on stage?",
     "groupCode": 0
   },
@@ -4052,7 +4052,7 @@
   {
     "id": 3664,
     "fa": "در صورت امکان، من قدردانی خواهم کرد (فرضی) (از) بازخورد کتبی شما",
-    "en": "\n 1.If possible, I’d appreciate your written feedback \n 2.I would appreciate your feedback in writing",
+    "en": "\n 1.If possible, I'd appreciate your written feedback \n 2.I would appreciate your feedback in writing",
     "groupCode": 0
   },
   {
@@ -4702,7 +4702,7 @@
   },
   {
     "id": 3772,
-    "fa": "تفاوت این است که CC همه گیرندگان را نشان می دهد، در حالی که BCC آنها را پنهان می کند، از اینرو \"کپی کربن کور\"",
+    "fa": "تفاوت (این) است که CC همه گیرندگان را نشان می دهد، در حالی که BCC آنها را پنهان می کند، از اینرو \"کپی کربن کور\"",
     "en": "The difference is that CC shows all recipients, while BCC hides them, hence \"blind carbon copy\"",
     "desc": "In \"carbon copy,\" the term \"carbon\" refers to carbon paper, which was historically used to make duplicate copies of written or typed documents. When sending an email, \"carbon copy\" (CC) is a digital metaphor for sharing a duplicate of the email with others. It doesn't literally involve carbon but symbolizes sending a copy to additional recipients.",
     "groupCode": 0
@@ -4727,7 +4727,7 @@
   },
   {
     "id": 3776,
-    "fa": "کی قرار شما تمام می شود؟",
+    "fa": "کی قرارداد شما تمام می شود؟",
     "en": "When does your contract end?",
     "groupCode": 0
   },
@@ -4776,14 +4776,14 @@
   },
   {
     "id": 3784,
-    "fa": "پسر من حدوداً 10 یا 11 ساله است و در حال گذراندن (دوران) پیش از بلوغ است. من متوجه بعضی رفتارهای نگران کننده ای شده ام: به عنوان مثال، وقتی او زخمی می گیرد، مانند آن (زخم) روی لب بالا، او تمایل دارد که مدام آن را خراب کند. این اتفاق با هر جای زخم روی بدن او می افتد. من می خواهم بحث کنم این رفتار را با یک روانپزشک کودکان",
-    "en": "My son is around 10 or 11 years old, and he's going through pre-puberty. I've noticed some concerning behaviors: for example, when he gets a scar, like the one on his upper lip, he tends to keep messing with it. This happens with any scar on his body. I want to discuss this behavior with a pediatric psychiatrist",
+    "fa": "پسر من حدوداً 11 ساله است و او در حال گذراندن (دوران) پیش از بلوغ است. من متوجه بعضی رفتارهای نگران کننده شده ام. من می خواهم بحث کنم این رفتار را با یک روانپزشک کودکان",
+    "en": "My son is around 11 years old, and he's going through pre-puberty. I've noticed some concerning behaviors. I want to discuss this behavior with a pediatric psychiatrist",
     "groupCode": 0
   },
   {
     "id": 3785,
     "fa": "پسر من دارد به شدت نیاز برای همه چیز تا باشد در جای درست خود. او تمایل دارد بسیار خاص باشد در مورد نظم و آراستگی",
-    "en": "My son seems has a strong need for everything to be in its correct place. He tends to be very particular about order and neatness",
+    "en": "My son has a strong need for everything to be in its correct place. He tends to be very particular about order and neatness",
     "groupCode": 0
   },
   {
@@ -4815,7 +4815,7 @@
     "id": 3790,
     "fa": "من درب بطری را پیچاندم و نوشیدنی را ریختم",
     "en": "I twisted off the bottle cap and poured the drink",
-    "desc": "Twist off means to remove something by turning it, usually with your hand. It’s often used for objects like bottle caps or lids",
+    "desc": "Twist off means to remove something by turning it, usually with your hand. It's often used for objects like bottle caps or lids",
     "groupCode": 0
   },
   {
@@ -4864,6 +4864,78 @@
     "id": 3798,
     "fa": "من باید کمربندم را ببندم تا پس انداز کنم پول کافی برای هزینه های شهریه پسرم",
     "en": "I have to tighten my belt to save enough money for my son's tuition fees",
+    "groupCode": 0
+  },
+  {
+    "id": 3799,
+    "fa": "او (مرد) جلیقه ضد گلوله پوشید",
+    "en": "He wore a bulletproof vest",
+    "groupCode": 0
+  },
+  {
+    "id": 3800,
+    "fa": "استثنا برای من ناشناخته است و من مطمئن نیستم در مورد چگونگی ادامه دادن",
+    "en": "The exception is unknown to me, and I am uncertain about how to proceed",
+    "groupCode": 0
+  },
+  {
+    "id": 3801,
+    "fa": "در زیر است اطلاعات مربوط به استثنا",
+    "en": "Below is the information regarding the exception",
+    "groupCode": 0
+  },
+  {
+    "id": 3802,
+    "fa": "شما می توانید به کار بگیریدش تا ایجاد کنید و استقرار بدید یک پیاده سازی بهینه",
+    "en": "You can leverage it to create and deploy an optimal implementation",
+    "groupCode": 0
+  },
+  {
+    "id": 3803,
+    "fa": "من عذرخواهی می کنم که برای اشاره نکردم زودتر که درس آزمایشی برای پسرم است",
+    "en": "I apologize for not mentioning earlier that the trial lesson is for my son",
+    "groupCode": 0
+  },
+  {
+    "id": 3804,
+    "fa": "بیایید باش ادامه دهیم و ببینیم چگونه پیش می رود",
+    "en": "Let's proceed with it and see how it goes",
+    "groupCode": 0
+  },
+  {
+    "id": 3805,
+    "fa": "من برای هر گونه ناراحتی متاسفم و مشتاقانه منتظر پاسخ (شنیدن) از شما هستم",
+    "en": "I'm sorry for any inconvenience and look forward to hearing back from you",
+    "groupCode": 0
+  },
+  {
+    "id": 3806,
+    "fa": "من شما را ملاقات خواهم کرد ظهر برای ناهار",
+    "en": "I'll meet you at noon for lunch",
+    "groupCode": 0
+  },
+  {
+    "id": 3807,
+    "fa": "آتش بازی نیمه شب شروع خواهد شد",
+    "en": "The fireworks will start at midnight",
+    "groupCode": 0
+  },
+  {
+    "id": 3808,
+    "fa": "او (مرد) به درستی می ترسد (از) ایرانیانی که او را تحقیر می کنند و می خواهند پایان رژیم وحشی او را ببینند",
+    "en": "He rightly fears Iranians who despise him and want to see the end of his brutal regime",
+    "groupCode": 0
+  },
+  {
+    "id": 3809,
+    "fa": "بیرون خیلی سرده. بپوش کت و کلاه خود را قبل (از اینکه) تو ترک کنی",
+    "en": "It's bitterly cold outside. Put on your coat and hat before you leave",
+    "groupCode": 0
+  },
+  {
+    "id": 3810,
+    "fa": "زمانه (ها) عوض شده ما هرگز برده نخواهیم بودی",
+    "en": "The times have changed we will never be slaves",
     "groupCode": 0
   }
 ]

@@ -2313,7 +2313,7 @@
   },
   {
     "id": 10382,
-    "en": "It's my birthday tomorrow and we're having (make) a party. Go to the supermarket and buy five bottles of white wine",
+    "en": "I have my birthday tomorrow and we're having (make) a party. Go to the supermarket and buy five bottles of white wine",
     "de": "Ich habe morgen Geburtstag und wir machen eine Party. Geh in den Supermarkt und kauf fünf Flaschen Weißwein",
     "groupCode": 1
   },
@@ -2391,7 +2391,7 @@
   },
   {
     "id": 10395,
-    "en": "My aunt's birthday is on Sunday",
+    "en": "My aunt has birthday on Sunday",
     "de": "Meine Tante hat am Sonntag Geburtstag",
     "groupCode": 1
   },
@@ -2409,7 +2409,7 @@
   },
   {
     "id": 10398,
-    "en": "His girlfriend has a horse, it has its birthday today",
+    "en": "His girlfriend has a horse, it has birthday today",
     "de": "Seine Freundin hat ein Pferd, es hat heute Geburtstag",
     "groupCode": 1
   },
@@ -2953,7 +2953,7 @@
   },
   {
     "id": 10488,
-    "en": "Don’t you drink wheat beer?",
+    "en": "Don’t you drink a wheat beer?",
     "de": "Trinkst du kein Weißbier",
     "desc": "\"Kein Weißbier\" negates wheat beer in general, not a specific one.\n\nTranslation: \"Don’t you drink wheat beer?\"",
     "groupCode": 1
@@ -2973,7 +2973,7 @@
   {
     "id": 10491,
     "en": "Does our boss smoke?",
-    "de": "Raucht unsere Chefin?",
+    "de": "Raucht unsere Chef/Chefin?",
     "groupCode": 1
   },
   {
@@ -2990,7 +2990,7 @@
   },
   {
     "id": 10494,
-    "en": "Go right and then left",
+    "en": "Go (formal) right and then left",
     "de": "Gehen Sie rechts und dann links",
     "groupCode": 1
   },
@@ -3020,7 +3020,7 @@
   },
   {
     "id": 10499,
-    "en": "You pick up fifteen pizzas and I'll pick up the cake. Is that enough food for the party?",
+    "en": "You pick up fifteen pizzas and I pick up the cake. Is that enough food for the party?",
     "de": "Du holst fünfzehn Pizzas aub und ich hole den Kuchen ab. Ist das genung Essen fur die Party?",
     "groupCode": 1
   },
@@ -3206,7 +3206,7 @@
   },
   {
     "id": 10530,
-    "en": "His sister's birthday is soon",
+    "en": "His sister has birthday soon",
     "de": "Seine Schwester hat bald Geburtstag",
     "groupCode": 1
   },
@@ -3254,7 +3254,7 @@
   },
   {
     "id": 10538,
-    "en": "My mother's birthday is on first of March",
+    "en": "My mother has birthday on first of March",
     "de": "Meine Mutter hat am ersten März geburtstag",
     "groupCode": 1
   },
@@ -4399,7 +4399,7 @@
   },
   {
     "id": 10728,
-    "en": "My girlfriend's birthday is on the second of April",
+    "en": "My girlfriend has birthday on the second of April",
     "de": "Am zweiten April hat meine Freundin Geburtstag",
     "groupCode": 1
   },
@@ -4972,6 +4972,7 @@
     "id": 10822,
     "en": "Would you like to go by foot to the hotel?",
     "de": "Möchtest du zu fuß bis zum hotel gehen?",
+    "desc": "Use bis to emphasize a limit, endpoint, or duration.\n\nExamples:\n\nOrt (Place): Wir gehen bis zum Park. (We walk all the way to the park.)\nZeit (Time): Ich warte bis morgen. (I wait until tomorrow.)\nReihenfolge (Order): Zähle bis zehn! (Count up to ten!)",
     "groupCode": 1
   },
   {
@@ -5133,7 +5134,7 @@
   },
   {
     "id": 10849,
-    "en": "Do you have a birthday in April?",
+    "en": "Do you have birthday in April?",
     "de": "Hast du im April Geburtstag?",
     "groupCode": 1
   },
@@ -5199,7 +5200,7 @@
   },
   {
     "id": 10860,
-    "en": "I want to eat ham, go to the butcher",
+    "en": "I get up every day at 7 o'clock",
     "de": "Ich stehe jeden Tag um 7 Uhr auf",
     "groupCode": 1
   }
