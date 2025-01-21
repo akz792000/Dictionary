@@ -1322,6 +1322,7 @@
     "id": 10218,
     "en": "There are many bars in Berlin but there are few discos in Augsburg",
     "de": "Es gibt viele Bars in Berlin aber es gibt wenige Discos in Augsburg",
+    "desc": "\nChatGPT said:\nChatGPT\nWenig: Small amount (uncountable).\nIch habe wenig Geld. (I have little money.)\n\nWenige: Few (countable, plural).\nWenige Leute sind hier. (Few people are here.)\n\nWeniger: Less (uncountable) or fewer (countable).\nIch trinke weniger Wasser. (I drink less water.)\nEs gibt weniger Bücher. (There are fewer books.)",
     "groupCode": 1
   },
   {
@@ -1492,6 +1493,7 @@
     "id": 10246,
     "en": "I have a toothache I can't ride (a) bike",
     "de": "Ich habe Zahnschmerzen ich kann kein Fahrrad fahren",
+    "desc": "Kein Fahrrad fahren negates the noun (bicycle): \"I can't ride any bike.\"\nNicht fahren negates the action (riding): less common in this context.\nUse kein Fahrrad fahren for clarity when referring to the bike.",
     "groupCode": 1
   },
   {
@@ -2277,7 +2279,7 @@
   },
   {
     "id": 10376,
-    "en": "Go to the organic store and buy thirty cucumbers",
+    "en": "Go inside the organic store and buy thirty cucumbers",
     "de": "Geh in den Bioladen und kauf dreißig Gurken",
     "groupCode": 1
   },
@@ -2313,7 +2315,7 @@
   },
   {
     "id": 10382,
-    "en": "I have my birthday tomorrow and we're having (make) a party. Go to the supermarket and buy five bottles of white wine",
+    "en": "I have my birthday tomorrow and we're having (make) a party. Go inside the supermarket and buy five bottles of white wine",
     "de": "Ich habe morgen Geburtstag und wir machen eine Party. Geh in den Supermarkt und kauf fünf Flaschen Weißwein",
     "groupCode": 1
   },
@@ -2829,6 +2831,7 @@
     "id": 10467,
     "en": "The suitcases are full, they are really heavy",
     "de": "Die Koffer sind voll, sie sind wirklich schwer",
+    "desc": "Die Koffer is plural and translates to the suitcases in English.\n\nThe singular form is der Koffer, meaning the suitcase.",
     "groupCode": 1
   },
   {
@@ -2893,7 +2896,7 @@
   },
   {
     "id": 10478,
-    "en": "We can maybe go to the club later",
+    "en": "We can maybe go inside the club later",
     "de": "Wir können vielleicht später in den Club gehen",
     "groupCode": 1
   },
@@ -2941,7 +2944,7 @@
   },
   {
     "id": 10486,
-    "en": "You need a driver's license for the job",
+    "en": "You (formal) need a driver's license for the job",
     "de": "Sie brauchen einen Führerschein für den job",
     "groupCode": 1
   },
@@ -2972,8 +2975,8 @@
   },
   {
     "id": 10491,
-    "en": "Does our boss smoke?",
-    "de": "Raucht unsere Chef/Chefin?",
+    "en": "Does our boss (female) smoke?",
+    "de": "Raucht unsere Chefin?",
     "groupCode": 1
   },
   {
@@ -3056,13 +3059,13 @@
   },
   {
     "id": 10505,
-    "en": "I want to go to the club but I have to clean my car",
+    "en": "I want to go inside the club but I have to clean my car",
     "de": "Ich will in den Club gehen aber ich muss mein Auto putzen",
     "groupCode": 1
   },
   {
     "id": 10506,
-    "en": "I can't go to the club without my ID",
+    "en": "I can't go inside the club without my ID",
     "de": "Ich kann ohne meinen Ausweis nicht in den Club gehen",
     "groupCode": 1
   },
@@ -3080,7 +3083,7 @@
   },
   {
     "id": 10509,
-    "en": "We don't have any (have no) groceries. When are you going to the supermarket? Ali, go to the supermarket now",
+    "en": "We don't have any (have no) groceries. When are you going inside the supermarket? Ali, go inside the supermarket now",
     "de": "Wir haben keine Lebensmittel. Wann gehst du in den Supermarkt? Ali, geh jetzt in den Supermarkt",
     "groupCode": 1
   },
@@ -3334,6 +3337,7 @@
     "id": 10551,
     "en": "How much does a double room cost?",
     "de": "Wie viel kostet ein Doppelzimmer?",
+    "desc": "Wie viel: For uncountable nouns. (Wie viel Geld?)\nWie viele: For countable nouns. (Wie viele Bücher?)",
     "groupCode": 1
   },
   {
@@ -3416,13 +3420,13 @@
   },
   {
     "id": 10565,
-    "en": "My roommates always go to the club at night. They like to dance, but I prefer to sleep",
+    "en": "My roommates always go inside the club at night. They like to dance, but I prefer to sleep",
     "de": "Meine Mitbewohner gehen nachts immer in den Club. sie tanzen gern, aber ich schlafe lieber",
     "groupCode": 1
   },
   {
     "id": 10566,
-    "en": "Does your roommate always go to the club?",
+    "en": "Does your roommate always go inside the club?",
     "de": "Geht deine Mitbewohner immer in den Club?",
     "groupCode": 1
   },
@@ -3548,7 +3552,7 @@
   },
   {
     "id": 10587,
-    "en": "I always fish with my brother during the holidays",
+    "en": "I always fish with my brother in the holidays",
     "de": "Ich fische immer in den Ferien mit meinem Bruder",
     "groupCode": 1
   },
@@ -3572,13 +3576,13 @@
   },
   {
     "id": 10591,
-    "en": "My roommates are driving home for the holidays",
+    "en": "My roommates are driving home in the holidays",
     "de": "Meine Mitbewohner fahren nach Hause in den Ferien",
     "groupCode": 1
   },
   {
     "id": 10592,
-    "en": "We often fly home during the holidays. The airport is not far away",
+    "en": "We often fly home in the holidays. The airport is not far away",
     "de": "Wir fliegen in den ferien oft nach Hause. Der Flughafen ist nicht weit weg",
     "groupCode": 1
   },
@@ -3700,7 +3704,7 @@
   },
   {
     "id": 10612,
-    "en": "I like to fish with my brother in the summer. The river is nearby",
+    "en": "I like fishing with my brother in the summer. The river is nearby",
     "de": "Ich fische im Sommer gern mit meinem Bruder. Der Fluss ist in der Nähe",
     "desc": "\"Ich fische im Sommer gern mit meinem Bruder\": Focuses on when (in the summer) you fish.\n\"Ich fische gern im Sommer mit meinem Bruder\": Focuses on enjoying fishing, with the time (summer) as additional information.\nBoth are correct, just with slightly different emphases.",
     "groupCode": 1
@@ -3857,7 +3861,7 @@
   },
   {
     "id": 10638,
-    "en": "I go fishing during the holidays with my dad",
+    "en": "I go fishing in the holidays with my dad",
     "de": "Ich gehe in den Ferien mit meinem Papa Fischen",
     "groupCode": 1
   },
@@ -4253,7 +4257,7 @@
   },
   {
     "id": 10704,
-    "en": "I have to bring along a basketball to class (lesson)",
+    "en": "I have to bring along a basketball inside the class (lesson)",
     "de": "Ich muss einen Basketball in den Unterricht mitbringen",
     "groupCode": 1
   },
@@ -4291,7 +4295,8 @@
   {
     "id": 10710,
     "en": "Until when does your fiancée sleep?",
-    "de": "Bis wann schläft deine verlobter?",
+    "de": "Bis wann schläft dein verlobter (deine verlobte)?",
+    "desc": "Verlobter is male (masculine), meaning \"fiancé\" in English.\n\nThe female equivalent is Verlobte, meaning \"fiancée.\"",
     "groupCode": 1
   },
   {
@@ -4701,8 +4706,8 @@
   },
   {
     "id": 10778,
-    "en": "What else do you have?",
-    "de": "Was haben Sie denn noch?",
+    "en": "The Wine, The Water, The Beer, The Tea, The Milk",
+    "de": "der Wein, das Wasser, das Bier, der Tee, die Milch",
     "groupCode": 1
   },
   {
@@ -4767,7 +4772,7 @@
   },
   {
     "id": 10789,
-    "en": "Don't forget the phone again, it's over there",
+    "en": "Don't forget the cell phone again, it's over there",
     "de": "Vergiss nicht wieder das Handy, es ist da drüben",
     "groupCode": 1
   },
@@ -5080,7 +5085,7 @@
   },
   {
     "id": 10840,
-    "en": "What else do you have? We only have nut cake",
+    "en": "What else do you (formal) have? We only have nut cake",
     "de": "Was haben Sie denn noch? Wir haben nur noch Nusskuchen",
     "groupCode": 1
   },
@@ -5100,6 +5105,7 @@
     "id": 10843,
     "en": "My clothes are too warm for Tehran",
     "de": "Meine Kleidung ist zu warm für Tehran",
+    "desc": "\nIn German, Kleidung is singular \"clothes\" is plural, hence \"are\" is used.",
     "groupCode": 1
   },
   {
@@ -5110,7 +5116,7 @@
   },
   {
     "id": 10845,
-    "en": "Our nut cake is particularly good. But I don't like nut cake. Oh right!",
+    "en": "Our nut cake is particularly good. But I don't like a nut cake. Oh right!",
     "de": "Unser Nusskuchen ist besonders gut. Ich mag aber keinen Nusskuchen. Ach so!",
     "groupCode": 1
   },
@@ -5188,7 +5194,7 @@
   },
   {
     "id": 10858,
-    "en": "We need flowers, go to the flower shop",
+    "en": "We need flowers, go inside the flower shop",
     "de": "Wir brauchen Blumen, geh in den Blumenladen",
     "groupCode": 1
   },
@@ -5202,6 +5208,13 @@
     "id": 10860,
     "en": "I get up every day at 7 o'clock",
     "de": "Ich stehe jeden Tag um 7 Uhr auf",
+    "groupCode": 1
+  },
+  {
+    "id": 10861,
+    "en": "How many books?",
+    "de": "Wie viele Bücher?",
+    "desc": "Wie viel: For uncountable nouns. (Wie viel Geld?)\nWie viele: For countable nouns. (Wie viele Bücher?)",
     "groupCode": 1
   }
 ]

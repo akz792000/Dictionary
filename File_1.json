@@ -4099,7 +4099,7 @@
   },
   {
     "id": 3672,
-    "fa": "مطمئنا, داشتن یک دم است یکی از بزرگترین نعمت هایی که خداوند به حیوانات داده است. تصور کن یک T-Rex با عظمت بدون دم!",
+    "fa": "مطمئنا, داشتن یک دم است یکی از بزرگترین نعمت هایی که خداوند به حیوانات داده است. تصور کن یک T-Rex با عظمت بدون یک دم!",
     "en": "Surely, having a tail is one of the greatest blessings that God has given to animals. Imagine a giant T-Rex without a tail!",
     "groupCode": 0
   },
@@ -4733,7 +4733,7 @@
   },
   {
     "id": 3777,
-    "fa": "کدام مشاغل IT همچنان مورد تقاضا خواهند بود در سال 2035؟",
+    "fa": "کدام مشاغل IT همچنان مورد تقاضا خواهند بود در (سال) 2035؟",
     "en": "Which IT jobs will still be in demand in 2035?",
     "groupCode": 0
   },
@@ -4892,7 +4892,7 @@
   },
   {
     "id": 3803,
-    "fa": "من عذرخواهی می کنم که برای اشاره نکردم زودتر که درس آزمایشی برای پسرم است",
+    "fa": "من عذرخواهی می کنم برای زودتر ذکر نکردن که درس آزمایشی برای پسرم است",
     "en": "I apologize for not mentioning earlier that the trial lesson is for my son",
     "groupCode": 0
   },
@@ -4940,13 +4940,13 @@
   },
   {
     "id": 3811,
-    "fa": "من در سال 2001 از دانشگاه فارغ التحصیل شدم",
+    "fa": "من در (سال) 2001 از دانشگاه فارغ التحصیل شدم",
     "en": "I graduated from university in 2001",
     "groupCode": 0
   },
   {
     "id": 3812,
-    "fa": "خانواده من پنجشنبه خواهند آمد",
+    "fa": "خانواده من پنجشنبه خواهند رسید",
     "en": "My family will arrive on Thursday",
     "groupCode": 0
   },
@@ -4966,6 +4966,18 @@
     "id": 3815,
     "fa": "آیا او (مرد) مایل است مسلمان شود؟",
     "en": "Is he willing to become Muslim?",
+    "groupCode": 0
+  },
+  {
+    "id": 3816,
+    "fa": "داده ها در این گزارش به نظر رسید تحریف شده (نامتوازن)",
+    "en": "The data in the report seemed skewed",
+    "groupCode": 0
+  },
+  {
+    "id": 3817,
+    "fa": "من قهرمان بلامنازع تورنومنت هستم",
+    "en": "I am the undisputed champion of the tournament",
     "groupCode": 0
   }
 ]
