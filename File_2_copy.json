@@ -413,12 +413,6 @@
     "groupCode": 1
   },
   {
-    "id": 10211,
-    "en": "The man is very sick",
-    "de": "Der Mann ist sehr krank",
-    "groupCode": 1
-  },
-  {
     "id": 10212,
     "en": "Ali sees a woman. He runs to her",
     "de": "Ali sieht eine Frau. Er läuft zu ihr",
@@ -455,21 +449,9 @@
     "groupCode": 1
   },
   {
-    "id": 10223,
-    "en": "Is your girlfriend an actress?",
-    "de": "Ist deine Freundin Schauspielerin?",
-    "groupCode": 1
-  },
-  {
     "id": 10224,
     "en": "Is the doctor your brother? No, he's my husband",
     "de": "Ist der Arzt dein Bruder? Nein, er ist mein Mann",
-    "groupCode": 1
-  },
-  {
-    "id": 10225,
-    "en": "What is your profession?",
-    "de": "\n 1.Was ist dein Beruf? \n 2.Was ist Ihr Beruf?",
     "groupCode": 1
   },
   {
@@ -479,21 +461,9 @@
     "groupCode": 1
   },
   {
-    "id": 10227,
-    "en": "Is your wife a lawyer or a professor?",
-    "de": "Ist deine Frau Anwältin oder Professorin?",
-    "groupCode": 1
-  },
-  {
     "id": 10228,
     "en": "Is your husband a lawyer or a professor?",
     "de": "Ist dein Mann Anwalt oder Professor?",
-    "groupCode": 1
-  },
-  {
-    "id": 10229,
-    "en": "The man is an actor",
-    "de": "Der Mann ist Schauspieler",
     "groupCode": 1
   },
   {

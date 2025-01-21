@@ -81,12 +81,6 @@
   },
   {
     "id":,
-    "en": "You show him the table",
-    "de": "Du zeigst ihm den Tisch (دو زاگست ایم دن تیش)",
-    "desc": "Subject + Verb + DAT + AKK"
-  },
-  {
-    "id":,
     "en": "I write a letter to you (Emphasis)",
     "de": "Einen Brief schreibe ich dir (آینن بریف شرایب ایچ دیِ)"
   },
@@ -99,11 +93,6 @@
     "id":,
     "en": "You say the boss the information (formal)",
     "de": "Dem Chef sagt ihr den Bescheid (دم شف زاگت ایِ دن بشاید)"
-  },
-  {
-    "id":,
-    "en": "You show him the table (Emphasis)",
-    "de": "Den Tisch zeigst du ihm (دن تیش زاگست دو ایم)"
   },
   {
     "id":,
@@ -684,14 +673,7 @@
   },
   {
     "id": 10019,
-    "en": "I have tomatoes and salad on the table",
-    "de": "Ich habe Tomaten und Salat auf dem Tisch",
-    "groupCode": 1
-  },
-  {
-    "id": 10020,
-    "en": "For breakfast I drink juice or tea",
-    "de": "Zum Frühstück trinke ich Saft oder Tee",
+
     "groupCode": 1
   },
   {
@@ -789,8 +771,7 @@
   },
   {
     "id": 10061,
-    "en": "There are many things in the room. A sofa, a table, a picture, a bottle, a pencil, a book, a key, a bag and so on",
-    "de": "Im Zimmer sind viele Dinge. Ein Sofa, ein Tisch, ein Bild, eine Flasche, ein Bleistift, ein Buch, ein Schlüssel, eine Tasche und so weiter",
+
     "groupCode": 1
   },
   {
@@ -848,12 +829,6 @@
     "groupCode": 1
   },
   {
-    "id": 10072,
-    "en": "Who likes the table?",
-    "de": "Wer mag den Tisch?",
-    "groupCode": 1
-  },
-  {
     "id": 10073,
     "en": "I don't like the apartment",
     "de": "Ich mag die Wohnung nicht",
@@ -875,12 +850,6 @@
     "id": 10076,
     "en": "Is that a clock? Yes, that is a clock",
     "de": "Ist das eine Uhr? Ja, das ist eine Uhr",
-    "groupCode": 1
-  },
-  {
-    "id": 10077,
-    "en": "Is this a ballpoint pen or a pen or ein pencil??",
-    "de": "Ist das ein Kugelschreiber oder ein Stift oder ein Bleistift?",
     "groupCode": 1
   },
   {
@@ -971,12 +940,6 @@
     "id": 10092,
     "en": "The country is France",
     "de": "Das Land ist Frankreich",
-    "groupCode": 1
-  },
-  {
-    "id": 10094,
-    "en": "The closet is not practical. It is too small",
-    "de": "Der Schrank ist nicht praktisch. Er ist zu klein",
     "groupCode": 1
   },
   {

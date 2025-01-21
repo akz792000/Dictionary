@@ -598,5 +598,17 @@
     "en": "Get up",
     "de": "\n stehe auf \n stehst auf \n steht auf \n stehen auf \n steht auf \n stehen auf",
     "groupCode": 1
+  },
+  {
+    "id": 20101,
+    "en": "Place",
+    "de": "\n stelle \n stellst \n stellt \n stellen \n stellt \n stellen",
+    "groupCode": 1
+  },
+  {
+    "id": 20102,
+    "en": "Require",
+    "de": "\n erfordere \n erforderst \n erfordert \n erfordern \n erfordert \n erfordern",
+    "groupCode": 1
   }
 ]

@@ -5216,5 +5216,180 @@
     "de": "Wie viele Bücher?",
     "desc": "Wie viel: For uncountable nouns. (Wie viel Geld?)\nWie viele: For countable nouns. (Wie viele Bücher?)",
     "groupCode": 1
+  },
+  {
+    "id": 10862,
+    "en": "The girl lives in Munich",
+    "de": "Das Mädchen wohnt in München",
+    "groupCode": 1
+  },
+  {
+    "id": 10863,
+    "en": "I buy the orange juice in the supermarket",
+    "de": "Ich kaufe den Orangensaft im Supermarkt",
+    "groupCode": 1
+  },
+  {
+    "id": 10864,
+    "en": "Is this a ballpoint pen or a pen or ein pencil?",
+    "de": "Ist das ein Kugelschreiber oder ein Stift oder ein Bleistift?",
+    "groupCode": 1
+  },
+  {
+    "id": 10865,
+    "en": "I have a pen in my bag",
+    "de": "Ich habe einen Stift in meiner Tasche",
+    "groupCode": 1
+  },
+  {
+    "id": 10866,
+    "en": "The reporter places (asks) many questions",
+    "de": "Der Reporter (Die Reporterin) stellt viele Fragen",
+    "groupCode": 1
+  },
+  {
+    "id": 10867,
+    "en": "What is your profession?",
+    "de": "\n 1.Was ist dein Beruf? \n 2.Was ist Ihr Beruf?",
+    "groupCode": 1
+  },
+  {
+    "id": 10868,
+    "en": "Is your wife a lawyer or a professor?",
+    "de": "Ist deine Frau Anwältin oder Professorin?",
+    "groupCode": 1
+  },
+  {
+    "id": 10869,
+    "en": "The coat keeps me warm in winter",
+    "de": "Der Mantel hält mich im Winter warm",
+    "groupCode": 1
+  },
+  {
+    "id": 10870,
+    "en": "The coats hang on the coat rack",
+    "de": "Die Mäntel hängen an der Garderobe",
+    "groupCode": 1
+  },
+  {
+    "id": 10871,
+    "en": "You show him the table",
+    "de": "Du zeigst ihm den Tisch (دو زاگست ایم دن تیش)",
+    "desc": "Subject + Verb + DAT + AKK",
+    "groupCode": 1
+  },
+  {
+    "id": 10872,
+    "en": "I have tomatoes and salad on the table",
+    "de": "Ich habe Tomaten und Salat auf dem Tisch",
+    "groupCode": 1
+  },
+  {
+    "id": 10873,
+    "en": "In the room are many things. A sofa, a table, a picture, a bottle, a pencil, a book, a key, a bag and so on",
+    "de": "Im Zimmer sind viele Dinge. Ein Sofa, ein Tisch, ein Bild, eine Flasche, ein Bleistift, ein Buch, ein Schlüssel, eine Tasche und so weiter",
+    "groupCode": 1
+  },
+  {
+    "id": 10874,
+    "en": "The closet is not practical. It is too small",
+    "de": "Der Schrank ist nicht praktisch. Er ist zu klein",
+    "groupCode": 1
+  },
+  {
+    "id": 10875,
+    "en": "The tables in the classroom are clean",
+    "de": "Die Tische im Klassenzimmer sind sauber",
+    "groupCode": 1
+  },
+  {
+    "id": 10876,
+    "en": "For breakfast I drink juice or tea",
+    "de": "Zum Frühstück trinke ich Saft oder Tee",
+    "groupCode": 1
+  },
+  {
+    "id": 10877,
+    "en": "The juice is fresh",
+    "de": "Der Saft ist frisch",
+    "groupCode": 1
+  },
+  {
+    "id": 10878,
+    "en": "I like apple juice and other juices",
+    "de": "Ich mag Apfelsaft und andere Säfte",
+    "groupCode": 1
+  },
+  {
+    "id": 10879,
+    "en": "The child is playing in the garden",
+    "de": "Das Kind spielt im Garten",
+    "groupCode": 1
+  },
+  {
+    "id": 10880,
+    "en": "Is your girlfriend an actress?",
+    "de": "Ist deine Freundin Schauspielerin?",
+    "groupCode": 1
+  },
+  {
+    "id": 10881,
+    "en": "The men are working hard",
+    "de": "Die Männer arbeiten hart",
+    "groupCode": 1
+  },
+  {
+    "id": 10882,
+    "en": "In this city there are many cinemas",
+    "de": "In dieser Stadt gibt es viele Kinos",
+    "groupCode": 1
+  },
+  {
+    "id": 10883,
+    "en": "Would you like to drink a specific beer?",
+    "de": "Möchtest du ein bestimmtes Bier trinken?",
+    "groupCode": 1
+  },
+  {
+    "id": 10884,
+    "en": "The exercise is easy",
+    "de": "Die Übung ist einfach",
+    "groupCode": 1
+  },
+  {
+    "id": 10885,
+    "en": "I do exercises every day",
+    "de": "Ich mache jeden Tag Übungen",
+    "groupCode": 1
+  },
+  {
+    "id": 10886,
+    "en": "The tree is very tall",
+    "de": "Der Baum ist sehr hoch",
+    "groupCode": 1
+  },
+  {
+    "id": 10887,
+    "en": "The trees in the park are green",
+    "de": "Die Bäume im Park sind grün",
+    "groupCode": 1
+  },
+  {
+    "id": 10888,
+    "en": "Many professions require special skills",
+    "de": "Viele Berufe erfordern spezielle Fähigkeiten",
+    "groupCode": 1
+  },
+  {
+    "id": 10889,
+    "en": "Chair, Bag, Folder, Pen, Cup, Flower",
+    "de": "der Stuhl/Stühle, die Tasche/Taschen, die Mappe/Mappen, der Stift/Stifte, die Tasse/Tassen, die Blume/Blumen",
+    "groupCode": 1
+  },
+  {
+    "id": 10890,
+    "en": "Computer, Jacket, Apel, Door, German Book, Shoe",
+    "de": "der Computer/Computer, die Jacke/Jacken, der Apfel/Äpfel, die Tür/Türen, das Deutschbuch/Deutschbücher, der Schuh/Schuhe",
+    "groupCode": 1
   }
 ]
