@@ -1387,7 +1387,7 @@
   },
   {
     "id": 10229,
-    "en": "Today is a holiday (celebration day). I am not going to the office. My family and I want to grill",
+    "en": "Today is a holiday (celebration day). I am not going into the office. My family and I want to grill",
     "de": "Heute ist ein feiertag. Ich gehe nicht ins Büro. Meine Familie und ich wollen grillen",
     "groupCode": 1
   },
@@ -1696,7 +1696,7 @@
   },
   {
     "id": 10280,
-    "en": "My partner and I like going to the theater",
+    "en": "My partner and I like going into the theater",
     "de": "Meine Partnerin und ich gehen gern ins Theater",
     "groupCode": 1
   },
@@ -3203,8 +3203,8 @@
   },
   {
     "id": 10529,
-    "en": "Would you like to go to the swimming pool?",
-    "de": "Möchtest du ins Schwimmbad gehen?",
+    "en": "Would you like to go into the swimming pool on Sunday?",
+    "de": "Möchtest du am Sonntag ins Schwimmbad gehen?",
     "groupCode": 1
   },
   {
@@ -3233,19 +3233,19 @@
   },
   {
     "id": 10534,
-    "en": "My colleague wants to take a vacation",
+    "en": "My colleague (male) wants to take a vacation",
     "de": "Mein Kollege will Urlaub machen",
     "groupCode": 1
   },
   {
     "id": 10535,
-    "en": "My boss Ali, wants to have a party in the office",
+    "en": "My boss Ali, wants (makes) to have a party in the office",
     "de": "Mein Chef Ali, will eine Party im Büro machen",
     "groupCode": 1
   },
   {
     "id": 10536,
-    "en": "I'm going to the bar now bye",
+    "en": "I'm going into the bar now bye",
     "de": "Ich gehe jetzt in die Bar tschüss",
     "groupCode": 1
   },
@@ -4404,7 +4404,7 @@
   },
   {
     "id": 10728,
-    "en": "My girlfriend has birthday on the second of April",
+    "en": "On the second of April my girlfriend has birthday",
     "de": "Am zweiten April hat meine Freundin Geburtstag",
     "groupCode": 1
   },
@@ -5390,6 +5390,24 @@
     "id": 10890,
     "en": "Computer, Jacket, Apel, Door, German Book, Shoe",
     "de": "der Computer/Computer, die Jacke/Jacken, der Apfel/Äpfel, die Tür/Türen, das Deutschbuch/Deutschbücher, der Schuh/Schuhe",
+    "groupCode": 1
+  },
+  {
+    "id": 10891,
+    "en": "I come too late. The party starts at 3 pm",
+    "de": "Ich komme zu spät. Die Party fängt um 15 Uhr an",
+    "groupCode": 1
+  },
+  {
+    "id": 10892,
+    "en": "When does the concert start and end?",
+    "de": "Wann fängt das Konzert an und hört es auf?",
+    "groupCode": 1
+  },
+  {
+    "id": 10893,
+    "en": "Our anniversary is on May 1st",
+    "de": "Unser Jahrestag ist am ersten Mai",
     "groupCode": 1
   }
 ]

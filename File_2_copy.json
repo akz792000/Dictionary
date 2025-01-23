@@ -1464,7 +1464,7 @@
   },
   {
     "id": 10441,
-    "en": "What are you doing this morning from seven to nine? I would like to go to the swimming pool, but it rains",
+    "en": "What are you doing this morning from seven to nine? I would like to go into the swimming pool, but it rains",
     "de": "Was machst du heute Morgen von sieben bis neun? Ich möchte ins Schwimmbad gehen, aber es regnet",
     "groupCode": 1
   },
@@ -1602,7 +1602,7 @@
   },
   {
     "id": 10464,
-    "en": "I want to go to the swimming pool today, but it's cold and cloudy",
+    "en": "I want to go into the swimming pool today, but it's cold and cloudy",
     "de": "Ich möchte heute ins Schwimmbad gehen, aber es ist kalt und bewölkt",
     "groupCode": 1
   },
@@ -1782,12 +1782,6 @@
     "groupCode": 1
   },
   {
-    "id": 10495,
-    "en": "Would you like to go to the swimming pool on Sunday?",
-    "de": "Möchtest du am Sonntag ins Schwimmbad gehen?",
-    "groupCode": 1
-  },
-  {
     "id": 10496,
     "en": "Is the game on Saturday or on Sunday?",
     "de": "Ist das Spiel am samstag oder am Sonntag?",
@@ -1873,7 +1867,7 @@
   },
   {
     "id": 10513,
-    "en": "When are we going to the department store?",
+    "en": "When are we going into the department store?",
     "de": "Wann gehen wir ins Kaufhaus?",
     "groupCode": 1
   },

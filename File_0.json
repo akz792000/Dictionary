@@ -11885,6 +11885,7 @@
     "id": 1958,
     "fa": "بسیاری از فنجان ها و بشقاب ها و همچنین کارد و چنگال روی میزها باقی مانده است",
     "en": "Many cups and plates as well as cutlery are left on the desks",
+    "desc": "Cutlery is an uncountable noun, so it doesn't take a plural form like \"cutleries.\" It refers to utensils (forks, knives, spoons) collectively, so it remains singular",
     "groupCode": 0
   },
   {
@@ -16144,7 +16145,7 @@
   },
   {
     "id": 2660,
-    "fa": "خوب است که مرطوب بمانید (آب بیشتری بنوشید)",
+    "fa": "خوب است که مرطوب بمانید (هیدراته)",
     "en": "It's good to stay hydrated",
     "groupCode": 0
   },
