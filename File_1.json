@@ -2140,7 +2140,7 @@
   },
   {
     "id": 3351,
-    "fa": "شروع یک کار جدید در یک کشور خارجی احساس دلهره آور بود، اما من مصمم به موفقیت بودم",
+    "fa": "شروع یک شغل جدید در یک کشور خارجی احساس دلهره آور بود، اما من مصمم به موفقیت بودم",
     "en": "Starting a new job in a foreign country felt daunting, but I was determined to succeed",
     "groupCode": 0
   },
@@ -5006,13 +5006,13 @@
   },
   {
     "id": 3822,
-    "fa": "من کار را رد کردم زیرا حقوق کافی نبود",
+    "fa": "من شغل را رد کردم زیرا حقوق کافی نبود",
     "en": "I turned down the job because the salary wasn't enough",
     "groupCode": 0
   },
   {
     "id": 3823,
-    "fa": "ما بعد از آن سوءتفاهم دیگر با هم صحبت نمی کنیم",
+    "fa": "ما دیگر در شرایط صحبت با هم نبودبم بعد از آن سوءتفاهم",
     "en": "We're not on speaking terms anymore after that misunderstanding",
     "groupCode": 0
   },
@@ -5024,7 +5024,7 @@
   },
   {
     "id": 3825,
-    "fa": "نوشیدن آب نگه می دارد مرا در طول روز هیدراته",
+    "fa": "نوشیدن آب نگه می دارد مرا در سراسر روز هیدراته",
     "en": "Drinking water keeps me hydrated throughout the day",
     "groupCode": 0
   },
@@ -5038,6 +5038,49 @@
     "id": 3827,
     "fa": "او (مرد) کمک کرد به من از صمیم قلب",
     "en": "He helped me out of his heart",
+    "groupCode": 0
+  },
+  {
+    "id": 3828,
+    "fa": "من شرط می بندم تو آرزو می کردی همین الان از پله ها بالا رفته بودی",
+    "en": "I bet you wish you'd taken the stairs right about now",
+    "desc": "The phrase \"right about now\" is a common expression in English, meaning \"at this very moment\" or \"around this time,\" and is the correct idiomatic usage. \n\n\n Use \"right about now\" for a casual, conversational tone.\nUse \"right now\" for a straightforward or serious tone, but it’s less common in this context.",
+    "groupCode": 0
+  },
+  {
+    "id": 3829,
+    "fa": "به نظر می رسد وجود دارد برخی روند شایعات درباره ازدواج آنها در حال شکل گیری است",
+    "en": "There seems to be some momentum picking up in the rumor mill about their marriage",
+    "groupCode": 0
+  },
+  {
+    "id": 3830,
+    "fa": "من من نمی دانم آیا این اصلا درست است، اما اگر اینطور باشد، (فرضی) واقعاً یک زلزله سیاسی است",
+    "en": "I don’t know if this is true at all, but if it is, it would truly be a political earthquake",
+    "groupCode": 0
+  },
+  {
+    "id": 3831,
+    "fa": "اگر حدس داشته باشم، من (فرضی) می گفتم که او داره (مرد) دیرش می شه",
+    "en": "If I had a guess, I'd say he's running late",
+    "groupCode": 0
+  },
+  {
+    "id": 3832,
+    "fa": "اگر من جای شما بودم, من به آن مهمانی نمی رفتم",
+    "en": "If I were you, I would not go to that party",
+    "groupCode": 0
+  },
+  {
+    "id": 3833,
+    "fa": "آیا شما حتی می توانید خود را یک والد بنامید اگر شما این را پشت سر نگذاشته اید؟",
+    "en": "Can you even call yourself a parent if you haven't pulled this off?",
+    "groupCode": 0
+  },
+  {
+    "id": 3834,
+    "fa": "من دوباره تنهای تنهام",
+    "en": "I am all alone again",
     "groupCode": 0
   }
 ]

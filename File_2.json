@@ -1222,8 +1222,9 @@
   },
   {
     "id": 10202,
-    "en": "Welcome! I am very pleased too (very Nice to meet you)",
+    "en": "Welcome! I'm very pleased too",
     "de": "Willkommen! Freut mich sehr auch",
+    "desc": "It’s a polite and warm response, often used to express mutual pleasure in meeting someone or agreeing with them.",
     "groupCode": 1
   },
   {
@@ -1322,7 +1323,7 @@
     "id": 10218,
     "en": "There are many bars in Berlin but there are few discos in Augsburg",
     "de": "Es gibt viele Bars in Berlin aber es gibt wenige Discos in Augsburg",
-    "desc": "\nChatGPT said:\nChatGPT\nWenig: Small amount (uncountable).\nIch habe wenig Geld. (I have little money.)\n\nWenige: Few (countable, plural).\nWenige Leute sind hier. (Few people are here.)\n\nWeniger: Less (uncountable) or fewer (countable).\nIch trinke weniger Wasser. (I drink less water.)\nEs gibt weniger Bücher. (There are fewer books.)",
+    "desc": "Wenig: Small amount (uncountable).\nIch habe wenig Geld. (I have little money.)\n\nWenige: Few (countable, plural).\nWenige Leute sind hier. (Few people are here.)\n\nWeniger: Less (uncountable) or fewer (countable).\nIch trinke weniger Wasser. (I drink less water.)\nEs gibt weniger Bücher. (There are fewer books.)",
     "groupCode": 1
   },
   {
@@ -3024,7 +3025,7 @@
   {
     "id": 10499,
     "en": "You pick up fifteen pizzas and I pick up the cake. Is that enough food for the party?",
-    "de": "Du holst fünfzehn Pizzas aub und ich hole den Kuchen ab. Ist das genung Essen fur die Party?",
+    "de": "Du holst fünfzehn Pizzas ab und ich hole den Kuchen ab. Ist das genung Essen fur die Party?",
     "groupCode": 1
   },
   {
@@ -3173,7 +3174,7 @@
   },
   {
     "id": 10524,
-    "en": "Let's go to the movies",
+    "en": "Let's go into the movies",
     "de": "Lass uns ins Kino gehen",
     "groupCode": 1
   },
@@ -5056,7 +5057,7 @@
     "id": 10835,
     "en": "What does it smell like? It smells like flowers",
     "de": "Wonach riecht es? Es riecht nach Blumen",
-    "desc": "wonach: there is no universal answer or translation. \"wonach\" can be used to ask about anything that requires \"nach\"",
+    "desc": "We don't use \"was\" in \"Wonach riecht es?\" because the preposition \"nach\" requires a relative form. In German, \"wo-\" is combined with prepositions (like nach, mit, auf) to form question words for asking about things.\n\nExplanation:\n\"Was riecht es?\" would translate to \"What smells?\" which is asking about the subject (the thing emitting the smell).\n\"Wonach riecht es?\" asks about the object of the smell (what the smell is like or of).\nIn German, using \"wo-\" + preposition (e.g., wonach, womit, wovon) is standard for forming such questions.",
     "groupCode": 1
   },
   {
@@ -5382,14 +5383,14 @@
   },
   {
     "id": 10889,
-    "en": "Chair, Bag, Folder, Pen, Cup, Flower",
-    "de": "der Stuhl/Stühle, die Tasche/Taschen, die Mappe/Mappen, der Stift/Stifte, die Tasse/Tassen, die Blume/Blumen",
+    "en": "\n Chair \n Bag \n Folder \n Pen \n Cup \n Flower",
+    "de": "\n der Stuhl/Stühle \n die Tasche/Taschen \n die Mappe/Mappen \n der Stift/Stifte \n die Tasse/Tassen \n die Blume/Blumen",
     "groupCode": 1
   },
   {
     "id": 10890,
-    "en": "Computer, Jacket, Apel, Door, German Book, Shoe",
-    "de": "der Computer/Computer, die Jacke/Jacken, der Apfel/Äpfel, die Tür/Türen, das Deutschbuch/Deutschbücher, der Schuh/Schuhe",
+    "en": "\n Computer \n Jacket \n Apel \n Door \n German Book \n Shoe",
+    "de": "\n der Computer/Computer \n die Jacke/Jacken \n der Apfel/Äpfel \n die Tür/Türen \n das Deutschbuch/Deutschbücher \n der Schuh/Schuhe",
     "groupCode": 1
   },
   {
@@ -5408,6 +5409,110 @@
     "id": 10893,
     "en": "Our anniversary is on May 1st",
     "de": "Unser Jahrestag ist am ersten Mai",
+    "groupCode": 1
+  },
+  {
+    "id": 10894,
+    "en": "We need less than ten bottles of white wine",
+    "de": "Wir brauchen weniger als zehn Flaschen Weißwein",
+    "groupCode": 1
+  },
+  {
+    "id": 10895,
+    "en": "My family eats a lot of meat. I always have to go into the butcher",
+    "de": "Meine Familie isst viel Fleisch. Ich muss immer in die Metzgerei gehen",
+    "groupCode": 1
+  },
+  {
+    "id": 10896,
+    "en": "Please, buy a pack of cookies",
+    "de": "Bitte, kauf eine Packung kekse",
+    "groupCode": 1
+  },
+  {
+    "id": 10897,
+    "en": "Thirty-five packs are too many",
+    "de": "Fünfunddreißig Packungen sind zu viel",
+    "groupCode": 1
+  },
+  {
+    "id": 10898,
+    "en": "I need two packs of eggs. I want to bake a cake",
+    "de": "Ich brauche zwei Packungen Eier. Ich will einen Kuchen backen",
+    "groupCode": 1
+  },
+  {
+    "id": 10899,
+    "en": "He meets us at quarter past six",
+    "de": "Er trifft uns um Viertel nach sechs",
+    "groupCode": 1
+  },
+  {
+    "id": 10900,
+    "en": "Have a nice day",
+    "de": "Einen schönen Tag noch",
+    "desc": "\"Einen schönen Tag noch\" translates to \"Have a nice day (still)\" or \"Have a nice rest of your day.\"\n\nHere, \"noch\" adds the sense of \"still\" or \"what remains of the day.\" It's often used to politely wish someone well as they're leaving or concluding an interaction",
+    "groupCode": 1
+  },
+  {
+    "id": 10901,
+    "en": "I would like to pay now, where is the cash desk?",
+    "de": "Ich möchte jetzt zahlen, wo ist die Kasse?",
+    "groupCode": 1
+  },
+  {
+    "id": 10902,
+    "en": "How many liters of water does the elephant drink?",
+    "de": "Wie viele liter Wasser trinkt der Elefant?",
+    "desc": "Wie viel: For uncountable nouns. (Wie viel Geld?)\nWie viele: For countable nouns. (Wie viele Bücher?)",
+    "groupCode": 1
+  },
+  {
+    "id": 10903,
+    "en": "Your father will come home soon. I have to clean the apartment now",
+    "de": "Dein Vater kommt bald nach Hause. Ich muss jetzt die Wohnung putzen",
+    "groupCode": 1
+  },
+  {
+    "id": 10904,
+    "en": "I can do the dishes",
+    "de": "Ich kann abwaschen",
+    "groupCode": 1
+  },
+  {
+    "id": 10905,
+    "en": "Ali goes into the kitchen and washes off (does the dishes)",
+    "de": "Ali geht in die Küche und wäscht ab",
+    "groupCode": 1
+  },
+  {
+    "id": 10906,
+    "en": "I think you are really an adult (male)",
+    "de": "Ich glaube, du bist wirklich ein Erwachsener",
+    "groupCode": 1
+  },
+  {
+    "id": 10907,
+    "en": "The flower shop is closed. We still need flowers for your mother. Are there flowers in the garden",
+    "de": "Der Blumenladen ist geschlossen. Wir brauchen noch Blumen für deine Mutter. Gibt es Blumen im Garten",
+    "groupCode": 1
+  },
+  {
+    "id": 10908,
+    "en": "I want flowers, I have to go to the flower shop",
+    "de": "Ich will Blumen, ich muss in den Blumenladen gehen",
+    "groupCode": 1
+  },
+  {
+    "id": 10909,
+    "en": "I often play piano and I often play with my cat",
+    "de": "Ich spiele oft Klavier und Ich spiele oft mit meine Katze",
+    "groupCode": 1
+  },
+  {
+    "id": 10910,
+    "en": "Ali is definitely coming. Ali takes a taxi",
+    "de": "Ali kommst auf jeden Fall. Ali nimmt ein Taxi",
     "groupCode": 1
   }
 ]

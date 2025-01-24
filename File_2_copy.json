@@ -618,39 +618,9 @@
     "groupCode": 1
   },
   {
-    "id": 10274,
-    "en": "What would you (formal) like to eat?",
-    "de": "Was möchten Sie essen?",
-    "groupCode": 1
-  },
-  {
-    "id": 10275,
-    "en": "Here is an egg",
-    "de": "Hier ist ein Ei",
-    "groupCode": 1
-  },
-  {
-    "id": 10276,
-    "en": "I often play piano and I often play with my cat",
-    "de": "Ich spiele oft Klavier und Ich spiele oft mit meine Katze",
-    "groupCode": 1
-  },
-  {
     "id": 10277,
     "en": "Is he sick or healthy? He is healthy",
     "de": "Ist er krank oder gesund? Er ist gesund",
-    "groupCode": 1
-  },
-  {
-    "id": 10278,
-    "en": "You never play chess",
-    "de": "Du spielst nie Schach",
-    "groupCode": 1
-  },
-  {
-    "id": 10279,
-    "en": "Does your father always cook?",
-    "de": "Kocht dein Vater immer?",
     "groupCode": 1
   },
   {
@@ -678,21 +648,9 @@
     "groupCode": 1
   },
   {
-    "id": 10288,
-    "en": "I am definitely coming",
-    "de": "Ich komme auf jeden Fall",
-    "groupCode": 1
-  },
-  {
     "id": 10289,
     "en": "Would you (plural) like to come?",
     "de": "Möchtet ihr kommen?",
-    "groupCode": 1
-  },
-  {
-    "id": 10290,
-    "en": "Ali takes a taxi",
-    "de": "Ali nimmt ein Taxi",
     "groupCode": 1
   },
   {
