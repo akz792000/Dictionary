@@ -1994,8 +1994,8 @@
   },
   {
     "id": 3327,
-    "fa": "در حال حاضر، او (مرد) هیچ ایده ای ندارد شما کجا هستید. اگر او (مرد) می دانست تو کجا بودی، سوراخی در کیهان پاره می کرد (پاره کرده بود) تا تو را به خانه بیاورد",
-    "en": "Right now, he has no idea where you are. If he knew where you were, he would have torn a hole in the universe to bring you home",
+    "fa": "دشوار است ارزیابی اثرات این تغییرات",
+    "en": "It's difficult to assess the effects of these changes",
     "groupCode": 0
   },
   {
@@ -5012,7 +5012,7 @@
   },
   {
     "id": 3823,
-    "fa": "ما دیگر در شرایط صحبت با هم نبودبم بعد از آن سوءتفاهم",
+    "fa": "ما دیگر در شرایط صحبت با هم نیستیم بعد از آن سوءتفاهم",
     "en": "We're not on speaking terms anymore after that misunderstanding",
     "groupCode": 0
   },
@@ -5042,7 +5042,7 @@
   },
   {
     "id": 3828,
-    "fa": "من شرط می بندم تو آرزو می کردی همین الان از پله ها بالا رفته بودی",
+    "fa": "من شرط می بندم تو آرزو می کردی همین الان از پله ها رفته بودی",
     "en": "I bet you wish you'd taken the stairs right about now",
     "desc": "The phrase \"right about now\" is a common expression in English, meaning \"at this very moment\" or \"around this time,\" and is the correct idiomatic usage. \n\n\n Use \"right about now\" for a casual, conversational tone.\nUse \"right now\" for a straightforward or serious tone, but it’s less common in this context.",
     "groupCode": 0
@@ -5081,6 +5081,72 @@
     "id": 3834,
     "fa": "من دوباره تنهای تنهام",
     "en": "I am all alone again",
+    "groupCode": 0
+  },
+  {
+    "id": 3835,
+    "fa": "سهولت (کم کردن) مصرف",
+    "en": "Ease up on intake",
+    "groupCode": 0
+  },
+  {
+    "id": 3836,
+    "fa": "ما یک ربات گیر کرده پایین اینجا داریم",
+    "en": "We have got a bot stuck down here",
+    "groupCode": 0
+  },
+  {
+    "id": 3837,
+    "fa": "ما در حال حاضر از برنامه عقب هستیم",
+    "en": "We're already behind schedule",
+    "groupCode": 0
+  },
+  {
+    "id": 3838,
+    "fa": "ما نمی توانیم درک کنیم چه چیزی تبدیل کرد آنها را از ابزارهای مفید به قاتلان بی رحم",
+    "en": "We cannot fathom what turned them from useful tools into merciless killers",
+    "groupCode": 0
+  },
+  {
+    "id": 3839,
+    "fa": "این یک تورنمنت خواهد بود برخلاف هر (تورنمنت) دیگر",
+    "en": "This will be a tournament unlike any other",
+    "groupCode": 0
+  },
+  {
+    "id": 3840,
+    "fa": "شما نمی توانید فقط بمانید در اتاق خود تمام آخر هفته را، زندگی کن (یک زندگی را به دست آور)",
+    "en": "You can't just stay in your room all weekend, get a life",
+    "groupCode": 0
+  },
+  {
+    "id": 3841,
+    "fa": "او (مرد) عمدا سعی کرد به من سکندری بزند",
+    "en": "He deliberately tried to trip me",
+    "groupCode": 0
+  },
+  {
+    "id": 3842,
+    "fa": "من به لبه جدول سکندری خوردم",
+    "en": "I tripped over the curb",
+    "groupCode": 0
+  },
+  {
+    "id": 3843,
+    "fa": "من خوشبختم که من دارم یک چنین همسر فهمیده ای",
+    "en": "I'm fortunate that I have such an understanding wife",
+    "groupCode": 0
+  },
+  {
+    "id": 3844,
+    "fa": "او (مرد) خوش شانس بود که آتش فقط بالای ملکش پخش نشد به خانه اش",
+    "en": "He was fortunate that the fire just above his property did not spread to his house",
+    "groupCode": 0
+  },
+  {
+    "id": 3845,
+    "fa": "مراقب باش روی میز را نخراشی",
+    "en": "Be careful not to scratch the table",
     "groupCode": 0
   }
 ]

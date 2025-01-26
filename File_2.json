@@ -1022,7 +1022,7 @@
   {
     "id": 10169,
     "en": "Where do you (plural) want to go hiking in the forest?",
-    "de": "Wo wollt Ihr im Wald wandern gehen?",
+    "de": "Wo wollt ihr im Wald wandern gehen?",
     "groupCode": 1
   },
   {
@@ -1843,7 +1843,7 @@
   },
   {
     "id": 10304,
-    "en": "How old are you? (plural) He is 28 years old and she is also 28",
+    "en": "How old are you (plural)? He is 28 years old and she is also 28",
     "de": "Wie alt seid ihr? Er ist 28 Jahre alt und Sie ist auch 28",
     "groupCode": 1
   },
@@ -2970,8 +2970,8 @@
   },
   {
     "id": 10490,
-    "en": "Are your (plural) colleagues also friendly, Ali and Ilia?",
-    "de": "Sind eure Kollegen auch freundlich, Ali und Ilia?",
+    "en": "Are your (plural) colleagues also friendly",
+    "de": "Sind eure Kollegen auch freundlich",
     "groupCode": 1
   },
   {
@@ -2982,7 +2982,7 @@
   },
   {
     "id": 10492,
-    "en": "I have to go to the doctor, I have a nut allergy",
+    "en": "I have to go to the doctor (male), I have a nut allergy",
     "de": "Ich muss zum Arzt gehen, ich habe eine Nussallergie",
     "groupCode": 1
   },
@@ -3349,13 +3349,13 @@
   },
   {
     "id": 10553,
-    "en": "Do you want the single room with breakfast?",
+    "en": "Do you (formal) want the single room with breakfast?",
     "de": "Wollen Sie das Einzelzimmer mit Frühstück?",
     "groupCode": 1
   },
   {
     "id": 10554,
-    "en": "There is an armchair in the room",
+    "en": "There is an armchair in room",
     "de": "Es gibt einen Sessel in Zimmer",
     "groupCode": 1
   },
@@ -3379,7 +3379,7 @@
   },
   {
     "id": 10558,
-    "en": "Drive straight for about 11 minutes",
+    "en": "Drive (formal) straight for about 11 minutes",
     "de": "Fahren Sie circa 11 Minuten geradeaus",
     "groupCode": 1
   },
@@ -3421,8 +3421,8 @@
   },
   {
     "id": 10565,
-    "en": "My roommates always go inside the club at night. They like to dance, but I prefer to sleep",
-    "de": "Meine Mitbewohner gehen nachts immer in den Club. sie tanzen gern, aber ich schlafe lieber",
+    "en": "My roommates always go inside the club at night. They like dancing, but I prefer to sleep",
+    "de": "Meine Mitbewohner gehen nachts immer in den Club. Sie tanzen gern, aber ich schlafe lieber",
     "groupCode": 1
   },
   {
@@ -3535,8 +3535,8 @@
   },
   {
     "id": 10584,
-    "en": "I want an apartment without a balcony",
-    "de": "Ich will eine Wohnung ohne einen Balkon",
+    "en": "Wonderful, I take the red jacket",
+    "de": "Wunderbar, ich nehme die rote Jacke",
     "groupCode": 1
   },
   {
@@ -4743,7 +4743,7 @@
   },
   {
     "id": 10784,
-    "en": "What clothes do you want to buy for Spain? The hat there is very chic and only costs ten euros",
+    "en": "Which clothes do you want to buy for Spain? The hat there is very chic and only costs ten euros",
     "de": "Welche Kleidung willst du für Spanien kaufen? Der hut dort ist sehr schick und kostet nur zehn Euro",
     "groupCode": 1
   },
@@ -4927,7 +4927,7 @@
   },
   {
     "id": 10814,
-    "en": "She always has pens of different colors in her bag. With the pens she write on the board",
+    "en": "She always has in her bag pens of different colors. With the pens she writes on the board",
     "de": "Sie hat in der Tasche immer Stifte in verschiedenen Farben. Mit den Stiften schreibt sie an die Tafel",
     "desc": "Stifte: General term for all writing tools (pens, pencils).\nKuli: Informal for \"ballpoint pen.\"\nKugelschreiber: Formal term for \"ballpoint pen.\"",
     "groupCode": 1
@@ -5154,7 +5154,7 @@
   {
     "id": 10851,
     "en": "My pets eat bananas every day! On Sundays I always have to buy twenty bananas",
-    "de": "Meine Haustiere essen jeden Tag Bananen! Sonntags muss ich immer zwanzig Bananen",
+    "de": "Meine Haustiere essen jeden Tag Bananen! Sonntags muss ich immer zwanzig Bananen kaufen",
     "groupCode": 1
   },
   {
@@ -5275,7 +5275,7 @@
   {
     "id": 10871,
     "en": "You show him the table",
-    "de": "Du zeigst ihm den Tisch (دو زاگست ایم دن تیش)",
+    "de": "Du zeigst ihm den Tisch",
     "desc": "Subject + Verb + DAT + AKK",
     "groupCode": 1
   },
@@ -5469,7 +5469,7 @@
   },
   {
     "id": 10903,
-    "en": "Your father will come home soon. I have to clean the apartment now",
+    "en": "Your father comes home soon. I have to clean the apartment now",
     "de": "Dein Vater kommt bald nach Hause. Ich muss jetzt die Wohnung putzen",
     "groupCode": 1
   },
@@ -5487,7 +5487,7 @@
   },
   {
     "id": 10906,
-    "en": "I think you are really an adult (male)",
+    "en": "I believe, you are really an adult (male)",
     "de": "Ich glaube, du bist wirklich ein Erwachsener",
     "groupCode": 1
   },
@@ -5499,7 +5499,7 @@
   },
   {
     "id": 10908,
-    "en": "I want flowers, I have to go to the flower shop",
+    "en": "I want flowers, I have to go into the flower shop",
     "de": "Ich will Blumen, ich muss in den Blumenladen gehen",
     "groupCode": 1
   },
