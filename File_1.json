@@ -3993,6 +3993,7 @@
     "id": 3654,
     "fa": "من کف می زنم فداکاری و کار سخت شما را در این پروژه",
     "en": "I applaud your dedication and hard work on this project",
+    "desc": "We typically use \"on\" when referring to work being done for a specific project. Use \"in\" when referring to being part of something or working within a larger context, such as a field, area, or organization.",
     "groupCode": 0
   },
   {
@@ -5055,7 +5056,7 @@
   },
   {
     "id": 3830,
-    "fa": "من من نمی دانم آیا این اصلا درست است، اما اگر اینطور باشد، (فرضی) واقعاً یک زلزله سیاسی است",
+    "fa": "من من نمی دانم آیا این اصلا درست است، اما اگر اینطور است، (فرضی) به درستی یک زلزله سیاسی است",
     "en": "I don’t know if this is true at all, but if it is, it would truly be a political earthquake",
     "groupCode": 0
   },
@@ -5145,8 +5146,32 @@
   },
   {
     "id": 3845,
-    "fa": "مراقب باش روی میز را نخراشی",
+    "fa": "مراقب باش میز را نخراشی",
     "en": "Be careful not to scratch the table",
+    "groupCode": 0
+  },
+  {
+    "id": 3846,
+    "fa": "پروازم ساعت 9:45 می رسد",
+    "en": "My flight gets in at 9:45",
+    "groupCode": 0
+  },
+  {
+    "id": 3847,
+    "fa": "آنها می بایستی از طریق پنجره دستشویی وارد شده اند",
+    "en": "They must have gotten in through the bathroom window",
+    "groupCode": 0
+  },
+  {
+    "id": 3848,
+    "fa": "تلاش نادرست شما (برای) تعمیر ماشین فقط مشکل را بدتر کرد",
+    "en": "Your misguided attempt to fix the car only made the problem worse",
+    "groupCode": 0
+  },
+  {
+    "id": 3849,
+    "fa": "آیا آن بیشتر شبیه چیزی است که شما برای (آن) هدف دارید؟",
+    "en": "Does that sound more like what you're aiming for?",
     "groupCode": 0
   }
 ]
