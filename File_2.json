@@ -3102,8 +3102,8 @@
   },
   {
     "id": 10512,
-    "en": "Good day. My name is Ali and come from Iran and live in Munich now",
-    "de": "Guten tag. Ich heiße Ali und komme aus dem Iran und wohne jetzt in München",
+    "en": "Good day. My name is Ali Karimizandi. I am 43 years old and I come from Iran. Now I live in Munich",
+    "de": "Guten tag. Ich heiße Ali Karimizandi. Ich bin 43 Jahre alt und komme aus dem Iran. Jetzt wohne ich in München",
     "groupCode": 1
   },
   {
@@ -5513,6 +5513,54 @@
     "id": 10910,
     "en": "Ali is definitely coming. Ali takes a taxi",
     "de": "Ali kommst auf jeden Fall. Ali nimmt ein Taxi",
+    "groupCode": 1
+  },
+  {
+    "id": 10911,
+    "en": "Please introduce yourself (formal)",
+    "de": "Bitte stellen Sie sich vor",
+    "groupCode": 1
+  },
+  {
+    "id": 10912,
+    "en": "Please spell kuchen",
+    "de": "Bitte buchstabieren Sie kuchen",
+    "groupCode": 1
+  },
+  {
+    "id": 10913,
+    "en": "We learn German, but German is a bit difficult",
+    "de": "Wir lernen Deutsch, aber Deutsch ist ein bisschen schwer",
+    "groupCode": 1
+  },
+  {
+    "id": 10914,
+    "en": "Why are you learning German? If I want to stay here, I have to learn German",
+    "de": "Warum lernen Sie Deutsch? Wenn ich hier bleiben will, muss ich Deutsch lernen",
+    "groupCode": 1
+  },
+  {
+    "id": 10915,
+    "en": "I speak three languages: My mother tongue is Persian. I speak English well and a little German. I am currently learning German",
+    "de": "Ich spreche drei Sprachen: Meine Muttersprache ist Persisch. Ich spreche gut Englisch und ein bisschen Deutsch. Zurzeit lerne ich Deutsch",
+    "groupCode": 1
+  },
+  {
+    "id": 10916,
+    "en": "I am a software engineer by profession. My hobbies are swimming and playing with my child",
+    "de": "Ich bin Software-Ingenieur von Beruf. Meine Hobbys sind Schwimmen und mit meinem Kind spielen",
+    "groupCode": 1
+  },
+  {
+    "id": 10917,
+    "en": "Please ask a question (formal)",
+    "de": "Bitte Stellen Sie eine Frage",
+    "groupCode": 1
+  },
+  {
+    "id": 10918,
+    "en": "What do you usually eat for breakfast?",
+    "de": "Was isst du meistens im frühstück?",
     "groupCode": 1
   }
 ]
