@@ -342,7 +342,7 @@
   },
   {
     "id": 3057,
-    "fa": "من (مودبانه) از شما می خواهم یک بار دیگر آن را چک کنید",
+    "fa": "من مایلم شما یک بار دیگر آن را چک کنید",
     "en": "I would like you to check it once again",
     "groupCode": 0
   },
@@ -4722,7 +4722,7 @@
   },
   {
     "id": 3775,
-    "fa": "ما همه می دانیم که ظرفیت انسان برای تحمیل رنج به دیگران محدودیتی ندارد",
+    "fa": "ما همه می دانیم که ظرفیت انسان برای تحمیل رنج به دیگران محدودیت هایی ندارد",
     "en": "We all know that the human capacity to inflict suffering on others has no limits",
     "groupCode": 0
   },
@@ -5045,7 +5045,7 @@
     "id": 3828,
     "fa": "من شرط می بندم تو آرزو می کردی همین الان از پله ها رفته بودی",
     "en": "I bet you wish you'd taken the stairs right about now",
-    "desc": "The phrase \"right about now\" is a common expression in English, meaning \"at this very moment\" or \"around this time,\" and is the correct idiomatic usage. \n\n\n Use \"right about now\" for a casual, conversational tone.\nUse \"right now\" for a straightforward or serious tone, but it’s less common in this context.",
+    "desc": "The phrase \"right about now\" is a common expression in English, meaning \"at this very moment\" or \"around this time,\" and is the correct idiomatic usage. \n\n\n Use \"right about now\" for a casual, conversational tone.\nUse \"right now\" for a straightforward or serious tone, but it's less common in this context.",
     "groupCode": 0
   },
   {
@@ -5056,8 +5056,8 @@
   },
   {
     "id": 3830,
-    "fa": "من من نمی دانم آیا این اصلا درست است، اما اگر اینطور است، (فرضی) به درستی یک زلزله سیاسی است",
-    "en": "I don’t know if this is true at all, but if it is, it would truly be a political earthquake",
+    "fa": "من نمی دانم آیا این اصلا درست است، اما اگر اینطور است، (فرضی) به درستی یک زلزله سیاسی است",
+    "en": "I don't know if this is true at all, but if it is, it would truly be a political earthquake",
     "groupCode": 0
   },
   {
@@ -5140,7 +5140,7 @@
   },
   {
     "id": 3844,
-    "fa": "او (مرد) خوش شانس بود که آتش فقط بالای ملکش پخش نشد به خانه اش",
+    "fa": "او (مرد) خوش شانس بود که آتش درست (فقط) بالای ملکش پخش نشد به خانه اش",
     "en": "He was fortunate that the fire just above his property did not spread to his house",
     "groupCode": 0
   },
@@ -5170,8 +5170,44 @@
   },
   {
     "id": 3849,
-    "fa": "آیا آن بیشتر شبیه چیزی است که شما برای (آن) هدف دارید؟",
+    "fa": "آیا آن بیشتر به نظر میرسد مانند چیزی است که شما برای (آن) هدف دارید؟",
     "en": "Does that sound more like what you're aiming for?",
+    "groupCode": 0
+  },
+  {
+    "id": 3850,
+    "fa": "زیر آب زن (خنجر پشت زن) به نزدیکترین دوستش (مرد) خیانت کرد",
+    "en": "The backstabber betrayed his closest friend",
+    "groupCode": 0
+  },
+  {
+    "id": 3851,
+    "fa": "برنامه آشفته اش (زن) باعث شد که جلسه اش را از دست دهد",
+    "en": "Her chaotic schedule made her miss the meeting",
+    "groupCode": 0
+  },
+  {
+    "id": 3852,
+    "fa": "آدم فضول مدام سوالات شخصی می پرسید",
+    "en": "The busybody kept asking personal questions",
+    "groupCode": 0
+  },
+  {
+    "id": 3853,
+    "fa": "او (مرد) بسیار حساس است. حتی شوخی های کوچک او را ناراحت می کند",
+    "en": "He's so touchy; even small jokes upset him",
+    "groupCode": 0
+  },
+  {
+    "id": 3854,
+    "fa": "گارسون دست و پا چلفتی دوباره قهوه را ریخت",
+    "en": "The clumsy waiter spilled the coffee again",
+    "groupCode": 0
+  },
+  {
+    "id": 3855,
+    "fa": "او (زن) وسواس دارد در مورد نگه داشتن خانه اش بدون لکه (تمیز)",
+    "en": "She's obsessive about keeping her house spotless",
     "groupCode": 0
   }
 ]
