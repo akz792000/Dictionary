@@ -4985,6 +4985,7 @@
     "id": 3818,
     "fa": "چرا برخی (از) ساکنان دائمی نمی خواهند برای شهروندی درخواست کنند؟",
     "en": "Why do some permanent residents not want to apply for citizenship?",
+    "desc": "\"Residents\" refers to people who live in a place, while \"residences\" refers to the places where people live (houses, apartments, etc.).",
     "groupCode": 0
   },
   {
@@ -5182,7 +5183,7 @@
   },
   {
     "id": 3851,
-    "fa": "برنامه آشفته اش (زن) باعث شد که جلسه اش را از دست دهد",
+    "fa": "برنامه آشفته اش (زن) باعث شد (مجبورش کرد) که جلسه را از دست دهد",
     "en": "Her chaotic schedule made her miss the meeting",
     "groupCode": 0
   },
@@ -5208,6 +5209,12 @@
     "id": 3855,
     "fa": "او (زن) وسواس دارد در مورد نگه داشتن خانه اش بدون لکه (تمیز)",
     "en": "She's obsessive about keeping her house spotless",
+    "groupCode": 0
+  },
+  {
+    "id": 3856,
+    "fa": "هر چه بیشتر ما اینجا بمانیم, بیشتر ما شبیه این مردم می شویم",
+    "en": "The longer we stay here, the more we become like these people",
     "groupCode": 0
   }
 ]

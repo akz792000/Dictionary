@@ -1697,7 +1697,7 @@
   },
   {
     "id": 10280,
-    "en": "My partner and I like going into the theater",
+    "en": "My partner (female) and I like going into the theater",
     "de": "Meine Partnerin und ich gehen gern ins Theater",
     "groupCode": 1
   },
@@ -3306,7 +3306,7 @@
   },
   {
     "id": 10546,
-    "en": "We want to visit the zoo",
+    "en": "We would like to visit the zoo",
     "de": "Wir möchten den zoo besuchen",
     "groupCode": 1
   },
@@ -3427,8 +3427,8 @@
   },
   {
     "id": 10566,
-    "en": "Does your roommate always go inside the club?",
-    "de": "Geht deine Mitbewohner immer in den Club?",
+    "en": "Does your roommate (female) always go inside the club?",
+    "de": "Geht deine Mitbewohnerin immer in den Club?",
     "groupCode": 1
   },
   {
@@ -3607,13 +3607,13 @@
   },
   {
     "id": 10596,
-    "en": "I want to be the boss",
+    "en": "I would like to be the boss (male)",
     "de": "Ich möchte der Chef sein",
     "groupCode": 1
   },
   {
     "id": 10597,
-    "en": "What is your first and last name? My first name is Ali and  last name is Zandi",
+    "en": "What is your (formal) first and last name? My first name is Ali and last name is Zandi",
     "de": "Wie ist Ihr Vorname and Nachname? Mein Vorname ist Ali und mein Nachname ist Zandi",
     "desc": "Both \"Wie sind Ihr Vorname und Nachname?\" and \"Wie ist Ihr Vorname und Nachname?\" are grammatically correct, but \"Wie ist Ihr Vorname und Nachname?\" is more commonly used.",
     "groupCode": 1
@@ -4934,7 +4934,7 @@
   },
   {
     "id": 10815,
-    "en": "There is also a thick German book in the school bag. Lisa needs it for the class. The German book is very heavy",
+    "en": "In the school bag is also a thick German book. Lisa needs it for the class. The German book is very heavy",
     "de": "In der Schultasche ist auch ein dickes Deutschbuch. Lisa braucht es für den Unterricht. Das Deutschbuch ist sehr schwer",
     "groupCode": 1
   },
@@ -5506,7 +5506,7 @@
   {
     "id": 10909,
     "en": "I often play piano and I often play with my cat",
-    "de": "Ich spiele oft Klavier und Ich spiele oft mit meine Katze",
+    "de": "Ich spiele oft Klavier und Ich spiele oft mit meiner Katze",
     "groupCode": 1
   },
   {
@@ -5561,6 +5561,12 @@
     "id": 10918,
     "en": "What do you usually eat for breakfast?",
     "de": "Was isst du meistens im frühstück?",
+    "groupCode": 1
+  },
+  {
+    "id": 10919,
+    "en": "This is not a good idea",
+    "de": "Das ist keine gute Idee",
     "groupCode": 1
   }
 ]
