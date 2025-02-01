@@ -5195,8 +5195,8 @@
   },
   {
     "id": 3853,
-    "fa": "او (مرد) بسیار حساس است. حتی شوخی های کوچک او را ناراحت می کند",
-    "en": "He's so touchy; even small jokes upset him",
+    "fa": "او (مرد) بسیار حساس است, حتی شوخی های کوچک او را ناراحت می کند",
+    "en": "He's so touchy, even small jokes upset him",
     "groupCode": 0
   },
   {
@@ -5215,6 +5215,90 @@
     "id": 3856,
     "fa": "هر چه بیشتر ما اینجا بمانیم, بیشتر ما شبیه این مردم می شویم",
     "en": "The longer we stay here, the more we become like these people",
+    "groupCode": 0
+  },
+  {
+    "id": 3857,
+    "fa": "بیشتر از همه برای چه چیزی پشیمان می شوند مردمی (که) دارن می میرند؟",
+    "en": "What do dying people regret the most?",
+    "groupCode": 0
+  },
+  {
+    "id": 3858,
+    "fa": "هیچ کس  قسر در نمی رود با توهین کردن به من آنگونه",
+    "en": "Nobody gets away with insulting me like that",
+    "groupCode": 0
+  },
+  {
+    "id": 3859,
+    "fa": "وسوسه نشو که تقلب کنی. تو هرگز ازش قسر در نخواهی رفت",
+    "en": "Don't be tempted to cheat. You'll never get away with it",
+    "groupCode": 0
+  },
+  {
+    "id": 3860,
+    "fa": "هر فیلتر به کار می اندازد (موجب شود) یک پرس و جو جداگانه را برای استخراج داده های مرتبط",
+    "en": "Each filter triggers a separate query to extract relevant data",
+    "groupCode": 0
+  },
+  {
+    "id": 3861,
+    "fa": "ماشه را بکش",
+    "en": "Pull the trigger",
+    "groupCode": 0
+  },
+  {
+    "id": 3862,
+    "fa": "آجیل می تواند موجب واکنش شدید آلرژیک شود",
+    "en": "Nuts can trigger off a violent allergic reaction",
+    "groupCode": 0
+  },
+  {
+    "id": 3863,
+    "fa": "هنگامی که کاربران فیلترها را انتخاب می کنند، ما تعیین می کنیم (که) کدام یک آخرین انتخاب شده است",
+    "en": "When users select filters, we determine which one was selected last",
+    "groupCode": 0
+  },
+  {
+    "id": 3864,
+    "fa": "اگر یک کاربر A و B را انتخاب کند، به A اختصاص داده می شود ترتیب 1 و به B اختصاص داده می شود ترتیب 2، می سازد B را آخرین انتخاب اخیر",
+    "en": "If a user selects A and B, A is assigned order 1, and B is assigned order 2, making B the most recent selection",
+    "groupCode": 0
+  },
+  {
+    "id": 3865,
+    "fa": "او (زن) داره از مراسم تحلیف او (مرد) صرف نظر می کند زیرا او ریاکار نیست",
+    "en": "She is skipping his inauguration because she is no phony",
+    "groupCode": 0
+  },
+  {
+    "id": 3866,
+    "fa": "او (مرد) می گوزد، غرغر می کند و آروغ می زد",
+    "en": "He is farting, gurgling /ˈɡərɡ(ə)liNG/, and burping",
+    "groupCode": 0
+  },
+  {
+    "id": 3867,
+    "fa": "او (مرد) دارد استفراغ می کند و تف می کند",
+    "en": "He is vomiting and spitting",
+    "groupCode": 0
+  },
+  {
+    "id": 3868,
+    "fa": "او (مرد) در حال ادرار و مدفوع است",
+    "en": "He is urinating and defecating /ˈdefəˌkāt/",
+    "groupCode": 0
+  },
+  {
+    "id": 3869,
+    "fa": "این کلاهبرداری ها در حال تکامل هستند و آنها می توانند برای هر کسی اتفاق بیفتند، حتی برای هوشیارترین افراد در میان ما",
+    "en": "These scams are evolving, and they can happen to anyone, even the most vigilant /ˈvijələnt/ among us",
+    "groupCode": 0
+  },
+  {
+    "id": 3870,
+    "fa": "ما داده ها را برای dropdown استخراج می کنیم و ما بررسی می کنیم آیا آخرین فیلتر انتخاب شده مطابقت دارد (با) ستون مربوطه. اگر مطابقت داشت، ما از آن dropdown حذفش می کنیم و استخراج می کنیم داده ها را روی فیلترهای باقی مانده",
+    "en": "We extract data for each dropdown and we check whether the last selected filter matches the corresponding column. If it matches, we exclude it from that dropdown query and extract data based on the remaining filters",
     "groupCode": 0
   }
 ]

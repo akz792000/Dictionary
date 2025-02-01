@@ -3174,7 +3174,7 @@
   },
   {
     "id": 10524,
-    "en": "Let's go into the movies",
+    "en": "Let's go into the cinema",
     "de": "Lass uns ins Kino gehen",
     "groupCode": 1
   },
@@ -3319,7 +3319,7 @@
   {
     "id": 10548,
     "en": "The single room costs twenty euros per night",
-    "de": "Das Einzelzimmer kostet zwanzig in Euro pro Nacht",
+    "de": "Das Einzelzimmer kostet zwanzig Euro pro Nacht",
     "groupCode": 1
   },
   {
@@ -4816,7 +4816,7 @@
   },
   {
     "id": 10796,
-    "en": "You are learning (emphasis) German, aren't you?",
+    "en": "You are learning (emphasis) German, aren't you (or)?",
     "de": "Du lernst doch Deutsch, oder?",
     "desc": "Explanation:\ndoch: Adds emphasis, implying the speaker expects the answer to be \"yes.\"\noder: A tag question to",
     "groupCode": 1
@@ -5560,7 +5560,7 @@
   {
     "id": 10918,
     "en": "What do you usually eat for breakfast?",
-    "de": "Was isst du meistens im frühstück?",
+    "de": "Was isst du meistens zum frühstück?",
     "groupCode": 1
   },
   {
