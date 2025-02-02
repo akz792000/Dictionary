@@ -2342,7 +2342,7 @@
   },
   {
     "id": 3384,
-    "fa": "آیا حق دفاع از خودش را دارد, و اگر چنین است, پاسخی متناسب چیست؟",
+    "fa": "آیا حق دفاع از خودش را دارد, و اگر چنین است, یک پاسخ متناسب چیست؟",
     "en": "Does it have the right to defend itself, and if so, what is a proportionate response?",
     "groupCode": 0
   },
@@ -5225,7 +5225,7 @@
   },
   {
     "id": 3858,
-    "fa": "هیچ کس  قسر در نمی رود با توهین کردن به من آنگونه",
+    "fa": "هیچ کس قسر در نمی رود با توهین کردن به من آنگونه",
     "en": "Nobody gets away with insulting me like that",
     "groupCode": 0
   },
@@ -5255,8 +5255,8 @@
   },
   {
     "id": 3863,
-    "fa": "هنگامی که کاربران فیلترها را انتخاب می کنند، ما تعیین می کنیم (که) کدام یک آخرین انتخاب شده است",
-    "en": "When users select filters, we determine which one was selected last",
+    "fa": "هنگامی که کاربران فیلترها را انتخاب می کنند، ما تعیین می کنیم (که) کدام یک آخرین (بار) انتخاب شدند",
+    "en": "When users select filters, we determine which one is selected last",
     "groupCode": 0
   },
   {
@@ -5267,37 +5267,37 @@
   },
   {
     "id": 3865,
-    "fa": "او (زن) داره از مراسم تحلیف او (مرد) صرف نظر می کند زیرا او ریاکار نیست",
+    "fa": "او (زن) داره از مراسم تحلیف او (مرد) در مبره زیرا او ریاکار نیست",
     "en": "She is skipping his inauguration because she is no phony",
     "groupCode": 0
   },
   {
     "id": 3866,
-    "fa": "او (مرد) می گوزد، غرغر می کند و آروغ می زد",
+    "fa": "او (مرد) داره می گوزد، غرغر می کند و آروغ می زد",
     "en": "He is farting, gurgling /ˈɡərɡ(ə)liNG/, and burping",
     "groupCode": 0
   },
   {
     "id": 3867,
-    "fa": "او (مرد) دارد استفراغ می کند و تف می کند",
+    "fa": "او (مرد) داره استفراغ می کند و تف می کند",
     "en": "He is vomiting and spitting",
     "groupCode": 0
   },
   {
     "id": 3868,
-    "fa": "او (مرد) در حال ادرار و مدفوع است",
+    "fa": "او (مرد) داره ادرار و مدفوع است",
     "en": "He is urinating and defecating /ˈdefəˌkāt/",
     "groupCode": 0
   },
   {
     "id": 3869,
-    "fa": "این کلاهبرداری ها در حال تکامل هستند و آنها می توانند برای هر کسی اتفاق بیفتند، حتی برای هوشیارترین افراد در میان ما",
+    "fa": "این کلاهبرداری (شیادی) ها دارن تکامل هی یابند و آنها می توانند برای هر کسی اتفاق بیفتند، حتی برای هوشیارترین افراد در میان ما",
     "en": "These scams are evolving, and they can happen to anyone, even the most vigilant /ˈvijələnt/ among us",
     "groupCode": 0
   },
   {
     "id": 3870,
-    "fa": "ما داده ها را برای dropdown استخراج می کنیم و ما بررسی می کنیم آیا آخرین فیلتر انتخاب شده مطابقت دارد (با) ستون مربوطه. اگر مطابقت داشت، ما از آن dropdown حذفش می کنیم و استخراج می کنیم داده ها را روی فیلترهای باقی مانده",
+    "fa": "ما داده ها را برای dropdown استخراج می کنیم و ما بررسی می کنیم آیا آخرین فیلتر انتخاب شده مطابقت دارد (با) ستون مربوطه. اگر مطابقت داشت، ما از آن dropdown خارجش می کنیم و استخراج می کنیم داده ها را روی فیلترهای باقی مانده",
     "en": "We extract data for each dropdown and we check whether the last selected filter matches the corresponding column. If it matches, we exclude it from that dropdown query and extract data based on the remaining filters",
     "groupCode": 0
   }
