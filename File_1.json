@@ -4491,7 +4491,7 @@
   },
   {
     "id": 3737,
-    "fa": "او (مرد) به طور تصادفی افشا کرد محل برگزاری برای جلسه را",
+    "fa": "او (مرد) به طور تصادفی افشا کرد محل برگزاری جلسه را",
     "en": "He accidentally let out the location of the meeting",
     "groupCode": 0
   },
@@ -5075,7 +5075,7 @@
   },
   {
     "id": 3833,
-    "fa": "آیا شما حتی می توانید خود را یک والد بنامید اگر شما این را پشت سر نگذاشته اید؟",
+    "fa": "می توانید شما حتی بنامید خودتان را یک والد اگر شما این را پشت سر نگذاشته اید؟",
     "en": "Can you even call yourself a parent if you haven't pulled this off?",
     "groupCode": 0
   },
@@ -5267,7 +5267,7 @@
   },
   {
     "id": 3865,
-    "fa": "او (زن) داره از مراسم تحلیف او (مرد) در مبره زیرا او ریاکار نیست",
+    "fa": "او (زن) داره از مراسم تحلیف او (مرد) در میره زیرا او ریاکار نیست",
     "en": "She is skipping his inauguration because she is no phony",
     "groupCode": 0
   },
@@ -5297,8 +5297,14 @@
   },
   {
     "id": 3870,
-    "fa": "ما داده ها را برای dropdown استخراج می کنیم و ما بررسی می کنیم آیا آخرین فیلتر انتخاب شده مطابقت دارد (با) ستون مربوطه. اگر مطابقت داشت، ما از آن dropdown خارجش می کنیم و استخراج می کنیم داده ها را روی فیلترهای باقی مانده",
+    "fa": "ما داده ها را برای هر dropdown استخراج می کنیم و ما چک می کنیم آیا آخرین فیلتر انتخاب شده مطابقت دارد (با) ستون مربوطه. اگر مطابقت داشت، ما از پرس و جو dropdown خارجش می کنیم و استخراج می کنیم داده را بر اساس فیلترهای باقی مانده",
     "en": "We extract data for each dropdown and we check whether the last selected filter matches the corresponding column. If it matches, we exclude it from that dropdown query and extract data based on the remaining filters",
+    "groupCode": 0
+  },
+  {
+    "id": 3871,
+    "fa": "کجا شما دو (نفر) ملاقات کردید؟ ما در فوتبال ملاقات کردیم",
+    "en": "Where did you two meet? We met at the football",
     "groupCode": 0
   }
 ]
