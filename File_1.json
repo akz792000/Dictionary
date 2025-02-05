@@ -1054,7 +1054,7 @@
   },
   {
     "id": 3173,
-    "fa": "من اینطور بیانش می کنم: سخت کوشی در نهایت نتیجه می دهد",
+    "fa": "من اینطور بیانش می کنم (میزارمش این راه): سخت کوشی در نهایت نتیجه می دهد",
     "en": "I put it this way: hard work pays off in the end",
     "groupCode": 0
   },
@@ -4274,7 +4274,7 @@
   },
   {
     "id": 3701,
-    "fa": "چه وقتی دوستت دوست دارد سر به سرت بزارد؟",
+    "fa": "کی دوستت دوست دارد سر به سرت بزارد؟",
     "en": "When your friend likes to tease you?",
     "groupCode": 0
   },
@@ -5032,7 +5032,7 @@
   },
   {
     "id": 3826,
-    "fa": "من بدون فکر (خارج از فکر) حرف زدم",
+    "fa": "من بدون فکرم (خارج از فکر) حرف زدم",
     "en": "I spoke out of my mind",
     "groupCode": 0
   },
@@ -5249,7 +5249,7 @@
   },
   {
     "id": 3862,
-    "fa": "آجیل می تواند موجب واکنش شدید آلرژیک شود",
+    "fa": "آجیل می تواند به کار می اندازد (موجب شود) یک واکنش شدید آلرژیک",
     "en": "Nuts can trigger off a violent allergic reaction",
     "groupCode": 0
   },
@@ -5261,7 +5261,7 @@
   },
   {
     "id": 3864,
-    "fa": "اگر یک کاربر A و B را انتخاب کند، به A اختصاص داده می شود ترتیب 1 و به B اختصاص داده می شود ترتیب 2، می سازد B را آخرین انتخاب اخیر",
+    "fa": "اگر یک کاربر A و B را انتخاب کند،A اختصاص داده می شود ترتیب 1 و B اختصاص داده می شود ترتیب 2، می سازد B را آخرین انتخاب اخیر",
     "en": "If a user selects A and B, A is assigned order 1, and B is assigned order 2, making B the most recent selection",
     "groupCode": 0
   },
@@ -5305,6 +5305,30 @@
     "id": 3871,
     "fa": "کجا شما دو (نفر) ملاقات کردید؟ ما در فوتبال ملاقات کردیم",
     "en": "Where did you two meet? We met at the football",
+    "groupCode": 0
+  },
+  {
+    "id": 3872,
+    "fa": "او (زن) شلاق خورد توسط پدرش به خاطر انجام موسیقی",
+    "en": "She was flogged by her father for doing music",
+    "groupCode": 0
+  },
+  {
+    "id": 3873,
+    "fa": "من میتونم درستش کنم اگه اشکالی نداره (تو ناراحت نمیشی). چرا من بدم بیاد؟",
+    "en": "I can fix it if you don't mind. Why would I mind?",
+    "groupCode": 0
+  },
+  {
+    "id": 3874,
+    "fa": "1 پیام دارد نگه داری میشود برای شما برای بررسی کردن",
+    "en": "1 message is being held for you to review",
+    "groupCode": 0
+  },
+  {
+    "id": 3875,
+    "fa": "دما به زیر صفر سقوط کرد",
+    "en": "Temperatures plunged below zero",
     "groupCode": 0
   }
 ]
