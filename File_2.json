@@ -1388,7 +1388,7 @@
   },
   {
     "id": 10229,
-    "en": "Today is a holiday (celebration day). I am not going into the office. My family and I want to grill",
+    "en": "Today is a holiday (public holiday). I am not going into the office. My family and I want to grill",
     "de": "Heute ist ein feiertag. Ich gehe nicht ins Büro. Meine Familie und ich wollen grillen",
     "groupCode": 1
   },
@@ -1583,7 +1583,7 @@
   },
   {
     "id": 10261,
-    "en": "Today is a holiday (celebration day), are the shops (stores) open?",
+    "en": "Today is a holiday (public holiday), are the shops (stores) open?",
     "de": "Heute ist ein Feiertag, sind die Geschäfte geöffnet?",
     "groupCode": 1
   },
@@ -1941,7 +1941,7 @@
   },
   {
     "id": 10320,
-    "en": "Shops (stores) are closed on holiday (celebration day)",
+    "en": "Shops (stores) are closed on holiday (public holiday)",
     "de": "Die Geschäfte sind am feiertag geschlossen",
     "groupCode": 1
   },
@@ -2057,7 +2057,7 @@
   },
   {
     "id": 10339,
-    "en": "My family and I celebrate the holiday (celebration day) in the park",
+    "en": "My family and I celebrate the holiday (public holiday) in the park",
     "de": "Meine Familie und ich feiern den feiertag im Park",
     "groupCode": 1
   },
@@ -2111,7 +2111,7 @@
   },
   {
     "id": 10348,
-    "en": "Would you like to grill on the holiday (celebration day)?",
+    "en": "Would you like to grill on the holiday (public holiday)?",
     "de": "Möchtest du am Feiertag grillen?",
     "groupCode": 1
   },
@@ -3553,7 +3553,7 @@
   },
   {
     "id": 10587,
-    "en": "I always fish with my brother in the holidays",
+    "en": "I always fish with my brother in the holiday (school holidays)",
     "de": "Ich fische immer in den Ferien mit meinem Bruder",
     "groupCode": 1
   },
@@ -3577,13 +3577,13 @@
   },
   {
     "id": 10591,
-    "en": "My roommates are driving home in the holidays",
+    "en": "My roommates are driving home in the holiday (school holidays)",
     "de": "Meine Mitbewohner fahren nach Hause in den Ferien",
     "groupCode": 1
   },
   {
     "id": 10592,
-    "en": "We often fly home in the holidays. The airport is not far away",
+    "en": "We often fly home in the holiday (school holidays). The airport is not far away",
     "de": "Wir fliegen in den ferien oft nach Hause. Der Flughafen ist nicht weit weg",
     "groupCode": 1
   },
@@ -3620,7 +3620,7 @@
   },
   {
     "id": 10598,
-    "en": "Are we working or having (make) a picnic?",
+    "en": "Are we working or are we having (make) a picnic?",
     "de": "Arbeiten wir oder machen wir ein Picknick?",
     "groupCode": 1
   },
@@ -3742,7 +3742,7 @@
   },
   {
     "id": 10618,
-    "en": "When do you have holidays?",
+    "en": "When do you have holiday (school holidays)?",
     "de": "Wann hast du Ferien?",
     "groupCode": 1
   },
@@ -3826,7 +3826,7 @@
   },
   {
     "id": 10632,
-    "en": "My sister is excited because I have holidays",
+    "en": "My sister is excited because I have holiday (school holidays)",
     "de": "Meine schwester ist aufgeregt, denn ich habe ferien",
     "groupCode": 1
   },
@@ -3862,7 +3862,7 @@
   },
   {
     "id": 10638,
-    "en": "I go fishing in the holidays with my dad",
+    "en": "I go fishing in the holiday (school holidays) with my dad",
     "de": "Ich gehe in den Ferien mit meinem Papa Fischen",
     "groupCode": 1
   },
@@ -4258,7 +4258,7 @@
   },
   {
     "id": 10704,
-    "en": "I have to bring along a basketball inside the class (lesson)",
+    "en": "I have to bring along a basketball inside the lesson",
     "de": "Ich muss einen Basketball in den Unterricht mitbringen",
     "groupCode": 1
   },
@@ -4616,7 +4616,7 @@
   },
   {
     "id": 10763,
-    "en": "We have holidays in two weeks",
+    "en": "We have holiday (school holidays) in two weeks",
     "de": "Wir haben in zwei Wochen Ferien",
     "groupCode": 1
   },
@@ -4865,7 +4865,7 @@
   },
   {
     "id": 10804,
-    "en": "Where (to) are you going? I'm going to Munich",
+    "en": "Where (to) are you driving? I'm driving to Munich",
     "de": "Wohin fährst du? Ich fahre nach München",
     "groupCode": 1
   },
@@ -4921,7 +4921,7 @@
   },
   {
     "id": 10813,
-    "en": "Lisa has a school bag for the class. The bag is big because Lisa needs a lot of things at the school",
+    "en": "Lisa has a school bag for the lesson. The bag is big because Lisa needs a lot of stuff at the school",
     "de": "Lisa hat eine Schultasche für den Unterricht. Die Tasche ist groß, denn Lisa braucht in der Schule viele Sachen",
     "groupCode": 1
   },
@@ -4934,7 +4934,7 @@
   },
   {
     "id": 10815,
-    "en": "In the school bag is also a thick German book. Lisa needs it for the class. The German book is very heavy",
+    "en": "In the school bag is also a thick German book. Lisa needs it for the lesson. The German book is very heavy",
     "de": "In der Schultasche ist auch ein dickes Deutschbuch. Lisa braucht es für den Unterricht. Das Deutschbuch ist sehr schwer",
     "groupCode": 1
   },
@@ -5232,7 +5232,7 @@
   },
   {
     "id": 10864,
-    "en": "Is this a ballpoint pen or a pen or ein pencil?",
+    "en": "Is this a ballpoint pen or a pen or a pencil?",
     "de": "Ist das ein Kugelschreiber oder ein Stift oder ein Bleistift?",
     "groupCode": 1
   },
@@ -5389,7 +5389,7 @@
   },
   {
     "id": 10890,
-    "en": "\n Computer \n Jacket \n Apel \n Door \n German Book \n Shoe",
+    "en": "\n Computer \n Jacket \n Apfel \n Door \n German Book \n Shoe",
     "de": "\n der Computer/Computer \n die Jacke/Jacken \n der Apfel/Äpfel \n die Tür/Türen \n das Deutschbuch/Deutschbücher \n der Schuh/Schuhe",
     "groupCode": 1
   },
@@ -5512,7 +5512,7 @@
   {
     "id": 10910,
     "en": "Ali is definitely coming. Ali takes a taxi",
-    "de": "Ali kommst auf jeden Fall. Ali nimmt ein Taxi",
+    "de": "Ali kommt auf jeden Fall. Ali nimmt ein Taxi",
     "groupCode": 1
   },
   {
@@ -5523,7 +5523,7 @@
   },
   {
     "id": 10912,
-    "en": "Please spell kuchen",
+    "en": "Please spell (formal) kuchen",
     "de": "Bitte buchstabieren Sie kuchen",
     "groupCode": 1
   },

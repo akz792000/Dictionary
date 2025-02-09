@@ -5185,6 +5185,7 @@
     "id": 3851,
     "fa": "برنامه آشفته اش (زن) باعث شد (مجبورش کرد) که جلسه را از دست دهد",
     "en": "Her chaotic schedule made her miss the meeting",
+    "desc": "The verb \"make\" (in the sense of causing someone to do something) is followed by the base form of the verb (without \"to\").",
     "groupCode": 0
   },
   {
@@ -5249,19 +5250,19 @@
   },
   {
     "id": 3862,
-    "fa": "آجیل می تواند به کار می اندازد (موجب شود) یک واکنش شدید آلرژیک",
+    "fa": "آجیل می تواند به کار می اندازد (موجب شود) یک واکنش شدید (خشونت آمیز) آلرژیک",
     "en": "Nuts can trigger off a violent allergic reaction",
     "groupCode": 0
   },
   {
     "id": 3863,
-    "fa": "هنگامی که کاربران فیلترها را انتخاب می کنند، ما تعیین می کنیم (که) کدام یک آخرین (بار) انتخاب شدند",
-    "en": "When users select filters, we determine which one is selected last",
+    "fa": "ما تعیین می کنیم (که) کدام یک آخرین انتخاب شده است",
+    "en": "We determine which one is selected last",
     "groupCode": 0
   },
   {
     "id": 3864,
-    "fa": "اگر یک کاربر A و B را انتخاب کند،A اختصاص داده می شود ترتیب 1 و B اختصاص داده می شود ترتیب 2، می سازد B را آخرین انتخاب اخیر",
+    "fa": "اگر یک کاربر A و B را انتخاب کند، A اختصاص داده می شود ترتیب 1 و B اختصاص داده می شود ترتیب 2، می سازد B را آخرین انتخاب اخیر",
     "en": "If a user selects A and B, A is assigned order 1, and B is assigned order 2, making B the most recent selection",
     "groupCode": 0
   },
@@ -5291,14 +5292,14 @@
   },
   {
     "id": 3869,
-    "fa": "این کلاهبرداری (شیادی) ها دارن تکامل هی یابند و آنها می توانند برای هر کسی اتفاق بیفتند، حتی برای هوشیارترین افراد در میان ما",
+    "fa": "این کلاهبرداری (شیادی) ها دارن تکامل هی یابند, و آنها می توانند برای هر کسی اتفاق بیفتند، حتی هوشیارترین افراد در میان ما",
     "en": "These scams are evolving, and they can happen to anyone, even the most vigilant /ˈvijələnt/ among us",
     "groupCode": 0
   },
   {
     "id": 3870,
-    "fa": "ما داده ها را برای هر dropdown استخراج می کنیم و ما چک می کنیم آیا آخرین فیلتر انتخاب شده مطابقت دارد (با) ستون مربوطه. اگر مطابقت داشت، ما از پرس و جو dropdown خارجش می کنیم و استخراج می کنیم داده را بر اساس فیلترهای باقی مانده",
-    "en": "We extract data for each dropdown and we check whether the last selected filter matches the corresponding column. If it matches, we exclude it from that dropdown query and extract data based on the remaining filters",
+    "fa": "ما داده ها را برای هر dropdown استخراج می کنیم و چک می کنیم آیا آخرین فیلتر انتخاب شده مطابقت دارد (با) ستون مربوطه. اگر مطابقت داشت، ما از پرس و جو dropdown خارجش می کنیم و استخراج می کنیم داده را بر اساس فیلترهای باقی مانده",
+    "en": "We extract data for each dropdown and check whether the last selected filter matches the corresponding column. If it matches, we exclude it from that dropdown query and extract data based on the remaining filters",
     "groupCode": 0
   },
   {
@@ -5321,7 +5322,7 @@
   },
   {
     "id": 3874,
-    "fa": "1 پیام دارد نگه داری میشود برای شما برای بررسی کردن",
+    "fa": "1 پیام دارد نگه داری میشود برای شما برای باز بینی",
     "en": "1 message is being held for you to review",
     "groupCode": 0
   },
@@ -5329,6 +5330,84 @@
     "id": 3875,
     "fa": "دما به زیر صفر سقوط کرد",
     "en": "Temperatures plunged below zero",
+    "groupCode": 0
+  },
+  {
+    "id": 3876,
+    "fa": "زائران (بادبان) می روند به آمریکا با کشتی",
+    "en": "The Pilgrims sail to America by ship",
+    "groupCode": 0
+  },
+  {
+    "id": 3877,
+    "fa": "او (زن) همیشه در اطراف رئیسش ساکت و مطیع بود",
+    "en": "She was always quiet and submissive around her boss",
+    "groupCode": 0
+  },
+  {
+    "id": 3878,
+    "fa": "من باید همت کنم و این پروژه را تمام کنم",
+    "en": "I need to buckle down and finish this project",
+    "groupCode": 0
+  },
+  {
+    "id": 3879,
+    "fa": "او (زن) با افتخار از سربازی مرخص شد",
+    "en": "She was honorably discharged from the military",
+    "groupCode": 0
+  },
+  {
+    "id": 3880,
+    "fa": "او (مرد) داره همیشه انتقاد می کند از او (زن) در مقابل بقیه مردم",
+    "en": "He's always running her down in front of other people",
+    "groupCode": 0
+  },
+  {
+    "id": 3881,
+    "fa": "بس کن اینقدر نگران بودن را",
+    "en": "Stop being so uptight",
+    "groupCode": 0
+  },
+  {
+    "id": 3882,
+    "fa": "بیایید فقط فراموش کنیم همه چیزهای دیگری را که اتفاق افتاد",
+    "en": "Let's just forget all the other stuff that happened",
+    "groupCode": 0
+  },
+  {
+    "id": 3883,
+    "fa": "چه چیزی می توانست باشد؟",
+    "en": "What could it possibly be?",
+    "groupCode": 0
+  },
+  {
+    "id": 3884,
+    "fa": "چه چیزی برای افتخار کردن داری؟",
+    "en": "What do you have to be so proud of?",
+    "groupCode": 0
+  },
+  {
+    "id": 3885,
+    "fa": "من دیگر به استخدام کنندگان اجازه نمی دهم بدانند من آماده (باز) کار کردن هستم",
+    "en": "I'm no longer letting recruiters know I'm open to work",
+    "groupCode": 0
+  },
+  {
+    "id": 3886,
+    "fa": "کیست مردی که انجام داد اون (کار) با تو؟",
+    "en": "Who's the man who did that to you?",
+    "groupCode": 0
+  },
+  {
+    "id": 3887,
+    "fa": "از کجا مطمئنی (که) میدونی؟",
+    "en": "How do you know for sure?",
+    "groupCode": 0
+  },
+  {
+    "id": 3888,
+    "fa": "چگونه می توان تو مطمئن باشی که کلید به ارث برده است تمام مجوزهای کاربری که ایجادش کرده؟",
+    "en": "How can you be sure that the key has inherited all the permissions of the user who created it?",
     "groupCode": 0
   }
 ]
