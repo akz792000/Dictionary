@@ -3624,7 +3624,7 @@
   },
   {
     "id": 600,
-    "fa": "چه چیزی شما را اینجا آورد؟",
+    "fa": "چه چیزی شما را اینجا می آورد؟",
     "en": "What brings you here?",
     "groupCode": 0
   },
@@ -7491,7 +7491,7 @@
   },
   {
     "id": 1233,
-    "fa": "بستن کمربند ایمنی در بسیاری از کشورها اجباری است",
+    "fa": "بستن یک کمربند ایمنی در بسیاری از کشورها اجباری است",
     "en": "Wearing a seatbelt is compulsory in many countries",
     "desc": " So, while \"fasten your seatbelt\" is appropriate for airplanes, \"wearing a seatbelt\" is more commonly used for cars and other vehicles",
     "groupCode": 0
@@ -12573,8 +12573,8 @@
   },
   {
     "id": 2071,
-    "fa": "کمربند ایمنی خود را ببندید",
-    "en": "Fasten your seat belt",
+    "fa": "چگونه می توانی مطمئن باشی؟",
+    "en": "How can you be sure?",
     "groupCode": 0
   },
   {
