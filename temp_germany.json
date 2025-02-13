@@ -1,5 +1,4 @@
 [
-
   {
     "id":,
     "en": "\n Do you read with pleasure? \n Yes, I read with pleasure",
@@ -128,7 +127,6 @@
     "en": "You ask the teacher the question (formal)",
     "de": "Ihr fragt der Lehrerin die Frage"
   },
-
   {
     "id":,
     "en": "Not and None",
@@ -170,15 +168,10 @@
     "en": "\n I drink wine \n I drink no wine",
     "de": "\n Ich trinke Wein \n Ich trinke keinen Wein"
   },
-
-
   {
     "id": 10014,
-
     "groupCode": 1
   },
-
-
   {
     "id": 10023,
     "en": "Can I pay with card? No, it's only cash",
@@ -197,32 +190,55 @@
     "de": "Danke, Das geht",
     "groupCode": 1
   },
+  Sehr
+  geehrte
+  Frau
+  Schrott,
+  vielen
+  Dank
+  für
+  Ihre
+  Nachricht.
+  Wir
+  werden
+  darauf
+  achten,
+  dass
+  Ilia
+  pünktlich
+  zur
+  Schule
+  kommt,
+  und
+  unser
+  Bestes
+  tun,
+  damit
+  dies
+  nicht
+  mehr
+  vorkommt.
 
+  Vielen
+  Dank
+  für
+  Ihr
+  Verständnis.
 
-
-
-
-
-
-
-
-
-  Sehr geehrte Frau Schrott,
-
-  vielen Dank für Ihre Nachricht. Wir werden darauf achten, dass Ilia pünktlich zur Schule kommt, und unser Bestes tun, damit dies nicht mehr vorkommt.
-
-  Vielen Dank für Ihr Verständnis.
-
-  Mit freundlichen Grüßen,
-
-
-
-
-
-
-
-
-
+  Mit
+  freundlichen
+  Grüßen,
+  [
+    {
+      "customerId": 0,
+      "companyName": 100,
+      "street": 0,
+      "city": 0,
+      "zipCode": 0,
+      "state": 0,
+      "countryCode": 0
+    }
+  ]
 
 
 
@@ -490,97 +506,53 @@
     "groupCode": 1
   },
   {
-    "id": ,
+    "id":,
     "en": "I always drink a cup of tea for lunch",
     "de": "Ich trinke immer eine Tasse Tee zum Mittagessen",
     "groupCode": 1
   },
   {
-    "id": ,
+    "id":,
     "en": "I meet my girl friends Anna and Julia in the café",
     "de": "Ich treffe meine Freundinnen Anna und Julia im Café",
     "groupCode": 1
   },
   {
-    "id": ,
+    "id":,
     "en": "My friends like to eat Italian for dinner",
     "de": "Meine Freunde essen gern italienisch zum Abendessen",
     "groupCode": 1
   },
   {
-    "id": ,
+    "id":,
     "en": "She meets her friends every Thursday",
     "de": "Sie trifft ihre Freunde jeden Donnerstag",
     "groupCode": 1
   },
   {
-    "id": ,
+    "id":,
     "en": "She meets her grandma every week",
     "de": "Sie trifft ihre Oma jede Woche",
     "groupCode": 1
   },
   {
-    "id": ,
+    "id":,
     "en": "Do you like to eat yogurt?",
     "de": "Isst du gern Joghurt?",
     "groupCode": 1
   },
   {
-    "id": ,
+    "id":,
     "en": "I don't do sports in the evenings",
     "de": "Ich mache abends keinen Sport",
     "groupCode": 1
   },
   {
-    "id": ,
+    "id":,
     "en": "",
     "de": "wiesco macht du das? das ich gar nicht",
     "groupCode": 1
-  }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-  ,
+  },
   {
     "id": 10002,
     "en": "I like meat. I don't!",
@@ -667,7 +639,6 @@
   },
   {
     "id": 10019,
-
     "groupCode": 1
   },
   {
@@ -706,21 +677,6 @@
     "de": "Guten Morgen! Möchten Sie Tee oder Kaffee trinken?",
     "groupCode": 1
   },
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
   {
     "id": 10053,
     "en": "What is that called in German?",
@@ -765,7 +721,6 @@
   },
   {
     "id": 10061,
-
     "groupCode": 1
   },
   {

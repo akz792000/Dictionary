@@ -3846,7 +3846,7 @@
   },
   {
     "id": 3630,
-    "fa": "من در آرنجم احساس گزگز دارم",
+    "fa": "من یک احساس گزگز در آرنجم دارم",
     "en": "I have a tingling feeling in my elbow",
     "groupCode": 0
   },
@@ -5298,8 +5298,8 @@
   },
   {
     "id": 3870,
-    "fa": "ما داده ها را برای هر dropdown استخراج می کنیم و چک می کنیم آیا آخرین فیلتر انتخاب شده مطابقت دارد (با) ستون مربوطه. اگر مطابقت داشت، ما از پرس و جو dropdown خارجش می کنیم و استخراج می کنیم داده را بر اساس فیلترهای باقی مانده",
-    "en": "We extract data for each dropdown and check whether the last selected filter matches the corresponding column. If it matches, we exclude it from that dropdown query and extract data based on the remaining filters",
+    "fa": "ما داده ها را برای هر dropdown استخراج می کنیم و چک می کنیم آیا آخرین فیلتر انتخاب شده مطابقت دارد (با) dropdown مربوطه. اگر مطابقت داشت، ما از پرس و جو dropdown خارجش می کنیم و استخراج می کنیم داده را بر اساس فیلترهای باقی مانده",
+    "en": "We extract data for each dropdown and check whether the last selected filter matches the corresponding dropdown. If it matches, we exclude it from that dropdown query and extract data based on the remaining filters",
     "groupCode": 0
   },
   {
@@ -5376,7 +5376,7 @@
   },
   {
     "id": 3883,
-    "fa": "چه چیزی می توانستش باشه؟",
+    "fa": "چه چیزی می توانست امکان داشته باشد؟",
     "en": "What could it possibly be?",
     "groupCode": 0
   },
@@ -5408,6 +5408,61 @@
     "id": 3888,
     "fa": "چگونه می توان تو مطمئن باشی که کلید به ارث برده است تمام مجوزهای کاربری که ایجادش کرده؟",
     "en": "How can you be sure that the key has inherited all the permissions of the user who created it?",
+    "groupCode": 0
+  },
+  {
+    "id": 3889,
+    "fa": "یک عالمه پول هزینه شد برای ساخت پل جدید",
+    "en": "A lot of money was expended in building the new bridge",
+    "groupCode": 0
+  },
+  {
+    "id": 3890,
+    "fa": "شروع بازی موکول شد از ساعت 7 PM به 8 PM به دلیل بارندگی سنگین",
+    "en": "The start of the game was pushed back from 7 PM to 8 PM due to heavy rainfall",
+    "groupCode": 0
+  },
+  {
+    "id": 3891,
+    "fa": "او کلیدهایش را روی میز پرتاب کرد",
+    "en": "I chucked my keys onto the table",
+    "desc": "\"Onto\" → Movement toward the table.\n\"On\" → Position or rough placement on the table.",
+    "groupCode": 0
+  },
+  {
+    "id": 3892,
+    "fa": "من یک داستان ساختگی (خیالی) ساختم تا بچه ها را سرگرم کنم",
+    "en": "I created a fictitious story to entertain the kids",
+    "groupCode": 0
+  },
+  {
+    "id": 3893,
+    "fa": "هنگامی که خط لوله به پایان رسید، من آن را تایید خواهم کرد",
+    "en": "Once the pipeline is finished, I will approve it",
+    "groupCode": 0
+  },
+  {
+    "id": 3894,
+    "fa": "چه (کاری) می توانست یک روح مثل آن قادر به انجام باشد؟",
+    "en": "What could a soul like that be capable of?",
+    "groupCode": 0
+  },
+  {
+    "id": 3895,
+    "fa": "منطقی میاد به نظرم",
+    "en": "Looks reasonable to me",
+    "groupCode": 0
+  },
+  {
+    "id": 3896,
+    "fa": "چگونه می توانم کد خود را اصلاح (فیکس) کنم تا جلوگیری کنم این استثنا را از اتفاق مجدد؟",
+    "en": "How can I fix my code to prevent this exception from happening again?",
+    "groupCode": 0
+  },
+  {
+    "id": 3897,
+    "fa": "اگر من یک معادل در زبان انگلیسی می خواهم، من نیاز دارم انتخاب کنم کلمات مناسب را",
+    "en": "If I want an equivalent in English, I need to choose the right words",
     "groupCode": 0
   }
 ]

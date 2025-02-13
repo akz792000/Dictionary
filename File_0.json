@@ -1672,7 +1672,7 @@
   },
   {
     "id": 277,
-    "fa": "من حالم (احساس) خوب نیست",
+    "fa": "من احساس خوبی نمی دارم",
     "en": "I'm not feeling well",
     "groupCode": 0
   },
@@ -5305,7 +5305,7 @@
   },
   {
     "id": 875,
-    "fa": "تا حالا تو در مورد آن (تاکید) شنیده ای؟",
+    "fa": "تا حالا تو در موردش (تاکید) شنیده ای؟",
     "en": "Have you ever heard of it?",
     "desc": "\"Have you ever heard of it?\" asks about general awareness, while \"Have you ever heard about it?\" focuses on specific information or news related to the subject.",
     "groupCode": 0

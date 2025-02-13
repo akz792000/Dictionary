@@ -255,6 +255,7 @@
     "id": 10042,
     "en": "The USA (come from USA)",
     "de": "Die USA (komme aus den USA)",
+    "desc": "\"USA\" is plural in German (die Vereinigten Staaten von Amerika → plural).\nWith \"aus\", which takes the Dativ case, \"die\" (plural) changes to \"den\".",
     "groupCode": 1
   },
   {
@@ -545,7 +546,7 @@
   },
   {
     "id": 10090,
-    "en": "I don't go to school on Monday",
+    "en": "I don't go into the school on Monday",
     "de": "Ich gehe am Montag nicht in die Schule",
     "groupCode": 1
   },
@@ -653,7 +654,7 @@
   },
   {
     "id": 10108,
-    "en": "Mark (formal) the stars and talk (formal) to your partner",
+    "en": "Mark (formal) the stars and speak (formal) to your partner",
     "de": "Markieren Sie die Sterne und sprechen Sie mit Ihrer Partnerin / Ihrem Partner",
     "desc": "mit is dativ - fur is akkusative",
     "groupCode": 1
@@ -1941,7 +1942,7 @@
   },
   {
     "id": 10320,
-    "en": "Shops (stores) are closed on holiday (public holiday)",
+    "en": "The Shops (stores) are closed on holiday (public holiday)",
     "de": "Die Geschäfte sind am feiertag geschlossen",
     "groupCode": 1
   },
@@ -2744,7 +2745,7 @@
   },
   {
     "id": 10453,
-    "en": "I go jogging during my break",
+    "en": "I go jogging in my break",
     "de": "Ich gehe in meiner pause joggen",
     "groupCode": 1
   },
@@ -3072,7 +3073,7 @@
   },
   {
     "id": 10507,
-    "en": "My roommate (male) is annoyed but why?",
+    "en": "My roommate (male) is angry (annoyed) but why?",
     "de": "Mein Mitbewohner ist verärgert aber warum?",
     "groupCode": 1
   },
@@ -3457,7 +3458,7 @@
   },
   {
     "id": 10571,
-    "en": "I am very annoyed",
+    "en": "I am very angry (annoyed)",
     "de": "Ich bin sehr verärgert",
     "groupCode": 1
   },
@@ -4785,7 +4786,7 @@
   },
   {
     "id": 10791,
-    "en": "I talk to him, he comes from Rome",
+    "en": "I speak to him, he comes from Rome",
     "de": "Ich spreche mit ihm, er kommt aus Rom",
     "desc": "\"Sprechen\" = formal, about language or speech.\n\n\"Reden\" = informal, about chatting or discussing.",
     "groupCode": 1
@@ -4917,6 +4918,7 @@
     "id": 10812,
     "en": "We all hope for better weather",
     "de": "Wir alle hoffen auf besseres Wetter",
+    "desc": "\"hoffen auf\" → The verb \"hoffen\" (to hope) is always used with \"auf\" + Akkusativ (accusative case).",
     "groupCode": 1
   },
   {
