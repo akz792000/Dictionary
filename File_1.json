@@ -5488,5 +5488,55 @@
     "fa": "او (مرد) پرگو و خسته کننده است",
     "en": "He is verbose and boring",
     "groupCode": 0
+  },
+  {
+    "id": 3902,
+    "fa": "میگوها در ته اقیانوس زندگی می کند",
+    "en": "Shrimp live at the bottom of the ocean",
+    "desc": "\"Shrimp\" can be both singular and plural, so this is the more common and natural choice.\n\n\"Shrimps\" is technically correct but is usually used when referring to different species of shrimp rather than shrimp in general.",
+    "groupCode": 0
+  },
+  {
+    "id": 3903,
+    "fa": "او (مرد) سعی کرد از سوال فرار کند",
+    "en": "He tried to evade the question",
+    "groupCode": 0
+  },
+  {
+    "id": 3904,
+    "fa": "سرقت ادبی مجاز نیست در مدرسه",
+    "en": "Plagiarism is not allowed in school",
+    "groupCode": 0
+  },
+  {
+    "id": 3905,
+    "fa": "ما حرفی نداریم، ما فقط تماشاچی هستیم",
+    "en": "We have no say, we're just spectators",
+    "groupCode": 0
+  },
+  {
+    "id": 3906,
+    "fa": "ما فقط نظاره گر هستیم، ما یک نقشی نداریم",
+    "en": "We're just bystanders, we don't have a role",
+    "groupCode": 0
+  },
+  {
+    "id": 3907,
+    "fa": "مهم نیست چقدر احساس کلافگی می کنید، فقط انجام دهید کار درست بعدی را",
+    "en": "No matter how overwhelmed you feel, just do the next right thing",
+    "groupCode": 0
+  },
+  {
+    "id": 3908,
+    "fa": "اگر یک دیتابیس (داده های تکراریش حذف نشده باشد) نشده de-duplicated، هنوز شامل رکوردهای تکراری است",
+    "en": "If a dataset is not de-duplicated, it still contains repeated records",
+    "desc": "De-duplicated means that duplicate (repeated) records have been removed from a dataset, leaving only unique entries.",
+    "groupCode": 0
+  },
+  {
+    "id": 3909,
+    "fa": "قدرت های شما در مقایسه با مال من بی اهمیت (ناچیز) است",
+    "en": "Your powers are inconsequential compared to mine",
+    "groupCode": 0
   }
 ]

@@ -872,8 +872,8 @@
   },
   {
     "id": 10144,
-    "en": "How much do four tickets cost?",
-    "de": "Wie viel kosten vier Fahrkarten?",
+    "en": "How much do four tickets cost and four bags?",
+    "de": "Wie viel kosten vier Fahrkarten und vier Tüten?",
     "groupCode": 1
   },
   {
@@ -5585,14 +5585,147 @@
   },
   {
     "id": 10922,
-    "en": "I'm going into the supermarket right now (soon)",
-    "de": "Ich gehe gleich in den Supermarkt",
+    "en": "Are you going to the supermarket right now (soon)? I'm going into the supermarket right now (soon)",
+    "de": "Gehst du gleich in den Supermarkt? Ich gehe gleich in den Supermarkt",
     "groupCode": 1
   },
   {
     "id": 10923,
     "en": "The supermarket and the bakery are in the city center. I go into the bakery and into supermarket and I buy cakes",
     "de": "Der supermarkt und die bäckerei sind im stadtzentrum. ich gehe in die bäckerei und in den Supermarkt und ich kaufe Kuchen",
+    "groupCode": 1
+  },
+  {
+    "id": 10924,
+    "en": "Kostet eine Packung Tomaten nur sechzig Cent?",
+    "de": "Does a pack of tomatoes cost only sixty cents?",
+    "groupCode": 1
+  },
+  {
+    "id": 10925,
+    "en": "I want to pay now. Where is the cash register?",
+    "de": "Ich will jetzt zahlen. Wo ist die Kasse?",
+    "groupCode": 1
+  },
+  {
+    "id": 10926,
+    "en": "A bag costs sixty cents and you can pack your food here. Are two bags enough?",
+    "de": "Eine Tüte kostet sechzig Cent und Sie können ihr Essen hier einpacken. Sind zwei Tuten genung?",
+    "groupCode": 1
+  },
+  {
+    "id": 10927,
+    "en": "Yes, I would like the receipt",
+    "de": "Ja, ich möchte den kassenzettel",
+    "groupCode": 1
+  },
+  {
+    "id": 10928,
+    "en": "Do we really have hundred cucumbers in the garden?",
+    "de": "Haben wir wirklich hundert Gurken im Garten?",
+    "groupCode": 1
+  },
+  {
+    "id": 10929,
+    "en": "Do you want to invite your parents to lunch?",
+    "de": "Willst du deine Eltern zum Mittagessen einladen?",
+    "groupCode": 1
+  },
+  {
+    "id": 10930,
+    "en": "Which sport do you want to do?",
+    "de": "Welchen Sport willst du machen?",
+    "groupCode": 1
+  },
+  {
+    "id": 10931,
+    "en": "It is often cloudy in spring",
+    "de": "Es ist oft bewölkt im frühling",
+    "groupCode": 1
+  },
+  {
+    "id": 10932,
+    "en": "It is already quarter to eleven",
+    "de": "Es ist schon Viertel vor elf",
+    "groupCode": 1
+  },
+  {
+    "id": 10933,
+    "en": "I eat chicken with pasta on Sundays",
+    "de": "Ich esse sonntags Hähnchen mit Nudeln",
+    "groupCode": 1
+  },
+  {
+    "id": 10934,
+    "en": "What are you doing on March 1st?",
+    "de": "Was machst du am ersten März?",
+    "groupCode": 1
+  },
+  {
+    "id": 10935,
+    "en": "Exactly, the departure is at half past nine",
+    "de": "Genau, die Abfahrt ist um halb zehn",
+    "groupCode": 1
+  },
+  {
+    "id": 10936,
+    "en": "Ali saves the number",
+    "de": "Ali speichert die Nummer",
+    "groupCode": 1
+  },
+  {
+    "id": 10937,
+    "en": "Which of these banks do you know?",
+    "de": "Welche dieser Banken kennst du?",
+    "desc": "In \"Welche dieser Banken kennst du?\", \"dieser\" is in the genitive case because it means \"of these banks\" (a subset of banks). The genitive is needed to show this relationship.",
+    "groupCode": 1
+  },
+  {
+    "id": 10938,
+    "en": "Do you speak Portuguese? No, I don't speak Portuguese so well. I speak spanish. I am spanish",
+    "de": "Sprichst du Portugiesisch? Nein, Ich spreche nicht so gut Portugiesisch. Ich spreche Spanisch. Ich bin Spanier",
+    "groupCode": 1
+  },
+  {
+    "id": 10939,
+    "en": "The violin is very inexpensive",
+    "de": "Die Geige ist sehr günstig",
+    "groupCode": 1
+  },
+  {
+    "id": 10940,
+    "en": "Munich is a city in Germany",
+    "de": "München ist eine Stadt in Deutschland",
+    "groupCode": 1
+  },
+  {
+    "id": 10941,
+    "en": "He is Chinese and speaks Chinese and a little German",
+    "de": "Er ist Chinese und spricht Chinesisch und ein bisschen Deutsch",
+    "groupCode": 1
+  },
+  {
+    "id": 10942,
+    "en": "This is my German course",
+    "de": "Das ist mein Deutschkurs",
+    "groupCode": 1
+  },
+  {
+    "id": 10943,
+    "en": "We are 14 people and together we are 420 years old",
+    "de": "Wir sind 14 Leute und zusammen sind wir 420 Jahre alt",
+    "groupCode": 1
+  },
+  {
+    "id": 10944,
+    "en": "Who has a chair?",
+    "de": "Wer hat einen Stuhl?",
+    "groupCode": 1
+  },
+  {
+    "id": 10945,
+    "en": "She is 24 years old and saleswoman",
+    "de": "Sie ist 24 Jahre alt und Verkäuferin",
     "groupCode": 1
   }
 ]
