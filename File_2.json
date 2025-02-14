@@ -697,7 +697,7 @@
   },
   {
     "id": 10115,
-    "en": "In our school (there) is a new student",
+    "en": "In our school is a new student (male)",
     "de": "In unserer Schule ist ein neuer Schüler",
     "groupCode": 1
   },
@@ -2771,7 +2771,7 @@
   },
   {
     "id": 10457,
-    "en": "Ali comes straight from the train station to the party",
+    "en": "Ali comes right now (soon) from the train station to the party",
     "de": "Ali kommt gleich vom Bahnhof zur Party",
     "groupCode": 1
   },
@@ -3512,7 +3512,7 @@
   },
   {
     "id": 10580,
-    "en": "You are a sweetheart. Thank you for your help. The apartment is really tidy now. Do you want to go to the restaurant?",
+    "en": "You are a sweetheart. Thank you for your help. The apartment is really tidy now. Do you want to go into the restaurant?",
     "de": "Du bist ein Schatz. Vielen Dank für deine Hilfe. Die Wohnung ist jetzt wirklich ordentlich. Willst du ins Restaurant gehen?",
     "groupCode": 1
   },
@@ -5569,6 +5569,30 @@
     "id": 10919,
     "en": "This is not a good idea",
     "de": "Das ist keine gute Idee",
+    "groupCode": 1
+  },
+  {
+    "id": 10920,
+    "en": "Buy only cucumbers and rice",
+    "de": "Kauft nur Gurken und Reise",
+    "groupCode": 1
+  },
+  {
+    "id": 10921,
+    "en": "We have only one cucumber in the fridge",
+    "de": "Wir haben nur eine Gurke im Kühlschrank",
+    "groupCode": 1
+  },
+  {
+    "id": 10922,
+    "en": "I'm going into the supermarket right now (soon)",
+    "de": "Ich gehe gleich in den Supermarkt",
+    "groupCode": 1
+  },
+  {
+    "id": 10923,
+    "en": "The supermarket and the bakery are in the city center. I go into the bakery and into supermarket and I buy cakes",
+    "de": "Der supermarkt und die bäckerei sind im stadtzentrum. ich gehe in die bäckerei und in den Supermarkt und ich kaufe Kuchen",
     "groupCode": 1
   }
 ]
