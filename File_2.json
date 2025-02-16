@@ -1378,7 +1378,7 @@
   {
     "id": 10227,
     "en": "The film is boring. I don't want to stay in the cinema (for) three hours",
-    "de": "Der Film ist langweilig. Ich will drei Stunden im Kino nicht",
+    "de": "Der Film ist langweilig. Ich will drei Stunden im Kino nicht bleiben",
     "groupCode": 1
   },
   {
@@ -5726,6 +5726,42 @@
     "id": 10945,
     "en": "She is 24 years old and saleswoman",
     "de": "Sie ist 24 Jahre alt und Verkäuferin",
+    "groupCode": 1
+  },
+  {
+    "id": 10946,
+    "en": "(The) Most of time I spent with my family",
+    "de": "Die meiste Zeit verbringe ich mit meiner Familie",
+    "groupCode": 1
+  },
+  {
+    "id": 10947,
+    "en": "(The) Most people like pizza",
+    "de": "Die meisten Leute mögen Pizza",
+    "groupCode": 1
+  },
+  {
+    "id": 10948,
+    "en": "I eat usually bread for breakfast",
+    "de": "Ich esse meistens Brot zum Frühstück",
+    "groupCode": 1
+  },
+  {
+    "id": 10949,
+    "en": "She meets her mother in an hour in cafe",
+    "de": "Sie trifft ihre Mutter in einer Stunde im Café",
+    "groupCode": 1
+  },
+  {
+    "id": 10950,
+    "en": "How many cucumbers do you need for the salad?",
+    "de": "Wie viele Gurken brauchst du für den Salat?",
+    "groupCode": 1
+  },
+  {
+    "id": 10951,
+    "en": "My husband goes to the pastry shop once a week",
+    "de": "Mein Mann geht einmal pro Woche in die Konditorei",
     "groupCode": 1
   }
 ]

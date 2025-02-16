@@ -616,5 +616,11 @@
     "en": "Wash off, do the dishes",
     "de": "\n wasche ab \n wäschst ab \n wäscht ab \n waschen ab \n wascht ab \n waschen ab",
     "groupCode": 1
+  },
+  {
+    "id": 20104,
+    "en": "Spend",
+    "de": "\n verbringe \n verbringst \n verbringt \n verbringen \n verbringt \n verbringen",
+    "groupCode": 1
   }
 ]

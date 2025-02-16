@@ -366,7 +366,7 @@
   },
   {
     "id": 3061,
-    "fa": "علی تنها در باغ با خودش نشسته بود (داشت)",
+    "fa": "علی (داشت) نشسته بود با خودش در باغ",
     "en": "Ali was sitting by himself in the garden",
     "groupCode": 0
   },
@@ -1006,7 +1006,7 @@
   {
     "id": 3165,
     "fa": "آن در جیرجیر می کند وقتی که باز می شود. میتونی روغنش بزنی؟",
-    "en": "That door creaks when opened. Can you oil it?",
+    "en": "That door creaks (squeaks) when opened. Can you oil it?",
     "desc": "\"opened\" is used correctly as a past participle that functions similarly to an adjective. You don't need to include \"it is\" in the sentence.\n\nHere's why:\n\n\"When opened\" means \"when the door is opened.\"",
     "groupCode": 0
   },
@@ -5467,7 +5467,7 @@
   },
   {
     "id": 3898,
-    "fa": "اگر شما دیر یرسید، شما مجبور خواهید بود به خارج از سایت بیایید با هزینه شخصی خودتان",
+    "fa": "اگر شما دیر برسید، شما مجبور خواهید بود به خارج از سایت بیایید با هزینه شخصی خودتان",
     "en": "If you arrive late, you'll have to come to the offsite at your own expense",
     "groupCode": 0
   },
@@ -5479,7 +5479,7 @@
   },
   {
     "id": 3900,
-    "fa": "او داره امروز جایگرین معلم میشه",
+    "fa": "او (مرد) داره امروز جایگرین معلم میشه",
     "en": "He is subbing for the teacher today",
     "groupCode": 0
   },
@@ -5528,7 +5528,7 @@
   },
   {
     "id": 3908,
-    "fa": "اگر یک دیتابیس (داده های تکراریش حذف نشده باشد) نشده de-duplicated، هنوز شامل رکوردهای تکراری است",
+    "fa": "اگر یک دیتاست (داده های تکراریش حذف نشده باشد) نشده de-duplicated، هنوز شامل رکوردهای تکراری است",
     "en": "If a dataset is not de-duplicated, it still contains repeated records",
     "desc": "De-duplicated means that duplicate (repeated) records have been removed from a dataset, leaving only unique entries.",
     "groupCode": 0
@@ -5537,6 +5537,48 @@
     "id": 3909,
     "fa": "قدرت های شما در مقایسه با مال من بی اهمیت (ناچیز) است",
     "en": "Your powers are inconsequential compared to mine",
+    "groupCode": 0
+  },
+  {
+    "id": 3910,
+    "fa": "چگونه می توانم سینه و کمرم را اندازه بگیرم؟",
+    "en": "How can I measure my chest and waist?",
+    "groupCode": 0
+  },
+  {
+    "id": 3911,
+    "fa": "من یک تردیدی در مورد معامله داشتم، اما من باهاش عبور می کنم به هر حال",
+    "en": "I had a misgiving about the deal, but I went through with it anyway",
+    "groupCode": 0
+  },
+  {
+    "id": 3912,
+    "fa": "توپ برگشت خورد از دیوار",
+    "en": "The ball bounced off the wall",
+    "groupCode": 0
+  },
+  {
+    "id": 3913,
+    "fa": "او (مرد) فوراً جواب سؤال را داد",
+    "en": "He answered the question on the spot (immediately)",
+    "groupCode": 0
+  },
+  {
+    "id": 3914,
+    "fa": "درجا دویدن ورزش خوبی است",
+    "en": "Running on the spot is good exercise",
+    "groupCode": 0
+  },
+  {
+    "id": 3915,
+    "fa": "تمومش کن",
+    "en": "Knock it off",
+    "groupCode": 0
+  },
+  {
+    "id": 3916,
+    "fa": "من داشتم یک شیرینی و قهوه برای صبحانه",
+    "en": "I had a pastry and coffee for breakfast",
     "groupCode": 0
   }
 ]
