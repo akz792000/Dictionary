@@ -5298,7 +5298,7 @@
   },
   {
     "id": 3870,
-    "fa": "ما داده ها را برای هر dropdown استخراج می کنیم و چک می کنیم آیا آخرین فیلتر انتخاب شده مطابقت دارد (با) dropdown مربوطه. اگر مطابقت داشت، ما از پرس و جو dropdown خارجش می کنیم و استخراج می کنیم داده را بر اساس فیلترهای باقی مانده",
+    "fa": "ما داده ها را برای هر dropdown استخراج می کنیم و چک می کنیم آیا آخرین فیلتر انتخاب شده مطابقت دارد (با) dropdown مربوطه. اگر مطابقت داشت، ما از آن dropdown query خارجش می کنیم و استخراج می کنیم داده را بر اساس فیلترهای باقی مانده",
     "en": "We extract data for each dropdown and check whether the last selected filter matches the corresponding dropdown. If it matches, we exclude it from that dropdown query and extract data based on the remaining filters",
     "groupCode": 0
   },
@@ -5547,7 +5547,7 @@
   },
   {
     "id": 3911,
-    "fa": "من یک تردیدی در مورد معامله داشتم، اما من باهاش عبور می کنم به هر حال",
+    "fa": "من یک تردیدی در مورد معامله داشتم، اما من باهاش به هر حال عبور کردم",
     "en": "I had a misgiving about the deal, but I went through with it anyway",
     "groupCode": 0
   },
@@ -5565,7 +5565,7 @@
   },
   {
     "id": 3914,
-    "fa": "درجا دویدن ورزش خوبی است",
+    "fa": "درجا دویدن تمرین خوبی است",
     "en": "Running on the spot is good exercise",
     "groupCode": 0
   },
@@ -5579,6 +5579,63 @@
     "id": 3916,
     "fa": "من داشتم یک شیرینی و قهوه برای صبحانه",
     "en": "I had a pastry and coffee for breakfast",
+    "groupCode": 0
+  },
+  {
+    "id": 3917,
+    "fa": "کدام فعل با بقیه فرق دارد؟",
+    "en": "Which verb is the odd one out?",
+    "groupCode": 0
+  },
+  {
+    "id": 3918,
+    "fa": "همه چیز خوب است از نظر ما. با تشکر برای اشاره بهش!",
+    "en": "Everything is fine on our end. Thanks for pointing it out!",
+    "groupCode": 0
+  },
+  {
+    "id": 3919,
+    "fa": "آفیس ما در حال انجام تغییرات کوچک و شیک است!",
+    "en": "Our office is getting some small stylish makeovers!",
+    "desc": "\"Makeovers\" refers to changes or improvements made to something to make it look better or more stylish.",
+    "groupCode": 0
+  },
+  {
+    "id": 3920,
+    "fa": "قبلا (در آن روزگار), ما عادت داشتیم همیشه بیرون بازی کنیم",
+    "en": "Back in the day, we used to play outside all the time",
+    "groupCode": 0
+  },
+  {
+    "id": 3921,
+    "fa": "مهلت تنگ است. با این اوصاف (با این گفته)، باید نیاز داریم کار کنیم به طور موثر تا به موقع تمام کنیم",
+    "en": "The deadline is tight. With that being said, we need to work efficiently to finish on time",
+    "groupCode": 0
+  },
+  {
+    "id": 3922,
+    "fa": "یک سیم شل از سقف آویزان بود",
+    "en": "A loose wire was dangling from the ceiling",
+    "groupCode": 0
+  },
+  {
+    "id": 3923,
+    "fa": "دارید عالی پیش میری",
+    "en": "You're on a roll!",
+    "desc": "\"You're on a roll!\" means you are having a streak of success or doing very well at something consistently.\n",
+    "groupCode": 0
+  },
+  {
+    "id": 3924,
+    "fa": "دارید عالی پیش میری",
+    "en": "He has never told a lie",
+    "desc": "\nChatGPT said:\n\"Say\" = focuses on words spoken. (She said hello.)\n\"Tell\" = focuses on delivering information to someone. (She told me a story.)",
+    "groupCode": 0
+  },
+  {
+    "id": 3925,
+    "fa": "هر دو درست هستند، بنابراین شما می توانید از هر کدام استفاده کنید، بستگی دارد به اینکه چه چیزی شما می خواهید برای تأکید کردن",
+    "en": "Both are correct, so you can use either one depending on what you want to emphasize",
     "groupCode": 0
   }
 ]
