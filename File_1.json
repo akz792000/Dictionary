@@ -456,7 +456,7 @@
   },
   {
     "id": 3075,
-    "fa": "برای من مهم است که ادامه بدی ورزش منظم",
+    "fa": "برای من مهم است ادامه دادن ورزش منظم",
     "en": "It's important for me to keep up regular exercise",
     "desc": "For me: Benefit",
     "groupCode": 0
@@ -4618,7 +4618,7 @@
   },
   {
     "id": 3758,
-    "fa": "اگر من به این راه انجام نداده بودمش، شما تلفنم را برای من نیاورده بودی",
+    "fa": "اگر من انجام نداده بودمش به این صورت (راه) ، شما تلفنم را برای من نیاورده بودی",
     "en": "If I hadn't done it this way, you wouldn't have brought me my phone",
     "groupCode": 0
   },
@@ -5589,13 +5589,13 @@
   },
   {
     "id": 3918,
-    "fa": "همه چیز خوب است از نظر ما. با تشکر برای اشاره بهش!",
+    "fa": "همه چیز خوب است در سمت ما (در انتهای ما). با تشکر برای اشاره بهش!",
     "en": "Everything is fine on our end. Thanks for pointing it out!",
     "groupCode": 0
   },
   {
     "id": 3919,
-    "fa": "آفیس ما در حال انجام تغییرات کوچک و شیک است!",
+    "fa": "آفیس ما داره می گیره بعضی تغییرات شیک کوچک!",
     "en": "Our office is getting some small stylish makeovers!",
     "desc": "\"Makeovers\" refers to changes or improvements made to something to make it look better or more stylish.",
     "groupCode": 0
@@ -5608,7 +5608,7 @@
   },
   {
     "id": 3921,
-    "fa": "مهلت تنگ است. با این اوصاف (با این گفته)، باید نیاز داریم کار کنیم به طور موثر تا به موقع تمام کنیم",
+    "fa": "آخرین مهلت (ضرب الاجل) تنگ است. با این اوصاف (با آن گفته)، ما نیاز داریم کار کنیم به طور موثر تا به موقع تمام کنیم",
     "en": "The deadline is tight. With that being said, we need to work efficiently to finish on time",
     "groupCode": 0
   },
@@ -5627,15 +5627,81 @@
   },
   {
     "id": 3924,
-    "fa": "دارید عالی پیش میری",
+    "fa": "او (مرد) هرگز دروغ نگفته است",
     "en": "He has never told a lie",
-    "desc": "\nChatGPT said:\n\"Say\" = focuses on words spoken. (She said hello.)\n\"Tell\" = focuses on delivering information to someone. (She told me a story.)",
+    "desc": "\"Say\" = focuses on words spoken. (She said hello.)\n\"Tell\" = focuses on delivering information to someone. (She told me a story.)",
     "groupCode": 0
   },
   {
     "id": 3925,
     "fa": "هر دو درست هستند، بنابراین شما می توانید از هر کدام استفاده کنید، بستگی دارد به اینکه چه چیزی شما می خواهید برای تأکید کردن",
     "en": "Both are correct, so you can use either one depending on what you want to emphasize",
+    "groupCode": 0
+  },
+  {
+    "id": 3926,
+    "fa": "چه جنبه هایی از هندی ها بیشتر (بیشترین) ناپسند هستند توسط مردم ملیت های دیگر؟",
+    "en": "What aspects of Indians are disliked most by people of other nationalities?",
+    "groupCode": 0
+  },
+  {
+    "id": 3927,
+    "fa": "من ندارم هر دو بیمه قانونی و خصوصی",
+    "en": "I don't have both statutory and private insurance",
+    "groupCode": 0
+  },
+  {
+    "id": 3928,
+    "fa": "درخواست قرار ملاقات شما حداقل 5 هفته دیگر است",
+    "en": "Your appointment request is at least 5 weeks away",
+    "groupCode": 0
+  },
+  {
+    "id": 3929,
+    "fa": "آیا متاهل بودید یا در یک مشارکت مدنی ثبت شده بودید؟",
+    "en": "Were you married or in a registered civil partnership?",
+    "groupCode": 0
+  },
+  {
+    "id": 3930,
+    "fa": "آیا می خواهید یک اظهارنامه مالیاتی مشترک با پارتنر خود ارسال (فایل) کنید؟",
+    "en": "Do you want to file a joint tax return with your partner?",
+    "groupCode": 0
+  },
+  {
+    "id": 3931,
+    "fa": "کدام بهتر شما را توصیف می کند؟",
+    "en": "Which best describes you?",
+    "groupCode": 0
+  },
+  {
+    "id": 3932,
+    "fa": "آیا شما قراردادی توافق کرده اید بر سر اجتماع دارایی با پارتنر خود؟",
+    "en": "Have you contractually agreed on community of property with your partner?",
+    "groupCode": 0
+  },
+  {
+    "id": 3933,
+    "fa": "تفاوت های اصلی بین کشاورزی و جنگلداری چیست؟",
+    "en": "What are the main differences between agriculture and forestry?",
+    "groupCode": 0
+  },
+  {
+    "id": 3934,
+    "fa": "آیا یکی از شما یا آیا هر دو شما در این سال نقل مکان کردید؟",
+    "en": "Did one of you or did you both move in this year?",
+    "groupCode": 0
+  },
+  {
+    "id": 3935,
+    "fa": "او (مرد) عذاب می کشید از این فکر که او ممکن بود نادیده گرفته شود توسط همکلاسی هایش",
+    "en": "He was tormented by the thought that he might be snubbed by his classmates",
+    "groupCode": 0
+  },
+  {
+    "id": 3936,
+    "fa": "او (مرد) روی گونه اش خال دارد",
+    "en": "He has a mole on his cheek",
     "groupCode": 0
   }
 ]
