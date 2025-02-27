@@ -857,6 +857,7 @@
     "id": 10141,
     "en": "How much does eight kilos of strawberries cost?",
     "de": "Wie viel kostet acht Kilo Erdbeeren?",
+    "desc": "Wie viel: For uncountable nouns. (Wie viel Geld?)\nWie viele: For countable nouns. (Wie viele Bücher?)",
     "groupCode": 1
   },
   {
@@ -875,6 +876,7 @@
     "id": 10144,
     "en": "How much do four tickets cost and four bags?",
     "de": "Wie viel kosten vier Fahrkarten und vier Tüten?",
+    "desc": "Wie viel: For uncountable nouns. (Wie viel Geld?)\nWie viele: For countable nouns. (Wie viele Bücher?)",
     "groupCode": 1
   },
   {
@@ -893,12 +895,14 @@
     "id": 10147,
     "en": "How much does that cost? That costs one euro",
     "de": "Wie viel kostet das? Das kostet einen Euro",
+    "desc": "Wie viel: For uncountable nouns. (Wie viel Geld?)\nWie viele: For countable nouns. (Wie viele Bücher?)",
     "groupCode": 1
   },
   {
     "id": 10148,
     "en": "How much does an apple spritzer cost and a cola?",
     "de": "Wie viel kostet eine Apfelschorle und eine Cola?",
+    "desc": "Wie viel: For uncountable nouns. (Wie viel Geld?)\nWie viele: For countable nouns. (Wie viele Bücher?)",
     "groupCode": 1
   },
   {
@@ -5610,7 +5614,7 @@
   },
   {
     "id": 10926,
-    "en": "A bag costs sixty cents and you can pack your food here. Are two bags enough?",
+    "en": "A bag costs sixty cents and you (formal) can pack your food here. Are two bags enough?",
     "de": "Eine Tüte kostet sechzig Cent und Sie können ihr Essen hier einpacken. Sind zwei Tuten genung?",
     "groupCode": 1
   },

@@ -2466,6 +2466,7 @@
     "id": 3404,
     "fa": "اگر من خودم امتحانش نکرده بودم، من باورش نمی کردم",
     "en": "If I hadn't tried it myself I wouldn't believe it",
+    "desc": "This suggests that even now, after trying it, you still find it hard to believe. The disbelief is ongoing in the present.",
     "groupCode": 0
   },
   {
@@ -5099,8 +5100,8 @@
   },
   {
     "id": 3837,
-    "fa": "ما در حال حاضر از برنامه عقب هستیم",
-    "en": "We're already behind schedule",
+    "fa": "ما در حال حاضر جلوتر از برنامه هستیم، نه عقب ترش",
+    "en": "We're already ahead of schedule, not behind it",
     "groupCode": 0
   },
   {
@@ -5583,7 +5584,7 @@
   },
   {
     "id": 3917,
-    "fa": "کدام فعل با بقیه فرق دارد؟",
+    "fa": "کدام فعل (عجیب است) با بقیه فرق دارد؟",
     "en": "Which verb is the odd one out?",
     "groupCode": 0
   },
@@ -5670,7 +5671,7 @@
   },
   {
     "id": 3931,
-    "fa": "کدام بهتر شما را توصیف می کند؟",
+    "fa": "کدام بهتر (بهترین) شما را توصیف می کند؟",
     "en": "Which best describes you?",
     "groupCode": 0
   },
@@ -5688,8 +5689,8 @@
   },
   {
     "id": 3934,
-    "fa": "آیا یکی از شما یا آیا هر دو شما در این سال نقل مکان کردید؟",
-    "en": "Did one of you or did you both move in this year?",
+    "fa": "آیا یکی از شما یا هر دو در این سال نقل مکان کردید؟",
+    "en": "Did one of you or both move in this year?",
     "groupCode": 0
   },
   {
@@ -5702,6 +5703,48 @@
     "id": 3936,
     "fa": "او (مرد) روی گونه اش خال دارد",
     "en": "He has a mole on his cheek",
+    "groupCode": 0
+  },
+  {
+    "id": 3937,
+    "fa": "مهمانی قرار بود باشد یک سورپرایز، اما من آن را لو دادم",
+    "en": "The party was meant to be a surprise, but I gave it away",
+    "groupCode": 0
+  },
+  {
+    "id": 3938,
+    "fa": "من بر فقر غلبه کردم",
+    "en": "I broke through the poverty",
+    "groupCode": 0
+  },
+  {
+    "id": 3939,
+    "fa": "این زنجیر از طلا ساخته شده است",
+    "en": "This chain is made of gold",
+    "groupCode": 0
+  },
+  {
+    "id": 3940,
+    "fa": "با آرنج هلم بده اگر در تئاتر خوابم برد",
+    "en": "Nudge me if I fall asleep in the theater",
+    "groupCode": 0
+  },
+  {
+    "id": 3941,
+    "fa": "مهم است حضور داشتن و کاملا درگیر شدن در گفتگو",
+    "en": "It's important to be present and fully engaged in the conversation",
+    "groupCode": 0
+  },
+  {
+    "id": 3942,
+    "fa": "به دست آورده است توجه را به عنوان یک رقیب قوی برای ChatGPT",
+    "en": "It has gained attention as a strong competitor to ChatGPT",
+    "groupCode": 0
+  },
+  {
+    "id": 3943,
+    "fa": "تشویق شما مرا به جلو می کشاند حتی وقتی شرایط سخت می شود",
+    "en": "Your encouragement keeps pulling me forward even when things get tough",
     "groupCode": 0
   }
 ]
