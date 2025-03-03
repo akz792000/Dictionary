@@ -5628,7 +5628,7 @@
   },
   {
     "id": 3924,
-    "fa": "او (مرد) هرگز دروغ نگفته است",
+    "fa": "او (مرد) هرگز یک دروغ نگفته است",
     "en": "He has never told a lie",
     "desc": "\"Say\" = focuses on words spoken. (She said hello.)\n\"Tell\" = focuses on delivering information to someone. (She told me a story.)",
     "groupCode": 0
@@ -5707,7 +5707,7 @@
   },
   {
     "id": 3937,
-    "fa": "مهمانی قرار بود باشد یک سورپرایز، اما من آن را لو دادم",
+    "fa": "مهمانی به این منظور بود باشد یک سورپرایز، اما من آن را لو دادم",
     "en": "The party was meant to be a surprise, but I gave it away",
     "groupCode": 0
   },
@@ -5743,8 +5743,80 @@
   },
   {
     "id": 3943,
-    "fa": "تشویق شما مرا به جلو می کشاند حتی وقتی شرایط سخت می شود",
+    "fa": "ترغیب شما مرا به جلو می کشاند حتی وقتی چیزها سخت می شود",
     "en": "Your encouragement keeps pulling me forward even when things get tough",
+    "groupCode": 0
+  },
+  {
+    "id": 3944,
+    "fa": "چه بدی هایی درباره سنت (در حال حاضر) وجود داره؟",
+    "en": "What sucks about being your age?",
+    "groupCode": 0
+  },
+  {
+    "id": 3945,
+    "fa": "چرا امروز صبح دیر کردی (بودی)؟",
+    "en": "Why were you late this morning?",
+    "groupCode": 0
+  },
+  {
+    "id": 3946,
+    "fa": "کارشناسان هشدار می دهند که میکروپلاستیک ها ممکن است داشته باشند اثرات طولانی مدت بر سلامت مغز",
+    "en": "Experts warn that microplastics may have long-term effects on brain health",
+    "groupCode": 0
+  },
+  {
+    "id": 3947,
+    "fa": "علاوه بر این، ما نیاز داریم در نظر بگیریم پرچم جدید را در همه جای در BE، هر دو در کوئری ها و در کد",
+    "en": "Additionally, we need to consider the new flag everywhere in the backend, both in queries and in the code",
+    "groupCode": 0
+  },
+  {
+    "id": 3948,
+    "fa": "این اکانت غیر فعال بوده است برای ماه ها",
+    "en": "This account has been inactive for months",
+    "groupCode": 0
+  },
+  {
+    "id": 3949,
+    "fa": "حماقت معمولاً عدم کنجکاوی است",
+    "en": "Stupidity is usually just incuriosity",
+    "groupCode": 0
+  },
+  {
+    "id": 3950,
+    "fa": "CHF مخفف ( نشان دهنده) فرانک سوئیس، واحد پول سوئیس است",
+    "en": "CHF stands for Swiss Franc, the currency of Switzerland",
+    "groupCode": 0
+  },
+  {
+    "id": 3951,
+    "fa": "عقب نمانید",
+    "en": "Don't get left behind",
+    "groupCode": 0
+  },
+  {
+    "id": 3952,
+    "fa": "شما یا با هوش مصنوعی جایگزین خواهید شد یا فردی که می داند چگونه کار کند با هوش مصنوعی بهتر",
+    "en": "You will either be replaced by AI or by someone who knows how to work with AI better",
+    "groupCode": 0
+  },
+  {
+    "id": 3953,
+    "fa": "من به او کمک کردم تا گره طناب را باز کند",
+    "en": "I helped him untie the knot in the rope",
+    "groupCode": 0
+  },
+  {
+    "id": 3954,
+    "fa": "استفاده کن از انگشتت تا باز کنی (پشتک) درب بطری سس را",
+    "en": "Use your finger to flip up the lid of the sauce bottle",
+    "groupCode": 0
+  },
+  {
+    "id": 3955,
+    "fa": "من با دقت کندم (جدا کردم) برچسب را از دفترچه",
+    "en": "I carefully peeled off the sticker from the notebook",
     "groupCode": 0
   }
 ]
