@@ -5293,7 +5293,7 @@
   },
   {
     "id": 3869,
-    "fa": "این کلاهبرداری (شیادی) ها دارن تکامل هی یابند, و آنها می توانند برای هر کسی اتفاق بیفتند، حتی هوشیارترین (افراد) در میان ما",
+    "fa": "این کلاهبرداری (شیادی) ها دارن تکامل می یابند, و آنها می توانند برای هر کسی اتفاق بیفتند، حتی هوشیارترین (افراد) در میان ما",
     "en": "These scams are evolving, and they can happen to anyone, even the most vigilant /ˈvijələnt/ among us",
     "groupCode": 0
   },
@@ -5761,7 +5761,7 @@
   },
   {
     "id": 3946,
-    "fa": "کارشناسان هشدار می دهند که میکروپلاستیک ها ممکن است داشته باشند اثرات طولانی مدت بر سلامت مغز",
+    "fa": "کارشناسان (ماهرها) هشدار می دهند که میکروپلاستیک ها ممکن است داشته باشند اثرات طولانی مدت بر سلامت مغز",
     "en": "Experts warn that microplastics may have long-term effects on brain health",
     "groupCode": 0
   },
@@ -5779,7 +5779,7 @@
   },
   {
     "id": 3949,
-    "fa": "حماقت معمولاً عدم کنجکاوی است",
+    "fa": "حماقت معمولاً فقط عدم کنجکاوی است",
     "en": "Stupidity is usually just incuriosity",
     "groupCode": 0
   },
@@ -5803,7 +5803,7 @@
   },
   {
     "id": 3953,
-    "fa": "من به او کمک کردم تا گره طناب را باز کند",
+    "fa": "من به او (مرد) کمک کردم تا گره طناب را باز (گره گشایی) کند",
     "en": "I helped him untie the knot in the rope",
     "groupCode": 0
   },
@@ -5815,8 +5815,69 @@
   },
   {
     "id": 3955,
-    "fa": "من با دقت کندم (جدا کردم) برچسب را از دفترچه",
+    "fa": "من با دقت کندم (جدا کردم) برچسب (استیکر) را از دفترچه",
     "en": "I carefully peeled off the sticker from the notebook",
+    "groupCode": 0
+  },
+  {
+    "id": 3956,
+    "fa": "این کفش ها به من داده اند تاول ها روی پاشنه پایم",
+    "en": "These shoes have given me blisters on my heels",
+    "groupCode": 0
+  },
+  {
+    "id": 3957,
+    "fa": "آیا می دانستید که شما می توانید فایل کنید اظهارنامه مالیاتی خود را برای چهار سال گذشته به طور معطوف به گذشته؟",
+    "en": "Did you know that you can file your tax returns for the last four years retroactively?",
+    "groupCode": 0
+  },
+  {
+    "id": 3958,
+    "fa": "کد قابل بازخرید نیست اگر گزینه پرداخت بعدا انتخاب شده باشد",
+    "en": "The code cannot be redeemed if the pay later option has been selected",
+    "groupCode": 0
+  },
+  {
+    "id": 3959,
+    "fa": "آیا می خواهید افتخار دهید به کسی که تأثیر گذاشته است بر زندگی شما؟",
+    "en": "Want to honor someone who has impacted your life?",
+    "groupCode": 0
+  },
+  {
+    "id": 3960,
+    "fa": "(عامیانه) گستاخ نشو با من!",
+    "en": "Don't get sassy with me!",
+    "groupCode": 0
+  },
+  {
+    "id": 3961,
+    "fa": "او (مرد) هیچ حواشی (جنجالی) در کارش ندارد",
+    "en": "He has no controversies in his work",
+    "groupCode": 0
+  },
+  {
+    "id": 3962,
+    "fa": "من مدیون شما هستم",
+    "en": "I am indebted to you",
+    "groupCode": 0
+  },
+  {
+    "id": 3963,
+    "fa": "این فیلم دارای جلوه های صوتی فراگیر بود",
+    "en": "The movie had immersive sound effects",
+    "groupCode": 0
+  },
+  {
+    "id": 3964,
+    "fa": "چه مقدار از روز خود را سپری کرده اید گم شده در پست مجازی خود (بدون فکر در رسانه های اجتماعی پیمایش می کنید)؟",
+    "en": "How much of your day have you spent lost in your feed?",
+    "desc": "Lost in your feed = Mindlessly scrolling through social media",
+    "groupCode": 0
+  },
+  {
+    "id": 3965,
+    "fa": "بسیار آسان است افتادن در سوراخ خرگوش رسانه های اجتماعی",
+    "en": "It's far too easy to fall down the social media rabbit hole",
     "groupCode": 0
   }
 ]

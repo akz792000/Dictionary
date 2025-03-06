@@ -1204,7 +1204,7 @@
   },
   {
     "id": 10198,
-    "en": "Anne goes to her apartment",
+    "en": "Anne goes to (toward) her apartment",
     "de": "Anne geht zu ihrer Wohnung",
     "groupCode": 1
   },
@@ -3680,8 +3680,8 @@
   },
   {
     "id": 10607,
-    "en": "Are you shopping the bread for the barbecue party at the market? The bread there is always fresh",
-    "de": "Kaufst du das Brot für die Grillparty auf dem Markt ein? Das Brot dort ist immer frisch",
+    "en": "Are you shopping the bread for the barbecue party at the market? The bread there, is always fresh",
+    "de": "Kaufst du das Brot für die Grillparty auf dem Markt ein? Das Brot dort, ist immer frisch",
     "groupCode": 1
   },
   {
