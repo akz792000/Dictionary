@@ -4992,7 +4992,7 @@
   },
   {
     "id": 823,
-    "fa": "چرا من  ( از شدت درد یا ترس ) عقب نکشیدم",
+    "fa": "چرا من (از شدت درد یا ترس) عقب نکشیدم",
     "en": "Why didn't I flinch?",
     "groupCode": 0
   },
@@ -6046,7 +6046,7 @@
   },
   {
     "id": 996,
-    "fa": "سعی کردم کیک بپزم، اما اولین بار درست نشد",
+    "fa": "من سعی کردم یک کیک بپزم، اما اولین بار درست نشد",
     "en": "I tried to bake a cake, but it didn't make the first time",
     "groupCode": 0
   },
@@ -17725,7 +17725,7 @@
   {
     "id": 2918,
     "fa": "من بدهکار او (مرد) هستم",
-    "en": "\n 1.I am in his debt \n 2.I owe him",
+    "en": "\n 1.I am in his debt \n 2.I owe him \n 3.I am indebted to him",
     "groupCode": 0
   },
   {

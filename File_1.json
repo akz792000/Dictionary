@@ -4698,7 +4698,7 @@
   },
   {
     "id": 3771,
-    "fa": "قیمت بلیط او (مرد) می ارزید بسیار کمتر از بلیط ما، من فکر می کنم رفته تو پاچمون",
+    "fa": "قیمت بلیط او (مرد) می ارزید بسیار کمتر از بلیط ما، من فکر می کنم رفته تو پاچمون (چاپیدنمون)",
     "en": "His ticket cost much less than ours, I think we've been ripped off",
     "groupCode": 0
   },
@@ -4784,7 +4784,7 @@
   },
   {
     "id": 3785,
-    "fa": "پسر من دارد به شدت نیاز برای همه چیز تا باشد در جای درست خود. او تمایل دارد بسیار خاص باشد در مورد نظم و آراستگی",
+    "fa": "پسر من دارد به یک نیاز شدید برای همه چیز تا باشد در جای درست خود. او تمایل دارد بسیار خاص باشد در مورد نظم و آراستگی",
     "en": "My son has a strong need for everything to be in its correct place. He tends to be very particular about order and neatness",
     "groupCode": 0
   },
@@ -5707,7 +5707,7 @@
   },
   {
     "id": 3937,
-    "fa": "مهمانی به این منظور بود باشد یک سورپرایز، اما من آن را لو دادم",
+    "fa": "مهمانی به این منظور بود که یک سورپرایز باشد، اما من آن را لو دادم",
     "en": "The party was meant to be a surprise, but I gave it away",
     "groupCode": 0
   },
@@ -5821,7 +5821,7 @@
   },
   {
     "id": 3956,
-    "fa": "این کفش ها به من داده اند تاول ها روی پاشنه پایم",
+    "fa": "این کفش ها به من داده اند تاول ها روی پاشنه هایم",
     "en": "These shoes have given me blisters on my heels",
     "groupCode": 0
   },
@@ -5833,14 +5833,14 @@
   },
   {
     "id": 3958,
-    "fa": "کد قابل بازخرید نیست اگر گزینه پرداخت بعدا انتخاب شده باشد",
+    "fa": "کد نمی تواند بازخرید شود اگر گزینه دیرتر پرداخت انتخاب شده باشد",
     "en": "The code cannot be redeemed if the pay later option has been selected",
     "groupCode": 0
   },
   {
     "id": 3959,
     "fa": "آیا می خواهید افتخار دهید به کسی که تأثیر گذاشته است بر زندگی شما؟",
-    "en": "Want to honor someone who has impacted your life?",
+    "en": "Do you want to honor someone who has impacted your life?",
     "groupCode": 0
   },
   {
@@ -5858,7 +5858,7 @@
   {
     "id": 3962,
     "fa": "من مدیون شما هستم",
-    "en": "I am indebted to you",
+    "en": "\n 1.I am indebted to you \n 2.I am in your debt",
     "groupCode": 0
   },
   {
@@ -5878,6 +5878,42 @@
     "id": 3965,
     "fa": "بسیار آسان است افتادن در سوراخ خرگوش رسانه های اجتماعی",
     "en": "It's far too easy to fall down the social media rabbit hole",
+    "groupCode": 0
+  },
+  {
+    "id": 3966,
+    "fa": "او (مرد) هیچوقت از انجام دادن وظیفه اش ( از شدت درد یا ترس ) عقب نکشیدم",
+    "en": "He never flinched from doing his duty",
+    "groupCode": 0
+  },
+  {
+    "id": 3967,
+    "fa": "راننده تاکسی های محلی تمایل دارند گردشگرها را بچاپند",
+    "en": "Local cab drivers tend to rip the tourists off",
+    "groupCode": 0
+  },
+  {
+    "id": 3968,
+    "fa": "وقت دکتر عقب افتاد",
+    "en": "The doctor’s appointment got pushed back",
+    "groupCode": 0
+  },
+  {
+    "id": 3969,
+    "fa": "ما به نظر می رسد از یک بحران به بحران دیگر تلوتلو می خوریم",
+    "en": "We seem to lurch from crisis to crisis",
+    "groupCode": 0
+  },
+  {
+    "id": 3970,
+    "fa": "من مجبور شدم بنویسم گزارشم را دوباره از اول(همه چیز)",
+    "en": "I had to rewrite my report all over again",
+    "groupCode": 0
+  },
+  {
+    "id": 3971,
+    "fa": "ضرب المثل به ما می گوید هر کسی شک می کند بازنده است",
+    "en": "The proverb tells us that who hesitates is lost",
     "groupCode": 0
   }
 ]
