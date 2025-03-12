@@ -5917,27 +5917,57 @@
     "groupCode": 0
   },
   {
-    "id":3972,
+    "id": 3972,
     "fa": "شما را در جلسه روزانه مان می بینیم",
     "en": "See you in our daily meeting",
     "groupCode": 0
   },
   {
-    "id":3973,
+    "id": 3973,
     "fa": "من جمع کرده ام بچه گربه های ولگرد را از کوچه تا ببرم آنها را به پناهگاه",
     "en": "I've rounded up the stray kittens from the alley to take them to the shelter",
     "groupCode": 0
   },
   {
-    "id":3974,
+    "id": 3974,
     "fa": "افرادی که زمانی احساس می کردند عقب مانده شده توسط ترس هایشان، اکنون دارن آغوش می کشند فرصت های جدید را",
     "en": "People who once felt held back by their fears are now embracing new opportunities",
     "groupCode": 0
   },
   {
-    "id":3975,
+    "id": 3975,
     "fa": "همه چیزی بود که من (تاکیید) خواب (آن) دیده بودم",
     "en": "It was everything I'd ever dreamt of",
+    "groupCode": 0
+  },
+  {
+    "id": 3976,
+    "fa": "پسر منتقل می شود به بیمارستان پس از احیا",
+    "en": "Boy is flown to hospital after resuscitation",
+    "groupCode": 0
+  },
+  {
+    "id": 3977,
+    "fa": "(این) به من کمک کرد غلبه کنم بر تمام ناامنی (که) من داشتم",
+    "en": "It helped me overcome all the insecurity I had",
+    "groupCode": 0
+  },
+  {
+    "id": 3978,
+    "fa": "من به درستی معتقد بودم (که) این می باشد (فرضی) یک تغییر بازی برای حرفه من",
+    "en": "I truly believed it would be a game changer for my career",
+    "groupCode": 0
+  },
+  {
+    "id": 3979,
+    "fa": "من مصمم بودم درست انجامش دهم",
+    "en": "I was determined to get it rights",
+    "groupCode": 0
+  },
+  {
+    "id": 3980,
+    "fa": "لحظه حقیقت فرا رسیده بود",
+    "en": "The moment of truth had arrived",
     "groupCode": 0
   }
 ]
