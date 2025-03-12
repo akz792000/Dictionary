@@ -997,7 +997,7 @@
   },
   {
     "id": 10164,
-    "en": "I don't like listening to podcasts",
+    "en": "I don't like listening (to) podcasts",
     "de": "Ich höre nicht gern Podcasts",
     "groupCode": 1
   },
@@ -2472,8 +2472,8 @@
   },
   {
     "id": 10407,
-    "en": "She is good, happy and healthy",
-    "de": "Sie ist gut, glücklich und gesund",
+    "en": "She hopes, he is happy and healthy and he likes his party",
+    "de": "Sie hofft, er ist glücklich und gesund und er mag seine Party",
     "groupCode": 1
   },
   {
@@ -5070,7 +5070,7 @@
   {
     "id": 10836,
     "en": "Customer finds receipt from 2002",
-    "de": "Kunde findet Kassenzettel von 2002",
+    "de": "Kunde/Kundin findet Kassenzettel von 2002",
     "groupCode": 1
   },
   {
@@ -5166,8 +5166,8 @@
   },
   {
     "id": 10852,
-    "en": "My children like oranges",
-    "de": "Meine Kinder mögen Orangen",
+    "en": "My children don't like oranges",
+    "de": "Meine Kinder mögen keine Orangen",
     "groupCode": 1
   },
   {
@@ -5560,7 +5560,7 @@
   },
   {
     "id": 10917,
-    "en": "Please ask a question (formal)",
+    "en": "Please place a question (formal)",
     "de": "Bitte Stellen Sie eine Frage",
     "groupCode": 1
   },
@@ -5767,6 +5767,90 @@
     "id": 10951,
     "en": "My husband goes to the pastry shop once a week",
     "de": "Mein Mann geht einmal pro Woche in die Konditorei",
+    "groupCode": 1
+  },
+  {
+    "id": 10952,
+    "en": "I can't see the bags. I don't need a receipt",
+    "de": "Ich kann die Tüten nicht sehen. Ich brauche keinen Kassenzettel",
+    "groupCode": 1
+  },
+  {
+    "id": 10953,
+    "en": "Where is your turtle going so fast?",
+    "de": "Wohin geht deine Schildkröte so schnell?",
+    "groupCode": 1
+  },
+  {
+    "id": 10954,
+    "en": "Which seat would you like in the cinema?",
+    "de": "Welchen Sitz möchten Sie im Kino?",
+    "groupCode": 1
+  },
+  {
+    "id": 10955,
+    "en": "The cash register is not at the back",
+    "de": "Die Kasse ist nicht hinten",
+    "groupCode": 1
+  },
+  {
+    "id": 10956,
+    "en": "We need three things for my party",
+    "de": "Wir brauchen drei Dinge für meine Party",
+    "groupCode": 1
+  },
+  {
+    "id": 10957,
+    "en": "Can you bake a cake for me?",
+    "de": "Kannst du einen Kuchen für mich backen?",
+    "groupCode": 1
+  },
+  {
+    "id": 10958,
+    "en": "Mr. Zandi, thank you for your (formal) help. Ali, thank you for your help.",
+    "de": "Herr Zandi, danke für ihre hilfe. Ali, danke für deine Hilfe",
+    "groupCode": 1
+  },
+  {
+    "id": 10959,
+    "en": "I would definitely like to come",
+    "de": "Ich möchte Auf jeden fall kommen",
+    "groupCode": 1
+  },
+  {
+    "id": 10960,
+    "en": "Today is an important day, we are having (making) a party",
+    "de": "Heute ist ein wichtiger Tag, wir machen eine Party",
+    "groupCode": 1
+  },
+  {
+    "id": 10961,
+    "en": "She is excited, her partner's birthday is soon",
+    "de": "Sie ist aufgeregt, ihre Partnerin hat bald Geburtstag",
+    "groupCode": 1
+  },
+  {
+    "id": 10962,
+    "en": "He hopes his wife likes the party",
+    "de": "Er hofft seine Frau mag die Party",
+    "groupCode": 1
+  },
+  {
+    "id": 10963,
+    "en": "Can you please buy carrots this afternoon? My pets love carrots",
+    "de": "Kannst du bitte heute Nachmittag Karotten kaufen? Meine Haustiere lieben Karotten",
+    "groupCode": 1
+  },
+  {
+    "id": 10964,
+    "en": "Are you bringing along a cake?",
+    "de": "Bringst du einen Kuchen mit?",
+    "groupCode": 1
+  },
+  {
+    "id": 10965,
+    "en": "I'm bringing chocolate to (toward) the party",
+    "de": "Ich bringe Schokolade zur Party mit",
     "groupCode": 1
   }
 ]

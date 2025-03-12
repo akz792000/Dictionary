@@ -649,7 +649,7 @@
   },
   {
     "id": 3107,
-    "fa": "من احساس سوزن و سوزن (سنجاق) در دستم حس می کنم",
+    "fa": "من احساس سوزن (سنجاق) و سوزن در دستم حس می کنم",
     "en": "I feel pins and needles in my hand",
     "groupCode": 0
   },
@@ -4583,7 +4583,7 @@
   },
   {
     "id": 3752,
-    "fa": "همسرش (زن) به من اطلاع خواهد داد جزئیات تشییع جنازه را در روزهای آینده (می آیند)",
+    "fa": "همسرش (مرد) به من اطلاع خواهد داد جزئیات تشییع جنازه را در روزهای آینده (می آیند)",
     "en": "His wife will inform me of the funeral details in the coming days",
     "groupCode": 0
   },
@@ -4759,7 +4759,7 @@
   },
   {
     "id": 3781,
-    "fa": "او آمد (ایده) با یک ایده ابلهانه که هر کسی را به خنده انداخت",
+    "fa": "او (مرد) آمد (ایده) با یک ایده ابلهانه که هر کسی را به خنده انداخت",
     "en": "He came up with a daft idea that made everyone laugh",
     "groupCode": 0
   },
@@ -5696,7 +5696,7 @@
   {
     "id": 3935,
     "fa": "او (مرد) عذاب می کشید از این فکر که او ممکن بود نادیده گرفته شود توسط همکلاسی هایش",
-    "en": "He was tormented by the thought that he might be snubbed by his classmates",
+    "en": "\n 1.He was tormented (agonized) by the thought that he might be snubbed by his classmates \n 2.He agonized over the thought that he might be snubbed by his classmates",
     "groupCode": 0
   },
   {
@@ -5797,7 +5797,7 @@
   },
   {
     "id": 3952,
-    "fa": "شما یا با هوش مصنوعی جایگزین خواهید شد یا فردی که می داند چگونه کار کند با هوش مصنوعی بهتر",
+    "fa": "شما یا با هوش مصنوعی جایگزین خواهید شد یا با کسی که می داند چگونه کار کند با هوش مصنوعی بهتر",
     "en": "You will either be replaced by AI or by someone who knows how to work with AI better",
     "groupCode": 0
   },
@@ -5906,14 +5906,38 @@
   },
   {
     "id": 3970,
-    "fa": "من مجبور شدم بنویسم گزارشم را دوباره از اول(همه چیز)",
+    "fa": "من مجبور شدم دوباره بنویسم گزارشم را همه را از اول(همه چیز)",
     "en": "I had to rewrite my report all over again",
     "groupCode": 0
   },
   {
     "id": 3971,
-    "fa": "ضرب المثل به ما می گوید هر کسی شک می کند بازنده است",
-    "en": "The proverb tells us that who hesitates is lost",
+    "fa": "ضرب المثل به ما می گوید آنها کسانیکه شک می کنند بازنده هستند",
+    "en": "The proverb tells us that those who hesitate are lost",
+    "groupCode": 0
+  },
+  {
+    "id":3972,
+    "fa": "شما را در جلسه روزانه مان می بینیم",
+    "en": "See you in our daily meeting",
+    "groupCode": 0
+  },
+  {
+    "id":3973,
+    "fa": "من جمع کرده ام بچه گربه های ولگرد را از کوچه تا ببرم آنها را به پناهگاه",
+    "en": "I've rounded up the stray kittens from the alley to take them to the shelter",
+    "groupCode": 0
+  },
+  {
+    "id":3974,
+    "fa": "افرادی که زمانی احساس می کردند عقب مانده شده توسط ترس هایشان، اکنون دارن آغوش می کشند فرصت های جدید را",
+    "en": "People who once felt held back by their fears are now embracing new opportunities",
+    "groupCode": 0
+  },
+  {
+    "id":3975,
+    "fa": "همه چیزی بود که من (تاکیید) خواب (آن) دیده بودم",
+    "en": "It was everything I'd ever dreamt of",
     "groupCode": 0
   }
 ]
