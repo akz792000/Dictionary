@@ -856,7 +856,7 @@
   {
     "id": 10141,
     "en": "How much does eight kilos of strawberries cost?",
-    "de": "Wie viel kostet acht Kilo Erdbeeren?",
+    "de": "Wie viel kosten acht Kilo Erdbeeren?",
     "desc": "Wie viel: For uncountable nouns. (Wie viel Geld?)\nWie viele: For countable nouns. (Wie viele Bücher?)",
     "groupCode": 1
   },
@@ -3258,7 +3258,7 @@
   },
   {
     "id": 10537,
-    "en": "My wife is having a party on the third of April",
+    "en": "My wife is having (making) a party on the third of April",
     "de": "Meine Frau macht am dritten April eine Party",
     "groupCode": 1
   },
@@ -4174,8 +4174,8 @@
   },
   {
     "id": 10689,
-    "en": "Many students would also like to (toward) come to the party",
-    "de": "Viele Studenten mochten auch zur Party kommen",
+    "en": "Many students (male) would also like to (toward) come to the party",
+    "de": "Viele Studenten möchten auch zur Party kommen",
     "groupCode": 1
   },
   {
@@ -4983,8 +4983,8 @@
   },
   {
     "id": 10822,
-    "en": "Would you like to go by foot to the hotel?",
-    "de": "Möchtest du zu fuß bis zum (toward) hotel gehen?",
+    "en": "Would you like to go by foot to (toward) the hotel?",
+    "de": "Möchtest du zu fuß bis zum hotel gehen?",
     "desc": "Use bis to emphasize a limit, endpoint, or duration.\n\nExamples:\n\nOrt (Place): Wir gehen bis zum Park. (We walk all the way to the park.)\nZeit (Time): Ich warte bis morgen. (I wait until tomorrow.)\nReihenfolge (Order): Zähle bis zehn! (Count up to ten!)",
     "groupCode": 1
   },
@@ -5753,7 +5753,7 @@
   },
   {
     "id": 10949,
-    "en": "She meets her mother in an hour in cafe",
+    "en": "She meets her mother in an hour in the cafe shop",
     "de": "Sie trifft ihre Mutter in einer Stunde im Café",
     "groupCode": 1
   },
@@ -5783,7 +5783,7 @@
   },
   {
     "id": 10954,
-    "en": "Which seat would you like in the cinema?",
+    "en": "Which seat would you (formal) like in the cinema?",
     "de": "Welchen Sitz möchten Sie im Kino?",
     "groupCode": 1
   },
@@ -5826,7 +5826,7 @@
   {
     "id": 10961,
     "en": "She is excited, her partner's birthday is soon",
-    "de": "Sie ist aufgeregt, ihre Partnerin hat bald Geburtstag",
+    "de": "Sie ist aufgeregt, ihr Partner hat bald Geburtstag",
     "groupCode": 1
   },
   {

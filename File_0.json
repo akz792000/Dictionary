@@ -790,7 +790,7 @@
     "id": 131,
     "fa": "من می خوام تا زمانیکه برگشتم، رفته باشی",
     "en": "I want you gone by the time I get back",
-    "desc": "\"Get back\": Implies returning to a place after being away.\n\nExample: \"I want to go on by the time I get back\" (suggests a focus on the return process).\n\"Come back\": Simply means returning to a place or situation.\n\nExample: \"I want to go on by the time I come back\" (suggests a more straightforward return). \n\n Using \"get\" aligns the tenses properly, as the statement is about a future moment when the speaker returns",
+    "desc": "The word \"gone\" functions as an adjective \n\n \"Get back\": Implies returning to a place after being away.\n\nExample: \"I want to go on by the time I get back\" (suggests a focus on the return process).\n\"Come back\": Simply means returning to a place or situation.\n\nExample: \"I want to go on by the time I come back\" (suggests a more straightforward return). \n\n Using \"get\" aligns the tenses properly, as the statement is about a future moment when the speaker returns",
     "groupCode": 0
   },
   {
@@ -3540,7 +3540,7 @@
   },
   {
     "id": 586,
-    "fa": "من قصد دارم که پشتم را خم کنم و به نظر میرسه که تسلیم هستم",
+    "fa": "من قصد دارم پشتم را خم کنم و به نظر (شبیه) میرسه من (دارم) مطیع هستم",
     "en": "I am gonna curl my back over and it looks like I'm being submissive",
     "groupCode": 0
   },
@@ -3988,7 +3988,7 @@
   {
     "id": 659,
     "fa": "به هر حال، به طور خلاصه، من به خاطر نوشتن گرافیتی روی کابین های حمام اخراج شدم",
-    "en": "Anyway, long short story, I got expelled for writing graffiti on bathroom stalls",
+    "en": "Anyway, long story short, I got expelled for writing graffiti on bathroom stalls",
     "groupCode": 0
   },
   {
@@ -7369,7 +7369,7 @@
   },
   {
     "id": 1213,
-    "fa": "آیا غذاهای مورد علاقه ای دارید (مودبانه) شما توصیه کنید؟",
+    "fa": "آیا شما هر غذاهای مورد علاقه ای دارید (مودبانه) شما توصیه کنید؟",
     "en": "Do you have any favorite dishes you would recommend?",
     "groupCode": 0
   },
@@ -9163,7 +9163,7 @@
   },
   {
     "id": 1509,
-    "fa": "اینجا خیلی شلوغه. کاش این همه آدم نبود",
+    "fa": "خیلی شلوغه اینجا. کاش این همه آدم نبود",
     "en": "It's very crowded here. I wish there weren't so many people",
     "groupCode": 0
   },
@@ -11744,7 +11744,7 @@
   },
   {
     "id": 1935,
-    "fa": "چند بلیط برای آن پهپاد لازم دارم؟",
+    "fa": "چند بلیط من نیاز دارم برای آن پهپاد؟",
     "en": "How many tickets do I need for that drone?",
     "groupCode": 0
   },
@@ -17375,7 +17375,7 @@
   },
   {
     "id": 2861,
-    "fa": "من حتی یک دکتر نیستم، فقط وانمود می کنم که یک دکتر هستم",
+    "fa": "من حتی یک دکتر نیستم، من فقط وانمود می کنم یک دکتر هستم",
     "en": "I'm not even a doctor, I just pretend to be a doctor",
     "groupCode": 0
   },
@@ -17461,7 +17461,7 @@
   },
   {
     "id": 2875,
-    "fa": "تو هرگز من را (تاکید) نخواهی گرفت",
+    "fa": "تو من را (تاکید) نخواهی گرفت",
     "en": "You won't ever get me",
     "groupCode": 0
   },

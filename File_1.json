@@ -2477,7 +2477,7 @@
   },
   {
     "id": 3406,
-    "fa": "بسیار (وحشی) غافل گیر کننده خواهد بود (فرضی) اگر جیمی کارتر به اندازه کافی زندگی کند که ببیند بازگشت شاه باشد",
+    "fa": "بسیار غافل گیر کننده (زیبای وحشی) خواهد بود (فرضی) اگر جیمی کارتر به اندازه کافی زندگی کند که ببیند بازگشت شاه باشد",
     "en": "It would be pretty wild if Jimmy Carter lived long enough to see the return of the Shah",
     "desc": "The sentence \"It would be pretty wild\" means that something is expected to be surprising, exciting, or unpredictable. It's often used informally to express that a situation or event would be extreme or unusual in some way.",
     "groupCode": 0
@@ -2941,7 +2941,7 @@
   },
   {
     "id": 3481,
-    "fa": "در زمان سپیده دم، خالق بخشنده و قدرتمند ما بود",
+    "fa": "در زمان سپیده دم، خالق (سازنده) بخشنده و قدرتمند ما وجود داشت",
     "en": "At the dawn of time, there was our gracious and powerful creator",
     "desc": "Meaning they will let the other friend start running a few seconds earlier to make it a fairer race",
     "groupCode": 0
@@ -5039,7 +5039,7 @@
   },
   {
     "id": 3827,
-    "fa": "او (مرد) کمکم کرد از صمیم قلب",
+    "fa": "او (مرد) کمکم کرد از صمیم قلبش",
     "en": "He helped me out of his heart",
     "groupCode": 0
   },
@@ -5696,7 +5696,7 @@
   {
     "id": 3935,
     "fa": "او (مرد) عذاب می کشید از این فکر که او ممکن بود نادیده گرفته شود توسط همکلاسی هایش",
-    "en": "\n 1.He was tormented (agonized) by the thought that he might be snubbed by his classmates \n 2.He agonized over the thought that he might be snubbed by his classmates",
+    "en": "\n 1.He was tormented by the thought that he might be snubbed by his classmates \n 2.He agonized over the thought that he might be snubbed by his classmates",
     "groupCode": 0
   },
   {
@@ -5912,7 +5912,7 @@
   },
   {
     "id": 3971,
-    "fa": "ضرب المثل به ما می گوید آنها کسانیکه شک می کنند بازنده هستند",
+    "fa": "ضرب المثل به ما می گوید اون کسانیکه شک می کنند بازنده هستند",
     "en": "The proverb tells us that those who hesitate are lost",
     "groupCode": 0
   },
@@ -5924,13 +5924,14 @@
   },
   {
     "id": 3973,
-    "fa": "من جمع کرده ام بچه گربه های ولگرد را از کوچه تا ببرم آنها را به پناهگاه",
+    "fa": "من جمع (گرد) کرده ام بچه گربه های ولگرد را از کوچه تا ببرم آنها را به پناهگاه",
     "en": "I've rounded up the stray kittens from the alley to take them to the shelter",
+    "desc": "Stray kittens = Homeless or lost, living independently.\n\nStranded kittens = Trapped or stuck, needing help to escape.",
     "groupCode": 0
   },
   {
     "id": 3974,
-    "fa": "افرادی که زمانی احساس می کردند عقب مانده شده توسط ترس هایشان، اکنون دارن آغوش می کشند فرصت های جدید را",
+    "fa": "مردمیکه زمانی احساس می کردند عقب نگه داشته شدند توسط ترس هایشان، دارن اکنون آغوش می گیرند فرصت های جدید را",
     "en": "People who once felt held back by their fears are now embracing new opportunities",
     "groupCode": 0
   },
@@ -5942,7 +5943,7 @@
   },
   {
     "id": 3976,
-    "fa": "پسر منتقل می شود به بیمارستان پس از احیا",
+    "fa": "پسر منتقل (پرواز) می شود به بیمارستان پس از احیا",
     "en": "Boy is flown to hospital after resuscitation",
     "groupCode": 0
   },
@@ -5950,6 +5951,7 @@
     "id": 3977,
     "fa": "(این) به من کمک کرد غلبه کنم بر تمام ناامنی (که) من داشتم",
     "en": "It helped me overcome all the insecurity I had",
+    "desc": "\"It helped me overcome\"\n\nThis is more concise and commonly used in everyday speech and writing.\n\nExample: \"The support from my friends helped me overcome my fears.\"\n\n\"It helped me to overcome\"\n\nThis version includes the infinitive marker \"to,\" which can sound a bit more formal or emphasize the action.\n\nExample: \"The therapy sessions helped me to overcome my anxiety.\"",
     "groupCode": 0
   },
   {
@@ -5960,8 +5962,8 @@
   },
   {
     "id": 3979,
-    "fa": "من مصمم بودم درست انجامش دهم",
-    "en": "I was determined to get it rights",
+    "fa": "من مصمم بودم درستش کنم",
+    "en": "I was determined to get it right",
     "groupCode": 0
   },
   {
@@ -5972,7 +5974,7 @@
   },
   {
     "id": 3981,
-    "fa": "پنجره ها می لرزیدند تمام شب",
+    "fa": "پنجره ها داشتند می لرزیدند تمام شب",
     "en": "The windows were rattling all night",
     "groupCode": 0
   },
@@ -5986,6 +5988,48 @@
     "id": 3983,
     "fa": "به منظور ترمیم شکاف بر سر تجارت، رهبران جلسه ای برگزار کردند",
     "en": "In a bid to mend a rift over trade, the leaders held a meeting",
+    "groupCode": 0
+  },
+  {
+    "id": 3984,
+    "fa": "بپیچ پین را به بیرون",
+    "en": "Screw pin out",
+    "groupCode": 0
+  },
+  {
+    "id": 3985,
+    "fa": "او (زن) احساس ناامیدی کرد پس از باخت",
+    "en": "She felt despondent (disappointed) after the loss",
+    "groupCode": 0
+  },
+  {
+    "id": 3986,
+    "fa": "(به) او (مرد) داده شد تمام توصیه ای (که) او نیاز داشت",
+    "en": "He was given all the advice he needed",
+    "groupCode": 0
+  },
+  {
+    "id": 3987,
+    "fa": "کدام زبان کلمه انگلیسی 'حقوق' سرچشمه می گیرد از؟",
+    "en": "Which language does the English word 'salary' originate from?",
+    "groupCode": 0
+  },
+  {
+    "id": 3988,
+    "fa": "کشتی به گل نشسته بود (سرگردان) در یک ساحل شنی (بانک شنی)",
+    "en": "The ship was stranded on a sandbank",
+    "groupCode": 0
+  },
+  {
+    "id": 3989,
+    "fa": "من پرز پاک کن خریدم",
+    "en": "I bought a lint remover",
+    "groupCode": 0
+  },
+  {
+    "id": 3990,
+    "fa": "از دست نده آخرین فرصت خود را برای گرفتن (چنگ) یک تخفیف استثنایی (منحصر به فرد) تا 70٪ (تخفیف)",
+    "en": "Don't miss your final chance to grab an exclusive discount of up to 70% off",
     "groupCode": 0
   }
 ]
