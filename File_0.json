@@ -4772,7 +4772,7 @@
   },
   {
     "id": 787,
-    "fa": "داره برای جلسه دیرم میشه به دلیل ترافیک سنگین, بنابراین باید عجله کنم",
+    "fa": "من داره برای جلسه دیرم میشه به دلیل ترافیک سنگین, بنابراین باید عجله کنم",
     "en": "I am running late for the meeting due to heavy traffic, so I have to hurry",
     "desc": " \"I am running late\" implies an ongoing delay and suggests an effort to catch up, while \"I am late\" indicates that the delay has already occurred without emphasizing any further action to address it.",
     "groupCode": 0
@@ -7467,7 +7467,7 @@
   },
   {
     "id": 1229,
-    "fa": "نمی توانم ذهنم را درست کنم (نمی توانم تصمیم بگیرم)",
+    "fa": "نمی توانم ذهنم را مرتب کنم (نمی توانم تصمیم بگیرم)",
     "en": "I can't make up my mind",
     "groupCode": 0
   },
@@ -11178,7 +11178,7 @@
   },
   {
     "id": 1841,
-    "fa": "اگر محموله امروز ترک کند، در سه هفته دیگر می رسد",
+    "fa": "اگر محموله امروز ترک کند، خواهد رسید در سه هفته",
     "en": "If the shipment leaves today, it will arrive in three weeks",
     "groupCode": 0
   },
@@ -13231,7 +13231,7 @@
   },
   {
     "id": 2179,
-    "fa": "در شرایط من (فرضی) چه کرده بودید؟",
+    "fa": "چه کرده بودید در شرایط من (فرضی)؟",
     "en": "What would you have done in my situation?",
     "groupCode": 0
   },
@@ -14733,7 +14733,7 @@
   },
   {
     "id": 2427,
-    "fa": "اونا اصلا قابل اعتماد به نظر نمی رسند",
+    "fa": "آنها به نظر نمی رسند قابل اعتماد اصلا",
     "en": "They don't look trustworthy at all",
     "groupCode": 0
   },
@@ -16847,7 +16847,7 @@
   },
   {
     "id": 2774,
-    "fa": "او (زن) سال ها از حساب شرکت پول اختلاس کرده بود",
+    "fa": "او (زن) پول اختلاس کرده بود از حساب شرکت برای سال ها",
     "en": "She had been embezzling money from the corporate account for years",
     "groupCode": 0
   },
@@ -17772,7 +17772,7 @@
   },
   {
     "id": 2926,
-    "fa": "من مایلم از این فرصت استفاده کنم تا تشکر کنم از همه برای کار سخت و فداکاری",
+    "fa": "من مایلم از این فرصت استفاده کنم تا تشکر کنم (از) همه برای کار سخت و فداکاری آنها",
     "en": "I would like to take this opportunity to thank everyone for their hard work and dedication",
     "groupCode": 0
   },

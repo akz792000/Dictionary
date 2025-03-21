@@ -5041,6 +5041,7 @@
     "id": 3827,
     "fa": "او (مرد) کمکم کرد از صمیم قلبش",
     "en": "He helped me out of his heart",
+    "desc": "\"I spoke out of my mind.\"\n\nThis suggests you spoke irrationally, without thinking clearly—almost as if you were not in control of your thoughts.\n\"Out of\" here implies being outside of a normal state (like \"out of control\" or \"out of character\").\n\"He helped me out of his heart.\"\n\nThis means he helped you sincerely, from deep emotions or kindness.\n\"Out of\" here means \"because of\" (like \"out of love\" or \"out of respect\").\nSo yes, the phrase \"out of\" has opposite meanings depending on usage—either being outside a state or coming from a reason/motivation.",
     "groupCode": 0
   },
   {
@@ -5882,7 +5883,7 @@
   },
   {
     "id": 3966,
-    "fa": "او (مرد) هیچوقت از انجام دادن وظیفه اش ( از شدت درد یا ترس ) عقب نکشیدم",
+    "fa": "او (مرد) هیچوقت از انجام دادن وظیفه اش ( از شدت درد یا ترس ) عقب نکشید",
     "en": "He never flinched from doing his duty",
     "groupCode": 0
   },
@@ -6022,7 +6023,7 @@
   },
   {
     "id": 3989,
-    "fa": "من پرز پاک کن خریدم",
+    "fa": "من پرزگیر (حذف کن) خریدم",
     "en": "I bought a lint remover",
     "groupCode": 0
   },
@@ -6030,6 +6031,36 @@
     "id": 3990,
     "fa": "از دست نده آخرین فرصت خود را برای گرفتن (چنگ) یک تخفیف استثنایی (منحصر به فرد) تا 70٪ (تخفیف)",
     "en": "Don't miss your final chance to grab an exclusive discount of up to 70% off",
+    "groupCode": 0
+  },
+  {
+    "id": 3991,
+    "fa": "یک چند مطالعات نشان می دهد که مردم حفظ می کنند 70٪ اطلاعات بیشتری را هنگامیکه آنها گوش می دهند",
+    "en": "A few studies show that people retain 70% more information when they listen",
+    "groupCode": 0
+  },
+  {
+    "id": 3992,
+    "fa": "من ترجیح می دهم ببینم یک فیلمی با زیرنویسها تا یکی که دوبله شده باشد به فارسی",
+    "en": "I'd rather watch a movie with subtitles than one dubbed into Farsi",
+    "groupCode": 0
+  },
+  {
+    "id": 3993,
+    "fa": "آخرین آلبوم او (زن) است یک مجموعه ای از تمام بهترین تکهاش (آهنگ های)",
+    "en": "Her latest album is a compilation of all her best singles",
+    "groupCode": 0
+  },
+  {
+    "id": 3994,
+    "fa": "او (مرد) همیشه سخت کوش و صرفه جو است",
+    "en": "He has always been hard-working and frugal",
+    "groupCode": 0
+  },
+  {
+    "id": 3995,
+    "fa": "من نمی توانم تصمیم بگیرم, لطفاً کمکم کن ذهنم را مرتب کنم (تصمیم بگیرم)",
+    "en": "I can't decide, please help me make up my mind",
     "groupCode": 0
   }
 ]
