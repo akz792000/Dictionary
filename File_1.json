@@ -2623,6 +2623,7 @@
     "id": 3429,
     "fa": "آیا می توانید به من کمک کنید تا این سند را چاپ کنم؟",
     "en": "Can you help me print out this document?",
+    "desc": "\"Can you help me to print out this document?\" is grammatically correct but sounds slightly more formal or less common in spoken English.",
     "groupCode": 0
   },
   {
@@ -3853,7 +3854,7 @@
   },
   {
     "id": 3631,
-    "fa": "من خریدم یک کلاه بافتنی پشمی با افتاب گیر و فلپ های گوش برای گرم نگه داشتن",
+    "fa": "من خریدم یک کلاه بافتنی پشمی با یک افتاب گیر و فلپ های گوش برای گرم نگه داشتن",
     "en": "I bought a wool knitted hat with a visor and ear flaps to keep warm",
     "desc": "\n\"Wool\" works as an adjective when describing something made of wool, like \"wool hat.\"\n\"Woolen\" is also correct and emphasizes the material, but it's more formal. Both are fine to use!",
     "groupCode": 0
@@ -4790,7 +4791,7 @@
   },
   {
     "id": 3786,
-    "fa": "این اتومات می کند بسیاری از کارها را",
+    "fa": "این اتومات می کند یک عالمه کار را",
     "en": "This automates a lot of work",
     "desc": "\"Work\" (uncountable): Refers to tasks or general effort.\nExample: This automates a lot of work.\n\n\"Works\" (countable): Refers to specific creations (e.g., art, literature).\nExample: She admired his works of art.",
     "groupCode": 0
@@ -5828,7 +5829,7 @@
   },
   {
     "id": 3957,
-    "fa": "آیا می دانستید که شما می توانید فایل کنید اظهارنامه مالیاتی خود را برای چهار سال گذشته به طور معطوف به گذشته؟",
+    "fa": "آیا می دانستید که شما می توانید فایل کنید اظهارنامه های مالیاتی خود را برای چهار سال گذشته به طور معطوف به گذشته؟",
     "en": "Did you know that you can file your tax returns for the last four years retroactively?",
     "groupCode": 0
   },
@@ -6023,7 +6024,7 @@
   },
   {
     "id": 3989,
-    "fa": "من پرزگیر (حذف کن) خریدم",
+    "fa": "من یک پرزگیر (حذف کن) خریدم",
     "en": "I bought a lint remover",
     "groupCode": 0
   },
@@ -6061,6 +6062,12 @@
     "id": 3995,
     "fa": "من نمی توانم تصمیم بگیرم, لطفاً کمکم کن ذهنم را مرتب کنم (تصمیم بگیرم)",
     "en": "I can't decide, please help me make up my mind",
+    "groupCode": 0
+  },
+  {
+    "id": 3996,
+    "fa": "او (مرد) به شدت مورد سرزنش قرار گرفت برای رفتار غیرحرفه ایش",
+    "en": "He was severely reprimanded for his unprofessional behavior",
     "groupCode": 0
   }
 ]
