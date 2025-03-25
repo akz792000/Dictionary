@@ -92,8 +92,8 @@
   },
   {
     "id": 10016,
-    "en": "I'm a nurse",
-    "de": "Ich bin Krankenpfleger/Krankenpflegerin (Krankenschwester)",
+    "en": "Ali is at home. He opens the door",
+    "de": "Ali ist zu Hause. Er öffnet die Tür",
     "groupCode": 1
   },
   {
@@ -1096,7 +1096,7 @@
   {
     "id": 10180,
     "en": "Nothing tastes good currently (at the moment)",
-    "de": "Nicht schmeckt zurzeit gut",
+    "de": "Nichts schmeckt zurzeit gut",
     "groupCode": 1
   },
   {
@@ -1498,8 +1498,8 @@
   },
   {
     "id": 10246,
-    "en": "I have a toothache I can't ride (a) bike",
-    "de": "Ich habe Zahnschmerzen ich kann kein Fahrrad fahren",
+    "en": "I have a toothache, I can't ride (a) bike",
+    "de": "Ich habe Zahnschmerzen, ich kann kein Fahrrad fahren",
     "desc": "Kein Fahrrad fahren negates the noun (bicycle): \"I can't ride any bike.\"\nNicht fahren negates the action (riding): less common in this context.\nUse kein Fahrrad fahren for clarity when referring to the bike.",
     "groupCode": 1
   },
@@ -2424,7 +2424,7 @@
   },
   {
     "id": 10399,
-    "en": "I am definitely coming to (toward) the party",
+    "en": "I am definitely (certainly) coming to (toward) the party",
     "de": "Ich komme ganz bestimmt zur Party",
     "groupCode": 1
   },
@@ -2776,8 +2776,8 @@
   },
   {
     "id": 10457,
-    "en": "Ali comes right now (soon) from the train station to (toward) the party",
-    "de": "Ali kommt gleich vom Bahnhof zur Party",
+    "en": "Ali comes right now (soon) from the train station to (toward) the party. Can you pick up Ali from the train station?",
+    "de": "Ali kommt gleich vom Bahnhof zur Party. Kannst du Ali vom Bahnhof abholen?",
     "groupCode": 1
   },
   {
@@ -3042,8 +3042,8 @@
   },
   {
     "id": 10501,
-    "en": "I have a request, can you buy the cake?",
-    "de": "Ich habe eine bitte, kannst du den Kuchen kaufen?",
+    "en": "I have a request, can you buy the cake or order the pizzas?",
+    "de": "Ich habe eine bitte, kannst du den Kuchen kaufen oder die Pizzas bestellen?",
     "groupCode": 1
   },
   {
@@ -3820,8 +3820,8 @@
   },
   {
     "id": 10630,
-    "en": "How many guests are you inviting?",
-    "de": "Wie viele Gäste lädst du ein?",
+    "en": "Do you understand this word?",
+    "de": "Verstehst du dieses Wort?",
     "groupCode": 1
   },
   {
@@ -3916,7 +3916,7 @@
   },
   {
     "id": 10646,
-    "en": "We have to drive to (toward) the airport now, but I definitely want to come back (again) in January",
+    "en": "We have to drive to (toward) the airport now, but I definitely (in any case) want to come back (again) in January",
     "de": "Wir müssen jetzt zum Flughafen fahren, aber ich will im Januar auf jeden Fall wiederkommen",
     "groupCode": 1
   },
@@ -4332,7 +4332,7 @@
   },
   {
     "id": 10715,
-    "en": "Is tomorrow quite certainly an important day?",
+    "en": "Is tomorrow definitely (certainly) an important day?",
     "de": "Ist morgen ganz bestimmt ein wichtiger Tag?",
     "groupCode": 1
   },
@@ -4830,7 +4830,7 @@
   {
     "id": 10797,
     "en": "What are you by profession? I am an engineer or computer scientist or nursery teacher or nurse by profession",
-    "de": "Was bist du von Beruf? Ich bin Ingenieur/Ingenieurin oder Informatiker/Informatikerin oder Erzieher/Erzieherin oder Krankenpfleger/Krankenpflegerin von Beruf",
+    "de": "Was bist du von Beruf? Ich bin Ingenieur/Ingenieurin oder Informatiker/Informatikerin oder Erzieher/Erzieherin oder Krankenpfleger/Krankenpflegerin (Krankenschwester) von Beruf",
     "groupCode": 1
   },
   {
@@ -5518,7 +5518,7 @@
   },
   {
     "id": 10910,
-    "en": "Ali is definitely coming. Ali takes a taxi",
+    "en": "Ali is definitely (in any case) coming. Ali takes a taxi",
     "de": "Ali kommt auf jeden Fall. Ali nimmt ein Taxi",
     "groupCode": 1
   },
@@ -5813,7 +5813,7 @@
   },
   {
     "id": 10959,
-    "en": "I would definitely like to come",
+    "en": "I would definitely (in any case) like to come",
     "de": "Ich möchte Auf jeden fall kommen",
     "groupCode": 1
   },
@@ -5851,6 +5851,126 @@
     "id": 10965,
     "en": "I'm bringing chocolate to (toward) the party",
     "de": "Ich bringe Schokolade zur Party mit",
+    "groupCode": 1
+  },
+  {
+    "id": 10966,
+    "en": "You don't have to bring along gifts to the party",
+    "de": "Du musst keine Geschenke zur Party mitbringen",
+    "groupCode": 1
+  },
+  {
+    "id": 10967,
+    "en": "How many presents does Ali get?",
+    "de": "Wie viele Geschenke bekommt Ali?",
+    "groupCode": 1
+  },
+  {
+    "id": 10968,
+    "en": "I have to pick up my parents earlier",
+    "de": "Ich muss meine Eltern früher abholen",
+    "groupCode": 1
+  },
+  {
+    "id": 10969,
+    "en": "Are you picking up your parents?",
+    "de": "Holst du deine Eltern ab?",
+    "groupCode": 1
+  },
+  {
+    "id": 10970,
+    "en": "Who do I pick up?",
+    "de": "Wen hole ich ab?",
+    "groupCode": 1
+  },
+  {
+    "id": 10971,
+    "en": "For Whom are you buying the gifts?",
+    "de": "Für wen kaufst du die Geschenke?",
+    "groupCode": 1
+  },
+  {
+    "id": 10972,
+    "en": "Are you (plural) bringing your boyfriend to the party?",
+    "de": "Bringst du euren Freund zur Party mit?",
+    "groupCode": 1
+  },
+  {
+    "id": 10973,
+    "en": "My mother picks up eight bottles of wine",
+    "de": "Meine Mutter holt acht Flaschen wein ab",
+    "groupCode": 1
+  },
+  {
+    "id": 10974,
+    "en": "The house is dirty, we have to clean it",
+    "de": "Das Haus ist schmutzig, wir müssen es putzen",
+    "groupCode": 1
+  },
+  {
+    "id": 10975,
+    "en": "The train arrives in forty-five minutes. My brother pick Ali up from the trin station, then they come to the party together",
+    "de": "Der Zug kommt in fünfundvierzig Minuten. Mein Bruder holt Ali bom Bahnhof ab, dann kommen sie zusammen zur Party",
+    "groupCode": 1
+  },
+  {
+    "id": 10976,
+    "en": "I have a request, can you find a band?",
+    "de": "Ich habe eine Bitte, kannst du eine Band finden?",
+    "groupCode": 1
+  },
+  {
+    "id": 10977,
+    "en": "The gift is boring, I don't like it",
+    "de": "Das Geschenk ist langweilig, ich mag es nicht",
+    "groupCode": 1
+  },
+  {
+    "id": 10978,
+    "en": "I have to talk to you (formal), do you have a moment?",
+    "de": "Ich muss mit ihnen sprechen, haben Sie einen Moment?",
+    "groupCode": 1
+  },
+  {
+    "id": 10979,
+    "en": "I'm sorry, I'm nervous because I don't understand the question",
+    "de": "Es tut mir leid, ich bin nervös, denn ich verstehe die Frage nicht",
+    "groupCode": 1
+  },
+  {
+    "id": 10980,
+    "en": "We have to give the forms to the boss",
+    "de": "Wir müssen die Formulare der Chefin geben",
+    "groupCode": 1
+  },
+  {
+    "id": 10981,
+    "en": "I don't understand this word, what does it mean?",
+    "de": "Ich verstehe diese Wort nicht, was bedeutet es?",
+    "groupCode": 1
+  },
+  {
+    "id": 10982,
+    "en": "I don't understand the question, do you understand it?",
+    "de": "Ich verstehe die Frage nicht, verstehst du sie?",
+    "groupCode": 1
+  },
+  {
+    "id": 10983,
+    "en": "We drive almost always by street car",
+    "de": "Wir fahren fast immer mit der Straßenbahn",
+    "groupCode": 1
+  },
+  {
+    "id": 10984,
+    "en": "I ride with my bike to the embassy and of course I wear my bike helmet",
+    "de": "Ich fahre mit dem Fahrrad zur Botschaft und natürlich trage ich meinen Fahrradhelm",
+    "groupCode": 1
+  },
+  {
+    "id": 10985,
+    "en": "I usually drive with the bus to the bank",
+    "de": "Ich fahre meistens mit dem Bus zur Bank",
     "groupCode": 1
   }
 ]

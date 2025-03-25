@@ -3772,6 +3772,7 @@
     "id": 3617,
     "fa": "من تصمیم گرفتم کاندید شوم برای مدیریت مهندس کارکنان تا مسئولیت های رهبری بیشتری را بر عهده بگیرم",
     "en": "I decided to run for Staff Engineer Manager to take on more leadership responsibilities",
+    "desc": "Take on is more about accepting or engaging with a new task, challenge, or responsibility. It often implies voluntary engagement with something new rather than inheriting or seizing control. For instance, accepting more work, projects, or challenges falls under \"take on.\"\n\nTake over specifically involves assuming control or responsibility that was previously held by someone else. It often indicates a transition of authority or leadership, such as when one person inherits a position or a company acquires control of another business.",
     "groupCode": 0
   },
   {
@@ -6067,7 +6068,32 @@
   {
     "id": 3996,
     "fa": "او (مرد) به شدت مورد سرزنش قرار گرفت برای رفتار غیرحرفه ایش",
-    "en": "He was severely reprimanded for his unprofessional behavior",
+    "en": "He was severely reprimanded /ˈreprəˌmænd/ for his unprofessional behavior",
+    "groupCode": 0
+  },
+  {
+    "id": 3997,
+    "fa": "او (مرد) امضا کرد یک فرمان اجرایی با هدف انحلال دپارتمان آموزش",
+    "en": "He signed an executive order aimed at dismantling the Education Department",
+    "desc": "\"aimed at dismantling the Education Department\" → Past participle phrase (functions as an adjective describing \"order\").\n\n\"aimed\" → Past participle of \"aim,\" used as an adjective.\n\"at dismantling the Education Department\" → Prepositional phrase modifying \"aimed.\"",
+    "groupCode": 0
+  },
+  {
+    "id": 3998,
+    "fa": "آنها احساس عقب ماندن کردند، فقدان اعتماد به نفس و نمی توانستند بیان کنند خودشان را به طور کامل",
+    "en": "They felt held back, lacked confidence and couldn't express themselves fully",
+    "groupCode": 0
+  },
+  {
+    "id": 3999,
+    "fa": "بیایید فقط سفارش بدهیم امشب. من حوصله آشپزی ندارم",
+    "en": "Let's just order in tonight; I don't feel like cooking",
+    "groupCode": 0
+  },
+  {
+    "id": 4000,
+    "fa": "من تصادفاً زدم «پاسخ به همه» روی یک ایمیل",
+    "en": "I accidentally hit 'Reply All' on an email",
     "groupCode": 0
   }
 ]

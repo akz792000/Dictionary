@@ -790,7 +790,7 @@
     "id": 131,
     "fa": "من می خوام تا زمانیکه برگشتم، رفته باشی",
     "en": "I want you gone by the time I get back",
-    "desc": "The word \"gone\" functions as an adjective \n\n \"Get back\": Implies returning to a place after being away.\n\nExample: \"I want to go on by the time I get back\" (suggests a focus on the return process).\n\"Come back\": Simply means returning to a place or situation.\n\nExample: \"I want to go on by the time I come back\" (suggests a more straightforward return). \n\n Using \"get\" aligns the tenses properly, as the statement is about a future moment when the speaker returns",
+    "desc": "Object: \"you gone\"\n\n\"You\" is the direct object, referring to the person affected by the desire.\n\"Gone\" functions as a complement providing additional information about the object's desired state, often referred to as a \"object complement\" or \"predicate adjective.\"",
     "groupCode": 0
   },
   {
