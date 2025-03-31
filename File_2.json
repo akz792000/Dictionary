@@ -3846,6 +3846,7 @@
     "id": 10634,
     "en": "I can't pay the rent without a job",
     "de": "Ich kann ohne einen Job die Miete nicht zahlen",
+    "desc": "In German, negation with nicht generally follows this structure:\n\nIf nicht negates the entire verb phrase, it usually comes before the verb (here: zahlen).\n\nIf nicht negates a specific part of the sentence, it would be placed directly before that part (e.g., nicht die Miete, meaning \"not the rent, but something else\").\n\nIn your second sentence (Ich kann ohne einen Job nicht die Miete zahlen), nicht die Miete could imply contrast—suggesting you can pay something else, but not the rent. However, in normal usage, this sounds unnatural.\n\nSo, stick with:\n✅ Ich kann ohne einen Job die Miete nicht zahlen.",
     "groupCode": 1
   },
   {
@@ -4144,8 +4145,8 @@
   },
   {
     "id": 10684,
-    "en": "I don't like the weather here, it rains every day. But in Tehran the sun always snows, I need a vacation",
-    "de": "Ich mag das Wetter hier nicht, es regnet jeden Tag. Aber in Tehran schneit immer die Sonne, Ich brauche einen Urlaub",
+    "en": "I don't like the weather here, it rains every day. But in Tehran the sun always shines, I need a vacation",
+    "de": "Ich mag das Wetter hier nicht, es regnet jeden Tag. Aber in Tehran scheint immer die Sonne, Ich brauche einen Urlaub",
     "groupCode": 1
   },
   {
@@ -5154,8 +5155,8 @@
   },
   {
     "id": 10850,
-    "en": "Do you still have to wash these socks?",
-    "de": "Musst du diese Socken noch waschen?",
+    "en": "I pay for groceries with my EC card",
+    "de": "Ich zahle mit meiner EC Karte für Lebensmittel",
     "groupCode": 1
   },
   {
@@ -5855,7 +5856,7 @@
   },
   {
     "id": 10966,
-    "en": "You don't have to bring along gifts to the party",
+    "en": "You don't have to bring along gifts to (toward) the party",
     "de": "Du musst keine Geschenke zur Party mitbringen",
     "groupCode": 1
   },
@@ -5891,7 +5892,7 @@
   },
   {
     "id": 10972,
-    "en": "Are you (plural) bringing your boyfriend to the party?",
+    "en": "Are you (plural) bringing your boyfriend to (toward) the party?",
     "de": "Bringst du euren Freund zur Party mit?",
     "groupCode": 1
   },
@@ -5909,7 +5910,7 @@
   },
   {
     "id": 10975,
-    "en": "The train arrives in forty-five minutes. My brother pick Ali up from the trin station, then they come to the party together",
+    "en": "The train arrives in forty-five minutes. My brother pick Ali up from the trin station, then they come to (toward) the party together",
     "de": "Der Zug kommt in fünfundvierzig Minuten. Mein Bruder holt Ali bom Bahnhof ab, dann kommen sie zusammen zur Party",
     "groupCode": 1
   },
@@ -5957,13 +5958,13 @@
   },
   {
     "id": 10983,
-    "en": "We drive almost always by street car",
+    "en": "We drive almost always by the street car",
     "de": "Wir fahren fast immer mit der Straßenbahn",
     "groupCode": 1
   },
   {
     "id": 10984,
-    "en": "I ride with my bike to the embassy and of course I wear my bike helmet",
+    "en": "I ride with the bike to (toward) the embassy and of course I wear my bike helmet",
     "de": "Ich fahre mit dem Fahrrad zur Botschaft und natürlich trage ich meinen Fahrradhelm",
     "groupCode": 1
   },

@@ -2762,6 +2762,7 @@
     "id": 457,
     "fa": "ممکنه یه خواهشی کنم؟",
     "en": "May I ask a favor?",
+    "desc": "✅ \"May I ask a favor?\" is correct because \"ask\" is used without a direct object (no \"him\" or \"her\").\n\nHowever, when you specify who you're asking, you need \"ask [someone] for a favor\":\n✅ \"May I ask you for a favor?\" (Correct)",
     "groupCode": 0
   },
   {
@@ -4257,7 +4258,7 @@
   },
   {
     "id": 703,
-    "fa": "حرفت یادت نره",
+    "fa": "حرفت (آن) یادت نره",
     "en": "Hold that thought",
     "groupCode": 0
   },
@@ -6016,7 +6017,7 @@
     "id": 991,
     "fa": "نیازی نیست به ترس از روبات ها بر عهده بگیرند جهان را, تا زمانی که احساسات را در آنها برنامه ریزی نکنیم",
     "en": "No need to fear robots taking over the world as long as we don't program emotions into them",
-    "desc": "In this sentence, \"fear\" is used as a verb, and you don't need the preposition \"of\" after it",
+    "desc": "In this sentence, \"fear\" is used as a verb, and you don't need the preposition \"of\" after it \n\n \"As long as\" – More common in everyday speech and writing. It sounds neutral and natural.\n\nExample: You can stay here as long as you clean up after yourself.\n\n\"So long as\" – Slightly more formal or literary. It can also sound a bit more conditional or restrictive.\n\nExample: You may leave early so long as your work is finished.",
     "groupCode": 0
   },
   {
@@ -6273,7 +6274,7 @@
   },
   {
     "id": 1033,
-    "fa": "من رو 2 نفر حساب کن",
+    "fa": "من رو 2 نفر (مردم) حساب کن",
     "en": "Count me as 2 people",
     "groupCode": 0
   },
@@ -10319,6 +10320,7 @@
     "id": 1700,
     "fa": "آیا فرصت کردی با دخترت صحبت کنی؟",
     "en": "Did you get a chance to talk to your daughter?",
+    "desc": "\"Talk to\" → Casual, two-way conversation.\n\n\"Speak to\" → More formal, can be one-sided.\n\n✅ \"Did you get a chance to talk to your daughter?\" (Casual chat)\n✅ \"Did you get a chance to speak to your daughter?\" (More formal or serious)",
     "groupCode": 0
   },
   {
@@ -13828,7 +13830,7 @@
   },
   {
     "id": 2278,
-    "fa": "چگونه من ممکن است حق داشته باشم بروم و زندگی کنم آنجا اگر کسی بومی آن سرزمینی که خانواده اش از آنجا رانده شده است آن حق را ندارد؟",
+    "fa": "چگونه می توانم من در صورت امکان حق داشته باشم بروم و زندگی کنم آنجا اگر کسی بومی آن سرزمینی که خانواده اش از آنجا رانده شده است آن حق را ندارد؟",
     "en": "How can I possibly have the right to go and live there if someone indigenous to that land whose family was driven from there does not have that right?",
     "groupCode": 0
   },

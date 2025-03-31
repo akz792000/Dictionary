@@ -897,6 +897,7 @@
     "id": 3147,
     "fa": "او (زن) گرد غبار را از روی کتش تکان داد",
     "en": "She flicked the dust off her coat",
+    "desc": "\"Flick off\" is a phrasal verb, but when specifying what is being removed (\"the dust\"), it's more natural to place the object in between:",
     "groupCode": 0
   },
   {
@@ -1838,6 +1839,7 @@
     "id": 3301,
     "fa": "سه چهارم پیتزا تمام شده بود تا زمانیکه به خانه رسیدم",
     "en": "Three quarters of the pizza was gone by the time I got home",
+    "desc": "The subject \"three quarters of the pizza\" refers to a singular whole (the pizza), so the verb should be singular (was).\n\nIf the subject were plural (e.g., \"three quarters of the slices\"), you would use \"were.\"",
     "groupCode": 0
   },
   {
@@ -2906,7 +2908,7 @@
   },
   {
     "id": 3475,
-    "fa": "\"nicht\" به طور معمول برای نفی افعال، صفت ها یا عبارات خاص استفاده می شود، اما نه اسم های ساده (عریان) بدون یک آرتیکل",
+    "fa": "\"nicht\" به طور معمول استفاده می شود تا نفی کند افعال، صفت ها یا عبارات خاص، اما نه اسم های ساده (عریان) بدون یک آرتیکل",
     "en": "\"nicht\" is typically used to negate verbs, adjectives, or specific statements, but not bare nouns without an article",
     "groupCode": 0
   },
@@ -5483,7 +5485,7 @@
   },
   {
     "id": 3900,
-    "fa": "او (مرد) داره امروز جایگرین معلم میشه",
+    "fa": "او (مرد) داره امروز جایگزین معلم میشه",
     "en": "He is subbing for the teacher today",
     "groupCode": 0
   },
@@ -5940,7 +5942,7 @@
   },
   {
     "id": 3975,
-    "fa": "همه چیزی بود که من (تاکیید) خواب (آن) دیده بودم",
+    "fa": "همه چیزی بود که من (تاکید) خواب (آن) دیده بودم",
     "en": "It was everything I'd ever dreamt of",
     "groupCode": 0
   },
@@ -6094,6 +6096,30 @@
     "id": 4000,
     "fa": "من تصادفاً زدم «پاسخ به همه» روی یک ایمیل",
     "en": "I accidentally hit 'Reply All' on an email",
+    "groupCode": 0
+  },
+  {
+    "id": 4001,
+    "fa": "PH  (ایستادن برای) به چه معناست در کدهای کشور؟",
+    "en": "What does 'PH' stand for in country codes?",
+    "groupCode": 0
+  },
+  {
+    "id": 4002,
+    "fa": "دیتا در Algolia است",
+    "en": "Data is in the Algolia",
+    "groupCode": 0
+  },
+  {
+    "id": 4003,
+    "fa": "من نیاز دارم آروم شم بعد از آن بحث داغ",
+    "en": "I need to cool off after that heated argument",
+    "groupCode": 0
+  },
+  {
+    "id": 4004,
+    "fa": "من سرما خوردم و از شنبه سرفه دارم کردم. من به دکتر را ویزیت خواهم کرد. اگر من بتوانم, من در دیلی حضور خواهم داشت",
+    "en": "I caught a cold and have been coughing since Saturday. I will be visiting the doctor. If I can, I will be on daily",
     "groupCode": 0
   }
 ]
