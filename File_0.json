@@ -4601,6 +4601,7 @@
     "id": 759,
     "fa": "ایتالیا در کدام قاره است؟",
     "en": "What continent is Italy in?",
+    "desc": "\"What continent is Italy in?\" → More common in general speech.\n\n\"Which continent is Italy in?\" → Sounds like a choice among a limited set of options.",
     "groupCode": 0
   },
   {
@@ -11108,8 +11109,8 @@
   },
   {
     "id": 1829,
-    "fa": "سرما خوردم",
-    "en": "I caught a cold",
+    "fa": "من دندون مصنوعی دارم",
+    "en": "I have false teeth",
     "groupCode": 0
   },
   {
@@ -11186,7 +11187,7 @@
   },
   {
     "id": 1842,
-    "fa": "حمل (با کشتی) یک جعبه بزرگ به ایران چقدر طول می کشد (فرضی)؟",
+    "fa": "چقدر طول می کشد (فرضی) حمل (با کشتی) یک جعبه بزرگ به ایران؟",
     "en": "How long would it take to ship a large box to Iran?",
     "groupCode": 0
   },
@@ -14643,7 +14644,7 @@
   },
   {
     "id": 2412,
-    "fa": "من از او (مرد) نقل قول می کنم در مقاله تحقیقاتی خودم برای حمایت از بحثم",
+    "fa": "من از او (مرد) نقل قول می کنم در مقاله تحقیقاتی خودم برای حمایت از مشاجره ام",
     "en": "I quote him in my research paper to support my argument",
     "groupCode": 0
   },
@@ -17690,7 +17691,7 @@
   },
   {
     "id": 2912,
-    "fa": "هر بار که تو این بحث را مطرح می کنی، ما یک بحثی داریم",
+    "fa": "هر بار که تو این بحث را مطرح می کنی، ما یک مشاجره داریم",
     "en": "Every time you bring up this discussion, we have an argument",
     "groupCode": 0
   },

@@ -2473,7 +2473,7 @@
   },
   {
     "id": 3405,
-    "fa": "من نیاز دارم تا آروم شم بعد از آن بحث",
+    "fa": "من نیاز دارم تا آروم شم بعد از آن مشاجره",
     "en": "I need to cool off after that argument",
     "groupCode": 0
   },
@@ -3141,7 +3141,7 @@
   },
   {
     "id": 3513,
-    "fa": "من رد کردم عقب نشینی کردن را در طول بحث",
+    "fa": "من رد کردم عقب نشینی کردن را در طول مشاجره",
     "en": "I refused to back down during the argument",
     "groupCode": 0
   },
@@ -6107,19 +6107,67 @@
   {
     "id": 4002,
     "fa": "دیتا در Algolia است",
-    "en": "Data is in the Algolia",
+    "en": "Data is in Algolia",
     "groupCode": 0
   },
   {
     "id": 4003,
-    "fa": "من نیاز دارم آروم شم بعد از آن بحث داغ",
+    "fa": "من نیاز دارم آروم شم بعد از آن مشاجره داغ",
     "en": "I need to cool off after that heated argument",
     "groupCode": 0
   },
   {
     "id": 4004,
-    "fa": "من سرما خوردم و از شنبه سرفه دارم کردم. من به دکتر را ویزیت خواهم کرد. اگر من بتوانم, من در دیلی حضور خواهم داشت",
+    "fa": "من سرما خوردم و از شنبه سرفه دارم می کنم. من دکتر را ویزیت خواهم کرد. اگر من بتوانم, من در دیلی حضور خواهم داشت",
     "en": "I caught a cold and have been coughing since Saturday. I will be visiting the doctor. If I can, I will be on daily",
+    "groupCode": 0
+  },
+  {
+    "id": 4005,
+    "fa": "دندان بالایی ام لقه و دندان پایینی ام درد (نبض دار) می کند",
+    "en": "My upper tooth is wiggly and my lower one is throbbing",
+    "groupCode": 0
+  },
+  {
+    "id": 4006,
+    "fa": "این نظرسنجی (به این) منظور است مختصر باشد",
+    "en": "The survey is meant to be concise",
+    "groupCode": 0
+  },
+  {
+    "id": 4007,
+    "fa": "من زنگ در را نشنیدم چون من داشتم گوش میکردم موسیقی را خیلی بلند",
+    "en": "I didn't hear the doorbell because I was listening to music so loudly",
+    "groupCode": 0
+  },
+  {
+    "id": 4008,
+    "fa": "من جلسه را به سه شنبه موکول کردم",
+    "en": "I pushed back the meeting to tuesday",
+    "groupCode": 0
+  },
+  {
+    "id": 4009,
+    "fa": "ما ارسال خواهیم کرد برای شما برنامه سفر خودمان را",
+    "en": "We will send you our itinerary (/aɪˈtɪnəˌreri/)",
+    "groupCode": 0
+  },
+  {
+    "id": 4010,
+    "fa": "من دارم یک وظیفه (داره میاد) در اسپرینت بعدی جاییکه من قرار است پیاده سازی کنم یک ویژگی جدید را",
+    "en": "I have a task coming up in the next sprint where I am supposed to implement a new feature",
+    "groupCode": 0
+  },
+  {
+    "id": 4011,
+    "fa": "دو بچه زیر گرفته شده و کشته شدند",
+    "en": "Two children were run over and killed",
+    "groupCode": 0
+  },
+  {
+    "id": 4012,
+    "fa": "به من اجازه دهید مرور کنم (بررسی کنیم) جزئیات را قبل از جلسه",
+    "en": "Let me run over the details before the meeting",
     "groupCode": 0
   }
 ]
