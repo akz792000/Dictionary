@@ -458,7 +458,7 @@
     "id": 3075,
     "fa": "برای من مهم است ادامه دادن ورزش منظم",
     "en": "It's important for me to keep up regular exercise",
-    "desc": "For me: Benefit",
+    "desc": "\"To me\" = How it feels to you. (Personal, emotional)\n\"For me\" = How it helps you. (Practical, beneficial)",
     "groupCode": 0
   },
   {
@@ -2473,8 +2473,8 @@
   },
   {
     "id": 3405,
-    "fa": "من نیاز دارم تا آروم شم بعد از آن مشاجره",
-    "en": "I need to cool off after that argument",
+    "fa": "صبر کن (برای) تا سوپ خنک شود",
+    "en": "Wait for the soup to cool off",
     "groupCode": 0
   },
   {
@@ -4523,6 +4523,7 @@
     "id": 3741,
     "fa": "بازخورد شما باقی می ماند ارزشمند (قابل ارزش گذاری نیست) برای ما",
     "en": "Your feedback remains invaluable to us",
+    "desc": "\"Invaluable to us\":\n\n\"To\" indicates the recipient or beneficiary of the value.\nIt clearly shows that the feedback's value is directed towards and benefits the speaker or their group.\nThis aligns with the common usage of \"invaluable\" in this context.\n\"Invaluable for us\":\n\n\"For\" suggests a purpose or a means to an end. While feedback can be used for a purpose, it doesn't fit the natural flow of this sentence.\nIt sounds like the feedback is used as a tool, not that it is a value.\nIt is not the correct idiom.\nIn short, stick with \"your feedback remains invaluable to us.\"",
     "groupCode": 0
   },
   {
@@ -6168,6 +6169,54 @@
     "id": 4012,
     "fa": "به من اجازه دهید مرور کنم (بررسی کنیم) جزئیات را قبل از جلسه",
     "en": "Let me run over the details before the meeting",
+    "groupCode": 0
+  },
+  {
+    "id": 4013,
+    "fa": "او (مرد) پول زیادی در می آورد",
+    "en": "\n 1.He pulls in a lot of money \n 2.He earns a lot of money",
+    "groupCode": 0
+  },
+  {
+    "id": 4014,
+    "fa": "او (مرد) بدون هیچ حرفی رفت",
+    "en": "\n 1.He went off without a word \n 2.He left without a word",
+    "groupCode": 0
+  },
+  {
+    "id": 4015,
+    "fa": "کاری که تو انجام دادی خلاف قوانین (رفت) بود",
+    "en": "\n 1.What you did go against the rules \n 2.What you did violate the rules",
+    "groupCode": 0
+  },
+  {
+    "id": 4016,
+    "fa": "تو از او دوری می کردی از زمانی که ما شروع به قرار گذاشتن کردیم",
+    "en": "You have been avoiding her since we started dating",
+    "groupCode": 0
+  },
+  {
+    "id": 4017,
+    "fa": "ما خدماتی ارائه کردیم و ما مستحق دریافت پول هستیم",
+    "en": "We provided a service and we deserve to be paid",
+    "groupCode": 0
+  },
+  {
+    "id": 4018,
+    "fa": "مرا یاد آوری می کنه به کاری که تو کردی",
+    "en": "It reminds me of what you did",
+    "groupCode": 0
+  },
+  {
+    "id": 4019,
+    "fa": "وب سایت غیر قابل اعتماد به نظر می رسد",
+    "en": "\n 1.The website looks sketchy \n 2.The website looks untrustworthy",
+    "groupCode": 0
+  },
+  {
+    "id": 4020,
+    "fa": "جزییات داستان هنوز ناقص است",
+    "en": "The details of the story are still sketchy",
     "groupCode": 0
   }
 ]

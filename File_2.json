@@ -192,14 +192,14 @@
   },
   {
     "id": 10032,
-    "en": "I don't understand",
-    "de": "Ich verstehe nicht",
+    "en": "A moment, please. I don't understand",
+    "de": "Einen Moment, bitte. Ich verstehe nicht",
     "groupCode": 1
   },
   {
     "id": 10033,
-    "en": "A moment, please",
-    "de": "Einen Moment, bitte",
+    "en": "Which activities are better?",
+    "de": "Welche Aktivitäten sind besser?",
     "groupCode": 1
   },
   {
@@ -777,7 +777,7 @@
   },
   {
     "id": 10128,
-    "en": "Now we don't have also apple pie anymore",
+    "en": "Now we don't have also apple cake anymore",
     "de": "Jetzt haben wir auch keinen Apfelkuchen mehr",
     "groupCode": 1
   },
@@ -1155,7 +1155,7 @@
   },
   {
     "id": 10190,
-    "en": "I'm going (make) (on) a trip at the weekend",
+    "en": "I'm going (make) (on) an excursion at the weekend",
     "de": "Ich mache am Wochenende einen Ausflug",
     "groupCode": 1
   },
@@ -1613,8 +1613,8 @@
   },
   {
     "id": 10265,
-    "en": "No, we unfortunately do not have a double room available",
-    "de": "Nein wir haben leider kein Doppelzimmer frei",
+    "en": "No, we unfortunately do not have a double room free",
+    "de": "Nein ,wir haben leider kein Doppelzimmer frei",
     "groupCode": 1
   },
   {
@@ -1673,7 +1673,7 @@
   },
   {
     "id": 10275,
-    "en": "Unfortunately, I have no desire (I don't want to)",
+    "en": "I unfortunately have no desire (I don't want to)",
     "de": "Ich habe leider keine Lust",
     "groupCode": 1
   },
@@ -1923,7 +1923,7 @@
   },
   {
     "id": 10316,
-    "en": "I have to wait one hour, but you have to wait two hours",
+    "en": "I have to wait one hour, but you (formal) have to wait two hours",
     "de": "Ich muss eine Stunden warten, aber ihr müsst zwei Stunden warten",
     "groupCode": 1
   },
@@ -2021,6 +2021,7 @@
     "id": 10332,
     "en": "My dog doesn't eat his salad",
     "de": "Mein Hund isst seinen Salat nicht",
+    "desc": "In German, \"nicht\" usually comes after the object when negating the verb",
     "groupCode": 1
   },
   {
@@ -2051,8 +2052,8 @@
   },
   {
     "id": 10337,
-    "en": "Her friends are her family",
-    "de": "Ihre Freunde sind ihre Familie",
+    "en": "Fruit is healthy, can you agree with the doctor?",
+    "de": "Obst ist gesund, kannst du dem Arzt zustimmen?",
     "groupCode": 1
   },
   {
@@ -2135,7 +2136,7 @@
   },
   {
     "id": 10351,
-    "en": "I don't like salad. Me neither!",
+    "en": "I don't like a salad. Me neither!",
     "de": "Ich mag keinen Salad. Ich auch nicht!",
     "groupCode": 1
   },
@@ -2183,7 +2184,7 @@
   },
   {
     "id": 10359,
-    "en": "Do you meet your boyfriend at the cinema every weekend?",
+    "en": "Do you meet your boyfriend in the cinema every weekend?",
     "de": "Triffst du deinen Freund jedes Wochenende im Kino?",
     "groupCode": 1
   },
@@ -2340,7 +2341,7 @@
   },
   {
     "id": 10385,
-    "en": "Can tourists take the bus to Frankfurt",
+    "en": "Can the tourists take the bus to Frankfurt",
     "de": "Können die Touristen den Bus nach Frankfurt nehmen",
     "groupCode": 1
   },
@@ -2885,8 +2886,8 @@
   },
   {
     "id": 10475,
-    "en": "Which T-shirt do you want to pack?",
-    "de": "Welches T-Shirt willst du einpacken?",
+    "en": "Why does your uncle need so many bikes?",
+    "de": "Warum braucht dein Onkel so viele Fahrräder?",
     "groupCode": 1
   },
   {
@@ -3222,8 +3223,8 @@
   },
   {
     "id": 10531,
-    "en": "My dog eats a lot and I need a new job",
-    "de": "Mein Hund isst viel und ich brauche einen neuen Job",
+    "en": "I need a new job",
+    "de": "Ich brauche einen neuen Job",
     "groupCode": 1
   },
   {
@@ -4910,8 +4911,8 @@
   },
   {
     "id": 10810,
-    "en": "He will call me tomorrow",
-    "de": "Er wird mich morgen anrufen",
+    "en": "Gummies are too sweet, apples are better",
+    "de": "Fruit is healthy, can you agree with the doctor?",
     "groupCode": 1
   },
   {
@@ -5191,8 +5192,8 @@
   },
   {
     "id": 10856,
-    "en": "I had to throw out the cucumber because it was moldy",
-    "de": "Ich musste die Gurke wegwerfen, weil sie schimmelig war",
+    "en": "Are cars better than a train?",
+    "de": "Sind Autos besser als ein Zug?",
     "groupCode": 1
   },
   {
@@ -5543,8 +5544,8 @@
   },
   {
     "id": 10914,
-    "en": "Why are you learning German? If I want to stay here, I have to learn German",
-    "de": "Warum lernen Sie Deutsch? Wenn ich hier bleiben will, muss ich Deutsch lernen",
+    "en": "Which is healthier, coffee or tea?",
+    "de": "Was ist gesünder, Kaffee oder Tee?",
     "groupCode": 1
   },
   {
@@ -5603,8 +5604,8 @@
   },
   {
     "id": 10924,
-    "en": "Kostet eine Packung Tomaten nur sechzig Cent?",
-    "de": "Does a pack of tomatoes cost only sixty cents?",
+    "en": "Does a pack of tomatoes cost only sixty cents?",
+    "de": "Kostet eine Packung Tomaten nur sechzig Cent?",
     "groupCode": 1
   },
   {
@@ -5910,8 +5911,8 @@
   },
   {
     "id": 10975,
-    "en": "The train arrives in forty-five minutes. My brother pick Ali up from the trin station, then they come to (toward) the party together",
-    "de": "Der Zug kommt in fünfundvierzig Minuten. Mein Bruder holt Ali bom Bahnhof ab, dann kommen sie zusammen zur Party",
+    "en": "The train arrives in forty-five minutes. My brother pick Ali up from the train station, then they come to (toward) the party together",
+    "de": "Der Zug kommt in fünfundvierzig Minuten. Mein Bruder holt Ali vom Bahnhof ab, dann kommen sie zusammen zur Party",
     "groupCode": 1
   },
   {
@@ -5940,7 +5941,7 @@
   },
   {
     "id": 10980,
-    "en": "We have to give the forms to the boss",
+    "en": "We have to give the forms to the boss (female)",
     "de": "Wir müssen die Formulare der Chefin geben",
     "groupCode": 1
   },
