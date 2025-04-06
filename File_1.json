@@ -2320,7 +2320,7 @@
   {
     "id": 3380,
     "fa": "تو منو شرمنده (خجالت) میدی",
-    "en": "You flatter me",
+    "en": "\n 1.You flatter me \n 2.You make me blush",
     "desc": "You flatter me: A polite way to downplay a compliment.\n\nYou make me blush: Shows shyness or bashfulness from a compliment.",
     "groupCode": 0
   },
@@ -2642,8 +2642,8 @@
   },
   {
     "id": 3432,
-    "fa": "منم همینو میخواستم بپرسم",
-    "en": "I was about to ask the same thing",
+    "fa": "من دارم میلرزم و مسموم شدم",
+    "en": "I'm shivering and poisoned",
     "groupCode": 0
   },
   {
@@ -6185,25 +6185,25 @@
   },
   {
     "id": 4015,
-    "fa": "کاری که تو انجام دادی خلاف قوانین (رفت) بود",
+    "fa": "چیزی که تو انجام دادی خلاف قوانین (رفت) بود",
     "en": "\n 1.What you did go against the rules \n 2.What you did violate the rules",
     "groupCode": 0
   },
   {
     "id": 4016,
-    "fa": "تو از او دوری می کردی از زمانی که ما شروع به قرار گذاشتن کردیم",
+    "fa": "تو از او (زن) اجتناب می کردی از زمانی که ما شروع به قرار گذاشتن (دیت) کردیم",
     "en": "You have been avoiding her since we started dating",
     "groupCode": 0
   },
   {
     "id": 4017,
-    "fa": "ما خدماتی ارائه کردیم و ما مستحق دریافت پول هستیم",
+    "fa": "ما یک خدمتی مهیا کردیم و ما مستحق پرداخت پول هستیم",
     "en": "We provided a service and we deserve to be paid",
     "groupCode": 0
   },
   {
     "id": 4018,
-    "fa": "مرا یاد آوری می کنه به کاری که تو کردی",
+    "fa": "یادم میاره تو چه کردی",
     "en": "It reminds me of what you did",
     "groupCode": 0
   },
@@ -6215,7 +6215,7 @@
   },
   {
     "id": 4020,
-    "fa": "جزییات داستان هنوز ناقص است",
+    "fa": "جزییات داستان هنوز ناقص هستند",
     "en": "The details of the story are still sketchy",
     "groupCode": 0
   }
