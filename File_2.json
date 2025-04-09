@@ -566,6 +566,7 @@
     "id": 10093,
     "en": "She is the new student. He is the new student",
     "de": "Sie ist die neue Schülerin. Er ist der neue Schüler",
+    "desc": "❌ Not \"neuer\" — that form is used:\nwith no article → e.g., neuer Schüler kommt.\n\n\uD83D\uDCCC Quick rule:\nAfter der/die/das → adjective ends in -e\n\nLet me know if you want a few examples to practice!",
     "groupCode": 1
   },
   {
@@ -813,7 +814,7 @@
   },
   {
     "id": 10134,
-    "en": "My partner eats almost everything",
+    "en": "My partner (female) eats almost everything",
     "de": "Meine Partnerin isst fast alles",
     "groupCode": 1
   },
@@ -1745,7 +1746,7 @@
   },
   {
     "id": 10287,
-    "en": "A coffee for my mother and a mineral water for me",
+    "en": "For my mother a coffee and for me a mineral water",
     "de": "Für meine Mutter einen Kaffee und für mich ein Mineral wasser",
     "groupCode": 1
   },
@@ -1977,8 +1978,9 @@
   },
   {
     "id": 10325,
-    "en": "How do you spell that?",
+    "en": "How does one spell that?",
     "de": "Wie buchstabiert man das?",
+    "desc": "man = one / people / someone (general subject)",
     "groupCode": 1
   },
   {
@@ -2311,7 +2313,7 @@
   },
   {
     "id": 10380,
-    "en": "The pastry shop is very popular. We always buy apple cacke here",
+    "en": "The pastry shop is very popular. We always buy apple cack here",
     "de": "Die Konditorei ist sehr beliebt. Wir kaufen immer hier Apfelkuchen",
     "groupCode": 1
   },
@@ -2801,7 +2803,7 @@
   },
   {
     "id": 10461,
-    "en": "The party begins soon! are you picking up your (plural) son first?",
+    "en": "The party begins soon! are you (formal) picking up your (plural) son first?",
     "de": "Die Party beginnt bald! Holt ihr zuerst euren Sohn ab?",
     "groupCode": 1
   },
@@ -2850,7 +2852,7 @@
   },
   {
     "id": 10469,
-    "en": "I only wear sandals on vacation",
+    "en": "I only wear sandals on the vacation",
     "de": "Ich trage im Urlaub nur Sandalen",
     "groupCode": 1
   },
@@ -5827,7 +5829,7 @@
   },
   {
     "id": 10961,
-    "en": "She is excited, her partner's birthday is soon",
+    "en": "She is excited, her partner's (male) birthday is soon",
     "de": "Sie ist aufgeregt, ihr Partner hat bald Geburtstag",
     "groupCode": 1
   },
@@ -5948,7 +5950,7 @@
   {
     "id": 10981,
     "en": "I don't understand this word, what does it mean?",
-    "de": "Ich verstehe diese Wort nicht, was bedeutet es?",
+    "de": "Ich verstehe dieses Wort nicht, was bedeutet es?",
     "groupCode": 1
   },
   {

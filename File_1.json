@@ -135,7 +135,7 @@
   },
   {
     "id": 3023,
-    "fa": "من مقداری شک دارم در مورد کاری که برای شما انجام می دهند",
+    "fa": "من مقداری شک دارم در مورد چیزی که آنها برای شما انجام می دهند",
     "en": "I have some doubts about what they do for you",
     "groupCode": 0
   },
@@ -2884,7 +2884,7 @@
   },
   {
     "id": 3471,
-    "fa": "مسئولیت های روزمره در این نقش چی شکلی است؟",
+    "fa": "مسئولیت های روزمره در این نقش چی شکلی (شبیه) است؟",
     "en": "What do the day-to-day responsibilities look like in this role?",
     "groupCode": 0
   },
@@ -3293,7 +3293,7 @@
   {
     "id": 3538,
     "fa": "من فکر می کنم من آماده ام",
-    "en": "\n 1.I think I'm prepared \n 2.I think I'm prepared",
+    "en": "\n 1.I think I'm prepared \n 2.I think I'm ready",
     "groupCode": 0
   },
   {
@@ -4047,6 +4047,7 @@
     "id": 3662,
     "fa": "عملکرد کلی او (مرد) در مدرسه چگونه است؟",
     "en": "How is his overall performance in school?",
+    "desc": "\"in school\"\nFocuses on him as a student — his studies, grades, and learning. \n\n\n \"at school\"\nFocuses on him while he is at the school — includes behavior, attitude, and how he interacts there.",
     "groupCode": 0
   },
   {
@@ -5713,7 +5714,7 @@
   },
   {
     "id": 3937,
-    "fa": "مهمانی به این منظور بود که یک سورپرایز باشد، اما من آن را لو دادم",
+    "fa": "مهمانی به این منظور بود که یک سورپرایز باشد، اما من لوش دادم",
     "en": "The party was meant to be a surprise, but I gave it away",
     "groupCode": 0
   },
@@ -6125,7 +6126,7 @@
   },
   {
     "id": 4005,
-    "fa": "دندان بالایی ام لقه و دندان پایینی ام درد (نبض دار) می کند",
+    "fa": "دندان بالایی ام لقه و پایینی ام درد (نبض دار) می کند",
     "en": "My upper tooth is wiggly and my lower one is throbbing",
     "groupCode": 0
   },
@@ -6185,7 +6186,7 @@
   },
   {
     "id": 4015,
-    "fa": "چیزی که تو انجام دادی خلاف قوانین (رفت) بود",
+    "fa": "چیزی که تو انجام دادی خلاف قوانین (رفت) است",
     "en": "\n 1.What you did go against the rules \n 2.What you did violate the rules",
     "groupCode": 0
   },
@@ -6205,6 +6206,7 @@
     "id": 4018,
     "fa": "یادم میاره تو چه کردی",
     "en": "It reminds me of what you did",
+    "desc": "Without \"of\", the sentence sounds incomplete and unnatural.",
     "groupCode": 0
   },
   {
@@ -6217,6 +6219,36 @@
     "id": 4020,
     "fa": "جزییات داستان هنوز ناقص هستند",
     "en": "The details of the story are still sketchy",
+    "groupCode": 0
+  },
+  {
+    "id": 4021,
+    "fa": " خوب است دیدن موارد منسوخ شده دارن حذف میشوند",
+    "en": "It's nice seeing deprecated stuff being removed",
+    "groupCode": 0
+  },
+  {
+    "id": 4022,
+    "fa": "من دارم فکر میکنم (تعجب می کنم) او (مرد) به چه کشوری رفته بوده است",
+    "en": "I'm wondering what country he has been to",
+    "groupCode": 0
+  },
+  {
+    "id": 4023,
+    "fa": "او (مرد) به استرالیا تبعید شد, جاییکه او مرد پنج سال بعد",
+    "en": "He was banished to Australia, where he died five years later",
+    "groupCode": 0
+  },
+  {
+    "id": 4024,
+    "fa": "او (مرد) این گستاخی داشت مقصر جلوه دهد من را به خاطر اشتباهش",
+    "en": "He had the audacity to blame me for his mistake",
+    "groupCode": 0
+  },
+  {
+    "id": 4025,
+    "fa": "کار شما شلخته است",
+    "en": "Your work is sloppy",
     "groupCode": 0
   }
 ]
