@@ -298,7 +298,8 @@
   {
     "id": 10049,
     "en": "Are you angry? No, I'm not angry",
-    "de": "Bist du wütend? Nein, Ich bin nicht wütend",
+    "de": "Bist du wütend (verärgert)? Nein, Ich bin nicht wütend",
+    "desc": "wütend = angry to the point of rage (like yelling or losing control)\n\nverärgert = irritated or upset, but still calm and reasonable",
     "groupCode": 1
   },
   {
@@ -747,7 +748,7 @@
   },
   {
     "id": 10123,
-    "en": "The movie was shit. My damn cell phone doesn't work",
+    "en": "The movie was shit. My damn cell phone doesn't function",
     "de": "Der Film war Scheiße. Mein Scheiß-Handy funktioniert nicht",
     "groupCode": 1
   },
@@ -1120,7 +1121,7 @@
   },
   {
     "id": 10184,
-    "en": "My schnitzel tastes best",
+    "en": "My schnitzel tastes the best",
     "de": "Mein schnitzel schmeckt am besten",
     "groupCode": 1
   },
@@ -1968,6 +1969,7 @@
     "id": 10323,
     "en": "They help the fathers",
     "de": "Sie helfen den vätern",
+    "desc": "The verb \"helfen\" always takes the dative case.\n\nThe plural of \"Vater\" (father) is \"Väter\".\n\nIn dative plural, German adds an -n to most nouns → \"den Vätern\".",
     "groupCode": 1
   },
   {
@@ -2054,7 +2056,7 @@
   },
   {
     "id": 10337,
-    "en": "Fruit is healthy, can you agree with the doctor?",
+    "en": "Fruit is healthy, can you agree with the doctor (male)?",
     "de": "Obst ist gesund, kannst du dem Arzt zustimmen?",
     "groupCode": 1
   },
@@ -3418,7 +3420,7 @@
   },
   {
     "id": 10563,
-    "en": "I don't eat potato salad with ham",
+    "en": "I don't eat a potato salad with ham",
     "de": "Ich esse keinen kartoffelsalat mit Schinken",
     "groupCode": 1
   },
@@ -3817,7 +3819,7 @@
   },
   {
     "id": 10629,
-    "en": "My brother wants to eat breakfast with mom every day on vacation",
+    "en": "My brother wants to eat breakfast with mom every day on the vacation",
     "de": "Mein Bruder will im Urlaub jeden Tag mit Mama frühstücken",
     "groupCode": 1
   },
@@ -4913,8 +4915,8 @@
   },
   {
     "id": 10810,
-    "en": "Gummies are too sweet, apples are better",
-    "de": "Fruit is healthy, can you agree with the doctor?",
+    "en": "Do you like to do outdoor activities?",
+    "de": "Machst du gern Aktivitäten draußen?",
     "groupCode": 1
   },
   {
@@ -4938,7 +4940,7 @@
   },
   {
     "id": 10814,
-    "en": "She always has in her bag pens of different colors. With the pens she writes on the board",
+    "en": "She always has in the bag pens of different colors. With the pens she writes on the board",
     "de": "Sie hat in der Tasche immer Stifte in verschiedenen Farben. Mit den Stiften schreibt sie an die Tafel",
     "desc": "Stifte: General term for all writing tools (pens, pencils).\nKuli: Informal for \"ballpoint pen.\"\nKugelschreiber: Formal term for \"ballpoint pen.\"",
     "groupCode": 1
@@ -5546,7 +5548,7 @@
   },
   {
     "id": 10914,
-    "en": "Which is healthier, coffee or tea?",
+    "en": "What is healthier, coffee or tea?",
     "de": "Was ist gesünder, Kaffee oder Tee?",
     "groupCode": 1
   },
