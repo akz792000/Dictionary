@@ -6467,7 +6467,7 @@
   },
   {
     "id": 1064,
-    "fa": "نمی توانیم انتظار داشته باشیم که اوضاع به این زودی بهتر شه",
+    "fa": "ما نمی توانیم انتظار داشته باشیم اوضاع به این زودی بهتر شه",
     "en": "We can't expect the situation to improve anytime soon",
     "groupCode": 0
   },
@@ -17479,6 +17479,7 @@
     "id": 2877,
     "fa": "آن فقط قرار نیست اتفاق بیفتد",
     "en": "That is not just supposed to be happen",
+    "desc": "❌ \"That is not just supposed to be happened\"\nThis is incorrect because \"happen\" is intransitive (it doesn’t take a direct object), and you can't say \"be happened\" in passive voice.",
     "groupCode": 0
   },
   {

@@ -6223,7 +6223,7 @@
   },
   {
     "id": 4021,
-    "fa": " خوب است دیدن موارد منسوخ شده دارن حذف میشوند",
+    "fa": "خوب است دیدن چیزهای (موارد) منسوخ شده دارن حذف میشوند",
     "en": "It's nice seeing deprecated stuff being removed",
     "groupCode": 0
   },
@@ -6249,6 +6249,36 @@
     "id": 4025,
     "fa": "کار شما شلخته است",
     "en": "Your work is sloppy",
+    "groupCode": 0
+  },
+  {
+    "id": 4026,
+    "fa": "ببخشید حواست رو از متنت پرت کردم",
+    "en": "Sorry to pry you away from your text",
+    "groupCode": 0
+  },
+  {
+    "id": 4027,
+    "fa": "تخمیر شیر را به ماست تبدیل می کند",
+    "en": "Fermentation turns milk into yogurt",
+    "groupCode": 0
+  },
+  {
+    "id": 4028,
+    "fa": "من مجبور بودم ارتباط برقرار کنم مستقیماً با پلیس هنگام نوشتن گزارش",
+    "en": "I had to liaise directly with the police while writing the report",
+    "groupCode": 0
+  },
+  {
+    "id": 4029,
+    "fa": "بیشتر چیزهایی که او (زن) میگفت بسیار (به طور زیبایی) بی اهمیت (ناچیز) بود",
+    "en": "Most of what she said was pretty inconsequential",
+    "groupCode": 0
+  },
+  {
+    "id": 4030,
+    "fa": "حوله و ملحفه تخت پیشنهاد می شود در آپارتمان",
+    "en": "Towels and bed linen are offered in the apartment",
     "groupCode": 0
   }
 ]

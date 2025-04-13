@@ -775,6 +775,7 @@
     "id": 10127,
     "en": "Sorry, but we do not have a chocolate cake anymore",
     "de": "Tut mir leid, aber wir haben keinen Schokoladenkuchen mehr",
+    "desc": "German often forms compound nouns by linking two words with an extra -n, -s, or another linking element.",
     "groupCode": 1
   },
   {
@@ -821,8 +822,8 @@
   },
   {
     "id": 10135,
-    "en": "Is the mustard too spicy for you?",
-    "de": "Ist der Senf zu scharf für dich?",
+    "en": "Is the mustard too spicy for you? Maynonnaise is too spicy for my partner (male)",
+    "de": "Ist der Senf zu scharf für dich? Mayo ist zu scharf für meinen Partner",
     "groupCode": 1
   },
   {
@@ -1561,8 +1562,8 @@
   },
   {
     "id": 10256,
-    "en": "Ilia sits in front of the television",
-    "de": "Ilia sitzt vor dem Fernseher",
+    "en": "Ilia sits in front of the television. The football game is sold out, but I have a TV at home",
+    "de": "Ilia sitzt vor dem Fernseher. Das fussballspiel ist ausverkauft, aber ich habe einen Fernseher zu Hause",
     "groupCode": 1
   },
   {
@@ -1820,8 +1821,8 @@
   },
   {
     "id": 10299,
-    "en": "I need help",
-    "de": "Ich brauche Hilfe",
+    "en": "I need your help, don't be rude",
+    "de": "Ich brauche deine Hilfe, sei nicht unhöflich",
     "groupCode": 1
   },
   {
@@ -3384,8 +3385,8 @@
   },
   {
     "id": 10557,
-    "en": "Do you play an instrument?",
-    "de": "Spielst du ein Instrument?",
+    "en": "Do you play an instrument? We're driving to the concert, where are you?",
+    "de": "Spielst du ein Instrument? Wir fahren gerade zum Konzert, wo bist du?",
     "groupCode": 1
   },
   {
@@ -3528,8 +3529,8 @@
   },
   {
     "id": 10581,
-    "en": "Be quiet please. I'm still not finished",
-    "de": "Sei leise bitte. Ich bin noch nicht fertig",
+    "en": "Be quiet please. I'm still not finished. I am on the phone now",
+    "de": "Sei leise bitte. Ich bin noch nicht fertig. Ich bin jetzt am Telephon",
     "groupCode": 1
   },
   {
@@ -3643,7 +3644,7 @@
   },
   {
     "id": 10600,
-    "en": "I don't eat a dairy products or a meat but I like to eat pizza and I don't eat dessert",
+    "en": "I don't eat a dairy product or a meat but I like to eat pizza and I don't eat a dessert",
     "de": "Ich esse keine Milchprodukte oder kein Fleisch aber Ich esse gern Pizza und Ich esse keinen Nachtisch",
     "groupCode": 1
   },
@@ -5414,8 +5415,8 @@
   },
   {
     "id": 10892,
-    "en": "When does the concert start and end?",
-    "de": "Wann fängt das Konzert an und hört es auf?",
+    "en": "When does the concert start and end? Too bad, the concert is already sold out",
+    "de": "Wann fängt das Konzert an und hört es auf? Schade, das Konzert ist schon ausverkauft",
     "groupCode": 1
   },
   {
@@ -5488,8 +5489,8 @@
   },
   {
     "id": 10904,
-    "en": "I can do the dishes",
-    "de": "Ich kann abwaschen",
+    "en": "I can do the dishes. Correct. This here is my apartment. I often clean the apartment, I am messy",
+    "de": "Ich kann abwaschen. Richtig. Das hier ist meine Wohnung. Ich putze oft die Wohnung, ich bin unordentlich",
     "groupCode": 1
   },
   {
@@ -5729,8 +5730,8 @@
   },
   {
     "id": 10944,
-    "en": "Who has a chair?",
-    "de": "Wer hat einen Stuhl?",
+    "en": "Who has a chair? The basketball game begins shortly, do you want to come along?",
+    "de": "Wer hat einen Stuhl? Das Basketballspiel beginnt gleich, willst du mitkommen?",
     "groupCode": 1
   },
   {
