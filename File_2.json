@@ -1558,6 +1558,7 @@
     "id": 10255,
     "en": "In front of the restaurant, drive (formal) to right.",
     "de": "Vor dem Restaurant fahren Sie nach rechts",
+    "desc": "\"Nach\" is a preposition in German that is often used to indicate direction or movement towards a specific place or direction",
     "groupCode": 1
   },
   {
@@ -2806,7 +2807,7 @@
   },
   {
     "id": 10461,
-    "en": "The party begins soon! are you (formal) picking up your (plural) son first?",
+    "en": "The party begins soon! are you (plural) picking up your (plural) son first?",
     "de": "Die Party beginnt bald! Holt ihr zuerst euren Sohn ab?",
     "groupCode": 1
   },
@@ -4954,7 +4955,7 @@
   },
   {
     "id": 10816,
-    "en": "On the kitchen table lies a glasses. It's Lisa's glasses. Lisa can read better with the glasses",
+    "en": "On the kitchen table lies a glasses. It's glasses for Lisa. Lisa can read better with the glasses",
     "de": "Auf dem Küchentisch liegt eine Brille. Es ist die Brille von Lisa. Lisa kann mit der Brille besser lesen",
     "groupCode": 1
   },

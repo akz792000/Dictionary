@@ -6280,5 +6280,35 @@
     "fa": "حوله و ملحفه تخت پیشنهاد می شود در آپارتمان",
     "en": "Towels and bed linen are offered in the apartment",
     "groupCode": 0
+  },
+  {
+    "id": 4031,
+    "fa": "من ترجیح می دهم شما اینجا امشب بمانی",
+    "en": "I'd rather you stayed here tonight",
+    "groupCode": 0
+  },
+  {
+    "id": 4032,
+    "fa": "آیا چیزی هست شما به تنهایی حمل می کنید که شما دوست دارید دیگران بفهمند؟",
+    "en": "Is there something you're carrying alone that you wish others understood",
+    "groupCode": 0
+  },
+  {
+    "id": 4033,
+    "fa": "تیم کنترل آفات مورچه ها را نابود خواهند کرد (دفع افات کردن)",
+    "en": "The pest control team will exterminate the ants",
+    "groupCode": 0
+  },
+  {
+    "id": 4034,
+    "fa": "آیا احساس غرور می کنید به کسی که شما اینجا هستید و نه فقط چیزی که انجام می دهید؟",
+    "en": "Do you feel proud of who you are here and not just what you do?",
+    "groupCode": 0
+  },
+  {
+    "id": 4035,
+    "fa": "من متوجه نمی شوم (نمی بینم) چگونه شما می توانی یکسان کنی این دو چیز را",
+    "en": "I don't see how you can equate /ɪˈkweɪt/ the two things",
+    "groupCode": 0
   }
 ]
