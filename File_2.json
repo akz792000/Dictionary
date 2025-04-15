@@ -1785,7 +1785,7 @@
   },
   {
     "id": 10293,
-    "en": "Are your grandma and grandpa healthy too?",
+    "en": "Are your grandma and your grandpa healthy too?",
     "de": "Sind deine Oma und dein Opa auch gesund?",
     "groupCode": 1
   },
@@ -1928,7 +1928,7 @@
   {
     "id": 10316,
     "en": "I have to wait one hour, but you (formal) have to wait two hours",
-    "de": "Ich muss eine Stunden warten, aber ihr müsst zwei Stunden warten",
+    "de": "Ich muss eine Stunde warten, aber ihr müsst zwei Stunden warten",
     "groupCode": 1
   },
   {
@@ -2797,6 +2797,7 @@
     "id": 10459,
     "en": "Who's picking up your grandpa?",
     "de": "Wer holt deinen Opa ab?",
+    "desc": "\"Wer holt deinen?\" = \"Who is picking up yours?\"\n\nUse \"wer\" when asking about the subject (the person doing the action).\n\n\"Wen holt deinen?\" = \"Whom is yours picking up?\"\n\nUse \"wen\" when asking about the object (the person receiving the action).",
     "groupCode": 1
   },
   {
@@ -3386,7 +3387,7 @@
   },
   {
     "id": 10557,
-    "en": "Do you play an instrument? We're driving to the concert, where are you?",
+    "en": "Do you play an instrument? We're driving to (toward) the concert, where are you?",
     "de": "Spielst du ein Instrument? Wir fahren gerade zum Konzert, wo bist du?",
     "groupCode": 1
   },
@@ -4917,7 +4918,7 @@
   },
   {
     "id": 10810,
-    "en": "Do you like to do outdoor activities?",
+    "en": "Do you like doing outdoor activities?",
     "de": "Machst du gern Aktivitäten draußen?",
     "groupCode": 1
   },
@@ -5887,7 +5888,7 @@
   },
   {
     "id": 10970,
-    "en": "Who do I pick up?",
+    "en": "Whom do I pick up?",
     "de": "Wen hole ich ab?",
     "groupCode": 1
   },

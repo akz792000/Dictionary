@@ -6277,7 +6277,7 @@
   },
   {
     "id": 4030,
-    "fa": "حوله و ملحفه تخت پیشنهاد می شود در آپارتمان",
+    "fa": "حوله ها و ملحفه تخت پیشنهاد می شود در آپارتمان",
     "en": "Towels and bed linen are offered in the apartment",
     "groupCode": 0
   },
@@ -6289,7 +6289,7 @@
   },
   {
     "id": 4032,
-    "fa": "آیا چیزی هست شما به تنهایی حمل می کنید که شما دوست دارید دیگران بفهمند؟",
+    "fa": "آیا چیزی هست شما دارید به تنهایی حمل می کنید که شما آرزو می کردید دیگران می فهمیدند؟",
     "en": "Is there something you're carrying alone that you wish others understood",
     "groupCode": 0
   },
@@ -6309,6 +6309,18 @@
     "id": 4035,
     "fa": "من متوجه نمی شوم (نمی بینم) چگونه شما می توانی یکسان کنی این دو چیز را",
     "en": "I don't see how you can equate /ɪˈkweɪt/ the two things",
+    "groupCode": 0
+  },
+  {
+    "id": 4036,
+    "fa": "نردبان به نظر می رسید متزلزل روی زمین نابرابر",
+    "en": "The ladder looked precarious on the uneven ground",
+    "groupCode": 0
+  },
+  {
+    "id": 4037,
+    "fa": "من توصیه می کنم درخواست دهید (اعمال کنید) مستقیماً از طریق لینک (که) شما اشتراک کردید، زیرا فرآیند استخدام توسط یک تیم دیگری مدیریت می شود",
+    "en": "I'd recommend applying directly through the link you shared, as the recruitment process is managed by a different team",
     "groupCode": 0
   }
 ]
