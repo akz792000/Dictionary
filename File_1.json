@@ -6319,8 +6319,147 @@
   },
   {
     "id": 4037,
-    "fa": "من توصیه می کنم درخواست دهید (اعمال کنید) مستقیماً از طریق لینک (که) شما اشتراک کردید، زیرا فرآیند استخدام توسط یک تیم دیگری مدیریت می شود",
+    "fa": "من توصیه می کنم درخواست دهید (اعمال کنید) مستقیماً از طریق لینک (که) شما اشتراک کردید، (زیرا) فرآیند استخدام توسط یک تیم دیگری مدیریت می شود",
     "en": "I'd recommend applying directly through the link you shared, as the recruitment process is managed by a different team",
+    "desc": "After verbs like recommend, suggest, advise, etc., we use the gerund form (verb + ing), not the infinitive (to + verb).",
+    "groupCode": 0
+  },
+  {
+    "id": 4038,
+    "fa": "او (مرد) اذعان به تقلب کرد در تست",
+    "en": "He admitted cheating on the test",
+    "groupCode": 0
+  },
+  {
+    "id": 4039,
+    "fa": "او (زن) اجتناب می کند از خوردن غذا در اواخر شب",
+    "en": "She avoids eating late at night",
+    "groupCode": 0
+  },
+  {
+    "id": 4040,
+    "fa": "ما داریم بررسی می کنیم نقل مکان (حرکت) به برلین را",
+    "en": "We're considering moving to Berlin",
+    "groupCode": 0
+  },
+  {
+    "id": 4041,
+    "fa": "آنها به تأخیر انداختند ارسال گزارش را",
+    "en": "They delayed sending the report",
+    "groupCode": 0
+  },
+  {
+    "id": 4042,
+    "fa": "او (مرد) انکار کرد گرفتن پول را",
+    "en": "He denied taking the money",
+    "groupCode": 0
+  },
+  {
+    "id": 4043,
+    "fa": "ما بحث کردیم رفتن به پاریس را",
+    "en": "We discussed going to Paris",
+    "groupCode": 0
+  },
+  {
+    "id": 4044,
+    "fa": "من دوست ندارم زود بیدار شدن را",
+    "en": "I dislike waking up early",
+    "groupCode": 0
+  },
+  {
+    "id": 4045,
+    "fa": "آنها لذت می برند سفرکردن با هم را",
+    "en": "They enjoy traveling together",
+    "groupCode": 0
+  },
+  {
+    "id": 4046,
+    "fa": "او (زن) تمام کرد نوشتن ایمیل را",
+    "en": "She finished writing the email",
+    "groupCode": 0
+  },
+  {
+    "id": 4047,
+    "fa": "من نمی توانم تصور کنم زندگی کردن در بیابان را",
+    "en": "I can't imagine living in the desert",
+    "groupCode": 0
+  },
+  {
+    "id": 4048,
+    "fa": "این شغل شامل می شود کار کردن را در آخر هفته",
+    "en": "The job involves working on weekends",
+    "groupCode": 0
+  },
+  {
+    "id": 4049,
+    "fa": "او ادامه می دهد صحبت کردن را در جلسات",
+    "en": "He keeps talking during meetings",
+    "groupCode": 0
+  },
+  {
+    "id": 4050,
+    "fa": "او (زن) ذکر کرد دیدن تو را دیروز",
+    "en": "She mentioned seeing you yesterday",
+    "groupCode": 0
+  },
+  {
+    "id": 4051,
+    "fa": "ناراحت میشی صبر کنی یک دقیقه؟",
+    "en": "Do you mind waiting a minute?",
+    "groupCode": 0
+  },
+  {
+    "id": 4052,
+    "fa": "من دلم تنگ شده رفتن به ساحل را",
+    "en": "I miss going to the beach",
+    "groupCode": 0
+  },
+  {
+    "id": 4053,
+    "fa": "ما به تعویق انداختیم ملاقات کردن با آنها را",
+    "en": "We postponed meeting them",
+    "groupCode": 0
+  },
+  {
+    "id": 4054,
+    "fa": "او (مرد) تمرین می کند نواختن گیتار را",
+    "en": "He practices playing the guitar",
+    "groupCode": 0
+  },
+  {
+    "id": 4055,
+    "fa": "من پیشنهاد می کنم امتحان کردن سوپ را",
+    "en": "I recommend trying the soup",
+    "groupCode": 0
+  },
+  {
+    "id": 4056,
+    "fa": "او (زن) ریسک کرد از دست دادن شغل خود را",
+    "en": "She risked losing her job",
+    "groupCode": 0
+  },
+  {
+    "id": 4057,
+    "fa": "آنها پیشنهاد کردند رفتن زودتر را",
+    "en": "They suggested leaving early",
+    "groupCode": 0
+  },
+  {
+    "id": 4058,
+    "fa": "من اذعان کردم تقلب کردن در تست را، اما من انکار کردم کپی کردن از لیزا. ما بعداً بحث کردیم ملاقات کردن را",
+    "en": "I admit cheating on the test, but I deny copying Lisa. We discussed meeting later",
+    "groupCode": 0
+  },
+  {
+    "id": 4059,
+    "fa": "من لذت می برم مطالعه کردن با او (زن) را، اما (زن) او دوست نمی دارد به اشتراک گذارشتن یادداشت ها را",
+    "en": "I enjoy studying with her, but she dislikes sharing notes",
+    "groupCode": 0
+  },
+  {
+    "id": 4060,
+    "fa": "باید واریز شود به حساب شما در طی 7 تا 12 روز کاری",
+    "en": "It should be credited to your account in 7-12 business days",
     "groupCode": 0
   }
 ]
