@@ -6061,6 +6061,7 @@
     "id": 3994,
     "fa": "او (مرد) همیشه سخت کوش و صرفه جو است",
     "en": "He has always been hard-working and frugal",
+    "desc": "✅ \"Hard-working\" is the correct adjective.\n❌ \"Hard-work\" is a noun, so it doesn't fit here.",
     "groupCode": 0
   },
   {
@@ -6332,13 +6333,13 @@
   },
   {
     "id": 4039,
-    "fa": "او (زن) اجتناب می کند از خوردن غذا در اواخر شب",
+    "fa": "او (زن) اجتناب می کند از خوردن دیر (وقت) در شب",
     "en": "She avoids eating late at night",
     "groupCode": 0
   },
   {
     "id": 4040,
-    "fa": "ما داریم بررسی می کنیم نقل مکان (حرکت) به برلین را",
+    "fa": "ما داریم در نظر می گیریم نقل مکان (حرکت) به برلین را",
     "en": "We're considering moving to Berlin",
     "groupCode": 0
   },
@@ -6392,7 +6393,7 @@
   },
   {
     "id": 4049,
-    "fa": "او ادامه می دهد صحبت کردن را در جلسات",
+    "fa": "او (مرد) ادامه می دهد صحبت کردن را در طول جلسات",
     "en": "He keeps talking during meetings",
     "groupCode": 0
   },
@@ -6440,7 +6441,7 @@
   },
   {
     "id": 4057,
-    "fa": "آنها پیشنهاد کردند رفتن زودتر را",
+    "fa": "آنها پیشنهاد کردند ترک کردن زودتر را",
     "en": "They suggested leaving early",
     "groupCode": 0
   },
@@ -6452,7 +6453,7 @@
   },
   {
     "id": 4059,
-    "fa": "من لذت می برم مطالعه کردن با او (زن) را، اما (زن) او دوست نمی دارد به اشتراک گذارشتن یادداشت ها را",
+    "fa": "من لذت می برم مطالعه کردن با او (زن) را، اما (زن) او دوست نمی دارد به اشتراک گذاشتن یادداشت ها را",
     "en": "I enjoy studying with her, but she dislikes sharing notes",
     "groupCode": 0
   },
@@ -6460,6 +6461,12 @@
     "id": 4060,
     "fa": "باید واریز شود به حساب شما در طی 7 تا 12 روز کاری",
     "en": "It should be credited to your account in 7-12 business days",
+    "groupCode": 0
+  },
+  {
+    "id": 4061,
+    "fa": "حرف هایش (زن) من را هاج و واج کرد. من هیچ ایده ای نداشتم او احساس کرد آن طور",
+    "en": "Her words stunned me. I had no idea she felt that way",
     "groupCode": 0
   }
 ]
