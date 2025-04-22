@@ -6320,7 +6320,7 @@
   },
   {
     "id": 4037,
-    "fa": "من توصیه می کنم درخواست دهید (اعمال کنید) مستقیماً از طریق لینک (که) شما اشتراک کردید، (زیرا) فرآیند استخدام توسط یک تیم دیگری مدیریت می شود",
+    "fa": "من توصیه می کنم (فرضی) درخواست دهید (اعمال کنید) مستقیماً از طریق لینک (که) شما اشتراک کردید، (زیرا) فرآیند استخدام توسط یک تیم دیگری مدیریت می شود",
     "en": "I'd recommend applying directly through the link you shared, as the recruitment process is managed by a different team",
     "desc": "After verbs like recommend, suggest, advise, etc., we use the gerund form (verb + ing), not the infinitive (to + verb).",
     "groupCode": 0
@@ -6387,7 +6387,7 @@
   },
   {
     "id": 4048,
-    "fa": "این شغل شامل می شود کار کردن را در آخر هفته",
+    "fa": "این شغل شامل (درگیر) می شود کار کردن را در آخر هفته ها",
     "en": "The job involves working on weekends",
     "groupCode": 0
   },
@@ -6429,7 +6429,7 @@
   },
   {
     "id": 4055,
-    "fa": "من پیشنهاد می کنم امتحان کردن سوپ را",
+    "fa": "من پیشنهاد می کنم امتحان کردن (سعی کردن) سوپ را",
     "en": "I recommend trying the soup",
     "groupCode": 0
   },
@@ -6467,6 +6467,60 @@
     "id": 4061,
     "fa": "حرف هایش (زن) من را هاج و واج کرد. من هیچ ایده ای نداشتم او احساس کرد آن طور",
     "en": "Her words stunned me. I had no idea she felt that way",
+    "groupCode": 0
+  },
+  {
+    "id": 4062,
+    "fa": "یک عملیات هم اثر است اگر انجامش بدی چندین بار دارد اثر مشابه از انجام دادنش یک بار",
+    "en": "An operation is idempotent if performing it multiple times has the same effect as performing it once",
+    "groupCode": 0
+  },
+  {
+    "id": 4063,
+    "fa": "اگر خمیر سفت است، خامه بیشتر (به آن) اضافه کنید",
+    "en": "If the dough is stiff, add more cream",
+    "groupCode": 0
+  },
+  {
+    "id": 4064,
+    "fa": "آسمان ابری بود",
+    "en": "The sky was overcast",
+    "groupCode": 0
+  },
+  {
+    "id": 4065,
+    "fa": "دلم گرفته",
+    "en": "My heart feels heavy",
+    "groupCode": 0
+  },
+  {
+    "id": 4066,
+    "fa": "پام گرفته است",
+    "en": "My leg is cramped",
+    "groupCode": 0
+  },
+  {
+    "id": 4067,
+    "fa": "او (زن) در ریاضی وحشتناک است. او (زن) دو بار در کلاس مردود شد",
+    "en": "She's terrible at Math. She failed the class twice",
+    "groupCode": 0
+  },
+  {
+    "id": 4068,
+    "fa": "من در آشپزی خوب هستم",
+    "en": "I'm good at cooking",
+    "groupCode": 0
+  },
+  {
+    "id": 4069,
+    "fa": "نگران نباش, من تمیز خواهم کرد اتاق خودم را",
+    "en": "Don't worry, I'll clean the room by myself",
+    "groupCode": 0
+  },
+  {
+    "id": 4070,
+    "fa": "بسه کن احمق فرض کردن من را. من بازی را می فهمم به خوبی (انجام دادن) شما",
+    "en": "Stop patronizing me. I understand the play as well as you do",
     "groupCode": 0
   }
 ]
