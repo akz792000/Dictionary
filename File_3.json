@@ -2,7 +2,7 @@
   {
     "id": 20001,
     "en": "Be",
-    "de": "\n bin \n bist \n ist \n sind \n seid \n sind",
+    "de": "\n bin - war \n bist - warst \n ist - war \n sind - waren \n seid - wart \n sind - waren",
     "groupCode": 1
   },
   {
@@ -122,7 +122,7 @@
   {
     "id": 20021,
     "en": "Have",
-    "de": "\n habe \n hast \n hat \n haben \n habt \n haben",
+    "de": "\n habe - hatte \n hast - hattest \n hat - hatte \n haben - hatten \n habt - hattet \n haben - hatten",
     "groupCode": 1
   },
   {

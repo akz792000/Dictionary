@@ -124,8 +124,8 @@
   },
   {
     "id": 10021,
-    "en": "Where do you live now?",
-    "de": "Wo wohnst du jetzt?",
+    "en": "Where do you live now? Do you currently live alone?",
+    "de": "Wo wohnst du jetzt? Wohnst du zurzeit allein?",
     "groupCode": 1
   },
   {
@@ -341,8 +341,8 @@
   },
   {
     "id": 10056,
-    "en": "A bear runs in the forest",
-    "de": "Ein Bär läuft im Wald",
+    "en": "A bear runs in the forest. The bar is not running in November. He is sleeping",
+    "de": "Ein Bär läuft im Wald. Der bar läuft nicht im November. Er schläft",
     "desc": "\n Bär = bear \n läuft = run \n im = in the \n Wald = forest",
     "groupCode": 1
   },
@@ -934,8 +934,8 @@
   },
   {
     "id": 10153,
-    "en": "Do you come from Syria?",
-    "de": "Kommst du aus Syrien?",
+    "en": "Do you come from Syria? Why do you come to me?",
+    "de": "Kommst du aus Syrien? Warum kommst du zu mir?",
     "groupCode": 1
   },
   {
@@ -1399,6 +1399,7 @@
     "id": 10229,
     "en": "Today is a holiday (public holiday). I am not going into the office. My family and I want to grill",
     "de": "Heute ist ein feiertag. Ich gehe nicht ins Büro. Meine Familie und ich wollen grillen",
+    "desc": "In German, \"nicht\" usually comes after the verb and object, unless you're negating a specific word or idea.",
     "groupCode": 1
   },
   {
@@ -1629,8 +1630,8 @@
   },
   {
     "id": 10267,
-    "en": "You always come too late",
-    "de": "Du kommst immer zu spät",
+    "en": "You always come too late.The children plan to play volleyball",
+    "de": "Du kommst immer zu spät. Die Kinder planen Volleyball zu spielen",
     "groupCode": 1
   },
   {
@@ -1816,8 +1817,8 @@
   },
   {
     "id": 10298,
-    "en": "we need a table and a chair",
-    "de": "Wir brauchen einen Tisch und einen Stuhl",
+    "en": "we also need a table and a chair",
+    "de": "Wir brauchen auch einen Tisch und einen Stuhl",
     "groupCode": 1
   },
   {
@@ -1927,7 +1928,7 @@
   },
   {
     "id": 10316,
-    "en": "I have to wait one hour, but you (formal) have to wait two hours",
+    "en": "I have to wait one hour, but you (plural) have to wait two hours",
     "de": "Ich muss eine Stunde warten, aber ihr müsst zwei Stunden warten",
     "groupCode": 1
   },
@@ -2060,6 +2061,7 @@
     "id": 10337,
     "en": "Fruit is healthy, can you agree with the doctor (male)?",
     "de": "Obst ist gesund, kannst du dem Arzt zustimmen?",
+    "desc": "the verb \"zustimmen\" is a dative verb in German. It doesn't use \"mit\"",
     "groupCode": 1
   },
   {
@@ -2546,8 +2548,8 @@
   },
   {
     "id": 10418,
-    "en": "Wine is unfortunately forbidden",
-    "de": "Wein ist leider verboten",
+    "en": "Wine is unfortunately forbidden here",
+    "de": "Wein ist leider hier verboten",
     "groupCode": 1
   },
   {
@@ -2678,8 +2680,8 @@
   },
   {
     "id": 10440,
-    "en": "My dictionary is in the suitcase",
-    "de": "Mein wörterbuch ist im Koffer",
+    "en": "My German isn't good. I need a dictionary. My dictionary is in the suitcase",
+    "de": "Mein Deutsch ist nicht gut. Ich brauche ein wörterbuch. Mein wörterbuch ist im Koffer",
     "groupCode": 1
   },
   {
@@ -3068,8 +3070,8 @@
   },
   {
     "id": 10504,
-    "en": "I'm picking you up later",
-    "de": "Ich hole dich später ab",
+    "en": "I'm picking you up later. Your (plural) bathroom was clean yesterday but not today",
+    "de": "Ich hole dich später ab. Euer Badezimmer war gestern sauber aber nicht heute",
     "groupCode": 1
   },
   {
@@ -3104,14 +3106,14 @@
   },
   {
     "id": 10510,
-    "en": "You are lazy! You never clean the microwave",
-    "de": "Du bist faul! Du putzt nie die Mikrowelle",
+    "en": "You are lazy! You never clean the microwave. How was the party yesterday?",
+    "de": "Du bist faul! Du putzt nie die Mikrowelle. Wie war die Party gestern?",
     "groupCode": 1
   },
   {
     "id": 10511,
-    "en": "Do you (plural) want to listen to jazz together?",
-    "de": "Wollt ihr zusammen Jazz hören?",
+    "en": "Do you (plural) want to listen to jazz together? How was the atmosphere?",
+    "de": "Wollt ihr zusammen Jazz hören? Wie war die Stimmung?",
     "groupCode": 1
   },
   {
@@ -3122,14 +3124,14 @@
   },
   {
     "id": 10513,
-    "en": "I'm not tired at night",
-    "de": "Ich bin nachts nicht müde",
+    "en": "I'm not tired at night. How was the game, was it great?",
+    "de": "Ich bin nachts nicht müde. Wie war das Spiel, war es spitze?",
     "groupCode": 1
   },
   {
     "id": 10514,
-    "en": "Do you have a pill?",
-    "de": "Hast du eine Tablette?",
+    "en": "Do you have a pill? The concert was fantastic. Classical music is really beautiful",
+    "de": "Hast du eine Tablette? Das Konzert war spitze. Klassische Musik ist wirklich schon",
     "groupCode": 1
   },
   {
@@ -3170,8 +3172,8 @@
   },
   {
     "id": 10521,
-    "en": "Our break is not long",
-    "de": "Unsere Pause ist nicht lang",
+    "en": "Our break is not long. I had homework on the weekend",
+    "de": "Unsere Pause ist nicht lang. Ich hatte am Wochenende Hausaufgaben",
     "groupCode": 1
   },
   {
@@ -3182,14 +3184,14 @@
   },
   {
     "id": 10523,
-    "en": "I have to go soon",
-    "de": "Ich muss bald gehen",
+    "en": "I have to go soon. We are planning a picnic for his birthday",
+    "de": "Ich muss bald gehen. Wir planen ein Picknick für seinen Geburtstag",
     "groupCode": 1
   },
   {
     "id": 10524,
-    "en": "Let's go into the cinema",
-    "de": "Lass uns ins Kino gehen",
+    "en": "Let's go into the cinema. Did you have fun on vacation?",
+    "de": "Lass uns ins Kino gehen. Hattest du Spaß im Urlaub?",
     "groupCode": 1
   },
   {
@@ -3296,8 +3298,8 @@
   },
   {
     "id": 10542,
-    "en": "There is an excursion to Bonn",
-    "de": "Es gibt einen Ausflug nach Bonn",
+    "en": "There is an excursion to Bonn. I'm having (make) a party tomorrow, can you come?",
+    "de": "Es gibt einen Ausflug nach Bonn. Ich mache morgen eine Party, kannst du kommen?",
     "groupCode": 1
   },
   {
@@ -4685,8 +4687,8 @@
   },
   {
     "id": 10772,
-    "en": "The pillow is very soft",
-    "de": "Das Kopfkissen ist sehr weich",
+    "en": "The pillow is very soft. We never eat in the living room",
+    "de": "Das Kopfkissen ist sehr weich. Wir essen nie im Wohnzimmer",
     "groupCode": 1
   },
   {
@@ -4782,8 +4784,8 @@
   },
   {
     "id": 10788,
-    "en": "I never wear a jacket",
-    "de": "Ich trage nie eine Jacke",
+    "en": "I never wear a jacket. I wear this dress almost every day",
+    "de": "Ich trage nie eine Jacke. Ich trage fast jeden Tag dieses Kleid",
     "groupCode": 1
   },
   {
@@ -5858,8 +5860,8 @@
   },
   {
     "id": 10965,
-    "en": "I'm bringing chocolate to (toward) the party",
-    "de": "Ich bringe Schokolade zur Party mit",
+    "en": "I'm bringing along chocolate to (toward) the party. I bring along a gift for you",
+    "de": "Ich bringe Schokolade zur Party mit. Ich bringe ein Geschenk für dich mit",
     "groupCode": 1
   },
   {

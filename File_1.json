@@ -3578,7 +3578,7 @@
   },
   {
     "id": 3585,
-    "fa": "او (مرد) آنقدر سرسخت است که بپرسد برای کمک",
+    "fa": "او (مرد) آنقدر لجباز است که بپرسد برای کمک",
     "en": "He is too stubborn to ask for help",
     "groupCode": 0
   },
@@ -6393,7 +6393,7 @@
   },
   {
     "id": 4049,
-    "fa": "او (مرد) ادامه می دهد صحبت کردن را در طول جلسات",
+    "fa": "او (مرد) ادامه می دهد (نگه داشتن) صحبت کردن را در طول جلسات",
     "en": "He keeps talking during meetings",
     "groupCode": 0
   },
@@ -6429,7 +6429,7 @@
   },
   {
     "id": 4055,
-    "fa": "من پیشنهاد می کنم امتحان کردن (سعی کردن) سوپ را",
+    "fa": "من توصیه می کنم امتحان کردن (سعی کردن) سوپ را",
     "en": "I recommend trying the soup",
     "groupCode": 0
   },
@@ -6519,8 +6519,50 @@
   },
   {
     "id": 4070,
-    "fa": "بسه کن احمق فرض کردن من را. من بازی را می فهمم به خوبی (انجام دادن) شما",
+    "fa": "بس کن احمق فرض کردن من را. من بازی را می فهمم به خوبی (انجام دادن) شما",
     "en": "Stop patronizing me. I understand the play as well as you do",
+    "groupCode": 0
+  },
+  {
+    "id": 4071,
+    "fa": "آیا می توانند اصول ارائه شده در اینجا به اجرا گذاشته شوند در کارِ روزانه شما؟",
+    "en": "Can the principles presented here be put into practice in your daily work?",
+    "groupCode": 0
+  },
+  {
+    "id": 4072,
+    "fa": "خودتو به نفهمیدن نزن",
+    "en": "Don't bury your head in the sand",
+    "groupCode": 0
+  },
+  {
+    "id": 4073,
+    "fa": "احمق به دنیا آمدی یا فقط رشد کردی اونطوری؟",
+    "en": "Were you born stupid or did you just grow that way?",
+    "groupCode": 0
+  },
+  {
+    "id": 4074,
+    "fa": "چگونه باید من پاسخ دهم به او (مرد) مودبانه؟",
+    "en": "How should I answer him politely?",
+    "groupCode": 0
+  },
+  {
+    "id": 4075,
+    "fa": "اگر من جای تو می بودم, شاید من حتی بدتر از تو رفتار کرده بودم",
+    "en": "If I had been in your place, maybe I would have behaved even worse than you",
+    "groupCode": 0
+  },
+  {
+    "id": 4076,
+    "fa": "آتش سوزی ممکن است یک عمل خرابکاری بوده باشد",
+    "en": "The fire may have been an act of sabotage",
+    "groupCode": 0
+  },
+  {
+    "id": 4077,
+    "fa": "وضعیت است به طرز چشمگیری مشابه چیزی که سال گذشته رخ داد",
+    "en": "The situation is strikingly similar to what happened last year",
     "groupCode": 0
   }
 ]
