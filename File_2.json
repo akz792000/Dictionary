@@ -2774,6 +2774,7 @@
     "id": 10455,
     "en": "His friends bring him a gift (bring along for him a gift)",
     "de": "Seine Freunde bringen für ihn ein Geschenk mit",
+    "desc": "Does \"für\" always come with \"bringen\"?\n\uD83D\uDD39 No, \"für\" is not required with \"bringen\".\nBut it's used when you say for whom the thing is being brought.",
     "groupCode": 1
   },
   {
@@ -3172,7 +3173,7 @@
   },
   {
     "id": 10521,
-    "en": "Our break is not long. I had homework on the weekend",
+    "en": "Our break is not long. I had homeworks on the weekend",
     "de": "Unsere Pause ist nicht lang. Ich hatte am Wochenende Hausaufgaben",
     "groupCode": 1
   },
@@ -3389,7 +3390,7 @@
   },
   {
     "id": 10557,
-    "en": "Do you play an instrument? We're driving to (toward) the concert, where are you?",
+    "en": "Do you play an instrument? We're driving straight to (toward) the concert, where are you?",
     "de": "Spielst du ein Instrument? Wir fahren gerade zum Konzert, wo bist du?",
     "groupCode": 1
   },
@@ -4939,7 +4940,7 @@
   },
   {
     "id": 10813,
-    "en": "Lisa has a school bag for the lesson. The bag is big because Lisa needs a lot of stuff at the school",
+    "en": "Lisa has a school bag for the lesson. The bag is big, because Lisa needs a lot of stuff in the school",
     "de": "Lisa hat eine Schultasche für den Unterricht. Die Tasche ist groß, denn Lisa braucht in der Schule viele Sachen",
     "groupCode": 1
   },
@@ -5982,6 +5983,13 @@
     "id": 10985,
     "en": "I usually drive with the bus to the bank",
     "de": "Ich fahre meistens mit dem Bus zur Bank",
+    "groupCode": 1
+  },
+  {
+    "id": 10986,
+    "en": "I'm staying home because I'm sick",
+    "de": "\n 1.Ich bleibe zu Hause, weil ich krank bin \n 2.Ich bleibe zu Hause, denn ich bin krank",
+    "desc": "weil → verb at end\n\ndenn → verb in normal spot",
     "groupCode": 1
   }
 ]

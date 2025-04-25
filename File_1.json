@@ -4870,7 +4870,7 @@
   },
   {
     "id": 3798,
-    "fa": "من باید کمربندم را ببندم تا پس انداز کنم پول کافی برای هزینه های شهریه پسرم",
+    "fa": "من باید کمربندم را سفت کنم تا پس انداز کنم پول کافی برای هزینه های شهریه پسرم",
     "en": "I have to tighten my belt to save enough money for my son's tuition fees",
     "groupCode": 0
   },
@@ -6495,7 +6495,7 @@
   },
   {
     "id": 4066,
-    "fa": "پام گرفته است",
+    "fa": "پام (ران) گرفته است",
     "en": "My leg is cramped",
     "groupCode": 0
   },
@@ -6515,6 +6515,7 @@
     "id": 4069,
     "fa": "نگران نباش, من تمیز خواهم کرد اتاق خودم را",
     "en": "Don't worry, I'll clean the room by myself",
+    "desc": "✅ \"I'll clean the room myself\" = I will do it, not someone else. (Emphasizes who does it)\n\n✅ \"I'll clean the room by myself\" = I will do it alone. (Emphasizes being alone)",
     "groupCode": 0
   },
   {
@@ -6543,7 +6544,7 @@
   },
   {
     "id": 4074,
-    "fa": "چگونه باید من پاسخ دهم به او (مرد) مودبانه؟",
+    "fa": "چگونه باید من جواب دهم به او (مرد) مودبانه؟",
     "en": "How should I answer him politely?",
     "groupCode": 0
   },
@@ -6563,6 +6564,30 @@
     "id": 4077,
     "fa": "وضعیت است به طرز چشمگیری مشابه چیزی که سال گذشته رخ داد",
     "en": "The situation is strikingly similar to what happened last year",
+    "groupCode": 0
+  },
+  {
+    "id": 4078,
+    "fa": "از اینرو (که) ما دوره را روی ۳۰ دقیقه تنظیم کردیم، به این معنی است (که) اجرا می شود حداقل ۴۸ بار در طول شبانه روز",
+    "en": "Since we set the period to 30 minutes, it means it runs at least 48 times overnight",
+    "groupCode": 0
+  },
+  {
+    "id": 4079,
+    "fa": "احتمال وقوع آن استثنا کم است",
+    "en": "The likelihood of that exception happening is low",
+    "groupCode": 0
+  },
+  {
+    "id": 4080,
+    "fa": "بیایید آرزوی موفقیت کنیم که اون استثنا رخ نمی دهد",
+    "en": "Let's keep our fingers crossed that the exception doesn't occur",
+    "groupCode": 0
+  },
+  {
+    "id": 4081,
+    "fa": "بنابراین اگر, به هر دلیلی, کاربران مذکور گرفته نشوند در اولین تلاش، آنها گرفته نخواهند شد در تلاش بعدی",
+    "en": "So if, for any reason, the mentioned users were not caught on the first try, they would be caught on the next attempt",
     "groupCode": 0
   }
 ]
