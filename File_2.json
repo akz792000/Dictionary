@@ -25,14 +25,14 @@
   },
   {
     "id": 10005,
-    "en": "Excuse me please",
-    "de": "Entschuldigung Sie, bitte",
+    "en": "Excuse (formal) me please. My roommate (female) is often messy. I'm angry, because she never wants to wash her clothes",
+    "de": "Entschuldigung Sie, bitte. Meine Mitbewohnerin ist oft unordentlich. Ich bin verärgert, denn sie will nie ihre Kleidung waschen",
     "groupCode": 1
   },
   {
     "id": 10006,
-    "en": "Hope to see you",
-    "de": "Auf Wiedersehen",
+    "en": "Hope to see you. Please, pay the rent and make your bed",
+    "de": "Auf Wiedersehen. Bitte, zahl die Miete und Mach dein Bett",
     "groupCode": 1
   },
   {
@@ -43,21 +43,21 @@
   },
   {
     "id": 10008,
-    "en": "Another one time slowly please",
-    "de": "Noch einmal langsam bitte",
+    "en": "Another one time slowly please. You're so lazy, you never bake bread for me",
+    "de": "Noch einmal langsam bitte. Du bist so faul, du backst nie Brot für mich",
     "desc": "\n noch = more \n einmal = once",
     "groupCode": 1
   },
   {
     "id": 10009,
-    "en": "Get well soon!",
-    "de": "Gute Besserung!",
+    "en": "Get well soon! You eat two eggs every morning. Buy three packs next time, I want to eat eggs too",
+    "de": "Gute Besserung! Due isst jeden Morgen zwei Eier. Kauf nächstes Mal drei Packungen, ich will auch Eier esse",
     "groupCode": 1
   },
   {
     "id": 10010,
-    "en": "See you later",
-    "de": "Bis Später",
+    "en": "See you later. What are you paying this month?",
+    "de": "Bis Später. Was zahlst du diesen Monat?",
     "groupCode": 1
   },
   {
@@ -69,8 +69,8 @@
   },
   {
     "id": 10012,
-    "en": "Hello, How is it going? I'm doing great",
-    "de": "Hallo, wie geht's? Mir geht's super",
+    "en": "Hello, How is it going? I'm doing great. You make my bed and I make your bed",
+    "de": "Hallo, wie geht's? Mir geht's super. Du machst mein Bett und ich mache dein Bett",
     "groupCode": 1
   },
   {
@@ -81,14 +81,14 @@
   },
   {
     "id": 10014,
-    "en": "You are Mr. Bieber!",
-    "de": "Sie sind Herr Bieber!",
+    "en": "You are Mr. Bieber! You (formal) never pay their bills",
+    "de": "Sie sind Herr Bieber! Sie zahlen nie ihre Rechnungen",
     "groupCode": 1
   },
   {
     "id": 10015,
-    "en": "Who are you?",
-    "de": "\n 1.Wer sind Sie? \n 2.Wer bist du?",
+    "en": "Who are you? You're lazy, you never paint a picture for me",
+    "de": "Wer sind Sie? Du bist faul, du malst nie ein Bild für mich",
     "groupCode": 1
   },
   {
@@ -131,8 +131,8 @@
   },
   {
     "id": 10022,
-    "en": "Who says that?",
-    "de": "Wer sagt das?",
+    "en": "Who says that? You are not always lazy because you cook for me",
+    "de": "Wer sagt das? Du bist nicht immer faul denn du kochst für mich",
     "groupCode": 1
   },
   {
@@ -151,26 +151,26 @@
   },
   {
     "id": 10025,
-    "en": "I am sorry, I can't now",
-    "de": "Es tut mir leid, Ich kann jetzt nicht",
+    "en": "I am sorry, I can't now. Why do you eat my pizza every time?",
+    "de": "Es tut mir leid, Ich kann jetzt nicht. Warum isst du jedes Mal meine Pizza?",
     "groupCode": 1
   },
   {
     "id": 10026,
-    "en": "Pardon? (question)",
-    "de": "Wie bitte?",
+    "en": "Pardon? (question) Why do I have to buy everything every time?",
+    "de": "Wie bitte? Warum muss ich jedes Mal alles kaufen?",
     "groupCode": 1
   },
   {
     "id": 10027,
-    "en": "Once again, please",
-    "de": "Noch einmal, bitte",
+    "en": "Once again, please. I'm not waiting any longer, we have to go",
+    "de": "Noch einmal, bitte. Ich warte nicht mehr, wir müssen gehen",
     "groupCode": 1
   },
   {
     "id": 10028,
-    "en": "Please repeat (fromal)",
-    "de": "Bitte wiederholen Sie!",
+    "en": "Please repeat (fromal) ! Be kind (friendly), they are our friends",
+    "de": "Bitte wiederholen Sie! Sei freundlich, sie sind unsere Freunde",
     "groupCode": 1
   },
   {
@@ -181,20 +181,20 @@
   },
   {
     "id": 10030,
-    "en": "Where do you live? I live in France",
-    "de": "Wo lebst du? Ich lebe in Frankreich",
+    "en": "Where do you live? I live in France. I have a headache, can you be quieter?",
+    "de": "Wo lebst du? Ich lebe in Frankreich. Ich habe Kopfschmerzen, kannst du leiser sein?",
     "groupCode": 1
   },
   {
     "id": 10031,
-    "en": "I speak a bit of German",
-    "de": "Ich spreche ein bisschen Deutsch",
+    "en": "I speak a bit of German. I buy the rolls every morning, and you stay in bed. Today I'm staying in bed. Go to the bakery",
+    "de": "Ich spreche ein bisschen Deutsch. Ich kaufe jeden Morgen die Brötchen und du bleibst im Bett. Heute bleibe ich im Bett. Geh in die Backerei",
     "groupCode": 1
   },
   {
     "id": 10032,
-    "en": "A moment, please. I don't understand",
-    "de": "Einen Moment, bitte. Ich verstehe nicht",
+    "en": "A moment, please. I don't understand. Is your water bottle empty?",
+    "de": "Einen Moment, bitte. Ich verstehe nicht. Ist deine Wasserflasche leer?",
     "groupCode": 1
   },
   {
@@ -211,38 +211,38 @@
   },
   {
     "id": 10035,
-    "en": "Complete (formal) the dialog",
-    "de": "Ergänzen Sie die Dialog",
+    "en": "Complete (formal) the dialog. Can you make our bed?",
+    "de": "Ergänzen Sie die Dialog. Kannst du unser Bett machen?",
     "groupCode": 1
   },
   {
     "id": 10036,
-    "en": "Write down (Note) (formal) the names",
-    "de": "Notieren Sie die Namen",
+    "en": "Write down (Note) (formal) the names. Your room is very tidy",
+    "de": "Notieren Sie die Namen. Dein Zimmer ist sehr ordentlich",
     "groupCode": 1
   },
   {
     "id": 10037,
-    "en": "This is my pen",
-    "de": "Das ist mein (der) Kuli/Kugelschreiber",
+    "en": "This is my pen. I have a pencil",
+    "de": "Das ist mein (der) Kuli/Kugelschreiber. Ich habe einen (der) Bleistift",
     "groupCode": 1
   },
   {
     "id": 10038,
-    "en": "I have a pencil",
-    "de": "Ich habe einen (der) Bleistift",
+    "en": "Can you do your chores (housework) tomorrow?",
+    "de": "Kannst du morgen deine Hausarbeit machen?",
     "groupCode": 1
   },
   {
     "id": 10039,
-    "en": "I am very nice",
-    "de": "Ich bin sehr nett",
+    "en": "I am very nice. My friends would like to visit me tomorrow",
+    "de": "Ich bin sehr nett. Meine Freunde möchten mich morgen besuchen",
     "groupCode": 1
   },
   {
     "id": 10040,
-    "en": "Is that you?",
-    "de": "Bist du das?",
+    "en": "Is that you? You speak so loudly, be quieter, please",
+    "de": "Bist du das? Du sprichst so laut, sie leiser, bitte",
     "desc": "\"Das\" can be translated to \"this\" when it refers to something nearby or within close proximity.\n\"Das\" can be translated to \"that\" when it refers to something more distant or not immediately close.",
     "groupCode": 1
   },
