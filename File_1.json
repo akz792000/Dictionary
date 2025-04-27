@@ -5354,8 +5354,8 @@
   },
   {
     "id": 3878,
-    "fa": "من نیاز دارم تا همت کنم و این پروژه را تمام کنم",
-    "en": "I need to buckle down and finish this project",
+    "fa": "زمان همت (آستین ها را بالا زدن) است و برگشت به کار کردن",
+    "en": "It's time to buckle down and get to work",
     "groupCode": 0
   },
   {
@@ -6320,7 +6320,7 @@
   },
   {
     "id": 4037,
-    "fa": "من توصیه می کنم (فرضی) درخواست دهید (اعمال کنید) مستقیماً از طریق لینک (که) شما اشتراک کردید، (زیرا) فرآیند استخدام توسط یک تیم دیگری مدیریت می شود",
+    "fa": "من توصیه می کنم (فرضی) درخواست دهید (اعمال کنید) مستقیماً از طریق لینک (که) شما اشتراک کردید، (زیرا) فرآیند استخدام توسط یک تیم دیگری (مختلف) مدیریت می شود",
     "en": "I'd recommend applying directly through the link you shared, as the recruitment process is managed by a different team",
     "desc": "After verbs like recommend, suggest, advise, etc., we use the gerund form (verb + ing), not the infinitive (to + verb).",
     "groupCode": 0
@@ -6513,7 +6513,7 @@
   },
   {
     "id": 4069,
-    "fa": "نگران نباش, من تمیز خواهم کرد اتاق خودم را",
+    "fa": "نگران نباش, من تمیز خواهم کرد اتاق را توسط خودم",
     "en": "Don't worry, I'll clean the room by myself",
     "desc": "✅ \"I'll clean the room myself\" = I will do it, not someone else. (Emphasizes who does it)\n\n✅ \"I'll clean the room by myself\" = I will do it alone. (Emphasizes being alone)",
     "groupCode": 0
@@ -6526,7 +6526,7 @@
   },
   {
     "id": 4071,
-    "fa": "آیا می توانند اصول ارائه شده در اینجا به اجرا گذاشته شوند در کارِ روزانه شما؟",
+    "fa": "آیا می توانند اصول ارائه شده در اینجا به تمرین گذاشته شوند در کار روزانه شما؟",
     "en": "Can the principles presented here be put into practice in your daily work?",
     "groupCode": 0
   },
@@ -6576,6 +6576,7 @@
     "id": 4079,
     "fa": "احتمال وقوع آن استثنا کم است",
     "en": "The likelihood of that exception happening is low",
+    "desc": "In English, when we use the structure \"the likelihood of\", it’s usually followed by a noun or a gerund (which is the -ing form of a verb acting as a noun). In your sentence, the correct form would be \"that exception happening\", where \"happening\" is the gerund.\n\nWhy it's wrong:\n\"Happening that exception\" places the gerund \"happening\" in the wrong order. It should come after the noun (i.e., \"that exception\").\n\nEnglish tends to have a noun + gerund structure when talking about likelihood, possibility, etc.",
     "groupCode": 0
   },
   {
@@ -6586,8 +6587,81 @@
   },
   {
     "id": 4081,
-    "fa": "بنابراین اگر, به هر دلیلی, کاربران مذکور گرفته نشوند در اولین تلاش، آنها گرفته نخواهند شد در تلاش بعدی",
+    "fa": "بنابراین اگر, به هر دلیلی, کاربران مذکور گرفته نشوند در اولین سعی، آنها گرفته نخواهند شد در تلاش بعدی",
     "en": "So if, for any reason, the mentioned users were not caught on the first try, they would be caught on the next attempt",
+    "groupCode": 0
+  },
+  {
+    "id": 4082,
+    "fa": "چقدر تو پس انداز کردی تا ۳۳ سالگی؟",
+    "en": "How much you saved by age 33?",
+    "groupCode": 0
+  },
+  {
+    "id": 4083,
+    "fa": "آنها یک معاون دیگر هم داشتند, و او (مرد) یک دوست من بود",
+    "en": "They had one other VP, and he was a bud of mine",
+    "groupCode": 0
+  },
+  {
+    "id": 4084,
+    "fa": "من به شدت تحسین کننده کار او (مرد) بود",
+    "en": "I was extremely complimentary about his work",
+    "groupCode": 0
+  },
+  {
+    "id": 4085,
+    "fa": "یک سنگ یک جسم بی جان است",
+    "en": "A rock is an inanimate object",
+    "groupCode": 0
+  },
+  {
+    "id": 4086,
+    "fa": "من از امتحان سخت عبور کردم",
+    "en": "I made it through the tough exam",
+    "groupCode": 0
+  },
+  {
+    "id": 4087,
+    "fa": " ایجاز (حذف) اشاره دارد به حذف کلماتی که دلالت دارند توسط متن اما نه لزوما برای فهم جمله",
+    "en": "Ellipsis refers to the omission of words that are implied by the context but not necessary for understanding the sentence",
+    "groupCode": 0
+  },
+  {
+    "id": 4088,
+    "fa": "چگونه داری با کارت کنار می آیی؟",
+    "en": "How are you getting on with your work?",
+    "groupCode": 0
+  },
+  {
+    "id": 4089,
+    "fa": "چقدر می توانند آنها بدون آب دوام بیاورند؟",
+    "en": "How long can they hold out without water?",
+    "groupCode": 0
+  },
+  {
+    "id": 4090,
+    "fa": "چقدر گمان می کنی اون لباس شیک (فانتزی) براش (زن) هزینه برداشته؟",
+    "en": "How much do you suppose that fancy dress set her back?",
+    "groupCode": 0
+  },
+  {
+    "id": 4091,
+    "fa": "این تاخیرها عقب انداخته است تاریخ انتشار را تا یک ماه",
+    "en": "These delays have set back the publication date by a month",
+    "desc": "\"Set back\" often implies a larger delay or an obstacle that causes significant trouble.\n\n\"Push back\" is more about rescheduling something, usually without major consequences",
+    "groupCode": 0
+  },
+  {
+    "id": 4092,
+    "fa": "صدها از مردم حضور پیدا کردن تا ببینند رژه را",
+    "en": "Hundreds of people turned out to see the parade",
+    "groupCode": 0
+  },
+  {
+    "id": 4093,
+    "fa": "من عذرخواهی می کنم برای رفتار دیشبم. من نمی دانم چه بر من غلبه (مستولی) کرده بود",
+    "en": "I apologise for my behaviour last night. I don't know what came over me",
     "groupCode": 0
   }
 ]

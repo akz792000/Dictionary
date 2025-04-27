@@ -223,7 +223,7 @@
   },
   {
     "id": 38,
-    "fa": "وقتی عصبانی هستی تصمیم نگیر",
+    "fa": "تصمیم نگیر وقتی شما عصبانی هستی",
     "en": "Do not make decisions when you are angry",
     "groupCode": 0
   },
@@ -1503,7 +1503,7 @@
   },
   {
     "id": 249,
-    "fa": "من نیاز به رابط برق دارم",
+    "fa": "من نیاز دارم به یک رابط برق",
     "en": "I need a power stripe",
     "groupCode": 0
   },
@@ -4276,7 +4276,7 @@
   },
   {
     "id": 706,
-    "fa": "تو نیاز داری که همت و مطالعه سخت تر کنی اگر می خواهی این تست را پاس کنی",
+    "fa": "تو نیاز داری که همت (آستین ها را بالا زدن) و مطالعه سخت تر کنی اگر می خواهی این تست را پاس کنی",
     "en": "You need to buckle down and study harder if you want to pass this test",
     "groupCode": 0
   },
@@ -6660,7 +6660,7 @@
   },
   {
     "id": 1096,
-    "fa": "حتی اگر در حال حاضر چیزها سخت است، شاد باش و به جلو برو",
+    "fa": "حتی اگر چیزها سخت است در حال حاضر، شاد باش و به جلو برو",
     "en": "Even though things are tough right now, cheer up and keep moving forward",
     "groupCode": 0
   },
@@ -14111,7 +14111,7 @@
   },
   {
     "id": 2324,
-    "fa": "به سلامتی کسانی که پشت سر گذاشتند یک سال دیگر را با این سه جمله Hallo، Bitte، Tschüss در آلمان",
+    "fa": "به سلامتی کسانی که عبور کردند یک سال دیگر را با این سه جمله Hallo، Bitte، Tschüss در آلمان",
     "en": "Cheers to those who made it through another year in Germany with these three sentences Hallo, Bitte, Tschüss",
     "groupCode": 0
   },
@@ -15143,7 +15143,7 @@
   },
   {
     "id": 2494,
-    "fa": "شما در مسیر درستی هستید، اما اجازه دهید به من چند نکته را روشن و تصحیح کنم",
+    "fa": "شما در مسیر درستی هستید، اما اجازه دهید به من روشن و تصحیح (درست) کنم یک چند نکته را",
     "en": "You're on the right track, but let me clarify and correct a few points",
     "groupCode": 0
   },

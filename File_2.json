@@ -62,8 +62,9 @@
   },
   {
     "id": 10011,
-    "en": "Good night. What is your name then? My name is Ali",
+    "en": "Good night. What is your name (friendliness or curiosity)? My name is Ali",
     "de": "Gute nacht. Wie heißt du denn? Ich heiße Ali (Mein name ist Ali)",
+    "desc": "\"denn\" here makes the question sound softer or more friendly.",
     "groupCode": 1
   },
   {
