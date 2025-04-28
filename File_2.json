@@ -199,14 +199,14 @@
   },
   {
     "id": 10033,
-    "en": "Which activities are better?",
-    "de": "Welche Aktivitäten sind besser?",
+    "en": "Which activities are better? Ali goes walking with his dog in the park every day",
+    "de": "Welche Aktivitäten sind besser? Ali geht jeden Tag mit seinem Hund im Park spazieren",
     "groupCode": 1
   },
   {
     "id": 10034,
-    "en": "Yes / No / may be",
-    "de": "Ja / Nein / Vielleicht",
+    "en": "Yes / No / may be. What are you drawing right now? Oh, you draw me",
+    "de": "Ja / Nein / Vielleicht. Was zeichnest du gerade? Oh, Du zeichnest mich",
     "groupCode": 1
   },
   {
@@ -229,8 +229,8 @@
   },
   {
     "id": 10038,
-    "en": "Can you do your chores (housework) tomorrow?",
-    "de": "Kannst du morgen deine Hausarbeit machen?",
+    "en": "Can you do your chores (housework) tomorrow? I found you pretty too",
+    "de": "Kannst du morgen deine Hausarbeit machen? Ich finde dich auch hübsch",
     "groupCode": 1
   },
   {
@@ -248,14 +248,14 @@
   },
   {
     "id": 10041,
-    "en": "The task is simple",
-    "de": "Die Aufgabe ist einfach",
+    "en": "The task is simple. She is really great",
+    "de": "Die Aufgabe ist einfach. Sie ist wirklich toll",
     "groupCode": 1
   },
   {
     "id": 10042,
-    "en": "The USA (come from USA)",
-    "de": "Die USA (komme aus den USA)",
+    "en": "The USA (come from USA). I'm hungry. Where are the groceries?",
+    "de": "Die USA (komme aus den USA). Ich bin hungrig. Wo sind die Lebensmittel?",
     "desc": "\"USA\" is plural in German (die Vereinigten Staaten von Amerika → plural).\nWith \"aus\", which takes the Dativ case, \"die\" (plural) changes to \"den\".",
     "groupCode": 1
   },
@@ -1344,8 +1344,8 @@
   },
   {
     "id": 10220,
-    "en": "Without this I am illiterate",
-    "de": "Ohne dies bin ich Analphabet",
+    "en": "Without this skill, I am illiterate",
+    "de": "Ohne diese Fähigkeit bin ich Analphabet",
     "groupCode": 1
   },
   {
@@ -1633,6 +1633,7 @@
     "id": 10267,
     "en": "You always come too late.The children plan to play volleyball",
     "de": "Du kommst immer zu spät. Die Kinder planen Volleyball zu spielen",
+    "desc": "The verb \"planen\" (to plan) requires an infinitive clause with \"zu\" (to) when followed by another verb.",
     "groupCode": 1
   },
   {
@@ -2368,7 +2369,7 @@
   },
   {
     "id": 10388,
-    "en": "My baby wants to sleep the all day",
+    "en": "My baby wants to sleep the entire day",
     "de": "Mein Baby will den ganzen Tag schlafen",
     "groupCode": 1
   },
@@ -2512,8 +2513,8 @@
   },
   {
     "id": 10412,
-    "en": "The telephone number is wrong",
-    "de": "Die Telefonnummer ist falsch",
+    "en": "The telephone number is wrong. Why are you on the phone the entire day?",
+    "de": "Die Telefonnummer ist falsch. Warum bist du den ganzen Tag am Telefon?",
     "groupCode": 1
   },
   {
@@ -3132,7 +3133,7 @@
   },
   {
     "id": 10514,
-    "en": "Do you have a pill? The concert was fantastic. Classical music is really beautiful",
+    "en": "Do you have a pill? The concert was great. Classical music is really beautiful",
     "de": "Hast du eine Tablette? Das Konzert war spitze. Klassische Musik ist wirklich schon",
     "groupCode": 1
   },
@@ -4302,7 +4303,7 @@
   },
   {
     "id": 10708,
-    "en": "Do you have to work all day?",
+    "en": "Do you have to work the entire day?",
     "de": "Musst du den ganzen Tag arbeiten?",
     "groupCode": 1
   },
@@ -5892,8 +5893,8 @@
   },
   {
     "id": 10970,
-    "en": "Whom do I pick up?",
-    "de": "Wen hole ich ab?",
+    "en": "Whom do I pick up? I'm not paying any bills this month, you pay everything",
+    "de": "Wen hole ich ab? Ich zahle diesen monat keine Rechnungen, du zahlst alles",
     "groupCode": 1
   },
   {
@@ -5991,6 +5992,12 @@
     "en": "I'm staying home because I'm sick",
     "de": "\n 1.Ich bleibe zu Hause, weil ich krank bin \n 2.Ich bleibe zu Hause, denn ich bin krank",
     "desc": "weil → verb at end\n\ndenn → verb in normal spot",
+    "groupCode": 1
+  },
+  {
+    "id": 10987,
+    "en": "I'm paying the bills this month, but can you pay the rent? I'm looking for a new job and pay again next time",
+    "de": "Ich zahle diesen Monat die Rechnungen. aber kannst du die Miete zahlen? Ich suche einen neuen Job und zahle nächstes Mal wieder",
     "groupCode": 1
   }
 ]

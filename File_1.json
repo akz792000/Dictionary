@@ -5354,8 +5354,9 @@
   },
   {
     "id": 3878,
-    "fa": "زمان همت (آستین ها را بالا زدن) است و برگشت به کار کردن",
+    "fa": "زمان همت (آستین ها را بالا زدن) است و رفتن به کار کردن",
     "en": "It's time to buckle down and get to work",
+    "desc": "\"Go\" = Neutral, focusing on the action of going.\n\"Gett\" = Slightly more informal, with a sense of urgency or personal decision.",
     "groupCode": 0
   },
   {
@@ -6593,7 +6594,7 @@
   },
   {
     "id": 4082,
-    "fa": "چقدر تو پس انداز کردی تا ۳۳ سالگی؟",
+    "fa": "چقدر تو پس انداز کرده ای تا سن ۳۳ سالگی؟",
     "en": "How much you saved by age 33?",
     "groupCode": 0
   },
@@ -6630,7 +6631,7 @@
   {
     "id": 4088,
     "fa": "چگونه داری با کارت کنار می آیی؟",
-    "en": "How are you getting on with your work?",
+    "en": "\n 1.How are you getting on with your work? \n 2.How are you getting along with your work?",
     "groupCode": 0
   },
   {

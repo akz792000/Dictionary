@@ -622,5 +622,11 @@
     "en": "Spend",
     "de": "\n verbringe \n verbringst \n verbringt \n verbringen \n verbringt \n verbringen",
     "groupCode": 1
+  },
+  {
+    "id": 20105,
+    "en": "Clean",
+    "de": "\n putze \n putzt \n putzt \n putzen \n putzt \n putzen",
+    "groupCode": 1
   }
 ]
