@@ -6502,7 +6502,7 @@
   },
   {
     "id": 4067,
-    "fa": "او (زن) در ریاضی وحشتناک است. او (زن) دو بار در کلاس مردود شد",
+    "fa": "او (زن) در ریاضی افتضاح است. او (زن) دو بار در کلاس مردود شد",
     "en": "She's terrible at Math. She failed the class twice",
     "groupCode": 0
   },
@@ -6565,6 +6565,7 @@
     "id": 4077,
     "fa": "وضعیت است به طرز چشمگیری مشابه چیزی که سال گذشته رخ داد",
     "en": "The situation is strikingly similar to what happened last year",
+    "desc": "Strikingly = noticeable\nStaggeringly = shocking",
     "groupCode": 0
   },
   {
@@ -6606,7 +6607,7 @@
   },
   {
     "id": 4084,
-    "fa": "من به شدت تحسین کننده کار او (مرد) بود",
+    "fa": "من به شدت تعریف کننده کار او (مرد) بود",
     "en": "I was extremely complimentary about his work",
     "groupCode": 0
   },
@@ -6636,7 +6637,7 @@
   },
   {
     "id": 4089,
-    "fa": "چقدر می توانند آنها بدون آب دوام بیاورند؟",
+    "fa": "چقدر می توانند آنها دوام بیاورند (نگه داشتن خارج) بدون آب؟",
     "en": "How long can they hold out without water?",
     "groupCode": 0
   },
@@ -6657,12 +6658,56 @@
     "id": 4092,
     "fa": "صدها از مردم حضور پیدا کردن تا ببینند رژه را",
     "en": "Hundreds of people turned out to see the parade",
+    "desc": "✅ Turned out\n= Emphasizes the number of people who came, often for a public event.\n\uD83D\uDD39 Hundreds of people turned out to see the parade.\n→ Suggests a big crowd came, maybe unexpectedly.\n\n✅ Turned up\n= Means came or arrived, more neutral or casual.\n\uD83D\uDD39 Hundreds of people turned up to see the parade.\n→ Just states that people came.",
     "groupCode": 0
   },
   {
     "id": 4093,
     "fa": "من عذرخواهی می کنم برای رفتار دیشبم. من نمی دانم چه بر من غلبه (مستولی) کرده بود",
     "en": "I apologise for my behaviour last night. I don't know what came over me",
+    "groupCode": 0
+  },
+  {
+    "id": 4094,
+    "fa": "مردی کسی که قرار بود از این کشور محافظت کند، به خطرش انداخت بخاطر بی احتیاطی و جوگیری (بی احتیاطی و تصمیم گیری لحظه ای در اثر جو زدگی)",
+    "en": "The man who was supposed to protect this country put it in danger because of his recklessness and impulsiveness",
+    "groupCode": 0
+  },
+  {
+    "id": 4095,
+    "fa": "غذای آن رستوران واقعاً فوق العاده (ترسناک) است",
+    "en": "The food at that restaurant is absolutely terrific",
+    "groupCode": 0
+  },
+  {
+    "id": 4096,
+    "fa": "هر چه بکاری، درو می کنی",
+    "en": "You reap what you sow",
+    "groupCode": 0
+  },
+  {
+    "id": 4097,
+    "fa": "او در یک رابطه بود و شوهرش بسیار زن ستیز بود",
+    "en": "She was in a relationship and her husband was pretty misogynistic",
+    "groupCode": 0
+  },
+  {
+    "id": 4098,
+    "fa": "اشتباه کردن (کار) انسان است",
+    "en": "To err is human",
+    "groupCode": 0
+  },
+  {
+    "id": 4099,
+    "fa": "کوه به طرز سرسام آوری بلند بود",
+    "en": "The mountain was staggeringly tall",
+    "desc": "Strikingly = noticeable\nStaggeringly = shocking",
+    "groupCode": 0
+  },
+  {
+    "id": 4100,
+    "fa": "طول کشید برام بیش از یک ساعت تا انتخاب کنم لباس ایده آل را برای مصاحبه شغلیم",
+    "en": "It took me over an hour to choose the perfect outfit for my job interview",
     "groupCode": 0
   }
 ]

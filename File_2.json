@@ -2831,7 +2831,7 @@
   },
   {
     "id": 10464,
-    "en": "Take a vacation in America, it's beautiful there",
+    "en": "Take (a) vacation in America, it's beautiful there",
     "de": "Mach Urlaub in Amerika, es ist schön dort",
     "groupCode": 1
   },
@@ -3253,7 +3253,7 @@
   },
   {
     "id": 10534,
-    "en": "My colleague (male) wants to take a vacation",
+    "en": "My colleague (male) wants to take (a) vacation",
     "de": "Mein Kollege will Urlaub machen",
     "groupCode": 1
   },
@@ -4068,7 +4068,7 @@
   },
   {
     "id": 10669,
-    "en": "Ali, you work too much, take a vacation",
+    "en": "Ali, you work too much, take (a) vacation",
     "de": "Ali, du arbeitest zu viel, mach Urlaub",
     "groupCode": 1
   },
@@ -5470,9 +5470,8 @@
   },
   {
     "id": 10900,
-    "en": "Have a nice day",
-    "de": "Einen schönen Tag noch",
-    "desc": "\"Einen schönen Tag noch\" translates to \"Have a nice day (still)\" or \"Have a nice rest of your day.\"\n\nHere, \"noch\" adds the sense of \"still\" or \"what remains of the day.\" It's often used to politely wish someone well as they're leaving or concluding an interaction",
+    "en": "I don't see it. You have to talk to the airline, sorry.",
+    "de": "Ich sehe ihn nicht. Du musst mit der Fluggesellschaft sprechen, tut mir leid",
     "groupCode": 1
   },
   {
@@ -5899,13 +5898,13 @@
   },
   {
     "id": 10971,
-    "en": "For Whom are you buying the gifts?",
-    "de": "Für wen kaufst du die Geschenke?",
+    "en": "For Whom are you buying the gifts? We want to fly to Turkey for a few days",
+    "de": "Für wen kaufst du die Geschenke? Wir wollen für ein paar tage in die Türkei fliegen",
     "groupCode": 1
   },
   {
     "id": 10972,
-    "en": "Are you (plural) bringing your boyfriend to (toward) the party?",
+    "en": "Are you bringing your (plural) boyfriend to (toward) the party?",
     "de": "Bringst du euren Freund zur Party mit?",
     "groupCode": 1
   },
@@ -5941,7 +5940,7 @@
   },
   {
     "id": 10978,
-    "en": "I have to talk to you (formal), do you have a moment?",
+    "en": "I have to speak to you (formal), do you have a moment?",
     "de": "Ich muss mit ihnen sprechen, haben Sie einen Moment?",
     "groupCode": 1
   },
