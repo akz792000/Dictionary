@@ -13405,6 +13405,7 @@
     "id": 2207,
     "fa": "متاسفم که یکم به شما تلنگر زدم در حال عبور",
     "en": "Sorry for nudging you a bit while passing",
+    "desc": "\"Sorry to [verb]\" usually fits better when you're apologizing before doing something (e.g., \"Sorry to interrupt\").\n\nIn your case, the action has already happened → \"for nudging\" fits better.",
     "groupCode": 0
   },
   {
@@ -14535,7 +14536,7 @@
   {
     "id": 2394,
     "fa": "چرا آن دختر (داره) اینقدر پایش را بلند می کند؟",
-    "en": "Why is that girl lifting her leg so much?",
+    "en": "Why is that girl lifting her leg too much?",
     "groupCode": 0
   },
   {

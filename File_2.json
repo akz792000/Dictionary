@@ -5543,8 +5543,8 @@
   },
   {
     "id": 10912,
-    "en": "Please spell (formal) kuchen",
-    "de": "Bitte buchstabieren Sie kuchen",
+    "en": "Please spell (formal) kuchen. There's a zoo in the neighborhood. My children want to visit the elephant every day. He's very big and cute.",
+    "de": "Bitte buchstabieren Sie kuchen. Es gibt einen Zoo in dem Stadtviertal. Meine Kinder möchten del Elefanten jeden Tag besuchen. Er ist sehr groß und lieb",
     "groupCode": 1
   },
   {
@@ -5573,32 +5573,33 @@
   },
   {
     "id": 10917,
-    "en": "Please place a question (formal)",
-    "de": "Bitte Stellen Sie eine Frage",
+    "en": "Please place a question (formal). I know your elephant, he is my friend",
+    "de": "Bitte Stellen Sie eine Frage. Ich kenne deinen Elefanten, er ist mein Freund",
     "groupCode": 1
   },
   {
     "id": 10918,
-    "en": "What do you usually eat for breakfast?",
-    "de": "Was isst du meistens zum (toward) frühstück?",
+    "en": "What do you usually eat for breakfast? Is there a bank in the neighborhood",
+    "de": "Was isst du meistens zum (toward) frühstück? Gibt es eine Bank in dem Stadtviertel",
     "groupCode": 1
   },
   {
     "id": 10919,
-    "en": "This is not a good idea",
-    "de": "Das ist keine gute Idee",
+    "en": "This is not a good idea. The student is not married. Do you like the student?",
+    "de": "Das ist keine gute Idee. Der Student ist nicht verheiratet, Magst du den Studenten?",
+    "desc": "In German, nouns change based on their case (subject, object, etc.). When the noun is in the accusative case (i.e., it's the direct object of the sentence), the article and the noun itself may change.",
     "groupCode": 1
   },
   {
     "id": 10920,
-    "en": "Buy only cucumbers and rice",
-    "de": "Kauft nur Gurken und Reise",
+    "en": "Buy only cucumbers and rice. Does the student live downstairs?",
+    "de": "Kauft nur Gurken und Reise. Wohnt der Student unten?",
     "groupCode": 1
   },
   {
     "id": 10921,
-    "en": "We have only one cucumber in the fridge",
-    "de": "Wir haben nur eine Gurke im Kühlschrank",
+    "en": "We have only one cucumber in the fridge. The building is very old and really high",
+    "de": "Wir haben nur eine Gurke im Kühlschrank. Das Gebäude ist sehr alt und wirklich hoch",
     "groupCode": 1
   },
   {
@@ -5633,8 +5634,8 @@
   },
   {
     "id": 10927,
-    "en": "Yes, I would like the receipt",
-    "de": "Ja, ich möchte den kassenzettel",
+    "en": "Yes, I would like the receipt. I know the boy because he is my brother",
+    "de": "Ja, ich möchte den kassenzettel. Ich kenne den jungen, denn er ist mein Bruder",
     "groupCode": 1
   },
   {
@@ -5651,8 +5652,9 @@
   },
   {
     "id": 10930,
-    "en": "Which sport do you want to do?",
-    "de": "Welchen Sport willst du machen?",
+    "en": "Which sport do you want to do? I know the student student (male). He's my neighbor. The university is nearby, and there are many students in the neighborhood.",
+    "de": "Welchen Sport willst du machen? Ich kenne den Studenten. Er ist mein Nachbar. Die Universität ist in der Nahe und es gibt in dem Stadtviertel viele Studenten",
+    "desc": "In German, nouns change based on their case (subject, object, etc.). When the noun is in the accusative case (i.e., it's the direct object of the sentence), the article and the noun itself may change.",
     "groupCode": 1
   },
   {
@@ -5844,8 +5846,8 @@
   },
   {
     "id": 10962,
-    "en": "He hopes his wife likes the party",
-    "de": "Er hofft seine Frau mag die Party",
+    "en": "He hopes his wife likes the party. My bear is not dangerous. He is very sweet",
+    "de": "Er hofft seine Frau mag die Party. Mein Bär ist nicht gefährlich. Er ist sehr lieb",
     "groupCode": 1
   },
   {
@@ -5856,8 +5858,9 @@
   },
   {
     "id": 10964,
-    "en": "Are you bringing along a cake?",
-    "de": "Bringst du einen Kuchen mit?",
+    "en": "Are you bringing along a cake? There is a bear in the neighborhood",
+    "de": "Bringst du einen Kuchen mit? Es gibt einen Bären in dem Stadtviertel",
+    "desc": "In German, when you use \"Es gibt\" (there is/are), it's a special case that requires the accusative for the object, not the nominative. So, even though you might expect nominative (because you're saying something exists), the correct case is accusative.",
     "groupCode": 1
   },
   {
@@ -5880,14 +5883,14 @@
   },
   {
     "id": 10968,
-    "en": "I have to pick up my parents earlier",
-    "de": "Ich muss meine Eltern früher abholen",
+    "en": "I have to pick up my parents earlier. This woman knows you, do you know her?",
+    "de": "Ich muss meine Eltern früher abholen. Diese Frau kennt dich, kennst du sie?",
     "groupCode": 1
   },
   {
     "id": 10969,
-    "en": "Are you picking up your parents?",
-    "de": "Holst du deine Eltern ab?",
+    "en": "Are you picking up your parents ?No, this woman is not my neighbor (female). We are married and live together. This is my wife",
+    "de": "Holst du deine Eltern ab? Nein, diese Frau ist nicht meine Nachbarin. Wir sind verheiratet und wohnen zusammen. Das ist meine Frau",
     "groupCode": 1
   },
   {

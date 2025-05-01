@@ -2057,7 +2057,7 @@
   {
     "id": 3337,
     "fa": " ۱.هویج \n ۲.گوجه فرنگی \n ۳.خیار \n ۴.نخود فرنگی \n ۵.مارچوبه ",
-    "en": "1.Carrot \n 2.Tomato \n 3.Cucumber \n 4.Peas \n 5.Asparagus /əˈsperəɡəs/",
+    "en": "1.Carrot \n 2.Tomato \n 3.Cucumber \n 4.Pea \n 5.Asparagus /əˈsperəɡəs/",
     "groupCode": 0
   },
   {
@@ -2191,8 +2191,9 @@
   },
   {
     "id": 3359,
-    "fa": "من همیشه این دو کلمه را با هم اشتباه می گیرم",
+    "fa": "من همیشه این دو کلمه را با هم اشتباه (گیج) می گیرم",
     "en": "I always confuse these two words",
+    "desc": "✔\uFE0F confuse A and B → natural and modern\n\n✔\uFE0F mistake A for B → correct but a different structure",
     "groupCode": 0
   },
   {
@@ -3251,7 +3252,7 @@
   {
     "id": 3531,
     "fa": "من از یک قابلمه برای جوشاندن پاستا و از یک ماهی تابه برای درست کردن سس استفاده می کنم",
-    "en": "I use a pot to boil the pasta and a saucepan to make the sauce",
+    "en": "I use a pot to boil pasta and a saucepan to make sauce",
     "groupCode": 0
   },
   {
@@ -6602,7 +6603,7 @@
   {
     "id": 4083,
     "fa": "آنها یک معاون دیگر هم داشتند, و او (مرد) یک دوست من بود",
-    "en": "They had one other VP, and he was a bud of mine",
+    "en": "They had one other VP (Vice President), and he was a bud of mine",
     "groupCode": 0
   },
   {
@@ -6669,26 +6670,26 @@
   },
   {
     "id": 4094,
-    "fa": "مردی کسی که قرار بود از این کشور محافظت کند، به خطرش انداخت بخاطر بی احتیاطی و جوگیری (بی احتیاطی و تصمیم گیری لحظه ای در اثر جو زدگی)",
+    "fa": "مردی که قرار بود از این کشور محافظت کند به خطرش انداخت بخاطر بی احتیاطی و جوگیری (بی احتیاطی و تصمیم گیری لحظه ای در اثر جو زدگی)",
     "en": "The man who was supposed to protect this country put it in danger because of his recklessness and impulsiveness",
     "groupCode": 0
   },
   {
     "id": 4095,
-    "fa": "غذای آن رستوران واقعاً فوق العاده (ترسناک) است",
+    "fa": "غذا در آن رستوران کاملاً (مطلقا) فوق العاده (ترسناک) است",
     "en": "The food at that restaurant is absolutely terrific",
     "groupCode": 0
   },
   {
     "id": 4096,
-    "fa": "هر چه بکاری، درو می کنی",
+    "fa": "تو درو می کنی چیزی که تو بکاری",
     "en": "You reap what you sow",
     "groupCode": 0
   },
   {
     "id": 4097,
-    "fa": "او در یک رابطه بود و شوهرش بسیار زن ستیز بود",
-    "en": "She was in a relationship and her husband was pretty misogynistic",
+    "fa": "او (زن) در یک رابطه بود و شوهرش بسیار زن ستیز بود",
+    "en": "She was in a relationship and her husband was pretty misogynistic /میسا جِنیستک/",
     "groupCode": 0
   },
   {
@@ -6708,6 +6709,44 @@
     "id": 4100,
     "fa": "طول کشید برام بیش از یک ساعت تا انتخاب کنم لباس ایده آل را برای مصاحبه شغلیم",
     "en": "It took me over an hour to choose the perfect outfit for my job interview",
+    "groupCode": 0
+  },
+  {
+    "id": 4101,
+    "fa": "من کامنت کردم لاگ های اشکال زدایی را ، اما بعداً آنها را از کامنت خارج کردم",
+    "en": "I commented out the debug logs, but later uncommented them",
+    "groupCode": 0
+  },
+  {
+    "id": 4102,
+    "fa": "من همیشه این کلمه را اشتباه استفاده می کنم",
+    "en": "I always misuse this word",
+    "groupCode": 0
+  },
+  {
+    "id": 4103,
+    "fa": "من همیشه یکی را به جای دیگری اشتباه می گیرم",
+    "en": "I always mistake one for the other",
+    "desc": "✔\uFE0F confuse A and B → natural and modern\n\n✔\uFE0F mistake A for B → correct but a different structure",
+    "groupCode": 0
+  },
+  {
+    "id": 4104,
+    "fa": "او (مرد) می قاپد فرصت را هر وقت پیش بیاید سر راهش",
+    "en": "He snatches the opportunity whenever it comes his way",
+    "groupCode": 0
+  },
+  {
+    "id": 4105,
+    "fa": "نگران مشاجره نباش, فقط یک طوفان در یک فنجان چای است (این فقط یه توپ تو کوزه است)",
+    "en": "Don't worry about the argument, it's just a storm in a teacup",
+    "desc": "A lot of fuss or excitement over something that is not important or doesn't matter much",
+    "groupCode": 0
+  },
+  {
+    "id": 4106,
+    "fa": "برایم سخت است که تا دیروقت بیدار بمانم وقتی من مجبورم کار کنم زود روز بعد",
+    "en": "It's hard for me to stay up late when I have to work early the next day",
     "groupCode": 0
   }
 ]
