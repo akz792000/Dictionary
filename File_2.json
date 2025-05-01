@@ -131,8 +131,8 @@
   },
   {
     "id": 10022,
-    "en": "Who says that? You are not always lazy because you cook for me",
-    "de": "Wer sagt das? Du bist nicht immer faul denn du kochst für mich",
+    "en": "Who says that? You are not always lazy, because you cook for me",
+    "de": "Wer sagt das? Du bist nicht immer faul, denn du kochst für mich",
     "groupCode": 1
   },
   {
@@ -281,7 +281,7 @@
   {
     "id": 10046,
     "en": "Is that your (formal) cell phone number? Yes, my cell phone number is...",
-    "de": "Ist das Ihr Handynummer? Ja, meine Handynummer ist ...",
+    "de": "Ist das Ihre Handynummer? Ja, meine Handynummer ist ...",
     "groupCode": 1
   },
   {
@@ -580,7 +580,7 @@
   {
     "id": 10095,
     "en": "I don't want to drink something",
-    "de": "Ich will etwas nicht trinken",
+    "de": "Ich will nicht etwas trinken",
     "groupCode": 1
   },
   {
@@ -695,8 +695,8 @@
   },
   {
     "id": 10114,
-    "en": "It snows very heavily (strongly). Where are my scarf and water bottle?",
-    "de": "Es schneit sehr stark. Wo sind mein Schal und wasserflasche?",
+    "en": "It snows very heavily (strongly). Where are my scarf and my water bottle?",
+    "de": "Es schneit sehr stark. Wo sind mein Schal und meine wasserflasche?",
     "groupCode": 1
   },
   {
@@ -1387,7 +1387,7 @@
   {
     "id": 10227,
     "en": "The film is boring. I don't want to stay in the cinema (for) three hours",
-    "de": "Der Film ist langweilig. Ich will drei Stunden im Kino nicht bleiben",
+    "de": "Der Film ist langweilig. Ich will drei Stunden nicht im Kino bleiben",
     "groupCode": 1
   },
   {
@@ -5937,8 +5937,8 @@
   },
   {
     "id": 10977,
-    "en": "The gift is boring, I don't like it",
-    "de": "Das Geschenk ist langweilig, ich mag es nicht",
+    "en": "The gift is boring. I don't like it",
+    "de": "Das Geschenk ist langweilig. Ich mag es nicht",
     "groupCode": 1
   },
   {
