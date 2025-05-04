@@ -470,12 +470,6 @@
     "groupCode": 1
   },
   {
-    "id": 10045,
-    "en": "Thanks anyway",
-    "de": "Danke schön",
-    "groupCode": 1
-  },
-  {
     "id": 10046,
     "en": "I'm sorry. I'm not from here",
     "de": "Tut mir leid. Ich bin nicht von hier",
@@ -696,31 +690,9 @@
     "groupCode": 1
   },
   {
-    "id": 10057,
-    "en": "The hotel is large",
-    "de": "Das Hotel ist groß",
-    "groupCode": 1
-  },
-  {
-    "id": 10058,
-    "en": "I wear glasses",
-    "de": "Ich trage eine Brille",
-    "groupCode": 1
-  },
-  {
     "id": 10059,
     "en": "The camera is new",
     "de": "Die Kamera ist neu",
-    "groupCode": 1
-  },
-  {
-    "id": 10060,
-    "en": "The bottle is empty.",
-    "de": "Die Flasche ist leer",
-    "groupCode": 1
-  },
-  {
-    "id": 10061,
     "groupCode": 1
   },
   {

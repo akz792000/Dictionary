@@ -51,7 +51,7 @@
   {
     "id": 10009,
     "en": "Get well soon! You eat two eggs every morning. Buy three packs next time, I want to eat eggs too",
-    "de": "Gute Besserung! Due isst jeden Morgen zwei Eier. Kauf nächstes Mal drei Packungen, ich will auch Eier esse",
+    "de": "Gute Besserung! Due isst jeden Morgen zwei Eier. Kauf nächstes Mal drei Packungen, ich will auch Eier essen",
     "groupCode": 1
   },
   {
@@ -119,8 +119,8 @@
   },
   {
     "id": 10020,
-    "en": "Where do the persons come from?",
-    "de": "Woher kommen die Personen?",
+    "en": "Where do the persons come from? Can you wait in the apartment? I am at home in ten minutes, then we can clean the kitchen together",
+    "de": "Woher kommen die Personen? Kannst du in der Wohnung warten? Ich bin in zehn Minuten zu Hause, dann können wir zusammen die küche putzen",
     "groupCode": 1
   },
   {
@@ -229,7 +229,7 @@
   },
   {
     "id": 10038,
-    "en": "Can you do your chores (housework) tomorrow? I found you pretty too",
+    "en": "Can you do your chores tomorrow? I found you pretty too",
     "de": "Kannst du morgen deine Hausarbeit machen? Ich finde dich auch hübsch",
     "groupCode": 1
   },
@@ -248,8 +248,8 @@
   },
   {
     "id": 10041,
-    "en": "The task is simple. She is really great",
-    "de": "Die Aufgabe ist einfach. Sie ist wirklich toll",
+    "en": "The task is simple. She is really great. You can't smoke anymore in the apartment",
+    "de": "Die Aufgabe ist einfach. Sie ist wirklich toll. Du kannst nicht mehr in der Wohnung rauchen",
     "groupCode": 1
   },
   {
@@ -261,8 +261,8 @@
   },
   {
     "id": 10043,
-    "en": "IRAN (come from Iran)",
-    "de": "Der Iran (komme aus dem iran)",
+    "en": "IRAN (come from Iran). Ilia and I are making a picnic tomorrow. The cheese sandwich is for her. Please don't eat it! There's cheese and bread in the fridge for you.",
+    "de": "Der Iran (komme aus dem iran). Ilia und ich machen morgen ein Picknick. Das Käsebrot ist für sie. Iss es bitte nicht! Es gibt Käse und Brot im Kuhlschrank für dich",
     "groupCode": 1
   },
   {
@@ -1301,8 +1301,8 @@
   },
   {
     "id": 10213,
-    "en": "What is your (formal) Telephone number?",
-    "de": "Wie ist Ihr Telefonnummer?",
+    "en": "What is your (formal) Telephone number? Your bear was totally lazy, we won't gift him an elephant",
+    "de": "Wie ist Ihr Telefonnummer? Dein Bär war total faul, wir schenken ihm keinen Elefanten",
     "groupCode": 1
   },
   {
@@ -1313,20 +1313,20 @@
   },
   {
     "id": 10215,
-    "en": "An elegant woman comes to Ali",
-    "de": "Eine elegante Frau kommt zu Ali",
+    "en": "An elegant woman comes to Ali. Your brother was helpful, do you gift him your motorcycle?",
+    "de": "Eine elegante Frau kommt zu Ali. Dein Bruder was hilfreich, schenkst du ihm dein Motorrad?",
     "groupCode": 1
   },
   {
     "id": 10216,
-    "en": "We can't come",
-    "de": "Wir können nicht kommen",
+    "en": "We can't come. Do you want to invite me to my favorite restaurant?",
+    "de": "Wir können nicht kommen. Willst du mich in mein Lieblingsrestaurant einladen?",
     "groupCode": 1
   },
   {
     "id": 10217,
-    "en": "My origin is from Germany",
-    "de": "Meine Herkunft ist aus Deutschland",
+    "en": "My origin is from Germany. Ali was nice (love), can you buy movie tickets for him?",
+    "de": "Meine Herkunft ist aus Deutschland. Ali war lieb, kannst du Kinokarten für ihn kaufen?",
     "groupCode": 1
   },
   {
@@ -1338,32 +1338,32 @@
   },
   {
     "id": 10219,
-    "en": "I care for patients",
-    "de": "Ich pflege Patienten",
+    "en": "I care for patients. Now I have a little peace",
+    "de": "Ich pflege Patienten. Jetzt habe ich ein bisschen Ruhe",
     "groupCode": 1
   },
   {
     "id": 10220,
-    "en": "Without this skill, I am illiterate",
-    "de": "Ohne diese Fähigkeit bin ich Analphabet",
+    "en": "Without this skill, I am illiterate. I'm glad, everything is over",
+    "de": "Ohne diese Fähigkeit bin ich Analphabet. Ich bin froh, alles ist vorbei",
     "groupCode": 1
   },
   {
     "id": 10221,
-    "en": "Which actor (male) do you like?",
-    "de": "Welchen Schauspieler magst du?",
+    "en": "Which actor (male) do you like? Thank you, you were really helpful. Here's a gift for you",
+    "de": "Welchen Schauspieler magst du? Danke schön, du warst wirklich hilfreich. Hier ist ein Geschenk für dich",
     "groupCode": 1
   },
   {
     "id": 10222,
-    "en": "How long does the horror movie take?",
-    "de": "Wie lange dauert der Horrorfilm?",
+    "en": "How long does the horror movie take? My arms are OK, but my back hurts",
+    "de": "Wie lange dauert der Horrorfilm? Meine Arme sind OK, aber mir tut der Rücken weh",
     "groupCode": 1
   },
   {
     "id": 10223,
-    "en": "You have to find your brother, where is he?",
-    "de": "Du musst deinen Bruder finden, wo ist er?",
+    "en": "You have to find your brother, where is he? Was the move exhausting?",
+    "de": "Du musst deinen Bruder finden, wo ist er? War der Umzug anstrengend /اَنشترگنت/?",
     "groupCode": 1
   },
   {
@@ -1374,8 +1374,8 @@
   },
   {
     "id": 10225,
-    "en": "Only adults can watch the horror film",
-    "de": "Nur Erwachsene können den Horrorfilm sehen",
+    "en": "Only adults can watch the horror film. The move was not exhausting, we had a lot of help",
+    "de": "Nur Erwachsene können den Horrorfilm sehen. Der Umzug war nicht anstrengend /اَنشترگنت/, wir hatten viel Hilfe",
     "groupCode": 1
   },
   {
@@ -2807,7 +2807,7 @@
   },
   {
     "id": 10460,
-    "en": "Mia and Tim, is your (plural) apartment clean for the party? Your mother is also coming to (toward) the party",
+    "en": "Mia and Tim, is your (plural) apartment clean for the party? Your (plural) mother is also coming to (toward) the party",
     "de": "Mia und Tim, ist eure Wohnung sauber für die Party? Eure Mutter kommt auch zur Party",
     "groupCode": 1
   },
@@ -2940,7 +2940,7 @@
   },
   {
     "id": 10482,
-    "en": "Finally the homework is done, you are helpful",
+    "en": "Finally the chores is done, you are helpful",
     "de": "Endlich ist die Hausarbeit fertig, du bist hilfreich",
     "groupCode": 1
   },
@@ -3295,8 +3295,8 @@
   },
   {
     "id": 10541,
-    "en": "Don't eat too much schnitzel",
-    "de": "Iss nicht zu viel Schnitzel",
+    "en": "Don't eat too much schnitzel. Don't eat my cheese sandwich again",
+    "de": "Iss nicht zu viel Schnitzel. Iss nicht wieder mein Käsebrot",
     "groupCode": 1
   },
   {
@@ -4961,7 +4961,7 @@
   },
   {
     "id": 10816,
-    "en": "On the kitchen table lies a glasses. It's glasses for Lisa. Lisa can read better with the glasses",
+    "en": "On the kitchen table lies a glasses. It is the glasses for Lisa. Lisa can read better with the glasses",
     "de": "Auf dem Küchentisch liegt eine Brille. Es ist die Brille von Lisa. Lisa kann mit der Brille besser lesen",
     "groupCode": 1
   },
@@ -5593,7 +5593,7 @@
   {
     "id": 10920,
     "en": "Buy only cucumbers and rice. Does the student live downstairs?",
-    "de": "Kauft nur Gurken und Reise. Wohnt der Student unten?",
+    "de": "Kauft nur Gurken und Reis. Wohnt der Student unten?",
     "groupCode": 1
   },
   {
@@ -5889,7 +5889,7 @@
   },
   {
     "id": 10969,
-    "en": "Are you picking up your parents ?No, this woman is not my neighbor (female). We are married and live together. This is my wife",
+    "en": "Are you picking up your parents ? No, this woman is not my neighbor (female). We are married and live together. This is my wife",
     "de": "Holst du deine Eltern ab? Nein, diese Frau ist nicht meine Nachbarin. Wir sind verheiratet und wohnen zusammen. Das ist meine Frau",
     "groupCode": 1
   },

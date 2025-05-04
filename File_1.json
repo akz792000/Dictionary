@@ -2903,7 +2903,7 @@
   },
   {
     "id": 3474,
-    "fa": "بدون فکر (بدون برنامه قبلی) رفتار نکنید یا چیزها را خیلی سریع فرض نکنید",
+    "fa": "جوگیرانه رفتار نکنید یا چیزها را خیلی سریع فرض نکنید",
     "en": "Don't act impulsively or assume things too quickly",
     "groupCode": 0
   },
@@ -3227,7 +3227,7 @@
   },
   {
     "id": 3527,
-    "fa": "او (مرد) دچار اختلال روانی شد و او (زن) اینگونه به دنیا آمد",
+    "fa": "او (مرد) دچار اختلال ذهنی شد و او (زن) اینگونه به دنیا آمد",
     "en": "He became mentally impaired, and she was born that way",
     "groupCode": 0
   },
@@ -6590,7 +6590,7 @@
   },
   {
     "id": 4081,
-    "fa": "بنابراین اگر, به هر دلیلی, کاربران مذکور گرفته نشوند در اولین سعی، آنها گرفته نخواهند شد در تلاش بعدی",
+    "fa": "بنابراین اگر, به هر دلیلی, کاربران مذکور گرفته نشوند در اولین سعی، آنها گرفته خواهند شد (فرضی) در تلاش بعدی",
     "en": "So if, for any reason, the mentioned users were not caught on the first try, they would be caught on the next attempt",
     "groupCode": 0
   },
@@ -6604,6 +6604,7 @@
     "id": 4083,
     "fa": "آنها یک معاون دیگر هم داشتند, و او (مرد) یک دوست من بود",
     "en": "They had one other VP (Vice President), and he was a bud of mine",
+    "desc": "“One other” is more precise: exactly one more.\n\n“Another” is broader, and often sounds more natural in casual speech.",
     "groupCode": 0
   },
   {
@@ -6688,7 +6689,7 @@
   },
   {
     "id": 4097,
-    "fa": "او (زن) در یک رابطه بود و شوهرش بسیار زن ستیز بود",
+    "fa": "او (زن) در یک رابطه بود و شوهرش بسیار (زیبا) زن ستیز بود",
     "en": "She was in a relationship and her husband was pretty misogynistic /میسا جِنیستک/",
     "groupCode": 0
   },
@@ -6707,7 +6708,7 @@
   },
   {
     "id": 4100,
-    "fa": "طول کشید برام بیش از یک ساعت تا انتخاب کنم لباس ایده آل را برای مصاحبه شغلیم",
+    "fa": "طول کشید برام بیش از یک ساعت تا انتخاب کنم لباس عالی را برای مصاحبه شغلیم",
     "en": "It took me over an hour to choose the perfect outfit for my job interview",
     "groupCode": 0
   },
@@ -6747,6 +6748,30 @@
     "id": 4106,
     "fa": "برایم سخت است که تا دیروقت بیدار بمانم وقتی من مجبورم کار کنم زود روز بعد",
     "en": "It's hard for me to stay up late when I have to work early the next day",
+    "groupCode": 0
+  },
+  {
+    "id": 4107,
+    "fa": "آنها داشتن تلاش می کردند تا حل کردن (ریش ریش , نخ کش کردن) علت مرگ را",
+    "en": "They were attempting to unravel the cause of death",
+    "groupCode": 0
+  },
+  {
+    "id": 4108,
+    "fa": "ایجاد کن یک برش کوچک پایین دنده ها",
+    "en": "Make a small incision below the ribs",
+    "groupCode": 0
+  },
+  {
+    "id": 4109,
+    "fa": "معرفی نامه ها مهیا نمی کنند هیچ مزیتی در این مورد، زیرا همه کاندیداها می روند از فرآیند یکسانی",
+    "en": "Referrals don't provide any advantage in this case, as all candidates go through the same process",
+    "groupCode": 0
+  },
+  {
+    "id": 4110,
+    "fa": "اگر کاربر به آن گروه تعلق دارد، در نظرش بگیر به عنوان درست; در غیر این صورت، نادرست (false)",
+    "en": "If the user belongs to that group, consider it as true; otherwise, false",
     "groupCode": 0
   }
 ]

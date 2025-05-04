@@ -3037,7 +3037,7 @@
   },
   {
     "id": 503,
-    "fa": "من فقط 20 دقیقه رفته بودم",
+    "fa": "من رفته بودم فقط برای 20 دقیقه",
     "en": "I was gone only for 20 minutes",
     "groupCode": 0
   },
@@ -8545,7 +8545,7 @@
   {
     "id": 1406,
     "fa": "من کلاً قیدش (زن) رو زدم",
-    "en": "I'm totally over her",
+    "en": "\n 1.I'm totally over her \n 2.I totally got over her",
     "groupCode": 0
   },
   {
@@ -12319,6 +12319,7 @@
     "id": 2028,
     "fa": "به نظر می رسد که شما میل شدیدی به این وظیفه دارید",
     "en": "It seems that you have an overwhelming desire for this task",
+    "desc": "\"Seems like\" = informal \"It seems that\" = formal",
     "groupCode": 0
   },
   {
@@ -14517,7 +14518,7 @@
   },
   {
     "id": 2391,
-    "fa": "سبد میوه هم انبه خام و هم رسیده دارد",
+    "fa": "سبد میوه هم انبه های خام و هم رسیده دارد",
     "en": "The fruit basket has both raw and ripe mangoes",
     "groupCode": 0
   },
@@ -16747,8 +16748,8 @@
   },
   {
     "id": 2757,
-    "fa": "سلام منو برسون",
-    "en": "Say hi for me",
+    "fa": "تولد پدرت مبارک، و از طرف من به او سلام برسان",
+    "en": "Happy birthday to your father, and say hi to him for me",
     "groupCode": 0
   },
   {
