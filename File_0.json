@@ -9155,6 +9155,7 @@
     "id": 1507,
     "fa": "اینجا خیلی باران می بارد. کاش اینهمه بارون نمیبارید",
     "en": "It rains a lot here. I wish it didn't rain so much",
+    "desc": "\"I wish it didn't rain so much\": Focuses on the current or habitual reality (it rains a lot now), expressing a general dislike.\n\n\"I wish it would not rain so much\": Focuses on the future or potential change, expressing frustration or hope for the rain to stop",
     "groupCode": 0
   },
   {
@@ -11109,7 +11110,7 @@
   },
   {
     "id": 1829,
-    "fa": "من دندون مصنوعی دارم",
+    "fa": "من دندون های مصنوعی دارم",
     "en": "I have false teeth",
     "groupCode": 0
   },
@@ -17215,7 +17216,7 @@
   },
   {
     "id": 2834,
-    "fa": "برای شما آرزوی اقامتی خوش در اینجا دارم",
+    "fa": "برای شما آرزوی یک اقامتی خوش اینجا دارم",
     "en": "I wish you a pleasant stay here",
     "groupCode": 0
   },
