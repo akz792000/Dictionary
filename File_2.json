@@ -267,14 +267,14 @@
   },
   {
     "id": 10044,
-    "en": "Hear (formal) the numbers (pay)",
-    "de": "Hören Sie die Zahlen",
+    "en": "Hear (formal) the numbers (pay). We don't have enough glasses for the guests",
+    "de": "Hören Sie die Zahlen. Wir haben nicht genug gläser für die Gäste",
     "groupCode": 1
   },
   {
     "id": 10045,
-    "en": "Speak out (formal) loud",
-    "de": "Sprechen Sie laut",
+    "en": "Speak out (formal) loud. I can never find a parking space in the city center",
+    "de": "Sprechen Sie laut. Ich kann nie im Stadtzentrum einen Parkplatz finden",
     "desc": "laut = loud",
     "groupCode": 1
   },
@@ -286,8 +286,8 @@
   },
   {
     "id": 10047,
-    "en": "Read (formal) the sentences",
-    "de": "Lesen Sie die Sätze",
+    "en": "Read (formal) the sentences. Each person pays five dollars for the food",
+    "de": "Lesen Sie die Sätze. Jede Person zahlt fünf Dollar für das Essen",
     "groupCode": 1
   },
   {
@@ -305,14 +305,14 @@
   },
   {
     "id": 10050,
-    "en": "I am so tired",
-    "de": "Ich bin so müde",
+    "en": "I am so tired. After her museum-visit Ali reads a book in her garden",
+    "de": "Ich bin so müde. Nach ihrem Museumsbesuch liest Ali ein Buch in ihrem Garten",
     "groupCode": 1
   },
   {
     "id": 10051,
-    "en": "How old are you (formal)?",
-    "de": "Wie alt sind Sie?",
+    "en": "How old are you (formal)? Do you have a nice day off (free day)?",
+    "de": "Wie alt sind Sie? Hast du einen schönen freien Tag?",
     "groupCode": 1
   },
   {
@@ -324,14 +324,14 @@
   },
   {
     "id": 10053,
-    "en": "can you (formal) help me?",
-    "de": "Können sie mir helfen?",
+    "en": "can you (formal) help me? You can sit in the garden and do nothing. Relax",
+    "de": "Können sie mir helfen? Du kannst im Garten sitzen und nichts tun. Entspanne dich",
     "groupCode": 1
   },
   {
     "id": 10054,
-    "en": "The closet is cool. Do you like the closet?",
-    "de": "Der Schrank ist cool. Magst du den Schrank?",
+    "en": "The closet is cool. Do you like the closet? He sits in the garden for a moment and does nothing",
+    "de": "Der Schrank ist cool. Magst du den Schrank? Er sitzt für einen Moment im Garten und tut nichts",
     "groupCode": 1
   },
   {
@@ -1325,7 +1325,7 @@
   },
   {
     "id": 10217,
-    "en": "My origin is from Germany. Ali was nice (love), can you buy movie tickets for him?",
+    "en": "My origin is from Germany. Ali was sweet (love), can you buy movie tickets for him?",
     "de": "Meine Herkunft ist aus Deutschland. Ali war lieb, kannst du Kinokarten für ihn kaufen?",
     "groupCode": 1
   },
@@ -1363,7 +1363,7 @@
   {
     "id": 10223,
     "en": "You have to find your brother, where is he? Was the move exhausting?",
-    "de": "Du musst deinen Bruder finden, wo ist er? War der Umzug anstrengend /اَنشترگنت/?",
+    "de": "Du musst deinen Bruder finden, wo ist er? War der Umzug anstrengend /اَنشترنگنت/?",
     "groupCode": 1
   },
   {
@@ -1375,7 +1375,7 @@
   {
     "id": 10225,
     "en": "Only adults can watch the horror film. The move was not exhausting, we had a lot of help",
-    "de": "Nur Erwachsene können den Horrorfilm sehen. Der Umzug war nicht anstrengend /اَنشترگنت/, wir hatten viel Hilfe",
+    "de": "Nur Erwachsene können den Horrorfilm sehen. Der Umzug war nicht anstrengend /اَنشترنگنت/, wir hatten viel Hilfe",
     "groupCode": 1
   },
   {
@@ -5543,8 +5543,8 @@
   },
   {
     "id": 10912,
-    "en": "Please spell (formal) kuchen. There's a zoo in the neighborhood. My children want to visit the elephant every day. He's very big and cute.",
-    "de": "Bitte buchstabieren Sie kuchen. Es gibt einen Zoo in dem Stadtviertal. Meine Kinder möchten del Elefanten jeden Tag besuchen. Er ist sehr groß und lieb",
+    "en": "Please spell (formal) kuchen. There's a zoo in the neighborhood. My children want to visit the elephant every day. He's very big and sweet (love)",
+    "de": "Bitte buchstabieren Sie kuchen. Es gibt einen Zoo in dem Stadtviertal. Meine Kinder möchten den Elefanten jeden Tag besuchen. Er ist sehr groß und lieb",
     "groupCode": 1
   },
   {
@@ -5585,7 +5585,7 @@
   },
   {
     "id": 10919,
-    "en": "This is not a good idea. The student is not married. Do you like the student?",
+    "en": "This is not a good idea. The student (male) is not married. Do you like the student?",
     "de": "Das ist keine gute Idee. Der Student ist nicht verheiratet, Magst du den Studenten?",
     "desc": "In German, nouns change based on their case (subject, object, etc.). When the noun is in the accusative case (i.e., it's the direct object of the sentence), the article and the noun itself may change.",
     "groupCode": 1
@@ -5846,7 +5846,7 @@
   },
   {
     "id": 10962,
-    "en": "He hopes his wife likes the party. My bear is not dangerous. He is very sweet",
+    "en": "He hopes his wife likes the party. My bear is not dangerous. He is very sweet (love)",
     "de": "Er hofft seine Frau mag die Party. Mein Bär ist nicht gefährlich. Er ist sehr lieb",
     "groupCode": 1
   },

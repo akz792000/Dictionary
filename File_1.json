@@ -2430,7 +2430,7 @@
   },
   {
     "id": 3398,
-    "fa": "من (مست نیست) هوشیارم از الکل برای 7 ماه است",
+    "fa": "من (مدتی) (مست نیست) هوشیارم از الکل برای 7 ماه است",
     "en": "I've been sober from alcohol for 7 months",
     "groupCode": 0
   },
@@ -2449,7 +2449,7 @@
   },
   {
     "id": 3401,
-    "fa": "من قرار گرفته ام در معرض ویروس خاصی طی دو ماه گذشته",
+    "fa": "من (مدتی) قرار گرفته ام در معرض ویروس خاصی طی دو ماه گذشته",
     "en": "I've been exposed to a specific virus over the past two months",
     "groupCode": 0
   },
@@ -3979,7 +3979,7 @@
   },
   {
     "id": 3651,
-    "fa": "من می گویم (فرضی) بیایید تمامش کنیم امروز و تلاش کنیم دوباره فردا",
+    "fa": "من می گویم (فرضی) برای امروز بسه (بیایید تمامش کنیم امروز) و تلاش کنیم دوباره فردا",
     "en": "I would say let's call it a day and try again tomorrow",
     "groupCode": 0
   },
@@ -6627,8 +6627,8 @@
   },
   {
     "id": 4087,
-    "fa": " ایجاز (حذف) اشاره دارد به حذف کلماتی که دلالت دارند توسط متن اما نه لزوما برای فهم جمله",
-    "en": "Ellipsis refers to the omission of words that are implied by the context but not necessary for understanding the sentence",
+    "fa": "ایجاز (حذف) اشاره دارد به حذف یک یا کلماتی از گفتار یا نوشتار، زمانی که آنها اضافی (زائد و اضافی) باشند یا می توان فهمیده شوند از متن",
+    "en": "Ellipsis refers to the omission of a word or words from speech or writing when they are superfluous or can be understood from context",
     "groupCode": 0
   },
   {
@@ -6772,6 +6772,66 @@
     "id": 4110,
     "fa": "اگر کاربر به آن گروه تعلق دارد، در نظرش بگیر به عنوان درست; در غیر این صورت، نادرست (false)",
     "en": "If the user belongs to that group, consider it as true; otherwise, false",
+    "groupCode": 0
+  },
+  {
+    "id": 4111,
+    "fa": "تو گفتی تو جمعه خواهی (فرضی) آمد",
+    "en": "You said you would come on Friday",
+    "groupCode": 0
+  },
+  {
+    "id": 4112,
+    "fa": "معلم گفت ما یک امتحان خواهیم (فرضی) داشت",
+    "en": "The teacher said we would have an exam",
+    "groupCode": 0
+  },
+  {
+    "id": 4113,
+    "fa": "من فکر کردم او (زن) بهم زنگ خواهد زد (فرضی) امروز",
+    "en": "I thought she would call me today",
+    "groupCode": 0
+  },
+  {
+    "id": 4114,
+    "fa": "از من به تو نصیحت (فقط یک نکته برای عاقل), پول نقد همراه داشته باش",
+    "en": "Just a word to the wise, bring cash",
+    "groupCode": 0
+  },
+  {
+    "id": 4115,
+    "fa": "من (مدتی) فکر می کردم در رابطه چیزی که تو گفتی و با تمام احترامی که قائلم، من فکر می کنم تو اشتباه میکنی",
+    "en": "I've been thinking about what you said and, with all due respect, I think you're mistaken",
+    "groupCode": 0
+  },
+  {
+    "id": 4116,
+    "fa": "به خودم مربوطه",
+    "en": "It's up to me",
+    "groupCode": 0
+  },
+  {
+    "id": 4117,
+    "fa": "من اشتباهم را قبول می کنم (من می ایستم اصلاح شده)",
+    "en": "I stand corrected",
+    "groupCode": 0
+  },
+  {
+    "id": 4118,
+    "fa": "تو مرا غافلگیر کردی",
+    "en": "You snuck up on me",
+    "groupCode": 0
+  },
+  {
+    "id": 4119,
+    "fa": "این یه بی احترامیه (توهین آمیزه)! اونا پرواز ما رو بدون اطلاع قبلی لغو کردن!",
+    "en": "This is an outrage! They canceled our flight without notice!",
+    "groupCode": 0
+  },
+  {
+    "id": 4120,
+    "fa": "مسئله (مورد) در حال بررسی است و به محض اینکه حل شد، ما بلافاصله شما را آگاه خواهیم کرد",
+    "en": "The issue is being addressed, and once it's resolved, we'll notify you right away",
     "groupCode": 0
   }
 ]
