@@ -224,7 +224,7 @@
   {
     "id": 20038,
     "en": "Want",
-    "de": "\n will \n willst \n will \n wollen \n wollt \n wollen",
+    "de": "\n will - wollte \n willst - wolltest \n will - wollte \n wollen - wollten \n wollt - wolltet \n wollen - wollten",
     "groupCode": 1
   },
   {
@@ -627,6 +627,24 @@
     "id": 20105,
     "en": "Clean",
     "de": "\n putze \n putzt \n putzt \n putzen \n putzt \n putzen",
+    "groupCode": 1
+  },
+  {
+    "id": 20106,
+    "en": "Move",
+    "de": "\n ziehe um \n ziehst um \n zieht um \n ziehen um \n zieht um \n ziehen um",
+    "groupCode": 1
+  },
+  {
+    "id": 20107,
+    "en": "Move",
+    "de": "\n gehe aus \n gehst aus \n geht aus \n gehen aus \n geht aus \n gehen aus",
+    "groupCode": 1
+  },
+  {
+    "id": 20108,
+    "en": "Lay",
+    "de": "\n liege \n liegst \n liegt \n liegen \n liegt \n liegen",
     "groupCode": 1
   }
 ]

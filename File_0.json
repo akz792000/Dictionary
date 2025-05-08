@@ -6559,6 +6559,7 @@
     "id": 1079,
     "fa": "من (مدتی) تمام روز به مغزم فشار آوردم سعی کردم به یاد بیاورم که کلیدهایم را کجا گذاشتم",
     "en": "I've been racking my brains all day trying to remember where I put my keys",
+    "desc": "The common idiom is \"racking my brains\" (plural), even though it sounds a bit odd",
     "groupCode": 0
   },
   {
@@ -9312,7 +9313,7 @@
   },
   {
     "id": 1533,
-    "fa": "اگر جهش های قیمت ادامه یابد، مردم قادر نخواهند بود به استطاعت خرید خانه های جدید مورد نظر خود",
+    "fa": "اگر جهش های قیمت ادامه یابد، مردم قادر نخواهند بود به استطاعت خرید خانه های جدید که آنها می خواهند",
     "en": "If price spikes continue, people will not be able to afford the new houses they want",
     "groupCode": 0
   },
@@ -14071,7 +14072,7 @@
   },
   {
     "id": 2317,
-    "fa": "اگر شما برای خودتان تصمیم نگیرید، دیگران برای شما (تصمیم) آنها را می گیرند",
+    "fa": "اگر شما برای خودتان تصمیم نگیرید، دیگران برای شما (تصمیم) آنها را خواهند گرفت",
     "en": "If you don't make decisions for yourself, others will make them for you",
     "desc": "Use \"decision\" for one choice and \"decisions\" for multiple or general choices. In your sentence, \"decisions\" fits because it's about decision-making in general.",
     "groupCode": 0

@@ -207,6 +207,7 @@
     "id": 10034,
     "en": "Yes / No / may be. What are you drawing right now? Oh, you draw me",
     "de": "Ja / Nein / Vielleicht. Was zeichnest du gerade? Oh, Du zeichnest mich",
+    "desc": "So use \"gerade\" for now, and \"gleich\" for soon/in a moment.",
     "groupCode": 1
   },
   {
@@ -261,7 +262,7 @@
   },
   {
     "id": 10043,
-    "en": "IRAN (come from Iran). Ilia and I are making a picnic tomorrow. The cheese sandwich is for her. Please don't eat it! There's cheese and bread in the fridge for you.",
+    "en": "IRAN (come from Iran). Ilia and I are making a picnic tomorrow. The cheese bread is for her. Please don't eat it! There's cheese and bread in the fridge for you.",
     "de": "Der Iran (komme aus dem iran). Ilia und ich machen morgen ein Picknick. Das Käsebrot ist für sie. Iss es bitte nicht! Es gibt Käse und Brot im Kuhlschrank für dich",
     "groupCode": 1
   },
@@ -324,7 +325,7 @@
   },
   {
     "id": 10053,
-    "en": "can you (formal) help me? You can sit in the garden and do nothing. Relax",
+    "en": "can you (formal) help me? You can sit in the garden and do nothing. Relax (you)",
     "de": "Können sie mir helfen? Du kannst im Garten sitzen und nichts tun. Entspanne dich",
     "groupCode": 1
   },
@@ -1321,6 +1322,7 @@
     "id": 10216,
     "en": "We can't come. Do you want to invite me to my favorite restaurant?",
     "de": "Wir können nicht kommen. Willst du mich in mein Lieblingsrestaurant einladen?",
+    "desc": "In: You're inviting someone to go into a place (restaurant)",
     "groupCode": 1
   },
   {
@@ -1392,8 +1394,8 @@
   },
   {
     "id": 10228,
-    "en": "The film starts in an hour",
-    "de": "Der Film beginnt in einer Stunde",
+    "en": "The film starts in an hour. There are two parks here. There is only one park there.",
+    "de": "Der Film beginnt in einer Stunde. Es gibt zwei Parks hier. Es gibt nur einen Park dort",
     "groupCode": 1
   },
   {
@@ -1405,8 +1407,8 @@
   },
   {
     "id": 10230,
-    "en": "Is the park really closed?",
-    "de": "Ist der Park wirklich geschlossen?",
+    "en": "Is the park really closed? You always eat my breakfast, lunch and dinner",
+    "de": "Ist der Park wirklich geschlossen? Du isst immer mein Frühstück, Mittagessen und Abendessen",
     "groupCode": 1
   },
   {
@@ -2303,7 +2305,7 @@
   },
   {
     "id": 10377,
-    "en": "Your mother is coming right now (soon), where are the flowers?",
+    "en": "Your mother is coming soon (in a moment), where are the flowers?",
     "de": "Deine Mutter kommt gleich, wo sind die Blumen?",
     "groupCode": 1
   },
@@ -2788,7 +2790,7 @@
   },
   {
     "id": 10457,
-    "en": "Ali comes right now (soon) from the train station to (toward) the party. Can you pick up Ali from the train station?",
+    "en": "Ali comes right soon (in a moment) from the train station to (toward) the party. Can you pick up Ali from the train station?",
     "de": "Ali kommt gleich vom Bahnhof zur Party. Kannst du Ali vom Bahnhof abholen?",
     "groupCode": 1
   },
@@ -3295,7 +3297,7 @@
   },
   {
     "id": 10541,
-    "en": "Don't eat too much schnitzel. Don't eat my cheese sandwich again",
+    "en": "Don't eat too much schnitzel. Don't eat my cheese bread again",
     "de": "Iss nicht zu viel Schnitzel. Iss nicht wieder mein Käsebrot",
     "groupCode": 1
   },
@@ -4618,8 +4620,8 @@
   },
   {
     "id": 10760,
-    "en": "I eat bread by white sausage",
-    "de": "Ich esse Brot mit Weißwurst",
+    "en": "I eat bread by white sausage. With whom are you going to the movies theater today?",
+    "de": "Ich esse Brot mit Weißwurst. Mit wem gehst du heute ins Kino?",
     "groupCode": 1
   },
   {
@@ -4636,14 +4638,15 @@
   },
   {
     "id": 10763,
-    "en": "We have holiday (school holidays) in two weeks",
-    "de": "Wir haben in zwei Wochen Ferien",
+    "en": "We have holiday (school holidays) in two weeks. My girl friends and I are watching a comedy during the holiday (school holidays). The film is very funny",
+    "de": "Wir haben in zwei Wochen Ferien. Meine Freundinnen und ich sehen in den Ferien eine Komödie. Der Film ist sher lustig",
     "groupCode": 1
   },
   {
     "id": 10764,
-    "en": "What do you do in the mornings?",
-    "de": "Was machst du morgens?",
+    "en": "What do you do in the mornings? My son wants to sleep in during the holiday (school holidays) and so do I",
+    "de": "Was machst du morgens? Mein Sohn will in den Ferien ausschlafen und ich auch",
+    "desc": "schlafen\tto sleep\tRegular sleep\nausschlafen\tto sleep in (until well-rested)\tSleeping late, no alarm, weekends, etc.",
     "groupCode": 1
   },
   {
@@ -4660,20 +4663,21 @@
   },
   {
     "id": 10767,
-    "en": "My grandma has no pets",
-    "de": "Meine Oma hat keine Haustiere",
+    "en": "My grandma has no pets. I have to study, but I want to read the newspaper",
+    "de": "Meine Oma hat keine Haustiere. Ich muss lernen, aber ich will die Zeitung lesen",
     "groupCode": 1
   },
   {
     "id": 10768,
-    "en": "There is only one computer in the village",
-    "de": "Es gibt im Dorf nur einen Computer",
+    "en": "There is only one computer in the village. Where is your luggage?",
+    "de": "Es gibt im Dorf nur einen Computer. Wo ist dein Gepäck?",
     "groupCode": 1
   },
   {
     "id": 10769,
-    "en": "How many chairs do we have?",
-    "de": "Wie viele Stühle haben wir?",
+    "en": "How many chairs do we have? I'm tired, I want to sleep in tomorrow",
+    "de": "Wie viele Stühle haben wir? Ich bin müde, ich will morgen ausschlafen",
+    "desc": "schlafen\tto sleep\tRegular sleep\nausschlafen\tto sleep in (until well-rested)\tSleeping late, no alarm, weekends, etc.",
     "groupCode": 1
   },
   {
@@ -4696,26 +4700,26 @@
   },
   {
     "id": 10773,
-    "en": "Open your (formal) suitcase, please",
-    "de": "Öffnen Sie ihren Koffer, bitte",
+    "en": "Open your (formal) suitcase, please. My parents pay for the taxi. It drives us to the airport",
+    "de": "Öffnen Sie ihren Koffer, bitte. Meine Eltern zahlen das Taxi. Es fährt uns zum Flughafen",
     "groupCode": 1
   },
   {
     "id": 10774,
-    "en": "Her friends (male) are her family",
-    "de": "Ihre freunde sind ihre Familie",
+    "en": "Her friends (male) are her family. Someone take me to the airport soon (in a moment) and I fly again to Bonn",
+    "de": "Ihre freunde sind ihre Famili. Jemand bringt mich gleich zum Flughafen und ich fliege wieder nach Bonn",
     "groupCode": 1
   },
   {
     "id": 10775,
-    "en": "The train to Vienna is cancelled",
-    "de": "Der Zug nach Wien fällt aus",
+    "en": "The train to Vienna is cancelled. I can come back in twelve months not sooner",
+    "de": "Der Zug nach Wien fällt aus. Ich kann in zwölf Monaten wiederkommen nicht früher",
     "groupCode": 1
   },
   {
     "id": 10776,
-    "en": "The taxi ride takes about fourteen minutes",
-    "de": "Die Taxifahrt dauert circa vierzehn minuten",
+    "en": "The taxi ride takes about fourteen minutes. You must come back soon, (have a) good trip",
+    "de": "Die Taxifahrt dauert circa vierzehn minuten. Du musst bald wiederkommen, gute Reise",
     "groupCode": 1
   },
   {
@@ -5198,57 +5202,57 @@
   },
   {
     "id": 10855,
-    "en": "Do you like eating cucumbers",
-    "de": "Isst du gern Gurken?",
+    "en": "Do you like eating cucumbers? Don't eat my cheese bread again",
+    "de": "Isst du gern Gurken? Iss nicht wieder mein Käsebrot",
     "groupCode": 1
   },
   {
     "id": 10856,
-    "en": "Are cars better than a train?",
-    "de": "Sind Autos besser als ein Zug?",
+    "en": "Are cars better than a train? Where are my motorcycle keys? Your keys lay (are placed) often in strange places",
+    "de": "Sind Autos besser als ein Zug? Wo sind meine Motorradschlüssel? Deine Schlüssel liegen oft an komischen Orten",
     "groupCode": 1
   },
   {
     "id": 10857,
-    "en": "My wife needs a cucumber for the salad",
-    "de": "Meine Frau braucht eine Gurke für den Salat",
+    "en": "My wife needs a cucumber for the salad. Are you lying in the shower? No, that's too funny",
+    "de": "Meine Frau braucht eine Gurke für den Salat. Liegen sie in der Dusche? Nein, das ist zu komisch",
     "groupCode": 1
   },
   {
     "id": 10858,
-    "en": "We need flowers, go inside the flower shop",
-    "de": "Wir brauchen Blumen, geh in den Blumenladen",
+    "en": "We need flowers, go inside the flower shop. How many bananas do we need for the week?",
+    "de": "Wir brauchen Blumen, geh in den Blumenladen. Wie viele Bananen brauchen wir für die Woche?",
     "groupCode": 1
   },
   {
     "id": 10859,
-    "en": "We need less than a hundred pieces of pizza",
-    "de": "Wir brauchen weniger als hundert Stück Pizza",
+    "en": "We need less than a hundred pieces of pizza. Why are you always on the phone and always so loud? be quieter",
+    "de": "Wir brauchen weniger als hundert Stück Pizza. Warum bist du immer am Telefon und immer so laut? Sie leiser",
     "groupCode": 1
   },
   {
     "id": 10860,
-    "en": "I get up every day at 7 o'clock",
-    "de": "Ich stehe jeden Tag um 7 Uhr auf",
+    "en": "I get up every day at 7 o'clock. The fridge is empty again",
+    "de": "Ich stehe jeden Tag um 7 Uhr auf. Der Kühlschrank ist wieder leer",
     "groupCode": 1
   },
   {
     "id": 10861,
-    "en": "How many books?",
-    "de": "Wie viele Bücher?",
+    "en": "How many books? My grandparents want to visit us and the apartment is now clean enough",
+    "de": "Wie viele Bücher? Meine Großeltern möchten uns besuchen und die Wohnung ist jetzt sauber genug",
     "desc": "Wie viel: For uncountable nouns. (Wie viel Geld?)\nWie viele: For countable nouns. (Wie viele Bücher?)",
     "groupCode": 1
   },
   {
     "id": 10862,
-    "en": "The girl lives in Munich",
-    "de": "Das Mädchen wohnt in München",
+    "en": "The girl lives in Munich. Our house is tidy again",
+    "de": "Das Mädchen wohnt in München. Unser Haus ist wieder ordentlich",
     "groupCode": 1
   },
   {
     "id": 10863,
-    "en": "I buy the orange juice in the supermarket",
-    "de": "Ich kaufe den Orangensaft im Supermarkt",
+    "en": "I buy the orange juice in the supermarket. I ruined the cake (I have made the cake destroy)",
+    "de": "Ich kaufe den Orangensaft im Supermarkt. I habe den Kuchen kaputt gemacht",
     "groupCode": 1
   },
   {
@@ -5259,8 +5263,8 @@
   },
   {
     "id": 10865,
-    "en": "I have a pen in my bag",
-    "de": "Ich habe einen Stift in meiner Tasche",
+    "en": "I have a pen in my bag. I really wanted this cake. It was something very special.",
+    "de": "Ich habe einen Stift in meiner Tasche. Ich wollte diesen Kuchen wirklich. Er war etwas ganz Besondere",
     "groupCode": 1
   },
   {
@@ -5271,8 +5275,8 @@
   },
   {
     "id": 10867,
-    "en": "What is your profession?",
-    "de": "\n 1.Was ist dein Beruf? \n 2.Was ist Ihr Beruf?",
+    "en": "You don't have to wait, I come later. What is your (formal) profession?",
+    "de": "Du musst nicht warten, ich komme später. Was ist Ihr Beruf?",
     "groupCode": 1
   },
   {
@@ -5604,7 +5608,7 @@
   },
   {
     "id": 10922,
-    "en": "Are you going to the supermarket right now (soon)? I'm going into the supermarket right now (soon)",
+    "en": "Are you going to the supermarket right soon (in a moment)? I'm going into the supermarket right soon (in a moment)",
     "de": "Gehst du gleich in den Supermarkt? Ich gehe gleich in den Supermarkt",
     "groupCode": 1
   },
@@ -5738,7 +5742,7 @@
   },
   {
     "id": 10944,
-    "en": "Who has a chair? The basketball game begins shortly, do you want to come along?",
+    "en": "Who has a chair? The basketball game begins soon (in a moment), do you want to come along?",
     "de": "Wer hat einen Stuhl? Das Basketballspiel beginnt gleich, willst du mitkommen?",
     "groupCode": 1
   },

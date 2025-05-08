@@ -525,6 +525,7 @@
     "id": 3086,
     "fa": "دو ثروتمندترین مرد روی زمین نتونستند همسرشان را خوشحال نگه دارند، چه امیدی دارید؟",
     "en": "The two richest men on Earth couldn't keep their wives happy, what hope do you have?",
+    "desc": "We usually say \"on Earth\" (no \"the\") when referring to the planet in a general or figurative sense.\n\nExample: The best pizza on Earth.\n\n\"on the Earth\" is rare and more scientific, used when distinguishing Earth from other celestial bodies.\n\nExample: Water exists on the Earth and on some moons.",
     "groupCode": 0
   },
   {
@@ -6450,7 +6451,7 @@
   {
     "id": 4058,
     "fa": "من اذعان کردم تقلب کردن در تست را، اما من انکار کردم کپی کردن از لیزا. ما بعداً بحث کردیم ملاقات کردن را",
-    "en": "I admit cheating on the test, but I deny copying Lisa. We discussed meeting later",
+    "en": "I admited cheating on the test, but I denied copying Lisa. We discussed meeting later",
     "groupCode": 0
   },
   {
@@ -6609,7 +6610,7 @@
   },
   {
     "id": 4084,
-    "fa": "من به شدت تعریف کننده کار او (مرد) بود",
+    "fa": "من به شدت تعریف کننده در رابطه با کار او (مرد) بودم",
     "en": "I was extremely complimentary about his work",
     "groupCode": 0
   },
@@ -6794,7 +6795,7 @@
   },
   {
     "id": 4114,
-    "fa": "از من به تو نصیحت (فقط یک نکته برای عاقل), پول نقد همراه داشته باش",
+    "fa": "از من به تو نصیحت (فقط یک نکته برای عاقل), بیار پول نقد",
     "en": "Just a word to the wise, bring cash",
     "groupCode": 0
   },
@@ -6832,6 +6833,30 @@
     "id": 4120,
     "fa": "مسئله (مورد) در حال بررسی است و به محض اینکه حل شد، ما بلافاصله شما را آگاه خواهیم کرد",
     "en": "The issue is being addressed, and once it's resolved, we'll notify you right away",
+    "groupCode": 0
+  },
+  {
+    "id": 4121,
+    "fa": "من می گذارم کتاب را روی میز هر شب. دیروز، من هم آنجا گذاشتمش",
+    "en": "I lay the book on the table every night. Yesterday, I laid it there too",
+    "groupCode": 0
+  },
+  {
+    "id": 4122,
+    "fa": "من روی تخت دراز می کشم وقتی من خسته ام. دیروز، من دراز کشیدم آنجا برای ساعت ها",
+    "en": "I lie on the bed when I'm tired. Yesterday, I lay there for hours",
+    "groupCode": 0
+  },
+  {
+    "id": 4123,
+    "fa": "من دارم می گذارم کتاب را روی میز همین الان",
+    "en": "I am laying the book on the table right now",
+    "groupCode": 0
+  },
+  {
+    "id": 4124,
+    "fa": "من دارم دراز می کشم روی کاناپه همین الان",
+    "en": "I am lying on the couch at the moment",
     "groupCode": 0
   }
 ]
