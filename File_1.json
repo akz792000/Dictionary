@@ -3519,7 +3519,7 @@
   },
   {
     "id": 3575,
-    "fa": "من دیگر شیرینی نمی خورم زیرا نمی خواهم قند بیشتری در رژیم غذایی ام",
+    "fa": "من دیگر شیرینی ها نمی خورم زیرا من نمی خواهم دیگر قند بیشتری در رژیم غذایی ام",
     "en": "I don't eat sweets anymore because I don't want any more sugar in my diet",
     "desc": "Use \"anymore\" for time-related meanings (no longer or nowadays).\nUse \"any more\" when referring to quantity (additional items or amounts).",
     "groupCode": 0
@@ -6831,13 +6831,13 @@
   },
   {
     "id": 4120,
-    "fa": "مسئله (مورد) در حال بررسی است و به محض اینکه حل شد، ما بلافاصله شما را آگاه خواهیم کرد",
+    "fa": "مسئله (مورد) در حال بررسی است و به محض اینکه (دوباره) حل شد، ما بلافاصله شما را آگاه خواهیم کرد",
     "en": "The issue is being addressed, and once it's resolved, we'll notify you right away",
     "groupCode": 0
   },
   {
     "id": 4121,
-    "fa": "من می گذارم کتاب را روی میز هر شب. دیروز، من هم آنجا گذاشتمش",
+    "fa": "من قرار می دهم کتاب را روی میز هر شب. دیروز، من هم آنجا قراردادمش",
     "en": "I lay the book on the table every night. Yesterday, I laid it there too",
     "groupCode": 0
   },
@@ -6849,14 +6849,15 @@
   },
   {
     "id": 4123,
-    "fa": "من دارم می گذارم کتاب را روی میز همین الان",
+    "fa": "من دارم قرار می دهم کتاب را روی میز همین الان",
     "en": "I am laying the book on the table right now",
     "groupCode": 0
   },
   {
     "id": 4124,
-    "fa": "من دارم دراز می کشم روی کاناپه همین الان",
-    "en": "I am lying on the couch at the moment",
+    "fa": "من دارم دراز می کشم روی کاناپه در این لحظه",
+    "en": "I am lying /لایینگ/ on the couch at the moment",
+    "desc": "\"I am lying down on the couch at the moment\" — emphasizes the action of reclining or getting into that position",
     "groupCode": 0
   }
 ]
