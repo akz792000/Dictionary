@@ -415,7 +415,7 @@
   },
   {
     "id": 20070,
-    "en": "Lay",
+    "en": "Lie, Lay (are placed)",
     "de": "\n liege \n liegst \n liegt \n liegen \n liegt \n liegen",
     "groupCode": 1
   },
@@ -643,8 +643,8 @@
   },
   {
     "id": 20108,
-    "en": "Lay",
-    "de": "\n liege \n liegst \n liegt \n liegen \n liegt \n liegen",
+    "en": "Go out",
+    "de": "\n gehe aus \n gehst aus \n geht aus \n gehen aus \n geht aus \n gehen aus",
     "groupCode": 1
   }
 ]

@@ -71,6 +71,7 @@
     "id": 3012,
     "fa": "چگونه قرار است به آن پاسخ دهم؟",
     "en": "How am I supposed to respond to that?",
+    "desc": "You need the word \"to\" after \"supposed\" when it’s followed by a verb",
     "groupCode": 0
   },
   {
@@ -5417,7 +5418,7 @@
   },
   {
     "id": 3888,
-    "fa": "چگونه می توان تو مطمئن باشی که کلید به ارث برده است تمام مجوزهای کاربری که ایجادش کرده؟",
+    "fa": "چگونه می توان تو مطمئن باشی که کلید به ارث برده است تمام مجوزها از کاربری که ایجادش کرده؟",
     "en": "How can you be sure that the key has inherited all the permissions of the user who created it?",
     "groupCode": 0
   },
@@ -6864,6 +6865,12 @@
     "id": 4125,
     "fa": "اقتصاد آمریکا کوچک شد در سه ماه اول سال در بحبوحه عدم قطعیت در مورد (روی) تعرفه ها",
     "en": "The American economy shrank in the first three months of the year amid uncertainty over tariffs",
+    "groupCode": 0
+  },
+  {
+    "id": 4126,
+    "fa": "کسب و کارها واردات کردن بیشتر جلوتر از عوارض، و مصرف کنندگان خرج کردند کمتر",
+    "en": "Businesses imported more ahead of the levies, and consumers spent less",
     "groupCode": 0
   }
 ]

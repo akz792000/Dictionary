@@ -58,11 +58,12 @@
     "id": 10010,
     "en": "See you later. What are you paying this month?",
     "de": "Bis Später. Was zahlst du diesen Monat?",
+    "desc": "We use accusative here because of the verb \"zahlen\" (to pay), which takes a direct object",
     "groupCode": 1
   },
   {
     "id": 10011,
-    "en": "Good night. What is your name (friendliness or curiosity)? My name is Ali",
+    "en": "Good night. What (How) is your name (friendliness or curiosity)? My name is Ali",
     "de": "Gute nacht. Wie heißt du denn? Ich heiße Ali (Mein name ist Ali)",
     "desc": "\"denn\" here makes the question sound softer or more friendly.",
     "groupCode": 1
@@ -224,7 +225,7 @@
   },
   {
     "id": 10037,
-    "en": "This is my pen. I have a pencil",
+    "en": "That is my pen. I have a pencil",
     "de": "Das ist mein (der) Kuli/Kugelschreiber. Ich habe einen (der) Bleistift",
     "groupCode": 1
   },
@@ -684,7 +685,7 @@
   },
   {
     "id": 10112,
-    "en": "Is this a book? No, this is not a book",
+    "en": "Is that a book? No, that is not a book",
     "de": "Ist das ein Buch? Nein, das ist kein Buch",
     "groupCode": 1
   },
@@ -873,20 +874,20 @@
   },
   {
     "id": 10143,
-    "en": "What time is your family coming today?",
+    "en": "What (How) time is your family coming today?",
     "de": "Wie viel Uhr kommt heute deine Familie?",
     "groupCode": 1
   },
   {
     "id": 10144,
-    "en": "How much do four tickets cost and four bags?",
+    "en": "How (How) much do four tickets cost and four bags?",
     "de": "Wie viel kosten vier Fahrkarten und vier Tüten?",
     "desc": "Wie viel: For uncountable nouns. (Wie viel Geld?)\nWie viele: For countable nouns. (Wie viele Bücher?)",
     "groupCode": 1
   },
   {
     "id": 10145,
-    "en": "At what time is your (formal) appointment? My appointment is at four o'clock",
+    "en": "At what (how) time is your (formal) appointment? My appointment is at four o'clock",
     "de": "Um wie viel Uhr ist Ihr termin? Mein Termin is um sechzehn Uhr",
     "groupCode": 1
   },
@@ -930,7 +931,7 @@
   },
   {
     "id": 10152,
-    "en": "This is bahador. He comes from Istanbul, and you?",
+    "en": "That is bahador. He comes from Istanbul, and you?",
     "de": "Das ist Bahador. Er kommt aus Istanbul (س), und du?",
     "groupCode": 1
   },
@@ -1166,7 +1167,7 @@
   },
   {
     "id": 10191,
-    "en": "Who is this? This is ali",
+    "en": "Who is this? That is ali",
     "de": "Wer ist das? Das is Ali",
     "groupCode": 1
   },
@@ -1240,7 +1241,7 @@
   },
   {
     "id": 10203,
-    "en": "This is Pablo. He comes from Spain, from Leon. He now lives in Munich",
+    "en": "That is Pablo. He comes from Spain, from Leon. He now lives in Munich",
     "de": "Das ist Pablo. Er kommt aus Spanien (اِشپانین), aus Leon. Er wohnt jetzt in München",
     "groupCode": 1
   },
@@ -1252,7 +1253,7 @@
   },
   {
     "id": 10205,
-    "en": "This is Dana. She is from Lublin. She now lives in Germany",
+    "en": "That is Dana. She is from Lublin. She now lives in Germany",
     "de": "Das ist Dana. Sie ist aus Lublin. Sie wohnt jetzt in Deutschland",
     "groupCode": 1
   },
@@ -1277,14 +1278,14 @@
   },
   {
     "id": 10209,
-    "en": "What is your family name? (formal)",
+    "en": "What (How) is your family name? (formal)",
     "de": "Wie ist Ihr (formal) Familienname?",
     "desc": "\"Ihr\" is a formal pronoun used when addressing someone with respect, especially in professional or formal situations. It is equivalent to the English \"your\" (formal) when addressing someone with respect",
     "groupCode": 1
   },
   {
     "id": 10210,
-    "en": "What is your first name? (formal)",
+    "en": "What (How) is your first name? (formal)",
     "de": "Wie ist Ihr (formal) Vorname?",
     "groupCode": 1
   },
@@ -1296,14 +1297,14 @@
   },
   {
     "id": 10212,
-    "en": "What is your (formal) zip code?",
+    "en": "What (How) is your (formal) zip code?",
     "de": "Wie ist Ihr Postleitzahl/Ort?",
     "groupCode": 1
   },
   {
     "id": 10213,
-    "en": "What is your (formal) Telephone number? Your bear was totally lazy, we don't gift him an elephant",
-    "de": "Wie ist Ihr Telefonnummer? Dein Bär war total faul, wir schenken ihm keinen Elefanten",
+    "en": "What (How) is your (formal) Telephone number? Your bear was totally lazy, we don't gift him an elephant",
+    "de": "Wie ist Ihre Telefonnummer? Dein Bär war total faul, wir schenken ihm keinen Elefanten",
     "groupCode": 1
   },
   {
@@ -1419,7 +1420,7 @@
   },
   {
     "id": 10232,
-    "en": "The Spanish homeworks this (these) week are interesting, do you agree with me?",
+    "en": "The Spanish homeworks this week are interesting, do you agree with me?",
     "de": "Die Spanisch-Hausaufgaben diese Woche sind interessant, stimmst du mir zu?",
     "desc": "The \"zu\" is part of the separable verb \"zustimmen\" (to agree).\n\nIn \"Stimmst du mir zu?\", the prefix \"zu\" moves to the end because separable verbs split in main clauses.\n\nTranslation: \"Do you agree with me?\"",
     "groupCode": 1
@@ -1560,9 +1561,9 @@
   },
   {
     "id": 10255,
-    "en": "In front of the restaurant, drive (formal) to right.",
+    "en": "In front of the restaurant, drive (formal) toward right",
     "de": "Vor dem Restaurant fahren Sie nach rechts",
-    "desc": "\"Nach\" is a preposition in German that is often used to indicate direction or movement towards a specific place or direction",
+    "desc": "Nach: toward",
     "groupCode": 1
   },
   {
@@ -1920,7 +1921,7 @@
   },
   {
     "id": 10314,
-    "en": "I don't want to see this (these) horror movie",
+    "en": "I don't want to see this horror movie",
     "de": "Ich will diesen Horrorfilm nicht sehen",
     "groupCode": 1
   },
@@ -2056,7 +2057,7 @@
   },
   {
     "id": 10336,
-    "en": "Do you still have to wash these (these) socks",
+    "en": "Do you still have to wash these socks",
     "de": "Musst du diese Socken noch waschen",
     "desc": "Musst du diese Socken noch waschen?: Focus on still needing to wash the socks.\nMusst du noch diese Socken waschen?: Focus on these socks as additional ones.\nBoth are correct; the first is more common.",
     "groupCode": 1
@@ -2154,7 +2155,7 @@
   },
   {
     "id": 10352,
-    "en": "I don't like this (these) movie, can we go?",
+    "en": "I don't like this movie, can we go?",
     "de": "Ich mag diesen Film nicht, können wir gehen?",
     "groupCode": 1
   },
@@ -2324,7 +2325,7 @@
   {
     "id": 10380,
     "en": "The pastry shop is very popular. We always buy apple cack here",
-    "de": "Die Konditorei ist sehr beliebt. Wir kaufen immer hier Apfelkuchen",
+    "de": "Die Konditorei ist sehr beliebt. Wir kaufen immer Apfelkuchen hier",
     "groupCode": 1
   },
   {
@@ -2437,7 +2438,7 @@
   },
   {
     "id": 10399,
-    "en": "I am definitely (certainly) coming to (toward) the party",
+    "en": "I am definitely (entire certainly) coming to (toward) the party",
     "de": "Ich komme ganz bestimmt zur Party",
     "groupCode": 1
   },
@@ -2558,8 +2559,9 @@
   },
   {
     "id": 10419,
-    "en": "This is prohibited at the airport. Your (formal) dog must stay at home",
+    "en": "That is prohibited at the airport. Your (formal) dog must stay at home",
     "de": "Das ist am Flughafen verboten. Ihr Hund muss zu Hause bleiben",
+    "desc": "In German, place (am Flughafen) usually comes before the main verb/adjective",
     "groupCode": 1
   },
   {
@@ -2776,7 +2778,7 @@
   },
   {
     "id": 10455,
-    "en": "His friends bring him a gift (bring along for him a gift)",
+    "en": "His friends bring along him a gift",
     "de": "Seine Freunde bringen für ihn ein Geschenk mit",
     "desc": "Does \"für\" always come with \"bringen\"?\n\uD83D\uDD39 No, \"für\" is not required with \"bringen\".\nBut it's used when you say for whom the thing is being brought.",
     "groupCode": 1
@@ -2858,7 +2860,7 @@
   },
   {
     "id": 10468,
-    "en": "I wear these (these) socks with sandals every day",
+    "en": "I wear these socks with sandals every day",
     "de": "Ich trage jeden Tag diese Socken mit Sandalen",
     "groupCode": 1
   },
@@ -3285,7 +3287,7 @@
   },
   {
     "id": 10539,
-    "en": "Can you sit on this (these) chair?",
+    "en": "Can you sit on this chair?",
     "de": "Kannst du auf diesem Stuhl sitzen?",
     "groupCode": 1
   },
@@ -3454,7 +3456,7 @@
   },
   {
     "id": 10567,
-    "en": "I like this (these) apartment, but I can't pay the rent",
+    "en": "I like this apartment, but I can't pay the rent",
     "de": "Ich mag diese Wohnung, aber ich kann die Miete nicht zahlen",
     "groupCode": 1
   },
@@ -3634,7 +3636,7 @@
   },
   {
     "id": 10597,
-    "en": "What is your (formal) first and last name? My first name is Ali and last name is Zandi",
+    "en": "What (How) is your (formal) first and last name? My first name is Ali and last name is Zandi",
     "de": "Wie ist Ihr Vorname and Nachname? Mein Vorname ist Ali und mein Nachname ist Zandi",
     "desc": "Both \"Wie sind Ihr Vorname und Nachname?\" and \"Wie ist Ihr Vorname und Nachname?\" are grammatically correct, but \"Wie ist Ihr Vorname und Nachname?\" is more commonly used.",
     "groupCode": 1
@@ -4112,7 +4114,7 @@
   },
   {
     "id": 10676,
-    "en": "Do you want to buy this (these) backpack? No, it is too small",
+    "en": "Do you want to buy this backpack? No, it is too small",
     "de": "Willst du diesen Rucksack kaufen? Nein, er ist zu klein",
     "groupCode": 1
   },
@@ -4142,7 +4144,7 @@
   },
   {
     "id": 10681,
-    "en": "This (these) weekend she wants to ask him",
+    "en": "This weekend she wants to ask him",
     "de": "Dieses Wochenende will sie ihn fragen",
     "groupCode": 1
   },
@@ -4172,7 +4174,7 @@
   },
   {
     "id": 10686,
-    "en": "Are you really paying a hundred euros for this (these) hat?",
+    "en": "Are you really paying a hundred euros for this hat?",
     "de": "Zahlst du wirklich hundert Euro für diesen Hut?",
     "groupCode": 1
   },
@@ -4256,8 +4258,9 @@
   },
   {
     "id": 10700,
-    "en": "The vegetables are really fresh at the market",
+    "en": "That vegetables are really fresh at the market",
     "de": "Das Gemüse ist wirklich frisch auf dem Markt",
+    "desc": "Das Gemüse → the vegetable(s)\n\nIt’s a mass noun, like \"milk\" or \"water\" in English — used to refer to vegetables in general.",
     "groupCode": 1
   },
   {
@@ -4348,7 +4351,7 @@
   },
   {
     "id": 10715,
-    "en": "Is tomorrow definitely (certainly) an important day?",
+    "en": "Is tomorrow definitely (entire certainly an important day?",
     "de": "Ist morgen ganz bestimmt ein wichtiger Tag?",
     "groupCode": 1
   },
@@ -4439,7 +4442,7 @@
   },
   {
     "id": 10730,
-    "en": "Do you want to see this (these) horror movie?",
+    "en": "Do you want to see this horror movie?",
     "de": "Willst du diesen Horrorfilm sehen?",
     "groupCode": 1
   },
@@ -4620,7 +4623,7 @@
   },
   {
     "id": 10760,
-    "en": "I eat bread by white sausage. With whom are you going to the movies theater today?",
+    "en": "I eat bread by white sausage. With whom are you going to the cinema today?",
     "de": "Ich esse Brot mit Weißwurst. Mit wem gehst du heute ins Kino?",
     "groupCode": 1
   },
@@ -4682,7 +4685,7 @@
   },
   {
     "id": 10770,
-    "en": "This is our dining room. Do you like the table?",
+    "en": "That is our dining room. Do you like the table?",
     "de": "Das ist unser Esszimmer. Magst du den Tisch?",
     "groupCode": 1
   },
@@ -4712,8 +4715,8 @@
   },
   {
     "id": 10775,
-    "en": "The train to Vienna is cancelled. I can come back in twelve months not sooner",
-    "de": "Der Zug nach Wien fällt aus. Ich kann in zwölf Monaten wiederkommen nicht früher",
+    "en": "The train to Vienna is cancelled. I can come back in twelve months, not sooner",
+    "de": "Der Zug nach Wien fällt aus. Ich kann in zwölf Monaten wiederkommen, nicht früher",
     "groupCode": 1
   },
   {
@@ -4871,7 +4874,7 @@
   },
   {
     "id": 10801,
-    "en": "What is the student's name? Her name is Anna",
+    "en": "What (How) is the student's name? Her name is Anna",
     "de": "Wie heißt die Studentin? Sie heißt Anna",
     "groupCode": 1
   },
@@ -4933,7 +4936,7 @@
   },
   {
     "id": 10811,
-    "en": "When does this (these) train arrive in Hamburg?",
+    "en": "When does this train arrive in Hamburg?",
     "de": "Wann kommt dieser Zug in Hamburg an?",
     "groupCode": 1
   },
@@ -5026,7 +5029,7 @@
   },
   {
     "id": 10826,
-    "en": "It's already dark, what time is it?",
+    "en": "It's already dark, what (how) time is it?",
     "de": "Es ist schon dunkel, wie spät ist es?",
     "groupCode": 1
   },
@@ -5142,7 +5145,7 @@
   },
   {
     "id": 10845,
-    "en": "Our nut cake is particularly good. But I don't like a nut cake. Oh right!",
+    "en": "Our nut cake is specially good. But I don't like a nut cake. Oh right!",
     "de": "Unser Nusskuchen ist besonders gut. Ich mag aber keinen Nusskuchen. Ach so!",
     "groupCode": 1
   },
@@ -5210,11 +5213,12 @@
     "id": 10856,
     "en": "Are cars better than a train? Where are my motorcycle keys? Your keys lay (are placed) often in strange places",
     "de": "Sind Autos besser als ein Zug? Wo sind meine Motorradschlüssel? Deine Schlüssel liegen oft an komischen Orten",
+    "desc": "We use \"an\" with places to say where something is.\n\n\uD83D\uDFE2 \"liegen an Orten\" = \"lie at places\"",
     "groupCode": 1
   },
   {
     "id": 10857,
-    "en": "My wife needs a cucumber for the salad. Are you lying in the shower? No, that's too funny",
+    "en": "My wife needs a cucumber for the salad. Are you (formal) lying in the shower? No, that's too funny",
     "de": "Meine Frau braucht eine Gurke für den Salat. Liegen sie in der Dusche? Nein, das ist zu komisch",
     "groupCode": 1
   },
@@ -5257,14 +5261,15 @@
   },
   {
     "id": 10864,
-    "en": "Is this a ballpoint pen or a pen or a pencil?",
+    "en": "Is that a ballpoint pen or a pen or a pencil?",
     "de": "Ist das ein Kugelschreiber oder ein Stift oder ein Bleistift?",
     "groupCode": 1
   },
   {
     "id": 10865,
-    "en": "I have a pen in my bag. I really wanted this cake. It was something very special.",
+    "en": "I have a pen in my bag. I really wanted this cake. It was something entire special",
     "de": "Ich habe einen Stift in meiner Tasche. Ich wollte diesen Kuchen wirklich. Er war etwas ganz Besondere",
+    "desc": "besonders = adverb (describes verbs/adjectives)\n\nbesondere = adjective (describes nouns)",
     "groupCode": 1
   },
   {
@@ -5499,7 +5504,7 @@
   },
   {
     "id": 10904,
-    "en": "I can do the dishes. Correct. This here is my apartment. I often clean the apartment, I am messy",
+    "en": "I can do the dishes. Correct. That here is my apartment. I often clean the apartment, I am messy",
     "de": "Ich kann abwaschen. Richtig. Das hier ist meine Wohnung. Ich putze oft die Wohnung, ich bin unordentlich",
     "groupCode": 1
   },
@@ -5730,7 +5735,7 @@
   },
   {
     "id": 10942,
-    "en": "This is my German course",
+    "en": "That is my German course",
     "de": "Das ist mein Deutschkurs",
     "groupCode": 1
   },
@@ -5893,7 +5898,7 @@
   },
   {
     "id": 10969,
-    "en": "Are you picking up your parents ? No, this woman is not my neighbor (female). We are married and live together. This is my wife",
+    "en": "Are you picking up your parents ? No, this woman is not my neighbor (female). We are married and live together. That is my wife",
     "de": "Holst du deine Eltern ab? Nein, diese Frau ist nicht meine Nachbarin. Wir sind verheiratet und wohnen zusammen. Das ist meine Frau",
     "groupCode": 1
   },
@@ -5911,7 +5916,7 @@
   },
   {
     "id": 10972,
-    "en": "Are you bringing your (plural) boyfriend to (toward) the party?",
+    "en": "Are you bringing along your (plural) boyfriend to (toward) the party?",
     "de": "Bringst du euren Freund zur Party mit?",
     "groupCode": 1
   },
@@ -5947,7 +5952,7 @@
   },
   {
     "id": 10978,
-    "en": "I have to speak to you (formal), do you have a moment?",
+    "en": "I have to speak to you (formal), do you (formal) have a moment?",
     "de": "Ich muss mit ihnen sprechen, haben Sie einen Moment?",
     "groupCode": 1
   },
@@ -6002,7 +6007,7 @@
   },
   {
     "id": 10987,
-    "en": "I'm paying the bills this month, but can you pay the rent? I'm looking for a new job and pay again next time",
+    "en": "I'm paying these bills this month, but can you pay the rent? I'm looking for a new job and pay again next time",
     "de": "Ich zahle diesen Monat die Rechnungen. aber kannst du die Miete zahlen? Ich suche einen neuen Job und zahle nächstes Mal wieder",
     "groupCode": 1
   }
