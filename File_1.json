@@ -2849,7 +2849,7 @@
   },
   {
     "id": 3465,
-    "fa": "این خط تنظیم میکند یک قانون دید پیشفرض را تا همه ویژگیها نامرئی بسازد به طور پیشفرض",
+    "fa": "این خط تنظیم میکند یک قانون دید پیشفرض را تا بسازد همه ویژگیها را نامرئی به طور پیشفرض",
     "en": "This line sets a default visibility rule to make all properties invisible by default",
     "desc": "When \"to\" is a preposition (as in \"look forward to,\" \"used to,\" \"committed to\"), it's followed by a verb in the -ing form.\n\nWhen \"to\" is part of an infinitive (like \"to go,\" \"to see\"), it's followed by the base form of the verb.",
     "groupCode": 0
@@ -4361,8 +4361,8 @@
   },
   {
     "id": 3714,
-    "fa": "یک فردی که هست یک متخصص در زمینه روانپزشکی برای کودکان، نامیده می شود یک روانپزشک کودک یا روانپزشک کودکان",
-    "en": "A person who is an expert in the field of psychiatry for children is called a child psychiatrist or pediatric psychiatrist",
+    "fa": "یک فردی که هست یک متخصص در زمینه روانپزشکی برای کودکان نامیده می شود یک روانپزشک کودک یا روانپزشک کودکان",
+    "en": "A person who is an expert in the field of psychiatry /saɪˈkaɪətri/ for children is called a child psychiatrist or pediatric /ˌpidiˈætrɪk/ psychiatrist",
     "groupCode": 0
   },
   {
@@ -4857,6 +4857,7 @@
     "id": 3795,
     "fa": "این Dativ است زیرا فعل sein دلالت دارد به یک مکان ایستا یا حالت وجود داشتن",
     "en": "This is Dativ because the verb sein implies a static location or state of being",
+    "desc": "The verb \"implies\" directly connects to its object without the need for \"to.",
     "groupCode": 0
   },
   {
@@ -6826,7 +6827,7 @@
   },
   {
     "id": 4119,
-    "fa": "این یه بی احترامیه (توهین آمیزه)! اونا پرواز ما رو بدون اطلاع قبلی لغو کردن!",
+    "fa": "این یه بی احترامیه (توهین آمیزه)! اونا لغو کردن پرواز ما رو بدون اطلاع!",
     "en": "This is an outrage! They canceled our flight without notice!",
     "groupCode": 0
   },
@@ -6871,6 +6872,36 @@
     "id": 4126,
     "fa": "کسب و کارها واردات کردن بیشتر جلوتر از عوارض، و مصرف کنندگان خرج کردند کمتر",
     "en": "Businesses imported more ahead of the levies, and consumers spent less",
+    "groupCode": 0
+  },
+  {
+    "id": 4127,
+    "fa": "من قانع شدم",
+    "en": "I'm sold",
+    "groupCode": 0
+  },
+  {
+    "id": 4128,
+    "fa": "من پشت در آپارتمانم (در قفل شد) ماندم",
+    "en": "I was locked out of my apartment",
+    "groupCode": 0
+  },
+  {
+    "id": 4129,
+    "fa": "من جا ماندم",
+    "en": "I was left behind",
+    "groupCode": 0
+  },
+  {
+    "id": 4130,
+    "fa": "Gradle Wrapper هست یک مکانیزم که اطمینان می دهد یک پروژه ساخته شده است با یک ورژنی از Gradle, صرف نظر از ورژن Gradle نصب شده روی دستگاه توسعه دهنده",
+    "en": "The Gradle Wrapper is a mechanism to ensure that a project is built with a specific version of Gradle, regardless of the Gradle version installed on the developer's machine",
+    "groupCode": 0
+  },
+  {
+    "id": 4131,
+    "fa": "هوا او (زن) را کسل کرد",
+    "en": "The weather made her lethargic",
     "groupCode": 0
   }
 ]

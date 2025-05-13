@@ -983,7 +983,7 @@
   },
   {
     "id": 163,
-    "fa": "امکان دارد برام چرک خشک کن بنویسید؟ (آنتی بیوتیک)",
+    "fa": "امکان دارد برام یک چرک خشک کن بنویسید؟ (آنتی بیوتیک)",
     "en": "Is it possible to prescribe me a pus dryer (antibiotic)?",
     "groupCode": 0
   },
@@ -6867,7 +6867,7 @@
   },
   {
     "id": 1130,
-    "fa": "نباید مته به خشخاش بزنی, من تمام تلاشم را كرده بودم",
+    "fa": "تو نباید مته به خشخاش بزنی, من تمام تلاشم را كرده بودم",
     "en": "You shouldn't nitpick, I had done my best",
     "groupCode": 0
   },
@@ -9154,7 +9154,7 @@
   },
   {
     "id": 1507,
-    "fa": "اینجا خیلی باران می بارد. کاش اینهمه بارون نمیبارید",
+    "fa": "خیلی باران می بارد اینجا. کاش اینهمه بارون نمیبارید",
     "en": "It rains a lot here. I wish it didn't rain so much",
     "desc": "\"I wish it didn't rain so much\": Focuses on the current or habitual reality (it rains a lot now), expressing a general dislike.\n\n\"I wish it would not rain so much\": Focuses on the future or potential change, expressing frustration or hope for the rain to stop",
     "groupCode": 0
@@ -9313,7 +9313,7 @@
   },
   {
     "id": 1533,
-    "fa": "اگر جهش های قیمت ادامه یابد، مردم قادر نخواهند بود به استطاعت خرید خانه های جدید که آنها می خواهند",
+    "fa": "اگر جهش های قیمت ادامه یابد، مردم قادر نخواهند بود به استطاعت (خرید) خانه های جدید که آنها می خواهند",
     "en": "If price spikes continue, people will not be able to afford the new houses they want",
     "groupCode": 0
   },
@@ -11123,7 +11123,7 @@
   },
   {
     "id": 1831,
-    "fa": "من اکنون از آنها متنفرم و من یافتم آنها را بی ارزش (زباله)",
+    "fa": "من از آنها متنفرم اکنون و من می یابم آنها را بی ارزش (زباله)",
     "en": "I loathe them now and I find them trashy",
     "groupCode": 0
   },

@@ -5912,6 +5912,7 @@
     "id": 10971,
     "en": "For Whom are you buying the gifts? We want to fly to Turkey for a few days",
     "de": "Für wen kaufst du die Geschenke? Wir wollen für ein paar tage in die Türkei fliegen",
+    "desc": "The preposition \"in\" is used when referring to entering or traveling to a country \n\n\n The preposition \"zu\" is generally used when referring to going to a specific place, person, or event (e.g., \"zur Schule\" = to school, \"zum Arzt\" = to the doctor). It is not used for countries",
     "groupCode": 1
   },
   {
@@ -5964,26 +5965,26 @@
   },
   {
     "id": 10980,
-    "en": "We have to give the forms to the boss (female)",
-    "de": "Wir müssen die Formulare der Chefin geben",
+    "en": "We have to give the forms to the boss (female). I was distracted and didn’t listen",
+    "de": "Wir müssen die Formulare der Chefin geben. Ich war abgelenkt und habe nicht zugehört",
     "groupCode": 1
   },
   {
     "id": 10981,
-    "en": "I don't understand this word, what does it mean?",
-    "de": "Ich verstehe dieses Wort nicht, was bedeutet es?",
+    "en": "I don't understand this word, what does it mean? I was so absent-minded that I forgot my key",
+    "de": "Ich verstehe dieses Wort nicht, was bedeutet es? Ich war so geistesabwesend, dass ich meinen Schlüssel vergessen habe",
     "groupCode": 1
   },
   {
     "id": 10982,
-    "en": "I don't understand the question, do you understand it?",
-    "de": "Ich verstehe die Frage nicht, verstehst du sie?",
+    "en": "I don't understand the question, do you understand it? I am doing training as a mechanic",
+    "de": "Ich verstehe die Frage nicht, verstehst du sie? Ich mache eine Ausbildung als Mechanike",
     "groupCode": 1
   },
   {
     "id": 10983,
-    "en": "We drive almost always by the street car",
-    "de": "Wir fahren fast immer mit der Straßenbahn",
+    "en": "We drive almost always by the street car. The traffic in the city is very slow",
+    "de": "Wir fahren fast immer mit der Straßenbahn. Der Verkehr in der Stadt ist sehr langsam",
     "groupCode": 1
   },
   {
@@ -5994,8 +5995,8 @@
   },
   {
     "id": 10985,
-    "en": "I usually drive with the bus to the bank",
-    "de": "Ich fahre meistens mit dem Bus zur Bank",
+    "en": "I usually drive with the bus to the bank. I am single and have no children",
+    "de": "Ich fahre meistens mit dem Bus zur Bank. Ich bin ledig und habe keine Kinder",
     "groupCode": 1
   },
   {
