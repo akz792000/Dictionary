@@ -637,7 +637,7 @@
   },
   {
     "id": 20107,
-    "en": "Move",
+    "en": "Move out",
     "de": "\n gehe aus \n gehst aus \n geht aus \n gehen aus \n geht aus \n gehen aus",
     "groupCode": 1
   },
@@ -645,6 +645,12 @@
     "id": 20108,
     "en": "Go out",
     "de": "\n gehe aus \n gehst aus \n geht aus \n gehen aus \n geht aus \n gehen aus",
+    "groupCode": 1
+  },
+  {
+    "id": 20109,
+    "en": "Fish",
+    "de": "\n fische \n fischst \n fischt \n fischen \n fischt \n fischen",
     "groupCode": 1
   }
 ]

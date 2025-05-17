@@ -925,6 +925,7 @@
     "id": 153,
     "fa": "آیا می تونم این پیراهن را با سایز بزرگتر عوض کنم؟",
     "en": "Can I exchange this shirt for a larger size?",
+    "desc": "\"Exchange\" is the correct verb when you're returning something and getting something else in return (like a different size).",
     "groupCode": 0
   },
   {
@@ -6086,7 +6087,7 @@
   },
   {
     "id": 1002,
-    "fa": "(سیگار) کشیدن از شخصیت تو بعیده",
+    "fa": "از شخصیت تو بعیده (سیگار) کشیدن",
     "en": "It's out of character for you to smoke",
     "groupCode": 0
   },
@@ -6758,7 +6759,7 @@
   },
   {
     "id": 1112,
-    "fa": "بهم بگو چه اشتباهی کردم",
+    "fa": "بهم بگو من چه کردم اشتباهی",
     "en": "Tell me what I did wrong",
     "groupCode": 0
   },
@@ -10194,8 +10195,8 @@
   },
   {
     "id": 1679,
-    "fa": "چرا دیگه  تو به ملاقات دوستت نمیری",
-    "en": "Why don't you visit your friend anymore",
+    "fa": "چرا دیگه تو به ملاقات دوستت نمیری",
+    "en": "Why don't you visit your friend anymore?",
     "groupCode": 0
   },
   {
@@ -14423,7 +14424,7 @@
   },
   {
     "id": 2375,
-    "fa": "اولین محکومیش (زن) به دلیل فنی لغو شد",
+    "fa": "اولین محکومیش (زن) به یک دلیل فنی لغو شد",
     "en": "Her first conviction was canceled on a technicality",
     "groupCode": 0
   },
@@ -17613,8 +17614,9 @@
   },
   {
     "id": 2898,
-    "fa": "اگر قبلاً نداشته ایدش، شانسش هست  شما (قصد داشتن) بگیریدش",
+    "fa": "اگر شما قبلاً نداشته ایدش، شانسش هست شما (قصد داشتن) بگیریدش",
     "en": "If you haven't already had it, chances are you are gonna get it",
+    "desc": "If you haven't had it yet = Maybe you will have it soon.\n(Emphasis on time)\n\nIf you haven't already had it = Maybe you had it before, maybe not.\n(Emphasis on whether it happened)\n\nBoth are correct — the difference is small.",
     "groupCode": 0
   },
   {

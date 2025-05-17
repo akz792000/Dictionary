@@ -5943,7 +5943,7 @@
   },
   {
     "id": 3974,
-    "fa": "مردمیکه زمانی احساس می کردند عقب نگه داشته شدند توسط ترس هایشان، دارن اکنون آغوش می گیرند فرصت های جدید را",
+    "fa": "مردم کسانیکه زمانی احساس کردند عقب نگه داشته شدند توسط ترس هایشان، دارن اکنون آغوش می گیرند فرصت های جدید را",
     "en": "People who once felt held back by their fears are now embracing new opportunities",
     "groupCode": 0
   },
@@ -6053,7 +6053,7 @@
   {
     "id": 3992,
     "fa": "من ترجیح می دهم ببینم یک فیلمی با زیرنویسها تا یکی که دوبله شده باشد به فارسی",
-    "en": "I'd rather watch a movie with subtitles than one dubbed into Farsi",
+    "en": "I'd rather watch a movie with subtitles than one dubbed /dʌb/ into Farsi",
     "groupCode": 0
   },
   {
@@ -6894,14 +6894,86 @@
   },
   {
     "id": 4130,
-    "fa": "Gradle Wrapper هست یک مکانیزم که اطمینان می دهد یک پروژه ساخته شده است با یک ورژنی از Gradle, صرف نظر از ورژن Gradle نصب شده روی دستگاه توسعه دهنده",
+    "fa": "Gradle Wrapper هست یک مکانیزم که اطمینان می دهد یک پروژه ساخته شده است با یک ورژن مخصوص از Gradle, صرف نظر از ورژن Gradle نصب شده روی دستگاه توسعه دهنده",
     "en": "The Gradle Wrapper is a mechanism to ensure that a project is built with a specific version of Gradle, regardless of the Gradle version installed on the developer's machine",
     "groupCode": 0
   },
   {
     "id": 4131,
-    "fa": "هوا او (زن) را کسل کرد",
+    "fa": "هوا او (زن) را کسل کرد (ساخت)",
     "en": "The weather made her lethargic",
+    "groupCode": 0
+  },
+  {
+    "id": 4132,
+    "fa": "او (مرد) ده دقیقه پیش بیرون رفت. او باید زود برگردد",
+    "en": "He went out 10 minutes ago. He should be back soon",
+    "groupCode": 0
+  },
+  {
+    "id": 4133,
+    "fa": "HookService عمل خواهد کرد به عنوان یک توزیع کننده مرکزی که واگذار میکند هندل کردن رویداد به کلاس مناسب بر اساس نوع رویداد",
+    "en": "The HookService will act as a central dispatcher that delegates the event handling to the appropriate class based on the event type",
+    "groupCode": 0
+  },
+  {
+    "id": 4134,
+    "fa": "وجود دارد یک عالمه ترافیک نزدیک مدرسه در بعد از ظهر",
+    "en": "There is a lot of traffic near the school in the afternoon",
+    "groupCode": 0
+  },
+  {
+    "id": 4135,
+    "fa": "چنگ زدن است یک عمل سریع برای گرفتن (فرا گرفتن) چیزی و محکم گرفتن است نگه داشتن چیزی به طور محکم",
+    "en": "Grab is a quick action to take hold of something, and grip is to hold something firmly",
+    "groupCode": 0
+  },
+  {
+    "id": 4136,
+    "fa": "من شستم دست هایم را در دستشویی (لگن)",
+    "en": "I washed my hands in the basin",
+    "groupCode": 0
+  },
+  {
+    "id": 4137,
+    "fa": "شیر آب را ببند بعد از شستن دستهایت",
+    "en": "Turn off the faucet after washing your hands",
+    "groupCode": 0
+  },
+  {
+    "id": 4138,
+    "fa": "من استفاده کردم از یک تلمبه برای باز کردن گرفتگی توالت",
+    "en": "I used a plunger to unclog the toilet",
+    "groupCode": 0
+  },
+  {
+    "id": 4139,
+    "fa": "سیفون توالت را فراموش نکن",
+    "en": "Don't forget to flush the toilet",
+    "groupCode": 0
+  },
+  {
+    "id": 4140,
+    "fa": "من خشک کردم دستامو با خشک کن دست",
+    "en": "I dried my hands with the hand dryer",
+    "groupCode": 0
+  },
+  {
+    "id": 4141,
+    "fa": "وجود ندارد دستمال توالت در کابین حمام",
+    "en": "There's no toilet paper in the bathroom stall",
+    "groupCode": 0
+  },
+  {
+    "id": 4142,
+    "fa": "اسب در طویله است",
+    "en": "The horse is in the stall",
+    "groupCode": 0
+  },
+  {
+    "id": 4143,
+    "fa": "جا (پخش کننده) صابونی را فشار بده تا بگیری صابون",
+    "en": "Push the soap dispenser to get soap",
     "groupCode": 0
   }
 ]

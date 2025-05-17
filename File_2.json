@@ -13,8 +13,8 @@
   },
   {
     "id": 10003,
-    "en": "Do you want to do yoga in forty minutes?",
-    "de": "Willst du in vierzig Minuten Yoga machen?",
+    "en": "Do you want to do yoga in forty minutes? I have to work in the holiday (school holidays)",
+    "de": "Willst du in vierzig Minuten Yoga machen? Ich muss in den Ferien arbeiten",
     "groupCode": 1
   },
   {
@@ -94,8 +94,8 @@
   },
   {
     "id": 10016,
-    "en": "Ali is at home. He opens the door",
-    "de": "Ali ist zu Hause. Er öffnet die Tür",
+    "en": "Ali is at home. He opens the door. I like go swimming with my uncle. We go to the beach on weekends",
+    "de": "Ali ist zu Hause. Er öffnet die Tür. Ich gehe gern mit meinem Onkel schwimmen. Wir gehen am Wochenende zum Strand",
     "groupCode": 1
   },
   {
@@ -3643,8 +3643,8 @@
   },
   {
     "id": 10598,
-    "en": "Are we working or are we having (make) a picnic?",
-    "de": "Arbeiten wir oder machen wir ein Picknick?",
+    "en": "Are we working or are we having (make) a picnic? Your dad is so sweet (love), he's making a picnic for us",
+    "de": "Arbeiten wir oder machen wir ein Picknick? Dein Papa ist so lieb, er macht für uns ein Picknick",
     "groupCode": 1
   },
   {
@@ -4030,8 +4030,8 @@
   },
   {
     "id": 10662,
-    "en": "I don't like the shirt",
-    "de": "Ich mag das Hemd nicht",
+    "en": "I don't like the shirt. I have problems with my new roommate (female)",
+    "de": "Ich mag das Hemd nicht. Ich habe Probleme mit meiner neuen Mitbewohnerin",
     "groupCode": 1
   },
   {
@@ -4042,8 +4042,8 @@
   },
   {
     "id": 10664,
-    "en": "Our baby still can't ride (a) bike",
-    "de": "Unser Baby kann noch kein Fahrrad fahren",
+    "en": "Our baby still can't ride (a) bike. Is the old doner also yours?",
+    "de": "Unser Baby kann noch kein Fahrrad fahren. Ist der alte Doner auch von dir?",
     "groupCode": 1
   },
   {
@@ -4629,8 +4629,8 @@
   },
   {
     "id": 10761,
-    "en": "I need a visa, because I am studying abroad",
-    "de": "Ich brauche ein Visum, denn ich studiere im Ausland",
+    "en": "I need a visa, because I am studying abroad. Which comedy do you want to watch with your brother?",
+    "de": "Ich brauche ein Visum, denn ich studiere im Ausland. Welche Komödie willst du mit deinem Bruder sehen?",
     "groupCode": 1
   },
   {
@@ -4685,8 +4685,8 @@
   },
   {
     "id": 10770,
-    "en": "That is our dining room. Do you like the table?",
-    "de": "Das ist unser Esszimmer. Magst du den Tisch?",
+    "en": "That is our dining room. Do you like the table? Can someone please pick up my grandma?",
+    "de": "Das ist unser Esszimmer. Magst du den Tisch? Kann jemand bitte meine Oma abholen?",
     "groupCode": 1
   },
   {
@@ -5837,8 +5837,8 @@
   },
   {
     "id": 10959,
-    "en": "I would definitely (in any case) like to come",
-    "de": "Ich möchte Auf jeden fall kommen",
+    "en": "I would definitely (in any case) like to come. Can we eat breakfast a little later? We're also going to the club tonight and want to sleep in tomorrow",
+    "de": "Ich möchte Auf jeden fall kommen. Können wir ein bisschen später frühstücken? Wir gehen heute Abend noch in den Club und wollen morgen aussclafen",
     "groupCode": 1
   },
   {
@@ -5886,8 +5886,8 @@
   },
   {
     "id": 10967,
-    "en": "How many presents does Ali get?",
-    "de": "Wie viele Geschenke bekommt Ali?",
+    "en": "How many presents does Ali get? Who's coming later? With whom do you want to watch TV with?",
+    "de": "Wie viele Geschenke bekommt Ali? Wer kommt später? Mit wem willst du fernsehen?",
     "groupCode": 1
   },
   {
@@ -5923,14 +5923,14 @@
   },
   {
     "id": 10973,
-    "en": "My mother picks up eight bottles of wine",
-    "de": "Meine Mutter holt acht Flaschen wein ab",
+    "en": "My mother picks up eight bottles of wine. My girlfriend and I are eating breakfast with my mom",
+    "de": "Meine Mutter holt acht Flaschen wein ab. Meine Freundin und ich frühstücken mit meiner Mama",
     "groupCode": 1
   },
   {
     "id": 10974,
-    "en": "The house is dirty, we have to clean it",
-    "de": "Das Haus ist schmutzig, wir müssen es putzen",
+    "en": "The house is dirty, we have to clean it. Who is that? Who are you going to the movies to see?",
+    "de": "Das Haus ist schmutzig, wir müssen es putzen. Wer ist das? Wem gehst du inst Kino?",
     "groupCode": 1
   },
   {
@@ -6010,6 +6010,18 @@
     "id": 10987,
     "en": "I'm paying these bills this month, but can you pay the rent? I'm looking for a new job and pay again next time",
     "de": "Ich zahle diesen Monat die Rechnungen. aber kannst du die Miete zahlen? Ich suche einen neuen Job und zahle nächstes Mal wieder",
+    "groupCode": 1
+  },
+  {
+    "id": 10988,
+    "en": "I go hiking in the Black Forest with my brother this summer. I'm pleased because we're also camping there",
+    "de": "Ich gehe diesen Sommer mit meinem Bruder im Schwarzwald wandern. Ich frue mich, denn wir campen dort auch",
+    "groupCode": 1
+  },
+  {
+    "id": 10989,
+    "en": "We always read in the morning. My parents read the newspaper, and I read a children's book with my niece. She cannot read alone yet",
+    "de": "Wir lesen morgens immer. Meine Eltern lesen die Zeitung und ich lese mit meiner Nichte ein Kinderbuch. Sie kann noch nicht allein lesen",
     "groupCode": 1
   }
 ]
