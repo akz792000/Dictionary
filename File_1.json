@@ -1167,7 +1167,7 @@
     "id": 3191,
     "fa": "منزجر کننده ترین چیزی که تو دیدی کسی بدون شرم انجام دهد چیست؟",
     "en": "What is the most disgusting thing you've seen someone do with no shame?",
-    "desc": "In your sentence, \"What is the most disgusting thing you've seen someone do with no shame?\", the structure involves:\n\n\"You've seen\": This part uses the present perfect tense and refers to a past action (seeing something happen).\n\n\"Someone do\": After verbs like \"seen,\" \"heard,\" or \"watched,\" we use the base form of the verb (do) rather than its past tense (did).\n\nBreakdown:\n\"Seen\" (past participle) is already in the past tense.\nAfter \"seen,\" you use the base form of the verb \"do,\" not \"did,\" because \"seen\" is followed by the base form of the verb.\nExample Comparisons:\nCorrect: \"I've seen someone do something\" (Base form \"do\" after \"seen\").\nIncorrect: \"I've seen someone did something\" (Using \"did\" here is incorrect because it's the past tense form, which doesn't fit the structure after \"seen\").",
+    "desc": "See/hear/watch + someone + base verb (bare infinitive, no \"-s\"). Key Difference:\n\"I see someone do this.\" (Direct observation → base verb)\n\n\"Someone does this.\" (Regular statement → third-person *-s*)",
     "groupCode": 0
   },
   {
@@ -4452,7 +4452,7 @@
   {
     "id": 3729,
     "fa": "آنقدر شیر آب را باز نکن. کمی کمش کن",
-    "en": "Don't turn on the tap that much; turn it down a bit",
+    "en": "Don't turn on the tap that much. Turn it down a bit",
     "groupCode": 0
   },
   {
@@ -5437,7 +5437,7 @@
   },
   {
     "id": 3891,
-    "fa": "من کلیدهایم را روی (به سمت) میز پرتاب کرد",
+    "fa": "من کلیدهایم را روی (به سمت) میز پرتاب کردم",
     "en": "I chucked my keys onto the table",
     "desc": "\"Onto\" → Movement toward the table.\n\"On\" → Position or rough placement on the table.",
     "groupCode": 0
@@ -6738,6 +6738,7 @@
     "id": 4104,
     "fa": "او (مرد) می قاپد فرصت را هر وقت پیش بیاید سر راهش",
     "en": "He snatches the opportunity whenever it comes his way",
+    "desc": "Grab = quick take (neutral).\n\nSnatch = aggressive, often rude or sneaky take.",
     "groupCode": 0
   },
   {
@@ -6974,6 +6975,30 @@
     "id": 4143,
     "fa": "جا (پخش کننده) صابونی را فشار بده تا بگیری صابون",
     "en": "Push the soap dispenser to get soap",
+    "groupCode": 0
+  },
+  {
+    "id": 4144,
+    "fa": "من رفتم دستشویی و استفاده کردم از محل ادرار",
+    "en": "I went to the bathroom and used the urinal",
+    "groupCode": 0
+  },
+  {
+    "id": 4145,
+    "fa": "applicationContext داره تنظیم (ست) نمی شه زیرا پیکربندی گم است",
+    "en": "The applicationContext is not being set because the configuration is missing",
+    "groupCode": 0
+  },
+  {
+    "id": 4146,
+    "fa": "این مورد رخ می دهد برای این که این متد اجرا می شود قبل از اینکه آن کلاس مقداردهی اولیه شود به طور کامل",
+    "en": "The issue occurs because this method is executed before that class has been fully initialized",
+    "groupCode": 0
+  },
+  {
+    "id": 4147,
+    "fa": "لطفاً صبر کنید برای تمام برنامه ها تا نصب شوند قبل از خروج کردن",
+    "en": "Please wait for all the applications to be installed before quitting",
     "groupCode": 0
   }
 ]

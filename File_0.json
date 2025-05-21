@@ -4800,9 +4800,8 @@
   },
   {
     "id": 791,
-    "fa": "هدف اسپرینت یه کم واضح نیست",
+    "fa": "هدف اسپرینت یه کم مبهم (کرکی-پرزدار) است",
     "en": "The sprint goal is a little fluffy",
-    "desc": "\nIn the context of project management and agile development methodologies, the sentence \"The sprint goal is a little fluffy\" suggests that the sprint goal, which is the objective or target for a specific iteration of work within a project, lacks clarity or specificity.",
     "groupCode": 0
   },
   {
@@ -9131,7 +9130,7 @@
   },
   {
     "id": 1503,
-    "fa": "برای شما بهترین ها را در آینده آرزو می کنم",
+    "fa": "من آرزو می کنم برای شما تمام بهترین ها را در آینده",
     "en": "I wish you all the best in the future",
     "groupCode": 0
   },
@@ -12843,7 +12842,7 @@
   },
   {
     "id": 2114,
-    "fa": "وقتم تموم شده ولی نگران نباش, بدون تو کنار خواهم آمد",
+    "fa": "من وقتم تموم شده ولی نگران نباش, بدون تو کنار خواهم آمد",
     "en": "I am out of time but don't worry, I'll get along without you",
     "groupCode": 0
   },
@@ -13999,7 +13998,7 @@
   },
   {
     "id": 2305,
-    "fa": "او (زن) با گیر دادن روی هر جزئیات کوچک ، مرا دیوانه کرد",
+    "fa": "او (زن) مرا دیوانه کرد با گیر دادن روی هر جزئیات کوچک",
     "en": "She drove me crazy by picking on every little detail",
     "groupCode": 0
   },
