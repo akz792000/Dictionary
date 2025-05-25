@@ -2513,7 +2513,7 @@
   },
   {
     "id": 416,
-    "fa": "آیا کسی برای دیدن او در بیمارستان حضور داشته است؟",
+    "fa": "آیا کسی برای دیدن او (مرد) در بیمارستان حضور داشته است؟",
     "en": "Has anyone been to see him in the hospital?",
     "groupCode": 0
   },
@@ -14146,7 +14146,7 @@
   {
     "id": 2329,
     "fa": "آیا شما سحر خیز هستی یا شب زنده داری؟",
-    "en": "\n 1.Are you a morning person or a night owl? \n 2.Are you an early bird or a night owl?",
+    "en": "\n 1.Are you a morning person or a night owl? /ˈaʊl/ \n 2.Are you an early bird or a night owl?",
     "groupCode": 0
   },
   {

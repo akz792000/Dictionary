@@ -6217,8 +6217,8 @@
   },
   {
     "id": 4019,
-    "fa": "وب سایت غیر قابل اعتماد به نظر می رسد",
-    "en": "\n 1.The website looks sketchy \n 2.The website looks untrustworthy",
+    "fa": "وب سایت مشکوک به نظر می رسد",
+    "en": "\n 1.The website looks sketchy \n 2.The website looks suspicious",
     "groupCode": 0
   },
   {
@@ -6999,6 +6999,54 @@
     "id": 4147,
     "fa": "لطفاً صبر کنید برای تمام برنامه ها تا نصب شوند قبل از خروج کردن",
     "en": "Please wait for all the applications to be installed before quitting",
+    "groupCode": 0
+  },
+  {
+    "id": 4148,
+    "fa": "بعضی وقت ها من این اجبار را دارم که چک کنم آیا در قفل هست",
+    "en": "Sometimes I have this compulsion to check if the door is locked",
+    "groupCode": 0
+  },
+  {
+    "id": 4149,
+    "fa": "یکی از آبجوها واژگون میشود و از سینی می افتد و باعث می شود بقیه آبجوها نیز بیفتند",
+    "en": "One of the beers tips over and falls off the tray, causing all of the other beers to fall off as well",
+    "groupCode": 0
+  },
+  {
+    "id": 4150,
+    "fa": "نوشیدنی ات را واژگون نکنی",
+    "en": "Don't tip your drink over",
+    "groupCode": 0
+  },
+  {
+    "id": 4151,
+    "fa": "قایق واژگون شد و ما همگی در آب افتادیم",
+    "en": "The boat tipped over and we all fell in the water",
+    "groupCode": 0
+  },
+  {
+    "id": 4152,
+    "fa": "اگر اینجوری (دماغم) فین کنم, دماغم شروع به خونریزی میکنه",
+    "en": "If I blow my nose like this, my nose starts bleeding",
+    "groupCode": 0
+  },
+  {
+    "id": 4153,
+    "fa": "دوست من خیلی سطحی نگره",
+    "en": "My friend is so sketchy",
+    "groupCode": 0
+  },
+  {
+    "id": 4154,
+    "fa": "من جاه طلب، سخت کوش، خلاق، مستقل و با اعتماد به نفس هستم",
+    "en": "I'm ambitious, hardworking, creative, independent and confident",
+    "groupCode": 0
+  },
+  {
+    "id": 4155,
+    "fa": "آیا تو می توانی مرتب کنی این کلمات را تا پیدا کنی پیام مخفی را؟",
+    "en": "Can you unscramble these words to find the hidden message?",
     "groupCode": 0
   }
 ]

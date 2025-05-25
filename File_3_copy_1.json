@@ -1,0 +1,716 @@
+[
+  {
+    "id": 20001,
+    "en": "Be",
+    "de": "\nbin – war – bin gewesen\nbist – warst – bist gewesen\nist – war – ist gewesen\nsind – waren – sind gewesen\nseid – wart – seid gewesen\nsind – waren – sind gewesen",
+    "groupCode": 1
+  },
+  {
+    "id": 20002,
+    "en": "Be called",
+    "de": "\nheiße – hieß – habe geheißen\nheißt – hießt – hast geheißen\nheißt – hieß – hat geheißen\nheißen – hießen – haben geheißen\nheißt – hießt – habt geheißen\nheißen – hießen – haben geheißen",
+    "groupCode": 1
+  },
+  {
+    "id": 20003,
+    "en": "Come",
+    "de": "\nkomme – kam – bin gekommen\nkommst – kamst – bist gekommen\nkommt – kam – ist gekommen\nkommen – kamen – sind gekommen\nkommt – kamt – seid gekommen\nkommen – kamen – sind gekommen",
+    "groupCode": 1
+  },
+  {
+    "id": 20004,
+    "en": "Hear",
+    "de": "\nhöre – hörte – habe gehört\nhörst – hörtest – hast gehört\nhört – hörte – hat gehört\nhören – hörten – haben gehört\nhört – hörtet – habt gehört\nhören – hörten – haben gehört",
+    "groupCode": 1
+  },
+  {
+    "id": 20005,
+    "en": "Know",
+    "de": "\nkenne – kannte – habe gekannt\nkennst – kanntest – hast gekannt\nkennt – kannte – hat gekannt\nkennen – kannten – haben gekannt\nkennt – kanntet – habt gekannt\nkennen – kannten – haben gekannt",
+    "groupCode": 1
+  },
+  {
+    "id": 20006,
+    "en": "\n Live \n (Dativ for indicating location. I live in Munich)",
+    "de": "\nwohne – wohnte – habe gewohnt\nwohnst – wohntest – hast gewohnt\nwohnt – wohnte – hat gewohnt\nwohnen – wohnten – haben gewohnt\nwohnt – wohntet – habt gewohnt\nwohnen – wohnten – haben gewohnt",
+    "groupCode": 1
+  },
+  {
+    "id": 20007,
+    "en": "Say",
+    "de": "\nsage – sagte – habe gesagt\nsagst – sagtest – hast gesagt\nsagt – sagte – hat gesagt\nsagen – sagten – haben gesagt\nsagt – sagtet – habt gesagt\nsagen – sagten – haben gesagt",
+    "groupCode": 1
+  },
+  {
+    "id": 20008,
+    "en": "Speak",
+    "de": "\n spreche \n sprichst \n spricht \n sprechen \n sprecht \n sprechen",
+    "groupCode": 1
+  },
+  {
+    "id": 20009,
+    "en": "Read",
+    "de": "\n lese \n liest \n liest \n lesen \n lest \n lesen",
+    "groupCode": 1
+  },
+  {
+    "id": 20010,
+    "en": "Complete",
+    "de": "\n ergänze \n ergänzt \n ergänzt \n ergänzen \n ergänzt \n ergänzen",
+    "groupCode": 1
+  },
+  {
+    "id": 20011,
+    "en": "Register",
+    "de": "\n melde an \n meldest an \n meldet an \n melden an \n meldet an \n melden an",
+    "groupCode": 1
+  },
+  {
+    "id": 20012,
+    "en": "Write",
+    "de": "\n schreibe \n schreibst \n schreibt \n schreiben \n schreibt \n schreiben",
+    "groupCode": 1
+  },
+  {
+    "id": 20013,
+    "en": "Ask",
+    "de": "\n frage \n fragst \n fragt \n fragen \n fragt \n fragen",
+    "groupCode": 1
+  },
+  {
+    "id": 20014,
+    "en": "Answer (Dativ)",
+    "de": "\n antwort \n antwortest \n antwortet \n antworten \n antwortet \n antworten",
+    "groupCode": 1
+  },
+  {
+    "id": 20015,
+    "en": "Play",
+    "de": "\n spiel \n spielst \n spielt \n spielen \n spielt \n spielen",
+    "groupCode": 1
+  },
+  {
+    "id": 20016,
+    "en": "Cross",
+    "de": "\n kreuze \n kreuzt \n kreuzt \n kreuzen \n kreuzt \n kreuzen",
+    "groupCode": 1
+  },
+  {
+    "id": 20017,
+    "en": "Note",
+    "de": "\n notiere \n notierst \n notiert \n notieren \n notiert \n notieren",
+    "groupCode": 1
+  },
+  {
+    "id": 20018,
+    "en": "Need",
+    "de": "\n brauche \n brauchst \n braucht \n brauchen \n braucht \n brauchen",
+    "groupCode": 1
+  },
+  {
+    "id": 20019,
+    "en": "Save",
+    "de": "\n speichere \n speicherst \n speichert \n speichern \n speichert \n speichern",
+    "groupCode": 1
+  },
+  {
+    "id": 20020,
+    "en": "Sleep",
+    "de": "\n schlafe \n schläfst \n schläft \n schlafen \n schlaft \n schlafen",
+    "groupCode": 1
+  },
+  {
+    "id": 20021,
+    "en": "Have",
+    "de": "\n habe - hatte \n hast - hattest \n hat - hatte \n haben - hatten \n habt - hattet \n haben - hatten",
+    "groupCode": 1
+  },
+  {
+    "id": 20022,
+    "en": "Eat",
+    "de": "\n esse \n isst \n isst \n essen \n esst \n essen",
+    "groupCode": 1
+  },
+  {
+    "id": 20023,
+    "en": "Work",
+    "de": "\n arbeite \n arbeitest \n arbeitet \n arbeiten \n arbeitet \n arbeiten",
+    "groupCode": 1
+  },
+  {
+    "id": 20024,
+    "en": "See",
+    "de": "\n sehe \n siehst \n sieht \n sehen \n seht \n sehen",
+    "groupCode": 1
+  },
+  {
+    "id": 20025,
+    "en": "Learn",
+    "de": "\n lerne \n lernst \n lernt \n lernen \n lernt \n lernen",
+    "groupCode": 1
+  },
+  {
+    "id": 20026,
+    "en": "Would like",
+    "de": "\n möchte \n möchtest \n möchte \n möchten \n möchtet \n möchten",
+    "groupCode": 1
+  },
+  {
+    "id": 20027,
+    "en": "Wear",
+    "de": "\n trage \n trägst \n trägt \n tragen \n tragt \n tragen",
+    "groupCode": 1
+  },
+  {
+    "id": 20028,
+    "en": "Cook",
+    "de": "\n koche \n kochst \n kocht \n kochen \n kocht \n kochen",
+    "groupCode": 1
+  },
+  {
+    "id": 20029,
+    "en": "Swim",
+    "de": "\n schwimme \n schwimmst \n schwimmt \n schwimmen \n schwimmet \n schwimmen",
+    "groupCode": 1
+  },
+  {
+    "id": 20030,
+    "en": "Paint",
+    "de": "\n male \n malst \n malt \n malen \n malt \n malen",
+    "groupCode": 1
+  },
+  {
+    "id": 20031,
+    "en": "Sit",
+    "de": "\n sitze \n sitzt \n sitzt \n sitzen \n sitzt \n sitzen",
+    "groupCode": 1
+  },
+  {
+    "id": 20032,
+    "en": "Can",
+    "de": "\n kann \n Kannst \n kann \n können \n könnt \n können",
+    "groupCode": 1
+  },
+  {
+    "id": 20033,
+    "en": "Go",
+    "de": "\n gehe \n gehst \n geht \n gehen \n geht \n gehen",
+    "groupCode": 1
+  },
+  {
+    "id": 20034,
+    "en": "Order",
+    "de": "\n bestelle \n bestellst \n bestellt \n bestellen \n bestellt \n bestellen",
+    "groupCode": 1
+  },
+  {
+    "id": 20035,
+    "en": "Take",
+    "de": "\n nehme \n nimmst \n nimmt \n nehmen \n nehmt \n nehmen",
+    "groupCode": 1
+  },
+  {
+    "id": 20036,
+    "en": "Do, Make",
+    "de": "\n mache \n machst \n macht \n machen \n macht \n machen",
+    "groupCode": 1
+  },
+  {
+    "id": 20037,
+    "en": "Buy",
+    "de": "\n kaufe \n kaufst \n kauft \n kaufen \n kauft \n kaufen",
+    "groupCode": 1
+  },
+  {
+    "id": 20038,
+    "en": "Want",
+    "de": "\n will - wollte \n willst - wolltest \n will - wollte \n wollen - wollten \n wollt - wolltet \n wollen - wollten",
+    "groupCode": 1
+  },
+  {
+    "id": 20039,
+    "en": "Stay",
+    "de": "\n bleibe \n bleibst \n bleibt \n bleiben \n bleibt \n bleiben",
+    "groupCode": 1
+  },
+  {
+    "id": 20040,
+    "en": "Be allowed",
+    "de": "\n darf \n darfst \n darft \n dürfen \n dürft \n dürfen",
+    "groupCode": 1
+  },
+  {
+    "id": 20041,
+    "en": "Must",
+    "de": "\n muss \n musst \n muss \n müssen \n müsst \n müssen",
+    "groupCode": 1
+  },
+  {
+    "id": 20042,
+    "en": "Should",
+    "de": "\n soll \n sollst \n soll \n sollen \n sollt \n sollen",
+    "groupCode": 1
+  },
+  {
+    "id": 20043,
+    "en": "Understand",
+    "de": "\n verstehe \n verstehst \n versteht \n verstehen \n versteht \n verstehen",
+    "groupCode": 1
+  },
+  {
+    "id": 20044,
+    "en": "Repeat",
+    "de": "\n Wiederholen \n hole wieder \n holst wieder \n holt wieder \n holen wieder \n holt wieder \n holen wieder",
+    "groupCode": 1
+  },
+  {
+    "id": 20045,
+    "en": "Drive",
+    "de": "\n fahre \n fährst \n fährt \n fahren \n fahrt \n fahren",
+    "groupCode": 1
+  },
+  {
+    "id": 20046,
+    "en": "Live",
+    "de": "\n lebe \n lebst \n lebt \n leben \n lebt \n leben",
+    "groupCode": 1
+  },
+  {
+    "id": 20047,
+    "en": "Hike",
+    "de": "\n wandere \n wanderst \n wandert \n wandern \n wandert \n wandern",
+    "groupCode": 1
+  },
+  {
+    "id": 20048,
+    "en": "Study",
+    "de": "\n studiere \n studierst \n studiert \n studieren \n studiert \n studieren",
+    "groupCode": 1
+  },
+  {
+    "id": 20049,
+    "en": "Travel",
+    "de": "\n reise \n reist \n reist \n reisen \n reist \n reisen",
+    "groupCode": 1
+  },
+  {
+    "id": 20050,
+    "en": "Care",
+    "de": "\n pflege \n pflegst \n pflegt \n pflegen \n pflegt \n pflegen",
+    "groupCode": 1
+  },
+  {
+    "id": 20051,
+    "en": "Sell",
+    "de": "\n verkaufe \n verkaufst \n verkauft \n verkaufen \n verkauft \n verkaufen",
+    "groupCode": 1
+  },
+  {
+    "id": 20052,
+    "en": "Service",
+    "de": "\n serviere \n servierst \n serviert \n servieren \n serviert \n servieren",
+    "groupCode": 1
+  },
+  {
+    "id": 20053,
+    "en": "Have breakfast",
+    "de": "\n frühstücke \n frühstückst \n frühstückt \n frühstücken \n frühstückt \n frühstücken",
+    "groupCode": 1
+  },
+  {
+    "id": 20054,
+    "en": "Surf",
+    "de": "\n surfe \n surfst \n surft \n surfen \n surft \n surfen",
+    "groupCode": 1
+  },
+  {
+    "id": 20055,
+    "en": "Sing",
+    "de": "\n singe \n singst \n singt \n singen \n singt \n singen",
+    "groupCode": 1
+  },
+  {
+    "id": 20056,
+    "en": "Take a photograph",
+    "de": "\n fotografiere \n fotografierst \n fotografiert \n fotografieren \n fotografiert \n fotografieren",
+    "groupCode": 1
+  },
+  {
+    "id": 20057,
+    "en": "Jog",
+    "de": "\n jogge \n joggst \n joggt \n joggen \n joggt \n joggen",
+    "groupCode": 1
+  },
+  {
+    "id": 20058,
+    "en": "Find",
+    "de": "\n finde \n findest \n findet \n finden \n findet \n finden",
+    "groupCode": 1
+  },
+  {
+    "id": 20059,
+    "en": "Marry",
+    "de": "\n heirate \n heiratest \n heiratet \n heiraten \n heiratet \n heiraten",
+    "groupCode": 1
+  },
+  {
+    "id": 20060,
+    "en": "Search",
+    "de": "\n suche \n suchst \n sucht \n suchen \n sucht \n suchen",
+    "groupCode": 1
+  },
+  {
+    "id": 20061,
+    "en": "Cost",
+    "de": "\n koste \n kostest \n kostet \n kosten \n kostet \n kosten",
+    "groupCode": 1
+  },
+  {
+    "id": 20062,
+    "en": "Teach",
+    "de": "\n unterrichte \n unterrichtest \n unterrichtet \n unterrichten \n unterrichtet \n unterrichten",
+    "groupCode": 1
+  },
+  {
+    "id": 20063,
+    "en": "Show",
+    "de": "\n zeige \n zeigst \n zeigt \n zeigen \n zeigt \n zeigen",
+    "groupCode": 1
+  },
+  {
+    "id": 20064,
+    "en": "Dance",
+    "de": "\n tanze \n tanzt \n tanzt \n tanzen \n tanzt \n tanzen",
+    "groupCode": 1
+  },
+  {
+    "id": 20065,
+    "en": "Camp",
+    "de": "\n campe \n campst \n campt \n campen \n campt \n campen",
+    "groupCode": 1
+  },
+  {
+    "id": 20066,
+    "en": "Give",
+    "de": "\n gebe \n gibst \n gibt \n geben \n gebt \n geben",
+    "groupCode": 1
+  },
+  {
+    "id": 20067,
+    "en": "Visit",
+    "de": "\n besuche \n besuchst \n besucht \n besuchen \n besucht \n besuchen",
+    "groupCode": 1
+  },
+  {
+    "id": 20068,
+    "en": "Draw",
+    "de": "\n zeichne \n zeichnest \n zeichnet \n zeichnen \n zeichnet \n zeichnen",
+    "groupCode": 1
+  },
+  {
+    "id": 20069,
+    "en": "Beat",
+    "de": "\n schlage \n schlägst \n schlägt \n schlagen \n schlagt \n schlagen",
+    "groupCode": 1
+  },
+  {
+    "id": 20070,
+    "en": "Lie, Lay (are placed)",
+    "de": "\n liege \n liegst \n liegt \n liegen \n liegt \n liegen",
+    "groupCode": 1
+  },
+  {
+    "id": 20071,
+    "en": "Introduce",
+    "de": "\n stelle vor \n stellst vor \n stellt vor \n stellen vor \n stellt vor \n stellen vor",
+    "groupCode": 1
+  },
+  {
+    "id": 20072,
+    "en": "Taste",
+    "de": "\n schmecke \n schmeckst \n schmeckt \n schmecken \n schmeckt \n schmecken",
+    "groupCode": 1
+  },
+  {
+    "id": 20073,
+    "en": "Close",
+    "de": "\n schließe \n schließt \n schließt \n schließen \n schließt \n schließen",
+    "groupCode": 1
+  },
+  {
+    "id": 20074,
+    "en": "Begin",
+    "de": "\n beginne \n beginnst \n beginnt \n beginnen \n beginnt \n beginnen",
+    "groupCode": 1
+  },
+  {
+    "id": 20075,
+    "en": "Connect",
+    "de": "\n verbinde \n verbindest \n verbindet \n verbinden \n verbindet \n verbinden",
+    "groupCode": 1
+  },
+  {
+    "id": 20076,
+    "en": "Run",
+    "de": "\n lauf \n läufst \n läuft \n laufen \n lauft \n laufen",
+    "groupCode": 1
+  },
+  {
+    "id": 20077,
+    "en": "Invite",
+    "de": "\n lade ein \n lädst ein \n lädt ein \n laden ein \n ladet ein \n laden ein",
+    "groupCode": 1
+  },
+  {
+    "id": 20078,
+    "en": "Agree",
+    "de": "\n stimme \n stimmst \n stimmt \n stimmen \n stimmt \n stimmen",
+    "groupCode": 1
+  },
+  {
+    "id": 20079,
+    "en": "Visit (tour)",
+    "de": "\n besichtige \n besichtigst \n besichtigt \n besichtigen \n besichtigt \n besichtigen",
+    "groupCode": 1
+  },
+  {
+    "id": 20080,
+    "en": "Shine",
+    "de": "\n scheine \n scheinst \n scheint \n scheinen \n scheint \n scheinen",
+    "groupCode": 1
+  },
+  {
+    "id": 20081,
+    "en": "Bring along",
+    "de": "\n bringe mit \n bringst mit \n bringt mit \n bringen mit \n bringt mit \n bringen mit",
+    "groupCode": 1
+  },
+  {
+    "id": 20082,
+    "en": "Forget",
+    "de": "\n vergesse \n vergisst \n vergisst \n vergessen \n vergesst \n vergessen",
+    "groupCode": 1
+  },
+  {
+    "id": 20083,
+    "en": "Agree (with)",
+    "de": "\n stimme zu \n stimmst zu \n stimmt zu \n stimmen zu \n stimmt zu \n stimmen zu",
+    "groupCode": 1
+  },
+  {
+    "id": 20084,
+    "en": "Wait",
+    "de": "\n warte \n wartest \n wartet \n warten \n wartet \n warten",
+    "groupCode": 1
+  },
+  {
+    "id": 20085,
+    "en": "Talk",
+    "de": "\n rede \n redest \n redet \n reden \n redet \n reden",
+    "groupCode": 1
+  },
+  {
+    "id": 20086,
+    "en": "Fry",
+    "de": "\n brate \n brätst \n brät \n braten \n bratet \n braten",
+    "groupCode": 1
+  },
+  {
+    "id": 20087,
+    "en": "Hold",
+    "de": "\n halte \n hältst \n hält \n halten \n haltet \n halten",
+    "groupCode": 1
+  },
+  {
+    "id": 20088,
+    "en": "Meet",
+    "de": "\n treffe \n triffst \n trifft \n treffen \n trefft \n treffen",
+    "groupCode": 1
+  },
+  {
+    "id": 20089,
+    "en": "Know",
+    "de": "\n weiß \n weißt \n weiß \n wissen \n wisst \n wissen",
+    "groupCode": 1
+  },
+  {
+    "id": 20090,
+    "en": "Look, appear",
+    "de": "\n sehe aus \n siehst aus \n sieht aus \n sehen aus \n seht aus \n sehen aus",
+    "groupCode": 1
+  },
+  {
+    "id": 20091,
+    "en": "Lose",
+    "de": "\n verliere \n verlierst \n verliert \n verlieren \n verliert \n verlieren",
+    "groupCode": 1
+  },
+  {
+    "id": 20092,
+    "en": "Help",
+    "de": "\n helfe \n hilfst \n hilft \n helfen \n helft \n helfen",
+    "groupCode": 1
+  },
+  {
+    "id": 20093,
+    "en": "Hope",
+    "de": "\n hoffe \n hoffst \n hofft \n hoffen \n hofft \n hoffen",
+    "groupCode": 1
+  },
+  {
+    "id": 20094,
+    "en": "Call",
+    "de": "\n rufe an \n rufst an \n ruft an \n rufen an \n ruft an \n rufen an",
+    "groupCode": 1
+  },
+  {
+    "id": 20095,
+    "en": "Arrive",
+    "de": "\n komme an \n kommst an \n kommt an \n kommen an \n kommt an \n kommen an",
+    "groupCode": 1
+  },
+  {
+    "id": 20096,
+    "en": "End",
+    "de": "\n höre auf \n hörst auf \n hört auf \n hören auf \n hört auf \n hören auf",
+    "groupCode": 1
+  },
+  {
+    "id": 20097,
+    "en": "Smell",
+    "de": "\n rieche \n riechst \n riecht \n riechen \n riecht \n riechen",
+    "groupCode": 1
+  },
+  {
+    "id": 20098,
+    "en": "Believe",
+    "de": "\n glaube \n glaubst \n glaubt \n glauben \n glaubt \n glauben",
+    "groupCode": 1
+  },
+  {
+    "id": 20099,
+    "en": "Stand",
+    "de": "\n stehe \n stehst \n steht \n stehen \n steht \n stehen",
+    "groupCode": 1
+  },
+  {
+    "id": 20100,
+    "en": "Get up",
+    "de": "\n stehe auf \n stehst auf \n steht auf \n stehen auf \n steht auf \n stehen auf",
+    "groupCode": 1
+  },
+  {
+    "id": 20101,
+    "en": "Place",
+    "de": "\n stelle \n stellst \n stellt \n stellen \n stellt \n stellen",
+    "groupCode": 1
+  },
+  {
+    "id": 20102,
+    "en": "Require",
+    "de": "\n erfordere \n erforderst \n erfordert \n erfordern \n erfordert \n erfordern",
+    "groupCode": 1
+  },
+  {
+    "id": 20103,
+    "en": "Wash off, do the dishes",
+    "de": "\n wasche ab \n wäschst ab \n wäscht ab \n waschen ab \n wascht ab \n waschen ab",
+    "groupCode": 1
+  },
+  {
+    "id": 20104,
+    "en": "Spend",
+    "de": "\n verbringe \n verbringst \n verbringt \n verbringen \n verbringt \n verbringen",
+    "groupCode": 1
+  },
+  {
+    "id": 20105,
+    "en": "Clean",
+    "de": "\n putze \n putzt \n putzt \n putzen \n putzt \n putzen",
+    "groupCode": 1
+  },
+  {
+    "id": 20106,
+    "en": "Move",
+    "de": "\n ziehe um \n ziehst um \n zieht um \n ziehen um \n zieht um \n ziehen um",
+    "groupCode": 1
+  },
+  {
+    "id": 20107,
+    "en": "Move out",
+    "de": "\n gehe aus \n gehst aus \n geht aus \n gehen aus \n geht aus \n gehen aus",
+    "groupCode": 1
+  },
+  {
+    "id": 20108,
+    "en": "Fish",
+    "de": "\n fische \n fischst \n fischt \n fischen \n fischt \n fischen",
+    "groupCode": 1
+  },
+  {
+    "id": ,
+    "en": "",
+    "de": "anrufen",
+    "groupCode": 1
+  },
+  {
+    "id": ,
+    "en": "",
+    "de": "studieren",
+    "groupCode": 1
+  },
+  {
+    "id": ,
+    "en": "",
+    "de": "ansehen",
+    "groupCode": 1
+  },
+  {
+    "id": ,
+    "en": "",
+    "de": "fotografieren",
+    "groupCode": 1
+  },
+  {
+    "id": ,
+    "en": "",
+    "de": "mitmachen",
+    "groupCode": 1
+  },
+  {
+    "id": ,
+    "en": "",
+    "de": "anfangen",
+    "groupCode": 1
+  },
+  {
+    "id": ,
+    "en": "",
+    "de": "telefonieren",
+    "groupCode": 1
+  },
+  {
+    "id": ,
+    "en": "",
+    "de": "funktionieren",
+    "groupCode": 1
+  },
+  {
+    "id": ,
+    "en": "",
+    "de": "anfangen",
+    "groupCode": 1
+  },
+  {
+    "id": ,
+    "en": "",
+    "de": "ankommen",
+    "groupCode": 1
+  },
+  {
+    "id": ,
+    "en": "",
+    "de": "verwenden",
+    "groupCode": 1
+  }
+]
