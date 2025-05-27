@@ -13,8 +13,8 @@
   },
   {
     "id": 10003,
-    "en": "\nDo you want to do yoga in forty minutes?\nI have to work in the holiday (school holidays)",
-    "de": "\nWillst du in vierzig Minuten Yoga machen?\nIch muss in den Ferien arbeiten",
+    "en": "Do you want to do yoga in forty minutes?",
+    "de": "Willst du in vierzig Minuten Yoga machen?",
     "groupCode": 1
   },
   {
@@ -25,8 +25,8 @@
   },
   {
     "id": 10005,
-    "en": "Excuse (formal) me please. My roommate (female) is often messy. I'm angry, because she never wants to wash her clothes",
-    "de": "Entschuldigung Sie, bitte. Meine Mitbewohnerin ist oft unordentlich. Ich bin verärgert, denn sie will nie ihre Kleidung waschen",
+    "en": "Excuse (formal) me please. My roommate (female) is often messy",
+    "de": "Entschuldigung Sie, bitte. Meine Mitbewohnerin ist oft unordentlich",
     "groupCode": 1
   },
   {
@@ -43,15 +43,15 @@
   },
   {
     "id": 10008,
-    "en": "Another one time slowly please. You're so lazy, you never bake bread for me",
-    "de": "Noch einmal langsam bitte. Du bist so faul, du backst nie Brot für mich",
+    "en": "Another one time slowly please",
+    "de": "Noch einmal langsam bitte",
     "desc": "\n noch = more \n einmal = once",
     "groupCode": 1
   },
   {
     "id": 10009,
-    "en": "Get well soon! You eat two eggs every morning. Buy three packs next time, I want to eat eggs too",
-    "de": "Gute Besserung! Due isst jeden Morgen zwei Eier. Kauf nächstes Mal drei Packungen, ich will auch Eier essen",
+    "en": "Get well soon! You eat two eggs every morning",
+    "de": "Gute Besserung! Due isst jeden Morgen zwei Eier",
     "groupCode": 1
   },
   {
@@ -82,20 +82,20 @@
   },
   {
     "id": 10014,
-    "en": "You are Mr. Bieber! You (formal) never pay their bills. How can I come from here to the city museum?",
-    "de": "Sie sind Herr Bieber! Sie zahlen nie ihre Rechnungen. Wie komme ich von hier zum stadtmuseum?",
+    "en": "You are Mr. Bieber! You (formal) never pay their bills",
+    "de": "Sie sind Herr Bieber! Sie zahlen nie ihre Rechnungen",
     "groupCode": 1
   },
   {
     "id": 10015,
-    "en": "Who are you? You're lazy, you never paint a picture for me. That is not far",
-    "de": "Wer sind Sie? Du bist faul, du malst nie ein Bild für mich. Das ist nicht weit",
+    "en": "You're lazy, you never paint a picture for me",
+    "de": " Du bist faul, du malst nie ein Bild für mich",
     "groupCode": 1
   },
   {
     "id": 10016,
-    "en": "Ali is at home. He opens the door. I like go swimming with my uncle. We go to (toward) the beach on weekends",
-    "de": "Ali ist zu Hause. Er öffnet die Tür. Ich gehe gern mit meinem Onkel schwimmen. Wir gehen am Wochenende zum Strand",
+    "en": "Ali is at home. He opens the door",
+    "de": "Ali ist zu Hause. Er öffnet die Tür",
     "groupCode": 1
   },
   {
@@ -120,8 +120,8 @@
   },
   {
     "id": 10020,
-    "en": "Where do the persons come from? Can you wait in the apartment? I am at home in ten minutes, then we can clean the kitchen together",
-    "de": "Woher kommen die Personen? Kannst du in der Wohnung warten? Ich bin in zehn Minuten zu Hause, dann können wir zusammen die küche putzen",
+    "en": "Where do the persons come from?",
+    "de": "Woher kommen die Personen?",
     "groupCode": 1
   },
   {
@@ -132,8 +132,8 @@
   },
   {
     "id": 10022,
-    "en": "Who says that? You are not always lazy, because you cook for me",
-    "de": "Wer sagt das? Du bist nicht immer faul, denn du kochst für mich",
+    "en": "Who says that?",
+    "de": "Wer sagt das?",
     "groupCode": 1
   },
   {
@@ -152,8 +152,8 @@
   },
   {
     "id": 10025,
-    "en": "I am sorry, I can't now. Why do you eat my pizza every time?",
-    "de": "Es tut mir leid, Ich kann jetzt nicht. Warum isst du jedes Mal meine Pizza?",
+    "en": "I am sorry, I can't now",
+    "de": "Es tut mir leid, Ich kann jetzt nicht",
     "groupCode": 1
   },
   {
@@ -164,14 +164,14 @@
   },
   {
     "id": 10027,
-    "en": "Once again, please. I'm not waiting any longer, we have to go",
-    "de": "Noch einmal, bitte. Ich warte nicht mehr, wir müssen gehen",
+    "en": "Once again, please",
+    "de": "Noch einmal, bitte",
     "groupCode": 1
   },
   {
     "id": 10028,
-    "en": "Please repeat (fromal) ! Be kind (friendly), they are our friends",
-    "de": "Bitte wiederholen Sie! Sei freundlich, sie sind unsere Freunde",
+    "en": "Please repeat (fromal)!",
+    "de": "Bitte wiederholen Sie!",
     "groupCode": 1
   },
   {
@@ -188,8 +188,8 @@
   },
   {
     "id": 10031,
-    "en": "I speak a bit of German. I buy the rolls every morning, and you stay in bed. Today I'm staying in bed. Go to the bakery",
-    "de": "Ich spreche ein bisschen Deutsch. Ich kaufe jeden Morgen die Brötchen und du bleibst im Bett. Heute bleibe ich im Bett. Geh in die Backerei",
+    "en": "I speak a bit of German.",
+    "de": "Ich spreche ein bisschen Deutsch.",
     "groupCode": 1
   },
   {
@@ -200,8 +200,8 @@
   },
   {
     "id": 10033,
-    "en": "Which activities are better? Ali goes walking with his dog in the park every day",
-    "de": "Welche Aktivitäten sind besser? Ali geht jeden Tag mit seinem Hund im Park spazieren",
+    "en": "Which activities are better?",
+    "de": "Welche Aktivitäten sind besser?",
     "groupCode": 1
   },
   {
@@ -213,14 +213,14 @@
   },
   {
     "id": 10035,
-    "en": "Complete (formal) the dialog. Can you make our bed?",
-    "de": "Ergänzen Sie die Dialog. Kannst du unser Bett machen?",
+    "en": "Complete (formal) the dialog",
+    "de": "Ergänzen Sie die Dialog",
     "groupCode": 1
   },
   {
     "id": 10036,
-    "en": "Write down (Note) (formal) the names. Your room is very tidy",
-    "de": "Notieren Sie die Namen. Dein Zimmer ist sehr ordentlich",
+    "en": "Write down (Note) (formal) the names",
+    "de": "Notieren Sie die Namen",
     "groupCode": 1
   },
   {
@@ -231,14 +231,14 @@
   },
   {
     "id": 10038,
-    "en": "Can you do your chores tomorrow? I found you pretty too",
-    "de": "Kannst du morgen deine Hausarbeit machen? Ich finde dich auch hübsch",
+    "en": "Can you do your chores tomorrow?",
+    "de": "Kannst du morgen deine Hausarbeit machen?",
     "groupCode": 1
   },
   {
     "id": 10039,
-    "en": "I am very nice. My friends would like to visit me tomorrow",
-    "de": "Ich bin sehr nett. Meine Freunde möchten mich morgen besuchen",
+    "en": "I am very nice",
+    "de": "Ich bin sehr nett",
     "groupCode": 1
   },
   {
@@ -250,8 +250,8 @@
   },
   {
     "id": 10041,
-    "en": "The task is simple. She is really great. You can't smoke anymore in the apartment",
-    "de": "Die Aufgabe ist einfach. Sie ist wirklich toll. Du kannst nicht mehr in der Wohnung rauchen",
+    "en": "The task is simple",
+    "de": "Die Aufgabe ist einfach",
     "groupCode": 1
   },
   {
@@ -269,14 +269,14 @@
   },
   {
     "id": 10044,
-    "en": "Hear (formal) the numbers (pay). We don't have enough glasses for the guests",
-    "de": "Hören Sie die Zahlen. Wir haben nicht genug gläser für die Gäste",
+    "en": "Hear (formal) the numbers (pay)",
+    "de": "Hören Sie die Zahlen",
     "groupCode": 1
   },
   {
     "id": 10045,
-    "en": "Speak out (formal) loud. I can never find a parking space in the city center",
-    "de": "Sprechen Sie laut. Ich kann nie im Stadtzentrum einen Parkplatz finden",
+    "en": "Speak out (formal) loud",
+    "de": "Sprechen Sie laut",
     "desc": "laut = loud",
     "groupCode": 1
   },
@@ -288,8 +288,8 @@
   },
   {
     "id": 10047,
-    "en": "Read (formal) the sentences. Each person pays five dollars for the food",
-    "de": "Lesen Sie die Sätze. Jede Person zahlt fünf Dollar für das Essen",
+    "en": "Read (formal) the sentences",
+    "de": "Lesen Sie die Sätze",
     "groupCode": 1
   },
   {
@@ -307,14 +307,14 @@
   },
   {
     "id": 10050,
-    "en": "I am so tired. After her museum-visit Ali reads a book in her garden",
-    "de": "Ich bin so müde. Nach ihrem Museumsbesuch liest Ali ein Buch in ihrem Garten",
+    "en": "I am so tired",
+    "de": "Ich bin so müde",
     "groupCode": 1
   },
   {
     "id": 10051,
-    "en": "How old are you (formal)? Do you have a nice day off (free day)?",
-    "de": "Wie alt sind Sie? Hast du einen schönen freien Tag?",
+    "en": "How old are you (formal)?",
+    "de": "Wie alt sind Sie?",
     "groupCode": 1
   },
   {
@@ -326,14 +326,14 @@
   },
   {
     "id": 10053,
-    "en": "can you (formal) help me? You can sit in the garden and do nothing. Relax (you)",
-    "de": "Können sie mir helfen? Du kannst im Garten sitzen und nichts tun. Entspanne dich",
+    "en": "can you (formal) help me? You can sit in the garden and do nothing",
+    "de": "Können sie mir helfen? Du kannst im Garten sitzen und nichts tun",
     "groupCode": 1
   },
   {
     "id": 10054,
-    "en": "The closet is cool. Do you like the closet? He sits in the garden for a moment and does nothing",
-    "de": "Der Schrank ist cool. Magst du den Schrank? Er sitzt für einen Moment im Garten und tut nichts",
+    "en": "The closet is cool. Do you like the closet?",
+    "de": "Der Schrank ist cool. Magst du den Schrank?",
     "groupCode": 1
   },
   {
@@ -1284,6 +1284,198 @@
     "id": 11010,
     "en": "The roof is red and the floor is clean and the wall is white and the basement is cool and the cellar (انبار) is dark",
     "de": "Das Dach ist rot und der Boden ist sauber und die Wand ist weiß und das Untergeschoss ist kühl und der Keller ist dunkel",
+    "groupCode": 1
+  },
+  {
+    "id": 11011,
+    "en": "",
+    "de": "> Mama, darf ich am Abend ins Kino gehen?\n< Ja, aber zuerst musst du die Küche aufräumen. Dann darfst du ins Kino gehen.\n> Immer muss ich das machen. Warum muss Oliver nie die Küche aufräumen?\n< Das stimmt doch nicht. Ihr müsst das beide machen. Aber heute bist du dran.\n> Meine Freunde müssen nie zu Hause helfen und sie dürfen am Abend immer weggehen. Nur wir müssen immer helfen und dürfen nie etwas.\n< So ein Quatsch. Du darfst heute Abend ins Kino gehen. Aber zuerst musst du helfen, okay?\n> Ja, okay.",
+    "groupCode": 1
+  },
+  {
+    "id": 11012,
+    "en": "I have to work in the holiday (school holidays)",
+    "de": "Ich muss in den Ferien arbeiten",
+    "groupCode": 1
+  },
+  {
+    "id": 11013,
+    "en": "I'm angry, because she never wants to wash her clothes",
+    "de": "Ich bin verärgert, denn sie will nie ihre Kleidung waschen",
+    "groupCode": 1
+  },
+  {
+    "id": 11014,
+    "en": "You're so lazy, you never bake bread for me",
+    "de": "Du bist so faul, du backst nie Brot für mich",
+    "groupCode": 1
+  },
+  {
+    "id": 11015,
+    "en": "Buy three packs next time, I want to eat eggs too",
+    "de": "Kauf nächstes Mal drei Packungen, ich will auch Eier essen",
+    "groupCode": 1
+  },
+  {
+    "id": 11016,
+    "en": "How can I come from here to the city museum?",
+    "de": "Wie komme ich von hier zum stadtmuseum?",
+    "groupCode": 1
+  },
+  {
+    "id": 11017,
+    "en": "That is not far",
+    "de": "Das ist nicht weit",
+    "groupCode": 1
+  },
+  {
+    "id": 11018,
+    "en": "Who are you?",
+    "de": "Wer sind Sie?",
+    "groupCode": 1
+  },
+  {
+    "id": 11019,
+    "en": "I like go swimming with my uncle. We go to (toward) the beach on weekends",
+    "de": "Ich gehe gern mit meinem Onkel schwimmen. Wir gehen am Wochenende zum Strand",
+    "groupCode": 1
+  },
+  {
+    "id": 11020,
+    "en": "Can you wait in the apartment? I am at home in ten minutes, then we can clean the kitchen together",
+    "de": "Kannst du in der Wohnung warten? Ich bin in zehn Minuten zu Hause, dann können wir zusammen die küche putzen",
+    "groupCode": 1
+  },
+  {
+    "id": 11021,
+    "en": "You are not always lazy, because you cook for me",
+    "de": "Du bist nicht immer faul, denn du kochst für mich",
+    "groupCode": 1
+  },
+  {
+    "id": 11022,
+    "en": "Why do you eat my pizza every time?",
+    "de": "Warum isst du jedes Mal meine Pizza?",
+    "groupCode": 1
+  },
+  {
+    "id": 11023,
+    "en": "I'm not waiting any longer, we have to go",
+    "de": "Ich warte nicht mehr, wir müssen gehen",
+    "groupCode": 1
+  },
+  {
+    "id": 11024,
+    "en": "Be kind (friendly), they are our friends",
+    "de": "Sei freundlich, sie sind unsere Freunde",
+    "groupCode": 1
+  },
+  {
+    "id": 11025,
+    "en": "I buy the rolls every morning, and you stay in bed. Today I'm staying in bed",
+    "de": "Ich kaufe jeden Morgen die Brötchen und du bleibst im Bett. Heute bleibe ich im Bett",
+    "groupCode": 1
+  },
+  {
+    "id": 11026,
+    "en": "Go to the bakery",
+    "de": "Geh in die Backerei",
+    "groupCode": 1
+  },
+  {
+    "id": 11027,
+    "en": "Ali goes walking with his dog in the park every day",
+    "de": "Ali geht jeden Tag mit seinem Hund im Park spazieren",
+    "groupCode": 1
+  },
+  {
+    "id": 11028,
+    "en": "Can you make our bed?",
+    "de": "Kannst du unser Bett machen?",
+    "groupCode": 1
+  },
+  {
+    "id": 11029,
+    "en": "Your room is very tidy",
+    "de": "Dein Zimmer ist sehr ordentlich",
+    "groupCode": 1
+  },
+  {
+    "id": 11030,
+    "en": "I found you pretty too",
+    "de": "Ich finde dich auch hübsch",
+    "groupCode": 1
+  },
+  {
+    "id": 11031,
+    "en": "My friends would like to visit me tomorrow",
+    "de": "Meine Freunde möchten mich morgen besuchen",
+    "groupCode": 1
+  },
+  {
+    "id": 11032,
+    "en": "You can't smoke anymore in the apartment",
+    "de": "Du kannst nicht mehr in der Wohnung rauchen",
+    "groupCode": 1
+  },
+  {
+    "id": 11033,
+    "en": "She is really great.",
+    "de": "Sie ist wirklich toll",
+    "groupCode": 1
+  },
+  {
+    "id": 11034,
+    "en": "We don't have enough glasses for the guests",
+    "de": "Wir haben nicht genug gläser für die Gäste",
+    "groupCode": 1
+  },
+  {
+    "id": 11035,
+    "en": "I can never find a parking space in the city center",
+    "de": "Ich kann nie im Stadtzentrum einen Parkplatz finden",
+    "groupCode": 1
+  },
+  {
+    "id": 11036,
+    "en": "Each person pays five dollars for the food",
+    "de": "Jede Person zahlt fünf Dollar für das Essen",
+    "groupCode": 1
+  },
+  {
+    "id": 11037,
+    "en": "After her museum-visit Ali reads a book in her garden",
+    "de": "Nach ihrem Museumsbesuch liest Ali ein Buch in ihrem Garten",
+    "groupCode": 1
+  },
+  {
+    "id": 11038,
+    "en": "Do you have a nice day off (free day)?",
+    "de": "Hast du einen schönen freien Tag?",
+    "groupCode": 1
+  },
+  {
+    "id": 11039,
+    "en": "Relax (you)",
+    "de": "Entspanne dich",
+    "groupCode": 1
+  },
+  {
+    "id": 11040,
+    "en": "He sits in the garden for a moment and does nothing",
+    "de": "Er sitzt für einen Moment im Garten und tut nichts",
+    "groupCode": 1
+  },
+  {
+    "id": 11041,
+    "en": "I have been in Germany for three years",
+    "de": "Ich bin seit drei Jahren in Deutschland",
+    "groupCode": 1
+  },
+  {
+    "id": 11042,
+    "en": "I did not study on the weekend because I was very busy",
+    "de": "Ich habe am Wochenende nicht gelernt, denn ich war sehr beschäftigt",
     "groupCode": 1
   }
 ]

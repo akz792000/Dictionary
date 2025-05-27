@@ -7048,5 +7048,17 @@
     "fa": "آیا تو می توانی مرتب کنی این کلمات را تا پیدا کنی پیام مخفی را؟",
     "en": "Can you unscramble these words to find the hidden message?",
     "groupCode": 0
+  },
+  {
+    "id": 4156,
+    "fa": "ببخشید مزاحم شدم (برای مزاحمت)، همه چیز آماده است، به جز نوشیدنی ها",
+    "en": "Sorry for the disturbance, everything is ready, except for the drinks",
+    "groupCode": 0
+  },
+  {
+    "id": 4157,
+    "fa": "همه آمدند به مهمانی به جز علی",
+    "en": "Everyone came to the party except for Ali",
+    "groupCode": 0
   }
 ]
