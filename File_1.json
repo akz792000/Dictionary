@@ -1293,8 +1293,9 @@
   },
   {
     "id": 3212,
-    "fa": "می توانی نخود را به من (پاس) بدی؟",
+    "fa": "می توانی نخود (زرد) را به من (پاس) بدی؟",
     "en": "Can you pass me the chickpeas?",
+    "desc": "Chickpeas are bigger, firmer, beige, and used in dishes like hummus or falafel.\n\nPeas are smaller, green, sweeter, and often used as a side vegetable.",
     "groupCode": 0
   },
   {
@@ -3377,6 +3378,7 @@
     "id": 3551,
     "fa": "جایز نیست (سیگار) کشیدن در بیمارستان",
     "en": "It's not permissible to smoke at the hospital",
+    "desc": "\"Admissible\" is mostly used in legal or formal situations (e.g., \"admissible evidence\").",
     "groupCode": 0
   },
   {
@@ -7059,6 +7061,12 @@
     "id": 4157,
     "fa": "همه آمدند به مهمانی به جز علی",
     "en": "Everyone came to the party except for Ali",
+    "groupCode": 0
+  },
+  {
+    "id": 4158,
+    "fa": "تو صبر نداری وقتی چیزها بد (پیش) میروند",
+    "en": "You do not have patience when things go wrong",
     "groupCode": 0
   }
 ]
