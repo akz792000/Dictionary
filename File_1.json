@@ -2282,6 +2282,7 @@
     "id": 3373,
     "fa": "من با همسرم زمان های پیشنهادی را چک خواهیم کرد و اگر آنها با برنامه (زمانی) ما مطابقت داشته باشد، من به شما بر خواهم گرداند",
     "en": "I will check the offered time slots with my wife, and if they match our schedule, I will get back to you",
+    "desc": "The correct and more natural phrasing is:\n\n\uD83D\uDC49 \"if they match our schedule\"\n\nThe word \"with\" is unnecessary here.",
     "groupCode": 0
   },
   {
@@ -7065,8 +7066,50 @@
   },
   {
     "id": 4158,
-    "fa": "تو صبر نداری وقتی چیزها بد (پیش) میروند",
+    "fa": "تو صبر نداری وقتی چیزها اشتباه (پیش) میروند",
     "en": "You do not have patience when things go wrong",
+    "groupCode": 0
+  },
+  {
+    "id": 4159,
+    "fa": "چگونه می توانم من بگیرم درصد درخواست هایی را که برمی گردانند کد وضعیت ۲۰۰ را؟",
+    "en": "How can I get the percentage of requests that return a 200 status code?",
+    "groupCode": 0
+  },
+  {
+    "id": 4160,
+    "fa": "من منبع را به روزرسانی کرده ام. بعد از راه اندازی مجدد، من قصد دارم (نقشه) اجرا کنم تست end-to-end را. آیا آن برای شما کار می کند؟",
+    "en": "I've updated the resource. After restarting, I plan to run the end-to-end test. Does that work for you?",
+    "groupCode": 0
+  },
+  {
+    "id": 4161,
+    "fa": "این نقطه عطف بزرگی (عمده) است نه تنها برای من شخصاً، بلکه برای همه کسانی که در این مسیر همراه ما هستند",
+    "en": "This is a major milestone not just for me personally, but for everyone who has been part of this journey",
+    "groupCode": 0
+  },
+  {
+    "id": 4162,
+    "fa": "ما خیلی (چیزها) را پشت سر گذاشته ایم در طول ۱۸ سال گذشته",
+    "en": "We've been through a lot over the past 18 years",
+    "groupCode": 0
+  },
+  {
+    "id": 4163,
+    "fa": "لطفا توجه داشته باشید که در دسترس بودن در پلتفرم منوط است به شرایط بازار و نقدینگی",
+    "en": "Please note that availability on the platform is subject to market conditions and liquidity",
+    "groupCode": 0
+  },
+  {
+    "id": 4164,
+    "fa": "من می دانم چقدر ناامیدکننده می تواند باشد وقتی شما آماده ای بهتر کنید تلفظ خود را",
+    "en": "I know how frustrating it can be when you're ready to improve your pronunciation",
+    "groupCode": 0
+  },
+  {
+    "id": 4165,
+    "fa": "او (مرد) در ترافیک گیر کرد و انگشت وسط خود رو پشت سرش راننده دیگر گرفت",
+    "en": "He got cut off in traffic and flipped the other driver off",
     "groupCode": 0
   }
 ]
