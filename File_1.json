@@ -7108,8 +7108,38 @@
   },
   {
     "id": 4165,
-    "fa": "او (مرد) در ترافیک گیر کرد و انگشت وسط خود رو پشت سرش راننده دیگر گرفت",
+    "fa": "توی ترافیک راهشو (مرد) بسته شد و انگشت وسط خود رو پشت سر راننده دیگر گرفت",
     "en": "He got cut off in traffic and flipped the other driver off",
+    "groupCode": 0
+  },
+  {
+    "id": 4166,
+    "fa": "من نمیتونم هندل کنم قهوه را با معده خالی",
+    "en": "I can't handle coffee on an empty stomach",
+    "groupCode": 0
+  },
+  {
+    "id": 4167,
+    "fa": "آیا می خوای (سریع) برداری مقداری قهوه قبل از جلسه؟",
+    "en": "Do you wanna grab some coffee before the meeting?",
+    "groupCode": 0
+  },
+  {
+    "id": 4168,
+    "fa": "من صبح از دنده ی چپ بلند شد (سمت اشتباه تخت) و کل صبح بداخلاق بودم",
+    "en": "I woke up on the wrong side of the bed and was grumpy all morning",
+    "groupCode": 0
+  },
+  {
+    "id": 4169,
+    "fa": "دوست مرحومم زیاد اهل (یک) برنامه ریزی نبود",
+    "en": "My late friend wasn't much of a planner",
+    "groupCode": 0
+  },
+  {
+    "id": 4170,
+    "fa": "من اسم می دانم، من نمی تونم چهره اش بیاد بیاورم",
+    "en": "I know the name, I can't put a face to it in the moment",
     "groupCode": 0
   }
 ]
