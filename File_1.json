@@ -813,7 +813,7 @@
   },
   {
     "id": 3133,
-    "fa": "او (مرد) همیشه ایده های عالی را (می یاید) مطرح می کند",
+    "fa": "او (مرد) همیشه ایده های عالی را (می یابد) مطرح می کند",
     "en": "He always comes up with great ideas",
     "groupCode": 0
   },
@@ -3481,7 +3481,7 @@
   },
   {
     "id": 3568,
-    "fa": "من تو رو با هیچ کدوم (بیشتر) از دوستام آشنا نمی کنم",
+    "fa": "من (دارم) تو رو با هیچ کدوم (بیشتر) از دوستام آشنا نمی کنم",
     "en": "I'm not setting you up with any more of my friends",
     "groupCode": 0
   },
@@ -5866,7 +5866,7 @@
   },
   {
     "id": 3961,
-    "fa": "او (مرد) هیچ حواشی (جنجالی) در کارش ندارد",
+    "fa": "او (مرد) هیچ حواشی (جنجال هایی) در کارش ندارد",
     "en": "He has no controversies in his work",
     "groupCode": 0
   },
@@ -6645,7 +6645,7 @@
   },
   {
     "id": 4089,
-    "fa": "چقدر می توانند آنها دوام بیاورند (نگه داشتن خارج) بدون آب؟",
+    "fa": "چقدر (چه مدت) می توانند آنها دوام بیاورند (نگه داشتن خارج) بدون آب؟",
     "en": "How long can they hold out without water?",
     "groupCode": 0
   },
@@ -7072,7 +7072,7 @@
   },
   {
     "id": 4159,
-    "fa": "چگونه می توانم من بگیرم درصد درخواست هایی را که برمی گردانند کد وضعیت ۲۰۰ را؟",
+    "fa": "چگونه می توانم من بگیرم درصد درخواست هایی که برمی گردانند یک کد وضعیت ۲۰۰ را؟",
     "en": "How can I get the percentage of requests that return a 200 status code?",
     "groupCode": 0
   },
@@ -7084,7 +7084,7 @@
   },
   {
     "id": 4161,
-    "fa": "این نقطه عطف بزرگی (عمده) است نه تنها برای من شخصاً، بلکه برای همه کسانی که در این مسیر همراه ما هستند",
+    "fa": "این نقطه عطف بزرگی (عمده) است نه تنها برای من شخصاً، بلکه برای همه کسانی که هستند قسمتی از این سفر",
     "en": "This is a major milestone not just for me personally, but for everyone who has been part of this journey",
     "groupCode": 0
   },
@@ -7114,7 +7114,7 @@
   },
   {
     "id": 4166,
-    "fa": "من نمیتونم هندل کنم قهوه را با معده خالی",
+    "fa": "من نمیتونم هندل کنم قهوه را با (روی یک) معده خالی",
     "en": "I can't handle coffee on an empty stomach",
     "groupCode": 0
   },
@@ -7138,8 +7138,39 @@
   },
   {
     "id": 4170,
-    "fa": "من اسم می دانم، من نمی تونم چهره اش بیاد بیاورم",
+    "fa": "من اسم می دانم، من نمی تونم (یک چهره بدم بهش) چهره اش بیاد بیاورم در این لحظه",
     "en": "I know the name, I can't put a face to it in the moment",
+    "groupCode": 0
+  },
+  {
+    "id": 4171,
+    "fa": "من فراموش کردم تحویل بدم تکلیفم رو دیروز",
+    "en": "I forgot to hand in my homework yesterday",
+    "groupCode": 0
+  },
+  {
+    "id": 4172,
+    "fa": "او (مرد) مجبور بود تحویل بده نشان و یونیفورمش رو قبل از ترک کردن",
+    "en": "He had to hand in his badge and uniform before leaving",
+    "groupCode": 0
+  },
+  {
+    "id": 4173,
+    "fa": "دوران تصدیش (مرد) به عنوان مدیرعامل 10 سال به طول کشید",
+    "en": "His tenure /ˈtenjər/ as CEO lasted 10 years",
+    "groupCode": 0
+  },
+  {
+    "id": 4174,
+    "fa": "به من گفته شد توسط او (مرد), که من باید تعویق بیندازم استعفایم را تا یک استخدام جدید مشغول به کار شده بود",
+    "en": "I was told by him on May 15, that I should withhold my resignation until a new hire was on board",
+    "groupCode": 0
+  },
+  {
+    "id": 4175,
+    "fa": "شما تکالیف را تحویل می دهید، اموال دزدیده شده را تحویل می دهید، و نامه استعفا را تحویل می دهید",
+    "en": "You hand in homework, hand over stolen goods, and turn in a resignation letter",
+    "desc": "hand in = submit something (homework, resignation)\n\nhand over = give something (often unwillingly or under authority)\n\nturn in = submit (same as hand in, but also used for going to bed or reporting someone)",
     "groupCode": 0
   }
 ]

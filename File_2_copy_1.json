@@ -83,12 +83,6 @@ was ist der Unterschied zwischen diesem und jenem
 
 
   {
-    "id": 10139,
-    "en": "Akbar is bus driver but I'm unemployed at the moment",
-    "de": "Akbar ist Busfahrer aber Ich bin im Moment arbeitslos",
-    "groupCode": 1
-  },
-  {
     "id": 10140,
     "en": "The teacher's name is Anne. She teaches biology and chemistry at the high school",
     "de": "Die Lehrerin heißt Anne. Sie unterrichtet Biologie und Chemie am Gymnasium",
@@ -1608,24 +1602,6 @@ was ist der Unterschied zwischen diesem und jenem
     "id": 10491,
     "en": "The game is on Saturday at half past six",
     "de": "Das Speilt ist am Samstag um helb sieben",
-    "groupCode": 1
-  },
-  {
-    "id": 10492,
-    "en": "Look at the couch. It is so beautiful",
-    "de": "Schau (doch) mal, die Couch. Sie ist so schön",
-    "groupCode": 1
-  },
-  {
-    "id": 10493,
-    "en": "Look at the armchair. It is so cheap",
-    "de": "Schau (doch) mal, der Sessel. Er ist so günstig",
-    "groupCode": 1
-  },
-  {
-    "id": 10494,
-    "en": "Look at the shelf. It's so cheap",
-    "de": "Schau (doch) mal, das Regal. Es ist so billig",
     "groupCode": 1
   },
   {

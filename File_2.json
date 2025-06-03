@@ -1271,7 +1271,7 @@
   },
   {
     "id": 10208,
-    "en": "in which cafe do we go?",
+    "en": "In which cafe do we go?",
     "de": "In welches Café gehen wir?",
     "desc": "Welcher is used for masculine nouns.\nWelches is used for neuter nouns.\nWelche is used for feminine nouns and plural nouns. Preposition required: The verb \"gehen\" (to go) requires a preposition when specifying a destination. Here, \"in\" is used because you're talking about going into a café.\n\"Welches Café gehen wir\" is incorrect because it lacks the necessary preposition.",
     "groupCode": 1
@@ -2011,8 +2011,8 @@
   },
   {
     "id": 10329,
-    "en": "Our grandparents have too many books",
-    "de": "Unsere Großeltern haben zu viele Bücher",
+    "en": "Akbar is bus driver but I'm unemployed at the moment",
+    "de": "Akbar ist Busfahrer aber Ich bin im Moment arbeitslos",
     "groupCode": 1
   },
   {
@@ -2317,7 +2317,8 @@
   {
     "id": 10379,
     "en": "Buy (formal) please twenty pieces of schnitzel",
-    "de": "Kaufen Sie bitte zwanzig Stücke Schnitzel",
+    "de": "Kaufen Sie bitte zwanzig Stück Schnitzel",
+    "desc": "„Stück“ is a measure word (like “piece”) and when used in quantity with uncountable or mass nouns like Schnitzel, it stays singular",
     "groupCode": 1
   },
   {
@@ -2545,7 +2546,7 @@
   },
   {
     "id": 10417,
-    "en": "How long are you (formal) taking (make) a vacation in Austria?",
+    "en": "How long are you (formal) taking (make a) vacation in Austria?",
     "de": "Wie lange machen Sie Urlaub in Österreich?",
     "groupCode": 1
   },
@@ -3033,8 +3034,8 @@
   },
   {
     "id": 10497,
-    "en": "Oh no, I still need to pack socks, but they are dirty! We go in an hour and now I can't wash them more",
-    "de": "Oh nein, ich muss noch socken einpacken, aber sie sind schmutzig! Wir gehen in einer Stunde und jetzt kann ich sie nicht mehr waschen",
+    "en": "Oh no, I still need to pack socks, but they are dirty!",
+    "de": "Oh nein, ich muss noch socken einpacken, aber sie sind schmutzig!",
     "groupCode": 1
   },
   {
@@ -3527,8 +3528,117 @@
   },
   {
     "id": 11079,
-    "en": "I have a headache, can you be quieter?\"",
+    "en": "I have a headache, can you be quieter?",
     "de": "Ich habe Kopfschmerzen, kannst du leiser sein?",
+    "groupCode": 1
+  },
+  {
+    "id": 11080,
+    "en": "This is not light, this is heavy",
+    "de": "Das ist nicht leicht, das ist schwer",
+    "groupCode": 1
+  },
+  {
+    "id": 11081,
+    "en": "The book is thick, not thin",
+    "de": "Das Buch ist dick, nicht dünn",
+    "groupCode": 1
+  },
+  {
+    "id": 11082,
+    "en": "The pants are too tight, I need a loose/wider one",
+    "de": "Die Hose ist zu eng, ich brauche eine weite",
+    "groupCode": 1
+  },
+  {
+    "id": 11083,
+    "en": "How do you like the shoes?",
+    "de": "Wie gefallen dir die Schuhe?",
+    "groupCode": 1
+  },
+  {
+    "id": 11084,
+    "en": "My German is good, his German is better, but her German is the best",
+    "de": "Mein Deutsch ist gut, sein Deutsch ist besser, aber ihr Deutsch ist am besten",
+    "groupCode": 1
+  },
+  {
+    "id": 11085,
+    "en": "I like drinking tea, prefer (more) coffee, but like most is called chocolate",
+    "de": "Ich trinke gern Tee, lieber Kaffee, aber am liebsten heiße Schokolade",
+    "desc": "English: Like, prefer, like most",
+    "groupCode": 1
+  },
+  {
+    "id": 11086,
+    "en": "I have learnt a lot, my friend has learnt more, but my sister has learnt the most",
+    "de": "Ich habe viel gelernt, mein Freund hat mehr gelernt, aber meine Schwester hat am meisten gelernt",
+    "groupCode": 1
+  },
+  {
+    "id": 11087,
+    "en": "How do you ride like most to work?",
+    "de": "Wie fährst du am liebsten zur Arbeit?",
+    "groupCode": 1
+  },
+  {
+    "id": 11088,
+    "en": "I don't really like cycling. I prefer to take the car.",
+    "de": "Ich fahre nicht so gern mit dem Rad. Ich nehme lieber das Auto",
+    "groupCode": 1
+  },
+  {
+    "id": 11088,
+    "en": "Look at the armchair. It is so cheap",
+    "de": "Schau (doch) mal, der Sessel. Er ist so günstig",
+    "groupCode": 1
+  },
+  {
+    "id": 11089,
+    "en": "Look at the couch and the shelf. They are so cheap",
+    "de": "Schau (doch) mal, die Couch un das Regal. Sie sind so billig",
+    "groupCode": 1
+  },
+  {
+    "id": 11090,
+    "en": "Which do you like better? The black ones. I really very like them",
+    "de": "Welche gefallen dir besser? Die schwarzen. Die gefallen mir wirklich sehr gut",
+    "groupCode": 1
+  },
+  {
+    "id": 11091,
+    "en": "Do you spend a lof of money on football tickets?",
+    "de": "Gibst du viel Geld für Fußballkarten aus?",
+    "groupCode": 1
+  },
+  {
+    "id": 11092,
+    "en": "I spend more on my phone",
+    "de": "Für mein Handy gebe ich mehr aus",
+    "groupCode": 1
+  },
+  {
+    "id": 11093,
+    "en": "But I spend the most on clothes",
+    "de": "Am meisten gebe ich aber für Kleidung aus",
+    "groupCode": 1
+  },
+  {
+    "id": 11094,
+    "en": "I would like to connect my phone to the Wi-Fi",
+    "de": "Ich möchte mein Handy mit dem WLAN verbinden",
+    "groupCode": 1
+  },
+  {
+    "id": 11095,
+    "en": "The child is drawing a house",
+    "de": "Das Kind zeichnet ein Haus",
+    "groupCode": 1
+  },
+  {
+    "id": 11096,
+    "en": "We go in an hour and now I can't wash them more",
+    "de": "Wir gehen in einer Stunde und jetzt kann ich sie nicht mehr waschen",
     "groupCode": 1
   }
 ]
