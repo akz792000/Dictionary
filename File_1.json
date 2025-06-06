@@ -7162,15 +7162,75 @@
   },
   {
     "id": 4174,
-    "fa": "به من گفته شد توسط او (مرد), که من باید تعویق بیندازم استعفایم را تا یک استخدام جدید مشغول به کار شده بود",
-    "en": "I was told by him on May 15, that I should withhold my resignation until a new hire was on board",
+    "fa": "به من گفته شد توسط او (مرد), که من باید نگاه دارم (دریغ کردن) استعفایم را تا یک استخدام جدید مشغول به کار شده بود",
+    "en": "I was told by him, that I should withhold my resignation until a new hire was on board",
     "groupCode": 0
   },
   {
     "id": 4175,
-    "fa": "شما تکالیف را تحویل می دهید، اموال دزدیده شده را تحویل می دهید، و نامه استعفا را تحویل می دهید",
+    "fa": "شما تکالیف را تحویل می دهید، اموال دزدیده شده را تحویل می دهید، و یک نامه استعفا را تحویل می دهید",
     "en": "You hand in homework, hand over stolen goods, and turn in a resignation letter",
     "desc": "hand in = submit something (homework, resignation)\n\nhand over = give something (often unwillingly or under authority)\n\nturn in = submit (same as hand in, but also used for going to bed or reporting someone)",
+    "groupCode": 0
+  },
+  {
+    "id": 4176,
+    "fa": "CamelCase شروع می شود با یک حرف کوچک و بزرگ می نویسد هر کلمه بعدی را و PascalCase بزرگ می نویسد حرف اول هر کلمه را",
+    "en": "CamelCase starts with a lowercase letter and capitalizes each subsequent word and PascalCase capitalizes the first letter of every word",
+    "groupCode": 0
+  },
+  {
+    "id": 4177,
+    "fa": "Kebab-case جدا می کند کلمات را با خط فاصله و snake_case استفاده می کند از زیرخط برای جدا کردن کلمات",
+    "en": "Kebab-case separates words with hyphens and snake_case uses underscores to separate words",
+    "groupCode": 0
+  },
+  {
+    "id": 4178,
+    "fa": "من خواهم آمد برای تحویل گرفتن مانیتور ساعتی بین ۱۲ تا ۲ امروز",
+    "en": "I'll come to pick up the monitor sometime between 12 and 2 today",
+    "groupCode": 0
+  },
+  {
+    "id": 4179,
+    "fa": "من نمی توانم باور کنم من اجازه دادم به تو وارد شوی به معبد مقدسم",
+    "en": "I can't believe I let you enter my sacred temple",
+    "groupCode": 0
+  },
+  {
+    "id": 4180,
+    "fa": "او (زن) به طرز عجیبی مصون بود به همه چیز در آپارتمان من به جز تو",
+    "en": "She was freakishly immune to everything in my apartment except you",
+    "groupCode": 0
+  },
+  {
+    "id": 4181,
+    "fa": "\"Sketchy\" معنا می دهد مشکوک یا مشکوک (سایه دار)، در حالی که \"flaky\" معنا می دهد غیرقابل اعتماد یا متناقض (ناهماهنگ)",
+    "en": "\"Sketchy\" means suspicious or shady, while \"flaky\" means unreliable or inconsistent",
+    "groupCode": 0
+  },
+  {
+    "id": 4182,
+    "fa": "استفاده می شود برای ابراز علاقه به ظاهر یا چقدر چیزی جذاب است برای شما \"Gefallen\"",
+    "en": "\"Gefallen\" is used for expressing liking the appearance or how something appeals to you",
+    "groupCode": 0
+  },
+  {
+    "id": 4183,
+    "fa": "\"Mögen\" بیشتر اوقات استفاده می شود برای مردم، غذا یا فعالیت ها، نه برای پرسیدن نظرات در مورد ظاهر",
+    "en": "\"Mögen\" is more often used with people, food, or activities, not for asking opinions on appearance",
+    "groupCode": 0
+  },
+  {
+    "id": 4184,
+    "fa": "لطفاً محو کنید کناره ها را به سفید و فقط مرتب کنید بالا را",
+    "en": "Please fade the sides to white and just trim the top",
+    "groupCode": 0
+  },
+  {
+    "id": 4185,
+    "fa": "لطفاً فقط مرتب کنید کناره ها و نگه دارید بالا را همین طور که هست",
+    "en": "Please just trim the sides and keep the top as it is",
     "groupCode": 0
   }
 ]
