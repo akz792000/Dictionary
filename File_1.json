@@ -7084,7 +7084,7 @@
   },
   {
     "id": 4161,
-    "fa": "این نقطه عطف بزرگی (عمده) است نه تنها برای من شخصاً، بلکه برای همه کسانی که هستند قسمتی از این سفر",
+    "fa": "این نقطه عطف بزرگی (عمده) است نه تنها برای من شخصاً، بلکه برای همه کسی که هست قسمتی از این سفر",
     "en": "This is a major milestone not just for me personally, but for everyone who has been part of this journey",
     "groupCode": 0
   },
@@ -7139,7 +7139,7 @@
   {
     "id": 4170,
     "fa": "من اسم می دانم، من نمی تونم (یک چهره بدم بهش) چهره اش بیاد بیاورم در این لحظه",
-    "en": "I know the name, I can't put a face to it in the moment",
+    "en": "I know the name, I can't put a face to at in the moment",
     "groupCode": 0
   },
   {
@@ -7181,14 +7181,14 @@
   },
   {
     "id": 4177,
-    "fa": "Kebab-case جدا می کند کلمات را با خط فاصله و snake_case استفاده می کند از زیرخط برای جدا کردن کلمات",
+    "fa": "Kebab-case جدا می کند کلمات را با خط فاصله ها و snake_case استفاده می کند از زیرخط ها برای جدا کردن کلمات",
     "en": "Kebab-case separates words with hyphens and snake_case uses underscores to separate words",
     "groupCode": 0
   },
   {
     "id": 4178,
-    "fa": "من خواهم آمد برای تحویل گرفتن مانیتور ساعتی بین ۱۲ تا ۲ امروز",
-    "en": "I'll come to pick up the monitor sometime between 12 and 2 today",
+    "fa": "من خواهم آمد برای تحویل گرفتن مانیتور امروز ساعتی بین ۱۲ تا ۲",
+    "en": "I'll come to pick up the monitor today sometime between 12 and 2",
     "groupCode": 0
   },
   {
@@ -7211,7 +7211,7 @@
   },
   {
     "id": 4182,
-    "fa": "استفاده می شود برای ابراز علاقه به ظاهر یا چقدر چیزی جذاب است برای شما \"Gefallen\"",
+    "fa": "\"Gefallen\" استفاده می شود برای ابراز کردن دوست داشتن ظاهر یا چگونه چیزی جذاب است برای شما",
     "en": "\"Gefallen\" is used for expressing liking the appearance or how something appeals to you",
     "groupCode": 0
   },
@@ -7231,6 +7231,30 @@
     "id": 4185,
     "fa": "لطفاً فقط مرتب کنید کناره ها و نگه دارید بالا را همین طور که هست",
     "en": "Please just trim the sides and keep the top as it is",
+    "groupCode": 0
+  },
+  {
+    "id": 4186,
+    "fa": "لطفا صبر کنید تا دستها در بازی بیاید به یک پایان",
+    "en": "Please wait until the hands in play come to an end",
+    "groupCode": 0
+  },
+  {
+    "id": 4187,
+    "fa": "این آهنگ مناسب تر می بود برای یک صدای بم",
+    "en": "The song would have been more apt for a bass voice",
+    "groupCode": 0
+  },
+  {
+    "id": 4188,
+    "fa": "چه می توانم من بگویم که او (زن) را سر جایش بنشانم؟ او گستاخ، بی ادب و متکبر",
+    "en": "What can I say to put her in her place? She is rude, disrespectful, and arrogant",
+    "groupCode": 0
+  },
+  {
+    "id": 4189,
+    "fa": "او (مرد) پاهایش را عوض کرد و آنها را باز کرد (گشاد) تا تعادلش را حفظ کند",
+    "en": "He shifted his legs, straddling them to keep his balance",
     "groupCode": 0
   }
 ]

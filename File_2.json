@@ -937,8 +937,8 @@
   },
   {
     "id": 10153,
-    "en": "Do you come from Syria? Why do you come to me?",
-    "de": "Kommst du aus Syrien? Warum kommst du zu mir?",
+    "en": "Do you come from Syria?",
+    "de": "Kommst du aus Syrien?",
     "groupCode": 1
   },
   {
@@ -3094,7 +3094,7 @@
   },
   {
     "id": 10507,
-    "en": "My roommate (male) is angry (annoyed) but why?",
+    "en": "My roommate (male) is annoyed but why?",
     "de": "Mein Mitbewohner ist verärgert aber warum?",
     "groupCode": 1
   },
@@ -3112,14 +3112,14 @@
   },
   {
     "id": 10510,
-    "en": "You are lazy! You never clean the microwave. How was the party yesterday?",
-    "de": "Du bist faul! Du putzt nie die Mikrowelle. Wie war die Party gestern?",
+    "en": "You are lazy! You never clean the microwave",
+    "de": "Du bist faul! Du putzt nie die Mikrowelle",
     "groupCode": 1
   },
   {
     "id": 10511,
-    "en": "Do you (plural) want to listen to jazz together? How was the atmosphere?",
-    "de": "Wollt ihr zusammen Jazz hören? Wie war die Stimmung?",
+    "en": "How was the atmosphere?",
+    "de": "Wie war die Stimmung?",
     "groupCode": 1
   },
   {
@@ -3136,8 +3136,8 @@
   },
   {
     "id": 10514,
-    "en": "Do you have a pill? The concert was great. Classical music is really beautiful",
-    "de": "Hast du eine Tablette? Das Konzert war spitze. Klassische Musik ist wirklich schon",
+    "en": "Do you have a pill?",
+    "de": "Hast du eine Tablette?",
     "groupCode": 1
   },
   {
@@ -4166,7 +4166,7 @@
   },
   {
     "id": 11085,
-    "en": "I like drinking tea, prefer (more) coffee, but like most is called chocolate",
+    "en": "I like drinking tea, prefer (more) coffee, but the most is hot chocolate",
     "de": "Ich trinke gern Tee, lieber Kaffee, aber am liebsten heiße Schokolade",
     "desc": "English: Like, prefer, like most",
     "groupCode": 1
@@ -4179,7 +4179,7 @@
   },
   {
     "id": 11087,
-    "en": "How do you ride like most to work?",
+    "en": "How do you drive to work most gladly",
     "de": "Wie fährst du am liebsten zur Arbeit?",
     "groupCode": 1
   },
@@ -4241,6 +4241,48 @@
     "id": 11096,
     "en": "We go in an hour and now I can't wash them more",
     "de": "Wir gehen in einer Stunde und jetzt kann ich sie nicht mehr waschen",
+    "groupCode": 1
+  },
+  {
+    "id": 11097,
+    "en": "Why do you come to me?",
+    "de": "Warum kommst du zu mir?",
+    "groupCode": 1
+  },
+  {
+    "id": 11098,
+    "en": "How was the party yesterday?",
+    "de": "Wie war die Party gestern?",
+    "groupCode": 1
+  },
+  {
+    "id": 11099,
+    "en": "How was the atmosphere?",
+    "de": "Wie war die Stimmung?",
+    "groupCode": 1
+  },
+  {
+    "id": 11100,
+    "en": "The concert was great. Classical music is really beautiful",
+    "de": "Das Konzert war spitze. Klassische Musik ist wirklich schon",
+    "groupCode": 1
+  },
+  {
+    "id": 11101,
+    "en": "first, second, third, fourth, fifth, sixth, seventh, eighth, ninth, tenth, eleventh, twelfth, thirteenth, fourteenth",
+    "de": "erste, zweite, dritte, vierte, fünfte, sechste, siebte, achte, neunte, zehnte, elfte, zwölfte, dreizehnte, vierzehnte",
+    "groupCode": 1
+  },
+  {
+    "id": 11102,
+    "en": "The classes are canceled today",
+    "de": "Die Stunden fallen heute aus",
+    "groupCode": 1
+  },
+  {
+    "id": 11103,
+    "en": "I cancel the trip",
+    "de": "Ich storniere die Reise",
     "groupCode": 1
   }
 ]
