@@ -7256,5 +7256,56 @@
     "fa": "او (مرد) پاهایش را عوض کرد و آنها را باز کرد (گشاد) تا تعادلش را حفظ کند",
     "en": "He shifted his legs, straddling them to keep his balance",
     "groupCode": 0
+  },
+  {
+    "id": 4190,
+    "fa": "یک نفر باید پا پیش بگذارد و این پروژه را رهبری کند",
+    "en": "Someone will need to step up and lead this project",
+    "desc": "Someone will need to step up.\tA person must act. They are the one taking action.\t✅ Yes\nSomeone will be needed to step up.\tA person will be required by others to act.\t❌ No",
+    "groupCode": 0
+  },
+  {
+    "id": 4191,
+    "fa": "من هزینه می کنم از جیبم هر هفته، که ضرر قابل توجه حساب پس اندازمه",
+    "en": "I pay out of pocket each week, to the considerable detriment of my savings account",
+    "desc": "The main verb is \"pay.\"\nThe rest (\"to the considerable detriment...\") is a prepositional phrase, giving extra information about the consequences of your action — but it has no verb inside it.",
+    "groupCode": 0
+  },
+  {
+    "id": 4192,
+    "fa": "کارکنان می توانند انتخاب کنند (که) صرف نظر کنند از نقشه بازنشستگی",
+    "en": "Employees can choose to opt out of the pension plan",
+    "groupCode": 0
+  },
+  {
+    "id": 4193,
+    "fa": "او (زن) مستقیماً نگاهم کرد در چشمان",
+    "en": "She looked me squarely in the eyes",
+    "groupCode": 0
+  },
+  {
+    "id": 4194,
+    "fa": "\"Directly\" به معنای مستقیم یا بدون انحراف است، در حالی که \"squarely\" می افزاید یک حس استحکام، دقت یا جسارت را",
+    "en": "\"Directly\" means straightforward or without detour, while \"squarely\" adds a sense of firmness, exactness, or boldness",
+    "groupCode": 0
+  },
+  {
+    "id": 4195,
+    "fa": "او به سختی جور کرد پول کافی برای پرداخت کردن اجاره",
+    "en": "He was barely scraping enough money to pay the rent",
+    "groupCode": 0
+  },
+  {
+    "id": 4196,
+    "fa": "درمانگران کشیده می شوند به این اپ ها",
+    "en": "Therapists are drawn to these apps",
+    "groupCode": 0
+  },
+  {
+    "id": 4197,
+    "fa": "توضیحات گرامری او (مرد) به طرز وحشتناکی پیچیده هستند",
+    "en": "His grammar explanations are terribly convoluted",
+    "desc": "Complex\tNeutral\tMany parts; not simple\t\"The system is complex.\"\nConvoluted\tNegative\tOverly complicated, unclear\t\"The instructions were convoluted.\"\nSophisticated\tPositive\tElegant, refined, or advanced complexity\t\"A sophisticated algorithm.\"",
+    "groupCode": 0
   }
 ]

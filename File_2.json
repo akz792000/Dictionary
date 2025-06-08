@@ -937,8 +937,8 @@
   },
   {
     "id": 10153,
-    "en": "Do you come from Syria?",
-    "de": "Kommst du aus Syrien?",
+    "en": "Your (plural) bathroom was clean yesterday but not today",
+    "de": "Euer Badezimmer war gestern sauber aber nicht heute",
     "groupCode": 1
   },
   {
@@ -3076,8 +3076,8 @@
   },
   {
     "id": 10504,
-    "en": "I'm picking you up later. Your (plural) bathroom was clean yesterday but not today",
-    "de": "Ich hole dich später ab. Euer Badezimmer war gestern sauber aber nicht heute",
+    "en": "I'm picking you up later",
+    "de": "Ich hole dich später ab",
     "groupCode": 1
   },
   {
@@ -3178,8 +3178,8 @@
   },
   {
     "id": 10521,
-    "en": "Our break is not long. I had homeworks on the weekend",
-    "de": "Unsere Pause ist nicht lang. Ich hatte am Wochenende Hausaufgaben",
+    "en": "Our break is not long",
+    "de": "Unsere Pause ist nicht lang",
     "groupCode": 1
   },
   {
@@ -3479,7 +3479,7 @@
   },
   {
     "id": 10571,
-    "en": "I am very angry (annoyed)",
+    "en": "I am very annoyed",
     "de": "Ich bin sehr verärgert",
     "groupCode": 1
   },
@@ -3656,6 +3656,611 @@
     "id": 10600,
     "en": "I don't eat a dairy product or a meat but I like to eat pizza and I don't eat a dessert",
     "de": "Ich esse keine Milchprodukte oder kein Fleisch aber Ich esse gern Pizza und Ich esse keinen Nachtisch",
+    "groupCode": 1
+  },
+  {
+    "id": 10601,
+    "en": "Oh no my foot is broken",
+    "de": "Oh nein, mein Fuß ist gebrochen",
+    "groupCode": 1
+  },
+  {
+    "id": 10602,
+    "en": "Do you prefer to grill in the park or at the lake?",
+    "de": "Grillst du lieber im Park oder am See?",
+    "groupCode": 1
+  },
+  {
+    "id": 10603,
+    "en": "Fifty guests are coming to (toward) the party tomorrow",
+    "de": "Fünfzig Gaste kommen morgen zur Party",
+    "groupCode": 1
+  },
+  {
+    "id": 10604,
+    "en": "We grill at the lake on Sunday",
+    "de": "Wir grillen am Sonntag am See",
+    "groupCode": 1
+  },
+  {
+    "id": 10605,
+    "en": "Why doesn't Julia come to (toward) the barbecue party? She is flying to Paris with her sister",
+    "de": "Warum kommt Julia nicht zur Grillparty? Sie fliegt mit ihrer Schwester nach Paris",
+    "groupCode": 1
+  },
+  {
+    "id": 10606,
+    "en": "Many guests are coming to (toward) the barbecue party, almost two hundred!",
+    "de": "Viele Gäste kommen zur Grillparty, fast zweihundert!",
+    "groupCode": 1
+  },
+  {
+    "id": 10607,
+    "en": "Are you shopping the bread for the barbecue party at the market? The bread there, is always fresh",
+    "de": "Kaufst du das Brot für die Grillparty auf dem Markt ein? Das Brot dort, ist immer frisch",
+    "groupCode": 1
+  },
+  {
+    "id": 10608,
+    "en": "We shop at the market on Saturdays",
+    "de": "Wir kaufen samstags auf dem Markt ein",
+    "groupCode": 1
+  },
+  {
+    "id": 10609,
+    "en": "Nina is planning a party with her granddaughter",
+    "de": "Nina plant mit ihrer Enkelin eine Party",
+    "groupCode": 1
+  },
+  {
+    "id": 10610,
+    "en": "My daughter is shopping with her son in the supermarket",
+    "de": "Meine Tochter kauft mit ihrem Sohn im Supermarkt ein",
+    "desc": "\"im Supermarkt\": The preposition in with the dative case (im = in + dem) is used because the action is happening inside the supermarket.\n\"in den Supermarkt\": This would imply movement into the supermarket and would not fit with the verb kauft (buys), as buying does not imply movement.",
+    "groupCode": 1
+  },
+  {
+    "id": 10611,
+    "en": "We need meat why does everyone bring salad along?",
+    "de": "Wir brauchen Fleisch warum bringen alle Salat mit?",
+    "groupCode": 1
+  },
+  {
+    "id": 10612,
+    "en": "I like fishing with my brother in the summer. The river is nearby",
+    "de": "Ich fische im Sommer gern mit meinem Bruder. Der Fluss ist in der Nähe",
+    "desc": "\"Ich fische im Sommer gern mit meinem Bruder\": Focuses on when (in the summer) you fish.\n\"Ich fische gern im Sommer mit meinem Bruder\": Focuses on enjoying fishing, with the time (summer) as additional information.\nBoth are correct, just with slightly different emphases.",
+    "groupCode": 1
+  },
+  {
+    "id": 10613,
+    "en": "I am hungry and thirsty",
+    "de": "Ich habe Hunger und Durst",
+    "groupCode": 1
+  },
+  {
+    "id": 10614,
+    "en": "Her sneakers (gym shoes) are wet, but she is still running",
+    "de": "Ihre Turnschuhe sind nass, aber sie Läuft noch",
+    "groupCode": 1
+  },
+  {
+    "id": 10615,
+    "en": "Eddy is unfortunately not coming to (toward) the barbecue party because his foot is broken. He is very sad",
+    "de": "Eddy kommt leider nicht zur Grillparty, denn sein Fuß ist gebrochen. Er ist sehr traurig",
+    "groupCode": 1
+  },
+  {
+    "id": 10616,
+    "en": "We need thirty-seven cups for the guests",
+    "de": "Wir brauchen siebenunddreißig Tassen für die Gäste",
+    "groupCode": 1
+  },
+  {
+    "id": 10617,
+    "en": "Do you prefer to ride (a) bicycle or (a) motorcycle",
+    "de": "Fährst du lieber fahrrad oder Motorrad?",
+    "groupCode": 1
+  },
+  {
+    "id": 10618,
+    "en": "When do you have holiday (school holidays)?",
+    "de": "Wann hast du Ferien?",
+    "groupCode": 1
+  },
+  {
+    "id": 10619,
+    "en": "What kind of (a) cake are you bringing along to (toward) the party?",
+    "de": "Was für einen Kuchen bringst du zur Party mit?",
+    "groupCode": 1
+  },
+  {
+    "id": 10620,
+    "en": "My parents always invite a lot of people",
+    "de": "Meine Eltern laden immer viele Leute ein",
+    "groupCode": 1
+  },
+  {
+    "id": 10621,
+    "en": "I want to watch TV with my mom",
+    "de": "Ich will mit meiner Mama fernsehen",
+    "groupCode": 1
+  },
+  {
+    "id": 10622,
+    "en": "My sister has no husband. She has a partner (male)",
+    "de": "Meine Schwester hat keinen Mann. Sie hat einen Partner",
+    "groupCode": 1
+  },
+  {
+    "id": 10623,
+    "en": "Many people come later",
+    "de": "Viele Leute kommen später",
+    "groupCode": 1
+  },
+  {
+    "id": 10624,
+    "en": "Do you shop tomatoes at the market?",
+    "de": "Kaufst du Tomaten auf dem Markt ein?",
+    "groupCode": 1
+  },
+  {
+    "id": 10625,
+    "en": "Anna, your girlfriend is flying home tomorrow, right? Can you drive with your girlfriend to (toward) the airport?",
+    "de": "Anna, deine Freundin fliegt morgen nach Hause, richtig? Kannst du mit deiner Freundin zum Flughafen fahren?",
+    "groupCode": 1
+  },
+  {
+    "id": 10626,
+    "en": "Can you shop vegetables for the barbecue party, please?",
+    "de": "Kannst du Gemüse für die Grillparty einkaufen, bitte?",
+    "groupCode": 1
+  },
+  {
+    "id": 10627,
+    "en": "How many people are coming to (toward) the barbecue party next week?",
+    "de": "Wie viele Leute kommen nächste Woche zur Grillparty?",
+    "groupCode": 1
+  },
+  {
+    "id": 10628,
+    "en": "I am inviting twenty guests to (toward) the barbecue party. Here is your invitation",
+    "de": "Ich lade zwanzig Gäste zur Grillparty ein. Hier ist deine Einladung",
+    "groupCode": 1
+  },
+  {
+    "id": 10629,
+    "en": "My brother wants to eat breakfast with mom every day on the vacation",
+    "de": "Mein Bruder will im Urlaub jeden Tag mit Mama frühstücken",
+    "groupCode": 1
+  },
+  {
+    "id": 10630,
+    "en": "Do you understand this word?",
+    "de": "Verstehst du dieses Wort?",
+    "groupCode": 1
+  },
+  {
+    "id": 10631,
+    "en": "Is your niece also coming to (toward) the barbecue party? She likes eating meat, right?",
+    "de": "Kommt deine Nichte auch zur Grillparty? Sie isst gern Fleisch, richtig?",
+    "groupCode": 1
+  },
+  {
+    "id": 10632,
+    "en": "My sister is excited because I have holiday (school holidays)",
+    "de": "Meine schwester ist aufgeregt, denn ich habe ferien",
+    "groupCode": 1
+  },
+  {
+    "id": 10633,
+    "en": "That are not my eyes",
+    "de": "Das sind nicht meine Augen",
+    "groupCode": 1
+  },
+  {
+    "id": 10634,
+    "en": "I can't pay the rent without a job",
+    "de": "Ich kann ohne einen Job die Miete nicht zahlen",
+    "desc": "In German, negation with nicht generally follows this structure:\n\nIf nicht negates the entire verb phrase, it usually comes before the verb (here: zahlen).\n\nIf nicht negates a specific part of the sentence, it would be placed directly before that part (e.g., nicht die Miete, meaning \"not the rent, but something else\").\n\nIn your second sentence (Ich kann ohne einen Job nicht die Miete zahlen), nicht die Miete could imply contrast—suggesting you can pay something else, but not the rent. However, in normal usage, this sounds unnatural.\n\nSo, stick with:\n✅ Ich kann ohne einen Job die Miete nicht zahlen.",
+    "groupCode": 1
+  },
+  {
+    "id": 10635,
+    "en": "I have to shop a cake for the barbecue party",
+    "de": "Ich muss einen Kuchen für die Grillparty einkaufen",
+    "groupCode": 1
+  },
+  {
+    "id": 10636,
+    "en": "Many guests are coming to (toward) the barbecue party. I hope everybody gets enough food",
+    "de": "Viele Gäste kommen zur Grillparty. Ich hoffe, alle bekommen genug Essen",
+    "groupCode": 1
+  },
+  {
+    "id": 10637,
+    "en": "He's inviting a band to (toward) the party, right?",
+    "de": "Er lädt eine Band zur Party ein, richtig?",
+    "groupCode": 1
+  },
+  {
+    "id": 10638,
+    "en": "I go fishing in the holiday (school holidays) with my dad",
+    "de": "Ich gehe in den Ferien mit meinem Papa Fischen",
+    "groupCode": 1
+  },
+  {
+    "id": 10639,
+    "en": "Is there enough space at the lake for thirty-six guests?",
+    "de": "Gibt es genug Platz am See für sechsunddreißig Gäste?",
+    "groupCode": 1
+  },
+  {
+    "id": 10640,
+    "en": "How many guests are coming to (toward) the party?",
+    "de": "Wie viele Gäste kommen zur Party?",
+    "groupCode": 1
+  },
+  {
+    "id": 10641,
+    "en": "The Oktoberfest begins on the nineteenth of September",
+    "de": "Das Oktoberfest beginnt am neunzehnten September",
+    "groupCode": 1
+  },
+  {
+    "id": 10642,
+    "en": "When is your flight? Are you driving to (toward) the airport with your brother?",
+    "de": "Wann ist dein Abflug? Fährst du mit deinem Bruder zum Flughafen?",
+    "groupCode": 1
+  },
+  {
+    "id": 10643,
+    "en": "There is not enough space in the refrigerator",
+    "de": "Es gibt nicht genug Platz Im Kühlschrank",
+    "groupCode": 1
+  },
+  {
+    "id": 10644,
+    "en": "What kind of (a) salad would you like to make?",
+    "de": "Was für einen Salat möchtest du machen?",
+    "groupCode": 1
+  },
+  {
+    "id": 10645,
+    "en": "My son is comming with his girlfriend",
+    "de": "Mein Sohn kommt mit seiner Freundin",
+    "groupCode": 1
+  },
+  {
+    "id": 10646,
+    "en": "We have to drive to (toward) the airport now, but I definitely (in any case) want to come back (again) in January",
+    "de": "Wir müssen jetzt zum Flughafen fahren, aber ich will im Januar auf jeden Fall wiederkommen",
+    "groupCode": 1
+  },
+  {
+    "id": 10647,
+    "en": "Anna dances with her mom",
+    "de": "Anna tanzt mit ihrer Mama",
+    "groupCode": 1
+  },
+  {
+    "id": 10648,
+    "en": "everyone comes to (toward) the party",
+    "de": "Alle kommen zur Party",
+    "groupCode": 1
+  },
+  {
+    "id": 10649,
+    "en": "You can come back (again) next time with your partner (male)",
+    "de": "Du kannst nächstes Mal mit deinem Partner wiederkommen",
+    "groupCode": 1
+  },
+  {
+    "id": 10650,
+    "en": "With whom are you going to (toward) the beach?",
+    "de": "Mit wem gehst du zum Strand?",
+    "groupCode": 1
+  },
+  {
+    "id": 10651,
+    "en": "I sleep until noon",
+    "de": "Ich schlafe bis Mittag",
+    "groupCode": 1
+  },
+  {
+    "id": 10652,
+    "en": "Are you on Facebook? No, I'm not on Facebook",
+    "de": "Bist du bei Facebook? Nein, Ich bin nicht bei Facebook",
+    "groupCode": 1
+  },
+  {
+    "id": 10653,
+    "en": "Until when does your cat sleep?",
+    "de": "Bis wann schläft deine Katze?",
+    "groupCode": 1
+  },
+  {
+    "id": 10654,
+    "en": "My son plays hockey and swims every week",
+    "de": "Mein Sohn spielt Hockey und schwimmt jede Woche",
+    "groupCode": 1
+  },
+  {
+    "id": 10655,
+    "en": "Why are you sleeping so little at the moment?",
+    "de": "Warum schläfst du im Moment so wenig?",
+    "groupCode": 1
+  },
+  {
+    "id": 10656,
+    "en": "The student (female) only sleeps a little at the moment. Now she is tired",
+    "de": "Die Studentin schläft im Moment nur wenig. Jetzt ist sie müde",
+    "groupCode": 1
+  },
+  {
+    "id": 10657,
+    "en": "I play hockey on Fridays. I want to stay healthy",
+    "de": "Ich spiele freitags Hockey. Ich will gesund bleiben",
+    "groupCode": 1
+  },
+  {
+    "id": 10658,
+    "en": "The prefix for munich is 089",
+    "de": "Die Vorwahl für München ist 089",
+    "groupCode": 1
+  },
+  {
+    "id": 10659,
+    "en": "Are you very sporty?",
+    "de": "Bist du sehr sportlich?",
+    "groupCode": 1
+  },
+  {
+    "id": 10660,
+    "en": "How often does your girlfriend run per week?",
+    "de": "Wie oft läuft deine Freundin pro Woche?",
+    "groupCode": 1
+  },
+  {
+    "id": 10661,
+    "en": "I don't like running, but I like playing tennis",
+    "de": "Ich laufe nicht gern, aber ich spiele gern Tennis",
+    "groupCode": 1
+  },
+  {
+    "id": 10662,
+    "en": "I don't like the shirt. I have problems with my new roommate (female)",
+    "de": "Ich mag das Hemd nicht. Ich habe Probleme mit meiner neuen Mitbewohnerin",
+    "desc": "Full breakdown:\nmit → preposition that requires dative\n\nMitbewohnerin → feminine noun\n\nArticle in dative feminine = der\n\nAdjective before feminine noun in dative with definite article = -en\n\nHence: mit meiner neuen Mitbewohnerin",
+    "groupCode": 1
+  },
+  {
+    "id": 10663,
+    "en": "Her sneakers are wet, but she is still running",
+    "de": "Ihre Turnschuhe sind nass, aber sie läuft noch",
+    "groupCode": 1
+  },
+  {
+    "id": 10664,
+    "en": "Our baby still can't ride (a) bike. Is the old doner also yours?",
+    "de": "Unser Baby kann noch kein Fahrrad fahren. Ist der alte Doner auch von dir?",
+    "groupCode": 1
+  },
+  {
+    "id": 10665,
+    "en": "I want to buy a motorcycle next week. We can ride (a) motorcycle next weekend",
+    "de": "Ich will nächste Woche ein Motorrad kaufen. Wir können nächstes Wochenende Motrrad fahren",
+    "groupCode": 1
+  },
+  {
+    "id": 10666,
+    "en": "We work tonight until midnight",
+    "de": "Wir arbeiten heute Nacht bis Mitternacht",
+    "groupCode": 1
+  },
+  {
+    "id": 10667,
+    "en": "I don't sleep well at night. I prefer to run in the park until midnight. The park is dark, but the moon is always bright and very beautiful",
+    "de": "Ich schlafe nachts nicht gut. Ich laufe lieber bis Mitternacht im Park. Der Park ist dunkel, aber der Mond ist immer hell und sehr schön",
+    "groupCode": 1
+  },
+  {
+    "id": 10668,
+    "en": "Is your email address new? Yes, my email address is new...",
+    "de": "Ist deine E-Mail-Adresse neu? Ja, meine E-Mail-Adresse ist neu ...",
+    "groupCode": 1
+  },
+  {
+    "id": 10669,
+    "en": "Ali, you work too much, take (a) vacation",
+    "de": "Ali, du arbeitest zu viel, mach Urlaub",
+    "groupCode": 1
+  },
+  {
+    "id": 10670,
+    "en": "The sun shines every day in Tehran",
+    "de": "Die Sonne scheint jeden Tag in Tehran",
+    "groupCode": 1
+  },
+  {
+    "id": 10671,
+    "en": "How old are his parents?",
+    "de": "Wie alt sind seine Eltern?",
+    "groupCode": 1
+  },
+  {
+    "id": 10672,
+    "en": "The size doesn't fit",
+    "de": "Die größe passt nicht",
+    "groupCode": 1
+  },
+  {
+    "id": 10673,
+    "en": "The sun is hot, I need a hat",
+    "de": "Die Sonne ist heiß, ich brauche einen Hut",
+    "groupCode": 1
+  },
+  {
+    "id": 10674,
+    "en": "Which swimsuit do you like?",
+    "de": "Welchen Badeanzug magst du?",
+    "groupCode": 1
+  },
+  {
+    "id": 10675,
+    "en": "The swimsuit is beautiful, it is purple",
+    "de": "Der Badeanzug ist schön, er ist lila",
+    "groupCode": 1
+  },
+  {
+    "id": 10676,
+    "en": "Do you want to buy this backpack? No, it is too small",
+    "de": "Willst du diesen Rucksack kaufen? Nein, er ist zu klein",
+    "groupCode": 1
+  },
+  {
+    "id": 10677,
+    "en": "I always wear a jacket but he never wears a jacket",
+    "de": "Ich trage immer eine Jacke aber er trägt nie eine Jacke",
+    "groupCode": 1
+  },
+  {
+    "id": 10678,
+    "en": "Excuse me? Can I sit here?",
+    "de": "Entschuldigung? Kann ich hier sitzen?",
+    "groupCode": 1
+  },
+  {
+    "id": 10679,
+    "en": "I'm waiting for my girlfriend",
+    "de": "Ich warte auf meine Freundin",
+    "groupCode": 1
+  },
+  {
+    "id": 10680,
+    "en": "She would like to marry him so much (gladly)",
+    "de": "Sie möchte ihn so gern heiraten",
+    "groupCode": 1
+  },
+  {
+    "id": 10681,
+    "en": "This weekend she wants to ask him",
+    "de": "Dieses Wochenende will sie ihn fragen",
+    "groupCode": 1
+  },
+  {
+    "id": 10682,
+    "en": "Who is Ali? My friend! He is sitting next to you",
+    "de": "Wer ist Ali? Mein Freund! Er sitzt neben dir",
+    "groupCode": 1
+  },
+  {
+    "id": 10683,
+    "en": "The sea is warm. You can always swim",
+    "de": "Das Meer ist warm. Du Kannst immer schwimmen",
+    "groupCode": 1
+  },
+  {
+    "id": 10684,
+    "en": "I don't like the weather here, it rains every day. But in Tehran the sun always shines, I need a vacation",
+    "de": "Ich mag das Wetter hier nicht, es regnet jeden Tag. Aber in Tehran scheint immer die Sonne, Ich brauche einen Urlaub",
+    "groupCode": 1
+  },
+  {
+    "id": 10685,
+    "en": "You are traveling to Tehran, what are you doing there?",
+    "de": "Du reist nach Tehran, was machst du dort?",
+    "groupCode": 1
+  },
+  {
+    "id": 10686,
+    "en": "Are you really paying a hundred euros for this hat?",
+    "de": "Zahlst du wirklich hundert Euro für diesen Hut?",
+    "groupCode": 1
+  },
+  {
+    "id": 10687,
+    "en": "Many people come to (toward) the barbecue party",
+    "de": "Viele Leute kommen zur Grillparty",
+    "groupCode": 1
+  },
+  {
+    "id": 10688,
+    "en": "Colors (white, yellow, orange, red, green, blue, brown, black, dark brown, light brown)",
+    "de": "Farben(weiß, gelb, orange, rot, grün, blau, braun, schwarz, dunkelbraun, hellbraun)",
+    "groupCode": 1
+  },
+  {
+    "id": 10689,
+    "en": "Many students (male) would also like to (toward) come to the party",
+    "de": "Viele Studenten möchten auch zur Party kommen",
+    "groupCode": 1
+  },
+  {
+    "id": 10690,
+    "en": "I can't run, my foot is broken",
+    "de": "Ich kann nicht laufen, mein Fuß ist gebrochen",
+    "groupCode": 1
+  },
+  {
+    "id": 10691,
+    "en": "Ali is coming with his niece. They often grill together! They are comming in fifty minutes, then we can finally eat",
+    "de": "Ali kommt mit seiner Nichte. Sie grillen oft zusammen! sie kommen in funfzig Minuten, dann können wir endlich essen",
+    "groupCode": 1
+  },
+  {
+    "id": 10692,
+    "en": "Fahimeh visits her mother. She comes with her mother to (toward) the barbecue party",
+    "de": "Fahimeh besucht ihre Mutter. Sie kommt mit ihrer Mutter zur Grillparty",
+    "groupCode": 1
+  },
+  {
+    "id": 10693,
+    "en": "We need forty rolls for thirty-eight adults and two children",
+    "de": "Wir brauchen vierzig Brötchen für achtunddreißig Erwachsene und zwei Kinder",
+    "groupCode": 1
+  },
+  {
+    "id": 10694,
+    "en": "I invite ten guests. How many guests do you invite?",
+    "de": "Ich lade zehn Gäste ein. Wie viele Gäste lädst du ein?",
+    "groupCode": 1
+  },
+  {
+    "id": 10695,
+    "en": "I invite my colleagues to (toward) the party, that's eleven people",
+    "de": "Ich lade meine Kollegen zur Party ein, das sind elf Leute",
+    "groupCode": 1
+  },
+  {
+    "id": 10696,
+    "en": "Does an apple really cost thirteen euros?",
+    "de": "Kostet ein Apfel wirklich dreizehn Euro?",
+    "groupCode": 1
+  },
+  {
+    "id": 10697,
+    "en": "Do you prefer to grill in the park or at the lake?",
+    "de": "Grillst du lieber im Park oder am see?",
+    "groupCode": 1
+  },
+  {
+    "id": 10698,
+    "en": "What kind of (a) cheese do you (plural) shop?",
+    "de": "Was für einen Käse kauft ihr ein?",
+    "groupCode": 1
+  },
+  {
+    "id": 10699,
+    "en": "What do you have to shop for the barbecue party? Where do you always shop?",
+    "de": "Was musst du für die Grillparty einkaufen? Wo kaufst du immer ein?",
+    "groupCode": 1
+  },
+  {
+    "id": 10700,
+    "en": "That vegetables are really fresh at the market",
+    "de": "Das Gemüse ist wirklich frisch auf dem Markt",
+    "desc": "Das Gemüse → the vegetable(s)\n\nIt’s a mass noun, like \"milk\" or \"water\" in English — used to refer to vegetables in general.",
     "groupCode": 1
   },
   {
@@ -3990,8 +4595,8 @@
   },
   {
     "id": 11056,
-    "en": "Here someone are not allowed to take dog along",
-    "de": "Hier darf man Hunde nicht mitnehmen",
+    "en": "Single, Double, Triple, ..., Multiple",
+    "de": "Einzel, Doppel, Dreifach, ..., Mehrfach",
     "groupCode": 1
   },
   {
@@ -4166,7 +4771,7 @@
   },
   {
     "id": 11085,
-    "en": "I like drinking tea, prefer (more) coffee, but the most is hot chocolate",
+    "en": "I like drinking tea, prefer (more) coffee, but the most hot chocolate",
     "de": "Ich trinke gern Tee, lieber Kaffee, aber am liebsten heiße Schokolade",
     "desc": "English: Like, prefer, like most",
     "groupCode": 1
@@ -4227,7 +4832,7 @@
   },
   {
     "id": 11094,
-    "en": "I would like to connect my cell phone to the Wi-Fi",
+    "en": "I would like to connect my cell phone to (with) the Wi-Fi",
     "de": "Ich möchte mein Handy mit dem WLAN verbinden",
     "groupCode": 1
   },
@@ -4257,8 +4862,8 @@
   },
   {
     "id": 11099,
-    "en": "How was the atmosphere?",
-    "de": "Wie war die Stimmung?",
+    "en": "I had homeworks on the weekend",
+    "de": "Ich hatte am Wochenende Hausaufgaben",
     "groupCode": 1
   },
   {
@@ -4283,6 +4888,18 @@
     "id": 11103,
     "en": "I cancel the trip",
     "de": "Ich storniere die Reise",
+    "groupCode": 1
+  },
+  {
+    "id": 11104,
+    "en": "The film was funny",
+    "de": "Der Film war witzig",
+    "groupCode": 1
+  },
+  {
+    "id": 11105,
+    "en": "like to, prefer, like the most",
+    "de": "gern, lieber, am liebsten",
     "groupCode": 1
   }
 ]
