@@ -7139,7 +7139,7 @@
   {
     "id": 4170,
     "fa": "من اسم می دانم، من نمی تونم (یک چهره بدم بهش) چهره اش بیاد بیاورم در این لحظه",
-    "en": "I know the name, I can't put a face to at in the moment",
+    "en": "I know the name, I can't put a face to it at the moment",
     "groupCode": 0
   },
   {
@@ -7242,7 +7242,7 @@
   {
     "id": 4187,
     "fa": "این آهنگ مناسب تر می بود برای یک صدای بم",
-    "en": "The song would have been more apt for a bass voice",
+    "en": "The song would have been more apt for a bass /ˈbæs/ voice",
     "groupCode": 0
   },
   {
@@ -7259,14 +7259,14 @@
   },
   {
     "id": 4190,
-    "fa": "یک نفر باید پا پیش بگذارد و این پروژه را رهبری کند",
+    "fa": "یک نفر نیاز خواهد بود پا پیش بگذارد و رهبری کند این پروژه را",
     "en": "Someone will need to step up and lead this project",
     "desc": "Someone will need to step up.\tA person must act. They are the one taking action.\t✅ Yes\nSomeone will be needed to step up.\tA person will be required by others to act.\t❌ No",
     "groupCode": 0
   },
   {
     "id": 4191,
-    "fa": "من هزینه می کنم از جیبم هر هفته، که ضرر قابل توجه حساب پس اندازمه",
+    "fa": "من هزینه می کنم از جیب هر هفته، تا ضرر قابل توجهی از حساب پس اندازهایم",
     "en": "I pay out of pocket each week, to the considerable detriment of my savings account",
     "desc": "The main verb is \"pay.\"\nThe rest (\"to the considerable detriment...\") is a prepositional phrase, giving extra information about the consequences of your action — but it has no verb inside it.",
     "groupCode": 0
@@ -7291,7 +7291,7 @@
   },
   {
     "id": 4195,
-    "fa": "او به سختی جور کرد پول کافی برای پرداخت کردن اجاره",
+    "fa": "او (مرد) به سختی جور کرد پول کافی برای پرداخت کردن اجاره",
     "en": "He was barely scraping enough money to pay the rent",
     "groupCode": 0
   },
@@ -7304,8 +7304,26 @@
   {
     "id": 4197,
     "fa": "توضیحات گرامری او (مرد) به طرز وحشتناکی پیچیده هستند",
-    "en": "His grammar explanations are terribly convoluted",
+    "en": "His grammar explanations are terribly convoluted /ˈkɑːnvəˌluːtəd/",
     "desc": "Complex\tNeutral\tMany parts; not simple\t\"The system is complex.\"\nConvoluted\tNegative\tOverly complicated, unclear\t\"The instructions were convoluted.\"\nSophisticated\tPositive\tElegant, refined, or advanced complexity\t\"A sophisticated algorithm.\"",
+    "groupCode": 0
+  },
+  {
+    "id": 4198,
+    "fa": "شما می دونی چیست شغل دوم من؟ من نوشیدنی های الکلی می فروشم",
+    "en": "Do you know what my side hustle is? I sell alcoholic beverages",
+    "groupCode": 0
+  },
+  {
+    "id": 4199,
+    "fa": "آیا شما امیدوار هستید یا ناامید درباره آینده؟",
+    "en": "Are you hopeful or hopeless about the future?",
+    "groupCode": 0
+  },
+  {
+    "id": 4200,
+    "fa": "اگرچه آخرین مهلت (ضرب الاجل) در حال حاضر منقضی شده است، عالی خواهد بود (فرضی) اگر کسانی که هنوز این دوره را برنداشته اند بتوانند (فرضی) هر چه زودتر (بگیرن) جبران کند",
+    "en": "Although the deadline has already lapsed, it would be great if those who haven't yet taken this course could catch up as soon as possible",
     "groupCode": 0
   }
 ]
