@@ -3304,8 +3304,8 @@
   },
   {
     "id": 10542,
-    "en": "There is an excursion to Bonn. I'm having (make) a party tomorrow, can you come?",
-    "de": "Es gibt einen Ausflug nach Bonn. Ich mache morgen eine Party, kannst du kommen?",
+    "en": "There is an excursion to Bonn",
+    "de": "Es gibt einen Ausflug nach Bonn",
     "groupCode": 1
   },
   {
@@ -3533,8 +3533,8 @@
   },
   {
     "id": 10580,
-    "en": "You are a sweetheart. Thank you for your help. The apartment is really tidy now. Do you want to go into the restaurant?",
-    "de": "Du bist ein Schatz. Vielen Dank für deine Hilfe. Die Wohnung ist jetzt wirklich ordentlich. Willst du ins Restaurant gehen?",
+    "en": "You are a sweetheart. Thank you for your help. The apartment is really tidy now",
+    "de": "Du bist ein Schatz. Vielen Dank für deine Hilfe. Die Wohnung ist jetzt wirklich ordentlich",
     "groupCode": 1
   },
   {
@@ -4252,8 +4252,8 @@
   },
   {
     "id": 10699,
-    "en": "What do you have to shop for the barbecue party? Where do you always shop?",
-    "de": "Was musst du für die Grillparty einkaufen? Wo kaufst du immer ein?",
+    "en": "What do you have to shop for the barbecue party?",
+    "de": "Was musst du für die Grillparty einkaufen?",
     "groupCode": 1
   },
   {
@@ -4382,8 +4382,8 @@
   },
   {
     "id": 10720,
-    "en": "",
-    "de": "",
+    "en": "Ali speaks four languages",
+    "de": "Ali spricht vier Sprachen",
     "groupCode": 1
   },
   {
@@ -5521,6 +5521,24 @@
     "id": 11107,
     "en": "On (horizontal), On (vertical), Over, Under, In, In front of, Behind, Next to, Between",
     "de": "Auf, An, Über, Unter, In, Vor, Hinter, Neben, Zwischen",
+    "groupCode": 1
+  },
+  {
+    "id": 11108,
+    "en": "I'm having (make) a party tomorrow, can you come?",
+    "de": "Ich mache morgen eine Party, kannst du kommen?",
+    "groupCode": 1
+  },
+  {
+    "id": 11109,
+    "en": "Do you want to go into the restaurant?",
+    "de": "Willst du ins Restaurant gehen?",
+    "groupCode": 1
+  },
+  {
+    "id": 11110,
+    "en": "Where do you always shop?",
+    "de": "Wo kaufst du immer ein?",
     "groupCode": 1
   }
 ]

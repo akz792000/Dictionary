@@ -6677,7 +6677,7 @@
   },
   {
     "id": 4094,
-    "fa": "مردی که قرار بود از این کشور محافظت کند به خطرش انداخت بخاطر بی احتیاطی و جوگیری (بی احتیاطی و تصمیم گیری لحظه ای در اثر جو زدگی)",
+    "fa": "مردی که قرار بود از این کشور محافظت کند به خطرش انداخت بخاطر بی احتیاطی و جوگیری اش (بی احتیاطی و تصمیم گیری لحظه ای در اثر جو زدگی)",
     "en": "The man who was supposed to protect this country put it in danger because of his recklessness and impulsiveness",
     "groupCode": 0
   },
@@ -7084,7 +7084,7 @@
   },
   {
     "id": 4161,
-    "fa": "این نقطه عطف بزرگی (عمده) است نه تنها برای من شخصاً، بلکه برای همه کسی که هست قسمتی از این سفر",
+    "fa": "این نقطه عطف بزرگی (عمده) است نه تنها برای من شخصاً، بلکه برای هر کسی که هست قسمتی از این سفر",
     "en": "This is a major milestone not just for me personally, but for everyone who has been part of this journey",
     "groupCode": 0
   },
@@ -7205,7 +7205,7 @@
   },
   {
     "id": 4181,
-    "fa": "\"Sketchy\" معنا می دهد مشکوک یا مشکوک (سایه دار)، در حالی که \"flaky\" معنا می دهد غیرقابل اعتماد یا متناقض (ناهماهنگ)",
+    "fa": "\"Sketchy\" معنا می دهد مشکوک یا مشکوک (سایه دار)، در حالی که \"flaky\" معنا می دهد غیرقابل اعتماد یا متناقض (ناسازگار و ناپایدار)",
     "en": "\"Sketchy\" means suspicious or shady, while \"flaky\" means unreliable or inconsistent",
     "groupCode": 0
   },
@@ -7217,7 +7217,7 @@
   },
   {
     "id": 4183,
-    "fa": "\"Mögen\" بیشتر اوقات استفاده می شود برای مردم، غذا یا فعالیت ها، نه برای پرسیدن نظرات در مورد ظاهر",
+    "fa": "\"Mögen\" بیشتر اوقات استفاده می شود به مردم، غذا یا فعالیت ها، نه برای پرسیدن نظرات در مورد ظاهر",
     "en": "\"Mögen\" is more often used with people, food, or activities, not for asking opinions on appearance",
     "groupCode": 0
   },
@@ -7291,7 +7291,7 @@
   },
   {
     "id": 4195,
-    "fa": "او (مرد) به سختی جور کرد پول کافی برای پرداخت کردن اجاره",
+    "fa": "او (مرد) به سختی جور کرد (چنگ می زند) پول کافی برای پرداخت کردن اجاره",
     "en": "He was barely scraping enough money to pay the rent",
     "groupCode": 0
   },
@@ -7324,6 +7324,12 @@
     "id": 4200,
     "fa": "اگرچه آخرین مهلت (ضرب الاجل) در حال حاضر منقضی شده است، عالی خواهد بود (فرضی) اگر کسانی که هنوز این دوره را برنداشته اند بتوانند (فرضی) هر چه زودتر (بگیرن) جبران کند",
     "en": "Although the deadline has already lapsed, it would be great if those who haven't yet taken this course could catch up as soon as possible",
+    "groupCode": 0
+  },
+  {
+    "id": 4201,
+    "fa": "او (مرد) پرداخت کرد به من با یک چک بی محل که برگشت خورد روز بعد",
+    "en": "He paid me with a rubber check that bounced the next day",
     "groupCode": 0
   }
 ]
