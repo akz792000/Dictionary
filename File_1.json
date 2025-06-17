@@ -6479,7 +6479,7 @@
   },
   {
     "id": 4062,
-    "fa": "یک عملیات هم اثر است اگر انجامش بدی چندین بار دارد اثر مشابه از انجام دادنش یک بار",
+    "fa": "یک عملیات هم اثر است اگر اجرا کردنش چندین بار دارد اثر مشابه از اجرا کردنش یک بار",
     "en": "An operation is idempotent if performing it multiple times has the same effect as performing it once",
     "groupCode": 0
   },
@@ -6651,7 +6651,7 @@
   },
   {
     "id": 4090,
-    "fa": "چقدر گمان می کنی اون لباس شیک (فانتزی) براش (زن) هزینه برداشته؟",
+    "fa": "چقدر گمان می کنی اون لباس شیک (فانتزی) براش (زن) آب خورد (هزینه شد)؟",
     "en": "How much do you suppose that fancy dress set her back?",
     "groupCode": 0
   },
@@ -7266,7 +7266,7 @@
   },
   {
     "id": 4191,
-    "fa": "من هزینه می کنم از جیب هر هفته، تا ضرر قابل توجهی از حساب پس اندازهایم",
+    "fa": "من پرداخت می کنم از جیب هر هفته، تا ضرر قابل توجهی از حساب پس اندازهایم",
     "en": "I pay out of pocket each week, to the considerable detriment of my savings account",
     "desc": "The main verb is \"pay.\"\nThe rest (\"to the considerable detriment...\") is a prepositional phrase, giving extra information about the consequences of your action — but it has no verb inside it.",
     "groupCode": 0
@@ -7330,6 +7330,12 @@
     "id": 4201,
     "fa": "او (مرد) پرداخت کرد به من با یک چک بی محل که برگشت خورد روز بعد",
     "en": "He paid me with a rubber check that bounced the next day",
+    "groupCode": 0
+  },
+  {
+    "id": 4202,
+    "fa": "اون لپ تاپ جدید ۱۲۰۰ دلار برام آب خورد (هزینه شد)",
+    "en": "That new laptop set me back $1,200",
     "groupCode": 0
   }
 ]
