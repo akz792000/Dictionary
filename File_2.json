@@ -6622,12 +6622,6 @@
     "groupCode": 1
   },
   {
-    "id": 11088,
-    "en": "Look at the armchair. It is so cheap",
-    "de": "Schau (doch) mal, der Sessel. Er ist so günstig",
-    "groupCode": 1
-  },
-  {
     "id": 11089,
     "en": "Look at the couch and the shelf. They are so cheap",
     "de": "Schau (doch) mal, die Couch und das Regal. Sie sind so billig",
@@ -6866,6 +6860,12 @@
     "id": 11128,
     "en": "What is the difference between these and those?",
     "de": "Was ist der Unterschied zwischen diesem und jenem?",
+    "groupCode": 1
+  },
+  {
+    "id": 11129,
+    "en": "Look at the armchair. It is so cheap",
+    "de": "Schau (doch) mal, der Sessel. Er ist so günstig",
     "groupCode": 1
   }
 ]
