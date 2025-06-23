@@ -67,73 +67,7 @@ was ist der Unterschied zwischen diesem und jenem
 
 
 
-  {
-    "id": 10141,
-    "en": "Ukrainian \n Russian \n English \n German \n Spanish \n",
-    "de": "Ukrainisch \n Russisch \n Englisch \n Deutsch \n Spanisch \n",
-    "groupCode": 1
-  },
-  {
-    "id": 10143,
-    "en": "Right or wrong",
-    "de": "Richtig oder Falsch",
-    "groupCode": 1
-  },
-  {
-    "id": 10146,
-    "en": "How old is Ali? Ali is 42 years old",
-    "de": "Wie alt ist Ali? Ali ist 42 Jahre alt",
-    "groupCode": 1
-  },
-  {
-    "id": 10153,
-    "en": "I buy the sofa",
-    "de": "Ich kaufe das Sofa",
-    "groupCode": 1
-  },
-  {
-    "id": 10154,
-    "en": "This is a small dog",
-    "de": "Das ist ein kleiner Hund",
-    "desc": "In German, the word \"klein\" (small) is an adjective that modifies the noun \"Hund\" (dog). Adjectives in German change their form based on the gender, number, and case of the noun they are describing. In this case, \"Hund\" is a masculine noun, so the correct form of the adjective is \"kleiner\" to match the gender and case",
-    "groupCode": 1
-  },
-  {
-    "id": 10155,
-    "en": "Is Germany big or small?",
-    "de": "Ist Deutschland groß oder klein?",
-    "groupCode": 1
-  },
-  {
-    "id": 10156,
-    "en": "Would you like to go to a cafe? No, I would like to sleep now",
-    "de": "Möchtest du in ein Café gehen? Nein, Ich möchte jetzt schlafen",
-    "groupCode": 1
-  },
-  {
-    "id": 10161,
-    "en": "Very kind. Thank you very much",
-    "de": "Sehr nett. Vielen Dank",
-    "groupCode": 1
-  },
-  {
-    "id": 10163,
-    "en": "Bill, please",
-    "de": "\n 1.Rechnung, bitte \n 2.Zahlen, bitte",
-    "groupCode": 1
-  },
-  {
-    "id": 10167,
-    "en": "Here is a sandwich with egg and cheese",
-    "de": "Hier ist ein Sandwich mit Ei und Käse",
-    "groupCode": 1
-  },
-  {
-    "id": 10168,
-    "en": "Who are you? I am Ali",
-    "de": "Wer bist du? Ich bin Ali",
-    "groupCode": 1
-  },
+
   {
     "id": 10169,
     "en": "Here is the menu",
@@ -2316,7 +2250,7 @@ was ist der Unterschied zwischen diesem und jenem
   },
   {
     "id": 10640,
-    "en": "We need a taxi to the hotel",
+    "en": "We need a taxi (toward) (emphasizes) to the hotel",
     "de": "Wir brauchen ein Taxi bis zum Hotel",
     "groupCode": 1
   },

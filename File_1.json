@@ -861,7 +861,7 @@
   },
   {
     "id": 3141,
-    "fa": "کسی اینجا دکتره؟",
+    "fa": "کسی اینجا یک دکتره؟",
     "en": "Is anyone here a doctor?",
     "groupCode": 0
   },
@@ -1281,7 +1281,7 @@
   },
   {
     "id": 3210,
-    "fa": "اینجا کمبود مسکن مقرون به صرفه وجود دارد و من نمی خواهم وام مسکن بزرگی بر دارم",
+    "fa": "وجود دارد یک کمبود مسکن مقرون به صرفه اینجا و من نمی خواهم بر دارم یک وام مسکن بزرگ",
     "en": "There is a shortage of affordable housing here and I don't want to take a big mortgage",
     "groupCode": 0
   },
@@ -6449,7 +6449,7 @@
   },
   {
     "id": 4057,
-    "fa": "آنها پیشنهاد کردند ترک کردن زودتر را",
+    "fa": "آنها پیشنهاد کردند ترک کردن زود",
     "en": "They suggested leaving early",
     "groupCode": 0
   },
@@ -7213,6 +7213,7 @@
     "id": 4182,
     "fa": "\"Gefallen\" استفاده می شود برای ابراز کردن دوست داشتن ظاهر یا چگونه چیزی جذاب است برای شما",
     "en": "\"Gefallen\" is used for expressing liking the appearance or how something appeals to you",
+    "desc": "\"Is used for expressing\" emphasizes the process or function (e.g., \"This tool is used for expressing creativity\").\n\"Is used to express\" emphasizes the purpose or goal (e.g., \"This tool is used to express creativity\").",
     "groupCode": 0
   },
   {
@@ -7336,6 +7337,72 @@
     "id": 4202,
     "fa": "اون لپ تاپ جدید ۱۲۰۰ دلار برام آب خورد (هزینه شد)",
     "en": "That new laptop set me back $1,200",
+    "groupCode": 0
+  },
+  {
+    "id": 4203,
+    "fa": "او (زن) مدیر موقت است تا یک جایگزینی استخدام شه",
+    "en": "She is the interim manager until a replacement is hired",
+    "groupCode": 0
+  },
+  {
+    "id": 4204,
+    "fa": "ما نیاز داریم تسریع کنیم فرآیند را برای رسیدن به آخرین مهلت (ضرب الاجل)",
+    "en": "We need to expedite /ˈekspəˌdīt/ the process to meet the deadline",
+    "groupCode": 0
+  },
+  {
+    "id": 4205,
+    "fa": "او (مرد) تبعید شد از وطن خودش برای صحبت کردن علیه دولت",
+    "en": "He was exiled from his homeland for speaking against the government",
+    "groupCode": 0
+  },
+  {
+    "id": 4206,
+    "fa": "او (زن) احتمالاً آخرین نخواهد بود",
+    "en": "She probably won't be the last",
+    "groupCode": 0
+  },
+  {
+    "id": 4207,
+    "fa": "آسان تر (فرضی) خواهد بود ساکت ماندن",
+    "en": "It would be easier to stay silent",
+    "groupCode": 0
+  },
+  {
+    "id": 4208,
+    "fa": "چیزی که بیشتر از همه به من ضربه زد بود چیزی که او (زن) انجام نداد",
+    "en": "What struck me most was what she didn't do",
+    "groupCode": 0
+  },
+  {
+    "id": 4209,
+    "fa": "کنجکاوی است خود ماندگار",
+    "en": "Curiosity is self-perpetuating",
+    "groupCode": 0
+  },
+  {
+    "id": 4210,
+    "fa": "روباه حیله گر پنهان شد",
+    "en": "The sneaky fox hid",
+    "groupCode": 0
+  },
+  {
+    "id": 4211,
+    "fa": "پرنده بی مزاحم روی شاخه نشست",
+    "en": "The bird sat undisturbed on the branch",
+    "groupCode": 0
+  },
+  {
+    "id": 4212,
+    "fa": "او (مرد) لبخندی زد با رضایت از خود",
+    "en": "He smiled with complacency",
+    "groupCode": 0
+  },
+  {
+    "id": 4213,
+    "fa": "من استفاده کردم از یک پیچ گوشتی برای جدا کردن پنل چوبی",
+    "en": "I used a screwdriver to pry away the wooden panel",
     "groupCode": 0
   }
 ]
