@@ -2465,7 +2465,7 @@
   },
   {
     "id": 3403,
-    "fa": "این یک عفونت پوستی از وان های داغ شلوغ و آلوده است",
+    "fa": "این یک عفونت پوستی از وان های داغ آلوده و شلوغ است",
     "en": "It's a skin infection from crowded and contaminated hot tubs",
     "groupCode": 0
   },
@@ -6184,7 +6184,7 @@
   {
     "id": 4013,
     "fa": "او (مرد) پول زیادی در می آورد",
-    "en": "\n 1.He pulls in a lot of money \n 2.He earns a lot of money",
+    "en": "\n 1.He pulls in a lot of money \n 2.He earns a lot of money \n 3.He makes a lot of money",
     "groupCode": 0
   },
   {
@@ -6515,7 +6515,7 @@
   },
   {
     "id": 4068,
-    "fa": "من در آشپزی خوب هستم",
+    "fa": "من در آشپزی کردن خوب هستم",
     "en": "I'm good at cooking",
     "groupCode": 0
   },
@@ -7012,7 +7012,7 @@
   },
   {
     "id": 4149,
-    "fa": "یکی از آبجوها واژگون میشود و از سینی می افتد و باعث می شود بقیه آبجوها نیز بیفتند",
+    "fa": "یکی از آبجوها واژگون میشود و از سینی می افتد و باعث می شود تمام آبجوهای دیگر نیز بیفتند",
     "en": "One of the beers tips over and falls off the tray, causing all of the other beers to fall off as well",
     "groupCode": 0
   },
@@ -7403,6 +7403,48 @@
     "id": 4213,
     "fa": "من استفاده کردم از یک پیچ گوشتی برای جدا کردن پنل چوبی",
     "en": "I used a screwdriver to pry away the wooden panel",
+    "groupCode": 0
+  },
+  {
+    "id": 4214,
+    "fa": "",
+    "en": "Much to my surprise, he apologized for his mistake",
+    "groupCode": 0
+  },
+  {
+    "id": 4215,
+    "fa": "طوفان خرابکاری آورد",
+    "en": "The storm brought obliteration",
+    "groupCode": 0
+  },
+  {
+    "id": 4216,
+    "fa": "او (مرد) یک لحن تحقیرآمیزی داشت",
+    "en": "\n 1.He was patronizing \n 2.He had a patronizing tone",
+    "groupCode": 0
+  },
+  {
+    "id": 4217,
+    "fa": "نه این, نه اون",
+    "en": "Neither this, nor that",
+    "groupCode": 0
+  },
+  {
+    "id": 4218,
+    "fa": "یا این, یا اون",
+    "en": "Either this, or that",
+    "groupCode": 0
+  },
+  {
+    "id": 4219,
+    "fa": "هم این, و اون",
+    "en": "Both this, and that",
+    "groupCode": 0
+  },
+  {
+    "id": 4220,
+    "fa": "نه فقط این, بلکه همچنین اون",
+    "en": "Not only this, but also that",
     "groupCode": 0
   }
 ]

@@ -68,435 +68,7 @@ was ist der Unterschied zwischen diesem und jenem
 
 
 
-  {
-    "id": 10169,
-    "en": "Here is the menu",
-    "de": "Hier ist die Speisekarte",
-    "groupCode": 1
-  },
-  {
-    "id": 10173,
-    "en": "U-seven and u-eight come on platform ten",
-    "de": "U-Sieben und U-acht kommen auf Gleis zehn",
-    "groupCode": 1
-  },
-  {
-    "id": 10174,
-    "en": "Would you (formal) like to pay in cash?",
-    "de": "Möchten Sie bar zahlen?",
-    "groupCode": 1
-  },
-  {
-    "id": 10175,
-    "en": "My girlfriend is from Germany",
-    "de": "Meine Freundin kommt aus Deutschland",
-    "groupCode": 1
-  },
-  {
-    "id": 10176,
-    "en": "Attention, the train to Bonn comes at seven o'clock",
-    "de": "Achtung, Der Zug nach Bonn kommt um sieben Uhr",
-    "groupCode": 1
-  },
-  {
-    "id": 10177,
-    "en": "Is the ICE coming at four o'clock? And is the ICE on platform ten?",
-    "de": "Kommt der ICE um vier Uhr? Und ist der ICE auf Gleis zehen?",
-    "groupCode": 1
-  },
-  {
-    "id": 10178,
-    "en": "When does bus number fourteen come?",
-    "de": "Wann kommt Bus Nummer vierzehn?",
-    "groupCode": 1
-  },
-  {
-    "id": 10179,
-    "en": "I'm having a party and my friends are coming",
-    "de": "Ich mache eine Party und meine Freunde kommen",
-    "groupCode": 1
-  },
-  {
-    "id": 10185,
-    "en": "Now I have a big problem",
-    "de": "Jetzt habe ich ein großes Problem",
-    "groupCode": 1
-  },
-  {
-    "id": 10186,
-    "en": "Your passport is not in taxi, it is in your hand",
-    "de": "Dein Pass ist nicht im Taxi, Das ist in deiner Hand",
-    "desc": "\"Im\" is a contraction of \"in dem,\"",
-    "groupCode": 1
-  },
-  {
-    "id": 10187,
-    "en": "It's not in my jacket",
-    "de": "Es ist nicht in meiner Jacke",
-    "groupCode": 1
-  },
-  {
-    "id": 10188,
-    "en": "My hobbies are watching TV and listening to music",
-    "de": "Meine Hobbys sind fernsehen und Musik hören",
-    "groupCode": 1
-  },
-  {
-    "id": 10190,
-    "en": "I have a math test today. I have to travel far away",
-    "de": "Ich habe einen Mathetest heute. Ich muss weit weg reisen",
-    "groupCode": 1
-  },
-  {
-    "id": 10191,
-    "en": "I am married. I am married. I'm not single",
-    "de": "Ich bin verheiratet. Ich bin nicht ledig",
-    "groupCode": 1
-  },
-  {
-    "id": 10192,
-    "en": "He works as a project manager",
-    "de": "Er arbeitet als Projektmanager",
-    "groupCode": 1
-  },
-  {
-    "id": 10193,
-    "en": "He is a teacher and teaches music",
-    "de": "Er ist Lehrer und unterricht Musik",
-    "groupCode": 1
-  },
-  {
-    "id": 10198,
-    "en": "Where is the mouse? the elephant? the bear? the dog? the owl? the cat?",
-    "de": "Wo ist die Maus? der Elefant? der Bär? der Hund? die Eule? die Katze?",
-    "groupCode": 1
-  },
-  {
-    "id": 10199,
-    "en": "Cheers",
-    "de": "Prost",
-    "groupCode": 1
-  },
-  {
-    "id": 10200,
-    "en": "Is the coffee delicious?",
-    "de": "Ist der Kaffee lecker?",
-    "groupCode": 1
-  },
-  {
-    "id": 10201,
-    "en": "The train is not on platform eight. The train comes at two o'clock",
-    "de": "Der Zug ist nicht auf Gleis acht. Der Zug kommt um zwei Uhr",
-    "groupCode": 1
-  },
-  {
-    "id": 10202,
-    "en": "The food here is very good",
-    "de": "Das essen hier ist sehr gut",
-    "groupCode": 1
-  },
-  {
-    "id": 10204,
-    "en": "Ali is in the supermarket",
-    "de": "Ali ist im Supermarkt",
-    "desc": "\"Er ist im\": This is a contraction of \"Er ist in dem,\" which means \"He is in the.\" You would use this form when you want to specify that someone is in a specific place, such as a building or a room. For example, \"Er ist im Haus\" means \"He is in the house.\"\n\n\"Er ist in\": This is a more general use of \"in\" without the definite article \"dem.\" You would use this form when you want to say that someone is in a location without specifying \"the\" place. For example, \"Er ist in der Stadt\" means \"He is in the city.\"",
-    "groupCode": 1
-  },
-  {
-    "id": 10205,
-    "en": "He arrives twenty minuts too late on platform two",
-    "de": "Er kommt zwanzig Minuten zu spät auf Gleis zwei",
-    "groupCode": 1
-  },
-  {
-    "id": 10206,
-    "en": "Sorry, are you a doctor (formal) (male)?",
-    "de": "Entschuldigung, sind Sie Arzt?",
-    "groupCode": 1
-  },
-  {
-    "id": 10210,
-    "en": "He's over there! where the milk is",
-    "de": "Er ist da drüben! wo die Milch ist",
-    "groupCode": 1
-  },
-  {
-    "id": 10212,
-    "en": "Ali sees a woman. He runs to her",
-    "de": "Ali sieht eine Frau. Er läuft zu ihr",
-    "groupCode": 1
-  },
-  {
-    "id": 10213,
-    "en": "Which numbers are hidden?",
-    "de": "Welche Zahlen sind verdeckt?",
-    "groupCode": 1
-  },
-  {
-    "id": 10214,
-    "en": "She is a college student",
-    "de": "Sie ist Studentin",
-    "groupCode": 1
-  },
-  {
-    "id": 10220,
-    "en": "My work is interesting but stressful",
-    "de": "Meine Arbeit ist interessant aber stressig",
-    "groupCode": 1
-  },
-  {
-    "id": 10221,
-    "en": "I wear a blue shirt",
-    "de": "Ich trage ein blaues Hemd",
-    "groupCode": 1
-  },
-  {
-    "id": 10222,
-    "en": "Are you a teacher?",
-    "de": "Bist du Lehrer?",
-    "groupCode": 1
-  },
-  {
-    "id": 10224,
-    "en": "Is the doctor your brother? No, he's my husband",
-    "de": "Ist der Arzt dein Bruder? Nein, er ist mein Mann",
-    "groupCode": 1
-  },
-  {
-    "id": 10226,
-    "en": "Where are your mother and your partner?",
-    "de": "Wo sind deine Mutter und deine Partnerin?",
-    "groupCode": 1
-  },
-  {
-    "id": 10228,
-    "en": "Is your husband a lawyer or a professor?",
-    "de": "Ist dein Mann Anwalt oder Professor?",
-    "groupCode": 1
-  },
-  {
-    "id": 10233,
-    "en": "Ali is in the department store. He sees Ilia",
-    "de": "Ali ist im Kaufhaus. Er sieht Ilia",
-    "desc": "\"Er ist im\": This is a contraction of \"Er ist in dem,\" which means \"He is in the.\" You would use this form when you want to specify that someone is in a specific place, such as a building or a room. For example, \"Er ist im Haus\" means \"He is in the house.\"\n\n\"Er ist in\": This is a more general use of \"in\" without the definite article \"dem.\" You would use this form when you want to say that someone is in a location without specifying \"the\" place. For example, \"Er ist in der Stadt\" means \"He is in the city.\"",
-    "groupCode": 1
-  },
-  {
-    "id": 10236,
-    "en": "Do you (formal) like the red jacket here?",
-    "de": "Mögen Sie die rote Jacke hier?",
-    "groupCode": 1
-  },
-  {
-    "id": 10237,
-    "en": "Do you (formal) like that black jacket over there?",
-    "de": "Mögen sie die schwarze Jacke da drüben?",
-    "groupCode": 1
-  },
-  {
-    "id": 10238,
-    "en": "I can come tomorrow",
-    "de": "Ich kann morgen kommen",
-    "groupCode": 1
-  },
-  {
-    "id": 10239,
-    "en": "The red jacket is perfect for you",
-    "de": "Die rote Jacke ist perfekt für Sie",
-    "groupCode": 1
-  },
-  {
-    "id": 10241,
-    "en": "You do your job very well",
-    "de": "Sie machen Ihre Arbeit sehr gut",
-    "groupCode": 1
-  },
-  {
-    "id": 10242,
-    "en": "Where is the cash desk please?",
-    "de": "Wo ist die Kasse, bitte?",
-    "groupCode": 1
-  },
-  {
-    "id": 10243,
-    "en": "I don't work here",
-    "de": "Ich arbeite nicht hier",
-    "groupCode": 1
-  },
-  {
-    "id": 10244,
-    "en": "Keep driving",
-    "de": "Fahr weiter",
-    "groupCode": 1
-  },
-  {
-    "id": 10245,
-    "en": "That's great",
-    "de": "Das ist großartig",
-    "groupCode": 1
-  },
-  {
-    "id": 10246,
-    "en": "Let's speak German",
-    "de": "Lass uns deutsch sprechen",
-    "groupCode": 1
-  },
-  {
-    "id": 10247,
-    "en": "He is the new school student",
-    "de": "Er ist der neuer Schüler",
-    "groupCode": 1
-  },
-  {
-    "id": 10248,
-    "en": "They drive to school by bus",
-    "de": "Sie fahren mit dem Bus in die Schule",
-    "groupCode": 1
-  },
-  {
-    "id": 10250,
-    "en": "He is smart. He speaks three languages",
-    "de": "Er ist klug. Er spricht drei Sprachen",
-    "groupCode": 1
-  },
-  {
-    "id": 10252,
-    "en": "She loves your shoes",
-    "de": "Sie liebt deine schuhe",
-    "groupCode": 1
-  },
-  {
-    "id": 10253,
-    "en": "I never cook here",
-    "de": "Ich koche hier nie",
-    "groupCode": 1
-  },
-  {
-    "id": 10254,
-    "en": "My roommate (female) loves my cat",
-    "de": "Meine Mitbewohnerin liebt meine Katze",
-    "groupCode": 1
-  },
-  {
-    "id": 10260,
-    "en": "My daughter always cooks",
-    "de": "Meine Tochter kocht immer",
-    "groupCode": 1
-  },
-  {
-    "id": 10262,
-    "en": "I am warm",
-    "de": "Mir ist warm",
-    "groupCode": 1
-  },
-  {
-    "id": 10263,
-    "en": "I am full",
-    "de": "Ich bin satt",
-    "groupCode": 1
-  },
-  {
-    "id": 10264,
-    "en": "Ilia and Ali are at home",
-    "de": "Ilia und Ali sind zu Hause",
-    "groupCode": 1
-  },
-  {
-    "id": 10266,
-    "en": "Dad, a little question",
-    "de": "Papa, eine kleine Frage",
-    "groupCode": 1
-  },
-  {
-    "id": 10267,
-    "en": "We're having (make) a picnic at the weekend. Can you come?",
-    "de": "Wir machen am Wochenende ein picknick. Kannst du kommen?",
-    "groupCode": 1
-  },
-  {
-    "id": 10277,
-    "en": "Is he sick or healthy? He is healthy",
-    "de": "Ist er krank oder gesund? Er ist gesund",
-    "groupCode": 1
-  },
-  {
-    "id": 10280,
-    "en": "Does the dog often swim?",
-    "de": "Schwimmt der Hund oft?",
-    "groupCode": 1
-  },
-  {
-    "id": 10281,
-    "en": "He plays chess very well",
-    "de": "Er spielt sehr gut Schach",
-    "groupCode": 1
-  },
-  {
-    "id": 10286,
-    "en": "You wouldn't like to go later",
-    "de": "Du möchtest später nicht gehen",
-    "groupCode": 1
-  },
-  {
-    "id": 10287,
-    "en": "You (plural) wouldn't like to stay",
-    "de": "Ihr möchtet nicht bleiben",
-    "groupCode": 1
-  },
-  {
-    "id": 10289,
-    "en": "Would you (plural) like to come?",
-    "de": "Möchtet ihr kommen?",
-    "groupCode": 1
-  },
-  {
-    "id": 10291,
-    "en": "His girlfriend Anne drives the taxi",
-    "de": "Seine Freundin Anne fährt das Taxi",
-    "groupCode": 1
-  },
-  {
-    "id": 10292,
-    "en": "Do you drive a taxi?",
-    "de": "Du fährst Taxi?",
-    "groupCode": 1
-  },
-  {
-    "id": 10293,
-    "en": "This is my new job",
-    "de": "Das ist meine neue Arbeit",
-    "groupCode": 1
-  },
-  {
-    "id": 10295,
-    "en": "Where is the train station please? The train station is here straight ahead and then left",
-    "de": "Wo ist bitte der Bahnhof? Der Bahnhof ist hier geradeaus und dann links",
-    "groupCode": 1
-  },
-  {
-    "id": 10296,
-    "en": "We are there",
-    "de": "Wir sind da",
-    "groupCode": 1
-  },
-  {
-    "id": 10297,
-    "en": "This isn't the train station. This is the university",
-    "de": "Das hier ist nicht der Bahnhof. Das ist die Universität",
-    "groupCode": 1
-  },
-  {
-    "id": 10298,
-    "en": "You definitely (in any case) have to come to the party",
-    "de": "Du musst auf jeden Fall zur Party kommen",
-    "groupCode": 1
-  },
-  {
-    "id": 10299,
-    "en": "This here is library. The library is far away",
-    "de": "Das hier ist Bibliothek. Die Bibliothek ist weit weg",
-    "groupCode": 1
-  },
+
   {
     "id": 10300,
     "en": "He drives off again",
@@ -2391,5 +1963,139 @@ was ist der Unterschied zwischen diesem und jenem
     "en": "Are you (plural) celebrating in the restaurant? No, we're celebrating at home",
     "de": "Feiert ihr im Restaurant? Nein, wir feiern zu Hause",
     "groupCode": 1
-  }
-]
+  },
+
+
+
+
+
+  {
+  "id": ,
+  "en": "Sometimes we watch movies in German course",
+"de": "Manchmal sehen wir im Deutschkurs Filme an",
+"groupCode": 1
+},
+{
+"id": ,
+"en": "We want to learn German together. Are you joining in (Do you participate)?",
+"de": "Wir wollen zusammen Deutsch lernen. Machst du mit?",
+"groupCode": 1
+},
+{
+"id": ,
+"en": "Is there no class today? Oh, I did not receive the information",
+"de": "Heute ist kein Unterricht? Oh, ich habe die Information nicht bekommen",
+"groupCode": 1
+},
+{
+"id": ,
+"en": "In our German class, we took photos of food and made a photo dictionary.\nAt home, I looked at the dictionary repeatedly and learned the words.\nIt worked well!",
+"de": "Im Deutschkurs haben wir Essen fotografiert und ein Foto-Wörterbuch gemacht.\nZu Hause habe ich das Wörterbuch immer wieder angesehen und die Wörter gelernt.\nDas hat gut funktioniert!",
+"groupCode": 1
+},
+{
+"id": ,
+"en": "Last Tuesday, we played a chain game in class.\nAli started, and then everyone joined in. It was great",
+"de": "Letzten Dienstag haben wir im Kurs ein Kettenspiel gespielt.\nAli hat angefangen, dann haben alle mitgemacht. Das war toll",
+"groupCode": 1
+},
+{
+"id": ,
+"en": "Yesterday I called my friend Ali.\nWe were studying together in Zagreb.\nWe talked on the phone for three hours – and only spoke German!",
+"de": "Gestern habe ich meinen Freund Ali angerufen.\nWir haben zusammen in Zagreb studiert.\nDrei Stunden haben wir telefoniert – und nur Deutsch gesprochen!",
+"groupCode": 1
+},
+{
+"id": ,
+"en": "",
+"de": "Ich habe mit meinem Sohn gespielt, gelernt und meine Hausaufgaben gemacht",
+"groupCode": 1
+},
+{
+"id": ,
+"en": "",
+"de": "Ich bin im Museum. bist du dort? (positiopn) Ich gehe ins Museum. Gehst du dorthin?",
+"groupCode": 1
+},
+{
+"id": ,
+"en": "",
+"de": "Was hast du letztes Wochenende gemacht?",
+"groupCode": 1
+},
+{
+"id": ,
+"en": "",
+"de": "Ich habe Freunde getroffen",
+"groupCode": 1
+},
+{
+"id": ,
+"en": "",
+"de": "Seid ihr in einen Club gegangen?",
+"groupCode": 1
+},
+{
+"id": ,
+"en": "",
+"de": "Ja, und wir haben den ganzen Abend getanzt",
+"groupCode": 1
+},
+{
+"id": ,
+"en": "",
+"de": "Hat das Spaß gemacht?",
+"groupCode": 1
+},
+{
+"id": ,
+"en": "",
+"de": "Gestern bin ich um 7 Uhr aufgestanden und habe das Frühstück gemacht.",
+"groupCode": 1
+},
+{
+"id": ,
+"en": "",
+"de": "Dann sind die Kinder in den Kindergarten gegangen und ich bin mit dem Bus zum Büro gefahren",
+"groupCode": 1
+},
+{
+"id": ,
+"en": "",
+"de": "Dort habe ich bis 16 Uhr gearbeitet",
+"groupCode": 1
+},
+{
+"id": ,
+"en": "",
+"de": "Danach habe ich die Kinder abgeholt.",
+"groupCode": 1
+},
+{
+"id": ,
+"en": "",
+"de": "Zu Hause habe ich die Wohnung geputzt und Abendessen gekocht.",
+"groupCode": 1
+},
+{
+"id": ,
+"en": "",
+"de": "Am Abend hat Emir aus Rom angerufen und wir haben lange telefoniert",
+"groupCode": 1
+},
+{
+"id": ,
+"en": "",
+"de": "",
+"groupCode": 1
+}
+
+
+
+
+140
+
+gefallen
+das essen gefallt dem kind
+
+143-7

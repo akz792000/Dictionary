@@ -611,7 +611,7 @@
   },
   {
     "id": 10100,
-    "en": "Are you (plural) coming? The class starts soon (in a moment)",
+    "en": "Are you (plural) coming? The teaching starts soon (in a moment)",
     "de": "Kommt ihr? Der Unterricht fängt gleich an",
     "groupCode": 1
   },
@@ -1415,6 +1415,7 @@
     "id": 10231,
     "en": "Thank you for the information! I am interested in the position, but my German level is currently at A",
     "de": "Vielen Dank für die Information! Ich habe Interesse an der Stelle, aber mein Deutschniveau ist derzeit auf A",
+    "desc": "zurzeit = currently (informal, everyday use)\n\nderzeit = currently (formal, official use)",
     "groupCode": 1
   },
   {
@@ -4956,8 +4957,8 @@
   {
     "id": 10814,
     "en": "She always has in the bag pens of different colors. With the pens she writes on the board",
-    "de": "Sie hat in der Tasche immer Stifte in verschiedenen Farben. Mit den Stiften schreibt sie an die Tafel",
-    "desc": "Stifte: General term for all writing tools (pens, pencils).\nKuli: Informal for \"ballpoint pen.\"\nKugelschreiber: Formal term for \"ballpoint pen.\"",
+    "de": "Sie hat in der Tasche immer Stifte in verschiedenen Farben. Mit den Stiften schreibt sie an der Tafel",
+    "desc": "„Mit den Stiften“\n\n„mit“ is a dative preposition → it always requires the dative case.\n\n„Stift“ (pen) → plural: „Stifte“\n\nIn the dative plural, most nouns add -n, if they don't already end in -n.",
     "groupCode": 1
   },
   {
@@ -5266,9 +5267,8 @@
   },
   {
     "id": 10865,
-    "en": "I have a pen in my bag. I really wanted this cake. It was something entire special",
-    "de": "Ich habe einen Stift in meiner Tasche. Ich wollte diesen Kuchen wirklich. Er war etwas ganz Besondere",
-    "desc": "besonders = adverb (describes verbs/adjectives)\n\nbesondere = adjective (describes nouns)",
+    "en": "I have a pen in my bag",
+    "de": "Ich habe einen Stift in meiner Tasche",
     "groupCode": 1
   },
   {
@@ -5503,8 +5503,8 @@
   },
   {
     "id": 10904,
-    "en": "I can do the dishes. Correct. That here is my apartment. I often clean the apartment, I am messy",
-    "de": "Ich kann abwaschen. Richtig. Das hier ist meine Wohnung. Ich putze oft die Wohnung, ich bin unordentlich",
+    "en": "I can do the dishes",
+    "de": "Ich kann abwaschen",
     "groupCode": 1
   },
   {
@@ -5593,15 +5593,14 @@
   },
   {
     "id": 10919,
-    "en": "This is not a good idea. The student (male) is not married. Do you like the student?",
-    "de": "Das ist keine gute Idee. Der Student ist nicht verheiratet, Magst du den Studenten?",
-    "desc": "In German, nouns change based on their case (subject, object, etc.). When the noun is in the accusative case (i.e., it's the direct object of the sentence), the article and the noun itself may change.",
+    "en": "This is not a good idea",
+    "de": "Das ist keine gute Idee",
     "groupCode": 1
   },
   {
     "id": 10920,
-    "en": "Buy only cucumbers and rice. Does the student live downstairs?",
-    "de": "Kauft nur Gurken und Reis. Wohnt der Student unten?",
+    "en": "Buy only cucumbers and rice",
+    "de": "Kauft nur Gurken und Reis",
     "groupCode": 1
   },
   {
@@ -5660,9 +5659,8 @@
   },
   {
     "id": 10930,
-    "en": "Which sport do you want to do? I know the student student (male). He's my neighbor. The university is nearby, and there are many students in the neighborhood.",
-    "de": "Welchen Sport willst du machen? Ich kenne den Studenten. Er ist mein Nachbar. Die Universität ist in der Nahe und es gibt in dem Stadtviertel viele Studenten",
-    "desc": "In German, nouns change based on their case (subject, object, etc.). When the noun is in the accusative case (i.e., it's the direct object of the sentence), the article and the noun itself may change.",
+    "en": "Which sport do you want to do?",
+    "de": "Welchen Sport willst du machen?",
     "groupCode": 1
   },
   {
@@ -5770,7 +5768,7 @@
   },
   {
     "id": 10948,
-    "en": "I eat usually bread for breakfast",
+    "en": "I eat usually bread for the breakfast",
     "de": "Ich esse meistens Brot zum (toward) Frühstück",
     "groupCode": 1
   },
@@ -5836,8 +5834,8 @@
   },
   {
     "id": 10959,
-    "en": "I would definitely (in any case) like to come. Can we eat breakfast a little later? We're also going to the club tonight and want to sleep in tomorrow",
-    "de": "Ich möchte Auf jeden fall kommen. Können wir ein bisschen später frühstücken? Wir gehen heute Abend noch in den Club und wollen morgen aussclafen",
+    "en": "I would definitely (in any case) like to come. Can we eat breakfast a little later?",
+    "de": "Ich möchte Auf jeden fall kommen. Können wir ein bisschen später frühstücken?",
     "groupCode": 1
   },
   {
@@ -5854,8 +5852,8 @@
   },
   {
     "id": 10962,
-    "en": "He hopes his wife likes the party. My bear is not dangerous. He is very sweet (love)",
-    "de": "Er hofft seine Frau mag die Party. Mein Bär ist nicht gefährlich. Er ist sehr lieb",
+    "en": "He hopes his wife likes the party",
+    "de": "Er hofft seine Frau mag die Party",
     "groupCode": 1
   },
   {
@@ -5873,8 +5871,8 @@
   },
   {
     "id": 10965,
-    "en": "I'm bringing along chocolate to (toward) the party. I bring along a gift for you",
-    "de": "Ich bringe Schokolade zur Party mit. Ich bringe ein Geschenk für dich mit",
+    "en": "I'm bringing along chocolate to (toward) the party",
+    "de": "Ich bringe Schokolade zur Party mit",
     "groupCode": 1
   },
   {
@@ -5885,8 +5883,8 @@
   },
   {
     "id": 10967,
-    "en": "How many presents does Ali get? Who's coming later? With whom do you want to watch TV?",
-    "de": "Wie viele Geschenke bekommt Ali? Wer kommt später? Mit wem willst du fernsehen?",
+    "en": "How many presents does Ali get?",
+    "de": "Wie viele Geschenke bekommt Ali?",
     "groupCode": 1
   },
   {
@@ -5928,8 +5926,8 @@
   },
   {
     "id": 10974,
-    "en": "The house is dirty, we have to clean it. Who is that? Who are you going to the movies to see?",
-    "de": "Das Haus ist schmutzig, wir müssen es putzen. Wer ist das? Wem gehst du inst Kino?",
+    "en": "The house is dirty, we have to clean it",
+    "de": "Das Haus ist schmutzig, wir müssen es putzen",
     "groupCode": 1
   },
   {
@@ -5946,13 +5944,13 @@
   },
   {
     "id": 10977,
-    "en": "The gift is boring. I don't like it \n Who can continue?",
-    "de": "Das Geschenk ist langweilig. Ich mag es nicht \n Wer kann weiter machen?",
+    "en": "The gift is boring. I don't like it",
+    "de": "Das Geschenk ist langweilig. Ich mag es nicht",
     "groupCode": 1
   },
   {
     "id": 10978,
-    "en": "I have to speak to you (formal), do you (formal) have a moment?",
+    "en": "I have to speak with you (formal), do you (formal) have a moment?",
     "de": "Ich muss mit ihnen sprechen, haben Sie einen Moment?",
     "groupCode": 1
   },
@@ -5964,14 +5962,14 @@
   },
   {
     "id": 10980,
-    "en": "We have to give the forms to the boss (female). I was distracted and didn’t listen",
-    "de": "Wir müssen die Formulare der Chefin geben. Ich war abgelenkt und habe nicht zugehört",
+    "en": "We have to give the forms to the boss (female)",
+    "de": "Wir müssen die Formulare der Chefin geben",
     "groupCode": 1
   },
   {
     "id": 10981,
-    "en": "I don't understand this word, what does it mean? I was so absent-minded. I forgot my key",
-    "de": "Ich verstehe dieses Wort nicht, was bedeutet es? Ich war so geistesabwesend. Ich habe meinen Schlüssel vergessen",
+    "en": "I don't understand this word, what does it mean?",
+    "de": "Ich verstehe dieses Wort nicht, was bedeutet es?",
     "groupCode": 1
   },
   {
@@ -6152,7 +6150,7 @@
   },
   {
     "id": 11011,
-    "en": "The way to school is short",
+    "en": "The way to the school is short",
     "de": "Der Weg zur Schule ist kurz",
     "groupCode": 1
   },
@@ -6617,7 +6615,7 @@
   },
   {
     "id": 11088,
-    "en": "I don't really like cycling. I prefer to take the car.",
+    "en": "I don't really like cycling with the bike. I prefer to take the car",
     "de": "Ich fahre nicht so gern mit dem Rad. Ich nehme lieber das Auto",
     "groupCode": 1
   },
@@ -6866,6 +6864,565 @@
     "id": 11129,
     "en": "Look at the armchair. It is so cheap",
     "de": "Schau (doch) mal, der Sessel. Er ist so günstig",
+    "groupCode": 1
+  },
+  {
+    "id": 11130,
+    "en": "I really wanted this cake. It was something entire special",
+    "de": "Ich wollte diesen Kuchen wirklich. Er war etwas ganz Besondere",
+    "groupCode": 1
+  },
+  {
+    "id": 11131,
+    "en": "Specially, Special",
+    "de": "Besonders = adverb, Besondere = adjective",
+    "groupCode": 1
+  },
+  {
+    "id": 11132,
+    "en": "Who can continue?",
+    "de": "Wer kann weiter machen?",
+    "groupCode": 1
+  },
+  {
+    "id": 11133,
+    "en": "Who is that? Whom are you going to the cinema?",
+    "de": "Wer ist das? Wem gehst du ins Kino?",
+    "groupCode": 1
+  },
+  {
+    "id": 11134,
+    "en": "Who's coming later?",
+    "de": "Wer kommt später?",
+    "groupCode": 1
+  },
+  {
+    "id": 11135,
+    "en": "With whom do you want to watch TV?",
+    "de": "Mit wem willst du fernsehen?",
+    "groupCode": 1
+  },
+  {
+    "id": 11136,
+    "en": "I bring along a gift for you",
+    "de": "Ich bringe ein Geschenk für dich mit",
+    "groupCode": 1
+  },
+  {
+    "id": 11137,
+    "en": "That here is my apartment. I often clean the apartment, I am messy",
+    "de": "Das hier ist meine Wohnung. Ich putze oft die Wohnung, ich bin unordentlich",
+    "groupCode": 1
+  },
+  {
+    "id": 11138,
+    "en": "The student (male) is not married",
+    "de": "Der Student ist nicht verheiratet",
+    "groupCode": 1
+  },
+  {
+    "id": 11139,
+    "en": "Do you like the student?",
+    "de": "Magst du den Studenten?",
+    "desc": "In German, nouns change based on their case (subject, object, etc.). When the noun is in the accusative case (i.e., it's the direct object of the sentence), the article and the noun itself may change.",
+    "groupCode": 1
+  },
+  {
+    "id": 11140,
+    "en": "Does the student live down (downstairs)?",
+    "de": "Wohnt der Student unten?",
+    "groupCode": 1
+  },
+  {
+    "id": 11141,
+    "en": "I know the student student (male). He's my neighbor. The university is nearby and there are many students in the neighborhood",
+    "de": "Ich kenne den Studenten. Er ist mein Nachbar. Die Universität ist in der Nahe und es gibt in dem Stadtviertel viele Studenten",
+    "desc": "In German, nouns change based on their case (subject, object, etc.). When the noun is in the accusative case (i.e., it's the direct object of the sentence), the article and the noun itself may change.",
+    "groupCode": 1
+  },
+  {
+    "id": 11142,
+    "en": "The ball is behind the sofa. The ball is in the back",
+    "de": "Der Ball ist hinter dem Sofa. Der Ball ist hinten",
+    "desc": "hinter\tpreposition\n\nhinten\tadverb",
+    "groupCode": 1
+  },
+  {
+    "id": 11143,
+    "en": "We're also going to the club tonight and want to sleep in tomorrow",
+    "de": "Wir gehen heute Abend noch in den Club und wollen morgen aussclafen",
+    "groupCode": 1
+  },
+  {
+    "id": 11144,
+    "en": "My bear is not dangerous. He is very sweet (love)",
+    "de": "Mein Bär ist nicht gefährlich. Er ist sehr lieb",
+    "groupCode": 1
+  },
+  {
+    "id": 11145,
+    "en": "I was distracted and didn't listen",
+    "de": "Ich war abgelenkt und habe nicht zugehört",
+    "groupCode": 1
+  },
+  {
+    "id": 11146,
+    "en": "I was so absent-minded. I forgot my key",
+    "de": "Ich war so geistesabwesend. Ich habe meinen Schlüssel vergessen",
+    "groupCode": 1
+  },
+  {
+    "id": 11147,
+    "en": "I spend the evening at home. I spend a lot of money",
+    "de": "Ich verbringe den Abend zu Hause. Ich gebe viel Geld aus",
+    "groupCode": 1
+  },
+  {
+    "id": 11148,
+    "en": "the student (male), the students (male), the student (female), the students (female)",
+    "de": "der Student, die Studenten, die Studentin, die Studentinnen",
+    "groupCode": 1
+  },
+  {
+    "id": 11149,
+    "en": "The floor, The wall, The roof",
+    "de": "Der Boden , Die wand, Das dach",
+    "groupCode": 1
+  },
+  {
+    "id": 11150,
+    "en": "I spend the evening at home. I spend a lot of money",
+    "de": "Ich verbringe den Abend zu Hause. Ich gebe viel Geld aus",
+    "desc": "verbringen = spend time, ausgeben = spend money",
+    "groupCode": 1
+  },
+  {
+    "id": 11151,
+    "en": "Here is the menu",
+    "de": "Hier ist die Speisekarte",
+    "groupCode": 1
+  },
+  {
+    "id": 11152,
+    "en": "U-seven and u-eight come on platform ten",
+    "de": "U-Sieben und U-acht kommen auf Gleis zehn",
+    "groupCode": 1
+  },
+  {
+    "id": 11153,
+    "en": "Would you (formal) like to pay in cash?",
+    "de": "Möchten Sie bar zahlen?",
+    "groupCode": 1
+  },
+  {
+    "id": 11154,
+    "en": "My girlfriend is from Germany",
+    "de": "Meine Freundin kommt aus Deutschland",
+    "groupCode": 1
+  },
+  {
+    "id": 11155,
+    "en": "Attention, the train to Bonn comes at seven o'clock",
+    "de": "Achtung, Der Zug nach Bonn kommt um sieben Uhr",
+    "groupCode": 1
+  },
+  {
+    "id": 11156,
+    "en": "Is the ICE coming at four o'clock? And is the ICE on platform ten?",
+    "de": "Kommt der ICE um vier Uhr? Und ist der ICE auf Gleis zehen?",
+    "groupCode": 1
+  },
+  {
+    "id": 11157,
+    "en": "When does bus number fourteen come?",
+    "de": "Wann kommt Bus Nummer vierzehn?",
+    "groupCode": 1
+  },
+  {
+    "id": 11158,
+    "en": "I'm having a party and my friends are coming",
+    "de": "Ich mache eine Party und meine Freunde kommen",
+    "groupCode": 1
+  },
+  {
+    "id": 11159,
+    "en": "Now I have a big problem",
+    "de": "Jetzt habe ich ein großes Problem",
+    "groupCode": 1
+  },
+  {
+    "id": 11160,
+    "en": "Your passport is not in taxi, it is in your hand",
+    "de": "Dein Pass ist nicht im Taxi, Das ist in deiner Hand",
+    "desc": "\"Im\" is a contraction of \"in dem,\"",
+    "groupCode": 1
+  },
+  {
+    "id": 11161,
+    "en": "It's not in my jacket",
+    "de": "Es ist nicht in meiner Jacke",
+    "groupCode": 1
+  },
+  {
+    "id": 11162,
+    "en": "My hobbies are watching TV and listening to music",
+    "de": "Meine Hobbys sind fernsehen und Musik hören",
+    "groupCode": 1
+  },
+  {
+    "id": 11163,
+    "en": "I have a math test today. I have to travel far away",
+    "de": "Ich habe einen Mathetest heute. Ich muss weit weg reisen",
+    "groupCode": 1
+  },
+  {
+    "id": 11164,
+    "en": "I am married. I am married. I'm not single",
+    "de": "Ich bin verheiratet. Ich bin nicht ledig",
+    "groupCode": 1
+  },
+  {
+    "id": 11165,
+    "en": "He works as a project manager",
+    "de": "Er arbeitet als Projektmanager",
+    "groupCode": 1
+  },
+  {
+    "id": 11166,
+    "en": "He is a teacher and teaches music",
+    "de": "Er ist Lehrer und unterricht Musik",
+    "groupCode": 1
+  },
+  {
+    "id": 11167,
+    "en": "Where is the mouse? the elephant? the bear? the dog? the owl? the cat?",
+    "de": "Wo ist die Maus? der Elefant? der Bär? der Hund? die Eule? die Katze?",
+    "groupCode": 1
+  },
+  {
+    "id": 11168,
+    "en": "Cheers",
+    "de": "Prost",
+    "groupCode": 1
+  },
+  {
+    "id": 11169,
+    "en": "Is the coffee delicious?",
+    "de": "Ist der Kaffee lecker?",
+    "groupCode": 1
+  },
+  {
+    "id": 11170,
+    "en": "The train is not on platform eight. The train comes at two o'clock",
+    "de": "Der Zug ist nicht auf Gleis acht. Der Zug kommt um zwei Uhr",
+    "groupCode": 1
+  },
+  {
+    "id": 11171,
+    "en": "The food here is very good",
+    "de": "Das essen hier ist sehr gut",
+    "groupCode": 1
+  },
+  {
+    "id": 11172,
+    "en": "Ali is in the supermarket",
+    "de": "Ali ist im Supermarkt",
+    "desc": "\"Er ist im\": This is a contraction of \"Er ist in dem,\" which means \"He is in the.\" You would use this form when you want to specify that someone is in a specific place, such as a building or a room. For example, \"Er ist im Haus\" means \"He is in the house.\"\n\n\"Er ist in\": This is a more general use of \"in\" without the definite article \"dem.\" You would use this form when you want to say that someone is in a location without specifying \"the\" place. For example, \"Er ist in der Stadt\" means \"He is in the city.\"",
+    "groupCode": 1
+  },
+  {
+    "id": 11173,
+    "en": "He arrives twenty minuts too late on platform two",
+    "de": "Er kommt zwanzig Minuten zu spät auf Gleis zwei",
+    "groupCode": 1
+  },
+  {
+    "id": 11174,
+    "en": "Sorry, are you a doctor (formal) (male)?",
+    "de": "Entschuldigung, sind Sie Arzt?",
+    "groupCode": 1
+  },
+  {
+    "id": 11175,
+    "en": "He's over there! where the milk is",
+    "de": "Er ist da drüben! wo die Milch ist",
+    "groupCode": 1
+  },
+  {
+    "id": 11176,
+    "en": "Ali sees a woman. He runs to her",
+    "de": "Ali sieht eine Frau. Er läuft zu ihr",
+    "groupCode": 1
+  },
+  {
+    "id": 11177,
+    "en": "Which numbers are hidden?",
+    "de": "Welche Zahlen sind verdeckt?",
+    "groupCode": 1
+  },
+  {
+    "id": 11178,
+    "en": "She is a college student",
+    "de": "Sie ist Studentin",
+    "groupCode": 1
+  },
+  {
+    "id": 11179,
+    "en": "My work is interesting but stressful",
+    "de": "Meine Arbeit ist interessant aber stressig",
+    "groupCode": 1
+  },
+  {
+    "id": 11180,
+    "en": "I wear a blue shirt",
+    "de": "Ich trage ein blaues Hemd",
+    "groupCode": 1
+  },
+  {
+    "id": 11181,
+    "en": "Are you a teacher?",
+    "de": "Bist du Lehrer?",
+    "groupCode": 1
+  },
+  {
+    "id": 11182,
+    "en": "Is the doctor your brother? No, he's my husband",
+    "de": "Ist der Arzt dein Bruder? Nein, er ist mein Mann",
+    "groupCode": 1
+  },
+  {
+    "id": 11183,
+    "en": "Where are your mother and your partner?",
+    "de": "Wo sind deine Mutter und deine Partnerin?",
+    "groupCode": 1
+  },
+  {
+    "id": 11184,
+    "en": "Is your husband a lawyer or a professor?",
+    "de": "Ist dein Mann Anwalt oder Professor?",
+    "groupCode": 1
+  },
+  {
+    "id": 11185,
+    "en": "Ali is in the department store. He sees Ilia",
+    "de": "Ali ist im Kaufhaus. Er sieht Ilia",
+    "desc": "\"Er ist im\": This is a contraction of \"Er ist in dem,\" which means \"He is in the.\" You would use this form when you want to specify that someone is in a specific place, such as a building or a room. For example, \"Er ist im Haus\" means \"He is in the house.\"\n\n\"Er ist in\": This is a more general use of \"in\" without the definite article \"dem.\" You would use this form when you want to say that someone is in a location without specifying \"the\" place. For example, \"Er ist in der Stadt\" means \"He is in the city.\"",
+    "groupCode": 1
+  },
+  {
+    "id": 11186,
+    "en": "Do you (formal) like the red jacket here?",
+    "de": "Mögen Sie die rote Jacke hier?",
+    "groupCode": 1
+  },
+  {
+    "id": 11187,
+    "en": "Do you (formal) like that black jacket over there?",
+    "de": "Mögen sie die schwarze Jacke da drüben?",
+    "groupCode": 1
+  },
+  {
+    "id": 11188,
+    "en": "I can come tomorrow",
+    "de": "Ich kann morgen kommen",
+    "groupCode": 1
+  },
+  {
+    "id": 11189,
+    "en": "The red jacket is perfect for you",
+    "de": "Die rote Jacke ist perfekt für Sie",
+    "groupCode": 1
+  },
+  {
+    "id": 11190,
+    "en": "You do your job very well",
+    "de": "Sie machen Ihre Arbeit sehr gut",
+    "groupCode": 1
+  },
+  {
+    "id": 11191,
+    "en": "Where is the cash desk please?",
+    "de": "Wo ist die Kasse, bitte?",
+    "groupCode": 1
+  },
+  {
+    "id": 11192,
+    "en": "I don't work here",
+    "de": "Ich arbeite nicht hier",
+    "groupCode": 1
+  },
+  {
+    "id": 11193,
+    "en": "Keep driving",
+    "de": "Fahr weiter",
+    "groupCode": 1
+  },
+  {
+    "id": 11194,
+    "en": "That's great",
+    "de": "Das ist großartig",
+    "groupCode": 1
+  },
+  {
+    "id": 11195,
+    "en": "Let's speak German",
+    "de": "Lass uns deutsch sprechen",
+    "groupCode": 1
+  },
+  {
+    "id": 11196,
+    "en": "He is the new school student",
+    "de": "Er ist der neuer Schüler",
+    "groupCode": 1
+  },
+  {
+    "id": 11197,
+    "en": "They drive to school by bus",
+    "de": "Sie fahren mit dem Bus in die Schule",
+    "groupCode": 1
+  },
+  {
+    "id": 11198,
+    "en": "He is smart. He speaks three languages",
+    "de": "Er ist klug. Er spricht drei Sprachen",
+    "groupCode": 1
+  },
+  {
+    "id": 11199,
+    "en": "She loves your shoes",
+    "de": "Sie liebt deine schuhe",
+    "groupCode": 1
+  },
+  {
+    "id": 11200,
+    "en": "I never cook here",
+    "de": "Ich koche hier nie",
+    "groupCode": 1
+  },
+  {
+    "id": 11201,
+    "en": "My roommate (female) loves my cat",
+    "de": "Meine Mitbewohnerin liebt meine Katze",
+    "groupCode": 1
+  },
+  {
+    "id": 11202,
+    "en": "My daughter always cooks",
+    "de": "Meine Tochter kocht immer",
+    "groupCode": 1
+  },
+  {
+    "id": 11203,
+    "en": "I am warm",
+    "de": "Mir ist warm",
+    "groupCode": 1
+  },
+  {
+    "id": 11204,
+    "en": "I am full",
+    "de": "Ich bin satt",
+    "groupCode": 1
+  },
+  {
+    "id": 11205,
+    "en": "Ilia and Ali are at home",
+    "de": "Ilia und Ali sind zu Hause",
+    "groupCode": 1
+  },
+  {
+    "id": 11206,
+    "en": "Dad, a little question",
+    "de": "Papa, eine kleine Frage",
+    "groupCode": 1
+  },
+  {
+    "id": 11207,
+    "en": "We're having (make) a picnic at the weekend. Can you come?",
+    "de": "Wir machen am Wochenende ein picknick. Kannst du kommen?",
+    "groupCode": 1
+  },
+  {
+    "id": 11208,
+    "en": "Is he sick or healthy? He is healthy",
+    "de": "Ist er krank oder gesund? Er ist gesund",
+    "groupCode": 1
+  },
+  {
+    "id": 11209,
+    "en": "Does the dog often swim?",
+    "de": "Schwimmt der Hund oft?",
+    "groupCode": 1
+  },
+  {
+    "id": 11210,
+    "en": "He plays chess very well",
+    "de": "Er spielt sehr gut Schach",
+    "groupCode": 1
+  },
+  {
+    "id": 11211,
+    "en": "You wouldn't like to go later",
+    "de": "Du möchtest später nicht gehen",
+    "groupCode": 1
+  },
+  {
+    "id": 11212,
+    "en": "You (plural) wouldn't like to stay",
+    "de": "Ihr möchtet nicht bleiben",
+    "groupCode": 1
+  },
+  {
+    "id": 11213,
+    "en": "Would you (plural) like to come?",
+    "de": "Möchtet ihr kommen?",
+    "groupCode": 1
+  },
+  {
+    "id": 11214,
+    "en": "His girlfriend Anne drives the taxi",
+    "de": "Seine Freundin Anne fährt das Taxi",
+    "groupCode": 1
+  },
+  {
+    "id": 11215,
+    "en": "Do you drive a taxi?",
+    "de": "Du fährst Taxi?",
+    "groupCode": 1
+  },
+  {
+    "id": 11216,
+    "en": "This is my new job",
+    "de": "Das ist meine neue Arbeit",
+    "groupCode": 1
+  },
+  {
+    "id": 11217,
+    "en": "Where is the train station please? The train station is here straight ahead and then left",
+    "de": "Wo ist bitte der Bahnhof? Der Bahnhof ist hier geradeaus und dann links",
+    "groupCode": 1
+  },
+  {
+    "id": 11218,
+    "en": "We are there",
+    "de": "Wir sind da",
+    "groupCode": 1
+  },
+  {
+    "id": 11219,
+    "en": "This isn't the train station. This is the university",
+    "de": "Das hier ist nicht der Bahnhof. Das ist die Universität",
+    "groupCode": 1
+  },
+  {
+    "id": 11220,
+    "en": "You definitely (in any case) have to come to the party",
+    "de": "Du musst auf jeden Fall zur Party kommen",
+    "groupCode": 1
+  },
+  {
+    "id": 11221,
+    "en": "This here is library. The library is far away",
+    "de": "Das hier ist Bibliothek. Die Bibliothek ist weit weg",
     "groupCode": 1
   }
 ]
