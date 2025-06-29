@@ -106,7 +106,7 @@
   },
   {
     "id": 10018,
-    "en": "Where does your (plural) partner (male) come from?",
+    "en": "Where does your (formal) partner (male) come from?",
     "de": "Woher kommt Ihr Partner?",
     "desc": "\"Woher kommt Ihr Partner?\"\nThis is correct if you're using the formal \"Sie\" (you), addressing someone politely and referring to their partner (formal possessive form).\n\n\"Woher kommt ihr Partner?\"\nThis is correct if you're using the informal \"ihr\" (you all), addressing a group informally and referring to their partner (informal possessive form).\n\n",
     "groupCode": 1
@@ -4777,8 +4777,8 @@
   },
   {
     "id": 10785,
-    "en": "Which swimsuit do you buy? What do you buy in the city center?",
-    "de": "Welchen Badeanzug kaufst du? Was kaufst du im Stadtzentrum?",
+    "en": "Which swimsuit do you buy?",
+    "de": "Welchen Badeanzug kaufst du?",
     "groupCode": 1
   },
   {
@@ -5279,8 +5279,8 @@
   },
   {
     "id": 10867,
-    "en": "You don't have to wait, I come later. What is your (formal) profession?",
-    "de": "Du musst nicht warten, ich komme später. Was ist Ihr Beruf?",
+    "en": "You don't have to wait, I come later",
+    "de": "Du musst nicht warten, ich komme später",
     "groupCode": 1
   },
   {
@@ -5587,8 +5587,8 @@
   },
   {
     "id": 10918,
-    "en": "What do you usually eat for breakfast? Is there a bank in the neighborhood",
-    "de": "Was isst du meistens zum (toward) frühstück? Gibt es eine Bank in dem Stadtviertel",
+    "en": "What do you usually eat for breakfast?",
+    "de": "Was isst du meistens zum (toward) frühstück?",
     "groupCode": 1
   },
   {
@@ -5605,8 +5605,8 @@
   },
   {
     "id": 10921,
-    "en": "We have only one cucumber in the fridge. The building is very old and really high",
-    "de": "Wir haben nur eine Gurke im Kühlschrank. Das Gebäude ist sehr alt und wirklich hoch",
+    "en": "We have only one cucumber in the fridge",
+    "de": "Wir haben nur eine Gurke im Kühlschrank",
     "groupCode": 1
   },
   {
@@ -5895,8 +5895,8 @@
   },
   {
     "id": 10969,
-    "en": "Are you picking up your parents ? No, this woman is not my neighbor (female). We are married and live together. That is my wife",
-    "de": "Holst du deine Eltern ab? Nein, diese Frau ist nicht meine Nachbarin. Wir sind verheiratet und wohnen zusammen. Das ist meine Frau",
+    "en": "No, this woman is not my neighbor (female)",
+    "de": "Nein, diese Frau ist nicht meine Nachbarin",
     "groupCode": 1
   },
   {
@@ -5907,9 +5907,8 @@
   },
   {
     "id": 10971,
-    "en": "For Whom are you buying the gifts? We want to fly to Turkey for a few days",
-    "de": "Für wen kaufst du die Geschenke? Wir wollen für ein paar tage in die Türkei fliegen",
-    "desc": "The preposition \"in\" is used when referring to entering or traveling to a country \n\n\n The preposition \"zu\" is generally used when referring to going to a specific place, person, or event (e.g., \"zur Schule\" = to school, \"zum Arzt\" = to the doctor). It is not used for countries",
+    "en": "For Whom are you buying the gifts?",
+    "de": "Für wen kaufst du die Geschenke?",
     "groupCode": 1
   },
   {
@@ -6935,9 +6934,8 @@
   },
   {
     "id": 11141,
-    "en": "I know the student student (male). He's my neighbor. The university is nearby and there are many students in the neighborhood",
-    "de": "Ich kenne den Studenten. Er ist mein Nachbar. Die Universität ist in der Nahe und es gibt in dem Stadtviertel viele Studenten",
-    "desc": "In German, nouns change based on their case (subject, object, etc.). When the noun is in the accusative case (i.e., it's the direct object of the sentence), the article and the noun itself may change.",
+    "en": "I know the student student (male). He's my neighbor",
+    "de": "Ich kenne den Studenten. Er ist mein Nachbar",
     "groupCode": 1
   },
   {
@@ -6975,6 +6973,7 @@
     "id": 11147,
     "en": "I spend the evening at home. I spend a lot of money",
     "de": "Ich verbringe den Abend zu Hause. Ich gebe viel Geld aus",
+    "desc": "verbringen = spend time, ausgeben = spend money",
     "groupCode": 1
   },
   {
@@ -6991,9 +6990,9 @@
   },
   {
     "id": 11150,
-    "en": "I spend the evening at home. I spend a lot of money",
-    "de": "Ich verbringe den Abend zu Hause. Ich gebe viel Geld aus",
-    "desc": "verbringen = spend time, ausgeben = spend money",
+    "en": "Sometimes we watch movies in German course",
+    "de": "Manchmal sehen wir im Deutschkurs Filme an",
+    "desc": "sehen = to see (general)\nansehen = to look at / watch (on purpose)\n\nExample:\n\nIch sehe dich. → I see you.\n\nIch sehe mir den Film an. → I watch the movie.",
     "groupCode": 1
   },
   {
@@ -7077,7 +7076,7 @@
   },
   {
     "id": 11164,
-    "en": "I am married. I am married. I'm not single",
+    "en": "I am married. I'm not single",
     "de": "Ich bin verheiratet. Ich bin nicht ledig",
     "groupCode": 1
   },
@@ -7192,7 +7191,7 @@
   },
   {
     "id": 11183,
-    "en": "Where are your mother and your partner?",
+    "en": "Where are your mother and your partner (female)?",
     "de": "Wo sind deine Mutter und deine Partnerin?",
     "groupCode": 1
   },
@@ -7229,13 +7228,13 @@
   },
   {
     "id": 11189,
-    "en": "The red jacket is perfect for you",
+    "en": "The red jacket is perfect for you (formal)",
     "de": "Die rote Jacke ist perfekt für Sie",
     "groupCode": 1
   },
   {
     "id": 11190,
-    "en": "You do your job very well",
+    "en": "You (formal) do your job very well",
     "de": "Sie machen Ihre Arbeit sehr gut",
     "groupCode": 1
   },
@@ -7423,6 +7422,55 @@
     "id": 11221,
     "en": "This here is library. The library is far away",
     "de": "Das hier ist Bibliothek. Die Bibliothek ist weit weg",
+    "groupCode": 1
+  },
+  {
+    "id": 11222,
+    "en": "What do you buy in the city center?",
+    "de": "Was kaufst du im Stadtzentrum?",
+    "groupCode": 1
+  },
+  {
+    "id": 11223,
+    "en": "Is there a bank in the neighborhood",
+    "de": "Gibt es eine Bank in dem Stadtviertel",
+    "groupCode": 1
+  },
+  {
+    "id": 11224,
+    "en": "We are married and live together. That is my wife",
+    "de": "Wir sind verheiratet und wohnen zusammen. Das ist meine Frau",
+    "groupCode": 1
+  },
+  {
+    "id": 11225,
+    "en": "The man is fat, but the woman is thin",
+    "de": "Der Mann ist dick, aber die Frau ist dünn",
+    "groupCode": 1
+  },
+  {
+    "id": 11226,
+    "en": "The building is very old and really high",
+    "de": "Das Gebäude ist sehr alt und wirklich hoch",
+    "groupCode": 1
+  },
+  {
+    "id": 11227,
+    "en": "What is your (formal) profession?",
+    "de": "Was ist Ihr Beruf?",
+    "groupCode": 1
+  },
+  {
+    "id": 11228,
+    "en": "The university is nearby and there are many students in the neighborhood",
+    "de": "Die Universität ist in der Nahe und es gibt in dem Stadtviertel viele Studenten",
+    "groupCode": 1
+  },
+  {
+    "id": 11229,
+    "en": "We want to fly to Turkey for a few days",
+    "de": "Wir wollen für ein paar tage in die Türkei fliegen",
+    "desc": "The preposition \"in\" is used when referring to entering or traveling to a country \n\n\n The preposition \"zu\" is generally used when referring to going to a specific place, person, or event (e.g., \"zur Schule\" = to school, \"zum Arzt\" = to the doctor). It is not used for countries",
     "groupCode": 1
   }
 ]

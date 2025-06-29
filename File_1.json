@@ -3127,7 +3127,7 @@
   },
   {
     "id": 3510,
-    "fa": "در واقع, من دیروز دیدمش (زن)",
+    "fa": "به عنوان یک واقعیت, من دیروز دیدمش (زن)",
     "en": "As a matter of fact, I did see her yesterday",
     "desc": "Correct: \"As a matter of fact, I do have experience in that field.\"\nIncorrect: \"As a matter of the fact, I do have experience in that field.\"",
     "groupCode": 0
@@ -7407,7 +7407,7 @@
   },
   {
     "id": 4214,
-    "fa": "",
+    "fa": "در کمال تعجبم، او (مرد) عذرخواهی کرد برای اشتباهش",
     "en": "Much to my surprise, he apologized for his mistake",
     "groupCode": 0
   },
@@ -7445,6 +7445,66 @@
     "id": 4220,
     "fa": "نه فقط این, بلکه همچنین اون",
     "en": "Not only this, but also that",
+    "groupCode": 0
+  },
+  {
+    "id": 4221,
+    "fa": "کرم لرزان عبور کرد در سراسر پیاده رو",
+    "en": "The wiggly worm moved across the sidewalk",
+    "groupCode": 0
+  },
+  {
+    "id": 4222,
+    "fa": "من احساس کردم یک درد نبض دار در سرم بعد از نویز بلند",
+    "en": "I felt a throbbing pain in my head after the loud noise",
+    "groupCode": 0
+  },
+  {
+    "id": 4223,
+    "fa": "من خسته (مریض) شده ام از نحوه این شرکت برخورد می کند (با) کارمندانش",
+    "en": "I'm sick of the way this company treats its employees",
+    "groupCode": 0
+  },
+  {
+    "id": 4224,
+    "fa": "من دوستش (مرد) دارم، به عنوان یک واقعیت، اون بهترین دوستمه",
+    "en": "I like him, as a matter of fact, he's my best friend",
+    "groupCode": 0
+  },
+  {
+    "id": 4225,
+    "fa": "یک نقص فنی باعث سقوط کردن هواپیما شد",
+    "en": "A mechanical defect caused the plane to crash",
+    "groupCode": 0
+  },
+  {
+    "id": 4226,
+    "fa": "سرباز پناهنده شد (جدا شدن و پیوستن) به دشمن در طول جنگ",
+    "en": "The soldier defected to the enemy during the war",
+    "groupCode": 0
+  },
+  {
+    "id": 4227,
+    "fa": "تمام موشک های ارسال شده به سمت آن پایگاه رهگیری شده اند",
+    "en": "All missiles sent toward that base have been intercepted",
+    "groupCode": 0
+  },
+  {
+    "id": 4228,
+    "fa": "تعصب آشکار است",
+    "en": "The bias is blatant /ˈbleɪtnt/",
+    "groupCode": 0
+  },
+  {
+    "id": 4229,
+    "fa": "او (مرد) خویشتنداری نشان می دهد",
+    "en": "He is showing restraint",
+    "groupCode": 0
+  },
+  {
+    "id": 4230,
+    "fa": "رفتارش (مرد) بود برخلاف حرف هایش",
+    "en": "His actions were antithetical to his words",
     "groupCode": 0
   }
 ]
