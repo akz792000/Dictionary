@@ -7175,7 +7175,7 @@
   },
   {
     "id": 4176,
-    "fa": "CamelCase شروع می شود با یک حرف کوچک و بزرگ می نویسد هر کلمه بعدی را و PascalCase بزرگ می نویسد حرف اول هر کلمه را",
+    "fa": "CamelCase شروع می کند با یک حرف کوچک و بزرگ می نویسد هر کلمه بعدی را و PascalCase بزرگ می نویسد حرف اول هر کلمه را",
     "en": "CamelCase starts with a lowercase letter and capitalizes each subsequent word and PascalCase capitalizes the first letter of every word",
     "groupCode": 0
   },
@@ -7449,7 +7449,7 @@
   },
   {
     "id": 4221,
-    "fa": "کرم لرزان عبور کرد در سراسر پیاده رو",
+    "fa": "کرم لرزان حرکت کرد در سراسر پیاده رو",
     "en": "The wiggly worm moved across the sidewalk",
     "groupCode": 0
   },
@@ -7473,7 +7473,7 @@
   },
   {
     "id": 4225,
-    "fa": "یک نقص فنی باعث سقوط کردن هواپیما شد",
+    "fa": "یک نقص مکانیکی باعث سقوط کردن هواپیما شد",
     "en": "A mechanical defect caused the plane to crash",
     "groupCode": 0
   },
@@ -7487,6 +7487,7 @@
     "id": 4227,
     "fa": "تمام موشک های ارسال شده به سمت آن پایگاه رهگیری شده اند",
     "en": "All missiles sent toward that base have been intercepted",
+    "desc": "\n✅ \"All missiles sent toward that base have been intercepted.\"\nThis sentence is passive — just in a reduced form.\n\nThe full version would be:\n\n\"All missiles that were sent toward that base have been intercepted.\"\n\n\"Sent toward that base\" is a past participle phrase (shortened relative clause) modifying \"missiles.\"\n\nIt omits \"that were\" for simplicity and smoothness — very common in English.\n\nSo yes:\nSomeone sent the missiles → it’s passive voice.\n\nBut we don’t need to say \"were sent\" explicitly, because:\n\nIt’s implied.\n\nThe shortened form is correct and natural.\n\nExamples:\n\"The books written by her became bestsellers.\"\n(→ \"that were written\" by her)",
     "groupCode": 0
   },
   {
@@ -7497,14 +7498,62 @@
   },
   {
     "id": 4229,
-    "fa": "او (مرد) خویشتنداری نشان می دهد",
+    "fa": "او (مرد) داره خویشتنداری نشان می دهد",
     "en": "He is showing restraint",
     "groupCode": 0
   },
   {
     "id": 4230,
-    "fa": "رفتارش (مرد) بود برخلاف حرف هایش",
+    "fa": "اعمالش (مرد) بود برخلاف حرف هایش",
     "en": "His actions were antithetical to his words",
+    "groupCode": 0
+  },
+  {
+    "id": 4231,
+    "fa": "آیا تا به حال از دست داده اید یک عشقی را که شما فکر می کردید ماندگار خواهد بود (فرضی)؟",
+    "en": "Have you ever lost a love you thought would last?",
+    "groupCode": 0
+  },
+  {
+    "id": 4232,
+    "fa": "او (زن) کافی من را پر کرد",
+    "en": "She topped off my coffee",
+    "groupCode": 0
+  },
+  {
+    "id": 4233,
+    "fa": "چه ضد حالی!",
+    "en": "What a bummer!",
+    "groupCode": 0
+  },
+  {
+    "id": 4234,
+    "fa": "تو توهم زدی (متوهمی)",
+    "en": "You are delusional",
+    "groupCode": 0
+  },
+  {
+    "id": 4235,
+    "fa": "حسم بهم میگه",
+    "en": "My gut tells me",
+    "groupCode": 0
+  },
+  {
+    "id": 4236,
+    "fa": "من جوگیر شدم",
+    "en": "\n1.I got carried away\n2.I was being impulsive",
+    "groupCode": 0
+  },
+  {
+    "id": 4237,
+    "fa": "حواست (سرت) کجاست؟",
+    "en": "Where is your head?",
+    "groupCode": 0
+  },
+  {
+    "id": 4238,
+    "fa": "از آنجایی که نام های مستعار نوع Kotlin در زمان اجرا پاک می شوند، Jackson نمی تواند تمایز قائل شدن بین نام های مستعار نوع که اشتراک گذاری می کنند نوع زیربنایی یکسان",
+    "en": "Since Kotlin type aliases are erased at runtime, Jackson cannot distinguish between type aliases that share the same underlying type",
     "groupCode": 0
   }
 ]

@@ -84,7 +84,7 @@ was ist der Unterschied zwischen diesem und jenem
   },
   {
     "id": 10303,
-    "en": "This job is too stressful",
+    "en": "This work is too stressful",
     "de": "Diese Arbeit ist zu stressig",
     "groupCode": 1
   },
@@ -1969,15 +1969,9 @@ was ist der Unterschied zwischen diesem und jenem
 
 
 
-  {
-  "id": ,
-
-"groupCode": 1
-},
 {
 "id": ,
-"en": "We want to learn German together. Are you joining in (Do you participate)?",
-"de": "Wir wollen zusammen Deutsch lernen. Machst du mit?",
+
 "groupCode": 1
 },
 {

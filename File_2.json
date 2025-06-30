@@ -1348,6 +1348,7 @@
     "id": 10220,
     "en": "I'm glad, everything is over",
     "de": "Ich bin froh, alles ist vorbei",
+    "desc": "froh = glad/relieved (adjective), a temporary feeling.\nExample: Ich bin froh. (I’m glad.)\n\nGlück = luck or happiness (noun), more general or lasting.\nExample: Viel Glück! (Good luck!) or Glück ist wichtig. (Happiness is important.)",
     "groupCode": 1
   },
   {
@@ -3198,7 +3199,7 @@
   },
   {
     "id": 10524,
-    "en": "Let's go into the cinema. Did you have fun on vacation?",
+    "en": "Let's go into the cinema. Did you have fun on the vacation?",
     "de": "Lass uns ins Kino gehen. Hattest du Spaß im Urlaub?",
     "groupCode": 1
   },
@@ -3397,7 +3398,7 @@
   },
   {
     "id": 10557,
-    "en": "Do you play an instrument? We're driving straight (right now) to (toward) the concert, where are you?",
+    "en": "Do you play an instrument? We're driving straight to (toward) the concert, where are you?",
     "de": "Spielst du ein Instrument? Wir fahren gerade zum Konzert, wo bist du?",
     "groupCode": 1
   },
@@ -4649,9 +4650,8 @@
   },
   {
     "id": 10764,
-    "en": "What do you do in the mornings? My son wants to sleep in during the holiday (school holidays) and so do I",
-    "de": "Was machst du morgens? Mein Sohn will in den Ferien ausschlafen und ich auch",
-    "desc": "schlafen\tto sleep\tRegular sleep\nausschlafen\tto sleep in (until well-rested)\tSleeping late, no alarm, weekends, etc.",
+    "en": "What do you do in the mornings?",
+    "de": "Was machst du morgens?",
     "groupCode": 1
   },
   {
@@ -4956,8 +4956,8 @@
   },
   {
     "id": 10814,
-    "en": "She always has in the bag pens of different colors. With the pens she writes on the board",
-    "de": "Sie hat in der Tasche immer Stifte in verschiedenen Farben. Mit den Stiften schreibt sie an der Tafel",
+    "en": "She always has pens of different colors in her bag. With the pens she writes on the board",
+    "de": "Sie hat immer Stifte in verschiedenen Farben in ihrer Tasche. Mit diesen Stiften schreibt sie an der Tafel",
     "desc": "„Mit den Stiften“\n\n„mit“ is a dative preposition → it always requires the dative case.\n\n„Stift“ (pen) → plural: „Stifte“\n\nIn the dative plural, most nouns add -n, if they don't already end in -n.",
     "groupCode": 1
   },
@@ -5376,8 +5376,8 @@
   },
   {
     "id": 10883,
-    "en": "Would you like to drink a specific beer?",
-    "de": "Möchtest du ein bestimmtes Bier trinken?",
+    "en": "We want to learn German together. Are you joining in (Do you participate)?",
+    "de": "Wir wollen zusammen Deutsch lernen. Machst du mit?",
     "groupCode": 1
   },
   {
@@ -5478,8 +5478,8 @@
   },
   {
     "id": 10900,
-    "en": "I don't see it. You have to talk to the airline, sorry.",
-    "de": "Ich sehe ihn nicht. Du musst mit der Fluggesellschaft sprechen, tut mir leid",
+    "en": "You have to talk to the airline, sorry",
+    "de": "Du musst mit der Fluggesellschaft sprechen, tut mir leid",
     "groupCode": 1
   },
   {
@@ -5653,7 +5653,7 @@
   },
   {
     "id": 10929,
-    "en": "Do you want to invite your parents to lunch?",
+    "en": "Do you want to invite your parents to the lunch?",
     "de": "Willst du deine Eltern zum (toward) Mittagessen einladen?",
     "groupCode": 1
   },
@@ -5703,7 +5703,7 @@
     "id": 10937,
     "en": "Which of these banks do you know?",
     "de": "Welche dieser Banken kennst du?",
-    "desc": "In \"Welche dieser Banken kennst du?\", \"dieser\" is in the genitive case because it means \"of these banks\" (a subset of banks). The genitive is needed to show this relationship.",
+    "desc": "Genitive Case in German:\n\nThe Genitive case is used to show possession or a relationship between nouns. It often answers the question \"whose?\" or \"of which?\".\nIn this sentence, \"dieser Banken\" means \"of these banks,\" which is a typical Genitive construction.\nWhy Genitive is Used Here:\n\nThe word \"welche\" (which) is asking about a selection from a group. The phrase \"dieser Banken\" specifies the group (banks) from which the selection is being made.\nThe preposition \"von\" (of) could also be used here in a more casual way: \"Welche von diesen Banken kennst du?\" However, the Genitive case is more formal and concise.\nStructure of the Sentence:\n\n\"Welche\": Interrogative pronoun (which).\n\"dieser Banken\": Genitive phrase (of these banks).\n\"kennst du\": Main clause (do you know).\nSimplified Comparison:\nGenitive (formal): \"Welche dieser Banken kennst du?\" → \"Which of these banks do you know?\"\nAlternative with \"von\" (casual): \"Welche von diesen Banken kennst du?\" → \"Which of these banks do you know?\"\nWhy Genitive is Important:\nUsing the Genitive case here makes the sentence more formal and precise, which is common in written or formal German.",
     "groupCode": 1
   },
   {
@@ -6879,7 +6879,7 @@
   },
   {
     "id": 11132,
-    "en": "Who can continue?",
+    "en": "Who can continue (make)?",
     "de": "Wer kann weiter machen?",
     "groupCode": 1
   },
@@ -6934,7 +6934,7 @@
   },
   {
     "id": 11141,
-    "en": "I know the student student (male). He's my neighbor",
+    "en": "I know the student (male). He's my neighbor",
     "de": "Ich kenne den Studenten. Er ist mein Nachbar",
     "groupCode": 1
   },
@@ -6947,7 +6947,7 @@
   },
   {
     "id": 11143,
-    "en": "We're also going to the club tonight and want to sleep in tomorrow",
+    "en": "We're also going to the club this evening and want to sleep in tomorrow",
     "de": "Wir gehen heute Abend noch in den Club und wollen morgen aussclafen",
     "groupCode": 1
   },
@@ -7015,7 +7015,7 @@
   },
   {
     "id": 11154,
-    "en": "My girlfriend is from Germany",
+    "en": "My girlfriend comes from Germany",
     "de": "Meine Freundin kommt aus Deutschland",
     "groupCode": 1
   },
@@ -7070,8 +7070,8 @@
   },
   {
     "id": 11163,
-    "en": "I have a math test today. I have to travel far away",
-    "de": "Ich habe einen Mathetest heute. Ich muss weit weg reisen",
+    "en": "I have a math test today",
+    "de": "Ich habe einen Mathetest heute",
     "groupCode": 1
   },
   {
@@ -7132,7 +7132,7 @@
   {
     "id": 11173,
     "en": "He arrives twenty minuts too late on platform two",
-    "de": "Er kommt zwanzig Minuten zu spät auf Gleis zwei",
+    "de": "Er kommt zwanzig Minuten zu spät auf Gleis zwei an",
     "groupCode": 1
   },
   {
@@ -7234,7 +7234,7 @@
   },
   {
     "id": 11190,
-    "en": "You (formal) do your job very well",
+    "en": "You (formal) do your work very well",
     "de": "Sie machen Ihre Arbeit sehr gut",
     "groupCode": 1
   },
@@ -7258,7 +7258,7 @@
   },
   {
     "id": 11194,
-    "en": "That's great",
+    "en": "That's fantastic",
     "de": "Das ist großartig",
     "groupCode": 1
   },
@@ -7276,7 +7276,7 @@
   },
   {
     "id": 11197,
-    "en": "They drive to school by bus",
+    "en": "They drive to the school with the bus",
     "de": "Sie fahren mit dem Bus in die Schule",
     "groupCode": 1
   },
@@ -7384,13 +7384,13 @@
   },
   {
     "id": 11215,
-    "en": "Do you drive a taxi?",
-    "de": "Du fährst Taxi?",
+    "en": "Do you drive taxi?",
+    "de": "Fährst du Taxi?",
     "groupCode": 1
   },
   {
     "id": 11216,
-    "en": "This is my new job",
+    "en": "This is my new work",
     "de": "Das ist meine neue Arbeit",
     "groupCode": 1
   },
@@ -7471,6 +7471,18 @@
     "en": "We want to fly to Turkey for a few days",
     "de": "Wir wollen für ein paar tage in die Türkei fliegen",
     "desc": "The preposition \"in\" is used when referring to entering or traveling to a country \n\n\n The preposition \"zu\" is generally used when referring to going to a specific place, person, or event (e.g., \"zur Schule\" = to school, \"zum Arzt\" = to the doctor). It is not used for countries",
+    "groupCode": 1
+  },
+  {
+    "id": 11230,
+    "en": "My son wants to sleep in during the holiday (school holidays) and so do I",
+    "de": "Mein Sohn will in den Ferien ausschlafen und ich auch",
+    "groupCode": 1
+  },
+  {
+    "id": 11231,
+    "en": "I have to travel far away",
+    "de": "Ich muss weit weg reisen",
     "groupCode": 1
   }
 ]
