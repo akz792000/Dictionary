@@ -7013,7 +7013,7 @@
   },
   {
     "id": 1154,
-    "fa": "من نمی توانم برسم به رویداد امشب. قابل درکه (منطقی است). شاید دفعه بعد",
+    "fa": "من نمی توانم برسم (بسازم) به رویداد امشب. قابل درکه (منطقی است). شاید دفعه بعد",
     "en": "I can't make it to the event tonight. Fair enough. Maybe next time",
     "desc": "\"I can't get to the event tonight\":\n\nIn this phrase, the emphasis is on the physical act of reaching or arriving at the event. It suggests that there might be some obstacles preventing the speaker from physically attending the event.\n\n\"I can't make it to the event tonight\":\n\nIn this phrase, the emphasis is on the ability or possibility of attending the event. It suggests that the speaker is unable to attend, regardless of the reasons. It could be due to conflicting schedules, prior commitments, or other reasons preventing them from being there.",
     "groupCode": 0
@@ -13637,7 +13637,7 @@
   },
   {
     "id": 2245,
-    "fa": "نمیدونستم تو یک چراغ قوه داری. من هم نه",
+    "fa": "نمیدونستم تو یک چراغ قوه داشتی. من هم نه",
     "en": "I didn't know you had a flashlight. Me neither",
     "groupCode": 0
   },

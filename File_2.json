@@ -801,7 +801,7 @@
   },
   {
     "id": 10131,
-    "en": "Hey Ali, all good? No, I'm a bit in the stress (I'm a bit stressed)",
+    "en": "Hey Ali, everything good? No, I'm a bit in the stress (I'm a bit stressed)",
     "de": "Hey Ali, alles klar? Nein, Ich bin ein bisschen im Stress",
     "groupCode": 1
   },
@@ -1377,7 +1377,7 @@
   },
   {
     "id": 10225,
-    "en": "Only adults can watch the horror film",
+    "en": "Only adults can see the horror film",
     "de": "Nur Erwachsene können den Horrorfilm sehen",
     "groupCode": 1
   },
@@ -1414,7 +1414,7 @@
   },
   {
     "id": 10231,
-    "en": "Thank you for the information! I am interested in the position, but my German level is currently at A",
+    "en": "Thank you for the information! I am interested (at) in the position, but my German level is currently at A",
     "de": "Vielen Dank für die Information! Ich habe Interesse an der Stelle, aber mein Deutschniveau ist derzeit auf A",
     "desc": "zurzeit = currently (informal, everyday use)\n\nderzeit = currently (formal, official use)",
     "groupCode": 1
@@ -2754,7 +2754,7 @@
   },
   {
     "id": 10451,
-    "en": "Would you (plural) like to watch a movie?",
+    "en": "Would you (plural) like to see a movie?",
     "de": "Möchtet ihr einen Film sehen?",
     "groupCode": 1
   },
@@ -2780,7 +2780,7 @@
   },
   {
     "id": 10455,
-    "en": "His friends bring along him a gift",
+    "en": "His friends bring along (for) him a gift",
     "de": "Seine Freunde bringen für ihn ein Geschenk mit",
     "desc": "Does \"für\" always come with \"bringen\"?\n\uD83D\uDD39 No, \"für\" is not required with \"bringen\".\nBut it's used when you say for whom the thing is being brought.",
     "groupCode": 1
@@ -3785,7 +3785,7 @@
   },
   {
     "id": 10621,
-    "en": "I want to watch TV with my mom",
+    "en": "I want to see TV with my mom",
     "de": "Ich will mit meiner Mama fernsehen",
     "groupCode": 1
   },
@@ -3948,7 +3948,7 @@
   },
   {
     "id": 10648,
-    "en": "everyone comes to (toward) the party",
+    "en": "Everyone comes to (toward) the party",
     "de": "Alle kommen zur Party",
     "groupCode": 1
   },
@@ -3984,7 +3984,7 @@
   },
   {
     "id": 10654,
-    "en": "My son plays hockey and swims every week",
+    "en": "My son plays hockey and swims each week",
     "de": "Mein Sohn spielt Hockey und schwimmt jede Woche",
     "groupCode": 1
   },
@@ -4645,7 +4645,7 @@
   {
     "id": 10763,
     "en": "We have holiday (school holidays) in two weeks. My girl friends and I are watching a comedy during the holiday (school holidays). The film is very funny",
-    "de": "Wir haben in zwei Wochen Ferien. Meine Freundinnen und ich sehen in den Ferien eine Komödie. Der Film ist sher lustig/witzig",
+    "de": "Wir haben in zwei Wochen Ferien. Meine Freundinnen und ich sehen in den Ferien eine Komödie an. Der Film ist sher lustig/witzig",
     "groupCode": 1
   },
   {
@@ -5932,7 +5932,7 @@
   {
     "id": 10975,
     "en": "The train arrives in forty-five minutes. My brother pick Ali up from the train station, then they come to (toward) the party together",
-    "de": "Der Zug kommt in fünfundvierzig Minuten. Mein Bruder holt Ali vom Bahnhof ab, dann kommen sie zusammen zur Party",
+    "de": "Der Zug kommt in fünfundvierzig Minuten an. Mein Bruder holt Ali vom Bahnhof ab, dann kommen sie zusammen zur Party",
     "groupCode": 1
   },
   {
@@ -6016,7 +6016,7 @@
   },
   {
     "id": 10989,
-    "en": "We always read in the morning. My parents read the newspaper, and I read a children's book with my niece. She cannot read alone yet",
+    "en": "We always read mornings. My parents read the newspaper, and I read a children's book with my niece. She cannot read alone yet",
     "de": "Wir lesen morgens immer. Meine Eltern lesen die Zeitung und ich lese mit meiner Nichte ein Kinderbuch. Sie kann noch nicht allein lesen",
     "groupCode": 1
   },
@@ -6777,7 +6777,7 @@
   {
     "id": 11115,
     "en": "Which comedy do you want to watch with your brother?",
-    "de": "Welche Komödie willst du mit deinem Bruder sehen?",
+    "de": "Welche Komödie willst du mit deinem Bruder ansehen?",
     "groupCode": 1
   },
   {
@@ -6897,7 +6897,7 @@
   },
   {
     "id": 11135,
-    "en": "With whom do you want to watch TV?",
+    "en": "With whom do you want to see TV?",
     "de": "Mit wem willst du fernsehen?",
     "groupCode": 1
   },
@@ -6928,7 +6928,7 @@
   },
   {
     "id": 11140,
-    "en": "Does the student live down (downstairs)?",
+    "en": "Does the student (male) live down (downstairs)?",
     "de": "Wohnt der Student unten?",
     "groupCode": 1
   },
@@ -7064,7 +7064,7 @@
   },
   {
     "id": 11162,
-    "en": "My hobbies are watching TV and listening to music",
+    "en": "My hobbies are seeing TV and listening to music",
     "de": "Meine Hobbys sind fernsehen und Musik hören",
     "groupCode": 1
   },
@@ -7483,6 +7483,252 @@
     "id": 11231,
     "en": "I have to travel far away",
     "de": "Ich muss weit weg reisen",
+    "groupCode": 1
+  },
+  {
+    "id": 11232,
+    "en": "All (everyone, everybody), Everything, Each (every), Someone",
+    "de": "Alle, Alles, Jede, Jemand",
+    "groupCode": 1
+  },
+  {
+    "id": 11233,
+    "en": "Dress, Clothes, Shirt",
+    "de": "das Kleid, die Kleidung, das Hemd",
+    "groupCode": 1
+  },
+  {
+    "id": 11234,
+    "en": "Today is no class? Oh, I did not receive the information",
+    "de": "Heute ist kein Unterricht? Oh, ich habe die Information nicht bekommen",
+    "groupCode": 1
+  },
+  {
+    "id": 11235,
+    "en": "After 600 meters please turn right",
+    "de": "Nach 600 Metern bitte rechts abbiegen",
+    "groupCode": 1
+  },
+  {
+    "id": 11236,
+    "en": "Drive straight ahead further",
+    "de": "Fahr geradeaus weiter",
+    "groupCode": 1
+  },
+  {
+    "id": 11237,
+    "en": "Please turn left",
+    "de": "Bitte links abbiegen",
+    "groupCode": 1
+  },
+  {
+    "id": 11238,
+    "en": "Please turn around",
+    "de": "Bitte wenden Sie",
+    "groupCode": 1
+  },
+  {
+    "id": 11239,
+    "en": "Drive back",
+    "de": "Fahr zurück",
+    "groupCode": 1
+  },
+  {
+    "id": 11240,
+    "en": "What do you (formal) see here?",
+    "de": "Was sehen Sie hier?",
+    "groupCode": 1
+  },
+  {
+    "id": 11241,
+    "en": "The bar is at the cube",
+    "de": "Der Stab ist an dem Würfel",
+    "groupCode": 1
+  },
+  {
+    "id": 11242,
+    "en": "The bar is above the pyramid",
+    "de": "Der Stab ist über der Pyramide",
+    "groupCode": 1
+  },
+  {
+    "id": 11243,
+    "en": "The bar is under the pyramid",
+    "de": "Der Stab ist unter der Pyramide",
+    "groupCode": 1
+  },
+  {
+    "id": 11244,
+    "en": "The bar is next to the cube",
+    "de": "Der Stab ist neben dem Würfel",
+    "groupCode": 1
+  },
+  {
+    "id": 11245,
+    "en": "The bar is in front of the cube",
+    "de": "Der Stab ist vor dem Würfel",
+    "groupCode": 1
+  },
+  {
+    "id": 11246,
+    "en": "The bar is between the cubes",
+    "de": "Der Stock ist zwischen den Würfeln",
+    "groupCode": 1
+  },
+  {
+    "id": 11247,
+    "en": "The stick is on the cube",
+    "de": "Der Stab ist auf dem Würfel",
+    "groupCode": 1
+  },
+  {
+    "id": 11248,
+    "en": "The stick is behind the cube",
+    "de": "Der Stab ist hinter dem Würfel",
+    "groupCode": 1
+  },
+  {
+    "id": 11249,
+    "en": "The rod is in the cube",
+    "de": "Der Stab ist in dem Würfel",
+    "groupCode": 1
+  },
+  {
+    "id": 11250,
+    "en": "The restaurant is to the left of the café",
+    "de": "Das Restaurant ist links neben dem Cafe",
+    "groupCode": 1
+  },
+  {
+    "id": 11251,
+    "en": "The river is between the cafés",
+    "de": "Der Fluss ist zwischen den Cafes",
+    "groupCode": 1
+  },
+  {
+    "id": 11252,
+    "en": "The cathedral (the church) is next to the park, between the park and the street",
+    "de": "Der Dom (Die Kirche) ist neben dem Park, zwischen dem Park und der Straße",
+    "groupCode": 1
+  },
+  {
+    "id": 11253,
+    "en": "The traffic light is on/at the street / at the intersection of the streets",
+    "de": "Die Ampel ist an der Straße / an der Kreuzung der Straßen",
+    "groupCode": 1
+  },
+  {
+    "id": 11254,
+    "en": "The bridge is on/at the street, to the left of the traffic light",
+    "de": "Die Brücke ist an der Straße neben der Ampel, links neben der Ampel",
+    "groupCode": 1
+  },
+  {
+    "id": 11255,
+    "en": "That is in the city center",
+    "de": "Das ist in der Stadtmitte",
+    "groupCode": 1
+  },
+  {
+    "id": 11256,
+    "en": "Is the Maritim Hotel in the center?",
+    "de": "Das Maritim Hotel ist im Zentrum?",
+    "groupCode": 1
+  },
+  {
+    "id": 11257,
+    "en": "Yes, between the train station and the cathedral",
+    "de": "Ja, zwischen dem Bahnhof und dem Dom",
+    "groupCode": 1
+  },
+  {
+    "id": 11258,
+    "en": "Then you will pass under a bridge",
+    "de": "Dann kommen Sie unter einer Brücke durch",
+    "groupCode": 1
+  },
+  {
+    "id": 11259,
+    "en": "At the traffic light, turn left (formal)",
+    "de": "An der Ampel fahren Sie nach links",
+    "groupCode": 1
+  },
+  {
+    "id": 11260,
+    "en": "Drive (formal) past the cafés",
+    "de": "An den Cafés fahren Sie vorbei",
+    "groupCode": 1
+  },
+  {
+    "id": 11261,
+    "en": "I'm also a stranger here",
+    "de": "Ich bin auch fremd hier",
+    "groupCode": 1
+  },
+  {
+    "id": 11262,
+    "en": "Drive (formal) one kilometer straight ahead, and then you (formal) see it",
+    "de": "Fahren Sie einen Kilometer geradeaus, und dann sehen Sie es",
+    "groupCode": 1
+  },
+  {
+    "id": 11263,
+    "en": "Where is the train station here?",
+    "de": "Wo ist denn hier der Bahnhof?",
+    "groupCode": 1
+  },
+  {
+    "id": 11264,
+    "en": "Do you (formal) know the way?",
+    "de": "Kennen Sie den Weg?",
+    "groupCode": 1
+  },
+  {
+    "id": 11265,
+    "en": "Turn around (formal) here",
+    "de": "Wenden Sie hier",
+    "groupCode": 1
+  },
+  {
+    "id": 11266,
+    "en": "That is nearby",
+    "de": "Das ist in der Nähe",
+    "groupCode": 1
+  },
+  {
+    "id": 11267,
+    "en": "I am looking for the train station",
+    "de": "Ich suche den Bahnhof.",
+    "groupCode": 1
+  },
+  {
+    "id": 11268,
+    "en": "I'm sorry. I'm not from here",
+    "de": "Tut mir leid. Ich bin nicht von hier",
+    "groupCode": 1
+  },
+  {
+    "id": 11269,
+    "en": "You turn right",
+    "de": "Sie biegen rechts ab",
+    "groupCode": 1
+  },
+  {
+    "id": 11270,
+    "en": "You drive straight ahead",
+    "de": "Sie fahren geradeaus",
+    "groupCode": 1
+  },
+  {
+    "id": 11271,
+    "en": "Should I turn right or left?",
+    "de": "Muss ich nach rechts oder links fahren?",
+    "groupCode": 1
+  },
+  {
+    "id": 11272,
+    "en": "Turn right (formal) at the next street",
+    "de": "Fahren Sie die nächste Straße rechts",
     "groupCode": 1
   }
 ]

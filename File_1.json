@@ -7353,7 +7353,7 @@
   },
   {
     "id": 4205,
-    "fa": "او (مرد) تبعید شد از وطن خودش برای صحبت کردن علیه دولت",
+    "fa": "او (مرد) تبعید شد از سرزمینش برای صحبت کردن علیه دولت",
     "en": "He was exiled from his homeland for speaking against the government",
     "groupCode": 0
   },
@@ -7554,6 +7554,36 @@
     "id": 4238,
     "fa": "از آنجایی که نام های مستعار نوع Kotlin در زمان اجرا پاک می شوند، Jackson نمی تواند تمایز قائل شدن بین نام های مستعار نوع که اشتراک گذاری می کنند نوع زیربنایی یکسان",
     "en": "Since Kotlin type aliases are erased at runtime, Jackson cannot distinguish between type aliases that share the same underlying type",
+    "groupCode": 0
+  },
+  {
+    "id": 4239,
+    "fa": "شیرها هیچوقت نمیتوانند کاملا رام شوند",
+    "en": "Lions can never be completely tamed",
+    "groupCode": 0
+  },
+  {
+    "id": 4240,
+    "fa": "احساساتی نشو",
+    "en": "\n 1.Don't get mushy \n 2.Don't get emotional",
+    "groupCode": 0
+  },
+  {
+    "id": 4241,
+    "fa": "زیاده روی نکن",
+    "en": "Don't overdo it",
+    "groupCode": 0
+  },
+  {
+    "id": 4242,
+    "fa": "بیایید تصمیم بگیریم آیا جلو بیاریم یا به تعویق بیندازیم عروسیمان را",
+    "en": "Let's decide whether to bring forward or put off our wedding",
+    "groupCode": 0
+  },
+  {
+    "id": 4243,
+    "fa": "آیا میتوانیم جلوتر بندازیم (بالا بیاریم) جلسه رو (با) دو روز؟",
+    "en": "Can we move up the meeting by two days?",
     "groupCode": 0
   }
 ]
