@@ -1125,6 +1125,7 @@
     "id": 3184,
     "fa": "آیا من می توانم پرداخت کنم اجاره آپارتمانم را برای کل سال جلوتر؟",
     "en": "Can I pay my apartment lease for the entire year upfront?",
+    "desc": "Lease: A long-term contract (usually 6–12 months or more). You agree to stay and pay for the whole period.\n\nRent: Short-term or month-to-month. More flexible and easier to stop.",
     "groupCode": 0
   },
   {
@@ -2151,7 +2152,7 @@
   },
   {
     "id": 3352,
-    "fa": "وقتیکه من هفته گذشته گم شدم، او (مرد) نمی دانست که من به دردسر افتاده بودم. اگر او (مرد) دانسته بود من کجا بودم، سوراخی در کیهان پاره می کرد (پاره کرده بود) تا تو را به خانه بیاورد",
+    "fa": "وقتیکه من هفته گذشته گم شدم، او (مرد) نمی دانست من به دردسر افتاده بودم. اگر او (مرد) دانسته بود من کجا بودم، او یک سوراخی در کیهان پاره می کرد (پاره کرده بود) تا مر را به خانه بیاورد",
     "en": "When I got lost last week, he didn't know I was in trouble. If he had known where I had been, he would have torn a hole in the universe to bring me home",
     "groupCode": 0
   },
@@ -7354,7 +7355,7 @@
   {
     "id": 4205,
     "fa": "او (مرد) تبعید شد از سرزمینش برای صحبت کردن علیه دولت",
-    "en": "He was exiled from his homeland for speaking against the government",
+    "en": "He was exiled (banished) from his homeland for speaking against the government",
     "groupCode": 0
   },
   {
@@ -7584,6 +7585,36 @@
     "id": 4243,
     "fa": "آیا میتوانیم جلوتر بندازیم (بالا بیاریم) جلسه رو (با) دو روز؟",
     "en": "Can we move up the meeting by two days?",
+    "groupCode": 0
+  },
+  {
+    "id": 4244,
+    "fa": "می بایستی تایید بشه که باشد به (در) نام شما",
+    "en": "It must be verified to be in your name",
+    "groupCode": 0
+  },
+  {
+    "id": 4245,
+    "fa": "خوشحالیست که شما خوب پیش میری و لذت ببر از تعطیلاتت",
+    "en": "Glad you doing well and enjoy your vacation",
+    "groupCode": 0
+  },
+  {
+    "id": 4246,
+    "fa": "چه خواهد برد (فرضی) برای شما برای برگشتن",
+    "en": "What would it take for you to come back?",
+    "groupCode": 0
+  },
+  {
+    "id": 4247,
+    "fa": "او (زن) دوید به سمت او (رفت با عجله) (مرد) بعد از جلسه تا تعریف کند ارائه اش",
+    "en": "She ran over to him after the meeting to compliment his presentation",
+    "groupCode": 0
+  },
+  {
+    "id": 4248,
+    "fa": "حرف او (مرد) پر از ابهام بود، بنابراین هیچ کس نمی دانست منظور واقعی او چه بود",
+    "en": "His statement was full of ambiguity, so no one knew what he really meant",
     "groupCode": 0
   }
 ]

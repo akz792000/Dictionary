@@ -3355,8 +3355,8 @@
   },
   {
     "id": 555,
-    "fa": "به رئیسم گفتم که نیاز به افزایش حقوق دارم و سه شرکت دیگر دنبال من می گشتند",
-    "en": "I told my boss I needed a pay rise and three other companies were chasing me",
+    "fa": "به رئیسم گفتم که نیاز به افزایش حقوق دارم و سه شرکت دیگر دارن دنبال من می گردند",
+    "en": "I told my boss I need a pay rise and three other companies are chasing me",
     "groupCode": 0
   },
   {
@@ -7806,7 +7806,7 @@
   },
   {
     "id": 1284,
-    "fa": "غیر آلمانی های عزیز، چرا آلمان را به جای آمریکا برای گرفتن شغل انتخاب کردید با وجود داشتن حقوق به مراتب کمتر؟",
+    "fa": "غیر آلمانی های عزیز، چرا آلمان را به جای آمریکا برای گرفتن یک شغل انتخاب کردید با وجود داشتن یک حقوق به مراتب کمتر؟",
     "en": "Dear non-Germans, why did you choose Germany over the US to get a job despite having a far lower salary?",
     "desc": "The use of \"a\" in \"despite having a far lower salary\" is necessary because it is a determiner that introduces the noun phrase \"a far lower salary.\" In English, determiners like \"a\" are typically used before singular nouns to indicate that you are referring to a specific instance or type of that noun. In this case, \"a far lower salary\" specifies the type of salary you are talking about.",
     "groupCode": 0
