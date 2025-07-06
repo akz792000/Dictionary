@@ -6879,7 +6879,7 @@
   },
   {
     "id": 11132,
-    "en": "Who can continue (make)?",
+    "en": "Who can further (make)?",
     "de": "Wer kann weiter machen?",
     "groupCode": 1
   },
@@ -7511,19 +7511,19 @@
   },
   {
     "id": 11236,
-    "en": "Drive straight ahead further",
+    "en": "Drive straight ahead further (Keep driving straight ahead)",
     "de": "Fahr geradeaus weiter",
     "groupCode": 1
   },
   {
     "id": 11237,
-    "en": "Please turn left",
+    "en": "Please turn left (turn (left/right) at a junction)",
     "de": "Bitte links abbiegen",
     "groupCode": 1
   },
   {
     "id": 11238,
-    "en": "Please turn around",
+    "en": "Please (formal) turn around (make a U-turn)",
     "de": "Bitte wenden Sie",
     "groupCode": 1
   },
@@ -7541,55 +7541,55 @@
   },
   {
     "id": 11241,
-    "en": "The bar is at the cube",
+    "en": "The bar (rod, stick) is at the cube",
     "de": "Der Stab ist an dem Würfel",
     "groupCode": 1
   },
   {
     "id": 11242,
-    "en": "The bar is above the pyramid",
+    "en": "The bar (rod, stick) is above the pyramid",
     "de": "Der Stab ist über der Pyramide",
     "groupCode": 1
   },
   {
     "id": 11243,
-    "en": "The bar is under the pyramid",
+    "en": "The bar (rod, stick) is under the pyramid",
     "de": "Der Stab ist unter der Pyramide",
     "groupCode": 1
   },
   {
     "id": 11244,
-    "en": "The bar is next to the cube",
+    "en": "The bar (rod, stick) is next to the cube",
     "de": "Der Stab ist neben dem Würfel",
     "groupCode": 1
   },
   {
     "id": 11245,
-    "en": "The bar is in front of the cube",
+    "en": "The bar (rod, stick) is in front of the cube",
     "de": "Der Stab ist vor dem Würfel",
     "groupCode": 1
   },
   {
     "id": 11246,
-    "en": "The bar is between the cubes",
+    "en": "The bar (rod, stick) is between the cubes",
     "de": "Der Stock ist zwischen den Würfeln",
     "groupCode": 1
   },
   {
     "id": 11247,
-    "en": "The stick is on the cube",
+    "en": "The bar (rod, stick) is on the cube",
     "de": "Der Stab ist auf dem Würfel",
     "groupCode": 1
   },
   {
     "id": 11248,
-    "en": "The stick is behind the cube",
+    "en": "The bar (rod, stick) is behind the cube",
     "de": "Der Stab ist hinter dem Würfel",
     "groupCode": 1
   },
   {
     "id": 11249,
-    "en": "The rod is in the cube",
+    "en": "The bar (rod, stick) is in the cube",
     "de": "Der Stab ist in dem Würfel",
     "groupCode": 1
   },
@@ -7631,37 +7631,37 @@
   },
   {
     "id": 11256,
-    "en": "Is the Maritim Hotel in the center?",
-    "de": "Das Maritim Hotel ist im Zentrum?",
+    "en": "Is the Maritim Hotel in the center? No, between the train station and the cathedral",
+    "de": "Das Maritim Hotel ist im Zentrum? Nein, zwischen dem Bahnhof und dem Dom",
     "groupCode": 1
   },
   {
     "id": 11257,
-    "en": "Yes, between the train station and the cathedral",
-    "de": "Ja, zwischen dem Bahnhof und dem Dom",
+    "en": "Do you like to eat yogurt?",
+    "de": "Isst du gern Joghurt?",
     "groupCode": 1
   },
   {
     "id": 11258,
-    "en": "Then you will pass under a bridge",
-    "de": "Dann kommen Sie unter einer Brücke durch",
+    "en": "The country is France",
+    "de": "Das Land ist Frankreich",
     "groupCode": 1
   },
   {
     "id": 11259,
-    "en": "At the traffic light, turn left (formal)",
+    "en": "At the traffic light turn left (formal)",
     "de": "An der Ampel fahren Sie nach links",
     "groupCode": 1
   },
   {
     "id": 11260,
-    "en": "Drive (formal) past the cafés",
-    "de": "An den Cafés fahren Sie vorbei",
+    "en": "The zip code is 12345",
+    "de": "Die Postleitzahl ist 12345",
     "groupCode": 1
   },
   {
     "id": 11261,
-    "en": "I'm also a stranger here",
+    "en": "I'm also a foreign here",
     "de": "Ich bin auch fremd hier",
     "groupCode": 1
   },
@@ -7673,8 +7673,8 @@
   },
   {
     "id": 11263,
-    "en": "Where is the train station here?",
-    "de": "Wo ist denn hier der Bahnhof?",
+    "en": "What are you ordering? I'm ordering the sunglasses",
+    "de": "Was bestellst du? Ich bestelle die Sonnenbrille",
     "groupCode": 1
   },
   {
@@ -7685,8 +7685,8 @@
   },
   {
     "id": 11265,
-    "en": "Turn around (formal) here",
-    "de": "Wenden Sie hier",
+    "en": "I have lost my bag",
+    "de": "Ich habe meine Tasche verloren",
     "groupCode": 1
   },
   {
@@ -7698,7 +7698,7 @@
   {
     "id": 11267,
     "en": "I am looking for the train station",
-    "de": "Ich suche den Bahnhof.",
+    "de": "Ich suche den Bahnhof",
     "groupCode": 1
   },
   {
@@ -7715,20 +7715,68 @@
   },
   {
     "id": 11270,
-    "en": "You drive straight ahead",
-    "de": "Sie fahren geradeaus",
+    "en": "I have found the key",
+    "de": "Ich habe den Schlüssel gefunden",
     "groupCode": 1
   },
   {
     "id": 11271,
-    "en": "Should I turn right or left?",
+    "en": "Should I drive right or left?",
     "de": "Muss ich nach rechts oder links fahren?",
     "groupCode": 1
   },
   {
     "id": 11272,
-    "en": "Turn right (formal) at the next street",
-    "de": "Fahren Sie die nächste Straße rechts",
+    "en": "The football game is very exciting",
+    "de": "Das Fußballspiel ist sehr aufregend",
+    "groupCode": 1
+  },
+  {
+    "id": 11273,
+    "en": "How do someone spell lighter?",
+    "de": "Wie schreibt man feuerzeug?",
+    "groupCode": 1
+  },
+  {
+    "id": 11274,
+    "en": "Excuse me, what is that called in German",
+    "de": "Entschuldigung, wie heißt das auf deutsch?",
+    "groupCode": 1
+  },
+  {
+    "id": 11275,
+    "en": "The wallet is brown",
+    "de": "Der Geldbeutel ist braun",
+    "groupCode": 1
+  },
+  {
+    "id": 11276,
+    "en": "The lighter is red",
+    "de": "Das Feuerzeug ist rot",
+    "groupCode": 1
+  },
+  {
+    "id": 11277,
+    "en": "The tissue is clean",
+    "de": "Das Taschentuch ist sauber",
+    "groupCode": 1
+  },
+  {
+    "id": 11278,
+    "en": "It's raining todady. Where is the umbrella?",
+    "de": "Es regnet heute. Wo ist der Regenschirm (Schirm)?",
+    "groupCode": 1
+  },
+  {
+    "id": 11279,
+    "en": "What do you do? I have two jobs. I work as a hairdresser and as a waiter/waitress",
+    "de": "Was arbeitest du? Ich habe zwei Jobs. Ich arbeite als Friseur/Friseurin und als Kellner/kellnerin",
+    "groupCode": 1
+  },
+  {
+    "id": 11280,
+    "en": "I am a software engineer and work as a backend engineer at knauf",
+    "de": "Ich bin Software Ingenieur/Ingenieurin und arbeite als Backend Ingenieur/Ingenieurin bei knauf",
     "groupCode": 1
   }
 ]
