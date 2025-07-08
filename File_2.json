@@ -1161,7 +1161,7 @@
   },
   {
     "id": 10190,
-    "en": "I'm going (make) (on) an excursion at the weekend",
+    "en": "I do (on) an excursion at the weekend",
     "de": "Ich mache am Wochenende einen Ausflug",
     "groupCode": 1
   },
@@ -1624,7 +1624,7 @@
   {
     "id": 10265,
     "en": "No, we unfortunately do not have a double room free",
-    "de": "Nein ,wir haben leider kein Doppelzimmer frei",
+    "de": "Nein, wir haben leider kein Doppelzimmer frei",
     "groupCode": 1
   },
   {
@@ -2186,7 +2186,7 @@
   },
   {
     "id": 10357,
-    "en": "We would like to do (make) an excursion this afternoon",
+    "en": "We would like to do an excursion this afternoon",
     "de": "Wir möchten heute Nachmittag einen Ausflug machen",
     "groupCode": 1
   },
@@ -2380,7 +2380,7 @@
   },
   {
     "id": 10389,
-    "en": "We're having (make) a party on the tenth of July",
+    "en": "We're doing a party on the tenth of July",
     "de": "Wir machen am zehnten Juli eine Party",
     "groupCode": 1
   },
@@ -3645,7 +3645,7 @@
   },
   {
     "id": 10598,
-    "en": "Are we working or are we having (make) a picnic? Your dad is so sweet (love), he's making a picnic for us",
+    "en": "Are we working or are we doing a picnic? Your dad is so sweet (love), he's making a picnic for us",
     "de": "Arbeiten wir oder machen wir ein Picknick? Dein Papa ist so lieb, er macht für uns ein Picknick",
     "groupCode": 1
   },
@@ -4565,7 +4565,7 @@
   },
   {
     "id": 10750,
-    "en": "My grandson is doing (make) an internship",
+    "en": "My grandson is doing an internship",
     "de": "Mein Enkel macht ein praktikum",
     "groupCode": 1
   },
@@ -4826,7 +4826,7 @@
   },
   {
     "id": 10793,
-    "en": "I'm taking (make) a break",
+    "en": "I do a break",
     "de": "Ich mache eine Pause",
     "groupCode": 1
   },
@@ -4956,7 +4956,7 @@
   },
   {
     "id": 10814,
-    "en": "She always has pens of different colors in her bag. With the pens she writes on the board",
+    "en": "She always has pens in different colors in her bag. With the pens she writes at the board",
     "de": "Sie hat immer Stifte in verschiedenen Farben in ihrer Tasche. Mit diesen Stiften schreibt sie an der Tafel",
     "desc": "„Mit den Stiften“\n\n„mit“ is a dative preposition → it always requires the dative case.\n\n„Stift“ (pen) → plural: „Stifte“\n\nIn the dative plural, most nouns add -n, if they don't already end in -n.",
     "groupCode": 1
@@ -5764,6 +5764,7 @@
     "id": 10947,
     "en": "(The) Most people like pizza",
     "de": "Die meisten Leute mögen Pizza",
+    "desc": "\"die meisten\" = most (of the) (plural form)\n\n\"die meiste\" = most of the (singular feminine)",
     "groupCode": 1
   },
   {
@@ -6449,7 +6450,7 @@
   },
   {
     "id": 11061,
-    "en": "Do you want to invite me to my favorite restaurant?",
+    "en": "Do you want to invite me to (in) my favorite restaurant?",
     "de": "Willst du mich in mein Lieblingsrestaurant einladen?",
     "desc": "In: You're inviting someone to go into a place (restaurant)",
     "groupCode": 1
@@ -6734,7 +6735,7 @@
   },
   {
     "id": 11108,
-    "en": "I'm having (make) a party tomorrow, can you come?",
+    "en": "I do a party tomorrow, can you come?",
     "de": "Ich mache morgen eine Party, kannst du kommen?",
     "groupCode": 1
   },
@@ -6752,7 +6753,7 @@
   },
   {
     "id": 11111,
-    "en": "Someone brings me to the airport soon (in a moment) and I fly again to Bonn",
+    "en": "Someone brings me to (toward) the airport soon (in a moment) and I fly again to Bonn",
     "de": "Jemand bringt mich gleich zum Flughafen und ich fliege wieder nach Bonn",
     "groupCode": 1
   },
@@ -6814,6 +6815,7 @@
     "id": 11121,
     "en": "The jacket has a lot of room/width",
     "de": "Die Jacke hat viel Weite",
+    "desc": "viel → used with uncountable nouns\n\nviele → used with countable nouns (plural)",
     "groupCode": 1
   },
   {
@@ -6842,7 +6844,7 @@
   },
   {
     "id": 11126,
-    "en": "Where are my motorcycle keys? Your keys lay (are placed) often in comic places",
+    "en": "Where are my motorcycle keys? Your keys lay (are placed) often at comic places",
     "de": "Wo sind meine Motorradschlüssel? Deine Schlüssel liegen oft an komischen Orten",
     "desc": "We use \"an\" with places to say where something is.\n\n\uD83D\uDFE2 \"liegen an Orten\" = \"lie at places\"",
     "groupCode": 1
@@ -6879,7 +6881,7 @@
   },
   {
     "id": 11132,
-    "en": "Who can further (make)?",
+    "en": "Who can do further?",
     "de": "Wer kann weiter machen?",
     "groupCode": 1
   },
@@ -7336,7 +7338,7 @@
   },
   {
     "id": 11207,
-    "en": "We're having (make) a picnic at the weekend. Can you come?",
+    "en": "We do a picnic at the weekend. Can you come?",
     "de": "Wir machen am Wochenende ein picknick. Kannst du kommen?",
     "groupCode": 1
   },
@@ -7499,7 +7501,7 @@
   },
   {
     "id": 11234,
-    "en": "Today is no class? Oh, I did not receive the information",
+    "en": "Today is no teaching? Oh, I did not receive the information",
     "de": "Heute ist kein Unterricht? Oh, ich habe die Information nicht bekommen",
     "groupCode": 1
   },
@@ -7595,7 +7597,7 @@
   },
   {
     "id": 11250,
-    "en": "The restaurant is to the left of the café",
+    "en": "The restaurant is left near the café",
     "de": "Das Restaurant ist links neben dem Cafe",
     "groupCode": 1
   },
@@ -7613,13 +7615,13 @@
   },
   {
     "id": 11253,
-    "en": "The traffic light is on/at the street / at the intersection of the streets",
-    "de": "Die Ampel ist an der Straße / an der Kreuzung der Straßen",
+    "en": "The traffic light is at the street at the intersection of the streets",
+    "de": "Die Ampel ist an der Straße an der Kreuzung der Straßen",
     "groupCode": 1
   },
   {
     "id": 11254,
-    "en": "The bridge is on/at the street, to the left of the traffic light",
+    "en": "The bridge is at the street, to the left of the traffic light",
     "de": "Die Brücke ist an der Straße neben der Ampel, links neben der Ampel",
     "groupCode": 1
   },
@@ -7627,6 +7629,7 @@
     "id": 11255,
     "en": "That is in the city center",
     "de": "Das ist in der Stadtmitte",
+    "desc": "Stadtmitte = middle of the city (often geographic)\n\nStadtzentrum = city center (main area with shops, offices)",
     "groupCode": 1
   },
   {
@@ -7637,7 +7640,7 @@
   },
   {
     "id": 11257,
-    "en": "Do you like to eat yogurt?",
+    "en": "Do you like eatting yogurt?",
     "de": "Isst du gern Joghurt?",
     "groupCode": 1
   },
@@ -7669,6 +7672,7 @@
     "id": 11262,
     "en": "Drive (formal) one kilometer straight ahead, and then you (formal) see it",
     "de": "Fahren Sie einen Kilometer geradeaus, und dann sehen Sie es",
+    "desc": "\"Kilometer\" is a masculine noun in German:\n➡\uFE0F der Kilometer (nominative)\n\nIn this sentence, you are traveling a distance → the noun is the direct object\n➡\uFE0F So we use the accusative case",
     "groupCode": 1
   },
   {
@@ -7709,7 +7713,7 @@
   },
   {
     "id": 11269,
-    "en": "You turn right",
+    "en": "You (formal) turn right",
     "de": "Sie biegen rechts ab",
     "groupCode": 1
   },
@@ -7721,7 +7725,7 @@
   },
   {
     "id": 11271,
-    "en": "Should I drive right or left?",
+    "en": "Should I drive to right or left?",
     "de": "Muss ich nach rechts oder links fahren?",
     "groupCode": 1
   },
@@ -7733,7 +7737,7 @@
   },
   {
     "id": 11273,
-    "en": "How do someone spell lighter?",
+    "en": "How do someone write lighter?",
     "de": "Wie schreibt man feuerzeug?",
     "groupCode": 1
   },
@@ -7769,7 +7773,7 @@
   },
   {
     "id": 11279,
-    "en": "What do you do? I have two jobs. I work as a hairdresser and as a waiter/waitress",
+    "en": "What do you do (job)? I have two jobs. I work as a hairdresser and as a waiter/waitress",
     "de": "Was arbeitest du? Ich habe zwei Jobs. Ich arbeite als Friseur/Friseurin und als Kellner/kellnerin",
     "groupCode": 1
   },
@@ -7777,6 +7781,66 @@
     "id": 11280,
     "en": "I am a software engineer and work as a backend engineer at knauf",
     "de": "Ich bin Software Ingenieur/Ingenieurin und arbeite als Backend Ingenieur/Ingenieurin bei knauf",
+    "groupCode": 1
+  },
+  {
+    "id": 11281,
+    "en": "I like your carpet",
+    "de": "Ich mag deinen Teppich",
+    "groupCode": 1
+  },
+  {
+    "id": 11282,
+    "en": "The others come from Brazil and from Romania",
+    "de": "Die anderen kommen aus Brasilien und aus Rumänien",
+    "groupCode": 1
+  },
+  {
+    "id": 11283,
+    "en": "Don't you come from Brazil? No, I don't come from Brazil. I come from Turkey",
+    "de": "Kommst du nicht aus Brasilien? Nein, Ich komme nicht aus Brasilien. Ich komme aus der Turkei",
+    "groupCode": 1
+  },
+  {
+    "id": 11284,
+    "en": "The camera is new",
+    "de": "Die Kamera ist neu",
+    "groupCode": 1
+  },
+  {
+    "id": 11285,
+    "en": "I see something! Do you see it too?",
+    "de": "Ich sehe etwas! Siehst du es auch?",
+    "groupCode": 1
+  },
+  {
+    "id": 11286,
+    "en": "Materials (wood, paper, metal)",
+    "de": "Materialien (Holz, Papier, Metal)",
+    "groupCode": 1
+  },
+  {
+    "id": 11287,
+    "en": "Good morning! Would you (formal) like to drink tea or kaffee?",
+    "de": "Guten Morgen! Möchten Sie Tee oder Kaffee trinken?",
+    "groupCode": 1
+  },
+  {
+    "id": 11288,
+    "en": "Do you love your cat or your fish? No, I love my snail and my dog",
+    "de": "Liebst du deine Katze oder deinen Fisch? Nein, Ich liebe meine Schnecke und meinen Hund",
+    "groupCode": 1
+  },
+  {
+    "id": 11289,
+    "en": "I do not eat fish! I'm vegetarian",
+    "de": "Ich esse keinen Fisch! Ich bin vegetarier",
+    "groupCode": 1
+  },
+  {
+    "id": 11290,
+    "en": "What does Bruno answer?",
+    "de": "Was antwortet Bruno?",
     "groupCode": 1
   }
 ]

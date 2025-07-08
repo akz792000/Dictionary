@@ -3676,7 +3676,7 @@
   },
   {
     "id": 3600,
-    "fa": "من می خواستم بپرسم آیا هر دو مسئول تمیز کردن برای میزها بودند، همانطور که به نظر می رسد هر دو درگیر بودن در خط خطی کردن روی میزها",
+    "fa": "من می خواستم بپرسم آیا هر دو مسئول تمیز کردن برای میزها بودند، همانطور که به نظر می رسد آنها هر دو درگیر بودن در خط خطی کردن روی میزها",
     "en": "I wanted to ask if both were being held responsible for cleaning the tables, as it seems they were both involved in scribbling on the tables",
     "groupCode": 0
   },
@@ -5127,7 +5127,7 @@
   },
   {
     "id": 3839,
-    "fa": "این یک تورنمنت خواهد بود برخلاف هر (تورنمنت) دیگر",
+    "fa": "این خواهد بود یک تورنمنت برخلاف هر (تورنمنت) دیگر",
     "en": "This will be a tournament unlike any other",
     "groupCode": 0
   },
@@ -7109,7 +7109,7 @@
   },
   {
     "id": 4165,
-    "fa": "توی ترافیک راهشو (مرد) بسته شد و انگشت وسط خود رو پشت سر راننده دیگر گرفت",
+    "fa": "توی ترافیک راهشو (مرد) بسته شد و انگشت وسط خودرو پشت سر راننده دیگر گرفت",
     "en": "He got cut off in traffic and flipped the other driver off",
     "groupCode": 0
   },
@@ -7595,8 +7595,8 @@
   },
   {
     "id": 4245,
-    "fa": "خوشحالیست که شما خوب پیش میری و لذت ببر از تعطیلاتت",
-    "en": "Glad you doing well and enjoy your vacation",
+    "fa": "خوشحالیست که شما خوب انجام می دهی و لذت ببر از تعطیلاتت",
+    "en": "Glad you're doing well and enjoying your vacation",
     "groupCode": 0
   },
   {
@@ -7615,6 +7615,36 @@
     "id": 4248,
     "fa": "حرف او (مرد) پر از ابهام بود، بنابراین هیچ کس نمی دانست منظور واقعی او چه بود",
     "en": "His statement was full of ambiguity, so no one knew what he really meant",
+    "groupCode": 0
+  },
+  {
+    "id": 4249,
+    "fa": "می تونم من بگیرم برخی توصیه ها از شما؟",
+    "en": "Can I get some advice from you?",
+    "groupCode": 0
+  },
+  {
+    "id": 4250,
+    "fa": "او (مرد) از روی کینه گوشی اش (زن) را شکست",
+    "en": "He broke her phone out of spite",
+    "groupCode": 0
+  },
+  {
+    "id": 4251,
+    "fa": "او از روی کینه عمل کرد",
+    "en": "She acted with malice",
+    "groupCode": 0
+  },
+  {
+    "id": 4252,
+    "fa": "باش بخشی از یک جامعه پویا که اشتراک می گذارد و رشد می کند با هم",
+    "en": "Be part of a vibrant community that shares and grows together",
+    "groupCode": 0
+  },
+  {
+    "id": 4253,
+    "fa": "من پختم عدس برای شام",
+    "en": "I cooked lentils for dinner",
     "groupCode": 0
   }
 ]
