@@ -3404,7 +3404,7 @@
   },
   {
     "id": 10558,
-    "en": "Drive (formal) straight for about 11 minutes",
+    "en": "Drive (formal) straight ahead for about 11 minutes",
     "de": "Fahren Sie circa 11 Minuten geradeaus",
     "groupCode": 1
   },
@@ -7652,7 +7652,7 @@
   },
   {
     "id": 11259,
-    "en": "At the traffic light turn left (formal)",
+    "en": "At the traffic light drive to left (formal)",
     "de": "An der Ampel fahren Sie nach links",
     "groupCode": 1
   },
@@ -7859,6 +7859,63 @@
     "id": 11293,
     "en": "Smoking is not allowed here, it is strictly forbidden",
     "de": "Rauchen ist hier nicht erlaubt, es ist streng verboten",
+    "groupCode": 1
+  },
+  {
+    "id": 11294,
+    "en": "My name is Ali and Friday is my favorite day (of) the week",
+    "de": "Mein name ist Ali und freitag ist mein lieblingstag der woche",
+    "desc": "mein Lieblingstag der Woche\n= my favorite day of the week\n→ \"der\" is genitive feminine, not nominative or dative.",
+    "groupCode": 1
+  },
+  {
+    "id": 11295,
+    "en": "I tell you",
+    "de": "Ich erzähle dir",
+    "groupCode": 1
+  },
+  {
+    "id": 11296,
+    "en": "On Friday I always wake up (with) in a good mood",
+    "de": "Am freitag wache ich immer mit guter laune auf",
+    "groupCode": 1
+  },
+  {
+    "id": 11297,
+    "en": "Today I don't have to rush to work",
+    "de": "Heute muss ich mich nicht zur arbeit beeilen",
+    "groupCode": 1
+  },
+  {
+    "id": 11298,
+    "en": "You hurry yourself",
+    "de": "Du beeilst dich",
+    "desc": "Reflexive verbs need a reflexive pronoun that refers back to the subject.",
+    "groupCode": 1
+  },
+  {
+    "id": 11299,
+    "en": "\n Reflexive pronoun - Accusative \n myself, yourself, himself/herself/itself, ourselves, yourselves, themselves/yourself (formal)",
+    "de": "\n Reflexivpronomen - Akkusativ \n mich, dich, sich(M/F/N), uns, euch, sich/sich (formal) \n Ich beeile mich",
+    "groupCode": 1
+  },
+  {
+    "id": 11300,
+    "en": "\n Reflexive pronoun - Dative \n to myself, to yourself, to himself/herself/itself, to ourselves, to yourselves, to themselves/yourself (formal)",
+    "de": "\n Reflexivpronomen - Dativ \n mir, dir, sich(M/F/N), uns, euch, sich/sich (formal) \n Ich wasche mir die Hände",
+    "groupCode": 1
+  },
+  {
+    "id": 11301,
+    "en": "I clean (for) myself quickly the teeth",
+    "de": "Ich putze mir schnell die zähne",
+    "desc": "Reflexive + Dative + definite article (\"die Zähne\")\n\nMore natural and idiomatic in German.\n\nThis structure is often used when referring to body parts or things belonging to the subject.",
+    "groupCode": 1
+  },
+  {
+    "id": 11302,
+    "en": "I wash (for) myself the hands",
+    "de": "Ich wasche mir die Hände",
     "groupCode": 1
   }
 ]

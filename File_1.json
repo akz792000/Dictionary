@@ -7665,5 +7665,48 @@
     "fa": "از این به بعد, ما نیاز داریم مراقب باشیم",
     "en": "Going forward, we need to be careful",
     "groupCode": 0
+  },
+  {
+    "id": 4257,
+    "fa": "از این به بعد, ما نیاز داریم مراقب باشیم",
+    "en": "Going forward, we need to be careful",
+    "groupCode": 0
+  },
+  {
+    "id": 4258,
+    "fa": "من آرزو می کردم من داشتم یک خزنده پله نوردی الکتریکی برای جابجا کردن پدر معلولم",
+    "en": "I wish I had an electric stair climbing crawler for transporting my disabled father",
+    "groupCode": 0
+  },
+  {
+    "id": 4259,
+    "fa": "بگذار گذشته ها گذشته بمانند",
+    "en": "Let bygones be bygones",
+    "groupCode": 0
+  },
+  {
+    "id": 4260,
+    "fa": "امتحان کردن ضرری نداره",
+    "en": "Can't hurt to try",
+    "groupCode": 0
+  },
+  {
+    "id": 4261,
+    "fa": "از خاطرم رفت (لغزید)",
+    "en": "It slipped my mind",
+    "groupCode": 0
+  },
+  {
+    "id": 4262,
+    "fa": "تو خودت خواستی",
+    "en": "You asked for it",
+    "groupCode": 0
+  },
+  {
+    "id": 4263,
+    "fa": "من التماس می کنم که تصمیم تان را دوباره درنظر بگیرید",
+    "en": "I plead with you to reconsider your decision",
+    "desc": "I plead with you\n— sounds a bit more formal or serious, like making a heartfelt appeal.\n\nI beg you\n— more emotional and urgent, sometimes more desperate.",
+    "groupCode": 0
   }
 ]
