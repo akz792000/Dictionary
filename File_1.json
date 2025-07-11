@@ -5356,7 +5356,7 @@
   },
   {
     "id": 3877,
-    "fa": "او (زن) همیشه آرام و مطیع بود در اطراف رئیسش",
+    "fa": "او (زن) همیشه ساکت و مطیع بود در اطراف رئیسش",
     "en": "She was always quiet and submissive around her boss",
     "groupCode": 0
   },
@@ -6530,7 +6530,7 @@
   {
     "id": 4070,
     "fa": "بس کن احمق فرض کردن من را. من بازی را می فهمم به خوبی (انجام دادن) شما",
-    "en": "Stop patronizing me. I understand the play as well as you do",
+    "en": "Stop patronizing /ˈpātrəˌnīziNG/ me. I understand the play as well as you do",
     "groupCode": 0
   },
   {
@@ -7421,7 +7421,7 @@
   {
     "id": 4216,
     "fa": "او (مرد) یک لحن تحقیرآمیزی داشت",
-    "en": "\n 1.He was patronizing \n 2.He had a patronizing tone",
+    "en": "\n 1.He was patronizing /ˈpātrəˌnīziNG/ \n 2.He had a patronizing tone",
     "groupCode": 0
   },
   {
@@ -7609,11 +7609,12 @@
     "id": 4247,
     "fa": "او (زن) دوید به سمت او (رفت با عجله) (مرد) بعد از جلسه تا تعریف کند ارائه اش",
     "en": "She ran over to him after the meeting to compliment his presentation",
+    "desc": "\"ran over to him\" = she moved quickly toward him (direction).",
     "groupCode": 0
   },
   {
     "id": 4248,
-    "fa": "حرف او (مرد) پر از ابهام بود، بنابراین هیچ کس نمی دانست منظور واقعی او چه بود",
+    "fa": "عبارت او (مرد) پر از ابهام بود، بنابراین هیچ کس نمی دانست چه منظور داشت واقعا او",
     "en": "His statement was full of ambiguity, so no one knew what he really meant",
     "groupCode": 0
   },
@@ -7631,20 +7632,38 @@
   },
   {
     "id": 4251,
-    "fa": "او از روی کینه عمل کرد",
-    "en": "She acted with malice",
+    "fa": "او (زن) با کینه عمل کرد",
+    "en": "She acted with malice /ˈmæləs/",
     "groupCode": 0
   },
   {
     "id": 4252,
-    "fa": "باش بخشی از یک جامعه پویا که اشتراک می گذارد و رشد می کند با هم",
-    "en": "Be part of a vibrant community that shares and grows together",
+    "fa": "باش بخشی از یک اجتماع پویا که اشتراک می گذارد و رشد می کند با هم",
+    "en": "Be part of a vibrant /ˈvaɪbrənt/ community that shares and grows together",
     "groupCode": 0
   },
   {
     "id": 4253,
-    "fa": "من پختم عدس برای شام",
+    "fa": "من پختم عدس (عدس ها) برای شام",
     "en": "I cooked lentils for dinner",
+    "groupCode": 0
+  },
+  {
+    "id": 4254,
+    "fa": "ا چه کسی تماس بگیرم برای گرفتن این حق؟",
+    "en": "Who do I contact to get this right?",
+    "groupCode": 0
+  },
+  {
+    "id": 4255,
+    "fa": "این می شود یک الگویی برای هر رژیم سرکش از این به بعد",
+    "en": "This becomes a blueprint for every rogue regime going forward",
+    "groupCode": 0
+  },
+  {
+    "id": 4256,
+    "fa": "از این به بعد, ما نیاز داریم مراقب باشیم",
+    "en": "Going forward, we need to be careful",
     "groupCode": 0
   }
 ]

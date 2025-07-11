@@ -5617,8 +5617,8 @@
   },
   {
     "id": 10923,
-    "en": "The supermarket and the bakery are in the city center. I go into the bakery and into supermarket and I buy cakes",
-    "de": "Der supermarkt und die bäckerei sind im stadtzentrum. ich gehe in die bäckerei und in den Supermarkt und ich kaufe Kuchen",
+    "en": "The supermarket and the bakery are in the city center. I go into the bakery and into the supermarket and I buy cakes",
+    "de": "Der supermarkt und die bäckerei sind im stadtzentrum. Ich gehe in die bäckerei und in den Supermarkt und ich kaufe Kuchen",
     "groupCode": 1
   },
   {
@@ -5902,8 +5902,8 @@
   },
   {
     "id": 10970,
-    "en": "Whom do I pick up? I'm not paying any bills this month, you pay everything",
-    "de": "Wen hole ich ab? Ich zahle diesen monat keine Rechnungen, du zahlst alles",
+    "en": "I'm not paying any bills this month, you pay everything",
+    "de": "Ich zahle diesen monat keine Rechnungen, du zahlst alles",
     "groupCode": 1
   },
   {
@@ -6615,7 +6615,7 @@
   },
   {
     "id": 11088,
-    "en": "I don't really like cycling with the bike. I prefer to take the car",
+    "en": "I don't very like cycling with the bike. I prefer to take the car",
     "de": "Ich fahre nicht so gern mit dem Rad. Ich nehme lieber das Auto",
     "groupCode": 1
   },
@@ -6992,7 +6992,7 @@
   },
   {
     "id": 11150,
-    "en": "Sometimes we watch movies in German course",
+    "en": "Sometimes we watch movies in the German course",
     "de": "Manchmal sehen wir im Deutschkurs Filme an",
     "desc": "sehen = to see (general)\nansehen = to look at / watch (on purpose)\n\nExample:\n\nIch sehe dich. → I see you.\n\nIch sehe mir den Film an. → I watch the movie.",
     "groupCode": 1
@@ -7615,14 +7615,14 @@
   },
   {
     "id": 11253,
-    "en": "The traffic light is at the street at the intersection of the streets",
-    "de": "Die Ampel ist an der Straße an der Kreuzung der Straßen",
+    "en": "The traffic light is at the intersection",
+    "de": "Die Ampel ist an der Kreuzung",
     "groupCode": 1
   },
   {
     "id": 11254,
-    "en": "The bridge is at the street, to the left of the traffic light",
-    "de": "Die Brücke ist an der Straße neben der Ampel, links neben der Ampel",
+    "en": "The bridge is at the street, to the left next to the traffic light",
+    "de": "Die Brücke ist an der Straße, links neben der Ampel",
     "groupCode": 1
   },
   {
@@ -7743,7 +7743,7 @@
   },
   {
     "id": 11274,
-    "en": "Excuse me, what is that called in German",
+    "en": "Excuse me, how is that called in German",
     "de": "Entschuldigung, wie heißt das auf deutsch?",
     "groupCode": 1
   },
@@ -7841,6 +7841,24 @@
     "id": 11290,
     "en": "What does Bruno answer?",
     "de": "Was antwortet Bruno?",
+    "groupCode": 1
+  },
+  {
+    "id": 11291,
+    "en": "Whom do I pick up?",
+    "de": "Wen hole ich ab?",
+    "groupCode": 1
+  },
+  {
+    "id": 11292,
+    "en": "The trip was exciting, and I was very excited",
+    "de": "Die Reise war aufregend, und ich war sehr aufgeregt",
+    "groupCode": 1
+  },
+  {
+    "id": 11293,
+    "en": "Smoking is not allowed here, it is strictly forbidden",
+    "de": "Rauchen ist hier nicht erlaubt, es ist streng verboten",
     "groupCode": 1
   }
 ]
