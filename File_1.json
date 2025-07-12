@@ -5898,7 +5898,7 @@
   },
   {
     "id": 3966,
-    "fa": "او (مرد) هیچوقت از انجام دادن وظیفه اش ( از شدت درد یا ترس ) عقب نکشید",
+    "fa": "او (مرد) هیچوقت از انجام دادن وظیفه اش (از شدت درد یا ترس ) عقب نکشید",
     "en": "He never flinched from doing his duty",
     "groupCode": 0
   },
@@ -7414,7 +7414,7 @@
   },
   {
     "id": 4215,
-    "fa": "طوفان خرابکاری آورد",
+    "fa": "طوفان ویرانی (انهدام) آورد",
     "en": "The storm brought obliteration",
     "groupCode": 0
   },
@@ -7650,7 +7650,7 @@
   },
   {
     "id": 4254,
-    "fa": "ا چه کسی تماس بگیرم برای گرفتن این حق؟",
+    "fa": "(با) چه کسی تماس بگیرم برای گرفتن این حق؟",
     "en": "Who do I contact to get this right?",
     "groupCode": 0
   },
@@ -7662,8 +7662,8 @@
   },
   {
     "id": 4256,
-    "fa": "از این به بعد, ما نیاز داریم مراقب باشیم",
-    "en": "Going forward, we need to be careful",
+    "fa": "آنها عقب کشیدند از پذیرفتن مسئولیت",
+    "en": "They flinched from taking responsibility",
     "groupCode": 0
   },
   {
@@ -7707,6 +7707,30 @@
     "fa": "من التماس می کنم که تصمیم تان را دوباره درنظر بگیرید",
     "en": "I plead with you to reconsider your decision",
     "desc": "I plead with you\n— sounds a bit more formal or serious, like making a heartfelt appeal.\n\nI beg you\n— more emotional and urgent, sometimes more desperate.",
+    "groupCode": 0
+  },
+  {
+    "id": 4264,
+    "fa": "یه عالمه قند زیان آور است به بدن شما",
+    "en": "Too much sugar is detrimental to your body",
+    "groupCode": 0
+  },
+  {
+    "id": 4265,
+    "fa": "کمبود خواب زیان آور است به عملکرد شما",
+    "en": "Lack of sleep is detrimental to your performance",
+    "groupCode": 0
+  },
+  {
+    "id": 4266,
+    "fa": "او (زن) عقب نکشید از گفتن حقیقت",
+    "en": "She didn't flinch from telling the truth",
+    "groupCode": 0
+  },
+  {
+    "id": 4267,
+    "fa": "رو چه کسی تو می تونی حساب کنی؟",
+    "en": "Who can you count on?",
     "groupCode": 0
   }
 ]

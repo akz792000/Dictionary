@@ -6639,13 +6639,13 @@
   },
   {
     "id": 11092,
-    "en": "I spend more on (for) my cell phone",
+    "en": "For my cell phone I spend more",
     "de": "Für mein Handy gebe ich mehr aus",
     "groupCode": 1
   },
   {
     "id": 11093,
-    "en": "I spend the most on (for) clothes",
+    "en": "The most I spend on (for) clothes",
     "de": "Am meisten gebe ich für Kleidung aus",
     "groupCode": 1
   },
@@ -7917,5 +7917,82 @@
     "en": "I wash (for) myself the hands",
     "de": "Ich wasche mir die Hände",
     "groupCode": 1
+  },
+  {
+    "id": 11303,
+    "en": "We have holidays again in three months",
+    "de": "Wir haben in drei Monaten wieder Ferien",
+    "groupCode": 1
+  },
+  {
+    "id": 11304,
+    "en": "On the chair here lays dirty clothes",
+    "de": "Auf dem Stuhl hier liegt schmutzige Kleidung",
+    "desc": "\"Kleidung\" in German is singular ",
+    "groupCode": 1
+  },
+  {
+    "id": 11305,
+    "en": "Spring, Summer, Autumn, Winter",
+    "de": "Frühling, Sommer, Herbst, Winter",
+    "groupCode": 1
+  },
+  {
+    "id": 11306,
+    "en": "I run slowly, but you run too fast",
+    "de": "Ich laufe langsam, aber du läufst zu schnell",
+    "groupCode": 1
+  },
+  {
+    "id": 11307,
+    "en": "My daughter is coming with her husband",
+    "de": "Meine Tochter kommt mit ihrem Ehemann",
+    "groupCode": 1
+  },
+  {
+    "id": 11308,
+    "en": "Is your grandson coming with his wife?",
+    "de": "Kommt dein Enkel mit seiner Ehefrau?",
+    "groupCode": 1
+  },
+  {
+    "id": 11309,
+    "en": "I visit every school in the city",
+    "de": "Ich besuche jede Schule in der Stadt",
+    "groupCode": 1
+  },
+  {
+    "id": 11310,
+    "en": "We need more plates for the guests",
+    "de": "Wir brauchen mehr Teller für die Gäste",
+    "groupCode": 1
+  },
+  {
+    "id": 11311,
+    "en": "The barbecue is fun, but someone has to clean the plates now",
+    "de": "Die Grillparty macht Spaß, aber jemand muss jetzt die Teller",
+    "groupCode": 1
+  },
+  {
+    "id": 11312,
+    "en": "Is there still space in the fridge for the meat and a piece of cake",
+    "de": "Gibt es noch Platz im Kühlschrank für das Fleisch und ein Stück Kuchen?",
+    "groupCode": 1
+  },
+  {
+    "id": 11313,
+    "en": "Which type of books do you read? I mainly read biographies",
+    "de": "Welche Art von Büchern liest du? Ich lese hauptsächlich Biografien",
+    "desc": "Art: type - hauptsächlich: mainly (adverb)"
+  },
+  {
+    "id": 11314,
+    "en": "I would like to speak a problem to you",
+    "de": "Ich möchte dich auf ein Problem ansprechen"
+  },
+  {
+    "id": 11315,
+    "en": "He spoke to me on the street",
+    "de": "Er hat mich auf der Straße angesprochen"
   }
 ]

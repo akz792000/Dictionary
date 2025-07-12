@@ -1,54 +1,12 @@
 [
-  {
-    "id":,
-    "en": "\n Do you read with pleasure? \n Yes, I read with pleasure",
-    "de": "\n Liest du gerne? \n Ja, Ich lese gerne (لیست) (گِرنِ) (لِ ز)",
-    "desc": "Gerne: glad, with pleasure (adverb)"
-  },
-  {
-    "id":,
-    "en": "\n Which type of books do you read? \n I mainly read biographies",
-    "de": "\n Welche Art von Büchern liest du? \n Ich lese hauptsächlich Biografien (بیوگ رافین) (وِلچِ) (فُن) (بًشِرن) (هاپت زِشلیش)",
-    "desc": "Art: type - hauptsächlich: mainly (adverb)"
-  }
-  {
-    "id":,
-    "en": "I was just lost in thought",
-    "de": "Ich war nur in Gedanken versunken (وا) (فِزونکِن) (نو)",
-    "desc": "Gedanken = اندیشه ها - versunken = غرق شده"
-  },
-  {
-    "id":,
-    "en": "I am looking for a toilet",
-    "de": "Ich suche eine Toilette (زوخه)"
-  },
+
+
+
   {
     "id":,
     "en": "May I quickly use your toilet?",
     "de": "Darf ich kurz Ihre (ایرِ) Toilette benutzen?"
-  },
-  {
-    "id":,
-    "en": "You have an appointment tomorrow",
-    "de": "Sie haben morgen einen Termin"
-  },
-  {
-    "id":,
-    "en": "Please do not speak to the driver",
-    "de": "Bitte den Fahrer nicht ansprechen (نیشت)"
   }
-  {
-    "id":,
-    "en": "the definite article",
-    "de": "\n der bestimmte artikel (بشتیمت) \n\n Nominative der(M)/die(F)/das(N)/die(P) \n Akkusative den(M)/die(F)/das(N)/die(P) \n Dativ      dem(M)/der(F)/dem(N)/den(P)",
-    "desc": "Subjective => Nominative (فاعلی, چه کسی ,چه چیزی) \n\n Objective => Akkusative (مفعول بی واسطه, چه کسی را, چه چیزی را) \n Objective => Dativ (مفعول با واسطه, به چه کسی, به چه چیزی)"
-  },
-  {
-    "id":,
-    "en": "the indefinite article",
-    "de": "\n der unbestimmte artikel (اون بشتیمت) \n\n Nominative ein(M)/eine(F)/ein(N)/-(P) \n Akkusative einen(M)/eine(F)/ein(N)/-(P) \n Dativ      einem(M)/einer(F)/einem(N)/-(P)",
-    "desc": "Subjective => Nominative (فاعلی, چه کسی ,چه چیزی) \n\n Objective => Akkusative (مفعول بی واسطه, چه کسی را, چه چیزی را) \n Objective => Dativ (مفعول با واسطه, به چه کسی, به چه چیزی)"
-  },
   {
     "id":,
     "en": "I give the books to my friends",
