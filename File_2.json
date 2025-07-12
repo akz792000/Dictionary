@@ -7983,16 +7983,19 @@
     "id": 11313,
     "en": "Which type of books do you read? I mainly read biographies",
     "de": "Welche Art von Büchern liest du? Ich lese hauptsächlich Biografien",
-    "desc": "Art: type - hauptsächlich: mainly (adverb)"
+    "desc": "Art: type - hauptsächlich: mainly (adverb)",
+    "groupCode": 1
   },
   {
     "id": 11314,
     "en": "I would like to speak a problem to you",
-    "de": "Ich möchte dich auf ein Problem ansprechen"
+    "de": "Ich möchte dich auf ein Problem ansprechen",
+    "groupCode": 1
   },
   {
     "id": 11315,
     "en": "He spoke to me on the street",
-    "de": "Er hat mich auf der Straße angesprochen"
+    "de": "Er hat mich auf der Straße angesprochen",
+    "groupCode": 1
   }
 ]
