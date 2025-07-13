@@ -6760,7 +6760,7 @@
   },
   {
     "id": 4107,
-    "fa": "آنها داشتن تلاش می کردند تا حل کردن (ریش ریش , نخ کش کردن) علت مرگ را",
+    "fa": "آنها داشتن تلاش می کردند تا حل کنند (ریش ریش , نخ کش کردن) علت مرگ را",
     "en": "They were attempting to unravel the cause of death",
     "groupCode": 0
   },
@@ -7662,7 +7662,7 @@
   },
   {
     "id": 4256,
-    "fa": "آنها عقب کشیدند از پذیرفتن مسئولیت",
+    "fa": "آنها عقب کشیدند از بر عهده گرفتن مسئولیت",
     "en": "They flinched from taking responsibility",
     "groupCode": 0
   },
@@ -7731,6 +7731,36 @@
     "id": 4267,
     "fa": "رو چه کسی تو می تونی حساب کنی؟",
     "en": "Who can you count on?",
+    "groupCode": 0
+  },
+  {
+    "id": 4268,
+    "fa": "به عنوان یک مدیر استخدام، هنگام انجام مصاحبه چه نکات ایمنی را باید رعایت کرد؟",
+    "en": "As a hiring manager, what are the red flags when conducting an interview?",
+    "groupCode": 0
+  },
+  {
+    "id": 4269,
+    "fa": "فرضیه فیلم خیلی جالب است",
+    "en": "The premise of the movie is very interesting",
+    "groupCode": 0
+  },
+  {
+    "id": 4270,
+    "fa": "درب باک ماشینت بازه",
+    "en": "\n 1.Your gas cap is open. \n 2.Your fuel door is open",
+    "groupCode": 0
+  },
+  {
+    "id": 4271,
+    "fa": "گزارش به اندازه ی کافی خوب نبود (برای خراشیدن)، بنابراین من مجبور شدم دوباره بنویسمش قبل از ارائه دادنش",
+    "en": "The report wasn't up to scratch, so I had to rewrite it before submitting it",
+    "groupCode": 0
+  },
+  {
+    "id": 4272,
+    "fa": "من عاشق دیدن شیرینی فروشیم برای خرید شکلات ها و آب نبات ها",
+    "en": "I love visiting the confectionery to buy chocolates and candies",
     "groupCode": 0
   }
 ]

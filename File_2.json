@@ -5547,6 +5547,7 @@
     "id": 10911,
     "en": "Please introduce yourself (formal)",
     "de": "Bitte stellen Sie sich vor",
+    "desc": "\"Stellen Sie sich vor\"\n= (You) introduce yourself.",
     "groupCode": 1
   },
   {
@@ -7970,7 +7971,7 @@
   {
     "id": 11311,
     "en": "The barbecue is fun, but someone has to clean the plates now",
-    "de": "Die Grillparty macht Spaß, aber jemand muss jetzt die Teller",
+    "de": "Die Grillparty macht Spaß, aber jemand muss jetzt die Teller putzen",
     "groupCode": 1
   },
   {
@@ -7997,5 +7998,95 @@
     "en": "He spoke to me on the street",
     "de": "Er hat mich auf der Straße angesprochen",
     "groupCode": 1
+  },
+  {
+    "id": 11316,
+    "en": "\n Possessive pronoun - \n my, your, his/her/its, our, your (pl), their/your (formal)",
+    "de": "\n Possessivpronomen - \n mein(e), dein(e), sein(e)/ihr(e)/sein(e), unser(e), euer/eure, ihr(e)/Ihr(e) \n Das ist mein Buch.",
+    "groupCode": 2
+  },
+  {
+    "id": 11317,
+    "en": "North, South, East, West",
+    "de": "der Norden, der Süden, der Osten, der Westen",
+    "groupCode": 2
+  },
+  {
+    "id": 11318,
+    "en": "But the cafe in the park is really popular. Do you want to drink a coffee there?",
+    "de": "Aber das Cafe im Park ist wirklich beliebt. Willst du dort einen Kaffe trinken?",
+    "groupCode": 2
+  },
+  {
+    "id": 11319,
+    "en": "Is your daughter already going to the school?",
+    "de": "Geht deine Tochter schon in die Schule?",
+    "groupCode": 2
+  },
+  {
+    "id": 11320,
+    "en": "My daughter uses the bike every day",
+    "de": "Meine Tochter benutzt das Fahrrad jeden Tag",
+    "groupCode": 2
+  },
+  {
+    "id": 11321,
+    "en": "Does your son use the bike or do you drive him?",
+    "de": "Benutzt dein Sohn das Fahrrad, oder fährst du ihn?",
+    "groupCode": 2
+  },
+  {
+    "id": 11322,
+    "en": "Ilia shows Ali a picture with a dog",
+    "de": "Ilia zeigt Ali ein Bild mit einem Hund",
+    "groupCode": 2
+  },
+  {
+    "id": 11323,
+    "en": "I am an artist, I know everything about (above) art",
+    "de": "Ich bin Künstler, Ich weiß alles über Kunst",
+    "groupCode": 2
+  },
+  {
+    "id": 11324,
+    "en": "Good art is surprising",
+    "de": "Gute kunst ist Überraschend",
+    "groupCode": 2
+  },
+  {
+    "id": 11325,
+    "en": "My son is a genius",
+    "de": "Mein sohn ist ein Genie /ʒeˈniː/",
+    "groupCode": 2
+  },
+  {
+    "id": 11326,
+    "en": "I don't see you, where are you?",
+    "de": "Ich sehe dich nicht, wo bist du?",
+    "groupCode": 2
+  },
+  {
+    "id": 11327,
+    "en": "Every neighbor has pets",
+    "de": "Jeder Nachbar (Jede Nachbarin) hat Haustiere.",
+    "groupCode": 2
+  },
+  {
+    "id": 11328,
+    "en": "I like our apartment in the apartment building and the neighbors are very sweet (love)",
+    "de": "Ich mag unsere Wohnung im Mehrfamilienhaus und die Nachbarn sind sehr lieb",
+    "groupCode": 2
+  },
+  {
+    "id": 11329,
+    "en": "Why are you sitting in the grass?",
+    "de": "Warum sitzt du im gras?",
+    "groupCode": 2
+  },
+  {
+    "id": 11330,
+    "en": "Is this building a museum or an airport?",
+    "de": "Ist dieses Gebäude ein Museum oder ein Flughafen?",
+    "groupCode": 2
   }
 ]
