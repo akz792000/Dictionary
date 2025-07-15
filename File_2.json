@@ -8004,149 +8004,205 @@
     "id": 11316,
     "en": "\n Possessive pronoun - \n my, your, his/her/its, our, your (pl), their/your (formal)",
     "de": "\n Possessivpronomen - \n mein(e), dein(e), sein(e)/ihr(e)/sein(e), unser(e), euer/eure, ihr(e)/Ihr(e) \n Das ist mein Buch.",
-    "groupCode": 2
+    "groupCode": 1
   },
   {
     "id": 11317,
-    "en": "North, South, East, West",
+    "en": "The North, The South, The East, The West",
     "de": "der Norden, der Süden, der Osten, der Westen",
-    "groupCode": 2
+    "groupCode": 1
   },
   {
     "id": 11318,
     "en": "But the cafe in the park is really popular. Do you want to drink a coffee there?",
     "de": "Aber das Cafe im Park ist wirklich beliebt. Willst du dort einen Kaffe trinken?",
-    "groupCode": 2
+    "groupCode": 1
   },
   {
     "id": 11319,
     "en": "Is your daughter already going to the school?",
     "de": "Geht deine Tochter schon in die Schule?",
-    "groupCode": 2
+    "groupCode": 1
   },
   {
     "id": 11320,
     "en": "My daughter uses the bike every day",
     "de": "Meine Tochter benutzt das Fahrrad jeden Tag",
-    "groupCode": 2
+    "groupCode": 1
   },
   {
     "id": 11321,
     "en": "Does your son use the bike or do you drive him?",
     "de": "Benutzt dein Sohn das Fahrrad, oder fährst du ihn?",
-    "groupCode": 2
+    "groupCode": 1
   },
   {
     "id": 11322,
     "en": "Ilia shows Ali a picture with a dog",
     "de": "Ilia zeigt Ali ein Bild mit einem Hund",
-    "groupCode": 2
+    "groupCode": 1
   },
   {
     "id": 11323,
     "en": "I am an artist, I know everything about (above) art",
     "de": "Ich bin Künstler, Ich weiß alles über Kunst",
-    "groupCode": 2
+    "groupCode": 1
   },
   {
     "id": 11324,
     "en": "Good art is surprising",
     "de": "Gute kunst ist Überraschend",
-    "groupCode": 2
+    "groupCode": 1
   },
   {
     "id": 11325,
     "en": "My son is a genius",
     "de": "Mein sohn ist ein Genie /ʒeˈniː/",
-    "groupCode": 2
+    "groupCode": 1
   },
   {
     "id": 11326,
     "en": "I don't see you, where are you?",
     "de": "Ich sehe dich nicht, wo bist du?",
-    "groupCode": 2
+    "groupCode": 1
   },
   {
     "id": 11327,
     "en": "Every neighbor has pets",
-    "de": "Jeder Nachbar (Jede Nachbarin) hat Haustiere.",
-    "groupCode": 2
+    "de": "Jeder Nachbar (Jede Nachbarin) hat Haustiere",
+    "groupCode": 1
   },
   {
     "id": 11328,
     "en": "I like our apartment in the apartment building and the neighbors are very sweet (love)",
     "de": "Ich mag unsere Wohnung im Mehrfamilienhaus und die Nachbarn sind sehr lieb",
-    "groupCode": 2
+    "groupCode": 1
   },
   {
     "id": 11329,
     "en": "Why are you sitting in the grass?",
     "de": "Warum sitzt du im gras?",
-    "groupCode": 2
+    "groupCode": 1
   },
   {
     "id": 11330,
     "en": "Is this building a museum or an airport?",
     "de": "Ist dieses Gebäude ein Museum oder ein Flughafen?",
-    "groupCode": 2
+    "groupCode": 1
   },
   {
     "id": 11331,
     "en": "What room number has Ali?",
     "de": "Welche zimmernummer hat Ali?",
-    "groupCode": 2
+    "groupCode": 1
   },
   {
     "id": 11332,
     "en": "In which class does Ms. Alizadeh Sohn go?",
     "de": "In welche Klasse geht Frau Alizadeh Sohn?",
-    "groupCode": 2
+    "groupCode": 1
   },
   {
     "id": 11333,
     "en": "Munich Adult Education Center, back to (toward) homepage",
     "de": "Münchner Volkshochschule, zurück zur Startseite",
-    "groupCode": 2
+    "groupCode": 1
   },
   {
     "id": 11334,
     "en": "Dear Sir or Madam or Dear Sir or Madam",
     "de": "Sehr geehrte Damen und Herren or Lieber Herr or Liebe Frau",
-    "groupCode": 2
+    "groupCode": 1
   },
   {
     "id": 11335,
     "en": "I would like to visit Dresden in August",
     "de": "Ich möchte im August Dresden besuchen",
-    "groupCode": 2
+    "groupCode": 1
   },
   {
     "id": 11336,
     "en": "Please (you) (formal) send me information about films, museums and the cultural program",
     "de": "Bitte schicken Sie mir Informationen über Filme, Museen und das Kulturprogramm",
-    "groupCode": 2
+    "groupCode": 1
   },
   {
     "id": 11337,
     "en": "Do you (formal) also have addresses of hotels?",
     "de": "Haben Sie auch Adressen von Hotels?",
-    "groupCode": 2
+    "groupCode": 1
   },
   {
     "id": 11338,
     "en": "I give the books to my friends",
-    "de": "Ich gebe den Freunden die Bücher (ایچ گِبِ دن فرویدن دی بوشا)",
-    "desc": "به اسامی در حالت جمع داتیوی یک n به انتهایشان اضافه می شود غیر از اسامی که به n و s ختم میشود"
+    "de": "Ich gebe den Freunden die Bücher",
+    "desc": "به اسامی در حالت جمع داتیوی یک n به انتهایشان اضافه می شود غیر از اسامی که به n و s ختم میشود",
+    "groupCode": 1
   },
   {
     "id": 11339,
     "en": "I write a letter to you",
-    "de": "Ich schreibe dir einen Brief (ایچ شرایب دیِ آینن بریف)",
-    "desc": "Subject + Verb + DAT + AKK"
+    "de": "Ich schreibe dir einen Brief",
+    "groupCode": 1
   },
   {
     "id": 11340,
-    "en": "He gives me his book (Emphasis)",
-    "de": "Mir gibt er sein Buch (میِ گیبت ار زاین بوخ)"
+    "en": "He gives me his book",
+    "de": "Mir gibt er sein Buch",
+    "groupCode": 1
+  },
+  {
+    "id": 11341,
+    "en": "I don't like cheese",
+    "de": "Ich mag keinen Käse",
+    "groupCode": 1
+  },
+  {
+    "id": 11342,
+    "en": "What do you like eating for breakfast? For breakfast I like to eat bread rolls with jam",
+    "de": "Was isst du gern zum Frühstück? Zum Frühstück esse ich gern Brötchen mit Marmelade",
+    "groupCode": 1
+  },
+  {
+    "id": 11343,
+    "en": "What do you specially like? I particularly like orange",
+    "de": "Was magst du besonders gern? Besonders gern mag ich Orange",
+    "groupCode": 1
+  },
+  {
+    "id": 11344,
+    "en": "Here is the food. Enjoy your meal!",
+    "de": "Hier ist das Essen. Guten Appetit!",
+    "groupCode": 1
+  },
+  {
+    "id": 11345,
+    "en": "Salad makes you fit, beautiful and intelligent. Then I don't need salad",
+    "de": "Salat macht fit, schon und intelligent. Dann brauche ich keinen Salat",
+    "groupCode": 1
+  },
+  {
+    "id": 11346,
+    "en": "Can I pay with card? No, it's only cash",
+    "de": "Kann ich mit Karte zahlen? Nein, es geht nur bar",
+    "groupCode": 1
+  },
+  {
+    "id": 11347,
+    "en": "I give you the book. I don't give you the book",
+    "de": "Ich gebe dir das Buch. Ich gebe dir nicht das Buch",
+    "groupCode": 1
+  },
+  {
+    "id": 11348,
+    "en": "I give you a book. I give you no book",
+    "de": "Ich gebe dir ein Buch. Ich gebe dir nicht kein Buch",
+    "groupCode": 1
+  },
+  {
+    "id": 11349,
+    "en": "I give you a flower. I don't give you a flower",
+    "de": "Ich gebe dir eine Blume (بلومِ). Ich gebe dir keine Blume",
+    "groupCode": 1
   }
 ]
