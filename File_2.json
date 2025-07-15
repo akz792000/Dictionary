@@ -5030,8 +5030,8 @@
   },
   {
     "id": 10826,
-    "en": "It's already dark, what (how) time is it?",
-    "de": "Es ist schon dunkel, wie spät ist es?",
+    "en": "It's already dark, what (how) time is it? It's almost 5 o'clock",
+    "de": "Es ist schon dunkel, wie spät ist es? Es ist gleich 8 Uhr",
     "groupCode": 1
   },
   {
@@ -6067,8 +6067,8 @@
   },
   {
     "id": 10997,
-    "en": "Very kind. Thank you very much",
-    "de": "Sehr nett. Vielen Dank",
+    "en": "Many thanks and kind regards",
+    "de": "Vielen Dank und freundliche Grüße",
     "groupCode": 1
   },
   {
@@ -6610,7 +6610,7 @@
   },
   {
     "id": 11087,
-    "en": "How do you drive to work most gladly",
+    "en": "How do you drive to (torward) work most gladly",
     "de": "Wie fährst du am liebsten zur Arbeit?",
     "groupCode": 1
   },
@@ -7972,6 +7972,7 @@
     "id": 11311,
     "en": "The barbecue is fun, but someone has to clean the plates now",
     "de": "Die Grillparty macht Spaß, aber jemand muss jetzt die Teller putzen",
+    "desc": "The plural of \"Teller\" (plate) in German is \"die Teller\".",
     "groupCode": 1
   },
   {
@@ -8088,5 +8089,64 @@
     "en": "Is this building a museum or an airport?",
     "de": "Ist dieses Gebäude ein Museum oder ein Flughafen?",
     "groupCode": 2
+  },
+  {
+    "id": 11331,
+    "en": "What room number has Ali?",
+    "de": "Welche zimmernummer hat Ali?",
+    "groupCode": 2
+  },
+  {
+    "id": 11332,
+    "en": "In which class does Ms. Alizadeh Sohn go?",
+    "de": "In welche Klasse geht Frau Alizadeh Sohn?",
+    "groupCode": 2
+  },
+  {
+    "id": 11333,
+    "en": "Munich Adult Education Center, back to (toward) homepage",
+    "de": "Münchner Volkshochschule, zurück zur Startseite",
+    "groupCode": 2
+  },
+  {
+    "id": 11334,
+    "en": "Dear Sir or Madam or Dear Sir or Madam",
+    "de": "Sehr geehrte Damen und Herren or Lieber Herr or Liebe Frau",
+    "groupCode": 2
+  },
+  {
+    "id": 11335,
+    "en": "I would like to visit Dresden in August",
+    "de": "Ich möchte im August Dresden besuchen",
+    "groupCode": 2
+  },
+  {
+    "id": 11336,
+    "en": "Please (you) (formal) send me information about films, museums and the cultural program",
+    "de": "Bitte schicken Sie mir Informationen über Filme, Museen und das Kulturprogramm",
+    "groupCode": 2
+  },
+  {
+    "id": 11337,
+    "en": "Do you (formal) also have addresses of hotels?",
+    "de": "Haben Sie auch Adressen von Hotels?",
+    "groupCode": 2
+  },
+  {
+    "id": 11338,
+    "en": "I give the books to my friends",
+    "de": "Ich gebe den Freunden die Bücher (ایچ گِبِ دن فرویدن دی بوشا)",
+    "desc": "به اسامی در حالت جمع داتیوی یک n به انتهایشان اضافه می شود غیر از اسامی که به n و s ختم میشود"
+  },
+  {
+    "id": 11339,
+    "en": "I write a letter to you",
+    "de": "Ich schreibe dir einen Brief (ایچ شرایب دیِ آینن بریف)",
+    "desc": "Subject + Verb + DAT + AKK"
+  },
+  {
+    "id": 11340,
+    "en": "He gives me his book (Emphasis)",
+    "de": "Mir gibt er sein Buch (میِ گیبت ار زاین بوخ)"
   }
 ]

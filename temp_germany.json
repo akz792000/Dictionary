@@ -7,23 +7,7 @@
     "en": "May I quickly use your toilet?",
     "de": "Darf ich kurz Ihre (ایرِ) Toilette benutzen?"
   }
-  {
-    "id":,
-    "en": "I give the books to my friends",
-    "de": "Ich gebe den Freunden die Bücher (ایچ گِبِ دن فرویدن دی بوشا)",
-    "desc": "به اسامی در حالت جمع داتیوی یک n به انتهایشان اضافه می شود غیر از اسامی که به n و s ختم میشود"
-  },
-  {
-    "id":,
-    "en": "We work every day",
-    "de": "Wie arbeiten jeden tag (ویِ آربایتن یِدن تاگ)"
-  },
-  {
-    "id":,
-    "en": "I write a letter to you",
-    "de": "Ich schreibe dir einen Brief (ایچ شرایب دیِ آینن بریف)",
-    "desc": "Subject + Verb + DAT + AKK"
-  },
+  ,
   {
     "id":,
     "en": "You say the boss the information (formal)",
@@ -34,11 +18,6 @@
     "id":,
     "en": "I write a letter to you (Emphasis)",
     "de": "Einen Brief schreibe ich dir (آینن بریف شرایب ایچ دیِ)"
-  },
-  {
-    "id":,
-    "en": "He gives me his book (Emphasis)",
-    "de": "mir gibt er sein Buch (میِ گیبت ار زاین بوخ)"
   },
   {
     "id":,
