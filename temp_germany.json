@@ -1,42 +1,8 @@
 [
-
-
-
-  {
-    "id":,
-    "en": "May I quickly use your toilet?",
-    "de": "Darf ich kurz Ihre (ایرِ) Toilette benutzen?"
-  }
-  ,
-  {
-    "id":,
-    "en": "You say the boss the information (formal)",
-    "de": "Ihr sagt dem Chef den Bescheid (ایِ زاگت دم شف دن بشاید)",
-    "desc": "Subject + Verb + DAT + AKK"
-  },
-  {
-    "id":,
-    "en": "I write a letter to you (Emphasis)",
-    "de": "Einen Brief schreibe ich dir (آینن بریف شرایب ایچ دیِ)"
-  },
   {
     "id":,
     "en": "You say the boss the information (formal)",
     "de": "Dem Chef sagt ihr den Bescheid (دم شف زاگت ایِ دن بشاید)"
-  },
-  {
-    "id":,
-    "en": "\n You work as a teacher. \n Do you work as a teacher? \n Where do you work as a teacher?",
-    "de": "\n Du arbeitest als Lehre. \n Arbeitest du als Lehre? \n Wo arbeitest du als Lehre?"
-  },
-  {
-    "id":,
-
-  },
-  {
-    "id":,
-    "en": "\n We go to the cinema. \n Do we go to the cinema? \n How do we go to the cinema?",
-    "de": "\n Wir gehen (گِ اِن) ins Kino. \n Gehen wir ins Kino? \n Wie gehen wir ins Kino?"
   },
   {
     "id":,
@@ -62,12 +28,6 @@
     "id":,
     "en": "You ask the teacher the question (formal)",
     "de": "Ihr fragt der Lehrerin die Frage"
-  },
-  {
-    "id":,
-    "en": "Not and None",
-    "de": "Nicht and Kein",
-    "desc": "اگر اسم یا مفعول در جمله داشته باشیم که بدون حرف تعریف و یا با حرف تعربف نامعین باشد \n در این صورت جملع با kein منفی میشود که قبل از اسم آمده و صرف می شود \n در غبر این صورت جمله با nicht منفی میشود و جای آن یا بعد از فعل یا بعد از قید و یا قبل از اسم با حرف تعریف معین است "
-  },
+  }
 
 ]

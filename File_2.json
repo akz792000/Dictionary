@@ -2246,8 +2246,8 @@
   },
   {
     "id": 10367,
-    "en": "Wait (formal). Can you (formal) take a picture of me here?",
-    "de": "Warten Sie. Können Sie mich hier fotografieren?",
+    "en": "Wait (formal) (a moment). Can you (formal) take a picture of me here?",
+    "de": "Warten Sie mal. Können Sie mich hier fotografieren?",
     "groupCode": 1
   },
   {
@@ -8240,6 +8240,61 @@
     "en": "The boss speak to him about the mistake",
     "de": "Der Chef spricht ihn auf den Fehler an",
     "desc": "The verb ansprechen (to address / bring up something) is often used with „auf + Akkusativ“ to show what you are addressing someone about.",
+    "groupCode": 1
+  },
+  {
+    "id": 11356,
+    "en": "Excuse me, where can I find Mr. Zandi from the works council?",
+    "de": "Verzeihung /[fer-TSIGH-oong]/, wo finde ich Herrn Zandi vom Betriebsrat?",
+    "desc": "Herrn is the accusative form of Herr (Mr.)",
+    "groupCode": 1
+  },
+  {
+    "id": 11357,
+    "en": "You are tired, right? Yes, that's right",
+    "de": "Du bist müde, oder? Ja, stimmt",
+    "groupCode": 1
+  },
+  {
+    "id": 11358,
+    "en": "That is (in) on the second floor",
+    "de": "Das ist im zweiten Stock",
+    "groupCode": 1
+  },
+  {
+    "id": 11359,
+    "en": "Here you can take the elevator",
+    "de": "Hier können Sie den Aufzug nehmen",
+    "groupCode": 1
+  },
+  {
+    "id": 11360,
+    "en": "What does this Pullover cost now? There is stated 30 percent cheaper",
+    "de": "Was kostet dieser Pullover jetzt? Da steht 30 Prozent billiger",
+    "groupCode": 1
+  },
+  {
+    "id": 11361,
+    "en": "What wish you, please?",
+    "de": "Was wünschen Sie bitte?",
+    "groupCode": 1
+  },
+  {
+    "id": 11362,
+    "en": "You work as a teacher. Do you work as a teacher? Where do you work as a teacher?",
+    "de": "Du arbeitest als Lehre. Arbeitest du als Lehre? Wo arbeitest du als Lehre?",
+    "groupCode": 1
+  },
+  {
+    "id": 11363,
+    "en": "You (plural) say the boss (male) the notification",
+    "de": "Ihr sagt dem Chef den Bescheid",
+    "groupCode": 1
+  },
+  {
+    "id": 11364,
+    "en": "May I quickly use your (formal) toilet?",
+    "de": "Darf ich kurz Ihre Toilette benutzen?",
     "groupCode": 1
   }
 ]
