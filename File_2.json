@@ -5030,7 +5030,7 @@
   },
   {
     "id": 10826,
-    "en": "It's already dark, what (how) time is it? It's almost 5 o'clock",
+    "en": "It's already dark, what (how) time is it? It's soon (in a moment) 5 o'clock",
     "de": "Es ist schon dunkel, wie spät ist es? Es ist gleich 8 Uhr",
     "groupCode": 1
   },
@@ -6067,7 +6067,7 @@
   },
   {
     "id": 10997,
-    "en": "Many thanks and kind regards",
+    "en": "Many (friendly) thanks and kind regards",
     "de": "Vielen Dank und freundliche Grüße",
     "groupCode": 1
   },
@@ -7908,20 +7908,20 @@
   },
   {
     "id": 11301,
-    "en": "I clean (for) myself quickly the teeth",
+    "en": "I clean myself quickly the teeth (to myself)",
     "de": "Ich putze mir schnell die zähne",
     "desc": "Reflexive + Dative + definite article (\"die Zähne\")\n\nMore natural and idiomatic in German.\n\nThis structure is often used when referring to body parts or things belonging to the subject.",
     "groupCode": 1
   },
   {
     "id": 11302,
-    "en": "I wash (for) myself the hands",
-    "de": "Ich wasche mir die Hände",
+    "en": "I wash my hands (to myself)",
+    "de": "\n 1.Ich wasche mir die Hände \n 2.Ich wasche meine Hände",
     "groupCode": 1
   },
   {
     "id": 11303,
-    "en": "We have holidays again in three months",
+    "en": "We have the holiday (school holidays) again in three months",
     "de": "Wir haben in drei Monaten wieder Ferien",
     "groupCode": 1
   },
@@ -7934,8 +7934,8 @@
   },
   {
     "id": 11305,
-    "en": "Spring, Summer, Autumn, Winter",
-    "de": "Frühling, Sommer, Herbst, Winter",
+    "en": "The Spring, The Summer, The Autumn, The Winter",
+    "de": "Der Frühling, Der Sommer, Der Herbst, Der Winter",
     "groupCode": 1
   },
   {
@@ -8086,7 +8086,7 @@
   },
   {
     "id": 11330,
-    "en": "Is this building a museum or an airport?",
+    "en": "Is these building a museum or an airport?",
     "de": "Ist dieses Gebäude ein Museum oder ein Flughafen?",
     "groupCode": 1
   },
@@ -8110,8 +8110,8 @@
   },
   {
     "id": 11334,
-    "en": "Dear Sir or Madam or Dear Sir or Madam",
-    "de": "Sehr geehrte Damen und Herren or Lieber Herr or Liebe Frau",
+    "en": "Dear Madam or Sir. Dear Sir. Dear Madam",
+    "de": "Sehr geehrte Damen und Herren. Lieber Herr. Liebe Frau",
     "groupCode": 1
   },
   {
@@ -8134,7 +8134,7 @@
   },
   {
     "id": 11338,
-    "en": "I give the books to my friends",
+    "en": "I give the books to friends",
     "de": "Ich gebe den Freunden die Bücher",
     "desc": "به اسامی در حالت جمع داتیوی یک n به انتهایشان اضافه می شود غیر از اسامی که به n و s ختم میشود",
     "groupCode": 1
@@ -8153,7 +8153,7 @@
   },
   {
     "id": 11341,
-    "en": "I don't like cheese",
+    "en": "I don't like a cheese",
     "de": "Ich mag keinen Käse",
     "groupCode": 1
   },
@@ -8165,7 +8165,7 @@
   },
   {
     "id": 11343,
-    "en": "What do you specially like? I particularly like orange",
+    "en": "What do you specially like? Particularly I like orange",
     "de": "Was magst du besonders gern? Besonders gern mag ich Orange",
     "groupCode": 1
   },
@@ -8177,32 +8177,50 @@
   },
   {
     "id": 11345,
-    "en": "Salad makes you fit, beautiful and intelligent. Then I don't need salad",
+    "en": "Salad makes fit, beautiful and intelligent. Then I don't need salad",
     "de": "Salat macht fit, schon und intelligent. Dann brauche ich keinen Salat",
     "groupCode": 1
   },
   {
     "id": 11346,
-    "en": "Can I pay with card? No, it's only cash",
+    "en": "Can I pay with card? No, there's only cash",
     "de": "Kann ich mit Karte zahlen? Nein, es geht nur bar",
     "groupCode": 1
   },
   {
     "id": 11347,
-    "en": "I give you the book. I don't give you the book",
-    "de": "Ich gebe dir das Buch. Ich gebe dir nicht das Buch",
+    "en": "I give you the book.",
+    "de": "Ich gebe dir das Buch",
     "groupCode": 1
   },
   {
     "id": 11348,
-    "en": "I give you a book. I give you no book",
-    "de": "Ich gebe dir ein Buch. Ich gebe dir nicht kein Buch",
+    "en": "She writes a letter. Does she write a letter? Why does she write a letter?",
+    "de": "Sie schreibt einen Brief. Schreibt sie einen Brief? Warum schreibt sie einen Brief?",
     "groupCode": 1
   },
   {
     "id": 11349,
     "en": "I give you a flower. I don't give you a flower",
     "de": "Ich gebe dir eine Blume (بلومِ). Ich gebe dir keine Blume",
+    "groupCode": 1
+  },
+  {
+    "id": 11350,
+    "en": "I would like to register for the German course",
+    "de": "Ich möchte mich für den Deutschkurs anmelden",
+    "groupCode": 1
+  },
+  {
+    "id": 11351,
+    "en": "I comb my hair (to myself)",
+    "de": "Ich Kämme mir die Haare",
+    "groupCode": 1
+  },
+  {
+    "id": 11352,
+    "en": "The soup tastes bland",
+    "de": "Die Suppe schmeckt fade",
     "groupCode": 1
   }
 ]

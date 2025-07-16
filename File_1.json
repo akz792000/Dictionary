@@ -7762,5 +7762,35 @@
     "fa": "من عاشق ملاقات کردن شیرینی فروشیم برای خرید شکلات ها و آب نبات ها",
     "en": "I love visiting the confectionery to buy chocolates and candies",
     "groupCode": 0
+  },
+  {
+    "id": 4273,
+    "fa": "این با هم جور در نمیاد",
+    "en": "It doesn't add up",
+    "groupCode": 0
+  },
+  {
+    "id": 4274,
+    "fa": "مو به تنم سیخ شد",
+    "en": "I got goosebumps",
+    "groupCode": 0
+  },
+  {
+    "id": 4275,
+    "fa": "برای من اوکیه",
+    "en": "Fine by me",
+    "groupCode": 0
+  },
+  {
+    "id": 4276,
+    "fa": "چند دقیقه بیشتر تا ناهار باقی مونده؟",
+    "en": "\n 1.How many more minutes until lunch? \n 2.How many more minutes are left until lunch?",
+    "groupCode": 0
+  },
+  {
+    "id": 4277,
+    "fa": "وقتی ضمیر انعکاسی به شخصی که صاحب عضو بدن است اشاره می کند و خود عضو بدن مفعول مستقیم است، در زبان آلمانی از این روش استفاده می شود: ضمیر انعکاسی Dativ + Akkusativ عضو بدن. بنابراین، عضو بدن چیزی است که شسته می شود (Akkusativ) و ضمیر انعکاسی مفعول غیرمستقیم (Dativ) است - شخصی که عمل برای او انجام می شود.",
+    "en": "When the reflexive pronoun refers to the person who owns the body part, and the body part itself is the direct object, German uses: Dativ reflexive pronoun + Akkusativ body part. So, the body part is the thing being washed (Akkusativ), and the reflexive pronoun is the indirect object (Dativ) — the person for whom the action is done",
+    "groupCode": 0
   }
 ]
