@@ -7792,5 +7792,11 @@
     "fa": "وقتی ضمیر انعکاسی به شخصی که صاحب عضو بدن است اشاره می کند و خود عضو بدن مفعول مستقیم است، در زبان آلمانی از این روش استفاده می شود: ضمیر انعکاسی Dativ + Akkusativ عضو بدن. بنابراین، عضو بدن چیزی است که شسته می شود (Akkusativ) و ضمیر انعکاسی مفعول غیرمستقیم (Dativ) است - شخصی که عمل برای او انجام می شود.",
     "en": "When the reflexive pronoun refers to the person who owns the body part, and the body part itself is the direct object, German uses: Dativ reflexive pronoun + Akkusativ body part. So, the body part is the thing being washed (Akkusativ), and the reflexive pronoun is the indirect object (Dativ) — the person for whom the action is done",
     "groupCode": 0
+  },
+  {
+    "id": 4278,
+    "fa": "من شروع به پختن شام خواهم کرد، و در این مدت (در ضمن)، شما می توانید میز را ست کنید",
+    "en": "I'll start cooking dinner, and in the meantime, you can set the table",
+    "groupCode": 0
   }
 ]

@@ -1415,7 +1415,7 @@
   {
     "id": 10231,
     "en": "Thank you for the information! I am interested (at) in the position, but my German level is currently at A",
-    "de": "Vielen Dank für die Information! Ich habe Interesse an der Stelle, aber mein Deutschniveau ist derzeit auf A",
+    "de": "Vielen Dank für die Informationen! Ich habe Interesse an der Stelle, aber mein Deutschniveau ist derzeit auf A",
     "desc": "zurzeit = currently (informal, everyday use)\n\nderzeit = currently (formal, official use)",
     "groupCode": 1
   },
@@ -6067,7 +6067,7 @@
   },
   {
     "id": 10997,
-    "en": "Many (friendly) thanks and kind regards",
+    "en": "Many thanks and kind (friendly) regards",
     "de": "Vielen Dank und freundliche Grüße",
     "groupCode": 1
   },
@@ -6724,8 +6724,8 @@
   },
   {
     "id": 11106,
-    "en": "Is the old doner also yours?",
-    "de": "Ist der alte Doner auch von dir?",
+    "en": "Is the old Doner also from you?",
+    "de": "Ist der alte Döner auch von dir?",
     "groupCode": 1
   },
   {
@@ -7503,7 +7503,7 @@
   {
     "id": 11234,
     "en": "Today is no teaching? Oh, I did not receive the information",
-    "de": "Heute ist kein Unterricht? Oh, ich habe die Information nicht bekommen",
+    "de": "Heute ist kein Unterricht? Oh, ich habe die Informationen nicht bekommen",
     "groupCode": 1
   },
   {
@@ -7883,7 +7883,7 @@
   },
   {
     "id": 11297,
-    "en": "Today I don't have to rush to work",
+    "en": "Today I don't have to rush to work (myself)",
     "de": "Heute muss ich mich nicht zur arbeit beeilen",
     "groupCode": 1
   },
@@ -7908,20 +7908,20 @@
   },
   {
     "id": 11301,
-    "en": "I clean myself quickly the teeth (to myself)",
+    "en": "I clean myself quickly the teeth (myself)",
     "de": "Ich putze mir schnell die zähne",
     "desc": "Reflexive + Dative + definite article (\"die Zähne\")\n\nMore natural and idiomatic in German.\n\nThis structure is often used when referring to body parts or things belonging to the subject.",
     "groupCode": 1
   },
   {
     "id": 11302,
-    "en": "I wash my hands (to myself)",
+    "en": "I wash my hands (myself)",
     "de": "\n 1.Ich wasche mir die Hände \n 2.Ich wasche meine Hände",
     "groupCode": 1
   },
   {
     "id": 11303,
-    "en": "We have the holiday (school holidays) again in three months",
+    "en": "We have holiday (school holidays) again in three months",
     "de": "Wir haben in drei Monaten wieder Ferien",
     "groupCode": 1
   },
@@ -7990,7 +7990,7 @@
   },
   {
     "id": 11314,
-    "en": "I would like to speak a problem to you",
+    "en": "I would like to speak to you about a problem",
     "de": "Ich möchte dich auf ein Problem ansprechen",
     "groupCode": 1
   },
@@ -8092,7 +8092,7 @@
   },
   {
     "id": 11331,
-    "en": "What room number has Ali?",
+    "en": "Which room number has Ali?",
     "de": "Welche zimmernummer hat Ali?",
     "groupCode": 1
   },
@@ -8202,7 +8202,7 @@
   {
     "id": 11349,
     "en": "I give you a flower. I don't give you a flower",
-    "de": "Ich gebe dir eine Blume (بلومِ). Ich gebe dir keine Blume",
+    "de": "Ich gebe dir eine Blume. Ich gebe dir keine Blume",
     "groupCode": 1
   },
   {
@@ -8213,7 +8213,7 @@
   },
   {
     "id": 11351,
-    "en": "I comb my hair (to myself)",
+    "en": "I comb my hair (myself)",
     "de": "Ich Kämme mir die Haare",
     "groupCode": 1
   },
@@ -8221,6 +8221,25 @@
     "id": 11352,
     "en": "The soup tastes bland",
     "de": "Die Suppe schmeckt fade",
+    "groupCode": 1
+  },
+  {
+    "id": 11353,
+    "en": "He is telling a story",
+    "de": "Er erzählt eine Geschichte",
+    "groupCode": 1
+  },
+  {
+    "id": 11354,
+    "en": "We are telling a joke",
+    "de": "Wir erzählen einen Witz",
+    "groupCode": 1
+  },
+  {
+    "id": 11355,
+    "en": "The boss speak to him about the mistake",
+    "de": "Der Chef spricht ihn auf den Fehler an",
+    "desc": "The verb ansprechen (to address / bring up something) is often used with „auf + Akkusativ“ to show what you are addressing someone about.",
     "groupCode": 1
   }
 ]
