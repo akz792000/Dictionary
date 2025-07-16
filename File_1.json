@@ -7798,5 +7798,29 @@
     "fa": "من شروع به پختن شام خواهم کرد، و در این مدت (در ضمن)، شما می توانید میز را ست کنید",
     "en": "I'll start cooking dinner, and in the meantime, you can set the table",
     "groupCode": 0
+  },
+  {
+    "id": 4279,
+    "fa": "شما نیاز نداری برگردانی آیتم را برای گرفتن یک بازپرداخت",
+    "en": "You don't need to return the item(s) to get a refund",
+    "groupCode": 0
+  },
+  {
+    "id": 4280,
+    "fa": "بازارهای کریپتو نگه داشته شدن ثابت",
+    "en": "Crypto markets held steady",
+    "groupCode": 0
+  },
+  {
+    "id": 4281,
+    "fa": "وجود ندارد هیچ یک لحظه کسل کننده در بلاکچین",
+    "en": "There's never a dull moment on the blockchain",
+    "groupCode": 0
+  },
+  {
+    "id": 4282,
+    "fa": "کجا می تونست کریپتو برود در نیمه دوم سال 2025؟",
+    "en": "Where could crypto be headed in the second half of 2025?",
+    "groupCode": 0
   }
 ]
