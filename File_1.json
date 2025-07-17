@@ -7802,7 +7802,7 @@
   {
     "id": 4279,
     "fa": "شما نیاز نداری برگردانی آیتم را برای گرفتن یک بازپرداخت",
-    "en": "You don't need to return the item(s) to get a refund",
+    "en": "You don't need to return the item to get a refund",
     "groupCode": 0
   },
   {
@@ -7819,8 +7819,32 @@
   },
   {
     "id": 4282,
-    "fa": "کجا می تونست کریپتو برود در نیمه دوم سال 2025؟",
+    "fa": "کجا می تونست کریپتو برود (با سر) در نیمه دوم از 2025؟",
     "en": "Where could crypto be headed in the second half of 2025?",
+    "groupCode": 0
+  },
+  {
+    "id": 4283,
+    "fa": "سگ گازم گرفت",
+    "en": "The dog bit me",
+    "groupCode": 0
+  },
+  {
+    "id": 4284,
+    "fa": "او (مرد) افشا کرد راز را اشتباهی",
+    "en": "He let out the secret by mistake",
+    "groupCode": 0
+  },
+  {
+    "id": 4285,
+    "fa": "سخنرانی خسته کننده خسته کرد بیشتر حضار را",
+    "en": "The tedious lecture bored most of the audience",
+    "groupCode": 0
+  },
+  {
+    "id": 4286,
+    "fa": "بارون اومد انقدر امروز که شلوارم خیس شد",
+    "en": "It rained so much today that my shorts got wet",
     "groupCode": 0
   }
 ]

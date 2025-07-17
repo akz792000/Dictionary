@@ -2,7 +2,7 @@
   {
     "id": 10001,
     "en": "A B C D E F G H I J K L M N O P Q R S T U V W X Y Z",
-    "de": "ah be ce de eh(اِ) ef ge(گِ) ha(ها) ih(ای) jot(یُت) ka el em en oh pe qu(کو) er es te uh(او) vau(فآو) we(وِ) ix ypsilon(اُپسیلُن) zet",
+    "de": "ah beh tseh deh eh(اِ) eff geh(گِ) hah(ها) ee(ای) yott(یُت) kah ell emm enn oh peh kuh(کو) err ess teh uh(او) fau(فآو) veh(وِ) iks ypsilon(اُپسیلُن) tsett",
     "groupCode": 1
   },
   {
@@ -5030,7 +5030,7 @@
   },
   {
     "id": 10826,
-    "en": "It's already dark, what (how) time is it? It's soon (in a moment) 5 o'clock",
+    "en": "It's already dark, what (how) time is it? It's soon (in a moment) 8 o'clock",
     "de": "Es ist schon dunkel, wie spät ist es? Es ist gleich 8 Uhr",
     "groupCode": 1
   },
@@ -8134,7 +8134,7 @@
   },
   {
     "id": 11338,
-    "en": "I give the books to friends",
+    "en": "I give the books (to) the friends",
     "de": "Ich gebe den Freunden die Bücher",
     "desc": "به اسامی در حالت جمع داتیوی یک n به انتهایشان اضافه می شود غیر از اسامی که به n و s ختم میشود",
     "groupCode": 1
@@ -8183,8 +8183,9 @@
   },
   {
     "id": 11346,
-    "en": "Can I pay with card? No, there's only cash",
+    "en": "Can I pay with card? No, it works only cash",
     "de": "Kann ich mit Karte zahlen? Nein, es geht nur bar",
+    "desc": "\"es geht\" = it works / is possible / allowed",
     "groupCode": 1
   },
   {
@@ -8244,14 +8245,14 @@
   },
   {
     "id": 11356,
-    "en": "Excuse me, where can I find Mr. Zandi from the works council?",
+    "en": "Excuse me, where do I find Mr. Zandi from the works council?",
     "de": "Verzeihung /[fer-TSIGH-oong]/, wo finde ich Herrn Zandi vom Betriebsrat?",
     "desc": "Herrn is the accusative form of Herr (Mr.)",
     "groupCode": 1
   },
   {
     "id": 11357,
-    "en": "You are tired, right? Yes, that's right",
+    "en": "You are tired, right? Yes, right",
     "de": "Du bist müde, oder? Ja, stimmt",
     "groupCode": 1
   },
@@ -8263,7 +8264,7 @@
   },
   {
     "id": 11359,
-    "en": "Here you can take the elevator",
+    "en": "Here you (formal) can take the elevator",
     "de": "Hier können Sie den Aufzug nehmen",
     "groupCode": 1
   },
@@ -8275,14 +8276,14 @@
   },
   {
     "id": 11361,
-    "en": "What wish you, please?",
+    "en": "What wish you (formal), please?",
     "de": "Was wünschen Sie bitte?",
     "groupCode": 1
   },
   {
     "id": 11362,
-    "en": "You work as a teacher. Do you work as a teacher? Where do you work as a teacher?",
-    "de": "Du arbeitest als Lehre. Arbeitest du als Lehre? Wo arbeitest du als Lehre?",
+    "en": "You work as a teacher (male). Do you work as a teacher (male)? Where do you work as a teacher (male)?",
+    "de": "Du arbeitest als Lehrer. Arbeitest du als Lehrer? Wo arbeitest du als Lehrer?",
     "groupCode": 1
   },
   {
@@ -8301,6 +8302,156 @@
     "id": 11365,
     "en": "I have been living in Munich for 3 years",
     "de": "Ich wohne seit 3 Jahren in München",
+    "groupCode": 1
+  },
+  {
+    "id": 11366,
+    "en": "I open the window",
+    "de": "Ich mache das Fenster auf",
+    "groupCode": 1
+  },
+  {
+    "id": 11367,
+    "en": "I close the door",
+    "de": "Ich mache die Tür zu",
+    "groupCode": 1
+  },
+  {
+    "id": 11368,
+    "en": "I get on the train",
+    "de": "Ich steige in den Zug ein",
+    "groupCode": 1
+  },
+  {
+    "id": 11369,
+    "en": "I get off the bus",
+    "de": "Ich steige aus dem Bus aus",
+    "groupCode": 1
+  },
+  {
+    "id": 11370,
+    "en": "I change trains in Munich",
+    "de": "Ich steige in München um",
+    "groupCode": 1
+  },
+  {
+    "id": 11371,
+    "en": "You become a doctor",
+    "de": "Du wirst Arzt",
+    "groupCode": 1
+  },
+  {
+    "id": 11372,
+    "en": "You should drink water",
+    "de": "Du sollst Wasser trinken",
+    "groupCode": 1
+  },
+  {
+    "id": 11373,
+    "en": "He says something",
+    "de": "Er sagt etwas",
+    "groupCode": 1
+  },
+  {
+    "id": 11374,
+    "en": "The child stands here",
+    "de": "Das Kind steht hier",
+    "groupCode": 1
+  },
+  {
+    "id": 11375,
+    "en": "You stay at home",
+    "de": "Du bleibst zu Hause",
+    "groupCode": 1
+  },
+  {
+    "id": 11376,
+    "en": "He puts the bottle on the table",
+    "de": "Er stellt die Flasche auf den Tisch",
+    "groupCode": 1
+  },
+  {
+    "id": 11377,
+    "en": "We take the bus",
+    "de": "Wir nehmen den Bus",
+    "groupCode": 1
+  },
+  {
+    "id": 11378,
+    "en": "I’m allowed to go to the cinema",
+    "de": "Ich darf ins Kino gehen",
+    "groupCode": 1
+  },
+  {
+    "id": 11379,
+    "en": "She holds the baby",
+    "de": "Sie hält das Baby",
+    "groupCode": 1
+  },
+  {
+    "id": 11380,
+    "en": "You do the right thing",
+    "de": "Du tust das Richtige",
+    "groupCode": 1
+  },
+  {
+    "id": 11381,
+    "en": "We win the game",
+    "de": "Wir gewinnen das Spiel",
+    "groupCode": 1
+  },
+  {
+    "id": 11382,
+    "en": "I get a gift",
+    "de": "Ich bekomme ein Geschenk",
+    "groupCode": 1
+  },
+  {
+    "id": 11383,
+    "en": "We meet our friends",
+    "de": "Wir treffen unsere Freunde",
+    "groupCode": 1
+  },
+  {
+    "id": 11384,
+    "en": "You (plural) pay the bill",
+    "de": "Ihr zahlt die Rechnung",
+    "groupCode": 1
+  },
+  {
+    "id": 11385,
+    "en": "He puts the book on the table",
+    "de": "Er legt das Buch auf den Tisch",
+    "groupCode": 1
+  },
+  {
+    "id": 11386,
+    "en": "We believe you",
+    "de": "Wir glauben dir",
+    "groupCode": 1
+  },
+  {
+    "id": 11387,
+    "en": "I close the door",
+    "de": "Ich schließe die Tür",
+    "groupCode": 1
+  },
+  {
+    "id": 11388,
+    "en": "I miss you",
+    "de": "Du fehlst mir",
+    "groupCode": 1
+  },
+  {
+    "id": 11389,
+    "en": "I know him well",
+    "de": "Ich kenne ihn gut",
+    "groupCode": 1
+  },
+  {
+    "id": 11390,
+    "en": "She asks the teacher",
+    "de": "Sie fragt den Lehrer",
     "groupCode": 1
   }
 ]
