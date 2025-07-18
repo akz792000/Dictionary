@@ -4728,7 +4728,7 @@
   },
   {
     "id": 10777,
-    "en": "What are you searching for?",
+    "en": "What (what for) are you searching for?",
     "de": "Wonach suchst du?",
     "desc": "\n\"Wonach\" is a German question word that means \"what for\" or \"after what\" depending on the context. It's used to ask about the object of a preposition, specifically \"nach\" (after, for).",
     "groupCode": 1
@@ -5218,8 +5218,8 @@
   },
   {
     "id": 10857,
-    "en": "My wife needs a cucumber for the salad. Are you (formal) lying in the shower? No, that's too comic",
-    "de": "Meine Frau braucht eine Gurke für den Salat. Liegen sie in der Dusche? Nein, das ist zu komisch",
+    "en": "My wife needs a cucumber for the salad",
+    "de": "Meine Frau braucht eine Gurke für den Salat",
     "groupCode": 1
   },
   {
@@ -8312,8 +8312,9 @@
   },
   {
     "id": 11367,
-    "en": "I close the door",
+    "en": "I close (casual) the door",
     "de": "Ich mache die Tür zu",
+    "desc": "zumachen = casual, everyday\n\uD83D\uDC49 Mach die Tür zu! (Close the door!)\n\nschließen = formal or technical\n\uD83D\uDC49 Die Bank schließt um 17 Uhr. (The bank closes at 5 p.m.)",
     "groupCode": 1
   },
   {
@@ -8324,7 +8325,7 @@
   },
   {
     "id": 11369,
-    "en": "I get off the bus",
+    "en": "I get off (out of) the bus",
     "de": "Ich steige aus dem Bus aus",
     "groupCode": 1
   },
@@ -8368,6 +8369,7 @@
     "id": 11376,
     "en": "He puts the bottle on the table",
     "de": "Er stellt die Flasche auf den Tisch",
+    "desc": "1. ✅ With movement → use Akkusativ\n\uD83D\uDC49 You move something from one place to another.\n\nI put the book on the table.\n(Movement = book is moving from your hand → onto the table)\n→ German: auf + Akkusativ → „auf den Tisch“\n\n\uD83D\uDCCC Think: Where to? → Destination → Akkusativ\n\n2. ✅ No movement → use Dativ\n\uD83D\uDC49 Something is already at a place. Nothing is moving.\n\nThe book is on the table.\n(It’s already there, not moving)\n→ German: auf + Dativ → „auf dem Tisch“\n\n\uD83D\uDCCC Think: Where? → Position → Dativ",
     "groupCode": 1
   },
   {
@@ -8390,7 +8392,7 @@
   },
   {
     "id": 11380,
-    "en": "You do the right thing",
+    "en": "You do the right (thing)",
     "de": "Du tust das Richtige",
     "groupCode": 1
   },
@@ -8421,7 +8423,8 @@
   {
     "id": 11385,
     "en": "He puts the book on the table",
-    "de": "Er legt das Buch auf den Tisch",
+    "de": "Er legt das Buch auf den (dem) Tisch",
+    "desc": "Er legt das Buch auf den Tisch.\n(He puts the book onto the table → movement ⇒ Akkusativ “den Tisch”.)\n\nDas Buch liegt auf dem Tisch.\n(The book is lying on the table → no movement ⇒ Dativ “dem Tisch”.)",
     "groupCode": 1
   },
   {
@@ -8438,8 +8441,8 @@
   },
   {
     "id": 11388,
-    "en": "I miss you",
-    "de": "Du fehlst mir",
+    "en": "I miss you (You are missing to me)",
+    "de": "\n 1.Ich vermisse dich \n 2.Du fehlst mir",
     "groupCode": 1
   },
   {
@@ -8450,8 +8453,69 @@
   },
   {
     "id": 11390,
-    "en": "She asks the teacher",
+    "en": "She asks the teacher (male)",
     "de": "Sie fragt den Lehrer",
+    "groupCode": 1
+  },
+  {
+    "id": 11391,
+    "en": "I miss my family (My family is missing to me)",
+    "de": "\n 1.Ich vermisse meine Familie \n 2.Meine Familie fehlt mir",
+    "groupCode": 1
+  },
+  {
+    "id": 11392,
+    "en": "I lock the door",
+    "de": "Ich schließe die Tür ab",
+    "groupCode": 1
+  },
+  {
+    "id": 11393,
+    "en": "I know him. I know that he is coming",
+    "de": "Ich kenne ihn. Ich weiß, dass er kommt",
+    "desc": "kennen = to be familiar with someone or something\n→ Used with people, places, or things.\nExample: Ich kenne ihn. (I know him.)\n\nwissen = to know a fact or information\n→ Used with facts, or when using dass, wie, wann, etc.\nExample: Ich weiß, dass er kommt. (I know that he is coming.)",
+    "groupCode": 1
+  },
+  {
+    "id": 11394,
+    "en": "I said 'hello'",
+    "de": "Ich habe 'Hallo' gesagt",
+    "groupCode": 1
+  },
+  {
+    "id": 11395,
+    "en": "I am very busy today",
+    "de": "Ich bin heute sehr beschäftigt",
+    "groupCode": 1
+  },
+  {
+    "id": 11396,
+    "en": "You show me your new handy",
+    "de": "Du zeigst mir dein neues Handy",
+    "groupCode": 1
+  },
+  {
+    "id": 11397,
+    "en": "We did not find the key",
+    "de": "Wir haben den Schlüssel nicht gefunden",
+    "groupCode": 1
+  },
+  {
+    "id": 11398,
+    "en": "He would like to marry her so much (gladly)",
+    "de": "Sie möchte ihn so gern heiraten",
+    "groupCode": 1
+  },
+  {
+    "id": 11399,
+    "en": "She lost the game",
+    "de": "Sie hat das Spiel verloren",
+    "groupCode": 1
+  },
+  {
+    "id": 11400,
+    "en": "Are you (formal) lying in the shower? No, that's too comic",
+    "de": "Liegen sie in der Dusche? Nein, das ist zu komisch",
     "groupCode": 1
   }
 ]

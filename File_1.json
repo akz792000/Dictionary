@@ -7813,7 +7813,7 @@
   },
   {
     "id": 4281,
-    "fa": "وجود ندارد هیچ یک لحظه کسل کننده در بلاکچین",
+    "fa": "وجود ندارد هرگز یک لحظه کسل کننده در بلاکچین",
     "en": "There's never a dull moment on the blockchain",
     "groupCode": 0
   },
@@ -7845,6 +7845,36 @@
     "id": 4286,
     "fa": "بارون اومد انقدر امروز که شلوارم خیس شد",
     "en": "It rained so much today that my shorts got wet",
+    "groupCode": 0
+  },
+  {
+    "id": 4287,
+    "fa": "تقاضای بازار به شدت (تیز) افزایش یافت برای اینکه ناشی بود از افزایش قیمت ها ماه گذشته",
+    "en": "The market demand increased sharply because it was driven by price bumps last month",
+    "groupCode": 0
+  },
+  {
+    "id": 4288,
+    "fa": "شرکت جبران کرد به کارگران برای اضافه کاریشان",
+    "en": "The company compensated the workers for their overtime",
+    "groupCode": 0
+  },
+  {
+    "id": 4289,
+    "fa": "این شرکت تصمیم گرفت تخریب کند کارخانه را",
+    "en": "The company decided to dismantle the factory",
+    "groupCode": 0
+  },
+  {
+    "id": 4290,
+    "fa": "اکثریت ارائه نکردند هیچ منطقی برای تصمیمشان",
+    "en": "The majority gave no rationale for its decision",
+    "groupCode": 0
+  },
+  {
+    "id": 4291,
+    "fa": "هوای بد معطل کرد (بازداشت) ما را در فرودگاه برای ساعت ها",
+    "en": "Bad weather detained us at the airport for hours.",
     "groupCode": 0
   }
 ]
