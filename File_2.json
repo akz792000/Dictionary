@@ -5963,7 +5963,7 @@
   },
   {
     "id": 10980,
-    "en": "We have to give the forms to the boss (female)",
+    "en": "We have to give the forms (to) the boss (female)",
     "de": "Wir müssen die Formulare der Chefin geben",
     "groupCode": 1
   },
@@ -6109,7 +6109,7 @@
   },
   {
     "id": 11004,
-    "en": "Where does the book lay? The book lies on the shelf",
+    "en": "Where does the book lie? The book lies on the shelf",
     "de": "Wo liegt das Buch? Das Buch liegt auf dem Regal",
     "groupCode": 1
   },
@@ -6127,7 +6127,7 @@
   },
   {
     "id": 11007,
-    "en": "Where does the cat lay? The cat lies under the sofa",
+    "en": "Where does the cat lie? The cat lies under the sofa",
     "de": "Wo liegt die Katze? Die Katze liegt unter dem Sofa",
     "groupCode": 1
   },
@@ -6802,7 +6802,7 @@
   },
   {
     "id": 11119,
-    "en": "The newspaper lays on the table",
+    "en": "The newspaper lies on the table",
     "de": "Die Zeitung liegt auf dem Tisch",
     "groupCode": 1
   },
@@ -7274,7 +7274,7 @@
   {
     "id": 11196,
     "en": "He is the new school student",
-    "de": "Er ist der neuer Schüler",
+    "de": "Er ist der neue Schüler",
     "groupCode": 1
   },
   {
@@ -7990,7 +7990,7 @@
   },
   {
     "id": 11314,
-    "en": "I would like to speak to you about a problem",
+    "en": "I would like to address (speak, bring up) you about a problem",
     "de": "Ich möchte dich auf ein Problem ansprechen",
     "groupCode": 1
   },
@@ -8044,7 +8044,7 @@
   },
   {
     "id": 11323,
-    "en": "I am an artist, I know everything about (above) art",
+    "en": "I am an artist (male), I know everything about (above) art",
     "de": "Ich bin Künstler, Ich weiß alles über Kunst",
     "groupCode": 1
   },
@@ -8294,7 +8294,7 @@
   },
   {
     "id": 11364,
-    "en": "May I quickly use your (formal) toilet?",
+    "en": "May I briefly use your (formal) toilet?",
     "de": "Darf ich kurz Ihre Toilette benutzen?",
     "groupCode": 1
   },
@@ -8319,7 +8319,7 @@
   },
   {
     "id": 11368,
-    "en": "I get on the train",
+    "en": "I get (in) on the train",
     "de": "Ich steige in den Zug ein",
     "groupCode": 1
   },
@@ -8331,7 +8331,7 @@
   },
   {
     "id": 11370,
-    "en": "I change trains in Munich",
+    "en": "I change (trains) in Munich",
     "de": "Ich steige in München um",
     "groupCode": 1
   },
@@ -8392,7 +8392,7 @@
   },
   {
     "id": 11380,
-    "en": "You do the right (thing)",
+    "en": "You do that right (thing)",
     "de": "Du tust das Richtige",
     "groupCode": 1
   },
@@ -8422,9 +8422,9 @@
   },
   {
     "id": 11385,
-    "en": "He puts the book on the table",
+    "en": "He lays the book on the table",
     "de": "Er legt das Buch auf den (dem) Tisch",
-    "desc": "Er legt das Buch auf den Tisch.\n(He puts the book onto the table → movement ⇒ Akkusativ “den Tisch”.)\n\nDas Buch liegt auf dem Tisch.\n(The book is lying on the table → no movement ⇒ Dativ “dem Tisch”.)",
+    "desc": "Er legt das Buch auf den Tisch.\n(He lays the book onto the table → movement ⇒ Akkusativ “den Tisch”.)\n\nDas Buch liegt auf dem Tisch.\n(The book is lying on the table → no movement ⇒ Dativ “dem Tisch”.)",
     "groupCode": 1
   },
   {
@@ -8503,7 +8503,7 @@
   {
     "id": 11398,
     "en": "He would like to marry her so much (gladly)",
-    "de": "Sie möchte ihn so gern heiraten",
+    "de": "Er möchte sie so gern heiraten",
     "groupCode": 1
   },
   {
@@ -8516,6 +8516,48 @@
     "id": 11400,
     "en": "Are you (formal) lying in the shower? No, that's too comic",
     "de": "Liegen sie in der Dusche? Nein, das ist zu komisch",
+    "groupCode": 1
+  },
+  {
+    "id": ,
+    "en": "Prepositions - Always Dative",
+    "de": "mit, nach, bei, seit, von, zu, aus",
+    "groupCode": 1
+  },
+  {
+    "id": ,
+    "en": "Prepositions - Always Accusative",
+    "de": "für, durch, gegen, ohne, um",
+    "groupCode": 1
+  },
+  {
+    "id": ,
+    "en": "Prepositions - Two-way",
+    "de": "in, auf, an, über, unter, vor, hinter, neben, zwischen",
+    "groupCode": 1
+  },
+  {
+    "id": ,
+    "en": "",
+    "de": "Konnten Sie mire bitte einen Kaffe bringen? Ja, kommt sofort",
+    "groupCode": 1
+  },
+  {
+    "id": ,
+    "en": "",
+    "de": "Kann ich bitte Salz und Pfeffer haben?",
+    "groupCode": 1
+  },
+  {
+    "id": ,
+    "en": "",
+    "de": "Ich habe Sie nicht richtig verstanden",
+    "groupCode": 1
+  },
+  {
+    "id": ,
+    "en": "",
+    "de": "Das Wort kenne ich nicht, was bedeutet das?",
     "groupCode": 1
   }
 ]

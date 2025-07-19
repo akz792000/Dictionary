@@ -2178,7 +2178,7 @@
   {
     "id": 3356,
     "fa": "اون یک عدد (غیرمنصفانه) ظالمانه و مضحک است",
-    "en": "That's an outrageous and ludicrous /ˈluːdəkrəs/ number",
+    "en": "That's an outrageous and ludicrous /ˈluːdɪkrəs/ number",
     "groupCode": 0
   },
   {
@@ -6063,7 +6063,7 @@
   {
     "id": 3993,
     "fa": "آخرین آلبوم او (زن) است یک مجموعه ای از تمام بهترین تکهاش (آهنگ های)",
-    "en": "Her latest album is a compilation of all her best singles",
+    "en": "Her latest album is a compilation /ˌkɑːmpəˈleɪʃn̩/ of all her best singles",
     "groupCode": 0
   },
   {
@@ -7867,14 +7867,38 @@
   },
   {
     "id": 4290,
-    "fa": "اکثریت ارائه نکردند هیچ منطقی برای تصمیمشان",
+    "fa": "اکثریت ندادن هیچ منطقی برای تصمیمشان",
     "en": "The majority gave no rationale for its decision",
     "groupCode": 0
   },
   {
     "id": 4291,
     "fa": "هوای بد معطل کرد (بازداشت) ما را در فرودگاه برای ساعت ها",
-    "en": "Bad weather detained us at the airport for hours.",
+    "en": "Bad weather detained us at the airport for hours",
+    "groupCode": 0
+  },
+  {
+    "id": 4292,
+    "fa": "تفاوت بین \"Weinflasche\" و \"eine Flasche Wein\" در مورد اسم مرکب در مقابل کمیت + اسم است",
+    "en": "The difference between 'Weinflasche' and 'eine Flasche Wein' is about compound noun vs. quantity + noun",
+    "groupCode": 0
+  },
+  {
+    "id": 4293,
+    "fa": "قیمت کفش ها سرسام آور (ظالمانه) بود",
+    "en": "The price of the shoes was outrageous",
+    "groupCode": 0
+  },
+  {
+    "id": 4294,
+    "fa": "ایده مسخره ای است رفتن (برای) شنا کردن در یک رعد و برق",
+    "en": "It’s a ludicrous /ˈluːdɪkrəs/ idea to go swimming in a thunderstorm",
+    "groupCode": 0
+  },
+  {
+    "id": 4295,
+    "fa": "راه حل مشکل دست نیافتنی (گریزان) بود",
+    "en": "The solution to the problem was elusive",
     "groupCode": 0
   }
 ]
