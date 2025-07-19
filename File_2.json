@@ -5478,7 +5478,7 @@
   },
   {
     "id": 10900,
-    "en": "You have to talk to the airline, sorry",
+    "en": "You have to speak to the airline, sorry",
     "de": "Du musst mit der Fluggesellschaft sprechen, tut mir leid",
     "groupCode": 1
   },
@@ -7990,13 +7990,13 @@
   },
   {
     "id": 11314,
-    "en": "I would like to address (speak, bring up) you about a problem",
+    "en": "I would like to speak to (bring up) you about a problem",
     "de": "Ich möchte dich auf ein Problem ansprechen",
     "groupCode": 1
   },
   {
     "id": 11315,
-    "en": "He spoke to me on the street",
+    "en": "He spoke (bring up) to me on the street",
     "de": "Er hat mich auf der Straße angesprochen",
     "groupCode": 1
   },
@@ -8165,7 +8165,7 @@
   },
   {
     "id": 11343,
-    "en": "What do you specially like? Particularly I like orange",
+    "en": "What do you specially (like) like? Particularly (like) I like orange",
     "de": "Was magst du besonders gern? Besonders gern mag ich Orange",
     "groupCode": 1
   },
@@ -8238,7 +8238,7 @@
   },
   {
     "id": 11355,
-    "en": "The boss speak to him about the mistake",
+    "en": "The boss speak (bring up) to him about the mistake",
     "de": "Der Chef spricht ihn auf den Fehler an",
     "desc": "The verb ansprechen (to address / bring up something) is often used with „auf + Akkusativ“ to show what you are addressing someone about.",
     "groupCode": 1
@@ -8423,7 +8423,7 @@
   {
     "id": 11385,
     "en": "He lays the book on the table",
-    "de": "Er legt das Buch auf den (dem) Tisch",
+    "de": "Er legt das Buch auf den Tisch",
     "desc": "Er legt das Buch auf den Tisch.\n(He lays the book onto the table → movement ⇒ Akkusativ “den Tisch”.)\n\nDas Buch liegt auf dem Tisch.\n(The book is lying on the table → no movement ⇒ Dativ “dem Tisch”.)",
     "groupCode": 1
   },
@@ -8519,44 +8519,44 @@
     "groupCode": 1
   },
   {
-    "id": ,
+    "id": 11401,
     "en": "Prepositions - Always Dative",
     "de": "mit, nach, bei, seit, von, zu, aus",
     "groupCode": 1
   },
   {
-    "id": ,
+    "id": 11402,
     "en": "Prepositions - Always Accusative",
     "de": "für, durch, gegen, ohne, um",
     "groupCode": 1
   },
   {
-    "id": ,
+    "id": 11403,
     "en": "Prepositions - Two-way",
     "de": "in, auf, an, über, unter, vor, hinter, neben, zwischen",
     "groupCode": 1
   },
   {
-    "id": ,
-    "en": "",
-    "de": "Konnten Sie mire bitte einen Kaffe bringen? Ja, kommt sofort",
+    "id": 11404,
+    "en": "Could you please bring me a coffee? Yes, it's coming immediately",
+    "de": "Konnten Sie mire bitte einen Kaffee bringen? Ja, kommt sofort",
     "groupCode": 1
   },
   {
-    "id": ,
-    "en": "",
+    "id": 11405,
+    "en": "Can I please have salt and pepper?",
     "de": "Kann ich bitte Salz und Pfeffer haben?",
     "groupCode": 1
   },
   {
-    "id": ,
-    "en": "",
+    "id": 11406,
+    "en": "I didn't understand you correctly",
     "de": "Ich habe Sie nicht richtig verstanden",
     "groupCode": 1
   },
   {
-    "id": ,
-    "en": "",
+    "id": 11407,
+    "en": "I don't know the word, what does it mean?",
     "de": "Das Wort kenne ich nicht, was bedeutet das?",
     "groupCode": 1
   }
