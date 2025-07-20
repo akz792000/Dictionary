@@ -71,7 +71,7 @@
     "id": 3012,
     "fa": "چگونه قرار است به آن پاسخ دهم؟",
     "en": "How am I supposed to respond to that?",
-    "desc": "You need the word \"to\" after \"supposed\" when it’s followed by a verb",
+    "desc": "You need the word \"to\" after \"supposed\" when it's followed by a verb",
     "groupCode": 0
   },
   {
@@ -5911,7 +5911,7 @@
   {
     "id": 3968,
     "fa": "وقت دکتر عقب افتاد",
-    "en": "The doctor’s appointment got pushed back",
+    "en": "The doctor's appointment got pushed back",
     "groupCode": 0
   },
   {
@@ -6586,7 +6586,7 @@
     "id": 4079,
     "fa": "احتمال وقوع آن استثنا کم است",
     "en": "The likelihood of that exception happening is low",
-    "desc": "In English, when we use the structure \"the likelihood of\", it’s usually followed by a noun or a gerund (which is the -ing form of a verb acting as a noun). In your sentence, the correct form would be \"that exception happening\", where \"happening\" is the gerund.\n\nWhy it's wrong:\n\"Happening that exception\" places the gerund \"happening\" in the wrong order. It should come after the noun (i.e., \"that exception\").\n\nEnglish tends to have a noun + gerund structure when talking about likelihood, possibility, etc.",
+    "desc": "In English, when we use the structure \"the likelihood of\", it's usually followed by a noun or a gerund (which is the -ing form of a verb acting as a noun). In your sentence, the correct form would be \"that exception happening\", where \"happening\" is the gerund.\n\nWhy it's wrong:\n\"Happening that exception\" places the gerund \"happening\" in the wrong order. It should come after the noun (i.e., \"that exception\").\n\nEnglish tends to have a noun + gerund structure when talking about likelihood, possibility, etc.",
     "groupCode": 0
   },
   {
@@ -7488,7 +7488,7 @@
     "id": 4227,
     "fa": "تمام موشک های ارسال شده به سمت آن پایگاه رهگیری شده اند",
     "en": "All missiles sent toward that base have been intercepted",
-    "desc": "\n✅ \"All missiles sent toward that base have been intercepted.\"\nThis sentence is passive — just in a reduced form.\n\nThe full version would be:\n\n\"All missiles that were sent toward that base have been intercepted.\"\n\n\"Sent toward that base\" is a past participle phrase (shortened relative clause) modifying \"missiles.\"\n\nIt omits \"that were\" for simplicity and smoothness — very common in English.\n\nSo yes:\nSomeone sent the missiles → it’s passive voice.\n\nBut we don’t need to say \"were sent\" explicitly, because:\n\nIt’s implied.\n\nThe shortened form is correct and natural.\n\nExamples:\n\"The books written by her became bestsellers.\"\n(→ \"that were written\" by her)",
+    "desc": "\n✅ \"All missiles sent toward that base have been intercepted.\"\nThis sentence is passive — just in a reduced form.\n\nThe full version would be:\n\n\"All missiles that were sent toward that base have been intercepted.\"\n\n\"Sent toward that base\" is a past participle phrase (shortened relative clause) modifying \"missiles.\"\n\nIt omits \"that were\" for simplicity and smoothness — very common in English.\n\nSo yes:\nSomeone sent the missiles → it's passive voice.\n\nBut we don't need to say \"were sent\" explicitly, because:\n\nIt's implied.\n\nThe shortened form is correct and natural.\n\nExamples:\n\"The books written by her became bestsellers.\"\n(→ \"that were written\" by her)",
     "groupCode": 0
   },
   {
@@ -7789,8 +7789,8 @@
   },
   {
     "id": 4277,
-    "fa": "وقتی ضمیر انعکاسی به شخصی که صاحب عضو بدن است اشاره می کند و خود عضو بدن مفعول مستقیم است، در زبان آلمانی از این روش استفاده می شود: ضمیر انعکاسی Dativ + Akkusativ عضو بدن. بنابراین، عضو بدن چیزی است که شسته می شود (Akkusativ) و ضمیر انعکاسی مفعول غیرمستقیم (Dativ) است - شخصی که عمل برای او انجام می شود.",
-    "en": "When the reflexive pronoun refers to the person who owns the body part, and the body part itself is the direct object, German uses: Dativ reflexive pronoun + Akkusativ body part. So, the body part is the thing being washed (Akkusativ), and the reflexive pronoun is the indirect object (Dativ) — the person for whom the action is done",
+    "fa": "وقتی کسی عملی انجام می دهد روی عضوی از بدن خود، (در زبان) آلمانی استفاده می شود از ضمیر انعکاسی با حالت مفعولی غیرمستقیم به عنوان شخص و از مفعول غیرمستقیم به عنوان عضوی از بدن که عمل روی آن انجام شده است",
+    "en": "When someone acts on their own body part, German uses a dative reflexive pronoun as the person and an accusative body part as the thing acted on",
     "groupCode": 0
   },
   {
@@ -7892,13 +7892,44 @@
   {
     "id": 4294,
     "fa": "ایده مسخره ای است رفتن (برای) شنا کردن در یک رعد و برق",
-    "en": "It’s a ludicrous /ˈluːdɪkrəs/ idea to go swimming in a thunderstorm",
+    "en": "It's a ludicrous /ˈluːdɪkrəs/ idea to go swimming in a thunderstorm",
     "groupCode": 0
   },
   {
     "id": 4295,
-    "fa": "راه حل مشکل دست نیافتنی (گریزان) بود",
+    "fa": "راه (به سوی) حل مشکل دست نیافتنی (گریزان) بود",
     "en": "The solution to the problem was elusive",
+    "desc": "We say: solution to a problem, not solution of a problem",
+    "groupCode": 0
+  },
+  {
+    "id": 4296,
+    "fa": "سر و صدا تأثیر (منفی) گذاشتن روی تمرکزم",
+    "en": "The noise impinged on my focus",
+    "groupCode": 0
+  },
+  {
+    "id": 4297,
+    "fa": "کلید (به سوی) موفقیت کار سخت است",
+    "en": "The key to success is hard work",
+    "groupCode": 0
+  },
+  {
+    "id": 4298,
+    "fa": "او (زن) یک علاقه مند کتاب های صوتی است",
+    "en": "She is an audiobook enthusiast",
+    "groupCode": 0
+  },
+  {
+    "id": 4299,
+    "fa": "مشکل واقعی این است که به شما یاد داده اند بفهمید انگلیسی را آنطور که نوشته می شود اما نه آنطور که واقعاً گفته می شود",
+    "en": "The real problem is that you've been taught to understand English as it's written but not how it's actually spoken",
+    "groupCode": 0
+  },
+  {
+    "id": 4300,
+    "fa": "چه گام های ملموسی (بتونی) شما می توانید بردارید برای بهبود دادن مهارت های شنیداری خود؟",
+    "en": "What concrete steps can you take to improve your listening skills?",
     "groupCode": 0
   }
 ]

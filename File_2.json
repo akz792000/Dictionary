@@ -4645,7 +4645,7 @@
   {
     "id": 10763,
     "en": "We have holiday (school holidays) in two weeks. My girl friends and I are watching a comedy during the holiday (school holidays). The film is very funny",
-    "de": "Wir haben in zwei Wochen Ferien. Meine Freundinnen und ich sehen in den Ferien eine Komödie an. Der Film ist sher lustig/witzig",
+    "de": "Wir haben in zwei Wochen Ferien. Meine Freundinnen und ich sehen in den Ferien eine Komödie an. Der Film ist sehr lustig/witzig",
     "groupCode": 1
   },
   {
@@ -6337,7 +6337,7 @@
   },
   {
     "id": 11042,
-    "en": "I did not study on the weekend because I was very busy",
+    "en": "I did not learn on the weekend because I was very busy",
     "de": "Ich habe am Wochenende nicht gelernt, denn ich war sehr beschäftigt",
     "groupCode": 1
   },
@@ -8539,7 +8539,7 @@
   {
     "id": 11404,
     "en": "Could you please bring me a coffee? Yes, it's coming immediately",
-    "de": "Konnten Sie mire bitte einen Kaffee bringen? Ja, kommt sofort",
+    "de": "Konnten Sie mir bitte einen Kaffee bringen? Ja, kommt sofort",
     "groupCode": 1
   },
   {
@@ -8551,13 +8551,163 @@
   {
     "id": 11406,
     "en": "I didn't understand you correctly",
-    "de": "Ich habe Sie nicht richtig verstanden",
+    "de": "Ich habe dich nicht richtig verstanden",
     "groupCode": 1
   },
   {
     "id": 11407,
     "en": "I don't know the word, what does it mean?",
     "de": "Das Wort kenne ich nicht, was bedeutet das?",
+    "groupCode": 1
+  },
+  {
+    "id": 11408,
+    "en": "He becomes a doctor",
+    "de": "Er wird ein Arzt",
+    "groupCode": 1
+  },
+  {
+    "id": 11409,
+    "en": "She says a story",
+    "de": "Sie sagt eine Geschichte",
+    "groupCode": 1
+  },
+  {
+    "id": 11410,
+    "en": "He gives the child a book",
+    "de": "Er gibt dem Kind ein Buch",
+    "groupCode": 1
+  },
+  {
+    "id": 11411,
+    "en": "You should open the window",
+    "de": "Du sollst das Fenster öffnen",
+    "groupCode": 1
+  },
+  {
+    "id": 11412,
+    "en": "He knows the answer",
+    "de": "Er weiß die Antwort",
+    "groupCode": 1
+  },
+  {
+    "id": 11413,
+    "en": "I see the bird",
+    "de": "Ich sehe den Vogel",
+    "groupCode": 1
+  },
+  {
+    "id": 11414,
+    "en": "She lets the car be repaired",
+    "de": "Sie lässt das Auto reparieren",
+    "groupCode": 1
+  },
+  {
+    "id": 11415,
+    "en": "She takes the apple",
+    "de": "Sie nimmt den Apfel",
+    "groupCode": 1
+  },
+  {
+    "id": 11416,
+    "en": "I do my work",
+    "de": "Ich tue meine Arbeit",
+    "groupCode": 1
+  },
+  {
+    "id": 11417,
+    "en": "You are allowed to sit here",
+    "de": "Du darfst hier sitzen",
+    "groupCode": 1
+  },
+  {
+    "id": 11418,
+    "en": "I believe you",
+    "de": "Ich glaube dir",
+    "groupCode": 1
+  },
+  {
+    "id": 11419,
+    "en": "He holds the door",
+    "de": "Er hält die Tür",
+    "groupCode": 1
+  },
+  {
+    "id": 11420,
+    "en": "She calls the dog Max",
+    "de": "Sie nennt den Hund Max",
+    "groupCode": 1
+  },
+  {
+    "id": 11421,
+    "en": "He shows the picture",
+    "de": "Er zeigt das Bild",
+    "groupCode": 1
+  },
+  {
+    "id": 11422,
+    "en": "The teacher leads the class",
+    "de": "Der Lehrer führt die Klasse",
+    "groupCode": 1
+  },
+  {
+    "id": 11423,
+    "en": "He rides the bus",
+    "de": "Er fährt mit dem Bus",
+    "groupCode": 1
+  },
+  {
+    "id": 11424,
+    "en": " I mean the question",
+    "de": "Ich meine die Frage",
+    "groupCode": 1
+  },
+  {
+    "id": 11425,
+    "en": "You ask the man",
+    "de": "Du fragst den Mann",
+    "groupCode": 1
+  },
+  {
+    "id": 11426,
+    "en": "The passport is valid for one year",
+    "de": "Der Pass gilt für ein Jahr",
+    "groupCode": 1
+  },
+  {
+    "id": 11427,
+    "en": "I put the lamp on the table",
+    "de": "Ich stelle die Lampe auf den Tisch",
+    "groupCode": 1
+  },
+  {
+    "id": 11428,
+    "en": "The dog follows the man",
+    "de": "Der Hund folgt dem Mann",
+    "groupCode": 1
+  },
+  {
+    "id": 11429,
+    "en": "She passes the exam",
+    "de": "Sie besteht die Prüfung",
+    "groupCode": 1
+  },
+  {
+    "id": 11430,
+    "en": "I set the plate on the table",
+    "de": "Ich setze den Teller auf den Tisch",
+    "groupCode": 1
+  },
+  {
+    "id": 11431,
+    "en": "I try to speak German",
+    "de": "Ich versuche, Deutsch zu sprechen",
+    "groupCode": 1
+  },
+  {
+    "id": 11432,
+    "en": "He explains the task",
+    "de": "Er erklärt die Aufgabe",
     "groupCode": 1
   }
 ]
