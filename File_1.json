@@ -7904,7 +7904,7 @@
   },
   {
     "id": 4296,
-    "fa": "سر و صدا تأثیر (منفی) گذاشتن روی تمرکزم",
+    "fa": "نویز تأثیر (منفی) گذاشتن روی تمرکزم",
     "en": "The noise impinged on my focus",
     "groupCode": 0
   },
@@ -7930,6 +7930,18 @@
     "id": 4300,
     "fa": "چه گام های ملموسی (بتونی) شما می توانید بردارید برای بهبود دادن مهارت های شنیداری خود؟",
     "en": "What concrete steps can you take to improve your listening skills?",
+    "groupCode": 0
+  },
+  {
+    "id": 4301,
+    "fa": "بی خیال باش بابا، اگه ما از دست بدیم این قطار رو، همیشه یکی دیگه هست",
+    "en": "Chill out Dad, if we miss this train there's always another one",
+    "groupCode": 0
+  },
+  {
+    "id": 4302,
+    "fa": "من احساس عصبانی (اذیت) شدم از صدای بلند",
+    "en": "I felt irritated by the loud noise",
     "groupCode": 0
   }
 ]

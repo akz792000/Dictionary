@@ -8,7 +8,7 @@
   {
     "id": 10002,
     "en": "How are you doing (informal)? Thank you, I'm doing well, and you?",
-    "de": "Wie geht es dir? (1.Wie geht's dir? 2.Wie geht's?) Dannke, es geht mir gut, und dir?",
+    "de": "Wie geht es dir? (1.Wie geht's dir? 2.Wie geht's?) Danke, es geht mir gut, und dir?",
     "groupCode": 1
   },
   {
@@ -26,7 +26,7 @@
   {
     "id": 10005,
     "en": "Excuse (formal) me please. My roommate (female) is often messy",
-    "de": "Entschuldigung Sie, bitte. Meine Mitbewohnerin ist oft unordentlich",
+    "de": "Entschuldigung Sie bitte. Meine Mitbewohnerin ist oft unordentlich",
     "groupCode": 1
   },
   {
@@ -58,13 +58,12 @@
     "id": 10010,
     "en": "See you later",
     "de": "Bis Später",
-    "desc": "We use accusative here because of the verb \"zahlen\" (to pay), which takes a direct object",
     "groupCode": 1
   },
   {
     "id": 10011,
     "en": "Good night",
-    "de": "Gute nacht",
+    "de": "Gute Nacht",
     "desc": "\"denn\" here makes the question sound softer or more friendly.",
     "groupCode": 1
   },
@@ -83,7 +82,7 @@
   {
     "id": 10014,
     "en": "You are Mr. Bieber! You (formal) never pay their bills",
-    "de": "Sie sind Herr Bieber! Sie zahlen nie ihre Rechnungen",
+    "de": "Sie sind Herr Bieber! Sie zahlen nie Ihre Rechnungen",
     "groupCode": 1
   },
   {
@@ -139,14 +138,14 @@
   {
     "id": 10023,
     "en": "\n Object pronoun - Akkusative \n me, you, him(M)/her(F)/it(N), us, you, them",
-    "de": "\n Objektpronomen - Akkusative \n mich, dich, ihn(M)/sie(F)/es(N), uns, euch, sie-Sie \n Iche liebe dich",
+    "de": "\n Objektpronomen - Akkusative \n mich, dich, ihn(M)/sie(F)/es(N), uns, euch, sie-Sie",
     "desc": "بی واسطه - چه چیزی را - چه کسی را",
     "groupCode": 1
   },
   {
     "id": 10024,
     "en": "\n Object pronoun - Dativ \n me, you, him(M)/her(F)/it(N), us, you, them",
-    "de": "\n Objektpronomen - Dativ \n mir, dir, ihm(M)/ihr(F)/ihm(N), uns, euch, ihnen-Ihnen \n Ich gebe ihm das buch",
+    "de": "\n Objektpronomen - Dativ \n mir, dir, ihm(M)/ihr(F)/ihm(N), uns, euch, ihnen-Ihnen",
     "desc": "با واسطه - به چه چیزی - به چه کسی",
     "groupCode": 1
   },
@@ -170,7 +169,7 @@
   },
   {
     "id": 10028,
-    "en": "Please repeat (fromal)!",
+    "en": "Please repeat (formal)!",
     "de": "Bitte wiederholen Sie!",
     "groupCode": 1
   },
@@ -206,7 +205,7 @@
   },
   {
     "id": 10034,
-    "en": "Yes / No / may be. What are you drawing right now? Oh, you draw me",
+    "en": "Yes / No / maybe. What are you drawing right now? Oh, you draw me",
     "de": "Ja / Nein / Vielleicht. Was zeichnest du gerade? Oh, Du zeichnest mich",
     "desc": "So use \"gerade\" for now, and \"gleich\" for soon/in a moment.",
     "groupCode": 1
@@ -214,7 +213,7 @@
   {
     "id": 10035,
     "en": "Complete (formal) the dialog",
-    "de": "Ergänzen Sie die Dialog",
+    "de": "Ergänzen Sie den Dialog",
     "groupCode": 1
   },
   {
@@ -624,7 +623,7 @@
   {
     "id": 10102,
     "en": "I'm sad and I'm very sleepy",
-    "de": "Ich bin traurig und Ich bin sehr schläfrig",
+    "de": "Ich bin traurig und sehr schläfrig",
     "groupCode": 1
   },
   {
@@ -635,7 +634,7 @@
   },
   {
     "id": 10104,
-    "en": "My turtle need no free time",
+    "en": "My turtle doesn't need free time",
     "de": "Meine Schildkröte braucht keine Freizeit",
     "groupCode": 1
   },
@@ -698,7 +697,7 @@
   {
     "id": 10114,
     "en": "It snows very heavily (strongly). Where are my scarf and my water bottle?",
-    "de": "Es schneit sehr stark. Wo sind mein Schal und meine wasserflasche?",
+    "de": "Es schneit sehr stark. Wo sind mein Schal und meine Wasserflasche?",
     "groupCode": 1
   },
   {
@@ -734,7 +733,7 @@
   {
     "id": 10120,
     "en": "We live in Munich and We have no children",
-    "de": "Wir wohnen in Munchen und Wir haben keine Kinder",
+    "de": "Wir wohnen in München und Wir haben keine Kinder",
     "groupCode": 1
   },
   {
@@ -763,7 +762,7 @@
   },
   {
     "id": 10125,
-    "en": "The food needs more salt and suger",
+    "en": "The food needs more salt and sugar",
     "de": "Das Essen braucht mehr Salz und Zucker",
     "groupCode": 1
   },
@@ -790,13 +789,13 @@
   {
     "id": 10129,
     "en": "I don't have a stomachache anymore, I'm healthy",
-    "de": "Ich habe keine bauchschmerzen mehr, ich bin gesund",
+    "de": "Ich habe keine Bauchschmerzen mehr, ich bin gesund",
     "groupCode": 1
   },
   {
     "id": 10130,
-    "en": "Are you not hungery anymore?",
-    "de": "Hast du kinen Hunger mehr?",
+    "en": "Are you not hungry anymore?",
+    "de": "Hast du keinen Hunger mehr?",
     "groupCode": 1
   },
   {
@@ -832,12 +831,12 @@
   {
     "id": 10136,
     "en": "Why does your sister eat nothing? The currywurst is too spicy and too salty for her",
-    "de": "Warum isst deine Schwester nichts. Die Currywurst ist zu scharf und zu saltzig für sie",
+    "de": "Warum isst deine Schwester nichts? Die Currywurst ist zu scharf und zu saltzig für sie",
     "groupCode": 1
   },
   {
     "id": 10137,
-    "en": "We must to eat less sugar",
+    "en": "We must eat less sugar",
     "de": "Wir müssen weniger Zucker essen",
     "groupCode": 1
   },
@@ -869,7 +868,7 @@
   {
     "id": 10142,
     "en": "Are the strawberries fresh?",
-    "de": "Sind sie Erdbeeren frisch?",
+    "de": "Sind die Erdbeeren frisch?",
     "groupCode": 1
   },
   {
@@ -1235,14 +1234,14 @@
   {
     "id": 10202,
     "en": "Welcome! I'm very pleased too",
-    "de": "Willkommen! Freut mich sehr auch",
+    "de": "Willkommen! Freut mich auch sehr",
     "desc": "It's a polite and warm response, often used to express mutual pleasure in meeting someone or agreeing with them.",
     "groupCode": 1
   },
   {
     "id": 10203,
     "en": "That is Pablo. He comes from Spain, from Leon. He now lives in Munich",
-    "de": "Das ist Pablo. Er kommt aus Spanien (اِشپانین), aus Leon. Er wohnt jetzt in München",
+    "de": "Das ist Pablo. Er kommt aus Spanien, aus León. Er wohnt jetzt in München",
     "groupCode": 1
   },
   {
@@ -1278,14 +1277,14 @@
   },
   {
     "id": 10209,
-    "en": "What (How) is your family name? (formal)",
+    "en": "What (How) is your (formal) family name?",
     "de": "Wie ist Ihr (formal) Familienname?",
     "desc": "\"Ihr\" is a formal pronoun used when addressing someone with respect, especially in professional or formal situations. It is equivalent to the English \"your\" (formal) when addressing someone with respect",
     "groupCode": 1
   },
   {
     "id": 10210,
-    "en": "What (How) is your first name? (formal)",
+    "en": "What (How) is your (formal) first name?",
     "de": "Wie ist Ihr (formal) Vorname?",
     "groupCode": 1
   },
@@ -1310,7 +1309,7 @@
   {
     "id": 10214,
     "en": "I come from Greece, I speak Greek, and I am Greek",
-    "de": "Ich komme aus Griechenland, Ich spreche Griechisch und Ich bin Grieche/Griechin",
+    "de": "Ich komme aus Griechenland, ich spreche Griechisch und ich bin Grieche / Griechin",
     "groupCode": 1
   },
   {
@@ -1402,7 +1401,7 @@
   {
     "id": 10229,
     "en": "Today is a holiday (public holiday). I am not going into the office. My family and I want to grill",
-    "de": "Heute ist ein feiertag. Ich gehe nicht ins Büro. Meine Familie und ich wollen grillen",
+    "de": "Heute ist ein Feiertag. Ich gehe nicht ins Büro. Meine Familie und ich wollen grillen",
     "desc": "In German, \"nicht\" usually comes after the verb and object, unless you're negating a specific word or idea.",
     "groupCode": 1
   },
@@ -1414,8 +1413,8 @@
   },
   {
     "id": 10231,
-    "en": "Thank you for the information! I am interested (at) in the position, but my German level is currently at A",
-    "de": "Vielen Dank für die Informationen! Ich habe Interesse an der Stelle, aber mein Deutschniveau ist derzeit auf A",
+    "en": "Thank you for the information! I am interested (at) in the position, but my German level is currently A",
+    "de": "Vielen Dank für die Informationen! Ich habe Interesse an der Stelle, aber mein Deutschniveau ist derzeit A",
     "desc": "zurzeit = currently (informal, everyday use)\n\nderzeit = currently (formal, official use)",
     "groupCode": 1
   },
@@ -1860,7 +1859,7 @@
   {
     "id": 10304,
     "en": "How old are you (plural)? He is 28 years old and she is also 28",
-    "de": "Wie alt seid ihr? Er ist 28 Jahre alt und Sie ist auch 28",
+    "de": "Wie alt seid ihr? Er ist 28 Jahre alt und sie ist auch 28",
     "groupCode": 1
   },
   {
@@ -1873,7 +1872,7 @@
   {
     "id": 10306,
     "en": "Do you want to eat noodles for dinner?",
-    "de": "Willst du nudeln zum Abendessen essen?",
+    "de": "Willst du Nudeln zum Abendessen essen?",
     "groupCode": 1
   },
   {
@@ -1953,13 +1952,13 @@
   {
     "id": 10319,
     "en": "We don't have any drinks. Ali, can you buy the wine?",
-    "de": "Wir haben keine Getränke. Ali, kannst du den wein kaufen?",
+    "de": "Wir haben keine Getränke. Ali, kannst du den Wein kaufen?",
     "groupCode": 1
   },
   {
     "id": 10320,
     "en": "The Shops (stores) are closed on holiday (public holiday)",
-    "de": "Die Geschäfte sind am feiertag geschlossen",
+    "de": "Die Geschäfte sind am Feiertag geschlossen",
     "groupCode": 1
   },
   {
@@ -1977,7 +1976,7 @@
   {
     "id": 10323,
     "en": "They help the fathers",
-    "de": "Sie helfen den vätern",
+    "de": "Sie helfen den Vätern",
     "desc": "The verb \"helfen\" always takes the dative case.\n\nThe plural of \"Vater\" (father) is \"Väter\".\n\nIn dative plural, German adds an -n to most nouns → \"den Vätern\".",
     "groupCode": 1
   },
@@ -2015,19 +2014,19 @@
   {
     "id": 10329,
     "en": "Akbar is bus driver but I'm unemployed at the moment",
-    "de": "Akbar ist Busfahrer aber Ich bin im Moment arbeitslos",
+    "de": "Akbar ist Busfahrer aber ich bin im Moment arbeitslos",
     "groupCode": 1
   },
   {
     "id": 10330,
-    "en": "Can you maybe visit your grandpa",
-    "de": "Kannst du vielleicht deinen Opa besuchen",
+    "en": "Can you maybe visit your grandpa?",
+    "de": "Kannst du vielleicht deinen Opa besuchen?",
     "groupCode": 1
   },
   {
     "id": 10331,
     "en": "Our grandparents have too many books",
-    "de": "Unsere großeltern haben zu viele Bücher",
+    "de": "Unsere Großeltern haben zu viele Bücher",
     "groupCode": 1
   },
   {
@@ -2079,7 +2078,7 @@
   {
     "id": 10339,
     "en": "My family and I celebrate the holiday (public holiday) in the park",
-    "de": "Meine Familie und ich feiern den feiertag im Park",
+    "de": "Meine Familie und ich feiern den Feiertag im Park",
     "groupCode": 1
   },
   {
@@ -2501,7 +2500,7 @@
   {
     "id": 10409,
     "en": "My husband, my son, my daughter and my wife",
-    "de": "Mein Mann, mein Sohn, meine Tochter and meine Frau",
+    "de": "Mein Mann, mein Sohn, meine Tochter und meine Frau",
     "groupCode": 1
   },
   {
@@ -2593,7 +2592,7 @@
   {
     "id": 10424,
     "en": "Can you (formal) sign the form, Mr. Smith",
-    "de": "Können sie das Formular unterschreiben, Herr Smith",
+    "de": "Können Sie das Formular unterschreiben, Herr Smith",
     "groupCode": 1
   },
   {
@@ -2659,7 +2658,7 @@
   {
     "id": 10435,
     "en": "He jogs to (toward) the restaurant",
-    "de": "Er Joggt zum Restaurant",
+    "de": "Er joggt zum Restaurant",
     "groupCode": 1
   },
   {
@@ -2689,7 +2688,7 @@
   {
     "id": 10440,
     "en": "My German isn't good. I need a dictionary. My dictionary is in the suitcase",
-    "de": "Mein Deutsch ist nicht gut. Ich brauche ein wörterbuch. Mein wörterbuch ist im Koffer",
+    "de": "Mein Deutsch ist nicht gut. Ich brauche ein Wörterbuch. Mein wörterbuch ist im Koffer",
     "groupCode": 1
   },
   {
@@ -3152,7 +3151,7 @@
   {
     "id": 10516,
     "en": "I would like to make an appointment",
-    "de": "Ich mochte einen Termin machen",
+    "de": "Ich möchte einen Termin machen",
     "groupCode": 1
   },
   {
@@ -3176,7 +3175,7 @@
   {
     "id": 10520,
     "en": "I am always thirsty at night",
-    "de": "Ich habe nachts immer Durst",
+    "de": "Ich habe nachts immer durst",
     "groupCode": 1
   },
   {
@@ -3325,7 +3324,7 @@
   },
   {
     "id": 10545,
-    "en": "My friends like eatting Italian for dinner",
+    "en": "My friends like eating Italian for dinner",
     "de": "Meine Freunde essen gern italienisch zum Abendessen",
     "groupCode": 1
   },
@@ -3676,7 +3675,7 @@
   {
     "id": 10603,
     "en": "Fifty guests are coming to (toward) the party tomorrow",
-    "de": "Fünfzig Gaste kommen morgen zur Party",
+    "de": "Fünfzig Gäste kommen morgen zur Party",
     "groupCode": 1
   },
   {
@@ -3744,7 +3743,7 @@
   {
     "id": 10614,
     "en": "Her sneakers (gym shoes) are wet, but she is still running",
-    "de": "Ihre Turnschuhe sind nass, aber sie Läuft noch",
+    "de": "Ihre Turnschuhe sind nass, aber sie läuft noch",
     "groupCode": 1
   },
   {
@@ -3852,7 +3851,7 @@
   {
     "id": 10632,
     "en": "My sister is excited because I have holiday (school holidays)",
-    "de": "Meine schwester ist aufgeregt, denn ich habe ferien",
+    "de": "Meine Schwester ist aufgeregt, denn ich habe ferien",
     "groupCode": 1
   },
   {
@@ -3919,7 +3918,7 @@
   {
     "id": 10643,
     "en": "There is not enough space in the refrigerator",
-    "de": "Es gibt nicht genug Platz Im Kühlschrank",
+    "de": "Es gibt nicht genug Platz im Kühlschrank",
     "groupCode": 1
   },
   {
@@ -4281,7 +4280,7 @@
   {
     "id": 10703,
     "en": "Twenty guests come to (toward) the party. Lisa does not come alone. Her foot is broken and she cannot drive her car. Her neighbor (male) drives her",
-    "de": "Zwanzig gäste kommen zur Party. Lisa kommt nicht allein. Ihr Fus ist gebrochen und sie kann ihr Auto nicht fahren. Ihr Nachbar fährt sie",
+    "de": "Zwanzig Gäste kommen zur Party. Lisa kommt nicht allein. Ihr Fuß ist gebrochen und sie kann ihr Auto nicht fahren. Ihr Nachbar fährt sie",
     "groupCode": 1
   },
   {
@@ -4361,7 +4360,7 @@
   {
     "id": 10716,
     "en": "You're crazy. It's not dangerous",
-    "de": "Du bist spinnst. Es ist nicht gefährlich",
+    "de": "Du spinnst. Es ist nicht gefährlich",
     "groupCode": 1
   },
   {
@@ -4373,7 +4372,7 @@
   {
     "id": 10718,
     "en": "I have to pick up two bottles of wine first",
-    "de": "Ich muss zuerst zwei Flaschen wein abholen",
+    "de": "Ich muss zuerst zwei Flaschen Wein abholen",
     "groupCode": 1
   },
   {
@@ -4410,7 +4409,7 @@
   {
     "id": 10724,
     "en": "The bike is yellow, red and black",
-    "de": "Das fahrrad ist gelb, rot und schwarz",
+    "de": "Das Fahrrad ist gelb, rot und schwarz",
     "groupCode": 1
   },
   {
@@ -4452,7 +4451,7 @@
   {
     "id": 10731,
     "en": "Oh no, he loves your girlfriend",
-    "de": "Oh nein, er liebt deine freundin",
+    "de": "Oh nein, er liebt deine Freundin",
     "groupCode": 1
   },
   {
@@ -4470,7 +4469,7 @@
   {
     "id": 10734,
     "en": "Anna runs two hundred kilometers every Saturday, her husband is also very sporty, he runs every day",
-    "de": "Anna läuft jeden Samstag zweihundert Kilometer, Ihr Mann ist auch sehr sportlich, Er läuft jeden Tag",
+    "de": "Anna läuft jeden Samstag zweihundert Kilometer, ihr Mann ist auch sehr sportlich, er läuft jeden Tag",
     "groupCode": 1
   },
   {
@@ -4566,7 +4565,7 @@
   {
     "id": 10750,
     "en": "My grandson is doing an internship",
-    "de": "Mein Enkel macht ein praktikum",
+    "de": "Mein Enkel macht ein Praktikum",
     "groupCode": 1
   },
   {
@@ -5922,7 +5921,7 @@
   {
     "id": 10973,
     "en": "My mother picks up eight bottles of wine. My girlfriend and I are eating breakfast with my mom",
-    "de": "Meine Mutter holt acht Flaschen wein ab. Meine Freundin und ich frühstücken mit meiner Mama",
+    "de": "Meine Mutter holt acht Flaschen Wein ab. Meine Freundin und ich frühstücken mit meiner Mama",
     "groupCode": 1
   },
   {
@@ -5964,7 +5963,7 @@
   {
     "id": 10980,
     "en": "We have to give the forms (to) the boss (female)",
-    "de": "Wir müssen die Formulare der Chefin geben",
+    "de": "Wir müssen der Chefin die Formulare geben",
     "groupCode": 1
   },
   {
@@ -8540,6 +8539,7 @@
     "id": 11404,
     "en": "Could you please bring me a coffee? Yes, it's coming immediately",
     "de": "Konnten Sie mir bitte einen Kaffee bringen? Ja, kommt sofort",
+    "desc": "Subject + bringen + Dative (to whom) + Accusative (what)\n\nExample:\n\nIch bringe dir ein Buch.\n→ I bring you a book.\n→ „dir“ = Dative (to you)\n→ „ein Buch“ = Accusative (the book)",
     "groupCode": 1
   },
   {
@@ -8652,8 +8652,9 @@
   },
   {
     "id": 11423,
-    "en": "He rides the bus",
+    "en": "He goes (rides) with the bus",
     "de": "Er fährt mit dem Bus",
+    "desc": "fahren = to drive / to ride / to travel / to go (by vehicle)",
     "groupCode": 1
   },
   {
@@ -8708,6 +8709,31 @@
     "id": 11432,
     "en": "He explains the task",
     "de": "Er erklärt die Aufgabe",
+    "groupCode": 1
+  },
+  {
+    "id": 11433,
+    "en": "The exercise was very helpful",
+    "de": "Die Übung war sehr hilfreich",
+    "groupCode": 1
+  },
+  {
+    "id": 11434,
+    "en": "In the afternoon I go to the supermarket in order to shop",
+    "de": "Am Nachmittag gehe ich in den Supermarkt, um einzukaufen",
+    "desc": "This sentence uses the purpose clause:\n„um ... zu + infinitive“, which means \"in order to do something\".\n\num = in order\n\nzu = to\n\neinkaufen = shop (infinitive at the end)",
+    "groupCode": 1
+  },
+  {
+    "id": 11435,
+    "en": "After that I go home",
+    "de": "Danach gehe ich nach hause",
+    "groupCode": 1
+  },
+  {
+    "id": 11436,
+    "en": "First I go to the fruit department",
+    "de": "Zuerst gehe ich zur Obstabteilung",
     "groupCode": 1
   }
 ]
