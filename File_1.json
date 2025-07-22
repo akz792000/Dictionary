@@ -6826,7 +6826,7 @@
   },
   {
     "id": 4118,
-    "fa": "تو مرا غافلگیر کردی",
+    "fa": "تو یواشکی اومد طرفم",
     "en": "You snuck up on me",
     "groupCode": 0
   },
@@ -7255,7 +7255,7 @@
   },
   {
     "id": 4189,
-    "fa": "او (مرد) پاهایش را عوض کرد و آنها را باز کرد (گشاد) تا تعادلش را حفظ کند",
+    "fa": "او (مرد) پاهایش (ران) را عوض کرد و آنها را باز کرد (گشاد) تا تعادلش را حفظ کند",
     "en": "He shifted his legs, straddling them to keep his balance",
     "groupCode": 0
   },
@@ -7960,6 +7960,12 @@
     "id": 4305,
     "fa": "آنها قصد دارند (نقشه کشیدن) تبلیغ کنند محصول جدید را به عنوان یک تغییر دهنده بازی",
     "en": "They plan to tout the new product as a game-changer",
+    "groupCode": 0
+  },
+  {
+    "id": 4306,
+    "fa": "او (زن) آرام یواشکی آمد (تاکید) و به من بغل داد",
+    "en": "She snuck up quietly and gave me a hug",
     "groupCode": 0
   }
 ]
