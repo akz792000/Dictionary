@@ -8735,5 +8735,29 @@
     "en": "First I go to the fruit department",
     "de": "Zuerst gehe ich zur Obstabteilung",
     "groupCode": 1
+  },
+  {
+    "id": 11437,
+    "en": "Introduce yourself (formal) and you (formal) tell, how long you (formal) have lived in the apartment?",
+    "de": "Stellen Sie sich vor und erzählen Sie, seit wann Sie in der Wohnung wohnen?",
+    "groupCode": 1
+  },
+  {
+    "id": 11438,
+    "en": "I would like to tell you (formal)",
+    "de": "Ich möchte Ihnen sagen",
+    "groupCode": 1
+  },
+  {
+    "id": 11439,
+    "en": "Could you (formal) please tell me what the homework is?",
+    "de": "Könnten Sie mir bitte sagen, was die Hausaufgaben sind?",
+    "groupCode": 1
+  },
+  {
+    "id": 11440,
+    "en": "I can come back on Friday",
+    "de": "Ich kann am Freitag wieder kommen",
+    "groupCode": 1
   }
 ]

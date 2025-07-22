@@ -7943,5 +7943,23 @@
     "fa": "من احساس عصبانی (اذیت) شدم از صدای بلند",
     "en": "I felt irritated by the loud noise",
     "groupCode": 0
+  },
+  {
+    "id": 4303,
+    "fa": "مشکلات آنها بودند مربوط به موقعیت به جای شخصی",
+    "en": "Their problems were circumstantial rather than personal",
+    "groupCode": 0
+  },
+  {
+    "id": 4304,
+    "fa": "این اهرم را بکش",
+    "en": "Pull this lever",
+    "groupCode": 0
+  },
+  {
+    "id": 4305,
+    "fa": "آنها قصد دارند (نقشه کشیدن) تبلیغ کنند محصول جدید را به عنوان یک تغییر دهنده بازی",
+    "en": "They plan to tout the new product as a game-changer",
+    "groupCode": 0
   }
 ]
