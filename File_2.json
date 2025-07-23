@@ -4710,7 +4710,7 @@
   {
     "id": 10774,
     "en": "Her friends (male) are her family",
-    "de": "Ihre freunde sind ihre Famili",
+    "de": "Ihre freunde sind ihre Familie",
     "groupCode": 1
   },
   {
@@ -5315,8 +5315,8 @@
   },
   {
     "id": 10873,
-    "en": "In the room are many things. A sofa, a table, a picture, a bottle, a pencil, a book, a key, a bag and so on",
-    "de": "Im Zimmer sind viele Dinge. Ein Sofa, ein Tisch, ein Bild, eine Flasche, ein Bleistift, ein Buch, ein Schlüssel, eine Tasche und so weiter",
+    "en": "In the room are many things. the sofa, the table, the picture, the bottle, the pencil, the book, the key, the bag and so on",
+    "de": "Im Zimmer sind viele Dinge. das Sofa, der Tisch, das Bild, die Flasche, der Bleistift, das Buch, der Schlüssel, die Tasche und so weiter",
     "groupCode": 1
   },
   {
@@ -8067,8 +8067,9 @@
   },
   {
     "id": 11327,
-    "en": "Every neighbor has pets",
-    "de": "Jeder Nachbar (Jede Nachbarin) hat Haustiere",
+    "en": "Every neighbor has a pet",
+    "de": "Jeder Nachbar (Jede Nachbarin) hat ein Haustier",
+    "desc": "das Haustier",
     "groupCode": 1
   },
   {
@@ -8744,7 +8745,7 @@
   },
   {
     "id": 11438,
-    "en": "I would like to tell you (formal)",
+    "en": "I would like to tell (say) you (formal)",
     "de": "Ich möchte Ihnen sagen",
     "groupCode": 1
   },
@@ -8764,6 +8765,25 @@
     "id": 11441,
     "en": "at the the cash desk I often pay with my credit card, sometime cash",
     "de": "An der Kasse bezahle ich oft mit meiner Kreditkarte, manchmal bar",
+    "desc": "zahle = pay (focus on the action)\n\nbezahle = pay for (focus on the thing you pay for)",
+    "groupCode": 1
+  },
+  {
+    "id": 11442,
+    "en": "I would like to make an appointment on Friday at 5:00 PM because I have severe toothache",
+    "de": "Ich möchte am Freitag um 17:00 Uhr einen Termin machen, weil ich starke Zahnschmerzen habe",
+    "groupCode": 1
+  },
+  {
+    "id": 11443,
+    "en": "I am satisfied (happy) because my room is bright, not dark",
+    "de": "Ich bin zufrieden, weil mein Zimmer hell ist, nicht dunkel",
+    "groupCode": 1
+  },
+  {
+    "id": 11444,
+    "en": "I don't know Whether he is at home",
+    "de": "Ich weiß nicht, ob er zu Hause ist",
     "groupCode": 1
   }
 ]
