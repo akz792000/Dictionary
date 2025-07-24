@@ -7896,13 +7896,13 @@
   {
     "id": 11299,
     "en": "\n Reflexive pronoun - Accusative \n myself, yourself, himself/herself/itself, ourselves, yourselves, themselves/yourself (formal)",
-    "de": "\n Reflexivpronomen - Akkusativ \n mich, dich, sich(M/F/N), uns, euch, sich/sich (formal) \n Ich beeile mich",
+    "de": "\n Reflexivpronomen - Akkusativ \n mich, dich, sich(M/F/N), uns, euch, sich/sich (formal)",
     "groupCode": 1
   },
   {
     "id": 11300,
     "en": "\n Reflexive pronoun - Dative \n to myself, to yourself, to himself/herself/itself, to ourselves, to yourselves, to themselves/yourself (formal)",
-    "de": "\n Reflexivpronomen - Dativ \n mir, dir, sich(M/F/N), uns, euch, sich/sich (formal) \n Ich wasche mir die Hände",
+    "de": "\n Reflexivpronomen - Dativ \n mir, dir, sich(M/F/N), uns, euch, sich/sich (formal)",
     "groupCode": 1
   },
   {
@@ -8703,7 +8703,8 @@
   {
     "id": 11431,
     "en": "I try to speak German",
-    "de": "Ich versuche, Deutsch zu sprechen",
+    "de": "Ich versuche Deutsch zu sprechen",
+    "desc": "In German, when you have a verb like versuchen (to try) followed by another verb, the second verb usually goes to the end of the sentence in its infinitive form with \"zu\".\n\nFormat:\nSubject + conjugated verb + object + \"zu\" + infinitive",
     "groupCode": 1
   },
   {
@@ -8739,7 +8740,7 @@
   },
   {
     "id": 11437,
-    "en": "Introduce yourself (formal) and you (formal) tell, how long you (formal) have lived in the apartment?",
+    "en": "Introduce yourself (formal) and you (formal) tell, since when you (formal) have lived in the apartment?",
     "de": "Stellen Sie sich vor und erzählen Sie, seit wann Sie in der Wohnung wohnen?",
     "groupCode": 1
   },
@@ -8751,7 +8752,7 @@
   },
   {
     "id": 11439,
-    "en": "Could you (formal) please tell me what the homework is?",
+    "en": "Could you (formal) please tell me what the homeworks is?",
     "de": "Könnten Sie mir bitte sagen, was die Hausaufgaben sind?",
     "groupCode": 1
   },
@@ -8784,6 +8785,48 @@
     "id": 11444,
     "en": "I don't know Whether he is at home",
     "de": "Ich weiß nicht, ob er zu Hause ist",
+    "groupCode": 1
+  },
+  {
+    "id": 11445,
+    "en": "In her free time she likes reading books and going for walks (walking)",
+    "de": "In ihrer Freizeit liest sie gern Bücher und geht spazieren",
+    "groupCode": 1
+  },
+  {
+    "id": 11446,
+    "en": "She followed the car untill to the intersection",
+    "de": "Sie folgte dem Auto bis zur Kreuzung",
+    "groupCode": 1
+  },
+  {
+    "id": 11447,
+    "en": "Can you follow me?",
+    "de": "Kannst du mir folgen?",
+    "groupCode": 1
+  },
+  {
+    "id": 11448,
+    "en": "I'm starting to learn",
+    "de": "Ich beginne zu lernen",
+    "groupCode": 1
+  },
+  {
+    "id": 11449,
+    "en": "I have a question about (to) the party: Could you please tell me when the party starts and when it ends?",
+    "de": "Ich habe eine Frage zur Party: Könnten Sie mir bitte sagen, wann die Party anfängt und wann sie aufhört?",
+    "groupCode": 1
+  },
+  {
+    "id": 11450,
+    "en": "I'm starting now",
+    "de": "Ich fange jetzt an",
+    "groupCode": 1
+  },
+  {
+    "id": 11451,
+    "en": "We are stopping now",
+    "de": "Wir hören jetzt auf",
     "groupCode": 1
   }
 ]
