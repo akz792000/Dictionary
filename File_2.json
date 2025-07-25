@@ -1203,7 +1203,7 @@
   },
   {
     "id": 10197,
-    "en": "Who knows most of the names?",
+    "en": "Who knows (aware) most of the names?",
     "de": "Wer weiß meisten Namen?",
     "groupCode": 1
   },
@@ -1427,7 +1427,7 @@
   },
   {
     "id": 10233,
-    "en": "I don't know it",
+    "en": "I don't know (aware) it",
     "de": "Ich weiß es nicht",
     "groupCode": 1
   },
@@ -1908,7 +1908,7 @@
   },
   {
     "id": 10312,
-    "en": "How long does the taxi ride to (toward) (emphasizes) the hotel last?",
+    "en": "How long does the taxi ride until to (toward) the hotel last?",
     "de": "Wie lange dauert die Taxifahrt bis zum Hotel?",
     "desc": "With \"bis\": \"Wie lange dauert die Taxifahrt bis zum Hotel\" emphasizes the endpoint (the hotel).\nWithout \"bis\": \"Wie lange dauert die Taxifahrt zum Hotel\" is simpler and just asks about the duration.",
     "groupCode": 1
@@ -2469,7 +2469,7 @@
   },
   {
     "id": 10404,
-    "en": "Where do they live? I don't know",
+    "en": "Where do they live? I don't know (aware)",
     "de": "Wo leben sie? Ich weiß nicht",
     "groupCode": 1
   },
@@ -4359,7 +4359,7 @@
   },
   {
     "id": 10716,
-    "en": "You're crazy. It's not dangerous",
+    "en": "You're spinning (crazy). It's not dangerous",
     "de": "Du spinnst. Es ist nicht gefährlich",
     "groupCode": 1
   },
@@ -4917,7 +4917,7 @@
   },
   {
     "id": 10808,
-    "en": "I don't know, where he lives",
+    "en": "I don't know (aware), where he lives",
     "de": "Ich weiß nicht, wo er wohnt",
     "desc": "No, \"Ich weiß nicht, wo er wohnt\" is correct because in subordinate clauses, the verb goes to the end of the clause in German",
     "groupCode": 1
@@ -5004,7 +5004,7 @@
   },
   {
     "id": 10822,
-    "en": "Would you like to go by foot to (toward) (emphasizes) the hotel?",
+    "en": "Would you like to go by foot until to (toward) the hotel?",
     "de": "Möchtest du zu fuß bis zum hotel gehen?",
     "desc": "Use bis to emphasize a limit, endpoint, or duration.\n\nExamples:\n\nOrt (Place): Wir gehen bis zum Park. (We walk all the way to the park.)\nZeit (Time): Ich warte bis morgen. (I wait until tomorrow.)\nReihenfolge (Order): Zähle bis zehn! (Count up to ten!)",
     "groupCode": 1
@@ -5510,6 +5510,7 @@
     "id": 10905,
     "en": "Ali goes into the kitchen and washes off (does the dishes)",
     "de": "Ali geht in die Küche und wäscht ab",
+    "desc": "In German, separable verbs like \"abwaschen\" split in sentences.\n\nThe prefix \"ab\" goes to the end of the clause.\n\nSo you say: \"wäscht ab\", not \"abwäscht\".\n\nIn your sentence:\n\"Ali geht in die Küche und wäscht ab.\" is correct.\n\nBecause after \"und\" the verb behaves like a new clause, so the prefix stays at the end.",
     "groupCode": 1
   },
   {
@@ -5974,8 +5975,8 @@
   },
   {
     "id": 10982,
-    "en": "I don't understand the question, do you understand it? I am doing training as a mechanic",
-    "de": "Ich verstehe die Frage nicht, verstehst du sie? Ich mache eine Ausbildung als Mechanike",
+    "en": "I don't understand the question, do you understand it?",
+    "de": "Ich verstehe die Frage nicht, verstehst du sie?",
     "groupCode": 1
   },
   {
@@ -8044,7 +8045,7 @@
   {
     "id": 11323,
     "en": "I am an artist (male), I know everything about (above) art",
-    "de": "Ich bin Künstler, Ich weiß alles über Kunst",
+    "de": "Ich bin Künstler, Ich weiß (aware) alles über Kunst",
     "groupCode": 1
   },
   {
@@ -8472,7 +8473,7 @@
   {
     "id": 11393,
     "en": "I know him. I know that he is coming",
-    "de": "Ich kenne ihn. Ich weiß, dass er kommt",
+    "de": "Ich kenne ihn. Ich weiß (aware), dass er kommt",
     "desc": "kennen = to be familiar with someone or something\n→ Used with people, places, or things.\nExample: Ich kenne ihn. (I know him.)\n\nwissen = to know a fact or information\n→ Used with facts, or when using dass, wie, wann, etc.\nExample: Ich weiß, dass er kommt. (I know that he is coming.)",
     "groupCode": 1
   },
@@ -8587,7 +8588,7 @@
   },
   {
     "id": 11412,
-    "en": "He knows the answer",
+    "en": "He knows (aware) the answer",
     "de": "Er weiß die Antwort",
     "groupCode": 1
   },
@@ -8752,7 +8753,7 @@
   },
   {
     "id": 11439,
-    "en": "Could you (formal) please tell me what the homeworks is?",
+    "en": "Could you (formal) please tell (say) me what the homeworks is?",
     "de": "Könnten Sie mir bitte sagen, was die Hausaufgaben sind?",
     "groupCode": 1
   },
@@ -8783,7 +8784,7 @@
   },
   {
     "id": 11444,
-    "en": "I don't know Whether he is at home",
+    "en": "I don't know (aware) Whether he is at home",
     "de": "Ich weiß nicht, ob er zu Hause ist",
     "groupCode": 1
   },
@@ -8808,7 +8809,7 @@
   {
     "id": 11448,
     "en": "I'm starting to learn",
-    "de": "Ich beginne zu lernen",
+    "de": "\n 1.Ich beginne zu lernen\n 2.Ich fange zu lernen an",
     "groupCode": 1
   },
   {
@@ -8827,6 +8828,36 @@
     "id": 11451,
     "en": "We are stopping now",
     "de": "Wir hören jetzt auf",
+    "groupCode": 1
+  },
+  {
+    "id": 11452,
+    "en": "I am doing training as a mechanic",
+    "de": "Ich mache eine Ausbildung als Mechanike",
+    "groupCode": 1
+  },
+  {
+    "id": 11453,
+    "en": "I would like to register for the German course",
+    "de": "Ich möchte mich für den Deutschkurs anmelden",
+    "groupCode": 1
+  },
+  {
+    "id": 11454,
+    "en": "She likes her job because she meets many nice customers",
+    "de": "Sie mag ihren Job, weil sie viele nette Kunden trifft",
+    "groupCode": 1
+  },
+  {
+    "id": 11455,
+    "en": "During the break she likes to drink coffee and eat a roll",
+    "de": "In der Pause trinkt sie gern Kaffee und isst ein Brötchen",
+    "groupCode": 1
+  },
+  {
+    "id": 11456,
+    "en": "After work, Ali often goes to the gym",
+    "de": "Nach der Arbeit geht Ali oft ins Fitnessstudio",
     "groupCode": 1
   }
 ]

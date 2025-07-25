@@ -7965,8 +7965,63 @@
   },
   {
     "id": 4306,
-    "fa": "او (زن) آرام یواشکی آمد (تاکید) و به من بغل داد",
+    "fa": "او (زن) آرام یواشکی آمد (تاکید) و به من یک بغل داد",
     "en": "She snuck up quietly and gave me a hug",
+    "groupCode": 0
+  },
+  {
+    "id": 4307,
+    "fa": "ساعتم یک بند لاستیکی دارد",
+    "en": "My watch has a rubber band",
+    "groupCode": 0
+  },
+  {
+    "id": 4308,
+    "fa": "او (زن) رسوا شد برای دروغ گفتن مقابل دوستانش",
+    "en": "She got exposed for lying in front of her friends",
+    "groupCode": 0
+  },
+  {
+    "id": 4309,
+    "fa": "بیبی بومرها دارن شانسشونو از دست می دن بعد از یه عمر خوش شانسی",
+    "en": "Baby boomers are running out of luck after a lifetime of good fortune",
+    "desc": "\"Baby boomers\" refers to the generation born roughly between 1946 and 1964.",
+    "groupCode": 0
+  },
+  {
+    "id": 4310,
+    "fa": "به سادگی (با) خوردن بیشتر یا کمترِ بعضی غذاها میتوان کمک کرد به تاخیر انداختن (جلوگیری کرد) زوال عقل",
+    "en": "Simply eating more or less of certain foods can help stave off dementia /dɪˈmɛnʃiə/",
+    "groupCode": 0
+  },
+  {
+    "id": 4311,
+    "fa": "\nدستبند\nالنگو\nساعت مچی\nپابند\nگوشواره",
+    "en": "\nBracelet\nBangle\nWristwatch\nAnklet\nEarrings",
+    "groupCode": 0
+  },
+  {
+    "id": 4312,
+    "fa": "من پذیرفتم این جایزه را با فروتنی زیرا من یک مرد فروتنی هستم",
+    "en": "I accepted the award with humility cause I am a humble man",
+    "groupCode": 0
+  },
+  {
+    "id": 4313,
+    "fa": "اگه قرار باشه بهت خیانت کنم, شما پیشم میمونی؟",
+    "en": "If I were to cheat on you, would you stay with me?",
+    "groupCode": 0
+  },
+  {
+    "id": 4314,
+    "fa": "اگر قرار باشه در لاتاری برنده شوم، من دنیا را سفر می کردم",
+    "en": "If I were to win the lottery, I would travel the world",
+    "groupCode": 0
+  },
+  {
+    "id": 4315,
+    "fa": "گوش کن تو حرومزاده! من قرار نیست خاتمه یابم به عنوان یک زن ۳۱ ساله طلاق گرفته با کمک هزینه دولتی. چون وکیل آشغالم یهو عذاب وجدان گرفت (داشت یه حمله ناگهانی وجدان)",
+    "en": "Listen you bastard! I am not going to end up as a 31 year old divorce on welfare. Because my scumbag attorney had a sudden attack of conscience",
     "groupCode": 0
   }
 ]
