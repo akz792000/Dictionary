@@ -2142,6 +2142,7 @@
     "id": 3350,
     "fa": "پوشیدن یک کلاه ایمنی تصادف نیاز است طبق قانون",
     "en": "The wearing of a crash helmet is required by law",
+    "desc": "\"The wearing a crash helmet is...\"\nThis is wrong because “wearing” is acting as a noun, and nouns can't take direct objects without “of” in this structure.",
     "groupCode": 0
   },
   {
@@ -7256,7 +7257,7 @@
   {
     "id": 4189,
     "fa": "او (مرد) پاهایش (ران) را عوض کرد و آنها را باز کرد (گشاد) تا تعادلش را حفظ کند",
-    "en": "He shifted his legs, straddling them to keep his balance",
+    "en": "He shifted his legs and straddled /ˈstrad(ə)led/ them to keep his balance",
     "groupCode": 0
   },
   {
@@ -7790,8 +7791,8 @@
   },
   {
     "id": 4277,
-    "fa": "وقتی کسی عملی انجام می دهد روی عضوی از بدن خود، (در زبان) آلمانی استفاده می شود از ضمیر انعکاسی با حالت مفعولی غیرمستقیم به عنوان شخص و از مفعول غیرمستقیم به عنوان عضوی از بدن که عمل روی آن انجام شده است",
-    "en": "When someone acts on their own body part, German uses a dative reflexive pronoun as the person and an accusative body part as the thing acted on",
+    "fa": "وقتی کسی عملی انجام می دهد روی قسمتی از بدنش، آلمان (ها) استفاده میکنند یک ضمیر انعکاسی با حالت مفعولی غیرمستقیم به عنوان شخص و یک اسم مفعولی برای قسمتی از بدن که عمل روی آن داره انجام می شود",
+    "en": "When someone acts on their own body part, German uses a dative reflexive pronoun for the person and an accusative noun for the body part being acted on",
     "groupCode": 0
   },
   {
@@ -7990,14 +7991,14 @@
   },
   {
     "id": 4310,
-    "fa": "به سادگی (با) خوردن بیشتر یا کمترِ بعضی غذاها میتوان کمک کرد به تاخیر انداختن (جلوگیری کرد) زوال عقل",
+    "fa": "به سادگی (با) خوردن بیشتر یا کمتر بعضی غذاها میتوان کمک کرد به تاخیر انداختن (جلوگیری کرد) زوال عقل",
     "en": "Simply eating more or less of certain foods can help stave off dementia /dɪˈmɛnʃiə/",
     "groupCode": 0
   },
   {
     "id": 4311,
-    "fa": "\nدستبند\nالنگو\nساعت مچی\nپابند\nگوشواره",
-    "en": "\nBracelet\nBangle\nWristwatch\nAnklet\nEarrings",
+    "fa": "\nگردنبند\nدستبند\nالنگو\nساعت مچی\nپابند\nگوشواره",
+    "en": "\nNecklace\nBracelet\nBangle\nWristwatch\nAnklet\nEarrings",
     "groupCode": 0
   },
   {
@@ -8022,6 +8023,18 @@
     "id": 4315,
     "fa": "گوش کن تو حرومزاده! من قرار نیست خاتمه یابم به عنوان یک زن ۳۱ ساله طلاق گرفته با کمک هزینه دولتی. چون وکیل آشغالم یهو عذاب وجدان گرفت (داشت یه حمله ناگهانی وجدان)",
     "en": "Listen you bastard! I am not going to end up as a 31 year old divorce on welfare. Because my scumbag attorney had a sudden attack of conscience",
+    "groupCode": 0
+  },
+  {
+    "id": 4316,
+    "fa": "او (مرد) از نظر مالی به دردسر افتاده (داخل آب داغ افتادن) بعد از از دست دادن کارش",
+    "en": "He's in financial hot water after losing his job",
+    "groupCode": 0
+  },
+  {
+    "id": 4317,
+    "fa": "با توجه به شفاف سازی های مداوم در مورد نحوه برخورد مالیاتی از فرآیند فعلی، ما مجبوریم بندازیم این مزیت را به حالت تعلیق",
+    "en": "Due to ongoing clarifications about the tax treatment of the current process, we have to put this benefit on hold",
     "groupCode": 0
   }
 ]

@@ -7877,7 +7877,7 @@
   },
   {
     "id": 11296,
-    "en": "On Friday I always wake up (with) in a good mood",
+    "en": "On Friday I always wake up (with) in (a) good mood",
     "de": "Am freitag wache ich immer mit guter laune auf",
     "groupCode": 1
   },
@@ -8044,8 +8044,8 @@
   },
   {
     "id": 11323,
-    "en": "I am an artist (male), I know everything about (above) art",
-    "de": "Ich bin Künstler, Ich weiß (aware) alles über Kunst",
+    "en": "I am an artist (male), I know (aware) everything about (above) art",
+    "de": "Ich bin Künstler, Ich weiß alles über Kunst",
     "groupCode": 1
   },
   {
@@ -8472,8 +8472,8 @@
   },
   {
     "id": 11393,
-    "en": "I know him. I know that he is coming",
-    "de": "Ich kenne ihn. Ich weiß (aware), dass er kommt",
+    "en": "I know him. I know (aware) that he is coming",
+    "de": "Ich kenne ihn. Ich weiß, dass er kommt",
     "desc": "kennen = to be familiar with someone or something\n→ Used with people, places, or things.\nExample: Ich kenne ihn. (I know him.)\n\nwissen = to know a fact or information\n→ Used with facts, or when using dass, wie, wann, etc.\nExample: Ich weiß, dass er kommt. (I know that he is coming.)",
     "groupCode": 1
   },
@@ -8521,8 +8521,8 @@
   },
   {
     "id": 11401,
-    "en": "Prepositions - Always Dative",
-    "de": "mit, nach, bei, seit, von, zu, aus",
+    "en": "But first, would you still like to answer the last text?",
+    "de": "Aber zuerst, möchtest du noch den letzten Text beantworten?",
     "groupCode": 1
   },
   {
@@ -8850,14 +8850,20 @@
   },
   {
     "id": 11455,
-    "en": "During the break she likes to drink coffee and eat a roll",
+    "en": "During the break she likes drinking coffee and eat a roll",
     "de": "In der Pause trinkt sie gern Kaffee und isst ein Brötchen",
     "groupCode": 1
   },
   {
     "id": 11456,
-    "en": "After work, Ali often goes to the gym",
+    "en": "After the work, Ali often goes to the gym",
     "de": "Nach der Arbeit geht Ali oft ins Fitnessstudio",
+    "groupCode": 1
+  },
+  {
+    "id": 11457,
+    "en": "I arrive at the train station tomorrow at 10 a.m. I am waiting then for you in front of the café. You can call me when you have arrived. My phone number is...",
+    "de": "ich komme morgen um 10 Uhr am Bahnhof an. Ich warte dann vor dem Café auf dich. Du kannst mich anrufen, wenn du angekommen bist. Meine Telefonnummer ist ...",
     "groupCode": 1
   }
 ]
