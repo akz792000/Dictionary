@@ -2142,7 +2142,7 @@
     "id": 3350,
     "fa": "پوشیدن یک کلاه ایمنی تصادف نیاز است طبق قانون",
     "en": "The wearing of a crash helmet is required by law",
-    "desc": "\"The wearing a crash helmet is...\"\nThis is wrong because “wearing” is acting as a noun, and nouns can't take direct objects without “of” in this structure.",
+    "desc": "the + gerund + of + noun\n→ \"the wearing of a helmet\" \n\n gerund + object\n→ \"wearing a seatbelt\"",
     "groupCode": 0
   },
   {
@@ -5012,7 +5012,7 @@
   },
   {
     "id": 3820,
-    "fa": "من واقعا وسوسه شدم (که) پول را بگیرم",
+    "fa": "من واقعا وسوسه شدم (که) پول را برداری",
     "en": "I was really tempted to take the money",
     "groupCode": 0
   },
@@ -8035,6 +8035,24 @@
     "id": 4317,
     "fa": "با توجه به شفاف سازی های مداوم در مورد نحوه برخورد مالیاتی از فرآیند فعلی، ما مجبوریم بندازیم این مزیت را به حالت تعلیق",
     "en": "Due to ongoing clarifications about the tax treatment of the current process, we have to put this benefit on hold",
+    "groupCode": 0
+  },
+  {
+    "id": 4318,
+    "fa": "هست یک مبلغ قابل توجهی از پول",
+    "en": "It's a considerable sum of money",
+    "groupCode": 0
+  },
+  {
+    "id": 4319,
+    "fa": "من حرفم زدم به ضرر خودم",
+    "en": "I spoke out to my detriment",
+    "groupCode": 0
+  },
+  {
+    "id": 4320,
+    "fa": "شاعر نوشته است یک شعر زیبا که نشان می داد عشقش برای شعر",
+    "en": "The poet wrote a beautiful poem that showed his love for poetry",
     "groupCode": 0
   }
 ]

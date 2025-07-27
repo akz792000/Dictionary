@@ -6701,7 +6701,7 @@
   {
     "id": 11102,
     "en": "The classes are canceled today",
-    "de": "Die Stunden fallen heute aus",
+    "de": "Die Klassen fallen heute aus",
     "groupCode": 1
   },
   {
@@ -8527,14 +8527,14 @@
   },
   {
     "id": 11402,
-    "en": "Prepositions - Always Accusative",
-    "de": "für, durch, gegen, ohne, um",
+    "en": "I cook in the kitchen",
+    "de": "Ich koche in der Küche",
     "groupCode": 1
   },
   {
     "id": 11403,
-    "en": "Prepositions - Two-way",
-    "de": "in, auf, an, über, unter, vor, hinter, neben, zwischen",
+    "en": "We lead the team",
+    "de": "Wir führen die Mannschaft",
     "groupCode": 1
   },
   {
@@ -8600,8 +8600,8 @@
   },
   {
     "id": 11414,
-    "en": "She lets the car be repaired",
-    "de": "Sie lässt das Auto reparieren",
+    "en": "I have my car repaired (let my car to repair)",
+    "de": "Ich lasse mein Auto reparieren",
     "groupCode": 1
   },
   {
@@ -8691,8 +8691,8 @@
   },
   {
     "id": 11429,
-    "en": "She passes the exam",
-    "de": "Sie besteht die Prüfung",
+    "en": "She passes the exam and the exam consists of three parts",
+    "de": "Sie besteht die Prüfung and die Prüfung besteht aus drei Teilen",
     "groupCode": 1
   },
   {
@@ -8735,7 +8735,7 @@
   },
   {
     "id": 11436,
-    "en": "First I go to the fruit department",
+    "en": "First I go to (toward) the fruit department",
     "de": "Zuerst gehe ich zur Obstabteilung",
     "groupCode": 1
   },
@@ -8743,6 +8743,7 @@
     "id": 11437,
     "en": "Introduce yourself (formal) and you (formal) tell, since when you (formal) have lived in the apartment?",
     "de": "Stellen Sie sich vor und erzählen Sie, seit wann Sie in der Wohnung wohnen?",
+    "desc": "Let’s break it down:\n\n\"seit wann\" = since when\n\n\"Sie\" = you (formal)\n\n\"in der Wohnung wohnen\" = live in the apartment\n\nThe verb \"wohnen\" stays at the end because it’s a dependent clause (triggered by “seit wann”).",
     "groupCode": 1
   },
   {
@@ -8856,7 +8857,7 @@
   },
   {
     "id": 11456,
-    "en": "After the work, Ali often goes to the gym",
+    "en": "After the work Ali often goes to the gym",
     "de": "Nach der Arbeit geht Ali oft ins Fitnessstudio",
     "groupCode": 1
   },
@@ -8864,6 +8865,25 @@
     "id": 11457,
     "en": "I arrive at the train station tomorrow at 10 a.m. I am waiting then for you in front of the café. You can call me when you have arrived. My phone number is...",
     "de": "ich komme morgen um 10 Uhr am Bahnhof an. Ich warte dann vor dem Café auf dich. Du kannst mich anrufen, wenn du angekommen bist. Meine Telefonnummer ist ...",
+    "groupCode": 1
+  },
+  {
+    "id": 11458,
+    "en": "Can you name three countries?",
+    "de": "Kannst du drei Länder nennen?",
+    "groupCode": 1
+  },
+  {
+    "id": 11459,
+    "en": "She lets the children play",
+    "de": "Sie lässt die Kinder spielen",
+    "groupCode": 1
+  },
+  {
+    "id": 11460,
+    "en": "Whom do you ask and Whom do you follow?",
+    "de": "Wen fragst du and wem folgen Sie?",
+    "desc": "“Who” = subject form (used when the person does the action)\n\n“Whom” = object form (used when the person receives the action)\n\nIn everyday English, \"who\" is often used in both cases, and most native speakers won’t correct you. But if you want to be grammatically perfect, use whom when the person is the object.",
     "groupCode": 1
   }
 ]
