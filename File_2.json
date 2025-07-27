@@ -8885,5 +8885,23 @@
     "de": "Wen fragst du and wem folgen Sie?",
     "desc": "“Who” = subject form (used when the person does the action)\n\n“Whom” = object form (used when the person receives the action)\n\nIn everyday English, \"who\" is often used in both cases, and most native speakers won’t correct you. But if you want to be grammatically perfect, use whom when the person is the object.",
     "groupCode": 1
+  },
+  {
+    "id": 11461,
+    "en": "I would like to arrange an appointment in the morning",
+    "de": "Ich möchte am Morgen einen Termin vereinbaren",
+    "groupCode": 1
+  },
+  {
+    "id": 11462,
+    "en": "We're setting off now",
+    "de": "Wir fahren jetzt los",
+    "groupCode": 1
+  },
+  {
+    "id": 11463,
+    "en": "Call me, whenever you have time!",
+    "de": "Ruf mich an, wenn du Zeit hast!",
+    "groupCode": 1
   }
 ]

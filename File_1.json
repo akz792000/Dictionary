@@ -8054,5 +8054,17 @@
     "fa": "شاعر نوشته است یک شعر زیبا که نشان می داد عشقش برای شعر",
     "en": "The poet wrote a beautiful poem that showed his love for poetry",
     "groupCode": 0
+  },
+  {
+    "id": 4321,
+    "fa": "بعضی وقتا من سرزنش میکنم خودمو به خاطر حماقتم",
+    "en": "Sometimes I rebuke myself for my stupidity",
+    "groupCode": 0
+  },
+  {
+    "id": 4322,
+    "fa": "آیا برخی مردم تشخیص داده شدند به اختلالِ صعب العلاج به طور بدنام واقعاً درمان می شوند؟",
+    "en": "Can some people diagnosed with the notoriously difficult-to-treat disorder actually be cured?",
+    "groupCode": 0
   }
 ]
