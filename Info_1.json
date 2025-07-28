@@ -4,5 +4,17 @@
     "key": "sätze",
     "value": "[ˈtʃʏs]",
     "groupCode": 1
+  },
+  {
+    "id": 2,
+    "key": "Mannschaft",
+    "value": "Mánnschaft (die)",
+    "groupCode": 1
+  },
+  {
+    "id": 3,
+    "key": "lassen",
+    "value": "lássen",
+    "groupCode": 1
   }
 ]

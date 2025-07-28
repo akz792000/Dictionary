@@ -6265,7 +6265,7 @@
   },
   {
     "id": 11030,
-    "en": "I found you pretty too",
+    "en": "I found you also pretty",
     "de": "Ich finde dich auch hübsch",
     "groupCode": 1
   },
@@ -8673,7 +8673,7 @@
   },
   {
     "id": 11426,
-    "en": "The passport is valid for one year",
+    "en": "The passport is applicable (apply) for one year",
     "de": "Der Pass gilt für ein Jahr",
     "groupCode": 1
   },
@@ -8791,7 +8791,7 @@
   },
   {
     "id": 11445,
-    "en": "In her free time she likes reading books and going for walks (walking)",
+    "en": "In her free time she likes reading books and going (for) walks (walking)",
     "de": "In ihrer Freizeit liest sie gern Bücher und geht spazieren",
     "groupCode": 1
   },
@@ -8863,7 +8863,7 @@
   },
   {
     "id": 11457,
-    "en": "I arrive at the train station tomorrow at 10 a.m. I am waiting then for you in front of the café. You can call me when you have arrived. My phone number is...",
+    "en": "I arrive at the train station tomorrow at 10 a.m. I am waiting then for you in front of the café. You can call me whenever you have arrived. My phone number is...",
     "de": "ich komme morgen um 10 Uhr am Bahnhof an. Ich warte dann vor dem Café auf dich. Du kannst mich anrufen, wenn du angekommen bist. Meine Telefonnummer ist ...",
     "groupCode": 1
   },
@@ -8902,6 +8902,12 @@
     "id": 11463,
     "en": "Call me, whenever you have time!",
     "de": "Ruf mich an, wenn du Zeit hast!",
+    "groupCode": 1
+  },
+  {
+    "id": 11464,
+    "en": "You (formal) distracted me from his work",
+    "de": "Sie haben mich von seiner Arbeit abgelenkt",
     "groupCode": 1
   }
 ]
