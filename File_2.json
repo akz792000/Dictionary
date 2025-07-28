@@ -8909,5 +8909,150 @@
     "en": "You (formal) distracted me from his work",
     "de": "Sie haben mich von seiner Arbeit abgelenkt",
     "groupCode": 1
+  },
+  {
+    "id": 11465,
+    "en": "Whose books are those? That is my book",
+    "de": "Wessen Bücher sind das? Das sind meine Bucher",
+    "groupCode": 1
+  },
+  {
+    "id": 11466,
+    "en": "Do you live in a large room?",
+    "de": "Wohnen Sie in einem Großen zimmer?",
+    "groupCode": 1
+  },
+  {
+    "id": 11467,
+    "en": "How many rooms does your apartment have?",
+    "de": "Wie viele Zimmer hat deine Wohnung?",
+    "groupCode": 1
+  },
+  {
+    "id": 11468,
+    "en": "I recommend this book",
+    "de": "Ich empfehle dieses Buch",
+    "groupCode": 1
+  },
+  {
+    "id": 11469,
+    "en": "We are renting an apartment",
+    "de": "Wir mieten eine Wohnung",
+    "groupCode": 1
+  },
+  {
+    "id": 11470,
+    "en": "Many students live in shared apartments",
+    "de": "Viele Studenten wohnen in Wohngemeinschaften",
+    "groupCode": 1
+  },
+  {
+    "id": 11471,
+    "en": "There are no free spots in the student dormitory",
+    "de": "Es gibt keine freien Plätze im Studentenwohnheim",
+    "groupCode": 1
+  },
+  {
+    "id": 11472,
+    "en": "I’m looking for cheap deals (buy offer) on (for) furniture",
+    "de": "Ich suche günstige Kaufangebote für Möbel",
+    "groupCode": 1
+  },
+  {
+    "id": 11473,
+    "en": "There are many beautiful houses and apartments in this city",
+    "de": "In dieser Stadt gibt es viele schöne Häuser und Wohnungen",
+    "groupCode": 1
+  },
+  {
+    "id": 11474,
+    "en": "You want to know",
+    "de": "Sie möchten wissen",
+    "groupCode": 1
+  },
+  {
+    "id": 11475,
+    "en": "The departure is at 10 o'clock and the arrival at 2 o'clock",
+    "de": "Der Abflug ist um 10 Uhr und die Ankunft um 14 Uhr",
+    "groupCode": 1
+  },
+  {
+    "id": 11476,
+    "en": "Our employees talk about their expeditions",
+    "de": "Unsere Mitarbeiter erzählen von ihren Expeditionen",
+    "groupCode": 1
+  },
+  {
+    "id": 11477,
+    "en": "Greece has many beautiful islands",
+    "de": "Griechenland hat viele schöne Inseln",
+    "groupCode": 1
+  },
+  {
+    "id": 11478,
+    "en": "Monday and Friday from 9 a.m",
+    "de": "Montag und Freitag ab 9 Uhr",
+    "groupCode": 1
+  },
+  {
+    "id": 11479,
+    "en": "We are open for you daily from 11 to 3 PM",
+    "de": "Wir haben für Sie täglich von 11 bis 15 Uhr geöffnet",
+    "groupCode": 1
+  },
+  {
+    "id": 11480,
+    "en": "The new rule applies from now on",
+    "de": "Ab sofort gilt die neue Regel",
+    "groupCode": 1
+  },
+  {
+    "id": 11481,
+    "en": "Everyone pays the drinks alone (by oneself)",
+    "de": "Die Getränke zahlt jeder allein",
+    "groupCode": 1
+  },
+  {
+    "id": 11482,
+    "en": "The child loves their new toys",
+    "de": "Das Kind liebt sein neues Kinderspielzeug",
+    "groupCode": 1
+  },
+  {
+    "id": 11483,
+    "en": "On Wednesday afternoon we already close at 2 p.m",
+    "de": "Am Mittwochnachmittag schließen wir schon um 14 Uhr",
+    "groupCode": 1
+  },
+  {
+    "id": 11484,
+    "en": "On the other days we are open until 6 p.m",
+    "de": "An den anderen Tagen ist bis 18 Uhr geöffnet",
+    "groupCode": 1
+  },
+  {
+    "id": 11485,
+    "en": "On Thursday we close only not until 10 p.m",
+    "de": "Am Donnerstag schließen wir erst um 22 Uhr",
+    "groupCode": 1
+  },
+  {
+    "id": 11486,
+    "en": "I would like to celebrate my birthday and invite you to my birthday",
+    "de": "ich möchte meinen Geburtstag feiern und dich zu meinem Geburtstag einladen",
+    "groupCode": 1
+  },
+  {
+    "id": 11487,
+    "en": "I’m planning to celebrate at the restaurant at 6 p.m. on the weekend",
+    "de": "Ich plane am Wochenende um 18 Uhr im Restaurant zu feiern",
+    "desc": "Some German verbs (like planen, beginnen, versuchen, vergessen) are followed by another verb in the \"zu + infinitive\" form.",
+    "groupCode": 1
+  },
+  {
+    "id": 11488,
+    "en": "Could you please tell me if you are coming to my birthday?",
+    "de": "Könntest du mir bitte sagen, ob du zu meinem Geburtstag kommst?",
+    "groupCode": 1
   }
 ]
