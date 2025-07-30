@@ -7768,7 +7768,7 @@
   },
   {
     "id": 11278,
-    "en": "It's raining todady. Where is the umbrella?",
+    "en": "It's raining today. Where is the umbrella?",
     "de": "Es regnet heute. Wo ist der Regenschirm (Schirm)?",
     "groupCode": 1
   },
@@ -8239,7 +8239,7 @@
   },
   {
     "id": 11355,
-    "en": "The boss speak (bring up) to him about the mistake",
+    "en": "The boss (male) speak (bring up) to him about the mistake",
     "de": "Der Chef spricht ihn auf den Fehler an",
     "desc": "The verb ansprechen (to address / bring up something) is often used with „auf + Akkusativ“ to show what you are addressing someone about.",
     "groupCode": 1
@@ -8648,7 +8648,7 @@
   },
   {
     "id": 11422,
-    "en": "The teacher leads the class",
+    "en": "The teacher (male) leads the class",
     "de": "Der Lehrer führt die Klasse",
     "groupCode": 1
   },
@@ -8881,8 +8881,8 @@
   },
   {
     "id": 11460,
-    "en": "Whom do you ask and Whom do you follow?",
-    "de": "Wen fragst du and wem folgen Sie?",
+    "en": "Whom do you (formal) ask and Whom do you (formal) follow?",
+    "de": "Wen fragen Sie and wem folgen Sie?",
     "desc": "“Who” = subject form (used when the person does the action)\n\n“Whom” = object form (used when the person receives the action)\n\nIn everyday English, \"who\" is often used in both cases, and most native speakers won’t correct you. But if you want to be grammatically perfect, use whom when the person is the object.",
     "groupCode": 1
   },
@@ -8906,8 +8906,8 @@
   },
   {
     "id": 11464,
-    "en": "You (formal) distracted me from his work",
-    "de": "Sie haben mich von seiner Arbeit abgelenkt",
+    "en": "You distracted me",
+    "de": "Du hast mich abgelenkt",
     "groupCode": 1
   },
   {
@@ -9053,6 +9053,12 @@
     "id": 11488,
     "en": "Could you please tell me if you are coming to my birthday?",
     "de": "Könntest du mir bitte sagen, ob du zu meinem Geburtstag kommst?",
+    "groupCode": 1
+  },
+  {
+    "id": 11489,
+    "en": "You are distracted",
+    "de": "Du bist abgelenkt",
     "groupCode": 1
   }
 ]

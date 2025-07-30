@@ -7585,7 +7585,7 @@
   },
   {
     "id": 4243,
-    "fa": "آیا میتوانیم جلوتر بندازیم (بالا بیاریم) جلسه رو (با) دو روز؟",
+    "fa": "آیا میتوانیم ما جلوتر بندازیم (بالا بیاریم) جلسه رو (با) دو روز؟",
     "en": "Can we move up the meeting by two days?",
     "groupCode": 0
   },
@@ -7893,7 +7893,7 @@
   },
   {
     "id": 4294,
-    "fa": "ایده مسخره ای است رفتن (برای) شنا کردن در یک رعد و برق",
+    "fa": "یک ایده مسخره ای است رفتن (برای) شنا کردن در یک رعد و برق",
     "en": "It's a ludicrous /ˈluːdɪkrəs/ idea to go swimming in a thunderstorm",
     "groupCode": 0
   },
@@ -8065,6 +8065,24 @@
     "id": 4322,
     "fa": "آیا می توان برخی مردم تشخیص داده شدند با اختلالِ صعب العلاج به طور بدنام واقعاً درمان می شوند؟",
     "en": "Can some people diagnosed with the notoriously difficult-to-treat disorder actually be cured?",
+    "groupCode": 0
+  },
+  {
+    "id": 4323,
+    "fa": "من دوست دارم موسیقی ملایم در حال کار کردن",
+    "en": "I like ambient music while I work",
+    "groupCode": 0
+  },
+  {
+    "id": 4324,
+    "fa": "ناپایداری (غیرقابل اعتماد) برنامه، استفاده از آن را دشوار می کند (می سازد)",
+    "en": "The app’s flakiness makes it hard to use",
+    "groupCode": 0
+  },
+  {
+    "id": 4325,
+    "fa": "فقط به یاد داشته باش، به محض اینکه کاربر وارد سیستم می شود، وضعیت تغییر می کند به ACTIVE",
+    "en": "Just remember, as soon as the user logs in, the status changes to ACTIVE",
     "groupCode": 0
   }
 ]
