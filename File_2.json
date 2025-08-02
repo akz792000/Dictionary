@@ -1227,7 +1227,7 @@
   },
   {
     "id": 10201,
-    "en": "Which ones do you know?",
+    "en": "Which (ones) do you know?",
     "de": "Welche kennst du?",
     "groupCode": 1
   },
@@ -3397,8 +3397,8 @@
   },
   {
     "id": 10557,
-    "en": "Do you play an instrument? We're driving straight to (toward) the concert, where are you?",
-    "de": "Spielst du ein Instrument? Wir fahren gerade zum Konzert, wo bist du?",
+    "en": "Do you play an instrument?",
+    "de": "Spielst du ein Instrument?",
     "groupCode": 1
   },
   {
@@ -8766,7 +8766,7 @@
   },
   {
     "id": 11441,
-    "en": "at the the cash desk I often pay with my credit card, sometime cash",
+    "en": "at the cash desk I often pay with my credit card, sometime cash",
     "de": "An der Kasse bezahle ich oft mit meiner Kreditkarte, manchmal bar",
     "desc": "zahle = pay (focus on the action)\n\nbezahle = pay for (focus on the thing you pay for)",
     "groupCode": 1
@@ -8857,8 +8857,8 @@
   },
   {
     "id": 11456,
-    "en": "After the work Ali often goes to the gym",
-    "de": "Nach der Arbeit geht Ali oft ins Fitnessstudio",
+    "en": "After the work, Ali often goes to the gym",
+    "de": "Nach der Arbeit, geht Ali oft ins Fitnessstudio",
     "groupCode": 1
   },
   {
@@ -9059,6 +9059,18 @@
     "id": 11489,
     "en": "You are distracted",
     "de": "Du bist abgelenkt",
+    "groupCode": 1
+  },
+  {
+    "id": 11490,
+    "en": "We're driving straight to (toward) the concert, where are you?",
+    "de": "Wir fahren gerade zum Konzert, wo bist du?",
+    "groupCode": 1
+  },
+  {
+    "id": 11491,
+    "en": "\nthe bicycle\nthe bus\nthe car\nthe motorcycle\nthe train\nthe tram\nthe airplane\nthe ship\nthe boat\nthe truck\nthe scooter\nthe taxi",
+    "de": "\ndas Fahrrad\nder Bus\ndas Auto\ndas Motorrad\nder Zug\ndie Straßenbahn\ndas Flugzeug\ndas Schiff\ndas Boot\nder LKW (Lastkraftwagen)\nder Roller\ndas Taxi",
     "groupCode": 1
   }
 ]

@@ -16,5 +16,17 @@
     "key": "lassen",
     "value": "lássen",
     "groupCode": 1
+  },
+  {
+    "id": 4,
+    "key": "Küche",
+    "value": "kü\n·\nche (ش)",
+    "groupCode": 1
+  },
+  {
+    "id": 4,
+    "key": "koche",
+    "value": "ko\n·\nche (خ)",
+    "groupCode": 1
   }
 ]

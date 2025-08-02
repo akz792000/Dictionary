@@ -7207,8 +7207,8 @@
   },
   {
     "id": 4181,
-    "fa": "\"Sketchy\" معنا می دهد مشکوک یا مشکوک (سایه دار)، در حالی که \"flaky\" معنا می دهد غیرقابل اعتماد یا متناقض (ناسازگار و ناپایدار)",
-    "en": "\"Sketchy\" means suspicious or shady, while \"flaky\" means unreliable or inconsistent",
+    "fa": "\"Sketchy\" معنا می دهد مشکوک یا مشکوک (سایه دار) یا سطحی نگر، در حالی که \"flaky\" معنا می دهد غیرقابل اعتماد یا متناقض (ناسازگار و ناپایدار)",
+    "en": "\"Sketchy\" means suspicious or shady or cursory, while \"flaky\" means unreliable or inconsistent",
     "groupCode": 0
   },
   {
@@ -7948,7 +7948,7 @@
   },
   {
     "id": 4303,
-    "fa": "مشکلات آنها بودند مربوط به موقعیت به جای شخصی",
+    "fa": "مشکلات آنها بودند مربوط به موقعیت (شرایط) به جای شخصی",
     "en": "Their problems were circumstantial rather than personal",
     "groupCode": 0
   },
@@ -8063,7 +8063,7 @@
   },
   {
     "id": 4322,
-    "fa": "آیا می توان برخی مردم تشخیص داده شدند با اختلالِ صعب العلاج به طور بدنام واقعاً درمان می شوند؟",
+    "fa": "آیا می توان برخی مردم تشخیص داده شده با اختلال صعب العلاج به طور بدنام واقعاً درمان شوند؟",
     "en": "Can some people diagnosed with the notoriously difficult-to-treat disorder actually be cured?",
     "groupCode": 0
   },
@@ -8083,6 +8083,24 @@
     "id": 4325,
     "fa": "فقط به یاد داشته باش، به محض اینکه کاربر وارد سیستم می شود، وضعیت تغییر می کند به ACTIVE",
     "en": "Just remember, as soon as the user logs in, the status changes to ACTIVE",
+    "groupCode": 0
+  },
+  {
+    "id": 4326,
+    "fa": "من یک موش صحرایی گیر هستم",
+    "en": "I'm a rat catcher",
+    "groupCode": 0
+  },
+  {
+    "id": 4327,
+    "fa": "یک مخالفی که دار زده شده بود",
+    "en": "A dissident who had been hung",
+    "groupCode": 0
+  },
+  {
+    "id": 4328,
+    "fa": "میشه شما لطفا چک کنید که آیا پرواز دوم ما از استانبول به تهران هنوز برقرار (دویدن) است؟",
+    "en": "Could you please check if our second flight from Istanbul to Tehran is still running",
     "groupCode": 0
   }
 ]
