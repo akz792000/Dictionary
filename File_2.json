@@ -1203,7 +1203,7 @@
   },
   {
     "id": 10197,
-    "en": "Who knows (aware) most of the names?",
+    "en": "Who knows (aware) most (of the) names?",
     "de": "Wer weiß meisten Namen?",
     "groupCode": 1
   },
@@ -7411,7 +7411,7 @@
   },
   {
     "id": 11219,
-    "en": "This isn't the train station. This is the university",
+    "en": "This here isn't the train station. This is the university",
     "de": "Das hier ist nicht der Bahnhof. Das ist die Universität",
     "groupCode": 1
   },
@@ -8003,7 +8003,7 @@
   {
     "id": 11316,
     "en": "\n Possessive pronoun - \n my, your, his/her/its, our, your (pl), their/your (formal)",
-    "de": "\n Possessivpronomen - \n mein(e), dein(e), sein(e)/ihr(e)/sein(e), unser(e), euer/eure, ihr(e)/Ihr(e) \n Das ist mein Buch.",
+    "de": "\n Possessivpronomen - \n mein(e), dein(e), sein(e)/ihr(e)/sein(e), unser(e), euer/eure, ihr(e)/Ihr(e)",
     "groupCode": 1
   },
   {
@@ -8111,7 +8111,7 @@
   },
   {
     "id": 11334,
-    "en": "Dear Madam or Sir. Dear Sir. Dear Madam",
+    "en": "Dear Madam and Sir. Dear Sir. Dear Madam",
     "de": "Sehr geehrte Damen und Herren. Lieber Herr. Liebe Frau",
     "groupCode": 1
   },
@@ -8437,7 +8437,7 @@
   {
     "id": 11387,
     "en": "I close the door",
-    "de": "Ich schließe die Tür",
+    "de": "\n 1.Ich schließe die Tür \n 1.Ich mache die Tür zu",
     "groupCode": 1
   },
   {
@@ -8839,8 +8839,8 @@
   },
   {
     "id": 11453,
-    "en": "I would like to register for the German course",
-    "de": "Ich möchte mich für den Deutschkurs anmelden",
+    "en": "Our butcher (male) is very nice",
+    "de": "Unser Metzger ist sehr nett",
     "groupCode": 1
   },
   {
@@ -8857,8 +8857,8 @@
   },
   {
     "id": 11456,
-    "en": "After the work, Ali often goes to the gym",
-    "de": "Nach der Arbeit, geht Ali oft ins Fitnessstudio",
+    "en": "After the work Ali often goes to the gym",
+    "de": "Nach der Arbeit geht Ali oft ins Fitnessstudio",
     "groupCode": 1
   },
   {
@@ -8912,13 +8912,13 @@
   },
   {
     "id": 11465,
-    "en": "Whose books are those? That is my book",
+    "en": "Whose books are those? Those are my book",
     "de": "Wessen Bücher sind das? Das sind meine Bucher",
     "groupCode": 1
   },
   {
     "id": 11466,
-    "en": "Do you live in a large room?",
+    "en": "Do you (formal) live in a large room?",
     "de": "Wohnen Sie in einem Großen zimmer?",
     "groupCode": 1
   },
@@ -8966,13 +8966,13 @@
   },
   {
     "id": 11474,
-    "en": "You want to know",
+    "en": "You would like to know",
     "de": "Sie möchten wissen",
     "groupCode": 1
   },
   {
     "id": 11475,
-    "en": "The departure is at 10 o'clock and the arrival at 2 o'clock",
+    "en": "The departure (plane) is at 10 o'clock and the arrival at 2 o'clock",
     "de": "Der Abflug ist um 10 Uhr und die Ankunft um 14 Uhr",
     "groupCode": 1
   },
@@ -8996,7 +8996,7 @@
   },
   {
     "id": 11479,
-    "en": "We are open for you daily from 11 to 3 PM",
+    "en": "We have for you (formal) daily from 11 to 3 PM opened",
     "de": "Wir haben für Sie täglich von 11 bis 15 Uhr geöffnet",
     "groupCode": 1
   },
@@ -9014,7 +9014,7 @@
   },
   {
     "id": 11482,
-    "en": "The child loves their new toys",
+    "en": "The child loves his new toys",
     "de": "Das Kind liebt sein neues Kinderspielzeug",
     "groupCode": 1
   },
@@ -9038,8 +9038,8 @@
   },
   {
     "id": 11486,
-    "en": "I would like to celebrate my birthday and invite you to my birthday",
-    "de": "ich möchte meinen Geburtstag feiern und dich zu meinem Geburtstag einladen",
+    "en": "I would like to celebrate my birthday and invite you to (toward) my birthday",
+    "de": "Ich möchte meinen Geburtstag feiern und dich zu meinem Geburtstag einladen",
     "groupCode": 1
   },
   {
@@ -9051,7 +9051,7 @@
   },
   {
     "id": 11488,
-    "en": "Could you please tell me if you are coming to my birthday?",
+    "en": "Could you please tell me if you are coming to (toward) my birthday?",
     "de": "Könntest du mir bitte sagen, ob du zu meinem Geburtstag kommst?",
     "groupCode": 1
   },
@@ -9071,6 +9071,84 @@
     "id": 11491,
     "en": "\nthe bicycle\nthe bus\nthe car\nthe motorcycle\nthe train\nthe tram\nthe airplane\nthe ship\nthe boat\nthe truck\nthe scooter\nthe taxi",
     "de": "\ndas Fahrrad\nder Bus\ndas Auto\ndas Motorrad\nder Zug\ndie Straßenbahn\ndas Flugzeug\ndas Schiff\ndas Boot\nder LKW (Lastkraftwagen)\nder Roller\ndas Taxi",
+    "groupCode": 1
+  },
+  {
+    "id": 11492,
+    "en": "The departure (other vehicles) is at 10 o'clock and the arrival at 2 o'clock",
+    "de": "Die Abfahrt ist um 10 Uhr und die Ankunft um 14 Uhr",
+    "groupCode": 1
+  },
+  {
+    "id": 11493,
+    "en": "I start to read",
+    "de": "Ich beginne zu lesen",
+    "groupCode": 1
+  },
+  {
+    "id": 11494,
+    "en": "She tries to learn",
+    "de": "Sie versucht zu lernen",
+    "groupCode": 1
+  },
+  {
+    "id": 11495,
+    "en": "He forgot to close the window",
+    "de": "Er hat vergessen das Fenster zu schließen",
+    "groupCode": 1
+  },
+  {
+    "id": 11496,
+    "en": "I hope, it's almost finished! The guests are thirsty",
+    "de": "Ich hoffe, er ist fast fertige! Die Gäste haben Durst",
+    "groupCode": 1
+  },
+  {
+    "id": 11497,
+    "en": "Can you bring me flour, water and salt?",
+    "de": "Kannst du mir Mehl, Wasser und Salz bringen?",
+    "groupCode": 1
+  },
+  {
+    "id": 11498,
+    "en": "Now we can make the dough for our pizza",
+    "de": "Jetzt können wir den Teig für unsere Pizza machen",
+    "groupCode": 1
+  },
+  {
+    "id": 11499,
+    "en": "I came with my car",
+    "de": "Ich habe mit meinem Auto gekommen",
+    "groupCode": 1
+  },
+  {
+    "id": 11500,
+    "en": "Do your relatives visit you every year?",
+    "de": "Besuchen deine Verwandten dich jedes Jahr?",
+    "groupCode": 1
+  },
+  {
+    "id": 11501,
+    "en": "I hope to swim every day",
+    "de": "Ich hoffe jeden Tag zu schwimmen",
+    "groupCode": 1
+  },
+  {
+    "id": 11502,
+    "en": "Does each person get a glass of wine?",
+    "de": "Bekommt jede Person ein Glas Wein?",
+    "groupCode": 1
+  },
+  {
+    "id": 11503,
+    "en": "Do you have time at four?",
+    "de": "Hast du um vier Zeit?",
+    "groupCode": 1
+  },
+  {
+    "id": 11504,
+    "en": "Are you again in the park for ice cream?",
+    "de": "Bist du wieder im Park für Eiscreme?",
     "groupCode": 1
   }
 ]

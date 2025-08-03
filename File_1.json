@@ -8099,8 +8099,20 @@
   },
   {
     "id": 4328,
-    "fa": "میشه شما لطفا چک کنید که آیا پرواز دوم ما از استانبول به تهران هنوز برقرار (دویدن) است؟",
-    "en": "Could you please check if our second flight from Istanbul to Tehran is still running",
+    "fa": "میتونی شما (مودبانه) لطفا چک کنید آیا پرواز دوم ما هنوز برقرار (دویدن) است؟",
+    "en": "Could you please check if our second flight is still running",
+    "groupCode": 0
+  },
+  {
+    "id": 4329,
+    "fa": "معلم پخش کرد دانش را به دانش آموزان",
+    "en": "The teacher disseminates knowledge to students",
+    "groupCode": 0
+  },
+  {
+    "id": 4330,
+    "fa": "من دو هفته پیش ازدواج کردم و من می خواهم (یک) طلاق بگیرم، چه باید بکنم؟",
+    "en": "I got married two weeks ago and I want to get a divorce. What should I do?",
     "groupCode": 0
   }
 ]
