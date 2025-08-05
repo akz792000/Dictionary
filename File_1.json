@@ -7791,7 +7791,7 @@
   },
   {
     "id": 4277,
-    "fa": "وقتی کسی عملی انجام می دهد روی قسمتی از بدنش، آلمان (ها) استفاده میکنند یک ضمیر انعکاسی با حالت مفعولی غیرمستقیم به عنوان شخص و یک اسم مفعولی برای قسمتی از بدن که عمل روی آن داره انجام می شود",
+    "fa": "وقتی کسی عملی انجام می دهد روی قسمتی از بدنش، آلمان (ها) استفاده میکنند یک ضمیر انعکاسی با حالت مفعولی غیرمستقیم برای شخص و یک اسم مفعولی برای قسمتی از بدن (که) عمل روی آن داره انجام می شود",
     "en": "When someone acts on their own body part, German uses a dative reflexive pronoun for the person and an accusative noun for the body part being acted on",
     "groupCode": 0
   },
@@ -8069,7 +8069,7 @@
   },
   {
     "id": 4323,
-    "fa": "من دوست دارم موسیقی ملایم در حال کار کردن",
+    "fa": "من دوست دارم موسیقی ملایم در حالیکه من کار می کنم",
     "en": "I like ambient music while I work",
     "groupCode": 0
   },
@@ -8093,26 +8093,86 @@
   },
   {
     "id": 4327,
-    "fa": "یک مخالفی که دار زده شده بود",
+    "fa": "یک مخالفی کسی که دار زده شده بود",
     "en": "A dissident who had been hung",
     "groupCode": 0
   },
   {
     "id": 4328,
-    "fa": "میتونی شما (مودبانه) لطفا چک کنید آیا پرواز دوم ما هنوز برقرار (دویدن) است؟",
-    "en": "Could you please check if our second flight is still running",
+    "fa": "میتونی شما (مودبانه) لطفا چک کنید آیا پرواز دوم هنوز برقرار (دویدن) است؟",
+    "en": "Could you please check if the second flight is still running?",
     "groupCode": 0
   },
   {
     "id": 4329,
-    "fa": "معلم پخش کرد دانش را به دانش آموزان",
+    "fa": "معلم منتشر می کند دانش را به دانش آموزان",
     "en": "The teacher disseminates knowledge to students",
     "groupCode": 0
   },
   {
     "id": 4330,
-    "fa": "من دو هفته پیش ازدواج کردم و من می خواهم (یک) طلاق بگیرم، چه باید بکنم؟",
+    "fa": "من دو هفته پیش ازدواج کردم و من می خواهم (یک) طلاق بگیرم، چه باید من بکنم؟",
     "en": "I got married two weeks ago and I want to get a divorce. What should I do?",
+    "groupCode": 0
+  },
+  {
+    "id": 4331,
+    "fa": "معمار داد یک انتقاد سازنده برای بهبود دادن طرح",
+    "en": "The architect gave a constructive critic to improve the design",
+    "groupCode": 0
+  },
+  {
+    "id": 4332,
+    "fa": "دستگاه (ماشین) دستکاری نکنید، زیرا ممکن (فرضی) است باعث آسیب شود",
+    "en": "Do not tamper with the machine, as it could cause damage",
+    "groupCode": 0
+  },
+  {
+    "id": 4333,
+    "fa": "آیا رفتی و چغلی منو کردی؟",
+    "en": "Did you go and tattle on me?",
+    "groupCode": 0
+  },
+  {
+    "id": 4334,
+    "fa": "چه ساعتی تو کار (کارت) تمام می شه؟",
+    "en": "What time do you get off work?",
+    "groupCode": 0
+  },
+  {
+    "id": 4335,
+    "fa": "آیا شما تبدیل به چیزی می شوید که شما همیشه (از آن) متنفر بودید؟",
+    "en": "Are you becoming what you've always hated?",
+    "groupCode": 0
+  },
+  {
+    "id": 4336,
+    "fa": "آیا شما می دانید چند تعداد مردم دارن میان به جلسه؟",
+    "en": "Do you know how many people are coming to the meeting?",
+    "groupCode": 0
+  },
+  {
+    "id": 4337,
+    "fa": "تو فقط یک جورایی روز را غنیمت نمی شمری",
+    "en": "You don't just sort of seize the day",
+    "groupCode": 0
+  },
+  {
+    "id": 4338,
+    "fa": "تو غرغرو و وسواسی هستی",
+    "en": "You're whiny and obsessive",
+    "groupCode": 0
+  },
+  {
+    "id": 4339,
+    "fa": "تو اعتمادبه نفس نداری و بی جرأتی",
+    "en": "You're insecure and gutless",
+    "groupCode": 0
+  },
+  {
+    "id": 4340,
+    "fa": "فصل ماقبل آخر کتاب بود هیجان انگیزترین",
+    "en": "The second-to-last chapter of the book was the most exciting",
     "groupCode": 0
   }
 ]

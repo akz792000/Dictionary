@@ -8912,7 +8912,7 @@
   },
   {
     "id": 11465,
-    "en": "Whose books are those? Those are my book",
+    "en": "Whose books are those? Those are my books",
     "de": "Wessen Bücher sind das? Das sind meine Bucher",
     "groupCode": 1
   },
@@ -8960,13 +8960,13 @@
   },
   {
     "id": 11473,
-    "en": "There are many beautiful houses and apartments in this city",
+    "en": "In this city there are many beautiful houses and apartments",
     "de": "In dieser Stadt gibt es viele schöne Häuser und Wohnungen",
     "groupCode": 1
   },
   {
     "id": 11474,
-    "en": "You would like to know",
+    "en": "You (formal) would like to know (aware)",
     "de": "Sie möchten wissen",
     "groupCode": 1
   },
@@ -8980,6 +8980,7 @@
     "id": 11476,
     "en": "Our employees talk about their expeditions",
     "de": "Unsere Mitarbeiter erzählen von ihren Expeditionen",
+    "desc": "\"von\": This preposition is used when someone is talking about their personal experiences, stories, or accounts. It implies a more direct, personal connection to what is being shared.\n\nExample: \"Unsere Mitarbeiter erzählen von ihren Expeditionen.\"\n→ This means the employees are sharing their personal stories or experiences from their expeditions.\n\"über\": This preposition is used when talking about a topic in a more general or abstract sense, without necessarily implying personal involvement.\n\nExample: \"Unsere Mitarbeiter sprechen über Expeditionen.\"\n→ This would mean the employees are discussing expeditions in general, not necessarily their own.",
     "groupCode": 1
   },
   {
@@ -9004,6 +9005,7 @@
     "id": 11480,
     "en": "The new rule applies from now on",
     "de": "Ab sofort gilt die neue Regel",
+    "desc": "Ab is often used with time expressions to indicate the beginning of a period.",
     "groupCode": 1
   },
   {
@@ -9026,7 +9028,7 @@
   },
   {
     "id": 11484,
-    "en": "On the other days we are open until 6 p.m",
+    "en": "On the other days is open until 6 p.m",
     "de": "An den anderen Tagen ist bis 18 Uhr geöffnet",
     "groupCode": 1
   },
@@ -9044,7 +9046,7 @@
   },
   {
     "id": 11487,
-    "en": "I’m planning to celebrate at the restaurant at 6 p.m. on the weekend",
+    "en": "I’m planning to celebrate in the restaurant at 6 p.m. on the weekend",
     "de": "Ich plane am Wochenende um 18 Uhr im Restaurant zu feiern",
     "desc": "Some German verbs (like planen, beginnen, versuchen, vergessen) are followed by another verb in the \"zu + infinitive\" form.",
     "groupCode": 1
@@ -9100,7 +9102,7 @@
   {
     "id": 11496,
     "en": "I hope, it's almost finished! The guests are thirsty",
-    "de": "Ich hoffe, er ist fast fertige! Die Gäste haben Durst",
+    "de": "Ich hoffe, es ist fast fertige! Die Gäste haben Durst",
     "groupCode": 1
   },
   {
@@ -9137,6 +9139,7 @@
     "id": 11502,
     "en": "Does each person get a glass of wine?",
     "de": "Bekommt jede Person ein Glas Wein?",
+    "desc": " the word \"jede\" is used with feminine nouns like \"Person,\" because \"Person\" is a feminine noun. Therefore, \"jede\" agrees with the gender of the noun",
     "groupCode": 1
   },
   {
@@ -9149,6 +9152,102 @@
     "id": 11504,
     "en": "Are you again in the park for ice cream?",
     "de": "Bist du wieder im Park für Eiscreme?",
+    "groupCode": 1
+  },
+  {
+    "id": 11505,
+    "en": "Who are you inviting to (toward) the butcher shop?",
+    "de": "Wen lädst du zur Metzgerei ein?",
+    "groupCode": 1
+  },
+  {
+    "id": 11506,
+    "en": "Why doesn't she invite me to (toward) the barbecue?",
+    "de": "Warum lädt sie mich nicht zur Grillparty ein?",
+    "groupCode": 1
+  },
+  {
+    "id": 11507,
+    "en": "Julia knows her neighbors because they are her siblings",
+    "de": "Julia kennt ihre Nachbarn denn sie sind ihre Geschwister",
+    "groupCode": 1
+  },
+  {
+    "id": 11508,
+    "en": "Is your (formal) eagle dangerous?",
+    "de": "Ist Ihr Adler gefährlich?",
+    "groupCode": 1
+  },
+  {
+    "id": 11509,
+    "en": "Does every neighbor (male) have a car?",
+    "de": "Hat jeder Nachbar ein Auto?",
+    "groupCode": 1
+  },
+  {
+    "id": 11510,
+    "en": "Does the student live downstairs?",
+    "de": "Wohnt der Student unten?",
+    "groupCode": 1
+  },
+  {
+    "id": 11511,
+    "en": "My colleague (female) lives in the apartment building and has to wash her clothes downstairs",
+    "de": "Meine Kollegin wohnung im Mehrfamilienhaus und muss ihre Kleidung unten waschen",
+    "groupCode": 1
+  },
+  {
+    "id": 11512,
+    "en": "These plants and flowers are very beautiful",
+    "de": "Diese Pflanzen und Blumen sind sehr schön",
+    "groupCode": 1
+  },
+  {
+    "id": 11513,
+    "en": "I have an important exam tomorrow",
+    "de": "Ich habe morgen eine wichtige Prüfung",
+    "groupCode": 1
+  },
+  {
+    "id": 11514,
+    "en": "I must pass the exam or I cannot study medicine",
+    "de": "Ich muss die Prüfung bestehen, oder ich kann nicht Medizin studieren",
+    "groupCode": 1
+  },
+  {
+    "id": 11515,
+    "en": "I take off my jacket",
+    "de": "Ich ziehe meine jacke aus",
+    "groupCode": 1
+  },
+  {
+    "id": 11516,
+    "en": "We have to learn all night",
+    "de": "Wir müssen die ganze Nacht lernen",
+    "groupCode": 1
+  },
+  {
+    "id": 11517,
+    "en": "The game is important, but you are more important",
+    "de": "Das Spiel ist wichtig, aber du bist wichtiger",
+    "groupCode": 1
+  },
+  {
+    "id": 11518,
+    "en": "Do you need a moment or can you sign the form now?",
+    "de": "Brauchen Sie einen Moment oder können Sie jetzt das Formular unterschreiben?",
+    "groupCode": 1
+  },
+  {
+    "id": 11519,
+    "en": "My sister wants to travel to Japan in the summer",
+    "de": "Meine Schwester möchte im Sommer nach Japan reisen",
+    "groupCode": 1
+  },
+  {
+    "id": 11520,
+    "en": "Sari has the same book, We go to the same school",
+    "de": "Sari hat dasselbe Buch, Wir gehen auf dieselbe Schule",
     "groupCode": 1
   }
 ]
