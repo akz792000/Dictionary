@@ -2567,8 +2567,8 @@
   },
   {
     "id": 10420,
-    "en": "Do you (formal) still need a moment?",
-    "de": "Brauchen Sie noch einen Moment?",
+    "en": "The girl is pretty",
+    "de": "Das Mädchen ist hübsch",
     "groupCode": 1
   },
   {
@@ -3723,7 +3723,7 @@
   },
   {
     "id": 10611,
-    "en": "We need meat why does everyone bring salad along?",
+    "en": "We need meat why does all (everyone) bring salad along?",
     "de": "Wir brauchen Fleisch warum bringen alle Salat mit?",
     "groupCode": 1
   },
@@ -3911,7 +3911,7 @@
   },
   {
     "id": 10642,
-    "en": "When is your flight? Are you driving to (toward) the airport with your brother?",
+    "en": "When is your departure (flight)? Are you driving to (toward) the airport with your brother?",
     "de": "Wann ist dein Abflug? Fährst du mit deinem Bruder zum Flughafen?",
     "groupCode": 1
   },
@@ -3947,7 +3947,7 @@
   },
   {
     "id": 10648,
-    "en": "Everyone comes to (toward) the party",
+    "en": "All (Everyone) comes to (toward) the party",
     "de": "Alle kommen zur Party",
     "groupCode": 1
   },
@@ -5981,7 +5981,7 @@
   },
   {
     "id": 10983,
-    "en": "We drive almost always by the street car. The traffic in the city is very slow",
+    "en": "We drive almost always by the tram. The traffic in the city is very slow",
     "de": "Wir fahren fast immer mit der Straßenbahn. Der Verkehr in der Stadt ist sehr langsam",
     "groupCode": 1
   },
@@ -6266,7 +6266,7 @@
   {
     "id": 11030,
     "en": "I found you also pretty",
-    "de": "Ich finde dich auch hübsch",
+    "de": "\n 1.Ich finde dich auch hübsch \n 2.Ich habe dich auch hübsch gefunden",
     "groupCode": 1
   },
   {
@@ -8105,8 +8105,8 @@
   },
   {
     "id": 11333,
-    "en": "Munich Adult Education Center, back to (toward) homepage",
-    "de": "Münchner Volkshochschule, zurück zur Startseite",
+    "en": "Munich Adult Education Center",
+    "de": "Münchner Volkshochschule",
     "groupCode": 1
   },
   {
@@ -8675,6 +8675,7 @@
     "id": 11426,
     "en": "The passport is applicable (apply) for one year",
     "de": "Der Pass gilt für ein Jahr",
+    "desc": "When a number is used directly before a noun as an adjective, German uses the cardinal number adjective form without -s, which is „ein“ for 1 (neuter).",
     "groupCode": 1
   },
   {
@@ -9222,7 +9223,7 @@
   },
   {
     "id": 11516,
-    "en": "We have to learn all night",
+    "en": "We have to learn (the) all night",
     "de": "Wir müssen die ganze Nacht lernen",
     "groupCode": 1
   },
@@ -9234,13 +9235,13 @@
   },
   {
     "id": 11518,
-    "en": "Do you need a moment or can you sign the form now?",
+    "en": "Do you (formal) need a moment or can you sign the form now?",
     "de": "Brauchen Sie einen Moment oder können Sie jetzt das Formular unterschreiben?",
     "groupCode": 1
   },
   {
     "id": 11519,
-    "en": "My sister wants to travel to Japan in the summer",
+    "en": "My sister would like to travel to Japan in the summer",
     "de": "Meine Schwester möchte im Sommer nach Japan reisen",
     "groupCode": 1
   },
@@ -9248,6 +9249,90 @@
     "id": 11520,
     "en": "Sari has the same book, We go to the same school",
     "de": "Sari hat dasselbe Buch, Wir gehen auf dieselbe Schule",
+    "groupCode": 1
+  },
+  {
+    "id": 11521,
+    "en": "I am. I was. I have been",
+    "de": "Ich bin. Ich war. Ich bin gewesen",
+    "groupCode": 1
+  },
+  {
+    "id": 11522,
+    "en": "I have. I had. I have had",
+    "de": "Ich habe. Ich hatte. Ich habe gehabt",
+    "groupCode": 1
+  },
+  {
+    "id": 11523,
+    "en": "I will. I became. I have become",
+    "de": "Ich werde. Ich wurde. Ich bin geworden",
+    "groupCode": 1
+  },
+  {
+    "id": 11524,
+    "en": "I can. I could. I was able to",
+    "de": "Ich kann. Ich konnte. Ich habe gekonnt",
+    "groupCode": 1
+  },
+  {
+    "id": 11525,
+    "en": "I do. I did. I have done",
+    "de": "Ich mache. Ich machte. Ich habe gemacht",
+    "groupCode": 1
+  },
+  {
+    "id": 11526,
+    "en": "I must. I had to. I had to",
+    "de": "Ich muss. Ich musste. Ich habe gemusst",
+    "groupCode": 1
+  },
+  {
+    "id": 11527,
+    "en": "I say. I said. I have said",
+    "de": "Ich sage. Ich sagte. Ich habe gesagt",
+    "groupCode": 1
+  },
+  {
+    "id": 11528,
+    "en": "I'm going. I went. I have gone",
+    "de": "Ich gehe. Ich ging. Ich bin gegangen",
+    "groupCode": 1
+  },
+  {
+    "id": 11529,
+    "en": "I give. I gave. I have given",
+    "de": "Ich gebe. Ich gab. Ich habe gegeben",
+    "groupCode": 1
+  },
+  {
+    "id": 11530,
+    "en": "I want. I wanted. I wanted",
+    "de": "Ich will. Ich wollte. ICh habe gewollt",
+    "groupCode": 1
+  },
+  {
+    "id": 11531,
+    "en": "I turn off the light",
+    "de": "Ich mache das Licht aus",
+    "groupCode": 1
+  },
+  {
+    "id": 11532,
+    "en": "Can you please turn on the radio?",
+    "de": "Kannst du bitte das Radio anmachen?",
+    "groupCode": 1
+  },
+  {
+    "id": 11533,
+    "en": "I was at home yesterday",
+    "de": "\n 1.Ich war gestern zu Hause \n 2.Ich bin gestern zu Hause gewesen",
+    "groupCode": 1
+  },
+  {
+    "id": 11534,
+    "en": "back to (toward) homepage",
+    "de": "zurück zur Startseite",
     "groupCode": 1
   }
 ]

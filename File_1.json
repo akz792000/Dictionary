@@ -399,7 +399,7 @@
   },
   {
     "id": 3066,
-    "fa": "او (زن) به من خیانت کرده است. من فکر کنم نامزدیمون رو قطع خواهم کرد",
+    "fa": "او (زن) به من خیانت (مدتی) کرده است. من فکر کنم نامزدیمون رو قطع خواهم کرد",
     "en": "She has been cheating on me. I think I'll break off our engagement",
     "desc": "\"Break up\" is mostly used for romantic relationships.\n\"Break off\" can be used more broadly, including engagements, negotiations, or other formal agreements.",
     "groupCode": 0
@@ -6361,7 +6361,7 @@
   },
   {
     "id": 4042,
-    "fa": "او (مرد) انکار کرد گرفتن پول را",
+    "fa": "او (مرد) انکار کرد برداشتن پول را",
     "en": "He denied taking the money",
     "groupCode": 0
   },
@@ -8058,7 +8058,7 @@
   {
     "id": 4321,
     "fa": "بعضی وقتا من سرزنش میکنم خودمو به خاطر حماقتم",
-    "en": "Sometimes I rebuke myself for my stupidity",
+    "en": "Sometimes I rebuke/scold/reprimand myself for my stupidity",
     "groupCode": 0
   },
   {
@@ -8173,6 +8173,54 @@
     "id": 4340,
     "fa": "فصل ماقبل آخر کتاب بود هیجان انگیزترین",
     "en": "The second-to-last chapter of the book was the most exciting",
+    "groupCode": 0
+  },
+  {
+    "id": 4341,
+    "fa": "ورودی اکنون کاملاً عملیاتی است و شما می توانید استفاده کنیدش طبق معمول",
+    "en": "The entrance is now fully operational and you can use it as usual",
+    "groupCode": 0
+  },
+  {
+    "id": 4342,
+    "fa": "میتونیم چک (صورتحساب) رو بگیریم, لطفا؟",
+    "en": "Could we get the check (bill), please?",
+    "groupCode": 0
+  },
+  {
+    "id": 4343,
+    "fa": "منو\nچنگال\nچاقو\nقاشق\nدستمال سفره\nنی\nبشقاب\nنمک\nفلفل\nلیوان پلاستیکی\n",
+    "en": "\nMenu\nFork\nKnife\nSpoon\nNapkin\nStraw\nPlate\nSalt\nPepper\nPlastic Cup",
+    "groupCode": 0
+  },
+  {
+    "id": 4344,
+    "fa": "'In' می گیرد برای حرکت به داخل چیزی, 'aus' برای مکان داخل، اما Dativ همیشه می گیرد Akkusativ برای حرکت به خارج از چیزی",
+    "en": "'In' takes Akkusativ for movement into something, Dativ for location inside, but 'aus' always takes Dativ for movement out of something",
+    "groupCode": 0
+  },
+  {
+    "id": 4345,
+    "fa": "نادیده نگیر جزئیات کوچک را در کار خودت",
+    "en": "Don't overlook the small details in your work",
+    "groupCode": 0
+  },
+  {
+    "id": 4346,
+    "fa": "من مشورت خواهم کرد قبل از گرفتن یک تصمیم نهایی",
+    "en": "I will confer before making a final decision",
+    "groupCode": 0
+  },
+  {
+    "id": 4347,
+    "fa": "لبخند تو منتقل می کرد شادی را به همه در اتاق",
+    "en": "Your smile conveyed happiness to everyone in the room",
+    "groupCode": 0
+  },
+  {
+    "id": 4348,
+    "fa": "من توسط پلیس بازجویی شدم",
+    "en": "I was interrogated by the police",
     "groupCode": 0
   }
 ]
