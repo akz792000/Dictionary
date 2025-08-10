@@ -5702,7 +5702,7 @@
   },
   {
     "id": 10937,
-    "en": "Which of these banks do you know?",
+    "en": "Which (of) these banks do you know?",
     "de": "Welche dieser Banken kennst du?",
     "desc": "Genitive Case in German:\n\nThe Genitive case is used to show possession or a relationship between nouns. It often answers the question \"whose?\" or \"of which?\".\nIn this sentence, \"dieser Banken\" means \"of these banks,\" which is a typical Genitive construction.\nWhy Genitive is Used Here:\n\nThe word \"welche\" (which) is asking about a selection from a group. The phrase \"dieser Banken\" specifies the group (banks) from which the selection is being made.\nThe preposition \"von\" (of) could also be used here in a more casual way: \"Welche von diesen Banken kennst du?\" However, the Genitive case is more formal and concise.\nStructure of the Sentence:\n\n\"Welche\": Interrogative pronoun (which).\n\"dieser Banken\": Genitive phrase (of these banks).\n\"kennst du\": Main clause (do you know).\nSimplified Comparison:\nGenitive (formal): \"Welche dieser Banken kennst du?\" → \"Which of these banks do you know?\"\nAlternative with \"von\" (casual): \"Welche von diesen Banken kennst du?\" → \"Which of these banks do you know?\"\nWhy Genitive is Important:\nUsing the Genitive case here makes the sentence more formal and precise, which is common in written or formal German.",
     "groupCode": 1
@@ -6266,7 +6266,7 @@
   {
     "id": 11030,
     "en": "I found you also pretty",
-    "de": "\n 1.Ich finde dich auch hübsch \n 2.Ich habe dich auch hübsch gefunden",
+    "de": "\n 1.Ich fand dich auch hübsch \n 2.Ich habe dich auch hübsch gefunden",
     "groupCode": 1
   },
   {
@@ -7575,7 +7575,7 @@
   {
     "id": 11246,
     "en": "The bar (rod, stick) is between the cubes",
-    "de": "Der Stock ist zwischen den Würfeln",
+    "de": "Der Stab ist zwischen den Würfeln",
     "groupCode": 1
   },
   {
@@ -8798,7 +8798,7 @@
   },
   {
     "id": 11446,
-    "en": "She followed the car untill to the intersection",
+    "en": "She followed the car untill to (toward) the intersection",
     "de": "Sie folgte dem Auto bis zur Kreuzung",
     "groupCode": 1
   },
@@ -9382,7 +9382,7 @@
   },
   {
     "id": 11542,
-    "en": "I know. I knew. I have known",
+    "en": "I know (aware). I knew. I have known",
     "de": "Ich weiß. Ich wusste. Ich habe gewusst",
     "groupCode": 1
   },
@@ -9424,7 +9424,7 @@
   },
   {
     "id": 11549,
-    "en": "Would you like to come along to the basketball game?",
+    "en": "Would you like to come along to (toward) the basketball game?",
     "de": "Möchtest du zum Basketballspiel mitkommen?",
     "groupCode": 1
   },
@@ -9436,7 +9436,7 @@
   },
   {
     "id": 11551,
-    "en": "When do we need to meet?",
+    "en": "When must we meet?",
     "de": "Wann müssen wir uns treffen?",
     "groupCode": 1
   },
