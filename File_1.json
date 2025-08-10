@@ -5497,7 +5497,7 @@
   },
   {
     "id": 3900,
-    "fa": "او (مرد) داره امروز جایگزین معلم میشه",
+    "fa": "او (مرد) داره جایگزین میشه برای معلم امروز",
     "en": "He is subbing for the teacher today",
     "groupCode": 0
   },
@@ -8075,7 +8075,7 @@
   },
   {
     "id": 4324,
-    "fa": "ناپایداری (غیرقابل اعتماد) برنامه، استفاده از آن را دشوار می کند (می سازد)",
+    "fa": "ناپایداری (غیرقابل اعتماد) برنامه، دشوارش می کند (می سازد) برای استفاده کردن",
     "en": "The app’s flakiness makes it hard to use",
     "groupCode": 0
   },
@@ -8195,8 +8195,8 @@
   },
   {
     "id": 4344,
-    "fa": "'In' می گیرد برای حرکت به داخل چیزی, 'aus' برای مکان داخل، اما Dativ همیشه می گیرد Akkusativ برای حرکت به خارج از چیزی",
-    "en": "'In' takes Akkusativ for movement into something, Dativ for location inside, but 'aus' always takes Dativ for movement out of something",
+    "fa": "'In' می گیرد Akkusativ برای حرکت به داخل چیزی, 'aus' برای مکان داخل، اما Dativ همیشه می گیرد  برای حرکت به خارج از چیزی",
+    "en": "'In' takes  for movement into something, Dativ for location inside, but 'aus' always takes Dativ for movement out of something",
     "groupCode": 0
   },
   {
@@ -8213,7 +8213,7 @@
   },
   {
     "id": 4347,
-    "fa": "لبخند تو منتقل می کرد شادی را به همه در اتاق",
+    "fa": "لبخند تو منتقل کرد شادی را به همه در اتاق",
     "en": "Your smile conveyed happiness to everyone in the room",
     "groupCode": 0
   },
@@ -8221,6 +8221,78 @@
     "id": 4348,
     "fa": "من توسط پلیس بازجویی شدم",
     "en": "I was interrogated by the police",
+    "groupCode": 0
+  },
+  {
+    "id": 4349,
+    "fa": "مرتکب کننده ها (عامل) قادر بودند فرار کنند بدون جلب توجه پس از آن",
+    "en": "The perpetrators were able to escape unnoticed afterward",
+    "groupCode": 0
+  },
+  {
+    "id": 4350,
+    "fa": "تعداد زیادی مردم رنج وحشتناکی کشیدند در اردوگاه های کار اجباری",
+    "en": "Many people suffered terribly in the concentration camps",
+    "groupCode": 0
+  },
+  {
+    "id": 4351,
+    "fa": "کفی کفش من خیلی راحت است",
+    "en": "The insole of my shoe is very comfortable",
+    "groupCode": 0
+  },
+  {
+    "id": 4352,
+    "fa": "تو به نظر می رسی انگار تو یک روح دیدی",
+    "en": "You look as if you've seen a ghost",
+    "groupCode": 0
+  },
+  {
+    "id": 4353,
+    "fa": "شکارچی تله گذاشت (دام گذاشت) برای گرفتن خرگوش ها",
+    "en": "The hunter set a snare to catch rabbits",
+    "groupCode": 0
+  },
+  {
+    "id": 4354,
+    "fa": "او (مرد) روی یک لبه ی ناهموار ایستاده بود",
+    "en": "He stood on a precarious ledge",
+    "groupCode": 0
+  },
+  {
+    "id": 4355,
+    "fa": "این جاده به کجا می رود؟",
+    "en": "Where is this road headed?",
+    "groupCode": 0
+  },
+  {
+    "id": 4356,
+    "fa": "این شرکت صرفه جو است و ذخیره می کند (صرفه جویی می کند) در حدود یک میلیون دلار در سال با کاهش دادن ۱۰ تا ۱۵ کارمند",
+    "en": "The company is frugal and saves about a million dollars a year by reducing 10 to 15 employees",
+    "groupCode": 0
+  },
+  {
+    "id": 4357,
+    "fa": "من یه کم چرت زدم",
+    "en": "I nodded off a little",
+    "groupCode": 0
+  },
+  {
+    "id": 4358,
+    "fa": "من کلاهبرداری شدم",
+    "en": "I got scammed",
+    "groupCode": 0
+  },
+  {
+    "id": 4359,
+    "fa": "به جای خرید رفتن، بیایید برویم به سینما",
+    "en": "Rather than going shopping, let's go to the cinema",
+    "groupCode": 0
+  },
+  {
+    "id": 4360,
+    "fa": "تعلل نکن. وقت تلف نکن",
+    "en": "Don't procrastinate. Don't dawdle /ˈdɒdl̩/",
     "groupCode": 0
   }
 ]

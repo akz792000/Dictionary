@@ -5114,7 +5114,7 @@
   },
   {
     "id": 10840,
-    "en": "What else do you (formal) have? We only have nut cake",
+    "en": "What do you still have so? We only have still nut cake",
     "de": "Was haben Sie denn noch? Wir haben nur noch Nusskuchen",
     "groupCode": 1
   },
@@ -8951,6 +8951,7 @@
     "id": 11471,
     "en": "There are no free spots in the student dormitory",
     "de": "Es gibt keine freien Plätze im Studentenwohnheim",
+    "desc": "keine freien Plätze = \"no free places\" (grammatically: plural, accusative, adjective ending -en).",
     "groupCode": 1
   },
   {
@@ -9004,7 +9005,7 @@
   },
   {
     "id": 11480,
-    "en": "The new rule applies from now on",
+    "en": "From now on applies the new rule",
     "de": "Ab sofort gilt die neue Regel",
     "desc": "Ab is often used with time expressions to indicate the beginning of a period.",
     "groupCode": 1
@@ -9035,7 +9036,7 @@
   },
   {
     "id": 11485,
-    "en": "On Thursday we close only not until 10 p.m",
+    "en": "On Thursday we close not until 10 p.m",
     "de": "Am Donnerstag schließen wir erst um 22 Uhr",
     "groupCode": 1
   },
@@ -9235,7 +9236,7 @@
   },
   {
     "id": 11518,
-    "en": "Do you (formal) need a moment or can you sign the form now?",
+    "en": "Do you (formal) need a moment or can you (formal) sign the form now?",
     "de": "Brauchen Sie einen Moment oder können Sie jetzt das Formular unterschreiben?",
     "groupCode": 1
   },
@@ -9247,7 +9248,7 @@
   },
   {
     "id": 11520,
-    "en": "Sari has the same book, We go to the same school",
+    "en": "Sari has the same book, We go to (at idomatic) the same school",
     "de": "Sari hat dasselbe Buch, Wir gehen auf dieselbe Schule",
     "groupCode": 1
   },
@@ -9308,7 +9309,7 @@
   {
     "id": 11530,
     "en": "I want. I wanted. I wanted",
-    "de": "Ich will. Ich wollte. ICh habe gewollt",
+    "de": "Ich will. Ich wollte. Ich habe gewollt",
     "groupCode": 1
   },
   {
@@ -9331,8 +9332,166 @@
   },
   {
     "id": 11534,
-    "en": "back to (toward) homepage",
-    "de": "zurück zur Startseite",
+    "en": "Back to (toward) homepage",
+    "de": "Zurück zur Startseite",
+    "groupCode": 1
+  },
+  {
+    "id": 11535,
+    "en": "He goes to (he attends) school. He goes into the school. He goes to the school",
+    "de": "Er geht auf die Schule. Er geht in die Schule. Er geht zur Schule",
+    "desc": "auf die Schule gehen → idiomatic for attending a certain school.\n\nin die Schule gehen → physically entering the school building.\n\nzur Schule gehen → going in the direction of the school.",
+    "groupCode": 1
+  },
+  {
+    "id": 11536,
+    "en": "He answers me. He answers the question",
+    "de": "Er antwortet mir. Er beantwortet die Frage",
+    "desc": "Antwortet: Usually used with a person as the object, often with Dativ. Beantwortet: Takes a thing as the object, usually in Akkusativ",
+    "groupCode": 1
+  },
+  {
+    "id": 11537,
+    "en": "I'm coming. I came. I have come",
+    "de": "Ich komme. Ich kam. Ich bin gekommen",
+    "groupCode": 1
+  },
+  {
+    "id": 11538,
+    "en": "I should. I should. I should have",
+    "de": "Ich soll. Ich sollte. Ich habe gesollt",
+    "groupCode": 1
+  },
+  {
+    "id": 11539,
+    "en": "I see. I saw. I have seen",
+    "de": "Ich sehe. Ich sah. Ich habe gesehen",
+    "groupCode": 1
+  },
+  {
+    "id": 11540,
+    "en": "I like. I liked. I have liked",
+    "de": "Ich mag. Ich mochte (خ). Ich habe gemocht",
+    "groupCode": 1
+  },
+  {
+    "id": 11541,
+    "en": "I find. I found. I have found",
+    "de": "Ich finde. Ich fand. Ich habe gefunden",
+    "groupCode": 1
+  },
+  {
+    "id": 11542,
+    "en": "I know. I knew. I have known",
+    "de": "Ich weiß. Ich wusste. Ich habe gewusst",
+    "groupCode": 1
+  },
+  {
+    "id": 11543,
+    "en": "I believe. I believed. I have believed",
+    "de": "Ich glaube. Ich glaubte. Ich habe geglaubt",
+    "groupCode": 1
+  },
+  {
+    "id": 11544,
+    "en": "I am learning. I learned. I have learned",
+    "de": "Ich lerne. Ich lernte. Ich habe gelernt",
+    "groupCode": 1
+  },
+  {
+    "id": 11545,
+    "en": "I am allowed. I was allowed. I have been allowed",
+    "de": "Ich darf. Ich durfte. Ich habe gedurft",
+    "groupCode": 1
+  },
+  {
+    "id": 11546,
+    "en": "I think. I thought. I have thought",
+    "de": "Ich denke. Ich dachte. Ich habe gedacht",
+    "groupCode": 1
+  },
+  {
+    "id": 11547,
+    "en": "Does every boy have a bike?",
+    "de": "Hat jeder Junge ein Fahrrad?",
+    "groupCode": 1
+  },
+  {
+    "id": 11548,
+    "en": "Who is coming along?",
+    "de": "Wer kommt mit?",
+    "groupCode": 1
+  },
+  {
+    "id": 11549,
+    "en": "Would you like to come along to the basketball game?",
+    "de": "Möchtest du zum Basketballspiel mitkommen?",
+    "groupCode": 1
+  },
+  {
+    "id": 11550,
+    "en": "The game cannot start, it is raining",
+    "de": "Das Spiel kann nicht anfangen, es regnet",
+    "groupCode": 1
+  },
+  {
+    "id": 11551,
+    "en": "When do we need to meet?",
+    "de": "Wann müssen wir uns treffen?",
+    "groupCode": 1
+  },
+  {
+    "id": 11552,
+    "en": "How many games are there in the summer?",
+    "de": "Wie viele Spiele gibt es im Sommer?",
+    "groupCode": 1
+  },
+  {
+    "id": 11553,
+    "en": "It's snowing, the game has to stop",
+    "de": "Es schneit, das Spiel muss aufhören",
+    "groupCode": 1
+  },
+  {
+    "id": 11554,
+    "en": "You must bring a suit for the opera",
+    "de": "Du musst einen Anzug für die Oper mitbringen",
+    "groupCode": 1
+  },
+  {
+    "id": 11555,
+    "en": "I only like the music from Ali",
+    "de": "Ich mag nur die Musik von Ali",
+    "groupCode": 1
+  },
+  {
+    "id": 11556,
+    "en": "How much do two admission tickets cost?",
+    "de": "Wie viel kosten zwei Eintrittskarten?",
+    "groupCode": 1
+  },
+  {
+    "id": 11557,
+    "en": "How many tickets do we need for the family?",
+    "de": "Wie viele Eintrittskarten brauchen wir für die Familie?",
+    "groupCode": 1
+  },
+  {
+    "id": 11558,
+    "en": "My nephew and niece are coming to the concert with",
+    "de": "Mein Neffe und meine Nichte kommen ins Konzert mit",
+    "groupCode": 1
+  },
+  {
+    "id": 11559,
+    "en": "Do you think your girlfriend can come along?",
+    "de": "Glaubst du deine Freundin kann mitkommen?",
+    "groupCode": 1
+  },
+  {
+    "id": 11560,
+    "en": "When are you making your trip?",
+    "de": "Wann machst du deine Reise?",
     "groupCode": 1
   }
 ]
