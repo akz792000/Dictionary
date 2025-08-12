@@ -2559,7 +2559,7 @@
   },
   {
     "id": 3418,
-    "fa": "کوچکترین گونه پستاندار جهان چیست؟",
+    "fa": "چیست کوچکترین گونه ها از پستاندار جهان؟",
     "en": "What is the world's smallest species of mammal?",
     "desc": "\"Species\" is both the singular and plural form",
     "groupCode": 0
@@ -7104,7 +7104,7 @@
   },
   {
     "id": 4164,
-    "fa": "من می دانم چقدر ناامیدکننده می تواند باشد وقتی شما آماده ای بهتر کنید تلفظ خود را",
+    "fa": "من می دانم چقدر کلافه کننده می تواند باشد وقتی شما آماده ای بهتر کنید تلفظ خود را",
     "en": "I know how frustrating it can be when you're ready to improve your pronunciation",
     "groupCode": 0
   },
@@ -8081,7 +8081,7 @@
   },
   {
     "id": 4325,
-    "fa": "فقط به یاد داشته باش، به محض اینکه کاربر وارد سیستم می شود، وضعیت تغییر می کند به ACTIVE",
+    "fa": "فقط به یاد داشته باش، به محض اینکه کاربر وارد می شود، وضعیت تغییر می کند به ACTIVE",
     "en": "Just remember, as soon as the user logs in, the status changes to ACTIVE",
     "groupCode": 0
   },
@@ -8195,8 +8195,8 @@
   },
   {
     "id": 4344,
-    "fa": "'In' می گیرد Akkusativ برای حرکت به داخل چیزی, 'aus' برای مکان داخل، اما Dativ همیشه می گیرد  برای حرکت به خارج از چیزی",
-    "en": "'In' takes  for movement into something, Dativ for location inside, but 'aus' always takes Dativ for movement out of something",
+    "fa": "'In' می گیرد Akkusativ برای حرکت به داخل چیزی, Dativ برای مکان داخل، اما 'aus' همیشه می گیرد Dativ برای حرکت به خارج از چیزی",
+    "en": "'In' takes Akkusative for movement into something, Dativ for location inside, but 'aus' always takes Dativ for movement out of something",
     "groupCode": 0
   },
   {
@@ -8293,6 +8293,12 @@
     "id": 4360,
     "fa": "تعلل نکن. وقت تلف نکن",
     "en": "Don't procrastinate. Don't dawdle /ˈdɒdl̩/",
+    "groupCode": 0
+  },
+  {
+    "id": 4361,
+    "fa": "من نیاز دارم بخرم یک پاکت و یک تمبر برای پست کردن این نامه",
+    "en": "I need to buy an envelope and a stamp to mail this letter",
     "groupCode": 0
   }
 ]

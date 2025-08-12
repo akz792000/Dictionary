@@ -6164,7 +6164,7 @@
   {
     "id": 11013,
     "en": "I'm annoyed, because she never wants to wash her clothes",
-    "de": "Ich bin verärgert, denn sie will nie ihre Kleidung waschen",
+    "de": "\n 1.Ich bin verärgert, denn sie will nie ihre Kleidung waschen \n 2.Ich bin verärgert, weil sie nie ihre Kleidung waschen will",
     "groupCode": 1
   },
   {
@@ -9086,7 +9086,7 @@
   {
     "id": 11493,
     "en": "I start to read",
-    "de": "Ich beginne zu lesen",
+    "de": "\n 1.Ich beginne zu lesen\n 2.Ich fange zu lesen an",
     "groupCode": 1
   },
   {
@@ -9195,7 +9195,7 @@
   {
     "id": 11511,
     "en": "My colleague (female) lives in the apartment building and has to wash her clothes downstairs",
-    "de": "Meine Kollegin wohnung im Mehrfamilienhaus und muss ihre Kleidung unten waschen",
+    "de": "Meine Kollegin wohnt im Mehrfamilienhaus und muss ihre Kleidung unten waschen",
     "groupCode": 1
   },
   {
@@ -9436,7 +9436,7 @@
   },
   {
     "id": 11551,
-    "en": "When must we meet?",
+    "en": "When must we meet us (each other)?",
     "de": "Wann müssen wir uns treffen?",
     "groupCode": 1
   },
@@ -9478,7 +9478,7 @@
   },
   {
     "id": 11558,
-    "en": "My nephew and niece are coming to the concert with",
+    "en": "My nephew and my niece are coming to the concert with",
     "de": "Mein Neffe und meine Nichte kommen ins Konzert mit",
     "groupCode": 1
   },
@@ -9492,6 +9492,318 @@
     "id": 11560,
     "en": "When are you making your trip?",
     "de": "Wann machst du deine Reise?",
+    "groupCode": 1
+  },
+  {
+    "id": 11561,
+    "en": "The old chair is broken",
+    "de": "Der alte Stuhl ist kaputt",
+    "groupCode": 1
+  },
+  {
+    "id": 11562,
+    "en": "I throw the red ball",
+    "de": "Ich werfe den roten Ball",
+    "groupCode": 1
+  },
+  {
+    "id": 11563,
+    "en": "I give the little dog water",
+    "de": "Ich gebe dem kleinen Hund Wasser",
+    "groupCode": 1
+  },
+  {
+    "id": 11564,
+    "en": "The color of the long river is blue",
+    "de": "Die Farbe des langen Flusses ist blau",
+    "groupCode": 1
+  },
+  {
+    "id": 11565,
+    "en": "A new coat hangs on the door",
+    "de": "Ein neuer Mantel hängt an der Tür",
+    "groupCode": 1
+  },
+  {
+    "id": 11566,
+    "en": "I find a black shoe",
+    "de": "Ich finde einen schwarzen Schuh",
+    "groupCode": 1
+  },
+  {
+    "id": 11567,
+    "en": "I help a young man",
+    "de": "Ich helfe einem jungen Mann",
+    "groupCode": 1
+  },
+  {
+    "id": 11568,
+    "en": "The flowers of a beautiful garden are colorful?",
+    "de": "Die Blumen eines schönen Gartens sind bunt?",
+    "groupCode": 1
+  },
+  {
+    "id": 11569,
+    "en": "Big bird flying in the sky",
+    "de": "Großer Vogel fliegt am Himmel",
+    "groupCode": 1
+  },
+  {
+    "id": 11570,
+    "en": "I take fast bus",
+    "de": "Ich nehme schnellen Bus",
+    "groupCode": 1
+  },
+  {
+    "id": 11571,
+    "en": "With cold tea doesn't taste good",
+    "de": "Mit kaltem Tee schmeckt es nicht gut",
+    "groupCode": 1
+  },
+  {
+    "id": 11572,
+    "en": "The water of the small lake is clear",
+    "de": "Das Wasser kleinen Sees ist klar",
+    "groupCode": 1
+  },
+  {
+    "id": 11573,
+    "en": "The white flower is beautiful",
+    "de": "Die weiße Blume ist schön",
+    "groupCode": 1
+  },
+  {
+    "id": 11574,
+    "en": "I have the big bag",
+    "de": "Ich habe die große Tasche",
+    "groupCode": 1
+  },
+  {
+    "id": 11575,
+    "en": "I live in the old town",
+    "de": "Ich wohne in der alten Stadt",
+    "groupCode": 1
+  },
+  {
+    "id": 11576,
+    "en": "The name of the long street is Müllerstraße",
+    "de": "Der Name der langen Straße ist Müllerstraße",
+    "groupCode": 1
+  },
+  {
+    "id": 11577,
+    "en": "A new watch lies on the table",
+    "de": "Eine neue Uhr liegt auf dem Tisch",
+    "groupCode": 1
+  },
+  {
+    "id": 11578,
+    "en": "I buy a blue jacket",
+    "de": "Ich kaufe eine blaue Jacke",
+    "groupCode": 1
+  },
+  {
+    "id": 11579,
+    "en": "I am writing a letter to a nice woman",
+    "de": "Ich schreibe einer netten Frau einen Brief",
+    "groupCode": 1
+  },
+  {
+    "id": 11580,
+    "en": "The weather of a beautiful island is warm?",
+    "de": "Das Wetter einer schönen Insel ist warm?",
+    "groupCode": 1
+  },
+  {
+    "id": 11581,
+    "en": "Little cat sleeping in the basket",
+    "de": "Kleine Katze schläft im Korb",
+    "groupCode": 1
+  },
+  {
+    "id": 11582,
+    "en": "He picks red rose",
+    "de": "Er pflückt rote Rose",
+    "groupCode": 1
+  },
+  {
+    "id": 11583,
+    "en": "I am not happy with cold soup",
+    "de": "Mit kalter Suppe bin ich nicht glücklich",
+    "groupCode": 1
+  },
+  {
+    "id": 11584,
+    "en": "The light of new lamp is bright",
+    "de": "Das Licht neuer Lampe ist hell",
+    "groupCode": 1
+  },
+  {
+    "id": 11585,
+    "en": "The little house is yellow",
+    "de": "Das kleine Haus ist gelb",
+    "groupCode": 1
+  },
+  {
+    "id": 11586,
+    "en": "I open the large window",
+    "de": "Ich öffne das große Fenster",
+    "groupCode": 1
+  },
+  {
+    "id": 11587,
+    "en": "I read the new book",
+    "de": "Ich lese in dem neuen Buch",
+    "groupCode": 1
+  },
+  {
+    "id": 11588,
+    "en": "The door of the red car is open",
+    "de": "Die Tür des roten Autos ist offen",
+    "groupCode": 1
+  },
+  {
+    "id": 11589,
+    "en": "A beautiful dress hangs in the closet",
+    "de": "Ein schönes Kleid hängt im Schrank",
+    "groupCode": 1
+  },
+  {
+    "id": 11590,
+    "en": "I have a warm bed",
+    "de": "Ich habe ein warmes Bett",
+    "groupCode": 1
+  },
+  {
+    "id": 11591,
+    "en": "I'm sitting in a cold room",
+    "de": "Ich sitze in einem kalten Zimmer",
+    "groupCode": 1
+  },
+  {
+    "id": 11592,
+    "en": "The capital of a small country is Vienna",
+    "de": "Die Hauptstadt eines kleinen Landes ist Wien",
+    "groupCode": 1
+  },
+  {
+    "id": 11593,
+    "en": "New hotel is by the sea",
+    "de": "Neues Hotel steht am Meer",
+    "groupCode": 1
+  },
+  {
+    "id": 11594,
+    "en": "I repair old radio",
+    "de": "Ich repariere altes Radio",
+    "groupCode": 1
+  },
+  {
+    "id": 11595,
+    "en": "With a large boat we travel across the lake",
+    "de": "Mit großem Boot fahren wir über den See",
+    "groupCode": 1
+  },
+  {
+    "id": 11596,
+    "en": "The windows of tall buildings are clean",
+    "de": "Die Fenster hohen Gebäudes sind sauber",
+    "groupCode": 1
+  },
+  {
+    "id": 11597,
+    "en": "The red shoes are expensive",
+    "de": "Die roten Schuhe sind teuer",
+    "groupCode": 1
+  },
+  {
+    "id": 11598,
+    "en": "I read the old books",
+    "de": "Ich lese die alten Bücher",
+    "groupCode": 1
+  },
+  {
+    "id": 11599,
+    "en": "I give the little children candy",
+    "de": "Ich gebe den kleinen Kindern Bonbons",
+    "groupCode": 1
+  },
+  {
+    "id": 11600,
+    "en": "The end of the long nights is near",
+    "de": "Das Ende der langen Nächte ist nah",
+    "groupCode": 1
+  },
+  {
+    "id": 11601,
+    "en": "I don't have any nice pictures",
+    "de": "Ich habe keine schönen Bilder",
+    "groupCode": 1
+  },
+  {
+    "id": 11602,
+    "en": "We don't buy large cups",
+    "de": "Wir kaufen keine großen Tassen",
+    "groupCode": 1
+  },
+  {
+    "id": 11603,
+    "en": "We do not drive any new cars",
+    "de": "Mit keinen neuen Autos fahren wir",
+    "groupCode": 1
+  },
+  {
+    "id": 11604,
+    "en": "The beginning of no cold days is in May",
+    "de": "Der Anfang keiner kalten Tage ist im Mai",
+    "groupCode": 1
+  },
+  {
+    "id": 11605,
+    "en": "New songs are on the radio",
+    "de": "Neue Lieder sind im Radio",
+    "groupCode": 1
+  },
+  {
+    "id": 11606,
+    "en": "He watches old movies",
+    "de": "Er sieht alte Filme",
+    "groupCode": 1
+  },
+  {
+    "id": 11607,
+    "en": "I'm tired of (with) long journeys",
+    "de": "Mit langen Wegen bin ich müde",
+    "groupCode": 1
+  },
+  {
+    "id": 11608,
+    "en": "The names of beautiful cities are known",
+    "de": "Die Namen schöner Städte sind bekannt",
+    "groupCode": 1
+  },
+  {
+    "id": 11609,
+    "en": "I want to buy an envelope and a stamp in order to send this letter",
+    "de": "Ich will einen Briefumschlag und eine Briefmarke kaufen um diesen Brief zu verschicken",
+    "groupCode": 1
+  },
+  {
+    "id": 11610,
+    "en": "Task, Exercise",
+    "de": "Aufgabe, Übung",
+    "groupCode": 1
+  },
+  {
+    "id": 11611,
+    "en": "We must to arrange an appointment",
+    "de": "Wir müssen einen Termin vereinbaren",
+    "groupCode": 1
+  },
+  {
+    "id": 11612,
+    "en": "Please give me a notification",
+    "de": "Gib mir bitte Bescheid",
     "groupCode": 1
   }
 ]
