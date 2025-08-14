@@ -807,7 +807,7 @@
   },
   {
     "id": 3132,
-    "fa": "بیا در اینجا بعضی نظرات را بگیریم. این چیزها به یک دلیلی اتفاق می افتند",
+    "fa": "بیا بگیریم بعضی نظرات را اینجا. این چیزها اتفاق می افتند برای یک دلیلی",
     "en": "Let's get some perspective here. These things happen for a reason",
     "groupCode": 0
   },
@@ -8027,7 +8027,7 @@
   },
   {
     "id": 4316,
-    "fa": "او (مرد) از نظر مالی به دردسر افتاده (داخل آب داغ افتادن) بعد از از دست دادن کارش",
+    "fa": "او (مرد) در دردسر مالی است (داخل آب داغ افتادن) بعد از از دست دادن کارش",
     "en": "He's in financial hot water after losing his job",
     "groupCode": 0
   },
@@ -8249,7 +8249,7 @@
   },
   {
     "id": 4353,
-    "fa": "شکارچی تله گذاشت (دام گذاشت) برای گرفتن خرگوش ها",
+    "fa": "شکارچی یک تله گذاشت (دام گذاشت) تا بگیرد خرگوش ها",
     "en": "The hunter set a snare to catch rabbits",
     "groupCode": 0
   },
@@ -8267,7 +8267,7 @@
   },
   {
     "id": 4356,
-    "fa": "این شرکت صرفه جو است و ذخیره می کند (صرفه جویی می کند) در حدود یک میلیون دلار در سال با کاهش دادن ۱۰ تا ۱۵ کارمند",
+    "fa": "این شرکت صرفه جو است و ذخیره می کند (صرفه جویی می کند) در حدود یک میلیون دلار در یک سال با کاهش دادن ۱۰ تا ۱۵ کارمند",
     "en": "The company is frugal and saves about a million dollars a year by reducing 10 to 15 employees",
     "groupCode": 0
   },
@@ -8299,6 +8299,42 @@
     "id": 4361,
     "fa": "من نیاز دارم بخرم یک پاکت و یک تمبر برای پست کردن این نامه",
     "en": "I need to buy an envelope and a stamp to mail this letter",
+    "groupCode": 0
+  },
+  {
+    "id": 4362,
+    "fa": "البته، من احساس ناراحتی کردم وقتی تو به من بی احترامی کردی",
+    "en": "Of course, I felt hurt when you snubbed me",
+    "groupCode": 0
+  },
+  {
+    "id": 4363,
+    "fa": "اونا بهت پیشنهاد کار دادن. فکری کردن نداره. بگیرش",
+    "en": "They offered you the job. It's no brainer. Take it",
+    "groupCode": 0
+  },
+  {
+    "id": 4364,
+    "fa": "ما داشتیم یک کوچک کمی مصیبت در سفرمان",
+    "en": "We had a little mishap on our trip",
+    "groupCode": 0
+  },
+  {
+    "id": 4365,
+    "fa": "بمب تمام ساختمان را ویران کرد",
+    "en": "The bomb obliterated the entire building",
+    "groupCode": 0
+  },
+  {
+    "id": 4366,
+    "fa": "او (مرد) نبض نداره",
+    "en": "He has no pulse",
+    "groupCode": 0
+  },
+  {
+    "id": 4367,
+    "fa": "شما حاشیه نویسی کرده اید کلاس خود را، اما گرفته نشده است با تابع شما",
+    "en": "You annotated your class, but it is not being caught by your function",
     "groupCode": 0
   }
 ]

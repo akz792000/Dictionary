@@ -9454,7 +9454,7 @@
   },
   {
     "id": 11554,
-    "en": "You must bring a suit for the opera",
+    "en": "You must bring along a suit for the opera",
     "de": "Du musst einen Anzug für die Oper mitbringen",
     "groupCode": 1
   },
@@ -9484,7 +9484,7 @@
   },
   {
     "id": 11559,
-    "en": "Do you think your girlfriend can come along?",
+    "en": "Do you guess your girlfriend can come along?",
     "de": "Glaubst du deine Freundin kann mitkommen?",
     "groupCode": 1
   },
@@ -9496,86 +9496,86 @@
   },
   {
     "id": 11561,
-    "en": "\n 1.The old chair is broken \n 2.The white flower is beautiful \n 3.The little house is yellow \n 4.The red shoes are expensive",
+    "en": "Adjective With Definite Article Nominative \n\n\n 1.The old chair is broken \n 2.The white flower is beautiful \n 3.The little house is yellow \n 4.The red shoes are expensive",
     "de": "\n 1.Der alte Stuhl ist kaputt \n 2.Die weiße Blume ist schön \n 3.Das kleine Haus ist gelb \n 4.Die roten Schuhe sind teuer",
-    "desc": "Adjective With Definite Article Nominative: der + adj -e, fem: die + adj -e, neut: das + adj -e, plur: die + adj -en",
+    "desc": "Adjective With Definite Article Nominative \n mal: der + adj -e \n fem: die + adj -e \n neut: das + adj -e \n plur: die + adj -en",
     "groupCode": 1
   },
   {
     "id": 11562,
-    "en": "\n 1.I throw the red ball \n 2.I have the big bag \n 3.I open the large window \n 4.I read the old books",
+    "en": "Adjective With Definite Article Accusative \n\n\n 1.I throw the red ball \n 2.I have the big bag \n 3.I open the large window \n 4.I read the old books",
     "de": "\n 1.Ich werfe den roten Ball \n 2.Ich habe die große Tasche \n 3.Ich öffne das große Fenster \n 4.Ich lese die alten Bücher",
-    "desc": "Adjective With Definite Article Accusative: den + adj -en, fem: die + adj -e, neut: das + adj -e, plur: die + adj -en ",
+    "desc": "Adjective With Definite Article Accusative \n mal: den + adj -en \n fem: die + adj -e \n neut: das + adj -e \n plur: die + adj -en",
     "groupCode": 1
   },
   {
     "id": 11563,
-    "en": "\n 1.I give the little dog water \n 2.I live in the old town \n 3.I read in the new book \n 4.I give the little children candy",
-    "de": "\n 1.Ich gebe dem kleinen Hund Wasser  \n 2.Ich wohne in der alten Stadt \n 3.Ich lese in dem neuen Buch \n 4.Ich gebe den kleinen Kindern Bonbons",
-    "desc": "Adjective With Definite Article Dative: dem + adj -en, fem: der + adj -en, neut: dem + adj -en, plur: den + adj -en",
+    "en": "Adjective With Definite Article Dative \n\n\n 1.I give the little dog water \n 2.I live in the old town \n 3.I read in the new book \n 4.I give the little children candy",
+    "de": "\n 1.Ich gebe dem kleinen Hund Wasser \n 2.Ich wohne in der alten Stadt \n 3.Ich lese in dem neuen Buch \n 4.Ich gebe den kleinen Kindern Bonbons",
+    "desc": "Adjective With Definite Article Dative \n mal: dem + adj -en \n fem: der + adj -en \n neut: dem + adj -en \n plur: den + adj -en",
     "groupCode": 1
   },
   {
     "id": 11564,
-    "en": "\n 1.The color of the long river is blue \n 2.The name of the long street is Müllerstraße \n 3.The door of the red car is open \n 4.The end of the long nights is near",
+    "en": "Adjective With Definite Article Genitive \n\n\n 1.The color of the long river is blue \n 2.The name of the long street is Müllerstraße \n 3.The door of the red car is open \n 4.The end of the long nights is near",
     "de": "\n 1.Die Farbe des langen Flusses ist blau \n 2.Der Name der langen Straße ist Müllerstraße \n 3.Die Tür des roten Autos ist offen \n 4.Das Ende der langen Nächte ist nah",
-    "desc": "Adjective With Definite Article Genitive: des + adj -en, fem: der + adj -en, neut: des + adj -en, plur: der + adj -en \n Dative \n\n\n 1.Die Farbe von dem langen Fluss ist blau \n 2.Der Name von der langen Straße ist Müllerstraße \n 3.Die Tür von dem roten Auto ist offen \n 4.Das Ende von den langen Nächten ist nah",
+    "desc": "Adjective With Definite Article Genitive \n mal: des + adj -en \n fem: der + adj -en \n neut: des + adj -en \n plur: der + adj -en \n Dative \n\n\n 1.Die Farbe von dem langen Fluss ist blau \n 2.Der Name von der langen Straße ist Müllerstraße \n 3.Die Tür von dem roten Auto ist offen \n 4.Das Ende von den langen Nächten ist nah",
     "groupCode": 1
   },
   {
     "id": 11565,
-    "en": "\n 1.A new coat hangs on the door \n 2.A new watch lies on the table \n 3.A beautiful dress hangs in the closet \n 4.I don't have any nice pictures",
+    "en": "Adjective With Indefinite Article Nominative \n\n\n 1.A new coat hangs on the door \n 2.A new watch lies on the table \n 3.A beautiful dress hangs in the closet \n 4.I don't have any nice pictures",
     "de": "\n 1.Ein neuer Mantel hängt an der Tür \n 2.Eine neue Uhr liegt auf dem Tisch \n 3.Ein schönes Kleid hängt im Schrank  \n 4.Ich habe keine schönen Bilder",
-    "desc": "Adjective With Indefinite Article Nominative: ein + adj -er, fem: eine + adj -e, neut: ein + adj -es, plur: keine + adj -en",
+    "desc": "Adjective With Indefinite Article Nominative \n mal: ein + adj -er \n fem: eine + adj -e \n neut: ein + adj -es \n plur: keine + adj -en",
     "groupCode": 1
   },
   {
     "id": 11566,
-    "en": "\n I find a black shoe \n 2.I buy a blue jacket \n 3.I have a warm bed \n 4.We don't buy large cups",
+    "en": "Adjective With Indefinite Article Accusative \n\n\n 1.I find a black shoe \n 2.I buy a blue jacket \n 3.I have a warm bed \n 4.We don't buy large cups",
     "de": "\n Ich finde einen schwarzen Schuh \n 2.Ich kaufe eine blaue Jacke \n 3.Ich habe ein warmes Bett \n 4.Wir kaufen keine großen Tassen",
-    "desc": "Adjective With Indefinite Article Accusative: einen + adj -en, fem: eine + adj -e, neut: ein + adj -es, plur: keine + adj -en",
+    "desc": "Adjective With Indefinite Article Accusative \n mal: einen + adj -en \n fem: eine + adj -e \n neut: ein + adj -es \n plur: keine + adj -en",
     "groupCode": 1
   },
   {
     "id": 11567,
-    "en": "\n 1.I help a young man \n 2.I am writing a letter to a nice woman \n 3.I'm sitting in a cold room \n 4.We do not drive any new cars",
+    "en": "Adjective With Indefinite Article Dative \n\n\n 1.I help a young man \n 2.I am writing a letter to a nice woman \n 3.I'm sitting in a cold room \n 4.We do not drive any new cars",
     "de": "\n 1.Ich helfe einem jungen Mann \n 2.Ich schreibe einer netten Frau einen Brief \n 3.Ich sitze in einem kalten Zimmer \n 4.Wir fahren mit keinen neuen Autos",
-    "desc": "Adjective With Indefinite Article Dative: einem + adj -en, fem: einer + adj -en, neut: einem + adj -en, plur: keinen + adj -en",
+    "desc": "Adjective With Indefinite Article Dative \n mal: einem + adj -en \n fem: einer + adj -en \n neut: einem + adj -en \n plur: keinen + adj -en",
     "groupCode": 1
   },
   {
     "id": 11568,
-    "en": "\n 1.The flowers of a beautiful garden are colorful? \n 2.The weather of a beautiful island is warm? \n 3.The capital of a small country is Vienna \n 4.The beginning of no cold days is in May",
+    "en": "Adjective With Indefinite Article Genitive \n\n\n 1.The flowers of a beautiful garden are colorful? \n 2.The weather of a beautiful island is warm? \n 3.The capital of a small country is Vienna \n 4.The beginning of no cold days is in May",
     "de": "\n 1.Die Blumen eines schönen Gartens sind bunt? \n 2.Das Wetter einer schönen Insel ist warm? \n 3.Die Hauptstadt eines kleinen Landes ist Wien \n 4.Der Anfang keiner kalten Tage ist im Mai",
-    "desc": "Adjective With Indefinite Article Genitive: eines + adj -en, fem: einer + adj -en, neut: eines + adj -en, plur: keiner + adj -en \n Dative \n\n\n 1.Die Blumen von einem schönen Garten sind bunt \n 2.Das Wetter von einer schönen Insel ist warm \n 3.Die Hauptstadt von einem kleinen Land ist Wien \n 4.Der Anfang von keinen kalten Tagen ist im Mai",
+    "desc": "Adjective With Indefinite Article Genitive \n mal: eines + adj -en \n fem: einer + adj -en \n neut: eines + adj -en \n plur: keiner + adj -en \n Dative \n\n\n 1.Die Blumen von einem schönen Garten sind bunt \n 2.Das Wetter von einer schönen Insel ist warm \n 3.Die Hauptstadt von einem kleinen Land ist Wien \n 4.Der Anfang von keinen kalten Tagen ist im Mai",
     "groupCode": 1
   },
   {
     "id": 11569,
-    "en": "\n 1.Big bird flying in sky \n 2.Little cat sleeping in the basket \n 3.New hotel stands by the sea \n 4.New songs are on the radio",
+    "en": "Adjective With No Article Nominative \n\n\n 1.Big bird flying in sky \n 2.Little cat sleeping in the basket \n 3.New hotel stands by the sea \n 4.New songs are on the radio",
     "de": "\n 1.Großer Vogel fliegt am Himmel \n 2.Kleine Katze schläft im Korb \n 3.Neues Hotel steht am Meer \n 4.Neue Lieder sind im Radio",
-    "desc": "Adjective With No Article Nominative: adj -er, fem: adj -e, neut: adj -es, plur: adj -e",
+    "desc": "Adjective With No Article Nominative \n mal: adj -er \n fem: adj -e \n neut: adj -es \n plur: adj -e",
     "groupCode": 1
   },
   {
     "id": 11570,
-    "en": "\n 1.I take fast bus \n 2.He picks red Rose \n 3.I repair old radio \n 4.He watches old movies",
+    "en": "Adjective With No Article Accusative \n\n\n 1.I take fast bus \n 2.He picks red Rose \n 3.I repair old radio \n 4.He watches old movies",
     "de": "\n 1.Ich nehme schnellen Bus \n 2.Er pflückt rote Rose \n 3.Ich repariere altes Radio \n 4.Er sieht alte Filme an",
-    "desc": "Adjective With No Article Accusative: adj -en, fem: adj -e, neut: adj -es, plur: adj -e",
+    "desc": "Adjective With No Article Accusative \n mal: adj -en \n fem: adj -e \n neut: adj -es \n plur: adj -e",
     "groupCode": 1
   },
   {
     "id": 11571,
-    "en": "\n 1.With cold tea doesn't taste good \n 2.I am not happy with cold soup \n 3.With a large boat we travel across the lake \n 4.I'm tired of (with) long journeys",
+    "en": "Adjective With No Article Dative \n\n\n 1.With cold tea doesn't taste good \n 2.I am not happy with cold soup \n 3.With a large boat we travel across the lake \n 4.I'm tired of (with) long journeys",
     "de": "\n 1.Mit kaltem Tee schmeckt es nicht gut \n 2.Mit kalter Suppe bin ich nicht glücklich \n 3.Mit großem Boot fahren wir über den See \n 4.Mit langen Wegen bin ich müde",
-    "desc": "Adjective With No Article Dative: adj -em, fem: adj -er, neut: adj -em, plur: adj -en",
+    "desc": "Adjective With No Article Dative \n mal: adj -em \n fem: adj -er \n neut: adj -em \n plur: adj -en",
     "groupCode": 1
   },
   {
     "id": 11572,
-    "en": "\n 1.The water of the small lake is clear \n 2.The light of the new lamp is bright \n 3.The window of the tall building is clean \n 4.The names of beautiful cities are known",
+    "en": "Adjective With No Article Genitive \n\n\n 1.The water of the small lake is clear \n 2.The light of the new lamp is bright \n 3.The window of the tall building is clean \n 4.The names of beautiful cities are known",
     "de": "\n 1.Das Wasser des kleinen Sees ist klar \n 2.Das Licht neuer Lampe ist hell \n 3.Das Fenster des hohen Gebäudes ist sauber \n 4.Die Namen schöner Städte sind bekannt",
-    "desc": "Adjective With No Article Genitive: adj -en, fem: adj -er, neut: adj -en, plur: adj -er \n Dative \n\n\n 1.Das Wasser von einem kleinen See ist klar \n 2.Das Licht von einer neuen Lampe ist hell \n 3.Die Fenster von dem hohen Gebäude sind sauber \n 4.Die Namen von schönen Städten sind bekannt",
+    "desc": "Adjective With No Article Genitive \n mal: adj -en \n fem: adj -er \n neut: adj -en \n plur: adj -er \n Dative \n\n\n 1.Das Wasser von einem kleinen See ist klar \n 2.Das Licht von einer neuen Lampe ist hell \n 3.Die Fenster von dem hohen Gebäude sind sauber \n 4.Die Namen von schönen Städten sind bekannt",
     "groupCode": 1
   },
   {
@@ -9670,7 +9670,7 @@
   },
   {
     "id": 11588,
-    "en": "",
+    "en": "I know. I knew. I have known",
     "de": "Ich kenne. Ich kannte. Ich habe gekannt",
     "groupCode": 1
   },
@@ -9730,7 +9730,7 @@
   },
   {
     "id": 11598,
-    "en": "",
+    "en": "I understand. I understood. I have understood",
     "de": "Ich verstehe. Ich verstand. Ich habe verstanden",
     "groupCode": 1
   },
@@ -9767,7 +9767,7 @@
   {
     "id": 11604,
     "en": "I read. I read. I read",
-    "de": "Ich lese. Ich las. Ich gelesen",
+    "de": "Ich lese. Ich las. Ich habe gelesen",
     "groupCode": 1
   },
   {
@@ -9840,6 +9840,18 @@
     "id": 11616,
     "en": "I reach. I reached. I have reached",
     "de": "Ich erreiche. Ich erreichte. Ich habe erricht",
+    "groupCode": 1
+  },
+  {
+    "id": 11617,
+    "en": "I open the door and then I close the door",
+    "de": "Ich mache die Tür auf und dann mache ich die Tür zu",
+    "groupCode": 1
+  },
+  {
+    "id": 11618,
+    "en": "I turn on the lamp and then I turn off the lamp",
+    "de": "Ich mache die Lampe an und dann mache ich die Lampe aus",
     "groupCode": 1
   }
 ]

@@ -13673,7 +13673,7 @@
   },
   {
     "id": 2251,
-    "fa": "به نظر می رسد داره هر روز بدتر می شود",
+    "fa": "انگار (به نظر می رسد شبیه) داره بدتر می شود هر روز",
     "en": "Seems like it's getting worse everyday",
     "groupCode": 0
   },
@@ -13757,8 +13757,8 @@
   },
   {
     "id": 2265,
-    "fa": "بچه ها با اشتیاق این معما را حل کردند تا قفل گنج پنهان را باز کنند",
-    "en": "The children eagerly solved the riddle to unlock the hidden treasure",
+    "fa": "بچه ها با اشتیاق این معما را حل کردند (گره گشایی شده) تا قفل گنج پنهان را باز کنند",
+    "en": "The children eagerly solved (unraveled) the riddle to unlock the hidden treasure",
     "groupCode": 0
   },
   {
@@ -14047,7 +14047,7 @@
   },
   {
     "id": 2313,
-    "fa": "او (زن) احساس کرد به معنای واقعی کلمه و بطور زشت غیر جذاب بعد از اتفاق شرم آور",
+    "fa": "او (زن) احساس کرد به معنای واقعی کلمه و بطور زشت غیر جذاب بعد از مصیبت شرم آور",
     "en": "She felt literally and hideously unattractive after the embarrassing mishap",
     "groupCode": 0
   },
