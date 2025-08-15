@@ -9814,7 +9814,7 @@
   },
   {
     "id": 11612,
-    "en": "Please give me a notification",
+    "en": "Please give me notification",
     "de": "Gib mir bitte Bescheid",
     "groupCode": 1
   },
@@ -9852,6 +9852,24 @@
     "id": 11618,
     "en": "I turn on the lamp and then I turn off the lamp",
     "de": "Ich mache die Lampe an und dann mache ich die Lampe aus",
+    "groupCode": 1
+  },
+  {
+    "id": 11619,
+    "en": "\n 1.The sun \n 2.The moon \n 3.The star \n 4.The sky \n 5.The cloud",
+    "de": "\n 1.Die Sonne \n 2.Der Mond \n 3.Der Stern \n 4.Der Himmel \n 5.Die Wolke",
+    "groupCode": 1
+  },
+  {
+    "id": 11620,
+    "en": "Don't ask me. At the moment nothing works for me at all (not at all)",
+    "de": "Frag mich nicht. Im Moment funktioniert bei mir gar nicht",
+    "groupCode": 1
+  },
+  {
+    "id": 11621,
+    "en": "Nice to see you",
+    "de": "Schön, dich zu sehen",
     "groupCode": 1
   }
 ]

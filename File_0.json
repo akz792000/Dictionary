@@ -6067,7 +6067,7 @@
   },
   {
     "id": 999,
-    "fa": "برات جا گرفتم",
+    "fa": "من برات یک جا گرفتم",
     "en": "I saved you a spot",
     "groupCode": 0
   },
@@ -9647,7 +9647,7 @@
   {
     "id": 1588,
     "fa": "دارم التماست می کنم, در را قفل کن",
-    "en": "I'm begging you, Lock the door",
+    "en": "\n 1.I'm begging you, Lock the door \n 2.I'm pleading with you, Lock the door",
     "groupCode": 0
   },
   {
@@ -14935,7 +14935,7 @@
   },
   {
     "id": 2459,
-    "fa": "اطمینان حاصل کنید شما درک واضحی از هزینه زندگی دارید و اینکه حقوق پیشنهاد شده (در حال حاضر) برای پوشش هزینه های شما کافی است",
+    "fa": "اطمینان حاصل کنید شما یک درک واضحی از هزینه زندگی دارید و اینکه حقوق پیشنهاد شده (در حال حاضر) کافی است تا پوشش دهد هزینه های شما را",
     "en": "Make sure you have a clear understanding of the cost of living and whether the salary being offered is sufficient to cover your expenses",
     "desc": "The salary being offered\":\n\nThis construction places emphasis on the fact that there is a salary, and it is currently being offered or presented. It's a more complete sentence where \"The salary\" is the subject, and \"being offered\" is a present participle phrase describing the current action.\n\"Offered-salary\":\n\nThis construction is a bit more concise and treats \"offered\" as an adjective modifying \"salary.\" It is common in some contexts, especially in titles or headings, to use this kind of hyphenated phrase for brevity. It places equal emphasis on both parts but may be considered more streamlined or technical.",
     "groupCode": 0

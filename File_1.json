@@ -7129,7 +7129,7 @@
   {
     "id": 4168,
     "fa": "من صبح از دنده ی چپ بلند شد (سمت اشتباه تخت) و کل صبح بداخلاق بودم",
-    "en": "I woke up on the wrong side of the bed and was grumpy all morning",
+    "en": "I woke up on the wrong side of the bed and was grumpy (cranky) all morning",
     "groupCode": 0
   },
   {
@@ -8021,7 +8021,7 @@
   },
   {
     "id": 4315,
-    "fa": "گوش کن تو حرومزاده! من قرار نیست خاتمه یابم به عنوان یک زن ۳۱ ساله طلاق گرفته با کمک هزینه دولتی. چون وکیل آشغالم یهو عذاب وجدان گرفت (داشت یه حمله ناگهانی وجدان)",
+    "fa": "گوش کن تو حرومزاده! من قرار نیست خاتمه یابم به عنوان یک ۳۱ ساله طلاق گرفته با کمک هزینه دولتی. چون وکیل آشغالم یهو عذاب وجدان گرفت (داشت یه حمله ناگهانی وجدان)",
     "en": "Listen you bastard! I am not going to end up as a 31 year old divorce on welfare. Because my scumbag attorney had a sudden attack of conscience",
     "groupCode": 0
   },
@@ -8303,7 +8303,7 @@
   },
   {
     "id": 4362,
-    "fa": "البته، من احساس ناراحتی کردم وقتی تو به من بی احترامی کردی",
+    "fa": "البته، من احساس ناراحتی (درد کشیدن) کردم وقتی تو به من بی احترامی کردی",
     "en": "Of course, I felt hurt when you snubbed me",
     "groupCode": 0
   },
@@ -8335,6 +8335,24 @@
     "id": 4367,
     "fa": "شما حاشیه نویسی کرده اید کلاس خود را، اما گرفته نشده است با تابع شما",
     "en": "You annotated your class, but it is not being caught by your function",
+    "groupCode": 0
+  },
+  {
+    "id": 4368,
+    "fa": "من با توجه مطلق (تقسیم نشده) گوش دادم",
+    "en": "I listened with undivided attention",
+    "groupCode": 0
+  },
+  {
+    "id": 4369,
+    "fa": "در کاتلین، رسم رایج این است قرار دادن اعضای عمومی اول و کمکی های خصوصی یا داخلی بعد",
+    "en": "In Kotlin, the common convention is to place public members first and private or internal helpers after",
+    "groupCode": 0
+  },
+  {
+    "id": 4370,
+    "fa": "در کاتلین، internal یک تغییر دهنده دسترسی است, یعنی مشاهده فقط درون همان ماژول",
+    "en": "In Kotlin, internal is an access modifier, it means visible only inside the same module",
     "groupCode": 0
   }
 ]
