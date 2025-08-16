@@ -9538,7 +9538,7 @@
   },
   {
     "id": 11567,
-    "en": "Adjective With Indefinite Article Dative \n\n\n 1.I help a young man \n 2.I am writing a letter to a nice woman \n 3.I'm sitting in a cold room \n 4.We do not drive any new cars",
+    "en": "Adjective With Indefinite Article Dative \n\n\n 1.I help a young man \n 2.I am writing a letter to a nice woman \n 3.I'm sitting in a cold room \n 4.We do not drive any (no) new cars",
     "de": "\n 1.Ich helfe einem jungen Mann \n 2.Ich schreibe einer netten Frau einen Brief \n 3.Ich sitze in einem kalten Zimmer \n 4.Wir fahren mit keinen neuen Autos",
     "desc": "Adjective With Indefinite Article Dative \n mal: einem + adj -en \n fem: einer + adj -en \n neut: einem + adj -en \n plur: keinen + adj -en",
     "groupCode": 1
@@ -9566,15 +9566,15 @@
   },
   {
     "id": 11571,
-    "en": "Adjective With No Article Dative \n\n\n 1.With cold tea doesn't taste good \n 2.I am not happy with cold soup \n 3.With a large boat we travel across the lake \n 4.I'm tired of (with) long journeys",
+    "en": "Adjective With No Article Dative \n\n\n 1.With cold tea it doesn't taste good \n 2.I am not happy with cold soup \n 3.With a large boat we travel across the lake \n 4.With long journeys I'm tired",
     "de": "\n 1.Mit kaltem Tee schmeckt es nicht gut \n 2.Mit kalter Suppe bin ich nicht glücklich \n 3.Mit großem Boot fahren wir über den See \n 4.Mit langen Wegen bin ich müde",
     "desc": "Adjective With No Article Dative \n mal: adj -em \n fem: adj -er \n neut: adj -em \n plur: adj -en",
     "groupCode": 1
   },
   {
     "id": 11572,
-    "en": "Adjective With No Article Genitive \n\n\n 1.The water of the small lake is clear \n 2.The light of the new lamp is bright \n 3.The window of the tall building is clean \n 4.The names of beautiful cities are known",
-    "de": "\n 1.Das Wasser des kleinen Sees ist klar \n 2.Das Licht neuer Lampe ist hell \n 3.Das Fenster des hohen Gebäudes ist sauber \n 4.Die Namen schöner Städte sind bekannt",
+    "en": "Adjective With No Article Genitive \n\n\n 1.The water of the small lakes is clear \n 2.The light of the new lamp is bright \n 3.The window of the tall building is clean \n 4.The names of beautiful cities are known",
+    "de": "\n 1.Das Wasser des kleinen Sees ist klar \n 2.Das Licht neuer Lampe ist hell \n 3.Das Fenster des hohen (plural of hoch) Gebäudes ist sauber \n 4.Die Namen schöner Städte sind bekannt",
     "desc": "Adjective With No Article Genitive \n mal: adj -en \n fem: adj -er \n neut: adj -en \n plur: adj -er \n Dative \n\n\n 1.Das Wasser von einem kleinen See ist klar \n 2.Das Licht von einer neuen Lampe ist hell \n 3.Die Fenster von dem hohen Gebäude sind sauber \n 4.Die Namen von schönen Städten sind bekannt",
     "groupCode": 1
   },
@@ -9833,7 +9833,7 @@
   {
     "id": 11615,
     "en": "I tell. I told. I have told",
-    "de": "Ich erzähle. Ich erzähle. Ich habe erzählt",
+    "de": "Ich erzähle. Ich erzählte. Ich habe erzählt",
     "groupCode": 1
   },
   {
@@ -9869,7 +9869,7 @@
   {
     "id": 11621,
     "en": "Nice to see you",
-    "de": "Schön, dich zu sehen",
+    "de": "Schön dich zu sehen",
     "groupCode": 1
   }
 ]

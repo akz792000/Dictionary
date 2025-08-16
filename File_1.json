@@ -8354,5 +8354,11 @@
     "fa": "در کاتلین، internal یک تغییر دهنده دسترسی است, یعنی مشاهده فقط درون همان ماژول",
     "en": "In Kotlin, internal is an access modifier, it means visible only inside the same module",
     "groupCode": 0
+  },
+  {
+    "id": 4371,
+    "fa": "همزمانی است در مورد سوییچ بین وظایف بسیاری به طور همزمان (یکباره) اما موازی سازی است در مورد هندل کردن وظایف بسیاری به طور همزمان (یکباره)",
+    "en": "Concurrency is about switching between different tasks at once but parallelism is about handling many tasks at once",
+    "groupCode": 0
   }
 ]
