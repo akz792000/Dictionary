@@ -7219,7 +7219,7 @@
   },
   {
     "id": 11187,
-    "en": "Do you (formal) like that black jacket over there?",
+    "en": "Do you (formal) like the black jacket over there?",
     "de": "Mögen sie die schwarze Jacke da drüben?",
     "groupCode": 1
   },
@@ -8539,7 +8539,7 @@
   },
   {
     "id": 11404,
-    "en": "Could you please bring me a coffee? Yes, it's coming immediately",
+    "en": "Could you (formal) please bring me a coffee? Yes, it's coming immediately",
     "de": "Konnten Sie mir bitte einen Kaffee bringen? Ja, kommt sofort",
     "desc": "Subject + bringen + Dative (to whom) + Accusative (what)\n\nExample:\n\nIch bringe dir ein Buch.\n→ I bring you a book.\n→ „dir“ = Dative (to you)\n→ „ein Buch“ = Accusative (the book)",
     "groupCode": 1
@@ -9014,6 +9014,7 @@
     "id": 11481,
     "en": "Everyone pays the drinks alone (by oneself)",
     "de": "Die Getränke zahlt jeder allein",
+    "desc": "zahlen → pay an amount. (Ich zahle zehn Euro.)\n\nbezahlen → pay for something. (Ich bezahle die Rechnung.)",
     "groupCode": 1
   },
   {
@@ -9122,7 +9123,7 @@
   {
     "id": 11499,
     "en": "I came with my car",
-    "de": "Ich habe mit meinem Auto gekommen",
+    "de": "Ich bin mit meinem Auto gekommen",
     "groupCode": 1
   },
   {
@@ -9338,7 +9339,7 @@
   },
   {
     "id": 11535,
-    "en": "He goes to (he attends) school. He goes into the school. He goes to the school",
+    "en": "He goes to (he attends) school. He goes into the school. He goes to (toward) the school",
     "de": "Er geht auf die Schule. Er geht in die Schule. Er geht zur Schule",
     "desc": "auf die Schule gehen → idiomatic for attending a certain school.\n\nin die Schule gehen → physically entering the school building.\n\nzur Schule gehen → going in the direction of the school.",
     "groupCode": 1
@@ -9538,7 +9539,7 @@
   },
   {
     "id": 11567,
-    "en": "Adjective With Indefinite Article Dative \n\n\n 1.I help a young man \n 2.I am writing a letter to a nice woman \n 3.I'm sitting in a cold room \n 4.We do not drive any (no) new cars",
+    "en": "Adjective With Indefinite Article Dative \n\n\n 1.I help a young man \n 2.I am writing a letter to a nice woman \n 3.I'm sitting in a cold room \n 4.We drive with no new cars",
     "de": "\n 1.Ich helfe einem jungen Mann \n 2.Ich schreibe einer netten Frau einen Brief \n 3.Ich sitze in einem kalten Zimmer \n 4.Wir fahren mit keinen neuen Autos",
     "desc": "Adjective With Indefinite Article Dative \n mal: einem + adj -en \n fem: einer + adj -en \n neut: einem + adj -en \n plur: keinen + adj -en",
     "groupCode": 1
@@ -9566,15 +9567,15 @@
   },
   {
     "id": 11571,
-    "en": "Adjective With No Article Dative \n\n\n 1.With cold tea it doesn't taste good \n 2.I am not happy with cold soup \n 3.With a large boat we travel across the lake \n 4.With long journeys I'm tired",
+    "en": "Adjective With No Article Dative \n\n\n 1.With cold tea it doesn't taste good \n 2.With cold soup I am not happy \n 3.With a large boat we travel across (above) the lake \n 4.With long journeys I'm tired",
     "de": "\n 1.Mit kaltem Tee schmeckt es nicht gut \n 2.Mit kalter Suppe bin ich nicht glücklich \n 3.Mit großem Boot fahren wir über den See \n 4.Mit langen Wegen bin ich müde",
     "desc": "Adjective With No Article Dative \n mal: adj -em \n fem: adj -er \n neut: adj -em \n plur: adj -en",
     "groupCode": 1
   },
   {
     "id": 11572,
-    "en": "Adjective With No Article Genitive \n\n\n 1.The water of the small lakes is clear \n 2.The light of the new lamp is bright \n 3.The window of the tall building is clean \n 4.The names of beautiful cities are known",
-    "de": "\n 1.Das Wasser des kleinen Sees ist klar \n 2.Das Licht neuer Lampe ist hell \n 3.Das Fenster des hohen (plural of hoch) Gebäudes ist sauber \n 4.Die Namen schöner Städte sind bekannt",
+    "en": "Adjective With No Article Genitive \n\n\n 1.The water of the small lakes is clear \n 2.The light of the new lamp is bright \n 3.The window of the tall buildings is clean \n 4.The names of beautiful cities are known",
+    "de": "\n 1.Das Wasser des kleinen Sees ist klar \n 2.Das Licht der neuen Lampe ist hell \n 3.Das Fenster des hohen (plural of hoch) Gebäudes ist sauber \n 4.Die Namen schöner Städte sind bekannt",
     "desc": "Adjective With No Article Genitive \n mal: adj -en \n fem: adj -er \n neut: adj -en \n plur: adj -er \n Dative \n\n\n 1.Das Wasser von einem kleinen See ist klar \n 2.Das Licht von einer neuen Lampe ist hell \n 3.Die Fenster von dem hohen Gebäude sind sauber \n 4.Die Namen von schönen Städten sind bekannt",
     "groupCode": 1
   },
@@ -9862,7 +9863,7 @@
   },
   {
     "id": 11620,
-    "en": "Don't ask me. At the moment nothing works for me at all (not at all)",
+    "en": "Don't ask me. At the moment nothing works (function) for me at all (not at all)",
     "de": "Frag mich nicht. Im Moment funktioniert bei mir gar nicht",
     "groupCode": 1
   },
@@ -9870,6 +9871,30 @@
     "id": 11621,
     "en": "Nice to see you",
     "de": "Schön dich zu sehen",
+    "groupCode": 1
+  },
+  {
+    "id": 11622,
+    "en": "\n 1.The Computer \n 2.The TV \n 3.The Radio \n 4.The Kamera \n 5.The Keyboard",
+    "de": "\n 1.Der Computer \n 2.Der Fernseher \n 3.Das Radio \n 4.Die Kamera \n 5.Die Tastatur",
+    "groupCode": 1
+  },
+  {
+    "id": 11623,
+    "en": "The department store is only open (emphazise) (for a) short time",
+    "de": "Das Kaufhaus ist nur noch kurze Zeit geöffnet",
+    "groupCode": 1
+  },
+  {
+    "id": 11624,
+    "en": "We have nothing in common at all (together)",
+    "de": "Wir haben überhaupt nichts gemeinsam",
+    "groupCode": 1
+  },
+  {
+    "id": 11625,
+    "en": "\n 1.The booklet \n 2.The Ruller",
+    "de": "\n 1.Das Heft \n 2.Das Lineal",
     "groupCode": 1
   }
 ]

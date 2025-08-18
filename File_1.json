@@ -8303,7 +8303,7 @@
   },
   {
     "id": 4362,
-    "fa": "البته، من احساس ناراحتی (درد کشیدن) کردم وقتی تو به من بی احترامی کردی",
+    "fa": "البته، من احساس ناراحتی (درد کشیدن) کردم وقتی تو مرا نادیده گرفتی",
     "en": "Of course, I felt hurt when you snubbed me",
     "groupCode": 0
   },
@@ -8359,6 +8359,12 @@
     "id": 4371,
     "fa": "همزمانی است در مورد سوییچ بین وظایف بسیاری به طور همزمان (یکباره) اما موازی سازی است در مورد هندل کردن وظایف بسیاری به طور همزمان (یکباره)",
     "en": "Concurrency is about switching between different tasks at once but parallelism is about handling many tasks at once",
+    "groupCode": 0
+  },
+  {
+    "id": 4372,
+    "fa": "میتونی شما تسریع کنی اعزام سفارشمو؟",
+    "en": "Can you expedite the dispatch of my order?",
     "groupCode": 0
   }
 ]
