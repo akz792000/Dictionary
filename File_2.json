@@ -9567,7 +9567,7 @@
   },
   {
     "id": 11571,
-    "en": "Adjective With No Article Dative \n\n\n 1.With cold tea it doesn't taste good \n 2.With cold soup I am not happy \n 3.With a large boat we travel across (above) the lake \n 4.With long journeys I'm tired",
+    "en": "Adjective With No Article Dative \n\n\n 1.With cold tea it doesn't taste good \n 2.With cold soup I am not happy \n 3.With a large boat we travel (drive) across (above) the lake \n 4.With long journeys I'm tired",
     "de": "\n 1.Mit kaltem Tee schmeckt es nicht gut \n 2.Mit kalter Suppe bin ich nicht glücklich \n 3.Mit großem Boot fahren wir über den See \n 4.Mit langen Wegen bin ich müde",
     "desc": "Adjective With No Article Dative \n mal: adj -em \n fem: adj -er \n neut: adj -em \n plur: adj -en",
     "groupCode": 1
@@ -9756,7 +9756,7 @@
   {
     "id": 11602,
     "en": "I drink. I drank. I have drunk",
-    "de": "Ich trinke. Ich trank. Ich hab getrunken",
+    "de": "Ich trinke. Ich trank. Ich habe getrunken",
     "groupCode": 1
   },
   {
@@ -9895,6 +9895,48 @@
     "id": 11625,
     "en": "\n 1.The booklet \n 2.The Ruller",
     "de": "\n 1.Das Heft \n 2.Das Lineal",
+    "groupCode": 1
+  },
+  {
+    "id": 11626,
+    "en": "\n 1.The tomato \n 2.The cucumber \n 3.The carrot \n 4. he onion \n 5.The lettuce",
+    "de": "\n 1.Die Tomate \n 2.Der Gurke \n 3.Die Karotte \n 4.Die Zwiebel \n 5.Der Salat",
+    "groupCode": 1
+  },
+  {
+    "id": 11627,
+    "en": "What is compatible with the German Basic Law? The fine",
+    "de": "Was ist mit dem deutschen Grundgesetz vereinbar? Die Geldstrafe",
+    "groupCode": 1
+  },
+  {
+    "id": 11628,
+    "en": "\n 1.Compatible \n 2.To arrange (To agree on)",
+    "de": "\n 1.Vereinbar \n 2.vereinbaren",
+    "groupCode": 1
+  },
+  {
+    "id": 11629,
+    "en": "Can I see the menu, please?",
+    "de": "Kann ich bitte die Speisekarte sehen?",
+    "groupCode": 1
+  },
+  {
+    "id": 11630,
+    "en": "I would like to pay please",
+    "de": "Ich möchte bitte bezahlen",
+    "groupCode": 1
+  },
+  {
+    "id": 11631,
+    "en": "I'm eating a red apple for breakfast today",
+    "de": "Ich esse heute einen roten Apfel zum frühstück",
+    "groupCode": 1
+  },
+  {
+    "id": 11632,
+    "en": "This morning I chose a fresh red apple for breakfast",
+    "de": "Heute Morgen habe ich mir einen frischen roten Apfel zum Frühstück ausgesucht",
     "groupCode": 1
   }
 ]

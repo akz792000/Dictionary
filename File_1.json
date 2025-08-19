@@ -8366,5 +8366,41 @@
     "fa": "میتونی شما تسریع کنی اعزام سفارشمو؟",
     "en": "Can you expedite the dispatch of my order?",
     "groupCode": 0
+  },
+  {
+    "id": 4373,
+    "fa": "من رزومه شما را بررسی کردم (رفتم داخل) و از دیدگاه من، شما دانش و تجربه زیادی دارید",
+    "en": "I went through your resume, and from my perspective, you have a lot of knowledge and experience",
+    "groupCode": 0
+  },
+  {
+    "id": 4374,
+    "fa": "حتی اگر مزیتی داشته باشد، فقط اعمال می شود (فرضی) به شخصی (که) شما را معرفی می کند",
+    "en": "Even if there were a benefit, it would only apply to the person referring you",
+    "groupCode": 0
+  },
+  {
+    "id": 4375,
+    "fa": "من مورد کمی انتقاد قرار خواهم گرفت در رابطه با آن (گرما)",
+    "en": "I'll get a little heat on that one",
+    "groupCode": 0
+  },
+  {
+    "id": 4376,
+    "fa": "مدیر قصد داری مورد انتقاد (گرما) قرار بگیرد اگر این پروژه شکست بخورد",
+    "en": "The manager is gonna get heat if this project fails",
+    "groupCode": 0
+  },
+  {
+    "id": 4377,
+    "fa": "شهردار مورد انتقاد (گرما) قرار گرفت پس از افزایش مالیات ها",
+    "en": "The mayor got heat after raising taxes",
+    "groupCode": 0
+  },
+  {
+    "id": 4378,
+    "fa": "من مورد انتقاد (گرما) قرار خواهم گرفت از طرف همسرم اگر دوباره دیر کنم",
+    "en": "I'll get heat from my wife if I'm late again",
+    "groupCode": 0
   }
 ]
