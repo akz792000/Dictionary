@@ -10022,5 +10022,41 @@
     "en": "I have submitted my resignation",
     "de": "Ich habe meine Kündigung eingereicht",
     "groupCode": 1
+  },
+  {
+    "id": 11647,
+    "en": "When is the concert? It's on Friday evening",
+    "de": "Wann ist das Konzert? Es ist am Freitagabend",
+    "groupCode": 1
+  },
+  {
+    "id": 11648,
+    "en": "Your kitchen is much too small",
+    "de": "Deine Küche ist viel zu klein",
+    "groupCode": 1
+  },
+  {
+    "id": 11649,
+    "en": "How's it going?",
+    "de": "Wie läuft's?",
+    "groupCode": 1
+  },
+  {
+    "id": 11650,
+    "en": "Can I call you in fifteen minutes?",
+    "de": "Kann ich dich in fünfzehn Minuten anrufen?",
+    "groupCode": 1
+  },
+  {
+    "id": 11651,
+    "en": "My aunt is calling my nephew now",
+    "de": "Meine Tante ruft jetzt mein Neffte an",
+    "groupCode": 1
+  },
+  {
+    "id": 11652,
+    "en": "Congratulations",
+    "de": "Herzlichen Glückwunsch",
+    "groupCode": 1
   }
 ]
