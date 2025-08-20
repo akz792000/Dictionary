@@ -8375,7 +8375,7 @@
   },
   {
     "id": 4374,
-    "fa": "حتی اگر مزیتی داشته باشد، فقط اعمال می شود (فرضی) به شخصی (که) شما را معرفی می کند",
+    "fa": "حتی اگر یک مزیتی داشته باشد، فقط اعمال می شود (فرضی) به شخصی (که) شما را معرفی می کند",
     "en": "Even if there were a benefit, it would only apply to the person referring you",
     "groupCode": 0
   },
@@ -8401,6 +8401,24 @@
     "id": 4378,
     "fa": "من مورد انتقاد (گرما) قرار خواهم گرفت از طرف همسرم اگر دوباره دیر کنم",
     "en": "I'll get heat from my wife if I'm late again",
+    "groupCode": 0
+  },
+  {
+    "id": 4379,
+    "fa": "هر جور حسابش کنی, این یک پیشنهاد باخت است",
+    "en": "Anyway you slice it, it's a losing propoision",
+    "groupCode": 0
+  },
+  {
+    "id": 4380,
+    "fa": "اما خبر خوبی است, هر جور حسابش کنی",
+    "en": "But it's good news, any way you slice it",
+    "groupCode": 0
+  },
+  {
+    "id": 4381,
+    "fa": "دانشمند تست کرد فرضیه خودش (زن) با انجام دادن آزمایش ها",
+    "en": "The scientist tested her hypothesis /haɪˈpɑːθəsəs/ by conducting experiments",
     "groupCode": 0
   }
 ]
