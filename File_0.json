@@ -15587,7 +15587,7 @@
   },
   {
     "id": 2566,
-    "fa": "من یک مقدار قابل توجهی از بودجه را خرج گاز می کنم",
+    "fa": "من یک مقدار قابل توجهی از بودجه ها (وجوه) را خرج گاز می کنم",
     "en": "I expend a considerable amount of funds on gas",
     "groupCode": 0
   },
@@ -16622,8 +16622,9 @@
   },
   {
     "id": 2736,
-    "fa": "انسان بدون اخلاق است یک حیوان وحشی آزاد در جهان",
+    "fa": "انسان بدون اخلاق (اخلاق ها) است یک حیوان وحشی آزاد در جهان",
     "en": "A man without ethics is a wild animal free in the world",
+    "desc": "ethics = plural, refers to moral principles in general.\n\nethic (singular) is usually used in specific contexts, like the ethic of care.",
     "groupCode": 0
   },
   {

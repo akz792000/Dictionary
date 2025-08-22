@@ -1952,7 +1952,7 @@
   },
   {
     "id": 3319,
-    "fa": "نگران نباشید اگر گفتید بله - این یک احساس بسیار مشترک است",
+    "fa": "نگران نباشید اگر شما گفتید بله - این یک احساس بسیار مشترک است",
     "en": "Don't worry if you said yes - it's a very common feeling",
     "groupCode": 0
   },
@@ -8357,7 +8357,7 @@
   },
   {
     "id": 4371,
-    "fa": "همزمانی است در مورد سوییچ بین وظایف بسیاری به طور همزمان (یکباره) اما موازی سازی است در مورد هندل کردن وظایف بسیاری به طور همزمان (یکباره)",
+    "fa": "همزمانی است در مورد سوییچ کردن بین وظایف مختلف به یکباره (طور همزمان) اما موازی سازی است در مورد هندل کردن وظایف بسیاری به یکباره (طور همزمان)",
     "en": "Concurrency is about switching between different tasks at once but parallelism is about handling many tasks at once",
     "groupCode": 0
   },
@@ -8387,7 +8387,7 @@
   },
   {
     "id": 4376,
-    "fa": "مدیر قصد داری مورد انتقاد (گرما) قرار بگیرد اگر این پروژه شکست بخورد",
+    "fa": "از مدیر قراره انتقاد قرار بشه (مدیر قصد دارد انتقاد (گرما) بگیرد) اگر این پروژه شکست بخورد",
     "en": "The manager is gonna get heat if this project fails",
     "groupCode": 0
   },
@@ -8406,7 +8406,7 @@
   {
     "id": 4379,
     "fa": "هر جور حسابش کنی, این یک پیشنهاد باخت است",
-    "en": "Anyway you slice it, it's a losing propoision",
+    "en": "Anyway you slice it, it's a losing proposition",
     "groupCode": 0
   },
   {
@@ -8419,6 +8419,49 @@
     "id": 4381,
     "fa": "دانشمند تست کرد فرضیه خودش (زن) با انجام دادن آزمایش ها",
     "en": "The scientist tested her hypothesis /haɪˈpɑːθəsəs/ by conducting experiments",
+    "groupCode": 0
+  },
+  {
+    "id": 4382,
+    "fa": "کرامت انسانی مصون (از تعرض) خواهد بود (فرمان)",
+    "en": "Human dignity shall be inviolable",
+    "desc": "shall = obligation, rule, command.\n\nHuman dignity shall be inviolable. → It must not be violated.\n\nwill = future event or prediction.\n\nHuman dignity will be inviolable. → It is expected not to be violated in the future.",
+    "groupCode": 0
+  },
+  {
+    "id": 4383,
+    "fa": "آیا می توان به یک همسر خیانتکار اعتماد کرد دوباره؟",
+    "en": "Can a cheating wife ever be trusted again?",
+    "groupCode": 0
+  },
+  {
+    "id": 4384,
+    "fa": "پسر کوچولو به من داد یک دندان لق (لرزان) تا نگاه کنم",
+    "en": "The little boy gave me a wiggly tooth to look at",
+    "groupCode": 0
+  },
+  {
+    "id": 4385,
+    "fa": "لطفا با دقت گوش دهید",
+    "en": "Please listen attentively",
+    "groupCode": 0
+  },
+  {
+    "id": 4386,
+    "fa": "من سر پول باهاش قهر کردم و از اون موقع دیگه صحبتی نکرده ام",
+    "en": "I had a falling-out over money and haven't spoken since",
+    "groupCode": 0
+  },
+  {
+    "id": 4387,
+    "fa": "ما سر کار قهر کردیم",
+    "en": "We had a falling-out over work",
+    "groupCode": 0
+  },
+  {
+    "id": 4388,
+    "fa": "آرامش الانت رو مدیون چی هستی؟ من گفتم هر کاری که شده، شده و هر کاری که قرار بوده انجام بشه، انجام خواهد شد. پس من ترجیح میدم زندگی کنم",
+    "en": "What are you indebted to for your peace now? I said, whatever was done is done, and whatever is supposed to be done will be done. So, I prefer to live",
     "groupCode": 0
   }
 ]

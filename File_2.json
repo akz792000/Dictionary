@@ -5449,6 +5449,7 @@
     "id": 10895,
     "en": "My family eats a lot of meat. I always have to go into the butcher",
     "de": "Meine Familie isst viel Fleisch. Ich muss immer in die Metzgerei gehen",
+    "desc": "viel = uncountable → viel Fleisch (much meat)\n\nviele = countable plural → viele Äpfel (many apples)",
     "groupCode": 1
   },
   {
@@ -7417,7 +7418,7 @@
   },
   {
     "id": 11220,
-    "en": "You definitely (in any case) have to come to the party",
+    "en": "You definitely (in any case) have to come to (toward) the party",
     "de": "Du musst auf jeden Fall zur Party kommen",
     "groupCode": 1
   },
@@ -8949,7 +8950,7 @@
   },
   {
     "id": 11471,
-    "en": "There are no free spots in the student dormitory",
+    "en": "There are no free places in the student dormitory",
     "de": "Es gibt keine freien Plätze im Studentenwohnheim",
     "desc": "keine freien Plätze = \"no free places\" (grammatically: plural, accusative, adjective ending -en).",
     "groupCode": 1
@@ -9525,7 +9526,7 @@
   },
   {
     "id": 11565,
-    "en": "\n 1.A new coat hangs on the door \n 2.A new watch lies on the table \n 3.A beautiful dress hangs in the closet \n 4.I don't have any nice pictures",
+    "en": "\n 1.A new coat hangs on the door \n 2.A new watch lies on the table \n 3.A beautiful dress hangs in the closet \n 4.I don't have any beautiful pictures",
     "de": "\n 1.Ein neuer Mantel hängt an der Tür \n 2.Eine neue Uhr liegt auf dem Tisch \n 3.Ein schönes Kleid hängt im Schrank  \n 4.Ich habe keine schönen Bilder",
     "desc": "Adjective With Indefinite Article Nominative \n mal: ein + adj -er \n fem: eine + adj -e \n neut: ein + adj -es \n plur: keine + adj -en",
     "groupCode": 1
@@ -9553,7 +9554,7 @@
   },
   {
     "id": 11569,
-    "en": "\n 1.Big bird flying in sky \n 2.Little cat sleeping in the basket \n 3.New hotel stands by the sea \n 4.New songs are on the radio",
+    "en": "\n 1.Big bird flying in sky \n 2.Little cat sleeping in the basket \n 3.New hotel stands by the sea \n 4.New songs are on (in) the radio",
     "de": "\n 1.Großer Vogel fliegt am Himmel \n 2.Kleine Katze schläft im Korb \n 3.Neues Hotel steht am Meer \n 4.Neue Lieder sind im Radio",
     "desc": "Adjective With No Article Nominative \n mal: adj -er \n fem: adj -e \n neut: adj -es \n plur: adj -e",
     "groupCode": 1
@@ -9899,8 +9900,9 @@
   },
   {
     "id": 11626,
-    "en": "\n 1.The tomato \n 2.The cucumber \n 3.The carrot \n 4.The onion \n 5.The Salat",
-    "de": "\n 1.Die Tomate \n 2.Der Gurke \n 3.Die Karotte \n 4.Die Zwiebel \n 5.Der Salat",
+    "en": "\n The tomato \n The cucumber \n The carrot \n The onion \n The Salat \n The bowl \n The dishes",
+    "de": "\n Die Tomate \n Der Gurke \n Die Karotte \n Die Zwiebel \n Der Salat \n Die Schüssel \n Das Geschirr",
+    "desc": "the dishes / the crockery / the tableware\n\nRefers to plates, cups, bowls, and other items used for eating.\n\nExample:\n\nIch spüle das Geschirr. → I’m washing the dishes",
     "groupCode": 1
   },
   {
@@ -9971,25 +9973,25 @@
   },
   {
     "id": 11638,
-    "en": "\n The lake \n The sea \n The North Sea",
-    "de": "\n Der See \n Das Meer \n Die Nordsee",
+    "en": "\n The lake \n The sea \n The North Sea \n The mirror \n The stove \n The pillow",
+    "de": "\n Der See \n Das Meer \n Die Nordsee \n Der Spiegel \n der Herd \n Das Kissen",
     "groupCode": 1
   },
   {
     "id": 11639,
-    "en": "\n I choose \n I chose \n I have chosen",
+    "en": "I choose. I chose. I have chosen",
     "de": "Ich suche aus. Ich suchte aus. Ich habe ausgesucht",
     "groupCode": 1
   },
   {
     "id": 11640,
-    "en": "\n The Lemon \n The Grape \n The Banana \n The Cherry \n The Apple",
-    "de": "\n Die Zitrone \n Die Traube \n Die Banane \n Die Kirsche \n Der Apfel",
+    "en": "\n The Lemon \n The Grape \n The Banana \n The Cherry \n The Apple \n The Glass",
+    "de": "\n Die Zitrone \n Die Traube \n Die Banane \n Die Kirsche \n Der Apfel \n Das Glas",
     "groupCode": 1
   },
   {
     "id": 11641,
-    "en": "He called me yesterday to tell me that he doesn't want to sell his car",
+    "en": "He called me yesterday in order to tell me that he doesn't want to sell his car",
     "de": "Er hat mich gestern angerufen, um mir zu sagen, dass er sein Auto nicht verkaufen will",
     "groupCode": 1
   },
@@ -10057,6 +10059,114 @@
     "id": 11652,
     "en": "Congratulations",
     "de": "Herzlichen Glückwunsch",
+    "groupCode": 1
+  },
+  {
+    "id": 11653,
+    "en": "What does the German Basic Law prohibit? Forced labor",
+    "de": "Was verbietet das deutsche Grundgesetz? Zwangsarbeit",
+    "groupCode": 1
+  },
+  {
+    "id": 11654,
+    "en": "With what finances (funds) the German state the social insurance? Social taxes",
+    "de": "Womit finanziert der deutsche Staat die Sozialversicherung? Sozialabgaben",
+    "groupCode": 1
+  },
+  {
+    "id": 11655,
+    "en": "My sister sends the invitation for the party",
+    "de": "Meine Schwester schickt die Einladung für die Party",
+    "groupCode": 1
+  },
+  {
+    "id": 11656,
+    "en": "The surprise is for my boss and his wife",
+    "de": "Die Überraschung ist für meinen Chef und seine Frau",
+    "groupCode": 1
+  },
+  {
+    "id": 11657,
+    "en": "I send the invitation by post",
+    "de": "Ich schicke die Einladung per Post",
+    "groupCode": 1
+  },
+  {
+    "id": 11658,
+    "en": "My dad gives my mom a dog",
+    "de": "Mein Papa gibt meiner Mama einen Hund",
+    "groupCode": 1
+  },
+  {
+    "id": 11659,
+    "en": "Does your brother give his wife a chain?",
+    "de": "Gibst dein Bruder seiner Frau eine Kette?",
+    "groupCode": 1
+  },
+  {
+    "id": 11660,
+    "en": "Can we give your father a plant?",
+    "de": "Können wir deinen Vater eine Pflanze geben?",
+    "groupCode": 1
+  },
+  {
+    "id": 11661,
+    "en": "Are you buying these earrings for your mother?",
+    "de": "Kaufst du deiner Mutter diese Ohrringe?",
+    "groupCode": 1
+  },
+  {
+    "id": 11662,
+    "en": "My father bakes a (layer) cake for my mother",
+    "de": "Mein Vater backt meiner Mutter eine Torte",
+    "groupCode": 1
+  },
+  {
+    "id": 11663,
+    "en": "My nephew wants to paint a picture for his sister",
+    "de": "Mein Neffe will seiner Schwester ein Bild malen",
+    "groupCode": 1
+  },
+  {
+    "id": 11664,
+    "en": "What (How) is the name of the song",
+    "de": "Wie heißt das Lied?",
+    "groupCode": 1
+  },
+  {
+    "id": 11665,
+    "en": "Where is my glass of champagne?",
+    "de": "Wo ist mein Glas Sekt?",
+    "groupCode": 1
+  },
+  {
+    "id": 11666,
+    "en": "This woman is our guest",
+    "de": "Diese Frau ist unser Gast",
+    "groupCode": 1
+  },
+  {
+    "id": 11667,
+    "en": "The party is great, well done",
+    "de": "Die Party ist super, gut gemacht",
+    "groupCode": 1
+  },
+  {
+    "id": 11668,
+    "en": "I'm talking to your uncle. He's all (entire) alone",
+    "de": "Ich spreche mit deinem Onkel. Er ist ganz allein",
+    "groupCode": 1
+  },
+  {
+    "id": 11669,
+    "en": "This is my first picture. Do you want to see it?",
+    "de": "Das ist mein erstes Bild. Willst du es sehen?",
+    "groupCode": 1
+  },
+  {
+    "id": 11670,
+    "en": "I don't want to hurt you",
+    "de": "Ich möchte dir nicht weh tun",
     "groupCode": 1
   }
 ]
