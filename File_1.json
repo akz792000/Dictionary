@@ -8141,7 +8141,7 @@
   },
   {
     "id": 4335,
-    "fa": "آیا شما تبدیل به چیزی می شوید که شما همیشه (از آن) متنفر بودید؟",
+    "fa": "آیا شما دارید تبدیل می شوید چیزی که شما همیشه (از آن) متنفر بودید؟",
     "en": "Are you becoming what you've always hated?",
     "groupCode": 0
   },
@@ -8345,7 +8345,7 @@
   },
   {
     "id": 4369,
-    "fa": "در کاتلین، رسم رایج این است قرار دادن اعضای عمومی اول و کمکی های خصوصی یا داخلی بعد",
+    "fa": "در کاتلین، قرارداد رایج است قرار دادن اعضای عمومی اول و کمکی های خصوصی یا داخلی بعد",
     "en": "In Kotlin, the common convention is to place public members first and private or internal helpers after",
     "groupCode": 0
   },
@@ -8430,7 +8430,7 @@
   },
   {
     "id": 4383,
-    "fa": "آیا می توان به یک همسر خیانتکار اعتماد کرد دوباره؟",
+    "fa": "آیا می توان به یک همسر (زن) خیانتکار (تاکیید) اعتماد کرد دوباره؟",
     "en": "Can a cheating wife ever be trusted again?",
     "groupCode": 0
   },
@@ -8448,7 +8448,7 @@
   },
   {
     "id": 4386,
-    "fa": "من سر پول باهاش قهر کردم و از اون موقع دیگه صحبتی نکرده ام",
+    "fa": "من سر پول باهاش قهر کردم و از (اون موقع دیگه) صحبتی نکرده ام",
     "en": "I had a falling-out over money and haven't spoken since",
     "groupCode": 0
   },
@@ -8462,6 +8462,78 @@
     "id": 4388,
     "fa": "آرامش الانت رو مدیون چی هستی؟ من گفتم هر کاری که شده، شده و هر کاری که قرار بوده انجام بشه، انجام خواهد شد. پس من ترجیح میدم زندگی کنم",
     "en": "What are you indebted to for your peace now? I said, whatever was done is done, and whatever is supposed to be done will be done. So, I prefer to live",
+    "groupCode": 0
+  },
+  {
+    "id": 4389,
+    "fa": "اذیتم نکن اگه من خوابم برد",
+    "en": "Don't bother me if I fall asleep",
+    "groupCode": 0
+  },
+  {
+    "id": 4390,
+    "fa": "من اخیراً احساس گرسنگی (مدتی) نکرده ام",
+    "en": "I haven't been feeling hungry lately",
+    "groupCode": 0
+  },
+  {
+    "id": 4391,
+    "fa": "بعد از پیاده یک راه طولانی، ما دیدیم دریاچه اومد تو دیدمون",
+    "en": "After walking a long way, we saw the lake come into view",
+    "groupCode": 0
+  },
+  {
+    "id": 4392,
+    "fa": "من خوشم نمیاد از اون یه ذره",
+    "en": "I don't like that one bit",
+    "groupCode": 0
+  },
+  {
+    "id": 4393,
+    "fa": "تو یک ذره تغییر نکرده ای",
+    "en": "You haven't changed one bit",
+    "groupCode": 0
+  },
+  {
+    "id": 4394,
+    "fa": "به دل نگرفتی",
+    "en": "No hard feelings",
+    "groupCode": 0
+  },
+  {
+    "id": 4395,
+    "fa": "ما یک عالمه کار داریم برای کنار آمدن با (که باید انجام دهیم)",
+    "en": "We have a lot of work to be getting along with",
+    "groupCode": 0
+  },
+  {
+    "id": 4396,
+    "fa": "گمشو",
+    "en": "\n 1.Push off \n 2.Go away",
+    "groupCode": 0
+  },
+  {
+    "id": 4397,
+    "fa": "وجود دارد فقط چهار نفر از شما و پانزده نفر از من. شانس شما خیلی زیاد نیست",
+    "en": "There's only four of you and 15 of me. Your odds are not so great",
+    "groupCode": 0
+  },
+  {
+    "id": 4398,
+    "fa": "بوی بد ادرار پر کرده بود توالت متروکه را",
+    "en": "The stench of urine filled the abandoned restroom",
+    "groupCode": 0
+  },
+  {
+    "id": 4399,
+    "fa": "تو حسابی ما را ترسوندی, علی. همینطور",
+    "en": "You scared the bejesus out of us, Ali. Likewise",
+    "groupCode": 0
+  },
+  {
+    "id": 4400,
+    "fa": "دولت دستور داده است یک برخورد شدید با غیبت غیرمجاز دانش آموزان را",
+    "en": "The government has ordered a crackdown on truancy /ˈtruːənsi/",
     "groupCode": 0
   }
 ]

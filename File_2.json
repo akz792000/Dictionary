@@ -8210,7 +8210,7 @@
   },
   {
     "id": 11350,
-    "en": "I would like to register for the German course",
+    "en": "I would like to register myself for the German course",
     "de": "Ich möchte mich für den Deutschkurs anmelden",
     "groupCode": 1
   },
@@ -8817,7 +8817,7 @@
   },
   {
     "id": 11449,
-    "en": "I have a question about (to) the party: Could you please tell me when the party starts and when it ends?",
+    "en": "I have a question about (toward) the party: Could you please tell me when the party starts and when it ends?",
     "de": "Ich habe eine Frage zur Party: Könnten Sie mir bitte sagen, wann die Party anfängt und wann sie aufhört?",
     "groupCode": 1
   },
@@ -8866,7 +8866,7 @@
   {
     "id": 11457,
     "en": "I arrive at the train station tomorrow at 10 a.m. I am waiting then for you in front of the café. You can call me whenever you have arrived. My phone number is...",
-    "de": "ich komme morgen um 10 Uhr am Bahnhof an. Ich warte dann vor dem Café auf dich. Du kannst mich anrufen, wenn du angekommen bist. Meine Telefonnummer ist ...",
+    "de": "Ich komme morgen um 10 Uhr am Bahnhof an. Ich warte dann vor dem Café auf dich. Du kannst mich anrufen, wenn du angekommen bist. Meine Telefonnummer ist ...",
     "groupCode": 1
   },
   {
@@ -9554,7 +9554,7 @@
   },
   {
     "id": 11569,
-    "en": "\n 1.Big bird flying in sky \n 2.Little cat sleeping in the basket \n 3.New hotel stands by the sea \n 4.New songs are on (in) the radio",
+    "en": "\n 1.Big bird flying at sky \n 2.Little cat sleeping in the basket \n 3.New hotel stands by the sea \n 4.New songs are on (in) the radio",
     "de": "\n 1.Großer Vogel fliegt am Himmel \n 2.Kleine Katze schläft im Korb \n 3.Neues Hotel steht am Meer \n 4.Neue Lieder sind im Radio",
     "desc": "Adjective With No Article Nominative \n mal: adj -er \n fem: adj -e \n neut: adj -es \n plur: adj -e",
     "groupCode": 1
@@ -9798,8 +9798,9 @@
   },
   {
     "id": 11609,
-    "en": "I want to buy an envelope and a stamp in order to send this letter",
+    "en": "I want to buy an envelope and a stamp in order to send this letter out",
     "de": "Ich will einen Briefumschlag und eine Briefmarke kaufen um diesen Brief zu verschicken",
+    "desc": "schicken = to send (general, everyday word) → can be people, things, messages.\n\nverschicken = to send out / dispatch (often many items, more official).",
     "groupCode": 1
   },
   {
@@ -9937,7 +9938,7 @@
   },
   {
     "id": 11632,
-    "en": "This morning I have chosen a fresh red apple for breakfast",
+    "en": "This morning I have chosen myself a fresh red apple for breakfast",
     "de": "Heute Morgen habe ich mir einen frischen roten Apfel zum Frühstück ausgesucht",
     "groupCode": 1
   },
@@ -9974,7 +9975,7 @@
   {
     "id": 11638,
     "en": "\n The lake \n The sea \n The North Sea \n The mirror \n The stove \n The pillow",
-    "de": "\n Der See \n Das Meer \n Die Nordsee \n Der Spiegel \n der Herd \n Das Kissen",
+    "de": "\n Der See \n Das Meer or Die See \n Die Nordsee \n Der Spiegel \n Der Herd \n Das Kissen",
     "groupCode": 1
   },
   {
@@ -10100,25 +10101,27 @@
   {
     "id": 11659,
     "en": "Does your brother give his wife a chain?",
-    "de": "Gibst dein Bruder seiner Frau eine Kette?",
+    "de": "Gibt dein Bruder seiner Frau eine Kette?",
     "groupCode": 1
   },
   {
     "id": 11660,
     "en": "Can we give your father a plant?",
-    "de": "Können wir deinen Vater eine Pflanze geben?",
+    "de": "Können wir deinem Vater eine Pflanze geben?",
     "groupCode": 1
   },
   {
     "id": 11661,
     "en": "Are you buying these earrings for your mother?",
-    "de": "Kaufst du deiner Mutter diese Ohrringe?",
+    "de": "\n 1.Kaufst du deiner Mutter diese Ohrringe? \n 2.Kaufst du diese Ohrringe für deine Mutter?",
+    "desc": "In German, many verbs that involve giving, showing, sending, baking, buying, etc. take:\n\nA direct object (accusative) = the thing\n\nAn indirect object (dative) = the person receiving it\n\nExample:\n\nMein Vater backt meiner Mutter (Dativ) eine Torte (Akkusativ).\n\nWho gets it? → meiner Mutter (dative)\n\nWhat does she get? → eine Torte (accusative)\n\nUsing für + Akkusativ (für meine Mutter) is possible, but German prefers the dative construction because it’s shorter, smoother, and feels more natural.\n\n\uD83D\uDC49 Rule of thumb: If the verb already implies “for someone,” use the dative. If you want to emphasize for her and not for someone else, you can use für.",
     "groupCode": 1
   },
   {
     "id": 11662,
     "en": "My father bakes a (layer) cake for my mother",
-    "de": "Mein Vater backt meiner Mutter eine Torte",
+    "de": "\n 1.Mein Vater backt meiner Mutter eine Torte \n 2.Mein Vater backt eine Torte für meine Mutter",
+    "desc": "In German, many verbs that involve giving, showing, sending, baking, buying, etc. take:\n\nA direct object (accusative) = the thing\n\nAn indirect object (dative) = the person receiving it\n\nExample:\n\nMein Vater backt meiner Mutter (Dativ) eine Torte (Akkusativ).\n\nWho gets it? → meiner Mutter (dative)\n\nWhat does she get? → eine Torte (accusative)\n\nUsing für + Akkusativ (für meine Mutter) is possible, but German prefers the dative construction because it’s shorter, smoother, and feels more natural.\n\n\uD83D\uDC49 Rule of thumb: If the verb already implies “for someone,” use the dative. If you want to emphasize for her and not for someone else, you can use für.",
     "groupCode": 1
   },
   {
@@ -10153,7 +10156,7 @@
   },
   {
     "id": 11668,
-    "en": "I'm talking to your uncle. He's all (entire) alone",
+    "en": "I'm speaking to your uncle. He's all (entire) alone",
     "de": "Ich spreche mit deinem Onkel. Er ist ganz allein",
     "groupCode": 1
   },
@@ -10165,8 +10168,68 @@
   },
   {
     "id": 11670,
-    "en": "I don't want to hurt you",
+    "en": "I wouldn't like to hurt you",
     "de": "Ich möchte dir nicht weh tun",
+    "groupCode": 1
+  },
+  {
+    "id": 11671,
+    "en": "The guest → our guest, The guests → our guests",
+    "de": "Der Gast → unser Gast, Die Gäste → unsere Gäste",
+    "groupCode": 1
+  },
+  {
+    "id": 11672,
+    "en": "Where is the subway station?",
+    "de": "Wo ist die U-Bahn-Station?",
+    "groupCode": 1
+  },
+  {
+    "id": 11673,
+    "en": "The film was quite short",
+    "de": "Der Film war ziemlich Kurz",
+    "groupCode": 1
+  },
+  {
+    "id": 11674,
+    "en": "I have bought a new cell phone",
+    "de": "Ich habe ein neues Handy gekauft",
+    "groupCode": 1
+  },
+  {
+    "id": 11675,
+    "en": "The man was quite unfriendly",
+    "de": "Der Man war ziemlich unfreundlich",
+    "groupCode": 1
+  },
+  {
+    "id": 11676,
+    "en": "I feel weak today",
+    "de": "Ich fühle mich heute schwach",
+    "groupCode": 1
+  },
+  {
+    "id": 11677,
+    "en": "The park is very quiet in the morning",
+    "de": "Der Park ist sehr ruhig am Morgen",
+    "groupCode": 1
+  },
+  {
+    "id": 11678,
+    "en": "He lives very healthy",
+    "de": "Er Lebt sehr gesund",
+    "groupCode": 1
+  },
+  {
+    "id": 11679,
+    "en": "The family is unfortunately very poor",
+    "de": "Der Familie ist leider sehr arm",
+    "groupCode": 1
+  },
+  {
+    "id": 11680,
+    "en": "That was a mean comment",
+    "de": "Das war ein gemeiner Kommentar",
     "groupCode": 1
   }
 ]

@@ -712,5 +712,339 @@
     "en": "",
     "de": "verwenden",
     "groupCode": 1
+  },
+
+
+
+
+  {
+    "id":,
+    "en": "",
+    "de": "Er ist körperlich sehr stark",
+    "groupCode": 1
+  },
+  {
+    "id":,
+    "en": "",
+    "de": "Heute ist es angenehm warm",
+    "groupCode": 1
+  },
+  {
+    "id":,
+    "en": "",
+    "de": "Ich bin mir sicher, dass er kommt",
+    "groupCode": 1
+  },
+  {
+    "id":,
+    "en": "",
+    "de": "Sie ist noch un sicher beim Autofahren",
+    "groupCode": 1
+  },
+  {
+    "id":,
+    "en": "",
+    "de": "Vor dem Prüfung war ich sehr nervös",
+    "groupCode": 1
+  },
+  {
+    "id":,
+    "en": "",
+    "de": "Das ist ein kompliziertes Problem",
+    "groupCode": 1
+  },
+  {
+    "id":,
+    "en": "",
+    "de": "Ich bin bereit, loszugehen",
+    "groupCode": 1
+  },
+  {
+    "id":,
+    "en": "",
+    "de": "Er ist ein reicher Geschäftsmann",
+    "groupCode": 1
+  },
+  {
+    "id":,
+    "en": "",
+    "de": "Er ist sehr offen für eine Ideen",
+    "groupCode": 1
+  },
+  {
+    "id":,
+    "en": "She is rather reserved and speaks little",
+    "de": "Sie ist eher verschlossen und spricht wenig",
+    "groupCode": 1
+  },
+  {
+    "id":,
+    "en": "",
+    "de": "Ich bin stolz auf dich",
+    "groupCode": 1
+  },
+  {
+    "id":,
+    "en": "",
+    "de": "Es ist in Gruppen sehr schüchtern",
+    "groupCode": 1
+  },
+  {
+    "id":,
+    "en": "",
+    "de": "Sie ist eine fleißige Studentin",
+    "groupCode": 1
+  },
+  {
+    "id":,
+    "en": "",
+    "de": "Meine Nachbarin ist immer hilfsbereit",
+    "groupCode": 1
+  },
+  {
+    "id":,
+    "en": "",
+    "de": "Er denkt nur an sich - egoistisch",
+    "groupCode": 1
+  },
+  {
+    "id":,
+    "en": "",
+    "de": "Er kommt immer unpünktlich",
+    "groupCode": 1
+  },
+  {
+    "id":,
+    "en": "",
+    "de": "Das war eine sehr höfliche Antwort",
+    "groupCode": 1
+  },
+  {
+    "id":,
+    "en": "",
+    "de": "Der Kunde war ziemlich unhöflich",
+    "groupCode": 1
+  },
+  {
+    "id":,
+    "en": "",
+    "de": "Ich mag Menchen, die ehrlich sind",
+    "groupCode": 1
+  },
+  {
+    "id":,
+    "en": "",
+    "de": "Sie ist sehr interessiert an Kunst",
+    "groupCode": 1
+  },
+  {
+    "id":,
+    "en": "",
+    "de": "Er wirkt oft gleichgültig",
+    "groupCode": 1
+  },
+  {
+    "id":,
+    "en": "",
+    "de": "Ich bin mit dem Ergebnis zufrieden",
+    "groupCode": 1
+  },
+  {
+    "id":,
+    "en": "",
+    "de": "Du warst sehr mutig, das zu sagen",
+    "groupCode": 1
+  },
+  {
+    "id":,
+    "en": "",
+    "de": "Das Kind war in der Dunkelheit ängstlich",
+    "groupCode": 1
+  },
+  {
+    "id":,
+    "en": "",
+    "de": "Mein Kater ist ziemlich dick",
+    "groupCode": 1
+  },
+  {
+    "id":,
+    "en": "",
+    "de": "Das Papier ist sehr Dünn",
+    "groupCode": 1
+  },
+  {
+    "id":,
+    "en": "",
+    "de": "Dises Kissen ist supper weich",
+    "groupCode": 1
+  },
+  {
+    "id":,
+    "en": "",
+    "de": "Ich habe heute frisches Brot gekauft",
+    "groupCode": 1
+  },
+  {
+    "id":,
+    "en": "",
+    "de": "Die Milch ist leider verdorben",
+    "groupCode": 1
+  },
+  {
+    "id":,
+    "en": "",
+    "de": "Kaffee ohne Zucker ist bitter",
+    "groupCode": 1
+  },
+  {
+    "id":,
+    "en": "",
+    "de": "Die Zitrone ist sehr sauer",
+    "groupCode": 1
+  },
+  {
+    "id":,
+    "en": "",
+    "de": "Das Messer ist sehr scharf",
+    "groupCode": 1
+  },
+  {
+    "id":,
+    "en": "",
+    "de": "Sie ist eine sehr weichherzige Frau",
+    "groupCode": 1
+  },
+  {
+    "id":,
+    "en": "",
+    "de": "Es war im Moment hartherzig",
+    "groupCode": 1
+  },
+  {
+    "id":,
+    "en": "",
+    "de": "Das war eine Offizielle Einladung",
+    "groupCode": 1
+  },
+  {
+    "id":,
+    "en": "",
+    "de": "Die inoffizielle Version war besser",
+    "groupCode": 1
+  },
+  {
+    "id":,
+    "en": "",
+    "de": "Das ist eine wichtige Entscheidung",
+    "groupCode": 1
+  },
+  {
+    "id":,
+    "en": "",
+    "de": "Das ist doch völlig unwichtig",
+    "groupCode": 1
+  },
+  {
+    "id":,
+    "en": "",
+    "de": "Dise Kleidung ist altmodisch",
+    "groupCode": 1
+  },
+  {
+    "id":,
+    "en": "",
+    "de": "Das ist eine praktische Lösung",
+    "groupCode": 1
+  },
+  {
+    "id":,
+    "en": "",
+    "de": "Deine Ausrede ist völlig unnütz",
+    "groupCode": 1
+  },
+  {
+    "id":,
+    "en": "",
+    "de": "Sie spricht sehr selbstbewusst",
+    "groupCode": 1
+  },
+  {
+    "id":,
+    "en": "",
+    "de": "Manchmal fühlt sie sich sher einsam",
+    "groupCode": 1
+  },
+  {
+    "id":,
+    "en": "",
+    "de": "Er benimmt sich heute sehr seltsam",
+    "groupCode": 1
+  },
+  {
+    "id":,
+    "en": "",
+    "de": "Ist das überhaupt möglich",
+    "groupCode": 1
+  },
+  {
+    "id":,
+    "en": "",
+    "de": "Wir haben uns im Bus zufällig getroffen",
+    "groupCode": 1
+  },
+  {
+    "id":,
+    "en": "",
+    "de": "Dss war eine absichtliche Handlung",
+    "groupCode": 1
+  },
+  {
+    "id":,
+    "en": "",
+    "de": "Der Kunde war verärgert über die lange Wartezeit",
+    "groupCode": 1
+  },
+  {
+    "id":,
+    "en": "",
+    "de": "Er hat ein sehr ernstes Gesicht gemacht",
+    "groupCode": 1
+  },
+  {
+    "id":,
+    "en": "",
+    "de": "Diese Gegend ist ziemlich sicher",
+    "groupCode": 1
+  },
+  {
+    "id":,
+    "en": "",
+    "de": "Das war eine gefährliche Situation",
+    "groupCode": 1
+  },
+  {
+    "id":,
+    "en": "",
+    "de": "Der Fluss ist hier sehr tief",
+    "groupCode": 1
+  },
+  {
+    "id":,
+    "en": "",
+    "de": "Kinder sollten fruh selbstständig werden",
+    "groupCode": 1
+  },
+  {
+    "id":,
+    "en": "",
+    "de": "Die stadt ist besonders nachts sehr lebendig",
+    "groupCode": 1
+  },
+  {
+    "id":,
+    "en": "",
+    "de": "Sie ist eine warmherzige Person",
+    "groupCode": 1
   }
 ]
