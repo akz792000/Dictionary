@@ -8093,7 +8093,7 @@
   },
   {
     "id": 4327,
-    "fa": "یک مخالفی کسی که دار زده شده بود",
+    "fa": "یک مخالفی که دار زده شده بود",
     "en": "A dissident who had been hung",
     "groupCode": 0
   },
@@ -8430,7 +8430,7 @@
   },
   {
     "id": 4383,
-    "fa": "آیا می توان به یک همسر (زن) خیانتکار (تاکیید) اعتماد کرد دوباره؟",
+    "fa": "آیا می توان به یک همسر (زن) خیانتکار (تاکید) اعتماد کرد دوباره؟",
     "en": "Can a cheating wife ever be trusted again?",
     "groupCode": 0
   },
@@ -8460,7 +8460,7 @@
   },
   {
     "id": 4388,
-    "fa": "آرامش الانت رو مدیون چی هستی؟ من گفتم هر کاری که شده، شده و هر کاری که قرار بوده انجام بشه، انجام خواهد شد. پس من ترجیح میدم زندگی کنم",
+    "fa": "تو مدیون چی هستی برای آرامش الانت؟ من گفتم, هر چه که شده، شده و هر چه که قراره انجام شه، انجام خواهد شد. پس, من ترجیح میدم زندگی کنم",
     "en": "What are you indebted to for your peace now? I said, whatever was done is done, and whatever is supposed to be done will be done. So, I prefer to live",
     "groupCode": 0
   },
@@ -8478,7 +8478,7 @@
   },
   {
     "id": 4391,
-    "fa": "بعد از پیاده یک راه طولانی، ما دیدیم دریاچه اومد تو دیدمون",
+    "fa": "بعد از راه رفتن یک راه طولانی، ما دیدیم دریاچه اومد تو دیدمون",
     "en": "After walking a long way, we saw the lake come into view",
     "groupCode": 0
   },
@@ -8502,8 +8502,8 @@
   },
   {
     "id": 4395,
-    "fa": "ما یک عالمه کار داریم برای کنار آمدن با (که باید انجام دهیم)",
-    "en": "We have a lot of work to be getting along with",
+    "fa": "اگر او (مرد) ترک نکرده باشد تا صبح, سپس من خواهم کرد تو را ناامید (ناکامی)",
+    "en": "If he has not quit by morning, then I will have failed you",
     "groupCode": 0
   },
   {
@@ -8534,6 +8534,50 @@
     "id": 4400,
     "fa": "دولت دستور داده است یک برخورد شدید با غیبت غیرمجاز دانش آموزان را",
     "en": "The government has ordered a crackdown on truancy /ˈtruːənsi/",
+    "groupCode": 0
+  },
+  {
+    "id": 4401,
+    "fa": "من بخشنده بودم با هر کسی که من ملاقات کردم",
+    "en": "I was gracious to everyone I met",
+    "groupCode": 0
+  },
+  {
+    "id": 4402,
+    "fa": "من نگاه می کردم با دقت به پازل در حالی که من گوش می دادم با دقت به مربی (معلم سرخانه)",
+    "en": "I looked intently at the puzzle while I listened attentively to the tutor",
+    "desc": "Attentively → focuses on careful listening/observing, showing interest.\n\nShe listened attentively to the teacher. (careful, respectful focus)\n\nIntently → focuses on deep concentration or determination, often with intensity.\n\nHe stared intently at the screen. (absorbed, serious focus)",
+    "groupCode": 0
+  },
+  {
+    "id": 4403,
+    "fa": "آیا شما گشت و گذار را تمام کرده اید؟",
+    "en": "Have you finished sight-seeing?",
+    "groupCode": 0
+  },
+  {
+    "id": 4404,
+    "fa": "من سعی می کنم بیرون بکشم خرده (تراشه) را از انگشتم",
+    "en": "I try to pull the splinter out of my finger",
+    "groupCode": 0
+  },
+  {
+    "id": 4405,
+    "fa": "من دوست ندارم یک شکم شل و ول",
+    "en": "I don't like a flabby stomach",
+    "groupCode": 0
+  },
+  {
+    "id": 4406,
+    "fa": "او نشان داد کاملاً بی توجه به (برای) بهداشت شخصی",
+    "en": "He showed utter disregard for personal hygiene",
+    "desc": "Brief rule: Use “utter” with nouns expressing strong negative or extreme qualities.",
+    "groupCode": 0
+  },
+  {
+    "id": 4407,
+    "fa": "انتقاد بجا نبود (بی مورد بود)",
+    "en": "\n 1.That criticism was uncalled for \n 2.The criticism was not justified",
     "groupCode": 0
   }
 ]
