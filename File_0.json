@@ -230,7 +230,7 @@
   {
     "id": 39,
     "fa": "ترجیح می دم خانه بمانم",
-    "en": "I'd rather stay at home",
+    "en": "\n 1.I'd rather stay at home \n 2.I'd prefer to stay at home",
     "desc": "\"I would rather stay at home\" and \"I would prefer to stay at home\" have a similar meaning and both express a preference for staying at home. However, \"rather\" implies a stronger preference than \"prefer to\".",
     "groupCode": 0
   },
@@ -4153,7 +4153,7 @@
   },
   {
     "id": 686,
-    "fa": "ناراحت میشی رانندگی کنی (مودبانه)؟ من دارم احساس خستگی می کنم و قدردانی خواهم کردم (فرضی) اگر بتوانید (فرضی) فرمان را بگیرید",
+    "fa": "شما ناراحت میشی رانندگی کنی (مودبانه)؟ من دارم احساس خستگی می کنم و قدردانی خواهم کردم (فرضی) اگر بتوانید (فرضی) فرمان را بگیرید",
     "en": "Would you mind driving? I'm feeling tired and would appreciate it if you could take the wheel",
     "desc": "\"Would you mind driving?\": This is a question asking if the person is willing to drive. It is a polite way to inquire if they have any objection or if it would be a problem for them to drive.\n\n\"You don't mind driving\": This is a statement assuming or confirming that the person is willing to drive. It suggests that the speaker believes the person is okay with driving and does not have any objections.\n\nIn summary, the first phrase asks for permission or willingness to drive, while the second phrase assumes or confirms the person's willingness to drive.",
     "groupCode": 0
@@ -5784,8 +5784,8 @@
   },
   {
     "id": 953,
-    "fa": "گم شو",
-    "en": "Get lost",
+    "fa": "\n ۱.سبیل \n ۲.ریش \n ۳.خط ریش \n ۴.ریش بزی \n ۵.صورت تراشیده \n ۶.ته ریش",
+    "en": "\n 1.Mustache \n 2.Beard \n 3.Sideburns \n 4.Goatee \n 5.Clean-shaven \n 6.Stubble",
     "groupCode": 0
   },
   {
@@ -12844,6 +12844,7 @@
     "id": 2114,
     "fa": "من وقتم تموم شده ولی نگران نباش, بدون تو کنار خواهم آمد",
     "en": "I am out of time but don't worry, I'll get along without you",
+    "desc": "am out of time = current situation.\n\nrun out of time = the action/event of losing time.",
     "groupCode": 0
   },
   {
@@ -15762,7 +15763,7 @@
   },
   {
     "id": 2595,
-    "fa": "من اشتهای سالمی دارم",
+    "fa": "من یک اشتهای سالم دارم",
     "en": "I have a healthy appetite",
     "groupCode": 0
   },

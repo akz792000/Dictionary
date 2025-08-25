@@ -2473,7 +2473,7 @@
   },
   {
     "id": 3404,
-    "fa": "اگر من خودم امتحانش نکرده بودم، من باورش نمی کردم",
+    "fa": "اگر من خودم امتحانش (تلاش) نکرده بودم، من باورش نمی کردم",
     "en": "If I hadn't tried it myself I wouldn't believe it",
     "desc": "This suggests that even now, after trying it, you still find it hard to believe. The disbelief is ongoing in the present.",
     "groupCode": 0
@@ -8478,7 +8478,7 @@
   },
   {
     "id": 4391,
-    "fa": "بعد از راه رفتن یک راه طولانی، ما دیدیم دریاچه اومد تو دیدمون",
+    "fa": "بعد از راه رفتن یک راه طولانی، ما دیدیم دریاچه اومد تو دید",
     "en": "After walking a long way, we saw the lake come into view",
     "groupCode": 0
   },
@@ -8508,8 +8508,8 @@
   },
   {
     "id": 4396,
-    "fa": "گمشو",
-    "en": "\n 1.Push off \n 2.Go away",
+    "fa": "\n 1.دور شو \n 2.گمشو \n 3.گمشو",
+    "en": "\n 1.Go away (Polite) \n 2.Push off (Rude - British) \n 3.Get lost (Very rude)",
     "groupCode": 0
   },
   {
@@ -8569,7 +8569,7 @@
   },
   {
     "id": 4406,
-    "fa": "او نشان داد کاملاً بی توجه به (برای) بهداشت شخصی",
+    "fa": "او (مرد) نشان داد کاملاً بی توجه به (برای) بهداشت شخصی",
     "en": "He showed utter disregard for personal hygiene",
     "desc": "Brief rule: Use “utter” with nouns expressing strong negative or extreme qualities.",
     "groupCode": 0
@@ -8578,6 +8578,104 @@
     "id": 4407,
     "fa": "انتقاد بجا نبود (بی مورد بود)",
     "en": "\n 1.That criticism was uncalled for \n 2.The criticism was not justified",
+    "groupCode": 0
+  },
+  {
+    "id": 4408,
+    "fa": "آیا خیانت عادی شده",
+    "en": "Is cheating becoming normalised?",
+    "groupCode": 0
+  },
+  {
+    "id": 4409,
+    "fa": "ما ترجیح می دهیم قطار بگیریم تا رانندگی کنیم یا ما ترجیح می دهیم قطار بگیریم صبح های روزهای هفته",
+    "en": "We prefer taking the train to driving or we prefer to take the train on weekday mornings",
+    "desc": "Ing: focus on the action or express that we really enjoy it. \n\n To-Infinitive: focus on the habit or result \n\n In English, when you talk about using a mode of public transport (train, bus, subway, etc.), you usually need “the.”",
+    "groupCode": 0
+  },
+  {
+    "id": 4410,
+    "fa": "آیا خیانت عادی شده",
+    "en": "Is cheating becoming normalised?",
+    "groupCode": 0
+  },
+  {
+    "id": 4411,
+    "fa": "من بیشتر ترجیح می دهم قطار بگیرم به جای پرواز",
+    "en": "\n 1.I'd much prefer to take the train rather than fly \n 2.I'd much rather take the train than fly",
+    "desc": "I prefer …\n\nGeneral truth / habit.\n\nTalks about what you usually like more. \n\n\n I would prefer …\n\nPolite, hypothetical, or for a specific situation.\n\nOften used when making a choice right now.",
+    "groupCode": 0
+  },
+  {
+    "id": 4412,
+    "fa": "آنها ترجیح می دهند پرواز نکنند",
+    "en": "\n 1.They'd prefer not to fly \n 2.They'd rather not fly",
+    "groupCode": 0
+  },
+  {
+    "id": 4413,
+    "fa": "شما می خوای حرف بزنی دربارش؟ من ترجیح می دم نگم؟",
+    "en": "Do you want to talk about it? I'd prefer not to (I'd rather not)",
+    "groupCode": 0
+  },
+  {
+    "id": 4414,
+    "fa": "شما ترجیح میدی بری فرانسه یا اسپانیا؟",
+    "en": "\n 1.Would you prefer to go to France or Spain? \n 2.Would you rather go to France or Spain?",
+    "groupCode": 0
+  },
+  {
+    "id": 4415,
+    "fa": "من ترجیح می دادم به اسپانیا رفته بودم",
+    "en": "\n 1.I'd prefer to have gone to Spain \n 2.I'd rather have gone to Spain \n 3.I'd have preferred to go to Spain",
+    "groupCode": 0
+  },
+  {
+    "id": 4416,
+    "fa": "من ترجیح می دادم کنار دریا زندگی کرده بودم",
+    "en": "\n 1.I'd prefer to have lived by the sea \n 2.I'd rather have lived by the sea \n 3.I'd have preferred to live by the sea",
+    "groupCode": 0
+  },
+  {
+    "id": 4417,
+    "fa": "ما ترجیح می دهیم که او (مرد) نگفته باشد در این به مامان",
+    "en": "We'd rather he didn't tell Mum about this",
+    "groupCode": 0
+  },
+  {
+    "id": 4418,
+    "fa": "من ترجیح میدم شما رزرو نکرده بودی یک چنین پرواز زودهنگامی",
+    "en": "I'd rather you hadn't booked such an early flight",
+    "groupCode": 0
+  },
+  {
+    "id": 4419,
+    "fa": "من ترجیح می دهم او (مرد) بگیرد صندلی وسط را یا من ترجیحش می دهم اگر او بگیرد صندلی وسط را",
+    "en": "I'd prefer him to take the middle seat or I'd prefer it if he took the middle seat",
+    "groupCode": 0
+  },
+  {
+    "id": 4420,
+    "fa": "من ترجیح می دهم شما نروی آنجا دیگر یا من ترجیحش می دهم اگر شما آنجا نروی",
+    "en": "I'd prefer you not to go over there anymore or I'd prefer it if you didn't go over there anymore",
+    "groupCode": 0
+  },
+  {
+    "id": 4421,
+    "fa": "من ترجیح می دادم او (زن)بماند یک کم بیشتر",
+    "en": "I would have preferred her to stay a bit longer",
+    "groupCode": 0
+  },
+  {
+    "id": 4422,
+    "fa": "شما ناراحت میشی (مودبانه) اگه من پنجره رو باز کنم؟ من ترجیح میدم این کارو نکنی",
+    "en": "Would you mind if I opened the window? I'd rather you didn't",
+    "groupCode": 0
+  },
+  {
+    "id": 4423,
+    "fa": "من ترجیح می دادم شما صبر کرده بودی تا من من برسم قبل از سفارش دادن",
+    "en": "I'd rather you had waited until I arrived before ordering",
     "groupCode": 0
   }
 ]

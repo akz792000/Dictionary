@@ -8817,7 +8817,7 @@
   },
   {
     "id": 11449,
-    "en": "I have a question about (toward) the party: Could you please tell me when the party starts and when it ends?",
+    "en": "I have a question about (toward) the party: Could you please tell (say) me when the party starts and when it ends?",
     "de": "Ich habe eine Frage zur (über die) Party: Könnten Sie mir bitte sagen, wann die Party anfängt und wann sie aufhört?",
     "desc": "zur Party → “about the party” in the sense of the event/topic (more natural in German).\n\nüber die Party → “about the party” focusing on the subject/content of your question (less common).",
     "groupCode": 1
@@ -9058,7 +9058,7 @@
   },
   {
     "id": 11488,
-    "en": "Could you please tell me if you are coming to (toward) my birthday?",
+    "en": "Could you please tell (say) me if you are coming to (toward) my birthday?",
     "de": "Könntest du mir bitte sagen, ob du zu meinem Geburtstag kommst?",
     "groupCode": 1
   },
@@ -10260,19 +10260,19 @@
   },
   {
     "id": 11685,
-    "en": "The plans are compatible with my schedule",
+    "en": "The plans are compatible with my appointment",
     "de": "Die Pläne sind mit meinen Terminen vereinbar",
     "groupCode": 1
   },
   {
     "id": 11686,
-    "en": "We have arranged a time for the meeting",
+    "en": "We have arranged an appointment for the meeting",
     "de": "Wir haben einen Termin für das Treffen vereinbart",
     "groupCode": 1
   },
   {
     "id": 11687,
-    "en": "We have arranged a time for the meeting",
+    "en": "We have arranged an appointment for the meeting",
     "de": "Wir haben einen Termin für das Treffen vereinbart",
     "groupCode": 1
   },
