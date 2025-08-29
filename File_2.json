@@ -4655,8 +4655,8 @@
   },
   {
     "id": 10765,
-    "en": "I study in Paris, but I'm driving home at the end of the semester. My father always cooks very well. I'm already looking forward to it",
-    "de": "Ich studiere in Paris, aber ich fahre am Semesterende nach Hause. Mein Vater kocht immer sehr gut. Ich freue mich schon",
+    "en": "I study in Paris, but I'm driving home at the end of the semester. My father always cooks very well. I'm also happy",
+    "de": "Ich studiere in Paris, aber ich fahre am Semesterende nach Hause. Mein Vater kocht immer sehr gut. Ich freue mich schon (I'm already looking forward to it)",
     "groupCode": 1
   },
   {
@@ -7986,7 +7986,7 @@
     "id": 11313,
     "en": "Which type of books do you read? I mainly read biographies",
     "de": "Welche Art von Büchern liest du? Ich lese hauptsächlich Biografien",
-    "desc": "Art: type - hauptsächlich: mainly (adverb)",
+    "desc": "Art: type - hauptsächlich: mainly (adverb) - Dative Plural = Büchern",
     "groupCode": 1
   },
   {
@@ -8668,8 +8668,8 @@
   },
   {
     "id": 11425,
-    "en": "You ask the man",
-    "de": "Du fragst den Mann",
+    "en": "You ask the man. You answer the man",
+    "de": "Du fragst den Mann. Du antwortest dem Mann",
     "groupCode": 1
   },
   {
@@ -8982,7 +8982,7 @@
   },
   {
     "id": 11476,
-    "en": "Our employees talk about their expeditions",
+    "en": "Our employees talk from their expeditions",
     "de": "Unsere Mitarbeiter erzählen von ihren Expeditionen",
     "desc": "\"von\": This preposition is used when someone is talking about their personal experiences, stories, or accounts. It implies a more direct, personal connection to what is being shared.\n\nExample: \"Unsere Mitarbeiter erzählen von ihren Expeditionen.\"\n→ This means the employees are sharing their personal stories or experiences from their expeditions.\n\"über\": This preposition is used when talking about a topic in a more general or abstract sense, without necessarily implying personal involvement.\n\nExample: \"Unsere Mitarbeiter sprechen über Expeditionen.\"\n→ This would mean the employees are discussing expeditions in general, not necessarily their own.",
     "groupCode": 1
@@ -9555,7 +9555,7 @@
   },
   {
     "id": 11569,
-    "en": "\n 1.Big bird flying at sky \n 2.Little cat sleeping in the basket \n 3.New hotel stands by the sea \n 4.New songs are on (in) the radio",
+    "en": "\n 1.Big bird flying at sky \n 2.Little cat sleeping in the basket \n 3.New hotel stands by (at) the sea \n 4.New songs are on (in) the radio",
     "de": "\n 1.Großer Vogel fliegt am Himmel \n 2.Kleine Katze schläft im Korb \n 3.Neues Hotel steht am Meer \n 4.Neue Lieder sind im Radio",
     "desc": "Adjective With No Article Nominative \n mal: adj -er \n fem: adj -e \n neut: adj -es \n plur: adj -e",
     "groupCode": 1
@@ -9993,7 +9993,7 @@
   },
   {
     "id": 11641,
-    "en": "He called me yesterday in order to tell me that he doesn't want to sell his car",
+    "en": "He called (Phone) me yesterday, in order to tell (say) me, that he doesn't want to sell his car",
     "de": "Er hat mich gestern angerufen, um mir zu sagen, dass er sein Auto nicht verkaufen will",
     "groupCode": 1
   },
@@ -10272,8 +10272,8 @@
   },
   {
     "id": 11687,
-    "en": "We have arranged an appointment for the meeting",
-    "de": "Wir haben einen Termin für das Treffen vereinbart",
+    "en": "\n The rain \n The snow \n The wind \n The sunshine \n The thunderstorm",
+    "de": "\n Der Regen \n Der Schnee \n Der Wind \n Der Sonnenschein \n Das Gewitter",
     "groupCode": 1
   },
   {
@@ -10286,6 +10286,12 @@
     "id": 11689,
     "en": "We are creating a beautiful artwork",
     "de": "Wir schaffen ein schönes Kunstwerk",
+    "groupCode": 1
+  },
+  {
+    "id": 11690,
+    "en": "I connect. I connected. I have connected",
+    "de": "Ich verbinde. Ich verband. Ich habe verbund",
     "groupCode": 1
   }
 ]

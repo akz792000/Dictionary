@@ -148,7 +148,7 @@
   },
   {
     "id": 3025,
-    "fa": "دی وی دی مال کیا هستند؟",
+    "fa": "دی وی دی ها مال کیا هستند؟",
     "en": "Whose DVDs are they?",
     "groupCode": 0
   },
@@ -8582,21 +8582,21 @@
   },
   {
     "id": 4408,
-    "fa": "آیا خیانت عادی شده",
+    "fa": "آیا خیانت داره نرمالیزه میشه؟",
     "en": "Is cheating becoming normalised?",
     "groupCode": 0
   },
   {
     "id": 4409,
-    "fa": "ما ترجیح می دهیم قطار بگیریم تا رانندگی کنیم یا ما ترجیح می دهیم قطار بگیریم صبح های روزهای هفته",
-    "en": "We prefer taking the train to driving or we prefer to take the train on weekday mornings",
+    "fa": "ما ترجیح می دهیم قطار بگیریم صبح های روز هفته",
+    "en": "\n 1.We prefer taking the train on weekday mornings \n 2.We prefer to take the train on weekday mornings",
     "desc": "Ing: focus on the action or express that we really enjoy it. \n\n To-Infinitive: focus on the habit or result \n\n In English, when you talk about using a mode of public transport (train, bus, subway, etc.), you usually need “the.”",
     "groupCode": 0
   },
   {
     "id": 4410,
-    "fa": "آیا خیانت عادی شده",
-    "en": "Is cheating becoming normalised?",
+    "fa": "چقدر زمان مونده تا تهران؟",
+    "en": "How much time is left until Tehran?",
     "groupCode": 0
   },
   {
@@ -8614,7 +8614,7 @@
   },
   {
     "id": 4413,
-    "fa": "شما می خوای حرف بزنی دربارش؟ من ترجیح می دم نگم؟",
+    "fa": "شما می خوای حرف بزنی دربارش؟ من ترجیح نمی دم؟",
     "en": "Do you want to talk about it? I'd prefer not to (I'd rather not)",
     "groupCode": 0
   },
@@ -8650,14 +8650,14 @@
   },
   {
     "id": 4419,
-    "fa": "من ترجیح می دهم او (مرد) بگیرد صندلی وسط را یا من ترجیحش می دهم اگر او بگیرد صندلی وسط را",
-    "en": "I'd prefer him to take the middle seat or I'd prefer it if he took the middle seat",
+    "fa": "\n 1.من ترجیح می دهم (برای) او (مرد) بگیرد صندلی وسط را \n 2.من ترجیح می دهمش اگر او (مرد) بگیرد صندلی وسط را",
+    "en": "\n 1.I'd prefer him to take the middle seat \n 2.I'd prefer it if he took the middle seat",
     "groupCode": 0
   },
   {
     "id": 4420,
-    "fa": "من ترجیح می دهم شما نروی آنجا دیگر یا من ترجیحش می دهم اگر شما آنجا نروی",
-    "en": "I'd prefer you not to go over there anymore or I'd prefer it if you didn't go over there anymore",
+    "fa": "\n 1.من ترجیح می دهم (برای) شما نروی آنجا دیگه بیشتر \n 2.من ترجیح می دهمش اگر شما نروی آنجا دیگه بیشتر",
+    "en": "\n 1.I'd prefer you not to go over there anymore \n 2.I'd prefer it if you didn't go over there anymore",
     "groupCode": 0
   },
   {
@@ -8668,14 +8668,39 @@
   },
   {
     "id": 4422,
-    "fa": "شما ناراحت میشی (مودبانه) اگه من پنجره رو باز کنم؟ من ترجیح میدم این کارو نکنی",
+    "fa": "شما ناراحت میشی (مودبانه) اگه من پنجره رو باز کنم؟ من ترجیح میدم شما انجام ندی",
     "en": "Would you mind if I opened the window? I'd rather you didn't",
     "groupCode": 0
   },
   {
     "id": 4423,
-    "fa": "من ترجیح می دادم شما صبر کرده بودی تا من من برسم قبل از سفارش دادن",
+    "fa": "من ترجیح می دادم شما صبر کرده بودی تا من برسم قبل از سفارش دادن",
     "en": "I'd rather you had waited until I arrived before ordering",
+    "groupCode": 0
+  },
+  {
+    "id": 4424,
+    "fa": "جلیقه نجات زیر صندلی شماست",
+    "en": "Life vest is under your seat",
+    "groupCode": 0
+  },
+  {
+    "id": 4425,
+    "fa": "چقدر فاصله است تا تهران؟",
+    "en": "How far is it to Tehran?",
+    "groupCode": 0
+  },
+  {
+    "id": 4426,
+    "fa": "شما ناراحت میشی (مودبانه) اگه من کلاهم را دربیاورم؟ من ترجیح میدم شما انجام ندی",
+    "en": "Would you mind if I took off my hat? I'd rather you didn't",
+    "desc": "After 'Would you mind if' we use the past tense",
+    "groupCode": 0
+  },
+  {
+    "id": 4427,
+    "fa": "من نیاز دارم استراحت کنم (دور شوم) برای یک چند روز",
+    "en": "I need to get away for a few days",
     "groupCode": 0
   }
 ]

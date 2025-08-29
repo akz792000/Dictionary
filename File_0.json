@@ -229,7 +229,7 @@
   },
   {
     "id": 39,
-    "fa": "ترجیح می دم خانه بمانم",
+    "fa": "من ترجیح می دم خانه بمانم",
     "en": "\n 1.I'd rather stay at home \n 2.I'd prefer to stay at home",
     "desc": "\"I would rather stay at home\" and \"I would prefer to stay at home\" have a similar meaning and both express a preference for staying at home. However, \"rather\" implies a stronger preference than \"prefer to\".",
     "groupCode": 0
@@ -1274,8 +1274,9 @@
   },
   {
     "id": 211,
-    "fa": "من ترجیح می دهم به جای رفتن به هتل در اینجا بمانم",
-    "en": "\n 1.I prefer to stay here instead of going to a hotel \n 2.I'd rather stay here instead of going to hotel",
+    "fa": "من ترجیح می دهم اینجا بمانم به جای رفتن به یک هتل",
+    "en": "\n 1.I'd prefer to stay here instead of going to a hotel \n 2.I'd rather stay here instead of going to a hotel",
+    "desc": "I'd rather stay here than go to a hotel",
     "groupCode": 0
   },
   {
@@ -1317,8 +1318,8 @@
   },
   {
     "id": 218,
-    "fa": "من قهوه را به چایی ترجیح میدم",
-    "en": "I prefer coffee to tea",
+    "fa": "\n 1.(ترجیح کلی) من چای را به قهوه ترجیح می‌دهم \n 2.(رسمی ترجیح الان) من چای را به قهوه ترجیح می‌دهم \n 3. من چای را به قهوه ترجیح می دم (ترجیح الان عامیانه)",
+    "en": "\n 1.I prefer tea to coffee \n 2.I'd prefer tea to coffee \n 3.I'd rather tea to coffee",
     "groupCode": 0
   },
   {
@@ -5048,7 +5049,7 @@
   },
   {
     "id": 832,
-    "fa": "شلنگ را می کشم",
+    "fa": "من شلنگ را می کشم",
     "en": "I yank the hose (یَنک) (هُز)",
     "groupCode": 0
   },
@@ -5564,7 +5565,7 @@
   },
   {
     "id": 917,
-    "fa": "من یه چیز (کار) اشتباهی کردم",
+    "fa": "من انجام دادم یه چیز (کار) اشتباه",
     "en": "I did a wrong thing",
     "groupCode": 0
   },
@@ -6661,7 +6662,7 @@
   },
   {
     "id": 1096,
-    "fa": "حتی اگر چیزها سخت است در حال حاضر، شاد باش و به جلو برو",
+    "fa": "حتی گرچه چیزها سخت است در حال حاضر، شاد باش و به جلو برو",
     "en": "Even though things are tough right now, cheer up and keep moving forward",
     "groupCode": 0
   },
@@ -13346,7 +13347,7 @@
   },
   {
     "id": 2197,
-    "fa": "قطعاً آن چیزی نبود که من فکر کردم قصد دارد باشد",
+    "fa": "قطعاً چیزی نبود که من فکر کردم قصد دارد باشد",
     "en": "It was definitely not what I thought it was gonna be",
     "groupCode": 0
   },
@@ -14352,13 +14353,13 @@
   },
   {
     "id": 2363,
-    "fa": "ترجیح می دهم به جای آسانسور از پله برقی استفاده کنم (بگیرم)",
+    "fa": "من ترجیح می دهم بگیرم آسانسور به جای پله برقی (به طور کلی)",
     "en": "I prefer to take the escalator instead of elevator",
     "groupCode": 0
   },
   {
     "id": 2364,
-    "fa": "من انحراف بینی دارم",
+    "fa": "من یک انحراف بینی دارم",
     "en": "I have a deviated nose",
     "groupCode": 0
   },
@@ -16734,7 +16735,7 @@
   },
   {
     "id": 2754,
-    "fa": "این شرکت فراخوانی برای محصول معیوب صادر کرد",
+    "fa": "این شرکت صادر کرد یک فراخوان برای محصول معیوب",
     "en": "The company issued a recall for the faulty product",
     "groupCode": 0
   },
