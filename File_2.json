@@ -4655,8 +4655,8 @@
   },
   {
     "id": 10765,
-    "en": "I study in Paris, but I'm driving home at the end of the semester. My father always cooks very well. I'm also happy",
-    "de": "Ich studiere in Paris, aber ich fahre am Semesterende nach Hause. Mein Vater kocht immer sehr gut. Ich freue mich schon (I'm already looking forward to it)",
+    "en": "I study in Paris, but I'm driving home at the end of the semester. My father always cooks very well. I'm also happy (I'm already looking forward to it)",
+    "de": "Ich studiere in Paris, aber ich fahre am Semesterende nach Hause. Mein Vater kocht immer sehr gut. Ich freue mich schon",
     "groupCode": 1
   },
   {
@@ -9548,8 +9548,8 @@
   },
   {
     "id": 11568,
-    "en": "\n 1.The flowers of a beautiful garden are colorful? \n 2.The weather of a beautiful island is warm? \n 3.The capital of a small country is Vienna \n 4.The beginning of no cold days is in May",
-    "de": "\n 1.Die Blumen eines schönen Gartens sind bunt? \n 2.Das Wetter einer schönen Insel ist warm? \n 3.Die Hauptstadt eines kleinen Landes ist Wien \n 4.Der Anfang keiner kalten Tage ist im Mai",
+    "en": "\n 1.The flowers of a beautiful garden are colorful \n 2.The weather of a beautiful island is warm \n 3.The capital of a small country is Vienna \n 4.The beginning of no cold days is in May",
+    "de": "\n 1.Die Blumen eines schönen Gartens sind bunt \n 2.Das Wetter einer schönen Insel ist warm \n 3.Die Hauptstadt eines kleinen Landes ist Wien \n 4.Der Anfang keiner kalten Tage ist im Mai",
     "desc": "Adjective With Indefinite Article Genitive \n mal: eines + adj -en \n fem: einer + adj -en \n neut: eines + adj -en \n plur: keiner + adj -en \n Dative \n\n\n 1.Die Blumen von einem schönen Garten sind bunt \n 2.Das Wetter von einer schönen Insel ist warm \n 3.Die Hauptstadt von einem kleinen Land ist Wien \n 4.Der Anfang von keinen kalten Tagen ist im Mai",
     "groupCode": 1
   },
@@ -10261,7 +10261,7 @@
   {
     "id": 11685,
     "en": "The plans are compatible with my appointment",
-    "de": "Die Pläne sind mit meinen Terminen vereinbar",
+    "de": "Die Pläne sind mit meinem Terminen vereinbar",
     "groupCode": 1
   },
   {
@@ -10292,6 +10292,25 @@
     "id": 11690,
     "en": "I connect. I connected. I have connected",
     "de": "Ich verbinde. Ich verband. Ich habe verbund",
+    "groupCode": 1
+  },
+  {
+    "id": 11691,
+    "en": "My girl friends and I are watching (Emphasize the experience) a comedy during the holiday (school holidays)",
+    "de": "Meine Freundinnen und ich sehen uns in den Ferien eine Komödie an",
+    "desc": "With reflexive pronoun makes the sentence more natural in German nad emphasizes the experience",
+    "groupCode": 1
+  },
+  {
+    "id": 11692,
+    "en": "Do you watch a movie? I watch a movie",
+    "de": "Guckst du einen Film? Ich gucke einen Film",
+    "groupCode": 1
+  },
+  {
+    "id": 11693,
+    "en": "When is the meeting? The meeting with my friends was very nice",
+    "de": "Wann ist die Sitzung? Das Treffen mit meinen Freunden war sehr schön",
     "groupCode": 1
   }
 ]

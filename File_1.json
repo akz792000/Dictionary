@@ -8595,8 +8595,8 @@
   },
   {
     "id": 4410,
-    "fa": "چقدر زمان مونده تا تهران؟",
-    "en": "How much time is left until Tehran?",
+    "fa": "چقدر زمان مونده تا برسیم تهران؟",
+    "en": "How much time is left to get to Tehran?",
     "groupCode": 0
   },
   {
@@ -8638,8 +8638,8 @@
   },
   {
     "id": 4417,
-    "fa": "ما ترجیح می دهیم که او (مرد) نگفته باشد در این به مامان",
-    "en": "We'd rather he didn't tell Mum about this",
+    "fa": "ما ترجیح می دهیم او (مرد) نگفته باشد در این به مامان",
+    "en": "\n 1.We'd rather he didn't tell Mum about this \n 2.We'd prefer him not to tell Mum about this",
     "groupCode": 0
   },
   {
@@ -8650,20 +8650,20 @@
   },
   {
     "id": 4419,
-    "fa": "\n 1.من ترجیح می دهم (برای) او (مرد) بگیرد صندلی وسط را \n 2.من ترجیح می دهمش اگر او (مرد) بگیرد صندلی وسط را",
-    "en": "\n 1.I'd prefer him to take the middle seat \n 2.I'd prefer it if he took the middle seat",
+    "fa": "من ترجیح می دهم او (مرد) بگیرد صندلی وسط را",
+    "en": "\n 1.I'd rather he took the middle seat \n 2.I'd prefer him to take the middle seat",
     "groupCode": 0
   },
   {
     "id": 4420,
-    "fa": "\n 1.من ترجیح می دهم (برای) شما نروی آنجا دیگه بیشتر \n 2.من ترجیح می دهمش اگر شما نروی آنجا دیگه بیشتر",
-    "en": "\n 1.I'd prefer you not to go over there anymore \n 2.I'd prefer it if you didn't go over there anymore",
+    "fa": "من ترجیح می دهم شما نروی آنجا دیگه بیشتر",
+    "en": "\n 1.I'd rather you didn't go over there anymore \n 2.I'd prefer you not to go over there anymore",
     "groupCode": 0
   },
   {
     "id": 4421,
-    "fa": "من ترجیح می دادم او (زن)بماند یک کم بیشتر",
-    "en": "I would have preferred her to stay a bit longer",
+    "fa": "من ترجیح می دادم او (زن) بماند یک کم بیشتر",
+    "en": "\n 1.I'd have preferred her to stay a bit longer \n 2.I'd rather she had stayed a bit longer",
     "groupCode": 0
   },
   {
@@ -8701,6 +8701,12 @@
     "id": 4427,
     "fa": "من نیاز دارم استراحت کنم (دور شوم) برای یک چند روز",
     "en": "I need to get away for a few days",
+    "groupCode": 0
+  },
+  {
+    "id": 4428,
+    "fa": "بیایید این را ساده کنیم بنابراین شما مجبور نباشید قوانین زیادی را در سر خود مرور کنید (ذهنی همزمان مدیریت کنید)",
+    "en": "Let's simplify this so you don't have to juggle too many rules in your head",
     "groupCode": 0
   }
 ]
