@@ -8817,7 +8817,7 @@
   },
   {
     "id": 11449,
-    "en": "I have a question about (toward) the party: Could you please tell (say) me when the party starts and when it ends?",
+    "en": "I have a question about (toward) the party: Could you (formal) please tell (say) me when the party starts and when it ends?",
     "de": "Ich habe eine Frage zur (über die) Party: Könnten Sie mir bitte sagen, wann die Party anfängt und wann sie aufhört?",
     "desc": "zur Party → “about the party” in the sense of the event/topic (more natural in German).\n\nüber die Party → “about the party” focusing on the subject/content of your question (less common).",
     "groupCode": 1
@@ -9269,7 +9269,7 @@
   },
   {
     "id": 11523,
-    "en": "I will. I became. I have become",
+    "en": "I become (will). I became. I have become",
     "de": "Ich werde. Ich wurde. Ich bin geworden",
     "groupCode": 1
   },
@@ -9569,7 +9569,7 @@
   },
   {
     "id": 11571,
-    "en": "\n 1.With cold tea it doesn't taste good \n 2.With cold soup I am not happy \n 3.With a large boat we travel (drive) across (above) the lake \n 4.With long journeys I'm tired",
+    "en": "\n 1.With cold tea it doesn't taste good \n 2.With cold soup I am not happy \n 3.With large boat we travel (drive) across (above) the lake \n 4.With long journeys I'm tired",
     "de": "\n 1.Mit kaltem Tee schmeckt es nicht gut \n 2.Mit kalter Suppe bin ich nicht glücklich \n 3.Mit großem Boot fahren wir über den See \n 4.Mit langen Wegen bin ich müde",
     "desc": "Adjective With No Article Dative \n mal: adj -em \n fem: adj -er \n neut: adj -em \n plur: adj -en",
     "groupCode": 1
@@ -10311,6 +10311,72 @@
     "id": 11693,
     "en": "When is the meeting? The meeting with my friends was very nice",
     "de": "Wann ist die Sitzung? Das Treffen mit meinen Freunden war sehr schön",
+    "groupCode": 1
+  },
+  {
+    "id": 11694,
+    "en": "The door is open",
+    "de": "\n 1.Die Tür ist offen \n 2.Die Tür ist geöffnet (formal)",
+    "groupCode": 1
+  },
+  {
+    "id": 11695,
+    "en": "I will go",
+    "de": "Ich werde gehen",
+    "groupCode": 1
+  },
+  {
+    "id": 11696,
+    "en": "I will have gone",
+    "de": "Ich werde gegangen sein",
+    "groupCode": 1
+  },
+  {
+    "id": 11697,
+    "en": "He had found it in the parking lot (place)",
+    "de": "Er hatte es auf dem Parkplatz gefunden",
+    "groupCode": 1
+  },
+  {
+    "id": 11698,
+    "en": "In what school year are you?",
+    "de": "In welchem Schuljahr bist du?",
+    "groupCode": 1
+  },
+  {
+    "id": 11699,
+    "en": "I (will) become a doctor by profession next year",
+    "de": "Ich werde Arzt von Beruf in nächstem Jahr",
+    "groupCode": 1
+  },
+  {
+    "id": 11700,
+    "en": "Please don't say anything, he is coming soon (in a moment)",
+    "de": "Sag bite nichts, er koomt gleich",
+    "groupCode": 1
+  },
+  {
+    "id": 11701,
+    "en": "I can't open the E-Mail",
+    "de": "Ich kann die E-Mail nicht öffnen",
+    "groupCode": 1
+  },
+  {
+    "id": 11702,
+    "en": "Are you giving a plant or a horse to your daughter?",
+    "de": "Gibst du deiner Tochter eine Pflanze oder ein Pferd?",
+    "groupCode": 1
+  },
+  {
+    "id": 11703,
+    "en": "I want to sing a song for my grandpa. Can you bring your guitar along?",
+    "de": "Ich will meinem Opa ein  Lied singen. Kannst du deine Gitarre mitbringen?",
+    "groupCode": 1
+  },
+  {
+    "id": 11704,
+    "en": "I have an earache. Can we go to (toward) a doctor (female)?",
+    "de": "Ich habe Ohrenschmerzen. Können wir zur Ärztin gehen?",
     "groupCode": 1
   }
 ]

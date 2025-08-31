@@ -8638,7 +8638,7 @@
   },
   {
     "id": 4417,
-    "fa": "ما ترجیح می دهیم او (مرد) نگفته باشد در این به مامان",
+    "fa": "ما ترجیح می دهیم او (مرد) نگوید (به) مامان در این (مورد) ",
     "en": "\n 1.We'd rather he didn't tell Mum about this \n 2.We'd prefer him not to tell Mum about this",
     "groupCode": 0
   },
@@ -8662,7 +8662,7 @@
   },
   {
     "id": 4421,
-    "fa": "من ترجیح می دادم او (زن) بماند یک کم بیشتر",
+    "fa": "من ترجیح می دادم او (زن) مانده بود یک کم بیشتر",
     "en": "\n 1.I'd have preferred her to stay a bit longer \n 2.I'd rather she had stayed a bit longer",
     "groupCode": 0
   },
@@ -8707,6 +8707,24 @@
     "id": 4428,
     "fa": "بیایید این را ساده کنیم بنابراین شما مجبور نباشید قوانین زیادی را در سر خود مرور کنید (ذهنی همزمان مدیریت کنید)",
     "en": "Let's simplify this so you don't have to juggle too many rules in your head",
+    "groupCode": 0
+  },
+  {
+    "id": 4429,
+    "fa": "او (زن) سعی کرد بسازد یک مکالمه با همکار جدیدش",
+    "en": "She tried to make a conversation with her new coworker",
+    "groupCode": 0
+  },
+  {
+    "id": 4430,
+    "fa": "اگر شما دارید مشکل دیدن چیزهای دور، شما نزدیک‌بین یا کوته‌بین هستید و اگر شما دارید مشکل دیدن چیزهای نزدیک، شما دوربین یا دوربین هستید",
+    "en": "If you have trouble seeing things far away you're near-sighted or short-sighted and if you have trouble seeing things close up you're far-sighted or long-sighted",
+    "groupCode": 0
+  },
+  {
+    "id": 4431,
+    "fa": "من به تعویق نمی‌اندازم به خاطر اینکه من اضطراب دارم",
+    "en": "I don't procrastinate because I have anxiety",
     "groupCode": 0
   }
 ]
