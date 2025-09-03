@@ -10072,8 +10072,9 @@
   },
   {
     "id": 11654,
-    "en": "With what finances (funds) the German state the social insurance? Social taxes",
+    "en": "With which the social insurance finances (funds) the German state? Social taxes",
     "de": "Womit finanziert der deutsche Staat die Sozialversicherung? Sozialabgaben",
+    "desc": "How does the German government finance social security?",
     "groupCode": 1
   },
   {
@@ -10347,7 +10348,7 @@
   },
   {
     "id": 11699,
-    "en": "I (will) become a doctor by profession in the next year",
+    "en": "I (will) become a doctor by profession in next year",
     "de": "Ich werde Arzt von Beruf in nächstem Jahr",
     "groupCode": 1
   },
@@ -10389,7 +10390,7 @@
   },
   {
     "id": 11706,
-    "en": "In cities Rents have risen sharply",
+    "en": "In the cities Rents have risen sharply",
     "de": "In den Städten sind die Mieten stark gewachst",
     "groupCode": 1
   },
@@ -10407,13 +10408,13 @@
   },
   {
     "id": 11709,
-    "en": "How long should I wait for the bus?",
+    "en": "How long should I wait (for) the bus?",
     "de": "Wie lange soll ich den Bus warten?",
     "groupCode": 1
   },
   {
     "id": 11710,
-    "en": "Are you looking for something specific?",
+    "en": "Are you (formal) looking for something specific?",
     "de": "Suchen Sie etwas bestimmtes?",
     "groupCode": 1
   },
@@ -10426,7 +10427,8 @@
   {
     "id": 11712,
     "en": "The wall is tall",
-    "de": "Die Mauer ist hoch",
+    "de": "Die Mauer/Wand ist hoch",
+    "desc": "Mauer is a free-standing wall or outer wall na doften made of stone, brick or concrete",
     "groupCode": 1
   },
   {

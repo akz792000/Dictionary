@@ -14353,8 +14353,7 @@
   {
     "id": 2363,
     "fa": "من ترجیح می دهم بگیرم پله برقی به جای آسانسور (به طور کلی)",
-    "en": "I prefer to take the escalator instead of elevator",
-    "desc": "If you are talking about verbs (to take), user `prefer to ... rather than ...` or `prefer ... instead of ...` \n\n\n If you are talking about nouns (escalator, elevator), you can user `prefer ... to ...`",
+    "en": "I'd rather take the escalator than the elevator",
     "groupCode": 0
   },
   {
