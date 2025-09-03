@@ -1274,9 +1274,8 @@
   },
   {
     "id": 211,
-    "fa": "من ترجیح می دهم اینجا بمانم به جای رفتن به یک هتل",
-    "en": "\n 1.I'd prefer to stay here instead of going to a hotel \n 2.I'd rather stay here instead of going to a hotel",
-    "desc": "I'd rather stay here than go to a hotel",
+    "fa": "من ترجیح می دهم اینجا بمانم تا بروم به یک هتل",
+    "en": "I'd rather stay here than go to a hotel",
     "groupCode": 0
   },
   {
@@ -13910,7 +13909,7 @@
   },
   {
     "id": 2290,
-    "fa": "در بین کارشناسان کسب و کار یک دیدگاه (نگه) گسترده ای وجود دارد",
+    "fa": "وجود دارد یک دیدگاه (نگه) گسترده در بین کارشناسان (ماهر ها) کسب و کار",
     "en": "There is a widely held view among business experts",
     "groupCode": 0
   },

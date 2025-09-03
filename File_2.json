@@ -5655,8 +5655,8 @@
   },
   {
     "id": 10929,
-    "en": "Do you want to invite your parents to the lunch?",
-    "de": "Willst du deine Eltern zum (toward) Mittagessen einladen?",
+    "en": "Do you want to invite your parents to (toward) the lunch?",
+    "de": "Willst du deine Eltern zum Mittagessen einladen?",
     "groupCode": 1
   },
   {
@@ -6828,7 +6828,7 @@
   },
   {
     "id": 11123,
-    "en": "My grandparents want to visit us and the apartment is now clean enough",
+    "en": "My grandparents would like to visit us and the apartment is now clean enough",
     "de": "Meine Großeltern möchten uns besuchen und die Wohnung ist jetzt sauber genug",
     "groupCode": 1
   },
@@ -8837,7 +8837,7 @@
   },
   {
     "id": 11452,
-    "en": "I am doing training as a mechanic",
+    "en": "I am doing a training as a mechanic",
     "de": "Ich mache eine Ausbildung als Mechanike",
     "groupCode": 1
   },
@@ -8983,7 +8983,7 @@
   },
   {
     "id": 11476,
-    "en": "Our employees talk from their expeditions",
+    "en": "Our employees tell from their expeditions",
     "de": "Unsere Mitarbeiter erzählen von ihren Expeditionen",
     "desc": "\"von\": This preposition is used when someone is talking about their personal experiences, stories, or accounts. It implies a more direct, personal connection to what is being shared.\n\nExample: \"Unsere Mitarbeiter erzählen von ihren Expeditionen.\"\n→ This means the employees are sharing their personal stories or experiences from their expeditions.\n\"über\": This preposition is used when talking about a topic in a more general or abstract sense, without necessarily implying personal involvement.\n\nExample: \"Unsere Mitarbeiter sprechen über Expeditionen.\"\n→ This would mean the employees are discussing expeditions in general, not necessarily their own.",
     "groupCode": 1
@@ -10055,7 +10055,7 @@
   {
     "id": 11651,
     "en": "My aunt is calling my nephew now",
-    "de": "Meine Tante ruft jetzt meinen Nefften an",
+    "de": "Meine Tante ruft jetzt meinen Neffen an",
     "groupCode": 1
   },
   {
