@@ -2119,7 +2119,7 @@
   },
   {
     "id": 10346,
-    "en": "Best regards and (have) a nice weekend",
+    "en": "Best regards and (have) a nice (beautiful) weekend",
     "de": "Herzliche Grüße und ein schönes Wochenende",
     "groupCode": 1
   },
@@ -4655,8 +4655,8 @@
   },
   {
     "id": 10765,
-    "en": "I study in Paris, but I'm driving home at the end of the semester. My father always cooks very well. I'm also happy (I'm already looking forward to it)",
-    "de": "Ich studiere in Paris, aber ich fahre am Semesterende nach Hause. Mein Vater kocht immer sehr gut. Ich freue mich schon",
+    "en": "I study in Paris, but I'm driving home at the end of the semester. My father always cooks very well",
+    "de": "Ich studiere in Paris, aber ich fahre am Semesterende nach Hause. Mein Vater kocht immer sehr gut",
     "groupCode": 1
   },
   {
@@ -6152,7 +6152,7 @@
   },
   {
     "id": 11011,
-    "en": "The way to the school is short",
+    "en": "The way to (toward) the school is short",
     "de": "Der Weg zur Schule ist kurz",
     "groupCode": 1
   },
@@ -6314,7 +6314,7 @@
   },
   {
     "id": 11038,
-    "en": "Do you have a nice day off (free day)?",
+    "en": "Do you have a nice (beautiful) day off (free day)?",
     "de": "Hast du einen schönen freien Tag?",
     "groupCode": 1
   },
@@ -8341,6 +8341,7 @@
     "id": 11371,
     "en": "You become a doctor",
     "de": "Du wirst Arzt",
+    "desc": "werde, wirst, wird, werden, werdet, werden",
     "groupCode": 1
   },
   {
@@ -9550,7 +9551,7 @@
     "id": 11568,
     "en": "\n 1.The flowers of a beautiful garden are colorful \n 2.The weather of a beautiful island is warm \n 3.The capital of a small country is Vienna \n 4.The beginning of no cold days is in May",
     "de": "\n 1.Die Blumen eines schönen Gartens sind bunt \n 2.Das Wetter einer schönen Insel ist warm \n 3.Die Hauptstadt eines kleinen Landes ist Wien \n 4.Der Anfang keiner kalten Tage ist im Mai",
-    "desc": "Adjective With Indefinite Article Genitive \n mal: eines + adj -en \n fem: einer + adj -en \n neut: eines + adj -en \n plur: keiner + adj -en \n Dative \n\n\n 1.Die Blumen von einem schönen Garten sind bunt \n 2.Das Wetter von einer schönen Insel ist warm \n 3.Die Hauptstadt von einem kleinen Land ist Wien \n 4.Der Anfang von keinen kalten Tagen ist im Mai",
+    "desc": "Adjective With Indefinite Article Genitive \n mal: eines + adj -en \n fem: einer + adj -en \n neut: eines + adj -en \n plur: keiner + adj -en \n Dative \n\n\n 1.Die Blumen von einem schönen Garten sind bunt \n 2.Das Wetter von einer schönen Insel ist warm \n 3.Die Hauptstadt von einem kleinen Land ist Wien \n 4.Der Anfang von keinen kalten Tagen ist im Mai \n\n Gartens: s just marks Genetiv Singular (masculine), not plural",
     "groupCode": 1
   },
   {
@@ -10054,7 +10055,7 @@
   {
     "id": 11651,
     "en": "My aunt is calling my nephew now",
-    "de": "Meine Tante ruft jetzt mein Neffte an",
+    "de": "Meine Tante ruft jetzt meinen Nefften an",
     "groupCode": 1
   },
   {
@@ -10260,8 +10261,8 @@
   },
   {
     "id": 11685,
-    "en": "The plans are compatible with my appointment",
-    "de": "Die Pläne sind mit meinem Terminen vereinbar",
+    "en": "The plans are compatible with my appointments",
+    "de": "Die Pläne sind mit meinen Terminen vereinbar",
     "groupCode": 1
   },
   {
@@ -10309,8 +10310,9 @@
   },
   {
     "id": 11693,
-    "en": "When is the meeting? The meeting with my friends was very nice",
+    "en": "When is the meeting? The meeting with my friends was very nice (beautiful)",
     "de": "Wann ist die Sitzung? Das Treffen mit meinen Freunden war sehr schön",
+    "desc": "Sitzung: a formal, official meeting \n\n Treffen: a general meeting or get-together",
     "groupCode": 1
   },
   {
@@ -10333,19 +10335,19 @@
   },
   {
     "id": 11697,
-    "en": "He had found it in the parking lot (place)",
+    "en": "He had found it in (on) the parking lot (place)",
     "de": "Er hatte es auf dem Parkplatz gefunden",
     "groupCode": 1
   },
   {
     "id": 11698,
-    "en": "In what school year are you?",
+    "en": "In which school year are you?",
     "de": "In welchem Schuljahr bist du?",
     "groupCode": 1
   },
   {
     "id": 11699,
-    "en": "I (will) become a doctor by profession next year",
+    "en": "I (will) become a doctor by profession in the next year",
     "de": "Ich werde Arzt von Beruf in nächstem Jahr",
     "groupCode": 1
   },
@@ -10370,13 +10372,73 @@
   {
     "id": 11703,
     "en": "I want to sing a song for my grandpa. Can you bring your guitar along?",
-    "de": "Ich will meinem Opa ein  Lied singen. Kannst du deine Gitarre mitbringen?",
+    "de": "Ich will meinem Opa ein Lied singen. Kannst du deine Gitarre mitbringen?",
     "groupCode": 1
   },
   {
     "id": 11704,
     "en": "I have an earache. Can we go to (toward) a doctor (female)?",
     "de": "Ich habe Ohrenschmerzen. Können wir zur Ärztin gehen?",
+    "groupCode": 1
+  },
+  {
+    "id": 11705,
+    "en": "I'm also happy (I'm already looking forward to it)",
+    "de": "Ich freue mich schon",
+    "groupCode": 1
+  },
+  {
+    "id": 11706,
+    "en": "In cities Rents have risen sharply",
+    "de": "In den Städten sind die Mieten stark gewachst",
+    "groupCode": 1
+  },
+  {
+    "id": 11707,
+    "en": "Here man find not only expensive designer goods",
+    "de": "Hier findet man nicht nur teure Designerware",
+    "groupCode": 1
+  },
+  {
+    "id": 11708,
+    "en": "She has painted this picture",
+    "de": "Sie hat dieses Bild gemalt",
+    "groupCode": 1
+  },
+  {
+    "id": 11709,
+    "en": "How long should I wait for the bus?",
+    "de": "Wie lange soll ich den Bus warten?",
+    "groupCode": 1
+  },
+  {
+    "id": 11710,
+    "en": "Are you looking for something specific?",
+    "de": "Suchen Sie etwas bestimmtes?",
+    "groupCode": 1
+  },
+  {
+    "id": 11711,
+    "en": "The stone is heavy",
+    "de": "Der Stein ist schwer",
+    "groupCode": 1
+  },
+  {
+    "id": 11712,
+    "en": "The wall is tall",
+    "de": "Die Mauer ist hoch",
+    "groupCode": 1
+  },
+  {
+    "id": 11713,
+    "en": "Why are you friends with me?",
+    "de": "Warum bist du mit mir befreundet?",
+    "groupCode": 1
+  },
+  {
+    "id": 11714,
+    "en": "Her voice is beautiful",
+    "de": "Ihre Stimme ist schön",
     "groupCode": 1
   }
 ]

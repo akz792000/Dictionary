@@ -6487,7 +6487,7 @@
   },
   {
     "id": 4063,
-    "fa": "اگر خمیر سفت است، خامه بیشتر (به آن) اضافه کنید",
+    "fa": "اگر خمیر سفت (خشک) است، خامه بیشتر (به آن) اضافه کنید",
     "en": "If the dough is stiff, add more cream",
     "groupCode": 0
   },
@@ -8602,7 +8602,7 @@
   {
     "id": 4411,
     "fa": "من بیشتر ترجیح می دهم قطار بگیرم به جای پرواز",
-    "en": "\n 1.I'd much prefer to take the train rather than fly \n 2.I'd much rather take the train than fly",
+    "en": "\n 1.I'd much rather take the train than fly \n 2.I'd much prefer to take the train rather than fly",
     "desc": "I prefer …\n\nGeneral truth / habit.\n\nTalks about what you usually like more. \n\n\n I would prefer …\n\nPolite, hypothetical, or for a specific situation.\n\nOften used when making a choice right now.",
     "groupCode": 0
   },
@@ -8663,7 +8663,7 @@
   {
     "id": 4421,
     "fa": "من ترجیح می دادم او (زن) مانده بود یک کم بیشتر",
-    "en": "\n 1.I'd have preferred her to stay a bit longer \n 2.I'd rather she had stayed a bit longer",
+    "en": "\n 1.I'd rather she had stayed a bit longer \n 2.I'd have preferred her to stay a bit longer",
     "groupCode": 0
   },
   {
@@ -8725,6 +8725,48 @@
     "id": 4431,
     "fa": "من به تعویق نمی‌اندازم به خاطر اینکه من اضطراب دارم",
     "en": "I don't procrastinate because I have anxiety",
+    "groupCode": 0
+  },
+  {
+    "id": 4432,
+    "fa": "به عنوان یک تشکر (از) شما، شما وارد خواهید شد داخل یک قرعه‌کشی تا ببرید یک کوپن ۵۰ یورویی ",
+    "en": "As a thank you, you'll be entered into a raffle to win a 50 Euro voucher",
+    "groupCode": 0
+  },
+  {
+    "id": 4433,
+    "fa": "گردنم سفت (خشک) شده است",
+    "en": "My neck is stiff",
+    "groupCode": 0
+  },
+  {
+    "id": 4434,
+    "fa": "آنها تبلیغ می‌کنند محصول جدید خود را به صورت آنلاین",
+    "en": "They tout their new product online",
+    "groupCode": 0
+  },
+  {
+    "id": 4435,
+    "fa": "تکلیف مرا کلافه خواهد کرد",
+    "en": "The homework will overwhelm me",
+    "groupCode": 0
+  },
+  {
+    "id": 4436,
+    "fa": "دارم من خواب می‌بینم؟ تو برگشتی؟",
+    "en": "Am I dreaming? You came back",
+    "groupCode": 0
+  },
+  {
+    "id": 4437,
+    "fa": "چرا شما با من دوست هستی؟",
+    "en": "Why are you friends with me?",
+    "groupCode": 0
+  },
+  {
+    "id": 4438,
+    "fa": "او (زن) احساس می‌کند فریب خورده توسط شوهر خیانتکارش",
+    "en": "She feels cheated by her cheating husband",
     "groupCode": 0
   }
 ]
