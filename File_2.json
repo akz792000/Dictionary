@@ -8180,7 +8180,7 @@
   {
     "id": 11345,
     "en": "Salad makes fit, beautiful and intelligent. Then I don't need salad",
-    "de": "Salat macht fit, schon und intelligent. Dann brauche ich keinen Salat",
+    "de": "Salat macht fit, schön und intelligent. Dann brauche ich keinen Salat",
     "groupCode": 1
   },
   {
@@ -10390,7 +10390,7 @@
   },
   {
     "id": 11706,
-    "en": "In the cities Rents have risen sharply",
+    "en": "In the cities the Rents have risen (grow) sharply (heavily)",
     "de": "In den Städten sind die Mieten stark gewachst",
     "groupCode": 1
   },
@@ -10441,6 +10441,102 @@
     "id": 11714,
     "en": "Her voice is beautiful",
     "de": "Ihre Stimme ist schön",
+    "groupCode": 1
+  },
+  {
+    "id": 11715,
+    "en": "I grow. I grew. I have grown",
+    "de": "Ich wachse. Ich wuchs. Ich bin gewachsen",
+    "groupCode": 1
+  },
+  {
+    "id": 11716,
+    "en": "I pick. I picked. I have picked",
+    "de": "Ich pflücke. Ich pflückte. Ich habe gepflückt",
+    "groupCode": 1
+  },
+  {
+    "id": 11717,
+    "en": "I throw. I threw. I have thrown",
+    "de": "Ich werfe. Ich warf. Ich habe geworfen",
+    "groupCode": 1
+  },
+  {
+    "id": 11718,
+    "en": "Do you have time at all?",
+    "de": "Hast du überhaupt Zeit?",
+    "groupCode": 1
+  },
+  {
+    "id": 11719,
+    "en": "We are learning German together",
+    "de": "Wir lernen gemeinsam Deutsch",
+    "groupCode": 1
+  },
+  {
+    "id": 11720,
+    "en": "The arrow hits the target",
+    "de": "Der Pfeil trifft die Scheibe",
+    "groupCode": 1
+  },
+  {
+    "id": 11721,
+    "en": "The scissors, The rock, The paper",
+    "de": "Die Schere, Der Stein, Das Papier",
+    "groupCode": 1
+  },
+  {
+    "id": 11722,
+    "en": "My bed is broken, where is the reception?",
+    "de": "Mein Bett ist kaputt, wo ist die Rezeption?",
+    "groupCode": 1
+  },
+  {
+    "id": 11723,
+    "en": "I'm on (at) the phone at (im) the moment, be quieter, please",
+    "de": "Ich bin im Moment am Telefon, sie leiser, bitte",
+    "groupCode": 1
+  },
+  {
+    "id": 11724,
+    "en": "Maybe we can do the housework (chores) together",
+    "de": "Vielleicht können wir die Hausarbeit zusammen machen",
+    "groupCode": 1
+  },
+  {
+    "id": 11725,
+    "en": "When do you call your brother, is he coming to (toward) the party?",
+    "de": "Wann rufst du deinen Bruder an, kommt er zur Party?",
+    "groupCode": 1
+  },
+  {
+    "id": 11726,
+    "en": "We would like to give roses to my niece",
+    "de": "Wir möchten meiner Nichte rosen geben",
+    "groupCode": 1
+  },
+  {
+    "id": 11727,
+    "en": "I'm sitting with my aunt and her son is dancing all alone",
+    "de": "Ich sitze mit meiner Tante und ihr Sohn tanzt ganz allein",
+    "groupCode": 1
+  },
+  {
+    "id": 11728,
+    "en": "The garden is better than the club",
+    "de": "Der Garten ist besser als der Club",
+    "groupCode": 1
+  },
+  {
+    "id": 11729,
+    "en": "What do you like doing by nice weather?",
+    "de": "Was machst du gern bei schönem Wetter?",
+    "groupCode": 1
+  },
+  {
+    "id": 11730,
+    "en": "Why do you never go walking (go for a walk) by nice weather?",
+    "de": "Warum gehst du bei schönem Wetter nie spazieren?",
     "groupCode": 1
   }
 ]

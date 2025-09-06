@@ -8514,7 +8514,7 @@
   },
   {
     "id": 4397,
-    "fa": "وجود دارد فقط چهار نفر از شما و پانزده نفر از من. شانس شما خیلی زیاد نیست",
+    "fa": "وجود دارد فقط چهار نفر از شما و پانزده نفر از من. شانس شما خیلی بزرگ نیست",
     "en": "There's only four of you and 15 of me. Your odds are not so great",
     "groupCode": 0
   },
@@ -8753,7 +8753,7 @@
   },
   {
     "id": 4436,
-    "fa": "دارم من خواب می‌بینم؟ تو برگشتی؟",
+    "fa": "دارم من خواب می‌بینم؟ تو برگشتی",
     "en": "Am I dreaming? You came back",
     "groupCode": 0
   },
@@ -8780,6 +8780,54 @@
     "id": 4440,
     "fa": "یک نقد بررسی متعادل است، در حالی که انتقاد عمدتاً قضاوت منفی است",
     "en": "A critique is balanced review, while criticism is mostly negative judgment",
+    "groupCode": 0
+  },
+  {
+    "id": 4441,
+    "fa": "کودک عاشق بازی با جغجغه‌اش (زن) است",
+    "en": "The baby loves playing with her rattle",
+    "groupCode": 0
+  },
+  {
+    "id": 4442,
+    "fa": "من (ساختم) گرفتم تصمیم بشردوستانه با اهدای تمام پاداشم (بونس) به خیریه",
+    "en": "I made an altruistic decision by donating all my bonus to charity",
+    "groupCode": 0
+  },
+  {
+    "id": 4443,
+    "fa": "چگونه است قرار گذاشتن در ایران در مقایسه با آمریکا؟",
+    "en": "How's dating in Iran as opposed to the U.S?",
+    "groupCode": 0
+  },
+  {
+    "id": 4444,
+    "fa": "شما ندارید یک طیف زیادی از گزینه ها",
+    "en": "You don't have as much of a range of options",
+    "groupCode": 0
+  },
+  {
+    "id": 4445,
+    "fa": "در ایران، شما فقط باید فوراً ازدواج کنید",
+    "en": "In Iran, You just have to pretty much get married right away",
+    "groupCode": 0
+  },
+  {
+    "id": 4446,
+    "fa": "من تقریبا موافقم",
+    "en": "I pretty much agree",
+    "groupCode": 0
+  },
+  {
+    "id": 4447,
+    "fa": "من مریض و خسته ام از شنیدن بهانه های یکسان از برادرم",
+    "en": "I'm sick and tired of hearing the same excuses from her brother",
+    "groupCode": 0
+  },
+  {
+    "id": 4448,
+    "fa": "به نفع شماست سخت درس بخوانید",
+    "en": "It's in your interest to study hard",
     "groupCode": 0
   }
 ]
