@@ -8801,7 +8801,7 @@
   {
     "id": 11446,
     "en": "She followed the car untill to (toward) the intersection",
-    "de": "Sie folgte dem Auto bis zur Kreuzung",
+    "de": "\n 1.Sie folgte dem Auto bis zur Kreuzung \n 2.Sie ist dem Auto bis zur Kreuzung gefolgt",
     "groupCode": 1
   },
   {
@@ -10397,7 +10397,7 @@
   {
     "id": 11707,
     "en": "Here man find not only expensive designer goods",
-    "de": "Hier findet man nicht nur teure Designerware",
+    "de": "Hier findet man nicht nur teuer Designerware",
     "groupCode": 1
   },
   {
@@ -10481,8 +10481,8 @@
   },
   {
     "id": 11721,
-    "en": "The scissors, The rock, The paper",
-    "de": "Die Schere, Der Stein, Das Papier",
+    "en": "The rock, The paper, The scissors",
+    "de": "Der Stein, Das Papier, Die Schere",
     "groupCode": 1
   },
   {
@@ -10537,6 +10537,43 @@
     "id": 11730,
     "en": "Why do you never go walking (go for a walk) by nice weather?",
     "de": "Warum gehst du bei schönem Wetter nie spazieren?",
+    "groupCode": 1
+  },
+  {
+    "id": 11731,
+    "en": "The old bridge over the river connects the both parts of the city",
+    "de": "Die alte Brücke über den Fluss verbindet die beiden Teile der Stadt",
+    "groupCode": 1
+  },
+  {
+    "id": 11732,
+    "en": "When does the next French course find?",
+    "de": "Wann findet der nächste Französischkurs statt?",
+    "groupCode": 1
+  },
+  {
+    "id": 11733,
+    "en": "The boy made a mean remark on the bridge at the river",
+    "de": "Der Junge machte eine gemeine Bemerkung auf der Brücke am fluss",
+    "groupCode": 1
+  },
+  {
+    "id": 11734,
+    "en": "I'm not tired at all today",
+    "de": "Ich bin heute gar nicht müde",
+    "groupCode": 1
+  },
+  {
+    "id": 11735,
+    "en": "We have a shared (together) goal",
+    "de": "Wir haben ein gemeinsames Ziel",
+    "desc": "Zusammen: Physicaly together, Gemeinsam = Together in the sence of sharing or having something in common",
+    "groupCode": 1
+  },
+  {
+    "id": 11736,
+    "en": "\n 1.Adj: Specific Adv: Specifically \n 2.Adj: Special Adv: Specially",
+    "de": "\n 1.Adj: Bestimmte, Bestimmter, Bestimmtes - Adv: Bestimmt \n 2.Adj: Besonderer, Besondere, Besonderes - Adv: Besonders",
     "groupCode": 1
   }
 ]

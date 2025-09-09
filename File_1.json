@@ -5772,7 +5772,7 @@
   },
   {
     "id": 3945,
-    "fa": "چرا امروز صبح دیر کردی (بودی)؟",
+    "fa": "چرا امروز شما صبح دیر کردی (بودی)؟",
     "en": "Why were you late this morning?",
     "groupCode": 0
   },
@@ -7573,8 +7573,8 @@
   },
   {
     "id": 4241,
-    "fa": "زیاده روی نکن",
-    "en": "Don't overdo it",
+    "fa": "در خوردن شیرینی زیاده روی نکن(زیاده روی نکن با شیرنیها)",
+    "en": "Don't overdo it with sweets",
     "groupCode": 0
   },
   {
@@ -8808,7 +8808,7 @@
   },
   {
     "id": 4445,
-    "fa": "در ایران، شما فقط باید فوراً ازدواج کنید",
+    "fa": "در ایران، شما فقط باید تقریبا ازدواج کنید فوراً",
     "en": "In Iran, You just have to pretty much get married right away",
     "groupCode": 0
   },
@@ -8821,13 +8821,55 @@
   {
     "id": 4447,
     "fa": "من مریض و خسته ام از شنیدن بهانه های یکسان از برادرم",
-    "en": "I'm sick and tired of hearing the same excuses from her brother",
+    "en": "I'm sick and tired of hearing the same excuses from my brother",
     "groupCode": 0
   },
   {
     "id": 4448,
     "fa": "به نفع شماست سخت درس بخوانید",
     "en": "It's in your interest to study hard",
+    "groupCode": 0
+  },
+  {
+    "id": 4449,
+    "fa": "تلفظ من داره می شود واضح‌تر با تمرین",
+    "en": "My pronunciation /proˌnənsiˈeɪʃn̩/ is getting clearer with practice",
+    "groupCode": 0
+  },
+  {
+    "id": 4450,
+    "fa": "خاله آلیس همیشه یک کمی عجیب و غریب (خارج از مرکز، نامتعارف) بوده است",
+    "en": "Aunt Alice has always been a bit eccentric",
+    "groupCode": 0
+  },
+  {
+    "id": 4451,
+    "fa": "پنگوئن روی یخ تلوتلو خورد",
+    "en": "The penguin /ˈpeŋɡwən/ waddled /وادلد/ across the ice",
+    "groupCode": 0
+  },
+  {
+    "id": 4452,
+    "fa": "این فیلم بیش از حد اهمیت داده شده",
+    "en": "This movie is overrated",
+    "groupCode": 0
+  },
+  {
+    "id": 4453,
+    "fa": "من بدون شک باهوش‌ترین فرد در شرکت هستم",
+    "en": "I'm hands down the smartest person in the company",
+    "groupCode": 0
+  },
+  {
+    "id": 4454,
+    "fa": "Breaking Bad بدون شک بهترین سریال تلویزیونی ساخته شده تا به حال است",
+    "en": "Breaking Bad is hands down the best TV show ever made",
+    "groupCode": 0
+  },
+  {
+    "id": 4455,
+    "fa": "شما چه فکر می‌کنی شما انجام خواهی داد پنج سال از حالا؟",
+    "en": "What do you think you'll be doing five years from now?",
     "groupCode": 0
   }
 ]
