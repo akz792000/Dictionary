@@ -2439,7 +2439,7 @@
   },
   {
     "id": 10399,
-    "en": "I am definitely (entire certainly) coming to (toward) the party",
+    "en": "I am definitely (entire specifically) coming to (toward) the party",
     "de": "Ich komme ganz bestimmt zur Party",
     "groupCode": 1
   },
@@ -4353,7 +4353,7 @@
   },
   {
     "id": 10715,
-    "en": "Is tomorrow definitely (entire certainly) an important day?",
+    "en": "Is tomorrow definitely (entire specifically) an important day?",
     "de": "Ist morgen ganz bestimmt ein wichtiger Tag?",
     "groupCode": 1
   },
@@ -5982,7 +5982,7 @@
   },
   {
     "id": 10983,
-    "en": "We drive almost always by the tram. The traffic in the city is very slow",
+    "en": "We drive almost always by (with) the tram. The traffic in the city is very slow",
     "de": "Wir fahren fast immer mit der Straßenbahn. Der Verkehr in der Stadt ist sehr langsam",
     "groupCode": 1
   },
@@ -9970,7 +9970,7 @@
   },
   {
     "id": 11637,
-    "en": "This is definitely my teacher",
+    "en": "This is specifically my teacher",
     "de": "Das ist bestimmt mein Lehrer",
     "groupCode": 1
   },
@@ -10517,7 +10517,7 @@
   },
   {
     "id": 11727,
-    "en": "I'm sitting with my aunt and her son is dancing all alone",
+    "en": "I'm sitting with my aunt and her son is dancing all (entire) alone",
     "de": "Ich sitze mit meiner Tante und ihr Sohn tanzt ganz allein",
     "groupCode": 1
   },
@@ -10542,12 +10542,12 @@
   {
     "id": 11731,
     "en": "The old bridge over the river connects the both parts of the city",
-    "de": "Die alte Brücke über den Fluss verbindet die beiden Teile der Stadt",
+    "de": "Die alte Brücke über dem Fluss verbindet die beiden Teile der Stadt",
     "groupCode": 1
   },
   {
     "id": 11732,
-    "en": "When does the next French course find?",
+    "en": "When does the next French course take place?",
     "de": "Wann findet der nächste Französischkurs statt?",
     "groupCode": 1
   },
@@ -10574,6 +10574,48 @@
     "id": 11736,
     "en": "\n 1.Adj: Specific Adv: Specifically \n 2.Adj: Special Adv: Specially",
     "de": "\n 1.Adj: Bestimmte, Bestimmter, Bestimmtes - Adv: Bestimmt \n 2.Adj: Besonderer, Besondere, Besonderes - Adv: Besonders",
+    "groupCode": 1
+  },
+  {
+    "id": 11737,
+    "en": "It takes place. It took place. It has taken place",
+    "de": "Es findet statt. Es fand statt. es hat stattgefunden",
+    "groupCode": 1
+  },
+  {
+    "id": 11738,
+    "en": "He passed the exam",
+    "de": "Er hat die Prüfung bestanden",
+    "groupCode": 1
+  },
+  {
+    "id": 11739,
+    "en": "He insists on his opinion",
+    "de": "Er besteht auf seiner Meinung",
+    "groupCode": 1
+  },
+  {
+    "id": 11740,
+    "en": "The team consists of five people",
+    "de": "Das Team besteht aus fünf Leuten",
+    "groupCode": 1
+  },
+  {
+    "id": 11741,
+    "en": "\n 1.To pass \n 2.To insist on \n 3.To consist of",
+    "de": "\n 1.Bestehen \n 2.Bestehen auf + Dativ \n 3.Bestehen aus + Dativ",
+    "groupCode": 1
+  },
+  {
+    "id": 11742,
+    "en": "\n 1.Happy \n 2.Sad \n 3.Tired \n 4.Hungry \n 5.Thirsty",
+    "de": "\n 1.Glücklich \n 2.Traurig \n 3.Müde \n 4.Hungrig \n 5.Durstig",
+    "groupCode": 1
+  },
+  {
+    "id": 11743,
+    "en": "\n 1.The cake \n 2.The chocolate \n 3.The ice cream \n 4.The cookie \n 5.The cake",
+    "de": "\n 1.Der Kuchen \n 2.Die Schokolade \n 3.Das Eis \n 4.Der Keks \n 5.Die Torte",
     "groupCode": 1
   }
 ]

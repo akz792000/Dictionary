@@ -4072,7 +4072,7 @@
   },
   {
     "id": 3665,
-    "fa": "از طرف دیگر، من خوشحال خواهم شد (فرضی) برنامه ریزی کردن یک جلسه بعد از مدرسه در زمانی که برای شما مناسب باشد (کار کند)",
+    "fa": "از طرف دیگر، من خوشحال خواهم شد (فرضی) برنامه ریزی کردن یک جلسه بعد از مدرسه در یک زمانی که برای شما مناسب باشد (کار کند)",
     "en": "Alternatively, I would be happy to schedule a meeting after school at a time that works for you",
     "groupCode": 0
   },
@@ -6767,7 +6767,7 @@
   },
   {
     "id": 4108,
-    "fa": "ایجاد کن یک برش کوچک پایین دنده ها",
+    "fa": "ایجاد کن (بساز) یک برش کوچک زیر دنده ها",
     "en": "Make a small incision below the ribs",
     "groupCode": 0
   },
@@ -6883,7 +6883,7 @@
   {
     "id": 4127,
     "fa": "من قانع شدم",
-    "en": "I'm sold",
+    "en": "\n 1.I'm sold \n I'm convinced",
     "groupCode": 0
   },
   {
@@ -7573,7 +7573,7 @@
   },
   {
     "id": 4241,
-    "fa": "در خوردن شیرینی زیاده روی نکن(زیاده روی نکن با شیرنیها)",
+    "fa": "در خوردن شیرینی زیاده روی نکن (زیاده روی نکن با شیرنیها)",
     "en": "Don't overdo it with sweets",
     "groupCode": 0
   },
@@ -8009,13 +8009,14 @@
   },
   {
     "id": 4313,
-    "fa": "اگه (رسمی) بهت خیانت کنم, شما پیشم میمونی؟",
+    "fa": "اگه من (رسمی) بهت خیانت کنم, شما پیشم میمونی؟",
     "en": "If I were to cheat on you, would you stay with me?",
+    "desc": "✅ If I were to cheat on you... → more formal, emphasizes a hypothetical future situation.\n\n✅ If I cheated on you... → more casual, common way to say the same thing.",
     "groupCode": 0
   },
   {
     "id": 4314,
-    "fa": "اگر (رسمی) در لاتاری برنده شوم، من دنیا را سفر می کردم",
+    "fa": "اگر من (رسمی) در لاتاری برنده شوم، من دنیا را سفر می کردم",
     "en": "If I were to win the lottery, I would travel the world",
     "groupCode": 0
   },
@@ -8183,7 +8184,7 @@
   },
   {
     "id": 4342,
-    "fa": "میتونیم چک (صورتحساب) رو بگیریم, لطفا؟",
+    "fa": "میتونیم (مودبانه) ما چک (صورتحساب) رو بگیریم, لطفا؟",
     "en": "Could we get the check (bill), please?",
     "groupCode": 0
   },
@@ -8790,7 +8791,7 @@
   },
   {
     "id": 4442,
-    "fa": "من (ساختم) گرفتم تصمیم بشردوستانه با اهدای تمام پاداشم (بونس) به خیریه",
+    "fa": "من (ساختم) گرفتم یک تصمیم بشردوستانه با اهدای تمام پاداشم (بونس) به خیریه",
     "en": "I made an altruistic decision by donating all my bonus to charity",
     "groupCode": 0
   },
@@ -8870,6 +8871,31 @@
     "id": 4455,
     "fa": "شما چه فکر می‌کنی شما انجام خواهی داد پنج سال از حالا؟",
     "en": "What do you think you'll be doing five years from now?",
+    "desc": "“What do you think you’ll be doing five years since now?”\n\uD83D\uDC49 since is used for the past, never the future.",
+    "groupCode": 0
+  },
+  {
+    "id": 4456,
+    "fa": "شما تو از نظر فیزیکی زننده ای، از نظر فکری دارای کمبودی، از نظر اخلاقی قابل سرزنشی، مبتذل و بی احساس هستی",
+    "en": "You are physically repulsive, intellectually deficient, morally reprehensible, vulgar, and insensitive",
+    "groupCode": 0
+  },
+  {
+    "id": 4457,
+    "fa": "شکل قراردادی کلمه could not چیست؟",
+    "en": "What's the contracted form of could not?",
+    "groupCode": 0
+  },
+  {
+    "id": 4458,
+    "fa": "من نشان دادم (بیان احساسات) از روی یک حس اجبار نسبت به انتخاب",
+    "en": "I acted out of a sense of compulsion rather than choice",
+    "groupCode": 0
+  },
+  {
+    "id": 4459,
+    "fa": "او (مرد) نشان داد (بیان احساسات) ناامیدیش را با فریاد زدن",
+    "en": "He acted out his frustration by yelling",
     "groupCode": 0
   }
 ]
