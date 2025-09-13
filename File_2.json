@@ -10659,5 +10659,65 @@
     "en": "The team won the game",
     "de": "Die Mannschaft hat das Spiel gewonnen",
     "groupCode": 1
+  },
+  {
+    "id": 11751,
+    "en": "The female doctor examines Junior’s ear",
+    "de": "Die Ärztin untersucht Juniors Ohr",
+    "groupCode": 1
+  },
+  {
+    "id": 11752,
+    "en": "Where are you going with your bottles of beer?",
+    "de": "Wohin gehst du mit deinen Flaschen Bier?",
+    "groupCode": 1
+  },
+  {
+    "id": 11753,
+    "en": "I like seeing documentary films",
+    "de": "Ich sehe gern Dokufilme",
+    "groupCode": 1
+  },
+  {
+    "id": 11754,
+    "en": "What do you like doing after work?",
+    "de": "Was machst du gern nach der Arbeit?",
+    "groupCode": 1
+  },
+  {
+    "id": 11755,
+    "en": "He often watches films from Italy with his husband",
+    "de": "Er sieht oft Filme aus Italien mit seinem Mann an",
+    "groupCode": 1
+  },
+  {
+    "id": 11756,
+    "en": "I like TV series from America",
+    "de": "Ich mag Fernsehserien aus Amerika",
+    "groupCode": 1
+  },
+  {
+    "id": 11757,
+    "en": "Does your niece watch TV with her grandpa?",
+    "de": "Sieht deine Nichte mit ihrem Opa fern?",
+    "groupCode": 1
+  },
+  {
+    "id": 11758,
+    "en": "My son is playing cards with his friend",
+    "de": "Mein Sohn spielt mit seinem Freund Karten",
+    "groupCode": 1
+  },
+  {
+    "id": 11759,
+    "en": "What do you do by bad weather?",
+    "de": "Was machst du bei schlechtem Wetter?",
+    "groupCode": 1
+  },
+  {
+    "id": 11760,
+    "en": "I like staying in bed by bad weather, but today I am sick. That's no fun",
+    "de": "Ich bleibe bei schlechtem Wetter gern im Bett, aber heute bin ich krank. Das macht keinen Spaß",
+    "groupCode": 1
   }
 ]
