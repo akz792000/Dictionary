@@ -6883,7 +6883,7 @@
   {
     "id": 4127,
     "fa": "من قانع شدم",
-    "en": "\n 1.I'm sold \n I'm convinced",
+    "en": "\n 1.I'm sold \n 2.I'm convinced",
     "groupCode": 0
   },
   {
@@ -8896,6 +8896,36 @@
     "id": 4459,
     "fa": "او (مرد) نشان داد (بیان احساسات) ناامیدیش را با فریاد زدن",
     "en": "He acted out his frustration by yelling",
+    "groupCode": 0
+  },
+  {
+    "id": 4460,
+    "fa": "من می ترسیدم تا بحث کنم با او",
+    "en": "\n 1.I was afraid to debate him \n 2.I was afraid to debate with him",
+    "groupCode": 0
+  },
+  {
+    "id": 4461,
+    "fa": "روزنامه منتشر کرد عکس (عکس صورت مجرمین) سلبریتی پس از دستگیری",
+    "en": "The newspaper published the celebrity's mugshot after the arrest",
+    "groupCode": 0
+  },
+  {
+    "id": 4462,
+    "fa": "مدیر به کارگران گفت متوقف کنند این مسخره بازی را و برگردند به کار",
+    "en": "The manager told the workers to stop the monkey business and get back to work",
+    "groupCode": 0
+  },
+  {
+    "id": 4463,
+    "fa": "او (زن) لذت برد از موفقیتش",
+    "en": "She reveled in her success",
+    "groupCode": 0
+  },
+  {
+    "id": 4464,
+    "fa": "او است فرد کار بلد من برای نصیحت فنی",
+    "en": "He's my go-to person for tech advice",
     "groupCode": 0
   }
 ]

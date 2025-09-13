@@ -1347,7 +1347,7 @@
     "id": 10220,
     "en": "I'm glad, everything is over",
     "de": "Ich bin froh, alles ist vorbei",
-    "desc": "froh = glad/relieved (adjective), a temporary feeling.\nExample: Ich bin froh. (I’m glad.)\n\nGlück = luck or happiness (noun), more general or lasting.\nExample: Viel Glück! (Good luck!) or Glück ist wichtig. (Happiness is important.)",
+    "desc": "froh = glad/relieved (adjective), a temporary feeling.\nExample: Ich bin froh. (I'm glad.)\n\nGlück = luck or happiness (noun), more general or lasting.\nExample: Viel Glück! (Good luck!) or Glück ist wichtig. (Happiness is important.)",
     "groupCode": 1
   },
   {
@@ -4262,7 +4262,7 @@
     "id": 10700,
     "en": "That vegetables are really fresh at (on) the market",
     "de": "Das Gemüse ist wirklich frisch auf dem Markt",
-    "desc": "Das Gemüse → the vegetable(s)\n\nIt’s a mass noun, like \"milk\" or \"water\" in English — used to refer to vegetables in general.",
+    "desc": "Das Gemüse → the vegetable(s)\n\nIt's a mass noun, like \"milk\" or \"water\" in English — used to refer to vegetables in general.",
     "groupCode": 1
   },
   {
@@ -6447,7 +6447,7 @@
   {
     "id": 11060,
     "en": "Your brother was helpful, do you gift him your motorcycle?",
-    "de": "Dein Bruder was hilfreich, schenkst du ihm dein Motorrad?",
+    "de": "Dein Bruder war hilfreich, schenkst du ihm dein Motorrad?",
     "groupCode": 1
   },
   {
@@ -8372,7 +8372,7 @@
     "id": 11376,
     "en": "He puts the bottle on the table",
     "de": "Er stellt die Flasche auf den Tisch",
-    "desc": "1. ✅ With movement → use Akkusativ\n\uD83D\uDC49 You move something from one place to another.\n\nI put the book on the table.\n(Movement = book is moving from your hand → onto the table)\n→ German: auf + Akkusativ → „auf den Tisch“\n\n\uD83D\uDCCC Think: Where to? → Destination → Akkusativ\n\n2. ✅ No movement → use Dativ\n\uD83D\uDC49 Something is already at a place. Nothing is moving.\n\nThe book is on the table.\n(It’s already there, not moving)\n→ German: auf + Dativ → „auf dem Tisch“\n\n\uD83D\uDCCC Think: Where? → Position → Dativ",
+    "desc": "1. ✅ With movement → use Akkusativ\n\uD83D\uDC49 You move something from one place to another.\n\nI put the book on the table.\n(Movement = book is moving from your hand → onto the table)\n→ German: auf + Akkusativ → „auf den Tisch“\n\n\uD83D\uDCCC Think: Where to? → Destination → Akkusativ\n\n2. ✅ No movement → use Dativ\n\uD83D\uDC49 Something is already at a place. Nothing is moving.\n\nThe book is on the table.\n(It's already there, not moving)\n→ German: auf + Dativ → „auf dem Tisch“\n\n\uD83D\uDCCC Think: Where? → Position → Dativ",
     "groupCode": 1
   },
   {
@@ -8383,7 +8383,7 @@
   },
   {
     "id": 11378,
-    "en": "I’m allowed to go to the cinema",
+    "en": "I'm allowed to go to the cinema",
     "de": "Ich darf ins Kino gehen",
     "groupCode": 1
   },
@@ -8746,7 +8746,7 @@
     "id": 11437,
     "en": "Introduce yourself (formal) and you (formal) tell, since when you (formal) have lived in the apartment?",
     "de": "Stellen Sie sich vor und erzählen Sie, seit wann Sie in der Wohnung wohnen?",
-    "desc": "Let’s break it down:\n\n\"seit wann\" = since when\n\n\"Sie\" = you (formal)\n\n\"in der Wohnung wohnen\" = live in the apartment\n\nThe verb \"wohnen\" stays at the end because it’s a dependent clause (triggered by “seit wann”).",
+    "desc": "Let's break it down:\n\n\"seit wann\" = since when\n\n\"Sie\" = you (formal)\n\n\"in der Wohnung wohnen\" = live in the apartment\n\nThe verb \"wohnen\" stays at the end because it's a dependent clause (triggered by “seit wann”).",
     "groupCode": 1
   },
   {
@@ -8887,7 +8887,7 @@
     "id": 11460,
     "en": "Whom do you (formal) ask and Whom do you (formal) follow?",
     "de": "Wen fragen Sie and wem folgen Sie?",
-    "desc": "“Who” = subject form (used when the person does the action)\n\n“Whom” = object form (used when the person receives the action)\n\nIn everyday English, \"who\" is often used in both cases, and most native speakers won’t correct you. But if you want to be grammatically perfect, use whom when the person is the object.",
+    "desc": "“Who” = subject form (used when the person does the action)\n\n“Whom” = object form (used when the person receives the action)\n\nIn everyday English, \"who\" is often used in both cases, and most native speakers won't correct you. But if you want to be grammatically perfect, use whom when the person is the object.",
     "groupCode": 1
   },
   {
@@ -8959,7 +8959,7 @@
   },
   {
     "id": 11472,
-    "en": "I’m looking for cheap deals (buy offer) on (for) furniture",
+    "en": "I'm looking for cheap deals (buy offer) on (for) furniture",
     "de": "Ich suche günstige Kaufangebote für Möbel",
     "groupCode": 1
   },
@@ -9052,7 +9052,7 @@
   },
   {
     "id": 11487,
-    "en": "I’m planning to celebrate in the restaurant at 6 p.m. on the weekend",
+    "en": "I'm planning to celebrate in the restaurant at 6 p.m. on the weekend",
     "de": "Ich plane am Wochenende um 18 Uhr im Restaurant zu feiern",
     "desc": "Some German verbs (like planen, beginnen, versuchen, vergessen) are followed by another verb in the \"zu + infinitive\" form.",
     "groupCode": 1
@@ -9514,7 +9514,7 @@
   },
   {
     "id": 11563,
-    "en": "\n 1.I give the little dog water \n 2.I live in the old town \n 3.I read in the new book \n 4.I give the little children candy",
+    "en": "\n 1.I give the little dog water \n 2.I live in the old town \n 3.I read in the new book \n 4.I give the little children candies",
     "de": "\n 1.Ich gebe dem kleinen Hund Wasser \n 2.Ich wohne in der alten Stadt \n 3.Ich lese in dem neuen Buch \n 4.Ich gebe den kleinen Kindern Bonbons",
     "desc": "Adjective With Definite Article Dative \n mal: dem + adj -en \n fem: der + adj -en \n neut: dem + adj -en \n plur: den + adj -en",
     "groupCode": 1
@@ -9891,7 +9891,7 @@
   },
   {
     "id": 11624,
-    "en": "We have nothing in common at all (together)",
+    "en": "We have nothing together at all (absolutely)",
     "de": "Wir haben überhaupt nichts gemeinsam",
     "groupCode": 1
   },
@@ -9905,7 +9905,7 @@
     "id": 11626,
     "en": "\n The tomato \n The cucumber \n The carrot \n The onion \n The Salat \n The bowl \n The dishes",
     "de": "\n Die Tomate \n Der Gurke \n Die Karotte \n Die Zwiebel \n Der Salat \n Die Schüssel \n Das Geschirr",
-    "desc": "the dishes / the crockery / the tableware\n\nRefers to plates, cups, bowls, and other items used for eating.\n\nExample:\n\nIch spüle das Geschirr. → I’m washing the dishes",
+    "desc": "the dishes / the crockery / the tableware\n\nRefers to plates, cups, bowls, and other items used for eating.\n\nExample:\n\nIch spüle das Geschirr. → I'm washing the dishes",
     "groupCode": 1
   },
   {
@@ -10117,14 +10117,14 @@
     "id": 11661,
     "en": "Are you buying these earrings for your mother?",
     "de": "\n 1.Kaufst du deiner Mutter diese Ohrringe? \n 2.Kaufst du diese Ohrringe für deine Mutter?",
-    "desc": "In German, many verbs that involve giving, showing, sending, baking, buying, etc. take:\n\nA direct object (accusative) = the thing\n\nAn indirect object (dative) = the person receiving it\n\nExample:\n\nMein Vater backt meiner Mutter (Dativ) eine Torte (Akkusativ).\n\nWho gets it? → meiner Mutter (dative)\n\nWhat does she get? → eine Torte (accusative)\n\nUsing für + Akkusativ (für meine Mutter) is possible, but German prefers the dative construction because it’s shorter, smoother, and feels more natural.\n\n\uD83D\uDC49 Rule of thumb: If the verb already implies “for someone,” use the dative. If you want to emphasize for her and not for someone else, you can use für.",
+    "desc": "In German, many verbs that involve giving, showing, sending, baking, buying, etc. take:\n\nA direct object (accusative) = the thing\n\nAn indirect object (dative) = the person receiving it\n\nExample:\n\nMein Vater backt meiner Mutter (Dativ) eine Torte (Akkusativ).\n\nWho gets it? → meiner Mutter (dative)\n\nWhat does she get? → eine Torte (accusative)\n\nUsing für + Akkusativ (für meine Mutter) is possible, but German prefers the dative construction because it's shorter, smoother, and feels more natural.\n\n\uD83D\uDC49 Rule of thumb: If the verb already implies “for someone,” use the dative. If you want to emphasize for her and not for someone else, you can use für.",
     "groupCode": 1
   },
   {
     "id": 11662,
     "en": "My father bakes a (layer) cake for my mother",
     "de": "\n 1.Mein Vater backt meiner Mutter eine Torte \n 2.Mein Vater backt eine Torte für meine Mutter",
-    "desc": "In German, many verbs that involve giving, showing, sending, baking, buying, etc. take:\n\nA direct object (accusative) = the thing\n\nAn indirect object (dative) = the person receiving it\n\nExample:\n\nMein Vater backt meiner Mutter (Dativ) eine Torte (Akkusativ).\n\nWho gets it? → meiner Mutter (dative)\n\nWhat does she get? → eine Torte (accusative)\n\nUsing für + Akkusativ (für meine Mutter) is possible, but German prefers the dative construction because it’s shorter, smoother, and feels more natural.\n\n\uD83D\uDC49 Rule of thumb: If the verb already implies “for someone,” use the dative. If you want to emphasize for her and not for someone else, you can use für.",
+    "desc": "In German, many verbs that involve giving, showing, sending, baking, buying, etc. take:\n\nA direct object (accusative) = the thing\n\nAn indirect object (dative) = the person receiving it\n\nExample:\n\nMein Vater backt meiner Mutter (Dativ) eine Torte (Akkusativ).\n\nWho gets it? → meiner Mutter (dative)\n\nWhat does she get? → eine Torte (accusative)\n\nUsing für + Akkusativ (für meine Mutter) is possible, but German prefers the dative construction because it's shorter, smoother, and feels more natural.\n\n\uD83D\uDC49 Rule of thumb: If the verb already implies “for someone,” use the dative. If you want to emphasize for her and not for someone else, you can use für.",
     "groupCode": 1
   },
   {
@@ -10384,7 +10384,7 @@
   },
   {
     "id": 11705,
-    "en": "I'm also happy (I'm already looking forward to it)",
+    "en": "I'm already happy (I'm already looking forward to it)",
     "de": "Ich freue mich schon",
     "groupCode": 1
   },
@@ -10463,7 +10463,7 @@
   },
   {
     "id": 11718,
-    "en": "Do you have time at all?",
+    "en": "Do you have time at all (absolutely)?",
     "de": "Hast du überhaupt Zeit?",
     "groupCode": 1
   },
@@ -10614,8 +10614,50 @@
   },
   {
     "id": 11743,
-    "en": "\n 1.The cake \n 2.The chocolate \n 3.The ice cream \n 4.The cookie \n 5.The cake",
+    "en": "\n 1.The cake \n 2.The chocolate \n 3.The ice cream \n 4.The cookie \n 5.The (layer) cake",
     "de": "\n 1.Der Kuchen \n 2.Die Schokolade \n 3.Das Eis \n 4.Der Keks \n 5.Die Torte",
+    "groupCode": 1
+  },
+  {
+    "id": 11744,
+    "en": "I ate nothing at all",
+    "de": "Ich habe gar nichts gegessen",
+    "groupCode": 1
+  },
+  {
+    "id": 11745,
+    "en": "He doesn't understand it at all (absolutely)",
+    "de": "Er versteht das überhaupt nicht",
+    "groupCode": 1
+  },
+  {
+    "id": 11746,
+    "en": "You are twice as old as me, but you still behave like a child",
+    "de": "Du bist doppelt so alt wie ich, benimmst dich aber immer noch wie ein Kind",
+    "groupCode": 1
+  },
+  {
+    "id": 11747,
+    "en": "I behave. I behaved. I have behaved",
+    "de": "Ich benehme mich. Ich benahm mich. Ich habe mich benommen",
+    "groupCode": 1
+  },
+  {
+    "id": 11748,
+    "en": "He came later than everybody and went earlier than everybody",
+    "de": "Er kam später als alle anderen und ging früher als alle anderen",
+    "groupCode": 1
+  },
+  {
+    "id": 11749,
+    "en": "This book is not worth reading",
+    "de": "Dieses Buch ist das Lesen nicht wert",
+    "groupCode": 1
+  },
+  {
+    "id": 11750,
+    "en": "The team won the game",
+    "de": "Die Mannschaft hat das Spiel gewonnen",
     "groupCode": 1
   }
 ]
