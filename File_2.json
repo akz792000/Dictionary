@@ -10620,8 +10620,8 @@
   },
   {
     "id": 11744,
-    "en": "I ate nothing at all",
-    "de": "Ich habe gar nichts gegessen",
+    "en": "\n 1.I ate nothing at all \n 2.I didn't eat at all",
+    "de": "\n 1.Ich habe gar nichts gegessen \n 2.Ich habe gar nicht gegessen",
     "groupCode": 1
   },
   {
@@ -10639,7 +10639,7 @@
   {
     "id": 11747,
     "en": "I behave. I behaved. I have behaved",
-    "de": "Ich benehme mich. Ich benahm mich. Ich habe mich benommen",
+    "de": "Ich benehme. Ich benahm. Ich habe benommen",
     "groupCode": 1
   },
   {
@@ -10680,7 +10680,7 @@
   },
   {
     "id": 11754,
-    "en": "What do you like doing after work?",
+    "en": "What do you like doing after the work?",
     "de": "Was machst du gern nach der Arbeit?",
     "groupCode": 1
   },
@@ -10718,6 +10718,19 @@
     "id": 11760,
     "en": "I like staying in bed by bad weather, but today I am sick. That's no fun",
     "de": "Ich bleibe bei schlechtem Wetter gern im Bett, aber heute bin ich krank. Das macht keinen Spaß",
+    "groupCode": 1
+  },
+  {
+    "id": 11761,
+    "en": "The battery of my phone is empty. I have to go home quickly now",
+    "de": "Der Akku von meinem Handy ist leer. Ich muss jetzt schnell nach Hause (gehen)",
+    "desc": "So the full thought is:\n\uD83D\uDC49 Ich muss jetzt schnell nach Hause gehen.\nBut in German it’s totally fine (and very common) to drop the final gehen — everyone understands it.",
+    "groupCode": 1
+  },
+  {
+    "id": 11762,
+    "en": "You don't (emphasis) want to go soon (in a moment) again? What's wrong?",
+    "de": "Du willst doch nicht gleich wieder gehen? Was ist denn los?",
     "groupCode": 1
   }
 ]

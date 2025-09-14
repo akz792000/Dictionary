@@ -8900,7 +8900,7 @@
   },
   {
     "id": 4460,
-    "fa": "من می ترسیدم تا بحث کنم با او",
+    "fa": "من می ترسیدم تا بحث کنم با او (مرد)",
     "en": "\n 1.I was afraid to debate him \n 2.I was afraid to debate with him",
     "groupCode": 0
   },
@@ -8924,8 +8924,38 @@
   },
   {
     "id": 4464,
-    "fa": "او است فرد کار بلد من برای نصیحت فنی",
+    "fa": "او (مرد) است فرد کار بلد من برای نصیحت فنی",
     "en": "He's my go-to person for tech advice",
+    "groupCode": 0
+  },
+  {
+    "id": 4465,
+    "fa": "من دارم خودمو میکشم تلاش کنم این پروژه تموم شه به موقع",
+    "en": "I'm killing myself trying to get this project finished on time",
+    "groupCode": 0
+  },
+  {
+    "id": 4466,
+    "fa": "می تونم (فرضی) من حداقل بگیرم یه کوچولو اعتبار؟",
+    "en": "Could I at least get a little credit?",
+    "groupCode": 0
+  },
+  {
+    "id": 4467,
+    "fa": "چرا شما داری بهم گیر میدی؟",
+    "en": "Why are you picking on me?",
+    "groupCode": 0
+  },
+  {
+    "id": 4468,
+    "fa": "او (مرد) تبدیل شده است به چراغ امیدی برای شورش",
+    "en": "He has become a beacon of hope for the rebellion",
+    "groupCode": 0
+  },
+  {
+    "id": 4469,
+    "fa": "او (زن) شأن خود را پایین نیاورد (فرضی) تا با او (مرد) صحبت کند",
+    "en": "She wouldn’t deign /ˈdeɪn/ to speak to him",
     "groupCode": 0
   }
 ]
