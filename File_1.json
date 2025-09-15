@@ -8077,7 +8077,7 @@
   {
     "id": 4324,
     "fa": "ناپایداری (غیرقابل اعتماد) برنامه، دشوارش می کند (می سازد) برای استفاده کردن",
-    "en": "The app’s flakiness makes it hard to use",
+    "en": "The app's flakiness makes it hard to use",
     "groupCode": 0
   },
   {
@@ -8766,7 +8766,7 @@
   },
   {
     "id": 4438,
-    "fa": "او (زن) احساس می‌کند فریب خورده توسط شوهر خیانتکارش",
+    "fa": "او (زن) احساس خیانت می‌کند توسط شوهر خیانتکارش",
     "en": "She feels cheated by her cheating husband",
     "groupCode": 0
   },
@@ -8871,12 +8871,12 @@
     "id": 4455,
     "fa": "شما چه فکر می‌کنی شما انجام خواهی داد پنج سال از حالا؟",
     "en": "What do you think you'll be doing five years from now?",
-    "desc": "“What do you think you’ll be doing five years since now?”\n\uD83D\uDC49 since is used for the past, never the future.",
+    "desc": "“What do you think you'll be doing five years since now?”\n\uD83D\uDC49 since is used for the past, never the future.",
     "groupCode": 0
   },
   {
     "id": 4456,
-    "fa": "شما تو از نظر فیزیکی زننده ای، از نظر فکری دارای کمبودی، از نظر اخلاقی قابل سرزنشی، مبتذل و بی احساس هستی",
+    "fa": "تو از نظر فیزیکی زننده ای، از نظر فکری دارای کمبودی، از نظر اخلاقی قابل سرزنشی، مبتذل و بی احساس هستی",
     "en": "You are physically repulsive, intellectually deficient, morally reprehensible, vulgar, and insensitive",
     "groupCode": 0
   },
@@ -8955,7 +8955,109 @@
   {
     "id": 4469,
     "fa": "او (زن) شأن خود را پایین نیاورد (فرضی) تا با او (مرد) صحبت کند",
-    "en": "She wouldn’t deign /ˈdeɪn/ to speak to him",
+    "en": "She wouldn't deign /ˈdeɪn/ to speak to him",
+    "groupCode": 0
+  },
+  {
+    "id": 4470,
+    "fa": "این صدای مبهم چیست؟",
+    "en": "What is this humming sound?",
+    "groupCode": 0
+  },
+  {
+    "id": 4471,
+    "fa": "وان حمام و توالت سرریز هستند",
+    "en": "Bathtub and toilet are overflowing",
+    "groupCode": 0
+  },
+  {
+    "id": 4472,
+    "fa": "شما نیازی نداری بدوی (سریع) اگر شما نیستید یک دونده ی حرفه ای",
+    "en": "You don't need to sprint if you are not a professional sprinter",
+    "groupCode": 0
+  },
+  {
+    "id": 4473,
+    "fa": "من قطعا خواهم بود در فرودگاه تا ملاقات کنم شما را",
+    "en": "I will definitely be at the airport to meet you",
+    "groupCode": 0
+  },
+  {
+    "id": 4474,
+    "fa": "آن عکس را دور نینداز",
+    "en": "Don't throw away that picture",
+    "groupCode": 0
+  },
+  {
+    "id": 4475,
+    "fa": "من پس خواهم داد هفته آینده (پول)",
+    "en": "I'll pay you back next week",
+    "groupCode": 0
+  },
+  {
+    "id": 4476,
+    "fa": "\n 1.یک بطری آب \n 2.یک پاکت شیر \n 3.یک تخته شکلات \n 4.یک تکه پنیر \n 5.یک بطری عطر \n 6.یک قطعه موسیقی \n 7.یک کاسه برنج \n 8.یک فنجان قهوه \n 9.یک بازی تنیس",
+    "en": "\n 1.A bottle of water \n 2.A carton of milk \n 3.A bar of chocolate \n 4.A piece of cheese \n 5.A bottle of perfume \n 6.A piece of music \n 7.A bowl of rice \n 8.A cup of coffee \n 9.A game of tennis",
+    "groupCode": 0
+  },
+  {
+    "id": 4477,
+    "fa": "من من بستنی پسته ای دوست دارم",
+    "en": "I like pistachio ice cream",
+    "groupCode": 0
+  },
+  {
+    "id": 4478,
+    "fa": "او (زن) به صورت خودش پودر زد",
+    "en": "She powdered her face",
+    "groupCode": 0
+  },
+  {
+    "id": 4479,
+    "fa": "یک سیستم روغن کاری که اصطکاک را کاهش می دهد",
+    "en": "A lubrication system that reduces friction",
+    "groupCode": 0
+  },
+  {
+    "id": 4480,
+    "fa": "من میلیون ها دلار به خیریه اهدا کرد",
+    "en": "I donated millions of dollars to charity",
+    "groupCode": 0
+  },
+  {
+    "id": 4481,
+    "fa": "شما می توانید خودرو را بی حرکت کنید با برداشتن شمع ها",
+    "en": "You can immobilize the car by removing the spark plugs",
+    "groupCode": 0
+  },
+  {
+    "id": 4482,
+    "fa": "سر در نمیارم",
+    "en": "Beats me",
+    "groupCode": 0
+  },
+  {
+    "id": 4483,
+    "fa": "چرت و پرت نگو",
+    "en": "Cut the crap",
+    "groupCode": 0
+  },
+  {
+    "id": 4484,
+    "fa": "میشه گوشیو بدی به علی",
+    "en": "Can you put Ali on?",
+    "groupCode": 0
+  },
+  {
+    "id": 4485,
+    "fa": "ما باید دور بندازیم (طرد کردن) این خرافات قدیمی را",
+    "en": "We must discard these old superstitions",
+    "groupCode": 0
+  },
+  {
+    "id": 4486,
+    "fa": "من یک خانواده کوچک دارم که فقط سه عضو دارد و من نمی خواهم از روابط خودمان تعریف کنم, اما همسرم و من به طور عالی یکدیگر را کامل می کنیم",
+    "en": "I have got a nuclear family which has only three members and I do not want to compliment our relationship, but my wife and I complement each other perfectly",
     "groupCode": 0
   }
 ]
