@@ -9528,8 +9528,8 @@
   },
   {
     "id": 11565,
-    "en": "\n 1.A new coat hangs at the door \n 2.A new watch lies on the table \n 3.A beautiful dress hangs in the closet \n 4.I don't have any beautiful pictures",
-    "de": "\n 1.Ein neuer Mantel hängt an der Tür \n 2.Eine neue Uhr liegt auf dem Tisch \n 3.Ein schönes Kleid hängt im Schrank  \n 4.Ich habe keine schönen Bilder",
+    "en": "\n 1.A new coat hangs at the door \n 2.A new watch lies on the table \n 3.A beautiful dress hangs in the closet \n 4.No beautiful pictures hang at the wall",
+    "de": "\n 1.Ein neuer Mantel hängt an der Tür \n 2.Eine neue Uhr liegt auf dem Tisch \n 3.Ein schönes Kleid hängt im Schrank  \n 4.Keine schönen Bilder hängen an der Wand",
     "desc": "Adjective With Indefinite Article Nominative \n mal: ein + adj -er \n fem: eine + adj -e \n neut: ein + adj -es \n plur: keine + adj -en",
     "groupCode": 1
   },
@@ -9891,7 +9891,7 @@
   },
   {
     "id": 11624,
-    "en": "We have nothing together at all (absolutely)",
+    "en": "We have nothing together at all (stronger, more emphatic)",
     "de": "Wir haben überhaupt nichts gemeinsam",
     "groupCode": 1
   },
@@ -10214,7 +10214,7 @@
   },
   {
     "id": 11677,
-    "en": "The park is very quiet in the morning",
+    "en": "The park is very calm (peaceful) in the morning",
     "de": "Der Park ist sehr ruhig am Morgen",
     "groupCode": 1
   },
@@ -10324,8 +10324,9 @@
   },
   {
     "id": 11695,
-    "en": "I will go",
+    "en": "I will have gone",
     "de": "Ich werde gehen",
+    "desc": "Futur II = werden + past participle + sein/haben\n\ngehen → participle: gegangen\n\nauxiliary: sein\n\uD83D\uDC49 ich werde gegangen sein = I will have gone",
     "groupCode": 1
   },
   {
@@ -10463,7 +10464,7 @@
   },
   {
     "id": 11718,
-    "en": "Do you have time at all (absolutely)?",
+    "en": "Do you have time at all (stronger, more emphatic)?",
     "de": "Hast du überhaupt Zeit?",
     "groupCode": 1
   },
@@ -10626,7 +10627,7 @@
   },
   {
     "id": 11745,
-    "en": "He doesn't understand it at all (absolutely)",
+    "en": "He doesn't understand that at all (stronger, more emphatic)",
     "de": "Er versteht das überhaupt nicht",
     "groupCode": 1
   },
@@ -10644,7 +10645,7 @@
   },
   {
     "id": 11748,
-    "en": "He came later than everybody and went earlier than everybody",
+    "en": "He came later than all others and went earlier than all others",
     "de": "Er kam später als alle anderen und ging früher als alle anderen",
     "groupCode": 1
   },
@@ -10731,6 +10732,55 @@
     "id": 11762,
     "en": "You don't (emphasis) want to go soon (in a moment) again? What's wrong?",
     "de": "Du willst doch nicht gleich wieder gehen? Was ist denn los?",
+    "groupCode": 1
+  },
+  {
+    "id": 11763,
+    "en": "Which Government office in Germany belongs to the municipal administration? Public Order Office",
+    "de": "Welches Amt gehört in Deutschland zur Gemeindeverwaltung? Ordnungsamt",
+    "desc": "gehört\n\nVerb: gehören = to belong to.",
+    "groupCode": 1
+  },
+  {
+    "id": 11764,
+    "en": "What does each German federal state have? its own government",
+    "de": "Was hat jedes deutsche Bundesland? eine eigene regierung",
+    "groupCode": 1
+  },
+  {
+    "id": 11765,
+    "en": "Which newspapers do your parents read?",
+    "de": "Welche Zeitungen lesen deine Eltern?",
+    "groupCode": 1
+  },
+  {
+    "id": 11766,
+    "en": "A castle is cooler than a house",
+    "de": "Ein Schloss ist cooler als ein Haus",
+    "groupCode": 1
+  },
+  {
+    "id": 11767,
+    "en": "Does your mom prefer reading newspapers or comics?",
+    "de": "Liest deine Mama lieber Zeitung oder Comics?",
+    "groupCode": 1
+  },
+  {
+    "id": 11768,
+    "en": "My friends think the movie is better than the book",
+    "de": "Meine Freunde denken, der Film ist besser als das Buch",
+    "groupCode": 1
+  },
+  {
+    "id": 11769,
+    "en": "This swimming pool is warmer than the sea",
+    "de": "Dieses Schwimmbad ist wärmer als das Meer",
+    "groupCode": 1
+  },
+  {
+    "id": 11770,
+    "en": "In Switzerland you (formal) can also speak French",
+    "de": "In der Schweiz können Sie auch Französisch sprechen",
     "groupCode": 1
   }
 ]

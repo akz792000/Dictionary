@@ -627,7 +627,7 @@
   },
   {
     "id": 3103,
-    "fa": "بازگشت دلالت دارد به یک مکانی بعد از (مدتی) دور بودن",
+    "fa": "بازگشت دلالت دارد برگشتن به یک مکان بعد از (مدتی) دور بودن",
     "en": "Get back implies returning to a place after having been away",
     "groupCode": 0
   },
@@ -8990,7 +8990,7 @@
   },
   {
     "id": 4475,
-    "fa": "من پس خواهم داد هفته آینده (پول)",
+    "fa": "من پس خواهم داد (پرداخت خواهم کرد) هفته آینده",
     "en": "I'll pay you back next week",
     "groupCode": 0
   },
@@ -9002,7 +9002,7 @@
   },
   {
     "id": 4477,
-    "fa": "من من بستنی پسته ای دوست دارم",
+    "fa": "من بستنی پسته ای دوست دارم",
     "en": "I like pistachio ice cream",
     "groupCode": 0
   },
@@ -9026,7 +9026,7 @@
   },
   {
     "id": 4481,
-    "fa": "شما می توانید خودرو را بی حرکت کنید با برداشتن شمع ها",
+    "fa": "شما می توانی بی حرکت کنی خودرو را با برداشتن شمع ها",
     "en": "You can immobilize the car by removing the spark plugs",
     "groupCode": 0
   },
@@ -9044,7 +9044,7 @@
   },
   {
     "id": 4484,
-    "fa": "میشه گوشیو بدی به علی",
+    "fa": "میتونی شما گوشیو بدی به علی",
     "en": "Can you put Ali on?",
     "groupCode": 0
   },
@@ -9058,6 +9058,24 @@
     "id": 4486,
     "fa": "من یک خانواده کوچک دارم که فقط سه عضو دارد و من نمی خواهم از روابط خودمان تعریف کنم, اما همسرم و من به طور عالی یکدیگر را کامل می کنیم",
     "en": "I have got a nuclear family which has only three members and I do not want to compliment our relationship, but my wife and I complement each other perfectly",
+    "groupCode": 0
+  },
+  {
+    "id": 4487,
+    "fa": "او (مرد) حتی قرار نبود (British English) اینجا باشد",
+    "en": "He wasn't even meant to be here",
+    "groupCode": 0
+  },
+  {
+    "id": 4489,
+    "fa": "من عاشق عطر شمع هستم",
+    "en": "I love the scent of the candle",
+    "groupCode": 0
+  },
+  {
+    "id": 4490,
+    "fa": "چه چیزی هست شما پشیمونی از نگفتن به کسی؟",
+    "en": "What's something you regret not saying to someone?",
     "groupCode": 0
   }
 ]
