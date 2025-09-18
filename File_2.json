@@ -10103,7 +10103,7 @@
   },
   {
     "id": 11659,
-    "en": "Does your brother give his wife a chain?",
+    "en": "Does your brother give his wife a necklace (chain)?",
     "de": "Gibt dein Bruder seiner Frau eine Kette?",
     "groupCode": 1
   },
@@ -10324,15 +10324,15 @@
   },
   {
     "id": 11695,
-    "en": "I will have gone",
+    "en": "I will go",
     "de": "Ich werde gehen",
-    "desc": "Futur II = werden + past participle + sein/haben\n\ngehen → participle: gegangen\n\nauxiliary: sein\n\uD83D\uDC49 ich werde gegangen sein = I will have gone",
     "groupCode": 1
   },
   {
     "id": 11696,
     "en": "I will have gone",
     "de": "Ich werde gegangen sein",
+    "desc": "Futur II = werden + past participle + sein/haben\n\ngehen → participle: gegangen\n\nauxiliary: sein\n\uD83D\uDC49 ich werde gegangen sein = I will have gone",
     "groupCode": 1
   },
   {
@@ -10349,7 +10349,7 @@
   },
   {
     "id": 11699,
-    "en": "I (will) become a doctor by profession in next year",
+    "en": "I (will) become (a) doctor by profession in next year",
     "de": "Ich werde Arzt von Beruf in nächstem Jahr",
     "groupCode": 1
   },
@@ -10767,7 +10767,7 @@
   },
   {
     "id": 11768,
-    "en": "My friends think the movie is better than the book",
+    "en": "My friends think, the movie is better than the book",
     "de": "Meine Freunde denken, der Film ist besser als das Buch",
     "groupCode": 1
   },
@@ -10781,6 +10781,78 @@
     "id": 11770,
     "en": "In Switzerland you (formal) can also speak French",
     "de": "In der Schweiz können Sie auch Französisch sprechen",
+    "groupCode": 1
+  },
+  {
+    "id": 11771,
+    "en": "We talk about work and laugh a lot",
+    "de": "Wir reden über die Arbeit und lachen viel",
+    "groupCode": 1
+  },
+  {
+    "id": 11772,
+    "en": "My girlfriend takes a tea",
+    "de": "Meine Freundin nimmt einen Tee",
+    "groupCode": 1
+  },
+  {
+    "id": 11773,
+    "en": "I'm always hungry after work",
+    "de": "Ich habe immer nach der Arbeit Hunger",
+    "groupCode": 1
+  },
+  {
+    "id": 11774,
+    "en": "Ali doesn't want to watch TV after school, he wants to read",
+    "de": "Ali will nach der Schule nicht fernsehen, er will lesen",
+    "groupCode": 1
+  },
+  {
+    "id": 11775,
+    "en": "You are getting an email soon",
+    "de": "Du bekommst bald eine email",
+    "groupCode": 1
+  },
+  {
+    "id": 11776,
+    "en": "This necklace (chain) is very chic. I want to give it to my mother, but it's definitely expensive.",
+    "de": "Diese Kette ist sehr schick. Ich will sie meiner Mutter geben, aber sie kostet ganz bestimmt viel",
+    "groupCode": 1
+  },
+  {
+    "id": 11777,
+    "en": "Call me this afternoon",
+    "de": "Ruf mich heute Nachmittag an",
+    "groupCode": 1
+  },
+  {
+    "id": 11778,
+    "en": "The party is about to start, call your siblings",
+    "de": "Die Party fängt gleich an, ruf deine Geschwister an",
+    "groupCode": 1
+  },
+  {
+    "id": 11779,
+    "en": "My children speak Swedish all the time",
+    "de": "Meine Kinder sprechen die ganze Zeit Schwedisch",
+    "groupCode": 1
+  },
+  {
+    "id": 11780,
+    "en": "Comics are much cooler than movies",
+    "de": "Comics sind viel cooler als Filme",
+    "groupCode": 1
+  },
+  {
+    "id": 11781,
+    "en": "Do you prefer reading on campus or by (at) the lake?",
+    "de": "Liest du lieber auf dem Campus oder am See?",
+    "groupCode": 1
+  },
+  {
+    "id": 11782,
+    "en": "We are going to Switzerland for a few days in the holiday (school holidays)",
+    "de": "Wir fahren in den Ferien für ein paar Tage in die Schweiz",
     "groupCode": 1
   }
 ]

@@ -4300,7 +4300,7 @@
   },
   {
     "id": 3703,
-    "fa": "می تونی شما سوارم کنی؟",
+    "fa": "می تونی شما سوارم کنی (یه سواری به من بدی؟)؟",
     "en": "Can you give me a ride?",
     "groupCode": 0
   },
@@ -8845,7 +8845,7 @@
   },
   {
     "id": 4451,
-    "fa": "پنگوئن روی یخ تلوتلو خورد",
+    "fa": "پنگوئن در طول یخ تلوتلو خورد",
     "en": "The penguin /ˈpeŋɡwən/ waddled /وادلد/ across the ice",
     "groupCode": 0
   },
@@ -8990,7 +8990,7 @@
   },
   {
     "id": 4475,
-    "fa": "من پس خواهم داد (پرداخت خواهم کرد) هفته آینده",
+    "fa": "من پس خواهم داد (پرداخت خواهم کرد) به شما هفته بعد",
     "en": "I'll pay you back next week",
     "groupCode": 0
   },
@@ -9020,7 +9020,7 @@
   },
   {
     "id": 4480,
-    "fa": "من میلیون ها دلار به خیریه اهدا کرد",
+    "fa": "من میلیون ها دلار (ها) به خیریه اهدا کرد",
     "en": "I donated millions of dollars to charity",
     "groupCode": 0
   },
@@ -9076,6 +9076,66 @@
     "id": 4490,
     "fa": "چه چیزی هست شما پشیمونی از نگفتن به کسی؟",
     "en": "What's something you regret not saying to someone?",
+    "groupCode": 0
+  },
+  {
+    "id": 4491,
+    "fa": "موهایش (زن) ژولیده به نظر می رسید",
+    "en": "Her hair looked disheveled",
+    "groupCode": 0
+  },
+  {
+    "id": 4492,
+    "fa": "او بعد از غذا احساس رضایت کرد",
+    "en": "\n 1.He felt content after the meal \n 2.He felt satisfied after the meal",
+    "groupCode": 0
+  },
+  {
+    "id": 4493,
+    "fa": "تو به دیگران انتقاد می کنی (انتقاد سرو می کنی) اما نمی توانی تحملش کنی",
+    "en": "You dish out criticism but can't take it",
+    "groupCode": 0
+  },
+  {
+    "id": 4494,
+    "fa": "به محض اینکه من روی تشک قدم گذاشتم",
+    "en": "As soon as I stepped on the mat",
+    "groupCode": 0
+  },
+  {
+    "id": 4495,
+    "fa": "من توضیح دادم مشکل به او به طور واضح",
+    "en": "I explained the problem to him clearly",
+    "groupCode": 0
+  },
+  {
+    "id": 4496,
+    "fa": "من بردم (بیرون) یک قایق بادی را به (روی) دریاچه",
+    "en": "I took an inflatable boat out on the lake",
+    "groupCode": 0
+  },
+  {
+    "id": 4497,
+    "fa": "آن ها در آوردند سکه های قدیمی ای از زمینشان",
+    "en": "They dug up some old coins in their field",
+    "groupCode": 0
+  },
+  {
+    "id": 4498,
+    "fa": "ما رسیدیم به یک توافق در نهایت",
+    "en": "We reached an agreement in the end",
+    "groupCode": 0
+  },
+  {
+    "id": 4499,
+    "fa": "Round Robin - توزیع می کند درخواستها را به طور مساوی در سراسر تمام سرورها در یک ترتیب تکرارشونده",
+    "en": "Round Robin – Distributes requests evenly across all servers in a repeating order",
+    "groupCode": 0
+  },
+  {
+    "id": 4500,
+    "fa": "Least Connection - ارسال می کند درخواست بعدی را به سروری با کمترین اتصالات فعال",
+    "en": "Least Connection – Sends the next request to the server with the fewest active connections",
     "groupCode": 0
   }
 ]

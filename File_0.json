@@ -7445,7 +7445,7 @@
   },
   {
     "id": 1225,
-    "fa": "آیا مدرکی دال بر اقامت دارید؟ گواهینامه رانندگی یا چیزی نشان دهد که شما در این شهر زندگی می کنید",
+    "fa": "آیا مدرکی دال بر اقامت دارید؟ یک گواهینامه رانندگی یا چیزی نشان دهد که شما در این شهر زندگی می کنید",
     "en": "Do you have proof of residence? A driver's license or something showing that you live in this city",
     "desc": "\"Proof\" is an uncountable noun in this context, so you don’t use \"a\" before it. \n\n\n\n In North American English, \"Driver's license\" is the more common term and refers to the official document issued by the government that allows an individual to operate a motor vehicle. The possessive form \"Driver's\" indicates that it belongs to the driver.\n\nIn British English and many other English-speaking countries, \"Driving license\" is the more commonly used term. It refers to the same document, but without the possessive form \"Driver's\".",
     "groupCode": 0
@@ -14961,7 +14961,7 @@
   },
   {
     "id": 2463,
-    "fa": "آیا نام ترجیحی دارید؟",
+    "fa": "آیا شما یک نام ترجیحی دارید؟",
     "en": "Do you have a preferred name?",
     "groupCode": 0
   },
