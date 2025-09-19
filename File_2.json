@@ -7666,7 +7666,7 @@
   },
   {
     "id": 11261,
-    "en": "I'm also a foreign here",
+    "en": "I'm also a strange/a foreign here",
     "de": "Ich bin auch fremd hier",
     "groupCode": 1
   },
@@ -10803,7 +10803,7 @@
   },
   {
     "id": 11774,
-    "en": "Ali doesn't want to watch TV after school, he wants to read",
+    "en": "Ali doesn't want to watch TV after the school, he wants to read",
     "de": "Ali will nach der Schule nicht fernsehen, er will lesen",
     "groupCode": 1
   },
@@ -10815,7 +10815,7 @@
   },
   {
     "id": 11776,
-    "en": "This necklace (chain) is very chic. I want to give it to my mother, but it's definitely expensive.",
+    "en": "This necklace (chain) is very chic. I want to give it to my mother, but it's definitely (entire specifically) expensive.",
     "de": "Diese Kette ist sehr schick. Ich will sie meiner Mutter geben, aber sie kostet ganz bestimmt viel",
     "groupCode": 1
   },
@@ -10827,7 +10827,7 @@
   },
   {
     "id": 11778,
-    "en": "The party is about to start, call your siblings",
+    "en": "The party starts soon (in a moment) , call your siblings",
     "de": "Die Party fängt gleich an, ruf deine Geschwister an",
     "groupCode": 1
   },
@@ -10853,6 +10853,90 @@
     "id": 11782,
     "en": "We are going to Switzerland for a few days in the holiday (school holidays)",
     "de": "Wir fahren in den Ferien für ein paar Tage in die Schweiz",
+    "groupCode": 1
+  },
+  {
+    "id": 11783,
+    "en": "I often win at (in) chess",
+    "de": "Ich gewinne oft im Schach",
+    "groupCode": 1
+  },
+  {
+    "id": 11784,
+    "en": "You are winning the game!",
+    "de": "Du gewinnst das Spiel!",
+    "groupCode": 1
+  },
+  {
+    "id": 11785,
+    "en": "He wins every race",
+    "de": "Er gewinnt jedes Rennen",
+    "groupCode": 1
+  },
+  {
+    "id": 11786,
+    "en": "I feel strange/foreign here",
+    "de": "Ich fühle mich hier fremd",
+    "groupCode": 1
+  },
+  {
+    "id": 11787,
+    "en": "You are not weak.",
+    "de": "Du bist nicht schwach",
+    "groupCode": 1
+  },
+  {
+    "id": 11788,
+    "en": "He is a weak runner",
+    "de": "Er ist ein schwacher Läufer",
+    "groupCode": 1
+  },
+  {
+    "id": 11789,
+    "en": "You have already submitted the form",
+    "de": "Du hast das Formular schon eingereich",
+    "groupCode": 1
+  },
+  {
+    "id": 11790,
+    "en": "He submitted his application",
+    "de": "Er hat seine Bewerbung eingereicht",
+    "groupCode": 1
+  },
+  {
+    "id": 11791,
+    "en": "Are your grandparents bringing a few bottles of wine?",
+    "de": "Bringen eure Großeltern ein paar Flaschen wein mit?",
+    "groupCode": 1
+  },
+  {
+    "id": 11792,
+    "en": "My daughter wants to lie on the beach with her boyfriend",
+    "de": "Meine Tochter will mit ihrem Freund am Strand liegen",
+    "groupCode": 1
+  },
+  {
+    "id": 11793,
+    "en": "We always lie on (at) the beach in summer",
+    "de": "Wir liegen immer im Sommer am Strand",
+    "groupCode": 1
+  },
+  {
+    "id": 11794,
+    "en": "We have thirty days of vacation per year",
+    "de": "Wir haben dreißig Tage pro Jahr Urlaub",
+    "groupCode": 1
+  },
+  {
+    "id": 11795,
+    "en": "This student lives downstairs in the house",
+    "de": "Dieser Student wohnt unten im Haus",
+    "groupCode": 1
+  },
+  {
+    "id": 11796,
+    "en": "What do you like to do by nice weather?",
+    "de": "Was machst du gern bei schönem wetter?",
     "groupCode": 1
   }
 ]

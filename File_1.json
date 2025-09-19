@@ -4300,7 +4300,7 @@
   },
   {
     "id": 3703,
-    "fa": "می تونی شما سوارم کنی (یه سواری به من بدی؟)؟",
+    "fa": "می تونی شما سوارم کنی (یه سواری به من بدی)؟",
     "en": "Can you give me a ride?",
     "groupCode": 0
   },
@@ -8570,7 +8570,7 @@
   },
   {
     "id": 4406,
-    "fa": "او (مرد) نشان داد کاملاً بی توجه به (برای) بهداشت شخصی",
+    "fa": "او (مرد) نشان داد بی توجهی کامل به (برای) بهداشت شخصی",
     "en": "He showed utter disregard for personal hygiene",
     "desc": "Brief rule: Use “utter” with nouns expressing strong negative or extreme qualities.",
     "groupCode": 0
@@ -9086,13 +9086,13 @@
   },
   {
     "id": 4492,
-    "fa": "او بعد از غذا احساس رضایت کرد",
+    "fa": "او (مرد) بعد از غذا احساس رضایت کرد",
     "en": "\n 1.He felt content after the meal \n 2.He felt satisfied after the meal",
     "groupCode": 0
   },
   {
     "id": 4493,
-    "fa": "تو به دیگران انتقاد می کنی (انتقاد سرو می کنی) اما نمی توانی تحملش کنی",
+    "fa": "تو انتقاد می کنی (انتقاد سرو می کنی) اما نمی توانی تحملش (بگیریش) کنی",
     "en": "You dish out criticism but can't take it",
     "groupCode": 0
   },
@@ -9104,7 +9104,7 @@
   },
   {
     "id": 4495,
-    "fa": "من توضیح دادم مشکل به او به طور واضح",
+    "fa": "من توضیح دادم مشکل به او (مرد) به طور واضح",
     "en": "I explained the problem to him clearly",
     "groupCode": 0
   },
@@ -9116,13 +9116,13 @@
   },
   {
     "id": 4497,
-    "fa": "آن ها در آوردند سکه های قدیمی ای از زمینشان",
+    "fa": "آن ها در آوردند بعضی سکه های قدیمی در زمینشان",
     "en": "They dug up some old coins in their field",
     "groupCode": 0
   },
   {
     "id": 4498,
-    "fa": "ما رسیدیم به یک توافق در نهایت",
+    "fa": "ما رسیدیم به یک توافق در پایان",
     "en": "We reached an agreement in the end",
     "groupCode": 0
   },
@@ -9136,6 +9136,48 @@
     "id": 4500,
     "fa": "Least Connection - ارسال می کند درخواست بعدی را به سروری با کمترین اتصالات فعال",
     "en": "Least Connection – Sends the next request to the server with the fewest active connections",
+    "groupCode": 0
+  },
+  {
+    "id": 4501,
+    "fa": "من آوردم مقداری میوه تا تاخیر بیاندازم (جلوگیری کرد) گرسنگی",
+    "en": "I brought some fruit to stave off hunger",
+    "groupCode": 0
+  },
+  {
+    "id": 4502,
+    "fa": "زوال عقل است یک بیماری شایع میان مردم پیر",
+    "en": "Dementia is a common disease among old people",
+    "groupCode": 0
+  },
+  {
+    "id": 4503,
+    "fa": "سخت است مدیریت کردن (ذهنی همزمان) همه چیز",
+    "en": "It's hard to juggle everything",
+    "groupCode": 0
+  },
+  {
+    "id": 4504,
+    "fa": "من عمل کردم با بی توجهی کامل",
+    "en": "I acted with utter disregard",
+    "groupCode": 0
+  },
+  {
+    "id": 4505,
+    "fa": "من تحقیر می کنم از مردمی که دروغ میگویند",
+    "en": "I despise people who tell lies",
+    "groupCode": 0
+  },
+  {
+    "id": 4506,
+    "fa": "عضویت او (مرد) منقضی شد ماه گذشته",
+    "en": "His membership lapsed last month",
+    "groupCode": 0
+  },
+  {
+    "id": 4507,
+    "fa": "چرا تو عوض کردی نظرت وسط راه؟",
+    "en": "Why did you change your mind halfway through?",
     "groupCode": 0
   }
 ]

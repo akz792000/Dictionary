@@ -15242,6 +15242,7 @@
     "id": 2509,
     "fa": "آیا شما بالای 30 سال هستی؟",
     "en": "Are you over 30 years old?",
+    "desc": "“Are you over than 30 years old?” ❌ → Incorrect.\n\nYou should never use “than” after over” in this context.",
     "groupCode": 0
   },
   {
