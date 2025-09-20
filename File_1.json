@@ -3174,7 +3174,7 @@
     "id": 3517,
     "fa": "آیا تا به حال احساس گم شدن کردی وقتی همکارانتان شروع به صحبت انگلیسی با یکدیگر؟",
     "en": "Do you ever feel lost when your colleagues start speaking English to each other?",
-    "desc": "Did you ever feel – این جمله به یک زمان مشخص در گذشته اشاره دارد. مثل اینکه بپرسیم «آیا در دوران خاصی این حس رو داشتی؟»\n\nDo you ever feel – این حالت به چیزی اشاره دارد که ممکن است همیشه یا به صورت مرتب اتفاق بیفتد، به\u200Cویژه در زمان حال. یعنی «آیا الآن هم گاهی این حس رو داری؟»\n\nHave you ever felt – این جمله به تجربه\u200Cای کلی اشاره دارد که از گذشته تا حالا شاید یک بار اتفاق افتاده باشد. مثل اینکه بپرسیم «تا حالا هیچ وقت این حس رو داشتی؟»\n\nSo:\n\nDid = تجربه\u200Cای در گذشته مشخص\nDo = تجربه\u200Cای جاری و مرتب\nHave = تجربه\u200Cای کلی تا به حال",
+    "desc": "Did you ever feel – این جمله به یک زمان مشخص در گذشته اشاره دارد. مثل اینکه بپرسیم «آیا در دوران خاصی این حس رو داشتی؟»\n\nDo you ever feel – این حالت به چیزی اشاره دارد که ممکن است همیشه یا به صورت مرتب اتفاق بیفتد، به ویژه در زمان حال. یعنی «آیا الآن هم گاهی این حس رو داری؟»\n\nHave you ever felt – این جمله به تجربه ای کلی اشاره دارد که از گذشته تا حالا شاید یک بار اتفاق افتاده باشد. مثل اینکه بپرسیم «تا حالا هیچ وقت این حس رو داشتی؟»\n\nSo:\n\nDid = تجربه ای در گذشته مشخص\nDo = تجربه ای جاری و مرتب\nHave = تجربه ای کلی تا به حال",
     "groupCode": 0
   },
   {
@@ -9164,7 +9164,7 @@
   },
   {
     "id": 4505,
-    "fa": "من تحقیر می کنم از مردمی که دروغ میگویند",
+    "fa": "من تحقیر می کنم مردمی که میگویند دروغ ها",
     "en": "I despise people who tell lies",
     "groupCode": 0
   },
@@ -9178,6 +9178,54 @@
     "id": 4507,
     "fa": "چرا تو عوض کردی نظرت وسط راه؟",
     "en": "Why did you change your mind halfway through?",
+    "groupCode": 0
+  },
+  {
+    "id": 4508,
+    "fa": "منو سالم (از نظر روانی ) نگه میداره",
+    "en": "It keeps me sane",
+    "groupCode": 0
+  },
+  {
+    "id": 4509,
+    "fa": "منو بازیافت میکنم و جق میزنم و من بهش افتخار میکنم",
+    "en": "I recycle and I masturbate and I'm proud of it",
+    "groupCode": 0
+  },
+  {
+    "id": 4510,
+    "fa": "Weighted Round Robin - اختصاص می دهد درخواست ها را به سرورها بر اساس وزن های از پیش تعریف شده, می دهد بیشتر به سرورهای قوی تر",
+    "en": "Weighted Round Robin – Assigns requests to servers based on predefined weights, giving more to stronger servers",
+    "groupCode": 0
+  },
+  {
+    "id": 4511,
+    "fa": "یک زمزمه ای برخاست از حضار",
+    "en": "A murmur arose from the audience",
+    "groupCode": 0
+  },
+  {
+    "id": 4512,
+    "fa": "آیا شما به تناسخ اعتقاد داری؟",
+    "en": "Do you believe in reincarnation?",
+    "groupCode": 0
+  },
+  {
+    "id": 4513,
+    "fa": "مسافران تشنه دیدند یک سراب در بیابان",
+    "en": "The thirsty travelers saw a mirage /məˈrɑːʒ/ in the desert",
+    "groupCode": 0
+  },
+  {
+    "id": 4514,
+    "fa": "او (مرد) یک خواننده مشتاق /ˈævɪd/ رمان های علمی تخیلی است",
+    "en": "He is an avid /ˈævɪd/ reader of science fiction novels",
+    "groupCode": 0
+  },
+  {
+    "id": 4515,
+    "fa": "Weighted Least Connection - انتخاب می کند سروری را با کمترین اتصالات فعال, فاکتورگیری می کند در وزن های سرور",
+    "en": "Weighted Least Connection – Chooses the server with the fewest active connections, factoring in server weights",
     "groupCode": 0
   }
 ]

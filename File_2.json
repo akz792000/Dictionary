@@ -318,7 +318,7 @@
   },
   {
     "id": 10052,
-    "en": "Do you like going to clubs? No, I prefer going to cafes",
+    "en": "Do you like going into clubs? No, I prefer going into cafes",
     "de": "Gehst du gern in Clubs? Nein, Ich gehe lieber in Cafés",
     "desc": "Both \"I prefer going to cafes\" and \"I prefer to go to cafes\" are correct. The first uses a gerund (\"going\"), while the second uses an infinitive (\"to go\"). They mean the same thing but might be used in different contexts or for stylistic variation.",
     "groupCode": 1
@@ -586,7 +586,7 @@
   },
   {
     "id": 10096,
-    "en": "Are you (plural) coming to (toward) the party later?",
+    "en": "Are you (plural) coming to the party later?",
     "de": "Kommt ihr später zur Party?",
     "groupCode": 1
   },
@@ -628,7 +628,7 @@
   },
   {
     "id": 10103,
-    "en": "You are tired and sad, go to (toward) the doctor",
+    "en": "You are tired and sad, go to the doctor",
     "de": "Du bist müde und traurig, geh zum Arzt",
     "groupCode": 1
   },
@@ -1209,7 +1209,7 @@
   },
   {
     "id": 10198,
-    "en": "Anne goes to (toward) her apartment",
+    "en": "Anne goes to her apartment",
     "de": "Anne geht zu ihrer Wohnung",
     "groupCode": 1
   },
@@ -1382,7 +1382,7 @@
   },
   {
     "id": 10226,
-    "en": "The film is for adults only and not for children. My parents go to the cinema alone",
+    "en": "The film is for adults only and not for children. My parents go into the cinema alone",
     "de": "Der Film ist nur für Erwachsene und nicht für Kinder. Meine Eltern gehen allein ins Kino",
     "groupCode": 1
   },
@@ -1852,7 +1852,7 @@
   },
   {
     "id": 10303,
-    "en": "Are you (plural) coming to (toward) the party too?",
+    "en": "Are you (plural) coming to the party too?",
     "de": "Kommt ihr auch zur Party?",
     "groupCode": 1
   },
@@ -1908,7 +1908,7 @@
   },
   {
     "id": 10312,
-    "en": "How long does the taxi ride until to (toward) the hotel last?",
+    "en": "How long does the taxi ride until to the hotel last?",
     "de": "Wie lange dauert die Taxifahrt bis zum Hotel?",
     "desc": "With \"bis\": \"Wie lange dauert die Taxifahrt bis zum Hotel\" emphasizes the endpoint (the hotel).\nWithout \"bis\": \"Wie lange dauert die Taxifahrt zum Hotel\" is simpler and just asks about the duration.",
     "groupCode": 1
@@ -1927,7 +1927,7 @@
   },
   {
     "id": 10315,
-    "en": "Can we go to the cinema?",
+    "en": "Can we go into the cinema?",
     "de": "Können wir ins Kino gehen?",
     "groupCode": 1
   },
@@ -2263,7 +2263,7 @@
   },
   {
     "id": 10370,
-    "en": "I want cookies, go to the pastry shop, please",
+    "en": "I want cookies, go into the pastry shop, please",
     "de": "I will Kekse, geh in die Konditorei, bitte",
     "groupCode": 1
   },
@@ -2312,7 +2312,7 @@
   },
   {
     "id": 10378,
-    "en": "I want to eat ham, go to the butcher shop",
+    "en": "I want to eat ham, go into the butcher shop",
     "de": "Ich will Schinken essen, geh in die Metzgerei",
     "groupCode": 1
   },
@@ -2439,7 +2439,7 @@
   },
   {
     "id": 10399,
-    "en": "I am definitely (entire specifically) coming to (toward) the party",
+    "en": "I am definitely (entire specifically) coming to the party",
     "de": "Ich komme ganz bestimmt zur Party",
     "groupCode": 1
   },
@@ -2573,13 +2573,13 @@
   },
   {
     "id": 10421,
-    "en": "Go (formal) to (toward) counter three, please",
+    "en": "Go (formal) to counter three, please",
     "de": "Gehen Sie zum Schalter drei, bitte",
     "groupCode": 1
   },
   {
     "id": 10422,
-    "en": "That's right, go (formal) to (toward) counter eleven",
+    "en": "That's right, go (formal) to counter eleven",
     "de": "Das ist richtig, gehen Sie zum Schalter elf",
     "groupCode": 1
   },
@@ -2657,7 +2657,7 @@
   },
   {
     "id": 10435,
-    "en": "He jogs to (toward) the restaurant",
+    "en": "He jogs to the restaurant",
     "de": "Er joggt zum Restaurant",
     "groupCode": 1
   },
@@ -2793,7 +2793,7 @@
   },
   {
     "id": 10457,
-    "en": "Ali comes right soon (in a moment) from the train station to (toward) the party. Can you pick up Ali from the train station?",
+    "en": "Ali comes right soon (in a moment) from the train station to the party. Can you pick up Ali from the train station?",
     "de": "Ali kommt gleich vom Bahnhof zur Party. Kannst du Ali vom Bahnhof abholen?",
     "groupCode": 1
   },
@@ -2812,7 +2812,7 @@
   },
   {
     "id": 10460,
-    "en": "Mia and Tim, is your (plural) apartment clean for the party? Your (plural) mother is also coming to (toward) the party",
+    "en": "Mia and Tim, is your (plural) apartment clean for the party? Your (plural) mother is also coming to the party",
     "de": "Mia und Tim, ist eure Wohnung sauber für die Party? Eure Mutter kommt auch zur Party",
     "groupCode": 1
   },
@@ -3006,7 +3006,7 @@
   },
   {
     "id": 10492,
-    "en": "I have to go to (toward) the doctor (male), I have a nut allergy",
+    "en": "I have to go to the doctor (male), I have a nut allergy",
     "de": "Ich muss zum Arzt gehen, ich habe eine Nussallergie",
     "groupCode": 1
   },
@@ -3144,7 +3144,7 @@
   },
   {
     "id": 10515,
-    "en": "Akbar, go to (toward) the doctor please",
+    "en": "Akbar, go to the doctor please",
     "de": "Akbar, geh zum Arzt bitte",
     "groupCode": 1
   },
@@ -3571,7 +3571,7 @@
   },
   {
     "id": 10586,
-    "en": "Are you going to (toward) the beach alone? No, I'm going with my dad",
+    "en": "Are you going to the beach alone? No, I'm going with my dad",
     "de": "Gehst du allein zum Strand? Nein, ich gehe mit meinem Vater",
     "groupCode": 1
   },
@@ -3583,7 +3583,7 @@
   },
   {
     "id": 10588,
-    "en": "We are going to (toward) the beach. We need sunscreen",
+    "en": "We are going to the beach. We need sunscreen",
     "de": "Wir gehen zum Strand. Wir brauchen Sonnencreme",
     "groupCode": 1
   },
@@ -3674,7 +3674,7 @@
   },
   {
     "id": 10603,
-    "en": "Fifty guests are coming to (toward) the party tomorrow",
+    "en": "Fifty guests are coming to the party tomorrow",
     "de": "Fünfzig Gäste kommen morgen zur Party",
     "groupCode": 1
   },
@@ -3686,13 +3686,13 @@
   },
   {
     "id": 10605,
-    "en": "Why doesn't Julia come to (toward) the barbecue party? She is flying to Paris with her sister",
+    "en": "Why doesn't Julia come to the barbecue party? She is flying to Paris with her sister",
     "de": "Warum kommt Julia nicht zur Grillparty? Sie fliegt mit ihrer Schwester nach Paris",
     "groupCode": 1
   },
   {
     "id": 10606,
-    "en": "Many guests are coming to (toward) the barbecue party, almost two hundred!",
+    "en": "Many guests are coming to the barbecue party, almost two hundred!",
     "de": "Viele Gäste kommen zur Grillparty, fast zweihundert!",
     "groupCode": 1
   },
@@ -3748,7 +3748,7 @@
   },
   {
     "id": 10615,
-    "en": "Eddy is unfortunately not coming to (toward) the barbecue party because his foot is broken. He is very sad",
+    "en": "Eddy is unfortunately not coming to the barbecue party because his foot is broken. He is very sad",
     "de": "Eddy kommt leider nicht zur Grillparty, denn sein Fuß ist gebrochen. Er ist sehr traurig",
     "groupCode": 1
   },
@@ -3772,7 +3772,7 @@
   },
   {
     "id": 10619,
-    "en": "What kind of (a) cake are you bringing along to (toward) the party?",
+    "en": "What kind of (a) cake are you bringing along to the party?",
     "de": "Was für einen Kuchen bringst du zur Party mit?",
     "groupCode": 1
   },
@@ -3808,7 +3808,7 @@
   },
   {
     "id": 10625,
-    "en": "Anna, your girlfriend is flying home tomorrow, right? Can you drive with your girlfriend to (toward) the airport?",
+    "en": "Anna, your girlfriend is flying home tomorrow, right? Can you drive with your girlfriend to the airport?",
     "de": "Anna, deine Freundin fliegt morgen nach Hause, richtig? Kannst du mit deiner Freundin zum Flughafen fahren?",
     "groupCode": 1
   },
@@ -3820,13 +3820,13 @@
   },
   {
     "id": 10627,
-    "en": "How many people are coming to (toward) the barbecue party next week?",
+    "en": "How many people are coming to the barbecue party next week?",
     "de": "Wie viele Leute kommen nächste Woche zur Grillparty?",
     "groupCode": 1
   },
   {
     "id": 10628,
-    "en": "I am inviting twenty guests to (toward) the barbecue party. Here is your invitation",
+    "en": "I am inviting twenty guests to the barbecue party. Here is your invitation",
     "de": "Ich lade zwanzig Gäste zur Grillparty ein. Hier ist deine Einladung",
     "groupCode": 1
   },
@@ -3844,7 +3844,7 @@
   },
   {
     "id": 10631,
-    "en": "Is your niece also coming to (toward) the barbecue party? She likes eating meat, right?",
+    "en": "Is your niece also coming to the barbecue party? She likes eating meat, right?",
     "de": "Kommt deine Nichte auch zur Grillparty? Sie isst gern Fleisch, richtig?",
     "groupCode": 1
   },
@@ -3875,13 +3875,13 @@
   },
   {
     "id": 10636,
-    "en": "Many guests are coming to (toward) the barbecue party. I hope everybody gets enough food",
+    "en": "Many guests are coming to the barbecue party. I hope everybody gets enough food",
     "de": "Viele Gäste kommen zur Grillparty. Ich hoffe, alle bekommen genug Essen",
     "groupCode": 1
   },
   {
     "id": 10637,
-    "en": "He's inviting a band to (toward) the party, right?",
+    "en": "He's inviting a band to the party, right?",
     "de": "Er lädt eine Band zur Party ein, richtig?",
     "groupCode": 1
   },
@@ -3899,7 +3899,7 @@
   },
   {
     "id": 10640,
-    "en": "How many guests are coming to (toward) the party?",
+    "en": "How many guests are coming to the party?",
     "de": "Wie viele Gäste kommen zur Party?",
     "groupCode": 1
   },
@@ -3911,7 +3911,7 @@
   },
   {
     "id": 10642,
-    "en": "When is your departure (flight)? Are you driving to (toward) the airport with your brother?",
+    "en": "When is your departure (flight)? Are you driving to the airport with your brother?",
     "de": "Wann ist dein Abflug? Fährst du mit deinem Bruder zum Flughafen?",
     "groupCode": 1
   },
@@ -3935,7 +3935,7 @@
   },
   {
     "id": 10646,
-    "en": "We have to drive to (toward) the airport now, but I definitely (in any case) want to come back (again) in January",
+    "en": "We have to drive to the airport now, but I definitely (in any case) want to come back (again) in January",
     "de": "Wir müssen jetzt zum Flughafen fahren, aber ich will im Januar auf jeden Fall wiederkommen",
     "groupCode": 1
   },
@@ -3947,7 +3947,7 @@
   },
   {
     "id": 10648,
-    "en": "All (Everyone) comes to (toward) the party",
+    "en": "All (Everyone) comes to the party",
     "de": "Alle kommen zur Party",
     "groupCode": 1
   },
@@ -3959,7 +3959,7 @@
   },
   {
     "id": 10650,
-    "en": "With whom are you going to (toward) the beach?",
+    "en": "With whom are you going to the beach?",
     "de": "Mit wem gehst du zum Strand?",
     "groupCode": 1
   },
@@ -4182,7 +4182,7 @@
   },
   {
     "id": 10687,
-    "en": "Many people come to (toward) the barbecue party",
+    "en": "Many people come to the barbecue party",
     "de": "Viele Leute kommen zur Grillparty",
     "groupCode": 1
   },
@@ -4194,7 +4194,7 @@
   },
   {
     "id": 10689,
-    "en": "Many students (male) would also like to (toward) come to the party",
+    "en": "Many students (male) would also like to come to the party",
     "de": "Viele Studenten möchten auch zur Party kommen",
     "groupCode": 1
   },
@@ -4212,7 +4212,7 @@
   },
   {
     "id": 10692,
-    "en": "Fahimeh visits her mother. She comes with her mother to (toward) the barbecue party",
+    "en": "Fahimeh visits her mother. She comes with her mother to the barbecue party",
     "de": "Fahimeh besucht ihre Mutter. Sie kommt mit ihrer Mutter zur Grillparty",
     "groupCode": 1
   },
@@ -4230,7 +4230,7 @@
   },
   {
     "id": 10695,
-    "en": "I invite my colleagues to (toward) the party, that's eleven people",
+    "en": "I invite my colleagues to the party, that's eleven people",
     "de": "Ich lade meine Kollegen zur Party ein, das sind elf Leute",
     "groupCode": 1
   },
@@ -4279,7 +4279,7 @@
   },
   {
     "id": 10703,
-    "en": "Twenty guests come to (toward) the party. Lisa does not come alone. Her foot is broken and she cannot drive her car. Her neighbor (male) drives her",
+    "en": "Twenty guests come to the party. Lisa does not come alone. Her foot is broken and she cannot drive her car. Her neighbor (male) drives her",
     "de": "Zwanzig Gäste kommen zur Party. Lisa kommt nicht allein. Ihr Fuß ist gebrochen und sie kann ihr Auto nicht fahren. Ihr Nachbar fährt sie",
     "groupCode": 1
   },
@@ -4898,14 +4898,14 @@
   },
   {
     "id": 10805,
-    "en": "Where (to) would you like to drive? To (toward) the train station",
+    "en": "Where (to) would you like to drive? To the train station",
     "de": "Wohin möchtest du fahren? Zum Bahnhof",
     "desc": "\"Wohin\" means \"where to\" and is used when asking about a destination or direction. For example, \"Wohin möchtest du gehen?\" means \"Where would you like to go?\" because you're asking about the destination or direction of the person's intended movement.\n\n\"Woher\" means \"where from\" and is used when asking about the origin or source of something. For example, \"Woher kommst du?\" means \"Where are you from?\" because you're asking about the place the person is coming from.",
     "groupCode": 1
   },
   {
     "id": 10806,
-    "en": "\n I must go to (toward) school tomorrow. \n Must I go to (toward) school tomorrow? \n Where (to) must I go tomorrow?",
+    "en": "\n I must go to school tomorrow. \n Must I go to school tomorrow? \n Where (to) must I go tomorrow?",
     "de": "\n Ich muss morgen zur Schule gehen. \n Muss ich morgen zur Schule gehen? \n Wohin muss ich morgen gehen?",
     "groupCode": 1
   },
@@ -5004,7 +5004,7 @@
   },
   {
     "id": 10822,
-    "en": "Would you like to go by foot until to (toward) the hotel?",
+    "en": "Would you like to go by foot until to the hotel?",
     "de": "Möchtest du zu fuß bis zum hotel gehen?",
     "desc": "Use bis to emphasize a limit, endpoint, or duration.\n\nExamples:\n\nOrt (Place): Wir gehen bis zum Park. (We walk all the way to the park.)\nZeit (Time): Ich warte bis morgen. (I wait until tomorrow.)\nReihenfolge (Order): Zähle bis zehn! (Count up to ten!)",
     "groupCode": 1
@@ -5194,7 +5194,7 @@
   {
     "id": 10853,
     "en": "I want to invite you to breakfast, are you coming?",
-    "de": "Ich will dich zum (toward) Frühstück einladen, kommst du?",
+    "de": "Ich will dich zum Frühstück einladen, kommst du?",
     "groupCode": 1
   },
   {
@@ -5655,7 +5655,7 @@
   },
   {
     "id": 10929,
-    "en": "Do you want to invite your parents to (toward) the lunch?",
+    "en": "Do you want to invite your parents to the lunch?",
     "de": "Willst du deine Eltern zum Mittagessen einladen?",
     "groupCode": 1
   },
@@ -5789,7 +5789,7 @@
   },
   {
     "id": 10951,
-    "en": "My husband goes to the pastry shop once a week",
+    "en": "My husband goes into the pastry shop once a week",
     "de": "Mein Mann geht einmal pro Woche in die Konditorei",
     "groupCode": 1
   },
@@ -5874,13 +5874,13 @@
   },
   {
     "id": 10965,
-    "en": "I'm bringing along chocolate to (toward) the party",
+    "en": "I'm bringing along chocolate to the party",
     "de": "Ich bringe Schokolade zur Party mit",
     "groupCode": 1
   },
   {
     "id": 10966,
-    "en": "You don't have to bring along gifts to (toward) the party",
+    "en": "You don't have to bring along gifts to the party",
     "de": "Du musst keine Geschenke zur Party mitbringen",
     "groupCode": 1
   },
@@ -5934,7 +5934,7 @@
   },
   {
     "id": 10975,
-    "en": "The train arrives in forty-five minutes. My brother pick Ali up from the train station, then they come to (toward) the party together",
+    "en": "The train arrives in forty-five minutes. My brother pick Ali up from the train station, then they come to the party together",
     "de": "Der Zug kommt in fünfundvierzig Minuten an. Mein Bruder holt Ali vom Bahnhof ab, dann kommen sie zusammen zur Party",
     "groupCode": 1
   },
@@ -5988,7 +5988,7 @@
   },
   {
     "id": 10984,
-    "en": "I ride with the bike to (toward) the embassy and of course I wear my bike helmet",
+    "en": "I ride with the bike to the embassy and of course I wear my bike helmet",
     "de": "Ich fahre mit dem Fahrrad zur Botschaft und natürlich trage ich meinen Fahrradhelm",
     "groupCode": 1
   },
@@ -6152,7 +6152,7 @@
   },
   {
     "id": 11011,
-    "en": "The way to (toward) the school is short",
+    "en": "The way to the school is short",
     "de": "Der Weg zur Schule ist kurz",
     "groupCode": 1
   },
@@ -6182,7 +6182,7 @@
   },
   {
     "id": 11016,
-    "en": "How I come from here to (toward) the city museum?",
+    "en": "How I come from here to the city museum?",
     "de": "Wie komme ich von hier zum stadtmuseum?",
     "groupCode": 1
   },
@@ -6200,7 +6200,7 @@
   },
   {
     "id": 11019,
-    "en": "I like go swimming with my uncle. We go to (toward) the beach on weekends",
+    "en": "I like go swimming with my uncle. We go to the beach on weekends",
     "de": "Ich gehe gern mit meinem Onkel schwimmen. Wir gehen am Wochenende zum Strand",
     "groupCode": 1
   },
@@ -6452,7 +6452,7 @@
   },
   {
     "id": 11061,
-    "en": "Do you want to invite me to (in) my favorite restaurant?",
+    "en": "Do you want to invite me in my favorite restaurant?",
     "de": "Willst du mich in mein Lieblingsrestaurant einladen?",
     "desc": "In: You're inviting someone to go into a place (restaurant)",
     "groupCode": 1
@@ -6611,7 +6611,7 @@
   },
   {
     "id": 11087,
-    "en": "How do you drive to (torward) work most gladly",
+    "en": "How do you drive to work most gladly",
     "de": "Wie fährst du am liebsten zur Arbeit?",
     "groupCode": 1
   },
@@ -6755,7 +6755,7 @@
   },
   {
     "id": 11111,
-    "en": "Someone brings me to (toward) the airport soon (in a moment) and I fly again to Bonn",
+    "en": "Someone brings me to the airport soon (in a moment) and I fly again to Bonn",
     "de": "Jemand bringt mich gleich zum Flughafen und ich fliege wieder nach Bonn",
     "groupCode": 1
   },
@@ -6785,7 +6785,7 @@
   },
   {
     "id": 11116,
-    "en": "With whom are you going to the cinema today?",
+    "en": "With whom are you going into the cinema today?",
     "de": "Mit wem gehst du heute ins Kino?",
     "groupCode": 1
   },
@@ -6889,7 +6889,7 @@
   },
   {
     "id": 11133,
-    "en": "Who is that? Whom are you going to the cinema?",
+    "en": "Who is that? Whom are you going into the cinema?",
     "de": "Wer ist das? Wem gehst du ins Kino?",
     "groupCode": 1
   },
@@ -6951,7 +6951,7 @@
   },
   {
     "id": 11143,
-    "en": "We're also going to the club this evening and want to sleep in tomorrow",
+    "en": "We're also going into the club this evening and want to sleep in tomorrow",
     "de": "Wir gehen heute Abend noch in den Club und wollen morgen aussclafen",
     "groupCode": 1
   },
@@ -7280,7 +7280,7 @@
   },
   {
     "id": 11197,
-    "en": "They drive to the school with the bus",
+    "en": "They drive into the school with the bus",
     "de": "Sie fahren mit dem Bus in die Schule",
     "groupCode": 1
   },
@@ -7418,7 +7418,7 @@
   },
   {
     "id": 11220,
-    "en": "You definitely (in any case) have to come to (toward) the party",
+    "en": "You definitely (in any case) have to come to the party",
     "de": "Du musst auf jeden Fall zur Party kommen",
     "groupCode": 1
   },
@@ -7479,7 +7479,7 @@
   },
   {
     "id": 11230,
-    "en": "My son wants to sleep in during the holiday (school holidays) and so do I",
+    "en": "My son wants to sleep in the holiday (school holidays) and so do I",
     "de": "Mein Sohn will in den Ferien ausschlafen und ich auch",
     "groupCode": 1
   },
@@ -8021,7 +8021,7 @@
   },
   {
     "id": 11319,
-    "en": "Is your daughter already going to the school?",
+    "en": "Is your daughter already going into the school?",
     "de": "Geht deine Tochter schon in die Schule?",
     "groupCode": 1
   },
@@ -8383,7 +8383,7 @@
   },
   {
     "id": 11378,
-    "en": "I'm allowed to go to the cinema",
+    "en": "I'm allowed to go into the cinema",
     "de": "Ich darf ins Kino gehen",
     "groupCode": 1
   },
@@ -8725,7 +8725,7 @@
   },
   {
     "id": 11434,
-    "en": "In the afternoon I go to the supermarket in order to shop",
+    "en": "In the afternoon I go into the supermarket in order to shop",
     "de": "Am Nachmittag gehe ich in den Supermarkt, um einzukaufen",
     "desc": "This sentence uses the purpose clause:\n„um ... zu + infinitive“, which means \"in order to do something\".\n\num = in order\n\nzu = to\n\neinkaufen = shop (infinitive at the end)",
     "groupCode": 1
@@ -8738,7 +8738,7 @@
   },
   {
     "id": 11436,
-    "en": "First I go to (toward) the fruit department",
+    "en": "First I go to the fruit department",
     "de": "Zuerst gehe ich zur Obstabteilung",
     "groupCode": 1
   },
@@ -8800,7 +8800,7 @@
   },
   {
     "id": 11446,
-    "en": "She followed the car untill to (toward) the intersection",
+    "en": "She followed the car untill to the intersection",
     "de": "\n 1.Sie folgte dem Auto bis zur Kreuzung \n 2.Sie ist dem Auto bis zur Kreuzung gefolgt",
     "groupCode": 1
   },
@@ -8813,7 +8813,7 @@
   {
     "id": 11448,
     "en": "I'm starting to learn",
-    "de": "\n 1.Ich beginne zu lernen\n 2.Ich fange zu lernen an",
+    "de": "\n 1.Ich beginne zu lernen \n 2.Ich fange zu lernen an",
     "groupCode": 1
   },
   {
@@ -8861,7 +8861,7 @@
   },
   {
     "id": 11456,
-    "en": "After the work Ali often goes to the gym",
+    "en": "After the work Ali often goes into the gym",
     "de": "Nach der Arbeit geht Ali oft ins Fitnessstudio",
     "groupCode": 1
   },
@@ -9046,7 +9046,7 @@
   },
   {
     "id": 11486,
-    "en": "I would like to celebrate my birthday and invite you to (toward) my birthday",
+    "en": "I would like to celebrate my birthday and invite you to my birthday",
     "de": "Ich möchte meinen Geburtstag feiern und dich zu meinem Geburtstag einladen",
     "groupCode": 1
   },
@@ -9059,7 +9059,7 @@
   },
   {
     "id": 11488,
-    "en": "Could you please tell (say) me if you are coming to (toward) my birthday?",
+    "en": "Could you please tell (say) me if you are coming to my birthday?",
     "de": "Könntest du mir bitte sagen, ob du zu meinem Geburtstag kommst?",
     "groupCode": 1
   },
@@ -9071,7 +9071,7 @@
   },
   {
     "id": 11490,
-    "en": "We're driving straight to (toward) the concert, where are you?",
+    "en": "We're driving straight to the concert, where are you?",
     "de": "Wir fahren gerade zum Konzert, wo bist du?",
     "groupCode": 1
   },
@@ -9162,13 +9162,13 @@
   },
   {
     "id": 11505,
-    "en": "Who are you inviting to (toward) the butcher shop?",
+    "en": "Who are you inviting to the butcher shop?",
     "de": "Wen lädst du zur Metzgerei ein?",
     "groupCode": 1
   },
   {
     "id": 11506,
-    "en": "Why doesn't she invite me to (toward) the barbecue?",
+    "en": "Why doesn't she invite me to the barbecue?",
     "de": "Warum lädt sie mich nicht zur Grillparty ein?",
     "groupCode": 1
   },
@@ -9336,13 +9336,13 @@
   },
   {
     "id": 11534,
-    "en": "Back to (toward) homepage",
+    "en": "Back to homepage",
     "de": "Zurück zur Startseite",
     "groupCode": 1
   },
   {
     "id": 11535,
-    "en": "He goes to (he attends) school. He goes into the school. He goes to (toward) the school",
+    "en": "He goes to (he attends) school. He goes into the school. He goes to the school",
     "de": "Er geht auf die Schule. Er geht in die Schule. Er geht zur Schule",
     "desc": "auf die Schule gehen → idiomatic for attending a certain school.\n\nin die Schule gehen → physically entering the school building.\n\nzur Schule gehen → going in the direction of the school.",
     "groupCode": 1
@@ -9428,7 +9428,7 @@
   },
   {
     "id": 11549,
-    "en": "Would you like to come along to (toward) the basketball game?",
+    "en": "Would you like to come along to the basketball game?",
     "de": "Möchtest du zum Basketballspiel mitkommen?",
     "groupCode": 1
   },
@@ -10379,7 +10379,7 @@
   },
   {
     "id": 11704,
-    "en": "I have an earache. Can we go to (toward) a doctor (female)?",
+    "en": "I have an earache. Can we go to a doctor (female)?",
     "de": "Ich habe Ohrenschmerzen. Können wir zur Ärztin gehen?",
     "groupCode": 1
   },
@@ -10506,7 +10506,7 @@
   },
   {
     "id": 11725,
-    "en": "When do you call your brother, is he coming to (toward) the party?",
+    "en": "When do you call your brother, is he coming to the party?",
     "de": "Wann rufst du deinen Bruder an, kommt er zur Party?",
     "groupCode": 1
   },
@@ -10762,7 +10762,7 @@
   {
     "id": 11767,
     "en": "Does your mom prefer reading newspapers or comics?",
-    "de": "Liest deine Mama lieber Zeitung oder Comics?",
+    "de": "Liest deine Mama lieber Zeitungen oder Comics?",
     "groupCode": 1
   },
   {
@@ -10815,7 +10815,7 @@
   },
   {
     "id": 11776,
-    "en": "This necklace (chain) is very chic. I want to give it to my mother, but it's definitely (entire specifically) expensive.",
+    "en": "This necklace (chain) is very chic. I want to give it to my mother, but it costs definitely (entire specifically) much",
     "de": "Diese Kette ist sehr schick. Ich will sie meiner Mutter geben, aber sie kostet ganz bestimmt viel",
     "groupCode": 1
   },
@@ -10827,7 +10827,7 @@
   },
   {
     "id": 11778,
-    "en": "The party starts soon (in a moment) , call your siblings",
+    "en": "The party starts soon (in a moment), call your siblings",
     "de": "Die Party fängt gleich an, ruf deine Geschwister an",
     "groupCode": 1
   },
@@ -10857,7 +10857,7 @@
   },
   {
     "id": 11783,
-    "en": "I often win at (in) chess",
+    "en": "I often win in the chess",
     "de": "Ich gewinne oft im Schach",
     "groupCode": 1
   },
@@ -10905,7 +10905,7 @@
   },
   {
     "id": 11791,
-    "en": "Are your grandparents bringing a few bottles of wine?",
+    "en": "Are your (plural) grandparents bringing along a few bottles of wine?",
     "de": "Bringen eure Großeltern ein paar Flaschen wein mit?",
     "groupCode": 1
   },
@@ -10937,6 +10937,30 @@
     "id": 11796,
     "en": "What do you like to do by nice weather?",
     "de": "Was machst du gern bei schönem wetter?",
+    "groupCode": 1
+  },
+  {
+    "id": 11797,
+    "en": "The mirror hangs at the wall",
+    "de": "Der Spiegel hängt an der Wand",
+    "groupCode": 1
+  },
+  {
+    "id": 11798,
+    "en": "The stove is new",
+    "de": "Der Herd ist neu",
+    "groupCode": 1
+  },
+  {
+    "id": 11799,
+    "en": "Can you show him, how to sleep?",
+    "de": "Kannst du ihm zeigen, wie man schläft?",
+    "groupCode": 1
+  },
+  {
+    "id": 11800,
+    "en": "We can go swimming afterwards",
+    "de": "Wir können nachher schwimmen gehen",
     "groupCode": 1
   }
 ]
