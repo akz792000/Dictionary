@@ -7739,7 +7739,7 @@
   },
   {
     "id": 11273,
-    "en": "How do someone write lighter?",
+    "en": "How do one (someone) write lighter?",
     "de": "Wie schreibt man feuerzeug?",
     "groupCode": 1
   },
@@ -10397,7 +10397,7 @@
   },
   {
     "id": 11707,
-    "en": "Here man find not only expensive designer goods",
+    "en": "Here one finds not only expensive designer goods",
     "de": "Hier findet man nicht nur teuer Designerware",
     "groupCode": 1
   },
@@ -10851,7 +10851,7 @@
   },
   {
     "id": 11782,
-    "en": "We are going to Switzerland for a few days in the holiday (school holidays)",
+    "en": "We are going into Switzerland for a few days in the holiday (school holidays)",
     "de": "Wir fahren in den Ferien für ein paar Tage in die Schweiz",
     "groupCode": 1
   },
@@ -10935,7 +10935,7 @@
   },
   {
     "id": 11796,
-    "en": "What do you like to do by nice weather?",
+    "en": "What do you like doing by nice weather?",
     "de": "Was machst du gern bei schönem wetter?",
     "groupCode": 1
   },
@@ -10953,7 +10953,7 @@
   },
   {
     "id": 11799,
-    "en": "Can you show him, how to sleep?",
+    "en": "Can you show him, how to (one) sleep?",
     "de": "Kannst du ihm zeigen, wie man schläft?",
     "groupCode": 1
   },
@@ -10961,6 +10961,37 @@
     "id": 11800,
     "en": "We can go swimming afterwards",
     "de": "Wir können nachher schwimmen gehen",
+    "groupCode": 1
+  },
+  {
+    "id": 11801,
+    "en": "I explain to my friend how to (one) get to the train station",
+    "de": "Ich erkläre meiner Freundin wie man zum Bahnhof kommt",
+    "desc": "wie man: how to",
+    "groupCode": 1
+  },
+  {
+    "id": 11802,
+    "en": "He has already been to Berlin twice",
+    "de": "Er ist schon zweimal in Berlin gewesen",
+    "groupCode": 1
+  },
+  {
+    "id": 11803,
+    "en": "I've had a headache yesterday",
+    "de": "Ich habe gestern Kopfschmerzen gehabt",
+    "groupCode": 1
+  },
+  {
+    "id": 11804,
+    "en": "I've become sick",
+    "de": "Ich bin krank geworden",
+    "groupCode": 1
+  },
+  {
+    "id": 11805,
+    "en": "He becomes Doctor",
+    "de": "Er wurde Arzt",
     "groupCode": 1
   }
 ]

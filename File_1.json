@@ -6900,7 +6900,7 @@
   },
   {
     "id": 4130,
-    "fa": "Gradle Wrapper هست یک مکانیزم که اطمینان می دهد یک پروژه ساخته شده است با یک ورژن مخصوص از Gradle, صرف نظر از ورژن Gradle نصب شده روی دستگاه توسعه دهنده",
+    "fa": "Gradle Wrapper هست یک مکانیزم تا اطمینان دهد یک پروژه ساخته شده است با یک ورژن مخصوص از Gradle, صرف نظر از ورژن Gradle نصب شده روی دستگاه توسعه دهنده",
     "en": "The Gradle Wrapper is a mechanism to ensure that a project is built with a specific version of Gradle, regardless of the Gradle version installed on the developer's machine",
     "groupCode": 0
   },
@@ -9189,7 +9189,7 @@
   {
     "id": 4509,
     "fa": "منو بازیافت میکنم و جق میزنم و من بهش افتخار میکنم",
-    "en": "I recycle and I masturbate and I'm proud of it",
+    "en": "I recycle and masturbate and I'm proud of it",
     "groupCode": 0
   },
   {
