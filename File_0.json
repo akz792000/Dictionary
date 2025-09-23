@@ -10600,8 +10600,8 @@
   },
   {
     "id": 1746,
-    "fa": "نان بیات است",
-    "en": "The bread is stale",
+    "fa": "نان بیات است برای اینکه بیرون بوده است برای روزها",
+    "en": "The bread is stale because it has been sitting out for days",
     "groupCode": 0
   },
   {
@@ -18139,7 +18139,7 @@
   {
     "id": 2984,
     "fa": "این تی شرت حداکثر تا 16 جولای تحویل خواهد شد",
-    "en": "The T-shirt will be delivered by July 16 at the latest",
+    "en": "The T-shirt will be delivered by July 16th at the latest",
     "groupCode": 0
   },
   {

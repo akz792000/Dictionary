@@ -7472,7 +7472,7 @@
   },
   {
     "id": 11229,
-    "en": "We want to fly to Turkey for a few days",
+    "en": "We want to fly into Turkey for a few days",
     "de": "Wir wollen für ein paar tage in die Türkei fliegen",
     "desc": "The preposition \"in\" is used when referring to entering or traveling to a country \n\n\n The preposition \"zu\" is generally used when referring to going to a specific place, person, or event (e.g., \"zur Schule\" = to school, \"zum Arzt\" = to the doctor). It is not used for countries",
     "groupCode": 1
@@ -9342,7 +9342,7 @@
   },
   {
     "id": 11535,
-    "en": "He goes to (he attends) school. He goes into the school. He goes to the school",
+    "en": "He goes to (he attends) the school. He goes into the school. He goes to the school",
     "de": "Er geht auf die Schule. Er geht in die Schule. Er geht zur Schule",
     "desc": "auf die Schule gehen → idiomatic for attending a certain school.\n\nin die Schule gehen → physically entering the school building.\n\nzur Schule gehen → going in the direction of the school.",
     "groupCode": 1
@@ -10785,7 +10785,7 @@
   },
   {
     "id": 11771,
-    "en": "We talk about work and laugh a lot",
+    "en": "We talk about the work and laugh a lot",
     "de": "Wir reden über die Arbeit und lachen viel",
     "groupCode": 1
   },
@@ -10805,6 +10805,7 @@
     "id": 11774,
     "en": "Ali doesn't want to watch TV after the school, he wants to read",
     "de": "Ali will nach der Schule nicht fernsehen, er will lesen",
+    "desc": "\"Ali will nach der Schule nicht fernsehen, er will lesen.\"\n\nThis emphasizes that Ali does not want to watch TV after school. The focus is on the activity of watching TV.\n\"Ali will nicht nach der Schule fernsehen, er will lesen.\"\n\nThis emphasizes that Ali does not want to watch TV specifically after school. The focus is on the time frame (after school).",
     "groupCode": 1
   },
   {
@@ -10911,7 +10912,7 @@
   },
   {
     "id": 11792,
-    "en": "My daughter wants to lie on the beach with her boyfriend",
+    "en": "My daughter wants to lie on (at) the beach with her boyfriend",
     "de": "Meine Tochter will mit ihrem Freund am Strand liegen",
     "groupCode": 1
   },

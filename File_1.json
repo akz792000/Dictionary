@@ -7761,7 +7761,7 @@
   },
   {
     "id": 4272,
-    "fa": "من عاشق ملاقات کردن شیرینی فروشیم برای خرید شکلات ها و آب نبات ها",
+    "fa": "من عاشق ملاقات کردن شیرینی فروشیم تا بخرم شکلات ها و آب نبات ها",
     "en": "I love visiting the confectionery to buy chocolates and candies",
     "groupCode": 0
   },
@@ -9218,7 +9218,7 @@
   },
   {
     "id": 4514,
-    "fa": "او (مرد) یک خواننده مشتاق /ˈævɪd/ رمان های علمی تخیلی است",
+    "fa": "او (مرد) یک خواننده مشتاق رمان های علمی تخیلی است",
     "en": "He is an avid /ˈævɪd/ reader of science fiction novels",
     "groupCode": 0
   },
@@ -9226,6 +9226,42 @@
     "id": 4515,
     "fa": "Weighted Least Connection - انتخاب می کند سروری را با کمترین اتصالات فعال, فاکتورگیری می کند در وزن های سرور",
     "en": "Weighted Least Connection – Chooses the server with the fewest active connections, factoring in server weights",
+    "groupCode": 0
+  },
+  {
+    "id": 4516,
+    "fa": "لطفا مطمئن شوید شما رها می کنیدش تمیز و بدون (آزاد) درهم و برهمی",
+    "en": "Please ensure you leave it clean and clutter free",
+    "groupCode": 0
+  },
+  {
+    "id": 4517,
+    "fa": "کدام حق داره پایمال میشه در این شرایط؟",
+    "en": "Which right is being violated in this situation?",
+    "groupCode": 0
+  },
+  {
+    "id": 4518,
+    "fa": "من نیاز دارم کمی زمان تا این مفهوم جدید را درک کنم (تا بپیچم سرم این مفهوم جدید)",
+    "en": "I need some time to wrap my head around this new concept",
+    "groupCode": 0
+  },
+  {
+    "id": 4519,
+    "fa": "هزینه تعمیر ناچیز بود در مقایسه با کل بودجه",
+    "en": "The cost of the repair was negligible compared to the total budget",
+    "groupCode": 0
+  },
+  {
+    "id": 4520,
+    "fa": "کوهنورد گیر افتاده بود در یک نقطه ای متزلزل در لبه صخره",
+    "en": "The climber was stuck in a precarious spot on the edge of the cliff",
+    "groupCode": 0
+  },
+  {
+    "id": 4521,
+    "fa": "یک شغل پیش پا افتاده شامل وظایف تکراری و غیر جذاب است",
+    "en": "A mundane job involves repetitive and unexciting tasks",
     "groupCode": 0
   }
 ]
