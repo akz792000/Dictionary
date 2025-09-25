@@ -6827,7 +6827,7 @@
   },
   {
     "id": 4118,
-    "fa": "تو یواشکی اومد طرفم",
+    "fa": "تو یواشکی اومدی طرفم",
     "en": "You snuck up on me",
     "groupCode": 0
   },
@@ -9236,7 +9236,7 @@
   },
   {
     "id": 4517,
-    "fa": "کدام حق داره پایمال میشه در این شرایط؟",
+    "fa": "کدام حق داره پایمال میشه در این وضعیت؟",
     "en": "Which right is being violated in this situation?",
     "groupCode": 0
   },
@@ -9254,7 +9254,7 @@
   },
   {
     "id": 4520,
-    "fa": "کوهنورد گیر افتاده بود در یک نقطه ای متزلزل در لبه صخره",
+    "fa": "بالا رونده (کوهنورد) گیر افتاده بود در یک نقطه ای متزلزل در لبه صخره",
     "en": "The climber was stuck in a precarious spot on the edge of the cliff",
     "groupCode": 0
   },
@@ -9262,6 +9262,36 @@
     "id": 4521,
     "fa": "یک شغل پیش پا افتاده شامل وظایف تکراری و غیر جذاب است",
     "en": "A mundane job involves repetitive and unexciting tasks",
+    "groupCode": 0
+  },
+  {
+    "id": 4522,
+    "fa": "نه تنها مفید است، بلکه همچنین آموزنده هست",
+    "en": "It’s not only useful but also educational",
+    "groupCode": 0
+  },
+  {
+    "id": 4523,
+    "fa": "بردار یک چتر، محض احتیاط (فقط در مورد) باران ببارد",
+    "en": "Take an umbrella, just in case it rains",
+    "groupCode": 0
+  },
+  {
+    "id": 4524,
+    "fa": "مزیت کسب کنید با گرفتن (تسخیر کردن) قطعات ارزشمند",
+    "en": "Gain an advantage by capturing valuable pieces",
+    "groupCode": 0
+  },
+  {
+    "id": 4525,
+    "fa": "من معتقدم این تغییر خواهد بود به نفع خودش (مرد)",
+    "en": "I believe this change will be in his best interest",
+    "groupCode": 0
+  },
+  {
+    "id": 4526,
+    "fa": "شارژ کنید موجودی خود را (اضافه کردن اعتبار برای رسیدن به مقدار مورد نیاز)",
+    "en": "Top up your balance",
     "groupCode": 0
   }
 ]

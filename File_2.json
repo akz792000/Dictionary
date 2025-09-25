@@ -10743,7 +10743,7 @@
   },
   {
     "id": 11764,
-    "en": "What does each German federal state have? its own government",
+    "en": "What does each German federal state have? (a) its own government",
     "de": "Was hat jedes deutsche Bundesland? eine eigene regierung",
     "groupCode": 1
   },
@@ -10852,7 +10852,7 @@
   },
   {
     "id": 11782,
-    "en": "We are going into Switzerland for a few days in the holiday (school holidays)",
+    "en": "We are driving into Switzerland for a few days in the holiday (school holidays)",
     "de": "Wir fahren in den Ferien für ein paar Tage in die Schweiz",
     "groupCode": 1
   },
@@ -10966,7 +10966,7 @@
   },
   {
     "id": 11801,
-    "en": "I explain to my friend how to (one) get to the train station",
+    "en": "I explain to my girlfriend how to (one) come to the train station",
     "de": "Ich erkläre meiner Freundin wie man zum Bahnhof kommt",
     "desc": "wie man: how to",
     "groupCode": 1
@@ -10993,6 +10993,24 @@
     "id": 11805,
     "en": "He becomes Doctor",
     "de": "Er wurde Arzt",
+    "groupCode": 1
+  },
+  {
+    "id": 11806,
+    "en": "The bread smells fresh",
+    "de": "Das Brot riecht frisch",
+    "groupCode": 1
+  },
+  {
+    "id": 11807,
+    "en": "Were you ato home the entire day?",
+    "de": "ٌWarst du den ganzen Tag zu Hause?",
+    "groupCode": 1
+  },
+  {
+    "id": 11808,
+    "en": "We had a lot to do last weekend",
+    "de": "Wir hatten letztes Wochenende viel zu tun",
     "groupCode": 1
   }
 ]
