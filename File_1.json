@@ -1028,7 +1028,8 @@
   {
     "id": 3168,
     "fa": "من هفته‌ها صرف کردم (برای) انجام تحقیق پرزحمت تا مطمئن شوم همه جزئیات کامل باشند",
-    "en": "I spent weeks doing painstaking research to ensure every details was perfect",
+    "en": "I spent weeks doing painstaking research to ensure every detail was perfect",
+    "desc": "“Every” makes the noun singular, even if you mean all of them.",
     "groupCode": 0
   },
   {
@@ -8890,6 +8891,7 @@
     "id": 4458,
     "fa": "من نشان دادم (بیان احساسات) از روی یک حس اجبار نسبت به انتخاب",
     "en": "I acted out of a sense of compulsion rather than choice",
+    "desc": "\uD83D\uDC49 “out of a sense” = because of / motivated by a feeling.",
     "groupCode": 0
   },
   {
@@ -9128,14 +9130,15 @@
   },
   {
     "id": 4499,
-    "fa": "Round Robin - توزیع می کند درخواستها را به طور مساوی در سراسر تمام سرورها در یک ترتیب تکرارشونده",
-    "en": "Round Robin – Distributes requests evenly across all servers in a repeating order",
+    "fa": "Round Robin - می فرستد درخواستها را به تمام سرورها یکی یکی در یک ترتیب تکرارشونده",
+    "en": "Round Robin – Sends requests to all servers one by one in a repeating order",
     "groupCode": 0
   },
   {
     "id": 4500,
-    "fa": "Least Connection - ارسال می کند درخواست بعدی را به سروری با کمترین اتصالات فعال",
+    "fa": "Least Connection - می فرستد درخواست بعدی را به سروری با کمترین اتصالات فعال",
     "en": "Least Connection – Sends the next request to the server with the fewest active connections",
+    "desc": "Fewest ✅\n\nUsed with countable things (things you can count individually).\n\nExample:\n\nThe server with the fewest connections → correct, because connections are countable.\n\nShe has the fewest apples.\n\nLeast ❌ in this case\n\nUsed with uncountable things (things you measure, not count).\n\nExample:\n\nHe has the least water. → correct, because water is uncountable.\n\nSaying “least active connections” is technically incorrect, because connections are countable.",
     "groupCode": 0
   },
   {
@@ -9194,8 +9197,8 @@
   },
   {
     "id": 4510,
-    "fa": "Weighted Round Robin - اختصاص می دهد درخواست ها را به سرورها بر اساس وزن های از پیش تعریف شده, می دهد بیشتر به سرورهای قوی تر",
-    "en": "Weighted Round Robin – Assigns requests to servers based on predefined weights, giving more to stronger servers",
+    "fa": "Weighted Round Robin - می فرستد درخواست ها را به سرورها در یک ترتیب تکرار شونده, اما می دهد درخواست های بیشتر به سرورهای قوی تر بر اساس وزن های از پیش تعریف شده که تنظیم شده اند بر اساس ظرفیت هر سرور",
+    "en": "Weighted Round Robin – Sends requests to servers in a repeating order, but gives more requests to stronger servers based on predefined weights that are set according to each server's capacity",
     "groupCode": 0
   },
   {
@@ -9224,8 +9227,8 @@
   },
   {
     "id": 4515,
-    "fa": "Weighted Least Connection - انتخاب می کند سروری را با کمترین اتصالات فعال, فاکتورگیری می کند در وزن های سرور",
-    "en": "Weighted Least Connection – Chooses the server with the fewest active connections, factoring in server weights",
+    "fa": "Weighted Least Connection - می فرستد درخواست بعدی را به سروری با کمترین اتصالات فعال, اما می دهد درخواست های بیشتر به سرورهای قوی تر بر اساس وزن های از پیش تعریف شده که تنظیم شده اند بر اساس ظرفیت هر سرور",
+    "en": "Weighted Least Connection – Sends the next request to the server with the fewest active connections, but gives more requests to stronger servers based on predefined weights that are set according to each server's capacity",
     "groupCode": 0
   },
   {
@@ -9278,20 +9281,62 @@
   },
   {
     "id": 4524,
-    "fa": "مزیت کسب کنید با گرفتن (تسخیر کردن) قطعات ارزشمند",
+    "fa": "کسب کنید یک مزیت با گرفتن (تسخیر کردن) قطعات ارزشمند",
     "en": "Gain an advantage by capturing valuable pieces",
     "groupCode": 0
   },
   {
     "id": 4525,
-    "fa": "من معتقدم این تغییر خواهد بود به نفع خودش (مرد)",
+    "fa": "من معتقدم این تغییر خواهد بود در بهترین نفعش (مرد)",
     "en": "I believe this change will be in his best interest",
     "groupCode": 0
   },
   {
     "id": 4526,
-    "fa": "شارژ کنید موجودی خود را (اضافه کردن اعتبار برای رسیدن به مقدار مورد نیاز)",
+    "fa": "بالا ببرید موجودی (بالانس) خود را (اضافه کردن اعتبار برای رسیدن به مقدار مورد نیاز)",
     "en": "Top up your balance",
+    "groupCode": 0
+  },
+  {
+    "id": 4527,
+    "fa": "شما بیشی از نیمه راه تا روز ۷ گذراندی",
+    "en": "You're over halfway to day 7",
+    "groupCode": 0
+  },
+  {
+    "id": 4528,
+    "fa": "دموکرات ها این اتهامات را یک سوء استفاده از قدرت خواندند",
+    "en": "Democrats called the charges an abuse of power",
+    "groupCode": 0
+  },
+  {
+    "id": 4529,
+    "fa": "سوال آزمون واقعاً یک چالش (یک توپ منحنی) بود",
+    "en": "The test question was a real curve ball",
+    "groupCode": 0
+  },
+  {
+    "id": 4530,
+    "fa": "IP Hash – می فرستد درخواست ها را به سرورها بر اساس یک هش از آدرس IP کلاینت و تضمین می کند همان کلاینت معمولاً هدایت شود به همان سرور",
+    "en": "IP Hash – Sends requests to servers based on a hash of the client's IP address and ensures the same client is usually directed to the same server",
+    "groupCode": 0
+  },
+  {
+    "id": 4531,
+    "fa": "Least Response Time – می فرستد درخواست ها را به سرور که پاسخ می دهد سریعتر به طور متوسط",
+    "en": "Least Response Time – Sends requests to the server that responds fastest on average",
+    "groupCode": 0
+  },
+  {
+    "id": 4532,
+    "fa": "Random – می فرستد درخواست ها را به صورت تصادفی به همه سرورها",
+    "en": "Random – Sends requests randomly to all servers",
+    "groupCode": 0
+  },
+  {
+    "id": 4533,
+    "fa": "Least Bandwidth – می فرستد درخواست ها به سروری در حال حاضر استفاده می کند کمترین پهنای باند شبکه",
+    "en": "Least Bandwidth – Sends requests to the server currently using the least network bandwidth",
     "groupCode": 0
   }
 ]

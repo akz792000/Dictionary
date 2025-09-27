@@ -1939,7 +1939,7 @@
   },
   {
     "id": 10317,
-    "en": "The movie is boring. It (he) takes another an hour. Can we please go now?",
+    "en": "The movie is boring. It (he) takes still another an hour. Can we please go now?",
     "de": "Der Film ist langweilig. Er dauert noch eine Stunde. Können wir bitte jetzt gehen?",
     "groupCode": 1
   },
@@ -5478,7 +5478,7 @@
   },
   {
     "id": 10900,
-    "en": "You have to speak to the airline, sorry",
+    "en": "You have to speak to (with) the airline, sorry",
     "de": "Du musst mit der Fluggesellschaft sprechen, tut mir leid",
     "groupCode": 1
   },
@@ -6019,7 +6019,7 @@
   },
   {
     "id": 10989,
-    "en": "We always read mornings. My parents read the newspaper, and I read a children's book with my niece. She cannot read alone yet",
+    "en": "We always read mornings. My parents read the newspaper, and I read a children's book with my niece. She cannot still read alone",
     "de": "Wir lesen morgens immer. Meine Eltern lesen die Zeitung und ich lese mit meiner Nichte ein Kinderbuch. Sie kann noch nicht allein lesen",
     "groupCode": 1
   },
@@ -6951,7 +6951,7 @@
   },
   {
     "id": 11143,
-    "en": "We're also going into the club this evening and want to sleep in tomorrow",
+    "en": "We're still going into the club this evening and want to sleep in tomorrow",
     "de": "Wir gehen heute Abend noch in den Club und wollen morgen aussclafen",
     "groupCode": 1
   },
@@ -9101,8 +9101,8 @@
   },
   {
     "id": 11495,
-    "en": "He forgot to close the window",
-    "de": "Er hat vergessen das Fenster zu schließen",
+    "en": "He forgot, to close the window",
+    "de": "Er hat vergessen, das Fenster zu schließen",
     "groupCode": 1
   },
   {
@@ -9885,7 +9885,7 @@
   },
   {
     "id": 11623,
-    "en": "The department store is only open (emphazise) (for a) short time",
+    "en": "The department store is only still open (for a) short time",
     "de": "Das Kaufhaus ist nur noch kurze Zeit geöffnet",
     "groupCode": 1
   },
@@ -10787,6 +10787,7 @@
     "id": 11771,
     "en": "We talk about the work and laugh a lot",
     "de": "Wir reden über die Arbeit und lachen viel",
+    "desc": "über + accusative → talking about something.\n\nüber + dative → talking about something physically above, like über dem Tisch (“above the table”).",
     "groupCode": 1
   },
   {
@@ -11003,7 +11004,7 @@
   },
   {
     "id": 11807,
-    "en": "Were you ato home the entire day?",
+    "en": "Were you at home the entire day?",
     "de": "ٌWarst du den ganzen Tag zu Hause?",
     "groupCode": 1
   },
@@ -11011,6 +11012,79 @@
     "id": 11808,
     "en": "We had a lot to do last weekend",
     "de": "Wir hatten letztes Wochenende viel zu tun",
+    "groupCode": 1
+  },
+  {
+    "id": 11809,
+    "en": "The woman in the red T-shirt. She looks nice",
+    "de": "Die Frau in dem roten T-Shirt. Sie sieht nett aus",
+    "groupCode": 1
+  },
+  {
+    "id": 11810,
+    "en": "She moved to another city. I haven't spoken to her in a long time",
+    "de": "Sie ist in eine andere Stadt umgezogen. Ich habe lange nicht mit ihr gesprochen",
+    "groupCode": 1
+  },
+  {
+    "id": 11811,
+    "en": "For about five years i have been learning German",
+    "de": "Seit ungefähr fünf Jahren lerne ich Deutsch",
+    "groupCode": 1
+  },
+  {
+    "id": 11812,
+    "en": "Don't you want to talk to (with) her now?",
+    "de": "Willst du nicht jetzt mit ihr sprechen?",
+    "groupCode": 1
+  },
+  {
+    "id": 11813,
+    "en": "She has definitely (entire specifically) forgotten me",
+    "de": "Sie hat mich ganz bestimmt vergessen",
+    "groupCode": 1
+  },
+  {
+    "id": 11814,
+    "en": "Are you sure? Total sure. It is not her",
+    "de": "Bist du sicher? Total sicher. Das ist sie nicht",
+    "groupCode": 1
+  },
+  {
+    "id": 11815,
+    "en": "I'm withdrawing money at the ATM because the bank is closed",
+    "de": "Ich hole Geld am Geldautomaten, weil die Bank geschlossen ist",
+    "groupCode": 1
+  },
+  {
+    "id": 11816,
+    "en": "\n 1.I get water from the kitchen \n 2.I get water from my mother",
+    "de": "\n 1.Ich hole Wasser aus der Küche \n 2.Ich bekomme Wasser von meiner Mutter",
+    "desc": "holen = you go and fetch it.\n\nbekommen = someone gives it to you.",
+    "groupCode": 1
+  },
+  {
+    "id": 11817,
+    "en": "We bring our dog to the party",
+    "de": "Wir bringen unseren Hund zur Party mit",
+    "groupCode": 1
+  },
+  {
+    "id": 11818,
+    "en": "The party is at eight, I have to bake the cookies beforehand",
+    "de": "Die Party ist um acht, ich muss vorher die Kekse backen",
+    "groupCode": 1
+  },
+  {
+    "id": 11819,
+    "en": "In front of the house stand trees and on the windowsill stands my alarm clock",
+    "de": "Vor dem Haus stehen Bäume und Auf dem Fensterbrett steht mein Wecker",
+    "groupCode": 1
+  },
+  {
+    "id": 11820,
+    "en": "The window has white curtains",
+    "de": "Das Fenster hat weiße Vorhänge",
     "groupCode": 1
   }
 ]
