@@ -13,7 +13,7 @@ def find_duplicates(data):
 
     # Iterate over each item and store IDs based on "de" value
     for item in data:
-        de_dict[item['de']].append(item['id'])
+        de_dict[item['en']].append(item['id'])
 
     # Print IDs that have duplicated "de" values
     for de_value, ids in de_dict.items():
@@ -22,7 +22,7 @@ def find_duplicates(data):
             print(f'IDs: {ids}\n')
 
 # Path to your JSON file
-file_path = '../File_2.json'
+file_path = '../File_1.json'
 
 # Read and parse the JSON file
 data = read_json_file(file_path)

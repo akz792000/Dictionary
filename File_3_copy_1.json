@@ -1,5 +1,137 @@
 [
   {
+    "id":,
+    "en": "",
+    "de": "Auf dem Bett liegen zwei Kissen",
+    "groupCode": 1
+  },
+  {
+    "id":,
+    "en": "",
+    "de": "Neben dem Bett steht mein Kleiderschrank",
+    "groupCode": 1
+  },
+  {
+    "id":,
+    "en": "",
+    "de": "Dieser Stuhl ist nicht sehr bequem",
+    "groupCode": 1
+  },
+  {
+    "id":,
+    "en": "",
+    "de": "Neben dem Stuhl steht mein Papierkorb",
+    "groupCode": 1
+  },
+  {
+    "id":,
+    "en": "",
+    "de": "In der Mitte meines Zimmers liegt ein großer Teppich",
+    "groupCode": 1
+  },
+  {
+    "id":,
+    "en": "",
+    "de": "An der Decke des Zimmers hängt eine Lampe",
+    "groupCode": 1
+  },
+  {
+    "id":,
+    "en": "",
+    "de": "Der Lichtschalter befindet sich neben dem Fenster",
+    "groupCode": 1
+  },
+  {
+    "id":,
+    "en": "",
+    "de": "Über dem Lichtschalter hängt ein Poster",
+    "groupCode": 1
+  },
+  {
+    "id":,
+    "en": "",
+    "de": "Auf dem Poster sieht man eine Sonnenblume",
+    "groupCode": 1
+  },
+  {
+    "id":,
+    "en": "",
+    "de": "Ich liebe Sonnenblumen",
+    "groupCode": 1
+  },
+  {
+    "id":,
+    "en": "",
+    "de": "Daneben liegt ein Fußball",
+    "groupCode": 1
+  },
+  {
+    "id":,
+    "en": "",
+    "de": "Ich habe schon lange nicht mehr Fußball gespielt",
+    "groupCode": 1
+  },
+  {
+    "id":,
+    "en": "",
+    "de": "Die Kommode hat vier Schubladen und Auf der Kommode steht ein Globus",
+    "groupCode": 1
+  },
+  {
+    "id":,
+    "en": "",
+    "de": "Ich kenne alle Länder der Welt",
+    "groupCode": 1
+  },
+  {
+    "id":,
+    "en": "",
+    "de": "Ohne Rucksack gehe ich nicht aus dem Haus",
+    "groupCode": 1
+  },
+  {
+    "id":,
+    "en": "",
+    "de": "Ich lese regelmäßig die Tageszeitung",
+    "groupCode": 1
+  },
+  {
+    "id":,
+    "en": "",
+    "de": "Deshalb steht dort auch eine Lampe",
+    "groupCode": 1
+  },
+  {
+    "id":,
+    "en": "",
+    "de": "Auf dem Tisch liegt die Fernbedienung",
+    "groupCode": 1
+  },
+  {
+    "id":,
+    "en": "",
+    "de": "Neben der Fernbedienung steht eine Vase",
+    "groupCode": 1
+  },
+  {
+    "id":,
+    "en": "",
+    "de": "Außerdem liegt dort ein Würfel",
+    "groupCode": 1
+  },
+  {
+    "id":,
+    "en": "",
+    "de": "Wie sieht dein Zimmer aus?",
+    "groupCode": 1
+  },
+  {
+    "id":,
+    "en": "",
+    "de": "Schreibe mir bitte einen Kommentar",
+    "groupCode": 1
+  }
+  {
     "id": 20001,
     "en": "Be",
     "de": "\nbin – war – bin gewesen\nbist – warst – bist gewesen\nist – war – ist gewesen\nsind – waren – sind gewesen\nseid – wart – seid gewesen\nsind – waren – sind gewesen",
@@ -648,75 +780,71 @@
     "groupCode": 1
   },
   {
-    "id": ,
+    "id":,
     "en": "",
     "de": "anrufen",
     "groupCode": 1
   },
   {
-    "id": ,
+    "id":,
     "en": "",
     "de": "studieren",
     "groupCode": 1
   },
   {
-    "id": ,
+    "id":,
     "en": "",
     "de": "ansehen",
     "groupCode": 1
   },
   {
-    "id": ,
+    "id":,
     "en": "",
     "de": "fotografieren",
     "groupCode": 1
   },
   {
-    "id": ,
+    "id":,
     "en": "",
     "de": "mitmachen",
     "groupCode": 1
   },
   {
-    "id": ,
+    "id":,
     "en": "",
     "de": "anfangen",
     "groupCode": 1
   },
   {
-    "id": ,
+    "id":,
     "en": "",
     "de": "telefonieren",
     "groupCode": 1
   },
   {
-    "id": ,
+    "id":,
     "en": "",
     "de": "funktionieren",
     "groupCode": 1
   },
   {
-    "id": ,
+    "id":,
     "en": "",
     "de": "anfangen",
     "groupCode": 1
   },
   {
-    "id": ,
+    "id":,
     "en": "",
     "de": "ankommen",
     "groupCode": 1
   },
   {
-    "id": ,
+    "id":,
     "en": "",
     "de": "verwenden",
     "groupCode": 1
   },
-
-
-
-
   {
     "id":,
     "en": "",

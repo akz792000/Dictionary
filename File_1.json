@@ -706,7 +706,7 @@
   },
   {
     "id": 3116,
-    "fa": "شرکت های سهامی خاص شرکت ها را خریداری و بهبود می بخشند برای افزایش بها",
+    "fa": "شرکت های سهامی خاص خریداری و بهبود می بخشند شرکت ها را تا افزایش دهد ارزش آنها را",
     "en": "Private equity firms buy and improve companies to increase their value",
     "desc": "Private equity refers to investment in private companies (not publicly traded on stock exchanges) through the purchase of shares or stakes. Investors provide capital with the expectation of high returns, often by improving the company's performance and eventually selling it at a profit",
     "groupCode": 0
@@ -4068,7 +4068,7 @@
   {
     "id": 3664,
     "fa": "در صورت امکان، من قدردانی خواهم کرد (فرضی) (از) بازخورد کتبی شما",
-    "en": "\n 1.If possible, I'd appreciate your written feedback \n 2.I would appreciate your feedback in writing",
+    "en": "\n 1.If possible, I'd appreciate your written feedback \n 2.If possible, I would appreciate your feedback in writing",
     "groupCode": 0
   },
   {
@@ -6259,8 +6259,8 @@
   },
   {
     "id": 4025,
-    "fa": "کار شما شلخته است",
-    "en": "Your work is sloppy",
+    "fa": "شما هرگز پیروز (بر دشمن یا سختی ها) نخواهی شد تا وقتی که شما بفهی او چیست",
+    "en": "You'll never Triumph until you understand what it is",
     "groupCode": 0
   },
   {
@@ -7931,7 +7931,7 @@
   },
   {
     "id": 4300,
-    "fa": "چه گام های ملموسی (بتونی) شما می توانید بردارید برای بهبود دادن مهارت های شنیداری خود؟",
+    "fa": "چه گام های ملموسی (بتونی) می توانید شما بردارید تا بهبود دهید مهارت های شنیداری خود؟",
     "en": "What concrete steps can you take to improve your listening skills?",
     "groupCode": 0
   },
@@ -8119,7 +8119,7 @@
   },
   {
     "id": 4331,
-    "fa": "معمار داد یک انتقاد سازنده برای بهبود دادن طرح",
+    "fa": "معمار داد یک انتقاد سازنده تا بهبود دهد طرح را",
     "en": "The architect gave a constructive critic to improve the design",
     "groupCode": 0
   },
@@ -8203,7 +8203,7 @@
   },
   {
     "id": 4345,
-    "fa": "نادیده نگیر جزئیات کوچک را در کار خودت",
+    "fa": "چشم پوشی نکن جزئیات کوچک را در کار خودت",
     "en": "Don't overlook the small details in your work",
     "groupCode": 0
   },
@@ -9069,6 +9069,12 @@
     "groupCode": 0
   },
   {
+    "id": 4488,
+    "fa": "چقدر است یک انعام ۱۰٪ روی یک صورتحساب ۲۰ دلاری؟",
+    "en": "How much is a 10% tip on a bill of 20$?",
+    "groupCode": 0
+  },
+  {
     "id": 4489,
     "fa": "من عاشق عطر شمع هستم",
     "en": "I love the scent of the candle",
@@ -9311,7 +9317,7 @@
   },
   {
     "id": 4529,
-    "fa": "سوال آزمون واقعاً یک چالش (یک توپ منحنی) بود",
+    "fa": "سوال تست بود یک چالش (یک توپ منحنی) واقعی",
     "en": "The test question was a real curve ball",
     "groupCode": 0
   },
@@ -9337,6 +9343,36 @@
     "id": 4533,
     "fa": "Least Bandwidth – می فرستد درخواست ها به سروری در حال حاضر استفاده می کند کمترین پهنای باند شبکه",
     "en": "Least Bandwidth – Sends requests to the server currently using the least network bandwidth",
+    "groupCode": 0
+  },
+  {
+    "id": 4534,
+    "fa": "نادیده گرفتم به معنای مرخص کردن (رد کردن) چیزی به طور عمدی، در حالی که چشم پوشی کردن معنی می دهد از دست دادن یا نادیده گرفتن (توجه نکردن) چیزی یا تصادفی یا از روی اغماض",
+    "en": "To brush off means to dismiss something deliberately, while to overlook means to miss or ignore something either accidentally or leniently",
+    "groupCode": 0
+  },
+  {
+    "id": 4535,
+    "fa": "من حمل کردم یک کیف سنگین از کتاب ها",
+    "en": "I carried a hefty bag of books",
+    "groupCode": 0
+  },
+  {
+    "id": 4536,
+    "fa": "من پرداخت کردم جریمه سنگینی برای سرعت رفتن",
+    "en": "I paid a hefty fine for speeding",
+    "groupCode": 0
+  },
+  {
+    "id": 4537,
+    "fa": "بوی (از) زباله زننده آور بود",
+    "en": "The smell from the trash was repulsive",
+    "groupCode": 0
+  },
+  {
+    "id": 4538,
+    "fa": "تقلب در امتحان قابل سرزنش است",
+    "en": "Cheating on the exam is reprehensible",
     "groupCode": 0
   }
 ]

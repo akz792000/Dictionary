@@ -1939,7 +1939,7 @@
   },
   {
     "id": 10317,
-    "en": "The movie is boring. It (he) takes still another an hour. Can we please go now?",
+    "en": "The movie is boring. It (he) takes still an hour. Can we please go now?",
     "de": "Der Film ist langweilig. Er dauert noch eine Stunde. Können wir bitte jetzt gehen?",
     "groupCode": 1
   },
@@ -4843,7 +4843,7 @@
   },
   {
     "id": 10796,
-    "en": "You are learning (emphasis) German, aren't you (or)?",
+    "en": "You are still learning German, aren't you (or)?",
     "de": "Du lernst doch Deutsch, oder?",
     "desc": "Explanation:\ndoch: Adds emphasis, implying the speaker expects the answer to be \"yes.\"\noder: A tag question to",
     "groupCode": 1
@@ -10730,7 +10730,7 @@
   },
   {
     "id": 11762,
-    "en": "You don't (emphasis) want to go soon (in a moment) again? What's wrong?",
+    "en": "You don't still want to go soon (in a moment) again? What's wrong?",
     "de": "Du willst doch nicht gleich wieder gehen? Was ist denn los?",
     "groupCode": 1
   },
@@ -11046,13 +11046,13 @@
   },
   {
     "id": 11814,
-    "en": "Are you sure? Total sure. It is not her",
+    "en": "Are you sure? Total sure. That is not her",
     "de": "Bist du sicher? Total sicher. Das ist sie nicht",
     "groupCode": 1
   },
   {
     "id": 11815,
-    "en": "I'm withdrawing money at the ATM because the bank is closed",
+    "en": "I'm getting money at the ATM because the bank is closed",
     "de": "Ich hole Geld am Geldautomaten, weil die Bank geschlossen ist",
     "groupCode": 1
   },
@@ -11085,6 +11085,84 @@
     "id": 11820,
     "en": "The window has white curtains",
     "de": "Das Fenster hat weiße Vorhänge",
+    "groupCode": 1
+  },
+  {
+    "id": 11821,
+    "en": "My mom always bakes a fruit cake at Christmas",
+    "de": "Meine Mama backt immer an Weihnachten einen Stollen",
+    "groupCode": 1
+  },
+  {
+    "id": 11822,
+    "en": "I need money. I can drive with you to the bank",
+    "de": "Ich brauche Geld. Ich kann mir dir zur Bank fahren",
+    "groupCode": 1
+  },
+  {
+    "id": 11823,
+    "en": "I have a lot to do",
+    "de": "Ich habe viel zu tun",
+    "groupCode": 1
+  },
+  {
+    "id": 11824,
+    "en": "What is your (formal) birthplace?",
+    "de": "Was ist ihr Geburtsort?",
+    "groupCode": 1
+  },
+  {
+    "id": 11825,
+    "en": "The passport photo is too old. Your (formal) passport photo must be new",
+    "de": "Das Passfoto ist zu alt. Ihr Passfoto muss neu sein",
+    "groupCode": 1
+  },
+  {
+    "id": 11826,
+    "en": "No problem, we can take (make) your (formal) passport photo here",
+    "de": "Kein Problem, wir können hier Ihr Passfoto machen",
+    "groupCode": 1
+  },
+  {
+    "id": 11827,
+    "en": "I have been studying in Berlin since August",
+    "de": "Ich studiere seit August in Berlin",
+    "groupCode": 1
+  },
+  {
+    "id": 11828,
+    "en": "My son is renewing his ID next week",
+    "de": "Mein Sohn verlängert nächste Woche seinen Ausweis",
+    "groupCode": 1
+  },
+  {
+    "id": 11829,
+    "en": "I answer your (formal) questions",
+    "de": "Ich beantworte Ihre Fragen",
+    "groupCode": 1
+  },
+  {
+    "id": 11830,
+    "en": "I can answer your questions soon (in a moment)",
+    "de": "Ich kann gleich Ihre Fragen beantworten",
+    "groupCode": 1
+  },
+  {
+    "id": 11831,
+    "en": "Today I show you my room and my room has a big window",
+    "de": "Heute zeige ich dir mein Zimmer und Mein Zimmer hat ein großes Fenster",
+    "groupCode": 1
+  },
+  {
+    "id": 11832,
+    "en": "The alarm clock rings every day at 7 a.m",
+    "de": "Der Wecker klingelt jeden Tag um 7 Uhr",
+    "groupCode": 1
+  },
+  {
+    "id": 11833,
+    "en": "My bed is very cozy",
+    "de": "Mein Bett ist sehr gemütlich",
     "groupCode": 1
   }
 ]
