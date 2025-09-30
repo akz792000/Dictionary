@@ -10687,8 +10687,8 @@
   },
   {
     "id": 11755,
-    "en": "He often watches films from Italy with his husband",
-    "de": "Er sieht oft Filme aus Italien mit seinem Mann an",
+    "en": "She often watches films from Italy with her husband",
+    "de": "Sie sieht oft Filme aus Italien mit ihrem Mann an",
     "groupCode": 1
   },
   {
@@ -11034,7 +11034,7 @@
   },
   {
     "id": 11812,
-    "en": "Don't you want to talk to (with) her now?",
+    "en": "Don't you want to speak with her now?",
     "de": "Willst du nicht jetzt mit ihr sprechen?",
     "groupCode": 1
   },
@@ -11096,7 +11096,7 @@
   {
     "id": 11822,
     "en": "I need money. I can drive with you to the bank",
-    "de": "Ich brauche Geld. Ich kann mir dir zur Bank fahren",
+    "de": "Ich brauche Geld. Ich kann mit dir zur Bank fahren",
     "groupCode": 1
   },
   {
@@ -11143,7 +11143,7 @@
   },
   {
     "id": 11830,
-    "en": "I can answer your questions soon (in a moment)",
+    "en": "I can answer your (formal) questions soon (in a moment)",
     "de": "Ich kann gleich Ihre Fragen beantworten",
     "groupCode": 1
   },
@@ -11163,6 +11163,12 @@
     "id": 11833,
     "en": "My bed is very cozy",
     "de": "Mein Bett ist sehr gemütlich",
+    "groupCode": 1
+  },
+  {
+    "id": 11834,
+    "en": "Display is currently not possible",
+    "de": "Anzeige ist derzeit nicht möglich",
     "groupCode": 1
   }
 ]

@@ -4512,7 +4512,7 @@
   },
   {
     "id": 3738,
-    "fa": "او (مرد) این توانایی را دارد (که) ابداع کند ایده های جدید را زمانیکه آنها نیاز است",
+    "fa": "او (مرد) این توانایی را دارد (که) ابداع کند (ثمر آوردن-زاییدن) ایده های جدید را زمانیکه آنها نیاز است",
     "en": "He has the ability to bring forth new ideas when they are needed",
     "desc": "Bring forth: Suggests creating or producing something, often with emphasis on originality or making something emerge. (He can generate new ideas when needed.)\n\nBring up: Suggests introducing or mentioning something in a conversation. (He can mention or propose ideas when needed.)\n\nThe first emphasizes creativity; the second focuses on discussion or presentation.",
     "groupCode": 0
@@ -9373,6 +9373,19 @@
     "id": 4538,
     "fa": "تقلب در امتحان قابل سرزنش است",
     "en": "Cheating on the exam is reprehensible",
+    "groupCode": 0
+  },
+  {
+    "id": 4539,
+    "fa": "این مکان در حال بازسازی است امروز",
+    "en": "This place is being revamped today",
+    "groupCode": 0
+  },
+  {
+    "id": 4540,
+    "fa": "من هنوز تجربه زیادی در هوش مصنوعی ندارم، اما اگر من بتوانم در یک شرکتی مانند گوگل وارد عرصه شوم (پایم را لای در بگذارم)، من می توانم خودم را ثابت کنم و در این نقش جا بیافتم (رشد کنم)",
+    "en": "I don’t have much experience in AI yet, but if I can get my foot in the door at a company like Google, I can prove myself and grow into the role",
+    "desc": "Grow in this role → you’re already suited for the role, and over time you’ll develop further skills and responsibility while doing it.\nExample: “I want to grow in this role and take on more leadership.”\n\nGrow into this role → at the start, you may not fully match the role, but with time and learning you’ll become fully capable of it.\nExample: “I believe I can grow into this role even if I don’t yet tick all the boxes.”",
     "groupCode": 0
   }
 ]
