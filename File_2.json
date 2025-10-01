@@ -9572,7 +9572,7 @@
     "id": 11571,
     "en": "\n 1.With cold tea it doesn't taste good \n 2.With cold soup I am not happy \n 3.With large boat we travel (drive) across (above) the lake \n 4.With long journeys I'm tired",
     "de": "\n 1.Mit kaltem Tee schmeckt es nicht gut \n 2.Mit kalter Suppe bin ich nicht glücklich \n 3.Mit großem Boot fahren wir über den See \n 4.Mit langen Wegen bin ich müde",
-    "desc": "Adjective With No Article Dative \n mal: adj -em \n fem: adj -er \n neut: adj -em \n plur: adj -en",
+    "desc": "Adjective With No Article Dative \n mal: adj -em \n fem: adj -er \n neut: adj -em \n plur: adj -en \n\n\n Why den See?\n\nSee = lake (masculine noun: der See)\n\nThe preposition über can take accusative or dative:\n\nAccusative → motion toward / across (direction)\n\nDative → location / no movement\n\nHere, you are moving across the lake → motion toward/across → accusative\n\nAccusative masculine of der See = den See",
     "groupCode": 1
   },
   {
@@ -10633,8 +10633,9 @@
   },
   {
     "id": 11746,
-    "en": "You are twice as old as me, but you still behave like a child",
-    "de": "Du bist doppelt so alt wie ich, benimmst dich aber immer noch wie ein Kind",
+    "en": "You are twice as old as me, but (you) still behave like a child",
+    "de": "Du bist doppelt so alt wie ich, aber (du) benimmst dich immer noch wie ein Kind",
+    "desc": "so … wie → comparison structure = as … as",
     "groupCode": 1
   },
   {
@@ -11120,7 +11121,7 @@
   {
     "id": 11826,
     "en": "No problem, we can take (make) your (formal) passport photo here",
-    "de": "Kein Problem, wir können hier Ihr Passfoto machen",
+    "de": "Kein Problem, wir können Ihr Passfoto hier machen",
     "groupCode": 1
   },
   {
@@ -11131,7 +11132,7 @@
   },
   {
     "id": 11828,
-    "en": "My son is renewing his ID next week",
+    "en": "My son extends his ID next week",
     "de": "Mein Sohn verlängert nächste Woche seinen Ausweis",
     "groupCode": 1
   },
@@ -11169,6 +11170,103 @@
     "id": 11834,
     "en": "Display is currently not possible",
     "de": "Anzeige ist derzeit nicht möglich",
+    "groupCode": 1
+  },
+  {
+    "id": 11835,
+    "en": "It's time to go",
+    "de": "Es ist zeit zu gehen",
+    "groupCode": 1
+  },
+  {
+    "id": 11836,
+    "en": "The monkey jumps through the window",
+    "de": "Der Affe springt durch das Fenster",
+    "groupCode": 1
+  },
+  {
+    "id": 11837,
+    "en": "The rabbit goes around the table",
+    "de": "Das Kaninchen geht um den Tisch",
+    "desc": "um + accusative = expresses movement around something",
+    "groupCode": 1
+  },
+  {
+    "id": 11838,
+    "en": "The monkey jumps against the table",
+    "de": "Der Affe springt gegen den Tisch",
+    "groupCode": 1
+  },
+  {
+    "id": 11839,
+    "en": "When is freedom of expression restricted in Germany?",
+    "de": "Wann ist die Meinungsfreiheit in Deutschland eingeschränkt?",
+    "groupCode": 1
+  },
+  {
+    "id": 11840,
+    "en": "The information is for public distribution",
+    "de": "Die Informationen sind für die öffentliche Verbreitung",
+    "groupCode": 1
+  },
+  {
+    "id": 118341,
+    "en": "I extend my driver's license today",
+    "de": "Ich verlängere heute meinen Führerschein",
+    "groupCode": 1
+  },
+  {
+    "id": 118342,
+    "en": "I want to extend my visa today. Where do I have to sign?",
+    "de": "Ich will heute mein Visum verlängern. Wo muss ich unterschreiben?",
+    "groupCode": 1
+  },
+  {
+    "id": 118343,
+    "en": "Is there a problem with the email?",
+    "de": "Gibt es ein Problem mit der E-Mail?",
+    "groupCode": 1
+  },
+  {
+    "id": 118344,
+    "en": "There is a problem with the ID",
+    "de": "Es gibt ein Problem mit dem Ausweis",
+    "groupCode": 1
+  },
+  {
+    "id": 118345,
+    "en": "I want to speak with you (formal) and I need your (formal) help",
+    "de": "Ich will mit Ihnen sprechen und ich brauche Ihre Hilfe",
+    "groupCode": 1
+  },
+  {
+    "id": 118346,
+    "en": "Do you already have an account?",
+    "de": "Haben Sie schon ein Konto?",
+    "groupCode": 1
+  },
+  {
+    "id": 118347,
+    "en": "How much money would you (formal) like to transfer?",
+    "de": "Wie viel Geld möchten Sie überweisen?",
+    "groupCode": 1
+  },
+  {
+    "id": 118348,
+    "en": "I would like to open an account",
+    "de": "Ich möchte ein Konto eröffnen",
+    "groupCode": 1
+  },
+  {
+    "id": 118349,
+    "en": "I like this bank and want to open an account here today",
+    "de": "Ich mag diese Bank und will heute hier ein Konto eröffnen",
+    "groupCode": 1
+  },
+  {
+    "id": 118350,
+    "en": "The bank clerk (male) can help you (formal)",
+    "de": "Der Bankkaufmann kann Ihnen helfen",
     "groupCode": 1
   }
 ]

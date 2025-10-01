@@ -2749,7 +2749,7 @@
   },
   {
     "id": 3448,
-    "fa": "برای اینکه معامله نهایی شود، موعد یک پرداخت اولیه بلافاصله بود",
+    "fa": "برای اینکه معامله نهایی شود،یک پرداخت اولیه موعدش (زمان مشخص شده) بلافاصله بود",
     "en": "In order for the deal to be finalized, an initial payment was due immediately",
     "groupCode": 0
   },
@@ -9072,6 +9072,7 @@
     "id": 4488,
     "fa": "چقدر است یک انعام ۱۰٪ روی یک صورتحساب ۲۰ دلاری؟",
     "en": "How much is a 10% tip on a bill of 20$?",
+    "desc": "$1 → one dollar\n\n$5 → five dollars\n\n$20 → twenty dollars",
     "groupCode": 0
   },
   {
@@ -9203,8 +9204,8 @@
   },
   {
     "id": 4510,
-    "fa": "Weighted Round Robin - می فرستد درخواست ها را به سرورها در یک ترتیب تکرار شونده, اما می دهد درخواست های بیشتر به سرورهای قوی تر بر اساس وزن های از پیش تعریف شده که تنظیم شده اند بر اساس ظرفیت هر سرور",
-    "en": "Weighted Round Robin – Sends requests to servers in a repeating order, but gives more requests to stronger servers based on predefined weights that are set according to each server's capacity",
+    "fa": "Weighted Round Robin - می فرستد درخواستها را به تمام سرورها یکی یکی در یک ترتیب تکرارشونده, اما می دهد درخواست های بیشتر به سرورهای قوی تر بر اساس وزن های از پیش تعریف شده که تنظیم شده اند بر اساس ظرفیت هر سرور",
+    "en": "Weighted Round Robin – Sends requests to all servers one by one in a repeating order, but gives more requests to stronger servers based on predefined weights that are set according to each server's capacity",
     "groupCode": 0
   },
   {
@@ -9228,7 +9229,7 @@
   {
     "id": 4514,
     "fa": "او (مرد) یک خواننده مشتاق رمان های علمی تخیلی است",
-    "en": "He is an avid /ˈævɪd/ reader of science fiction novels",
+    "en": "He is an avid /ˈævɪd/ reader of science fiction novels /ˈnɑːvl̩/",
     "groupCode": 0
   },
   {
@@ -9276,7 +9277,7 @@
   {
     "id": 4522,
     "fa": "نه تنها مفید است، بلکه همچنین آموزنده هست",
-    "en": "It’s not only useful but also educational",
+    "en": "It's not only useful but also educational",
     "groupCode": 0
   },
   {
@@ -9312,7 +9313,7 @@
   {
     "id": 4528,
     "fa": "دموکرات ها این اتهامات را یک سوء استفاده از قدرت خواندند",
-    "en": "Democrats called the charges an abuse of power",
+    "en": "Democrats /deh\n·\nmuh\n·\nkrat/ called the charges an abuse of power",
     "groupCode": 0
   },
   {
@@ -9348,7 +9349,7 @@
   {
     "id": 4534,
     "fa": "نادیده گرفتم به معنای مرخص کردن (رد کردن) چیزی به طور عمدی، در حالی که چشم پوشی کردن معنی می دهد از دست دادن یا نادیده گرفتن (توجه نکردن) چیزی یا تصادفی یا از روی ملایمت",
-    "en": "To brush off means to dismiss something deliberately, while to overlook means to miss or ignore something either accidentally or leniently /lee·nee·uhnt·lee/",
+    "en": "To brush off means to dismiss something deliberately, while to overlook means to miss or ignore something either accidentally or leniently /لی نی انتلی/",
     "groupCode": 0
   },
   {
@@ -9384,8 +9385,32 @@
   {
     "id": 4540,
     "fa": "من هنوز تجربه زیادی در هوش مصنوعی ندارم، اما اگر من بتوانم در یک شرکتی مانند گوگل وارد عرصه شوم (پایم را لای در بگذارم)، من می توانم خودم را ثابت کنم و در این نقش جا بیافتم (رشد کنم)",
-    "en": "I don’t have much experience in AI yet, but if I can get my foot in the door at a company like Google, I can prove myself and grow into the role",
-    "desc": "Grow in this role → you’re already suited for the role, and over time you’ll develop further skills and responsibility while doing it.\nExample: “I want to grow in this role and take on more leadership.”\n\nGrow into this role → at the start, you may not fully match the role, but with time and learning you’ll become fully capable of it.\nExample: “I believe I can grow into this role even if I don’t yet tick all the boxes.”",
+    "en": "I don't have much experience in AI yet, but if I can get my foot in the door at a company like Google, I can prove myself and grow into the role",
+    "desc": "Grow in this role → you're already suited for the role, and over time you'll develop further skills and responsibility while doing it.\nExample: “I want to grow in this role and take on more leadership.”\n\nGrow into this role → at the start, you may not fully match the role, but with time and learning you'll become fully capable of it.\nExample: “I believe I can grow into this role even if I don't yet tick all the boxes.”",
+    "groupCode": 0
+  },
+  {
+    "id": 4541,
+    "fa": "من پرداخت کردم چیزی که بلافاصله موعدش (زمان مشخص شده) بود",
+    "en": "I paid what was due immediately",
+    "groupCode": 0
+  },
+  {
+    "id": 4542,
+    "fa": "پرداخت هست موعدش (زمان مشخص شده) فردا",
+    "en": "The payment is due tomorrow",
+    "groupCode": 0
+  },
+  {
+    "id": 4543,
+    "fa": "چگونه شما اینقدر بی خیال این هستی؟",
+    "en": "How are you so casual about this?",
+    "groupCode": 0
+  },
+  {
+    "id": 4544,
+    "fa": "من نمی دانم چرا شما داری اینقدر قضاوت می کنی",
+    "en": "I don't know why you're being so judgey",
     "groupCode": 0
   }
 ]
