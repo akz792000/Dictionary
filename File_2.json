@@ -187,8 +187,8 @@
   },
   {
     "id": 10031,
-    "en": "I speak a bit of German.",
-    "de": "Ich spreche ein bisschen Deutsch.",
+    "en": "I speak a bit of German",
+    "de": "Ich spreche ein bisschen Deutsch",
     "groupCode": 1
   },
   {
@@ -6877,8 +6877,8 @@
   },
   {
     "id": 11131,
-    "en": "Specially, Special",
-    "de": "Besonders = adverb, Besondere = adjective",
+    "en": "On the bed there are two pillows",
+    "de": "Auf dem Bett liegen zwei Kissen",
     "groupCode": 1
   },
   {
@@ -11205,68 +11205,189 @@
   },
   {
     "id": 11840,
-    "en": "The information is for public distribution",
+    "en": "The information is for the public distribution",
     "de": "Die Informationen sind für die öffentliche Verbreitung",
     "groupCode": 1
   },
   {
-    "id": 118341,
+    "id": 11841,
     "en": "I extend my driver's license today",
     "de": "Ich verlängere heute meinen Führerschein",
     "groupCode": 1
   },
   {
-    "id": 118342,
+    "id": 11842,
     "en": "I want to extend my visa today. Where do I have to sign?",
     "de": "Ich will heute mein Visum verlängern. Wo muss ich unterschreiben?",
     "groupCode": 1
   },
   {
-    "id": 118343,
+    "id": 11843,
     "en": "Is there a problem with the email?",
     "de": "Gibt es ein Problem mit der E-Mail?",
     "groupCode": 1
   },
   {
-    "id": 118344,
+    "id": 11844,
     "en": "There is a problem with the ID",
     "de": "Es gibt ein Problem mit dem Ausweis",
     "groupCode": 1
   },
   {
-    "id": 118345,
+    "id": 11845,
     "en": "I want to speak with you (formal) and I need your (formal) help",
     "de": "Ich will mit Ihnen sprechen und ich brauche Ihre Hilfe",
     "groupCode": 1
   },
   {
-    "id": 118346,
-    "en": "Do you already have an account?",
+    "id": 11846,
+    "en": "Do you (formal) already have an account?",
     "de": "Haben Sie schon ein Konto?",
     "groupCode": 1
   },
   {
-    "id": 118347,
+    "id": 11847,
     "en": "How much money would you (formal) like to transfer?",
     "de": "Wie viel Geld möchten Sie überweisen?",
     "groupCode": 1
   },
   {
-    "id": 118348,
+    "id": 11848,
     "en": "I would like to open an account",
     "de": "Ich möchte ein Konto eröffnen",
     "groupCode": 1
   },
   {
-    "id": 118349,
+    "id": 11849,
     "en": "I like this bank and want to open an account here today",
     "de": "Ich mag diese Bank und will heute hier ein Konto eröffnen",
     "groupCode": 1
   },
   {
-    "id": 118350,
-    "en": "The bank clerk (male) can help you (formal)",
-    "de": "Der Bankkaufmann kann Ihnen helfen",
+    "id": 11850,
+    "en": "Wait (formal), the bank clerk (male) can help you (formal) soon",
+    "de": "Warten Sie, der Bankkaufmann kann Ihnen bald helfen",
+    "groupCode": 1
+  },
+  {
+    "id": 11851,
+    "en": "I cancel my order",
+    "de": "Ich storniere meine Bestellung",
+    "groupCode": 1
+  },
+  {
+    "id": 11852,
+    "en": "The bank clerk (female) cannot help me at the moment",
+    "de": "Der Bankkauffrau kann mir im Moment nicht helfen",
+    "groupCode": 1
+  },
+  {
+    "id": 11853,
+    "en": "My child wants to buy the old car, do you still have it?",
+    "de": "Mein Kind will das alte Auto kaufen, hast du es noch?",
+    "groupCode": 1
+  },
+  {
+    "id": 11854,
+    "en": "His new swimming trunks are about three sizes too small for him",
+    "de": "Seine neue Badehose ist circa drei Größen zu klein für inh",
+    "groupCode": 1
+  },
+  {
+    "id": 11855,
+    "en": "He doesn't want to hear",
+    "de": "Er will nicht hören",
+    "groupCode": 1
+  },
+  {
+    "id": 11856,
+    "en": "Have you been in Germany since June or July?",
+    "de": "Sind Sie seit Juni oder Juli in Deutschland?",
+    "groupCode": 1
+  },
+  {
+    "id": 11857,
+    "en": "Do I give the man my forms?",
+    "de": "Gebe ich dem Mann meine Formulare?",
+    "groupCode": 1
+  },
+  {
+    "id": 11858,
+    "en": "You (formal) must speak to the colleague in room one",
+    "de": "Sie Müssen mit der Kollegin in Zimmer eins sprechen",
+    "groupCode": 1
+  },
+  {
+    "id": 11859,
+    "en": "I can't understand you (formal). I don't speak English",
+    "de": "Ich kann Sie nicht verstehen. Ich spreche kein Englisch",
+    "groupCode": 1
+  },
+  {
+    "id": 11860,
+    "en": "I want to transfer money from Germany to England",
+    "de": "Ich möchte Geld aus Deutschland nach England überweisen",
+    "groupCode": 1
+  },
+  {
+    "id": 11861,
+    "en": "I have no money, can you transfer me ten euros?",
+    "de": "Ich habe kein Geld, kannst du mir zehn Euro überweisen?",
+    "groupCode": 1
+  },
+  {
+    "id": 11862,
+    "en": "For whom is the gift? (Who is the gift for?)",
+    "de": "Für wen ist das Geschenk?",
+    "groupCode": 1
+  },
+  {
+    "id": 11863,
+    "en": "I write in my diary /ˈdī(ə)rē/ (day book) about Ilia",
+    "de": "Ich schreibe in meinem Tagebuch über Ilia",
+    "groupCode": 1
+  },
+  {
+    "id": 11864,
+    "en": "They search everywhere in the school",
+    "de": "Sie suchen überall in der Schule",
+    "groupCode": 1
+  },
+  {
+    "id": 11865,
+    "en": "Today is not a good day",
+    "de": "Heute ist kein guter Tag",
+    "groupCode": 1
+  },
+  {
+    "id": 11866,
+    "en": "What is (precise) your phone number?",
+    "de": "Wie lautet deine Telefonnummer?",
+    "desc": "lautet = comes from lauten, which is used for numbers, codes, names, or formal statements.\n\nIt’s more precise than ist in these contexts.\n\nYou use lautet when asking for the exact wording, spelling, or number.",
+    "groupCode": 1
+  },
+  {
+    "id": 11867,
+    "en": "We want to do (make) a lot of outdoor activities this year",
+    "de": "Wir wollen dieses Jahr viele Aktivitäten draußen machen",
+    "groupCode": 1
+  },
+  {
+    "id": 11868,
+    "en": "What do you think, Which activities are easier?",
+    "de": "Was denkst du, welche Aktivitäten sind einfacher?",
+    "groupCode": 1
+  },
+  {
+    "id": 11869,
+    "en": "Ich don't agree with you",
+    "de": "Ich stimme dir nicht zu",
+    "groupCode": 1
+  },
+  {
+    "id": 11870,
+    "en": "My sisters are very funny",
+    "de": "Meine Schwestern sind sehr witzig/lustig",
     "groupCode": 1
   }
 ]

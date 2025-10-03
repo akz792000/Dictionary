@@ -7384,7 +7384,7 @@
   },
   {
     "id": 1215,
-    "fa": "من خیلی وقته موهام رو کوتاه نکردم",
+    "fa": "من خیلی وقته موهام رو کوتاه نکردم (سررسید شده)",
     "en": "I'm way overdue for a haircut",
     "desc": "The person has not had a haircut for a long time and it is now overdue or past the appropriate time for them to have gotten one.",
     "groupCode": 0
@@ -13190,7 +13190,7 @@
   },
   {
     "id": 2171,
-    "fa": "تاریخ انقضا به پایان رسیده است (سررسید شده)",
+    "fa": "تاریخ انقضا سررسید شده",
     "en": "Expiration date is overdue",
     "groupCode": 0
   },
@@ -17038,7 +17038,7 @@
   },
   {
     "id": 2804,
-    "fa": "پرداخت قبض به تاخیر افتاده است",
+    "fa": "پرداخت قبض سر رسید شده",
     "en": "The bill payment is overdue",
     "groupCode": 0
   },

@@ -1112,13 +1112,13 @@
   },
   {
     "id": 3182,
-    "fa": "من قصد ندارم بدنام کنم آنها را",
+    "fa": "من قصد ندارم بی ارزش جلوه دهم (بدنام کنم) آنها را",
     "en": "I don't mean to denigrate them",
     "groupCode": 0
   },
   {
     "id": 3183,
-    "fa": "اونها رو بدنام نکن ارزشش را ندارد",
+    "fa": "اونها را بی ارزش جلوه نده (بدنام کنم) ارزشش را ندارد",
     "en": "Don't denigrate them it's not worth it",
     "groupCode": 0
   },
@@ -2749,7 +2749,7 @@
   },
   {
     "id": 3448,
-    "fa": "برای اینکه معامله نهایی شود،یک پرداخت اولیه موعدش (زمان مشخص شده) بلافاصله بود",
+    "fa": "برای اینکه معامله نهایی شود، یک پرداخت اولیه موعدش (زمان مشخص شده) بلافاصله بود",
     "en": "In order for the deal to be finalized, an initial payment was due immediately",
     "groupCode": 0
   },
@@ -8732,7 +8732,8 @@
   {
     "id": 4432,
     "fa": "به عنوان یک تشکر (از) شما، شما وارد خواهید شد داخل یک قرعه‌کشی تا ببرید یک کوپن ۵۰ یورویی ",
-    "en": "As a thank you, you'll be entered into a raffle to win a 50 Euro voucher",
+    "en": "As a thank you, you'll be entered into a raffle to win a 50-Euro voucher",
+    "desc": "Here 50-euro works like an adjective before voucher and stays singular",
     "groupCode": 0
   },
   {
@@ -9313,7 +9314,7 @@
   {
     "id": 4528,
     "fa": "دموکرات ها این اتهامات را یک سوء استفاده از قدرت خواندند",
-    "en": "Democrats /deh\n·\nmuh\n·\nkrat/ called the charges an abuse of power",
+    "en": "Democrats /deh·muh·krat/ called the charges an abuse of power",
     "groupCode": 0
   },
   {
@@ -9411,6 +9412,61 @@
     "id": 4544,
     "fa": "من نمی دانم چرا شما داری اینقدر قضاوت می کنی",
     "en": "I don't know why you're being so judgey",
+    "groupCode": 0
+  },
+  {
+    "id": 4545,
+    "fa": "من قصد نداشتم بی ارزش جلوه دهم (بدنام کنم) دستاوردهایش (زن)",
+    "en": "I didn't intend to denigrate her achievements",
+    "groupCode": 0
+  },
+  {
+    "id": 4546,
+    "fa": "اخراج های فدرال قریب الوقوع است",
+    "en": "Federal layoffs are imminent",
+    "groupCode": 0
+  },
+  {
+    "id": 4547,
+    "fa": "مهم نبود که من انگلیسی خوانده بودم برای 10 سال تا آن زمان",
+    "en": "It didn't matter that I had been studying English for 10 years by that time",
+    "groupCode": 0
+  },
+  {
+    "id": 4548,
+    "fa": "کتاب کتابخانه سر رسید شده",
+    "en": "The library book is overdue",
+    "groupCode": 0
+  },
+  {
+    "id": 4549,
+    "fa": "خانه شعله ور بود",
+    "en": "\n 1.The house was ablaze \n 2.The house was on fire",
+    "groupCode": 0
+  },
+  {
+    "id": 4550,
+    "fa": "مدرسه ساخت یک ساختمان جدید الحاقی",
+    "en": "The school built a new annex",
+    "groupCode": 0
+  },
+  {
+    "id": 4551,
+    "fa": "امپراتوری الحاق کرد سرزمین همسایه را",
+    "en": "The empire annexed the neighboring land",
+    "groupCode": 0
+  },
+  {
+    "id": 4552,
+    "fa": "من شورت شنای جدید برای ساحل خریدم",
+    "en": "I bought new swimming trunks for the beach",
+    "desc": "In English, “swimming trunks” is treated like a plural word",
+    "groupCode": 0
+  },
+  {
+    "id": 4553,
+    "fa": "برو سر اصل موضوع",
+    "en": "Cut to the chase",
     "groupCode": 0
   }
 ]
