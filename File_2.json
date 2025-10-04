@@ -11278,7 +11278,7 @@
   {
     "id": 11852,
     "en": "The bank clerk (female) cannot help me at the moment",
-    "de": "Der Bankkauffrau kann mir im Moment nicht helfen",
+    "de": "Die Bankkauffrau kann mir im Moment nicht helfen",
     "groupCode": 1
   },
   {
@@ -11290,7 +11290,7 @@
   {
     "id": 11854,
     "en": "His new swimming trunks are about three sizes too small for him",
-    "de": "Seine neue Badehose ist circa drei Größen zu klein für inh",
+    "de": "Seine neue Badehose ist circa drei Größen zu klein für ihn",
     "groupCode": 1
   },
   {
@@ -11301,7 +11301,7 @@
   },
   {
     "id": 11856,
-    "en": "Have you been in Germany since June or July?",
+    "en": "Have you (formal) been in Germany since June or July?",
     "de": "Sind Sie seit Juni oder Juli in Deutschland?",
     "groupCode": 1
   },
@@ -11313,8 +11313,8 @@
   },
   {
     "id": 11858,
-    "en": "You (formal) must speak to the colleague in room one",
-    "de": "Sie Müssen mit der Kollegin in Zimmer eins sprechen",
+    "en": "You (formal) must speak with the colleague (female) in room one",
+    "de": "Sie müssen mit der Kollegin in Zimmer eins sprechen",
     "groupCode": 1
   },
   {
@@ -11325,7 +11325,7 @@
   },
   {
     "id": 11860,
-    "en": "I want to transfer money from Germany to England",
+    "en": "I would like to transfer money from Germany to England",
     "de": "Ich möchte Geld aus Deutschland nach England überweisen",
     "groupCode": 1
   },
@@ -11388,6 +11388,12 @@
     "id": 11870,
     "en": "My sisters are very funny",
     "de": "Meine Schwestern sind sehr witzig/lustig",
+    "groupCode": 1
+  },
+  {
+    "id": 11871,
+    "en": "The café is very cozy",
+    "de": "Das Café ist sehr gemütlich",
     "groupCode": 1
   }
 ]

@@ -8959,6 +8959,7 @@
     "id": 4469,
     "fa": "او (زن) شأن خود را پایین نمی آورد (فرضی) تا با او (مرد) صحبت کند",
     "en": "She wouldn't deign /ˈdeɪn/ to speak to him",
+    "desc": "“Speak to him” → more common, slightly one-sided (she addresses him).\n\n“Speak with him” → more mutual, like having a conversation.",
     "groupCode": 0
   },
   {
@@ -9140,6 +9141,7 @@
     "id": 4499,
     "fa": "Round Robin - می فرستد درخواستها را به تمام سرورها یکی یکی در یک ترتیب تکرارشونده",
     "en": "Round Robin – Sends requests to all servers one by one in a repeating order",
+    "desc": "repeating = doing it again (neutral, factual)\n\nrepetitive = boring because it happens too much",
     "groupCode": 0
   },
   {
@@ -9349,7 +9351,7 @@
   },
   {
     "id": 4534,
-    "fa": "نادیده گرفتم به معنای مرخص کردن (رد کردن) چیزی به طور عمدی، در حالی که چشم پوشی کردن معنی می دهد از دست دادن یا نادیده گرفتن (توجه نکردن) چیزی یا تصادفی یا از روی ملایمت",
+    "fa": "To Brush off به معنای مرخص کردن (رد کردن) چیزی به طور عمدی، در حالی که To overlook معنی می دهد از دست دادن یا نادیده گرفتن (توجه نکردن) چیزی یا تصادفی یا از روی ملایمت",
     "en": "To brush off means to dismiss something deliberately, while to overlook means to miss or ignore something either accidentally or leniently /لی نی انتلی/",
     "groupCode": 0
   },
@@ -9467,6 +9469,18 @@
     "id": 4553,
     "fa": "برو سر اصل موضوع",
     "en": "Cut to the chase",
+    "groupCode": 0
+  },
+  {
+    "id": 4554,
+    "fa": "رانندگی در شب در کوهستان است حتی ریسکی تر_خطرناکتر از طول روز",
+    "en": "Driving at night in the mountains is even dicier than during the day",
+    "groupCode": 0
+  },
+  {
+    "id": 4555,
+    "fa": "Negligible است آن قدر کوچک است تا اهمیت بدی، اما Inconsequential است آن قدر بی اهمیت تا اهمیت بدی",
+    "en": "Negligible is too small to matter but Inconsequential is too unimportant to matter",
     "groupCode": 0
   }
 ]
