@@ -9363,7 +9363,7 @@
   },
   {
     "id": 4536,
-    "fa": "من پرداخت کردم جریمه سنگینی برای سرعت رفتن",
+    "fa": "من پرداخت کردم یک جریمه سنگینی برای سرعت رفتن",
     "en": "I paid a hefty fine for speeding",
     "groupCode": 0
   },
@@ -9467,8 +9467,8 @@
   },
   {
     "id": 4553,
-    "fa": "برو سر اصل موضوع",
-    "en": "Cut to the chase",
+    "fa": "همه شوکه شده بودند با نکوهیدگی (قابل سرزنش بودن) اعمالش (مرد)",
+    "en": "Everyone was shocked by the reprehensibility of his actions",
     "groupCode": 0
   },
   {
@@ -9481,6 +9481,24 @@
     "id": 4555,
     "fa": "Negligible است آن قدر کوچک است تا اهمیت بدی، اما Inconsequential است آن قدر بی اهمیت تا اهمیت بدی",
     "en": "Negligible is too small to matter but Inconsequential is too unimportant to matter",
+    "groupCode": 0
+  },
+  {
+    "id": 4556,
+    "fa": "این است اولین حمام در این دهه ها. این هم مدرکش",
+    "en": "This is my first bath in the decades. There's your proof",
+    "groupCode": 0
+  },
+  {
+    "id": 4557,
+    "fa": "دعوا داری؟",
+    "en": "\n 1.You want a piece of me \n 2.Do you want to fight?",
+    "groupCode": 0
+  },
+  {
+    "id": 4558,
+    "fa": "حاضر جوابی نکن",
+    "en": "Don't talk back to me",
     "groupCode": 0
   }
 ]

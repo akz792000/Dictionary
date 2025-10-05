@@ -4359,7 +4359,7 @@
   },
   {
     "id": 10716,
-    "en": "You're spinning (crazy). It's not dangerous",
+    "en": "You're crazy (spinning). It's not dangerous",
     "de": "Du spinnst. Es ist nicht gefährlich",
     "groupCode": 1
   },
@@ -6877,7 +6877,7 @@
   },
   {
     "id": 11131,
-    "en": "On the bed there are two pillows",
+    "en": "On the bed lie two pillows",
     "de": "Auf dem Bett liegen zwei Kissen",
     "groupCode": 1
   },
@@ -11066,7 +11066,7 @@
   },
   {
     "id": 11817,
-    "en": "We bring our dog to the party",
+    "en": "We bring along our dog to the party",
     "de": "Wir bringen unseren Hund zur Party mit",
     "groupCode": 1
   },
@@ -11380,7 +11380,7 @@
   },
   {
     "id": 11869,
-    "en": "Ich don't agree with you",
+    "en": "I don't agree with you",
     "de": "Ich stimme dir nicht zu",
     "groupCode": 1
   },
@@ -11394,6 +11394,60 @@
     "id": 11871,
     "en": "The café is very cozy",
     "de": "Das Café ist sehr gemütlich",
+    "groupCode": 1
+  },
+  {
+    "id": 11872,
+    "en": "The train is louder than my bike",
+    "de": "Der Zug ist lauter als mein Fahrrad",
+    "groupCode": 1
+  },
+  {
+    "id": 11873,
+    "en": "My mother thinks I'm nicer than you",
+    "de": "Meine Mutter denkt, ich bin netter als du",
+    "groupCode": 1
+  },
+  {
+    "id": 11874,
+    "en": "You're really crazy, a cake is better than cookies",
+    "de": "Du spinnst wirklich, eine Torte ist besser als Kekse",
+    "groupCode": 1
+  },
+  {
+    "id": 11875,
+    "en": "My cats are crazy",
+    "de": "Meine Katzen spinnen",
+    "groupCode": 1
+  },
+  {
+    "id": 11876,
+    "en": "Are his brothers always so nice?",
+    "de": "Sind seine Brüder immer so nett?",
+    "groupCode": 1
+  },
+  {
+    "id": 11877,
+    "en": "Swimming is more dangerous than reading",
+    "de": "Schwimmen ist gefährlicher als Lesen",
+    "groupCode": 1
+  },
+  {
+    "id": 11878,
+    "en": "Cooking is more exciting than reading",
+    "de": "Kochen ist aufregender als Lesen",
+    "groupCode": 1
+  },
+  {
+    "id": 11879,
+    "en": "My sons think anything is better than reading",
+    "de": "Meine Söhne denken, alles ist besser als Lesen",
+    "groupCode": 1
+  },
+  {
+    "id": 11880,
+    "en": "We are both right",
+    "de": "Wir haben beide recht",
     "groupCode": 1
   }
 ]
