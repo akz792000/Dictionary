@@ -1383,7 +1383,7 @@
   },
   {
     "id": 3226,
-    "fa": "وقتی شروع به بهتر کردن خود می کنید، تنهایی عوارضی (قیمتی) است که می پردازید",
+    "fa": "وقتی شما شروع به بهتر کردن خود می کنید، تنهایی عوارضی (قیمتی) است که می پردازید",
     "en": "When you start improving yourself, loneliness is the toll you pay",
     "groupCode": 0
   },
@@ -4403,7 +4403,7 @@
   },
   {
     "id": 3720,
-    "fa": "من امروز برای صبحانه تخم مرغهای هم زده داشتم",
+    "fa": "من داشتم تخم مرغهای هم زده برای صبحانه امروز",
     "en": "I had scrambled eggs for breakfast today",
     "groupCode": 0
   },
@@ -9201,7 +9201,7 @@
   },
   {
     "id": 4509,
-    "fa": "منو بازیافت میکنم و جق میزنم و من بهش افتخار میکنم",
+    "fa": "من بازیافت میکنم و جق میزنم و من بهش افتخار میکنم",
     "en": "I recycle and masturbate and I'm proud of it",
     "groupCode": 0
   },
@@ -9424,7 +9424,7 @@
   },
   {
     "id": 4546,
-    "fa": "اخراج های فدرال قریب الوقوع است",
+    "fa": "اخراج های فدرال قریب الوقوع هستند",
     "en": "Federal layoffs are imminent",
     "groupCode": 0
   },
@@ -9448,7 +9448,7 @@
   },
   {
     "id": 4550,
-    "fa": "مدرسه ساخت یک ساختمان جدید الحاقی",
+    "fa": "مدرسه ساخت یک (ساختمان جدید) الحاقی",
     "en": "The school built a new annex",
     "groupCode": 0
   },
@@ -9485,7 +9485,7 @@
   },
   {
     "id": 4556,
-    "fa": "این است اولین حمام در این دهه ها. این هم مدرکش",
+    "fa": "این است اولین حمامم در این دهه ها. این هم مدرک (مدرک شما وجود دارد)",
     "en": "This is my first bath in the decades. There's your proof",
     "groupCode": 0
   },
@@ -9499,6 +9499,18 @@
     "id": 4558,
     "fa": "حاضر جوابی نکن",
     "en": "Don't talk back to me",
+    "groupCode": 0
+  },
+  {
+    "id": 4559,
+    "fa": "من احساس میکردم یک حس اجبار قوی تا حقیقت رو بگم",
+    "en": "I felt a strong compulsion to tell the truth",
+    "groupCode": 0
+  },
+  {
+    "id": 4560,
+    "fa": "کش بک یک نوعی از پاداش است جاییکه شما دریافت می کنید یک درصدی از پولی که شما خرج می کنی روی خریدها برمی گردد به حسابتان. برای مثال، اگر شما خرج می کنی ۱۰۰ یورو و نرخ کش بک ۱۰٪ است، شما دریافت می کنی ۱۰ یورو برگشت",
+    "en": "Cashback is a type of reward where you receive a percentage of the money you spend on purchases back into your account. For example, if you spend €100 and the cashback rate is 10%, you would receive €10 back",
     "groupCode": 0
   }
 ]

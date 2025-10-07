@@ -3875,7 +3875,7 @@
   },
   {
     "id": 10636,
-    "en": "Many guests are coming to the barbecue party. I hope everybody gets enough food",
+    "en": "Many guests are coming to the barbecue party. I hope all (everybody) gets enough food",
     "de": "Viele Gäste kommen zur Grillparty. Ich hoffe, alle bekommen genug Essen",
     "groupCode": 1
   },
@@ -11448,6 +11448,66 @@
     "id": 11880,
     "en": "We are both right",
     "de": "Wir haben beide recht",
+    "groupCode": 1
+  },
+  {
+    "id": 11881,
+    "en": "Although the weather was bad, we went for a walk in the park last night",
+    "de": "Obwohl das wetter schlecht war, sind wir gestern Abend im Park spazieren gegangen",
+    "groupCode": 1
+  },
+  {
+    "id": 11882,
+    "en": "If I had more time, I would attend a German course on the weekend",
+    "de": "Wenn ich mehr zeit hätte, würde ich einen Deutschkurs am Wochenende besuchen",
+    "groupCode": 1
+  },
+  {
+    "id": 11883,
+    "en": "He had to hit the nail into the wall with a hammer",
+    "de": "Er musste den Nagel mit dem Hammer in die Wand schlagen",
+    "groupCode": 1
+  },
+  {
+    "id": 11884,
+    "en": "I'm not upset, we're both right",
+    "de": "Ich bin nicht verärgert, wir haben beide recht",
+    "groupCode": 1
+  },
+  {
+    "id": 11885,
+    "en": "My cat is stronger than you",
+    "de": "Meine Katze ist stärker als du",
+    "groupCode": 1
+  },
+  {
+    "id": 11886,
+    "en": "You are my best girlfriend and you are strong",
+    "de": "Du bist meine beste Freundin und du bist stark",
+    "groupCode": 1
+  },
+  {
+    "id": 11887,
+    "en": "He has to agree with his mom, she bakes the best",
+    "de": "Er muss seiner Mama zustimmen, sie backt am besten",
+    "groupCode": 1
+  },
+  {
+    "id": 11888,
+    "en": "I think we are both witzig/lustig and smart",
+    "de": "Ich glaube, wir sind beide lustig und klug",
+    "groupCode": 1
+  },
+  {
+    "id": 11889,
+    "en": "I'm right, my best friend is very smart",
+    "de": "Ich habe recht, mein bester Freund ist sehr klug",
+    "groupCode": 1
+  },
+  {
+    "id": 11890,
+    "en": "\n 1.Sneezing \n 2.burping \n 3.yawning \n 4.sweating \n 5.farting \n 6.spitting",
+    "de": "\n 1.Niesen \n 2.Rülpsen \n 3.Gähnen \n 4.Schwitzen \n 5.Furzen \n 6.Spucken",
     "groupCode": 1
   }
 ]
