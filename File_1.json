@@ -9512,5 +9512,11 @@
     "fa": "کش بک یک نوعی از پاداش است جاییکه شما دریافت می کنید یک درصدی از پولی که شما خرج می کنی روی خریدها برمی گردد به حسابتان. برای مثال، اگر شما خرج می کنی ۱۰۰ یورو و نرخ کش بک ۱۰٪ است، شما دریافت می کنی ۱۰ یورو برگشت",
     "en": "Cashback is a type of reward where you receive a percentage of the money you spend on purchases back into your account. For example, if you spend €100 and the cashback rate is 10%, you would receive €10 back",
     "groupCode": 0
+  },
+  {
+    "id": 4561,
+    "fa": "اگر شما سه تا آرزو داشتی، چی بودن آنها؟",
+    "en": "If you had three wishes what would they be?",
+    "groupCode": 0
   }
 ]

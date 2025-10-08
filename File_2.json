@@ -3096,7 +3096,7 @@
   },
   {
     "id": 10507,
-    "en": "My roommate (male) is annoyed but why?",
+    "en": "My roommate (male) is annoyed/angry but why?",
     "de": "Mein Mitbewohner ist verärgert aber warum?",
     "groupCode": 1
   },
@@ -3481,7 +3481,7 @@
   },
   {
     "id": 10571,
-    "en": "I am very annoyed",
+    "en": "I am very annoyed/angry",
     "de": "Ich bin sehr verärgert",
     "groupCode": 1
   },
@@ -6164,7 +6164,7 @@
   },
   {
     "id": 11013,
-    "en": "I'm annoyed, because she never wants to wash her clothes",
+    "en": "I'm annoyed/angry, because she never wants to wash her clothes",
     "de": "\n 1.Ich bin verärgert, denn sie will nie ihre Kleidung waschen \n 2.Ich bin verärgert, weil sie nie ihre Kleidung waschen will",
     "groupCode": 1
   },
@@ -6368,7 +6368,7 @@
   },
   {
     "id": 11047,
-    "en": "Are you annoyed? No, I'm not annoyed",
+    "en": "Are you annoyed/angry? No, I'm not annoyed/angry",
     "de": "Bist du verärgert? Nein, Ich bin nicht verärgert",
     "groupCode": 1
   },
@@ -9071,7 +9071,7 @@
   },
   {
     "id": 11490,
-    "en": "We're driving straight to the concert, where are you?",
+    "en": "We're driving currently to the concert, where are you?",
     "de": "Wir fahren gerade zum Konzert, wo bist du?",
     "groupCode": 1
   },
@@ -10392,7 +10392,7 @@
   {
     "id": 11706,
     "en": "In the cities the Rents have risen (grow) sharply (heavily)",
-    "de": "In den Städten sind die Mieten stark gewachst",
+    "de": "In den Städten sind die Mieten stark gewachsen",
     "groupCode": 1
   },
   {
@@ -11023,7 +11023,7 @@
   },
   {
     "id": 11810,
-    "en": "She moved to another city. I haven't spoken to her in a long time",
+    "en": "She moved into another city. I haven't spoken to her in a long time",
     "de": "Sie ist in eine andere Stadt umgezogen. Ich habe lange nicht mit ihr gesprochen",
     "groupCode": 1
   },
@@ -11470,7 +11470,7 @@
   },
   {
     "id": 11884,
-    "en": "I'm not upset, we're both right",
+    "en": "I'm not annoyed/angry, we're both right",
     "de": "Ich bin nicht verärgert, wir haben beide recht",
     "groupCode": 1
   },
@@ -11508,6 +11508,74 @@
     "id": 11890,
     "en": "\n 1.Sneezing \n 2.burping \n 3.yawning \n 4.sweating \n 5.farting \n 6.spitting",
     "de": "\n 1.Niesen \n 2.Rülpsen \n 3.Gähnen \n 4.Schwitzen \n 5.Furzen \n 6.Spucken",
+    "groupCode": 1
+  },
+  {
+    "id": 11891,
+    "en": "I come from Ottawa. That is the capital of Canada",
+    "de": "Ich komme aus Ottawa. Das ist die Hauptstadt von Kanada",
+    "groupCode": 1
+  },
+  {
+    "id": 11892,
+    "en": "There also live my parents and my brother",
+    "de": "Dort leben auch meine Eltern und mein Bruder",
+    "groupCode": 1
+  },
+  {
+    "id": 11893,
+    "en": "I have been here in Germany for already almost (emphasizes “almost”) a year",
+    "de": "Ich bin schon fast ein Jahr hier in Deutschland",
+    "desc": "schon → “already” → emphasizes how long it feels.\nIch bin schon ein Jahr hier. = I’ve already been here a year.\n\nfast → “almost” → means not quite yet.\nIch bin fast ein Jahr hier. = I’ve been here almost a year.\n\nschon fast → “already almost” → combines both ideas: it’s surprisingly close to a year.\nIch bin schon fast ein Jahr hier. = It’s already almost been a year — time flies!\n\n✅ “schon fast” adds a tone of mild surprise or reflection.",
+    "groupCode": 1
+  },
+  {
+    "id": 11894,
+    "en": "I took a language course and improved my German",
+    "de": "Ich habe einen Sprachkurs gemacht und mein Deutsch verbessert",
+    "groupCode": 1
+  },
+  {
+    "id": 11895,
+    "en": "Now I have a position at the reception in a hotel and am currently moving",
+    "de": "Jetzt habe ich eine Stelle an der Rezeption in einem Hotel bekommen und ziehe gerade um",
+    "groupCode": 1
+  },
+  {
+    "id": 11896,
+    "en": "New city, new luck",
+    "de": "Neue Stadt, Neues Glück",
+    "groupCode": 1
+  },
+  {
+    "id": 11897,
+    "en": "Unfortunately, I don't know still any people",
+    "de": "Leider kenne ich dort noch keine leute",
+    "groupCode": 1
+  },
+  {
+    "id": 11898,
+    "en": "He met (got to know) me at the language school",
+    "de": "Ich habe ihn in der Sprachenschule kennengelernt",
+    "groupCode": 1
+  },
+  {
+    "id": 11899,
+    "en": "We laughed a lot each other",
+    "de": "Wir haben viel miteinander gelacht",
+    "groupCode": 1
+  },
+  {
+    "id": 11900,
+    "en": "I don’t know whose idea that was",
+    "de": "Ich weiß nicht, wessen Idee das war",
+    "groupCode": 1
+  },
+  {
+    "id": 11901,
+    "en": "My neighbor complained (herself) because I played the music too loud",
+    "de": "Mein Nachbar hat sich beschwert, weil ich die Musik zu laut gespielt habe",
+    "desc": "The verb beschweren is reflexive when it means to complain.\nThat means it always comes with „sich“ — a reflexive pronoun referring back to the subject.",
     "groupCode": 1
   }
 ]
