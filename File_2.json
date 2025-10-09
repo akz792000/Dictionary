@@ -10664,7 +10664,7 @@
   },
   {
     "id": 11751,
-    "en": "The female doctor examines Junior’s ear",
+    "en": "The female doctor examines Junior's ear",
     "de": "Die Ärztin untersucht Juniors Ohr",
     "groupCode": 1
   },
@@ -10726,7 +10726,7 @@
     "id": 11761,
     "en": "The battery of my phone is empty. I have to go home quickly now",
     "de": "Der Akku von meinem Handy ist leer. Ich muss jetzt schnell nach Hause (gehen)",
-    "desc": "So the full thought is:\n\uD83D\uDC49 Ich muss jetzt schnell nach Hause gehen.\nBut in German it’s totally fine (and very common) to drop the final gehen — everyone understands it.",
+    "desc": "So the full thought is:\n\uD83D\uDC49 Ich muss jetzt schnell nach Hause gehen.\nBut in German it's totally fine (and very common) to drop the final gehen — everyone understands it.",
     "groupCode": 1
   },
   {
@@ -11037,6 +11037,7 @@
     "id": 11812,
     "en": "Don't you want to speak with her now?",
     "de": "Willst du nicht jetzt mit ihr sprechen?",
+    "desc": "The “nicht” near the start softens the tone — like you're gently suggesting it.",
     "groupCode": 1
   },
   {
@@ -11363,7 +11364,7 @@
     "id": 11866,
     "en": "What is (precise) your phone number?",
     "de": "Wie lautet deine Telefonnummer?",
-    "desc": "lautet = comes from lauten, which is used for numbers, codes, names, or formal statements.\n\nIt’s more precise than ist in these contexts.\n\nYou use lautet when asking for the exact wording, spelling, or number.",
+    "desc": "lautet = comes from lauten, which is used for numbers, codes, names, or formal statements.\n\nIt's more precise than ist in these contexts.\n\nYou use lautet when asking for the exact wording, spelling, or number.",
     "groupCode": 1
   },
   {
@@ -11441,7 +11442,7 @@
   {
     "id": 11879,
     "en": "My sons think anything is better than reading",
-    "de": "Meine Söhne denken, alles ist besser als Lesen",
+    "de": "Meine Söhne denken alles ist besser als Lesen",
     "groupCode": 1
   },
   {
@@ -11495,7 +11496,7 @@
   {
     "id": 11888,
     "en": "I think we are both funny and smart",
-    "de": "Ich glaube, wir sind beide lustig und klug",
+    "de": "Ich glaube wir sind beide lustig und klug",
     "groupCode": 1
   },
   {
@@ -11526,7 +11527,7 @@
     "id": 11893,
     "en": "I have been here in Germany for already almost (emphasizes “almost”) a year",
     "de": "Ich bin schon fast ein Jahr hier in Deutschland",
-    "desc": "schon → “already” → emphasizes how long it feels.\nIch bin schon ein Jahr hier. = I’ve already been here a year.\n\nfast → “almost” → means not quite yet.\nIch bin fast ein Jahr hier. = I’ve been here almost a year.\n\nschon fast → “already almost” → combines both ideas: it’s surprisingly close to a year.\nIch bin schon fast ein Jahr hier. = It’s already almost been a year — time flies!\n\n✅ “schon fast” adds a tone of mild surprise or reflection.",
+    "desc": "schon → “already” → emphasizes how long it feels.\nIch bin schon ein Jahr hier. = I've already been here a year.\n\nfast → “almost” → means not quite yet.\nIch bin fast ein Jahr hier. = I've been here almost a year.\n\nschon fast → “already almost” → combines both ideas: it's surprisingly close to a year.\nIch bin schon fast ein Jahr hier. = It's already almost been a year — time flies!\n\n✅ “schon fast” adds a tone of mild surprise or reflection.",
     "groupCode": 1
   },
   {
@@ -11549,7 +11550,7 @@
   },
   {
     "id": 11897,
-    "en": "Unfortunately, I don't know still any people",
+    "en": "Unfortunately I don't know still any people",
     "de": "Leider kenne ich dort noch keine leute",
     "groupCode": 1
   },
@@ -11567,7 +11568,7 @@
   },
   {
     "id": 11900,
-    "en": "I don’t know whose idea that was",
+    "en": "I don't know whose idea that was",
     "de": "Ich weiß nicht, wessen Idee das war",
     "groupCode": 1
   },

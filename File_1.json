@@ -3647,7 +3647,7 @@
   },
   {
     "id": 3595,
-    "fa": "من به سوی سرنوشتی سوق داده شده ام (که) من نمی توانم فرار کنم",
+    "fa": "من به سوی یک سرنوشتی سوق داده شده ام (که) من نمی توانم فرار کنم",
     "en": "I'm led away towards a fate I can't flee",
     "desc": "\"I'm\" = Subject + verb \"am\" (present tense of \"to be\").\n\"led away\" = Passive verb (past participle \"led\" combined with \"away\" as an adverb showing direction).\n\"towards a fate I can't flee\" = Prepositional phrase indicating where you're being led.\n",
     "groupCode": 0
@@ -9448,7 +9448,7 @@
   },
   {
     "id": 4550,
-    "fa": "مدرسه ساخت یک (ساختمان جدید) الحاقی",
+    "fa": "مدرسه ساخت یک (ساختمان) جدید الحاقی",
     "en": "The school built a new annex",
     "groupCode": 0
   },
@@ -9503,13 +9503,13 @@
   },
   {
     "id": 4559,
-    "fa": "من احساس میکردم یک حس اجبار قوی تا حقیقت رو بگم",
+    "fa": "من احساس کردم یک اجبار قوی تا حقیقت رو بگم",
     "en": "I felt a strong compulsion to tell the truth",
     "groupCode": 0
   },
   {
     "id": 4560,
-    "fa": "کش بک یک نوعی از پاداش است جاییکه شما دریافت می کنید یک درصدی از پولی که شما خرج می کنی روی خریدها برمی گردد به حسابتان. برای مثال، اگر شما خرج می کنی ۱۰۰ یورو و نرخ کش بک ۱۰٪ است، شما دریافت می کنی ۱۰ یورو برگشت",
+    "fa": "Cashback یک نوعی از پاداش است جاییکه شما دریافت می کنید یک درصدی از پولی که شما خرج می کنی روی خریدها برمی گردد به حسابتان. برای مثال، اگر شما خرج می کنی ۱۰۰ یورو و نرخ کش بک ۱۰٪ است، شما دریافت می کنی ۱۰ یورو برگشت",
     "en": "Cashback is a type of reward where you receive a percentage of the money you spend on purchases back into your account. For example, if you spend €100 and the cashback rate is 10%, you would receive €10 back",
     "groupCode": 0
   },
@@ -9524,6 +9524,18 @@
     "fa": "نیروهای آمریکایی منهدم کردند یک کشتی دیگر را که ظاهرا (از قرار معلوم) حمل می کرد مواد مخدر در سواحل ونزوئلا",
     "en": "U.S. forces destroyed another vessel allegedly carrying drugs off the coast of Venezuela",
     "desc": "When we say something is “off the coast of [place]”, it means:\n\nin the sea, near the coast, but not on land\n\nExamples:\n\nA ship sank off the coast of Italy.\n→ The ship sank in the sea, near Italy, but not on land.",
+    "groupCode": 0
+  },
+  {
+    "id": 4563,
+    "fa": "من سعی می کنم انجام دهم تا جایی که تخصصم اجازه می دهد",
+    "en": "I try to do as much as my expertise allows",
+    "groupCode": 0
+  },
+  {
+    "id": 4564,
+    "fa": "ما کاملاً مشغول هستیم در بخش پشتیبانی",
+    "en": "We're quite busy on the backend",
     "groupCode": 0
   }
 ]
