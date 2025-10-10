@@ -8,7 +8,7 @@
   },
   {
     "id": 3002,
-    "fa": "تو باید کمی بخوابی (کمی خواب بگیری) چون دیر شده",
+    "fa": "تو باید کمی بخوابی (کمی خواب بگیری) چون داره دیر میشه",
     "en": "You should get some sleep because it's getting late",
     "groupCode": 0
   },
@@ -4794,7 +4794,7 @@
   {
     "id": 3784,
     "fa": "پسر من حدوداً 11 ساله است و او در حال گذراندن (دوران) پیش از بلوغ است. من متوجه بعضی رفتارهای نگران کننده شده ام. من می خواهم بحث کنم این رفتارها را با یک روانپزشک کودکان",
-    "en": "My son is around 11 years old, and he's going through pre-puberty. I've noticed some concerning behaviors. I want to discuss these behaviors with a pediatric psychiatrist",
+    "en": "My son is around 11 years old, and he's going through pre-puberty. I've noticed some concerning behaviors. I want to discuss these behaviors with a pediatric /ˌpidiˈætrɪk/ psychiatrist /sɪˈkaɪətrɪst/",
     "groupCode": 0
   },
   {
@@ -8482,6 +8482,7 @@
     "id": 4391,
     "fa": "بعد از راه رفتن یک راه طولانی، ما دیدیم دریاچه اومد تو دید",
     "en": "After walking a long way, we saw the lake come into view",
+    "desc": "After verbs like see, watch, hear, feel, when they are followed by another verb, we use the bare infinitive (without “to”) for the action observed.\n\nWe saw him run.\n\nI heard her sing.",
     "groupCode": 0
   },
   {
@@ -9509,8 +9510,8 @@
   },
   {
     "id": 4560,
-    "fa": "Cashback یک نوعی از پاداش است جاییکه شما دریافت می کنید یک درصدی از پولی که شما خرج می کنی روی خریدها برمی گردد به حسابتان. برای مثال، اگر شما خرج می کنی ۱۰۰ یورو و نرخ کش بک ۱۰٪ است، شما دریافت می کنی ۱۰ یورو برگشت",
-    "en": "Cashback is a type of reward where you receive a percentage of the money you spend on purchases back into your account. For example, if you spend €100 and the cashback rate is 10%, you would receive €10 back",
+    "fa": "Cashback یک پاداش است جاییکه شما پس می گیرید یک درصدی از خرج کردن خود را. برای مثال، اگر شما خرج می کنی ۱۰۰ یورو و نرخ Cashback ۱۰٪ است، شما دریافت می کنی (فرضی) ۱۰ یورو برگشت",
+    "en": "Cashback is a reward where you get a percentage of your spending back. For example, if you spend €100 and the cashback rate is 10%, you would receive €10 back",
     "groupCode": 0
   },
   {
@@ -9536,6 +9537,36 @@
     "id": 4564,
     "fa": "ما کاملاً مشغول هستیم در بخش پشتیبانی",
     "en": "We're quite busy on the backend",
+    "groupCode": 0
+  },
+  {
+    "id": 4565,
+    "fa": "وجود دارد یک تضاد واضح بین گفتارش و اعمالش، با تأکید قوی بر صداقت",
+    "en": "There is a clear contrast between his words and his actions, with strong emphasis on honesty",
+    "groupCode": 0
+  },
+  {
+    "id": 4566,
+    "fa": "بیایید نگهش داریم مختصر و واضح",
+    "en": "Let's keep it brief and clear",
+    "groupCode": 0
+  },
+  {
+    "id": 4567,
+    "fa": "ممنون از اینکه به من اطلاع دادید. من پیگیری می کنم",
+    "en": "Thank you for letting me know. I will follow up",
+    "groupCode": 0
+  },
+  {
+    "id": 4568,
+    "fa": "من منظورت گرفتم، اما چرا تو داری انگلیسی حرف میزنی؟",
+    "en": "I got your point, but why are you speaking in English?",
+    "groupCode": 0
+  },
+  {
+    "id": 4569,
+    "fa": "شرکت باید رعایت کند (دنبال کردن) تمام مقررات قانونی را",
+    "en": "The company must follow all statutory regulations",
     "groupCode": 0
   }
 ]

@@ -3638,8 +3638,8 @@
   },
   {
     "id": 602,
-    "fa": "یه تاکسی گرفتی برای اون آرایشگاه؟",
-    "en": "Do you take a taxi to the hairdresser?",
+    "fa": "گرفتی شما یه تاکسی تا اون آرایشگاه؟",
+    "en": "Did you take a taxi to the hairdresser?",
     "groupCode": 0
   },
   {
@@ -5888,7 +5888,7 @@
   {
     "id": 970,
     "fa": "آیا چشم پزشکی اطفال می شناسید؟",
-    "en": "Do you know a pediatric (/ˌpidiˈætrɪk/) ophthalmology? (/ˌɑːpθəˈmɑːlədʒi/)",
+    "en": "Do you know a pediatric /ˌpidiˈætrɪk/ ophthalmology? /ˌɑːpθəˈmɑːlədʒi/",
     "groupCode": 0
   },
   {
@@ -17755,7 +17755,7 @@
   },
   {
     "id": 2921,
-    "fa": "آیا واقعاً این موضوع را کاملا فکر کردی؟ زیرا ریسک بسیار بزرگی است",
+    "fa": "آیا واقعاً این موضوع را کاملا فکر کردی؟ زیرا یک ریسک بسیار بزرگی است",
     "en": "Have you really thought this through? Cause it's a pretty big risk",
     "groupCode": 0
   },

@@ -581,7 +581,7 @@
   {
     "id": 10095,
     "en": "I don't want to drink something",
-    "de": "Ich will nicht etwas trinken",
+    "de": "Ich will etwas nicht trinken",
     "groupCode": 1
   },
   {
@@ -11556,7 +11556,7 @@
   },
   {
     "id": 11898,
-    "en": "He met (got to know) me at the language school",
+    "en": "I met (got to know) him at the language school",
     "de": "Ich habe ihn in der Sprachenschule kennengelernt",
     "groupCode": 1
   },
@@ -11577,6 +11577,45 @@
     "en": "My neighbor complained (herself) because I played the music too loud",
     "de": "Mein Nachbar hat sich beschwert, weil ich die Musik zu laut gespielt habe",
     "desc": "The verb beschweren is reflexive when it means to complain.\nThat means it always comes with „sich“ — a reflexive pronoun referring back to the subject.",
+    "groupCode": 1
+  },
+  {
+    "id": 11902,
+    "en": "I have been living in Munich for about three and a half years",
+    "de": "Seit etwa dreieinhalb Jahren lebe ich in München",
+    "desc": "etwa = about / approximately\n\netwas = a little / something / somewhat",
+    "groupCode": 1
+  },
+  {
+    "id": 11903,
+    "en": "\n  1.I come from Germany \n 2.The table is made of wood \n 3.Information from the text",
+    "de": "\n 1.Ich komme aus Deutschland \n 2.Der Tisch ist aus Holz \n 3.Informationen aus dem Text",
+    "desc": "aus = from inside / out of / source\n→ used for places, materials, or texts",
+    "groupCode": 1
+  },
+  {
+    "id": 11904,
+    "en": "\n 1.A gift from my mother \n 2.The wind comes from the north \n 3.A book by Goethe",
+    "de": "\n 1.Ein Geschenk von meiner Mutter \n 2.Der Wind kommt von Norden \n 3.Ein Buch von Goethe",
+    "desc": "von = from someone or somewhere outside",
+    "groupCode": 1
+  },
+  {
+    "id": 11905,
+    "en": "Thank you for letting me know. I will follow up",
+    "de": "Vielen Dank für die Information. Ich werde dem nachgehen",
+    "groupCode": 1
+  },
+  {
+    "id": 11906,
+    "en": "I'm not going on Monday, but on Tuesday",
+    "de": "Ich gehe nicht am Montag, sondern am Dienstag",
+    "groupCode": 1
+  },
+  {
+    "id": 11907,
+    "en": "Hereby I would like to inform you about that your (formal) child unfortunately forgot their math homework today",
+    "de": "Hiermit möchte ich Sie darüber informieren, dass Ihr Kind heute leider die Hausaufgaben in Mathe vergessen hat",
     "groupCode": 1
   }
 ]
