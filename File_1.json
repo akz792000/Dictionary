@@ -9322,8 +9322,8 @@
   },
   {
     "id": 4529,
-    "fa": "سوال تست بود یک چالش (یک توپ منحنی) واقعی",
-    "en": "The test question was a real curve ball",
+    "fa": "سوال بود یک چالش (یک توپ منحنی) واقعی",
+    "en": "The question was a real curve ball",
     "groupCode": 0
   },
   {
@@ -9474,7 +9474,7 @@
   },
   {
     "id": 4554,
-    "fa": "رانندگی در شب در کوهستان است حتی ریسکی تر_خطرناکتر از طول روز",
+    "fa": "رانندگی در شب در کوهها است حتی ریسکی تر_خطرناکتر از طول روز",
     "en": "Driving at night in the mountains is even dicier than during the day",
     "groupCode": 0
   },
@@ -9518,12 +9518,13 @@
     "id": 4561,
     "fa": "اگر شما سه تا آرزو داشتی، چی بودن آنها؟",
     "en": "If you had three wishes what would they be?",
+    "desc": "✅ What would they be? → direct question\n✅ I wonder what they would be. → indirect question \n\n\n Use a reporting verb → ask, wonder, want to know\n\nChange word order: subject + verb (no inversion)\n\nRemove the question mark",
     "groupCode": 0
   },
   {
     "id": 4562,
     "fa": "نیروهای آمریکایی منهدم کردند یک کشتی دیگر را که ظاهرا (از قرار معلوم) حمل می کرد مواد مخدر در سواحل ونزوئلا",
-    "en": "U.S. forces destroyed another vessel allegedly carrying drugs off the coast of Venezuela",
+    "en": "U.S. forces destroyed another vessel allegedly /əˈlejədlē/ carrying drugs off the coast of Venezuela",
     "desc": "When we say something is “off the coast of [place]”, it means:\n\nin the sea, near the coast, but not on land\n\nExamples:\n\nA ship sank off the coast of Italy.\n→ The ship sank in the sea, near Italy, but not on land.",
     "groupCode": 0
   },
@@ -9541,7 +9542,7 @@
   },
   {
     "id": 4565,
-    "fa": "وجود دارد یک تضاد واضح بین گفتارش و اعمالش، با تأکید قوی بر صداقت",
+    "fa": "وجود دارد یک تضاد واضح بین گفتارش و اعمالش (مرد)، با تأکید قوی بر صداقت",
     "en": "There is a clear contrast between his words and his actions, with strong emphasis on honesty",
     "groupCode": 0
   },
@@ -9553,7 +9554,7 @@
   },
   {
     "id": 4567,
-    "fa": "ممنون از اینکه به من اطلاع دادید. من پیگیری می کنم",
+    "fa": "ممنون از اینکه به من اطلاع دادید (گذاشتید من بدانم). من پیگیری می کنم",
     "en": "Thank you for letting me know. I will follow up",
     "groupCode": 0
   },
@@ -9567,6 +9568,12 @@
     "id": 4569,
     "fa": "شرکت باید رعایت کند (دنبال کردن) تمام مقررات قانونی را",
     "en": "The company must follow all statutory regulations",
+    "groupCode": 0
+  },
+  {
+    "id": 4570,
+    "fa": "این کورس برای چه کسی است؟",
+    "en": "Who is this course for?",
     "groupCode": 0
   }
 ]

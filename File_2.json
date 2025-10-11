@@ -3036,7 +3036,7 @@
   },
   {
     "id": 10497,
-    "en": "Oh no, I still need to pack socks, but they are dirty!",
+    "en": "Oh no, I still have to pack socks, but they are dirty!",
     "de": "Oh nein, ich muss noch socken einpacken, aber sie sind schmutzig!",
     "groupCode": 1
   },
@@ -6872,7 +6872,7 @@
   {
     "id": 11130,
     "en": "I really wanted this cake. It was something entire special",
-    "de": "Ich wollte diesen Kuchen wirklich. Er war etwas ganz Besondere",
+    "de": "\n 1.Ich wollte diesen Kuchen wirklich. Er war etwas ganz Besondere \n 2.Ich habe diesen Kuchen wirklich gewollt. Er war etwas ganz Besonderes",
     "groupCode": 1
   },
   {
@@ -10472,6 +10472,7 @@
     "id": 11719,
     "en": "We are learning German together",
     "de": "Wir lernen gemeinsam Deutsch",
+    "desc": "zusammen → together (physically) → casual\n✅ Wir lernen zusammen Deutsch. → We study German together (in the same place).\n\ngemeinsam → together (as a team / shared goal) → a bit formal\n✅ Wir lernen gemeinsam Deutsch. → We study German jointly / with the same purpose.",
     "groupCode": 1
   },
   {
@@ -11532,7 +11533,7 @@
   },
   {
     "id": 11894,
-    "en": "I took a language course and improved my German",
+    "en": "I took (make) a language course and improved my German",
     "de": "Ich habe einen Sprachkurs gemacht und mein Deutsch verbessert",
     "groupCode": 1
   },
@@ -11556,7 +11557,7 @@
   },
   {
     "id": 11898,
-    "en": "I met (got to know) him at the language school",
+    "en": "I met (got to know) him in the language school",
     "de": "Ich habe ihn in der Sprachenschule kennengelernt",
     "groupCode": 1
   },
@@ -11602,13 +11603,13 @@
   },
   {
     "id": 11905,
-    "en": "Thank you for letting me know. I will follow up",
+    "en": "Thank you very much for the information. I will follow up",
     "de": "Vielen Dank für die Information. Ich werde dem nachgehen",
     "groupCode": 1
   },
   {
     "id": 11906,
-    "en": "I'm not going on Monday, but on Tuesday",
+    "en": "I'm not going on Monday, but (rather) on Tuesday",
     "de": "Ich gehe nicht am Montag, sondern am Dienstag",
     "groupCode": 1
   },
@@ -11616,6 +11617,26 @@
     "id": 11907,
     "en": "Hereby I would like to inform you about that your (formal) child unfortunately forgot their math homework today",
     "de": "Hiermit möchte ich Sie darüber informieren, dass Ihr Kind heute leider die Hausaufgaben in Mathe vergessen hat",
+    "groupCode": 1
+  },
+  {
+    "id": 11908,
+    "en": "He kisses her. She kisses him. They kiss each other",
+    "de": "Er küsst sie. Sie küsst ihn. Sie Küssen sich",
+    "groupCode": 1
+  },
+  {
+    "id": 11909,
+    "en": "\n 1.I don't drink coffee, but (rather) tea \n 2.I drink coffee, but no tea",
+    "de": "\n 1.Ich trinke nicht Kaffee, sondern Tee \n 2.Ich trinke Kaffee, aber keinen Tee",
+    "desc": "“sondern” = “but rather / instead”\n\nYou use sondern when the first part of the sentence is negative (with nicht, kein, or nie) and you want to correct it with something else.",
+    "groupCode": 1
+  },
+  {
+    "id": 11910,
+    "en": "It takes about 10 minutes",
+    "de": "Es dauert etwa 10 Minuten",
+    "desc": "✅ In daily speech → etwa\n✅ In formal writing → circa",
     "groupCode": 1
   }
 ]
