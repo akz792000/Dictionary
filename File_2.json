@@ -9282,7 +9282,7 @@
   },
   {
     "id": 11525,
-    "en": "I do. I did. I have done",
+    "en": "I make. I made. I have made",
     "de": "Ich mache. Ich machte. Ich habe gemacht",
     "groupCode": 1
   },
@@ -9476,7 +9476,7 @@
   },
   {
     "id": 11557,
-    "en": "How many tickets do we need for the family?",
+    "en": "How many admission tickets do we need for the family?",
     "de": "Wie viele Eintrittskarten brauchen wir für die Familie?",
     "groupCode": 1
   },
@@ -11496,7 +11496,7 @@
   },
   {
     "id": 11888,
-    "en": "I think we are both funny and smart",
+    "en": "I believe we are both funny and smart",
     "de": "Ich glaube wir sind beide lustig und klug",
     "groupCode": 1
   },
@@ -11596,14 +11596,14 @@
   },
   {
     "id": 11904,
-    "en": "\n 1.A gift from my mother \n 2.The wind comes from the north \n 3.A book by Goethe",
+    "en": "\n 1.A gift from my mother \n 2.The wind comes from (the) north \n 3.A book by Goethe",
     "de": "\n 1.Ein Geschenk von meiner Mutter \n 2.Der Wind kommt von Norden \n 3.Ein Buch von Goethe",
     "desc": "von = from someone or somewhere outside",
     "groupCode": 1
   },
   {
     "id": 11905,
-    "en": "Thank you very much for the information. I will follow up",
+    "en": "Thank you very much for the information. I'll follow up on that / it",
     "de": "Vielen Dank für die Information. Ich werde dem nachgehen",
     "groupCode": 1
   },
@@ -11637,6 +11637,24 @@
     "en": "It takes about 10 minutes",
     "de": "Es dauert etwa 10 Minuten",
     "desc": "✅ In daily speech → etwa\n✅ In formal writing → circa",
+    "groupCode": 1
+  },
+  {
+    "id": 11911,
+    "en": "I explain you the exercise",
+    "de": "Ich erkläre dir die Aufgabe",
+    "groupCode": 1
+  },
+  {
+    "id": 11912,
+    "en": "My German has improved",
+    "de": "Mein Deutsch hat sich verbessert",
+    "groupCode": 1
+  },
+  {
+    "id": 11913,
+    "en": "The teacher corrected my text",
+    "de": "Der Lehrer hat meinen Text verbessert",
     "groupCode": 1
   }
 ]
