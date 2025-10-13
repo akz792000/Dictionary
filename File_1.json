@@ -9575,5 +9575,71 @@
     "fa": "این کورس برای چه کسی است؟",
     "en": "Who is this course for?",
     "groupCode": 0
+  },
+  {
+    "id": 4571,
+    "fa": "من فرمان را به چپ می چرخانم",
+    "en": "I turn the steering wheel to the left",
+    "groupCode": 0
+  },
+  {
+    "id": 4572,
+    "fa": "فشار بده کلاچ را تا تعویض کنی دنده را",
+    "en": "Press the clutch to change gears",
+    "groupCode": 0
+  },
+  {
+    "id": 4573,
+    "fa": "من ترمز گرفتم (زدم رو ترمز) تا ماشین بایستد",
+    "en": "I hit the brake to stop the car",
+    "groupCode": 0
+  },
+  {
+    "id": 4574,
+    "fa": "پدال گاز را فشار بده تا سریعتر بروید",
+    "en": "Press the gas pedal to go faster",
+    "groupCode": 0
+  },
+  {
+    "id": 4575,
+    "fa": "همیشه کمربند ایمنی خود را ببند برای ایمنی",
+    "en": "Always wear your seat belt for safety",
+    "groupCode": 0
+  },
+  {
+    "id": 4576,
+    "fa": "اهرم دنده را تغییر دهید (شیفت) به دنده عقب",
+    "en": "Shift the gear lever to reverse",
+    "groupCode": 0
+  },
+  {
+    "id": 4577,
+    "fa": "ترمز دستی را بکشید هنگام پارک می کنید خودرو را",
+    "en": "Pull the handbrake when parking the car",
+    "groupCode": 0
+  },
+  {
+    "id": 4578,
+    "fa": "سرعت سنج را چک کن تا ببینی سرعت خود را",
+    "en": "Check the speedometer to see your speed",
+    "groupCode": 0
+  },
+  {
+    "id": 4579,
+    "fa": "تنظیم کن آینه عقب را  قبل از رانندگی کردن",
+    "en": "Adjust the rearview mirror before driving",
+    "groupCode": 0
+  },
+  {
+    "id": 4580,
+    "fa": "بوق بزن تا هشدار بدی به سایر رانندگان",
+    "en": "Press the horn to warn other drivers",
+    "groupCode": 0
+  },
+  {
+    "id": 4581,
+    "fa": "نشانگر سوخت روی داشبورد است",
+    "en": "The fuel gauge is on the dashboard",
+    "groupCode": 0
   }
 ]

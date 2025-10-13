@@ -11539,7 +11539,7 @@
   },
   {
     "id": 11895,
-    "en": "Now I have a position at the reception in a hotel and am currently moving",
+    "en": "Now I have got a position at the reception in a hotel and am currently moving",
     "de": "Jetzt habe ich eine Stelle an der Rezeption in einem Hotel bekommen und ziehe gerade um",
     "groupCode": 1
   },
@@ -11551,8 +11551,8 @@
   },
   {
     "id": 11897,
-    "en": "Unfortunately I don't know still any people",
-    "de": "Leider kenne ich dort noch keine leute",
+    "en": "Unfortunately I don't know still any people there",
+    "de": "Leider kenne ich dort noch keine Leute",
     "groupCode": 1
   },
   {
@@ -11641,20 +11641,123 @@
   },
   {
     "id": 11911,
-    "en": "I explain you the exercise",
+    "en": "I explain you the task",
     "de": "Ich erkläre dir die Aufgabe",
     "groupCode": 1
   },
   {
     "id": 11912,
-    "en": "My German has improved",
+    "en": "My German has improved itself",
     "de": "Mein Deutsch hat sich verbessert",
+    "desc": "In German, the reflexive verb \"sich verbessern\" is used to express the idea that something is improving itself. This is a common way to describe improvement in German, and it doesn't require an external agent to be mentioned. The reflexive pronoun \"sich\" is used to show that the subject (in this case, \"Mein Deutsch\") is both the one doing the action and the one being affected by it.",
     "groupCode": 1
   },
   {
     "id": 11913,
     "en": "The teacher corrected my text",
     "de": "Der Lehrer hat meinen Text verbessert",
+    "groupCode": 1
+  },
+  {
+    "id": 11914,
+    "en": "He complained about the noise",
+    "de": "Er hat sich über den Lärm beschwert",
+    "groupCode": 1
+  },
+  {
+    "id": 11915,
+    "en": "I have improved my German",
+    "de": "Ich habe mein Deutsch verbessert",
+    "groupCode": 1
+  },
+  {
+    "id": 11916,
+    "en": "I like watching action movies and comedies",
+    "de": "Ich sehe gern Actionfilme und Komödien",
+    "groupCode": 1
+  },
+  {
+    "id": 11917,
+    "en": "What kind of books do you like reading? I like reading adventure books and crime novels",
+    "de": "Was für Bücher liest du gern? Ich lese gern Abenteuerbücher und Krimis",
+    "groupCode": 1
+  },
+  {
+    "id": 11918,
+    "en": "It is finally quieter without the dog in the apartment",
+    "de": "Es ist endlich leiser ohne den Hund in der Wohnung",
+    "groupCode": 1
+  },
+  {
+    "id": 11919,
+    "en": "What tastes better, gummy bears or pretzel?",
+    "de": "Was schmeckt besser GummiBärchen oder eine Brezel?",
+    "groupCode": 1
+  },
+  {
+    "id": 11920,
+    "en": "Are your daughters louder than your sons?",
+    "de": "Sind deine Tochter lauter als deine sohner?",
+    "groupCode": 1
+  },
+  {
+    "id": 11921,
+    "en": "I stay at home because watching TV is fun",
+    "de": "Ich bleibe zu Hause, denn Fernsehen macht Spaß",
+    "groupCode": 1
+  },
+  {
+    "id": 11922,
+    "en": "Can you please just trim the ends?",
+    "de": "Können Sie bitte nur die Spitzen schneiden?",
+    "groupCode": 1
+  },
+  {
+    "id": 11923,
+    "en": "I cut the bread",
+    "de": "Ich schneide das Brot",
+    "groupCode": 1
+  },
+  {
+    "id": 11924,
+    "en": "Where were you yesterday?",
+    "de": "Wo warst du gestern?",
+    "groupCode": 1
+  },
+  {
+    "id": 11925,
+    "en": "The party was yesterday. Where were you?",
+    "de": "Die Party war gestern. Wo warst du?",
+    "groupCode": 1
+  },
+  {
+    "id": 11926,
+    "en": "Did you already have plans on Friday?",
+    "de": "Hattet ihr am Freitag schon Pläne?",
+    "groupCode": 1
+  },
+  {
+    "id": 11927,
+    "en": "I was with (by) my grandpa yesterday",
+    "de": "Ich war gestern bei meinem Opa",
+    "groupCode": 1
+  },
+  {
+    "id": 11928,
+    "en": "Were you with (by) your son or with (by) your daughter yesterday?",
+    "de": "Warst du gestern bei deinem Sohn oder bei deiner Tochter?",
+    "groupCode": 1
+  },
+  {
+    "id": 11929,
+    "en": "Do you have a cold?",
+    "de": "Hast du eine Erkältung?",
+    "groupCode": 1
+  },
+  {
+    "id": 11930,
+    "en": "You had a cold but now you are healthy again",
+    "de": "Du hattest eine Erkältung aber jetzt bist du wieder gesund",
     "groupCode": 1
   }
 ]
