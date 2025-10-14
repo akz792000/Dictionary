@@ -9638,7 +9638,7 @@
   },
   {
     "id": 11582,
-    "en": "I am happy. I was happy. I was happy",
+    "en": "I am happy/excited. I was happy/excited. I was happy/excited",
     "de": "Ich freue (mich). Ich freute (mich). Ich habe (mich) gefreut",
     "groupCode": 1
   },
@@ -10385,7 +10385,7 @@
   },
   {
     "id": 11705,
-    "en": "I'm already happy (I'm already looking forward to it)",
+    "en": "I'm already happy/excited (I'm already looking forward to it)",
     "de": "Ich freue mich schon",
     "groupCode": 1
   },
@@ -11582,7 +11582,7 @@
   },
   {
     "id": 11902,
-    "en": "I have been living in Munich for about three and a half years",
+    "en": "For about three and a half years I have been living in Munich",
     "de": "Seit etwa dreieinhalb Jahren lebe ich in München",
     "desc": "etwa = about / approximately\n\netwas = a little / something / somewhat",
     "groupCode": 1
@@ -11732,7 +11732,7 @@
   },
   {
     "id": 11926,
-    "en": "Did you already have plans on Friday?",
+    "en": "Did you (plural) already have plans on Friday?",
     "de": "Hattet ihr am Freitag schon Pläne?",
     "groupCode": 1
   },
@@ -11758,6 +11758,49 @@
     "id": 11930,
     "en": "You had a cold but now you are healthy again",
     "de": "Du hattest eine Erkältung aber jetzt bist du wieder gesund",
+    "groupCode": 1
+  },
+  {
+    "id": 11931,
+    "en": "Ali often looks (at) photos of his family because he misses them a lot",
+    "de": "Ali sieht sich oft Fotos von seiner Familie an, weil er sie sehr vermisst",
+    "groupCode": 1
+  },
+  {
+    "id": 11932,
+    "en": "He washes himself and is happy/excited",
+    "de": "Er wäscht sich und freut sich",
+    "desc": "\"Er freut sich\": Temporary happiness or excitement about a specific event or situation.\n\"Er ist glücklich\": A general or long-term state of happiness or contentment",
+    "groupCode": 1
+  },
+  {
+    "id": 11933,
+    "en": "I am happy because I found a room",
+    "de": "Ich bin glücklich, weil ich ein Zimmer gefunden habe",
+    "groupCode": 1
+  },
+  {
+    "id": 11934,
+    "en": "He is sad because his girlfriend is not calling",
+    "de": "Er ist traurig, weil seine Freundin nicht anruft",
+    "groupCode": 1
+  },
+  {
+    "id": 11935,
+    "en": "She is having a party because she would like to invite her neighbors",
+    "de": "Sie macht eine Party, weil sie ihre Nachbarn einladen möchte",
+    "groupCode": 1
+  },
+  {
+    "id": 11936,
+    "en": "Why do you live in Hamburg now? Because my husband found a new job there",
+    "de": "Warum wohnt ihr jetzt in Hamburg? Weil mein Mann einen neuen Job dort gefunden hat",
+    "groupCode": 1
+  },
+  {
+    "id": 11937,
+    "en": "I am angry because he didn't come",
+    "de": "Ich bin sauer, weil er nicht gekommen ist",
     "groupCode": 1
   }
 ]
