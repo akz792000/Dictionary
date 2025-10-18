@@ -1076,8 +1076,7 @@
   {
     "id": 10176,
     "en": "He carries two pizzas home",
-    "de": "Er trägt zwei Pizzas (Pizzen) nach Hause",
-    "desc": "The plural of \"Pizza\" is typically \"Pizzen\" or just \"Pizzas\" is also accepted",
+    "de": "Er trägt zwei Pizzen nach Hause",
     "groupCode": 1
   },
   {
@@ -1089,7 +1088,7 @@
   {
     "id": 10178,
     "en": "You have two pizzas! Can I have one?",
-    "de": "Du hast zwei Pizzas! Kann ich eine haben?",
+    "de": "Du hast zwei Pizzen! Kann ich eine haben?",
     "groupCode": 1
   },
   {
@@ -3049,7 +3048,7 @@
   {
     "id": 10499,
     "en": "You pick up fifteen pizzas and I pick up the cake. Is that enough food for the party?",
-    "de": "Du holst fünfzehn Pizzas ab und ich hole den Kuchen ab. Ist das genung Essen fur die Party?",
+    "de": "Du holst fünfzehn Pizzen ab und ich hole den Kuchen ab. Ist das genung Essen fur die Party?",
     "groupCode": 1
   },
   {
@@ -3061,7 +3060,7 @@
   {
     "id": 10501,
     "en": "I have a request, can you buy the cake or order the pizzas?",
-    "de": "Ich habe eine bitte, kannst du den Kuchen kaufen oder die Pizzas bestellen?",
+    "de": "Ich habe eine bitte, kannst du den Kuchen kaufen oder die Pizzen bestellen?",
     "groupCode": 1
   },
   {
@@ -6846,7 +6845,7 @@
   },
   {
     "id": 11126,
-    "en": "Where are my motorcycle keys? Your keys lay (are placed) often at comic places",
+    "en": "Where are my motorcycle keys? Your keys lay (are placed) often at strange places",
     "de": "Wo sind meine Motorradschlüssel? Deine Schlüssel liegen oft an komischen Orten",
     "desc": "We use \"an\" with places to say where something is.\n\n\uD83D\uDFE2 \"liegen an Orten\" = \"lie at places\"",
     "groupCode": 1
@@ -8566,8 +8565,8 @@
   },
   {
     "id": 11408,
-    "en": "He becomes a doctor",
-    "de": "Er wird ein Arzt",
+    "en": "When is your son moving, are you helping him?",
+    "de": "Wann zieht dein Sohn um, hilfst du ihm?",
     "groupCode": 1
   },
   {
@@ -10994,8 +10993,8 @@
   },
   {
     "id": 11805,
-    "en": "He becomes Doctor",
-    "de": "Er wurde Arzt",
+    "en": "He becomes doctor. He became Doctor",
+    "de": "Er wird Arzt. Er wurde Arzt",
     "groupCode": 1
   },
   {
@@ -11533,7 +11532,7 @@
   },
   {
     "id": 11894,
-    "en": "I took (make) a language course and improved my German",
+    "en": "I took (made) a language course and improved my German",
     "de": "Ich habe einen Sprachkurs gemacht und mein Deutsch verbessert",
     "groupCode": 1
   },
@@ -11589,7 +11588,7 @@
   },
   {
     "id": 11903,
-    "en": "\n  1.I come from Germany \n 2.The table is made of wood \n 3.Information from the text",
+    "en": "\n 1.I come from Germany \n 2.The table is made of wood \n 3.Information from the text",
     "de": "\n 1.Ich komme aus Deutschland \n 2.Der Tisch ist aus Holz \n 3.Informationen aus dem Text",
     "desc": "aus = from inside / out of / source\n→ used for places, materials, or texts",
     "groupCode": 1
@@ -11628,7 +11627,7 @@
   {
     "id": 11909,
     "en": "\n 1.I don't drink coffee, but (rather) tea \n 2.I drink coffee, but no tea",
-    "de": "\n 1.Ich trinke nicht Kaffee, sondern Tee \n 2.Ich trinke Kaffee, aber keinen Tee",
+    "de": "\n 1.Ich trinke keinen Kaffee, sondern Tee \n 2.Ich trinke Kaffee, aber keinen Tee",
     "desc": "“sondern” = “but rather / instead”\n\nYou use sondern when the first part of the sentence is negative (with nicht, kein, or nie) and you want to correct it with something else.",
     "groupCode": 1
   },
@@ -11673,7 +11672,7 @@
   {
     "id": 11916,
     "en": "I like watching action movies and comedies",
-    "de": "Ich sehe gern Actionfilme und Komödien",
+    "de": "Ich sehe gern Actionfilme und Komödien an",
     "groupCode": 1
   },
   {
@@ -11690,14 +11689,14 @@
   },
   {
     "id": 11919,
-    "en": "What tastes better, gummy bears or pretzel?",
+    "en": "What tastes better, gummy bears or a pretzel?",
     "de": "Was schmeckt besser GummiBärchen oder eine Brezel?",
     "groupCode": 1
   },
   {
     "id": 11920,
     "en": "Are your daughters louder than your sons?",
-    "de": "Sind deine Tochter lauter als deine sohner?",
+    "de": "Sind deine Töchter lauter als deine sohner?",
     "groupCode": 1
   },
   {
@@ -11762,7 +11761,7 @@
   },
   {
     "id": 11931,
-    "en": "Ali often looks (at) photos of his family because he misses them a lot",
+    "en": "Ali often looks (at) photos of his family because he misses them a lot (very)",
     "de": "Ali sieht sich oft Fotos von seiner Familie an, weil er sie sehr vermisst",
     "groupCode": 1
   },
@@ -11793,7 +11792,7 @@
   },
   {
     "id": 11936,
-    "en": "Why do you live in Hamburg now? Because my husband found a new job there",
+    "en": "Why do you (plural) live in Hamburg now? Because my husband found a new job there",
     "de": "Warum wohnt ihr jetzt in Hamburg? Weil mein Mann einen neuen Job dort gefunden hat",
     "groupCode": 1
   },
@@ -11801,6 +11800,84 @@
     "id": 11937,
     "en": "I am angry because he didn't come",
     "de": "Ich bin sauer, weil er nicht gekommen ist",
+    "groupCode": 1
+  },
+  {
+    "id": 11938,
+    "en": "I think that that is a good idea",
+    "de": "Ich finde, dass das eine gute Idee ist",
+    "groupCode": 1
+  },
+  {
+    "id": 11939,
+    "en": "I believe that he's coming",
+    "de": "Ich glaube, dass er kommt",
+    "groupCode": 1
+  },
+  {
+    "id": 11940,
+    "en": "I would like to paint my nails",
+    "de": "Ich möchte meine Nägel lackieren",
+    "groupCode": 1
+  },
+  {
+    "id": 11941,
+    "en": "I would like to get my hair cut",
+    "de": "Ich möchte meine Haare schneiden lassen",
+    "groupCode": 1
+  },
+  {
+    "id": 11942,
+    "en": "I was sick last Monday",
+    "de": "Ich war letzten Montag krank",
+    "groupCode": 1
+  },
+  {
+    "id": 11943,
+    "en": "Does your grandpa have birthday on March 11th?",
+    "de": "Hat Opa am elften März Geburtstag?",
+    "groupCode": 1
+  },
+  {
+    "id": 11944,
+    "en": "I couldn’t bake eleven pizzas by myself",
+    "de": "Ich konnte nicht allein elf Pizzen backen",
+    "groupCode": 1
+  },
+  {
+    "id": 11945,
+    "en": "My niece had her birthday last Thursday. Why couldn’t you come to the party?",
+    "de": "Meine Nichte hatte letzten Donnerstag Geburtstag. Warum konntest du nicht zur Party kommen?",
+    "groupCode": 1
+  },
+  {
+    "id": 11946,
+    "en": "What is your excuse this week?",
+    "de": "Was ist deine Ausrede diese Woche?",
+    "groupCode": 1
+  },
+  {
+    "id": 11947,
+    "en": "Where were you last weekend?",
+    "de": "Wo warst du letztes Wochenende?",
+    "groupCode": 1
+  },
+  {
+    "id": 11948,
+    "en": "We had a lot of (very) visitors last weekend",
+    "de": "Wir hatten letztes Wochenende viel Besuch",
+    "groupCode": 1
+  },
+  {
+    "id": 11949,
+    "en": "Why couldn’t you (plural) come yesterday?",
+    "de": "Warum konntet ihr gestern nicht kommen?",
+    "groupCode": 1
+  },
+  {
+    "id": 119450,
+    "en": "The dinner was lovely, where were you?",
+    "de": "Das Abendessen war herrlich, wo warst du?",
     "groupCode": 1
   }
 ]

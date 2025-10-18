@@ -3640,6 +3640,7 @@
     "id": 602,
     "fa": "گرفتی شما یه تاکسی تا اون آرایشگاه؟",
     "en": "Did you take a taxi to the hairdresser?",
+    "desc": "Did you take a taxi to the hairdresser? → means you traveled by taxi (neutral, standard English).\n\nDid you get a taxi to the hairdresser? → means you caught or used a taxi (more casual, common in British English).",
     "groupCode": 0
   },
   {
@@ -5785,7 +5786,7 @@
   {
     "id": 953,
     "fa": "\n ۱.سبیل \n ۲.ریش \n ۳.خط ریش \n ۴.ریش بزی \n ۵.صورت تراشیده \n ۶.ته ریش",
-    "en": "\n 1.Mustache \n 2.Beard \n 3.Sideburns \n 4.Goatee \n 5.Clean-shaven \n 6.Stubble",
+    "en": "\n 1.Mustache /muh\n·\nstaash/ \n 2.Beard \n 3.Sideburns \n 4.Goatee \n 5.Clean-shaven \n 6.Stubble",
     "groupCode": 0
   },
   {

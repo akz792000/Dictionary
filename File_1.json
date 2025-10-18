@@ -9632,7 +9632,7 @@
   },
   {
     "id": 4580,
-    "fa": "فشار بده بوق را تا هشدار بدی به سایر رانندگان",
+    "fa": "فشار بده بوق را تا اخطار بدی به سایر رانندگان",
     "en": "Press the horn to warn other drivers",
     "groupCode": 0
   },
@@ -9646,6 +9646,24 @@
     "id": 4582,
     "fa": "یه جورایی گمراه کننده است",
     "en": "It's kind of misleading",
+    "groupCode": 0
+  },
+  {
+    "id": 4583,
+    "fa": "پیشخدمت خدمت خواهد کرد میز ما را",
+    "en": "The waiter will wait on our table",
+    "groupCode": 0
+  },
+  {
+    "id": 4584,
+    "fa": "من یک مسیری را ترسیم کردم برای حرفه ام در مهندسی نرم افزار",
+    "en": "I charted a course for my career in software engineering",
+    "groupCode": 0
+  },
+  {
+    "id": 4585,
+    "fa": "آیا شنیدی در روزگار قدیم در مورد کاوشگرهایی (که) آنها فرستاند به مریخ؟",
+    "en": "Did you hear back in the day about the probes they sent to Mars?",
     "groupCode": 0
   }
 ]
