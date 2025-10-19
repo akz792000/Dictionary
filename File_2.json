@@ -873,13 +873,13 @@
   },
   {
     "id": 10143,
-    "en": "What (How) time is your family coming today?",
+    "en": "How much time is your family coming today?",
     "de": "Wie viel Uhr kommt heute deine Familie?",
     "groupCode": 1
   },
   {
     "id": 10144,
-    "en": "How (How) much do four tickets cost and four bags?",
+    "en": "How much do four tickets cost and four bags?",
     "de": "Wie viel kosten vier Fahrkarten und vier Tüten?",
     "desc": "Wie viel: For uncountable nouns. (Wie viel Geld?)\nWie viele: For countable nouns. (Wie viele Bücher?)",
     "groupCode": 1
@@ -4311,6 +4311,7 @@
     "id": 10708,
     "en": "Do you have to work the entire day?",
     "de": "Musst du den ganzen Tag arbeiten?",
+    "desc": "When you talk about a duration of time in German (how long something happens), that time expression is in the accusative case",
     "groupCode": 1
   },
   {
@@ -5446,7 +5447,7 @@
   },
   {
     "id": 10895,
-    "en": "My family eats a lot of meat. I always have to go into the butcher",
+    "en": "My family eats a lot of (much) meat. I always have to go into the butcher",
     "de": "Meine Familie isst viel Fleisch. Ich muss immer in die Metzgerei gehen",
     "desc": "viel = uncountable → viel Fleisch (much meat)\n\nviele = countable plural → viele Äpfel (many apples)",
     "groupCode": 1
@@ -6494,7 +6495,7 @@
   },
   {
     "id": 11068,
-    "en": "We had a lot of help",
+    "en": "We had a lot of (much) help",
     "de": "Wir hatten viel Hilfe",
     "groupCode": 1
   },
@@ -6604,7 +6605,7 @@
   },
   {
     "id": 11086,
-    "en": "I have learnt a lot, my friend has learnt more, but my sister has learnt the most",
+    "en": "I have learnt a lot (much), my friend has learnt more, but my sister has learnt the most",
     "de": "Ich habe viel gelernt, mein Freund hat mehr gelernt, aber meine Schwester hat am meisten gelernt",
     "groupCode": 1
   },
@@ -6634,7 +6635,7 @@
   },
   {
     "id": 11091,
-    "en": "Do you spend a lot of money on (for) football tickets?",
+    "en": "Do you spend a lot (much) of money on (for) football tickets?",
     "de": "Gibst du viel Geld für Fußballkarten aus?",
     "groupCode": 1
   },
@@ -6814,7 +6815,7 @@
   },
   {
     "id": 11121,
-    "en": "The jacket has a lot of room/width",
+    "en": "The jacket has a lot (much) of room/width",
     "de": "Die Jacke hat viel Weite",
     "desc": "viel → used with uncountable nouns\n\nviele → used with countable nouns (plural)",
     "groupCode": 1
@@ -6974,7 +6975,7 @@
   },
   {
     "id": 11147,
-    "en": "I spend the evening at home. I spend a lot of money",
+    "en": "I spend the evening at home. I spend a lot (much) of money",
     "de": "Ich verbringe den Abend zu Hause. Ich gebe viel Geld aus",
     "desc": "verbringen = spend time, ausgeben = spend money",
     "groupCode": 1
@@ -11011,7 +11012,7 @@
   },
   {
     "id": 11808,
-    "en": "We had a lot to do last weekend",
+    "en": "We had a lot (much) to do last weekend",
     "de": "Wir hatten letztes Wochenende viel zu tun",
     "groupCode": 1
   },
@@ -11031,6 +11032,7 @@
     "id": 11811,
     "en": "For about five years i have been learning German",
     "de": "Seit ungefähr fünf Jahren lerne ich Deutsch",
+    "desc": "ungefähr\tabout / around\tmost common in everyday speech\netwa\tabout / roughly\tused in speech and writing, a bit more formal\ncirca (ca.)\tapproximately\tused mostly in writing, numbers, or data",
     "groupCode": 1
   },
   {
@@ -11103,7 +11105,7 @@
   },
   {
     "id": 11823,
-    "en": "I have a lot to do",
+    "en": "I have a lot (much) to do",
     "de": "Ich habe viel zu tun",
     "groupCode": 1
   },
@@ -11200,7 +11202,7 @@
   },
   {
     "id": 11839,
-    "en": "When is freedom of expression restricted in Germany?",
+    "en": "When is the freedom of expression restricted in Germany?",
     "de": "Wann ist die Meinungsfreiheit in Deutschland eingeschränkt?",
     "groupCode": 1
   },
@@ -11280,6 +11282,7 @@
     "id": 11852,
     "en": "The bank clerk (female) cannot help me at the moment",
     "de": "Die Bankkauffrau kann mir im Moment nicht helfen",
+    "desc": "Time expressions (im Moment, heute, morgen) usually go before “nicht” when negating the verb.",
     "groupCode": 1
   },
   {
@@ -11552,6 +11555,7 @@
     "id": 11897,
     "en": "Unfortunately I don't know still any people there",
     "de": "Leider kenne ich dort noch keine Leute",
+    "desc": "German word order is flexible, but there’s a general rhythm:\n\n[time/manner/place] usually comes after the verb and object —\nbut short adverbs like dort (there) often go before the object.",
     "groupCode": 1
   },
   {
@@ -11562,7 +11566,7 @@
   },
   {
     "id": 11899,
-    "en": "We laughed a lot each other",
+    "en": "We laughed a lot (much) each other",
     "de": "Wir haben viel miteinander gelacht",
     "groupCode": 1
   },
@@ -11696,7 +11700,7 @@
   {
     "id": 11920,
     "en": "Are your daughters louder than your sons?",
-    "de": "Sind deine Töchter lauter als deine sohner?",
+    "de": "Sind deine Töchter lauter als deine Söhne?",
     "groupCode": 1
   },
   {
@@ -11804,7 +11808,7 @@
   },
   {
     "id": 11938,
-    "en": "I think that that is a good idea",
+    "en": "I find that that is a good idea",
     "de": "Ich finde, dass das eine gute Idee ist",
     "groupCode": 1
   },
@@ -11822,7 +11826,7 @@
   },
   {
     "id": 11941,
-    "en": "I would like to get my hair cut",
+    "en": "I would like to get (let) my hair cut",
     "de": "Ich möchte meine Haare schneiden lassen",
     "groupCode": 1
   },
@@ -11835,18 +11839,18 @@
   {
     "id": 11943,
     "en": "Does your grandpa have birthday on March 11th?",
-    "de": "Hat Opa am elften März Geburtstag?",
+    "de": "Hat dein Opa am elften März Geburtstag?",
     "groupCode": 1
   },
   {
     "id": 11944,
-    "en": "I couldn’t bake eleven pizzas by myself",
+    "en": "I couldn't bake eleven pizzas by myself",
     "de": "Ich konnte nicht allein elf Pizzen backen",
     "groupCode": 1
   },
   {
     "id": 11945,
-    "en": "My niece had her birthday last Thursday. Why couldn’t you come to the party?",
+    "en": "My niece had her birthday last Thursday. Why couldn't you come to the party?",
     "de": "Meine Nichte hatte letzten Donnerstag Geburtstag. Warum konntest du nicht zur Party kommen?",
     "groupCode": 1
   },
@@ -11864,13 +11868,13 @@
   },
   {
     "id": 11948,
-    "en": "We had a lot of (very) visitors last weekend",
+    "en": "We had a lot (much) of visitors last weekend",
     "de": "Wir hatten letztes Wochenende viel Besuch",
     "groupCode": 1
   },
   {
     "id": 11949,
-    "en": "Why couldn’t you (plural) come yesterday?",
+    "en": "Why couldn't you (plural) come yesterday?",
     "de": "Warum konntet ihr gestern nicht kommen?",
     "groupCode": 1
   },
@@ -11878,6 +11882,66 @@
     "id": 11950,
     "en": "The dinner was lovely, where were you?",
     "de": "Das Abendessen war herrlich, wo warst du?",
+    "groupCode": 1
+  },
+  {
+    "id": 11951,
+    "en": "Who built the Berlin Wall? The DDR",
+    "de": "Wer baute die Mauer in Berlin? die DDR (Deutsche Demokratische Republik)",
+    "groupCode": 1
+  },
+  {
+    "id": 11952,
+    "en": "We were in Munich and couldn't come",
+    "de": "Wir waren in München und konnten nicht kommen",
+    "groupCode": 1
+  },
+  {
+    "id": 11953,
+    "en": "Is the party already over?",
+    "de": "Ist die Party schon vorbei?",
+    "groupCode": 1
+  },
+  {
+    "id": 11954,
+    "en": "Let me know, we still have time",
+    "de": "Sag Bescheid, wir haben noch Zeit",
+    "groupCode": 1
+  },
+  {
+    "id": 11955,
+    "en": "Hopefully, you come along next week",
+    "de": "Hoffentlich kommst du nächste Woche mit",
+    "groupCode": 1
+  },
+  {
+    "id": 11956,
+    "en": "I was lucky, the job interview was well",
+    "de": "Ich hatte Glück, das Jobinterview war gut",
+    "groupCode": 1
+  },
+  {
+    "id": 11957,
+    "en": "Hopefully you are healthy again soon",
+    "de": "Hoffentlich bist du bald wieder gesund",
+    "groupCode": 1
+  },
+  {
+    "id": 11958,
+    "en": "I was away for only one week",
+    "de": "Ich war nur eine Woche weg",
+    "groupCode": 1
+  },
+  {
+    "id": 11959,
+    "en": "It's raining; nevertheless, I go walking",
+    "de": "Es regnet, trotzdem gehe ich spazieren",
+    "groupCode": 1
+  },
+  {
+    "id": 11960,
+    "en": "No idea. I watered your plants three times a day",
+    "de": "Keine Ahnung. Ich habe deine Pflanzen dreimal pro Tag gegossen",
     "groupCode": 1
   }
 ]

@@ -5334,7 +5334,7 @@
   },
   {
     "id": 3873,
-    "fa": "من میتونم درستش کنم اگه اشکالی نداره (تو ناراحت نمیشی). چرا من بدم بیاد؟",
+    "fa": "من میتونم درستش کنم اگه اشکالی نداره (تو ناراحت نمیشی). چرا من بدم بیاد (فرضی)؟",
     "en": "I can fix it if you don't mind. Why would I mind?",
     "groupCode": 0
   },
@@ -6430,6 +6430,7 @@
     "id": 4053,
     "fa": "ما به تعویق انداختیم ملاقات کردن با آنها را",
     "en": "We postponed meeting them",
+    "desc": "Casual / standard → meeting them\n\nFormal / business → meeting with them",
     "groupCode": 0
   },
   {
@@ -9688,6 +9689,48 @@
     "id": 4589,
     "fa": "اظهار نظرش (مرد) بی ربطی بود به بحث",
     "en": "His comment was irrelevant to the discussion",
+    "groupCode": 0
+  },
+  {
+    "id": 4590,
+    "fa": "مواد شیمیایی خطرناک هستند برای سلامتی شما",
+    "en": "The chemicals are hazardous to your health",
+    "groupCode": 0
+  },
+  {
+    "id": 4591,
+    "fa": "قهوه رایگان است یکی از مزایای این شغل",
+    "en": "Free coffee is one of the perks of this job",
+    "groupCode": 0
+  },
+  {
+    "id": 4592,
+    "fa": "هر چه زودتر این جلسات تمام شود، بهتره. اگر الان تمام شود، عالی می شه",
+    "en": "The sooner this meetings ends, the better. If it ended now, that'd be great",
+    "groupCode": 0
+  },
+  {
+    "id": 4593,
+    "fa": "هر چه ارزان تر ما بتوانیم پیداش کنیم، بهتره",
+    "en": "The cheaper we can find it, the better",
+    "groupCode": 0
+  },
+  {
+    "id": 4594,
+    "fa": "هر چه بیشتر داشته باشی، بیشتر می خواهی",
+    "en": "The more your have, the more you want",
+    "groupCode": 0
+  },
+  {
+    "id": 4595,
+    "fa": "از وقتی او (زن) بهم دروغ گفت، من بهش کم فکر میکنم",
+    "en": "Ever since she lied to me, I think little of her",
+    "groupCode": 0
+  },
+  {
+    "id": 4596,
+    "fa": "تو واقعاً مرا دست کم گرفتی (فکر می کنی آنقدر کم راجع من)",
+    "en": "You really think that little of me",
     "groupCode": 0
   }
 ]
