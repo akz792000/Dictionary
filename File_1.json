@@ -9657,19 +9657,19 @@
   },
   {
     "id": 4584,
-    "fa": "من یک مسیری را ترسیم کردم برای حرفه ام در مهندسی نرم افزار",
+    "fa": "من ترسیم کردم (نگاره) یک مسیری را برای حرفه ام در مهندسی نرم افزار",
     "en": "I charted a course for my career in software engineering",
     "groupCode": 0
   },
   {
     "id": 4585,
     "fa": "آیا شنیدی در روزگار قدیم در مورد کاوشگرهایی (که) آنها فرستاند به مریخ؟",
-    "en": "Did you hear back in the day about the probes they sent to Mars?",
+    "en": "Did you hear back in the day about the probes /proʊb/ they sent to Mars?",
     "groupCode": 0
   },
   {
     "id": 4586,
-    "fa": "بر حسب اتفاق، من جا گذاشتم چترم خونه و شروع به باریدن کرد؟",
+    "fa": "بر حسب اتفاق، من جا گذاشتم چترم در خونه و شروع به باریدن کرد",
     "en": "Wouldn't you know, I left my umbrella at home and it started raining",
     "groupCode": 0
   },
@@ -9694,7 +9694,7 @@
   {
     "id": 4590,
     "fa": "مواد شیمیایی خطرناک هستند برای سلامتی شما",
-    "en": "The chemicals are hazardous to your health",
+    "en": "The chemicals are hazardous /ˈhæzərdəs/ to your health",
     "groupCode": 0
   },
   {
@@ -9705,8 +9705,8 @@
   },
   {
     "id": 4592,
-    "fa": "هر چه زودتر این جلسات تمام شود، بهتره. اگر الان تمام شود، عالی می شه",
-    "en": "The sooner this meetings ends, the better. If it ended now, that'd be great",
+    "fa": "هر چه زودتر این جلسه تمام شود، بهتره. اگر الان تمام شود، عالی خواهد (فرضی) بود",
+    "en": "The sooner this meeting ends, the better. If it ended now, that'd be great",
     "groupCode": 0
   },
   {
@@ -9731,6 +9731,30 @@
     "id": 4596,
     "fa": "تو واقعاً مرا دست کم گرفتی (فکر می کنی آنقدر کم راجع من)",
     "en": "You really think that little of me",
+    "groupCode": 0
+  },
+  {
+    "id": 4597,
+    "fa": "هر چند وقت ما باید عوضش کنیم؟",
+    "en": "How often should we change it?",
+    "groupCode": 0
+  },
+  {
+    "id": 4598,
+    "fa": "من هفته گذشته در معرض آنفولانزا قرار گرفتم، بنابراین من دارم مونیتور میشم برای علائم",
+    "en": "I got exposed to the flu last week, so I'm monitoring for symptoms",
+    "groupCode": 0
+  },
+  {
+    "id": 4599,
+    "fa": "من رسوا شدم وقتیکه دوستم فاش کرد رازم را در مقابل هر کسی",
+    "en": "I got exposed when my friend revealed my secret in front of everyone",
+    "groupCode": 0
+  },
+  {
+    "id": 4600,
+    "fa": "من نیاز دارم بیمه بگیرم برای ماشین جدیدم",
+    "en": "I need to take out insurance for my new car",
     "groupCode": 0
   }
 ]

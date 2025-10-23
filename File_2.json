@@ -873,7 +873,7 @@
   },
   {
     "id": 10143,
-    "en": "How much time is your family coming today?",
+    "en": "What time is your family coming today?",
     "de": "Wie viel Uhr kommt heute deine Familie?",
     "groupCode": 1
   },
@@ -886,7 +886,7 @@
   },
   {
     "id": 10145,
-    "en": "At what (how) time is your (formal) appointment? My appointment is at four o'clock",
+    "en": "What time is your (formal) appointment? My appointment is at four o'clock",
     "de": "Um wie viel Uhr ist Ihr termin? Mein Termin is um sechzehn Uhr",
     "groupCode": 1
   },
@@ -6872,7 +6872,7 @@
   {
     "id": 11130,
     "en": "I really wanted this cake. It was something entire special",
-    "de": "\n 1.Ich wollte diesen Kuchen wirklich. Er war etwas ganz Besondere \n 2.Ich habe diesen Kuchen wirklich gewollt. Er war etwas ganz Besonderes",
+    "de": "Ich habe diesen Kuchen wirklich gewollt. Er war etwas ganz Besonderes",
     "groupCode": 1
   },
   {
@@ -10800,7 +10800,7 @@
   },
   {
     "id": 11773,
-    "en": "I'm always hungry after work",
+    "en": "I'm always hungry after the work",
     "de": "Ich habe immer nach der Arbeit Hunger",
     "groupCode": 1
   },
@@ -11711,7 +11711,7 @@
   },
   {
     "id": 11922,
-    "en": "Can you please just trim the ends?",
+    "en": "Can you (formal) please just trim the ends?",
     "de": "Können Sie bitte nur die Spitzen schneiden?",
     "groupCode": 1
   },
@@ -11747,8 +11747,9 @@
   },
   {
     "id": 11928,
-    "en": "Were you with (by) your son or with (by) your daughter yesterday?",
+    "en": "Were you with (at their place) your son or with (at their place) your daughter yesterday?",
     "de": "Warst du gestern bei deinem Sohn oder bei deiner Tochter?",
+    "desc": "„bei“ means “at” or “with (someone, at their place)” → location or presence.\n→ Warst du bei deinem Sohn? = “Were you at your son’s place?”\n\n„mit“ means “with (together with someone)” → doing something together.\n→ Warst du mit deinem Sohn? = “Were you together with your son?”\n\nSo:\n\n✅ Warst du bei deinem Sohn? → about where you were\n\n✅ Warst du mit deinem Sohn? → about who you were with",
     "groupCode": 1
   },
   {
@@ -11798,6 +11799,7 @@
     "id": 11936,
     "en": "Why do you (plural) live in Hamburg now? Because my husband found a new job there",
     "de": "Warum wohnt ihr jetzt in Hamburg? Weil mein Mann einen neuen Job dort gefunden hat",
+    "desc": "„ihr“ = you (plural, informal) → talking to friends or family\n→ Warum wohnt ihr jetzt in Hamburg? = “Why do you (guys) live in Hamburg now?”\n\n„Sie“ = you (formal, singular or plural) → polite/formal form\n→ Warum wohnen Sie jetzt in Hamburg? = “Why do you live in Hamburg now?”",
     "groupCode": 1
   },
   {
@@ -11850,7 +11852,7 @@
   },
   {
     "id": 11945,
-    "en": "My niece had her birthday last Thursday. Why couldn't you come to the party?",
+    "en": "My niece had birthday last Thursday. Why couldn't you come to the party?",
     "de": "Meine Nichte hatte letzten Donnerstag Geburtstag. Warum konntest du nicht zur Party kommen?",
     "groupCode": 1
   },
@@ -11868,7 +11870,7 @@
   },
   {
     "id": 11948,
-    "en": "We had a lot (much) of visitors last weekend",
+    "en": "We had a lot (much) of visit last weekend",
     "de": "Wir hatten letztes Wochenende viel Besuch",
     "groupCode": 1
   },
@@ -11916,7 +11918,7 @@
   },
   {
     "id": 11956,
-    "en": "I was lucky, the job interview was well",
+    "en": "I was lucky (I had luck), the job interview was well",
     "de": "Ich hatte Glück, das Jobinterview war gut",
     "groupCode": 1
   },
@@ -11940,7 +11942,7 @@
   },
   {
     "id": 11960,
-    "en": "No idea. I watered your plants three times a day",
+    "en": "No idea. I watered your plants three times per day",
     "de": "Keine Ahnung. Ich habe deine Pflanzen dreimal pro Tag gegossen",
     "groupCode": 1
   }
