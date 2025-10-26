@@ -11846,7 +11846,7 @@
   },
   {
     "id": 11944,
-    "en": "I couldn't bake eleven pizzas by myself",
+    "en": "I couldn't bake eleven pizzas alone",
     "de": "Ich konnte nicht allein elf Pizzen backen",
     "groupCode": 1
   },
@@ -11944,6 +11944,36 @@
     "id": 11960,
     "en": "No idea. I watered your plants three times per day",
     "de": "Keine Ahnung. Ich habe deine Pflanzen dreimal pro Tag gegossen",
+    "groupCode": 1
+  },
+  {
+    "id": 11961,
+    "en": "No brand (mark) available",
+    "de": "Keine Marke verfügbar",
+    "groupCode": 1
+  },
+  {
+    "id": 11962,
+    "en": "Add further brand",
+    "de": "Weitere Marke hinzufügen",
+    "groupCode": 1
+  },
+  {
+    "id": 11963,
+    "en": "\n 1.Edit \n 2.Share \n 3.Archived \n 4.Delete",
+    "de": "\n 1.Bearbeiten \n 2.Teilen \n 3.Archiviert \n 4.Löschen",
+    "groupCode": 1
+  },
+  {
+    "id": 11964,
+    "en": "Please insert card",
+    "de": "Bitte Karte einstecken",
+    "groupCode": 1
+  },
+  {
+    "id": 11965,
+    "en": "My roommate is going out, but we have to move today",
+    "de": "Mein Mitbewohner geht aus, aber wir müssen heute umziehen",
     "groupCode": 1
   }
 ]

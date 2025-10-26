@@ -4837,7 +4837,7 @@
   },
   {
     "id": 3791,
-    "fa": "شما نیاز داری درب را بچرخانی تا باز کنی شیشه (مربا)",
+    "fa": "شما نیاز داری درپوش را بچرخانی تا باز کنی شیشه (مربا)",
     "en": "You need to twist off the lid to open the jar",
     "groupCode": 0
   },
@@ -5827,7 +5827,7 @@
   },
   {
     "id": 3954,
-    "fa": "استفاده کن از انگشتت تا باز کنی (پشتک) درب بطری سس را",
+    "fa": "استفاده کن از انگشتت تا باز کنی (پشتک) درپوش بطری سس را",
     "en": "Use your finger to flip up the lid of the sauce bottle",
     "groupCode": 0
   },
@@ -9705,7 +9705,7 @@
   },
   {
     "id": 4592,
-    "fa": "هر چه زودتر این جلسه تمام شود، بهتره. اگر الان تمام شود، عالی خواهد (فرضی) بود",
+    "fa": "هر چه زودتر این جلسه تمام شود، بهتره. اگر الان تمام شود، آن عالی خواهد (فرضی) بود",
     "en": "The sooner this meeting ends, the better. If it ended now, that'd be great",
     "groupCode": 0
   },
@@ -9755,6 +9755,96 @@
     "id": 4600,
     "fa": "من نیاز دارم بیمه بگیرم برای ماشین جدیدم",
     "en": "I need to take out insurance for my new car",
+    "groupCode": 0
+  },
+  {
+    "id": 4601,
+    "fa": "یک لبه است یک خط مرزی یا حد، در حالی که یک لبه است یک قفسه بیرون زده",
+    "en": "An edge is a boundary line or limit, while a ledge is a protruding shelf",
+    "groupCode": 0
+  },
+  {
+    "id": 4602,
+    "fa": "او (مرد) ممکن است عقب بیفتد به خاطر آن انتخاب مدرسه",
+    "en": "He might fall behind because of that school choice",
+    "groupCode": 0
+  },
+  {
+    "id": 4603,
+    "fa": "او (مرد) مشکل (کشمکش) خواهد داشت از نظر تحصیلی زیرا او فرستاده شده است به مدرسه اشتباهی",
+    "en": "He'll struggle academically because he was sent to the wrong school",
+    "groupCode": 0
+  },
+  {
+    "id": 4604,
+    "fa": "من مجبور شدم جدا کنم درپوش با یک پیچ گوشتی",
+    "en": "I had to pry away the lid with a screwdriver",
+    "groupCode": 0
+  },
+  {
+    "id": 4605,
+    "fa": "سخت بود جدا کردنش (زن) از کارش",
+    "en": "It was hard to pry her away from her work",
+    "groupCode": 0
+  },
+  {
+    "id": 4606,
+    "fa": "تصور کن قادر باشی (الان) بسازی یک اپلیکیشن با نام خودت روش فقط با فکر کردن بهش",
+    "en": "Imagine being able to create an app with your name on it just by thinking about it",
+    "groupCode": 0
+  },
+  {
+    "id": 4607,
+    "fa": "هوش مصنوعی نیست به طور درستی عینی (بی طرف) , حتی اگر ممکنه به نظر برسد",
+    "en": "AI is not truly objective, even though it might appear to be",
+    "groupCode": 0
+  },
+  {
+    "id": 4608,
+    "fa": "وجود دارد حتی بازتاب ها بیشتر",
+    "en": "There are even more repercussions",
+    "groupCode": 0
+  },
+  {
+    "id": 4609,
+    "fa": "Deepfakes اغلب از واقعیت قابل تشخیص نیستند",
+    "en": "Deepfakes are often indistinguishable from reality",
+    "groupCode": 0
+  },
+  {
+    "id": 4610,
+    "fa": "تعصبات اجتماعی را می توان همچنین یافت در سیستم های هوش مصنوعی",
+    "en": "Social prejudices can also be found in AI systems",
+    "groupCode": 0
+  },
+  {
+    "id": 4611,
+    "fa": "همه چیز است در مورد پیامدهای قانونی",
+    "en": "It's all about legal consequences",
+    "groupCode": 0
+  },
+  {
+    "id": 4612,
+    "fa": "چه اقدامات امنیتی شما فکر می کنی شما باید برداری اگر شما می خواهی کار کنی با هوش مصنوعی؟",
+    "en": "What safety measures do you think you should take if you want to work with AI?",
+    "groupCode": 0
+  },
+  {
+    "id": 4613,
+    "fa": "پردازش داده با هوش مصنوعی است بیش از حد مبهم /oʊˈpeɪk/ و غیرقابل درک",
+    "en": "Data processing with AI is too opaque and incomprehensible",
+    "groupCode": 0
+  },
+  {
+    "id": 4614,
+    "fa": "خوشبختانه، فیلم برداری شده است؛ در غیر این صورت، هیچ کس آن را باور نکرده بود",
+    "en": "Luckily, it's filmed; otherwise, no one would have believed it",
+    "groupCode": 0
+  },
+  {
+    "id": 4615,
+    "fa": "کلاغ چه چیزی را برداشت؟",
+    "en": "What did the crow take?",
     "groupCode": 0
   }
 ]
