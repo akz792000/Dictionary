@@ -10093,6 +10093,7 @@
     "id": 11657,
     "en": "I send the invitation by post",
     "de": "Ich schicke die Einladung per Post",
+    "desc": "per Post = “by mail / via mail” → the standard and correct German expression.\n\npro Post is incorrect in this context. (pro usually means “per” in the sense of “each” or “for each”, e.g., pro Tag = “per day”, pro Person = “per person”).",
     "groupCode": 1
   },
   {
@@ -11974,6 +11975,96 @@
     "id": 11965,
     "en": "My roommate is going out, but we have to move today",
     "de": "Mein Mitbewohner geht aus, aber wir müssen heute umziehen",
+    "groupCode": 1
+  },
+  {
+    "id": 11966,
+    "en": "I work here as a software developer, more precisely said as a backend developer",
+    "de": "Ich arbeite hier als Softwareentwickler, genauer gesagt als Backend-Entwickler",
+    "groupCode": 1
+  },
+  {
+    "id": 11967,
+    "en": "I said three times a week",
+    "de": "Ich habe gesagt, dreimal pro Woche",
+    "groupCode": 1
+  },
+  {
+    "id": 11968,
+    "en": "How was the concert yesterday?",
+    "de": "Wie war das konzert gestern?",
+    "groupCode": 1
+  },
+  {
+    "id": 11969,
+    "en": "You don't have time tomorrow. You didn't have time yesterday also",
+    "de": "Du hast morgen keine Zeit. Du hattest auch gestern keine Zeit",
+    "groupCode": 1
+  },
+  {
+    "id": 11970,
+    "en": "I was with my brother at the weekend",
+    "de": "Ich war am Wochenende bei meinem Bruder",
+    "groupCode": 1
+  },
+  {
+    "id": 11971,
+    "en": "I couldn't find your invitation yesterday, but I can find it today",
+    "de": "Ich konnte gestern deine Einladung nicht finden, aber ich kann sie heute finden",
+    "groupCode": 1
+  },
+  {
+    "id": 11972,
+    "en": "Why couldn't you come? Did you have a cold?",
+    "de": "Warum konntest du nicht kommen? Hattest du eine Erkältung?",
+    "groupCode": 1
+  },
+  {
+    "id": 11973,
+    "en": "We couldn't find our invitation",
+    "de": "Wir konnten unsere Einladung nicht finden",
+    "groupCode": 1
+  },
+  {
+    "id": 11974,
+    "en": "You can take the bus to the party, or we can pick you up. It's really no problem. Just let me know",
+    "de": "Du kannst den Bus zur Party nehmen oder wir Können dich abholen. Das ist wirklich kein Problem. sag Bescheid",
+    "groupCode": 1
+  },
+  {
+    "id": 11975,
+    "en": "Do you have an excuse now?",
+    "de": "Hast du jetzt eine ausrede?",
+    "groupCode": 1
+  },
+  {
+    "id": 11976,
+    "en": "We were by my parents last weekend",
+    "de": "Wir waren letztes Wochenende bei meinen Eltern",
+    "groupCode": 1
+  },
+  {
+    "id": 11977,
+    "en": "Do you have a lot of things?",
+    "de": "Hast du viele Sachen?",
+    "groupCode": 1
+  },
+  {
+    "id": 11978,
+    "en": "I want to move next year",
+    "de": "Ich will nächstes Jahr umziehen",
+    "groupCode": 1
+  },
+  {
+    "id": 11979,
+    "en": "I want to move to Berlin because here I always have to wait too long",
+    "de": "Ich will nach Berlin umziehen, denn hier muss ich immer zu lang warten",
+    "groupCode": 1
+  },
+  {
+    "id": 11980,
+    "en": "My roommate and I are finally moving",
+    "de": "Mein Mitbewohner und ich ziehen endlich um",
     "groupCode": 1
   }
 ]
