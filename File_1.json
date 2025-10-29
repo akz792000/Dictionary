@@ -6428,7 +6428,7 @@
   },
   {
     "id": 4053,
-    "fa": "ما به تعویق انداختیم ملاقات کردن با آنها را",
+    "fa": "ما به تعویق انداختیم ملاقات کردن آنها را",
     "en": "We postponed meeting them",
     "desc": "Casual / standard → meeting them\n\nFormal / business → meeting with them",
     "groupCode": 0
@@ -9838,13 +9838,49 @@
   {
     "id": 4614,
     "fa": "خوشبختانه، فیلم برداری شده است؛ در غیر این صورت، هیچ کس آن را باور نکرده بود",
-    "en": "Luckily, it's filmed; otherwise, no one would have believed it",
+    "en": "Luckily, it was filmed; otherwise, no one would have believed it",
     "groupCode": 0
   },
   {
     "id": 4615,
     "fa": "کلاغ چه چیزی را برداشت؟",
     "en": "What did the crow take?",
+    "groupCode": 0
+  },
+  {
+    "id": 4616,
+    "fa": "چند ماه زودتر من باید شروع کنم؟",
+    "en": "How many months earlier should I start?",
+    "groupCode": 0
+  },
+  {
+    "id": 4617,
+    "fa": "کار عالیه! عاشق (این) هستم چگونه تو ترکیب کردی مهارت هایت رو تا خلق کنی یک چنین راه حل نوآورانه ای. چیزهای الهام بخش – ادامه بده!",
+    "en": "Awesome work! Love how you combined your skills to create such an innovative solution. Inspiring stuff – keep it up!",
+    "groupCode": 0
+  },
+  {
+    "id": 4618,
+    "fa": "ما نیاز داریم کار کنیم (پیدا کردن راه حل) رو این مشکل",
+    "en": "We need to work around this problem",
+    "groupCode": 0
+  },
+  {
+    "id": 4619,
+    "fa": "من منتظرتم تو بری بیرون",
+    "en": "I am waiting for you to go out",
+    "groupCode": 0
+  },
+  {
+    "id": 4620,
+    "fa": "من سعی می کنم دفع کنم ترس های پسرم را",
+    "en": "I try to dispel my son's fears",
+    "groupCode": 0
+  },
+  {
+    "id": 4621,
+    "fa": "اعداد اعشاری می توانند کسر داشته باشند، اما اعداد صحیح هستند اعداد کامل",
+    "en": "Decimal numbers can have fractions, but integers are whole numbers",
     "groupCode": 0
   }
 ]

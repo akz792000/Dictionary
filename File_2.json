@@ -2367,7 +2367,7 @@
   {
     "id": 10387,
     "en": "I sleep a lot because I am tired",
-    "de": "Ich schlafe viel, denn ich bin müde",
+    "de": "Ich schlafe viel, weil ich müde bin",
     "groupCode": 1
   },
   {
@@ -3523,7 +3523,7 @@
   {
     "id": 10578,
     "en": "We can eat nothing because our fridge is empty",
-    "de": "Wir können nichts essen, denn unser Kühlschrank ist leer",
+    "de": "Wir können nichts essen, weil unser Kühlschrank leer ist",
     "groupCode": 1
   },
   {
@@ -3748,7 +3748,7 @@
   {
     "id": 10615,
     "en": "Eddy is unfortunately not coming to the barbecue party because his foot is broken. He is very sad",
-    "de": "Eddy kommt leider nicht zur Grillparty, denn sein Fuß ist gebrochen. Er ist sehr traurig",
+    "de": "Eddy kommt leider nicht zur Grillparty, weil sein Fuß gebrochen ist. Er ist sehr traurig",
     "groupCode": 1
   },
   {
@@ -3850,7 +3850,7 @@
   {
     "id": 10632,
     "en": "My sister is excited because I have holiday (school holidays)",
-    "de": "Meine Schwester ist aufgeregt, denn ich habe ferien",
+    "de": "Meine Schwester ist aufgeregt, weil ich Ferien habe",
     "groupCode": 1
   },
   {
@@ -4317,7 +4317,7 @@
   {
     "id": 10709,
     "en": "I sleep well because I do yoga every day",
-    "de": "Ich schlafe gut, denn ich mache jeden Tag Yoga",
+    "de": "Ich schlafe gut, weil ich jeden Tag Yoga mache",
     "groupCode": 1
   },
   {
@@ -4632,7 +4632,7 @@
   {
     "id": 10761,
     "en": "I need a visa, because I am studying abroad",
-    "de": "Ich brauche ein Visum, denn ich studiere im Ausland",
+    "de": "Ich brauche ein Visum, weil ich im Ausland studiere",
     "groupCode": 1
   },
   {
@@ -4950,7 +4950,7 @@
   {
     "id": 10813,
     "en": "Lisa has a school bag for the lesson. The bag is big, because Lisa needs a lot of stuff in the school",
-    "de": "Lisa hat eine Schultasche für den Unterricht. Die Tasche ist groß, denn Lisa braucht in der Schule viele Sachen",
+    "de": "Lisa hat eine Schultasche für den Unterricht. Die Tasche ist groß, weil Lisa in der Schule viele Sachen braucht",
     "groupCode": 1
   },
   {
@@ -5644,7 +5644,7 @@
   {
     "id": 10927,
     "en": "Yes, I would like the receipt. I know the boy because he is my brother",
-    "de": "Ja, ich möchte den kassenzettel. Ich kenne den jungen, denn er ist mein Bruder",
+    "de": "Ja, ich möchte den Kassenzettel. Ich kenne den Jungen, weil er mein Bruder ist",
     "groupCode": 1
   },
   {
@@ -5959,7 +5959,7 @@
   {
     "id": 10979,
     "en": "I'm sorry, I'm nervous because I don't understand the question",
-    "de": "Es tut mir leid, ich bin nervös, denn ich verstehe die Frage nicht",
+    "de": "Es tut mir leid, ich bin nervös, weil ich die Frage nicht verstehe",
     "groupCode": 1
   },
   {
@@ -6014,7 +6014,7 @@
   {
     "id": 10988,
     "en": "I go hiking in the Black Forest with my brother this summer. I'm pleased because we're also camping there",
-    "de": "Ich gehe diesen Sommer mit meinem Bruder im Schwarzwald wandern. Ich frue mich, denn wir campen dort auch",
+    "de": "Ich gehe diesen Sommer mit meinem Bruder im Schwarzwald wandern. Ich freue mich, weil wir dort auch campen",
     "groupCode": 1
   },
   {
@@ -6213,7 +6213,7 @@
   {
     "id": 11021,
     "en": "You are not always lazy, because you cook for me",
-    "de": "Du bist nicht immer faul, denn du kochst für mich",
+    "de": "Du bist nicht immer faul, weil du für mich kochst",
     "groupCode": 1
   },
   {
@@ -6339,7 +6339,7 @@
   {
     "id": 11042,
     "en": "I did not learn on the weekend because I was very busy",
-    "de": "Ich habe am Wochenende nicht gelernt, denn ich war sehr beschäftigt",
+    "de": "Ich habe am Wochenende nicht gelernt, weil ich sehr beschäftigt war",
     "groupCode": 1
   },
   {
@@ -9175,7 +9175,7 @@
   {
     "id": 11507,
     "en": "Julia knows her neighbors because they are her siblings",
-    "de": "Julia kennt ihre Nachbarn denn sie sind ihre Geschwister",
+    "de": "Julia kennt ihre Nachbarn, weil sie ihre Geschwister sind",
     "groupCode": 1
   },
   {
@@ -11707,7 +11707,7 @@
   {
     "id": 11921,
     "en": "I stay at home because watching TV is fun",
-    "de": "Ich bleibe zu Hause, denn Fernsehen macht Spaß",
+    "de": "Ich bleibe zu Hause, weil Fernsehen Spaß macht",
     "groupCode": 1
   },
   {
@@ -11985,7 +11985,7 @@
   },
   {
     "id": 11967,
-    "en": "I said three times a week",
+    "en": "I said three times per week",
     "de": "Ich habe gesagt, dreimal pro Woche",
     "groupCode": 1
   },
@@ -12027,7 +12027,7 @@
   },
   {
     "id": 11974,
-    "en": "You can take the bus to the party, or we can pick you up. It's really no problem. Just let me know",
+    "en": "You can take the bus to the party, or we can pick you up. It's really no problem. Let me know",
     "de": "Du kannst den Bus zur Party nehmen oder wir Können dich abholen. Das ist wirklich kein Problem. sag Bescheid",
     "groupCode": 1
   },
@@ -12058,13 +12058,104 @@
   {
     "id": 11979,
     "en": "I want to move to Berlin because here I always have to wait too long",
-    "de": "Ich will nach Berlin umziehen, denn hier muss ich immer zu lang warten",
+    "de": "Ich will nach Berlin umziehen, weil ich hier immer zu lange warten muss",
     "groupCode": 1
   },
   {
     "id": 11980,
     "en": "My roommate and I are finally moving",
     "de": "Mein Mitbewohner und ich ziehen endlich um",
+    "groupCode": 1
+  },
+  {
+    "id": 11981,
+    "en": "but, and, or, because, rather → Maintain normal word order",
+    "de": "aber, und, oder, denn, sondern → Normale Wortreihenfolge beibehalten",
+    "groupCode": 1
+  },
+  {
+    "id": 11982,
+    "en": "because, that, although, if, before, after, etc → send the verb to the end",
+    "de": "weil, dass, obwohl, wenn, bevor, nachdem, etc → Sende das Verb ans Ende",
+    "groupCode": 1
+  },
+  {
+    "id": 11983,
+    "en": "I make sweets myself and eat them afterwards",
+    "de": "Ich koche selbst Süßigkeiten und esse sie danach",
+    "groupCode": 1
+  },
+  {
+    "id": 11984,
+    "en": "My favorite snack place is delicious, but sometimes the drink is too bitter",
+    "de": "Mein Lieblingsimbiss ist lecker, aber manchmal ist das Getränk zu bitter",
+    "groupCode": 1
+  },
+  {
+    "id": 11985,
+    "en": "The general opinion is that exercise is healthy",
+    "de": "Die allgemeine Meinung ist, dass Sport gesund ist",
+    "groupCode": 1
+  },
+  {
+    "id": 11986,
+    "en": "What can you (one) eat there?",
+    "de": "Was kann man dort essen?",
+    "groupCode": 1
+  },
+  {
+    "id": 11987,
+    "en": "Why do you like going there?",
+    "de": "\n 1.Warum gehst du gerne dorthin? \n 2.Warum gehst du gern dorthin?",
+    "desc": "“gern” = more common in spoken German, short and casual.\n\nExample:\n\nIch esse gern Pizza.\n(I like eating pizza.)\n\n“gerne” = slightly more formal or emphatic, often used in writing or polite speech.\n\nExample:\n\nIch helfe dir gerne.\n(I’m happy to help you.)",
+    "groupCode": 1
+  },
+  {
+    "id": 11988,
+    "en": "I know the man",
+    "de": "Ich kenne den Mann",
+    "groupCode": 1
+  },
+  {
+    "id": 11989,
+    "en": "The cheapest food in Germany is macaroni",
+    "de": "Das billigste Essen in Deutschland sind Makkaroni",
+    "groupCode": 1
+  },
+  {
+    "id": 11990,
+    "en": "I rarely eat fast food",
+    "de": "Ich esse selten Fast Food",
+    "groupCode": 1
+  },
+  {
+    "id": 11991,
+    "en": "I would eat everything if I were hungry",
+    "de": "Ich würde alles essen, wenn ich hungrig wäre",
+    "groupCode": 1
+  },
+  {
+    "id": 11992,
+    "en": "would have eaten everything if I had been hungry",
+    "de": "Ich hätte alles gegessen, wenn ich hungrig gewesen wäre",
+    "groupCode": 1
+  },
+  {
+    "id": 11993,
+    "en": "It has no taste",
+    "de": "Es hat keinen Geschmack",
+    "groupCode": 1
+  },
+  {
+    "id": 11994,
+    "en": "We do not have anything",
+    "de": "Wir haben nichts",
+    "groupCode": 1
+  },
+  {
+    "id": 11995,
+    "en": "I can’t climb the ladder anymore. Please call me!",
+    "de": "Ich kann nicht mehr auf die Leiter steigen. Rufen Sie mich bitte!",
     "groupCode": 1
   }
 ]
