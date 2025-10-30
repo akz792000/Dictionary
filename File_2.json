@@ -12250,5 +12250,41 @@
     "en": "He goes into the kitchen and opens the refrigerator",
     "de": "Er geht in die Küche und öffnet den Kühlschrank",
     "groupCode": 1
+  },
+  {
+    "id": 12011,
+    "en": "He's lying on the sofa and watching (looking) a movie and eating fries",
+    "de": "Er liegt auf dem Sofa und schaut einen Film und isst Pommes",
+    "groupCode": 1
+  },
+  {
+    "id": 12012,
+    "en": "Suddenly his mobile phone rings",
+    "de": "Plötzlich klingelt sein Handy",
+    "groupCode": 1
+  },
+  {
+    "id": 12013,
+    "en": "A woman calls, and he laughs",
+    "de": "Eine Frau ruft an und er lacht",
+    "groupCode": 1
+  },
+  {
+    "id": 12014,
+    "en": "I am curious",
+    "de": "Ich bin neugierig",
+    "groupCode": 1
+  },
+  {
+    "id": 12015,
+    "en": "I believe, I forgot a number",
+    "de": "Ich glaube, ich habe eine Zahl vergessen",
+    "groupCode": 1
+  },
+  {
+    "id": 12016,
+    "en": "Both laugh",
+    "de": "Beide lachen",
+    "groupCode": 1
   }
 ]
