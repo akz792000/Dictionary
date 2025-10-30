@@ -5742,6 +5742,7 @@
     "id": 10943,
     "en": "We are 14 people and together we are 420 years old",
     "de": "Wir sind 14 Leute und zusammen sind wir 420 Jahre alt",
+    "desc": "„Leute“ (people) is a plural noun that does not take a dative ending.",
     "groupCode": 1
   },
   {
@@ -7629,7 +7630,7 @@
   },
   {
     "id": 11255,
-    "en": "That is in the city center",
+    "en": "That is in the middle of the city",
     "de": "Das ist in der Stadtmitte",
     "desc": "Stadtmitte = middle of the city (often geographic)\n\nStadtzentrum = city center (main area with shops, offices)",
     "groupCode": 1
@@ -10601,6 +10602,7 @@
     "id": 11740,
     "en": "The team consists of five people",
     "de": "Das Team besteht aus fünf Leuten",
+    "desc": "The preposition „aus“ always takes the dative case.\n\nThe dative plural of „Leute“ is „Leuten“.",
     "groupCode": 1
   },
   {
@@ -10635,7 +10637,7 @@
   },
   {
     "id": 11746,
-    "en": "You are twice as old as me, but (you) still behave like a child",
+    "en": "You are twice as old as me, but (you) still always behave like a child",
     "de": "Du bist doppelt so alt wie ich, aber (du) benimmst dich immer noch wie ein Kind",
     "desc": "so … wie → comparison structure = as … as",
     "groupCode": 1
@@ -11459,6 +11461,7 @@
     "id": 11881,
     "en": "Although the weather was bad, we went for a walk in the park last night",
     "de": "Obwohl das wetter schlecht war, sind wir gestern Abend im Park spazieren gegangen",
+    "desc": "In a subordinate clause with „obwohl“ (although):\n\nThe verb goes to the end → „obwohl das Wetter schlecht war“\n\nIn the main clause, the verb comes right after the comma → „sind wir … gegangen“",
     "groupCode": 1
   },
   {
@@ -11712,7 +11715,7 @@
   },
   {
     "id": 11922,
-    "en": "Can you (formal) please just trim the ends?",
+    "en": "Can you (formal) please just trim the ends (cut the peaks)?",
     "de": "Können Sie bitte nur die Spitzen schneiden?",
     "groupCode": 1
   },
@@ -12081,7 +12084,7 @@
   },
   {
     "id": 11983,
-    "en": "I make sweets myself and eat them afterwards",
+    "en": "I cook sweets myself and eat them afterwards",
     "de": "Ich koche selbst Süßigkeiten und esse sie danach",
     "groupCode": 1
   },
@@ -12119,7 +12122,7 @@
   {
     "id": 11989,
     "en": "The cheapest food in Germany is macaroni",
-    "de": "Das billigste Essen in Deutschland sind Makkaroni",
+    "de": "Das billigste Essen in Deutschland ist Makkaroni",
     "groupCode": 1
   },
   {
@@ -12136,7 +12139,7 @@
   },
   {
     "id": 11992,
-    "en": "would have eaten everything if I had been hungry",
+    "en": "I would have eaten everything if I had been hungry",
     "de": "Ich hätte alles gegessen, wenn ich hungrig gewesen wäre",
     "groupCode": 1
   },
@@ -12154,8 +12157,98 @@
   },
   {
     "id": 11995,
-    "en": "I can’t climb the ladder anymore. Please call me!",
+    "en": "I can't climb the ladder anymore. Please (formal) call me!",
     "de": "Ich kann nicht mehr auf die Leiter steigen. Rufen Sie mich bitte!",
+    "groupCode": 1
+  },
+  {
+    "id": 11996,
+    "en": "I call. I called. I have called.",
+    "de": "Ich rufe an. Ich rief an. Ich habe angerufen",
+    "groupCode": 1
+  },
+  {
+    "id": 11997,
+    "en": "The stone is heavy",
+    "de": "Der Stein ist schwer",
+    "groupCode": 1
+  },
+  {
+    "id": 11998,
+    "en": "The paper is white",
+    "de": "Das Papier ist weiß",
+    "groupCode": 1
+  },
+  {
+    "id": 11999,
+    "en": "The scissors are sharp",
+    "de": "Die Schere ist scharf",
+    "groupCode": 1
+  },
+  {
+    "id": 12000,
+    "en": "When does your daughter move to Austria?",
+    "de": "Wann zieht deine Tochter nach Österreich um",
+    "groupCode": 1
+  },
+  {
+    "id": 12001,
+    "en": "I probably give you my car",
+    "de": "Ich gebe dir wahrscheinlich mein Auto",
+    "groupCode": 1
+  },
+  {
+    "id": 12002,
+    "en": "Help your brother",
+    "de": "Hilf deinem Bruder",
+    "groupCode": 1
+  },
+  {
+    "id": 12003,
+    "en": "I can't go out now",
+    "de": "Ich kann jetzt nicht ausgehen",
+    "groupCode": 1
+  },
+  {
+    "id": 12004,
+    "en": "My brother is moving tomorrow and I'm helping him. I can't go in the club tonight",
+    "de": "Mein Bruder zieht morgen um und ich helfe ihm. Ich kann heute Abend nicht in den Club gehen",
+    "groupCode": 1
+  },
+  {
+    "id": 12005,
+    "en": "Your sister is moving, you have to help her",
+    "de": "Deine Schwester zieht um, du musst ihr helfen",
+    "groupCode": 1
+  },
+  {
+    "id": 12006,
+    "en": "My roommate is going out, but we have to move today",
+    "de": "Mein Mitbewohner geht aus, aber wir müssen heute umziehen",
+    "groupCode": 1
+  },
+  {
+    "id": 12007,
+    "en": "Does your arm or foot hurt?",
+    "de": "Tut dir der Arm oder der Fuß weh?",
+    "groupCode": 1
+  },
+  {
+    "id": 12008,
+    "en": "My back has been hurting since Tuesday",
+    "de": "Mir tut der Rücken seit Dienstag weh",
+    "groupCode": 1
+  },
+  {
+    "id": 12009,
+    "en": "Was the move exhausting?",
+    "de": "War der Umzug anstrengend?",
+    "groupCode": 1
+  },
+  {
+    "id": 12010,
+    "en": "He goes into the kitchen and opens the refrigerator",
+    "de": "Er geht in die Küche und öffnet den Kühlschrank",
     "groupCode": 1
   }
 ]

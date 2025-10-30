@@ -9882,5 +9882,11 @@
     "fa": "اعداد اعشاری می توانند کسر داشته باشند، اما اعداد صحیح هستند اعداد کامل",
     "en": "Decimal numbers can have fractions, but integers are whole numbers",
     "groupCode": 0
+  },
+  {
+    "id": 4622,
+    "fa": "توسعه دهنده فول استک، یک توسعه دهنده ای است که نه در فرانت اند خوب است و نه در بک اند",
+    "en": "Full stack developer is a developer who is neither good at frontend nor backend",
+    "groupCode": 0
   }
 ]
