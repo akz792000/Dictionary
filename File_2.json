@@ -10454,7 +10454,7 @@
   },
   {
     "id": 11716,
-    "en": "I pick. I picked. I have picked",
+    "en": "I pick (something growing, usually by hand). I picked. I have picked",
     "de": "Ich pflücke. Ich pflückte. Ich habe gepflückt",
     "groupCode": 1
   },
@@ -10668,7 +10668,7 @@
   },
   {
     "id": 11751,
-    "en": "The female doctor examines Junior's ear",
+    "en": "The female doctor investigates Junior's ear",
     "de": "Die Ärztin untersucht Juniors Ohr",
     "groupCode": 1
   },
@@ -11770,7 +11770,7 @@
   },
   {
     "id": 11931,
-    "en": "Ali often looks (at) photos of his family because he misses them a lot (very)",
+    "en": "Ali often watches (at) photos of his family because he misses them a lot (very)",
     "de": "Ali sieht sich oft Fotos von seiner Familie an, weil er sie sehr vermisst",
     "groupCode": 1
   },
@@ -11892,7 +11892,7 @@
   },
   {
     "id": 11951,
-    "en": "Who built the Berlin Wall? The DDR",
+    "en": "Who built the Wall in Berlin? The DDR",
     "de": "Wer baute die Mauer in Berlin? die DDR (Deutsche Demokratische Republik)",
     "groupCode": 1
   },
@@ -11934,7 +11934,7 @@
   },
   {
     "id": 11958,
-    "en": "I was away for only one week",
+    "en": "I was away only one week",
     "de": "Ich war nur eine Woche weg",
     "groupCode": 1
   },
@@ -12229,8 +12229,9 @@
   },
   {
     "id": 12007,
-    "en": "Does your arm or foot hurt?",
+    "en": "Does your (the) arm or (the) foot hurt?",
     "de": "Tut dir der Arm oder der Fuß weh?",
+    "desc": "In German, when talking about specific body parts, you usually need the definite article (der, die, das).",
     "groupCode": 1
   },
   {
@@ -12285,6 +12286,30 @@
     "id": 12016,
     "en": "Both laugh",
     "de": "Beide lachen",
+    "groupCode": 1
+  },
+  {
+    "id": 12017,
+    "en": "I forget. I forgot. I have forgotten",
+    "de": "Ich vergesse. Ich vergaß. Ich habe vergessen",
+    "groupCode": 1
+  },
+  {
+    "id": 12018,
+    "en": "I am investigating. I investigated. I have investigated",
+    "de": "Ich untersuche. Ich untersuchte. Ich habe untersucht",
+    "groupCode": 1
+  },
+  {
+    "id": 12019,
+    "en": "I recommend the restaurant",
+    "de": "Ich empfehle das Restaurant",
+    "groupCode": 1
+  },
+  {
+    "id": 12020,
+    "en": "She picks flowers",
+    "de": "Sie pflückt Blumen",
     "groupCode": 1
   }
 ]

@@ -8880,7 +8880,7 @@
   },
   {
     "id": 4456,
-    "fa": "تو از نظر فیزیکی زننده ای، از نظر فکری دارای کمبودی، از نظر اخلاقی قابل سرزنشی، مبتذل و بی احساس هستی",
+    "fa": "تو از نظر فیزیکی زننده ای، از نظر فکری ناقصی، از نظر اخلاقی قابل سرزنشی، مبتذل و بی احساس هستی",
     "en": "You are physically repulsive, intellectually deficient, morally reprehensible, vulgar, and insensitive",
     "groupCode": 0
   },
@@ -9748,7 +9748,7 @@
   {
     "id": 4599,
     "fa": "من رسوا شدم وقتیکه دوستم فاش کرد رازم را در مقابل هر کسی",
-    "en": "I got exposed when my friend revealed my secret in front of everyone",
+    "en": "I got exposed when my friend revealed my secret /ˈsiːkrət/ in front of everyone",
     "groupCode": 0
   },
   {
@@ -9795,7 +9795,7 @@
   },
   {
     "id": 4607,
-    "fa": "هوش مصنوعی نیست به طور درستی عینی (بی طرف) , حتی اگر ممکنه به نظر برسد",
+    "fa": "هوش مصنوعی نیست به طور درستی عینی (بی طرف) , حتی اگر ممکنه به نظر برسد باشد",
     "en": "AI is not truly objective, even though it might appear to be",
     "groupCode": 0
   },
@@ -9821,6 +9821,7 @@
     "id": 4611,
     "fa": "همه چیز است در مورد پیامدهای قانونی",
     "en": "It's all about legal consequences",
+    "desc": "Legal consequences = any outcome under the law (includes statutes, court rulings, regulations, etc.).\n\nStatutory consequences = outcomes specifically set by a written law (a statute).",
     "groupCode": 0
   },
   {
@@ -9887,6 +9888,12 @@
     "id": 4622,
     "fa": "توسعه دهنده فول استک، یک توسعه دهنده ای است که نه در فرانت اند خوب است و نه در بک اند",
     "en": "Full stack developer is a developer who is neither good at frontend nor backend",
+    "groupCode": 0
+  },
+  {
+    "id": 4623,
+    "fa": "گزارش نشان می دهد یک کسری برای اینکه سیستم ناقص است",
+    "en": "The report shows a deficit because the system is deficient",
     "groupCode": 0
   }
 ]
