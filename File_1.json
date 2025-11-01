@@ -831,7 +831,7 @@
   },
   {
     "id": 3136,
-    "fa": "تو خیلی نگران هستی در مورد اومدن مامانت",
+    "fa": "تو خیلی نگران (مقید - سخت گیر) هستی در مورد اومدن مامانت",
     "en": "You're so uptight about your mom coming",
     "groupCode": 0
   },
@@ -5383,7 +5383,7 @@
   },
   {
     "id": 3881,
-    "fa": "بس کن اینقدر نگران بودن را",
+    "fa": "بس کن اینقدر مقید (سخت گیر) بودن را",
     "en": "Stop being so uptight",
     "groupCode": 0
   },
@@ -9832,8 +9832,8 @@
   },
   {
     "id": 4613,
-    "fa": "پردازش داده با هوش مصنوعی است بیش از حد مبهم /oʊˈpeɪk/ و غیرقابل درک",
-    "en": "Data processing with AI is too opaque and incomprehensible",
+    "fa": "پردازش داده با هوش مصنوعی است بیش از حد مبهم و غیرقابل درک",
+    "en": "Data processing with AI is too opaque /oʊˈpeɪk/ and incomprehensible",
     "groupCode": 0
   },
   {
@@ -9894,6 +9894,78 @@
     "id": 4623,
     "fa": "گزارش نشان می دهد یک کسری برای اینکه سیستم ناقص است",
     "en": "The report shows a deficit because the system is deficient",
+    "groupCode": 0
+  },
+  {
+    "id": 4624,
+    "fa": "آیا تو خسیس هستی؟ نه، من سخاوتمند هستم",
+    "en": "Are you stingy? No, I'm generous",
+    "groupCode": 0
+  },
+  {
+    "id": 4625,
+    "fa": "آیا تو آدم آسانگیر هستی؟ نه، من مقید (سخت گیر) هستم",
+    "en": "Are you easygoing? No, I'm uptight",
+    "groupCode": 0
+  },
+  {
+    "id": 4626,
+    "fa": "آیا تو پرحرف هستی؟ نه، من کم حرف هستم",
+    "en": "Are you talkative? No, I'm reserved",
+    "groupCode": 0
+  },
+  {
+    "id": 4627,
+    "fa": "آیا تو فعال هستید؟ نه، من منفعل هستم",
+    "en": "Are you active? No, I'm passive",
+    "groupCode": 0
+  },
+  {
+    "id": 4628,
+    "fa": "آیا تو دیر می رسی؟ نه، من وقت شناس هستم",
+    "en": "Are you tardy? No, I'm punctual",
+    "groupCode": 0
+  },
+  {
+    "id": 4629,
+    "fa": "آیا تو ماجراجو هستی؟ نه، من محتاط هستم",
+    "en": "Are you adventurous? No, I'm cautious",
+    "groupCode": 0
+  },
+  {
+    "id": 4630,
+    "fa": "آیا تو قاطع هستی؟ نه، من مردد هستم",
+    "en": "Are you decisive? No, I'm indecisive",
+    "groupCode": 0
+  },
+  {
+    "id": 4631,
+    "fa": "آیا تو روشنفکر هستید؟ نه، من محافظه کار هستم",
+    "en": "Are you open-minded? No, I'm conservative",
+    "groupCode": 0
+  },
+  {
+    "id": 4632,
+    "fa": "آیا تو افتضاحی هستی؟ نه، من فوق العاده هستم",
+    "en": "Are you terrible? No, I'm terrific",
+    "groupCode": 0
+  },
+  {
+    "id": 4633,
+    "fa": "چگونه متوقف کنیم بی ربط (چرت و پرت) گویی و صحبت کنیم واضح تر؟",
+    "en": "How to stop rambling and speak more clearly?",
+    "groupCode": 0
+  },
+  {
+    "id": 4634,
+    "fa": "یک شناسه همبستگی (Correlation ID) است یک شناسه منحصر به فرد استفاده می شود تا ردیابی کند یک درخواست یا تراکنش سرتاسر سرویس های مختلف در یک سیستم توزیع شده",
+    "en": "A correlation ID is a unique identifier used to trace a request or transaction across various services in a distributed system",
+    "groupCode": 0
+  },
+  {
+    "id": 4635,
+    "fa": "حقوقی معنی میدهد هر چیزی مربوط به قانون به طور کلی، در حالی که قانونی معنی میدهد بعضی چیزها بخصوص ایجاد شده یا الزام شده توسط یک قانون مکتوب شده",
+    "en": "Legal means anything related to the law in general, while statutory means something specifically created or required by a written law (a statute /ˈstaCHo͞ot/)",
     "groupCode": 0
   }
 ]

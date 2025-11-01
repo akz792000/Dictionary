@@ -9483,7 +9483,7 @@
   },
   {
     "id": 11558,
-    "en": "My nephew and my niece are coming to the concert along",
+    "en": "My nephew and my niece are coming into the concert along",
     "de": "Mein Neffe und meine Nichte kommen ins Konzert mit",
     "groupCode": 1
   },
@@ -9845,7 +9845,7 @@
   {
     "id": 11616,
     "en": "I reach. I reached. I have reached",
-    "de": "Ich erreiche. Ich erreichte. Ich habe erricht",
+    "de": "Ich erreiche. Ich erreichte. Ich habe erreicht",
     "groupCode": 1
   },
   {
@@ -12310,6 +12310,72 @@
     "id": 12020,
     "en": "She picks flowers",
     "de": "Sie pflückt Blumen",
+    "groupCode": 1
+  },
+  {
+    "id": 12021,
+    "en": "I behaved well",
+    "de": "Ich habe mich gut benommen",
+    "groupCode": 1
+  },
+  {
+    "id": 12022,
+    "en": "I have reached the train station",
+    "de": "Ich habe den Bahnhof erreicht",
+    "groupCode": 1
+  },
+  {
+    "id": 12023,
+    "en": "I have held the rope",
+    "de": "Ich habe das Seil gehalten",
+    "groupCode": 1
+  },
+  {
+    "id": 12024,
+    "en": "The bus has stopped (held)",
+    "de": "Der Bus hat gehalten",
+    "groupCode": 1
+  },
+  {
+    "id": 12025,
+    "en": "You (formal) must do it yourself",
+    "de": "Sie müssen es selbst machen",
+    "groupCode": 1
+  },
+  {
+    "id": 12026,
+    "en": "He sees himself in the mirror",
+    "de": "Er sieht sich selbst im Spiegel",
+    "groupCode": 1
+  },
+  {
+    "id": 12027,
+    "en": "She is happy herself about the gift",
+    "de": "Sie freut sich selbst über das Geschenk",
+    "groupCode": 1
+  },
+  {
+    "id": 12028,
+    "en": "The cat washes itself",
+    "de": "Die Katze wäscht sich selbst",
+    "groupCode": 1
+  },
+  {
+    "id": 12029,
+    "en": "We helped ourselves",
+    "de": "Wir haben uns selbst geholfen",
+    "groupCode": 1
+  },
+  {
+    "id": 12030,
+    "en": "You (plural) must decide for yourselves",
+    "de": "Ihr müsst euch selbst entscheiden",
+    "groupCode": 1
+  },
+  {
+    "id": 12031,
+    "en": "They hurt themselves",
+    "de": "Sie haben sich selbst verletzt",
     "groupCode": 1
   }
 ]
