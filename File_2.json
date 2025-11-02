@@ -11559,7 +11559,7 @@
     "id": 11897,
     "en": "Unfortunately I don't know still any people there",
     "de": "Leider kenne ich dort noch keine Leute",
-    "desc": "German word order is flexible, but there’s a general rhythm:\n\n[time/manner/place] usually comes after the verb and object —\nbut short adverbs like dort (there) often go before the object.",
+    "desc": "German word order is flexible, but there's a general rhythm:\n\n[time/manner/place] usually comes after the verb and object —\nbut short adverbs like dort (there) often go before the object.",
     "groupCode": 1
   },
   {
@@ -11753,7 +11753,7 @@
     "id": 11928,
     "en": "Were you with (at their place) your son or with (at their place) your daughter yesterday?",
     "de": "Warst du gestern bei deinem Sohn oder bei deiner Tochter?",
-    "desc": "„bei“ means “at” or “with (someone, at their place)” → location or presence.\n→ Warst du bei deinem Sohn? = “Were you at your son’s place?”\n\n„mit“ means “with (together with someone)” → doing something together.\n→ Warst du mit deinem Sohn? = “Were you together with your son?”\n\nSo:\n\n✅ Warst du bei deinem Sohn? → about where you were\n\n✅ Warst du mit deinem Sohn? → about who you were with",
+    "desc": "„bei“ means “at” or “with (someone, at their place)” → location or presence.\n→ Warst du bei deinem Sohn? = “Were you at your son's place?”\n\n„mit“ means “with (together with someone)” → doing something together.\n→ Warst du mit deinem Sohn? = “Were you together with your son?”\n\nSo:\n\n✅ Warst du bei deinem Sohn? → about where you were\n\n✅ Warst du mit deinem Sohn? → about who you were with",
     "groupCode": 1
   },
   {
@@ -12110,7 +12110,7 @@
     "id": 11987,
     "en": "Why do you like going there?",
     "de": "\n 1.Warum gehst du gerne dorthin? \n 2.Warum gehst du gern dorthin?",
-    "desc": "“gern” = more common in spoken German, short and casual.\n\nExample:\n\nIch esse gern Pizza.\n(I like eating pizza.)\n\n“gerne” = slightly more formal or emphatic, often used in writing or polite speech.\n\nExample:\n\nIch helfe dir gerne.\n(I’m happy to help you.)",
+    "desc": "“gern” = more common in spoken German, short and casual.\n\nExample:\n\nIch esse gern Pizza.\n(I like eating pizza.)\n\n“gerne” = slightly more formal or emphatic, often used in writing or polite speech.\n\nExample:\n\nIch helfe dir gerne.\n(I'm happy to help you.)",
     "groupCode": 1
   },
   {
@@ -12163,7 +12163,7 @@
   },
   {
     "id": 11996,
-    "en": "I call. I called. I have called.",
+    "en": "I call (phone). I called (phone). I have called (phone).",
     "de": "Ich rufe an. Ich rief an. Ich habe angerufen",
     "groupCode": 1
   },
@@ -12188,7 +12188,7 @@
   {
     "id": 12000,
     "en": "When does your daughter move to Austria?",
-    "de": "Wann zieht deine Tochter nach Österreich um",
+    "de": "Wann zieht deine Tochter nach Österreich um?",
     "groupCode": 1
   },
   {
@@ -12211,7 +12211,7 @@
   },
   {
     "id": 12004,
-    "en": "My brother is moving tomorrow and I'm helping him. I can't go in the club tonight",
+    "en": "My brother is moving tomorrow and I'm helping him. I can't go in the club this evening",
     "de": "Mein Bruder zieht morgen um und ich helfe ihm. Ich kann heute Abend nicht in den Club gehen",
     "groupCode": 1
   },
@@ -12376,6 +12376,42 @@
     "id": 12031,
     "en": "They hurt themselves",
     "de": "Sie haben sich selbst verletzt",
+    "groupCode": 1
+  },
+  {
+    "id": 12032,
+    "en": "\n 1.From 1 to 10 \n 2.From Berlin to Hamburg \n 3.From school to the park \n 4.From Frankfurt via Cologne to Hamburg \n 5.From today on",
+    "de": "\n 1.Von 10 bis 20 \n 2.Von Berlin nach Hamburg \n 3.Von der Schule zum Park \n 4.Von Frankfurt über Köln bis Hamburg \n 5.Von heute an",
+    "groupCode": 1
+  },
+  {
+    "id": 12033,
+    "en": "Careful, Ali. Don't fall down!",
+    "de": "Vorsicht, Ali. Fallen Sie nicht hinunter!",
+    "groupCode": 1
+  },
+  {
+    "id": 12034,
+    "en": "The light bulb goes in there into the trash",
+    "de": "Die Glühbirne kommt da rein in den Müll",
+    "groupCode": 1
+  },
+  {
+    "id": 12035,
+    "en": "I come into the house",
+    "de": "Ich komme ins Haus rein",
+    "groupCode": 1
+  },
+  {
+    "id": 12036,
+    "en": "Please come in!",
+    "de": "Komm doch bitte rein!",
+    "groupCode": 1
+  },
+  {
+    "id": 12037,
+    "en": "He didn't get into the club",
+    "de": "Er ist nicht in den Club reingekommen",
     "groupCode": 1
   }
 ]

@@ -7296,7 +7296,7 @@
   },
   {
     "id": 4195,
-    "fa": "او (مرد) به سختی جور کرد (چنگ می زند) پول کافی برای پرداخت کردن اجاره",
+    "fa": "او (مرد) داشت به سختی جور می کرد (چنگ می زند) پول کافی برای پرداخت کردن اجاره",
     "en": "He was barely scraping enough money to pay the rent",
     "groupCode": 0
   },
@@ -7388,7 +7388,7 @@
   },
   {
     "id": 4210,
-    "fa": "روباه حیله گر پنهان شد",
+    "fa": "روباه حیله گر (موذی) پنهان شد",
     "en": "The sneaky fox hid",
     "groupCode": 0
   },
@@ -9759,7 +9759,7 @@
   },
   {
     "id": 4601,
-    "fa": "یک لبه است یک خط مرزی یا حد، در حالی که یک لبه است یک قفسه بیرون زده",
+    "fa": "یک edge است یک خط مرزی یا حد، در حالی که یک ledge است یک قفسه بیرون زده",
     "en": "An edge is a boundary line or limit, while a ledge is a protruding shelf",
     "groupCode": 0
   },
@@ -9881,7 +9881,7 @@
   {
     "id": 4621,
     "fa": "اعداد اعشاری می توانند کسر داشته باشند، اما اعداد صحیح هستند اعداد کامل",
-    "en": "Decimal numbers can have fractions, but integers are whole numbers",
+    "en": "Decimal numbers can have fractions, but integer numbers are whole numbers",
     "groupCode": 0
   },
   {
@@ -9964,8 +9964,44 @@
   },
   {
     "id": 4635,
-    "fa": "حقوقی معنی میدهد هر چیزی مربوط به قانون به طور کلی، در حالی که قانونی معنی میدهد بعضی چیزها بخصوص ایجاد شده یا الزام شده توسط یک قانون مکتوب شده",
+    "fa": "Legal معنی میدهد هر چیزی مربوط به قانون به طور کلی، در حالی که statutory (یک اساسنامه) معنی میدهد بعضی چیزها بخصوص ایجاد شده یا الزام شده توسط یک قانون مکتوب شده",
     "en": "Legal means anything related to the law in general, while statutory means something specifically created or required by a written law (a statute /ˈstaCHo͞ot/)",
+    "groupCode": 0
+  },
+  {
+    "id": 4636,
+    "fa": "این یک ترفند یواشکی بود",
+    "en": "That was an underhanded trick",
+    "groupCode": 0
+  },
+  {
+    "id": 4637,
+    "fa": "هوا افتضاح بود",
+    "en": "The weather was abysmal /əˈbɪzməl/",
+    "groupCode": 0
+  },
+  {
+    "id": 4638,
+    "fa": "من از او (مرد) دست کشیدم",
+    "en": "I gave up on him",
+    "groupCode": 0
+  },
+  {
+    "id": 4639,
+    "fa": "او (مرد) به سختی داره جور می کند (چنگ می زند) این روزها",
+    "en": "He's barely scraping by these days",
+    "groupCode": 0
+  },
+  {
+    "id": 4640,
+    "fa": "من مجبور شدم بپردازم از جیب (هزینه) دارو را",
+    "en": "I had to pay out of pocket for the medicine",
+    "groupCode": 0
+  },
+  {
+    "id": 4641,
+    "fa": "باران شاید ببارد به زودی",
+    "en": "The rain might be coming down soon",
     "groupCode": 0
   }
 ]
