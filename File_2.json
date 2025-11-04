@@ -5503,8 +5503,9 @@
   },
   {
     "id": 10904,
-    "en": "I can do the dishes",
+    "en": "I can wash (do the dishes)",
     "de": "Ich kann abwaschen",
+    "desc": "waschen = to wash (general things)\n\uD83D\uDC49 Ich wasche meine Hände. = I wash my hands.\n\nabwaschen = to wash the dishes\n\uD83D\uDC49 Ich wasche das Geschirr ab. = I wash the dishes.",
     "groupCode": 1
   },
   {
@@ -8726,7 +8727,7 @@
   },
   {
     "id": 11434,
-    "en": "In the afternoon I go into the supermarket in order to shop",
+    "en": "In the afternoon I go into the supermarket (in order) to shop",
     "de": "Am Nachmittag gehe ich in den Supermarkt, um einzukaufen",
     "desc": "This sentence uses the purpose clause:\n„um ... zu + infinitive“, which means \"in order to do something\".\n\num = in order\n\nzu = to\n\neinkaufen = shop (infinitive at the end)",
     "groupCode": 1
@@ -9801,7 +9802,7 @@
   },
   {
     "id": 11609,
-    "en": "I want to buy an envelope and a stamp in order to send this letter out",
+    "en": "I want to buy an envelope and a stamp (in order) to send this letter out",
     "de": "Ich will einen Briefumschlag und eine Briefmarke kaufen um diesen Brief zu verschicken",
     "desc": "schicken = to send (general, everyday word) → can be people, things, messages.\n\nverschicken = to send out / dispatch (often many items, more official).",
     "groupCode": 1
@@ -9995,7 +9996,7 @@
   },
   {
     "id": 11641,
-    "en": "He called (Phone) me yesterday, in order to tell (say) me, that he doesn't want to sell his car",
+    "en": "He called (Phone) me yesterday, (in order) to tell (say) me, that he doesn't want to sell his car",
     "de": "Er hat mich gestern angerufen, um mir zu sagen, dass er sein Auto nicht verkaufen will",
     "groupCode": 1
   },
@@ -12381,7 +12382,8 @@
   {
     "id": 12032,
     "en": "\n 1.From 1 to 10 \n 2.From Berlin to Hamburg \n 3.From school to the park \n 4.From Frankfurt via Cologne to Hamburg \n 5.From today on",
-    "de": "\n 1.Von 10 bis 20 \n 2.Von Berlin nach Hamburg \n 3.Von der Schule zum Park \n 4.Von Frankfurt über Köln bis Hamburg \n 5.Von heute an",
+    "de": "\n 1.Von 1 bis 10 \n 2.Von Berlin nach Hamburg \n 3.Von der Schule zum Park \n 4.Von Frankfurt über Köln bis Hamburg \n 5.Von heute an",
+    "desc": "Von Berlin nach Hamburg → from Berlin to Hamburg (normal travel)\n\nVon Berlin bis Hamburg → from Berlin as far as Hamburg (emphasizes the distance or limit)",
     "groupCode": 1
   },
   {
@@ -12392,26 +12394,180 @@
   },
   {
     "id": 12034,
-    "en": "The light bulb goes in there into the trash",
-    "de": "Die Glühbirne kommt da rein in den Müll",
+    "en": "The light bulb is broken",
+    "de": "Die Glühbirne ist kaputt",
     "groupCode": 1
   },
   {
     "id": 12035,
     "en": "I come into the house",
     "de": "Ich komme ins Haus rein",
+    "desc": "I come into the house (in) — it just emphasizes the action of entering",
     "groupCode": 1
   },
   {
     "id": 12036,
-    "en": "Please come in!",
+    "en": "Please (friendly emphasis) come in!",
     "de": "Komm doch bitte rein!",
+    "desc": "reinkommen: it just emphasizes the action of entering",
     "groupCode": 1
   },
   {
     "id": 12037,
     "en": "He didn't get into the club",
     "de": "Er ist nicht in den Club reingekommen",
+    "groupCode": 1
+  },
+  {
+    "id": 12038,
+    "en": "He washed the dishes",
+    "de": "Er hat das Geschirr abgewaschen",
+    "groupCode": 1
+  },
+  {
+    "id": 12039,
+    "en": "I wash my hands",
+    "de": "Ich wasche meine Hände",
+    "groupCode": 1
+  },
+  {
+    "id": 12040,
+    "en": "I wash the dishes",
+    "de": "Ich wasche das Geschirr ab",
+    "groupCode": 1
+  },
+  {
+    "id": 12041,
+    "en": "The basket is full",
+    "de": "Der Korb ist voll",
+    "groupCode": 1
+  },
+  {
+    "id": 12042,
+    "en": "The dough /ˈdoʊ/ is ready",
+    "de": "Der Teig ist fertig",
+    "groupCode": 1
+  },
+  {
+    "id": 12043,
+    "en": "I need a new light bulb",
+    "de": "Ich brauche eine neue Glühbirne",
+    "groupCode": 1
+  },
+  {
+    "id": 12044,
+    "en": "The light bulb makes light",
+    "de": "Die Glühbirne macht Licht",
+    "groupCode": 1
+  },
+  {
+    "id": 12045,
+    "en": "The trash is full",
+    "de": "Der Müll ist voll",
+    "groupCode": 1
+  },
+  {
+    "id": 12046,
+    "en": "I bring out the trash",
+    "de": "Ich bringe den Müll raus",
+    "groupCode": 1
+  },
+  {
+    "id": 12047,
+    "en": "Please throw that in the trash",
+    "de": "Bitte wirf das in den Müll",
+    "groupCode": 1
+  },
+  {
+    "id": 12048,
+    "en": "(by) in case of parenting problems you (formal) go to the youth welfare office",
+    "de": "bei erziehungsproblemen gehen Sie in Deutschland zum Jugendamt",
+    "groupCode": 1
+  },
+  {
+    "id": 12049,
+    "en": "I wish the weather would always be like this",
+    "de": "Ich wünschte, das Wetter wäre immer so",
+    "desc": "Ich wünschte = I wish\n\ndas Wetter = the weather\n\nwäre = would be (subjunctive)\n\nimmer so = always like this",
+    "groupCode": 1
+  },
+  {
+    "id": 12050,
+    "en": "I have to go to the supermarket (in order) to buy groceries",
+    "de": "Ich muss zum Supermarkt gehen, um Lebensmittel zu kaufen",
+    "groupCode": 1
+  },
+  {
+    "id": 12051,
+    "en": "Drive with care",
+    "de": "Fahr mit Vorsicht",
+    "groupCode": 1
+  },
+  {
+    "id": 12052,
+    "en": "Careful! The floor is wet",
+    "de": "Vorsicht! Der Boden ist nass",
+    "groupCode": 1
+  },
+  {
+    "id": 12053,
+    "en": "The product is available",
+    "de": "Das Produkt ist verfügbar",
+    "groupCode": 1
+  },
+  {
+    "id": 12054,
+    "en": "I am available tomorrow",
+    "de": "Ich bin morgen verfügbar",
+    "groupCode": 1
+  },
+  {
+    "id": 12055,
+    "en": "Money (on) in the account is available.",
+    "de": "Geld auf dem Konto ist verfügbar",
+    "groupCode": 1
+  },
+  {
+    "id": 12056,
+    "en": "Elections in Germany are secret",
+    "de": "Die wahlen in Deutschland sind geheim",
+    "groupCode": 1
+  },
+  {
+    "id": 12057,
+    "en": "That is a secret",
+    "de": "Das ist ein Geheimnis",
+    "desc": "geheim = adjective → secret\n\uD83D\uDC49 ein geheimes Dokument = a secret document\n\nGeheimnis = noun → secret\n\uD83D\uDC49 Ich habe ein Geheimnis = I have a secret",
+    "groupCode": 1
+  },
+  {
+    "id": 12058,
+    "en": "We have to keep that secret",
+    "de": "Wir müssen das geheim halten",
+    "groupCode": 1
+  },
+  {
+    "id": 12059,
+    "en": "The judge decides on the case",
+    "de": "Der Richter entscheidet über den Fall",
+    "groupCode": 1
+  },
+  {
+    "id": 12060,
+    "en": "The judge is very strict",
+    "de": "Die Richterin ist sehr streng",
+    "groupCode": 1
+  },
+  {
+    "id": 12061,
+    "en": "Please take out your card",
+    "de": "Bitte Karte herausnehmen",
+    "groupCode": 1
+  },
+  {
+    "id": 12062,
+    "en": "Please remove the card",
+    "de": "Bitte Karte entnehmen",
     "groupCode": 1
   }
 ]

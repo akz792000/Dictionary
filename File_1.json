@@ -3118,7 +3118,7 @@
   },
   {
     "id": 3508,
-    "fa": "او (مرد) برای برنده شدن در مناظره از لفاظی متقاعدکننده استفاده کرد",
+    "fa": "او (مرد) استفاده کرد از لفاظی متقاعدکننده تا برنده شود مناظره را",
     "en": "He used persuasive rhetoric to win the debate",
     "groupCode": 0
   },
@@ -6694,7 +6694,7 @@
   {
     "id": 4096,
     "fa": "تو درو می کنی چیزی که تو بکاری",
-    "en": "You reap what you sow",
+    "en": "You reap what you sow /soʊ/",
     "groupCode": 0
   },
   {
@@ -9717,8 +9717,8 @@
   },
   {
     "id": 4594,
-    "fa": "هر چه بیشتر داشته باشی، بیشتر می خواهی",
-    "en": "The more your have, the more you want",
+    "fa": "هر چه شما بیشتر داشته باشی، بیشتر شما می خواهی",
+    "en": "The more you have, the more you want",
     "groupCode": 0
   },
   {
@@ -9868,7 +9868,7 @@
   },
   {
     "id": 4619,
-    "fa": "من منتظرتم تو بری بیرون",
+    "fa": "من (دارم) منتظرتم تا بری بیرون",
     "en": "I am waiting for you to go out",
     "groupCode": 0
   },
@@ -9886,7 +9886,7 @@
   },
   {
     "id": 4622,
-    "fa": "توسعه دهنده فول استک، یک توسعه دهنده ای است که نه در فرانت اند خوب است و نه در بک اند",
+    "fa": "توسعه دهنده فول استک است یک توسعه دهنده ای کسیکه نه در فرانت اند خوب است و نه در بک اند",
     "en": "Full stack developer is a developer who is neither good at frontend nor backend",
     "groupCode": 0
   },
@@ -9970,7 +9970,7 @@
   },
   {
     "id": 4636,
-    "fa": "این یک ترفند یواشکی بود",
+    "fa": "آن یک ترفند یواشکی بود",
     "en": "That was an underhanded trick",
     "groupCode": 0
   },
@@ -9988,7 +9988,7 @@
   },
   {
     "id": 4639,
-    "fa": "او (مرد) به سختی داره جور می کند (چنگ می زند) این روزها",
+    "fa": "او (مرد) داره به سختی جور می کند (چنگ می زند) این روزها",
     "en": "He's barely scraping by these days",
     "groupCode": 0
   },
@@ -10000,8 +10000,26 @@
   },
   {
     "id": 4641,
-    "fa": "باران شاید ببارد به زودی",
+    "fa": "باران شاید ببارد (پایین بیاید) به زودی",
     "en": "The rain might be coming down soon",
+    "groupCode": 0
+  },
+  {
+    "id": 4642,
+    "fa": "KPI مخفف شاخص کلیدی عملکرد است",
+    "en": "KPI stands for Key Performance Indicator",
+    "groupCode": 0
+  },
+  {
+    "id": 4643,
+    "fa": "وقتی من دیدم ایمان دروغین تو را، من شروع کردم تا عاشق گناهانم شوم",
+    "en": "When I saw your false faith, I started to love my sins",
+    "groupCode": 0
+  },
+  {
+    "id": 4644,
+    "fa": "این ابزار مفید است (به کار می آید) برای تعمیر مشکلات کوچک",
+    "en": "This tool comes in handy for fixing small problems",
     "groupCode": 0
   }
 ]
