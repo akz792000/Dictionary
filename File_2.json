@@ -3703,7 +3703,7 @@
   },
   {
     "id": 10608,
-    "en": "We shop at the market on Saturdays",
+    "en": "We shop (on) at the market on Saturdays",
     "de": "Wir kaufen samstags auf dem Markt ein",
     "groupCode": 1
   },
@@ -8544,7 +8544,7 @@
   {
     "id": 11404,
     "en": "Could you (formal) please bring me a coffee? Yes, it's coming immediately",
-    "de": "Konnten Sie mir bitte einen Kaffee bringen? Ja, kommt sofort",
+    "de": "Könnten Sie mir bitte einen Kaffee bringen? Ja, kommt sofort",
     "desc": "Subject + bringen + Dative (to whom) + Accusative (what)\n\nExample:\n\nIch bringe dir ein Buch.\n→ I bring you a book.\n→ „dir“ = Dative (to you)\n→ „ein Buch“ = Accusative (the book)",
     "groupCode": 1
   },
@@ -11099,6 +11099,7 @@
     "id": 11821,
     "en": "My mom always bakes a fruit cake at Christmas",
     "de": "Meine Mama backt immer an Weihnachten einen Stollen",
+    "desc": "„am“ → with specific days or dates\n\nam Montag = on Monday\n\nam 24. Dezember = on December 24\n\n„an“ → with holidays or times with no article\n\nan Weihnachten = at Christmas\n\nan Ostern = at Easter",
     "groupCode": 1
   },
   {
@@ -11611,7 +11612,7 @@
   },
   {
     "id": 11905,
-    "en": "Thank you very much for the information. I'll follow up on that / it",
+    "en": "Thank you very much for the information. I'll pursue it",
     "de": "Vielen Dank für die Information. Ich werde dem nachgehen",
     "groupCode": 1
   },
@@ -12085,8 +12086,9 @@
   },
   {
     "id": 11983,
-    "en": "I cook sweets myself and eat them afterwards",
+    "en": "I cook sweets by myself (emphasis) and eat them afterwards",
     "de": "Ich koche selbst Süßigkeiten und esse sie danach",
+    "desc": "Ich koche selbst Süßigkeiten ✅ → I make sweets myself (on my own).\n\nIch koche mich selbst Süßigkeiten ❌ → means I cook myself sweets → sounds wrong.\n\n\uD83D\uDC49 Use „selbst“ (not mich selbst) when you mean by yourself, not on yourself",
     "groupCode": 1
   },
   {
@@ -12339,50 +12341,50 @@
   },
   {
     "id": 12025,
-    "en": "You (formal) must do it yourself",
+    "en": "You (formal) must do it by yourself (emphasis)",
     "de": "Sie müssen es selbst machen",
     "groupCode": 1
   },
   {
     "id": 12026,
-    "en": "He sees himself in the mirror",
+    "en": "He sees himself by himself (emphasis) in the mirror",
     "de": "Er sieht sich selbst im Spiegel",
     "groupCode": 1
   },
   {
     "id": 12027,
-    "en": "She is happy herself about the gift",
+    "en": "She is happy herself by herself (emphasis) about the gift",
     "de": "Sie freut sich selbst über das Geschenk",
     "groupCode": 1
   },
   {
     "id": 12028,
-    "en": "The cat washes itself",
+    "en": "The cat washes itself (by itself)",
     "de": "Die Katze wäscht sich selbst",
     "groupCode": 1
   },
   {
     "id": 12029,
-    "en": "We helped ourselves",
+    "en": "We helped ourselves by ourselves (emphasis)",
     "de": "Wir haben uns selbst geholfen",
     "groupCode": 1
   },
   {
     "id": 12030,
-    "en": "You (plural) must decide for yourselves",
+    "en": "You (plural) must decide yourselves by yourselves (emphasis)",
     "de": "Ihr müsst euch selbst entscheiden",
     "groupCode": 1
   },
   {
     "id": 12031,
-    "en": "They hurt themselves",
+    "en": "They hurt themselves by themselves (emphasis)",
     "de": "Sie haben sich selbst verletzt",
     "groupCode": 1
   },
   {
     "id": 12032,
-    "en": "\n 1.From 1 to 10 \n 2.From Berlin to Hamburg \n 3.From school to the park \n 4.From Frankfurt via Cologne to Hamburg \n 5.From today on",
-    "de": "\n 1.Von 1 bis 10 \n 2.Von Berlin nach Hamburg \n 3.Von der Schule zum Park \n 4.Von Frankfurt über Köln bis Hamburg \n 5.Von heute an",
+    "en": "\n 1.From 1 to 10 \n 2.From Berlin to Hamburg \n 3.From school to the park \n 4.From Frankfurt via Cologne to Hamburg \n 5.From today on \n 6.From 8 to 10 Uhr",
+    "de": "\n 1.Von 1 bis 10 \n 2.Von Berlin nach Hamburg \n 3.Von der Schule zum Park \n 4.Von Frankfurt über Köln bis Hamburg \n 5.Von heute an \n 6.Von 8 bis 10 Uhr",
     "desc": "Von Berlin nach Hamburg → from Berlin to Hamburg (normal travel)\n\nVon Berlin bis Hamburg → from Berlin as far as Hamburg (emphasizes the distance or limit)",
     "groupCode": 1
   },
@@ -12400,7 +12402,7 @@
   },
   {
     "id": 12035,
-    "en": "I come into the house",
+    "en": "I come into the house (emphasizes entering)",
     "de": "Ich komme ins Haus rein",
     "desc": "I come into the house (in) — it just emphasizes the action of entering",
     "groupCode": 1
@@ -12414,7 +12416,7 @@
   },
   {
     "id": 12037,
-    "en": "He didn't get into the club",
+    "en": "He didn't come into the club (emphasizes entering)",
     "de": "Er ist nicht in den Club reingekommen",
     "groupCode": 1
   },
@@ -12426,8 +12428,8 @@
   },
   {
     "id": 12039,
-    "en": "I wash my hands",
-    "de": "Ich wasche meine Hände",
+    "en": "The tables are neatly arranged",
+    "de": "Die Tische sind ordentlich angeordnet",
     "groupCode": 1
   },
   {
@@ -12444,7 +12446,7 @@
   },
   {
     "id": 12042,
-    "en": "The dough /ˈdoʊ/ is ready",
+    "en": "The dough /ˈdoʊ/ is finished",
     "de": "Der Teig ist fertig",
     "groupCode": 1
   },
@@ -12544,6 +12546,7 @@
     "id": 12058,
     "en": "We have to keep that secret",
     "de": "Wir müssen das geheim halten",
+    "desc": "geheim = secret (adjective)\n\uD83D\uDC49 etwas geheim halten = to keep something secret\n\nGeheimnis = a secret (noun)\n\uD83D\uDC49 ein Geheimnis haben = to have a secret",
     "groupCode": 1
   },
   {
@@ -12554,7 +12557,7 @@
   },
   {
     "id": 12060,
-    "en": "The judge is very strict",
+    "en": "The judge (female) is very strict",
     "de": "Die Richterin ist sehr streng",
     "groupCode": 1
   },
@@ -12568,6 +12571,12 @@
     "id": 12062,
     "en": "Please remove the card",
     "de": "Bitte Karte entnehmen",
+    "groupCode": 1
+  },
+  {
+    "id": 12063,
+    "en": "supply and demand",
+    "de": "Angebot und Nachfrage",
     "groupCode": 1
   }
 ]
