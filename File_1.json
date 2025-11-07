@@ -4129,6 +4129,7 @@
     "id": 3674,
     "fa": "چرا نمی توانند کارتونها مانند این باشند دیگر؟",
     "en": "Why can't cartoons be like this anymore?",
+    "desc": "❌ “Why can’t be cartoons like this anymore?” is wrong — because in English, the subject (“cartoons”) must come right after “can’t.”",
     "groupCode": 0
   },
   {
@@ -5918,7 +5919,7 @@
   },
   {
     "id": 3969,
-    "fa": "ما به نظر می رسد از یک بحران به بحران دیگر تلوتلو می خوریم",
+    "fa": "ما به نظر می رسد از بحران به بحران تلوتلو می خوریم",
     "en": "We seem to lurch from crisis to crisis",
     "groupCode": 0
   },
@@ -8336,7 +8337,7 @@
   },
   {
     "id": 4367,
-    "fa": "شما حاشیه نویسی کرده اید کلاس خود را، اما گرفته نشده است با تابع شما",
+    "fa": "شما حاشیه نویسی کرده اید کلاس خود را، اما داره گرفته نمی شود با تابع شما",
     "en": "You annotated your class, but it is not being caught by your function",
     "groupCode": 0
   },
@@ -9414,7 +9415,7 @@
   },
   {
     "id": 4544,
-    "fa": "من نمی دانم چرا شما داری اینقدر قضاوت می کنی",
+    "fa": "من نمی دانم چرا شما داری اینقدر (در حال حاضر) قضاوتی",
     "en": "I don't know why you're being so judgey",
     "groupCode": 0
   },
@@ -9864,6 +9865,7 @@
     "id": 4618,
     "fa": "ما نیاز داریم کار کنیم (پیدا کردن راه حل) رو این مشکل",
     "en": "We need to work around this problem",
+    "desc": "work around (something) = find a way to avoid or solve a problem indirectly.",
     "groupCode": 0
   },
   {
@@ -9964,7 +9966,7 @@
   },
   {
     "id": 4635,
-    "fa": "Legal معنی میدهد هر چیزی مربوط به قانون به طور کلی، در حالی که statutory (یک اساسنامه) معنی میدهد بعضی چیزها بخصوص ایجاد شده یا الزام شده توسط یک قانون مکتوب شده",
+    "fa": "Legal معنی میدهد هر چیزی مربوط به قانون به طور کلی، در حالی که statutory معنی میدهد بعضی چیزها بخصوص ایجاد شده یا الزام شده توسط یک قانون  مکتوب شده (یک اساسنامه)",
     "en": "Legal means anything related to the law in general, while statutory means something specifically created or required by a written law (a statute /ˈstaCHo͞ot/)",
     "groupCode": 0
   },
@@ -10020,6 +10022,42 @@
     "id": 4644,
     "fa": "این ابزار مفید است (به کار می آید) برای تعمیر کردن مشکلات کوچک",
     "en": "This tool comes in handy for fixing small problems",
+    "groupCode": 0
+  },
+  {
+    "id": 4645,
+    "fa": "او (زن) می دانست جواب را از همان ابتدا",
+    "en": "She knew the answer right off the bat",
+    "groupCode": 0
+  },
+  {
+    "id": 4646,
+    "fa": "من روشم (دارم انجامش میدم)",
+    "en": "I'm on it",
+    "groupCode": 0
+  },
+  {
+    "id": 4647,
+    "fa": "من طرف توام",
+    "en": "I'm on your side",
+    "groupCode": 0
+  },
+  {
+    "id": 4648,
+    "fa": "من دارم خیلی خوب عمل میکنم (رو آتشم)",
+    "en": "I'm on fire",
+    "groupCode": 0
+  },
+  {
+    "id": 4649,
+    "fa": "من رژیمم",
+    "en": "I'm on a diet",
+    "groupCode": 0
+  },
+  {
+    "id": 4650,
+    "fa": "من منتظر هستم",
+    "en": "I'm on hold",
     "groupCode": 0
   }
 ]

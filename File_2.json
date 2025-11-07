@@ -3023,7 +3023,7 @@
   },
   {
     "id": 10495,
-    "en": "You (formal) are in the photo. Not me",
+    "en": "You (formal) are (on) in the photo. Not me",
     "de": "Sie sind auf dem Foto. Nicht ich",
     "groupCode": 1
   },
@@ -8998,7 +8998,7 @@
   },
   {
     "id": 11478,
-    "en": "Monday and Friday from 9 a.m",
+    "en": "Monday and Friday from 9 a.m on",
     "de": "Montag und Freitag ab 9 Uhr",
     "groupCode": 1
   },
@@ -12383,8 +12383,8 @@
   },
   {
     "id": 12032,
-    "en": "\n 1.From 1 to 10 \n 2.From Berlin to Hamburg \n 3.From school to the park \n 4.From Frankfurt via Cologne to Hamburg \n 5.From today on \n 6.From 8 to 10 Uhr",
-    "de": "\n 1.Von 1 bis 10 \n 2.Von Berlin nach Hamburg \n 3.Von der Schule zum Park \n 4.Von Frankfurt über Köln bis Hamburg \n 5.Von heute an \n 6.Von 8 bis 10 Uhr",
+    "en": "\n 1.From 1 to 10 \n 2.From Berlin to Hamburg \n 3.From school to the park \n 4.From Frankfurt via Cologne to Hamburg \n 5.From today on \n 6.From 8 to 10 Uhr \n 7.from 9 o'clock on",
+    "de": "\n 1.Von 1 bis 10 \n 2.Von Berlin nach Hamburg \n 3.Von der Schule zum Park \n 4.Von Frankfurt über Köln bis Hamburg \n 5.Von heute an \n 6.Von 8 bis 10 Uhr \n 7.ab 9 Uhr",
     "desc": "Von Berlin nach Hamburg → from Berlin to Hamburg (normal travel)\n\nVon Berlin bis Hamburg → from Berlin as far as Hamburg (emphasizes the distance or limit)",
     "groupCode": 1
   },
@@ -12531,7 +12531,7 @@
   },
   {
     "id": 12056,
-    "en": "Elections in Germany are secret",
+    "en": "The elections in Germany are secret",
     "de": "Die wahlen in Deutschland sind geheim",
     "groupCode": 1
   },
@@ -12577,6 +12577,108 @@
     "id": 12063,
     "en": "supply and demand",
     "de": "Angebot und Nachfrage",
+    "groupCode": 1
+  },
+  {
+    "id": 12064,
+    "en": "You owe me 50 euros",
+    "de": "Du schuldest mir 50 Euro",
+    "groupCode": 1
+  },
+  {
+    "id": 12065,
+    "en": "What did you right now eat?",
+    "de": "Was hast du gerade gegessen?",
+    "groupCode": 1
+  },
+  {
+    "id": 12066,
+    "en": "I'm moving next week and I have a lot of stuff. Could you possibly help me, please?",
+    "de": "Ich ziehe nächste Woche um und ich habe viele Sachen. Kannst du mir wahrscheinlich hekfen, bitte?",
+    "groupCode": 1
+  },
+  {
+    "id": 12067,
+    "en": "Ilia, please help me! I'll help you later",
+    "de": "Ilia, hilf mir, bitte! Ich helfe dir später",
+    "groupCode": 1
+  },
+  {
+    "id": 12068,
+    "en": "Do your hands hurt, or do you not want to carry anything?",
+    "de": "Tun dir die Hände weh oder willst du nichts tragen?",
+    "groupCode": 1
+  },
+  {
+    "id": 12069,
+    "en": "Please speak more slowly",
+    "de": "Sprich bitte langsamer",
+    "groupCode": 1
+  },
+  {
+    "id": 12070,
+    "en": "She was too lazy. I'm not giving her a voucher (coupon)",
+    "de": "Sie war zu faul. Ich gebe ihr keinen gutschein",
+    "groupCode": 1
+  },
+  {
+    "id": 12071,
+    "en": "Please throw it in the trash now.",
+    "de": "Bitte wirf es jetzt in den Müll",
+    "groupCode": 1
+  },
+  {
+    "id": 12072,
+    "en": "You need a vacuum cleaner",
+    "de": "Du brauchst einen Staubsauger",
+    "groupCode": 1
+  },
+  {
+    "id": 12073,
+    "en": "Your aunt has a lot (much) to do, help her",
+    "de": "Deine Tante hat viel zu tun, hilf ihr",
+    "groupCode": 1
+  },
+  {
+    "id": 12074,
+    "en": "Help your father with the housework please",
+    "de": "Hilf deinem Vater mit der Hausarbeit bitte",
+    "groupCode": 1
+  },
+  {
+    "id": 12075,
+    "en": "Both of my hands hurt",
+    "de": "Mir tun beide hände weh",
+    "groupCode": 1
+  },
+  {
+    "id": 12076,
+    "en": "Whose pizza is the best?",
+    "de": "Wessen Pizza ist am besten?",
+    "groupCode": 1
+  },
+  {
+    "id": 12077,
+    "en": "What is more delicious, fruit or vegetables?",
+    "de": "Was ist leckerer, Obst oder Gemüse?",
+    "groupCode": 1
+  },
+  {
+    "id": 12078,
+    "en": "Your grandma doesn't bake better than the baker",
+    "de": "Deine Oma backt nicht besser als die Bäckerin",
+    "groupCode": 1
+  },
+  {
+    "id": 12079,
+    "en": "Try the cake from my aunt",
+    "de": "Probier den Kuchen von meiner Tante",
+    "groupCode": 1
+  },
+  {
+    "id": 12080,
+    "en": "You have to try the cake from my mother",
+    "de": "Du musst den Kuchen von meiner Oma probieren",
     "groupCode": 1
   }
 ]
