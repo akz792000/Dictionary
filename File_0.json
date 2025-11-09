@@ -3560,7 +3560,7 @@
   },
   {
     "id": 589,
-    "fa": "من معمولا آن (موهام) را کمی بلند تر در بالا میزارم، اما جاهای دیگر را بسیار کوتاه میزارم",
+    "fa": "من معمولا میزارمش (پوشیدن) (موهام) را یک کمی بلند تر بالا، اما تقریباً کوتاه جاهای دیگر",
     "en": "I usually wear it a little longer on the top, but pretty short everywhere else",
     "groupCode": 0
   },
@@ -6005,7 +6005,7 @@
   },
   {
     "id": 989,
-    "fa": "من نشتی حافظه دارم",
+    "fa": "من یک نشتی حافظه دارم",
     "en": "I have a memory leak",
     "groupCode": 0
   },
@@ -15755,7 +15755,7 @@
   },
   {
     "id": 2593,
-    "fa": "شیر آب چکه می کند",
+    "fa": "شیر آب داره چکه می کند",
     "en": "The faucet is dripping",
     "groupCode": 0
   },
@@ -16840,7 +16840,7 @@
   },
   {
     "id": 2771,
-    "fa": "ما مایلیم اطمینان حاصل کنیم از یک فروریزشی اطلاعاتی دقیق در سازمان خود",
+    "fa": "ما مایلیم اطمینان حاصل کنیم از یک فروریزشی اطلاعاتی دقیق در سازمان خودمان",
     "en": "We would like to ensure a strict information cascade within our organization",
     "desc": "The sentence means that the speaker or the organization desires to establish a controlled flow of information within their organization",
     "groupCode": 0
@@ -18135,7 +18135,7 @@
   },
   {
     "id": 2983,
-    "fa": "پس از تجربه یک گلودرد مداوم، من سوپرایز شدم از کشف اینکه یک سنگ لوزه مقصر بود",
+    "fa": "پس از تجربه یک گلودرد مداوم، من سوپرایز شدم تا کشف کنم که یک سنگ لوزه مقصر بود",
     "en": "After experiencing a persistent sore throat, I was surprised to discover that a tonsil stone was the culprit",
     "groupCode": 0
   },

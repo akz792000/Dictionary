@@ -2160,7 +2160,7 @@
   },
   {
     "id": 3353,
-    "fa": "این بزرگترین جامعه از زبان آموزان در جهان است",
+    "fa": "این است بزرگترین جامعه جهانی از زبان آموزان",
     "en": "It's the world's largest community of language learners",
     "desc": "You need the possessive form \"world's\" to indicate that the community belongs to or is associated with the world.",
     "groupCode": 0
@@ -3360,7 +3360,7 @@
   },
   {
     "id": 3548,
-    "fa": "آب بر روی صخره ها فرو ریخت و آبشار زیبایی را داشت ایجاد می کرد",
+    "fa": "آب بر روی صخره ها فرو ریخت و ایجاد می کرد یک آبشار زیبایی را",
     "en": "The water cascaded down the rocks, creating a beautiful waterfall",
     "desc": "In the sentence \"The water cascaded down the rocks, creating a beautiful waterfall,\" the word \"creating\" refers to an ongoing action that happens as a result of the cascading water.\n\n\"Creating\" is a present participle that describes the effect or result of the cascading action.\nThe main action is in the past tense (\"cascaded\"), while \"creating\" describes what was happening at the same time.",
     "groupCode": 0
@@ -4005,7 +4005,7 @@
   },
   {
     "id": 3654,
-    "fa": "من کف می زنم فداکاری و کار سخت شما را در این پروژه",
+    "fa": "من کف می زنم فداکاری و کار سخت شما را روی این پروژه",
     "en": "I applaud your dedication and hard work on this project",
     "desc": "We typically use \"on\" when referring to work being done for a specific project. Use \"in\" when referring to being part of something or working within a larger context, such as a field, area, or organization.",
     "groupCode": 0
@@ -8411,6 +8411,7 @@
     "id": 4379,
     "fa": "هر جور حسابش کنی, این یک پیشنهاد باخت است",
     "en": "Anyway you slice it, it's a losing proposition",
+    "desc": "“Propose” has two main meanings:\n\n\uD83D\uDC8D Ask someone to marry you\n\nHe proposed to her last night.\n\n\uD83D\uDCAC Suggest an idea or plan\n\nThey proposed a new law.\n\nI propose we take a break.",
     "groupCode": 0
   },
   {
@@ -8779,7 +8780,7 @@
     "id": 4439,
     "fa": "من متعهد (تخصیص) هستم به بهبود دادن انگلیسی‌ام هر روز زبان",
     "en": "I'm dedicated to improving my English every day",
-    "desc": "After dedicated to the ing (gerund) from of a verb is used",
+    "desc": "After “dedicated to”, the verb must be in -ing form (a gerund), not the base form.\n\n✅ dedicated to improving → correct\n\n❌ dedicated to improve → wrong\n\n❌ dedicated improving → wrong (missing “to”)",
     "groupCode": 0
   },
   {
@@ -9882,7 +9883,7 @@
   },
   {
     "id": 4621,
-    "fa": "اعداد اعشاری می توانند کسر داشته باشند، اما اعداد صحیح هستند اعداد کامل",
+    "fa": "اعداد اعشاری می توانند داشته باشند کسرها، اما اعداد صحیح هستند اعداد کامل",
     "en": "Decimal numbers can have fractions, but integer numbers are whole numbers",
     "groupCode": 0
   },
@@ -10050,7 +10051,7 @@
   },
   {
     "id": 4649,
-    "fa": "من رژیمم",
+    "fa": "من (یک) رژیمم",
     "en": "I'm on a diet",
     "groupCode": 0
   },

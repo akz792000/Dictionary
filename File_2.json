@@ -12587,19 +12587,19 @@
   },
   {
     "id": 12065,
-    "en": "What did you right now eat?",
+    "en": "What did you just (right now) eat?",
     "de": "Was hast du gerade gegessen?",
     "groupCode": 1
   },
   {
     "id": 12066,
     "en": "I'm moving next week and I have a lot of stuff. Could you possibly help me, please?",
-    "de": "Ich ziehe nächste Woche um und ich habe viele Sachen. Kannst du mir wahrscheinlich hekfen, bitte?",
+    "de": "Ich ziehe nächste Woche um und ich habe viele Sachen. Kannst du mir wahrscheinlich helfen, bitte?",
     "groupCode": 1
   },
   {
     "id": 12067,
-    "en": "Ilia, please help me! I'll help you later",
+    "en": "Ilia, please help me! I help you later",
     "de": "Ilia, hilf mir, bitte! Ich helfe dir später",
     "groupCode": 1
   },
@@ -12665,19 +12665,19 @@
   },
   {
     "id": 12078,
-    "en": "Your grandma doesn't bake better than the baker",
+    "en": "Your grandma doesn't bake better than the baker (female)",
     "de": "Deine Oma backt nicht besser als die Bäckerin",
     "groupCode": 1
   },
   {
     "id": 12079,
-    "en": "Try the cake from my aunt",
+    "en": "Try (test) the cake from my aunt",
     "de": "Probier den Kuchen von meiner Tante",
     "groupCode": 1
   },
   {
     "id": 12080,
-    "en": "You have to try the cake from my mother",
+    "en": "You have to try (test) the cake from my mother",
     "de": "Du musst den Kuchen von meiner Oma probieren",
     "groupCode": 1
   }
