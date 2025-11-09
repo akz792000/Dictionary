@@ -6600,7 +6600,7 @@
   },
   {
     "id": 11085,
-    "en": "I like drinking tea, prefer (more) coffee, but the most hot chocolate",
+    "en": "I like drinking tea, prefer (more) coffee, but like (prefer) the most hot chocolate",
     "de": "Ich trinke gern Tee, lieber Kaffee, aber am liebsten heiße Schokolade",
     "desc": "English: Like, prefer, like most",
     "groupCode": 1
@@ -6613,7 +6613,7 @@
   },
   {
     "id": 11087,
-    "en": "How do you drive to work most gladly",
+    "en": "How do you drive to work like (prefer) the most",
     "de": "Wie fährst du am liebsten zur Arbeit?",
     "groupCode": 1
   },
@@ -6721,7 +6721,7 @@
   },
   {
     "id": 11105,
-    "en": "Like to, Prefer, Like the most",
+    "en": "Like to, Prefer, Like (prefer) the most",
     "de": "Gern, Lieber, Am liebsten",
     "groupCode": 1
   },
@@ -10358,7 +10358,7 @@
   },
   {
     "id": 11700,
-    "en": "Please don't say anything, he is coming soon (in a moment)",
+    "en": "Say please nothing, he comes soon (in a moment)",
     "de": "Sag bite nichts, er koomt gleich",
     "groupCode": 1
   },
@@ -12269,7 +12269,7 @@
   },
   {
     "id": 12013,
-    "en": "A woman calls, and he laughs",
+    "en": "A woman (phone) calls, and he laughs",
     "de": "Eine Frau ruft an und er lacht",
     "groupCode": 1
   },
@@ -12383,8 +12383,8 @@
   },
   {
     "id": 12032,
-    "en": "\n 1.From 1 to 10 \n 2.From Berlin to Hamburg \n 3.From school to the park \n 4.From Frankfurt via Cologne to Hamburg \n 5.From today on \n 6.From 8 to 10 Uhr \n 7.from 9 o'clock on",
-    "de": "\n 1.Von 1 bis 10 \n 2.Von Berlin nach Hamburg \n 3.Von der Schule zum Park \n 4.Von Frankfurt über Köln bis Hamburg \n 5.Von heute an \n 6.Von 8 bis 10 Uhr \n 7.ab 9 Uhr",
+    "en": "\n 1.From 1 to 10 \n 2.From Berlin to Hamburg \n 3.From school to the park \n 4.From Frankfurt via Cologne to Hamburg \n 5.From today on \n 6.From 8 to 10 Uhr \n 7.From 9 o'clock on",
+    "de": "\n 1.Von 1 bis 10 \n 2.Von Berlin nach Hamburg \n 3.Von der Schule zum Park \n 4.Von Frankfurt über Köln bis Hamburg \n 5.Von heute an \n 6.Von 8 bis 10 Uhr \n 7.Ab 9 Uhr",
     "desc": "Von Berlin nach Hamburg → from Berlin to Hamburg (normal travel)\n\nVon Berlin bis Hamburg → from Berlin as far as Hamburg (emphasizes the distance or limit)",
     "groupCode": 1
   },
@@ -12454,6 +12454,7 @@
     "id": 12043,
     "en": "I need a new light bulb",
     "de": "Ich brauche eine neue Glühbirne",
+    "desc": "Breakdown:\n\nglühen = to glow\n\nBirne = pear (because old bulbs looked like a pear!)",
     "groupCode": 1
   },
   {
@@ -12599,7 +12600,7 @@
   },
   {
     "id": 12067,
-    "en": "Ilia, please help me! I help you later",
+    "en": "Ilia, help me, please! I help you later",
     "de": "Ilia, hilf mir, bitte! Ich helfe dir später",
     "groupCode": 1
   },
@@ -12611,7 +12612,7 @@
   },
   {
     "id": 12069,
-    "en": "Please speak more slowly",
+    "en": "Speak please more slowly",
     "de": "Sprich bitte langsamer",
     "groupCode": 1
   },
@@ -12679,6 +12680,36 @@
     "id": 12080,
     "en": "You have to try (test) the cake from my mother",
     "de": "Du musst den Kuchen von meiner Oma probieren",
+    "groupCode": 1
+  },
+  {
+    "id": 12081,
+    "en": "The lamp is glowing",
+    "de": "Die Lampe glüht",
+    "groupCode": 1
+  },
+  {
+    "id": 12082,
+    "en": "I am eating a pear",
+    "de": "Ich esse eine Birne",
+    "groupCode": 1
+  },
+  {
+    "id": 12083,
+    "en": "You have to try (test) the cake from my mother",
+    "de": "Du musst den Kuchen von meiner Oma probieren",
+    "groupCode": 1
+  },
+  {
+    "id": 12084,
+    "en": "On the table is very dust",
+    "de": "Auf dem Tisch ist viel Staub",
+    "groupCode": 1
+  },
+  {
+    "id": 12085,
+    "en": "That's not my taste",
+    "de": "This is nicht mein Geshmack",
     "groupCode": 1
   }
 ]

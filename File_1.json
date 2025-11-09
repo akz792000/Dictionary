@@ -2074,8 +2074,8 @@
   },
   {
     "id": 3339,
-    "fa": "سن قبل از زیبایی اغلب به صورت طنز استفاده می شود زمانیکه اجازه داده می شود فرد جوانتر رهبری را بر عهده بگیرد",
-    "en": "Age before beauty often used humorously when letting someone younger take the lead",
+    "fa": "'Age before beauty' اغلب استفاده می شود به صورت طنز زمانیکه اجازه داده می شود به جوانتر رهبری را بر عهده بگیرد",
+    "en": "'Age before beauty' is often used humorously when letting someone younger take the lead",
     "groupCode": 0
   },
   {
@@ -6417,7 +6417,7 @@
   },
   {
     "id": 4051,
-    "fa": "ناراحت میشی صبر کنی یک دقیقه؟",
+    "fa": "اشکالی نداره صبر کنی یک دقیقه؟",
     "en": "Do you mind waiting a minute?",
     "groupCode": 0
   },
@@ -10059,6 +10059,42 @@
     "id": 4650,
     "fa": "من منتظر هستم",
     "en": "I'm on hold",
+    "groupCode": 0
+  },
+  {
+    "id": 4651,
+    "fa": "اشکالی نداره اگه از کسی بخوام بیاد پایین و اینو از جاش در بیاره و یه نگاه بهتر بهش بندازه؟",
+    "en": "Do you mind if I have somebody come down and pop this off and take a better look at it",
+    "groupCode": 0
+  },
+  {
+    "id": 4652,
+    "fa": "من نیاز دارم تقویت کنم آلمانیم را قبل از امتحان",
+    "en": "I need to brush up on my German before the exam",
+    "groupCode": 0
+  },
+  {
+    "id": 4653,
+    "fa": "من پیشنهاد می کنم ما استراحت کنیم",
+    "en": "I propose we take a break",
+    "groupCode": 0
+  },
+  {
+    "id": 4654,
+    "fa": "می تونی شما یه کم آروم (پایین نگه داشتن) باشی؟",
+    "en": "Can you keep down a bit?",
+    "groupCode": 0
+  },
+  {
+    "id": 4655,
+    "fa": "آنها را خیلی راحت میشه ترسوندشون",
+    "en": "They are very easy to spook",
+    "groupCode": 0
+  },
+  {
+    "id": 4656,
+    "fa": "Baby boomers اشاره می شود به نسلی متولد شده تقریباً بین ۱۹۴۶ تا ۱۹۶۴",
+    "en": "Baby boomers refers to the generation born roughly between 1946 and 1964",
     "groupCode": 0
   }
 ]
