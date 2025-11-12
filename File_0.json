@@ -12795,7 +12795,7 @@
   },
   {
     "id": 2106,
-    "fa": "من خراب و داغونم",
+    "fa": "من (یک) خراب و داغونم",
     "en": "I'm a wreck",
     "groupCode": 0
   },
@@ -16849,6 +16849,7 @@
     "id": 2772,
     "fa": "شاید زمانی بوده است که خودم (فرضی) را فاش میکردم (لو دادم)",
     "en": "There might've been a time when I would give myself away",
+    "desc": "in casual conversation, people often say “would give” instead of the more formal “would have given,” especially when talking about a past tendency or emotional memory.\n\n✅ Example (casual): “There was a time I would do anything for you.”\n\uD83D\uDCD8 Formal version: “There was a time I would have done anything for you.”\n\nBoth are correct — the first just sounds more natural and conversational.",
     "groupCode": 0
   },
   {
@@ -16927,8 +16928,8 @@
   },
   {
     "id": 2785,
-    "fa": "من تو را از زمانی که یه جغله بچه بودی می شناسم",
-    "en": "I've know you since you were knee-high to a grasshopper",
+    "fa": "من تو را می شناسم از زمانی که تو بودی یه جغله بچه",
+    "en": "I've known you since you were knee-high to a grasshopper",
     "groupCode": 0
   },
   {

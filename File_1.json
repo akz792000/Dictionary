@@ -518,7 +518,7 @@
   },
   {
     "id": 3085,
-    "fa": "چه می بره (چه چیزی لازم است) اگر می تونستی آن را در یک کلمه خلاصه کنی؟",
+    "fa": "چه می بره (چه چیزی لازم است) اگر شما می تونستی خلاصه کنی آنرا در یک کلمه؟",
     "en": "What does it take if you could summarize it in one word?",
     "groupCode": 0
   },
@@ -7945,7 +7945,7 @@
   },
   {
     "id": 4302,
-    "fa": "من احساس عصبانی (اذیت) شدم از صدای بلند",
+    "fa": "من احساس عصبانی (اذیت) کردم از صدای بلند",
     "en": "I felt irritated by the loud noise",
     "groupCode": 0
   },
@@ -9351,6 +9351,7 @@
     "id": 4533,
     "fa": "Least Bandwidth – می فرستد درخواست ها به سروری در حال حاضر استفاده می کند کمترین پهنای باند شبکه",
     "en": "Least Bandwidth – Sends requests to the server currently using the least network bandwidth",
+    "desc": "“Sends requests to the server currently using the least network bandwidth.”\n\nThe part “currently using the least network bandwidth” is a participial phrase.\n\nParticipial phrases start with a present participle (the “-ing” form of a verb) and act like adjectives — they describe a noun.\n\nHere, “using” describes the noun “server” \n\n\n In Farsi, a participle phrase is usually translated as:\n\n«عبارت وصفی با اسم مفعولی یا حال»",
     "groupCode": 0
   },
   {
@@ -9797,7 +9798,7 @@
   },
   {
     "id": 4607,
-    "fa": "هوش مصنوعی نیست به طور درستی عینی (بی طرف) , حتی اگر ممکنه به نظر برسد باشد",
+    "fa": "هوش مصنوعی به درستی بی طرف نیست, حتی اگر ممکنه به نظر برسد باشد",
     "en": "AI is not truly objective, even though it might appear to be",
     "groupCode": 0
   },
@@ -10095,6 +10096,43 @@
     "id": 4656,
     "fa": "Baby boomers اشاره می شود به نسلی متولد شده تقریباً بین ۱۹۴۶ تا ۱۹۶۴",
     "en": "Baby boomers refers to the generation born roughly between 1946 and 1964",
+    "groupCode": 0
+  },
+  {
+    "id": 4657,
+    "fa": "یه زمانی بود (که) من هر کاری برات بکنم",
+    "en": "There was a time I would do anything for you",
+    "desc": "People often say things like\n\n“There was a time I would do anything for you,”\nrather than\n\n“There was a time I would have done anything for you.”\nThe first one feels more immediate and conversational.",
+    "groupCode": 0
+  },
+  {
+    "id": 4658,
+    "fa": "او (زن) دست هایش را روی هیپ هایش (کفل) گذاشته است (روی هیپ هایش دارد)",
+    "en": "She has her hands on her hips",
+    "groupCode": 0
+  },
+  {
+    "id": 4659,
+    "fa": "شلوار جینم خیلی تنگ است دور کمر",
+    "en": "My jeans are too tight around the waist",
+    "groupCode": 0
+  },
+  {
+    "id": 4660,
+    "fa": "گربه سعی کرد تعقیب کند پرنده را",
+    "en": "The cat tried to stalk the bird",
+    "groupCode": 0
+  },
+  {
+    "id": 4661,
+    "fa": "سازمان منتشر می کند حقایق مربوط به سلامت را",
+    "en": "The organization disseminates facts about health",
+    "groupCode": 0
+  },
+  {
+    "id": 4662,
+    "fa": "قاضی باید بی طرف باشد در صدور احکام",
+    "en": "The judge must be objective in making decisions",
     "groupCode": 0
   }
 ]

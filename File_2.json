@@ -6570,7 +6570,7 @@
   },
   {
     "id": 11080,
-    "en": "This is not light, this is heavy",
+    "en": "This is not lightweight, this is heavy",
     "de": "Das ist nicht leicht, das ist schwer",
     "groupCode": 1
   },
@@ -6824,7 +6824,7 @@
   },
   {
     "id": 11122,
-    "en": "The suitcase is light",
+    "en": "The suitcase is lightweight",
     "de": "Der Koffer ist leicht",
     "groupCode": 1
   },
@@ -9821,7 +9821,7 @@
   },
   {
     "id": 11612,
-    "en": "Please give me notification",
+    "en": "Give me please notification",
     "de": "Gib mir bitte Bescheid",
     "groupCode": 1
   },
@@ -12160,7 +12160,7 @@
   },
   {
     "id": 11995,
-    "en": "I can't climb the ladder anymore. Please (formal) call me!",
+    "en": "I can't climb the ladder anymore. Call (formal) me! Please",
     "de": "Ich kann nicht mehr auf die Leiter steigen. Rufen Sie mich bitte!",
     "groupCode": 1
   },
@@ -12418,6 +12418,7 @@
     "id": 12037,
     "en": "He didn't come into the club (emphasizes entering)",
     "de": "Er ist nicht in den Club reingekommen",
+    "desc": "In German, the negation word “nicht” usually comes before the part of the sentence it negates.\n\nHere, it negates “in den Club reingekommen” → the whole action.",
     "groupCode": 1
   },
   {
@@ -12696,8 +12697,8 @@
   },
   {
     "id": 12083,
-    "en": "You have to try (test) the cake from my mother",
-    "de": "Du musst den Kuchen von meiner Oma probieren",
+    "en": "Were you happy about the yoga? No, I wasn't happy about it",
+    "de": "Hast du dich über das Yoga gefreut? Nein, darüber habe ich mich nicht gefreut",
     "groupCode": 1
   },
   {
@@ -12710,6 +12711,96 @@
     "id": 12085,
     "en": "That's not my taste",
     "de": "This is nicht mein Geshmack",
+    "groupCode": 1
+  },
+  {
+    "id": 12086,
+    "en": "I make a mistake",
+    "de": "Ich mache einen Fehler",
+    "groupCode": 1
+  },
+  {
+    "id": 12087,
+    "en": "He always has an excuse",
+    "de": "Er hat immer eine Ausrede",
+    "groupCode": 1
+  },
+  {
+    "id": 12088,
+    "en": "I am distracted",
+    "de": "Ich bin abgelenkt",
+    "groupCode": 1
+  },
+  {
+    "id": 12089,
+    "en": "The rent is expensive",
+    "de": "Die Miete ist teuer",
+    "groupCode": 1
+  },
+  {
+    "id": 12090,
+    "en": "He is absent-minded today",
+    "de": "Er ist heute geistesabwesend",
+    "groupCode": 1
+  },
+  {
+    "id": 12091,
+    "en": "The teacher forbids phones in the class",
+    "de": "Der Lehrer verbietet Handys im Unterricht",
+    "groupCode": 1
+  },
+  {
+    "id": 12092,
+    "en": "He made a remark",
+    "de": "Er hat eine Bemerkung gemacht",
+    "groupCode": 1
+  },
+  {
+    "id": 12093,
+    "en": "There is a lot of dust in the room",
+    "de": "Es gibt viel Staub im Zimmer",
+    "groupCode": 1
+  },
+  {
+    "id": 12094,
+    "en": "The pear is sweet",
+    "de": "Die Birne ist süß",
+    "groupCode": 1
+  },
+  {
+    "id": 12095,
+    "en": "I like the taste of chocolate",
+    "de": "Ich mag den Geschmack von Schokolade",
+    "groupCode": 1
+  },
+  {
+    "id": 12096,
+    "en": "He comes probably later",
+    "de": "Er kommt wahrscheinlich später",
+    "groupCode": 1
+  },
+  {
+    "id": 12097,
+    "en": "Were you annoyed today? Yes, I was annoyed today because I had too much to do",
+    "de": "Hast du dich heute geärgert? Ja, ich habe mich heute geärgert, weil ich viel zu tun hatte",
+    "groupCode": 1
+  },
+  {
+    "id": 12098,
+    "en": "The vacuum cleaner is very strong",
+    "de": "Der Staubsauger ist sehr stark",
+    "groupCode": 1
+  },
+  {
+    "id": 12099,
+    "en": "We can shop with the voucher",
+    "de": "Wir können mit dem Gutschein einkaufen",
+    "groupCode": 1
+  },
+  {
+    "id": 12100,
+    "en": "I have no debts",
+    "de": "Ich habe keine Schulden",
     "groupCode": 1
   }
 ]
