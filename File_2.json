@@ -7711,8 +7711,9 @@
   },
   {
     "id": 11268,
-    "en": "I'm sorry. I'm not from here",
-    "de": "Tut mir leid. Ich bin nicht von hier",
+    "en": "I'm sorry. I'm not from here. I am not from Berlin",
+    "de": "Tut mir leid. Ich bin nicht von hier. Ich komme nicht aus Berlin",
+    "desc": "von hier = from here (location origin in a general sense)\n\naus is used with a specific place, not with “here.”\n\nCorrect: Ich komme aus Deutschland.\n\nWrong: Ich komme aus hier.",
     "groupCode": 1
   },
   {
@@ -10729,7 +10730,7 @@
   },
   {
     "id": 11761,
-    "en": "The battery of my phone is empty. I have to go home quickly now",
+    "en": "The battery of my cell phone is empty. I have to go home quickly now",
     "de": "Der Akku von meinem Handy ist leer. Ich muss jetzt schnell nach Hause (gehen)",
     "desc": "So the full thought is:\n\uD83D\uDC49 Ich muss jetzt schnell nach Hause gehen.\nBut in German it's totally fine (and very common) to drop the final gehen — everyone understands it.",
     "groupCode": 1
@@ -12263,7 +12264,7 @@
   },
   {
     "id": 12012,
-    "en": "Suddenly his mobile phone rings",
+    "en": "Suddenly his cell phone rings",
     "de": "Plötzlich klingelt sein Handy",
     "groupCode": 1
   },
@@ -12595,7 +12596,7 @@
   },
   {
     "id": 12066,
-    "en": "I'm moving next week and I have a lot of stuff. Could you possibly help me, please?",
+    "en": "I'm moving next week and I have a lot of stuff. Can you possibly help me, please?",
     "de": "Ich ziehe nächste Woche um und ich habe viele Sachen. Kannst du mir wahrscheinlich helfen, bitte?",
     "groupCode": 1
   },
@@ -12703,7 +12704,7 @@
   },
   {
     "id": 12084,
-    "en": "On the table is very dust",
+    "en": "On the table is a lot of (much) dust",
     "de": "Auf dem Tisch ist viel Staub",
     "groupCode": 1
   },
@@ -12745,7 +12746,7 @@
   },
   {
     "id": 12091,
-    "en": "The teacher forbids phones in the class",
+    "en": "The teacher forbids cell phones in the class",
     "de": "Der Lehrer verbietet Handys im Unterricht",
     "groupCode": 1
   },
@@ -12757,7 +12758,7 @@
   },
   {
     "id": 12093,
-    "en": "There is a lot of dust in the room",
+    "en": "There is a lot of (much) dust in the room",
     "de": "Es gibt viel Staub im Zimmer",
     "groupCode": 1
   },
@@ -12801,6 +12802,30 @@
     "id": 12100,
     "en": "I have no debts",
     "de": "Ich habe keine Schulden",
+    "groupCode": 1
+  },
+  {
+    "id": 12101,
+    "en": "The voucher is applicable (apply) until tomorrow",
+    "de": "Der Gutschein gilt bis morgen",
+    "groupCode": 1
+  },
+  {
+    "id": 12102,
+    "en": "That applies to (for) everyone",
+    "de": "Das gilt für alle",
+    "groupCode": 1
+  },
+  {
+    "id": 12103,
+    "en": "The rule applies to (for) you too",
+    "de": "Die Regel gilt auch für dich",
+    "groupCode": 1
+  },
+  {
+    "id": 12104,
+    "en": "The ticket is applicable (apply) only today",
+    "de": "Das Ticket gilt nur heute",
     "groupCode": 1
   }
 ]

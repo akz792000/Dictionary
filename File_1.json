@@ -843,8 +843,8 @@
   },
   {
     "id": 3138,
-    "fa": "من فقط نمی خواهم مامانم فکر کند که چون من با فهیم ازدواج نکردم، زندگی من چرند است",
-    "en": "I just don't want my mom to think that because I didn't marry Fahim, my life is crap",
+    "fa": "من فقط نمی خواهم مامانم فکر کند که چون من با او (زن) ازدواج نکردم، زندگی من چرند است",
+    "en": "I just don't want my mom to think that because I didn't marry her, my life is crap",
     "groupCode": 0
   },
   {
@@ -9558,7 +9558,7 @@
   },
   {
     "id": 4567,
-    "fa": "ممنون از اینکه به من اطلاع دادید (گذاشتید من بدانم). من پیگیریش می کنم",
+    "fa": "ممنون از اینکه به من اطلاع دادید (گذاشتید من بدانم). من پیگیریش خواهم کرد",
     "en": "Thank you for letting me know. I will follow it up",
     "groupCode": 0
   },
@@ -10113,7 +10113,7 @@
   },
   {
     "id": 4659,
-    "fa": "شلوار جینم خیلی تنگ است دور کمر",
+    "fa": "جینم (شلوار) خیلی تنگ است دور کمر",
     "en": "My jeans are too tight around the waist",
     "groupCode": 0
   },
@@ -10131,8 +10131,38 @@
   },
   {
     "id": 4662,
-    "fa": "قاضی باید بی طرف باشد در صدور احکام",
+    "fa": "قاضی باید بی طرف باشد در صدور (ساختن) احکام",
     "en": "The judge must be objective in making decisions",
+    "groupCode": 0
+  },
+  {
+    "id": 4663,
+    "fa": "آیا شما می خوانید (مودبانه) یک آهنگ اگر کسی بخواهد از شما فوراً؟",
+    "en": "Would you sing a song if someone asked you on the spot?",
+    "groupCode": 0
+  },
+  {
+    "id": 4664,
+    "fa": "او (مرد) عذرخواهی کرد به منظور ترمیم یک شکاف بین خودش و برادرش",
+    "en": "He apologized in a bid to mend a rift between him and his brother",
+    "groupCode": 0
+  },
+  {
+    "id": 4665,
+    "fa": "در یک شنونده رویداد Spring، اگر متد همزمان باشد، بلافاصله اجرا میشود. اگر ناهمزمان باشد، Spring آن را در یک مخزن نخ (thread pool) زمانبندی میکند و زمانبندی بلافاصله اتفاق میافتد. با این حال، از نظر فنی، شنونده ممکن است قبل از اتمام نخ فعلی شروع به اجرا کند، بنابراین هیچ تضمین ۱۰۰٪ وجود ندارد که بعد از نخ فعلی اجرا شود",
+    "en": "In a Spring event listener, if the method is synchronous, it executes immediately. If it's asynchronous, Spring schedules it on a thread pool, and the scheduling happens immediately. However, technically the listener might start executing before the current thread finishes, so there is no 100% guarantee it will run after the current thread",
+    "groupCode": 0
+  },
+  {
+    "id": 4666,
+    "fa": "احتمال برخورد هنگام تولید یک UUID تصادفی (نسخه ۴) ۱ در ۲¹²² (حدود ۱ در ۵.۳ x ۱۰³⁶) است. این مقدار آنقدر کم است که حتی اگر به مدت ۱۰۰ سال، ۱ میلیارد UUID در ثانیه تولید کنید، احتمال برخورد همچنان ناچیز خواهد بود - عملاً برای هر برنامه دنیای واقعی صفر است.",
+    "en": "The probability of a collision when generating a random UUID (version 4) is 1 in 2¹²² (about 1 in 5.3 x 10³⁶). This is so small that, even if you generated 1 billion UUIDs per second for 100 years, the chance of a collision would still be negligible—practically zero for any real-world application",
+    "groupCode": 0
+  },
+  {
+    "id": 4667,
+    "fa": "من می توانم ببینم تمام کاربرانی را که مشتریانشان دسترسی دارند به نهادهایی که من مدیریت می کنم، و همچنین کاربرانی را که کد کشورشان یکسان است با نهادهایی که من مدیریت می کنم",
+    "en": "I can see all users whose customers have access to the entities I manage, and also users whose country code is the same as the entities I manage",
     "groupCode": 0
   }
 ]

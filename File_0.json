@@ -10728,7 +10728,7 @@
   },
   {
     "id": 1767,
-    "fa": "فکر نمی کنم تصادفی بوده باشد",
+    "fa": "من فکر نمی کنم یک تصادف باشه",
     "en": "I don't think it was an accident",
     "groupCode": 0
   },
@@ -11311,7 +11311,7 @@
   },
   {
     "id": 1862,
-    "fa": "میشه منو ببری خونه لطفا؟",
+    "fa": "میتونی شما منو ببری خونه لطفا؟",
     "en": "Can you take me home please?",
     "groupCode": 0
   },
@@ -11419,7 +11419,7 @@
   },
   {
     "id": 1880,
-    "fa": "میتونی منو برگردونی خونه؟",
+    "fa": "میتونی شما منو برگردونی خونه؟",
     "en": "Can you take me back home?",
     "groupCode": 0
   },
@@ -12320,7 +12320,7 @@
   },
   {
     "id": 2028,
-    "fa": "به نظر می رسد که شما میل شدیدی به این وظیفه دارید",
+    "fa": "به نظر می رسد که شما دارید یک میل شدیدی برای این وظیفه",
     "en": "It seems that you have an overwhelming desire for this task",
     "desc": "\"Seems like\" = informal \"It seems that\" = formal",
     "groupCode": 0
@@ -13543,7 +13543,7 @@
   {
     "id": 2229,
     "fa": "دارو برای چه کسی است؟",
-    "en": "Who the medicine is for?",
+    "en": "Who is the medicine for?",
     "groupCode": 0
   },
   {
