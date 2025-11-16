@@ -3095,7 +3095,7 @@
   },
   {
     "id": 10507,
-    "en": "My roommate (male) is annoyed/angry but why?",
+    "en": "My roommate (male) is angry but why?",
     "de": "Mein Mitbewohner ist verärgert aber warum?",
     "groupCode": 1
   },
@@ -3480,7 +3480,7 @@
   },
   {
     "id": 10571,
-    "en": "I am very annoyed/angry",
+    "en": "I am very angry",
     "de": "Ich bin sehr verärgert",
     "groupCode": 1
   },
@@ -6166,7 +6166,7 @@
   },
   {
     "id": 11013,
-    "en": "I'm annoyed/angry, because she never wants to wash her clothes",
+    "en": "I'm angry, because she never wants to wash her clothes",
     "de": "\n 1.Ich bin verärgert, denn sie will nie ihre Kleidung waschen \n 2.Ich bin verärgert, weil sie nie ihre Kleidung waschen will",
     "groupCode": 1
   },
@@ -6370,7 +6370,7 @@
   },
   {
     "id": 11047,
-    "en": "Are you annoyed/angry? No, I'm not annoyed/angry",
+    "en": "Are you angry? No, I'm not angry",
     "de": "Bist du verärgert? Nein, Ich bin nicht verärgert",
     "groupCode": 1
   },
@@ -11462,7 +11462,7 @@
   },
   {
     "id": 11881,
-    "en": "Although the weather was bad, we went for a walk in the park last night",
+    "en": "Although the weather was bad, we went for a walk in the park yesterday evening",
     "de": "Obwohl das wetter schlecht war, sind wir gestern Abend im Park spazieren gegangen",
     "desc": "In a subordinate clause with „obwohl“ (although):\n\nThe verb goes to the end → „obwohl das Wetter schlecht war“\n\nIn the main clause, the verb comes right after the comma → „sind wir … gegangen“",
     "groupCode": 1
@@ -11481,7 +11481,7 @@
   },
   {
     "id": 11884,
-    "en": "I'm not annoyed/angry, we're both right",
+    "en": "I'm not angry, we're both right",
     "de": "Ich bin nicht verärgert, wir haben beide recht",
     "groupCode": 1
   },
@@ -11586,7 +11586,7 @@
   {
     "id": 11901,
     "en": "My neighbor complained (herself) because I played the music too loud",
-    "de": "Mein Nachbar hat sich beschwert, weil ich die Musik zu laut gespielt habe",
+    "de": "Mein Nachbarin hat sich beschwert, weil ich die Musik zu laut gespielt habe",
     "desc": "The verb beschweren is reflexive when it means to complain.\nThat means it always comes with „sich“ — a reflexive pronoun referring back to the subject.",
     "groupCode": 1
   },
@@ -12100,7 +12100,7 @@
   },
   {
     "id": 11985,
-    "en": "The general opinion is that exercise is healthy",
+    "en": "The general opinion is that sport is healthy",
     "de": "Die allgemeine Meinung ist, dass Sport gesund ist",
     "groupCode": 1
   },
@@ -12162,7 +12162,7 @@
   {
     "id": 11995,
     "en": "I can't climb the ladder anymore. Call (formal) me! Please",
-    "de": "Ich kann nicht mehr auf die Leiter steigen. Rufen Sie mich bitte!",
+    "de": "Ich kann nicht mehr auf die Leiter steigen. Rufen Sie mich bitte an!",
     "groupCode": 1
   },
   {
@@ -12342,7 +12342,7 @@
   },
   {
     "id": 12025,
-    "en": "You (formal) must do it by yourself (emphasis)",
+    "en": "You (formal) must do (make) it by yourself (emphasis)",
     "de": "Sie müssen es selbst machen",
     "groupCode": 1
   },
@@ -12572,7 +12572,7 @@
   },
   {
     "id": 12062,
-    "en": "Please remove the card",
+    "en": "Please remove card",
     "de": "Bitte Karte entnehmen",
     "groupCode": 1
   },
@@ -12746,7 +12746,7 @@
   },
   {
     "id": 12091,
-    "en": "The teacher forbids cell phones in the class",
+    "en": "The teacher forbids cell phones in the teaching",
     "de": "Der Lehrer verbietet Handys im Unterricht",
     "groupCode": 1
   },
@@ -12826,6 +12826,103 @@
     "id": 12104,
     "en": "The ticket is applicable (apply) only today",
     "de": "Das Ticket gilt nur heute",
+    "groupCode": 1
+  },
+  {
+    "id": 12105,
+    "en": "Have you (formal) inserted the shipment (sending)?",
+    "de": "Haben Sie die Sendung eingelegt?",
+    "groupCode": 1
+  },
+  {
+    "id": 12106,
+    "en": "My baby never tries my apple cake",
+    "de": "Mein Baby probiert nie meinen Apfelkuchen",
+    "groupCode": 1
+  },
+  {
+    "id": 12107,
+    "en": "The cook (female) comes from France",
+    "de": "Die köchin kommt aus frankreich",
+    "groupCode": 1
+  },
+  {
+    "id": 12108,
+    "en": "Whose cookies are the sweetest?",
+    "de": "Wessen Kekse sind am Süßesten?",
+    "groupCode": 1
+  },
+  {
+    "id": 12109,
+    "en": "What are you buying me for Christmas?",
+    "de": "Was kaufst du mir zu Weihnachten?",
+    "desc": "✅ We use “zu” with holidays because it means “at the time of / on the occasion of.”\n\nSo:\n\nzu Weihnachten = at Christmas / for Christmas (as an occasion)\n\nzu Ostern = at Easter\n\nzu meinem Geburtstag = on my birthday",
+    "groupCode": 1
+  },
+  {
+    "id": 12110,
+    "en": "When are you driving to the shopping center?",
+    "de": "Wann fährst du zum Einkaufszentrum?",
+    "groupCode": 1
+  },
+  {
+    "id": 12111,
+    "en": "Everything is alright (ordering)",
+    "de": "Alles ist in Ordnung",
+    "groupCode": 1
+  },
+  {
+    "id": 12112,
+    "en": "My brother like swimming very, even with his cat",
+    "de": "Mein Bruder schwimmt sehr gern, sogar mit seiner Katze",
+    "groupCode": 1
+  },
+  {
+    "id": 12113,
+    "en": "We play cards with the whole family every year",
+    "de": "Wir Spielen jedes Jahr mit der ganzen Familie Karten",
+    "groupCode": 1
+  },
+  {
+    "id": 12114,
+    "en": "I asked whether the bus is coming soon",
+    "de": "Ich habe gefragt, ob der Bus bald kommt",
+    "groupCode": 1
+  },
+  {
+    "id": 12115,
+    "en": "This goose isn't for dinner, it lives here",
+    "de": "Diese Gans ist nicht zum Abendessen, sie wohnt hier",
+    "groupCode": 1
+  },
+  {
+    "id": 12116,
+    "en": "How often do you go to the hairdresser?",
+    "de": "Wie oft gehst du zum Friseur?",
+    "groupCode": 1
+  },
+  {
+    "id": 12117,
+    "en": "No, my apple strudel is sweeter",
+    "de": "Nein, mein Apfelstrudel ist Süßer",
+    "groupCode": 1
+  },
+  {
+    "id": 12118,
+    "en": "Why is the soup colder than the water?",
+    "de": "Warum ist die Supper kälter als das Wasser?",
+    "groupCode": 1
+  },
+  {
+    "id": 12119,
+    "en": "In that restaurant the noodles are the worst",
+    "de": "In dem Restaurant sind die Nudeln am schlechtesten",
+    "groupCode": 1
+  },
+  {
+    "id": 12120,
+    "en": "In your bar the chairs are the worst",
+    "de": "In deiner Bar sind die Stühle am schlechtesten",
     "groupCode": 1
   }
 ]

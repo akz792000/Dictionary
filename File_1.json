@@ -6146,7 +6146,7 @@
   {
     "id": 4006,
     "fa": "این نظرسنجی (به این) منظور است مختصر باشد",
-    "en": "The survey is meant to be concise",
+    "en": "The survey is meant to be concise/brief",
     "groupCode": 0
   },
   {
@@ -6326,7 +6326,7 @@
   },
   {
     "id": 4036,
-    "fa": "نردبان به نظر می رسید متزلزل روی زمین نابرابر",
+    "fa": "نردبان به نظر رسید متزلزل روی زمین نابرابر",
     "en": "The ladder looked precarious on the uneven ground",
     "groupCode": 0
   },
@@ -9880,6 +9880,7 @@
     "id": 4620,
     "fa": "من سعی می کنم دفع کنم ترس های پسرم را",
     "en": "I try to dispel my son's fears",
+    "desc": "Fend off is used for external attacks or threats — like animals, attackers, or unwanted problems",
     "groupCode": 0
   },
   {
@@ -10163,6 +10164,36 @@
     "id": 4667,
     "fa": "من می توانم ببینم تمام کاربرانی را که مشتریانشان دسترسی دارند به نهادهایی که من مدیریت می کنم، و همچنین کاربرانی را که کد کشورشان یکسان است با نهادهایی که من مدیریت می کنم",
     "en": "I can see all users whose customers have access to the entities I manage, and also users whose country code is the same as the entities I manage",
+    "groupCode": 0
+  },
+  {
+    "id": 4668,
+    "fa": "من قادر بودم دفع کنم راهزنان",
+    "en": "I was able to fend off bandits",
+    "groupCode": 0
+  },
+  {
+    "id": 4669,
+    "fa": "من دارم این توانایی را تا مهار کنم احساساتم را",
+    "en": "I have this ability to harness my emotions",
+    "groupCode": 0
+  },
+  {
+    "id": 4670,
+    "fa": "خدا آرزویم را برآورده کرد",
+    "en": "God granted my wish",
+    "groupCode": 0
+  },
+  {
+    "id": 4671,
+    "fa": "او (زن) به شدت ( نیاز شدید به چیزی. نا امیدانه) به راهی نیاز داشت تا محافظت کند از خودش و دخترانش",
+    "en": "She was desperate for a way to protect herself and her daughters",
+    "groupCode": 0
+  },
+  {
+    "id": 4672,
+    "fa": "او (مرد) یک بی اعتمادبه نفس احمق است",
+    "en": "He is an insecure jerkwad",
     "groupCode": 0
   }
 ]
