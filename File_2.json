@@ -610,7 +610,7 @@
   },
   {
     "id": 10100,
-    "en": "Are you (plural) coming? The teaching starts soon (in a moment)",
+    "en": "Are you (plural) coming? The teaching starts in a moment",
     "de": "Kommt ihr? Der Unterricht fängt gleich an",
     "groupCode": 1
   },
@@ -2305,7 +2305,7 @@
   },
   {
     "id": 10377,
-    "en": "Your mother is coming soon (in a moment), where are the flowers?",
+    "en": "Your mother is coming in a moment, where are the flowers?",
     "de": "Deine Mutter kommt gleich, wo sind die Blumen?",
     "groupCode": 1
   },
@@ -2792,7 +2792,7 @@
   },
   {
     "id": 10457,
-    "en": "Ali comes right soon (in a moment) from the train station to the party. Can you pick up Ali from the train station?",
+    "en": "Ali comes right in a moment from the train station to the party. Can you pick up Ali from the train station?",
     "de": "Ali kommt gleich vom Bahnhof zur Party. Kannst du Ali vom Bahnhof abholen?",
     "groupCode": 1
   },
@@ -5029,7 +5029,7 @@
   },
   {
     "id": 10826,
-    "en": "It's already dark, what (how) time is it? It's soon (in a moment) 8 o'clock",
+    "en": "It's already dark, what (how) time is it? It's in a moment 8 o'clock",
     "de": "Es ist schon dunkel, wie spät ist es? Es ist gleich 8 Uhr",
     "groupCode": 1
   },
@@ -5614,7 +5614,7 @@
   },
   {
     "id": 10922,
-    "en": "Are you going to the supermarket right soon (in a moment)? I'm going into the supermarket right soon (in a moment)",
+    "en": "Are you going to the supermarket in a moment? I'm going into the supermarket right soon (in a moment)",
     "de": "Gehst du gleich in den Supermarkt? Ich gehe gleich in den Supermarkt",
     "groupCode": 1
   },
@@ -5748,7 +5748,7 @@
   },
   {
     "id": 10944,
-    "en": "Who has a chair? The basketball game begins soon (in a moment), do you want to come along?",
+    "en": "Who has a chair? The basketball game begins in a moment, do you want to come along?",
     "de": "Wer hat einen Stuhl? Das Basketballspiel beginnt gleich, willst du mitkommen?",
     "groupCode": 1
   },
@@ -6757,7 +6757,7 @@
   },
   {
     "id": 11111,
-    "en": "Someone brings me to the airport soon (in a moment) and I fly again to Bonn",
+    "en": "Someone brings me to the airport in a moment and I fly again to Bonn",
     "de": "Jemand bringt mich gleich zum Flughafen und ich fliege wieder nach Bonn",
     "groupCode": 1
   },
@@ -9062,7 +9062,7 @@
   },
   {
     "id": 11488,
-    "en": "Could you please tell (say) me if you are coming to my birthday?",
+    "en": "Could you please tell (say) me whether you are coming to my birthday?",
     "de": "Könntest du mir bitte sagen, ob du zu meinem Geburtstag kommst?",
     "groupCode": 1
   },
@@ -9074,7 +9074,7 @@
   },
   {
     "id": 11490,
-    "en": "We're driving currently to the concert, where are you?",
+    "en": "We're driving right now to the concert, where are you?",
     "de": "Wir fahren gerade zum Konzert, wo bist du?",
     "groupCode": 1
   },
@@ -10359,7 +10359,7 @@
   },
   {
     "id": 11700,
-    "en": "Say please nothing, he comes soon (in a moment)",
+    "en": "Say please nothing, he comes in a moment",
     "de": "Sag bite nichts, er koomt gleich",
     "groupCode": 1
   },
@@ -10737,7 +10737,7 @@
   },
   {
     "id": 11762,
-    "en": "You don't still want to go soon (in a moment) again? What's wrong?",
+    "en": "You don't still want to go in a moment again? What's wrong?",
     "de": "Du willst doch nicht gleich wieder gehen? Was ist denn los?",
     "groupCode": 1
   },
@@ -10836,7 +10836,7 @@
   },
   {
     "id": 11778,
-    "en": "The party starts soon (in a moment), call your siblings",
+    "en": "The party starts in a moment, call your siblings",
     "de": "Die Party fängt gleich an, ruf deine Geschwister an",
     "groupCode": 1
   },
@@ -11153,7 +11153,7 @@
   },
   {
     "id": 11830,
-    "en": "I can answer your (formal) questions soon (in a moment)",
+    "en": "I can answer your (formal) questions in a moment",
     "de": "Ich kann gleich Ihre Fragen beantworten",
     "groupCode": 1
   },
@@ -11548,7 +11548,7 @@
   },
   {
     "id": 11895,
-    "en": "Now I have got a position at the reception in a hotel and am currently moving",
+    "en": "Now I have got a position at the reception in a hotel and right now moving",
     "de": "Jetzt habe ich eine Stelle an der Rezeption in einem Hotel bekommen und ziehe gerade um",
     "groupCode": 1
   },
@@ -12081,7 +12081,7 @@
   },
   {
     "id": 11982,
-    "en": "because, that, although, if, before, after, etc → send the verb to the end",
+    "en": "because, that, although, if (whenever), before, after, etc → send the verb to the end",
     "de": "weil, dass, obwohl, wenn, bevor, nachdem, etc → Sende das Verb ans Ende",
     "groupCode": 1
   },
@@ -12114,7 +12114,7 @@
     "id": 11987,
     "en": "Why do you like going there?",
     "de": "\n 1.Warum gehst du gerne dorthin? \n 2.Warum gehst du gern dorthin?",
-    "desc": "“gern” = more common in spoken German, short and casual.\n\nExample:\n\nIch esse gern Pizza.\n(I like eating pizza.)\n\n“gerne” = slightly more formal or emphatic, often used in writing or polite speech.\n\nExample:\n\nIch helfe dir gerne.\n(I'm happy to help you.)",
+    "desc": "“gern” = more common in spoken German, short and casual.\n\nExample:\n\nIch esse gern Pizza.\n(I like eating pizza.)\n\n“gerne” = slightly more formal or emphatic, often used in writing or polite speech.\n\nExample:\n\nIch helfe dir gerne.\n(I'm happy to help you.) \n\n ChatGPT said:\n\nSure! Here’s a brief explanation:\n\ndort = there (location, no movement)\n→ Ich bin dort. = I am there.\n\ndorthin = to there (movement)\n→ Ich gehe dorthin. = I am going there.\n\nSince gehen means movement, you must use dorthin, not dort.\n\nCorrect: Warum gehst du gern dorthin?",
     "groupCode": 1
   },
   {
@@ -12566,14 +12566,14 @@
   },
   {
     "id": 12061,
-    "en": "Please take out your card",
-    "de": "Bitte Karte herausnehmen",
+    "en": "\n 1.I take the book out \n 2.Can you take the battery out? \n 3.He takes the key out of the bag \n 4.She takes the food out of the fridge \n 5.We take the shoes out of the box \n 6.Please take out your notebooks",
+    "de": "\n 1.Ich nehme das Buch heraus \n 2.Kannst du die Batterie herausnehmen? \n 3.Er nimmt den Schlüssel aus der Tasche heraus \n 4.Sie nimmt das Essen aus dem Kühlschrank heraus \n 5.Wir nehmen die Schuhe aus der Box heraus \n 6.Nehmt bitte eure Hefte heraus",
     "groupCode": 1
   },
   {
     "id": 12062,
-    "en": "Please remove card",
-    "de": "Bitte Karte entnehmen",
+    "en": "\n 1.I take out the document \n 2.You remove the battery \n 3.He/She/It takes the money out of the bag \n 4.We take a sample \n 5.You (plural) take out a sheet of paper \n 6.They extract the data from the table",
+    "de": "\n 1.Ich entnehme das Dokument \n 2.Du entnimmst die Batterie \n 3.Er/Sie/Es entnimmt das Geld aus der Tasche \n 4.Wir entnehmen eine Probe \n 5.Ihr entnehmt ein Blatt Papier \n 6.Sie entnehmen die Daten aus der Tabelle",
     "groupCode": 1
   },
   {
@@ -12590,7 +12590,7 @@
   },
   {
     "id": 12065,
-    "en": "What did you just (right now) eat?",
+    "en": "What did you right now eat?",
     "de": "Was hast du gerade gegessen?",
     "groupCode": 1
   },
@@ -12893,6 +12893,7 @@
     "id": 12115,
     "en": "This goose isn't for dinner, it lives here",
     "de": "Diese Gans ist nicht zum Abendessen, sie wohnt hier",
+    "desc": "Goose = die Gans\n\nGeese (plural) = die Gänse",
     "groupCode": 1
   },
   {
@@ -12910,7 +12911,7 @@
   {
     "id": 12118,
     "en": "Why is the soup colder than the water?",
-    "de": "Warum ist die Supper kälter als das Wasser?",
+    "de": "Warum ist die Suppe kälter als das Wasser?",
     "groupCode": 1
   },
   {
@@ -12923,6 +12924,12 @@
     "id": 12120,
     "en": "In your bar the chairs are the worst",
     "de": "In deiner Bar sind die Stühle am schlechtesten",
+    "groupCode": 1
+  },
+  {
+    "id": 12121,
+    "en": "\n 1.soon \n 2.just / right now \n 3.in a moment / shortly \n 4.immediately / at once \n 5.now / at this moment \n 6.earlier / before \n 7.later / afterward",
+    "de": "\n 1.bald \n 2.gerade \n 3.gleich \n 4.sofort \n 5.jetzt / nun \n 6.früher / vorher \n 7.später / nachher",
     "groupCode": 1
   }
 ]

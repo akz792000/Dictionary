@@ -10126,7 +10126,7 @@
   },
   {
     "id": 4661,
-    "fa": "سازمان منتشر می کند حقایق مربوط به سلامت را",
+    "fa": "سازمان منتشر می کند حقایق درباره سلامتی",
     "en": "The organization disseminates facts about health",
     "groupCode": 0
   },
@@ -10156,14 +10156,15 @@
   },
   {
     "id": 4666,
-    "fa": "احتمال برخورد هنگام تولید یک UUID تصادفی (نسخه ۴) ۱ در ۲¹²² (حدود ۱ در ۵.۳ x ۱۰³⁶) است. این مقدار آنقدر کم است که حتی اگر به مدت ۱۰۰ سال، ۱ میلیارد UUID در ثانیه تولید کنید، احتمال برخورد همچنان ناچیز خواهد بود - عملاً برای هر برنامه دنیای واقعی صفر است.",
-    "en": "The probability of a collision when generating a random UUID (version 4) is 1 in 2¹²² (about 1 in 5.3 x 10³⁶). This is so small that, even if you generated 1 billion UUIDs per second for 100 years, the chance of a collision would still be negligible—practically zero for any real-world application",
+    "fa": "احتمال برخورد هنگام تولید یک UUID تصادفی ۱ در ۲¹²² است",
+    "en": "The probability of a collision when generating a random UUID is 1 in 2¹²²",
+    "desc": "It comes from the number of random bits in a UUIDv4: a UUID is 128 bits, but 4 bits are fixed for the version (4) and 2 bits are fixed for the RFC 4122 variant, leaving 122 random bits—so there are 2122 possible random UUIDv4 values, and the chance that two random UUIDs match is 1 in 2122.",
     "groupCode": 0
   },
   {
     "id": 4667,
-    "fa": "من می توانم ببینم تمام کاربرانی را که مشتریانشان دسترسی دارند به نهادهایی که من مدیریت می کنم، و همچنین کاربرانی را که کد کشورشان یکسان است با نهادهایی که من مدیریت می کنم",
-    "en": "I can see all users whose customers have access to the entities I manage, and also users whose country code is the same as the entities I manage",
+    "fa": "من می توانم ببینم کاربرانی را که مشتریانشان دسترسی دارند به نهادهایی (که) من مدیریت می کنم، کد کشورشان همچنین مطابقت دارد با کد کشور های اون نهادها یا کسانیکه متعلق اند به گروهابی که من مدیر برنامه هستم",
+    "en": "I can see users whose customers have access to the entities I manage, whose country code matches the country of those entities, or who belong to groups for which I am the application manager",
     "groupCode": 0
   },
   {
