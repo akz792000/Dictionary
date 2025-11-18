@@ -8079,7 +8079,7 @@
   },
   {
     "id": 4324,
-    "fa": "ناپایداری (غیرقابل اعتماد) برنامه، دشوارش می کند (می سازد) برای استفاده کردن",
+    "fa": "ناپایداری (غیرقابل اعتماد) برنامه، دشوارش می کند (می سازد) برای (تا) استفاده کردن",
     "en": "The app's flakiness makes it hard to use",
     "groupCode": 0
   },
@@ -8544,7 +8544,7 @@
   },
   {
     "id": 4401,
-    "fa": "من بخشنده بودم با هر کسی که من ملاقات کردم",
+    "fa": "من سخاوتمندانه (رفتار مؤدبانه، مهربانانه) بودم با هر کسی که من ملاقات کردم",
     "en": "I was gracious to everyone I met",
     "groupCode": 0
   },
@@ -9502,7 +9502,7 @@
   },
   {
     "id": 4558,
-    "fa": "حاضر جوابی نکن",
+    "fa": "به من حاضر جوابی نکن",
     "en": "Don't talk back to me",
     "groupCode": 0
   },
@@ -10192,8 +10192,27 @@
   },
   {
     "id": 4672,
-    "fa": "او (مرد) یک بی اعتمادبه نفس احمق است",
+    "fa": "او (مرد) یک بی اعتماد به نفس منفور است",
     "en": "He is an insecure jerkwad",
+    "groupCode": 0
+  },
+  {
+    "id": 4673,
+    "fa": "من تمام کردم پروژه را در زمان مناسب (به موقع)",
+    "en": "I completed the project in a timely manner",
+    "groupCode": 0
+  },
+  {
+    "id": 4674,
+    "fa": "این کار به جلوگیری از خشک شدن بقایای ماژیک روی دیوارها کمک خواهد کرد",
+    "en": "This will help prevent marker residue /ˈrezɪdjuː/ from drying on the walls",
+    "desc": "Both forms are correct:\n\n“help prevent”\n\n“help to prevent”\n\nThey mean the same thing, and both are grammatically acceptable.\nThe version without “to” is a little more common and sounds slightly more natural in everyday writing.",
+    "groupCode": 0
+  },
+  {
+    "id": 4675,
+    "fa": "ما ذوق زده میشیم در موفقیت شما",
+    "en": "We rejoice in your success",
     "groupCode": 0
   }
 ]
