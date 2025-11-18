@@ -10215,5 +10215,24 @@
     "fa": "ما ذوق زده میشیم در موفقیت شما",
     "en": "We rejoice in your success",
     "groupCode": 0
+  },
+  {
+    "id": 4676,
+    "fa": "بیایید بعداً یک تماس زوم داشته باشیم (بپر بالا)",
+    "en": "Let's hop on a Zoom call later",
+    "groupCode": 0
+  },
+  {
+    "id": 4677,
+    "fa": "ما می تونیم یک تماس کوتاه معرفی داشته باشیم (بپر بالا)",
+    "en": "We can hop on a quick intro call",
+    "desc": "Hop in یعنی بپر تو ماشین - سوار شو - بیا بالا\nHop on هم همون معنارو میده\nالبته به جز ماشین جاهای دیگه هم استفاده میشه که خودتون منظورمو می فهمید",
+    "groupCode": 0
+  },
+  {
+    "id": 4678,
+    "fa": "او (زن) با آرنج هلم بده تا سوار ماشین شم قبل از اینکه ترک کند",
+    "en": "She nudged me to hop in the car before it left",
+    "groupCode": 0
   }
 ]

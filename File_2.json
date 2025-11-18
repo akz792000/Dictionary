@@ -10389,8 +10389,9 @@
   },
   {
     "id": 11705,
-    "en": "I'm already happy/excited (I'm already looking forward to it)",
-    "de": "Ich freue mich schon",
+    "en": "\n 1.I'm really looking forward to the concert \n 2.I'm happy about the gift.",
+    "de": "\n 1.Ich freue mich schon auf das Konzert \n 2.Ich freue mich über das Geschenk",
+    "desc": "auf + accusative → looking forward to something (future)\n\nüber + accusative → happy about something (present / already happened)",
     "groupCode": 1
   },
   {
@@ -12930,6 +12931,19 @@
     "id": 12121,
     "en": "\n 1.soon \n 2.just / right now \n 3.in a moment / shortly \n 4.immediately / at once \n 5.now / at this moment \n 6.earlier / before \n 7.later / afterward",
     "de": "\n 1.bald \n 2.gerade \n 3.gleich \n 4.sofort \n 5.jetzt / nun \n 6.früher / vorher \n 7.später / nachher",
+    "groupCode": 1
+  },
+  {
+    "id": 12122,
+    "en": "I rejoice very much if you can come, because it wouldn't be as fun without you",
+    "de": "Ich freue mich sehr, wenn du kommen kannst, weil es ohne dich nicht so lustig wäre",
+    "desc": "freuen + auf + something → looking forward to something (future)\n\nIch freue mich auf das Konzert. → “I’m looking forward to the concert.”\n\nfreuen + über + something → happy about something (present / already happened)\n\nIch freue mich über das Geschenk. → “I’m happy about the gift.”\n\nfreuen without preposition → okay if context makes it clear what you’re happy about\n\nIch freue mich, wenn du kommen kannst. → “I’m happy if you can come.”\n\nSo auf = future, über = present, and no preposition = context tells the meaning.",
+    "groupCode": 1
+  },
+  {
+    "id": 12123,
+    "en": "Please let me know if you're coming",
+    "de": "Bitte gib mir Bescheid, ob du kommst",
     "groupCode": 1
   }
 ]
