@@ -1462,7 +1462,7 @@
   },
   {
     "id": 3239,
-    "fa": "برای ما امکان پذیر نیست پردازش کردن درخواست شما در زمان مناسب (به موقع)",
+    "fa": "برای ما امکان پذیر نیست پردازش کردن درخواست شما در یک زمان مناسب (به موقع)",
     "en": "It's not possible for us to process your request in a timely manner",
     "groupCode": 0
   },
@@ -9969,7 +9969,7 @@
   },
   {
     "id": 4635,
-    "fa": "Legal معنی میدهد هر چیزی مربوط به قانون به طور کلی، در حالی که statutory معنی میدهد بعضی چیزها بخصوص ایجاد شده یا الزام شده توسط یک قانون  مکتوب شده (یک اساسنامه)",
+    "fa": "Legal معنی میدهد هر چیزی مربوط به قانون به طور کلی، در حالی که statutory معنی میدهد بعضی چیزها بخصوص ایجاد شده یا نیاز شده توسط یک قانون مکتوب شده (یک اساسنامه)",
     "en": "Legal means anything related to the law in general, while statutory means something specifically created or required by a written law (a statute /ˈstaCHo͞ot/)",
     "groupCode": 0
   },
@@ -10156,14 +10156,14 @@
   },
   {
     "id": 4666,
-    "fa": "احتمال برخورد هنگام تولید یک UUID تصادفی ۱ در ۲¹²² است",
+    "fa": "احتمال یک برخورد هنگام تولید یک UUID تصادفی ۱ در ۲¹²² است",
     "en": "The probability of a collision when generating a random UUID is 1 in 2¹²²",
     "desc": "It comes from the number of random bits in a UUIDv4: a UUID is 128 bits, but 4 bits are fixed for the version (4) and 2 bits are fixed for the RFC 4122 variant, leaving 122 random bits—so there are 2122 possible random UUIDv4 values, and the chance that two random UUIDs match is 1 in 2122.",
     "groupCode": 0
   },
   {
     "id": 4667,
-    "fa": "من می توانم ببینم کاربرانی را که مشتریانشان دسترسی دارند به نهادهایی (که) من مدیریت می کنم، کد کشورشان همچنین مطابقت دارد با کد کشور های اون نهادها یا کسانیکه متعلق اند به گروهابی که من مدیر برنامه هستم",
+    "fa": "من می توانم ببینم کاربرانی را که مشتریانشان دسترسی دارند به نهادهایی (که) من مدیریت می کنم، کد کشورشان مطابقت دارد با کد کشور های اون نهادها یا کسانیکه متعلق اند به گروهایی که من مدیر برنامه هستم",
     "en": "I can see users whose customers have access to the entities I manage, whose country code matches the country of those entities, or who belong to groups for which I am the application manager",
     "groupCode": 0
   },
@@ -10187,7 +10187,7 @@
   },
   {
     "id": 4671,
-    "fa": "او (زن) به شدت ( نیاز شدید به چیزی. نا امیدانه) به راهی نیاز داشت تا محافظت کند از خودش و دخترانش",
+    "fa": "او (زن) به شدت نیاز داشت ( نیاز شدید به چیزی. نا امیدانه) به راهی تا محافظت کند از خودش و دخترانش",
     "en": "She was desperate for a way to protect herself and her daughters",
     "groupCode": 0
   },
@@ -10199,7 +10199,7 @@
   },
   {
     "id": 4673,
-    "fa": "من تمام کردم پروژه را در زمان مناسب (به موقع)",
+    "fa": "من تمام کردم پروژه را یک در زمان مناسب (به موقع)",
     "en": "I completed the project in a timely manner",
     "groupCode": 0
   },

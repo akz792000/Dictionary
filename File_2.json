@@ -610,7 +610,7 @@
   },
   {
     "id": 10100,
-    "en": "Are you (plural) coming? The teaching starts in a moment",
+    "en": "Are you (plural) coming? The teaching starts soon (shortly)",
     "de": "Kommt ihr? Der Unterricht fängt gleich an",
     "groupCode": 1
   },
@@ -1232,7 +1232,7 @@
   },
   {
     "id": 10202,
-    "en": "Welcome! I'm very pleased too",
+    "en": "Welcome! I'm very rejoice too",
     "de": "Willkommen! Freut mich auch sehr",
     "desc": "It's a polite and warm response, often used to express mutual pleasure in meeting someone or agreeing with them.",
     "groupCode": 1
@@ -2305,7 +2305,7 @@
   },
   {
     "id": 10377,
-    "en": "Your mother is coming in a moment, where are the flowers?",
+    "en": "Your mother is coming soon (shortly), where are the flowers?",
     "de": "Deine Mutter kommt gleich, wo sind die Blumen?",
     "groupCode": 1
   },
@@ -2792,7 +2792,7 @@
   },
   {
     "id": 10457,
-    "en": "Ali comes right in a moment from the train station to the party. Can you pick up Ali from the train station?",
+    "en": "Ali comes soon (shortly) from the train station to the party. Can you pick up Ali from the train station?",
     "de": "Ali kommt gleich vom Bahnhof zur Party. Kannst du Ali vom Bahnhof abholen?",
     "groupCode": 1
   },
@@ -5029,7 +5029,7 @@
   },
   {
     "id": 10826,
-    "en": "It's already dark, what (how) time is it? It's in a moment 8 o'clock",
+    "en": "It's already dark, what (how) time is it? It's soon (shortly) 8 o'clock",
     "de": "Es ist schon dunkel, wie spät ist es? Es ist gleich 8 Uhr",
     "groupCode": 1
   },
@@ -5296,7 +5296,7 @@
   },
   {
     "id": 10870,
-    "en": "The coats hang on the coat rack",
+    "en": "The coats hang on (at) the coat rack",
     "de": "Die Mäntel hängen an der Garderobe",
     "groupCode": 1
   },
@@ -5614,7 +5614,7 @@
   },
   {
     "id": 10922,
-    "en": "Are you going to the supermarket in a moment? I'm going into the supermarket right soon (in a moment)",
+    "en": "Are you going to the supermarket soon (shortly)? I'm going into the supermarket soon (shortly)",
     "de": "Gehst du gleich in den Supermarkt? Ich gehe gleich in den Supermarkt",
     "groupCode": 1
   },
@@ -5748,7 +5748,7 @@
   },
   {
     "id": 10944,
-    "en": "Who has a chair? The basketball game begins in a moment, do you want to come along?",
+    "en": "Who has a chair? The basketball game begins soon (shortly), do you want to come along?",
     "de": "Wer hat einen Stuhl? Das Basketballspiel beginnt gleich, willst du mitkommen?",
     "groupCode": 1
   },
@@ -6015,7 +6015,7 @@
   },
   {
     "id": 10988,
-    "en": "I go hiking in the Black Forest with my brother this summer. I'm pleased because we're also camping there",
+    "en": "I go hiking in the Black Forest with my brother this summer. I'm rejoice because we're also camping there",
     "de": "Ich gehe diesen Sommer mit meinem Bruder im Schwarzwald wandern. Ich freue mich, weil wir dort auch campen",
     "groupCode": 1
   },
@@ -6757,7 +6757,7 @@
   },
   {
     "id": 11111,
-    "en": "Someone brings me to the airport in a moment and I fly again to Bonn",
+    "en": "Someone brings me to the airport soon (shortly) and I fly again to Bonn",
     "de": "Jemand bringt mich gleich zum Flughafen und ich fliege wieder nach Bonn",
     "groupCode": 1
   },
@@ -9641,7 +9641,7 @@
   },
   {
     "id": 11582,
-    "en": "I am happy/excited. I was happy/excited. I was happy/excited",
+    "en": "I am rejoice. I was rejoice. I was rejoice",
     "de": "Ich freue (mich). Ich freute (mich). Ich habe (mich) gefreut",
     "groupCode": 1
   },
@@ -10359,7 +10359,7 @@
   },
   {
     "id": 11700,
-    "en": "Say please nothing, he comes in a moment",
+    "en": "Say please nothing, he comes soon (shortly)",
     "de": "Sag bite nichts, er koomt gleich",
     "groupCode": 1
   },
@@ -10389,7 +10389,7 @@
   },
   {
     "id": 11705,
-    "en": "\n 1.I'm really looking forward to the concert \n 2.I'm happy about the gift.",
+    "en": "\n 1.I'm really looking forward to the concert \n 2.I'm rejoice about the gift",
     "de": "\n 1.Ich freue mich schon auf das Konzert \n 2.Ich freue mich über das Geschenk",
     "desc": "auf + accusative → looking forward to something (future)\n\nüber + accusative → happy about something (present / already happened)",
     "groupCode": 1
@@ -10738,7 +10738,7 @@
   },
   {
     "id": 11762,
-    "en": "You don't still want to go in a moment again? What's wrong?",
+    "en": "You don't still want to go soon (shortly) again? What's wrong?",
     "de": "Du willst doch nicht gleich wieder gehen? Was ist denn los?",
     "groupCode": 1
   },
@@ -10837,7 +10837,7 @@
   },
   {
     "id": 11778,
-    "en": "The party starts in a moment, call your siblings",
+    "en": "The party starts soon (shortly), call your siblings",
     "de": "Die Party fängt gleich an, ruf deine Geschwister an",
     "groupCode": 1
   },
@@ -11154,7 +11154,7 @@
   },
   {
     "id": 11830,
-    "en": "I can answer your (formal) questions in a moment",
+    "en": "I can answer your (formal) questions soon (shortly)",
     "de": "Ich kann gleich Ihre Fragen beantworten",
     "groupCode": 1
   },
@@ -11780,7 +11780,7 @@
   },
   {
     "id": 11932,
-    "en": "He washes himself and is happy/excited",
+    "en": "He washes himself and is rejoice",
     "de": "Er wäscht sich und freut sich",
     "desc": "\"Er freut sich\": Temporary happiness or excitement about a specific event or situation.\n\"Er ist glücklich\": A general or long-term state of happiness or contentment",
     "groupCode": 1
@@ -12355,7 +12355,7 @@
   },
   {
     "id": 12027,
-    "en": "She is happy herself by herself (emphasis) about the gift",
+    "en": "She is rejoice herself by herself (emphasis) about the gift",
     "de": "Sie freut sich selbst über das Geschenk",
     "groupCode": 1
   },
@@ -12699,7 +12699,7 @@
   },
   {
     "id": 12083,
-    "en": "Were you happy about the yoga? No, I wasn't happy about it",
+    "en": "Were you rejoice about the yoga? No, I wasn't happy about it",
     "de": "Hast du dich über das Yoga gefreut? Nein, darüber habe ich mich nicht gefreut",
     "groupCode": 1
   },
@@ -12942,7 +12942,7 @@
   },
   {
     "id": 12123,
-    "en": "Please let me know if you're coming",
+    "en": "Please let me know whether you're coming",
     "de": "Bitte gib mir Bescheid, ob du kommst",
     "groupCode": 1
   }
