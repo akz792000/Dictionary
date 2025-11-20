@@ -10150,7 +10150,7 @@
   },
   {
     "id": 4665,
-    "fa": "در یک شنونده رویداد Spring، اگر متد همزمان باشد، بلافاصله اجرا میشود. اگر ناهمزمان باشد، Spring آن را در یک مخزن نخ (thread pool) زمانبندی میکند و زمانبندی بلافاصله اتفاق میافتد. با این حال، از نظر فنی، شنونده ممکن است قبل از اتمام نخ فعلی شروع به اجرا کند، بنابراین هیچ تضمین ۱۰۰٪ وجود ندارد که بعد از نخ فعلی اجرا شود",
+    "fa": "در یک شنونده رویداد Spring، اگر متد همزمان باشد، بلافاصله اجرا می شود. اگر ناهمزمان باشد، Spring آن را در یک مخزن نخ (thread pool) زمانبندی می کند و زمانبندی اتفاق میافتد بلافاصله. با این حال، از نظر فنی، شنونده ممکن است شروع به اجرا کند قبل از اتمام نخ فعلی، بنابراین هیچ تضمین ۱۰۰٪ وجود ندارد که اجرا خواهد شد بعد از نخ فعلی",
     "en": "In a Spring event listener, if the method is synchronous, it executes immediately. If it's asynchronous, Spring schedules it on a thread pool, and the scheduling happens immediately. However, technically the listener might start executing before the current thread finishes, so there is no 100% guarantee it will run after the current thread",
     "groupCode": 0
   },
@@ -10233,6 +10233,73 @@
     "id": 4678,
     "fa": "او (زن) با آرنج هلم بده تا سوار ماشین شم قبل از اینکه ترک کند",
     "en": "She nudged me to hop in the car before it left",
+    "groupCode": 0
+  },
+  {
+    "id": 4679,
+    "fa": "سر چی دارین سروصدا می کنید؟",
+    "en": "\n 1.What are you guys woofing about? \n 2.What are you guys making noise about?",
+    "desc": "The word “woofing” comes from the sound a dog makes, so it's like jokingly saying someone is making noise or talking loudly.",
+    "groupCode": 0
+  },
+  {
+    "id": 4680,
+    "fa": "تو نیاز داری تا اتو کنی این پیراهن را, پر از چین و چروک است",
+    "en": "You need to iron this shirt, it's full of creases",
+    "groupCode": 0
+  },
+  {
+    "id": 4681,
+    "fa": "شما می خواهی شبیه سازی کنی یک شرایط رقابتی را",
+    "en": "You want to simulate a race condition",
+    "groupCode": 0
+  },
+  {
+    "id": 4682,
+    "fa": "آیا او (مرد) بیهوش شد؟",
+    "en": "Did he faint?",
+    "groupCode": 0
+  },
+  {
+    "id": 4683,
+    "fa": "\n 1.گنجشک \n 2.کبوتر \n 3.کلاغ \n 4.طوطی \n 5.جغد \n 6.پنگوئن \n 7.عقاب \n 8.پرستو \n 9.لک لک",
+    "en": "\n 1.Sparrow \n 2.Pigeon \n 3.Crow \n 4.Parrot \n 5.Owl \n 6.Penguin \n 7.Eagle \n 8.Swallow \n 9.Stork",
+    "groupCode": 0
+  },
+  {
+    "id": 4684,
+    "fa": "هر وقت خواستی شما اعتماد کنی دوباره به کسی، یادت باشه که خوندن یه کتاب عوض نخواهد کرد پایان رو",
+    "en": "Whenever you want to trust someone again, remember that reading a book won't change the ending",
+    "groupCode": 0
+  },
+  {
+    "id": 4685,
+    "fa": "لطفا تبدیل کن این عکس را به یک تصویر کارتونی",
+    "en": "Please turn this photo into a cartoon-style image",
+    "groupCode": 0
+  },
+  {
+    "id": 4686,
+    "fa": "لطفا از سر راه کنار بروید تا (بنابراین) کارگران (جا به جا کنندگان) بتوانند حمل کنند مبل را از درون در",
+    "en": "Please get out of the way so the movers can carry the couch through the door",
+    "groupCode": 0
+  },
+  {
+    "id": 4687,
+    "fa": "تا جاییکه الان به ذهنم میاد, من می توانم فکر کنم به سه راه حل",
+    "en": "Off the top of my head, I can think of three solutions",
+    "groupCode": 0
+  },
+  {
+    "id": 4688,
+    "fa": "این نرم افزار مستعد خطا است و اغلب از کار می افتد (تصادف می کند)",
+    "en": "This software is error-prone and often crashes",
+    "groupCode": 0
+  },
+  {
+    "id": 4689,
+    "fa": "من الان حضور ذهن ندارم، اما من می توانم (فرضی) بروم و آن را جستجو کنم.",
+    "en": "I don't know off the top of my head, but I could go and look it up",
     "groupCode": 0
   }
 ]

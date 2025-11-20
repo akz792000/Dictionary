@@ -9906,8 +9906,8 @@
   },
   {
     "id": 11626,
-    "en": "\n The tomato \n The cucumber \n The carrot \n The onion \n The Salat \n The bowl \n The dishes",
-    "de": "\n Die Tomate \n Der Gurke \n Die Karotte \n Die Zwiebel \n Der Salat \n Die Schüssel \n Das Geschirr",
+    "en": "\n The tomato \n The cucumber \n The carrot \n The onion \n The Salat \n The bowl \n The dishes \n The Garlic",
+    "de": "\n Die Tomate \n Der Gurke \n Die Karotte \n Die Zwiebel \n Der Salat \n Die Schüssel \n Das Geschirr \n Der Knoblauch",
     "desc": "the dishes / the crockery / the tableware\n\nRefers to plates, cups, bowls, and other items used for eating.\n\nExample:\n\nIch spüle das Geschirr. → I'm washing the dishes",
     "groupCode": 1
   },
@@ -10969,7 +10969,7 @@
   },
   {
     "id": 11800,
-    "en": "We can go swimming afterwards",
+    "en": "We can go swimming afterward (later)",
     "de": "Wir können nachher schwimmen gehen",
     "groupCode": 1
   },
@@ -11587,7 +11587,7 @@
   {
     "id": 11901,
     "en": "My neighbor complained (herself) because I played the music too loud",
-    "de": "Mein Nachbarin hat sich beschwert, weil ich die Musik zu laut gespielt habe",
+    "de": "Meine Nachbarin hat sich beschwert, weil ich die Musik zu laut gespielt habe",
     "desc": "The verb beschweren is reflexive when it means to complain.\nThat means it always comes with „sich“ — a reflexive pronoun referring back to the subject.",
     "groupCode": 1
   },
@@ -12567,14 +12567,14 @@
   },
   {
     "id": 12061,
-    "en": "\n 1.I take the book out \n 2.Can you take the battery out? \n 3.He takes the key out of the bag \n 4.She takes the food out of the fridge \n 5.We take the shoes out of the box \n 6.Please take out your notebooks",
-    "de": "\n 1.Ich nehme das Buch heraus \n 2.Kannst du die Batterie herausnehmen? \n 3.Er nimmt den Schlüssel aus der Tasche heraus \n 4.Sie nimmt das Essen aus dem Kühlschrank heraus \n 5.Wir nehmen die Schuhe aus der Box heraus \n 6.Nehmt bitte eure Hefte heraus",
+    "en": "",
+    "de": "",
     "groupCode": 1
   },
   {
     "id": 12062,
-    "en": "\n 1.I take out the document \n 2.You remove the battery \n 3.He/She/It takes the money out of the bag \n 4.We take a sample \n 5.You (plural) take out a sheet of paper \n 6.They extract the data from the table",
-    "de": "\n 1.Ich entnehme das Dokument \n 2.Du entnimmst die Batterie \n 3.Er/Sie/Es entnimmt das Geld aus der Tasche \n 4.Wir entnehmen eine Probe \n 5.Ihr entnehmt ein Blatt Papier \n 6.Sie entnehmen die Daten aus der Tabelle",
+    "en": "",
+    "de": "",
     "groupCode": 1
   },
   {
@@ -12699,7 +12699,7 @@
   },
   {
     "id": 12083,
-    "en": "Were you rejoice about the yoga? No, I wasn't happy about it",
+    "en": "Die you get rejoice about the yoga? No, I didn't get rejoice about it",
     "de": "Hast du dich über das Yoga gefreut? Nein, darüber habe ich mich nicht gefreut",
     "groupCode": 1
   },
@@ -12783,7 +12783,7 @@
   },
   {
     "id": 12097,
-    "en": "Were you annoyed today? Yes, I was annoyed today because I had too much to do",
+    "en": "Did you get annoyed today? Yes, I got annoyed today because I had too much to do",
     "de": "Hast du dich heute geärgert? Ja, ich habe mich heute geärgert, weil ich viel zu tun hatte",
     "groupCode": 1
   },
@@ -12929,7 +12929,7 @@
   },
   {
     "id": 12121,
-    "en": "\n 1.soon \n 2.just / right now \n 3.in a moment / shortly \n 4.immediately / at once \n 5.now / at this moment \n 6.earlier / before \n 7.later / afterward",
+    "en": "\n 1.soon \n 2.just / right now \n 3.in a moment / shortly \n 4.immediately / at once \n 5.now / at this moment \n 6.earlier / before \n 7.later / afterward (later)",
     "de": "\n 1.bald \n 2.gerade \n 3.gleich \n 4.sofort \n 5.jetzt / nun \n 6.früher / vorher \n 7.später / nachher",
     "groupCode": 1
   },
@@ -12944,6 +12944,96 @@
     "id": 12123,
     "en": "Please let me know whether you're coming",
     "de": "Bitte gib mir Bescheid, ob du kommst",
+    "groupCode": 1
+  },
+  {
+    "id": 12124,
+    "en": "I eat now. After that, I go for a walk",
+    "de": "Ich esse jetzt. Danach gehe ich spazieren",
+    "groupCode": 1
+  },
+  {
+    "id": 12125,
+    "en": "I take the book out",
+    "de": "Ich nehme das Buch heraus",
+    "groupCode": 1
+  },
+  {
+    "id": 12126,
+    "en": "Can you take the battery out?",
+    "de": "Kannst du die Batterie herausnehmen?",
+    "groupCode": 1
+  },
+  {
+    "id": 12127,
+    "en": "He takes the key out of the bag",
+    "de": "Er nimmt den Schlüssel aus der Tasche heraus",
+    "groupCode": 1
+  },
+  {
+    "id": 12128,
+    "en": "She takes the food out of the fridge",
+    "de": "Sie nimmt das Essen aus dem Kühlschrank heraus",
+    "groupCode": 1
+  },
+  {
+    "id": 12129,
+    "en": "We take the shoes out of the box",
+    "de": "Wir nehmen die Schuhe aus der Box heraus",
+    "groupCode": 1
+  },
+  {
+    "id": 12130,
+    "en": "Please take out your notebooks",
+    "de": "Nehmt bitte eure Hefte heraus",
+    "groupCode": 1
+  },
+  {
+    "id": 12131,
+    "en": "I take out (formal) the document",
+    "de": "Ich entnehme das Dokument",
+    "groupCode": 1
+  },
+  {
+    "id": 12132,
+    "en": "You take out (formal) the battery",
+    "de": "Du entnimmst die Batterie",
+    "groupCode": 1
+  },
+  {
+    "id": 12133,
+    "en": "He/She/It takes (formal) the money out of the bag",
+    "de": "Er/Sie/Es entnimmt das Geld aus der Tasche",
+    "groupCode": 1
+  },
+  {
+    "id": 12134,
+    "en": "We take (formal) a sample",
+    "de": "Wir entnehmen eine Probe",
+    "groupCode": 1
+  },
+  {
+    "id": 12135,
+    "en": "You (plural) take out (formal) a sheet of paper",
+    "de": "Ihr entnehmt ein Blatt Papier",
+    "groupCode": 1
+  },
+  {
+    "id": 12136,
+    "en": "They extract (take out - formal) the data from the table",
+    "de": "Sie entnehmen die Daten aus der Tabelle",
+    "groupCode": 1
+  },
+  {
+    "id": 12137,
+    "en": "I remember the house",
+    "de": "Ich erinnere mich an das Haus",
+    "groupCode": 1
+  },
+  {
+    "id": 12138,
+    "en": "I remember my friend",
+    "de": "Ich erinnere mich an meinen Freund",
     "groupCode": 1
   }
 ]
