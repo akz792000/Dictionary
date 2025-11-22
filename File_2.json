@@ -1883,7 +1883,7 @@
   {
     "id": 10308,
     "en": "The coffee shop closes in forty minutes at nine o'clock",
-    "de": "Das Cafe schließt in vierzig Minuten um neun Uhr",
+    "de": "Das Café schließt in vierzig Minuten um neun Uhr",
     "groupCode": 1
   },
   {
@@ -5523,8 +5523,8 @@
   },
   {
     "id": 10907,
-    "en": "The flower shop is closed. We still need flowers for your mother. Are there flowers in the garden",
-    "de": "Der Blumenladen ist geschlossen. Wir brauchen noch Blumen für deine Mutter. Gibt es Blumen im Garten",
+    "en": "The flower shop is closed. We still need flowers for your mother. Are there flowers in the garden?",
+    "de": "Der Blumenladen ist geschlossen. Wir brauchen noch Blumen für deine Mutter. Gibt es Blumen im Garten?",
     "groupCode": 1
   },
   {
@@ -12567,14 +12567,14 @@
   },
   {
     "id": 12061,
-    "en": "",
-    "de": "",
+    "en": "How much do the grapes cost?",
+    "de": "Wie viel kosten die Trauben?",
     "groupCode": 1
   },
   {
     "id": 12062,
-    "en": "",
-    "de": "",
+    "en": "In which organic shop are the grapes always sweet?",
+    "de": "In welchem Bioladen sind die Trauben immer süß?",
     "groupCode": 1
   },
   {
@@ -13028,12 +13028,86 @@
     "id": 12137,
     "en": "I remember the house",
     "de": "Ich erinnere mich an das Haus",
+    "desc": "The verb sich erinnern (to remember) always uses an + Akkusativ.\nSo you say sich erinnern an etwas (to remember something).",
     "groupCode": 1
   },
   {
     "id": 12138,
     "en": "I remember my friend",
     "de": "Ich erinnere mich an meinen Freund",
+    "desc": "The verb sich erinnern (to remember) always uses an + Akkusativ.\nSo you say sich erinnern an etwas (to remember something).",
+    "groupCode": 1
+  },
+  {
+    "id": 12139,
+    "en": "The strawberries are the smallest here",
+    "de": "Die Erdbeeren sind hier am kleinsten",
+    "groupCode": 1
+  },
+  {
+    "id": 12140,
+    "en": "Here the chicken is the smallest",
+    "de": "Hier ist das Hähnchen am kleinsten",
+    "groupCode": 1
+  },
+  {
+    "id": 12141,
+    "en": "The Asparagus is cheapest in spring",
+    "de": "Der Spargel ist im Frühling am billigsten",
+    "groupCode": 1
+  },
+  {
+    "id": 12142,
+    "en": "In this supermarket the vegetables are the cheapest",
+    "de": "In diesem Supermarkt ist das Gemüse am billigsten",
+    "groupCode": 1
+  },
+  {
+    "id": 12143,
+    "en": "In which park do we grill fish?",
+    "de": "In welchem Park grillen wir Fisch?",
+    "groupCode": 1
+  },
+  {
+    "id": 12144,
+    "en": "Where is the freshest bread?",
+    "de": "Wo ist das Brot am frischesten?",
+    "groupCode": 1
+  },
+  {
+    "id": 12145,
+    "en": "Whose bread rolls are the largest?",
+    "de": "Wessen Brötchen sind am größten?",
+    "groupCode": 1
+  },
+  {
+    "id": 12146,
+    "en": "Where are the best baked goods?",
+    "de": "Wo sind die Backwaren am besten?",
+    "groupCode": 1
+  },
+  {
+    "id": 12147,
+    "en": "I always buy my bread rolls at this bakery because the baked goods are the freshest",
+    "de": "Ich kaufe meine Brötchen immer in dieser Bäckerei, denn hier sind die Backwaren am frischsten",
+    "groupCode": 1
+  },
+  {
+    "id": 12148,
+    "en": "In which bakery are there bread rolls?",
+    "de": "In welcher Bäckerei gibt es Brötchen?",
+    "groupCode": 1
+  },
+  {
+    "id": 12149,
+    "en": "In Which cafe shop do you prefer to work?",
+    "de": "In welchem Café arbeitest du lieber?",
+    "groupCode": 1
+  },
+  {
+    "id": 12150,
+    "en": "Ten mice live in your restaurant",
+    "de": "Zehn Mäuse wohnen in einem Restaurant",
     "groupCode": 1
   }
 ]

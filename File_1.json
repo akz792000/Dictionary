@@ -10145,7 +10145,7 @@
   {
     "id": 4664,
     "fa": "او (مرد) عذرخواهی کرد به منظور ترمیم یک شکاف بین خودش و برادرش",
-    "en": "He apologized in a bid to mend a rift between him and his brother",
+    "en": "He apologized in a bid to mend a rift between himself and his brother",
     "groupCode": 0
   },
   {
@@ -10237,7 +10237,7 @@
   },
   {
     "id": 4679,
-    "fa": "سر چی دارین سروصدا می کنید؟",
+    "fa": "شما بروبچ سر چی دارین سروصدا می کنید؟",
     "en": "\n 1.What are you guys woofing about? \n 2.What are you guys making noise about?",
     "desc": "The word “woofing” comes from the sound a dog makes, so it's like jokingly saying someone is making noise or talking loudly.",
     "groupCode": 0
@@ -10286,7 +10286,7 @@
   },
   {
     "id": 4687,
-    "fa": "تا جاییکه الان به ذهنم میاد, من می توانم فکر کنم به سه راه حل",
+    "fa": "تا جاییکه به ذهنم میاد (بالای سرم), من می توانم فکر کنم به سه راه حل",
     "en": "Off the top of my head, I can think of three solutions",
     "groupCode": 0
   },
@@ -10298,8 +10298,20 @@
   },
   {
     "id": 4689,
-    "fa": "من الان حضور ذهن ندارم، اما من می توانم (فرضی) بروم و آن را جستجو کنم.",
+    "fa": "من حضور ذهن ندارم (من از بالای سرم نمی دانم)، اما من می توانم (فرضی) بروم و آن را جستجو کنم",
     "en": "I don't know off the top of my head, but I could go and look it up",
+    "groupCode": 0
+  },
+  {
+    "id": 4690,
+    "fa": "شما داری صحبت می کنی در مورد حاشیه سمت راست (یا \"راهنمای بسته\u200Cبندی سخت\") در IntelliJ IDEA",
+    "en": "You're talking about the right margin (or “hard wrap guide”) in IntelliJ IDEA",
+    "groupCode": 0
+  },
+  {
+    "id": 4691,
+    "fa": "سکوتت گویای همه چیزه",
+    "en": "Your silence speaks volumes",
     "groupCode": 0
   }
 ]
