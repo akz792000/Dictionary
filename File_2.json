@@ -12984,7 +12984,7 @@
   },
   {
     "id": 12130,
-    "en": "Please take out your notebooks",
+    "en": "Take out please your notebooks",
     "de": "Nehmt bitte eure Hefte heraus",
     "groupCode": 1
   },
@@ -13040,19 +13040,19 @@
   },
   {
     "id": 12139,
-    "en": "The strawberries are the smallest here",
+    "en": "The strawberries are here the smallest",
     "de": "Die Erdbeeren sind hier am kleinsten",
     "groupCode": 1
   },
   {
     "id": 12140,
-    "en": "Here the chicken is the smallest",
+    "en": "Here is the chicken the smallest",
     "de": "Hier ist das Hähnchen am kleinsten",
     "groupCode": 1
   },
   {
     "id": 12141,
-    "en": "The Asparagus is cheapest in spring",
+    "en": "The Asparagus is in spring the cheapest",
     "de": "Der Spargel ist im Frühling am billigsten",
     "groupCode": 1
   },
@@ -13070,7 +13070,7 @@
   },
   {
     "id": 12144,
-    "en": "Where is the freshest bread?",
+    "en": "Where is the bread the freshest?",
     "de": "Wo ist das Brot am frischesten?",
     "groupCode": 1
   },
@@ -13082,7 +13082,7 @@
   },
   {
     "id": 12146,
-    "en": "Where are the best baked goods?",
+    "en": "Where are the bakery products the best?",
     "de": "Wo sind die Backwaren am besten?",
     "groupCode": 1
   },
@@ -13107,7 +13107,20 @@
   {
     "id": 12150,
     "en": "Ten mice live in your restaurant",
-    "de": "Zehn Mäuse wohnen in einem Restaurant",
+    "de": "Zehn Mäuse wohnen in deinem Restaurant",
+    "groupCode": 1
+  },
+  {
+    "id": 12151,
+    "en": "He has the fastest car",
+    "de": "Er hat den schnellsten Wagen",
+    "groupCode": 1
+  },
+  {
+    "id": 12152,
+    "en": "The freshest bread is here",
+    "de": "Das frischeste Brot ist hier",
+    "desc": "✔ Simple summary\nForm\tUse\tExample\nam + -esten\tdescribes a verb/state (adverb)\tDas Brot ist am frischesten.\nder/die/das + -ste\tdescribes a noun (adjective)\tDas frischeste Brot.",
     "groupCode": 1
   }
 ]
