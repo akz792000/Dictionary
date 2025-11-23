@@ -12699,7 +12699,7 @@
   },
   {
     "id": 12083,
-    "en": "Die you get rejoice about the yoga? No, I didn't get rejoice about it",
+    "en": "Did you get rejoice about the yoga? No, I didn't get rejoice about it",
     "de": "Hast du dich über das Yoga gefreut? Nein, darüber habe ich mich nicht gefreut",
     "groupCode": 1
   },
@@ -12984,7 +12984,7 @@
   },
   {
     "id": 12130,
-    "en": "Take out please your notebooks",
+    "en": "Take out please your (plural) notebooks",
     "de": "Nehmt bitte eure Hefte heraus",
     "groupCode": 1
   },
@@ -13088,7 +13088,7 @@
   },
   {
     "id": 12147,
-    "en": "I always buy my bread rolls at this bakery because the baked goods are the freshest",
+    "en": "I always buy my bread rolls in this bakery because the baked goods are the freshest",
     "de": "Ich kaufe meine Brötchen immer in dieser Bäckerei, denn hier sind die Backwaren am frischsten",
     "groupCode": 1
   },
@@ -13121,6 +13121,54 @@
     "en": "The freshest bread is here",
     "de": "Das frischeste Brot ist hier",
     "desc": "✔ Simple summary\nForm\tUse\tExample\nam + -esten\tdescribes a verb/state (adverb)\tDas Brot ist am frischesten.\nder/die/das + -ste\tdescribes a noun (adjective)\tDas frischeste Brot.",
+    "groupCode": 1
+  },
+  {
+    "id": 12153,
+    "en": "I even did my homework",
+    "de": "Ich habe sogar meine Hausaufgaben gemacht",
+    "groupCode": 1
+  },
+  {
+    "id": 12154,
+    "en": "My freedom of movement is restricted",
+    "de": "Meine Bewegungsfreiheit ist eingeschränkt",
+    "groupCode": 1
+  },
+  {
+    "id": 12155,
+    "en": "I need more movement",
+    "de": "Ich brauche mehr Bewegung",
+    "groupCode": 1
+  },
+  {
+    "id": 12156,
+    "en": "You're crazy, swimming is more dangerous than reading",
+    "de": "Du spinnst, Schwimmen ist gefährlicher als Lesen",
+    "groupCode": 1
+  },
+  {
+    "id": 12157,
+    "en": "Can I speak to them about Ilia?",
+    "de": "Kann ich mit ihnen über Ilia sprechen?",
+    "groupCode": 1
+  },
+  {
+    "id": 12158,
+    "en": "He's simply awful",
+    "de": "Er ist einfach furchtbar",
+    "groupCode": 1
+  },
+  {
+    "id": 12159,
+    "en": "I actually wanted to promote him",
+    "de": "Ich wollte ihn eigentlich befördern",
+    "groupCode": 1
+  },
+  {
+    "id": 12160,
+    "en": "Don't forget, the cookies from my grandpa are tastier (more delicious)",
+    "de": "Vergiss nicht, die Kekse von meinem Opa sind leckerer",
     "groupCode": 1
   }
 ]

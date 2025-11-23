@@ -10299,7 +10299,7 @@
   },
   {
     "id": 4689,
-    "fa": "من حضور ذهن ندارم (من از بالای سرم نمی دانم)، اما من می توانم (فرضی) بروم و آن را جستجو کنم",
+    "fa": "من حضور ذهن ندارم (من از بالای سرم نمی دانم)، اما من می توانم (فرضی) بروم و آن را جستجو کنم (معنی پیدا کردن)",
     "en": "I don't know off the top of my head, but I could go and look it up",
     "groupCode": 0
   },
@@ -10313,6 +10313,12 @@
     "id": 4691,
     "fa": "سکوتت گویای همه چیزه",
     "en": "Your silence speaks volumes",
+    "groupCode": 0
+  },
+  {
+    "id": 4692,
+    "fa": "او (مرد) ذاتاً در مورد جهان کنجکاو است",
+    "en": "He is innately curious about the world",
     "groupCode": 0
   }
 ]
