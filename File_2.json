@@ -9011,7 +9011,7 @@
   },
   {
     "id": 11480,
-    "en": "From now on applies the new rule",
+    "en": "From now on (immediately) applies the new rule",
     "de": "Ab sofort gilt die neue Regel",
     "desc": "Ab is often used with time expressions to indicate the beginning of a period.",
     "groupCode": 1
@@ -12327,6 +12327,7 @@
     "id": 12022,
     "en": "I have reached the train station",
     "de": "Ich habe den Bahnhof erreicht",
+    "desc": "❓Why den Bahnhof (Akkusativ) and NOT dem Bahnhof (Dativ)?\n\nBecause erreichen = to reach is a verb that always takes the accusative object (wen/was?).\n\n\uD83C\uDFAF Ask yourself:\n\nWen oder was habe ich erreicht?\n→ den Bahnhof (Akkusativ)",
     "groupCode": 1
   },
   {
@@ -13072,6 +13073,7 @@
     "id": 12144,
     "en": "Where is the bread the freshest?",
     "de": "Wo ist das Brot am frischesten?",
+    "desc": "Ends in easy consonants → -sten\n\nEnds in d, t, s, ß, sch, z, tz, x → -esten (because pronunciation!)",
     "groupCode": 1
   },
   {
@@ -13169,6 +13171,66 @@
     "id": 12160,
     "en": "Don't forget, the cookies from my grandpa are tastier (more delicious)",
     "de": "Vergiss nicht, die Kekse von meinem Opa sind leckerer",
+    "groupCode": 1
+  },
+  {
+    "id": 12161,
+    "en": "The camera is well hidden",
+    "de": "Die Kamera ist gut verdeckt",
+    "groupCode": 1
+  },
+  {
+    "id": 12162,
+    "en": "There is a big difference between the two pictures",
+    "de": "Es gibt einen großen Unterschied zwischen den beiden Bildern",
+    "groupCode": 1
+  },
+  {
+    "id": 12163,
+    "en": "How was the game, was it excellent?",
+    "de": "Wie war das Spiel, war es spitze?",
+    "groupCode": 1
+  },
+  {
+    "id": 12164,
+    "en": "He submits the application on time",
+    "de": "Er reicht den Antrag rechtzeitig ein",
+    "groupCode": 1
+  },
+  {
+    "id": 12165,
+    "en": "The old car drives very slowly",
+    "de": "Das alte Auto fährt sehr langsam",
+    "groupCode": 1
+  },
+  {
+    "id": 12166,
+    "en": "Which dress are you buying for the wedding?",
+    "de": "Welches Kleid kaufst du für die Hochzeit?",
+    "groupCode": 1
+  },
+  {
+    "id": 12167,
+    "en": "Is the shopping center open at Christmas?",
+    "de": "Ist das Einkaufszentrum an Weihnachten geöffnet?",
+    "groupCode": 1
+  },
+  {
+    "id": 12168,
+    "en": "Go to the shopping mall immediately and buy a toy",
+    "de": "Geh sofort ins Einkaufszentrum und kauft ein Spielzeug",
+    "groupCode": 1
+  },
+  {
+    "id": 12169,
+    "en": "Both are correct",
+    "de": "Beide haben recht",
+    "groupCode": 1
+  },
+  {
+    "id": 12170,
+    "en": "Are you buying your mom gloves for Christmas?",
+    "de": "Kaufst du deiner Mama zu Weihnachten Handschuhe?",
     "groupCode": 1
   }
 ]
