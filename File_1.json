@@ -8840,7 +8840,7 @@
   {
     "id": 4449,
     "fa": "تلفظ من داره می شود واضح‌تر با تمرین",
-    "en": "My pronunciation /proˌnənsiˈeɪʃn̩/ is getting clearer with practice",
+    "en": "My pronunciation /proˌnənsiˈeɪʃn̩/ is getting clearer (more clear) with practice",
     "groupCode": 0
   },
   {
@@ -10344,6 +10344,18 @@
     "id": 4696,
     "fa": "اگر ما قرار نیاییم شرکت, به من اطلاع بده بنابراین من نخواهم آمد شرکت",
     "en": "If we're not going to the company, let me know so I won't come",
+    "groupCode": 0
+  },
+  {
+    "id": 4697,
+    "fa": "من نمی خواهم درگیر شوم در فروش ماشین ها اصلا",
+    "en": "I don't want to get involved in selling cars at all",
+    "groupCode": 0
+  },
+  {
+    "id": 4698,
+    "fa": "چه بد، به هر حال زیاد امید نداشتم (من امید نم داشتم به طور جدی به هر حال)",
+    "en": "Too bad; I wasn't seriously getting my hopes up anyway",
     "groupCode": 0
   }
 ]

@@ -10909,7 +10909,7 @@
   },
   {
     "id": 11790,
-    "en": "He submitted his application",
+    "en": "He submitted his application (application for a job, internship, or university)",
     "de": "Er hat seine Bewerbung eingereicht",
     "groupCode": 1
   },
@@ -12918,7 +12918,7 @@
   },
   {
     "id": 12119,
-    "en": "In that restaurant the noodles are the worst",
+    "en": "In the restaurant the noodles are the worst",
     "de": "In dem Restaurant sind die Nudeln am schlechtesten",
     "groupCode": 1
   },
@@ -13091,7 +13091,7 @@
   {
     "id": 12147,
     "en": "I always buy my bread rolls in this bakery because the baked goods are the freshest",
-    "de": "Ich kaufe meine Brötchen immer in dieser Bäckerei, denn hier sind die Backwaren am frischsten",
+    "de": "Ich kaufe meine Brötchen immer in dieser Bäckerei, denn hier sind die Backwaren am frischesten",
     "groupCode": 1
   },
   {
@@ -13151,7 +13151,7 @@
   },
   {
     "id": 12157,
-    "en": "Can I speak to them about Ilia?",
+    "en": "Can I speak with them about Ilia?",
     "de": "Kann ich mit ihnen über Ilia sprechen?",
     "groupCode": 1
   },
@@ -13193,8 +13193,9 @@
   },
   {
     "id": 12164,
-    "en": "He submits the application on time",
+    "en": "He submits the application (official) on time",
     "de": "Er reicht den Antrag rechtzeitig ein",
+    "desc": "Antrag → official/formal request (like for benefits, leave, or permits).\n\nBewerbung → application for a job, internship, or university.",
     "groupCode": 1
   },
   {
@@ -13217,13 +13218,13 @@
   },
   {
     "id": 12168,
-    "en": "Go to the shopping mall immediately and buy a toy",
+    "en": "Go immediately into the shopping mall and buy a toy",
     "de": "Geh sofort ins Einkaufszentrum und kauft ein Spielzeug",
     "groupCode": 1
   },
   {
     "id": 12169,
-    "en": "Both are correct",
+    "en": "Both are right",
     "de": "Beide haben recht",
     "groupCode": 1
   },
@@ -13231,6 +13232,66 @@
     "id": 12170,
     "en": "Are you buying your mom gloves for Christmas?",
     "de": "Kaufst du deiner Mama zu Weihnachten Handschuhe?",
+    "groupCode": 1
+  },
+  {
+    "id": 12171,
+    "en": "Did you understand everything correctly?",
+    "de": "Hast du alles richtig verstanden?",
+    "groupCode": 1
+  },
+  {
+    "id": 12172,
+    "en": "That is the biggest building in the city",
+    "de": "Das ist das am größten Gebäude in der Stadt",
+    "groupCode": 1
+  },
+  {
+    "id": 12173,
+    "en": "The witch likes listening to jazz",
+    "de": "Die Hexe hört gern Jazz",
+    "groupCode": 1
+  },
+  {
+    "id": 12174,
+    "en": "Do you want to try my lawyer's fruit cake?",
+    "de": "Willst du den stollen von meiner Anwältin probieren?",
+    "groupCode": 1
+  },
+  {
+    "id": 12175,
+    "en": "We always drink mulled wine at Christmas",
+    "de": "Wir trinken an Weihnachten immer Glühwein",
+    "groupCode": 1
+  },
+  {
+    "id": 12176,
+    "en": "Over there stands a policewoman",
+    "de": "Da drüben steht eine Polizistin",
+    "groupCode": 1
+  },
+  {
+    "id": 12177,
+    "en": "The problem is, the dentist isn't nice",
+    "de": "Das Problem ist, die Zahnärztin ist nicht nett",
+    "groupCode": 1
+  },
+  {
+    "id": 12178,
+    "en": "I'm going to the dentist because I've had a toothache since Tuesday",
+    "de": "Ich gehe zum zahnarzt, denn ich habe seit Dienstag Zahnschmerzen",
+    "groupCode": 1
+  },
+  {
+    "id": 12179,
+    "en": "My brother is a hairdresser and he's really helpful",
+    "de": "Mein Bruder ist Friseur und er ist wirklich hilfreich",
+    "groupCode": 1
+  },
+  {
+    "id": 12180,
+    "en": "I have to go to the butcher and buy a goose",
+    "de": "Ich muss zum Metzger gehen und eine gans kaufen",
     "groupCode": 1
   }
 ]
