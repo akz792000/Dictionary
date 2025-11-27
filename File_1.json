@@ -9848,7 +9848,7 @@
   {
     "id": 4615,
     "fa": "کلاغ چه چیزی را برداشت؟",
-    "en": "What did the crow take?",
+    "en": "What did the crow /ˈkroʊ/ take?",
     "groupCode": 0
   },
   {
@@ -10219,7 +10219,7 @@
   },
   {
     "id": 4676,
-    "fa": "بیایید بعداً یک تماس زوم داشته باشیم (بپر بالا)",
+    "fa": "بیایید بعداً یک تماس Zoom داشته باشیم (بپر بالا)",
     "en": "Let's hop on a Zoom call later",
     "groupCode": 0
   },
@@ -10264,7 +10264,7 @@
   {
     "id": 4683,
     "fa": "\n 1.گنجشک \n 2.کبوتر \n 3.کلاغ \n 4.طوطی \n 5.جغد \n 6.پنگوئن \n 7.عقاب \n 8.پرستو \n 9.لک لک",
-    "en": "\n 1.Sparrow \n 2.Pigeon \n 3.Crow \n 4.Parrot \n 5.Owl \n 6.Penguin \n 7.Eagle \n 8.Swallow \n 9.Stork",
+    "en": "\n 1.Sparrow \n 2.Pigeon \n 3.Crow /ˈkroʊ/ \n 4.Parrot \n 5.Owl /ˈaʊl/ \n 6.Penguin \n 7.Eagle \n 8.Swallow \n 9.Stork",
     "groupCode": 0
   },
   {
@@ -10301,6 +10301,7 @@
     "id": 4689,
     "fa": "من حضور ذهن ندارم (من از بالای سرم نمی دانم)، اما من می توانم (فرضی) بروم و آن را جستجو کنم (معنی پیدا کردن)",
     "en": "I don't know off the top of my head, but I could go and look it up",
+    "desc": "✔\uFE0F 1. “I don't know off the top of my head, but I could go and look it up.”\n\n➡\uFE0F more polite / less direct / offering a possibility\nYou are saying: I don’t know right now, but if you want, I could look it up.\n\n✔\uFE0F 2. “I don't know off the top of my head, but I can go and look it up.”\n\n➡\uFE0F more direct / offering to do it right now\nYou are saying: I don’t know right now, but I’m able to go look it up and I will if needed.",
     "groupCode": 0
   },
   {
@@ -10342,7 +10343,7 @@
   },
   {
     "id": 4696,
-    "fa": "اگر ما قرار نیاییم شرکت, به من اطلاع بده بنابراین من نخواهم آمد شرکت",
+    "fa": "اگر ما قرار نیاییم شرکت, به من اطلاع بده بنابراین من نخواهم آمد",
     "en": "If we're not going to the company, let me know so I won't come",
     "groupCode": 0
   },
@@ -10356,6 +10357,42 @@
     "id": 4698,
     "fa": "چه بد، به هر حال زیاد امید نداشتم (من امید نم داشتم به طور جدی به هر حال)",
     "en": "Too bad; I wasn't seriously getting my hopes up anyway",
+    "groupCode": 0
+  },
+  {
+    "id": 4699,
+    "fa": "کی شما متوجه شدی شما به او افتخار می کردی؟",
+    "en": "When did you realize you were proud of him?",
+    "groupCode": 0
+  },
+  {
+    "id": 4700,
+    "fa": "کی ما قصد داریم ngrok دوباره فعال شود؟ من در حال حاضر یک تیکت باز کرده ام، اما فایده ای نداشته است",
+    "en": "When are we going to have ngrok reactivated? I've already opened a ticket, but to no avail",
+    "groupCode": 0
+  },
+  {
+    "id": 4701,
+    "fa": "ما پیدا کردیم یک راه تا دور بزنیم مشکل را",
+    "en": "We found a way to circumvent the problem",
+    "groupCode": 0
+  },
+  {
+    "id": 4702,
+    "fa": "چشمت به این بود (داشتی)؟",
+    "en": "Had your eye on this?",
+    "groupCode": 0
+  },
+  {
+    "id": 4703,
+    "fa": "من زردچوبه به سوپ اضافه کردم",
+    "en": "I added turmeric to the soup",
+    "groupCode": 0
+  },
+  {
+    "id": 4704,
+    "fa": "چقدر است ۴ بسته ۲۵ دلاری؟",
+    "en": "How much are 4 stacks of 25$?",
     "groupCode": 0
   }
 ]

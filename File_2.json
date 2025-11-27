@@ -4470,6 +4470,7 @@
     "id": 10734,
     "en": "Anna runs two hundred kilometers every Saturday, her husband is also very sporty, he runs every day",
     "de": "Anna läuft jeden Samstag zweihundert Kilometer, ihr Mann ist auch sehr sportlich, er läuft jeden Tag",
+    "desc": "The word Kilometer does not change in the plural.",
     "groupCode": 1
   },
   {
@@ -6979,7 +6980,7 @@
     "id": 11147,
     "en": "I spend the evening at home. I spend a lot (much) of money",
     "de": "Ich verbringe den Abend zu Hause. Ich gebe viel Geld aus",
-    "desc": "verbringen = spend time, ausgeben = spend money",
+    "desc": "verbringen = spend time, ausgeben = spend money \n\n\n ✅ Why Akkusativ?\n\nBecause the verb verbringen (to spend time) always takes an accusative object.\n\nYou spend what? → the evening\nWen oder was verbringe ich? → den Abend.\n\nSo:\n\nder Abend (Nominativ)\n→ den Abend (Akkusativ)",
     "groupCode": 1
   },
   {
@@ -9822,8 +9823,8 @@
   },
   {
     "id": 11612,
-    "en": "Give me please notification",
-    "de": "Gib mir bitte Bescheid",
+    "en": "We are visiting our son on Christmas",
+    "de": "Wir besuchen an Weinachten unseren Sohn",
     "groupCode": 1
   },
   {
@@ -12035,7 +12036,7 @@
   {
     "id": 11974,
     "en": "You can take the bus to the party, or we can pick you up. It's really no problem. Let me know",
-    "de": "Du kannst den Bus zur Party nehmen oder wir Können dich abholen. Das ist wirklich kein Problem. sag Bescheid",
+    "de": "Du kannst den Bus zur Party nehmen oder wir Können dich abholen. Das ist wirklich kein Problem. Sag Bescheid",
     "groupCode": 1
   },
   {
@@ -12943,7 +12944,7 @@
   },
   {
     "id": 12123,
-    "en": "Please let me know whether you're coming",
+    "en": "Please let me (more explicit) know whether you're coming",
     "de": "Bitte gib mir Bescheid, ob du kommst",
     "groupCode": 1
   },
@@ -13091,7 +13092,7 @@
   {
     "id": 12147,
     "en": "I always buy my bread rolls in this bakery because the baked goods are the freshest",
-    "de": "Ich kaufe meine Brötchen immer in dieser Bäckerei, denn hier sind die Backwaren am frischesten",
+    "de": "Ich kaufe meine Brötchen immer in dieser Bäckerei, weil die Backwaren hier am frischesten sind",
     "groupCode": 1
   },
   {
@@ -13254,7 +13255,7 @@
   },
   {
     "id": 12174,
-    "en": "Do you want to try my lawyer's fruit cake?",
+    "en": "Do you want to try my fruit cake from lawyer (female)?",
     "de": "Willst du den stollen von meiner Anwältin probieren?",
     "groupCode": 1
   },
@@ -13272,14 +13273,14 @@
   },
   {
     "id": 12177,
-    "en": "The problem is, the dentist isn't nice",
+    "en": "The problem is, the dentist (female) isn't nice",
     "de": "Das Problem ist, die Zahnärztin ist nicht nett",
     "groupCode": 1
   },
   {
     "id": 12178,
     "en": "I'm going to the dentist because I've had a toothache since Tuesday",
-    "de": "Ich gehe zum zahnarzt, denn ich habe seit Dienstag Zahnschmerzen",
+    "de": "Ich gehe zum Zahnarzt, weil ich seit Dienstag Zahnschmerzen habe",
     "groupCode": 1
   },
   {
@@ -13293,5 +13294,23 @@
     "en": "I have to go to the butcher and buy a goose",
     "de": "Ich muss zum Metzger gehen und eine gans kaufen",
     "groupCode": 1
+  },
+  {
+    "id": 12181,
+    "fa": "All (Everyone) gets presents, even the cats",
+    "en": "Alle bekommen Geschenke sogar die Katzen",
+    "groupCode": 0
+  },
+  {
+    "id": 12182,
+    "fa": "The fish in this restaurant is the saltiest",
+    "en": "Der Fisch in diesem Restaurant ist am salzigsten",
+    "groupCode": 0
+  },
+  {
+    "id": 12183,
+    "fa": "Please speak more slowly",
+    "en": "Sprich bitte langsamer",
+    "groupCode": 0
   }
 ]
