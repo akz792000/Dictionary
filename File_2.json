@@ -2957,7 +2957,7 @@
   {
     "id": 10484,
     "en": "No, I unfortunately cannot work on Saturdays",
-    "de": "Nein, ich kann samstags leider nicht arbeiten",
+    "de": "Nein, ich kann leider samstags nicht arbeiten",
     "groupCode": 1
   },
   {
@@ -6138,7 +6138,7 @@
   {
     "id": 11008,
     "en": "Where are the shoes? The shoes are between the boxes",
-    "de": "Wo sind die Schuhe? Die Schuhe sind zwischen den Kisten",
+    "de": "Wo sind die Schuhe? Die Schuhe sind zwischen den Boxen/Kisten",
     "groupCode": 1
   },
   {
@@ -9908,7 +9908,7 @@
   {
     "id": 11626,
     "en": "\n The tomato \n The cucumber \n The carrot \n The onion \n The Salat \n The bowl \n The dishes \n The Garlic",
-    "de": "\n Die Tomate \n Der Gurke \n Die Karotte \n Die Zwiebel \n Der Salat \n Die Schüssel \n Das Geschirr \n Der Knoblauch",
+    "de": "\n Die Tomate \n Der Gurke \n Die Karotte \n Die Zwiebel \n Der Salat \n Die Schüssel \n Das Geschirr \n Der Knoblauch (خ)",
     "desc": "the dishes / the crockery / the tableware\n\nRefers to plates, cups, bowls, and other items used for eating.\n\nExample:\n\nIch spüle das Geschirr. → I'm washing the dishes",
     "groupCode": 1
   },
@@ -12981,7 +12981,7 @@
   {
     "id": 12129,
     "en": "We take the shoes out of the box",
-    "de": "Wir nehmen die Schuhe aus der Box heraus",
+    "de": "Wir nehmen die Schuhe aus der Box (Kiste) heraus",
     "groupCode": 1
   },
   {
@@ -13255,7 +13255,7 @@
   },
   {
     "id": 12174,
-    "en": "Do you want to try my fruit cake from lawyer (female)?",
+    "en": "Do you want to try the fruit cake from my lawyer (female)?",
     "de": "Willst du den stollen von meiner Anwältin probieren?",
     "groupCode": 1
   },
@@ -13299,18 +13299,18 @@
     "id": 12181,
     "fa": "All (Everyone) gets presents, even the cats",
     "en": "Alle bekommen Geschenke sogar die Katzen",
-    "groupCode": 0
+    "groupCode": 1
   },
   {
     "id": 12182,
     "fa": "The fish in this restaurant is the saltiest",
     "en": "Der Fisch in diesem Restaurant ist am salzigsten",
-    "groupCode": 0
+    "groupCode": 1
   },
   {
     "id": 12183,
-    "fa": "Please speak more slowly",
+    "fa": "Speak please more slowly",
     "en": "Sprich bitte langsamer",
-    "groupCode": 0
+    "groupCode": 1
   }
 ]
