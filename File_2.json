@@ -13091,7 +13091,7 @@
   },
   {
     "id": 12147,
-    "en": "I always buy my bread rolls in this bakery because the baked goods are the freshest",
+    "en": "I always buy my bread rolls in this bakery because the baked goods here are the freshest",
     "de": "Ich kaufe meine Brötchen immer in dieser Bäckerei, weil die Backwaren hier am frischesten sind",
     "groupCode": 1
   },
@@ -13182,7 +13182,7 @@
   },
   {
     "id": 12162,
-    "en": "There is a big difference between the two pictures",
+    "en": "There is a big difference between the both pictures",
     "de": "Es gibt einen großen Unterschied zwischen den beiden Bildern",
     "groupCode": 1
   },
@@ -13297,20 +13297,32 @@
   },
   {
     "id": 12181,
-    "fa": "All (Everyone) gets presents, even the cats",
-    "en": "Alle bekommen Geschenke sogar die Katzen",
+    "en": "All (Everyone) gets presents, even the cats",
+    "de": "Alle bekommen Geschenke sogar die Katzen",
     "groupCode": 1
   },
   {
     "id": 12182,
-    "fa": "The fish in this restaurant is the saltiest",
-    "en": "Der Fisch in diesem Restaurant ist am salzigsten",
+    "en": "The fish in this restaurant is the saltiest",
+    "de": "Der Fisch in diesem Restaurant ist am salzigsten",
     "groupCode": 1
   },
   {
     "id": 12183,
-    "fa": "Speak please more slowly",
-    "en": "Sprich bitte langsamer",
+    "en": "Speak please more slowly",
+    "de": "Sprich bitte langsamer",
+    "groupCode": 1
+  },
+  {
+    "id": 12184,
+    "en": "The arrow show to (the) right",
+    "de": "Der Pfeil zeigt nach rechts",
+    "groupCode": 1
+  },
+  {
+    "id": 12185,
+    "en": "The target hangs on the wall",
+    "de": "Die Scheibe hängt an der Wand",
     "groupCode": 1
   }
 ]

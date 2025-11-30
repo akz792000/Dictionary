@@ -6239,6 +6239,7 @@
     "id": 4021,
     "fa": "خوب است دیدن چیزهای (موارد) منسوخ شده دارن حذف میشوند",
     "en": "It's nice seeing deprecated stuff being removed",
+    "desc": "After seeing, you should use a gerund phrase (“deprecated stuff being removed”), not a full clause (“deprecated stuff are being removed”). The verb are doesn’t fit there.\n\nIf you want a version with are, you must change the sentence structure:\n\n✅ It’s nice that deprecated stuff is being removed.",
     "groupCode": 0
   },
   {
@@ -7353,7 +7354,7 @@
   },
   {
     "id": 4204,
-    "fa": "ما نیاز داریم تسریع کنیم فرآیند را برای رسیدن به آخرین مهلت (ضرب الاجل)",
+    "fa": "ما نیاز داریم تسریع کنیم فرآیند را تا ملاقات کنیم آخرین مهلت (ضرب الاجل)",
     "en": "We need to expedite /ˈekspəˌdīt/ the process to meet the deadline",
     "groupCode": 0
   },
@@ -10362,7 +10363,7 @@
   },
   {
     "id": 4699,
-    "fa": "کی شما تشخیص دادی شدی شما به او (مرد) افتخار می کردی؟",
+    "fa": "کی شما تشخیص دادی شما به او (مرد) افتخار می کردی؟",
     "en": "When did you realize you were proud of him?",
     "groupCode": 0
   },
@@ -10404,14 +10405,32 @@
   },
   {
     "id": 4706,
-    "fa": "کودک به مادرش می چسبد",
+    "fa": "کودک می چسبد به مادرش (مرد)",
     "en": "The child clings to his mother",
     "groupCode": 0
   },
   {
     "id": 4707,
-    "fa": "ما داریم ارسال می کنیم اطاعات خیلی زیادی به پردازش به طور سریع. هر ورودی اضافه می کند یک «نورون» جدید در مغزش, بنابراین هر درخواست جدید باید طی کند مسیرهای بیشتری تا بیابد پاسخ درست",
+    "fa": "ما داریم ارسال می کنیم اطاعات خیلی زیادی تا پردازش کنیم به طور سریع. هر ورودی اضافه می کند یک «نورون» جدید در مغزش, بنابراین هر درخواست جدید باید طی کند مسیرهای بیشتری تا بیابد پاسخ درست",
     "en": "We're sending too much information to process quickly. Each entry adds a new “neuron” in its brain, so each new request has to traverse more paths to find the right answer",
+    "groupCode": 0
+  },
+  {
+    "id": 4708,
+    "fa": "او (مرد) همیشه همکاری می کنه با ایده های خوب در طول جلسات",
+    "en": "He always chips in with good ideas during meetings",
+    "groupCode": 0
+  },
+  {
+    "id": 4709,
+    "fa": "او (مرد) تماشا کرد فیلم را به طور کامل",
+    "en": "\n 1.He watched the movie in its entirety \n 2.He watched the whole movie",
+    "groupCode": 0
+  },
+  {
+    "id": 4710,
+    "fa": "Enumها و فیلدهای آنها ایستا هستند ذاتاً",
+    "en": "Enums and their fields are static by nature",
     "groupCode": 0
   }
 ]
