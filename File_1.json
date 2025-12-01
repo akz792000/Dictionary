@@ -10152,8 +10152,8 @@
   },
   {
     "id": 4665,
-    "fa": "در یک شنونده رویداد Spring، اگر متد همزمان باشد، بلافاصله اجرا می شود. اگر ناهمزمان باشد، Spring آن را در یک مخزن نخ (thread pool) زمانبندی می کند و زمانبندی اتفاق میافتد بلافاصله. با این حال، از نظر فنی، شنونده ممکن است شروع به اجرا کند قبل از اتمام نخ فعلی، بنابراین هیچ تضمین ۱۰۰٪ وجود ندارد که شنونده اجرا خواهد شد بعد از نخ فعلی",
-    "en": "In a Spring event listener, if the method is synchronous, it executes immediately. If it's asynchronous, Spring schedules it on a thread pool, and the scheduling happens immediately. However, technically the listener might start executing before the current thread finishes, so there is no 100% guarantee the listener will run after the current thread",
+    "fa": "در یک شنونده رویداد Spring، اگر متد همزمان باشد، Spring بلافاصله اجرا می کند. اگر ناهمزمان باشد، Spring آن را در یک مخزن نخ (thread pool) زمانبندی می کند و زمانبندی اتفاق میافتد بلافاصله. با این حال، از نظر فنی، شنونده ممکن است شروع به اجرا کند قبل از اتمام نخ فعلی، بنابراین هیچ تضمین ۱۰۰٪ وجود ندارد که شنونده اجرا خواهد شد بعد از نخ فعلی",
+    "en": "In a Spring event listener, if the method is synchronous, Spring executes immediately. If it's asynchronous, Spring schedules it on a thread pool, and the scheduling happens immediately. However, technically the listener might start executing before the current thread finishes, so there is no 100% guarantee the listener will run after the current thread",
     "desc": "✔ Summary\nSituation\tVoice\tExample\nTalking generally about program behavior\tActive\t“The listener executes.”\nEmphasizing that Spring triggers it\tPassive\t“The listener is executed by Spring.”",
     "groupCode": 0
   },
@@ -10417,8 +10417,8 @@
   },
   {
     "id": 4708,
-    "fa": "او (مرد) همیشه همکاری می کنه با ایده های خوب در طول جلسات",
-    "en": "He always chips in with good ideas during meetings",
+    "fa": "او (مرد) همیشه همکاری می کنه با ایده های مفید",
+    "en": "He always chips in with useful ideas",
     "groupCode": 0
   },
   {
