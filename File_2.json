@@ -8318,8 +8318,8 @@
   },
   {
     "id": 11367,
-    "en": "I close (casual) the door",
-    "de": "Ich mache die Tür zu",
+    "en": "\n 1.I close (casual) the door \n 2.I open (casual) the door",
+    "de": "\n 1.Ich mache die Tür zu \n 2.Ich mache die Tür auf",
     "desc": "zumachen = casual, everyday\n\uD83D\uDC49 Mach die Tür zu! (Close the door!)\n\nschließen = formal or technical\n\uD83D\uDC49 Die Bank schließt um 17 Uhr. (The bank closes at 5 p.m.)",
     "groupCode": 1
   },
@@ -9908,7 +9908,7 @@
   {
     "id": 11626,
     "en": "\n The tomato \n The cucumber \n The carrot \n The onion \n The Salat \n The bowl \n The dishes \n The Garlic",
-    "de": "\n Die Tomate \n Der Gurke \n Die Karotte \n Die Zwiebel \n Der Salat \n Die Schüssel \n Das Geschirr \n Der Knoblauch (خ)",
+    "de": "\n Die Tomate \n Der Gurke \n Die Karotte \n Die Zwiebel \n Der Salat \n Die Schüssel \n Das Geschirr \n Der Knoblauch (کنوب لاوخ)",
     "desc": "the dishes / the crockery / the tableware\n\nRefers to plates, cups, bowls, and other items used for eating.\n\nExample:\n\nIch spüle das Geschirr. → I'm washing the dishes",
     "groupCode": 1
   },
@@ -11031,7 +11031,7 @@
   },
   {
     "id": 11810,
-    "en": "She moved into another city. I haven't spoken to her in a long time",
+    "en": "She moved into another city. I haven't spoken with her in a long time",
     "de": "Sie ist in eine andere Stadt umgezogen. Ich habe lange nicht mit ihr gesprochen",
     "groupCode": 1
   },
@@ -13140,8 +13140,8 @@
   },
   {
     "id": 12155,
-    "en": "I need more movement",
-    "de": "Ich brauche mehr Bewegung",
+    "en": "Movement is important",
+    "de": "Bewegung ist wichtig",
     "groupCode": 1
   },
   {
@@ -13323,6 +13323,31 @@
     "id": 12185,
     "en": "The target hangs on the wall",
     "de": "Die Scheibe hängt an der Wand",
+    "groupCode": 1
+  },
+  {
+    "id": 12186,
+    "en": "What do you want to do on (at) the computer?",
+    "de": "Was willst du am Computer machen?",
+    "groupCode": 1
+  },
+  {
+    "id": 12187,
+    "en": "All (Everyone) is coming to the party, even my siblings. We're celebrating with the whole family",
+    "de": "Alle kommen zur Party, sogar meine Geschwister. Wir feiern mit der ganzen Familie",
+    "groupCode": 1
+  },
+  {
+    "id": 12188,
+    "en": "Can you please add him to this group?",
+    "de": "Kannst du bitte ihn in diese Gruppe hinzufügen?",
+    "groupCode": 1
+  },
+  {
+    "id": 12189,
+    "en": "What are you asking about (for)?",
+    "de": "Wonach fragst du?",
+    "desc": "Use wonach when you want to ask “what… about?” or “for what?” in relation to a preposition + thing (not a person).",
     "groupCode": 1
   }
 ]

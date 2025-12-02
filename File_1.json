@@ -10340,7 +10340,7 @@
   {
     "id": 4695,
     "fa": "آن (قاب) عکس کج است، شما لطفاً می توانی (مودبانه) صافش کنی برای من؟",
-    "en": "That picture is crooked. Could you please straighten it up for me?",
+    "en": "That picture is crooked. Could you please straighten it out for me?",
     "groupCode": 0
   },
   {
@@ -10424,13 +10424,43 @@
   {
     "id": 4709,
     "fa": "او (مرد) تماشا کرد فیلم را به طور کامل",
-    "en": "\n 1.He watched the movie in its entirety \n 2.He watched the whole movie",
+    "en": "\n 1.He watched the movie in its entirety /enˈtaɪərti/ \n 2.He watched the whole movie",
     "groupCode": 0
   },
   {
     "id": 4710,
     "fa": "Enumها و فیلدهای آنها ایستا هستند ذاتاً",
     "en": "Enums and their fields are static by nature",
+    "groupCode": 0
+  },
+  {
+    "id": 4711,
+    "fa": "من در دوراهی بودم",
+    "en": "I was in a quandary",
+    "groupCode": 0
+  },
+  {
+    "id": 4712,
+    "fa": "میتونی اتاقتو مرتب کنی؟",
+    "en": "Can you straighten up your room?",
+    "groupCode": 0
+  },
+  {
+    "id": 4713,
+    "fa": "بکش بالا شلوارت رو، آنها داره از رو باسنت میفته پایین",
+    "en": "Pull up your pants, they're falling off your butt",
+    "groupCode": 0
+  },
+  {
+    "id": 4714,
+    "fa": "Hat میره کامل دور سرت و یک لبه دارد، در حالی که cap دارد یک نوک جلو و قرار می گیرد محکم روی سر",
+    "en": "Hat goes all around your head and has a brim, while cap has a front peak and fits tightly on top",
+    "groupCode": 0
+  },
+  {
+    "id": 4715,
+    "fa": "خورشید است ۹۹.۸٪ از کل جرم در منظومه شمسی ما",
+    "en": "The sun is 99.8% of all mass in our solar system",
     "groupCode": 0
   }
 ]
