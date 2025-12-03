@@ -10435,7 +10435,7 @@
   },
   {
     "id": 4711,
-    "fa": "من در دوراهی بودم",
+    "fa": "من در یک دوراهی بودم",
     "en": "I was in a quandary",
     "groupCode": 0
   },
@@ -10461,6 +10461,18 @@
     "id": 4715,
     "fa": "خورشید است ۹۹.۸٪ از کل جرم در منظومه شمسی ما",
     "en": "The sun is 99.8% of all mass in our solar system",
+    "groupCode": 0
+  },
+  {
+    "id": 4716,
+    "fa": "میتونم من نوازش کنم سگتون رو؟ چه نژادی است او؟",
+    "en": "Can I pet your dog? What breed is he?",
+    "groupCode": 0
+  },
+  {
+    "id": 4717,
+    "fa": "دست از شکایت بردار (بایست). ناله را کنار بگذار (ترک کن)",
+    "en": "Stop complaining. Quit whining",
     "groupCode": 0
   }
 ]

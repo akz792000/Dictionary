@@ -9038,7 +9038,7 @@
   },
   {
     "id": 11484,
-    "en": "On the other days is open until 6 p.m",
+    "en": "On (at) the other days is open until 6 p.m",
     "de": "An den anderen Tagen ist bis 18 Uhr geöffnet",
     "groupCode": 1
   },
@@ -12077,14 +12077,14 @@
   },
   {
     "id": 11981,
-    "en": "but, and, or, because, rather → Maintain normal word order",
-    "de": "aber, und, oder, denn, sondern → Normale Wortreihenfolge beibehalten",
+    "en": "The bank is nearby, who can get money?",
+    "de": "Die Bank ist in der Nähe, wer kann Geld holen?",
     "groupCode": 1
   },
   {
     "id": 11982,
-    "en": "because, that, although, if (whenever), before, after, etc → send the verb to the end",
-    "de": "weil, dass, obwohl, wenn, bevor, nachdem, etc → Sende das Verb ans Ende",
+    "en": "Are you going to the bank and getting money?",
+    "de": "Gehst du in die Bank und holst Geld?",
     "groupCode": 1
   },
   {
@@ -12488,8 +12488,8 @@
   },
   {
     "id": 12048,
-    "en": "(by) in case of parenting problems you (formal) go to the youth welfare office",
-    "de": "bei erziehungsproblemen gehen Sie in Deutschland zum Jugendamt",
+    "en": "The apartment has more than one window, it has four windows",
+    "de": "Die Wohnung hat mehr als ein Fenster, sie hat vier Fenster",
     "groupCode": 1
   },
   {
@@ -12581,8 +12581,8 @@
   },
   {
     "id": 12063,
-    "en": "supply and demand",
-    "de": "Angebot und Nachfrage",
+    "en": "You already have a dresser, you need a closet",
+    "de": "Du hast schon eine Kommode, du brauchst einen Schrank",
     "groupCode": 1
   },
   {
@@ -13164,8 +13164,8 @@
   },
   {
     "id": 12159,
-    "en": "I actually wanted to promote him",
-    "de": "Ich wollte ihn eigentlich befördern",
+    "en": "We have to travel by bus for two stops",
+    "de": "Wir müssen mit dem Bus zwei Haltestellen fahren",
     "groupCode": 1
   },
   {
