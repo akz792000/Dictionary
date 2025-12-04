@@ -10465,14 +10465,20 @@
   },
   {
     "id": 4716,
-    "fa": "میتونم من نوازش کنم سگتون رو؟ چه نژادی است او؟",
+    "fa": "میتونم من نوازش کنم سگتون رو؟ چه نژادی است او (مرد)؟",
     "en": "Can I pet your dog? What breed is he?",
     "groupCode": 0
   },
   {
     "id": 4717,
-    "fa": "دست از شکایت بردار (بایست). ناله را کنار بگذار (ترک کن)",
-    "en": "Stop complaining. Quit whining",
+    "fa": "ناله کردن را کنار بگذار و انجام بده تکالیفتان",
+    "en": "Quit whining and do your homework",
+    "groupCode": 0
+  },
+  {
+    "id": 4718,
+    "fa": "هی، آروم باش (ساکت باش)! من دارم سعی می کنم مطالعه کنم",
+    "en": "Hey, pipe down (be quiet)! I'm trying to study",
     "groupCode": 0
   }
 ]

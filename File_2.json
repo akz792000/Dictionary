@@ -12083,7 +12083,7 @@
   },
   {
     "id": 11982,
-    "en": "Are you going to the bank and getting money?",
+    "en": "Are you going into the bank and getting money?",
     "de": "Gehst du in die Bank und holst Geld?",
     "groupCode": 1
   },
@@ -13244,7 +13244,7 @@
   {
     "id": 12172,
     "en": "That is the biggest building in the city",
-    "de": "Das ist das am größten Gebäude in der Stadt",
+    "de": "Das ist das größte Gebäude in der Stadt",
     "groupCode": 1
   },
   {
@@ -13348,6 +13348,72 @@
     "en": "What are you asking about (for)?",
     "de": "Wonach fragst du?",
     "desc": "Use wonach when you want to ask “what… about?” or “for what?” in relation to a preposition + thing (not a person).",
+    "groupCode": 1
+  },
+  {
+    "id": 12190,
+    "en": "The mirror is in the basement",
+    "de": "Der Spiegel ist im Keller",
+    "groupCode": 1
+  },
+  {
+    "id": 12191,
+    "en": "Do you want to have three shelves in the bathroom?",
+    "de": "Willst du drei Regale im Badeyimmer haben?",
+    "groupCode": 1
+  },
+  {
+    "id": 12192,
+    "en": "Our apartment is really cozy",
+    "de": "Unsere Wohnung ist wirklich gemütlich",
+    "groupCode": 1
+  },
+  {
+    "id": 12193,
+    "en": "Why do you like (appearance or impression) the chairs?",
+    "de": "Warum gefallen dir die Stühle?",
+    "groupCode": 1
+  },
+  {
+    "id": 12194,
+    "en": "These chairs are really cheap. Yes, but I don't like (appearance or impression) them",
+    "de": "Diese Stühle sind wirklich billig. Ja, aber sie gefallen mir nicht",
+    "groupCode": 1
+  },
+  {
+    "id": 12195,
+    "en": "Bring the chairs into the basement",
+    "de": "Bring die Stühle in den Keller",
+    "groupCode": 1
+  },
+  {
+    "id": 12196,
+    "en": "Are you putting the picture in the living room or the bathroom?",
+    "de": "Stellst du das Bild ins Wohnzimmer oder ins Badezimmer?",
+    "groupCode": 1
+  },
+  {
+    "id": 12197,
+    "en": "You like reading, do you like (appearance or impression) these books?",
+    "de": "Du liest gern, gefallen dir diese Bücher?",
+    "groupCode": 1
+  },
+  {
+    "id": 12198,
+    "en": "Bring please the plant in the cellar",
+    "de": "Bring bitte die Pflanze in den Keller",
+    "groupCode": 1
+  },
+  {
+    "id": 12199,
+    "en": "I don't like (appearance or impression) the drawers, it's too small",
+    "de": "Die kommode gefällt mir nicht, sie ist zu klein",
+    "groupCode": 1
+  },
+  {
+    "id": 12200,
+    "en": "The drugstore is open from eight to five.",
+    "de": "Der Drogeriemarkt ist von acht bis fünf geöffnet",
     "groupCode": 1
   }
 ]
