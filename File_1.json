@@ -5420,8 +5420,8 @@
   },
   {
     "id": 3887,
-    "fa": "چگونه مطمئنی (برای اطمینان) میدانی؟",
-    "en": "How do you know for sure?",
+    "fa": "شما دستگیر خواهید شد اگر شما پاسخ ندهید (برنگردید) به این تماس",
+    "en": "You will be arrested if you don't get back to this call",
     "groupCode": 0
   },
   {
@@ -10479,6 +10479,12 @@
     "id": 4718,
     "fa": "هی، آروم باش (ساکت باش)! من دارم سعی می کنم مطالعه کنم",
     "en": "Hey, pipe down (be quiet)! I'm trying to study",
+    "groupCode": 0
+  },
+  {
+    "id": 4719,
+    "fa": "در سایز ۳۶، طول کاملاً مناسب است اما کمر خیلی بزرگ است. در سایز ۳۴، کمر به خوبی اندازه است اما طول خیلی کوتاه است. آیا شما دارید یک کمر ۳۴ با قد ۳۶؟",
+    "en": "In size 36, the length is perfect but the waist is too large. In size 34, the waist fits well but the length is too short. Do you have a waist 34 with length 36?",
     "groupCode": 0
   }
 ]
