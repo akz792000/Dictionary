@@ -10486,5 +10486,17 @@
     "fa": "در سایز ۳۶، طول کاملاً مناسب است اما کمر خیلی بزرگ است. در سایز ۳۴، کمر به خوبی اندازه است اما طول خیلی کوتاه است. آیا شما دارید یک کمر ۳۴ با قد ۳۶؟",
     "en": "In size 36, the length is perfect but the waist is too large. In size 34, the waist fits well but the length is too short. Do you have a waist 34 with length 36?",
     "groupCode": 0
+  },
+  {
+    "id": 4720,
+    "fa": "من سعی کردم ببندمش، اما یه چیزی گیر کرد و سپس همه جدا شد. من فکر می کنم لولاش شکسته",
+    "en": "I tried to close it, but something got jammed, and then everything came apart. I think the hinge is broken",
+    "groupCode": 0
+  },
+  {
+    "id": 4721,
+    "fa": "من باید ببرمش تا درستش کنن",
+    "en": "I gotta take it to get it fixed",
+    "groupCode": 0
   }
 ]

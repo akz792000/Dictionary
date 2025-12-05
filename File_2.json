@@ -13412,8 +13412,26 @@
   },
   {
     "id": 12200,
-    "en": "The drugstore is open from eight to five.",
+    "en": "The drugstore is open from eight to five",
     "de": "Der Drogeriemarkt ist von acht bis fünf geöffnet",
+    "groupCode": 1
+  },
+  {
+    "id": 12201,
+    "en": "What are you actually giving your mother for Christmas? Maybe a book or a CD",
+    "de": "Was schenkst du eigentlich deiner Mutter zu Weihnachten? Vielleicht ein Buch oder eine CD",
+    "groupCode": 1
+  },
+  {
+    "id": 12202,
+    "en": "I'm giving my father an atlas and my mother her favorite perfume",
+    "de": "Ich schenke meinem Vater einen Atlas und meiner Mutter ihr Lieblingsparfüm",
+    "groupCode": 1
+  },
+  {
+    "id": 12203,
+    "en": "That's a good idea. Hey, I have to go. I still have to buy presents too",
+    "de": "Das ist eine gute Idee. Du, ich muss los. Ich muss auch noch Geschenke kaufen",
     "groupCode": 1
   }
 ]
