@@ -1189,7 +1189,7 @@
   },
   {
     "id": 10195,
-    "en": "Say your (formal) name?",
+    "en": "Say your (formal) names?",
     "de": "Sagen Sie Ihren Namen?",
     "desc": "The N-declension Rule:\nCertain masculine nouns in German, like \"Name\", follow a special pattern called the N-declension. These nouns take an extra -n or -en ending in cases other than the nominative singular.\n\nApplication to \"Name\":\nNominative Singular: der Name (The name)\nAccusative Singular: den Namen (The name)\nDative Singular: dem Namen (To/for the name)\nGenitive Singular: des Namens (Of the name)\nWhy does this happen?\nThis is a historical feature of German grammar for a small group of masculine nouns, mostly those of foreign origin or with specific endings like -e, -ist, or -ent.\n\nExamples:\nNominative: \"Der Name ist schön.\" (The name is nice.)\nAccusative: \"Ich schreibe den Namen.\" (I write the name.)\nSummary:\n\"Name\" changes to \"Namen\" in the accusative because it follows the N-declension rule for masculine nouns.\nArticles still follow the normal accusative rules: der → den.",
     "groupCode": 1
@@ -11963,8 +11963,8 @@
   },
   {
     "id": 11962,
-    "en": "Add further brand",
-    "de": "Weitere Marke hinzufügen",
+    "en": "I go into the furniture store. Are you coming with me? OK! I get us some coffee first",
+    "de": "Ich gehe ins Möbelhaus. Kommst du mit? OK! Ich hole uns zuerst Kaffee",
     "groupCode": 1
   },
   {
@@ -13164,7 +13164,7 @@
   },
   {
     "id": 12159,
-    "en": "We have to travel by bus for two stops",
+    "en": "We have to drive two (bus) stops by the bus",
     "de": "Wir müssen mit dem Bus zwei Haltestellen fahren",
     "groupCode": 1
   },
@@ -13388,7 +13388,7 @@
   },
   {
     "id": 12196,
-    "en": "Are you putting the picture in the living room or the bathroom?",
+    "en": "Are you putting the picture in the living room or in the bathroom?",
     "de": "Stellst du das Bild ins Wohnzimmer oder ins Badezimmer?",
     "groupCode": 1
   },
@@ -13432,6 +13432,12 @@
     "id": 12203,
     "en": "That's a good idea. Hey, I have to go. I still have to buy presents too",
     "de": "Das ist eine gute Idee. Du, ich muss los. Ich muss auch noch Geschenke kaufen",
+    "groupCode": 1
+  },
+  {
+    "id": 12204,
+    "en": "\n 1.The Tooth \n 2.The Gums \n 3.The Tongue \n 4.The Mouth \n 5.The Jaw",
+    "de": "\n 1.Der Zahn \n 2.Das Zahnfleisch \n 3.Die Zunge \n 4.Der Mund \n 5.Der Kiefer",
     "groupCode": 1
   }
 ]

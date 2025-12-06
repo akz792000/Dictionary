@@ -3137,7 +3137,7 @@
   },
   {
     "id": 3511,
-    "fa": "فردا چه زمانی باید عازم فرودگاه شویم؟",
+    "fa": "فردا چه زمانی باید عازم شویم برای فرودگاه؟",
     "en": "What time do we have to set off for the airport tomorrow?",
     "groupCode": 0
   },
@@ -10079,7 +10079,7 @@
   },
   {
     "id": 4653,
-    "fa": "من پیشنهاد می کنم ما استراحت کنیم",
+    "fa": "من پیشنهاد می کنم ما یک استراحتی کنیم",
     "en": "I propose we take a break",
     "groupCode": 0
   },
@@ -10497,6 +10497,43 @@
     "id": 4721,
     "fa": "من باید ببرمش تا درستش کنن",
     "en": "I gotta take it to get it fixed",
+    "groupCode": 0
+  },
+  {
+    "id": 4722,
+    "fa": "دوقلوها خیلی شبیه هم هستند, عجیب و غریب است",
+    "en": "The twins look so alike, it's uncanny",
+    "groupCode": 0
+  },
+  {
+    "id": 4723,
+    "fa": "در کشور من، چاپلوسی شما را خواهد رساند به هر جایی که شما بخواهی",
+    "en": "In my country, flattery will get you anywhere you want",
+    "groupCode": 0
+  },
+  {
+    "id": 4724,
+    "fa": "من فکر نمی کنم مردم زیادی بدونن، برای اینکه من حس میکنم من می تونم پوششش بدم کاملاً خوب",
+    "en": "I don't think many people know, because I feel like I can cover it quite well",
+    "desc": "I feel like…\timpression, desire, idea\t“I feel like we should leave.”\nI feel…\tphysical/emotional feeling\t“I feel nervous.”",
+    "groupCode": 0
+  },
+  {
+    "id": 4725,
+    "fa": "مثل این نیست من باهاش اوکیم, اما من بهش عادت کردم",
+    "en": "It's not like I'm OK with it, but I'm used to it",
+    "groupCode": 0
+  },
+  {
+    "id": 4726,
+    "fa": "کلیشه است، اما صحبت کردن در موردش واقعاً کمک می کند",
+    "en": "It's cliché, but speaking about it really does help",
+    "groupCode": 0
+  },
+  {
+    "id": 4727,
+    "fa": "او (مرد) در واقع از دست داد پدرش را بر اثر خودکشی زمانیکه او پنج ساله بود",
+    "en": "He actually lost his dad to suicide when he was five",
     "groupCode": 0
   }
 ]
