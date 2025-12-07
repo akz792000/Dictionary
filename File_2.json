@@ -4813,7 +4813,7 @@
   },
   {
     "id": 10791,
-    "en": "I speak to him, he comes from Rome",
+    "en": "I speak with him, he comes from Rome",
     "de": "Ich spreche mit ihm, er kommt aus Rom",
     "desc": "\"Sprechen\" = formal, about language or speech.\n\n\"Reden\" = informal, about chatting or discussing.",
     "groupCode": 1
@@ -11963,7 +11963,7 @@
   },
   {
     "id": 11962,
-    "en": "I go into the furniture store. Are you coming with me? OK! I get us some coffee first",
+    "en": "I go into the furniture store. Are you coming with me? OK! I get us coffee first",
     "de": "Ich gehe ins Möbelhaus. Kommst du mit? OK! Ich hole uns zuerst Kaffee",
     "groupCode": 1
   },
@@ -13418,7 +13418,7 @@
   },
   {
     "id": 12201,
-    "en": "What are you actually giving your mother for Christmas? Maybe a book or a CD",
+    "en": "What are you actually gifting your mother for Christmas? Maybe a book or a CD",
     "de": "Was schenkst du eigentlich deiner Mutter zu Weihnachten? Vielleicht ein Buch oder eine CD",
     "groupCode": 1
   },
@@ -13438,6 +13438,36 @@
     "id": 12204,
     "en": "\n 1.The Tooth \n 2.The Gums \n 3.The Tongue \n 4.The Mouth \n 5.The Jaw",
     "de": "\n 1.Der Zahn \n 2.Das Zahnfleisch \n 3.Die Zunge \n 4.Der Mund \n 5.Der Kiefer",
+    "groupCode": 1
+  },
+  {
+    "id": 12205,
+    "en": "I rent my apartment to tourists",
+    "de": "Ich vermiete meine Wohnung an Touristen",
+    "groupCode": 1
+  },
+  {
+    "id": 12206,
+    "en": "Italy is a very popular country for vacation",
+    "de": "Italien ist ein sehr beliebtes Land für Urlaub",
+    "groupCode": 1
+  },
+  {
+    "id": 12207,
+    "en": "It is a very important song",
+    "de": "Es ist ein sehr wichtiges Lied",
+    "groupCode": 1
+  },
+  {
+    "id": 12208,
+    "en": "I don't really like it so much (very)",
+    "de": "Ich mag es eigentlich nicht so sehr",
+    "groupCode": 1
+  },
+  {
+    "id": 12209,
+    "en": "Do you understand now why I love this song?",
+    "de": "Verstehst du jetzt, warum ich dieses Lied liebe?",
     "groupCode": 1
   }
 ]

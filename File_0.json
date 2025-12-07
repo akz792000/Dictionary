@@ -462,32 +462,32 @@
   },
   {
     "id": 77,
-    "fa": "تب دارم",
+    "fa": "من یک تب دارم",
     "en": "I've got a fever",
     "groupCode": 0
   },
   {
     "id": 78,
-    "fa": "گلوم درد میکنه",
+    "fa": "من یک گلوم درد میکنه",
     "en": "I've got a sore throat",
     "desc": "We say 'a sore throat' because we're referring to one instance of discomfort",
     "groupCode": 0
   },
   {
     "id": 79,
-    "fa": "گوش درد دارم",
+    "fa": "من یک گوش درد دارم",
     "en": "I've got an earache",
     "groupCode": 0
   },
   {
     "id": 80,
-    "fa": "من بینی گرفتگی دارم",
+    "fa": "من یک بینی گرفتگی دارم",
     "en": "I've got a blocked nose",
     "groupCode": 0
   },
   {
     "id": 81,
-    "fa": "آب ریزش بینی دارم",
+    "fa": "من یک آب ریزش بینی دارم",
     "en": "I've got a runny nose",
     "groupCode": 0
   },
