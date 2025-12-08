@@ -10190,7 +10190,7 @@
   },
   {
     "id": 4671,
-    "fa": "او (زن) به شدت نیاز داشت (نیاز شدید به چیزی ناامیدانه) برای راهی تا محافظت کند از خودش و دخترانش",
+    "fa": "او (زن) به شدت نیاز داشت (نیاز شدید به چیزی ناامیدانه) برای یک راهی تا محافظت کند از خودش و دخترانش",
     "en": "She was desperate for a way to protect herself and her daughters",
     "groupCode": 0
   },
@@ -10326,7 +10326,7 @@
   },
   {
     "id": 4693,
-    "fa": "من خریدم یک کابل شارژ چندگانه جدید تا من بتوانم  شارژ کنم همه دستگاه هایم را با یک سیم",
+    "fa": "من خریدم یک کابل شارژ چندگانه جدید تا من بتوانم شارژ کنم همه دستگاه هایم را با یک سیم",
     "en": "I bought a new multi-charging cable so I can charge all my devices with one cord",
     "desc": "کلمات cord و wire هر دو به سیم اشاره دارند، اما تفاوت های ظریفی در کاربرد آن ها وجود دارد:\n✅ Wire بیشتر به یک رشته فلزی منفرد اشاره دارد، در حالی که cord معمولاً چند سیم را شامل می شود و انعطاف پذیرتر است.",
     "groupCode": 0
@@ -10483,8 +10483,8 @@
   },
   {
     "id": 4719,
-    "fa": "در سایز ۳۶، طول کاملاً مناسب است اما کمر خیلی بزرگ است. در سایز ۳۴، کمر به خوبی اندازه است اما طول خیلی کوتاه است. آیا شما دارید یک کمر ۳۴ با قد ۳۶؟",
-    "en": "In size 36, the length is perfect but the waist is too large. In size 34, the waist fits well but the length is too short. Do you have a waist 34 with length 36?",
+    "fa": "۳۶ طول مناسب دارد اما کمر خیلی بزرگ است. ۳۴ فیت (مناسب) است در کمر اما طول خیلی کوتاه است. آیا شما دارید در یک ۳۴ در ۳۶؟",
+    "en": "The 36 has the right length but the waist is too big. The 34 fits in the waist but the length is too short. Do you have them in a 34x36 (34 by 36)?",
     "groupCode": 0
   },
   {
@@ -10495,7 +10495,7 @@
   },
   {
     "id": 4721,
-    "fa": "من باید ببرمش تا درستش کنن",
+    "fa": "من باید ببرمش تا درستش (فیکسش) کنن",
     "en": "I gotta take it to get it fixed",
     "groupCode": 0
   },
@@ -10546,6 +10546,18 @@
     "id": 4729,
     "fa": "دین مثل آلت تناسلی مردانه است. اکی است یکی داشته باشید. اکی است بهش افتخار کنید. اما در معرض قرارش ندهید در ملاء عام. فشارش ندهید به کودکان. قانون ننویسید باهاش. فکر نکنید باهاش",
     "en": "Religion is like a penis. It's OK to have one. It's OK to be proud of it. But don't expose it in public. Don't push it onto children. Don't write laws with it. Don't think with it",
+    "groupCode": 0
+  },
+  {
+    "id": 4730,
+    "fa": "اگر شما پارک کنید اینجا بدون یک مجوز، ماشینتان یدک کشی می شود",
+    "en": "If you park here without a permit, your car gets towed",
+    "groupCode": 0
+  },
+  {
+    "id": 4731,
+    "fa": "کامیون یدک کشیده شد پس از اینکه مسدود کرده بود شیر آتش نشانی را",
+    "en": "The truck got towed after it was blocking the fire hydrant",
     "groupCode": 0
   }
 ]

@@ -8971,6 +8971,7 @@
     "id": 11473,
     "en": "In this city there are many beautiful houses and apartments",
     "de": "In dieser Stadt gibt es viele schöne Häuser und Wohnungen",
+    "desc": "Adjective endings:\n\nAfter “viele” in the accusative or nominative plural, adjectives take the -e ending:\n\nviele schöne Häuser → many beautiful houses\n\nviele schöne Wohnungen → many beautiful apartments",
     "groupCode": 1
   },
   {
@@ -11775,7 +11776,7 @@
   },
   {
     "id": 11931,
-    "en": "Ali often watches (at) photos of his family because he misses them a lot (very)",
+    "en": "Ali often watches (at) photos of his family (for himself) because he misses them a lot (very)",
     "de": "Ali sieht sich oft Fotos von seiner Familie an, weil er sie sehr vermisst",
     "groupCode": 1
   },
@@ -12394,7 +12395,7 @@
   },
   {
     "id": 12033,
-    "en": "Careful, Ali. Don't fall down!",
+    "en": "Careful, Ali. Don't fall down (formal)!",
     "de": "Vorsicht, Ali. Fallen Sie nicht hinunter!",
     "groupCode": 1
   },
@@ -13460,7 +13461,7 @@
   },
   {
     "id": 12208,
-    "en": "I don't really like it so much (very)",
+    "en": "I don't actually like it so much (very)",
     "de": "Ich mag es eigentlich nicht so sehr",
     "groupCode": 1
   },
@@ -13468,6 +13469,25 @@
     "id": 12209,
     "en": "Do you understand now why I love this song?",
     "de": "Verstehst du jetzt, warum ich dieses Lied liebe?",
+    "groupCode": 1
+  },
+  {
+    "id": 12210,
+    "en": "After the big dinner, I was right full",
+    "de": "Nach dem großen Abendessen war ich richtig satt",
+    "groupCode": 1
+  },
+  {
+    "id": 12211,
+    "en": "In the city There is always a lot of noise",
+    "de": "In der Stadt gibt es immer viel Lärm",
+    "groupCode": 1
+  },
+  {
+    "id": 12212,
+    "en": "In case it rains, we take along an umbrella",
+    "de": "Für den Fall, dass es regnet, nehmen wir einen Regenschirm",
+    "desc": "1\uFE0F⃣ mitnehmen = take along\n\nMeans you take something from where you are now to another place.\n\nFocus is on leaving your current location with the item.\n\nExample:\n\nIch nehme einen Regenschirm mit.\n(I take an umbrella with me — from here to wherever I’m going.)\n\n2\uFE0F⃣ mitbringen = bring along\n\nMeans you bring something from another place to here.\n\nFocus is on bringing it to the location of the speaker or listener.\n\nExample:\n\nKannst du einen Regenschirm mitbringen?\n(Can you bring an umbrella here — to where I am?)",
     "groupCode": 1
   }
 ]
