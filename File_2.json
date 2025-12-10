@@ -6555,6 +6555,7 @@
     "id": 11077,
     "en": "The basement is cool",
     "de": "Das Untergeschoss ist kühl",
+    "desc": "Keller = everyday basement\n\nUntergeschoss = labeled basement level (UG) in buildings/plans",
     "groupCode": 1
   },
   {
@@ -8566,6 +8567,7 @@
     "id": 11407,
     "en": "I don't know the word, what does it mean?",
     "de": "Das Wort kenne ich nicht, was bedeutet das?",
+    "desc": "kennen = know a person, place, or thing (be familiar with it)\n→ Ich kenne das Wort nicht. = I’m not familiar with the word.\n\nwissen = know a fact or information\n→ Ich weiß es nicht. = I don’t know (the fact).",
     "groupCode": 1
   },
   {
@@ -9945,7 +9947,7 @@
   },
   {
     "id": 11632,
-    "en": "This morning I have chosen myself a fresh red apple for breakfast",
+    "en": "This morning I have chosen myself a fresh red apple for the breakfast",
     "de": "Heute Morgen habe ich mir einen frischen roten Apfel zum Frühstück ausgesucht",
     "groupCode": 1
   },
@@ -13221,7 +13223,7 @@
   {
     "id": 12168,
     "en": "Go immediately into the shopping mall and buy a toy",
-    "de": "Geh sofort ins Einkaufszentrum und kauft ein Spielzeug",
+    "de": "Geh sofort ins Einkaufszentrum und kauf ein Spielzeug",
     "groupCode": 1
   },
   {
@@ -13488,6 +13490,18 @@
     "en": "In case it rains, we take along an umbrella",
     "de": "Für den Fall, dass es regnet, nehmen wir einen Regenschirm",
     "desc": "1\uFE0F⃣ mitnehmen = take along\n\nMeans you take something from where you are now to another place.\n\nFocus is on leaving your current location with the item.\n\nExample:\n\nIch nehme einen Regenschirm mit.\n(I take an umbrella with me — from here to wherever I’m going.)\n\n2\uFE0F⃣ mitbringen = bring along\n\nMeans you bring something from another place to here.\n\nFocus is on bringing it to the location of the speaker or listener.\n\nExample:\n\nKannst du einen Regenschirm mitbringen?\n(Can you bring an umbrella here — to where I am?)",
+    "groupCode": 1
+  },
+  {
+    "id": 12213,
+    "en": "We have no soap, I have to go into the drugstore",
+    "de": "Wir haben keine Seife, ich muss in den Drogeriemarkt gehen",
+    "groupCode": 1
+  },
+  {
+    "id": 12214,
+    "en": "We are going by foot, the drug store is around the corner",
+    "de": "Wir gehen zu fuß, der Drogeriemarkt ist um die Ecke",
     "groupCode": 1
   }
 ]

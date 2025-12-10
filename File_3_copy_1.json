@@ -349,12 +349,6 @@
 "groupCode": 1
 },
 {
-"id": 20021,
-"en": "Have",
-"de": "\n habe - hatte \n hast - hattest \n hat - hatte \n haben - hatten \n habt - hattet \n haben - hatten",
-"groupCode": 1
-},
-{
 "id": 20022,
 "en": "Eat",
 "de": "\n esse \n isst \n isst \n essen \n esst \n essen",
@@ -907,7 +901,7 @@
 "groupCode": 1
 },
 {
-"id":,
+"id": ,
 "en": "",
 "de": "anfangen",
 "groupCode": 1
@@ -967,7 +961,7 @@
 "groupCode": 1
 },
 {
-"id":,
+"id": ,
 "en": "",
 "de": "Vor dem Prüfung war ich sehr nervös",
 "groupCode": 1
@@ -1027,7 +1021,7 @@
 "groupCode": 1
 },
 {
-"id":,
+"id": ,
 "en": "",
 "de": "Er denkt nur an sich - egoistisch",
 "groupCode": 1
@@ -1087,7 +1081,7 @@
 "groupCode": 1
 },
 {
-"id":,
+"id": ,
 "en": "",
 "de": "Mein Kater ist ziemlich dick",
 "groupCode": 1
@@ -1147,7 +1141,7 @@
 "groupCode": 1
 },
 {
-"id":,
+"id": ,
 "en": "",
 "de": "Das war eine Offizielle Einladung",
 "groupCode": 1
@@ -1207,7 +1201,7 @@
 "groupCode": 1
 },
 {
-"id":,
+"id": ,
 "en": "",
 "de": "Ist das überhaupt möglich",
 "groupCode": 1
@@ -1267,7 +1261,7 @@
 "groupCode": 1
 },
 {
-"id":,
+"id": ,
 "en": "",
 "de": "Sie ist eine warmherzige Person",
 "groupCode": 1

@@ -1,1 +1,9 @@
-[]
+[
+  {
+    "id": 20001,
+    "en": "Have",
+    "de": "Haben",
+    "desc": "Präsens\n\nhabe, hast, hat, haben, habt, haben\n\nPräteritum\n\nhatte, hattest, hatte, hatten, hattet, hatten\n\nPerfekt\n\nhabe gehabt, hast gehabt, hat gehabt, haben gehabt, habt gehabt, haben gehabt\n\nPlusquamperfekt\n\nhatte gehabt, hattest gehabt, hatte gehabt, hatten gehabt, hattet gehabt, hatten gehabt\n\nFutur I\n\nwerde haben, wirst haben, wird haben, werden haben, werdet haben, werden haben\n\nFutur II\n\nwerde gehabt haben, wirst gehabt haben, wird gehabt haben, werden gehabt haben, werdet gehabt haben, werden gehabt haben",
+    "groupCode": 1
+  }
+]

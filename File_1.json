@@ -10166,8 +10166,8 @@
   },
   {
     "id": 4667,
-    "fa": "من می توانم ببینم کاربرانی را که مشتریانشان دسترسی دارند به نهادهایی (که) من مدیریت می کنم، کد کشورشان مطابقت دارد با کد کشور های اون نهادها یا کسانیکه متعلق اند به گروهایی که من مدیر برنامه هستم",
-    "en": "I can see users whose customers have access to the entities I manage, whose country code matches the country of those entities, or who belong to groups for which I am the application manager",
+    "fa": "من می توانم ببینم کاربرانی را که مشتریانشان دسترسی دارند به نهادهایی (که) من مدیریت می کنم، کشورشان مطابقت دارد با کشور همان نهادها یا کسانیکه متعلق اند به گروهایی که من مدیر برنامه هستم",
+    "en": "I can see users whose customers have access to the entities I manage, whose country matches the same country of those entities, or who belong to groups for which I am the application manager",
     "groupCode": 0
   },
   {
@@ -10483,7 +10483,7 @@
   },
   {
     "id": 4719,
-    "fa": "۳۶ طول مناسب دارد اما کمر خیلی بزرگ است. ۳۴ فیت (مناسب) است در کمر اما طول خیلی کوتاه است. آیا شما دارید در یک ۳۴ در ۳۶؟",
+    "fa": "۳۶ دارد طول مناسب اما کمر خیلی بزرگ است. ۳۴ فیت (مناسب) است در کمر اما طول خیلی کوتاه است. آیا شما دارید آنها را در یک ۳۴ در ۳۶؟",
     "en": "The 36 has the right length but the waist is too big. The 34 fits in the waist but the length is too short. Do you have them in a 34x36 (34 by 36)?",
     "groupCode": 0
   },
@@ -10526,7 +10526,7 @@
   },
   {
     "id": 4726,
-    "fa": "کلیشه است، اما صحبت کردن در موردش واقعاً کمک می کند",
+    "fa": "کلیشه است، اما صحبت کردن در موردش واقعاً (تایید) کمک می کند",
     "en": "It's cliché, but speaking about it really does help",
     "groupCode": 0
   },
@@ -10556,8 +10556,32 @@
   },
   {
     "id": 4731,
-    "fa": "کامیون یدک کشیده شد پس از اینکه مسدود کرده بود شیر آتش نشانی را",
-    "en": "The truck got towed after it was blocking the fire hydrant",
+    "fa": "کامیون یدک کشیده شد پس از اینکه داشت مسدود می کرد شیر آتش نشانی را",
+    "en": "The truck got towed after it was blocking the fire hydrant /ˈhaɪdrənt/",
+    "groupCode": 0
+  },
+  {
+    "id": 4732,
+    "fa": "من نمی دانم به چه کسی من باید تحویلش بدم",
+    "en": "I do not know to whom I should hand it over",
+    "groupCode": 0
+  },
+  {
+    "id": 4733,
+    "fa": "آن همه از من است. من تحویلش خواهم داد به تو",
+    "en": "That's all from me. I'll hand it over to you",
+    "groupCode": 0
+  },
+  {
+    "id": 4734,
+    "fa": "من هستم در وسط یک بازجویی",
+    "en": "I'm in the middle of an interrogation",
+    "groupCode": 0
+  },
+  {
+    "id": 4735,
+    "fa": "'Hand in' یا 'turn in' استفاده می شود تا ارائه کنی چیزی، مانند تکلیف؛ 'hand over' استفاده می شود تا بدی چیزی به طور رسمی",
+    "en": "'Hand in' or 'turn in' are used to submit something, like homework; 'hand over' is used to give something formally",
     "groupCode": 0
   }
 ]
