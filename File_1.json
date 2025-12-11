@@ -1652,7 +1652,7 @@
   },
   {
     "id": 3270,
-    "fa": "شما بیشتر از همیشه خوش آمدید برای آمدن به آفیس در هر زمانی و استفاده کنی از هر ورودی",
+    "fa": "شما همه بیشتر از همیشه خوش آمدید تا بیایید به آفیس در هر زمانی و استفاده کنی از هر ورودی",
     "en": "You are all more than welcome to come to the office at any time and use any of the entrances",
     "groupCode": 0
   },
@@ -7182,8 +7182,8 @@
   },
   {
     "id": 4176,
-    "fa": "CamelCase شروع می کند با یک حرف کوچک و بزرگ می نویسد هر کلمه بعدی را و PascalCase بزرگ می نویسد حرف اول هر کلمه را",
-    "en": "CamelCase starts with a lowercase letter and capitalizes each subsequent word and PascalCase capitalizes the first letter of every word",
+    "fa": "CamelCase شروع می کند با یک حرف کوچک و بزرگ می نویسد حرف اول هر کلمه بعدی را در حالبکه PascalCase بزرگ می نویسد حرف اول هر کلمه را",
+    "en": "CamelCase starts with a lowercase letter and capitalizes the first letter of each subsequent word, while PascalCase capitalizes the first letter of every word",
     "groupCode": 0
   },
   {
@@ -10208,7 +10208,7 @@
   },
   {
     "id": 4674,
-    "fa": "این کار به جلوگیری از خشک شدن بقایای ماژیک روی دیوارها کمک خواهد کرد",
+    "fa": "این کمک خواهد کرد جلوگیری کند بقایای ماژیک از خشک شدن روی دیوارها",
     "en": "This will help prevent marker residue /ˈrezɪdjuː/ from drying on the walls",
     "desc": "Both forms are correct:\n\n“help prevent”\n\n“help to prevent”\n\nThey mean the same thing, and both are grammatically acceptable.\nThe version without “to” is a little more common and sounds slightly more natural in everyday writing.",
     "groupCode": 0
@@ -10308,7 +10308,7 @@
   },
   {
     "id": 4690,
-    "fa": "شما داری صحبت می کنی در مورد حاشیه سمت راست (یا \"راهنمای بسته\u200Cبندی سخت\") در IntelliJ IDEA",
+    "fa": "شما داری صحبت می کنی در مورد حاشیه سمت راست (یا راهنمای بسته بندی سخت) در IntelliJ IDEA",
     "en": "You're talking about the right margin (or “hard wrap guide”) in IntelliJ IDEA",
     "groupCode": 0
   },
@@ -10509,6 +10509,7 @@
     "id": 4723,
     "fa": "در کشور من، چاپلوسی شما را خواهد رساند به هر جایی که شما بخواهی",
     "en": "In my country, flattery will get you anywhere you want",
+    "desc": "So “get you anywhere” = allow you to reach any goal / give you access anywhere",
     "groupCode": 0
   },
   {
@@ -10544,7 +10545,7 @@
   },
   {
     "id": 4729,
-    "fa": "دین مثل آلت تناسلی مردانه است. اکی است یکی داشته باشید. اکی است بهش افتخار کنید. اما در معرض قرارش ندهید در ملاء عام. فشارش ندهید به کودکان. قانون ننویسید باهاش. فکر نکنید باهاش",
+    "fa": "دین مثل آلت تناسلی مردانه است. اکی است یکی داشته باشید. اکی است بهش افتخار کنید. اما در معرض قرارش ندهید در ملاء عام. فشارش ندهید به کودکان. قانون ها ننویسید باهاش. فکر نکنید باهاش",
     "en": "Religion is like a penis. It's OK to have one. It's OK to be proud of it. But don't expose it in public. Don't push it onto children. Don't write laws with it. Don't think with it",
     "groupCode": 0
   },
@@ -10582,6 +10583,36 @@
     "id": 4735,
     "fa": "'Hand in' یا 'turn in' استفاده می شود تا ارائه کنی چیزی، مانند تکلیف؛ 'hand over' استفاده می شود تا بدی چیزی به طور رسمی",
     "en": "'Hand in' or 'turn in' are used to submit something, like homework; 'hand over' is used to give something formally",
+    "groupCode": 0
+  },
+  {
+    "id": 4736,
+    "fa": "سخت کوشی خواهد رساند شما را به دوردست",
+    "en": "Hard work will get you far",
+    "groupCode": 0
+  },
+  {
+    "id": 4737,
+    "fa": "اگر او (مرد) میگفت این را در مورد هر نژاد دیگری، او کسر میشد (از حساب بانکیاش) ، حذف میشد از پلتفرمش، اعلام برائت میشد، از دست میداد تمام قراردادهای حرفه ایش را و شاید حتی دستگیر میشد",
+    "en": "If he said this about any other race, he would be debanked, deplatformed, disavowed, lose all professional contracts, and maybe even be arrested",
+    "groupCode": 0
+  },
+  {
+    "id": 4738,
+    "fa": "من کشتم بهترین آنهایی که بودند زمانی مال من در آشفتگی ذهنم",
+    "en": "I killed the best of those who were once mine in the chaos of my mind",
+    "groupCode": 0
+  },
+  {
+    "id": 4739,
+    "fa": "من پیچوندم دوستانم تا بروم به مهمانی",
+    "en": "I ditched my friends to go to the party",
+    "groupCode": 0
+  },
+  {
+    "id": 4740,
+    "fa": "تیم جنگید با دندان و چنگ تا ببرد قهرمانی را",
+    "en": "The team fought tooth and nail to win the championship",
     "groupCode": 0
   }
 ]

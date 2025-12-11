@@ -3874,7 +3874,7 @@
   },
   {
     "id": 10636,
-    "en": "Many guests are coming to the barbecue party. I hope all (everybody) gets enough food",
+    "en": "Many guests are coming to the barbecue party. I hope all (everybody) receives enough food",
     "de": "Viele Gäste kommen zur Grillparty. Ich hoffe, alle bekommen genug Essen",
     "groupCode": 1
   },
@@ -5889,7 +5889,7 @@
   },
   {
     "id": 10967,
-    "en": "How many presents does Ali get?",
+    "en": "How many presents does Ali receive?",
     "de": "Wie viele Geschenke bekommt Ali?",
     "groupCode": 1
   },
@@ -8412,7 +8412,7 @@
   },
   {
     "id": 11382,
-    "en": "I get a gift",
+    "en": "I receive a gift",
     "de": "Ich bekomme ein Geschenk",
     "groupCode": 1
   },
@@ -9150,7 +9150,7 @@
   },
   {
     "id": 11502,
-    "en": "Does each person get a glass of wine?",
+    "en": "Does each person receive a glass of wine?",
     "de": "Bekommt jede Person ein Glas Wein?",
     "desc": " the word \"jede\" is used with feminine nouns like \"Person,\" because \"Person\" is a feminine noun. Therefore, \"jede\" agrees with the gender of the noun",
     "groupCode": 1
@@ -9633,7 +9633,7 @@
   },
   {
     "id": 11580,
-    "en": "I get. I got. I have got",
+    "en": "I receive. I received. I have received",
     "de": "Ich bekomme. Ich bekam. Ich habe bekommen",
     "groupCode": 1
   },
@@ -10823,7 +10823,7 @@
   },
   {
     "id": 11775,
-    "en": "You are getting an email soon",
+    "en": "You are receiving an email soon",
     "de": "Du bekommst bald eine email",
     "groupCode": 1
   },
@@ -11072,7 +11072,7 @@
   },
   {
     "id": 11816,
-    "en": "\n 1.I get water from the kitchen \n 2.I get water from my mother",
+    "en": "\n 1.I get water from the kitchen \n 2.I receive water from my mother",
     "de": "\n 1.Ich hole Wasser aus der Küche \n 2.Ich bekomme Wasser von meiner Mutter",
     "desc": "holen = you go and fetch it.\n\nbekommen = someone gives it to you.",
     "groupCode": 1
@@ -11553,7 +11553,7 @@
   },
   {
     "id": 11895,
-    "en": "Now I have got a position at the reception in a hotel and right now moving",
+    "en": "Now I have received a position at the reception in a hotel and right now moving",
     "de": "Jetzt habe ich eine Stelle an der Rezeption in einem Hotel bekommen und ziehe gerade um",
     "groupCode": 1
   },
@@ -11631,7 +11631,7 @@
   {
     "id": 11907,
     "en": "Hereby I would like to inform you about that your (formal) child unfortunately forgot their math homework today",
-    "de": "Hiermit möchte ich Sie darüber informieren, dass Ihr Kind heute leider die Hausaufgaben in Mathe vergessen hat",
+    "de": "Hiermit möchte ich Sie darüber informieren, dass Ihr Kind heute leider die Mathehausaufgaben vergessen hat",
     "groupCode": 1
   },
   {
@@ -13300,7 +13300,7 @@
   },
   {
     "id": 12181,
-    "en": "All (Everyone) gets presents, even the cats",
+    "en": "All (Everyone) receives presents, even the cats",
     "de": "Alle bekommen Geschenke sogar die Katzen",
     "groupCode": 1
   },
@@ -13502,6 +13502,42 @@
     "id": 12214,
     "en": "We are going by foot, the drug store is around the corner",
     "de": "Wir gehen zu fuß, der Drogeriemarkt ist um die Ecke",
+    "groupCode": 1
+  },
+  {
+    "id": 12215,
+    "en": "Your house is very cozy, is the move over now?",
+    "de": "Dein Haus ist sehr gemütlich, ist der Umzug jetzt vorbei",
+    "groupCode": 1
+  },
+  {
+    "id": 12216,
+    "en": "The other mirror is in the living room",
+    "de": "Der andere Spiegel ist im Wohnzimmer",
+    "groupCode": 1
+  },
+  {
+    "id": 12217,
+    "en": "He likes reading and has lots of books. Can you bring the bookshelf into his bedroom? His books are already there",
+    "de": "Er liest gern und hat viele Bücher. Kannst du das Bucherregal in sein Schlaftzimmer bringen? Seine Bücher sind schon dort",
+    "groupCode": 1
+  },
+  {
+    "id": 12218,
+    "en": "I like (appearance or impression) the balcony. I don't like (appearance or impression) the plants",
+    "de": "Der Balkon gefällt mir. Die Pflanzen gefallen mir nicht",
+    "groupCode": 1
+  },
+  {
+    "id": 12219,
+    "en": "Be lovely and make popcorn for us please",
+    "de": "Sei lieb und mach Popcorn für uns bitte",
+    "groupCode": 1
+  },
+  {
+    "id": 12220,
+    "en": "Pizza with pineapple is the best, do you agree with me?",
+    "de": "Pizza mit Ananas ist am besten, stimmst du mir zu?",
     "groupCode": 1
   }
 ]
