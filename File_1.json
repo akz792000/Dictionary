@@ -7182,7 +7182,7 @@
   },
   {
     "id": 4176,
-    "fa": "CamelCase شروع می کند با یک حرف کوچک و بزرگ می نویسد حرف اول هر کلمه بعدی را در حالبکه PascalCase بزرگ می نویسد حرف اول هر کلمه را",
+    "fa": "CamelCase شروع می کند با یک حرف کوچک و بزرگ می نویسد حرف اول هر کلمه بعدی را در حالیکه PascalCase بزرگ می نویسد حرف اول هر کلمه را",
     "en": "CamelCase starts with a lowercase letter and capitalizes the first letter of each subsequent word, while PascalCase capitalizes the first letter of every word",
     "groupCode": 0
   },
@@ -10453,7 +10453,7 @@
   },
   {
     "id": 4714,
-    "fa": "Hat میره کامل دور سرت و یک لبه دارد، در حالی که cap دارد یک نوک جلو و قرار می گیرد محکم روی سر",
+    "fa": "Hat میره کامل دور سرت و یک لبه دارد، در حالی که cap دارد یک نوک جلو و قرار می گیرد محکم آن بالا",
     "en": "Hat goes all around your head and has a brim, while cap has a front peak and fits tightly on top",
     "groupCode": 0
   },
@@ -10514,7 +10514,7 @@
   },
   {
     "id": 4724,
-    "fa": "من فکر نمی کنم مردم زیادی بدونن، برای اینکه من حس میکنم من می تونم پوششش بدم کاملاً خوب",
+    "fa": "من فکر نمی کنم مردم زیادی بدونن، برای اینکه من حس میکنم من می تونم پوشش بدمش کاملاً خوب",
     "en": "I don't think many people know, because I feel like I can cover it quite well",
     "desc": "I feel like…\timpression, desire, idea\t“I feel like we should leave.”\nI feel…\tphysical/emotional feeling\t“I feel nervous.”",
     "groupCode": 0
@@ -10545,7 +10545,7 @@
   },
   {
     "id": 4729,
-    "fa": "دین مثل آلت تناسلی مردانه است. اکی است یکی داشته باشید. اکی است بهش افتخار کنید. اما در معرض قرارش ندهید در ملاء عام. فشارش ندهید به کودکان. قانون ها ننویسید باهاش. فکر نکنید باهاش",
+    "fa": "دین مثل یک آلت تناسلی مردانه است. اکی است یکی داشته باشید. اکی است بهش افتخار کنید. اما در معرض قرارش ندهید در ملاء عام. فشارش ندهید به کودکان. قانون ها ننویسید باهاش. فکر نکنید باهاش",
     "en": "Religion is like a penis. It's OK to have one. It's OK to be proud of it. But don't expose it in public. Don't push it onto children. Don't write laws with it. Don't think with it",
     "groupCode": 0
   },
@@ -10613,6 +10613,30 @@
     "id": 4740,
     "fa": "تیم جنگید با دندان و چنگ تا ببرد قهرمانی را",
     "en": "The team fought tooth and nail to win the championship",
+    "groupCode": 0
+  },
+  {
+    "id": 4741,
+    "fa": "آلمان متقاطع است توسط رودخانه های اصلی قابل کشتیرانی مانند راین",
+    "en": "Germany is crisscrossed by major navigable rivers like the Rhine",
+    "groupCode": 0
+  },
+  {
+    "id": 4742,
+    "fa": "سلام، من در دارم با شما تماس می گیرم مورد تیکت INC0487015. آیا شما یک وقت داری تا بحث کنیم (در موردش)؟",
+    "en": "Hi, I'm reaching out regarding ticket INC0487015. Do you have a moment to discuss it?",
+    "groupCode": 0
+  },
+  {
+    "id": 4743,
+    "fa": "پس اگه من جای تو بودم، من یک شانسی بهش می دادم",
+    "en": "So if I were you, I'd give it a shot",
+    "groupCode": 0
+  },
+  {
+    "id": 4744,
+    "fa": "'Do you mind if I sit…' غیررسمی است، 'Would you mind if I sat…' مودبانه تر/رسمی تر است",
+    "en": "'Do you mind if I sit…' is casual, 'Would you mind if I sat…' is more polite/formal",
     "groupCode": 0
   }
 ]

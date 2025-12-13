@@ -4969,8 +4969,8 @@
   },
   {
     "id": 10816,
-    "en": "On the kitchen table lies a glasses. It is the glasses for Lisa. Lisa can read better with the glasses",
-    "de": "Auf dem Küchentisch liegt eine Brille. Es ist die Brille von Lisa. Lisa kann mit der Brille besser lesen",
+    "en": "On the kitchen table lies a glasses. It (she) is the glasses for Lisa. Lisa can read better with the glasses",
+    "de": "Auf dem Küchentisch liegt eine Brille. Sie ist die Brille von Lisa. Lisa kann mit der Brille besser lesen",
     "groupCode": 1
   },
   {
@@ -11631,7 +11631,7 @@
   {
     "id": 11907,
     "en": "Hereby I would like to inform you about that your (formal) child unfortunately forgot their math homework today",
-    "de": "Hiermit möchte ich Sie darüber informieren, dass Ihr Kind heute leider die Mathehausaufgaben vergessen hat",
+    "de": "Hiermit möchte ich Sie darüber informieren, dass Ihr Kind heute leider die Mathehausaufgaben (Hausaufgaben in Mathe) vergessen hat",
     "groupCode": 1
   },
   {
@@ -11966,7 +11966,7 @@
   },
   {
     "id": 11962,
-    "en": "I go into the furniture store. Are you coming with me? OK! I get us coffee first",
+    "en": "I go into the furniture store. Are you coming along? OK! I get us coffee first",
     "de": "Ich gehe ins Möbelhaus. Kommst du mit? OK! Ich hole uns zuerst Kaffee",
     "groupCode": 1
   },
@@ -13538,6 +13538,67 @@
     "id": 12220,
     "en": "Pizza with pineapple is the best, do you agree with me?",
     "de": "Pizza mit Ananas ist am besten, stimmst du mir zu?",
+    "groupCode": 1
+  },
+  {
+    "id": 12221,
+    "en": "My apartment is near the park",
+    "de": "Meine Wohnung ist in der Nähe vom Park",
+    "groupCode": 1
+  },
+  {
+    "id": 12222,
+    "en": "I am no longer a little child",
+    "de": "Ich bin kein kleines Kind mehr",
+    "groupCode": 1
+  },
+  {
+    "id": 12223,
+    "en": "My wife has no time, she's helping a colleague (female) tomorrow",
+    "de": "Meine Frau hat keine Zeit, sie hilft einer Kollegin morgen",
+    "groupCode": 1
+  },
+  {
+    "id": 12224,
+    "en": "The surprise is for my daughter and her husband",
+    "de": "Die Überraschung ist für meine Tochter und ihren Mann",
+    "desc": "the word „für“ is a preposition that requires the accusative case.\n\nmeine Tochter → accusative (feminine, unchanged)\n\nihr Mann → accusative masculine → „ihren Mann“",
+    "groupCode": 1
+  },
+  {
+    "id": 12225,
+    "en": "Do your sons think television is boring?",
+    "de": "Denken deine Söhne Fernsehen langweilig ist?",
+    "groupCode": 1
+  },
+  {
+    "id": 12226,
+    "en": "The weather is awful",
+    "de": "Das Wetter ist heute furchtbar",
+    "groupCode": 1
+  },
+  {
+    "id": 12227,
+    "en": "My father can't help me, his arm hurts",
+    "de": "Mein Vater kann mir nicht helfen, ihm tut der Arm weh",
+    "groupCode": 1
+  },
+  {
+    "id": 12228,
+    "en": "Don't always put your socks on the table",
+    "de": "Leg nicht immer deine Socken auf den Tisch",
+    "groupCode": 1
+  },
+  {
+    "id": 12229,
+    "en": "Can you put the duvet on the bed?",
+    "de": "Kannst du die Bettdecke auf das Bett. legen?",
+    "groupCode": 1
+  },
+  {
+    "id": 12230,
+    "en": "I want to read these magazines. Put them please on the table",
+    "de": "Ich will diese Zeitschriften lesen. Leg sie bitte auf den Tisch",
     "groupCode": 1
   }
 ]

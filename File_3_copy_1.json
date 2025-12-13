@@ -409,12 +409,6 @@
 "groupCode": 1
 },
 {
-"id": 20032,
-"en": "Can",
-"de": "\n kann \n Kannst \n kann \n können \n könnt \n können",
-"groupCode": 1
-},
-{
 "id": 20033,
 "en": "Go",
 "de": "\n gehe \n gehst \n geht \n gehen \n geht \n gehen",
@@ -427,51 +421,15 @@
 "groupCode": 1
 },
 {
-"id": 20035,
-"en": "Take",
-"de": "\n nehme \n nimmst \n nimmt \n nehmen \n nehmt \n nehmen",
-"groupCode": 1
-},
-{
-"id": 20036,
-"en": "Do, Make",
-"de": "\n mache \n machst \n macht \n machen \n macht \n machen",
-"groupCode": 1
-},
-{
 "id": 20037,
 "en": "Buy",
 "de": "\n kaufe \n kaufst \n kauft \n kaufen \n kauft \n kaufen",
 "groupCode": 1
 },
 {
-"id": 20038,
-"en": "Want",
-"de": "\n will - wollte \n willst - wolltest \n will - wollte \n wollen - wollten \n wollt - wolltet \n wollen - wollten",
-"groupCode": 1
-},
-{
 "id": 20039,
 "en": "Stay",
 "de": "\n bleibe \n bleibst \n bleibt \n bleiben \n bleibt \n bleiben",
-"groupCode": 1
-},
-{
-"id": 20040,
-"en": "Be allowed",
-"de": "\n darf \n darfst \n darft \n dürfen \n dürft \n dürfen",
-"groupCode": 1
-},
-{
-"id": 20041,
-"en": "Must",
-"de": "\n muss \n musst \n muss \n müssen \n müsst \n müssen",
-"groupCode": 1
-},
-{
-"id": 20042,
-"en": "Should",
-"de": "\n soll \n sollst \n soll \n sollen \n sollt \n sollen",
 "groupCode": 1
 },
 {
@@ -586,18 +544,6 @@
 "id": 20061,
 "en": "Cost",
 "de": "\n koste \n kostest \n kostet \n kosten \n kostet \n kosten",
-"groupCode": 1
-},
-{
-"id": 20062,
-"en": "Teach",
-"de": "\n unterrichte \n unterrichtest \n unterrichtet \n unterrichten \n unterrichtet \n unterrichten",
-"groupCode": 1
-},
-{
-"id": 20063,
-"en": "Show",
-"de": "\n zeige \n zeigst \n zeigt \n zeigen \n zeigt \n zeigen",
 "groupCode": 1
 },
 {

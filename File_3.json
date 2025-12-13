@@ -5,5 +5,68 @@
     "de": "Haben",
     "desc": "Präsens\n\nhabe, hast, hat, haben, habt, haben\n\nPräteritum\n\nhatte, hattest, hatte, hatten, hattet, hatten\n\nPerfekt\n\nhabe gehabt, hast gehabt, hat gehabt, haben gehabt, habt gehabt, haben gehabt\n\nPlusquamperfekt\n\nhatte gehabt, hattest gehabt, hatte gehabt, hatten gehabt, hattet gehabt, hatten gehabt\n\nFutur I\n\nwerde haben, wirst haben, wird haben, werden haben, werdet haben, werden haben\n\nFutur II\n\nwerde gehabt haben, wirst gehabt haben, wird gehabt haben, werden gehabt haben, werdet gehabt haben, werden gehabt haben",
     "groupCode": 1
+  },
+  {
+    "id": 20002,
+    "en": "Must / have to",
+    "de": "Müssen",
+    "desc": "Präsens\n\nmuss, musst, muss, müssen, müsst, müssen\n\nPräteritum\n\nmusste, musstest, musste, mussten, musstet, mussten\n\nPerfekt\n\nhabe gemusst, hast gemusst, hat gemusst, haben gemusst, habt gemusst, haben gemusst\n\nPlusquamperfekt\n\nhatte gemusst, hattest gemusst, hatte gemusst, hatten gemusst, hattet gemusst, hatten gemusst\n\nFutur I\n\nwerde müssen, wirst müssen, wird müssen, werden müssen, werdet müssen, werden müssen\n\nFutur II\n\nwerde gemusst haben, wirst gemusst haben, wird gemusst haben, werden gemusst haben, werdet gemusst haben, werden gemusst haben",
+    "groupCode": 1
+  },
+  {
+    "id": 20003,
+    "en": "May / to be allowed to",
+    "de": "Dürfen",
+    "desc": "Präsens\n\ndarf, darfst, darf, dürfen, dürft, dürfen\n\nPräteritum\n\ndurfte, durftest, durfte, durften, durftet, durften\n\nPerfekt\n\nhabe gedurft, hast gedurft, hat gedurft, haben gedurft, habt gedurft, haben gedurft\n\nPlusquamperfekt\n\nhatte gedurft, hattest gedurft, hatte gedurft, hatten gedurft, hattet gedurft, hatten gedurft\n\nFutur I\n\nwerde dürfen, wirst dürfen, wird dürfen, werden dürfen, werdet dürfen, werden dürfen\n\nFutur II\n\nwerde gedurft haben, wirst gedurft haben, wird gedurft haben, werden gedurft haben, werdet gedurft haben, werden gedurft haben",
+    "groupCode": 1
+  },
+  {
+    "id": 20004,
+    "en": "Want",
+    "de": "Wollen",
+    "desc": "Präsens\n\nwill, willst, will, wollen, wollt, wollen\n\nPräteritum\n\nwollte, wolltest, wollte, wollten, wolltet, wollten\n\nPerfekt\n\nhabe gewollt, hast gewollt, hat gewollt, haben gewollt, habt gewollt, haben gewollt\n\nPlusquamperfekt\n\nhatte gewollt, hattest gewollt, hatte gewollt, hatten gewollt, hattet gewollt, hatten gewollt\n\nFutur I\n\nwerde wollen, wirst wollen, wird wollen, werden wollen, werdet wollen, werden wollen\n\nFutur II\n\nwerde gewollt haben, wirst gewollt haben, wird gewollt haben, werden gewollt haben, werdet gewollt haben, werden gewollt haben",
+    "groupCode": 1
+  },
+  {
+    "id": 20005,
+    "en": "Make / Do",
+    "de": "Machen",
+    "desc": "Präsens\n\nmache, machst, macht, machen, macht, machen\n\nPräteritum\n\nmachte, machtest, machte, machten, machtet, machten\n\nPerfekt\n\nhabe gemacht, hast gemacht, hat gemacht, haben gemacht, habt gemacht, haben gemacht\n\nPlusquamperfekt\n\nhatte gemacht, hattest gemacht, hatte gemacht, hatten gemacht, hattet gemacht, hatten gemacht\n\nFutur I\n\nwerde machen, wirst machen, wird machen, werden machen, werdet machen, werden machen\n\nFutur II\n\nwerde gemacht haben, wirst gemacht haben, wird gemacht haben, werden gemacht haben, werdet gemacht haben, werden gemacht haben",
+    "groupCode": 1
+  },
+  {
+    "id": 20006,
+    "en": "Take",
+    "de": "Nehmen",
+    "desc": "Präsens\n\nnehme, nimmst, nimmt, nehmen, nehmt, nehmen\n\nPräteritum\n\nnahm, nahmst, nahm, nahmen, nahmt, nahmen\n\nPerfekt\n\nhabe genommen, hast genommen, hat genommen, haben genommen, habt genommen, haben genommen\n\nPlusquamperfekt\n\nhatte genommen, hattest genommen, hatte genommen, hatten genommen, hattet genommen, hatten genommen\n\nFutur I\n\nwerde nehmen, wirst nehmen, wird nehmen, werden nehmen, werdet nehmen, werden nehmen\n\nFutur II\n\nwerde genommen haben, wirst genommen haben, wird genommen haben, werden genommen haben, werdet genommen haben, werden genommen haben",
+    "groupCode": 1
+  },
+  {
+    "id": 20007,
+    "en": "Can / To be able to",
+    "de": "Können",
+    "desc": "Präsens\n\nkann, kannst, kann, können, könnt, können\n\nPräteritum\n\nkonnte, konntest, konnte, konnten, konntet, konnten\n\nPerfekt\n\nhabe gekonnt, hast gekonnt, hat gekonnt, haben gekonnt, habt gekonnt, haben gekonnt\n\nPlusquamperfekt\n\nhatte gekonnt, hattest gekonnt, hatte gekonnt, hatten gekonnt, hattet gekonnt, hatten gekonnt\n\nFutur I\n\nwerde können, wirst können, wird können, werden können, werdet können, werden können\n\nFutur II\n\nwerde gekonnt haben, wirst gekonnt haben, wird gekonnt haben, werden gekonnt haben, werdet gekonnt haben, werden gekonnt haben",
+    "groupCode": 1
+  },
+  {
+    "id": 20008,
+    "en": "Should / Ought to",
+    "de": "Sollen",
+    "desc": "Präsens\n\nsoll, sollst, soll, sollen, sollt, sollen\n\nPräteritum\n\nsollte, solltest, sollte, sollten, solltet, sollten\n\nPerfekt\n\nhabe gesollt, hast gesollt, hat gesollt, haben gesollt, habt gesollt, haben gesollt\n\nPlusquamperfekt\n\nhatte gesollt, hattest gesollt, hatte gesollt, hatten gesollt, hattet gesollt, hatten gesollt\n\nFutur I\n\nwerde sollen, wirst sollen, wird sollen, werden sollen, werdet sollen, werden sollen\n\nFutur II\n\nwerde gesollt haben, wirst gesollt haben, wird gesollt haben, werden gesollt haben, werdet gesollt haben, werden gesollt haben",
+    "groupCode": 1
+  },
+  {
+    "id": 20009,
+    "en": "Teach / Instruct",
+    "de": "Unterrichten",
+    "desc": "Präsens\n\nunterrichte, unterrichtest, unterrichtet, unterrichten, unterrichtet, unterrichten\n\nPräteritum\n\nunterrichtete, unterrichtetest, unterrichtete, unterrichteten, unterrichtetet, unterrichteten\n\nPerfekt\n\nhabe unterrichtet, hast unterrichtet, hat unterrichtet, haben unterrichtet, habt unterrichtet, haben unterrichtet\n\nPlusquamperfekt\n\nhatte unterrichtet, hattest unterrichtet, hatte unterrichtet, hatten unterrichtet, hattet unterrichtet, hatten unterrichtet\n\nFutur I\n\nwerde unterrichten, wirst unterrichten, wird unterrichten, werden unterrichten, werdet unterrichten, werden unterrichten\n\nFutur II\n\nwerde unterrichtet haben, wirst unterrichtet haben, wird unterrichtet haben, werden unterrichtet haben, werdet unterrichtet haben, werden unterrichtet haben",
+    "groupCode": 1
+  },
+  {
+    "id": 20010,
+    "en": "Show",
+    "de": "Zeigen",
+    "desc": "Präsens\n\nzeige, zeigst, zeigt, zeigen, zeigt, zeigen\n\nPräteritum\n\nzeigte, zeigtest, zeigte, zeigten, zeigtet, zeigten\n\nPerfekt\n\nhabe gezeigt, hast gezeigt, hat gezeigt, haben gezeigt, habt gezeigt, haben gezeigt\n\nPlusquamperfekt\n\nhatte gezeigt, hattest gezeigt, hatte gezeigt, hatten gezeigt, hattet gezeigt, hatten gezeigt\n\nFutur I\n\nwerde zeigen, wirst zeigen, wird zeigen, werden zeigen, werdet zeigen, werden zeigen\n\nFutur II\n\nwerde gezeigt haben, wirst gezeigt haben, wird gezeigt haben, werden gezeigt haben, werdet gezeigt haben, werden gezeigt haben",
+    "groupCode": 1
   }
 ]

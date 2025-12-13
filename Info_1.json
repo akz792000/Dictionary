@@ -24,27 +24,39 @@
     "groupCode": 1
   },
   {
-    "id": 4,
+    "id": 5,
     "key": "koche",
     "value": "ko\n·\nche (خ)",
     "groupCode": 1
   },
   {
-    "id": 5,
+    "id": 6,
     "key": "gewachst",
     "value": "گواکست",
     "groupCode": 1
   },
   {
-    "id": 6,
+    "id": 7,
     "key": "miteinander",
     "value": "میت آیناندا",
     "groupCode": 1
   },
   {
-    "id": 7,
+    "id": 8,
     "key": "Idee",
     "value": "اید",
+    "groupCode": 1
+  },
+  {
+    "id": 9,
+    "key": "Töchter",
+    "value": "تُش تا",
+    "groupCode": 1
+  },
+  {
+    "id": 10,
+    "key": "Tochter",
+    "value": "تُخ تا",
     "groupCode": 1
   }
 ]
