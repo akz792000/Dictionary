@@ -11219,7 +11219,7 @@
   },
   {
     "id": 11840,
-    "en": "The information is for the public distribution",
+    "en": "The information is for the public distribution (spread)",
     "de": "Die Informationen sind für die öffentliche Verbreitung",
     "groupCode": 1
   },
@@ -13410,7 +13410,7 @@
   {
     "id": 12199,
     "en": "I don't like (appearance or impression) the drawers, it's too small",
-    "de": "Die kommoden gefällt mir nicht, sie ist zu klein",
+    "de": "Die kommoden gefällt mir nicht, sie sind zu klein",
     "groupCode": 1
   },
   {
@@ -13660,6 +13660,24 @@
     "id": 12240,
     "en": "Say nothing, I lay the flowers on her desk",
     "de": "Sag nichts, ich lege die Blumen auf ihren Schreibtisch",
+    "groupCode": 1
+  },
+  {
+    "id": 12241,
+    "en": "The train is (has) delayed",
+    "de": "Der Zug hat Verspätung",
+    "groupCode": 1
+  },
+  {
+    "id": 12242,
+    "en": "The distribution (spread) of smartphones is increasing",
+    "de": "Die Verbreitung von Smartphones nimmt zu",
+    "groupCode": 1
+  },
+  {
+    "id": 12243,
+    "en": "Prices are increasing",
+    "de": "Die Preise nehmen zu",
     "groupCode": 1
   }
 ]
