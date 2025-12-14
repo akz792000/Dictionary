@@ -8461,8 +8461,8 @@
   },
   {
     "id": 4387,
-    "fa": "ما سر کار قهر کردیم",
-    "en": "We had a falling-out over work",
+    "fa": "ما سر کار قهر کردیم اما سپس ما آشتی (ساختیم) کردیم",
+    "en": "We had a falling-out over work, but then we made up",
     "groupCode": 0
   },
   {
@@ -10623,20 +10623,45 @@
   },
   {
     "id": 4742,
-    "fa": "سلام، من در دارم با شما تماس می گیرم مورد تیکت INC0487015. آیا شما یک وقت داری تا بحث کنیم (در موردش)؟",
-    "en": "Hi, I'm reaching out regarding ticket INC0487015. Do you have a moment to discuss it?",
+    "fa": "سلام، من دارم تماس می گیرم (با شما) در مورد تیکت A. آیا شما یک وقت داری تا بحث کنیم (در موردش)؟",
+    "en": "Hi, I'm reaching out regarding ticket A. Do you have a moment to discuss it?",
     "groupCode": 0
   },
   {
     "id": 4743,
-    "fa": "پس اگه من جای تو بودم، من یک شانسی بهش می دادم",
+    "fa": "پس اگه من جای تو بودم، من یک شانسی (شات) بهش می دادم",
     "en": "So if I were you, I'd give it a shot",
     "groupCode": 0
   },
   {
     "id": 4744,
-    "fa": "'Do you mind if I sit…' غیررسمی است، 'Would you mind if I sat…' مودبانه تر/رسمی تر است",
+    "fa": "'Do you mind if I sit…' معمولی است، 'Would you mind if I sat…' مودبانه تر/رسمی تر است",
     "en": "'Do you mind if I sit…' is casual, 'Would you mind if I sat…' is more polite/formal",
+    "groupCode": 0
+  },
+  {
+    "id": 4745,
+    "fa": "موجود است ناخن گیر روی میز است",
+    "en": "There are nail clippers on the table",
+    "groupCode": 0
+  },
+  {
+    "id": 4746,
+    "fa": "موجود است یک جفت ناخن گیر",
+    "en": "There is a pair of nail clippers",
+    "groupCode": 0
+  },
+  {
+    "id": 4747,
+    "fa": "موجود است یک منگنه",
+    "en": "There is a stapler",
+    "groupCode": 0
+  },
+  {
+    "id": 4748,
+    "fa": "او (زن) داره با روانش بازی میشه توسط شوهرش",
+    "en": "She is being gaslighted by her husband",
+    "desc": "Gaslighting is a form of psychological manipulation where someone makes a person doubt their own reality, memory, or sanity, often by denying facts, trivializing feelings, or twisting situations, ultimately leading to confusion, low self-esteem, and dependence on the abuser; it's a tactic seen in domestic abuse and unhealthy relationships, stemming from the play Gas Light where a husband subtly dims gas lights and denies it when his wife notices",
     "groupCode": 0
   }
 ]

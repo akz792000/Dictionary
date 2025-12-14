@@ -11630,8 +11630,8 @@
   },
   {
     "id": 11907,
-    "en": "Hereby I would like to inform you about that your (formal) child unfortunately forgot their math homework today",
-    "de": "Hiermit möchte ich Sie darüber informieren, dass Ihr Kind heute leider die Mathehausaufgaben (Hausaufgaben in Mathe) vergessen hat",
+    "en": "Hereby I would like to inform you about that your (formal) child unfortunately forgot the math homework today",
+    "de": "Hiermit möchte ich Sie darüber informieren, dass Ihr Kind heute leider die Hausaufgaben in Mathe vergessen hat",
     "groupCode": 1
   },
   {
@@ -13410,7 +13410,7 @@
   {
     "id": 12199,
     "en": "I don't like (appearance or impression) the drawers, it's too small",
-    "de": "Die kommode gefällt mir nicht, sie ist zu klein",
+    "de": "Die kommoden gefällt mir nicht, sie ist zu klein",
     "groupCode": 1
   },
   {
@@ -13544,6 +13544,7 @@
     "id": 12221,
     "en": "My apartment is near the park",
     "de": "Meine Wohnung ist in der Nähe vom Park",
+    "desc": "„Nähe“ requires either:\n\ndative with the preposition „von“ → in der Nähe von dem Park → vom Park ✅\n\ngenitive → in der Nähe des Parks ✅\n\nSimply saying „in der Nähe dem Park“ skips the necessary preposition „von“, so it doesn’t work grammatically.",
     "groupCode": 1
   },
   {
@@ -13573,7 +13574,7 @@
   },
   {
     "id": 12226,
-    "en": "The weather is awful",
+    "en": "The weather is awful today",
     "de": "Das Wetter ist heute furchtbar",
     "groupCode": 1
   },
@@ -13585,20 +13586,80 @@
   },
   {
     "id": 12228,
-    "en": "Don't always put your socks on the table",
+    "en": "Don't always lay your socks on the table",
     "de": "Leg nicht immer deine Socken auf den Tisch",
     "groupCode": 1
   },
   {
     "id": 12229,
-    "en": "Can you put the duvet on the bed?",
-    "de": "Kannst du die Bettdecke auf das Bett. legen?",
+    "en": "Can you lay the duvet on the bed?",
+    "de": "Kannst du die Bettdecke auf das Bett legen?",
     "groupCode": 1
   },
   {
     "id": 12230,
-    "en": "I want to read these magazines. Put them please on the table",
+    "en": "I want to read these magazines. Lay them please on the table",
     "de": "Ich will diese Zeitschriften lesen. Leg sie bitte auf den Tisch",
+    "groupCode": 1
+  },
+  {
+    "id": 12231,
+    "en": "Could you please change that to 50 euros?",
+    "de": "Könnten Sie das bitte auf 50 Euro ändern?",
+    "groupCode": 1
+  },
+  {
+    "id": 12232,
+    "en": "He changed the temperature to 22 degrees",
+    "de": "Er hat die Temperatur auf 22 Grad geändert",
+    "groupCode": 1
+  },
+  {
+    "id": 12233,
+    "en": "Please turn the volume down to low",
+    "de": "Bitte ändern Sie die Lautstärke auf leise",
+    "groupCode": 1
+  },
+  {
+    "id": 12234,
+    "en": "I had fun, thank you",
+    "de": "Ich hatte Spaß, danke schön",
+    "groupCode": 1
+  },
+  {
+    "id": 12235,
+    "en": "Where is your new room?",
+    "de": "Wo ist dein neues Zimmer?",
+    "groupCode": 1
+  },
+  {
+    "id": 12236,
+    "en": "My friend is near the swimming pool",
+    "de": "Mein freund ist in der Nähe vom Schwimmbad",
+    "groupCode": 1
+  },
+  {
+    "id": 12237,
+    "en": "You can see the Ferris wheel. It's really big",
+    "de": "Du kannst das Riesenrad sehen. Es ist wirklich groß",
+    "groupCode": 1
+  },
+  {
+    "id": 12238,
+    "en": "I don't want to buy a sofa. I'm not going to the furniture store",
+    "de": "Ich will kein Sofa kaufen. Ich gehe nicht ins Möbelhaus",
+    "groupCode": 1
+  },
+  {
+    "id": 12239,
+    "en": "My time is limited",
+    "de": "Meine Zeit ist eingeschränkt",
+    "groupCode": 1
+  },
+  {
+    "id": 12240,
+    "en": "Say nothing, I lay the flowers on her desk",
+    "de": "Sag nichts, ich lege die Blumen auf ihren Schreibtisch",
     "groupCode": 1
   }
 ]
