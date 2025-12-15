@@ -3655,7 +3655,7 @@
   },
   {
     "id": 10600,
-    "en": "I don't eat a dairy product or a meat but I like to eat pizza and I don't eat a dessert",
+    "en": "I don't eat a dairy product or a meat but I like eating pizza and I don't eat a dessert",
     "de": "Ich esse keine Milchprodukte oder kein Fleisch aber Ich esse gern Pizza und Ich esse keinen Nachtisch",
     "groupCode": 1
   },
@@ -13604,7 +13604,7 @@
   },
   {
     "id": 12231,
-    "en": "Could you please change that to 50 euros?",
+    "en": "Could you (formal) please change that to 50 euros?",
     "de": "Könnten Sie das bitte auf 50 Euro ändern?",
     "groupCode": 1
   },

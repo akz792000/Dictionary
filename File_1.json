@@ -4152,8 +4152,8 @@
   },
   {
     "id": 3678,
-    "fa": "از آنجایی که او (زن) باردار است، پزشک نباید استفاده کند از بیهوشی (اَنس تیژا) برای کشیدن دندان",
-    "en": "Since she is pregnant, the doctor shouldn't use anesthesia /ˌænəsˈθiːʒə/ to extract the tooth",
+    "fa": "از آنجایی که او (زن) باردار است، پزشک نباید استفاده کند از بیهوشی برای کشیدن دندان",
+    "en": "Since she is pregnant, the doctor shouldn't use anesthesia /ˌænəsˈθiːʒə/ (اَنس تیژا) to extract the tooth",
     "groupCode": 0
   },
   {
@@ -8609,8 +8609,8 @@
   },
   {
     "id": 4411,
-    "fa": "من بیشتر ترجیح می دهم قطار بگیرم به جای پرواز",
-    "en": "\n 1.I'd much rather take the train than fly \n 2.I'd much prefer to take the train rather than fly",
+    "fa": "من بیشتر ترجیح می دهم قطار بگیرم به جای اینکه یک پرواز بگیرم",
+    "en": "\n 1.I'd much rather take the train than take a flight \n 2.I'd much prefer to take the train rather than take a flight",
     "desc": "I prefer …\n\nGeneral truth / habit.\n\nTalks about what you usually like more. \n\n\n I would prefer …\n\nPolite, hypothetical, or for a specific situation.\n\nOften used when making a choice right now.",
     "groupCode": 0
   },
@@ -10593,7 +10593,7 @@
   },
   {
     "id": 4737,
-    "fa": "اگر او (مرد) میگفت این را در مورد هر نژاد دیگری، او کسر میشد (از حساب بانکیاش) ، حذف میشد از پلتفرمش، اعلام برائت میشد، از دست میداد تمام قراردادهای حرفه ایش را و شاید حتی دستگیر میشد",
+    "fa": "اگر او (مرد) میگفت این را در مورد هر نژاد دیگری، او کسر میشد (از حساب بانکی اش) ، حذف میشد از پلتفرمش، اعلام برائت میشد، از دست میداد تمام قراردادهای حرفه ایش را و شاید حتی دستگیر میشد",
     "en": "If he said this about any other race, he would be debanked, deplatformed, disavowed, lose all professional contracts, and maybe even be arrested",
     "groupCode": 0
   },
@@ -10643,6 +10643,7 @@
     "id": 4745,
     "fa": "موجود است ناخن گیر روی میز است",
     "en": "There are nail clippers on the table",
+    "desc": "“Nail clippers” is a plural-form noun like scissors.\nSo “there are nail clippers” usually means one pair, unless you specify two or more pairs. \n\n More than one:\nThere are two pairs of nail clippers on the table.",
     "groupCode": 0
   },
   {
@@ -10662,6 +10663,12 @@
     "fa": "او (زن) داره با روانش بازی میشه توسط شوهرش",
     "en": "She is being gaslighted by her husband",
     "desc": "Gaslighting is a form of psychological manipulation where someone makes a person doubt their own reality, memory, or sanity, often by denying facts, trivializing feelings, or twisting situations, ultimately leading to confusion, low self-esteem, and dependence on the abuser; it's a tactic seen in domestic abuse and unhealthy relationships, stemming from the play Gas Light where a husband subtly dims gas lights and denies it when his wife notices",
+    "groupCode": 0
+  },
+  {
+    "id": 4749,
+    "fa": "من فکر نمی کنم وجود داشته باشد نکته بیشتری در اضافه کردن بیشتر",
+    "en": "I don't think there's much point in adding more",
     "groupCode": 0
   }
 ]
