@@ -15883,6 +15883,7 @@
     "id": 2614,
     "fa": "بزار اینجا پیاده شم",
     "en": "Let me off here",
+    "desc": "“Let me off here.” is the natural, correct choice.\n\nUse it when you want the driver to stop so you can exit (bus, taxi, ride-share).\n\n“Let me get off here” isn’t wrong grammatically, but it sounds awkward and is rarely used by native speakers in this situation.",
     "groupCode": 0
   },
   {
@@ -17520,7 +17521,7 @@
   },
   {
     "id": 2882,
-    "fa": "او (زن) سرفه مداوم دارد",
+    "fa": "او یک (زن) سرفه مداوم دارد",
     "en": "She has a persistent cough",
     "desc": "In general, if you can count individual items, you use \"a\" or \"an\". If the noun refers to a mass or uncountable quantity, you don't use \"a\" or \"an\".",
     "groupCode": 0
@@ -17886,8 +17887,8 @@
   },
   {
     "id": 2942,
-    "fa": "من باید (ماشین) پیاده شوم",
-    "en": "I have to drop off",
+    "fa": "من باید یک بسته رو تحویل بدم (رساندن)",
+    "en": "I have to drop off a package",
     "groupCode": 0
   },
   {

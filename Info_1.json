@@ -58,5 +58,11 @@
     "key": "Tochter",
     "value": "تُخ تا",
     "groupCode": 1
+  },
+  {
+    "id": 11,
+    "key": "Wechseln",
+    "value": "وکسلن",
+    "groupCode": 1
   }
 ]

@@ -8430,7 +8430,7 @@
   },
   {
     "id": 11385,
-    "en": "He lays the book on the table",
+    "en": "He puts (lays) the book on the table",
     "de": "Er legt das Buch auf den Tisch",
     "desc": "Er legt das Buch auf den Tisch.\n(He lays the book onto the table → movement ⇒ Akkusativ “den Tisch”.)\n\nDas Buch liegt auf dem Tisch.\n(The book is lying on the table → no movement ⇒ Dativ “dem Tisch”.)",
     "groupCode": 1
@@ -11522,8 +11522,8 @@
   },
   {
     "id": 11890,
-    "en": "\n 1.Sneezing \n 2.burping \n 3.yawning \n 4.sweating \n 5.farting \n 6.spitting",
-    "de": "\n 1.Niesen \n 2.Rülpsen \n 3.Gähnen \n 4.Schwitzen \n 5.Furzen \n 6.Spucken",
+    "en": "What is lying on the floor?",
+    "de": "Was liegt auf dem Boden?",
     "groupCode": 1
   },
   {
@@ -12416,7 +12416,7 @@
   },
   {
     "id": 12036,
-    "en": "Please (friendly emphasis) come in!",
+    "en": "Come in please (friendly emphasis)!",
     "de": "Komm doch bitte rein!",
     "desc": "reinkommen: it just emphasizes the action of entering",
     "groupCode": 1
@@ -13410,7 +13410,7 @@
   {
     "id": 12199,
     "en": "I don't like (appearance or impression) the drawers, it's too small",
-    "de": "Die kommoden gefällt mir nicht, sie sind zu klein",
+    "de": "Die kommoden gefallen mir nicht, sie sind zu klein",
     "groupCode": 1
   },
   {
@@ -13586,26 +13586,26 @@
   },
   {
     "id": 12228,
-    "en": "Don't always lay your socks on the table",
+    "en": "Don't always put (lay) your socks on the table",
     "de": "Leg nicht immer deine Socken auf den Tisch",
     "groupCode": 1
   },
   {
     "id": 12229,
-    "en": "Can you lay the duvet on the bed?",
+    "en": "Can you put (lay) the duvet on the bed?",
     "de": "Kannst du die Bettdecke auf das Bett legen?",
     "groupCode": 1
   },
   {
     "id": 12230,
-    "en": "I want to read these magazines. Lay them please on the table",
+    "en": "I want to read these magazines. Put (lay) them please on the table",
     "de": "Ich will diese Zeitschriften lesen. Leg sie bitte auf den Tisch",
     "groupCode": 1
   },
   {
     "id": 12231,
-    "en": "Could you (formal) please change that to 50 euros?",
-    "de": "Könnten Sie das bitte auf 50 Euro ändern?",
+    "en": "Could you (formal) please exchange 50 euros?",
+    "de": "Könnten Sie mir bitte 50 Euro wechseln?",
     "groupCode": 1
   },
   {
@@ -13658,7 +13658,7 @@
   },
   {
     "id": 12240,
-    "en": "Say nothing, I lay the flowers on her desk",
+    "en": "Say nothing, I put (lay) the flowers on her desk",
     "de": "Sag nichts, ich lege die Blumen auf ihren Schreibtisch",
     "groupCode": 1
   },
@@ -13676,8 +13676,50 @@
   },
   {
     "id": 12243,
-    "en": "Prices are increasing",
+    "en": "The prices are increasing",
     "de": "Die Preise nehmen zu",
+    "groupCode": 1
+  },
+  {
+    "id": 12244,
+    "en": "Look out (watch out), a bear",
+    "de": "Pass auf, ein Bär",
+    "groupCode": 1
+  },
+  {
+    "id": 12245,
+    "en": "Please be careful!",
+    "de": "Sie bitte vorsichtig!",
+    "groupCode": 1
+  },
+  {
+    "id": 12246,
+    "en": "Say nothing, I'm always careful",
+    "de": "Sag nichts ich bin immer vorsichtig",
+    "groupCode": 1
+  },
+  {
+    "id": 12247,
+    "en": "I always sit in the front",
+    "de": "Ich sitze imme vorne",
+    "groupCode": 1
+  },
+  {
+    "id": 12248,
+    "en": "Do you want to sit in the front or the back?",
+    "de": "Willst du vorne oder hinten sitzen?",
+    "groupCode": 1
+  },
+  {
+    "id": 12249,
+    "en": "I'm putting the coffee table in the living room",
+    "de": "Ich stelle den Kaffeetisch ins Wohnzimmer",
+    "groupCode": 1
+  },
+  {
+    "id": 12250,
+    "en": "Be tidy, don't put (lay) the magazines on the bed",
+    "de": "Sei ordentlich, leg die Zeitschriften nicht auf das Bett",
     "groupCode": 1
   }
 ]

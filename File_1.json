@@ -4152,7 +4152,7 @@
   },
   {
     "id": 3678,
-    "fa": "از آنجایی که او (زن) باردار است، پزشک نباید استفاده کند از بیهوشی برای کشیدن دندان",
+    "fa": "از آنجایی که او (زن) باردار است، پزشک نباید استفاده کند از بیهوشی تا بکشد دندان را",
     "en": "Since she is pregnant, the doctor shouldn't use anesthesia /ˌænəsˈθiːʒə/ (اَنس تیژا) to extract the tooth",
     "groupCode": 0
   },
@@ -10382,7 +10382,7 @@
   {
     "id": 4702,
     "fa": "چشمت به این بود (داشتی)؟",
-    "en": "Had your eye on this?",
+    "en": "\n 1.Had your eye on this? \n 2.Have you had your eye on this?",
     "groupCode": 0
   },
   {
@@ -10669,6 +10669,18 @@
     "id": 4749,
     "fa": "من فکر نمی کنم وجود داشته باشد نکته بیشتری در اضافه کردن بیشتر",
     "en": "I don't think there's much point in adding more",
+    "groupCode": 0
+  },
+  {
+    "id": 4750,
+    "fa": "ترافیک شهری از زمان باز شدن آن بن بست کاهش یافته است",
+    "en": "Traffic in the town has dropped off since the bypass opened",
+    "groupCode": 0
+  },
+  {
+    "id": 4751,
+    "fa": "Legen برای اشیاء صاف است و stellen برای اشیاء قائم است و setzen برای مردم و حیوانات است",
+    "en": "Legen is for flat objects and stellen is for upright objects and setzen is for people and animals",
     "groupCode": 0
   }
 ]
