@@ -15488,7 +15488,7 @@
   },
   {
     "id": 2549,
-    "fa": "شما ممکن است نیاز داشته باشید یک جفت عینک برای خواندن این",
+    "fa": "شما ممکن است نیاز داشته باشید یک جفت عینک تا بخوانید این",
     "en": "You may need a pair of glasses to read this",
     "groupCode": 0
   },
@@ -16153,8 +16153,9 @@
   },
   {
     "id": 2659,
-    "fa": "چقدر زمان تا پایان کارتان باقی مانده است؟",
+    "fa": "چقدر زمان باقی مانده است تا (اینکه) پایان کارتان؟",
     "en": "How much time is left till the end of your work?",
+    "desc": "“till” is informal; “until” is better in neutral or formal English",
     "groupCode": 0
   },
   {

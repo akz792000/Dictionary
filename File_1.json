@@ -8462,7 +8462,7 @@
   {
     "id": 4387,
     "fa": "ما سر کار قهر کردیم اما سپس ما آشتی (ساختیم) کردیم",
-    "en": "We had a falling-out over work, but then we made up",
+    "en": "\n 1.We had a falling-out over work, but then we made up \n 2.We had a falling-out over work, but then we made amends (formal)",
     "groupCode": 0
   },
   {
@@ -10673,7 +10673,7 @@
   },
   {
     "id": 4750,
-    "fa": "ترافیک شهری از زمان باز شدن آن بن بست کاهش یافته است",
+    "fa": "ترافیک در شهر کاهش یافته است از (زمان) گذرگاه باز شده",
     "en": "Traffic in the town has dropped off since the bypass opened",
     "groupCode": 0
   },
@@ -10681,6 +10681,18 @@
     "id": 4751,
     "fa": "Legen برای اشیاء صاف است و stellen برای اشیاء قائم است و setzen برای مردم و حیوانات است",
     "en": "Legen is for flat objects and stellen is for upright objects and setzen is for people and animals",
+    "groupCode": 0
+  },
+  {
+    "id": 4752,
+    "fa": "هر تلاشی نتیجه می دهد",
+    "en": "Every endeavor pays off",
+    "groupCode": 0
+  },
+  {
+    "id": 4753,
+    "fa": "یک پلتفرم RFQ (درخواست برای قیمت) است یک سیستم جاییکه یک خریدار درخواست می کند یک قیمت از یک یا چند (بیشتر) فروشنده قبل از اجرا شدن یک معامله",
+    "en": "An RFQ (Request for Quote) platform is a system where a buyer requests a price from one or more sellers before executing a trade",
     "groupCode": 0
   }
 ]

@@ -4365,7 +4365,7 @@
   },
   {
     "id": 10717,
-    "en": "But I'm scared! It's too dangerous",
+    "en": "But I'm scared (have fear)! It's too dangerous",
     "de": "Aber ich habe Angst! Es ist zu gefährlich",
     "groupCode": 1
   },
@@ -7998,6 +7998,7 @@
     "id": 11314,
     "en": "I would like to speak to (bring up) you about a problem",
     "de": "Ich möchte dich auf ein Problem ansprechen",
+    "desc": "the verb „ansprechen“ is used with „auf“, not „über“.",
     "groupCode": 1
   },
   {
@@ -11480,7 +11481,7 @@
   },
   {
     "id": 11883,
-    "en": "He had to hit the nail into the wall with a hammer",
+    "en": "He had to hit the nail into the wall with the hammer",
     "de": "Er musste den Nagel mit dem Hammer in die Wand schlagen",
     "groupCode": 1
   },
@@ -11534,8 +11535,8 @@
   },
   {
     "id": 11892,
-    "en": "There also live my parents and my brother",
-    "de": "Dort leben auch meine Eltern und mein Bruder",
+    "en": "My brother is 1.80 meters tall",
+    "de": "Mein Bruder ist einen Meter achtzig groß",
     "groupCode": 1
   },
   {
@@ -12416,7 +12417,7 @@
   },
   {
     "id": 12036,
-    "en": "Come in please (friendly emphasis)!",
+    "en": "Come in please!",
     "de": "Komm doch bitte rein!",
     "desc": "reinkommen: it just emphasizes the action of entering",
     "groupCode": 1
@@ -13433,7 +13434,7 @@
   },
   {
     "id": 12203,
-    "en": "That's a good idea. Hey, I have to go. I still have to buy presents too",
+    "en": "That's a good idea. Hey, I have to go (off). I still have to buy presents too",
     "de": "Das ist eine gute Idee. Du, ich muss los. Ich muss auch noch Geschenke kaufen",
     "groupCode": 1
   },
@@ -13720,6 +13721,66 @@
     "id": 12250,
     "en": "Be tidy, don't put (lay) the magazines on the bed",
     "de": "Sei ordentlich, leg die Zeitschriften nicht auf das Bett",
+    "groupCode": 1
+  },
+  {
+    "id": 12251,
+    "en": "I have a sample today",
+    "de": "Ich habe heute eine Probe",
+    "groupCode": 1
+  },
+  {
+    "id": 12252,
+    "en": "Can you (formal) come in now?",
+    "de": "Können Sie jetzt reinkommen?",
+    "groupCode": 1
+  },
+  {
+    "id": 12253,
+    "en": "Why do you (formal) look so stressed?",
+    "de": "Warum sehen Sie so gestresst aus?",
+    "groupCode": 1
+  },
+  {
+    "id": 12254,
+    "en": "I think my brother is always afraid (have fear)",
+    "de": "Ich glaube, mein Bruder hat immer Angst",
+    "groupCode": 1
+  },
+  {
+    "id": 12255,
+    "en": "Do you drive with the scooter to football training?",
+    "de": "Fährst du mit dem Motorroller zum Fußballtraining?",
+    "groupCode": 1
+  },
+  {
+    "id": 12256,
+    "en": "Don't talk to me. I have to go (off) and I don't have time",
+    "de": "Rede nicht mit mir. Ich muss los und habe keine Zeit",
+    "groupCode": 1
+  },
+  {
+    "id": 12257,
+    "en": "Don't put the bananas on the floor, that's dangerous.",
+    "de": "Stell die Bananen nicht auf den Boden das ist gefährlich",
+    "groupCode": 1
+  },
+  {
+    "id": 12258,
+    "en": "What is lying on the floor?",
+    "de": "Was liegt auf dem Boden?",
+    "groupCode": 1
+  },
+  {
+    "id": 12259,
+    "en": "The magazines lie on the table",
+    "de": "Die Zeitschriften liegen auf dem Tisch",
+    "groupCode": 1
+  },
+  {
+    "id": 12260,
+    "en": "How many magazines do you receive per month?",
+    "de": "Wie viele Zeitschriften bekommst du pro Monat?",
     "groupCode": 1
   }
 ]
