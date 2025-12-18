@@ -13702,7 +13702,7 @@
   {
     "id": 12247,
     "en": "I always sit in the front",
-    "de": "Ich sitze imme vorne",
+    "de": "Ich sitze immer vorne",
     "groupCode": 1
   },
   {
@@ -13749,7 +13749,7 @@
   },
   {
     "id": 12255,
-    "en": "Do you drive with the scooter to football training?",
+    "en": "Do you drive with the Motor scooter to football training?",
     "de": "Fährst du mit dem Motorroller zum Fußballtraining?",
     "groupCode": 1
   },
@@ -13803,7 +13803,7 @@
   },
   {
     "id": 12264,
-    "en": "We can't leave, I must find my phone first",
+    "en": "We can't go (off), I must find my phone first",
     "de": "Wir können nicht los, ich muss zuerst mein Handy finden",
     "groupCode": 1
   },
@@ -13815,14 +13815,14 @@
   },
   {
     "id": 12266,
-    "en": "Could you please drive slower?",
+    "en": "Can you please drive slower?",
     "de": "Kannst du bitte langsamer fahren?",
     "groupCode": 1
   },
   {
     "id": 12267,
-    "en": "What does he look like?",
-    "de": "What does he look like?",
+    "en": "How does he look like?",
+    "de": "Wie sieht er aus?",
     "groupCode": 1
   },
   {
@@ -13839,8 +13839,68 @@
   },
   {
     "id": 12270,
-    "en": "Don't be afraid (have fear), everything is OK.",
+    "en": "Don't (formal) be afraid (have fear), everything is OK",
     "de": "Haben Sie keine Angst, alles ist OK",
+    "groupCode": 1
+  },
+  {
+    "id": 12271,
+    "en": "When did you live in Vienna?",
+    "de": "Wann hast du in Wien gelebt?",
+    "groupCode": 1
+  },
+  {
+    "id": 12272,
+    "en": "They remind me of a woman I knew many years ago",
+    "de": "Sie erinnern mich an eine Frau, die ich vor vielen Jahren kannte",
+    "groupCode": 1
+  },
+  {
+    "id": 12273,
+    "en": "I didn't receive any letters",
+    "de": "Ich habe keine Briefe bekommen",
+    "groupCode": 1
+  },
+  {
+    "id": 12274,
+    "en": "Find my dog, he was outside and I have to go",
+    "de": "Finde meinen Hund, er war draußen und ich muss gehen",
+    "groupCode": 1
+  },
+  {
+    "id": 12275,
+    "en": "His eyes are brown",
+    "de": "Seine Augen sind Braun",
+    "groupCode": 1
+  },
+  {
+    "id": 12276,
+    "en": "Don't (formal) be nervous, everything is alright (ordering)",
+    "de": "Seien Sie nicht nervös, alles ist in Ordnung",
+    "groupCode": 1
+  },
+  {
+    "id": 12277,
+    "en": "I couldn't find you, what happened?",
+    "de": "Ich konnte dich nicht finden, was ist passiert?",
+    "groupCode": 1
+  },
+  {
+    "id": 12278,
+    "en": "Today was a long day",
+    "de": "Heute war ein langer Tag",
+    "groupCode": 1
+  },
+  {
+    "id": 12279,
+    "en": "He's completely exhausted (Fixed and done). He already sleep",
+    "de": "Er ist fix und fertig. Er schläft schon",
+    "groupCode": 1
+  },
+  {
+    "id": 12280,
+    "en": "What are you up to tomorrow?",
+    "de": "Was habt ihr morgen vor?",
     "groupCode": 1
   }
 ]

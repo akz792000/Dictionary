@@ -10700,5 +10700,29 @@
     "fa": "تکثیر است نگهداری چندین کپی از داده یا سرویس ها تا اطمینان دهد در دسترس بودن و تحمل خطا",
     "en": "Replication is keeping multiple copies of data or services to ensure availability and fault tolerance",
     "groupCode": 0
+  },
+  {
+    "id":,
+    "fa": "",
+    "en": "Idempotency is designing operations so that repeating the same request produces the same result without side effects",
+    "groupCode": 0
+  },
+  {
+    "id":,
+    "fa": "",
+    "en": "Circuit breakers ia automatically stopping calls to failing services to avoid cascading failures",
+    "groupCode": 0
+  },
+  {
+    "id":,
+    "fa": "",
+    "en": "Graceful degradation is maintaining partial functionality when parts of the system fail instead of a full service outage",
+    "groupCode": 0
+  },
+  {
+    "id":,
+    "fa": "",
+    "en": "Fabricated, teakwek, squishy, gooey, funky",
+    "groupCode": 0
   }
 ]
