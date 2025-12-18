@@ -13782,5 +13782,65 @@
     "en": "How many magazines do you receive per month?",
     "de": "Wie viele Zeitschriften bekommst du pro Monat?",
     "groupCode": 1
+  },
+  {
+    "id": 12261,
+    "en": "I'm not mean, just tired",
+    "de": "Ich bin nicht gemein, nur müde",
+    "groupCode": 1
+  },
+  {
+    "id": 12262,
+    "en": "Don't talk to me now",
+    "de": "Rede jetzt nicht mit mir",
+    "groupCode": 1
+  },
+  {
+    "id": 12263,
+    "en": "We must go (off), can you find the keys?",
+    "de": "Wir müssen los, kannst du die Schlüssel finden?",
+    "groupCode": 1
+  },
+  {
+    "id": 12264,
+    "en": "We can't leave, I must find my phone first",
+    "de": "Wir können nicht los, ich muss zuerst mein Handy finden",
+    "groupCode": 1
+  },
+  {
+    "id": 12265,
+    "en": "Don't you see the stop sign?",
+    "de": "Siehst du das Stoppschild nicht?",
+    "groupCode": 1
+  },
+  {
+    "id": 12266,
+    "en": "Could you please drive slower?",
+    "de": "Kannst du bitte langsamer fahren?",
+    "groupCode": 1
+  },
+  {
+    "id": 12267,
+    "en": "What does he look like?",
+    "de": "What does he look like?",
+    "groupCode": 1
+  },
+  {
+    "id": 12268,
+    "en": "Does her brother have a beard?",
+    "de": "Hat ihr Bruder einen Bart?",
+    "groupCode": 1
+  },
+  {
+    "id": 12269,
+    "en": "His hair is short and red",
+    "de": "Seine Haare sind kurz und rot",
+    "groupCode": 1
+  },
+  {
+    "id": 12270,
+    "en": "Don't be afraid (have fear), everything is OK.",
+    "de": "Haben Sie keine Angst, alles ist OK",
+    "groupCode": 1
   }
 ]

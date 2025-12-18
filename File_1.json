@@ -10694,5 +10694,11 @@
     "fa": "یک پلتفرم RFQ (درخواست برای قیمت) است یک سیستم جاییکه یک خریدار درخواست می کند یک قیمت از یک یا چند (بیشتر) فروشنده قبل از اجرا شدن یک معامله",
     "en": "An RFQ (Request for Quote) platform is a system where a buyer requests a price from one or more sellers before executing a trade",
     "groupCode": 0
+  },
+  {
+    "id": 4754,
+    "fa": "تکثیر است نگهداری چندین کپی از داده یا سرویس ها تا اطمینان دهد در دسترس بودن و تحمل خطا",
+    "en": "Replication is keeping multiple copies of data or services to ensure availability and fault tolerance",
+    "groupCode": 0
   }
 ]
