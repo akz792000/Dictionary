@@ -10702,27 +10702,15 @@
     "groupCode": 0
   },
   {
-    "id":,
-    "fa": "",
-    "en": "Idempotency is designing operations so that repeating the same request produces the same result without side effects",
+    "id": 4755,
+    "fa": "هیچ خوبی از این در نمی آید",
+    "en": "No good can come of this",
     "groupCode": 0
   },
   {
-    "id":,
-    "fa": "",
-    "en": "Circuit breakers ia automatically stopping calls to failing services to avoid cascading failures",
-    "groupCode": 0
-  },
-  {
-    "id":,
-    "fa": "",
-    "en": "Graceful degradation is maintaining partial functionality when parts of the system fail instead of a full service outage",
-    "groupCode": 0
-  },
-  {
-    "id":,
-    "fa": "",
-    "en": "Fabricated, teakwek, squishy, gooey, funky",
+    "id": 4756,
+    "fa": "اگر شما دارید نقشه می کشی آن را انجام دهی در تمام طول پرواز، لطفاً همین الان به من بگویید تا من بتوانم یک آرامبخش مصرف کنم",
+    "en": "If you're planning on doing that for the entire flight, please tell me now so I can take a sedative",
     "groupCode": 0
   }
 ]
