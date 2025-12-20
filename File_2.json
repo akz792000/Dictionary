@@ -13691,7 +13691,7 @@
   {
     "id": 12245,
     "en": "Please be careful!",
-    "de": "Sie bitte vorsichtig!",
+    "de": "Sei bitte vorsichtig!",
     "groupCode": 1
   },
   {
@@ -13919,13 +13919,13 @@
   },
   {
     "id": 12283,
-    "en": "So, what do you (plaural) plan now, are you going home?",
+    "en": "So, what do you have (plaural) to do (intend/plan) now, are you going home?",
     "de": "Also, was habt ihr jetzt vor, geht ihr nach Hause?",
     "groupCode": 1
   },
   {
     "id": 12284,
-    "en": "I plan a lot today",
+    "en": "I have a lot to do (intend/plan) today",
     "de": "Ich habe heute viel vor",
     "desc": "vorhaben → haben … vor",
     "groupCode": 1
@@ -13970,17 +13970,18 @@
     "id": 12291,
     "en": "Love goes through the stomach",
     "de": "Liebe geht durch den Magen",
+    "desc": "Bauch → outer/visible area, casual\n\nMagen → actual organ, medical/scientific",
     "groupCode": 1
   },
   {
     "id": 12292,
-    "en": "I already (have planned) plan (for) this evening. I'm going to a concert",
+    "en": "I already have something to do (intend/plan) tonight. I'm going into the concert",
     "de": "Ich habe heute Abend schon etwas vor. Ich gehe ins Konzert",
     "groupCode": 1
   },
   {
     "id": 12293,
-    "en": "Why are you nervous? What happened? Let's go to a cafe and talk there.",
+    "en": "Why are you nervous? What happened? Let's go into the cafe and talk there",
     "de": "Warum bist du nervös? Was ist passiert? Lass uns ins Cafe gehen und dort reden",
     "groupCode": 1
   },
@@ -13988,6 +13989,18 @@
     "id": 12294,
     "en": "Everything happens (for) a reason",
     "de": "Alles passiert aus einem Grund",
+    "groupCode": 1
+  },
+  {
+    "id": 12295,
+    "en": "Wait a minute Please, I'm not finished yet",
+    "de": "Einen Moment bitte, ich bin noch nicht fertig",
+    "groupCode": 1
+  },
+  {
+    "id": 12296,
+    "en": "The child is very curious",
+    "de": "Das Kind ist sehr neugierig",
     "groupCode": 1
   }
 ]
