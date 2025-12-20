@@ -10703,7 +10703,7 @@
   },
   {
     "id": 4755,
-    "fa": "هیچ خوبی از این در نمی آید",
+    "fa": "هیچ خوبی نمی تواند از این بیاید",
     "en": "No good can come of this",
     "groupCode": 0
   },
@@ -10711,6 +10711,54 @@
     "id": 4756,
     "fa": "اگر شما دارید نقشه می کشی آن را انجام دهی در تمام طول پرواز، لطفاً همین الان به من بگویید تا من بتوانم یک آرامبخش مصرف کنم",
     "en": "If you're planning on doing that for the entire flight, please tell me now so I can take a sedative",
+    "groupCode": 0
+  },
+  {
+    "id": 4757,
+    "fa": "برف می بارد بی وقفه در تهران برای نزدیک به بیست ساعت. من ندیده ام یک صحنه ای مانند این نزدیک در حداقل ده سال. خدا را شکر",
+    "en": "It's been snowing nonstop in Tehran for nearly 20 hours. I haven't seen a scene like this up close in at least ten years. Thank God",
+    "groupCode": 0
+  },
+  {
+    "id": 4758,
+    "fa": "خودتوانی است طراحی عملیات ها به طوری که تکرار درخواست یکسان ایجاد کند نتیجه یکسان بدون عوارض های جانبی",
+    "en": "Idempotency is designing operations so that repeating the same request produces the same result without side effects",
+    "groupCode": 0
+  },
+  {
+    "id": 4759,
+    "fa": "این فیلم بود زیاد بیدارکننده (آگاه اجتماعی) برای من",
+    "en": "This movie was too woke for me",
+    "groupCode": 0
+  },
+  {
+    "id": 4760,
+    "fa": "او (زن) خیلی آگاهِ (اجتماعی) است",
+    "en": "She's very woke",
+    "groupCode": 0
+  },
+  {
+    "id": 4761,
+    "fa": "آیا وجود دارد یک محلی تا سوار کنی و پیاده کردن مسافران اینجا؟",
+    "en": "Is there an area to pick up and drop off passengers here?",
+    "groupCode": 0
+  },
+  {
+    "id": 4762,
+    "fa": "آیا عبور و مرور (ترانزیت) موجود است اینجا 24 ساعته در روز؟",
+    "en": "Is transit available here 24 hours a day?",
+    "groupCode": 0
+  },
+  {
+    "id": 4763,
+    "fa": "آیا وجود دارد یک ورودی قابل دسترسی ویلچر اینجا؟",
+    "en": "Is there a wheelchair accessible entrance here?",
+    "groupCode": 0
+  },
+  {
+    "id": 4764,
+    "fa": "توریستها داشتند چانه می زدند سر قیمت یک فرش",
+    "en": "Tourists were haggling over the price of a carpet",
     "groupCode": 0
   }
 ]

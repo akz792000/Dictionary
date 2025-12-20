@@ -13448,6 +13448,7 @@
     "id": 12205,
     "en": "I rent my apartment to tourists",
     "de": "Ich vermiete meine Wohnung an Touristen",
+    "desc": "an + accusative = direction / recipient of an action\n\nThink of it like English “to” in give to someone, send to someone, rent to someone",
     "groupCode": 1
   },
   {
@@ -13899,8 +13900,94 @@
   },
   {
     "id": 12280,
-    "en": "What are you up to tomorrow?",
+    "en": "What do you (plural) plan tomorrow?",
     "de": "Was habt ihr morgen vor?",
+    "groupCode": 1
+  },
+  {
+    "id": 12281,
+    "en": "This is the highest and the oldest.",
+    "de": "Das ist das Höchste und das Älteste",
+    "desc": "sein + noun → das Höchste / das Älteste\n\nsein + description → am höchsten / am ältesten",
+    "groupCode": 1
+  },
+  {
+    "id": 12282,
+    "en": "We want to visit Switzerland next summer",
+    "de": "Wir wollen nächsten Sommer die Schweiz besuchen",
+    "groupCode": 1
+  },
+  {
+    "id": 12283,
+    "en": "So, what do you (plaural) plan now, are you going home?",
+    "de": "Also, was habt ihr jetzt vor, geht ihr nach Hause?",
+    "groupCode": 1
+  },
+  {
+    "id": 12284,
+    "en": "I plan a lot today",
+    "de": "Ich habe heute viel vor",
+    "desc": "vorhaben → haben … vor",
+    "groupCode": 1
+  },
+  {
+    "id": 12285,
+    "en": "Wait (formal) five minutes, then come (formal) in please",
+    "de": "Warten Sie fünf Minuten dann kommen Sie bitte rein",
+    "groupCode": 1
+  },
+  {
+    "id": 12286,
+    "en": "The two students look like my brother",
+    "de": "Die zwei Studenten sehen aus wie mein Bruder",
+    "groupCode": 1
+  },
+  {
+    "id": 12287,
+    "en": "Unfortunately, these six shelves are broken",
+    "de": "Leider sind diese sechs Regale kaputt",
+    "groupCode": 1
+  },
+  {
+    "id": 12288,
+    "en": "I made a mistake",
+    "de": "Ich habe einen Fehler gemacht",
+    "groupCode": 1
+  },
+  {
+    "id": 12289,
+    "en": "That is not a mistake",
+    "de": "Das ist kein Fehler",
+    "groupCode": 1
+  },
+  {
+    "id": 12290,
+    "en": "He has many mistakes in the exam",
+    "de": "Er hat viele Fehler in der Prüfung",
+    "groupCode": 1
+  },
+  {
+    "id": 12291,
+    "en": "Love goes through the stomach",
+    "de": "Liebe geht durch den Magen",
+    "groupCode": 1
+  },
+  {
+    "id": 12292,
+    "en": "I already (have planned) plan (for) this evening. I'm going to a concert",
+    "de": "Ich habe heute Abend schon etwas vor. Ich gehe ins Konzert",
+    "groupCode": 1
+  },
+  {
+    "id": 12293,
+    "en": "Why are you nervous? What happened? Let's go to a cafe and talk there.",
+    "de": "Warum bist du nervös? Was ist passiert? Lass uns ins Cafe gehen und dort reden",
+    "groupCode": 1
+  },
+  {
+    "id": 12294,
+    "en": "Everything happens (for) a reason",
+    "de": "Alles passiert aus einem Grund",
     "groupCode": 1
   }
 ]
