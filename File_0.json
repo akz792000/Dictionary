@@ -14579,6 +14579,7 @@
     "id": 2400,
     "fa": "آیا نتوانسته بودید کمی به او (مرد) آزادی عمل بدهید؟",
     "en": "Couldn't you have given him a little more leeway?",
+    "desc": "Briefly:\n\nIn questions with modal verbs, the order is fixed:\nmodal + subject + have + past participle\n\n✅ Couldn’t you have given him more leeway?\n❌ Couldn’t have you given… (wrong word order)",
     "groupCode": 0
   },
   {

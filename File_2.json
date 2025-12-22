@@ -5615,7 +5615,7 @@
   },
   {
     "id": 10922,
-    "en": "Are you going to the supermarket soon (shortly)? I'm going into the supermarket soon (shortly)",
+    "en": "Are you going into the supermarket soon (shortly)? I'm going into the supermarket soon (shortly)",
     "de": "Gehst du gleich in den Supermarkt? Ich gehe gleich in den Supermarkt",
     "groupCode": 1
   },
@@ -5834,7 +5834,7 @@
   },
   {
     "id": 10958,
-    "en": "Mr. Zandi, thank you for your (formal) help. Ali, thank you for your help.",
+    "en": "Mr. Zandi, thank you for your (formal) help. Ali, thank you for your help",
     "de": "Herr Zandi, danke für ihre hilfe. Ali, danke für deine Hilfe",
     "groupCode": 1
   },
@@ -6287,7 +6287,7 @@
   },
   {
     "id": 11033,
-    "en": "She is really great.",
+    "en": "She is really great",
     "de": "Sie ist wirklich toll",
     "groupCode": 1
   },
@@ -6407,7 +6407,7 @@
   },
   {
     "id": 11053,
-    "en": "What time do you get up? I normally get up at 8 a.m.",
+    "en": "What time do you get up? I normally get up at 8 a.m",
     "de": "Um wie viel uhr stehst du auf? Ich stehe normalerweise um 8 Uhr auf",
     "groupCode": 1
   },
@@ -6504,7 +6504,7 @@
   },
   {
     "id": 11069,
-    "en": "There are two parks here. There is only one park there.",
+    "en": "There are two parks here. There is only one park there",
     "de": "Es gibt zwei Parks hier. Es gibt nur einen Park dort",
     "groupCode": 1
   },
@@ -8198,7 +8198,7 @@
   },
   {
     "id": 11347,
-    "en": "I give you the book.",
+    "en": "I give you the book",
     "de": "Ich gebe dir das Buch",
     "groupCode": 1
   },
@@ -9670,7 +9670,7 @@
   },
   {
     "id": 11586,
-    "en": "I stand. I stood. I have stood.",
+    "en": "I stand. I stood. I have stood",
     "de": "Ich stehe. Ich stand. Ich habe gestanden",
     "groupCode": 1
   },
@@ -9748,7 +9748,7 @@
   },
   {
     "id": 11599,
-    "en": "I'm talking. I talked. I have talked.",
+    "en": "I'm talking. I talked. I have talked",
     "de": "Ich rede. Ich redete. Ich habe geredet",
     "groupCode": 1
   },
@@ -10896,7 +10896,7 @@
   },
   {
     "id": 11787,
-    "en": "You are not weak.",
+    "en": "You are not weak",
     "de": "Du bist nicht schwach",
     "groupCode": 1
   },
@@ -12173,7 +12173,7 @@
   },
   {
     "id": 11996,
-    "en": "I call (phone). I called (phone). I have called (phone).",
+    "en": "I call (phone). I called (phone). I have called (phone)",
     "de": "Ich rufe an. Ich rief an. Ich habe angerufen",
     "groupCode": 1
   },
@@ -12535,7 +12535,7 @@
   },
   {
     "id": 12055,
-    "en": "Money (on) in the account is available.",
+    "en": "Money (on) in the account is available",
     "de": "Geld auf dem Konto ist verfügbar",
     "groupCode": 1
   },
@@ -12633,7 +12633,7 @@
   },
   {
     "id": 12071,
-    "en": "Please throw it in the trash now.",
+    "en": "Please throw it in the trash now",
     "de": "Bitte wirf es jetzt in den Müll",
     "groupCode": 1
   },
@@ -13750,7 +13750,7 @@
   },
   {
     "id": 12255,
-    "en": "Do you drive with the Motor scooter to football training?",
+    "en": "Do you drive with the Motor scooter to the football training?",
     "de": "Fährst du mit dem Motorroller zum Fußballtraining?",
     "groupCode": 1
   },
@@ -13762,7 +13762,7 @@
   },
   {
     "id": 12257,
-    "en": "Don't put the bananas on the floor, that's dangerous.",
+    "en": "Don't put the bananas on the floor, that's dangerous",
     "de": "Stell die Bananen nicht auf den Boden das ist gefährlich",
     "groupCode": 1
   },
@@ -13906,7 +13906,7 @@
   },
   {
     "id": 12281,
-    "en": "This is the highest and the oldest.",
+    "en": "This is the highest and the oldest",
     "de": "Das ist das Höchste und das Älteste",
     "desc": "sein + noun → das Höchste / das Älteste\n\nsein + description → am höchsten / am ältesten",
     "groupCode": 1
@@ -13940,6 +13940,7 @@
     "id": 12286,
     "en": "The two students look like my brother",
     "de": "Die zwei Studenten sehen aus wie mein Bruder",
+    "desc": "Briefly:\n\naussehen = to look / appear → no object\n\nTo compare, you must use wie (like)\n\n✅ Die zwei Studenten sehen aus wie mein Bruder.\n= The two students look like my brother.\n\n❌ Die zwei Studenten sehen mein Bruder aus.\n= Grammatically wrong (aussehen cannot take an object).\n\nRule:\n\naussehen + wie (never aussehen + noun directly)",
     "groupCode": 1
   },
   {
@@ -13975,7 +13976,7 @@
   },
   {
     "id": 12292,
-    "en": "I already have something to do (intend/plan) tonight. I'm going into the concert",
+    "en": "I already have something to do (intend/plan) his evening. I'm going into the concert",
     "de": "Ich habe heute Abend schon etwas vor. Ich gehe ins Konzert",
     "groupCode": 1
   },
@@ -14001,6 +14002,60 @@
     "id": 12296,
     "en": "The child is very curious",
     "de": "Das Kind ist sehr neugierig",
+    "groupCode": 1
+  },
+  {
+    "id": 12297,
+    "en": "I follow you",
+    "de": "Ich folge dir",
+    "groupCode": 1
+  },
+  {
+    "id": 12298,
+    "en": "Write a comment",
+    "de": "Schreib einen Kommentar",
+    "groupCode": 1
+  },
+  {
+    "id": 12299,
+    "en": "Please drive carefully. You're driving very fast today",
+    "de": "Fahr bitte vorsichtig. Du fährst heute sehr schnell",
+    "groupCode": 1
+  },
+  {
+    "id": 12300,
+    "en": "That's raelly (total) mean, do you have a problem with me?",
+    "de": "Das ist total gemein, hast du ein Problem mit mir?",
+    "groupCode": 1
+  },
+  {
+    "id": 12301,
+    "en": "Of course, you (formal) can use the bathroom",
+    "de": "Natürlich, Sie können das Badezimmer benutzen",
+    "groupCode": 1
+  },
+  {
+    "id": 12302,
+    "en": "Everyone in the house is coming to the party, even the dog is coming along",
+    "de": "Alle im Haus kommen zur Party, der Hund kommt sogar mit",
+    "groupCode": 1
+  },
+  {
+    "id": 12303,
+    "en": "Mice are the fastest, we almost never see them",
+    "de": "Die Mäuse laufen am schnellsten, wir sehen sie fast nie",
+    "groupCode": 1
+  },
+  {
+    "id": 12304,
+    "en": "Do you read a children's book with your daughter every night?",
+    "de": "Liest du jede Nacht mit deiner Tochter ein Kinder buch?",
+    "groupCode": 1
+  },
+  {
+    "id": 12305,
+    "en": "I contacted (them) by phone; the appointment is scheduled (arranged) for December 30th at 4:00 PM",
+    "de": "Ich habe telefonisch Kontakt aufgenommen; der Termin ist für den 30. Dezember um 16:00 Uhr vereinbart",
     "groupCode": 1
   }
 ]

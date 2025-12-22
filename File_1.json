@@ -6942,7 +6942,7 @@
   {
     "id": 4136,
     "fa": "من شستم دست هایم را در دستشویی (لگن)",
-    "en": "I washed my hands in the basin",
+    "en": "I washed my hands in the basin /ˈbeɪsn̩/",
     "groupCode": 0
   },
   {
@@ -10739,7 +10739,7 @@
   },
   {
     "id": 4761,
-    "fa": "آیا وجود دارد یک محلی تا سوار کنی و پیاده کردن مسافران اینجا؟",
+    "fa": "آیا وجود دارد یک محوطه تا سوار کنی و پیاده کردن مسافران اینجا؟",
     "en": "Is there an area to pick up and drop off passengers here?",
     "groupCode": 0
   },
@@ -10769,8 +10769,14 @@
   },
   {
     "id": 4766,
-    "fa": "من توضیح دادمش به او به طور قانع کننده ای",
+    "fa": "من توضیح دادمش به او (مرد) به طور قانع کننده ای",
     "en": "I explained it to him convincingly",
+    "groupCode": 0
+  },
+  {
+    "id": 4767,
+    "fa": "آینده شرکت در خطر است، بنابراین هر تصمیمی اهمیت دارد",
+    "en": "The future of the company is at stake, so every decision matters",
     "groupCode": 0
   }
 ]
