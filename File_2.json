@@ -8548,7 +8548,7 @@
   {
     "id": 11404,
     "en": "Could you (formal) please bring me a coffee? Yes, it's coming immediately",
-    "de": "Könnten Sie mir bitte einen Kaffee bringen? Ja, kommt sofort",
+    "de": "Konnten Sie mir bitte einen Kaffee bringen? Ja, kommt sofort",
     "desc": "Subject + bringen + Dative (to whom) + Accusative (what)\n\nExample:\n\nIch bringe dir ein Buch.\n→ I bring you a book.\n→ „dir“ = Dative (to you)\n→ „ein Buch“ = Accusative (the book)",
     "groupCode": 1
   },
@@ -8765,7 +8765,7 @@
   {
     "id": 11439,
     "en": "Could you (formal) please tell (say) me what the homeworks is?",
-    "de": "Könnten Sie mir bitte sagen, was die Hausaufgaben sind?",
+    "de": "Konnten Sie mir bitte sagen, was die Hausaufgaben sind?",
     "groupCode": 1
   },
   {
@@ -8826,7 +8826,7 @@
   {
     "id": 11449,
     "en": "I have a question about (toward) the party: Could you (formal) please tell (say) me when the party starts and when it ends?",
-    "de": "Ich habe eine Frage zur (über die) Party: Könnten Sie mir bitte sagen, wann die Party anfängt und wann sie aufhört?",
+    "de": "Ich habe eine Frage zur (über die) Party: Konnten Sie mir bitte sagen, wann die Party anfängt und wann sie aufhört?",
     "desc": "zur Party → “about the party” in the sense of the event/topic (more natural in German).\n\nüber die Party → “about the party” focusing on the subject/content of your question (less common).",
     "groupCode": 1
   },
@@ -13607,7 +13607,7 @@
   {
     "id": 12231,
     "en": "Could you (formal) please exchange 50 euros?",
-    "de": "Könnten Sie mir bitte 50 Euro wechseln?",
+    "de": "Konnten Sie mir bitte 50 Euro wechseln?",
     "groupCode": 1
   },
   {
@@ -14024,7 +14024,7 @@
   },
   {
     "id": 12300,
-    "en": "That's raelly (total) mean, do you have a problem with me?",
+    "en": "That's really (total) mean, do you have a problem with me?",
     "de": "Das ist total gemein, hast du ein Problem mit mir?",
     "groupCode": 1
   },
@@ -14056,6 +14056,72 @@
     "id": 12305,
     "en": "I contacted (them) by phone; the appointment is scheduled (arranged) for December 30th at 4:00 PM",
     "de": "Ich habe telefonisch Kontakt aufgenommen; der Termin ist für den 30. Dezember um 16:00 Uhr vereinbart",
+    "groupCode": 1
+  },
+  {
+    "id": 12306,
+    "en": "He changes the job",
+    "de": "Er wechselt den Job",
+    "groupCode": 1
+  },
+  {
+    "id": 12307,
+    "en": "Sorry, we already have something planned, but what are you doing?",
+    "de": "Sorry, wir haben schon etwas vor, aber was machst du?",
+    "groupCode": 1
+  },
+  {
+    "id": 12308,
+    "en": "The bottles were completely empty",
+    "de": "Die Flaschen waren total leer",
+    "groupCode": 1
+  },
+  {
+    "id": 12309,
+    "en": "It was rather warm on Friday",
+    "de": "Es war ziemlich warm am Freitag",
+    "groupCode": 1
+  },
+  {
+    "id": 12310,
+    "en": "My legs have been hurting since Saturday",
+    "de": "Mir tun die Beine seit Samstag weh",
+    "groupCode": 1
+  },
+  {
+    "id": 12311,
+    "en": "We couldn't play on the meadow/field",
+    "de": "Wir Konnten nicht auf der Wiese spielen",
+    "groupCode": 1
+  },
+  {
+    "id": 12312,
+    "en": "My son wants to play basketball for a sports club",
+    "de": "Mein Sohn will Basketball für einen Sportverein spielen",
+    "groupCode": 1
+  },
+  {
+    "id": 12313,
+    "en": "We played football on Saturday",
+    "de": "Wir haben am Samstag Fußball gespielt",
+    "groupCode": 1
+  },
+  {
+    "id": 12314,
+    "en": "He played basketball and now he's rather tired",
+    "de": "Er hat Basketball gespielt und jetzt ist er ziemlich müde",
+    "groupCode": 1
+  },
+  {
+    "id": 12315,
+    "en": "Why do your legs hurt? I played football yesterday",
+    "de": "Warum tun dir die Beine weh? Ich habe gestern Fußball gespielt",
+    "groupCode": 1
+  },
+  {
+    "id": 12316,
+    "en": "Did you (plural) play on the meadow/field on Sunday?",
+    "de": "Habt ihr am Sonntag auf der Wiese gespielt?",
     "groupCode": 1
   }
 ]

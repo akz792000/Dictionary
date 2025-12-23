@@ -10152,8 +10152,8 @@
   },
   {
     "id": 4665,
-    "fa": "در یک شنونده رویداد Spring، اگر متد همزمان باشد، Spring بلافاصله اجرا می کند. اگر ناهمزمان باشد، Spring آن را در یک مخزن نخ (thread pool) زمانبندی می کند و زمانبندی اتفاق میافتد بلافاصله. با این حال، از نظر فنی، شنونده ممکن است شروع به اجرا کند قبل از اتمام نخ فعلی، بنابراین هیچ تضمین ۱۰۰٪ وجود ندارد که شنونده اجرا خواهد شد بعد از نخ فعلی",
-    "en": "In a Spring event listener, if the method is synchronous, Spring executes immediately. If it's asynchronous, Spring schedules it on a thread pool, and the scheduling happens immediately. However, technically the listener might start executing before the current thread finishes, so there is no 100% guarantee the listener will run after the current thread",
+    "fa": "در یک شنونده رویداد Spring، اگر متد همزمان باشد، Spring بلافاصله اجراش می کند. اگر ناهمزمان باشد، Spring در یک مخزن نخ (thread pool) زمانبندیش می کند و زمانبندی اتفاق میافتد بلافاصله. با این حال، از نظر فنی، شنونده ممکن است شروع به اجرا کند قبل از اتمام نخ فعلی، بنابراین هیچ تضمین ۱۰۰٪ وجود ندارد که شنونده اجرا خواهد شد بعد از نخ فعلی",
+    "en": "In a Spring event listener, if the method is synchronous, Spring executes it immediately. If it's asynchronous, Spring schedules it on a thread pool, and the scheduling happens immediately. However, technically, the listener might start executing before the current thread finishes, so there is no 100% guarantee the listener will run after the current thread",
     "desc": "✔ Summary\nSituation\tVoice\tExample\nTalking generally about program behavior\tActive\t“The listener executes.”\nEmphasizing that Spring triggers it\tPassive\t“The listener is executed by Spring.”",
     "groupCode": 0
   },
@@ -10709,13 +10709,13 @@
   },
   {
     "id": 4756,
-    "fa": "اگر شما دارید نقشه می کشی آن را انجام دهی در تمام طول پرواز، لطفاً همین الان به من بگویید تا من بتوانم یک آرامبخش مصرف کنم",
+    "fa": "اگر شما دارید نقشه می کشی آن را انجام دهی برای تمام طول پرواز، لطفاً الان به من بگو تا من بتوانم یک آرامبخش مصرف کنم",
     "en": "If you're planning on doing that for the entire flight, please tell me now so I can take a sedative",
     "groupCode": 0
   },
   {
     "id": 4757,
-    "fa": "برف می بارد بی وقفه در تهران برای نزدیک به بیست ساعت. من ندیده ام یک صحنه ای مانند این نزدیک در حداقل ده سال. خدا را شکر",
+    "fa": "برف می بارد بی وقفه در تهران برای نزدیک به ۲۰ ساعت. من ندیده ام یک صحنه ای مانند این نزدیک در حداقل ده سال. خدا را شکر",
     "en": "It's been snowing nonstop in Tehran for nearly 20 hours. I haven't seen a scene like this up close in at least ten years. Thank God",
     "groupCode": 0
   },
@@ -10745,7 +10745,7 @@
   },
   {
     "id": 4762,
-    "fa": "آیا عبور و مرور (ترانزیت) موجود است اینجا 24 ساعته در روز؟",
+    "fa": "آیا عبور و مرور (ترانزیت) موجود است اینجا 24 ساعته یک روز؟",
     "en": "Is transit available here 24 hours a day?",
     "groupCode": 0
   },
@@ -10777,6 +10777,90 @@
     "id": 4767,
     "fa": "آینده شرکت در خطر است، بنابراین هر تصمیمی اهمیت دارد",
     "en": "The future of the company is at stake, so every decision matters",
+    "groupCode": 0
+  },
+  {
+    "id": 4768,
+    "fa": "یا تو ریاضی افتضاحی یا تا تو قصد داری بمیری در دو ثانیه",
+    "en": "Either you suck at math or you're gonna die in two seconds",
+    "groupCode": 0
+  },
+  {
+    "id": 4769,
+    "fa": "شرکت به طور بدی بود در نیاز تجدید ساختار زمانیکه او بر عهده گرفت",
+    "en": "The firm was badly in need of restructuring when he took over",
+    "groupCode": 0
+  },
+  {
+    "id": 4770,
+    "fa": "جذب جذابیتش (افسون) نشو (مرد)، اون بی رحمه",
+    "en": "Don't be taken in by his charm, he's ruthless",
+    "groupCode": 0
+  },
+  {
+    "id": 4771,
+    "fa": "او (زن) جذب (درک) کرد مرا کاملاً با داستانش",
+    "en": "She took me in completely with her story",
+    "groupCode": 0
+  },
+  {
+    "id": 4772,
+    "fa": "هواپیما پرواز (بلند) خواهد کرد در چهار ساعت",
+    "en": "The plane will take off in four hours",
+    "groupCode": 0
+  },
+  {
+    "id": 4773,
+    "fa": "من خیلی خوب نیستم در والیبال. من فقط اخیراً شروعش کردم",
+    "en": "I'm not very good at volleyball. I only took it up recently",
+    "groupCode": 0
+  },
+  {
+    "id": 4774,
+    "fa": "او (زن) به مادرش (قیافه) رفته",
+    "en": "She takes after her mother",
+    "groupCode": 0
+  },
+  {
+    "id": 4775,
+    "fa": "دندانپزشک باید بیرون بکشد این دندان را",
+    "en": "The dentist has to take out this tooth",
+    "groupCode": 0
+  },
+  {
+    "id": 4776,
+    "fa": "من می توانم یادداشت کنم پیام هایی که می آیند داخل",
+    "en": "I can take down the messages that come in",
+    "groupCode": 0
+  },
+  {
+    "id": 4777,
+    "fa": "قبول نکنید مسئولیت های بیشتری را که شما می توانید هندل کنید",
+    "en": "Don't take on more responsibilities that you can handle",
+    "groupCode": 0
+  },
+  {
+    "id": 4778,
+    "fa": "هیپنوتیزم کمکش (زن) کرد آرام باشد",
+    "en": "Hypnosis /hɪpˈnoʊsəs/ helped her relax",
+    "groupCode": 0
+  },
+  {
+    "id": 4779,
+    "fa": "چرا متقاعد نمی کنی او (مرد) را تا بیاید به مهمانی؟",
+    "en": "Why don't you get him to come to the party?",
+    "groupCode": 0
+  },
+  {
+    "id": 4780,
+    "fa": "مراقب باشید، رانندگی با سرعت زیاد در این شرایط می تواند مرگبار باشد",
+    "en": "Be careful, Driving too fast in these conditions can be fatal",
+    "groupCode": 0
+  },
+  {
+    "id": 4781,
+    "fa": "او (مرد) ساکت و کم حرف است",
+    "en": "He's quiet and reserved",
     "groupCode": 0
   }
 ]
