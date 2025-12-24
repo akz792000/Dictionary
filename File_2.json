@@ -13066,6 +13066,7 @@
     "id": 12142,
     "en": "In this supermarket the vegetables are the cheapest",
     "de": "In diesem Supermarkt ist das Gemüse am billigsten",
+    "desc": "Explanation\n\nGemüse is an uncountable noun in German.\n\nIt has no separate singular or plural form.\n\nYou use quantity words instead:\n\nExamples:\n\nviel Gemüse (a lot of vegetables)\n\netwas Gemüse (some vegetables)\n\nGemüsesorten (types of vegetables)\n\nSo:\n✔ das Gemüse\n✔ viel Gemüse\n✘ die Gemüse (incorrect)",
     "groupCode": 1
   },
   {
@@ -13976,7 +13977,7 @@
   },
   {
     "id": 12292,
-    "en": "I already have something to do (intend/plan) his evening. I'm going into the concert",
+    "en": "I already have something to do (intend/plan) this evening. I'm going into the concert",
     "de": "Ich habe heute Abend schon etwas vor. Ich gehe ins Konzert",
     "groupCode": 1
   },
@@ -14042,7 +14043,7 @@
   },
   {
     "id": 12303,
-    "en": "Mice are the fastest, we almost never see them",
+    "en": "Mice run the fastest, we almost never see them",
     "de": "Die Mäuse laufen am schnellsten, wir sehen sie fast nie",
     "groupCode": 1
   },
@@ -14091,7 +14092,7 @@
   {
     "id": 12311,
     "en": "We couldn't play on the meadow/field",
-    "de": "Wir Konnten nicht auf der Wiese spielen",
+    "de": "Wir konnten nicht auf der Wiese spielen",
     "groupCode": 1
   },
   {
@@ -14122,6 +14123,90 @@
     "id": 12316,
     "en": "Did you (plural) play on the meadow/field on Sunday?",
     "de": "Habt ihr am Sonntag auf der Wiese gespielt?",
+    "groupCode": 1
+  },
+  {
+    "id": 12317,
+    "en": "I want to pay my debts",
+    "de": "Ich will meine Schulden bezahlen",
+    "groupCode": 1
+  },
+  {
+    "id": 12318,
+    "en": "I need a tissue",
+    "de": "Ich brauche ein Taschentuch",
+    "groupCode": 1
+  },
+  {
+    "id": 12319,
+    "en": "Do you like eating mushrooms? Yes, I eat mushrooms almost every day",
+    "de": "Isst du gern Pilze? Ja, ich esse Pilze fast jeden Tag",
+    "groupCode": 1
+  },
+  {
+    "id": 12320,
+    "en": "Do you like eating onions?",
+    "de": "Isst du gern Zwiebeln?",
+    "groupCode": 1
+  },
+  {
+    "id": 12321,
+    "en": "What did your father grill?",
+    "de": "Was hat dein Vater gegrillt?",
+    "groupCode": 1
+  },
+  {
+    "id": 12322,
+    "en": "Did you play football on Saturday evening?",
+    "de": "Hast du am Samstagabend Fußball gespielt?",
+    "groupCode": 1
+  },
+  {
+    "id": 12323,
+    "en": "We unfortunately already had something planned on Saturday evening",
+    "de": "Wir hatten am Samstagabend leider schon etwas vor",
+    "groupCode": 1
+  },
+  {
+    "id": 12324,
+    "en": "I am a vegetarian and never eat meat",
+    "de": "Ich bin Vegetarierin/Vegetarier und esse nie Fleisch",
+    "groupCode": 1
+  },
+  {
+    "id": 12325,
+    "en": "Where were you? We grilled burgers yesterday. I had something planned. My grandpa had birthday",
+    "de": "Wo warst du? Wir haben gestern Burger gegrillt. Ich hatte etwas vor. Mein Opa hatte Geburtstag",
+    "groupCode": 1
+  },
+  {
+    "id": 12326,
+    "en": "My dad has a new grill, he always wants to grill",
+    "de": "Mein Papa hat einen neuen Grill, er will immer grillen",
+    "groupCode": 1
+  },
+  {
+    "id": 12327,
+    "en": "Where was the party?",
+    "de": "Wo warst das Fest?",
+    "groupCode": 1
+  },
+  {
+    "id": 12328,
+    "en": "The party was great entirely!",
+    "de": "Das Fest war ganz toll",
+    "groupCode": 1
+  },
+  {
+    "id": 12329,
+    "en": "We can play cards and drink cahmpagne beforehand",
+    "de": "Wir können vorher Karten spielen und Sekt trinken",
+    "groupCode": 1
+  },
+  {
+    "id": 12330,
+    "en": "My mom made a sandwich for my brother",
+    "de": "Meine Mama hat meinem Bruder ein Sandwich gemacht",
     "groupCode": 1
   }
 ]
