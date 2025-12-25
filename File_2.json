@@ -12615,7 +12615,7 @@
   },
   {
     "id": 12068,
-    "en": "Do your hands hurt, or do you not want to carry anything?",
+    "en": "Do your hands hurt, or do you want to carry nothing?",
     "de": "Tun dir die Hände weh oder willst du nichts tragen?",
     "groupCode": 1
   },
@@ -13065,7 +13065,7 @@
   {
     "id": 12142,
     "en": "In this supermarket the vegetables are the cheapest",
-    "de": "In diesem Supermarkt ist das Gemüse am billigsten",
+    "de": "In diesem Supermarkt ist die Gemüse am billigsten",
     "desc": "Explanation\n\nGemüse is an uncountable noun in German.\n\nIt has no separate singular or plural form.\n\nYou use quantity words instead:\n\nExamples:\n\nviel Gemüse (a lot of vegetables)\n\netwas Gemüse (some vegetables)\n\nGemüsesorten (types of vegetables)\n\nSo:\n✔ das Gemüse\n✔ viel Gemüse\n✘ die Gemüse (incorrect)",
     "groupCode": 1
   },
@@ -13480,6 +13480,7 @@
     "id": 12210,
     "en": "After the big dinner, I was right full",
     "de": "Nach dem großen Abendessen war ich richtig satt",
+    "desc": "✅ Use satt for meals\n\n⚠\uFE0F Use voll mainly for objects",
     "groupCode": 1
   },
   {
@@ -13723,6 +13724,7 @@
     "id": 12250,
     "en": "Be tidy, don't put (lay) the magazines on the bed",
     "de": "Sei ordentlich, leg die Zeitschriften nicht auf das Bett",
+    "desc": "„Leg die Zeitschriften nicht auf das Bett“ → normal, neutral.\n„Leg nicht die Zeitschriften auf das Bett“ → emphasizes not the magazines specifically.",
     "groupCode": 1
   },
   {
@@ -13795,6 +13797,7 @@
     "id": 12262,
     "en": "Don't talk to me now",
     "de": "Rede jetzt nicht mit mir",
+    "desc": "„Rede jetzt nicht mit mir“ is more natural and commonly used.\n„Rede nicht jetzt mit mir“ is correct but only used to strongly contrast now vs. later.",
     "groupCode": 1
   },
   {
@@ -14043,7 +14046,7 @@
   },
   {
     "id": 12303,
-    "en": "Mice run the fastest, we almost never see them",
+    "en": "The mice run the fastest, we almost never see them",
     "de": "Die Mäuse laufen am schnellsten, wir sehen sie fast nie",
     "groupCode": 1
   },
@@ -14177,6 +14180,7 @@
     "id": 12325,
     "en": "Where were you? We grilled burgers yesterday. I had something planned. My grandpa had birthday",
     "de": "Wo warst du? Wir haben gestern Burger gegrillt. Ich hatte etwas vor. Mein Opa hatte Geburtstag",
+    "desc": "Explanation\n\nIn German, der Burger (singular)\n\ndie Burger (plural)",
     "groupCode": 1
   },
   {
@@ -14207,6 +14211,126 @@
     "id": 12330,
     "en": "My mom made a sandwich for my brother",
     "de": "Meine Mama hat meinem Bruder ein Sandwich gemacht",
+    "groupCode": 1
+  },
+  {
+    "id": 12331,
+    "en": "Everything is strange/foreign to me",
+    "de": "Alles ist mir fremd",
+    "groupCode": 1
+  },
+  {
+    "id": 12332,
+    "en": "The apple lays in the basket",
+    "de": "Der Apfel liegt im Korb",
+    "groupCode": 1
+  },
+  {
+    "id": 12333,
+    "en": "He climbs the stairs",
+    "de": "Er steigt die Treppe hinauf",
+    "groupCode": 1
+  },
+  {
+    "id": 12334,
+    "en": "\n 1.to get in / on (vehicle) \n 2.to get out / off (vehicle) \n 3.to change (transportation) \n 4.to climb up \n 5.to climb down / go down \n 6.to rise / go up (literally or figuratively)",
+    "de": "\n 1.einsteigen \n 2.aussteigen \n 3.umsteigen \n 4.hinaufsteigen \n 5.hinuntersteigen \n 6.aufsteigen",
+    "groupCode": 1
+  },
+  {
+    "id": 12335,
+    "en": "I heard you! You were outside my classroom and were speaking rather loudly",
+    "de": "Ich habe dich gehört! Du warst vor meinem Klassenzimmer und hast ziemlich laut gesprochen",
+    "groupCode": 1
+  },
+  {
+    "id": 12336,
+    "en": "Sometimes I'm afraid that I'm a bad teacher",
+    "de": "Manchmal habe ich Angst, dass ich eine schlechte Lehrerin bin",
+    "groupCode": 1
+  },
+  {
+    "id": 12337,
+    "en": "You always stay longer and help your students",
+    "de": "Du bleibst immer länger und hilfst deinem Schülern",
+    "groupCode": 1
+  },
+  {
+    "id": 12338,
+    "en": "She knocks on the door",
+    "de": "Sie klopft an die Tür",
+    "groupCode": 1
+  },
+  {
+    "id": 12339,
+    "en": "My friends were with me on Sunday evening",
+    "de": "Meine Freunde waren am Sonntagabend bei mir",
+    "groupCode": 1
+  },
+  {
+    "id": 12340,
+    "en": "Do you want to cook with our grandson tomorrow?",
+    "de": "Willst du morgen mit unserem Enkel kochen?",
+    "groupCode": 1
+  },
+  {
+    "id": 12341,
+    "en": "My mom gives me her apron",
+    "de": "Meine Mama gibt mir ihre Schürze",
+    "groupCode": 1
+  },
+  {
+    "id": 12342,
+    "en": "We like eating very cucumber salad",
+    "de": "Wir essen sehr gern Gurkensalat",
+    "groupCode": 1
+  },
+  {
+    "id": 12343,
+    "en": "How much did the beer mug cost?",
+    "de": "Wie viel hat der Bierkrug gekostet?",
+    "groupCode": 1
+  },
+  {
+    "id": 12344,
+    "en": "Was it full (crowded) at (on) the flea market?",
+    "de": "War es voll auf dem Flohmarkt?",
+    "groupCode": 1
+  },
+  {
+    "id": 12345,
+    "en": "We bought six glasses at (on) the flea market",
+    "de": "Wir haben sechs Gläser auf dem Flohmarkt gekauft",
+    "groupCode": 1
+  },
+  {
+    "id": 12346,
+    "en": "What did your brother buy?",
+    "de": "Was hat dein Bruder gekauft?",
+    "groupCode": 1
+  },
+  {
+    "id": 12347,
+    "en": "Mia and Tim are traveling to Bonn with their baby to the festival",
+    "de": "Mia und Tim reisen mit ihrem Baby nach Bonn zu einem Fest",
+    "groupCode": 1
+  },
+  {
+    "id": 12348,
+    "en": "Mia and Tim danced with their child",
+    "de": "Mia und Tim haben mit ihrem Kind getanzt",
+    "groupCode": 1
+  },
+  {
+    "id": 12349,
+    "en": "Were you at the festival yesterday? No, I was at a concert",
+    "de": "Warst du gestern auf dem Fest? Nein, ich war auf einem Konzert",
+    "groupCode": 1
+  },
+  {
+    "id": 12350,
+    "en": "My children had a cold",
+    "de": "Meine Kinder hatten eine Erkältung",
     "groupCode": 1
   }
 ]

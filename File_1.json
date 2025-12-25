@@ -5398,6 +5398,7 @@
     "id": 3883,
     "fa": "چه چیزی می توانست امکان داشته باشد؟",
     "en": "What could it possibly be?",
+    "desc": "Correct: “What could it possibly be?” ✅\nIncorrect: “What could it be possible?” ❌\n\nReason: possibly (adverb) correctly modifies be; be possible doesn’t work in this structure.",
     "groupCode": 0
   },
   {
@@ -10715,8 +10716,8 @@
   },
   {
     "id": 4757,
-    "fa": "برف می بارد بی وقفه در تهران برای نزدیک به ۲۰ ساعت. من ندیده ام یک صحنه ای مانند این نزدیک در حداقل ده سال. خدا را شکر",
-    "en": "It's been snowing nonstop in Tehran for nearly 20 hours. I haven't seen a scene like this up close in at least ten years. Thank God",
+    "fa": "برف می بارد بی وقفه در تهران برای تقریبا ۲۰ ساعت. من ندیده ام هیچ چیز مانند این نزدیک در حداقل ده سال. خدا را شکر",
+    "en": "It’s been snowing nonstop in Tehran for almost 20 hours. I haven't seen anything like this up close in at least ten years. Thank God!",
     "groupCode": 0
   },
   {
@@ -10775,7 +10776,7 @@
   },
   {
     "id": 4767,
-    "fa": "آینده شرکت در خطر است، بنابراین هر تصمیمی اهمیت دارد",
+    "fa": "آینده شرکت در خطر است، بنابراین هر (همه) تصمیمی اهمیت دارد",
     "en": "The future of the company is at stake, so every decision matters",
     "groupCode": 0
   },
@@ -10841,8 +10842,9 @@
   },
   {
     "id": 4778,
-    "fa": "هیپنوتیزم کمکش (زن) کرد آرام باشد",
-    "en": "Hypnosis /hɪpˈnoʊsəs/ helped her relax",
+    "fa": "هیپنوتیزم کمکش (زن) کرد ریلکس شود",
+    "en": "Hypnostism /ˈhɪp.nə.tɪ.zəm/ helped her relax",
+    "desc": "Hypnosis → the state of being highly focused and suggestible (used in therapy).\nFarsi: هیپنوتیزم\n\nHypnostism → the practice or study of hypnosis (rare/archaic).\nFarsi: تمرین یا مطالعه هیپنوتیزم",
     "groupCode": 0
   },
   {
@@ -10867,6 +10869,19 @@
     "id": 4782,
     "fa": "او (مرد) برای مدرسه دیر کرد",
     "en": "He was tardy for school",
+    "groupCode": 0
+  },
+  {
+    "id": 4783,
+    "fa": "تو هستی مثل یک بکر (طبیعی ودست نخورده) و مروارید آب شیرین (تازه)",
+    "en": "You're like a pristine, freshwater pearl",
+    "desc": "“Freshwater pearl” is a compound noun:\n\nfreshwater = adjective describing the type of pearl\n\npearl = the main noun\n\nSo when you say “pristine, freshwater pearl”:\n\npristine → adjective describing the whole compound noun\n\nfreshwater pearl → one single idea, no need for “and”",
+    "groupCode": 0
+  },
+  {
+    "id": 4784,
+    "fa": "پیش بند است یک تکه ای از لباس پوشیده می شود روی لباس های دیگر تا نگه دارد آنها را تمیز هنگام انجام یک کار کثیف یا نامرتب، به خصوص آشپزی",
+    "en": "Apron /ˈeɪprən/ is a piece of clothing worn over the front of other clothes to keep them clean when doing a dirty or messy job, esp. cooking",
     "groupCode": 0
   }
 ]
