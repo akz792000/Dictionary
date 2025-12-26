@@ -13065,7 +13065,7 @@
   {
     "id": 12142,
     "en": "In this supermarket the vegetables are the cheapest",
-    "de": "In diesem Supermarkt ist die Gemüse am billigsten",
+    "de": "In diesem Supermarkt sind die Gemüse am billigsten",
     "desc": "Explanation\n\nGemüse is an uncountable noun in German.\n\nIt has no separate singular or plural form.\n\nYou use quantity words instead:\n\nExamples:\n\nviel Gemüse (a lot of vegetables)\n\netwas Gemüse (some vegetables)\n\nGemüsesorten (types of vegetables)\n\nSo:\n✔ das Gemüse\n✔ viel Gemüse\n✘ die Gemüse (incorrect)",
     "groupCode": 1
   },
@@ -14245,7 +14245,7 @@
   },
   {
     "id": 12336,
-    "en": "Sometimes I'm afraid that I'm a bad teacher",
+    "en": "Sometimes I'm afraid that I'm a bad teacher (female)",
     "de": "Manchmal habe ich Angst, dass ich eine schlechte Lehrerin bin",
     "groupCode": 1
   },
@@ -14257,7 +14257,7 @@
   },
   {
     "id": 12338,
-    "en": "She knocks on the door",
+    "en": "She knocks on (at) the door",
     "de": "Sie klopft an die Tür",
     "groupCode": 1
   },
@@ -14311,14 +14311,14 @@
   },
   {
     "id": 12347,
-    "en": "Mia and Tim are traveling to Bonn with their baby to the festival",
-    "de": "Mia und Tim reisen mit ihrem Baby nach Bonn zu einem Fest",
+    "en": "They are traveling to Bonn with their baby to a festival",
+    "de": "Sie reisen mit ihrem Baby nach Bonn zu einem Fest",
     "groupCode": 1
   },
   {
     "id": 12348,
-    "en": "Mia and Tim danced with their child",
-    "de": "Mia und Tim haben mit ihrem Kind getanzt",
+    "en": "They danced with their child",
+    "de": "Sie haben mit ihrem Kind getanzt",
     "groupCode": 1
   },
   {
@@ -14331,6 +14331,78 @@
     "id": 12350,
     "en": "My children had a cold",
     "de": "Meine Kinder hatten eine Erkältung",
+    "groupCode": 1
+  },
+  {
+    "id": 12351,
+    "en": "Were your friends also in the park on Saturday?",
+    "de": "Waren deine Freunde am Samstag auch im Park?",
+    "groupCode": 1
+  },
+  {
+    "id": 12352,
+    "en": "It was rather warm on Friday",
+    "de": "Es war ziemlich warm am Freitag",
+    "groupCode": 1
+  },
+  {
+    "id": 12353,
+    "en": "Do your sisters play volleyball for a sports club?",
+    "de": "Spielen deine Schwestern Volleyball für einen Sportverein?",
+    "groupCode": 1
+  },
+  {
+    "id": 12354,
+    "en": "My husband grilled burgers, mushrooms, and onions",
+    "de": "Mein Mann hat Burger, Pilze und Zwiebeln gegrillt",
+    "groupCode": 1
+  },
+  {
+    "id": 12355,
+    "en": "Why aren't you eating the onions and mushrooms? Don't you like vegetables?",
+    "de": "Warum isst du die Zwiebeln und die Pilze nicht? Magst du kein Gemüse?",
+    "groupCode": 1
+  },
+  {
+    "id": 12356,
+    "en": "Today a beer mug costs twenty euros. Yesterday it cost ten euros",
+    "de": "Heute kostet der Bierkrug zwanzig Euro. Gestern hat er zehn Euro gekostet",
+    "groupCode": 1
+  },
+  {
+    "id": 12357,
+    "en": "The coat costs less at the flea market than online",
+    "de": "Der Mantel kostet weniger auf dem Flohmarkt als online",
+    "groupCode": 1
+  },
+  {
+    "id": 12358,
+    "en": "The coat looks great, how much did it cost?",
+    "de": "Der Mantel sieht toll aus, wie viel hat er gekostet?",
+    "groupCode": 1
+  },
+  {
+    "id": 12359,
+    "en": "Why do you always have to buy everything four sizes too small?",
+    "de": "Warum musst du immer alles vier Nummern zu klein kaufen?",
+    "groupCode": 1
+  },
+  {
+    "id": 12360,
+    "en": "I find the dress is not too small",
+    "de": "Ich finde das Kleid nicht zu klein",
+    "groupCode": 1
+  },
+  {
+    "id": 12361,
+    "en": "I find the dress is not too small",
+    "de": "Ich finde das Kleid nicht zu klein",
+    "groupCode": 1
+  },
+  {
+    "id": 12362,
+    "en": "Do you always cook with an apron?",
+    "de": "Kochst du immer mit einer Schürze?",
     "groupCode": 1
   }
 ]
