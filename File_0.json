@@ -2374,7 +2374,7 @@
   },
   {
     "id": 393,
-    "fa": "تمام چیزی دارم می گم هست ...",
+    "fa": "تمام (چیزی) من دارم می گم است ...",
     "en": "All I am saying is ...",
     "groupCode": 0
   },
@@ -5377,7 +5377,7 @@
   },
   {
     "id": 886,
-    "fa": "من دیروز برای یک ساعت در آسانسور گیر کردم. کاملا کلافه کننده بود",
+    "fa": "من دیروز برای یک ساعت در آسانسور گیر کردم. نسبتاً کلافه کننده بود",
     "en": "I got stuck in the elevator for an hour yesterday. It was quite frustrating",
     "groupCode": 0
   },
@@ -7563,7 +7563,7 @@
   },
   {
     "id": 1244,
-    "fa": "این جریان مداوم انرژی کاملاً هیجان انگیز است",
+    "fa": "این جریان مداوم انرژی نسبتاً هیجان انگیز است",
     "en": "This continuous flow of energy is quite thrilling",
     "groupCode": 0
   },
@@ -8660,7 +8660,7 @@
   },
   {
     "id": 1425,
-    "fa": "اسم دوست داشتنی است",
+    "fa": "هست یک اسم دوست داشتنی",
     "en": "It's a lovely name",
     "groupCode": 0
   },
@@ -8897,7 +8897,7 @@
   },
   {
     "id": 1464,
-    "fa": "این کمترین کاری است که می توانستم برای قدردانی انجام دهم",
+    "fa": "این کمترین (کاری) است (که) من می توانستم برای قدردانی انجام دهم",
     "en": "This is the least, I could do in appreciation",
     "groupCode": 0
   },
@@ -13560,7 +13560,7 @@
   },
   {
     "id": 2232,
-    "fa": "چگونه می توانم بگم آیا یک مرد واقعاً من را دوست دارد؟ او شق خواهد کرد",
+    "fa": "چگونه می توانم من بگم اگر یک مرد واقعاً من را دوست دارد؟ او (یک) شق خواهد داشت",
     "en": "How can I tell if a man is really into me? He'll have an erection",
     "groupCode": 0
   },
@@ -15595,6 +15595,7 @@
     "id": 2566,
     "fa": "من یک مقدار قابل توجهی از بودجه ها (وجوه) را خرج گاز می کنم",
     "en": "I expend a considerable amount of funds on gas",
+    "desc": "Spend is the normal, everyday verb used for money, time, or effort.\n\nExpend is more formal and often used in academic, official, or technical writing. It can also sound slightly deliberate or heavy.",
     "groupCode": 0
   },
   {
@@ -16857,7 +16858,7 @@
   },
   {
     "id": 2773,
-    "fa": "همه لباسه ای قدیمی ام (کهنه ام) را بخشیدم (دادم رفت)",
+    "fa": "من بخشیدم (دادم رفت) همه لباسه ای قدیمی ام (کهنه ام) را",
     "en": "I gave all my old clothes away",
     "desc": "\n\"I gave all my old clothes away\": Indicates giving away every piece of old clothing.\n\"I gave all of my old clothes away\": Emphasizes the completeness of the action, suggesting every single item was given away.",
     "groupCode": 0
@@ -17374,7 +17375,7 @@
   },
   {
     "id": 2858,
-    "fa": "ما یک توانایی عجیبی (عجیب و غریب) برای جلوگیری (برگردون) از بحران داریم",
+    "fa": "ما یک توانایی عجیبی (عجیب و غریب) تا جلوگیری (برگردون) از بحران داریم",
     "en": "We have an uncanny ability to avert crises",
     "desc": "The plural of \"crisis\" is \"crises.\"",
     "groupCode": 0
@@ -18079,7 +18080,7 @@
   },
   {
     "id": 2973,
-    "fa": "برادرم و من کاملا با هم خوب هستیم",
+    "fa": "برادرم و من نسبتاً با هم خوب هستیم",
     "en": "My brother and I get along quite well",
     "groupCode": 0
   },

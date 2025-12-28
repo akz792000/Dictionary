@@ -10199,7 +10199,7 @@
   },
   {
     "id": 11673,
-    "en": "The film was rather short",
+    "en": "The film was quite short",
     "de": "Der Film war ziemlich Kurz",
     "groupCode": 1
   },
@@ -10211,7 +10211,7 @@
   },
   {
     "id": 11675,
-    "en": "The man was rather unfriendly",
+    "en": "The man was quite unfriendly",
     "de": "Der Man war ziemlich unfreundlich",
     "groupCode": 1
   },
@@ -11625,7 +11625,7 @@
   },
   {
     "id": 11906,
-    "en": "I'm not going on Monday, but (rather) on Tuesday",
+    "en": "I'm not going on Monday, but (negative statement) on Tuesday",
     "de": "Ich gehe nicht am Montag, sondern am Dienstag",
     "groupCode": 1
   },
@@ -11643,7 +11643,7 @@
   },
   {
     "id": 11909,
-    "en": "\n 1.I don't drink coffee, but (rather) tea \n 2.I drink coffee, but no tea",
+    "en": "\n 1.I don't drink coffee, but (negative statement) tea \n 2.I drink coffee, but no tea",
     "de": "\n 1.Ich trinke keinen Kaffee, sondern Tee \n 2.Ich trinke Kaffee, aber keinen Tee",
     "desc": "“sondern” = “but rather / instead”\n\nYou use sondern when the first part of the sentence is negative (with nicht, kein, or nie) and you want to correct it with something else.",
     "groupCode": 1
@@ -13207,7 +13207,7 @@
   {
     "id": 12165,
     "en": "The old car drives very slowly",
-    "de": "Das alte Auto fährt sehr langsam",
+    "de": "\n 1.Das alte Auto fährt sehr langsam \n 2.Der alte Wagen fährt sehr langsam",
     "groupCode": 1
   },
   {
@@ -13904,7 +13904,7 @@
   },
   {
     "id": 12280,
-    "en": "What do you (plural) plan tomorrow?",
+    "en": "What do you (plural) have planned tomorrow?",
     "de": "Was habt ihr morgen vor?",
     "groupCode": 1
   },
@@ -14076,13 +14076,13 @@
   },
   {
     "id": 12308,
-    "en": "The bottles were completely empty",
+    "en": "The bottles were total empty",
     "de": "Die Flaschen waren total leer",
     "groupCode": 1
   },
   {
     "id": 12309,
-    "en": "It was rather warm on Friday",
+    "en": "It was quite warm on Friday",
     "de": "Es war ziemlich warm am Freitag",
     "groupCode": 1
   },
@@ -14112,7 +14112,7 @@
   },
   {
     "id": 12314,
-    "en": "He played basketball and now he's rather tired",
+    "en": "He played basketball and now he's quite tired",
     "de": "Er hat Basketball gespielt und jetzt ist er ziemlich müde",
     "groupCode": 1
   },
@@ -14191,13 +14191,13 @@
   },
   {
     "id": 12327,
-    "en": "Where was the party?",
+    "en": "Where was the feast/festival?",
     "de": "Wo warst das Fest?",
     "groupCode": 1
   },
   {
     "id": 12328,
-    "en": "The party was great entirely!",
+    "en": "The feast/festival was great entirely!",
     "de": "Das Fest war ganz toll",
     "groupCode": 1
   },
@@ -14239,7 +14239,7 @@
   },
   {
     "id": 12335,
-    "en": "I heard you! You were outside my classroom and were speaking rather loudly",
+    "en": "I heard you! You were outside my classroom and were speaking quite loudly",
     "de": "Ich habe dich gehört! Du warst vor meinem Klassenzimmer und hast ziemlich laut gesprochen",
     "groupCode": 1
   },
@@ -14311,7 +14311,7 @@
   },
   {
     "id": 12347,
-    "en": "They are traveling to Bonn with their baby to a festival",
+    "en": "They are traveling to Bonn with their baby to a feast/festival",
     "de": "Sie reisen mit ihrem Baby nach Bonn zu einem Fest",
     "groupCode": 1
   },
@@ -14323,7 +14323,7 @@
   },
   {
     "id": 12349,
-    "en": "Were you at the festival yesterday? No, I was at a concert",
+    "en": "Were you at the feast/festival yesterday? No, I was at a concert",
     "de": "Warst du gestern auf dem Fest? Nein, ich war auf einem Konzert",
     "groupCode": 1
   },
@@ -14341,7 +14341,7 @@
   },
   {
     "id": 12352,
-    "en": "It was rather warm on Friday",
+    "en": "It was quite warm on Friday",
     "de": "Es war ziemlich warm am Freitag",
     "groupCode": 1
   },
@@ -14359,13 +14359,13 @@
   },
   {
     "id": 12355,
-    "en": "Why aren't you eating the onions and mushrooms? Don't you like vegetables?",
+    "en": "Why aren't you eating the onions and the mushrooms? Don't you like a vegetable?",
     "de": "Warum isst du die Zwiebeln und die Pilze nicht? Magst du kein Gemüse?",
     "groupCode": 1
   },
   {
     "id": 12356,
-    "en": "Today a beer mug costs twenty euros. Yesterday it cost ten euros",
+    "en": "Today the beer mug costs twenty euros. Yesterday it cost ten euros",
     "de": "Heute kostet der Bierkrug zwanzig Euro. Gestern hat er zehn Euro gekostet",
     "groupCode": 1
   },
@@ -14389,7 +14389,7 @@
   },
   {
     "id": 12360,
-    "en": "I find the dress is not too small",
+    "en": "I don't find the dress too small",
     "de": "Ich finde das Kleid nicht zu klein",
     "groupCode": 1
   },
@@ -14403,6 +14403,42 @@
     "id": 12362,
     "en": "Do you always cook with an apron?",
     "de": "Kochst du immer mit einer Schürze?",
+    "groupCode": 1
+  },
+  {
+    "id": 12363,
+    "en": "A hair lies the table",
+    "de": "Ein Haar liegt auf dem Tisch",
+    "groupCode": 1
+  },
+  {
+    "id": 12364,
+    "en": "We have spaces free again",
+    "de": "Wir haben wieder Plätze frei",
+    "groupCode": 1
+  },
+  {
+    "id": 12365,
+    "en": "\n 1.rarely \n 2.but (negative statement) \n 3.quite \n 4.even",
+    "de": "\n 1.selten \n 2.sondern \n 3.ziemlich \n 4.sogar",
+    "groupCode": 1
+  },
+  {
+    "id": 12366,
+    "en": "\n 1.Shelf \n 2.Drawer \n 3.Closet",
+    "de": "\n 1.Regal \n 2.Kommode \n 3.Schrank",
+    "groupCode": 1
+  },
+  {
+    "id": 12367,
+    "en": "What would you do if you became rich?",
+    "de": "Was würdest du machen, wenn du reich wirst?",
+    "groupCode": 1
+  },
+  {
+    "id": 12368,
+    "en": "Can I use your computer?",
+    "de": "Kann ich deinen Computer benutzen?",
     "groupCode": 1
   }
 ]

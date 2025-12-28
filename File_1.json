@@ -1222,7 +1222,7 @@
   },
   {
     "id": 3200,
-    "fa": "شما خیلی مناسب (گزینه عالی) خواهید بود (فرضی) برای سمت مهندس نرم افزار",
+    "fa": "شما خیلی مناسب (یک گزینه عالی) خواهید بود (فرضی) برای سمت مهندس نرم افزار",
     "en": "You'd be a great fit for Software Engineer position",
     "groupCode": 0
   },
@@ -1314,7 +1314,7 @@
   },
   {
     "id": 3215,
-    "fa": "من احساس بی طرفی می کنم کاملا در مورد شیرینی های",
+    "fa": "من احساس بی طرفی می کنم نسبتاً در مورد شیرینی های",
     "en": "I feel quite neutral about sweets",
     "groupCode": 0
   },
@@ -1474,7 +1474,7 @@
   },
   {
     "id": 3241,
-    "fa": "ادرارم کاملا کف کرده است. آیا بدان معنی است که کلیه هایم آسیب دیده؟",
+    "fa": "ادرارم نسبتاً کف کرده است. آیا بدان معنی است که کلیه هایم آسیب دیده؟",
     "en": "My urine has been quite foamy. Does it mean that my kidneys are damaged?",
     "groupCode": 0
   },
@@ -7092,7 +7092,7 @@
   },
   {
     "id": 4161,
-    "fa": "این نقطه عطف بزرگی (عمده) است نه تنها برای من شخصاً، بلکه برای هر کسی که هست قسمتی از این سفر",
+    "fa": "این یک نقطه عطف بزرگی (عمده) است نه تنها برای من شخصاً، بلکه برای هر کسی که هست قسمتی از این سفر",
     "en": "This is a major milestone not just for me personally, but for everyone who has been part of this journey",
     "groupCode": 0
   },
@@ -8462,7 +8462,7 @@
   },
   {
     "id": 4387,
-    "fa": "ما سر کار قهر کردیم اما سپس ما آشتی (ساختیم) کردیم",
+    "fa": "ما سر کار (یک) قهر کردیم اما سپس ما آشتی (ساختیم) کردیم",
     "en": "\n 1.We had a falling-out over work, but then we made up \n 2.We had a falling-out over work, but then we made amends (formal)",
     "groupCode": 0
   },
@@ -9543,7 +9543,7 @@
   },
   {
     "id": 4564,
-    "fa": "ما کاملاً مشغول هستیم در بخش پشتیبانی",
+    "fa": "ما نسبتاً مشغول هستیم در بخش پشتیبانی",
     "en": "We're quite busy on the backend",
     "groupCode": 0
   },
@@ -10515,7 +10515,7 @@
   },
   {
     "id": 4724,
-    "fa": "من فکر نمی کنم مردم زیادی بدونن، برای اینکه من حس میکنم من می تونم پوشش بدمش کاملاً خوب",
+    "fa": "من فکر نمی کنم مردم زیادی بدونن، برای اینکه من حس میکنم من می تونم پوشش بدمش نسبتاً خوب",
     "en": "I don't think many people know, because I feel like I can cover it quite well",
     "desc": "I feel like…\timpression, desire, idea\t“I feel like we should leave.”\nI feel…\tphysical/emotional feeling\t“I feel nervous.”",
     "groupCode": 0
@@ -10882,6 +10882,48 @@
     "id": 4784,
     "fa": "پیش بند است یک تکه ای از لباس پوشیده می شود روی لباس های دیگر تا نگه دارد آنها را تمیز هنگام انجام یک کار کثیف یا نامرتب، به خصوص آشپزی",
     "en": "Apron /ˈeɪprən/ is a piece of clothing worn over the front of other clothes to keep them clean when doing a dirty or messy job, esp. cooking",
+    "groupCode": 0
+  },
+  {
+    "id": 4785,
+    "fa": "هر چه مکالمات بیشتری شما داشته باشید، اعتماد به نفس بیشتری شما احساس خواهی کرد",
+    "en": "The more conversations you have, the more confident you'll feel",
+    "groupCode": 0
+  },
+  {
+    "id": 4786,
+    "fa": "پروکسی معکوس ممکن است مسدود کند درخواست ها را",
+    "en": "The reverse proxy may be blocking/choking requests",
+    "groupCode": 0
+  },
+  {
+    "id": 4787,
+    "fa": "من کاملاً از پاسخ او (مرد) گیج شده بودم",
+    "en": "I was completely baffled by his response",
+    "groupCode": 0
+  },
+  {
+    "id": 4788,
+    "fa": "من طراحی کردم این سوال را مخصوصاً برای بخش بک اند، اما من کمی پیچش (نیشگون) دادم",
+    "en": "I tailored this question specifically for the backend, but I tweaked it a little bit",
+    "groupCode": 0
+  },
+  {
+    "id": 4789,
+    "fa": "شما می توانید ارزیابی کنید کاندیدای خود را در طول مصاحبه",
+    "en": "You can gauge your candidate during the interview",
+    "groupCode": 0
+  },
+  {
+    "id": 4790,
+    "fa": "روکش دندانم افتاد دیشب",
+    "en": "My dental crown fell out last night",
+    "groupCode": 0
+  },
+  {
+    "id": 4791,
+    "fa": "میشه شما به من بگی چند تا مریض هستن جلوتر از من یا پشت من؟",
+    "en": "Can you tell me how many patients are ahead of me or behind me?",
     "groupCode": 0
   }
 ]
