@@ -10904,7 +10904,7 @@
   },
   {
     "id": 4788,
-    "fa": "من طراحی کردم این سوال را مخصوصاً برای بخش بک اند، اما من کمی پیچش (نیشگون) دادم",
+    "fa": "من طراحی کردم این سوال را مخصوصاً برای بک اند، اما من پیچش (نیشگون) دادم یک کمی",
     "en": "I tailored this question specifically for the backend, but I tweaked it a little bit",
     "groupCode": 0
   },
@@ -10924,6 +10924,18 @@
     "id": 4791,
     "fa": "میشه شما به من بگی چند تا مریض هستن جلوتر از من یا پشت من؟",
     "en": "Can you tell me how many patients are ahead of me or behind me?",
+    "groupCode": 0
+  },
+  {
+    "id": 4791,
+    "fa": "آن بهانه به نظر رسید ریاکار (حیله گر) و من را قانع نکرد",
+    "en": "That excuse sounded phony and didn't convince me",
+    "groupCode": 0
+  },
+  {
+    "id": 4792,
+    "fa": "\n 1.کیک را برش بده  \n 2.کاغذ را ببر \n 3.طناب را ببر \n 4.درخت را قطع کن",
+    "en": "\n 1.Slice the cake \n 2.Snip the paper \n 3.Server the rope \n 4.Chop the tree",
     "groupCode": 0
   }
 ]

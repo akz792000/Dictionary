@@ -8548,7 +8548,7 @@
   {
     "id": 11404,
     "en": "Could you (formal) please bring me a coffee? Yes, it's coming immediately",
-    "de": "Konnten Sie mir bitte einen Kaffee bringen? Ja, kommt sofort",
+    "de": "Könnten Sie mir bitte einen Kaffee bringen? Ja, kommt sofort",
     "desc": "Subject + bringen + Dative (to whom) + Accusative (what)\n\nExample:\n\nIch bringe dir ein Buch.\n→ I bring you a book.\n→ „dir“ = Dative (to you)\n→ „ein Buch“ = Accusative (the book)",
     "groupCode": 1
   },
@@ -8765,7 +8765,7 @@
   {
     "id": 11439,
     "en": "Could you (formal) please tell (say) me what the homeworks is?",
-    "de": "Konnten Sie mir bitte sagen, was die Hausaufgaben sind?",
+    "de": "Könnten Sie mir bitte sagen, was die Hausaufgaben sind?",
     "groupCode": 1
   },
   {
@@ -8826,7 +8826,7 @@
   {
     "id": 11449,
     "en": "I have a question about (toward) the party: Could you (formal) please tell (say) me when the party starts and when it ends?",
-    "de": "Ich habe eine Frage zur (über die) Party: Konnten Sie mir bitte sagen, wann die Party anfängt und wann sie aufhört?",
+    "de": "Ich habe eine Frage zur (über die) Party: Könnten Sie mir bitte sagen, wann die Party anfängt und wann sie aufhört?",
     "desc": "zur Party → “about the party” in the sense of the event/topic (more natural in German).\n\nüber die Party → “about the party” focusing on the subject/content of your question (less common).",
     "groupCode": 1
   },
@@ -12603,7 +12603,7 @@
   },
   {
     "id": 12066,
-    "en": "I'm moving next week and I have a lot of stuff. Can you possibly help me, please?",
+    "en": "I'm moving next week and I have a lot of stuff. Can you probably help me, please?",
     "de": "Ich ziehe nächste Woche um und ich habe viele Sachen. Kannst du mir wahrscheinlich helfen, bitte?",
     "groupCode": 1
   },
@@ -13609,7 +13609,7 @@
   {
     "id": 12231,
     "en": "Could you (formal) please exchange 50 euros?",
-    "de": "Konnten Sie mir bitte 50 Euro wechseln?",
+    "de": "Könnten Sie mir bitte 50 Euro wechseln?",
     "groupCode": 1
   },
   {
@@ -14239,7 +14239,7 @@
   },
   {
     "id": 12335,
-    "en": "I heard you! You were outside my classroom and were speaking quite loudly",
+    "en": "I heard you! You were in front of my classroom and spoke quite loudly",
     "de": "Ich habe dich gehört! Du warst vor meinem Klassenzimmer und hast ziemlich laut gesprochen",
     "groupCode": 1
   },
@@ -14395,8 +14395,8 @@
   },
   {
     "id": 12361,
-    "en": "I find the dress is not too small",
-    "de": "Ich finde das Kleid nicht zu klein",
+    "en": "Could you please tell me how many people stand in front of or behind me?",
+    "de": "Könnten Sie mir bitte sagen, wie viele Personen vor oder hinter mir stehen?",
     "groupCode": 1
   },
   {
@@ -14419,14 +14419,14 @@
   },
   {
     "id": 12365,
-    "en": "\n 1.rarely \n 2.but (negative statement) \n 3.quite \n 4.even",
-    "de": "\n 1.selten \n 2.sondern \n 3.ziemlich \n 4.sogar",
+    "en": "\n 1.rarely \n 2.but (negative statement) \n 3.quite \n 4.even \n 5.probably \n 6.actually \n 7.hereby \n 8.Although",
+    "de": "\n 1.selten \n 2.sondern \n 3.ziemlich \n 4.sogar \n 5.wahrscheinlich \n 6.eigentlich \n 7.hiermit \n 8.Obwohl",
     "groupCode": 1
   },
   {
     "id": 12366,
-    "en": "\n 1.Shelf \n 2.Drawer \n 3.Closet",
-    "de": "\n 1.Regal \n 2.Kommode \n 3.Schrank",
+    "en": "\n 1.The Shelf \n 2.The Drawer \n 3.The Closet",
+    "de": "\n 1.Das Regal \n 2.Die Kommode \n 3.Der Schrank",
     "groupCode": 1
   },
   {
@@ -14439,6 +14439,18 @@
     "id": 12368,
     "en": "Can I use your computer?",
     "de": "Kann ich deinen Computer benutzen?",
+    "groupCode": 1
+  },
+  {
+    "id": 12369,
+    "en": "\n 1.smell \n 2.taste \n 3.Closet",
+    "de": "\n 1.riecht \n 2.geschmack \n 3.Schrank",
+    "groupCode": 1
+  },
+  {
+    "id": 12370,
+    "en": "Could you please tell me how many people are ahead of me?",
+    "de": "Könnten Sie mir bitte sagen, wie viele Personen vor mir sind?",
     "groupCode": 1
   }
 ]
