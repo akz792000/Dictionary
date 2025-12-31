@@ -551,6 +551,7 @@
     "id": 3090,
     "fa": "داری شلوار می پوشی؟",
     "en": "Are you wearing pants?",
+    "desc": "In English, pants has no separate plural form — pants is already plural.\n\nExamples:\n\nThese pants are new. ✅\n\n❌ This pant is new.\n\nIf you want to refer to one item, you say:\n\na pair of pants\n\ntwo pairs of pants\n\nThis is the same pattern as scissors, glasses, or trousers.",
     "groupCode": 0
   },
   {
@@ -10346,7 +10347,7 @@
   },
   {
     "id": 4696,
-    "fa": "اگر ما قرار نیاییم شرکت, به من اطلاع بده بنابراین من نخواهم آمد",
+    "fa": "اگر ما قرار نریم به شرکت, به من اطلاع بده بنابراین من نخواهم آمد",
     "en": "If we're not going to the company, let me know so I won't come",
     "groupCode": 0
   },
@@ -10788,7 +10789,7 @@
   },
   {
     "id": 4769,
-    "fa": "شرکت به طور بدی بود در نیاز تجدید ساختار زمانیکه او بر عهده گرفت",
+    "fa": "شرکت به طور بدی بود در نیاز تجدید ساختار زمانیکه او (مرد) بر عهده گرفت",
     "en": "The firm was badly in need of restructuring when he took over",
     "groupCode": 0
   },
@@ -10888,6 +10889,7 @@
     "id": 4785,
     "fa": "هر چه مکالمات بیشتری شما داشته باشید، اعتماد به نفس بیشتری شما احساس خواهی کرد",
     "en": "The more conversations you have, the more confident you'll feel",
+    "desc": "If you can put “feel / be” before it → use confident\nIf you can put “have / gain / build” before it → use confidence",
     "groupCode": 0
   },
   {
@@ -10927,15 +10929,51 @@
     "groupCode": 0
   },
   {
-    "id": 4791,
-    "fa": "آن بهانه به نظر رسید ریاکار (حیله گر) و من را قانع نکرد",
-    "en": "That excuse sounded phony and didn't convince me",
-    "groupCode": 0
-  },
-  {
     "id": 4792,
     "fa": "\n 1.کیک را برش بده  \n 2.کاغذ را ببر \n 3.طناب را ببر \n 4.درخت را قطع کن",
     "en": "\n 1.Slice the cake \n 2.Snip the paper \n 3.Server the rope \n 4.Chop the tree",
+    "groupCode": 0
+  },
+  {
+    "id": 4793,
+    "fa": "",
+    "en": "Some people believe that children should be taught to be competitive in school. Others think that teamwork and cooperation are more important.",
+    "groupCode": 0
+  },
+  {
+    "id": 4794,
+    "fa": "\n 1.میلیون: 10^{6} \n 2.میلیارد: 10^{9} \n 3.تریلیون: 10^{12} \n 4.کوادریلیون: 10^{15} \n 5.کواینتیلیون: 10^{18}",
+    "en": "\n 1.Million: 10^{6} \n 2.Billion: 10^{9} \n 3.Trillion: 10^{12} \n 4.Quadrillion: 10^{15} \n 5.Quintillion: 10^{18}",
+    "groupCode": 0
+  },
+  {
+    "id": 4795,
+    "fa": "تو اصلاح ناپذیری",
+    "en": "You're incorrigible",
+    "groupCode": 0
+  },
+  {
+    "id": 4796,
+    "fa": "(فراتر از رستگاری است) دیگه درست بشو نیست ",
+    "en": "It's beyond redemption",
+    "groupCode": 0
+  },
+  {
+    "id": 4797,
+    "fa": "(تو یه هدف گم شده ای) دیگه امیدی بهت نیست",
+    "en": "You're a lost cause",
+    "groupCode": 0
+  },
+  {
+    "id": 4798,
+    "fa": "(تو یه آدمِ لعنتیِ از رده خارج هستی) تو دیگه به درد بخور نیستی",
+    "en": "You're a goddamn write-off",
+    "groupCode": 0
+  },
+  {
+    "id": 4799,
+    "fa": "آن بهانه به نظر رسید ریاکار (حیله گر) و من را قانع نکرد",
+    "en": "That excuse sounded phony and didn't convince me",
     "groupCode": 0
   }
 ]

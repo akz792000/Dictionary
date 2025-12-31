@@ -8764,8 +8764,9 @@
   },
   {
     "id": 11439,
-    "en": "Could you (formal) please tell (say) me what the homeworks is?",
+    "en": "Could you (formal) please tell (say) me what the homework is?",
     "de": "Könnten Sie mir bitte sagen, was die Hausaufgaben sind?",
+    "desc": "“Homework” is uncountable in English, so it has no plural form.\n\n✅ Homework → singular / uncountable\n\n❌ Homeworks → incorrect\n\nExamples:\n\nI have a lot of homework.\n\nThe homework is difficult.\n\nIf you want to count it, say:\n\na homework assignment\n\nthree pieces of homework\n\n(Contrast: in some other languages, the plural does exist — but not in English.)",
     "groupCode": 1
   },
   {
@@ -14341,8 +14342,8 @@
   },
   {
     "id": 12352,
-    "en": "It was quite warm on Friday",
-    "de": "Es war ziemlich warm am Freitag",
+    "en": "My arms are OK, but my back hurts",
+    "de": "Meine Arme sind OK, aber mir tut der Rücken weh",
     "groupCode": 1
   },
   {
@@ -14395,8 +14396,8 @@
   },
   {
     "id": 12361,
-    "en": "Could you please tell me how many people stand in front of or behind me?",
-    "de": "Könnten Sie mir bitte sagen, wie viele Personen vor oder hinter mir stehen?",
+    "en": "Could you please tell (say) me how many people stand in front of or behind me?",
+    "de": "Könnten Sie mir bitte sagen, wie viele Personen/Leute vor oder hinter mir stehen?",
     "groupCode": 1
   },
   {
@@ -14443,14 +14444,51 @@
   },
   {
     "id": 12369,
-    "en": "\n 1.smell \n 2.taste \n 3.Closet",
-    "de": "\n 1.riecht \n 2.geschmack \n 3.Schrank",
+    "en": "\n 1.smell \n 2.taste",
+    "de": "\n 1.riecht \n 2.geschmack",
     "groupCode": 1
   },
   {
     "id": 12370,
-    "en": "Could you please tell me how many people are ahead of me?",
-    "de": "Könnten Sie mir bitte sagen, wie viele Personen vor mir sind?",
+    "en": "Could you please tell (say) me how many people are ahead of me?",
+    "de": "Könnten Sie mir bitte sagen, wie viele Personen/Leute vor mir sind?",
+    "groupCode": 1
+  },
+  {
+    "id": 12371,
+    "en": "We climbed up the mountain",
+    "de": "Wir sind den Berg hinaufgestiegen",
+    "groupCode": 1
+  },
+  {
+    "id": 12372,
+    "en": "He went up the stairs",
+    "de": "Er stieg die Treppe hinauf",
+    "groupCode": 1
+  },
+  {
+    "id": 12373,
+    "en": "The balloon rises",
+    "de": "Der Ballon steigt auf",
+    "desc": "hinaufsteigen = go upward along a path (concrete, directional)\n\naufsteigen = rise / ascend (often natural or metaphorical)",
+    "groupCode": 1
+  },
+  {
+    "id": 12374,
+    "en": "He went up the stairs",
+    "de": "Er stieg die Treppe hinauf",
+    "groupCode": 1
+  },
+  {
+    "id": 12375,
+    "en": "Can you work well on a team?",
+    "de": "Können Sie gut in einem team arbeiten?",
+    "groupCode": 1
+  },
+  {
+    "id": 12376,
+    "en": "Can I use your book? Of course, you can use my book",
+    "de": "Kann ich dein Buch benutzen? natürlich, du kannst mein Buch benutzen",
     "groupCode": 1
   }
 ]
