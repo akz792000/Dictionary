@@ -6741,9 +6741,8 @@
   },
   {
     "id": 4103,
-    "fa": "من همیشه یکی را به جای دیگری اشتباه می گیرم",
-    "en": "I always mistake one for the other",
-    "desc": "✔\uFE0F confuse A and B → natural and modern\n\n✔\uFE0F mistake A for B → correct but a different structure",
+    "fa": "من همیشه یکی را به جای دیگری اشتباه (گیج) می گیرم",
+    "en": "I always confuse one for the other",
     "groupCode": 0
   },
   {
@@ -10699,7 +10698,7 @@
   },
   {
     "id": 4754,
-    "fa": "تکثیر است نگهداری چندین کپی از داده یا سرویس ها تا اطمینان دهد در دسترس بودن و تحمل خطا",
+    "fa": "تکثیر است نگهداری چندین کپی های از داد یا سرویس ها تا اطمینان دهد در دسترس بودن و تحمل خطا",
     "en": "Replication is keeping multiple copies of data or services to ensure availability and fault tolerance",
     "groupCode": 0
   },
@@ -10883,6 +10882,7 @@
     "id": 4784,
     "fa": "پیش بند است یک تکه ای از لباس پوشیده می شود روی لباس های دیگر تا نگه دارد آنها را تمیز هنگام انجام یک کار کثیف یا نامرتب، به خصوص آشپزی",
     "en": "Apron /ˈeɪprən/ is a piece of clothing worn over the front of other clothes to keep them clean when doing a dirty or messy job, esp. cooking",
+    "desc": "Why the second one is incorrect:\n\n“worn over in front of other clothes” ❌ → grammatically wrong and confusing.\n\nYou need “over the front” to specify the position properly.\n\nIf you want, I can also make the sentence a bit smoother and more natural.",
     "groupCode": 0
   },
   {
@@ -10924,8 +10924,8 @@
   },
   {
     "id": 4791,
-    "fa": "میشه شما به من بگی چند تا مریض هستن جلوتر از من یا پشت من؟",
-    "en": "Can you tell me how many patients are ahead of me or behind me?",
+    "fa": "میتونی شما لطفا به من بگی چند تا مریض هستن جلوتر از من یا پشت من؟",
+    "en": "Can you please tell me how many patients are ahead of me or behind me?",
     "groupCode": 0
   },
   {
@@ -10936,8 +10936,8 @@
   },
   {
     "id": 4793,
-    "fa": "",
-    "en": "Some people believe that children should be taught to be competitive in school. Others think that teamwork and cooperation are more important.",
+    "fa": "بعضی مردم باور دارند که بچه ها می بایستی آموزش داده شوند تا رقابت پذیر باشند در مدرسه. برخی فکر می کنند که کار تیمی و همکاری مهم تر هستند",
+    "en": "Some people believe that children should be taught to be competitive in school. Others think that teamwork and cooperation are more important",
     "groupCode": 0
   },
   {
@@ -10974,6 +10974,74 @@
     "id": 4799,
     "fa": "آن بهانه به نظر رسید ریاکار (حیله گر) و من را قانع نکرد",
     "en": "That excuse sounded phony and didn't convince me",
+    "groupCode": 0
+  },
+  {
+    "id": 4800,
+    "fa": "از کجا گرفتی اون (پوست) برنزه؟",
+    "en": "Where did you get that tan?",
+    "groupCode": 0
+  },
+  {
+    "id": 4801,
+    "fa": "حافظه می تواند تحلیل برود از طریق عدم استفاده",
+    "en": "Memory can atrophy /ˈætrəfi/ through lack of use",
+    "groupCode": 0
+  },
+  {
+    "id": 4802,
+    "fa": "سیب زمینی  گوه ای هستند گوه شکل نامنظم خلال هایی از سیب زمینی, اغلب بزرگ و پوست کنده",
+    "en": "Potato wedges are irregular wedge-shaped slices of potato, often large and unpeeled",
+    "groupCode": 0
+  },
+  {
+    "id": 4803,
+    "fa": "آنها فروخته می شوند در رستوران ها (مکان غیررسمی) و رستوران ها فست فود و معمولا طعم دار می شوندً با تنوعی از ادویه ها",
+    "en": "They are sold at diners and fast-food restaurants and are usually seasoned with a variety of spices",
+    "desc": "Diner: a small, casual place with simple, often American food.\n\nRestaurant: any place that serves food; can be casual or formal.",
+    "groupCode": 0
+  },
+  {
+    "id": 4804,
+    "fa": "آیا این مکان صندلی پیشخوان دارد؟",
+    "en": "Does this place have counter seating?",
+    "groupCode": 0
+  },
+  {
+    "id": 4805,
+    "fa": "ما به شما اطلاع خواهیم داد دو روز قبل از پایان دوره آزمایشی",
+    "en": "We'll notify you two days before your trial ends",
+    "groupCode": 0
+  },
+  {
+    "id": 4806,
+    "fa": "\n 1.من هر روز دوش میگیرم \n 2.نوشیدن چای بخشی از زندگی روزمره من است",
+    "en": "\n 1.I take a shower every day (adverb) \n 2.Drinking tea is part of my everyday life (adjective)",
+    "groupCode": 0
+  },
+  {
+    "id": 4807,
+    "fa": "صدام اوکی داره میاد؟",
+    "en": "Am I coming through okay?",
+    "groupCode": 0
+  },
+  {
+    "id": 4808,
+    "fa": "من الان دارم برخی موارد اتصال",
+    "en": "I'm having some connectivity issues",
+    "groupCode": 0
+  },
+  {
+    "id": 4809,
+    "fa": "می تونی شما آن را برام توضیح بدی دوباره؟",
+    "en": "Could you run that by me again?",
+    "desc": "run something by someone = explain or show something to someone for feedback or clarification",
+    "groupCode": 0
+  },
+  {
+    "id": 4810,
+    "fa": "من حتی از خودش (زن) هم خوشم نمیاد، چه برسه به برادرش",
+    "en": "I don't even like her, let alone her brother",
     "groupCode": 0
   }
 ]

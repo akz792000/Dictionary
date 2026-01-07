@@ -14420,8 +14420,8 @@
   },
   {
     "id": 12365,
-    "en": "\n 1.rarely \n 2.but (negative statement) \n 3.quite \n 4.even \n 5.probably \n 6.actually \n 7.hereby \n 8.Although",
-    "de": "\n 1.selten \n 2.sondern \n 3.ziemlich \n 4.sogar \n 5.wahrscheinlich \n 6.eigentlich \n 7.hiermit \n 8.Obwohl",
+    "en": "\n 1.rarely \n 2.but (negative statement) \n 3.quite \n 4.even \n 5.probably \n 6.actually \n 7.hereby \n 8.Although \n 9.Plötzlich",
+    "de": "\n 1.selten \n 2.sondern \n 3.ziemlich \n 4.sogar \n 5.wahrscheinlich \n 6.eigentlich \n 7.hiermit \n 8.obwohl \n 9.suddenly",
     "groupCode": 1
   },
   {
@@ -14444,8 +14444,8 @@
   },
   {
     "id": 12369,
-    "en": "\n 1.smell \n 2.taste",
-    "de": "\n 1.riecht \n 2.geschmack",
+    "en": "\n 1.to smell \n 2.The Taste",
+    "de": "\n 1.riecht \n 2.Der Geschmack",
     "groupCode": 1
   },
   {
@@ -14475,13 +14475,13 @@
   },
   {
     "id": 12374,
-    "en": "He went up the stairs",
-    "de": "Er stieg die Treppe hinauf",
+    "en": "I am actually planning to do nothing",
+    "de": "Ich plane eigentlich nichts zu machen",
     "groupCode": 1
   },
   {
     "id": 12375,
-    "en": "Can you work well on a team?",
+    "en": "Can you (formal) work well in a team?",
     "de": "Können Sie gut in einem team arbeiten?",
     "groupCode": 1
   },
@@ -14489,6 +14489,90 @@
     "id": 12376,
     "en": "Can I use your book? Of course, you can use my book",
     "de": "Kann ich dein Buch benutzen? natürlich, du kannst mein Buch benutzen",
+    "groupCode": 1
+  },
+  {
+    "id": 12377,
+    "en": "The elevator goes down",
+    "de": "Der Aufzug geht runter (nach unten)",
+    "groupCode": 1
+  },
+  {
+    "id": 12378,
+    "en": "You have to wear an apron in my kitchen",
+    "de": "Du musst in meiner Küche eine Schürze tragen",
+    "groupCode": 1
+  },
+  {
+    "id": 12379,
+    "en": "The cucumber salad is too salty, did you make it?",
+    "de": "Der Gurkensalat ist zu salzig, hast du ihn gemacht?",
+    "groupCode": 1
+  },
+  {
+    "id": 12380,
+    "en": "Here's some cold water on (at) this hot day",
+    "de": "Hier ist etwas kaltes Wasser an diesem heißen Tag",
+    "groupCode": 1
+  },
+  {
+    "id": 12381,
+    "en": "Here are a few flowers for you",
+    "de": "Hier sind ein paar Blumen für dich",
+    "groupCode": 1
+  },
+  {
+    "id": 12382,
+    "en": "My husband doesn't wear socks with his sandals",
+    "de": "Mein Mann trägt keine Socken mit seinen Sandalen",
+    "groupCode": 1
+  },
+  {
+    "id": 12383,
+    "en": "The wedding is on Saturday and you don't have a suit! Go to the department store",
+    "de": "Die Hochzeit ist am Samstag und du hast keinen Anzug! Geh ins Kaufhaus",
+    "groupCode": 1
+  },
+  {
+    "id": 12384,
+    "en": "How much do these suits cost?",
+    "de": "Wie viel kosten diese Anzüge?",
+    "groupCode": 1
+  },
+  {
+    "id": 12385,
+    "en": "Which suit is suitable for children?",
+    "de": "Welcher Anzug ist für Kinder?",
+    "groupCode": 1
+  },
+  {
+    "id": 12386,
+    "en": "This dress is the most expensive, are you crazy?",
+    "de": "Dieses Kleid ist am teuersten, spinnst du?",
+    "groupCode": 1
+  },
+  {
+    "id": 12387,
+    "en": "Can one wear this T-shirt to (on) a wedding?",
+    "de": "Kann man dieses T-Shirt auf einer Hochzeit tragen?",
+    "groupCode": 1
+  },
+  {
+    "id": 12388,
+    "en": "I want to try on these socks",
+    "de": "Ich will diese Socken anprobieren",
+    "groupCode": 1
+  },
+  {
+    "id": 12389,
+    "en": "The changing rooms are on the right, where is the ATM?",
+    "de": "Die Umkleidekabinen sind rechts, wo ist der Geldautomat?",
+    "groupCode": 1
+  },
+  {
+    "id": 12390,
+    "en": "The changing rooms are downstairs, the ATM is outside",
+    "de": "Die Umkleidekabinen sind unten, der Geldautomat ist draußen",
     "groupCode": 1
   }
 ]
