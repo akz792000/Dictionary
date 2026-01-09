@@ -11009,7 +11009,7 @@
   },
   {
     "id": 4805,
-    "fa": "ما به شما اطلاع خواهیم داد دو روز قبل از اینکه دوره آزمایشیت پایان یابد",
+    "fa": "ما به شما اطلاع خواهیم داد دو روز قبل از اینکه دوره آزمایشی شما پایان یابد",
     "en": "We'll notify you two days before your trial ends",
     "groupCode": 0
   },
@@ -11029,6 +11029,7 @@
     "id": 4808,
     "fa": "من الان دارم برخی موارد اتصال",
     "en": "I'm having some connectivity issues",
+    "desc": "The difference is aspect and immediacy:\n\n“I’m having some connectivity issues” → happening right now, temporary.\n\n“I have some connectivity issues” → more general or ongoing, not necessarily right now.\n\nIn support or live situations, “I’m having…” sounds more natural.",
     "groupCode": 0
   },
   {
@@ -11042,6 +11043,24 @@
     "id": 4810,
     "fa": "من حتی از خودش (زن) هم خوشم نمیاد، چه برسه به برادرش",
     "en": "I don't even like her, let alone her brother",
+    "groupCode": 0
+  },
+  {
+    "id": 4811,
+    "fa": "مستقر نخواهد شد تا زمانی که همه آزمایش ها با موفقیت پاس شوند",
+    "en": "It won't be deployed as long as all tests pass successfully",
+    "groupCode": 0
+  },
+  {
+    "id": 4812,
+    "fa": "تفاوت در جنبه و فوریت است",
+    "en": "The difference is aspect and immediacy /ɪˈmiː.di.ə.si/",
+    "groupCode": 0
+  },
+  {
+    "id": 4813,
+    "fa": "\n 1.موز رسیده \n 2.گل رز هوازده شده \n 3.گل رز هوازده شده \n 4.سیب زمینی ها جوانه زده اند \n 5.سیب فاسد شده \n 6.پنیر کپک زده \n 7.نان بیات شده \n 8.سبزیجات پژمرده شده اند",
+    "en": "\n 1.The banana is ripe \n 2.The rose is weathered /ˈweð.ɚd/ \n 3.The oil is rancid \n 4.The potatoes are sprouted /spraʊted/ \n 5.The apple is rotten \n 6.The cheese is moldy \n 7.The bread is stale \n 8.The vegetable is wilted",
     "groupCode": 0
   }
 ]
