@@ -3025,6 +3025,7 @@
     "id": 10495,
     "en": "You (formal) are (on) in the photo. Not me",
     "de": "Sie sind auf dem Foto. Nicht ich",
+    "desc": "“Auf dem Foto” is correct because German treats a photo like a surface.\nYou are on a photo, not in it.\n\n“Im Foto” sounds unnatural and isn’t used.",
     "groupCode": 1
   },
   {
@@ -14420,8 +14421,8 @@
   },
   {
     "id": 12365,
-    "en": "\n 1.rarely \n 2.but (negative statement) \n 3.quite \n 4.even \n 5.probably \n 6.actually \n 7.hereby \n 8.Although \n 9.Plötzlich",
-    "de": "\n 1.selten \n 2.sondern \n 3.ziemlich \n 4.sogar \n 5.wahrscheinlich \n 6.eigentlich \n 7.hiermit \n 8.obwohl \n 9.suddenly",
+    "en": "\n 1.rarely \n 2.but (negative statement) \n 3.quite \n 4.even \n 5.probably \n 6.actually \n 7.hereby \n 8.Although \n 9.suddenly",
+    "de": "\n 1.selten \n 2.sondern \n 3.ziemlich \n 4.sogar \n 5.wahrscheinlich \n 6.eigentlich \n 7.hiermit \n 8.obwohl \n 9.Plötzlich",
     "groupCode": 1
   },
   {
@@ -14444,8 +14445,8 @@
   },
   {
     "id": 12369,
-    "en": "\n 1.to smell \n 2.The Taste",
-    "de": "\n 1.riecht \n 2.Der Geschmack",
+    "en": "\n 1.to smell \n 2.to taste \n 3.The Taste",
+    "de": "\n 1.riechen \n 2.schmecken \n 3.Der Geschmack",
     "groupCode": 1
   },
   {
@@ -14463,7 +14464,7 @@
   {
     "id": 12372,
     "en": "He went up the stairs",
-    "de": "Er stieg die Treppe hinauf",
+    "de": "\n 1.Er ist die Treppe hinaufgestiegen \n 2.Er stieg die Treppe hinauf",
     "groupCode": 1
   },
   {
@@ -14541,7 +14542,7 @@
   },
   {
     "id": 12385,
-    "en": "Which suit is suitable for children?",
+    "en": "Which suit is for children?",
     "de": "Welcher Anzug ist für Kinder?",
     "groupCode": 1
   },
@@ -14573,6 +14574,30 @@
     "id": 12390,
     "en": "The changing rooms are downstairs, the ATM is outside",
     "de": "Die Umkleidekabinen sind unten, der Geldautomat ist draußen",
+    "groupCode": 1
+  },
+  {
+    "id": 12391,
+    "en": "Did your date actually buy a suit?",
+    "de": "Hat dein Date eigentilich einen Anzug gekauft?",
+    "groupCode": 1
+  },
+  {
+    "id": 12392,
+    "en": "What kind of song is that? It's a birthday song",
+    "de": "Was für ein Lied ist das? Das ist ein Geburtstagslied",
+    "groupCode": 1
+  },
+  {
+    "id": 12393,
+    "en": "What kind of book is that? It's a storybook",
+    "de": "Was für ein Buch ist das? Das ist ein Geschichtenbuch",
+    "groupCode": 1
+  },
+  {
+    "id": 12394,
+    "en": "I have little money. Where are the potatoes the cheapest?",
+    "de": "Ich habe wenig Geld. Wo sind die Kartoffeln am billigsten?",
     "groupCode": 1
   }
 ]

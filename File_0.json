@@ -13433,7 +13433,7 @@
   },
   {
     "id": 2211,
-    "fa": "ما امیدواریم ما قادر بودیم روز خاکستری زمستانی شما را یک کمی شیرین کنیم",
+    "fa": "ما امیدواریم ما قادر بودیم تا شیرین کنیم روز خاکستری زمستانی شما را یک کمی",
     "en": "We hope we were able to sweeten your gray winter day a little bit",
     "groupCode": 0
   },
@@ -13502,6 +13502,7 @@
     "id": 2222,
     "fa": "من در دفتر نشسته به این فکر می کنم چه اتفاقی می افتد اگر به مدیر سیلی بزنم و فرار کنم",
     "en": "Me sitting in the office thinking about what would happen if I slapped the manager and ran out",
+    "desc": "“Ran out” focuses on leaving the place.\n“Ran off” feels more impulsive, like escaping.",
     "groupCode": 0
   },
   {
