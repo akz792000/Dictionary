@@ -14599,5 +14599,41 @@
     "en": "I have little money. Where are the potatoes the cheapest?",
     "de": "Ich habe wenig Geld. Wo sind die Kartoffeln am billigsten?",
     "groupCode": 1
+  },
+  {
+    "id": 12395,
+    "en": "The weather was great this morning! Did you go to the lake? Yes, I went swimming with the children",
+    "de": "Das Wetter war super heute Morgen! Bist du zum See gegangen? Ja. ich bin mit den Kindern geschwommen",
+    "groupCode": 1
+  },
+  {
+    "id": 12396,
+    "en": "Did you go swimming yesterday?",
+    "de": "Bist du gestern geschwommen?",
+    "groupCode": 1
+  },
+  {
+    "id": 12397,
+    "en": "We travelled to Zurich by train",
+    "de": "Wir sind mit dem Zug nach Zürich gefahren",
+    "groupCode": 1
+  },
+  {
+    "id": 12398,
+    "en": "We went to the lake yesterday",
+    "de": "Wir sind gestern zum See gegangen",
+    "groupCode": 1
+  },
+  {
+    "id": 12399,
+    "en": "How many people live in Geneva?",
+    "de": "Wie viele Leute leben in Genf?",
+    "groupCode": 1
+  },
+  {
+    "id": 12400,
+    "en": "I think the nature is better than movies",
+    "de": "Ich denke, die Natur ist besser als Filme",
+    "groupCode": 1
   }
 ]

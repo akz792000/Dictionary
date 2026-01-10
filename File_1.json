@@ -11059,8 +11059,14 @@
   },
   {
     "id": 4813,
-    "fa": "\n 1.موز رسیده \n 2.گل رز هوازده شده \n 3.گل رز هوازده شده \n 4.سیب زمینی ها جوانه زده اند \n 5.سیب فاسد شده \n 6.پنیر کپک زده \n 7.نان بیات شده \n 8.سبزیجات پژمرده شده اند",
+    "fa": "\n 1.موز رسیده \n 2.رز هوازده شده \n 3.روغن فاسد شده \n 4.سیب زمینی ها جوانه زده اند \n 5.سیب فاسد شده \n 6.پنیر کپک زده \n 7.نان بیات شده \n 8.سبزی (سبزیجات) پژمرده شده",
     "en": "\n 1.The banana is ripe \n 2.The rose is weathered /ˈweð.ɚd/ \n 3.The oil is rancid \n 4.The potatoes are sprouted /spraʊted/ \n 5.The apple is rotten \n 6.The cheese is moldy \n 7.The bread is stale \n 8.The vegetable is wilted",
+    "groupCode": 0
+  },
+  {
+    "id": 4814,
+    "fa": "تا کی این مکان باز است؟",
+    "en": "Until when is this place open?",
     "groupCode": 0
   }
 ]
