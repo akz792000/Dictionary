@@ -10704,6 +10704,7 @@
     "id": 11755,
     "en": "She often watches films from Italy with her husband",
     "de": "Sie sieht oft Filme aus Italien mit ihrem Mann an",
+    "desc": "Use aus Italien to indicate origin/production (films made in Italy)",
     "groupCode": 1
   },
   {
@@ -13859,7 +13860,7 @@
   {
     "id": 12272,
     "en": "They remind me of a woman I knew many years ago",
-    "de": "Sie erinnern mich an eine Frau, die ich vor vielen Jahren kannte",
+    "de": "Sie erinnern mich an eine Frau, die ich vor vielen Jahren gekannt habe",
     "groupCode": 1
   },
   {
@@ -14584,13 +14585,13 @@
   },
   {
     "id": 12392,
-    "en": "What kind of song is that? That is a birthday song",
+    "en": "What kind of a song is that? That is a birthday song",
     "de": "Was für ein Lied ist das? Das ist ein Geburtstagslied",
     "groupCode": 1
   },
   {
     "id": 12393,
-    "en": "What kind of book is that? That is a storybook",
+    "en": "What kind of a book is that? That is a storybook",
     "de": "Was für ein Buch ist das? Das ist ein Geschichtenbuch",
     "groupCode": 1
   },
@@ -14602,13 +14603,13 @@
   },
   {
     "id": 12395,
-    "en": "The weather was great this morning! Did you go to the lake? Yes, I went swimming with the children",
+    "en": "The weather was great this morning! Did you go to the lake? Yes, I was swimming with the children",
     "de": "Das Wetter war super heute Morgen! Bist du zum See gegangen? Ja. ich bin mit den Kindern geschwommen",
     "groupCode": 1
   },
   {
     "id": 12396,
-    "en": "Did you go swimming yesterday?",
+    "en": "Did you swim yesterday?",
     "de": "Bist du gestern geschwommen?",
     "groupCode": 1
   },
@@ -14634,6 +14635,66 @@
     "id": 12400,
     "en": "I think the nature is better than movies",
     "de": "Ich denke, die Natur ist besser als Filme",
+    "groupCode": 1
+  },
+  {
+    "id": 12401,
+    "en": "It was cold yesterday, it was eight degrees Celsius",
+    "de": "Es war kalt gestern, es war achtzehn Grad Celsius",
+    "groupCode": 1
+  },
+  {
+    "id": 12402,
+    "en": "The weather was cold, why did you hike in the forest?",
+    "de": "Das Wetter war kalt, warum bist du im Wald gewandert?",
+    "groupCode": 1
+  },
+  {
+    "id": 12403,
+    "en": "Were the temperatures high?",
+    "de": "Waren die Temperaturen hoch?",
+    "groupCode": 1
+  },
+  {
+    "id": 12404,
+    "en": "How high the temperatures in Geneva?",
+    "de": "Wie hoch waren die Temperaturen in Genf?",
+    "groupCode": 1
+  },
+  {
+    "id": 12405,
+    "en": "The temperatures were high, I was always hot",
+    "de": "Die Temperaturen warenhoch mir war immer heiß",
+    "groupCode": 1
+  },
+  {
+    "id": 12406,
+    "en": "I don't want to fly, the plane is broken",
+    "de": "Ich will nicht fliegen, das Flugzeug ist kaputt",
+    "groupCode": 1
+  },
+  {
+    "id": 12407,
+    "en": "How much does a rental car cost?",
+    "de": "Wie viel kostet ein Mietwagen?",
+    "groupCode": 1
+  },
+  {
+    "id": 12408,
+    "en": "Could you (plural) only drive with the rental car to hause?",
+    "de": "Konntet ihr nur mit dem Mietwagen nach Hause fahren?",
+    "groupCode": 1
+  },
+  {
+    "id": 12409,
+    "en": "When did you fly home?",
+    "de": "Wann bist du nach Hause geflogen?",
+    "groupCode": 1
+  },
+  {
+    "id": 12410,
+    "en": "Did you sleep a lot on vacation?",
+    "de": "Hast du im Urlaub viel geschlafen?",
     "groupCode": 1
   }
 ]
