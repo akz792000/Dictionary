@@ -14043,7 +14043,7 @@
   },
   {
     "id": 12302,
-    "en": "Everyone in the house is coming to the party, even the dog is coming along",
+    "en": "Everyone (all) in the house is coming to the party, even the dog is coming along",
     "de": "Alle im Haus kommen zur Party, der Hund kommt sogar mit",
     "groupCode": 1
   },
@@ -14446,8 +14446,8 @@
   },
   {
     "id": 12369,
-    "en": "\n 1.to smell \n 2.to taste \n 3.The Taste",
-    "de": "\n 1.riechen \n 2.schmecken \n 3.Der Geschmack",
+    "en": "\n 1.to smell \n 2.to taste \n 3.The Taste \n 4.to smoke",
+    "de": "\n 1.riechen \n 2.schmecken \n 3.Der Geschmack \n 4.rauchen",
     "groupCode": 1
   },
   {
@@ -14615,7 +14615,7 @@
   },
   {
     "id": 12397,
-    "en": "We travelled to Zurich by train",
+    "en": "We travelled (drove) to Zurich by train",
     "de": "Wir sind mit dem Zug nach Zürich gefahren",
     "groupCode": 1
   },
@@ -14639,7 +14639,7 @@
   },
   {
     "id": 12401,
-    "en": "It was cold yesterday, it was eight degrees Celsius",
+    "en": "It was cold yesterday, it was eighteen degrees Celsius",
     "de": "Es war kalt gestern, es war achtzehn Grad Celsius",
     "groupCode": 1
   },
@@ -14657,14 +14657,14 @@
   },
   {
     "id": 12404,
-    "en": "How high the temperatures in Geneva?",
+    "en": "How high were the temperatures in Geneva?",
     "de": "Wie hoch waren die Temperaturen in Genf?",
     "groupCode": 1
   },
   {
     "id": 12405,
     "en": "The temperatures were high, I was always hot",
-    "de": "Die Temperaturen warenhoch mir war immer heiß",
+    "de": "Die Temperaturen waren hoch, mir war immer heiß",
     "groupCode": 1
   },
   {
