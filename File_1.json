@@ -4049,7 +4049,7 @@
   },
   {
     "id": 3661,
-    "fa": "علاوه بر این، همانطور که سال داره به پایان می رسد, من می خواستم بپرسم در مورد دو موضوع مهم در مورد پسرم",
+    "fa": "علاوه بر این، همانطور که سال داره به یک پایان می رسد, من می خواستم بپرسم در مورد دو موضوع مهم در مورد پسرم",
     "en": "Additionally, as the year is coming to a close, I wanted to ask about two important topics regarding my son",
     "groupCode": 0
   },
@@ -6423,6 +6423,7 @@
     "id": 4051,
     "fa": "اشکالی نداره صبر کنی یک دقیقه؟",
     "en": "Do you mind waiting a minute?",
+    "desc": "after mind, the verb always comes in the -ing form.",
     "groupCode": 0
   },
   {
@@ -11071,8 +11072,38 @@
   },
   {
     "id": 4815,
-    "fa": "راستش را بخواهید، اینترنت، تلفن و سایر انواع ارتباطات قطع شده و من دریافت نکرده ام هیچ اطلاعی از خانواده ام. امیدوارم اتفاق بدی نیفتاده باشد",
+    "fa": "راستش را بخواهید، اینترنت، تلفن و سایر انواع ارتباطات قطع شده و من دریافت نکرده ام هیچ اطلاعی از خانواده ام. من امیدوارم اتفاق بدی نیفتاده باشد",
     "en": "To be honest, the internet, telephone, and other types of connections have been shut down, and I haven't received any information from my family. I hope nothing bad has happened",
+    "groupCode": 0
+  },
+  {
+    "id": 4816,
+    "fa": "شما می توانید چک کنید چه مقدار داده موبایل شما باقی دارید روی سیم کارت خود، اما دقیقا چگونه شما انجام بدید بستگی دارد به اپراتور موبایل شما",
+    "en": "You can check how much mobile data you have left on your SIM, but exactly how you do it depends on your mobile operator",
+    "groupCode": 0
+  },
+  {
+    "id": 4817,
+    "fa": "رژیم در آستانه فروپاشی است پس از هفته ها اعتراضات",
+    "en": "The regime is on the brink of collapse after weeks of protests",
+    "groupCode": 0
+  },
+  {
+    "id": 4818,
+    "fa": "کشور در آستانه جنگ است",
+    "en": "The country is on the brink of war",
+    "groupCode": 0
+  },
+  {
+    "id": 4819,
+    "fa": "بچرخان فرمان خود را تا انتها به سمت راست و قرار (شیفت) بدش در دنده یک",
+    "en": "Turn your wheel all the way to the right and shift into first gear",
+    "groupCode": 0
+  },
+  {
+    "id": 4820,
+    "fa": "رها کن کلاچ را و بده کمی گاز",
+    "en": "Ease off the clutch and give it some gas",
     "groupCode": 0
   }
 ]

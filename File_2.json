@@ -12403,6 +12403,7 @@
     "id": 12033,
     "en": "Careful, Ali. Don't fall down (formal)!",
     "de": "Vorsicht, Ali. Fallen Sie nicht hinunter!",
+    "desc": "hinunter = indicates movement downward (falling).\n\nunten = describes a location (“down below”), not movement.",
     "groupCode": 1
   },
   {
@@ -13995,8 +13996,9 @@
   },
   {
     "id": 12294,
-    "en": "Everything happens (for) a reason",
-    "de": "Alles passiert aus einem Grund",
+    "en": "Everything happens (from) because of a reason, for a specific purpose",
+    "de": "Alles passiert aus einem Grund für einen bestimmten Zweck",
+    "desc": "aus einem Grund → because of a reason (cause)\n\nfür einen bestimmten Zweck → for a specific purpose (goal/benefit)",
     "groupCode": 1
   },
   {
@@ -14262,6 +14264,7 @@
     "id": 12338,
     "en": "She knocks on (at) the door",
     "de": "Sie klopft an die Tür",
+    "desc": "It depends on whether the preposition “an” is used with movement (accusative) or location (dative):\n\nan + Akkusativ → movement toward something\n\nSie klopft an die Tür. → She is knocking on the door (action toward the door).\n\nan + Dativ → location / no movement\n\nDie Lampe hängt an der Tür. → The lamp is hanging on the door (just describing position).",
     "groupCode": 1
   },
   {
@@ -14695,6 +14698,66 @@
     "id": 12410,
     "en": "Did you sleep a lot on vacation?",
     "de": "Hast du im Urlaub viel geschlafen?",
+    "groupCode": 1
+  },
+  {
+    "id": 12411,
+    "en": "Do the shoes fit you?",
+    "de": "Passen dir die Schuhe?",
+    "groupCode": 1
+  },
+  {
+    "id": 12412,
+    "en": "Which pants are better?",
+    "de": "Welche Hose ist besser?",
+    "groupCode": 1
+  },
+  {
+    "id": 12413,
+    "en": "You look beautiful",
+    "de": "Du siehst wunderschön aus",
+    "groupCode": 1
+  },
+  {
+    "id": 12414,
+    "en": "The flowers at the wedding look beautiful",
+    "de": "Die Blumen auf der Hochzeit sehen wunderschön aus",
+    "groupCode": 1
+  },
+  {
+    "id": 12415,
+    "en": "Show me the suit, please",
+    "de": "Zeig mir den Anzug, bitte",
+    "groupCode": 1
+  },
+  {
+    "id": 12416,
+    "en": "The suit is green like a tree",
+    "de": "Der Anzug ist grün wie ein Baum",
+    "groupCode": 1
+  },
+  {
+    "id": 12417,
+    "en": "My suit is green. Do you like it? No, you look like a tree",
+    "de": "Mein Anzug ist grün. Gefällt er dir? Nein, du siehst aus wie ein Baum",
+    "groupCode": 1
+  },
+  {
+    "id": 12418,
+    "en": "No matter, she already bought the shirt",
+    "de": "Egal, sie hat das hemd schon gekauft",
+    "groupCode": 1
+  },
+  {
+    "id": 12419,
+    "en": "He stands next to a car and closes the trunk",
+    "de": "Er steht neben einem Auto und schließt den kofferraum",
+    "groupCode": 1
+  },
+  {
+    "id": 12420,
+    "en": "I rented this car today.",
+    "de": "Ich habe heute diesen wagen gemietet",
     "groupCode": 1
   }
 ]
