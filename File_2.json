@@ -14738,7 +14738,7 @@
   },
   {
     "id": 12417,
-    "en": "My suit is green. Do you like it? No, you look like a tree",
+    "en": "My suit is green. Do you like (appearance or impression) it? No, you look like a tree",
     "de": "Mein Anzug ist grün. Gefällt er dir? Nein, du siehst aus wie ein Baum",
     "groupCode": 1
   },
@@ -14756,8 +14756,128 @@
   },
   {
     "id": 12420,
-    "en": "I rented this car today.",
+    "en": "I rented this car today",
     "de": "Ich habe heute diesen wagen gemietet",
+    "groupCode": 1
+  },
+  {
+    "id": 12421,
+    "en": "\n 1.I get up \n 2.Ich turn around \n 3.I bend over \n 4.I raise my hand \n 5.I stretch (myself)",
+    "de": "\n 1.Ich stehe auf \n 2.Ich drehe mich um \n 3.Ich beuge mich vor \n 4.Ich hebe die Hand \n 5.Ich strecke mich",
+    "groupCode": 1
+  },
+  {
+    "id": 12422,
+    "en": "My son always gets up before six o'clock",
+    "de": "Mein Sohn steht immer vor sechs Uhr auf",
+    "groupCode": 1
+  },
+  {
+    "id": 12423,
+    "en": "Why do you get up so early on Tuesdays and Thursdays?",
+    "de": "Warum stehst du dienstags und donnerstags so früh auf?",
+    "groupCode": 1
+  },
+  {
+    "id": 12424,
+    "en": "You work at night, can you sleep late in the morning?",
+    "de": "Du arbeitest nachts, kannst du morgens lange schlafen?",
+    "groupCode": 1
+  },
+  {
+    "id": 12425,
+    "en": "I want to get up after nine o'clock on Saturdays",
+    "de": "Ich will samstags nach neun Uhr aufstehen",
+    "groupCode": 1
+  },
+  {
+    "id": 12426,
+    "en": "On the weekend, I sleep late and then I eat breakfast",
+    "de": "Am Wochenende schlafe ich lange und dann frühstücke ich",
+    "groupCode": 1
+  },
+  {
+    "id": 12427,
+    "en": "I can never sleep late",
+    "de": "Ich kann nie lange schlafen",
+    "groupCode": 1
+  },
+  {
+    "id": 12428,
+    "en": "Do you have an alarm clock?",
+    "de": "Hast du einen Wecker?",
+    "groupCode": 1
+  },
+  {
+    "id": 12429,
+    "en": "You need to find your wallet",
+    "de": "Du musst dein Portemonnaie /pɔrtmɔˈneː/ finden",
+    "groupCode": 1
+  },
+  {
+    "id": 12430,
+    "en": "We drove through the mountains, it was fantastic",
+    "de": "Wir sind durch die Berge gefahren, das war großartig",
+    "groupCode": 1
+  },
+  {
+    "id": 12431,
+    "en": "Oh, nonsense",
+    "de": "Ach, Quatsch",
+    "groupCode": 1
+  },
+  {
+    "id": 12432,
+    "en": "Did you (plural) travel by the boat on a lake?",
+    "de": "Seid ihr mit dem Boot auf einem See gefahren?",
+    "groupCode": 1
+  },
+  {
+    "id": 12433,
+    "en": "We could eat outside; the trees were fantastic",
+    "de": "Wir konnten draußen essen, die Bäume waren Großartig",
+    "groupCode": 1
+  },
+  {
+    "id": 12434,
+    "en": "With which did Tim drive?",
+    "de": "Womit ist Tim gefahren?",
+    "groupCode": 1
+  },
+  {
+    "id": 12435,
+    "en": "You have already started the engine",
+    "de": "Du hast den Motor schon gestartet",
+    "groupCode": 1
+  },
+  {
+    "id": 12436,
+    "en": "I have to buy my child a suit for the wedding, but today is Sunday. The shopping center is closed",
+    "de": "Ich muss meinem Kind einen Anzug für die Hochzeit kaufen, aber heute ist Sonntag. Das Einkaufszentrum ist zu",
+    "groupCode": 1
+  },
+  {
+    "id": 12437,
+    "en": "The clothes are on the fifth floor, but we're going home in five minutes",
+    "de": "Kleider sind im fünften stock, aber wir gehen in fünf Minuten nach Hause",
+    "groupCode": 1
+  },
+  {
+    "id": 12438,
+    "en": "He always wants to try on a hat",
+    "de": "Er will immer einen Hut anprobieren",
+    "groupCode": 1
+  },
+  {
+    "id": 12439,
+    "en": "Where can one (someone) find an ATM here?",
+    "de": "Wo kann man hier einen Geldautomaten finden?",
+    "groupCode": 1
+  },
+  {
+    "id": 12440,
+    "en": "This dress is beautiful and very cheap, but unfortunately it doesn't fit me.",
+    "de": "Dieses Kleid ist wunderschön und sehr billiger, aber es passt mir leider nicht",
     "groupCode": 1
   }
 ]

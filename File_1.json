@@ -10902,7 +10902,7 @@
   {
     "id": 4787,
     "fa": "من کاملاً از پاسخ او (مرد) گیج شده بودم",
-    "en": "I was completely baffled by his response",
+    "en": "I was completely baffled (dumbfounded) by his response",
     "groupCode": 0
   },
   {
@@ -11080,6 +11080,7 @@
     "id": 4816,
     "fa": "شما می توانید چک کنید چه مقدار داده موبایل شما باقی دارید روی سیم کارت خود، اما دقیقا چگونه شما انجام بدید بستگی دارد به اپراتور موبایل شما",
     "en": "You can check how much mobile data you have left on your SIM, but exactly how you do it depends on your mobile operator",
+    "desc": "“do it”\n\nHere, “it” refers to the action of checking your data.\n\nExample: “How you do it” = how you perform the action of checking your data\n\n2\uFE0F⃣ “depends”\n\nThe verb “depends” does not need its own “it”.\n\n“Depends” is intransitive here, meaning it doesn’t take a direct object.\n\nSo you just say: “depends on your mobile operator” — no “it” needed.",
     "groupCode": 0
   },
   {
@@ -11096,7 +11097,7 @@
   },
   {
     "id": 4819,
-    "fa": "بچرخان فرمان خود را تا انتها به سمت راست و قرار (شیفت) بدش در دنده یک",
+    "fa": "بچرخان فرمان خود را تا انتها به سمت راست و قرار (شیفت) بدش در دنده اول",
     "en": "Turn your wheel all the way to the right and shift into first gear",
     "groupCode": 0
   },
@@ -11104,6 +11105,42 @@
     "id": 4820,
     "fa": "رها کن کلاچ را و بده کمی گاز",
     "en": "Ease off the clutch and give it some gas",
+    "groupCode": 0
+  },
+  {
+    "id": 4821,
+    "fa": "این مهارت پیچیده است. تو یه جورایی یاد نمی گیری شبانه روز (تو این را یک شبه یاد نمی گیرید)، تلاش واقعی نیاز دارد",
+    "en": "This skill is complex. You don't just sort of learn this overnight, it takes real work",
+    "groupCode": 0
+  },
+  {
+    "id": 4822,
+    "fa": "این یک پیام صریح است و نباید گرفته شود به عنوان یک تلاشی برای توجیه یا تخفیف (نرم کردن) مسئله",
+    "en": "This is a blunt message and should not be taken as an attempt to consort or soften the issue",
+    "groupCode": 0
+  },
+  {
+    "id": 4823,
+    "fa": "آشوبگر خشم را برانگیخت و شورشیان نیز از او پیروی کردند",
+    "en": "The agitator /ˈajəˌtādər/ incited anger, and the insurrectionists /ˌɪnsəˈrɛkʃənɪst/ followed",
+    "groupCode": 0
+  },
+  {
+    "id": 4824,
+    "fa": "آشوبگر خشم را برانگیخت و شورشیان نیز از او پیروی کردند",
+    "en": "The agitator /ˈajəˌtādər/ incited anger, and the insurrectionists /ˌɪnsəˈrɛkʃənɪst/ followed",
+    "groupCode": 0
+  },
+  {
+    "id": 4825,
+    "fa": "این یه مضحکه است که او (مرد) رفت بدون مجازات",
+    "en": "It's a travesty that he went unpunished",
+    "groupCode": 0
+  },
+  {
+    "id": 4826,
+    "fa": "انرژی تخلیه می شود سریع تر، اما وضعیت افسانه ای در انتظار شماست",
+    "en": "Energy drains faster, but Legendary status awaits you",
     "groupCode": 0
   }
 ]
