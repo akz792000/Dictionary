@@ -4651,7 +4651,7 @@
   },
   {
     "id": 10764,
-    "en": "What do you do in the mornings?",
+    "en": "What do you do in the morning(s)?",
     "de": "Was machst du morgens?",
     "groupCode": 1
   },
@@ -6023,7 +6023,7 @@
   },
   {
     "id": 10989,
-    "en": "We always read mornings. My parents read the newspaper, and I read a children's book with my niece. She cannot still read alone",
+    "en": "We always read in the morning(s). My parents read the newspaper, and I read a children's book with my niece. She cannot still read alone",
     "de": "Wir lesen morgens immer. Meine Eltern lesen die Zeitung und ich lese mit meiner Nichte ein Kinderbuch. Sie kann noch nicht allein lesen",
     "groupCode": 1
   },
@@ -12072,7 +12072,7 @@
   },
   {
     "id": 11979,
-    "en": "I want to move to Berlin because here I always have to wait too long",
+    "en": "I want to move to Berlin because here I always have to wait too long (for a long time)",
     "de": "Ich will nach Berlin umziehen, weil ich hier immer zu lange warten muss",
     "groupCode": 1
   },
@@ -14197,7 +14197,7 @@
   {
     "id": 12327,
     "en": "Where was the feast/festival?",
-    "de": "Wo warst das Fest?",
+    "de": "Wo war das Fest?",
     "groupCode": 1
   },
   {
@@ -14762,7 +14762,7 @@
   },
   {
     "id": 12421,
-    "en": "\n 1.I get up \n 2.Ich turn around \n 3.I bend over \n 4.I raise my hand \n 5.I stretch (myself)",
+    "en": "\n 1.I get up \n 2.I turn around \n 3.I bend over \n 4.I raise my hand \n 5.I stretch (myself)",
     "de": "\n 1.Ich stehe auf \n 2.Ich drehe mich um \n 3.Ich beuge mich vor \n 4.Ich hebe die Hand \n 5.Ich strecke mich",
     "groupCode": 1
   },
@@ -14780,7 +14780,7 @@
   },
   {
     "id": 12424,
-    "en": "You work at night, can you sleep late in the morning?",
+    "en": "You work at night, can you sleep long (for a long time) in the morning(s)?",
     "de": "Du arbeitest nachts, kannst du morgens lange schlafen?",
     "groupCode": 1
   },
@@ -14792,13 +14792,13 @@
   },
   {
     "id": 12426,
-    "en": "On the weekend, I sleep late and then I eat breakfast",
+    "en": "On the weekend, I sleep long (for a long time) and then I eat breakfast",
     "de": "Am Wochenende schlafe ich lange und dann frühstücke ich",
     "groupCode": 1
   },
   {
     "id": 12427,
-    "en": "I can never sleep late",
+    "en": "I can never long (for a long time) sleep",
     "de": "Ich kann nie lange schlafen",
     "groupCode": 1
   },
@@ -14810,7 +14810,7 @@
   },
   {
     "id": 12429,
-    "en": "You need to find your wallet",
+    "en": "You have to find your wallet",
     "de": "Du musst dein Portemonnaie /pɔrtmɔˈneː/ finden",
     "groupCode": 1
   },
@@ -14828,7 +14828,7 @@
   },
   {
     "id": 12432,
-    "en": "Did you (plural) travel by the boat on a lake?",
+    "en": "Did you (plural) travel (drive) by the boat on a lake?",
     "de": "Seid ihr mit dem Boot auf einem See gefahren?",
     "groupCode": 1
   },
@@ -14846,7 +14846,7 @@
   },
   {
     "id": 12435,
-    "en": "You have already started the engine",
+    "en": "You have already started the motor (engine)",
     "de": "Du hast den Motor schon gestartet",
     "groupCode": 1
   },
@@ -14858,7 +14858,7 @@
   },
   {
     "id": 12437,
-    "en": "The clothes are on the fifth floor, but we're going home in five minutes",
+    "en": "Clothes are on the fifth floor, but we're going home in five minutes",
     "de": "Kleider sind im fünften stock, aber wir gehen in fünf Minuten nach Hause",
     "groupCode": 1
   },
@@ -14876,8 +14876,68 @@
   },
   {
     "id": 12440,
-    "en": "This dress is beautiful and very cheap, but unfortunately it doesn't fit me.",
+    "en": "This dress is beautiful and very cheaper, but unfortunately it doesn't fit me",
     "de": "Dieses Kleid ist wunderschön und sehr billiger, aber es passt mir leider nicht",
+    "groupCode": 1
+  },
+  {
+    "id": 12441,
+    "en": "When do you take a shower?",
+    "de": "Wann duschst du?",
+    "groupCode": 1
+  },
+  {
+    "id": 12442,
+    "en": "When do you leave the apartment?",
+    "de": "Wann verlässt du die Wohnung?",
+    "groupCode": 1
+  },
+  {
+    "id": 12443,
+    "en": "You leave the house earlier than I",
+    "de": "Du verlässt das Haus früher als ich",
+    "groupCode": 1
+  },
+  {
+    "id": 12444,
+    "en": "I watch the news in the morning(s)",
+    "de": "Ich sehe morgens Nachrichten",
+    "groupCode": 1
+  },
+  {
+    "id": 12445,
+    "en": "I leave the apartment at half past seven",
+    "de": "Ich verlasse um halb acht die Wohnung",
+    "groupCode": 1
+  },
+  {
+    "id": 12446,
+    "en": "I clean my teeth at eight o'clock",
+    "de": "I putze mir die Zähne um acht Uhr",
+    "groupCode": 1
+  },
+  {
+    "id": 12447,
+    "en": "Why are you leaving the apartment at half past nine this week?",
+    "de": "Warum verlasst ihr diese Woche um halb zehn die Wohnung?",
+    "groupCode": 1
+  },
+  {
+    "id": 12448,
+    "en": "She has left him",
+    "de": "Sie hat ihn verlassen",
+    "groupCode": 1
+  },
+  {
+    "id": 12449,
+    "en": "I have two meetings on Mondays",
+    "de": "Ich habe montags zwei Treffen",
+    "groupCode": 1
+  },
+  {
+    "id": 12450,
+    "en": "Do you always have so many meetings on Fridays?",
+    "de": "Hast du immer freitags so viele Treffen?",
     "groupCode": 1
   }
 ]

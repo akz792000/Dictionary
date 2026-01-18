@@ -11097,13 +11097,13 @@
   },
   {
     "id": 4819,
-    "fa": "بچرخان فرمان خود را تا انتها به سمت راست و قرار (شیفت) بدش در دنده اول",
+    "fa": "بچرخان فرمان خود را تا انتها به سمت راست و قرار (شیفت) بد در دنده اول",
     "en": "Turn your wheel all the way to the right and shift into first gear",
     "groupCode": 0
   },
   {
     "id": 4820,
-    "fa": "رها کن کلاچ را و بده کمی گاز",
+    "fa": "رها کن کلاچ را و بده بهش مقداری گاز",
     "en": "Ease off the clutch and give it some gas",
     "groupCode": 0
   },
@@ -11127,8 +11127,8 @@
   },
   {
     "id": 4824,
-    "fa": "آشوبگر خشم را برانگیخت و شورشیان نیز از او پیروی کردند",
-    "en": "The agitator /ˈajəˌtādər/ incited anger, and the insurrectionists /ˌɪnsəˈrɛkʃənɪst/ followed",
+    "fa": "من احساس یک هیجان می کنم وقتی من (میرم روی) سوار یک ترن هوایی می شوم",
+    "en": "I feel a rush when I go on a roller coaster",
     "groupCode": 0
   },
   {
@@ -11147,6 +11147,24 @@
     "id": 4827,
     "fa": "من آرام ماندم در میان هرج و مرج",
     "en": "I stayed calm amid the chaos",
+    "groupCode": 0
+  },
+  {
+    "id": 4828,
+    "fa": "نمی نوشی شما یک آبجوی گندم؟",
+    "en": "Don't you drink a wheat beer?",
+    "groupCode": 0
+  },
+  {
+    "id": 4829,
+    "fa": "آیا هست یک دربان اینجا؟",
+    "en": "Is there a concierge /ˌkänˈsyer(d)ZH/ here?",
+    "groupCode": 0
+  },
+  {
+    "id": 4830,
+    "fa": "من (همین الان) چانه زدم برای یه معامله سر یک لپ تاب",
+    "en": "I just haggled for a deal on a laptop",
     "groupCode": 0
   }
 ]

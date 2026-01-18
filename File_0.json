@@ -7379,7 +7379,7 @@
   },
   {
     "id": 1214,
-    "fa": "سفارش شما تا دقایقی دیگر سرو خواهد شد",
+    "fa": "سفارش شما سرو خواهد شد تا (در) یک چند دقایقی دیگر",
     "en": "Your order will be served in a few minutes",
     "groupCode": 0
   },
@@ -12981,7 +12981,7 @@
   {
     "id": 2136,
     "fa": "من نزدیک بین/دور بین هستم",
-    "en": "I'm near sighted/far-sighted",
+    "en": "I'm near sighted (short-sighted) /far-sighted (long-sighted)",
     "groupCode": 0
   },
   {
@@ -14604,7 +14604,7 @@
   },
   {
     "id": 2404,
-    "fa": "معلم مجبور شد مرخص کند کلاس را زودتر به دلیل قطعی برق",
+    "fa": "معلم مجبور شد مرخص کند کلاس را زودتر به دلیل یک قطعی برق",
     "en": "The teacher had to dismiss the class early due to a power outage",
     "groupCode": 0
   },
