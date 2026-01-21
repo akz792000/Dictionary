@@ -11070,7 +11070,7 @@
   },
   {
     "id": 11815,
-    "en": "I'm getting money at the ATM because the bank is closed",
+    "en": "I'm getting money at the ATMs because the bank is closed",
     "de": "Ich hole Geld am Geldautomaten, weil die Bank geschlossen ist",
     "groupCode": 1
   },
@@ -14870,14 +14870,14 @@
   },
   {
     "id": 12439,
-    "en": "Where can one (someone) find an ATM here?",
+    "en": "Where can one (someone) find an ATMs here?",
     "de": "Wo kann man hier einen Geldautomaten finden?",
     "groupCode": 1
   },
   {
     "id": 12440,
-    "en": "This dress is beautiful and very cheaper, but unfortunately it doesn't fit me",
-    "de": "Dieses Kleid ist wunderschön und sehr billiger, aber es passt mir leider nicht",
+    "en": "This dress is beautiful and very cheap, but unfortunately it doesn't fit me",
+    "de": "Dieses Kleid ist wunderschön und sehr billig, aber es passt mir leider nicht",
     "groupCode": 1
   },
   {
@@ -14900,7 +14900,7 @@
   },
   {
     "id": 12444,
-    "en": "I watch the news in the morning(s)",
+    "en": "I see the news in the morning(s)",
     "de": "Ich sehe morgens Nachrichten",
     "groupCode": 1
   },
@@ -14918,7 +14918,7 @@
   },
   {
     "id": 12447,
-    "en": "Why are you leaving the apartment at half past nine this week?",
+    "en": "Why are you (plural) leaving the apartment at half past nine this week?",
     "de": "Warum verlasst ihr diese Woche um halb zehn die Wohnung?",
     "groupCode": 1
   },
@@ -14938,6 +14938,66 @@
     "id": 12450,
     "en": "Do you always have so many meetings on Fridays?",
     "de": "Hast du immer freitags so viele Treffen?",
+    "groupCode": 1
+  },
+  {
+    "id": 12451,
+    "en": "What do you do on the farm after work?",
+    "de": "Was machst du auf dem Bauernhof nach der Arbeit?",
+    "groupCode": 1
+  },
+  {
+    "id": 12452,
+    "en": "I work on the twelfth floor in the afternoon(s), but first I eat at twelve",
+    "de": "Ich arbeite nachmittags im zwölften Stock, aber zuerst esse ich um zwölf",
+    "groupCode": 1
+  },
+  {
+    "id": 12453,
+    "en": "Do you have to leave the house at half past six on Mondays?",
+    "de": "Musst du montags um halb sieben das Haus verlassen?",
+    "groupCode": 1
+  },
+  {
+    "id": 12454,
+    "en": "I get up at seven o'clock and shower immediately. Then I leave the house at eight o'clock and listen to the news in the car",
+    "de": "Ich stehe um Sieben Uhr auf und dusche sofort. Dann verlasse ich um acht Uhr das Haus und höre im Auto die Nachrichten",
+    "groupCode": 1
+  },
+  {
+    "id": 12455,
+    "en": "\n 1.I rent an apartment \n 2.I rent out my apartment",
+    "de": "\n 1.Ich miete eine Wohnung \n 2.Ich vermiete meine Wohnung",
+    "groupCode": 1
+  },
+  {
+    "id": 12456,
+    "en": "\n 1.I need peace \n 2.The room is quiet",
+    "de": "\n 1.Ich brauche Ruhe \n 2.Der Raum ist ruhig",
+    "groupCode": 1
+  },
+  {
+    "id": 12457,
+    "en": "\n 1.I didn't hear the question \n 2.I didn't listen to the question",
+    "de": "\n 1.Ich habe die Frage nicht hört \n 2.Ich habe die Frage nicht gehört",
+    "groupCode": 1
+  },
+  {
+    "id": 12458,
+    "en": "Where did you (plural) go on vacation last summer?",
+    "de": "Wo habt ihr letzten Sommer Urlaub gemacht?",
+    "groupCode": 1
+  },
+  {
+    "id": 12459,
+    "en": "We were in Switzerland one month ago",
+    "de": "Wir waren vor einem Monat in der Schweiz",
+    "groupCode": 1
+  },
+  {
+    "id": 12460,
+    "en": "Unfortunately, I had a cold two weeks ago",
+    "de": "Leider hatte ich vor zwei Wochen eine Erkältung",
     "groupCode": 1
   }
 ]
