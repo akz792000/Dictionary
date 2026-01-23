@@ -6440,6 +6440,7 @@
     "id": 11058,
     "en": "I'm hungry. Where are the groceries?",
     "de": "Ich bin hungrig. Wo sind die Lebensmittel?",
+    "desc": "„Lebensmittel“ is plural-only in German (there is no singular das Lebensmittel in normal use).",
     "groupCode": 1
   },
   {
@@ -7758,7 +7759,8 @@
   {
     "id": 11275,
     "en": "The wallet is brown",
-    "de": "Der Geldbeutel ist braun",
+    "de": "Der Geldbeutel/Portemonnaie ist braun",
+    "desc": "Portemonnaie → more formal, French-influenced, often used in written German or slightly fancy contexts.\n\nGeldbeutel → more colloquial, everyday German, literally “money bag.”",
     "groupCode": 1
   },
   {
@@ -13451,7 +13453,7 @@
   },
   {
     "id": 12205,
-    "en": "I rent my apartment to tourists",
+    "en": "I rent out my apartment to tourists",
     "de": "Ich vermiete meine Wohnung an Touristen",
     "desc": "an + accusative = direction / recipient of an action\n\nThink of it like English “to” in give to someone, send to someone, rent to someone",
     "groupCode": 1
@@ -13714,8 +13716,9 @@
   },
   {
     "id": 12248,
-    "en": "Do you want to sit in the front or the back?",
-    "de": "Willst du vorne oder hinten sitzen?",
+    "en": "\n 1.Do you want to sit in the front or the back? \n 2.Do you want to sit in front of me or behind me?",
+    "de": "\n 1.Willst du vorne oder hinten sitzen? \n 2.Willst du vor mir oder hinter mir sitzen?",
+    "desc": "Rule of thumb:\nNo object → vorne / hinten\nWith an object → vor / hinter",
     "groupCode": 1
   },
   {
@@ -14003,7 +14006,7 @@
   },
   {
     "id": 12295,
-    "en": "Wait a minute Please, I'm not finished yet",
+    "en": "A minute please, I'm not finished yet",
     "de": "Einen Moment bitte, ich bin noch nicht fertig",
     "groupCode": 1
   },
@@ -14401,7 +14404,7 @@
   },
   {
     "id": 12361,
-    "en": "Could you please tell (say) me how many people stand in front of or behind me?",
+    "en": "Could you (formal) please tell (say) me how many people stand in front of or behind me?",
     "de": "Könnten Sie mir bitte sagen, wie viele Personen/Leute vor oder hinter mir stehen?",
     "groupCode": 1
   },
@@ -14455,7 +14458,7 @@
   },
   {
     "id": 12370,
-    "en": "Could you please tell (say) me how many people are ahead of me?",
+    "en": "Could you (formal) please tell (say) me how many people are ahead of me?",
     "de": "Könnten Sie mir bitte sagen, wie viele Personen/Leute vor mir sind?",
     "groupCode": 1
   },
@@ -14816,7 +14819,7 @@
   },
   {
     "id": 12430,
-    "en": "We drove through the mountains, it was fantastic",
+    "en": "We drove through the mountains, that was fantastic",
     "de": "Wir sind durch die Berge gefahren, das war großartig",
     "groupCode": 1
   },
@@ -14858,7 +14861,7 @@
   },
   {
     "id": 12437,
-    "en": "Clothes are on the fifth floor, but we're going home in five minutes",
+    "en": "Clothes are on (in) the fifth floor, but we're going home in five minutes",
     "de": "Kleider sind im fünften stock, aber wir gehen in fünf Minuten nach Hause",
     "groupCode": 1
   },
@@ -14870,7 +14873,7 @@
   },
   {
     "id": 12439,
-    "en": "Where can one (someone) find an ATMs here?",
+    "en": "Where can one (someone) find an ATM here?",
     "de": "Wo kann man hier einen Geldautomaten finden?",
     "groupCode": 1
   },
@@ -14948,7 +14951,7 @@
   },
   {
     "id": 12452,
-    "en": "I work on the twelfth floor in the afternoon(s), but first I eat at twelve",
+    "en": "I work on (in) the twelfth floor in the afternoon(s), but first I eat at twelve",
     "de": "Ich arbeite nachmittags im zwölften Stock, aber zuerst esse ich um zwölf",
     "groupCode": 1
   },
@@ -14974,17 +14977,19 @@
     "id": 12456,
     "en": "\n 1.I need peace \n 2.The room is quiet",
     "de": "\n 1.Ich brauche Ruhe \n 2.Der Raum ist ruhig",
+    "desc": "Zimmer = a normal room you live or stay in (bedroom, hotel room).\nRaum = space or a room in a general, abstract, or formal sense.\n\n\uD83D\uDC49 Everyday room → Zimmer\n\uD83D\uDC49 Space / formal use → Raum",
     "groupCode": 1
   },
   {
     "id": 12457,
     "en": "\n 1.I didn't hear the question \n 2.I didn't listen to the question",
-    "de": "\n 1.Ich habe die Frage nicht hört \n 2.Ich habe die Frage nicht gehört",
+    "de": "\n 1.Ich habe die Frage nicht gehört \n 2.Ich habe der Frage nicht zugehört",
+    "desc": "hören → takes accusative (direct object)\n\nExample: Ich höre die Musik. → I hear the music.\n\nzuhören → takes dative (listening to someone/something)\n\nExample: Ich höre dem Lehrer zu. → I listen to the teacher.\n\nQuick tip to remember:\n\nhören = just hear → accusative\n\nzuhören = actively listen → dative",
     "groupCode": 1
   },
   {
     "id": 12458,
-    "en": "Where did you (plural) go on vacation last summer?",
+    "en": "Where did you (plural) (make) on vacation last summer?",
     "de": "Wo habt ihr letzten Sommer Urlaub gemacht?",
     "groupCode": 1
   },
@@ -14998,6 +15003,67 @@
     "id": 12460,
     "en": "Unfortunately, I had a cold two weeks ago",
     "de": "Leider hatte ich vor zwei Wochen eine Erkältung",
+    "groupCode": 1
+  },
+  {
+    "id": 12461,
+    "en": "\n 1.I'm on vacation \n 2.I'm going on vacation",
+    "de": "\n 1.Ich mache Urlaub \n 2.Ich gehe in den Urlaub",
+    "groupCode": 1
+  },
+  {
+    "id": 12462,
+    "en": "I go to bed around eleven o'clock on Fridays",
+    "de": "Ich gehe freitags gegen elf Uhr ins Bett",
+    "groupCode": 1
+  },
+  {
+    "id": 12463,
+    "en": "She doesn't fall asleep without a cup of tea. I often fall asleep before her",
+    "de": "Sie Schläft ohne eine Tasse Tee nicht ein. Ich schlafe oft vor ihr ein",
+    "groupCode": 1
+  },
+  {
+    "id": 12464,
+    "en": "Sometimes I don't turn off the TV",
+    "de": "Manchmal mache ich den Fernseher nicht aus",
+    "groupCode": 1
+  },
+  {
+    "id": 12465,
+    "en": "I turn everything off before ten o'clock.",
+    "de": "Ich mache vor zehn Uhr alles aus",
+    "groupCode": 1
+  },
+  {
+    "id": 12466,
+    "en": "Every evening I read a magazine in bed. At midnight my brother always turns off the light, then I can't read anymore.",
+    "de": "Jeden Aben lese ich eine Zeitschrift im Bett. Um Mitternacht macht mein Bruder immer das Licht aus, dann kann ich nicht mehr lesen",
+    "groupCode": 1
+  },
+  {
+    "id": 12467,
+    "en": "On the fourteenth floor are shoes, not suits",
+    "de": "Im vierzehnten Stock sind Schuhe, nicht Anzüge",
+    "groupCode": 1
+  },
+  {
+    "id": 12468,
+    "en": "I'm looking for an ATM, is it on (in) the sixth floor?",
+    "de": "Ich suche einen Geldautomaten, ist er im sechsten Stock?",
+    "groupCode": 1
+  },
+  {
+    "id": 12469,
+    "en": "Where can I pay here?",
+    "de": "Wo kann man hier zahlen?",
+    "desc": "Zahlen = pay an amount (Ich zahle 10 Euro.)\nBezahlen = pay for a thing (Ich bezahle die Rechnung.)\n\nShortcut: amount → zahlen, thing → bezahlen",
+    "groupCode": 1
+  },
+  {
+    "id": 12470,
+    "en": "The cash register is on the fifth floor.",
+    "de": "Die kasse ist im fünften Stock",
     "groupCode": 1
   }
 ]
