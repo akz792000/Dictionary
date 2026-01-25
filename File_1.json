@@ -11117,7 +11117,7 @@
   {
     "id": 4822,
     "fa": "این یک پیام صریح است و نباید گرفته شود به عنوان یک تلاشی برای توجیه یا تخفیف (نرم کردن) مسئله",
-    "en": "This is a blunt message and should not be taken as an attempt to consort or soften the issue",
+    "en": "This is a blunt message and should not be taken as an attempt to consort /کان سُرت/ or soften the issue",
     "groupCode": 0
   },
   {
@@ -11171,7 +11171,7 @@
   {
     "id": 4831,
     "fa": "ریاکاری شما خیره کننده است",
-    "en": "Your hypocrisy (هی پُک راسی) is stunning",
+    "en": "Your hypocrisy (هی پُک رِسی) is stunning",
     "groupCode": 0
   },
   {
@@ -11200,7 +11200,7 @@
   },
   {
     "id": 4836,
-    "fa": "احتمال زیاد نیست که یک آتش آتشی شعله ور خواهد شد در محل کار شما",
+    "fa": "احتمال زیاد نیست که یک آتش شعله ور خواهد شد در محل کار شما",
     "en": "It's not very likely that a fire will break out at your workplace",
     "groupCode": 0
   },
@@ -11220,6 +11220,30 @@
     "id": 4839,
     "fa": "به چه کسی باید گزارشش بدهم؟",
     "en": "To whom should I report it?",
+    "groupCode": 0
+  },
+  {
+    "id": 4840,
+    "fa": "دانه ها شروع کردند تا جوانه یزنن پس از یک چند روزها از باران",
+    "en": "The seeds began to sprout after a few days of rain",
+    "groupCode": 0
+  },
+  {
+    "id": 4841,
+    "fa": "گل ها شروع کردند تا پژمرده شدن در گرما",
+    "en": "The flowers began to wilt in the heat",
+    "groupCode": 0
+  },
+  {
+    "id": 4842,
+    "fa": "من نمی خواهم چیزی از قلم بیفتد (تا از میان شکاف ها عبور کردن) در روز شلوغم",
+    "en": "I don’t want anything to slip through the cracks in my busy day",
+    "groupCode": 0
+  },
+  {
+    "id": 4843,
+    "fa": "آن داستان است به طور زیادی یک تحریف پس از جنگ",
+    "en": "That story is largely a post-war distortion",
     "groupCode": 0
   }
 ]

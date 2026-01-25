@@ -7759,7 +7759,7 @@
   {
     "id": 11275,
     "en": "The wallet is brown",
-    "de": "Der Geldbeutel/Portemonnaie ist braun",
+    "de": "Der Geldbeutel / Der Portemonnaie ist braun",
     "desc": "Portemonnaie → more formal, French-influenced, often used in written German or slightly fancy contexts.\n\nGeldbeutel → more colloquial, everyday German, literally “money bag.”",
     "groupCode": 1
   },
@@ -10865,7 +10865,7 @@
   },
   {
     "id": 11781,
-    "en": "Do you prefer reading on campus or by (at) the lake?",
+    "en": "Do you prefer reading on the campus or by (at) the lake?",
     "de": "Liest du lieber auf dem Campus oder am See?",
     "groupCode": 1
   },
@@ -14006,7 +14006,7 @@
   },
   {
     "id": 12295,
-    "en": "A minute please, I'm not finished yet",
+    "en": "A moment please, I'm not finished yet",
     "de": "Einen Moment bitte, ich bin noch nicht fertig",
     "groupCode": 1
   },
@@ -14621,7 +14621,7 @@
   },
   {
     "id": 12397,
-    "en": "We travelled (drove) to Zurich by train",
+    "en": "We travelled (drove) to Zurich by the train",
     "de": "Wir sind mit dem Zug nach Zürich gefahren",
     "groupCode": 1
   },
@@ -15007,13 +15007,13 @@
   },
   {
     "id": 12461,
-    "en": "\n 1.I'm on vacation \n 2.I'm going on vacation",
+    "en": "\n 1.I'm on vacation \n 2.I'm going on (the) vacation",
     "de": "\n 1.Ich mache Urlaub \n 2.Ich gehe in den Urlaub",
     "groupCode": 1
   },
   {
     "id": 12462,
-    "en": "I go to bed around eleven o'clock on Fridays",
+    "en": "I go into the bed around eleven o'clock on Fridays",
     "de": "Ich gehe freitags gegen elf Uhr ins Bett",
     "groupCode": 1
   },
@@ -15043,7 +15043,7 @@
   },
   {
     "id": 12467,
-    "en": "On the fourteenth floor are shoes, not suits",
+    "en": "On (in) the fourteenth floor are shoes, not suits",
     "de": "Im vierzehnten Stock sind Schuhe, nicht Anzüge",
     "groupCode": 1
   },
@@ -15062,8 +15062,68 @@
   },
   {
     "id": 12470,
-    "en": "The cash register is on the fifth floor.",
+    "en": "The cash register is on the fifth floor",
     "de": "Die kasse ist im fünften Stock",
+    "groupCode": 1
+  },
+  {
+    "id": 12471,
+    "en": "My suit and your dress together cost three hundred euros",
+    "de": "Mein Anzug und dein Kleid kosten zusammen dreihundert Euro",
+    "groupCode": 1
+  },
+  {
+    "id": 12472,
+    "en": "Please put my book on the table, I must learn",
+    "de": "Leg bitte mein Buch auf den Tisch, ich muss lernen",
+    "groupCode": 1
+  },
+  {
+    "id": 12473,
+    "en": "I like (appearance or impression) the table",
+    "de": "Der Tisch gefällt mir",
+    "groupCode": 1
+  },
+  {
+    "id": 12474,
+    "en": "When does the subway come? The subway comes in nine minutes",
+    "de": "Wann kommt die U-Bahn? Die U-Bahn kommt in neun Minuten",
+    "groupCode": 1
+  },
+  {
+    "id": 12475,
+    "en": "Ben gets up late on Mondays, but this Monday he has to get up earlier",
+    "de": "Ben steht montags spät auf, aber diesen Montag muss er früher aufstehen",
+    "groupCode": 1
+  },
+  {
+    "id": 12476,
+    "en": "I always have to call many customers in the afternoons",
+    "de": "Ich muss nachmittags immer viele Kunden anrufen",
+    "groupCode": 1
+  },
+  {
+    "id": 12477,
+    "en": "There are a hundred plants in our offices",
+    "de": "Es gibt hundert Pflanzen in unseren Büros",
+    "groupCode": 1
+  },
+  {
+    "id": 12478,
+    "en": "Badest du jeden Tag oder nur am Wochenende?",
+    "de": "Do you take a bath every day or only on the weekend?",
+    "groupCode": 1
+  },
+  {
+    "id": 12479,
+    "en": "Is the ATM on the first or second floor?",
+    "de": "Ist der Geldautomat im ersten oder zweiten stock?",
+    "groupCode": 1
+  },
+  {
+    "id": 12480,
+    "en": "My boyfriend is often tired and always falls asleep on the couch",
+    "de": "Mein Freund ist oft müde und schläft immer auf der Couch ein",
     "groupCode": 1
   }
 ]
