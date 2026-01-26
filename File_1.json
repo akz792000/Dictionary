@@ -11251,35 +11251,5 @@
     "fa": "بیا الکی جو ندیم",
     "en": "Let's not get carried away",
     "groupCode": 0
-  },
-  {
-    "id":,
-    "fa": "",
-    "en": "I even offered to step aside immediately if you objected",
-    "groupCode": 0
-  },
-  {
-    "id":,
-    "fa": "",
-    "en": "CO2 is dissolved in the blood as carbonic acid. An increase in its concentration in the air we breathe can acidify the blood and endanger vital biochemical processes",
-    "groupCode": 0
-  },
-  {
-    "id":,
-    "fa": "",
-    "en": "Honestly, I see value on both sides and don’t limit myself to just one camp. That said, if I have to pick one, I’d lean toward Con: keep AI with developers.",
-    "groupCode": 0
-  },
-  {
-    "id":,
-    "fa": "",
-    "en": "As for why me: the only thing that comes to mind is that I don’t talk much — I act",
-    "groupCode": 0
-  },
-  {
-    "id":,
-    "fa": "",
-    "en": "I got the same result, so I’d leave it as is. You can just run the SELECT query in prod and see for yourself if anything looks off",
-    "groupCode": 0
   }
 ]
