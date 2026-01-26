@@ -15055,7 +15055,7 @@
   },
   {
     "id": 12469,
-    "en": "Where can I pay here?",
+    "en": "Where can one (someone) pay here?",
     "de": "Wo kann man hier zahlen?",
     "desc": "Zahlen = pay an amount (Ich zahle 10 Euro.)\nBezahlen = pay for a thing (Ich bezahle die Rechnung.)\n\nShortcut: amount → zahlen, thing → bezahlen",
     "groupCode": 1
