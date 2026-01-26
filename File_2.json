@@ -7759,7 +7759,7 @@
   {
     "id": 11275,
     "en": "The wallet is brown",
-    "de": "Der Geldbeutel / Der Portemonnaie ist braun",
+    "de": "Der Geldbeutel / Das Portemonnaie ist braun",
     "desc": "Portemonnaie → more formal, French-influenced, often used in written German or slightly fancy contexts.\n\nGeldbeutel → more colloquial, everyday German, literally “money bag.”",
     "groupCode": 1
   },
@@ -14814,7 +14814,7 @@
   {
     "id": 12429,
     "en": "You have to find your wallet",
-    "de": "Du musst dein Portemonnaie /pɔrtmɔˈneː/ finden",
+    "de": "Du musst dein (das) Portemonnaie /pɔrtmɔˈneː/ finden",
     "groupCode": 1
   },
   {
@@ -14903,7 +14903,7 @@
   },
   {
     "id": 12444,
-    "en": "I see the news in the morning(s)",
+    "en": "I see (the) news in the morning(s)",
     "de": "Ich sehe morgens Nachrichten",
     "groupCode": 1
   },
@@ -15124,6 +15124,36 @@
     "id": 12480,
     "en": "My boyfriend is often tired and always falls asleep on the couch",
     "de": "Mein Freund ist oft müde und schläft immer auf der Couch ein",
+    "groupCode": 1
+  },
+  {
+    "id": 12481,
+    "en": "My father likes to practice German with the horse",
+    "de": "Mein Vater übt gern mit dem Pferd Deutsch",
+    "groupCode": 1
+  },
+  {
+    "id": 12482,
+    "en": "I went to the cinema with the lion yesterday",
+    "de": "Ich bin gestern mit dem Löwen ins Kino gegangen",
+    "groupCode": 1
+  },
+  {
+    "id": 12483,
+    "en": "Are there enough trees in the garden for the giraffe?",
+    "de": "Gibt es im Garten genug Bäume für die Giraffe?",
+    "groupCode": 1
+  },
+  {
+    "id": 12484,
+    "en": "Are these carrots for your son's rabbit?",
+    "de": "Sind diese Karotten für das Kaninchen von deinem Sohn?",
+    "groupCode": 1
+  },
+  {
+    "id": 12485,
+    "en": "Do you really only know one joke?",
+    "de": "Kennst du wirklich nur einen Witz?",
     "groupCode": 1
   }
 ]

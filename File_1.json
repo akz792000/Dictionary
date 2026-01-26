@@ -10360,7 +10360,7 @@
   },
   {
     "id": 4698,
-    "fa": "چه بد، به هر حال زیاد امید نداشتم (من امید نمی داشتم به طور جدی به هر حال)",
+    "fa": "چه بد، من به هر حال زیاد امید نداشتم (من امیدها نمی داشتم به طور جدی به هر حال)",
     "en": "Too bad; I wasn't seriously getting my hopes up anyway",
     "groupCode": 0
   },
@@ -11224,7 +11224,7 @@
   },
   {
     "id": 4840,
-    "fa": "دانه ها شروع کردند تا جوانه یزنن پس از یک چند روزها از باران",
+    "fa": "دانه ها شروع کردند تا جوانه بزنن پس از یک چند روزها از باران",
     "en": "The seeds began to sprout after a few days of rain",
     "groupCode": 0
   },
@@ -11237,13 +11237,49 @@
   {
     "id": 4842,
     "fa": "من نمی خواهم چیزی از قلم بیفتد (تا از میان شکاف ها عبور کردن) در روز شلوغم",
-    "en": "I don’t want anything to slip through the cracks in my busy day",
+    "en": "I don't want anything to slip through the cracks in my busy day",
     "groupCode": 0
   },
   {
     "id": 4843,
     "fa": "آن داستان است به طور زیادی یک تحریف پس از جنگ",
     "en": "That story is largely a post-war distortion",
+    "groupCode": 0
+  },
+  {
+    "id": 4844,
+    "fa": "بیا الکی جو ندیم",
+    "en": "Let's not get carried away",
+    "groupCode": 0
+  },
+  {
+    "id":,
+    "fa": "",
+    "en": "I even offered to step aside immediately if you objected",
+    "groupCode": 0
+  },
+  {
+    "id":,
+    "fa": "",
+    "en": "CO2 is dissolved in the blood as carbonic acid. An increase in its concentration in the air we breathe can acidify the blood and endanger vital biochemical processes",
+    "groupCode": 0
+  },
+  {
+    "id":,
+    "fa": "",
+    "en": "Honestly, I see value on both sides and don’t limit myself to just one camp. That said, if I have to pick one, I’d lean toward Con: keep AI with developers.",
+    "groupCode": 0
+  },
+  {
+    "id":,
+    "fa": "",
+    "en": "As for why me: the only thing that comes to mind is that I don’t talk much — I act",
+    "groupCode": 0
+  },
+  {
+    "id":,
+    "fa": "",
+    "en": "I got the same result, so I’d leave it as is. You can just run the SELECT query in prod and see for yourself if anything looks off",
     "groupCode": 0
   }
 ]
