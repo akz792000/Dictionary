@@ -1461,7 +1461,7 @@
   },
   {
     "id": 242,
-    "fa": "قطار قرار بود ساعت 9 بیاید اما تا ساعت 10 نرسید",
+    "fa": "قطار ساعت 9 قرار بود اما تا ساعت 10 نرسید",
     "en": "The train was due at 9, but it didn't get in until 10",
     "groupCode": 0
   },
@@ -3735,8 +3735,9 @@
   },
   {
     "id": 618,
-    "fa": "با خودت چی داری غرغر میکنی؟",
-    "en": "What are you muttering to yourself?",
+    "fa": "با خودت چی داری غرغر (زیرلب) میکنی؟",
+    "en": "What are you muttering /ماترینگ/ to yourself?",
+    "desc": "Muttering = speaking quietly to yourself, often in annoyance.\n\nWhining = complaining in an annoying or childish way to others.",
     "groupCode": 0
   },
   {

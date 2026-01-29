@@ -5642,7 +5642,7 @@
   },
   {
     "id": 3923,
-    "fa": "دارید عالی پیش میری",
+    "fa": "شما دارید (یک) عالی پیش میری",
     "en": "You're on a roll!",
     "desc": "\"You're on a roll!\" means you are having a streak of success or doing very well at something consistently.\n",
     "groupCode": 0
@@ -11122,7 +11122,7 @@
   },
   {
     "id": 4823,
-    "fa": "آشوبگر خشم را برانگیخت و شورشیان نیز از او پیروی کردند",
+    "fa": "آشوبگر خشم را برانگیخت و شورشیان نیز پیروی کردند",
     "en": "The agitator /ˈajəˌtādər/ incited anger, and the insurrectionists /ˌɪnsəˈrɛkʃənɪst/ followed",
     "groupCode": 0
   },
@@ -11250,6 +11250,30 @@
     "id": 4844,
     "fa": "بیا الکی جو ندیم",
     "en": "Let's not get carried away",
+    "groupCode": 0
+  },
+  {
+    "id": 4845,
+    "fa": "مطمئناً. من خواهم شد امروز تا ساعت ۱۰ شب آنلاین. اگر کسی به من نیاز دارد، فقط بدهد یک لایک (شستها بالا)",
+    "en": "Sure. I'll be online until 10 PM today. If anyone needs me, just give a thumbs-up",
+    "groupCode": 0
+  },
+  {
+    "id": 4846,
+    "fa": "من دارم یک وقت ملاقات امروز در حدود ساعت ۲:۳۰. من دور خواهم بود برای حدود ۲ ساعت",
+    "en": "I have an appointment today at around 2:30. I'll be away for about 2 hours",
+    "groupCode": 0
+  },
+  {
+    "id": 4847,
+    "fa": "سلام مرد، یادت هست قبلاً وقتی تو موردها داشتی با داکر در حالبکه اجرا می کردی تست های محلی؟ چیکار کردی تا برطرفش کنی؟",
+    "en": "Hey man, remember back in the day when you had issues with Docker while running local tests? What did you do to fix it?",
+    "groupCode": 0
+  },
+  {
+    "id": 4848,
+    "fa": "من حتی پیشنهاد دادم تا فوراً کناره گیری کنم که اگر شما مخالفت کردی",
+    "en": "I even offered to step aside immediately if you objected",
     "groupCode": 0
   }
 ]

@@ -7061,7 +7061,7 @@
   },
   {
     "id": 11160,
-    "en": "Your passport is not in taxi, it is in your hand",
+    "en": "Your passport is not in taxi, that is in your hand",
     "de": "Dein Pass ist nicht im Taxi, Das ist in deiner Hand",
     "desc": "\"Im\" is a contraction of \"in dem,\"",
     "groupCode": 1
@@ -8133,7 +8133,7 @@
   },
   {
     "id": 11336,
-    "en": "Please (you) (formal) send me information about films, museums and the cultural program",
+    "en": "Please you (formal) send me information about films, museums and the cultural program",
     "de": "Bitte schicken Sie mir Informationen über Filme, Museen und das Kulturprogramm",
     "groupCode": 1
   },
@@ -13071,7 +13071,7 @@
   {
     "id": 12142,
     "en": "In this supermarket the vegetables are the cheapest",
-    "de": "In diesem Supermarkt sind die Gemüse am billigsten",
+    "de": "In diesem Supermarkt sind das Gemüse am billigsten",
     "desc": "Explanation\n\nGemüse is an uncountable noun in German.\n\nIt has no separate singular or plural form.\n\nYou use quantity words instead:\n\nExamples:\n\nviel Gemüse (a lot of vegetables)\n\netwas Gemüse (some vegetables)\n\nGemüsesorten (types of vegetables)\n\nSo:\n✔ das Gemüse\n✔ viel Gemüse\n✘ die Gemüse (incorrect)",
     "groupCode": 1
   },
@@ -14370,6 +14370,7 @@
     "id": 12355,
     "en": "Why aren't you eating the onions and the mushrooms? Don't you like a vegetable?",
     "de": "Warum isst du die Zwiebeln und die Pilze nicht? Magst du kein Gemüse?",
+    "desc": "Most German words ending in -e can be tricky, but „Gemüse“ is always neuter (das).",
     "groupCode": 1
   },
   {
@@ -15039,6 +15040,7 @@
     "id": 12466,
     "en": "Every evening I read a magazine in bed. At midnight my brother always turns off the light, then I can't read anymore.",
     "de": "Jeden Aben lese ich eine Zeitschrift im Bett. Um Mitternacht macht mein Bruder immer das Licht aus, dann kann ich nicht mehr lesen",
+    "desc": "Why?\n\n„um“ = for exact points in time\n\n„am“ = for days / dates\n\nCorrect:\n\num Mitternacht\n\num 12 Uhr\n\num 3:30",
     "groupCode": 1
   },
   {
@@ -15074,7 +15076,7 @@
   },
   {
     "id": 12472,
-    "en": "Please put my book on the table, I must learn",
+    "en": "Please lay my book on the table, I must learn",
     "de": "Leg bitte mein Buch auf den Tisch, ich muss lernen",
     "groupCode": 1
   },
@@ -15136,6 +15138,7 @@
     "id": 12482,
     "en": "I went to the cinema with the lion yesterday",
     "de": "Ich bin gestern mit dem Löwen ins Kino gegangen",
+    "desc": "Because „mit“ always takes the dative case, and „der Löwe“ changes to „dem Löwen“ in dative.\n\nBreakdown\n\nNominative (base form): der Löwe\n\nDative (after mit): dem Löwen\n\nSo:\n\nIch bin mit dem Löwen ins Kino gegangen.\n\nWhy the -n?\n\nMany masculine nouns (often animals or people) are weak nouns (n-Deklination).\nThey add -n or -en in all cases except nominative singular.\n\nExamples:\n\nder Löwe → dem Löwen\n\nder Junge → dem Jungen\n\nder Student → dem Studenten\n\nder Mensch → dem Menschen",
     "groupCode": 1
   },
   {
@@ -15146,7 +15149,7 @@
   },
   {
     "id": 12484,
-    "en": "Are these carrots for your son's rabbit?",
+    "en": "Are these carrots for the rabbit of your son?",
     "de": "Sind diese Karotten für das Kaninchen von deinem Sohn?",
     "groupCode": 1
   },
@@ -15154,6 +15157,36 @@
     "id": 12485,
     "en": "Do you really only know one joke?",
     "de": "Kennst du wirklich nur einen Witz?",
+    "groupCode": 1
+  },
+  {
+    "id": 12486,
+    "en": "You moved to another city and we speak only little",
+    "de": "Du bist in eine andere Stadt umgezogen und wir sprechen nur wenig",
+    "groupCode": 1
+  },
+  {
+    "id": 12487,
+    "en": "The children were too loud, nobody could sleep",
+    "de": "Die Kinder waren zu laut, niemand konnte schlafen",
+    "groupCode": 1
+  },
+  {
+    "id": 12488,
+    "en": "Was the trip exhausting? Yes, I slept a lot the next day",
+    "de": "War die Reise anstrengend? Ja, ich habe am nächsten Tag viel geschlafen",
+    "groupCode": 1
+  },
+  {
+    "id": 12489,
+    "en": "The lion sometimes annoys me, he always speacks so loudly",
+    "de": "Der Löwe nervt mich manchmal, er spricht immer so laut",
+    "groupCode": 1
+  },
+  {
+    "id": 12490,
+    "en": "It starts to rain",
+    "de": "Es fängt an zu regnen",
     "groupCode": 1
   }
 ]
