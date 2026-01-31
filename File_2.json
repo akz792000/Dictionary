@@ -12045,7 +12045,7 @@
   {
     "id": 11974,
     "en": "You can take the bus to the party, or we can pick you up. It's really no problem. Let me know",
-    "de": "Du kannst den Bus zur Party nehmen oder wir Können dich abholen. Das ist wirklich kein Problem. Sag Bescheid",
+    "de": "Du kannst den Bus zur Party nehmen oder wir Können dich abholen. Das ist wirklich kein Problem. Gib mir Bescheid",
     "groupCode": 1
   },
   {
@@ -14815,7 +14815,7 @@
   {
     "id": 12429,
     "en": "You have to find your wallet",
-    "de": "Du musst dein (das) Portemonnaie /pɔrtmɔˈneː/ finden",
+    "de": "Du musst dein Der Geldbeutel / (das) Portemonnaie /pɔrtmɔˈneː/ finden",
     "groupCode": 1
   },
   {
@@ -15064,7 +15064,7 @@
   },
   {
     "id": 12470,
-    "en": "The cash register is on the fifth floor",
+    "en": "The cash register is on (in) the fifth floor",
     "de": "Die kasse ist im fünften Stock",
     "groupCode": 1
   },
@@ -15112,13 +15112,13 @@
   },
   {
     "id": 12478,
-    "en": "Badest du jeden Tag oder nur am Wochenende?",
-    "de": "Do you take a bath every day or only on the weekend?",
+    "en": "Do you take a bath every day or only on the weekend?",
+    "de": "Badest du jeden Tag oder nur am Wochenende?",
     "groupCode": 1
   },
   {
     "id": 12479,
-    "en": "Is the ATM on the first or second floor?",
+    "en": "Is the ATM on (in) the first or second floor?",
     "de": "Ist der Geldautomat im ersten oder zweiten stock?",
     "groupCode": 1
   },
@@ -15136,7 +15136,7 @@
   },
   {
     "id": 12482,
-    "en": "I went to the cinema with the lion yesterday",
+    "en": "I went into the cinema with the lion yesterday",
     "de": "Ich bin gestern mit dem Löwen ins Kino gegangen",
     "desc": "Because „mit“ always takes the dative case, and „der Löwe“ changes to „dem Löwen“ in dative.\n\nBreakdown\n\nNominative (base form): der Löwe\n\nDative (after mit): dem Löwen\n\nSo:\n\nIch bin mit dem Löwen ins Kino gegangen.\n\nWhy the -n?\n\nMany masculine nouns (often animals or people) are weak nouns (n-Deklination).\nThey add -n or -en in all cases except nominative singular.\n\nExamples:\n\nder Löwe → dem Löwen\n\nder Junge → dem Jungen\n\nder Student → dem Studenten\n\nder Mensch → dem Menschen",
     "groupCode": 1
@@ -15187,6 +15187,66 @@
     "id": 12490,
     "en": "It starts to rain",
     "de": "Es fängt an zu regnen",
+    "groupCode": 1
+  },
+  {
+    "id": 12491,
+    "en": "The cat doesn't want to go sailing, she doesn't like the water",
+    "de": "Die Katze will nicht segeln gehen, sie mag das Wasser nicht",
+    "groupCode": 1
+  },
+  {
+    "id": 12492,
+    "en": "Does the giraffe have a hobby?",
+    "de": "Hat die Giraffe ein Hobby?",
+    "groupCode": 1
+  },
+  {
+    "id": 12493,
+    "en": "Ilia is a little sick today and is not coming to school",
+    "de": "Ilia ist heute ein wenig krank und kommt nicht zur Schule",
+    "groupCode": 1
+  },
+  {
+    "id": 12494,
+    "en": "How long is a foot?",
+    "de": "Wie lang ist ein Fuß?",
+    "groupCode": 1
+  },
+  {
+    "id": 12495,
+    "en": "One meter is approximately three feet long",
+    "de": "Ein Meter ist circa drei Fuß lang",
+    "groupCode": 1
+  },
+  {
+    "id": 12496,
+    "en": "The Alps are high, but Mount Fuji is higher",
+    "de": "Die Alpen sind hoch, aber der Berg Fuji ist höher",
+    "groupCode": 1
+  },
+  {
+    "id": 12497,
+    "en": "We drove through a forest",
+    "de": "We sind durch einen Wald gefahren",
+    "groupCode": 1
+  },
+  {
+    "id": 12498,
+    "en": "Hopefully you took lots of photos",
+    "de": "Hoffentlich habt ihr viele Fotos Gemacht",
+    "groupCode": 1
+  },
+  {
+    "id": 12499,
+    "en": "We took (make) a vacation last month with relatives",
+    "de": "Wir haben letzten Monat mit den Verwandten Urlaub gemacht",
+    "groupCode": 1
+  },
+  {
+    "id": 12500,
+    "en": "Mt. Fuji is higher than the Alps, but Everest is the highest",
+    "de": "Der Fuji ist höher als die Alpen, aber der Everest ist am höchsten",
     "groupCode": 1
   }
 ]

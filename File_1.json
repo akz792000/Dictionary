@@ -10155,8 +10155,8 @@
   },
   {
     "id": 4665,
-    "fa": "در یک شنونده رویداد Spring، اگر متد همزمان باشد، Spring بلافاصله اجراش می کند. اگر ناهمزمان باشد، Spring در یک مخزن نخ (thread pool) زمانبندیش می کند و زمانبندی اتفاق میافتد بلافاصله. با این حال، از نظر فنی، شنونده ممکن است شروع به اجرا کند قبل از اتمام نخ فعلی، بنابراین هیچ تضمین ۱۰۰٪ وجود ندارد که شنونده اجرا خواهد شد بعد از نخ فعلی",
-    "en": "In a Spring event listener, if the method is synchronous, Spring executes it immediately. If it's asynchronous, Spring schedules it on a thread pool, and the scheduling happens immediately. However, technically, the listener might start executing before the current thread finishes, so there is no 100% guarantee the listener will run after the current thread",
+    "fa": "در یک شنونده رویداد Spring، اگر متد همزمان باشد، بلافاصله اجرا می شود. اگر ناهمزمان باشد، در یک مخزن نخ (thread pool) زمانبندی می شود و زمانبندی اتفاق میافتد بلافاصله. با این حال، شنونده ممکن است شروع به اجرا کند قبل از اتمام نخ فعلی، بنابراین هیچ تضمین ۱۰۰٪ وجود ندارد که شنونده اجرا خواهد شد بعد از نخ فعلی",
+    "en": "In a Spring event listener, if the method is synchronous, it's executed immediately. If it's asynchronous, it's scheduled on a thread pool, and the scheduling occurs immediately. However, the listener may technically start executing before the current thread finishes, so there is no 100% guarantee that it will run after the current thread",
     "desc": "✔ Summary\nSituation\tVoice\tExample\nTalking generally about program behavior\tActive\t“The listener executes.”\nEmphasizing that Spring triggers it\tPassive\t“The listener is executed by Spring.”",
     "groupCode": 0
   },
@@ -11254,7 +11254,7 @@
   },
   {
     "id": 4845,
-    "fa": "مطمئناً. من خواهم شد امروز تا ساعت ۱۰ شب آنلاین. اگر کسی به من نیاز دارد، فقط بدهد یک لایک (شستها بالا)",
+    "fa": "مطمئناً. من خواهم بود آنلاین تا ساعت ۱۰ شب امروز. اگر کسی به من نیاز دارد، فقط بدهد یک لایک (شستها بالا)",
     "en": "Sure. I'll be online until 10 PM today. If anyone needs me, just give a thumbs-up",
     "groupCode": 0
   },
@@ -11266,14 +11266,26 @@
   },
   {
     "id": 4847,
-    "fa": "سلام مرد، یادت هست قبلاً وقتی تو موردها داشتی با داکر در حالبکه اجرا می کردی تست های محلی؟ چیکار کردی تا برطرفش کنی؟",
+    "fa": "سلام مرد، یادت هست قبلاً وقتی تو موردها داشتی با داکر در حالیکه اجرا می کردی تست های محلی؟ چیکار کردی تا برطرفش کنی؟",
     "en": "Hey man, remember back in the day when you had issues with Docker while running local tests? What did you do to fix it?",
     "groupCode": 0
   },
   {
     "id": 4848,
-    "fa": "من حتی پیشنهاد دادم تا فوراً کناره گیری کنم که اگر شما مخالفت کردی",
+    "fa": "من حتی پیشنهاد دادم تا کناره گیری کنم فوراً اگر شما مخالفت کردی",
     "en": "I even offered to step aside immediately if you objected",
+    "groupCode": 0
+  },
+  {
+    "id": 4849,
+    "fa": "تو درست به موقع جاخالی دادی",
+    "en": "ou ducked just in time",
+    "groupCode": 0
+  },
+  {
+    "id": 4850,
+    "fa": "بیایید این را یک بار برای همیشه حل کنیم",
+    "en": "Let's fix this once and for all",
     "groupCode": 0
   }
 ]
