@@ -6872,7 +6872,7 @@
   {
     "id": 11129,
     "en": "Look at the armchair. It is so cheap",
-    "de": "Schau (doch) mal, der Sessel. Er ist so günstig",
+    "de": "Schau (doch) mal, den Sessel. Er ist so günstig",
     "groupCode": 1
   },
   {
@@ -14815,7 +14815,7 @@
   {
     "id": 12429,
     "en": "You have to find your wallet",
-    "de": "Du musst dein Der Geldbeutel / (das) Portemonnaie /pɔrtmɔˈneː/ finden",
+    "de": "\n 1.Du musst deinen (Der) Geldbeutel finden \n 2.Du musst dein (das) Portemonnaie /pɔrtmɔˈneː/ finden",
     "groupCode": 1
   },
   {
@@ -15161,7 +15161,7 @@
   },
   {
     "id": 12486,
-    "en": "You moved to another city and we speak only little",
+    "en": "You moved (in) to another city and we speak only little",
     "de": "Du bist in eine andere Stadt umgezogen und wir sprechen nur wenig",
     "groupCode": 1
   },
@@ -15205,6 +15205,7 @@
     "id": 12493,
     "en": "Ilia is a little sick today and is not coming to school",
     "de": "Ilia ist heute ein wenig krank und kommt nicht zur Schule",
+    "desc": "ein wenig krank → slightly more formal\n\nein bisschen krank → very common in everyday speech",
     "groupCode": 1
   },
   {
@@ -15233,20 +15234,38 @@
   },
   {
     "id": 12498,
-    "en": "Hopefully you took lots of photos",
+    "en": "Hopefully you (plural) took lots of photos",
     "de": "Hoffentlich habt ihr viele Fotos Gemacht",
     "groupCode": 1
   },
   {
     "id": 12499,
-    "en": "We took (make) a vacation last month with relatives",
+    "en": "We took (make) vacation last month with (the) relatives",
     "de": "Wir haben letzten Monat mit den Verwandten Urlaub gemacht",
     "groupCode": 1
   },
   {
     "id": 12500,
-    "en": "Mt. Fuji is higher than the Alps, but Everest is the highest",
+    "en": "Mountain Fuji is higher than the Alps, but (the) Everest is the highest",
     "de": "Der Fuji ist höher als die Alpen, aber der Everest ist am höchsten",
+    "groupCode": 1
+  },
+  {
+    "id": 12501,
+    "en": "\n 1.The grapes are purple \n 2.Walls can be beige (بیژ)",
+    "de": "\n 1.Die Trauben sind lila \n 2.Wände können beige (بیژ) sein",
+    "groupCode": 1
+  },
+  {
+    "id": 12502,
+    "en": "\n 1.Clouds can be grey \n 2.The moon is silver",
+    "de": "\n 1.Wolken können grau sein \n 2.Der Mond ist silber",
+    "groupCode": 1
+  },
+  {
+    "id": 12503,
+    "en": "\n 1.Jewelry is gold \n 2.The water is turquoise /تِرکُیز/ \n 3.The leaves are green",
+    "de": "\n 1.Schmuck ist Gold \n 2.Das Wasser ist türkis \n 3.Die Blätter sind grün",
     "groupCode": 1
   }
 ]

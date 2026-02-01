@@ -11279,13 +11279,20 @@
   {
     "id": 4849,
     "fa": "تو درست به موقع جاخالی دادی",
-    "en": "ou ducked just in time",
+    "en": "You ducked just in time",
     "groupCode": 0
   },
   {
     "id": 4850,
     "fa": "بیایید این را یک بار برای همیشه حل کنیم",
     "en": "Let's fix this once and for all",
+    "groupCode": 0
+  },
+  {
+    "id": 4851,
+    "fa": "من به یک مورد برخوردم و بعداً به یک راه حل رسیدم",
+    "en": "I ran into an issue and later ran across a solution",
+    "desc": "run into → مواجه شدن (اغلب مشکل)\n\nrun across → اتفاقی پیدا کردن",
     "groupCode": 0
   }
 ]
