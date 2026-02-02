@@ -11294,5 +11294,29 @@
     "en": "I ran into an issue and later ran across a solution",
     "desc": "run into → مواجه شدن (اغلب مشکل)\n\nrun across → اتفاقی پیدا کردن",
     "groupCode": 0
+  },
+  {
+    "id": 4852,
+    "fa": "سلام بچه ها، من شروع به سرفه و عطسه کرده ام، بنابراین من نخواهم آمد به دفتر امروز",
+    "en": "Hey guys, I've started coughing and sneezing, so I won't be coming into the office today",
+    "groupCode": 0
+  },
+  {
+    "id": 4853,
+    "fa": "اگر شما ماشینم را بفروشید، چه کمیسیونی شارژ می کنید؟",
+    "en": "If you sell my car for me, what commission do you charge?",
+    "groupCode": 0
+  },
+  {
+    "id": 4854,
+    "fa": "چقدر شما مایلید پرداخت کنید برای ماشین من؟",
+    "en": "How much would you be willing to pay for my car?",
+    "groupCode": 0
+  },
+  {
+    "id": 4855,
+    "fa": "من همچنین دارم فکر می کنم در رابطه با فروش ماشین فعلی ام. آیا شما می خرید ماشین مستقیماً یا می فروشیدش (فرضی) با کمیسیون؟ و چقدر خواهد بود (فرضی) قیمت یا کمیسیون در هر مورد؟",
+    "en": "I'm also thinking about selling my current car. Do you buy cars directly, or would you sell it on commission? And what would the price or commission be in each case?",
+    "groupCode": 0
   }
 ]

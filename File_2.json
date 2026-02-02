@@ -11480,7 +11480,7 @@
   },
   {
     "id": 11882,
-    "en": "If I had more time, I would attend a German course on the weekend",
+    "en": "If (whenever) I had more time, I would attend a German course on the weekend",
     "de": "Wenn ich mehr zeit hätte, würde ich einen Deutschkurs am Wochenende besuchen",
     "groupCode": 1
   },
@@ -12148,13 +12148,13 @@
   },
   {
     "id": 11991,
-    "en": "I would eat everything if I were hungry",
+    "en": "I would eat everything if (whenever) I were hungry",
     "de": "Ich würde alles essen, wenn ich hungrig wäre",
     "groupCode": 1
   },
   {
     "id": 11992,
-    "en": "I would have eaten everything if I had been hungry",
+    "en": "I would have eaten everything if (whenever) I had been hungry",
     "de": "Ich hätte alles gegessen, wenn ich hungrig gewesen wäre",
     "groupCode": 1
   },
@@ -12947,7 +12947,7 @@
   },
   {
     "id": 12122,
-    "en": "I rejoice very much if you can come, because it wouldn't be as fun without you",
+    "en": "I rejoice very much if (whenever) you can come, because it wouldn't be as fun without you",
     "de": "Ich freue mich sehr, wenn du kommen kannst, weil es ohne dich nicht so lustig wäre",
     "desc": "freuen + auf + something → looking forward to something (future)\n\nIch freue mich auf das Konzert. → “I’m looking forward to the concert.”\n\nfreuen + über + something → happy about something (present / already happened)\n\nIch freue mich über das Geschenk. → “I’m happy about the gift.”\n\nfreuen without preposition → okay if context makes it clear what you’re happy about\n\nIch freue mich, wenn du kommen kannst. → “I’m happy if you can come.”\n\nSo auf = future, über = present, and no preposition = context tells the meaning.",
     "groupCode": 1
@@ -14441,7 +14441,7 @@
   },
   {
     "id": 12367,
-    "en": "What would you do if you became rich?",
+    "en": "What would you do if (whenever) you became rich?",
     "de": "Was würdest du machen, wenn du reich wirst?",
     "groupCode": 1
   },
@@ -15179,7 +15179,7 @@
   },
   {
     "id": 12489,
-    "en": "The lion sometimes annoys me, he always speacks so loudly",
+    "en": "The lion sometimes annoys me, he always speaks so loudly",
     "de": "Der Löwe nervt mich manchmal, er spricht immer so laut",
     "groupCode": 1
   },
@@ -15222,7 +15222,7 @@
   },
   {
     "id": 12496,
-    "en": "The Alps are high, but Mount Fuji is higher",
+    "en": "The Alps are high, but (the) Mount Fuji is higher",
     "de": "Die Alpen sind hoch, aber der Berg Fuji ist höher",
     "groupCode": 1
   },
@@ -15246,7 +15246,7 @@
   },
   {
     "id": 12500,
-    "en": "Mountain Fuji is higher than the Alps, but (the) Everest is the highest",
+    "en": "(The) Fuji is higher than the Alps, but (the) Everest is the highest",
     "de": "Der Fuji ist höher als die Alpen, aber der Everest ist am höchsten",
     "groupCode": 1
   },
@@ -15266,6 +15266,48 @@
     "id": 12503,
     "en": "\n 1.Jewelry is gold \n 2.The water is turquoise /تِرکُیز/ \n 3.The leaves are green",
     "de": "\n 1.Schmuck ist Gold \n 2.Das Wasser ist türkis \n 3.Die Blätter sind grün",
+    "groupCode": 1
+  },
+  {
+    "id": 12504,
+    "en": "Why did you drive through a zoo?",
+    "de": "Warum bist du durch einen Zoo gefahren?",
+    "groupCode": 1
+  },
+  {
+    "id": 12505,
+    "en": "Nobody was home. I could sleep really well",
+    "de": "Niemand war zu Hause. Ich konnte wirklich gut schlafen",
+    "groupCode": 1
+  },
+  {
+    "id": 12506,
+    "en": "Is the food in the canteen (cafeteria) good? Yes, I always eat there in the afternoon(s)",
+    "de": "Ist das Essen in der Kantine gut? Ja, ich esse nachmittags immer dort",
+    "groupCode": 1
+  },
+  {
+    "id": 12507,
+    "en": "Do you play with your dogs in the evenings?",
+    "de": "Spielst du abends mit deinen Hunden?",
+    "groupCode": 1
+  },
+  {
+    "id": 12508,
+    "en": "I never go out with my roommates",
+    "de": "Ich gehe nie mit meinen Mitbewohnern aus",
+    "groupCode": 1
+  },
+  {
+    "id": 12509,
+    "en": "I leave the farm at seven o'clock in the evening(s)",
+    "de": "Ich verlasse um sieben Uhr abends den Bauernhof",
+    "groupCode": 1
+  },
+  {
+    "id": 12510,
+    "en": "I always go to bed around nine o'clock.",
+    "de": "Ich gehe immer gegen neun Uhr ins Bett",
     "groupCode": 1
   }
 ]
