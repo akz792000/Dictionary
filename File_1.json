@@ -11260,7 +11260,7 @@
   },
   {
     "id": 4846,
-    "fa": "من دارم یک وقت ملاقات امروز در حدود ساعت ۲:۳۰. من دور خواهم بود برای حدود ۲ ساعت",
+    "fa": "من دارم یک وقت ملاقات امروز در حدود ۲:۳۰. من دور خواهم بود برای حدود ۲ ساعت",
     "en": "I have an appointment today at around 2:30. I'll be away for about 2 hours",
     "groupCode": 0
   },
@@ -11284,7 +11284,7 @@
   },
   {
     "id": 4850,
-    "fa": "بیایید این را یک بار برای همیشه حل کنیم",
+    "fa": "بیایید فبکس کنیم این را یک بار برای همیشه",
     "en": "Let's fix this once and for all",
     "groupCode": 0
   },
@@ -11303,8 +11303,8 @@
   },
   {
     "id": 4853,
-    "fa": "اگر شما ماشینم را بفروشید، چه کمیسیونی شارژ می کنید؟",
-    "en": "If you sell my car for me, what commission do you charge?",
+    "fa": "اگر شما بفروشید ماشینم، چه کمیسیونی شارژ می کنید؟",
+    "en": "If you sell my car, what commission do you charge?",
     "groupCode": 0
   },
   {
@@ -11317,6 +11317,25 @@
     "id": 4855,
     "fa": "من همچنین دارم فکر می کنم در رابطه با فروش ماشین فعلی ام. آیا شما می خرید ماشین مستقیماً یا می فروشیدش (فرضی) با کمیسیون؟ و چقدر خواهد بود (فرضی) قیمت یا کمیسیون در هر مورد؟",
     "en": "I'm also thinking about selling my current car. Do you buy cars directly, or would you sell it on commission? And what would the price or commission be in each case?",
+    "groupCode": 0
+  },
+  {
+    "id": 4856,
+    "fa": "یک انتزاع نشتی در معرض می گذارد جزئیاتی را (که) قرار بود تا پنهان شود",
+    "en": "A leaky abstraction exposes details it was supposed to hide",
+    "desc": "it was is correct because it refers to “a leaky abstraction”, not to details.",
+    "groupCode": 0
+  },
+  {
+    "id": 4857,
+    "fa": "همین الان نگاهی اجمالی انداختم به PR، متوجه شدم استفاده شده eCommerce. می توانی شما سوییچ کنیش به ecommerce؟",
+    "en": "Just skimmed your PR, noticed eCommerce is used. Can you switch it to ecommerce?",
+    "groupCode": 0
+  },
+  {
+    "id": 4858,
+    "fa": "من اقامت دائم گرفتم",
+    "en": "I got my permanent residence",
     "groupCode": 0
   }
 ]

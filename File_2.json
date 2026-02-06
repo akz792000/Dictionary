@@ -9034,7 +9034,7 @@
   },
   {
     "id": 11482,
-    "en": "The child loves his new toys",
+    "en": "The child loves his new toy",
     "de": "Das Kind liebt sein neues Kinderspielzeug",
     "groupCode": 1
   },
@@ -13865,6 +13865,7 @@
     "id": 12272,
     "en": "They remind me of a woman I knew many years ago",
     "de": "Sie erinnern mich an eine Frau, die ich vor vielen Jahren gekannt habe",
+    "desc": "Sie = you (formal, talking to the person)\n\ndie = who / that (refers to eine Frau) \n\n die links back to Frau.\nUsing Sie there would be wrong.",
     "groupCode": 1
   },
   {
@@ -15306,8 +15307,68 @@
   },
   {
     "id": 12510,
-    "en": "I always go to bed around nine o'clock.",
+    "en": "I always go into bed around nine o'clock",
     "de": "Ich gehe immer gegen neun Uhr ins Bett",
+    "groupCode": 1
+  },
+  {
+    "id": 12511,
+    "en": "\n the dough \n the flour",
+    "de": "\n den Teig \n das Mehl",
+    "groupCode": 1
+  },
+  {
+    "id": 12512,
+    "en": "My father is doing (going) rally fantastic",
+    "de": "Meinem Vater geht's echt fantastisch",
+    "groupCode": 1
+  },
+  {
+    "id": 12513,
+    "en": "Your mother is now retired, how is she doing?",
+    "de": "Deine Mutter ist jetzt Rentnerin, wie geht's ihr?",
+    "groupCode": 1
+  },
+  {
+    "id": 12514,
+    "en": "She said her friend snored loudly",
+    "de": "Sie hat gesagt ihre Freundin hat laut geschnarcht",
+    "groupCode": 1
+  },
+  {
+    "id": 12515,
+    "en": "Her boyfriend always did the dishes. Now my sister does the disches",
+    "de": "Ihr Freund hat immer abgewaschen. Jetzt wäscht meine Schwester ab",
+    "groupCode": 1
+  },
+  {
+    "id": 12516,
+    "en": "Do you also snore, or only your sister?",
+    "de": "Schnarchst du auch oder nur deine Schwester?",
+    "groupCode": 1
+  },
+  {
+    "id": 12517,
+    "en": "Her friend wasn't helpful, she never did the dishes",
+    "de": "Ihre Freundin war nicht hilfreich, sie hat nie abgewaschen",
+    "groupCode": 1
+  },
+  {
+    "id": 12518,
+    "en": "He can't say anything, he hasn't made any plans yet",
+    "de": "Er kann nichts sagen, er hat noch keine Pläne gemacht",
+    "groupCode": 1
+  },
+  {
+    "id": 12519,
+    "en": "My brother hasn't said anything to his girlfriend anything yet",
+    "de": "Mein Bruder hat seiner Freundin noch nichts gesagt",
+    "groupCode": 1
+  },
+  {
+    "id": 12520,
+    "en": "He can't find an apartment; it's too difficult",
+    "de": "Er kann keine Wohnung finden, es ist zu schwierig",
     "groupCode": 1
   }
 ]
