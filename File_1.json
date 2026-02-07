@@ -6643,7 +6643,7 @@
   },
   {
     "id": 4087,
-    "fa": "ایجاز (حذف) اشاره دارد به حذف یک یا کلماتی از گفتار یا نوشتار، زمانی که آنها اضافی (زائد و اضافی) باشند یا می توان فهمیده شوند از متن",
+    "fa": "ایجاز (حذف) اشاره دارد به حذف یک کلمه یا کلماتی از گفتار یا نوشتار، زمانی که آنها اضافی (زائد و اضافی) هستند یا می توان فهمیده شوند از متن",
     "en": "Ellipsis refers to the omission of a word or words from speech or writing when they are superfluous or can be understood from context",
     "groupCode": 0
   },
@@ -11284,7 +11284,7 @@
   },
   {
     "id": 4850,
-    "fa": "بیایید فبکس کنیم این را یک بار برای همیشه",
+    "fa": "بیایید فیکس کنیم این را یک بار برای همیشه",
     "en": "Let's fix this once and for all",
     "groupCode": 0
   },
@@ -11328,14 +11328,26 @@
   },
   {
     "id": 4857,
-    "fa": "همین الان نگاهی اجمالی انداختم به PR، متوجه شدم استفاده شده eCommerce. می توانی شما سوییچ کنیش به ecommerce؟",
+    "fa": "همین الان نگاهی اجمالی انداختم به PR ات، متوجه شدم eCommerce استفاده شده. می توانی شما سوییچش کنی به ecommerce؟",
     "en": "Just skimmed your PR, noticed eCommerce is used. Can you switch it to ecommerce?",
     "groupCode": 0
   },
   {
     "id": 4858,
-    "fa": "من اقامت دائم گرفتم",
+    "fa": "من اقامت دائمم را گرفتم",
     "en": "I got my permanent residence",
+    "groupCode": 0
+  },
+  {
+    "id": 4859,
+    "fa": "\n 1.من (خیلی) عصبانیم \n 2.من دارم می ترکم \n 3.من (کاملاً) سیرم \n 4.من داغونم \n 5.من تو مخمصه ام",
+    "en": "\n 1.I'm pissed off \n 2.I'm bursting \n 3.I'm stuffed \n 4.I'm wrecked \n 5.I'm in a pickle",
+    "groupCode": 0
+  },
+  {
+    "id": 4860,
+    "fa": "آیا متوجه مارک های زیبایی یکسان شان شدی؟ شما داری قلقش را یاد می گیری. انتخاب های تصادفی همیشه کار نمی کند",
+    "en": "Did you notice their identical beauty marks? You're getting the hang of this. Random choices don't always work",
     "groupCode": 0
   }
 ]

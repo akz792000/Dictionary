@@ -15313,8 +15313,8 @@
   },
   {
     "id": 12511,
-    "en": "\n the dough \n the flour",
-    "de": "\n den Teig \n das Mehl",
+    "en": "\n the flour \n the dough",
+    "de": "\n das Mehl \n den Teig",
     "groupCode": 1
   },
   {
@@ -15331,7 +15331,7 @@
   },
   {
     "id": 12514,
-    "en": "She said her friend snored loudly",
+    "en": "She said her girlfriend snored loudly",
     "de": "Sie hat gesagt ihre Freundin hat laut geschnarcht",
     "groupCode": 1
   },
@@ -15349,7 +15349,7 @@
   },
   {
     "id": 12517,
-    "en": "Her friend wasn't helpful, she never did the dishes",
+    "en": "Her girlfriend wasn't helpful, she never did the dishes",
     "de": "Ihre Freundin war nicht hilfreich, sie hat nie abgewaschen",
     "groupCode": 1
   },
@@ -15369,6 +15369,7 @@
     "id": 12520,
     "en": "He can't find an apartment; it's too difficult",
     "de": "Er kann keine Wohnung finden, es ist zu schwierig",
+    "desc": "schwierig → mentally difficult, complex\n\nschwer → physically heavy, exhausting, or emotionally overwhelming",
     "groupCode": 1
   }
 ]
