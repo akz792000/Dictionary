@@ -6246,7 +6246,7 @@
   },
   {
     "id": 11026,
-    "en": "Go to the bakery",
+    "en": "Go into the bakery",
     "de": "Geh in die Backerei",
     "groupCode": 1
   },
@@ -14068,7 +14068,7 @@
   {
     "id": 12305,
     "en": "I contacted (them) by phone; the appointment is scheduled (arranged) for December 30th at 4:00 PM",
-    "de": "Ich habe telefonisch Kontakt aufgenommen; der Termin ist für den 30. Dezember um 16:00 Uhr vereinbart",
+    "de": "Ich habe telefonisch Kontakt aufgenommen; der Termin ist für den 30 (dreißigsten). Dezember um 16:00 Uhr vereinbart",
     "groupCode": 1
   },
   {
@@ -14947,7 +14947,7 @@
   },
   {
     "id": 12451,
-    "en": "What do you do on the farm after work?",
+    "en": "What do you do on the farm after the work?",
     "de": "Was machst du auf dem Bauernhof nach der Arbeit?",
     "groupCode": 1
   },
@@ -15174,7 +15174,7 @@
   },
   {
     "id": 12488,
-    "en": "Was the trip exhausting? Yes, I slept a lot the next day",
+    "en": "Was the trip exhausting? Yes, I slept a lot on (the) next day",
     "de": "War die Reise anstrengend? Ja, ich habe am nächsten Tag viel geschlafen",
     "groupCode": 1
   },
@@ -15361,7 +15361,7 @@
   },
   {
     "id": 12519,
-    "en": "My brother hasn't said anything to his girlfriend anything yet",
+    "en": "My brother hasn't said anything to his girlfriend yet",
     "de": "Mein Bruder hat seiner Freundin noch nichts gesagt",
     "groupCode": 1
   },
@@ -15370,6 +15370,72 @@
     "en": "He can't find an apartment; it's too difficult",
     "de": "Er kann keine Wohnung finden, es ist zu schwierig",
     "desc": "schwierig → mentally difficult, complex\n\nschwer → physically heavy, exhausting, or emotionally overwhelming",
+    "groupCode": 1
+  },
+  {
+    "id": 12521,
+    "en": "How are your parents?",
+    "de": "Wie geht's deinen Eltern?",
+    "groupCode": 1
+  },
+  {
+    "id": 12522,
+    "en": "How is your girlfriend? She's doing well",
+    "de": "Wie geht's deiner Freundin? Ihr geht es gut",
+    "groupCode": 1
+  },
+  {
+    "id": 12523,
+    "en": "Why aren't you laughing at my joke?",
+    "de": "Warum lachst du nicht über meinen Witz?",
+    "groupCode": 1
+  },
+  {
+    "id": 12524,
+    "en": "I help you later, can you wait in the waiting room?",
+    "de": "Ich helfe dir später, kannst du im Wartezimmer warten?",
+    "groupCode": 1
+  },
+  {
+    "id": 12525,
+    "en": "Why do you ask me that daily?",
+    "de": "Warum fragst du mich das täglich?",
+    "groupCode": 1
+  },
+  {
+    "id": 12526,
+    "en": "Your cat is wearing gloves and I can only laugh",
+    "de": "Deine Katze trägt Handschuhe und ich kann nur lachen",
+    "groupCode": 1
+  },
+  {
+    "id": 12527,
+    "en": "I want to go swimming with you and your fish",
+    "de": "Ich will mit euch und eurem Fisch schwimmen gehen",
+    "groupCode": 1
+  },
+  {
+    "id": 12528,
+    "en": "What do you want to talk about?",
+    "de": "Worüber willst du sprechen?",
+    "groupCode": 1
+  },
+  {
+    "id": 12529,
+    "en": "What's the new from your daughter? Is she still in Paris?",
+    "de": "Was gibt's Neues von deiner Tochter, ist sie noch in Paris?",
+    "groupCode": 1
+  },
+  {
+    "id": 12530,
+    "en": "I want to speak with your mom, is she there?",
+    "de": "Ich möchte mit deiner Mama sprechen, ist sie da?",
+    "groupCode": 1
+  },
+  {
+    "id": 12531,
+    "en": "Dear Ms. ..., thank you very much for informing me about my son's behavior",
+    "de": "Sehr geehrte Frau ..., vielen Dank, dass Sie mich über das Verhalten meines Sohnes informiert haben",
     "groupCode": 1
   }
 ]

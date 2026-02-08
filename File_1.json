@@ -11098,7 +11098,7 @@
   },
   {
     "id": 4819,
-    "fa": "بچرخان فرمان خود را تا انتها به سمت راست و قرار (شیفت) بد در دنده اول",
+    "fa": "بچرخان (فرمان) لاستیک خود را تا انتها به سمت راست و قرار (شیفت) بد در دنده اول",
     "en": "Turn your wheel all the way to the right and shift into first gear",
     "groupCode": 0
   },
@@ -11348,6 +11348,12 @@
     "id": 4860,
     "fa": "آیا متوجه مارک های زیبایی یکسان شان شدی؟ شما داری قلقش را یاد می گیری. انتخاب های تصادفی همیشه کار نمی کند",
     "en": "Did you notice their identical beauty marks? You're getting the hang of this. Random choices don't always work",
+    "groupCode": 0
+  },
+  {
+    "id": 4861,
+    "fa": "من خواهم رسید به سراغ اصل ماجرا",
+    "en": "I'll get to the bottom of this",
     "groupCode": 0
   }
 ]
