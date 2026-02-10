@@ -10895,7 +10895,7 @@
   },
   {
     "id": 11786,
-    "en": "I feel strange/foreign here",
+    "en": "I feel (a) stranger/foreigner here",
     "de": "Ich fühle mich hier fremd",
     "groupCode": 1
   },
@@ -14351,8 +14351,8 @@
   },
   {
     "id": 12352,
-    "en": "My arms are OK, but my back hurts",
-    "de": "Meine Arme sind OK, aber mir tut der Rücken weh",
+    "en": "I unfortunately could not buy the roller skates",
+    "de": "Ich konnte leider die Rollschuhe nicht kaufen",
     "groupCode": 1
   },
   {
@@ -15314,7 +15314,7 @@
   {
     "id": 12511,
     "en": "\n the flour \n the dough",
-    "de": "\n das Mehl \n den Teig",
+    "de": "\n das Mehl \n der Teig",
     "groupCode": 1
   },
   {
@@ -15410,7 +15410,7 @@
   },
   {
     "id": 12527,
-    "en": "I want to go swimming with you and your fish",
+    "en": "I want to go swimming with you (plural) and your fish",
     "de": "Ich will mit euch und eurem Fisch schwimmen gehen",
     "groupCode": 1
   },
@@ -15436,6 +15436,72 @@
     "id": 12531,
     "en": "Dear Ms. ..., thank you very much for informing me about my son's behavior",
     "de": "Sehr geehrte Frau ..., vielen Dank, dass Sie mich über das Verhalten meines Sohnes informiert haben",
+    "groupCode": 1
+  },
+  {
+    "id": 12532,
+    "en": "I'm a newcomer",
+    "de": "Ich bin ein Neuzugang",
+    "groupCode": 1
+  },
+  {
+    "id": 12533,
+    "en": "Are you going with his lion to the vet (female) today?",
+    "de": "Gehst du heute mit seinem Löwen zur Tierärztin?",
+    "groupCode": 1
+  },
+  {
+    "id": 12534,
+    "en": "I'm in a hurry, I'll call you later",
+    "de": "Ich bin in Eile, ich rufe dich später an",
+    "groupCode": 1
+  },
+  {
+    "id": 12535,
+    "en": "I have to go to the vet with the rabbit",
+    "de": "Ich muss mit dem Kaninchen zum Tierarzt gehen",
+    "groupCode": 1
+  },
+  {
+    "id": 12536,
+    "en": "You're going to the vet today, aren't you?",
+    "de": "Du gehst heute zum Tierarzt, nicht wahr?",
+    "groupCode": 1
+  },
+  {
+    "id": 12537,
+    "en": "Today is Monday, isn't it?",
+    "de": "Heute ist Montag, nicht wahr?",
+    "groupCode": 1
+  },
+  {
+    "id": 12538,
+    "en": "Who would like to try the cake? Whose cake is more delicious?",
+    "de": "Wer möchte den Kuchen probieren? Wessen Kuchen ist leckerer",
+    "groupCode": 1
+  },
+  {
+    "id": 12539,
+    "en": "Have you already looked in your backpack? You always find your things there",
+    "de": "Hast du schon im Rucksack gesucht? Du findest deine Sachen immer dort",
+    "groupCode": 1
+  },
+  {
+    "id": 12540,
+    "en": "We also looked for the passport in the vase",
+    "de": "Wir haben den Pass auch in der Vase gesucht",
+    "groupCode": 1
+  },
+  {
+    "id": 12541,
+    "en": "Are you taking a nap or looking for your passport?",
+    "de": "Machst du ein Nickerchen oder suchst du deinen Pass?",
+    "groupCode": 1
+  },
+  {
+    "id": 12542,
+    "en": "Did you already look under these comics",
+    "de": "Hast du schon unter diesen Comics gesucht?",
     "groupCode": 1
   }
 ]
