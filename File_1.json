@@ -11346,14 +11346,38 @@
   },
   {
     "id": 4860,
-    "fa": "آیا متوجه مارک های زیبایی یکسان شان شدی؟ شما داری قلقش را یاد می گیری. انتخاب های تصادفی همیشه کار نمی کند",
-    "en": "Did you notice their identical beauty marks? You're getting the hang of this. Random choices don't always work",
+    "fa": "آیا متوجه مارک های زیبایی یکسان شان شدی؟",
+    "en": "Did you notice their identical beauty marks?",
     "groupCode": 0
   },
   {
     "id": 4861,
     "fa": "من خواهم رسید به سراغ اصل ماجرا",
     "en": "I'll get to the bottom of this",
+    "groupCode": 0
+  },
+  {
+    "id": 4862,
+    "fa": "چیزی نیست که بتوان انجام شود در یک بشکن",
+    "en": "It's not something that can be done in a snap",
+    "groupCode": 0
+  },
+  {
+    "id": 4863,
+    "fa": "حق با شماست - اگر شما داشته باشی چندین نمونه برنامه ها، قفل گذاری درون حافظه کار نخواهد کرد",
+    "en": "You're right - if you have multiple application instances, in-memory locking won't work",
+    "groupCode": 0
+  },
+  {
+    "id": 4864,
+    "fa": "شما داری قلقش را یاد می گیری",
+    "en": "You're getting the hang of this",
+    "groupCode": 0
+  },
+  {
+    "id": 4865,
+    "fa": "انتخاب های تصادفی همیشه کار نمی کند",
+    "en": "Random choices don't always work",
     "groupCode": 0
   }
 ]

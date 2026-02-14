@@ -15416,7 +15416,7 @@
   },
   {
     "id": 12528,
-    "en": "What do you want to talk about?",
+    "en": "What do you want to speak about?",
     "de": "Worüber willst du sprechen?",
     "groupCode": 1
   },
@@ -15452,7 +15452,7 @@
   },
   {
     "id": 12534,
-    "en": "I'm in a hurry, I'll call you later",
+    "en": "I'm in a hurry, I call you later",
     "de": "Ich bin in Eile, ich rufe dich später an",
     "groupCode": 1
   },
@@ -15500,8 +15500,62 @@
   },
   {
     "id": 12542,
-    "en": "Did you already look under these comics",
+    "en": "Did you already search under these comics?",
     "de": "Hast du schon unter diesen Comics gesucht?",
+    "groupCode": 1
+  },
+  {
+    "id": 12543,
+    "en": "I think my app is crazy",
+    "de": "Ich glaube, meine App spinnt",
+    "groupCode": 1
+  },
+  {
+    "id": 12544,
+    "en": "Under which newspapers was my passport?",
+    "de": "Unter welchen Zeitungen war mein Pass?",
+    "groupCode": 1
+  },
+  {
+    "id": 12545,
+    "en": "Your passport was in the drawer (کشو)",
+    "de": "Dein Pass war in der Schubalde",
+    "groupCode": 1
+  },
+  {
+    "id": 12546,
+    "en": "I didn't hear you (formal), when do I get my passport?",
+    "de": "I habe Sie nicht gehört, wann bekomme ich meinen Pass?",
+    "groupCode": 1
+  },
+  {
+    "id": 12547,
+    "en": "I can hear you (formal) better without the headphones",
+    "de": "Ich kann Sie ohne die Kopfhörer besser hören",
+    "groupCode": 1
+  },
+  {
+    "id": 12548,
+    "en": "You (formal) can't hear me, you're (formal) wearing headphones",
+    "de": "Sie können mich nicht hören, Sie tragen Kopfhörer",
+    "groupCode": 1
+  },
+  {
+    "id": 12549,
+    "en": "That doesn't work, I need the passport faster",
+    "de": "Das geht nicht, ich brauche den Pass schneller",
+    "groupCode": 1
+  },
+  {
+    "id": 12550,
+    "en": "Wait one second please (formal). I can help you (formal) right away",
+    "de": "Warten Sie bitte eine Sekunde. Ich kann Ihnen gleich helfen",
+    "groupCode": 1
+  },
+  {
+    "id": 12551,
+    "en": "I was born on April 4th, my birthday is in four days",
+    "de": "Ich bin am vierten April geboren, Ich habe in vier Tagen Geburtstag",
     "groupCode": 1
   }
 ]
