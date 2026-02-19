@@ -3025,7 +3025,7 @@
     "id": 10495,
     "en": "You (formal) are (on) in the photo. Not me",
     "de": "Sie sind auf dem Foto. Nicht ich",
-    "desc": "“Auf dem Foto” is correct because German treats a photo like a surface.\nYou are on a photo, not in it.\n\n“Im Foto” sounds unnatural and isn’t used.",
+    "desc": "“Auf dem Foto” is correct because German treats a photo like a surface.\nYou are on a photo, not in it.\n\n“Im Foto” sounds unnatural and isn't used.",
     "groupCode": 1
   },
   {
@@ -7268,7 +7268,7 @@
   },
   {
     "id": 11194,
-    "en": "That's fantastic",
+    "en": "That's great (excellent)",
     "de": "Das ist großartig",
     "groupCode": 1
   },
@@ -8571,7 +8571,7 @@
     "id": 11407,
     "en": "I don't know the word, what does it mean?",
     "de": "Das Wort kenne ich nicht, was bedeutet das?",
-    "desc": "kennen = know a person, place, or thing (be familiar with it)\n→ Ich kenne das Wort nicht. = I’m not familiar with the word.\n\nwissen = know a fact or information\n→ Ich weiß es nicht. = I don’t know (the fact).",
+    "desc": "kennen = know a person, place, or thing (be familiar with it)\n→ Ich kenne das Wort nicht. = I'm not familiar with the word.\n\nwissen = know a fact or information\n→ Ich weiß es nicht. = I don't know (the fact).",
     "groupCode": 1
   },
   {
@@ -8928,7 +8928,7 @@
   {
     "id": 11465,
     "en": "Whose books are those? Those are my books",
-    "de": "Wessen Bücher sind das? Das sind meine Bucher",
+    "de": "Wessen Bücher sind das? Das sind meine Bücher",
     "groupCode": 1
   },
   {
@@ -12125,7 +12125,7 @@
     "id": 11987,
     "en": "Why do you like going there?",
     "de": "\n 1.Warum gehst du gerne dorthin? \n 2.Warum gehst du gern dorthin?",
-    "desc": "“gern” = more common in spoken German, short and casual.\n\nExample:\n\nIch esse gern Pizza.\n(I like eating pizza.)\n\n“gerne” = slightly more formal or emphatic, often used in writing or polite speech.\n\nExample:\n\nIch helfe dir gerne.\n(I'm happy to help you.) \n\n ChatGPT said:\n\nSure! Here’s a brief explanation:\n\ndort = there (location, no movement)\n→ Ich bin dort. = I am there.\n\ndorthin = to there (movement)\n→ Ich gehe dorthin. = I am going there.\n\nSince gehen means movement, you must use dorthin, not dort.\n\nCorrect: Warum gehst du gern dorthin?",
+    "desc": "“gern” = more common in spoken German, short and casual.\n\nExample:\n\nIch esse gern Pizza.\n(I like eating pizza.)\n\n“gerne” = slightly more formal or emphatic, often used in writing or polite speech.\n\nExample:\n\nIch helfe dir gerne.\n(I'm happy to help you.) \n\n ChatGPT said:\n\nSure! Here's a brief explanation:\n\ndort = there (location, no movement)\n→ Ich bin dort. = I am there.\n\ndorthin = to there (movement)\n→ Ich gehe dorthin. = I am going there.\n\nSince gehen means movement, you must use dorthin, not dort.\n\nCorrect: Warum gehst du gern dorthin?",
     "groupCode": 1
   },
   {
@@ -12949,7 +12949,7 @@
     "id": 12122,
     "en": "I rejoice very much if (whenever) you can come, because it wouldn't be as fun without you",
     "de": "Ich freue mich sehr, wenn du kommen kannst, weil es ohne dich nicht so lustig wäre",
-    "desc": "freuen + auf + something → looking forward to something (future)\n\nIch freue mich auf das Konzert. → “I’m looking forward to the concert.”\n\nfreuen + über + something → happy about something (present / already happened)\n\nIch freue mich über das Geschenk. → “I’m happy about the gift.”\n\nfreuen without preposition → okay if context makes it clear what you’re happy about\n\nIch freue mich, wenn du kommen kannst. → “I’m happy if you can come.”\n\nSo auf = future, über = present, and no preposition = context tells the meaning.",
+    "desc": "freuen + auf + something → looking forward to something (future)\n\nIch freue mich auf das Konzert. → “I'm looking forward to the concert.”\n\nfreuen + über + something → happy about something (present / already happened)\n\nIch freue mich über das Geschenk. → “I'm happy about the gift.”\n\nfreuen without preposition → okay if context makes it clear what you're happy about\n\nIch freue mich, wenn du kommen kannst. → “I'm happy if you can come.”\n\nSo auf = future, über = present, and no preposition = context tells the meaning.",
     "groupCode": 1
   },
   {
@@ -13435,7 +13435,7 @@
   },
   {
     "id": 12202,
-    "en": "I'm giving my father an atlas and my mother her favorite perfume",
+    "en": "I'm gifting my father an atlas and my mother her favorite perfume",
     "de": "Ich schenke meinem Vater einen Atlas und meiner Mutter ihr Lieblingsparfüm",
     "groupCode": 1
   },
@@ -13499,7 +13499,7 @@
     "id": 12212,
     "en": "In case it rains, we take along an umbrella",
     "de": "Für den Fall, dass es regnet, nehmen wir einen Regenschirm",
-    "desc": "1\uFE0F⃣ mitnehmen = take along\n\nMeans you take something from where you are now to another place.\n\nFocus is on leaving your current location with the item.\n\nExample:\n\nIch nehme einen Regenschirm mit.\n(I take an umbrella with me — from here to wherever I’m going.)\n\n2\uFE0F⃣ mitbringen = bring along\n\nMeans you bring something from another place to here.\n\nFocus is on bringing it to the location of the speaker or listener.\n\nExample:\n\nKannst du einen Regenschirm mitbringen?\n(Can you bring an umbrella here — to where I am?)",
+    "desc": "1\uFE0F⃣ mitnehmen = take along\n\nMeans you take something from where you are now to another place.\n\nFocus is on leaving your current location with the item.\n\nExample:\n\nIch nehme einen Regenschirm mit.\n(I take an umbrella with me — from here to wherever I'm going.)\n\n2\uFE0F⃣ mitbringen = bring along\n\nMeans you bring something from another place to here.\n\nFocus is on bringing it to the location of the speaker or listener.\n\nExample:\n\nKannst du einen Regenschirm mitbringen?\n(Can you bring an umbrella here — to where I am?)",
     "groupCode": 1
   },
   {
@@ -13554,7 +13554,7 @@
     "id": 12221,
     "en": "My apartment is near the park",
     "de": "Meine Wohnung ist in der Nähe vom Park",
-    "desc": "„Nähe“ requires either:\n\ndative with the preposition „von“ → in der Nähe von dem Park → vom Park ✅\n\ngenitive → in der Nähe des Parks ✅\n\nSimply saying „in der Nähe dem Park“ skips the necessary preposition „von“, so it doesn’t work grammatically.",
+    "desc": "„Nähe“ requires either:\n\ndative with the preposition „von“ → in der Nähe von dem Park → vom Park ✅\n\ngenitive → in der Nähe des Parks ✅\n\nSimply saying „in der Nähe dem Park“ skips the necessary preposition „von“, so it doesn't work grammatically.",
     "groupCode": 1
   },
   {
@@ -13754,7 +13754,7 @@
   },
   {
     "id": 12254,
-    "en": "I think my brother is always afraid (have fear)",
+    "en": "I believe, my brother is always afraid (have fear)",
     "de": "Ich glaube, mein Bruder hat immer Angst",
     "groupCode": 1
   },
@@ -14767,8 +14767,8 @@
   },
   {
     "id": 12421,
-    "en": "\n 1.I get up \n 2.I turn around \n 3.I bend over \n 4.I raise my hand \n 5.I stretch (myself)",
-    "de": "\n 1.Ich stehe auf \n 2.Ich drehe mich um \n 3.Ich beuge mich vor \n 4.Ich hebe die Hand \n 5.Ich strecke mich",
+    "en": "I get up",
+    "de": "Ich stehe auf",
     "groupCode": 1
   },
   {
@@ -14821,7 +14821,7 @@
   },
   {
     "id": 12430,
-    "en": "We drove through the mountains, that was fantastic",
+    "en": "We drove through the mountains, that was great (excellent)",
     "de": "Wir sind durch die Berge gefahren, das war großartig",
     "groupCode": 1
   },
@@ -14839,7 +14839,7 @@
   },
   {
     "id": 12433,
-    "en": "We could eat outside; the trees were fantastic",
+    "en": "We could eat outside; the trees were great (excellent)",
     "de": "Wir konnten draußen essen, die Bäume waren Großartig",
     "groupCode": 1
   },
@@ -14977,8 +14977,8 @@
   },
   {
     "id": 12456,
-    "en": "\n 1.I need peace \n 2.The room is quiet",
-    "de": "\n 1.Ich brauche Ruhe \n 2.Der Raum ist ruhig",
+    "en": "\n 1.I need peace \n 2.The room is quiet \n 3.I'm glad you're here",
+    "de": "\n 1.Ich brauche Ruhe \n 2.Der Raum ist ruhig \n 3.Ich bin froh, dass du hier bist",
     "desc": "Zimmer = a normal room you live or stay in (bedroom, hotel room).\nRaum = space or a room in a general, abstract, or formal sense.\n\n\uD83D\uDC49 Everyday room → Zimmer\n\uD83D\uDC49 Space / formal use → Raum",
     "groupCode": 1
   },
@@ -15174,7 +15174,7 @@
   },
   {
     "id": 12488,
-    "en": "Was the trip exhausting? Yes, I slept a lot on (the) next day",
+    "en": "Was the trip exhausting? Yes, I slept a lot on the next day",
     "de": "War die Reise anstrengend? Ja, ich habe am nächsten Tag viel geschlafen",
     "groupCode": 1
   },
@@ -15213,6 +15213,7 @@
     "id": 12494,
     "en": "How long is a foot?",
     "de": "Wie lang ist ein Fuß?",
+    "desc": "Trick to remember:\n\nlang = length of a thing\n\nlange = length of time\n\nSo for a foot (a thing) → lang",
     "groupCode": 1
   },
   {
@@ -15319,8 +15320,9 @@
   },
   {
     "id": 12512,
-    "en": "My father is doing (going) rally fantastic",
+    "en": "My father is doing really fantastic",
     "de": "Meinem Vater geht's echt fantastisch",
+    "desc": "wirklich = really / truly → neutral, works in all situations\n\necht = really / real → more casual, emotional, spoken German",
     "groupCode": 1
   },
   {
@@ -15374,13 +15376,13 @@
   },
   {
     "id": 12521,
-    "en": "How are your parents?",
+    "en": "How are your parents doing?",
     "de": "Wie geht's deinen Eltern?",
     "groupCode": 1
   },
   {
     "id": 12522,
-    "en": "How is your girlfriend? She's doing well",
+    "en": "How is your girlfriend doing? She's doing well",
     "de": "Wie geht's deiner Freundin? Ihr geht es gut",
     "groupCode": 1
   },
@@ -15388,6 +15390,7 @@
     "id": 12523,
     "en": "Why aren't you laughing at my joke?",
     "de": "Warum lachst du nicht über meinen Witz?",
+    "desc": "If it's about thinking/talking/laughing/feeling, use über\n\nIf it's about waiting, reacting, depending, aiming, use auf",
     "groupCode": 1
   },
   {
@@ -15506,7 +15509,7 @@
   },
   {
     "id": 12543,
-    "en": "I think my app is crazy",
+    "en": "I believe, my app is crazy",
     "de": "Ich glaube, meine App spinnt",
     "groupCode": 1
   },
@@ -15554,8 +15557,93 @@
   },
   {
     "id": 12551,
-    "en": "I was born on April 4th, my birthday is in four days",
+    "en": "I was born on April 4th, I have birthday is in four days",
     "de": "Ich bin am vierten April geboren, Ich habe in vier Tagen Geburtstag",
+    "groupCode": 1
+  },
+  {
+    "id": 12552,
+    "en": "viel Glück",
+    "de": "good luck",
+    "groupCode": 1
+  },
+  {
+    "id": 12553,
+    "en": "\n 1.That is a mistake \n 2.I made many mistakes",
+    "de": "\n 1.Das ist ein Fehler \n 2.Ich habe viele Fehler gemacht",
+    "desc": "Fehler is both singular and plural in German.",
+    "groupCode": 1
+  },
+  {
+    "id": 12554,
+    "en": "Why don't you put my ID card on the table?",
+    "de": "Warum legst du meinen Ausweis nicht auf den Tisch?",
+    "groupCode": 1
+  },
+  {
+    "id": 12555,
+    "en": "Where was my passport? In the drawer under a magazine",
+    "de": "Wo war mein Pass? In der Schublade unter einer Zeitschrift",
+    "groupCode": 1
+  },
+  {
+    "id": 12556,
+    "en": "I often lose my keys, but today I lost my passport",
+    "de": "Ich verliere oft meinen Schlüssel, aber heute habe ich meinen Pass verloren",
+    "groupCode": 1
+  },
+  {
+    "id": 12557,
+    "en": "Have you lost your passport again?",
+    "de": "Hast du wieder deinen Pass verloren?",
+    "groupCode": 1
+  },
+  {
+    "id": 12558,
+    "en": "Don't lose your passport, our departure (flight) is tomorrow",
+    "de": "Verlier deinen Pass nicht, unser Abflug ist morgen",
+    "groupCode": 1
+  },
+  {
+    "id": 12559,
+    "en": "You always lose everything",
+    "de": "Du verlierst immer alles",
+    "groupCode": 1
+  },
+  {
+    "id": 12560,
+    "en": "Did you find the passport under the coffee table?",
+    "de": "Hast du den Pass unter dem Kaffeetisch gefunden?",
+    "groupCode": 1
+  },
+  {
+    "id": 12561,
+    "en": "I turn around",
+    "de": "Ich drehe mich um",
+    "groupCode": 1
+  },
+  {
+    "id": 12562,
+    "en": "I bend over",
+    "de": "Ich beuge mich vor",
+    "groupCode": 1
+  },
+  {
+    "id": 12563,
+    "en": "I raise my hand",
+    "de": "Ich hebe die Hand",
+    "groupCode": 1
+  },
+  {
+    "id": 12564,
+    "en": "I stretch (myself)",
+    "de": "Ich strecke mich",
+    "groupCode": 1
+  },
+  {
+    "id": 12565,
+    "en": "If I'm not mistaken",
+    "de": "Wenn ich mich nicht irre",
     "groupCode": 1
   }
 ]

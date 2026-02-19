@@ -11379,5 +11379,35 @@
     "fa": "انتخاب های تصادفی همیشه کار نمی کند",
     "en": "Random choices don't always work",
     "groupCode": 0
+  },
+  {
+    "id": 4866,
+    "fa": "خوبه من ندیدمت بیرون, من احتمالاً ازت خوشم می اومد (و بهت رو می زدم)",
+    "en": "Good I didn't see you outside, I probably would have hit on you?",
+    "groupCode": 0
+  },
+  {
+    "id": 4867,
+    "fa": "شما داری مهمانی رو ترک می کنی، درست (وقتی که) داره شروع میشه",
+    "en": "You're leaving the party, just as it's getting started",
+    "groupCode": 0
+  },
+  {
+    "id": 4868,
+    "fa": "چقدر شما مطمئن هستی که مذاکرات ما موفق خواهند بود؟",
+    "en": "How confident are you that our negotiations will be successful?",
+    "groupCode": 0
+  },
+  {
+    "id": 4869,
+    "fa": "جعبه تنقلات دیگر در دسترس نخواهد بود از امروز",
+    "en": "The snack box will no longer be available as of today",
+    "groupCode": 0
+  },
+  {
+    "id": 4870,
+    "fa": "سخت است گفتن خداحافظی به همکارانم، بعضی از آن ها من کار کرده ام برای سال ها",
+    "en": "It's difficult to say goodbye to my colleagues, some of whom I have worked with for decades",
+    "groupCode": 0
   }
 ]
