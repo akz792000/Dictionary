@@ -1758,7 +1758,8 @@
   {
     "id": 3287,
     "fa": "میز لرزان است",
-    "en": "The table is wobbly",
+    "en": "The table is wobbly /ˈwɑːbəli/",
+    "desc": "wiggly → small, flexible movement\n\nwobbly → unstable, shaky movement",
     "groupCode": 0
   },
   {
@@ -8808,7 +8809,7 @@
   },
   {
     "id": 4443,
-    "fa": "چگونه است قرار گذاشتن در ایران در مقایسه با آمریکا؟",
+    "fa": "چگونه است قرار گذاشتن در ایران در مقابل (مقایسه) با آمریکا؟",
     "en": "How's dating in Iran as opposed to the U.S?",
     "groupCode": 0
   },
@@ -11408,6 +11409,18 @@
     "id": 4870,
     "fa": "سخت است گفتن خداحافظی به همکارانم، بعضی از آن ها من کار کرده ام برای سال ها",
     "en": "It's difficult to say goodbye to my colleagues, some of whom I have worked with for decades",
+    "groupCode": 0
+  },
+  {
+    "id": 4871,
+    "fa": "شما نیاز داری تا ول کنی گذشته را و ادامه بدی (به جلو رفتن)",
+    "en": "You need to let go of the past and move on",
+    "groupCode": 0
+  },
+  {
+    "id": 4872,
+    "fa": "من توضیح خواهم داد هر مفهوم را در واژه بیزنسی ساده، نه با اصطلاحات مخصوص یک صنف",
+    "en": "I'll explain each concept in simple business terms, not financial jargon /ˈdʒɑːrɡən/",
     "groupCode": 0
   }
 ]

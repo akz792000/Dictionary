@@ -13497,7 +13497,7 @@
   },
   {
     "id": 12212,
-    "en": "In case it rains, we take along an umbrella",
+    "en": "For the case, that it rains, we take an umbrella",
     "de": "Für den Fall, dass es regnet, nehmen wir einen Regenschirm",
     "desc": "1\uFE0F⃣ mitnehmen = take along\n\nMeans you take something from where you are now to another place.\n\nFocus is on leaving your current location with the item.\n\nExample:\n\nIch nehme einen Regenschirm mit.\n(I take an umbrella with me — from here to wherever I'm going.)\n\n2\uFE0F⃣ mitbringen = bring along\n\nMeans you bring something from another place to here.\n\nFocus is on bringing it to the location of the speaker or listener.\n\nExample:\n\nKannst du einen Regenschirm mitbringen?\n(Can you bring an umbrella here — to where I am?)",
     "groupCode": 1
@@ -14977,7 +14977,7 @@
   },
   {
     "id": 12456,
-    "en": "\n 1.I need peace \n 2.The room is quiet \n 3.I'm glad you're here",
+    "en": "\n 1.I need peace \n 2.The room is quiet \n 3.I'm glad that you're here",
     "de": "\n 1.Ich brauche Ruhe \n 2.Der Raum ist ruhig \n 3.Ich bin froh, dass du hier bist",
     "desc": "Zimmer = a normal room you live or stay in (bedroom, hotel room).\nRaum = space or a room in a general, abstract, or formal sense.\n\n\uD83D\uDC49 Everyday room → Zimmer\n\uD83D\uDC49 Space / formal use → Raum",
     "groupCode": 1
@@ -15563,8 +15563,8 @@
   },
   {
     "id": 12552,
-    "en": "viel Glück",
-    "de": "good luck",
+    "en": "good luck",
+    "de": "viel Glück",
     "groupCode": 1
   },
   {
@@ -15576,7 +15576,7 @@
   },
   {
     "id": 12554,
-    "en": "Why don't you put my ID card on the table?",
+    "en": "Why don't you put (lay) my ID card on the table?",
     "de": "Warum legst du meinen Ausweis nicht auf den Tisch?",
     "groupCode": 1
   },
@@ -15644,6 +15644,36 @@
     "id": 12565,
     "en": "If I'm not mistaken",
     "de": "Wenn ich mich nicht irre",
+    "groupCode": 1
+  },
+  {
+    "id": 12566,
+    "en": "\n 1.I complain about the food \n 2.I complained about the food",
+    "de": "\n 1.Ich beschwere mich über das Essen \n 2.Ich habe mich über das Essen beschwert",
+    "groupCode": 1
+  },
+  {
+    "id": 12567,
+    "en": "I hurt myself",
+    "de": "Ich habe mich verletzt",
+    "groupCode": 1
+  },
+  {
+    "id": 12568,
+    "en": "He hurt myself",
+    "de": "Er hat mich verletzt",
+    "groupCode": 1
+  },
+  {
+    "id": 12569,
+    "en": "I meet my friend",
+    "de": "Ich treffe meinen Freund",
+    "groupCode": 1
+  },
+  {
+    "id": 12570,
+    "en": "He meets me tomorrow",
+    "de": "Er trifft mich morgen",
     "groupCode": 1
   }
 ]
