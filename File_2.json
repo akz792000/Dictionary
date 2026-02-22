@@ -13443,6 +13443,7 @@
     "id": 12203,
     "en": "That's a good idea. Hey, I have to go (off). I still have to buy presents too",
     "de": "Das ist eine gute Idee. Du, ich muss los. Ich muss auch noch Geschenke kaufen",
+    "desc": "In German, “auch” usually comes before “noch” when you want to say “also still.”",
     "groupCode": 1
   },
   {
@@ -13863,9 +13864,9 @@
   },
   {
     "id": 12272,
-    "en": "They remind me of a woman I knew many years ago",
+    "en": "They remind me of a woman whom I knew many years ago",
     "de": "Sie erinnern mich an eine Frau, die ich vor vielen Jahren gekannt habe",
-    "desc": "Sie = you (formal, talking to the person)\n\ndie = who / that (refers to eine Frau) \n\n die links back to Frau.\nUsing Sie there would be wrong.",
+    "desc": "die = who / that (refers to eine Frau) \n\n die links back to Frau.\nUsing Sie there would be wrong. \n\n\n Why?\n\nIn a relative clause (like “die ich …”), the conjugated verb goes to the end.",
     "groupCode": 1
   },
   {
@@ -15437,7 +15438,7 @@
   },
   {
     "id": 12531,
-    "en": "Dear Ms. ..., thank you very much for informing me about my son's behavior",
+    "en": "Dear Ms. ..., thank you very much, that you (formal) informed me about the behavior of my son",
     "de": "Sehr geehrte Frau ..., vielen Dank, dass Sie mich über das Verhalten meines Sohnes informiert haben",
     "groupCode": 1
   },
@@ -15486,7 +15487,7 @@
   {
     "id": 12539,
     "en": "Have you already looked in your backpack? You always find your things there",
-    "de": "Hast du schon im Rucksack gesucht? Du findest deine Sachen immer dort",
+    "de": "Hast du schon in deinem Rucksack gesucht? Du findest deine Sachen immer dort",
     "groupCode": 1
   },
   {
@@ -15654,14 +15655,14 @@
   },
   {
     "id": 12567,
-    "en": "I hurt myself",
-    "de": "Ich habe mich verletzt",
+    "en": "\n 1.I hurt (present) myself \n 2.I hurt (past) myself",
+    "de": "\n 1.Ich verletze mich \n 2.Ich habe mich verletzt",
     "groupCode": 1
   },
   {
     "id": 12568,
-    "en": "He hurt myself",
-    "de": "Er hat mich verletzt",
+    "en": "I insert the battery",
+    "de": "Ich lege die Batterie ein",
     "groupCode": 1
   },
   {
@@ -15674,6 +15675,12 @@
     "id": 12570,
     "en": "He meets me tomorrow",
     "de": "Er trifft mich morgen",
+    "groupCode": 1
+  },
+  {
+    "id": 12571,
+    "en": "I inserted the battery",
+    "de": "Ich habe die Batterie eingelegt",
     "groupCode": 1
   }
 ]

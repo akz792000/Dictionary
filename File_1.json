@@ -10685,6 +10685,7 @@
     "id": 4751,
     "fa": "Legen برای اشیاء صاف است و stellen برای اشیاء قائم است و setzen برای مردم و حیوانات است",
     "en": "Legen is for flat objects and stellen is for upright objects and setzen is for people and animals",
+    "desc": "We also use setzen for objects, when we place something carefully or in a specific position.",
     "groupCode": 0
   },
   {
@@ -11419,8 +11420,14 @@
   },
   {
     "id": 4872,
-    "fa": "من توضیح خواهم داد هر مفهوم را در واژه بیزنسی ساده، نه با اصطلاحات مخصوص یک صنف",
+    "fa": "من توضیح خواهم داد هر مفهوم را در واژه های بیزنسی ساده، نه اصطلاحات بیزنسی (مخصوص یک صنف)",
     "en": "I'll explain each concept in simple business terms, not financial jargon /ˈdʒɑːrɡən/",
+    "groupCode": 0
+  },
+  {
+    "id": 4873,
+    "fa": "من دستم بنده",
+    "en": "I'm tide up",
     "groupCode": 0
   }
 ]
