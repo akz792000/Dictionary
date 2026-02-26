@@ -11408,7 +11408,7 @@
   },
   {
     "id": 4870,
-    "fa": "سخت است گفتن خداحافظی به همکارانم، بعضی از آن ها من کار کرده ام برای سال ها",
+    "fa": "سخت است گفتن خداحافظی به همکارانم، بعضی از آن ها من کار کرده ام برای دهه ها",
     "en": "It's difficult to say goodbye to my colleagues, some of whom I have worked with for decades",
     "groupCode": 0
   },
@@ -11420,7 +11420,7 @@
   },
   {
     "id": 4872,
-    "fa": "من توضیح خواهم داد هر مفهوم را در واژه های بیزنسی ساده، نه اصطلاحات بیزنسی (مخصوص یک صنف)",
+    "fa": "من توضیح خواهم داد هر مفهوم را در واژه های بیزنسی ساده، نه اصطلاحات مالی (مخصوص یک صنف)",
     "en": "I'll explain each concept in simple business terms, not financial jargon /ˈdʒɑːrɡən/",
     "groupCode": 0
   },
@@ -11428,6 +11428,31 @@
     "id": 4873,
     "fa": "من دستم بنده",
     "en": "I'm tide up",
+    "groupCode": 0
+  },
+  {
+    "id": 4874,
+    "fa": "چه موردی با همگام سازی کاربر Chrome باعث شد شرکت تا غیرفعالش کند؟",
+    "en": "What issue with Chrome user sync led the company to disable it?",
+    "groupCode": 0
+  },
+  {
+    "id": 4875,
+    "fa": "آنها می خواهند تا انجام دهند یک چند مصاحبه دیگر قبل از تصمیم گیری تا با چه کسی ادامه دهند",
+    "en": "They want to do a couple more interviews before deciding who to move forward with",
+    "groupCode": 0
+  },
+  {
+    "id": 4876,
+    "fa": "آنها بالا بردند قیمت ها را (سرسام آور)",
+    "en": "They jacked up the prices",
+    "desc": "They increased the prices (often unfairly or suddenly)",
+    "groupCode": 0
+  },
+  {
+    "id": 4877,
+    "fa": "بکن تو کونت",
+    "en": "Shove it up your ass",
     "groupCode": 0
   }
 ]

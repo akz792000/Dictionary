@@ -4617,6 +4617,7 @@
     "id": 10758,
     "en": "Which hobbies do you have?",
     "de": "Welche Hobbys hast du?",
+    "desc": "welche → feminine (Nom/Akk) + plural\n\nwelches → neuter (Nom/Akk)\n\nwelchen → masc Akk + plural Dativ\n\nwelcher / welchem → Dativ (fem / neuter)",
     "groupCode": 1
   },
   {
@@ -11822,7 +11823,7 @@
   },
   {
     "id": 11937,
-    "en": "I am angry because he didn't come",
+    "en": "I am mad because he didn't come",
     "de": "Ich bin sauer, weil er nicht gekommen ist",
     "groupCode": 1
   },
@@ -11984,7 +11985,7 @@
   },
   {
     "id": 11964,
-    "en": "Please insert card",
+    "en": "Please put into (plug in) card",
     "de": "Bitte Karte einstecken",
     "groupCode": 1
   },
@@ -15370,7 +15371,7 @@
   },
   {
     "id": 12520,
-    "en": "He can't find an apartment; it's too difficult",
+    "en": "He can't find an apartment, it's too difficult",
     "de": "Er kann keine Wohnung finden, es ist zu schwierig",
     "desc": "schwierig → mentally difficult, complex\n\nschwer → physically heavy, exhausting, or emotionally overwhelming",
     "groupCode": 1
@@ -15560,6 +15561,7 @@
     "id": 12551,
     "en": "I was born on April 4th, I have birthday is in four days",
     "de": "Ich bin am vierten April geboren, Ich habe in vier Tagen Geburtstag",
+    "desc": "in + time → uses Dativ\n\nPlural Dativ of Tag → Tagen\n\nSo: in vier Tagen = in four days ✅\n\nNominativ plural is Tage, Dativ plural adds -n → Tagen.",
     "groupCode": 1
   },
   {
@@ -15681,6 +15683,66 @@
     "id": 12571,
     "en": "I inserted the battery",
     "de": "Ich habe die Batterie eingelegt",
+    "groupCode": 1
+  },
+  {
+    "id": 12572,
+    "en": "He is studying at a university in Berlin this semester",
+    "de": "Er studiert dieses Semester an einer Universität in Berlin",
+    "groupCode": 1
+  },
+  {
+    "id": 12573,
+    "en": "I register for the course today and cancel it again tomorrow",
+    "de": "Ich melde mich heute für den Kurs an und morgen wieder ab",
+    "groupCode": 1
+  },
+  {
+    "id": 12574,
+    "en": "How do you (man) pronounce this word?",
+    "de": "Wie spricht man dieses Wort aus?",
+    "groupCode": 1
+  },
+  {
+    "id": 12575,
+    "en": "We definitely didn't speak about you",
+    "de": "Wir haben ganz bestimmt nicht über dich gesprochen",
+    "groupCode": 1
+  },
+  {
+    "id": 12576,
+    "en": "I couldn't speak with Lin yesterday. She wasn't there. She was at a party",
+    "de": "Ich konnte gestern nicht mit Lin sprechen. Sie war nicht da. Sie war auf einer Party",
+    "groupCode": 1
+  },
+  {
+    "id": 12577,
+    "en": "I don't know, but he's worse than the last waiter",
+    "de": "Ich weiß es nicht, aber er ist schlimmer als der letzte Kellner",
+    "groupCode": 1
+  },
+  {
+    "id": 12578,
+    "en": "I came home and my computer was away (missing)",
+    "de": "Ich bin nach Hause gekommen und mein Computer war weg",
+    "groupCode": 1
+  },
+  {
+    "id": 12579,
+    "en": "My roommates were mad because I didn't do the dishes.",
+    "de": "Meine Mitbewohner waren sauer, ich habe nicht abgewaschen",
+    "groupCode": 1
+  },
+  {
+    "id": 12580,
+    "en": "What is your major?",
+    "de": "Was ist dein Hauptfach?",
+    "groupCode": 1
+  },
+  {
+    "id": 12581,
+    "en": "Do you also have a minor subject?",
+    "de": "Hast du auch ein Nebenfach?",
     "groupCode": 1
   }
 ]
