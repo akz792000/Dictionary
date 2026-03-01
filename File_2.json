@@ -5917,6 +5917,7 @@
     "id": 10971,
     "en": "For Whom are you buying the gifts?",
     "de": "Für wen kaufst du die Geschenke?",
+    "desc": "Für wen kaufst du die Geschenke?\n\nfür ALWAYS takes Akkusativ.\n\nSo:\n\nAkkusativ → wen\n\nDativ would be wem, but not after für.",
     "groupCode": 1
   },
   {
@@ -15043,7 +15044,7 @@
     "id": 12466,
     "en": "Every evening I read a magazine in bed. At midnight my brother always turns off the light, then I can't read anymore.",
     "de": "Jeden Aben lese ich eine Zeitschrift im Bett. Um Mitternacht macht mein Bruder immer das Licht aus, dann kann ich nicht mehr lesen",
-    "desc": "Why?\n\n„um“ = for exact points in time\n\n„am“ = for days / dates\n\nCorrect:\n\num Mitternacht\n\num 12 Uhr\n\num 3:30",
+    "desc": "Mitternacht (midnight) is a specific point in time, and in German, “um” is used for exact times.\n\nCorrect: Um Mitternacht → “at midnight”\n\nIncorrect: Am Mitternacht",
     "groupCode": 1
   },
   {
@@ -15591,7 +15592,7 @@
   },
   {
     "id": 12556,
-    "en": "I often lose my keys, but today I lost my passport",
+    "en": "I often lose my key, but today I lost my passport",
     "de": "Ich verliere oft meinen Schlüssel, aber heute habe ich meinen Pass verloren",
     "groupCode": 1
   },
@@ -15645,7 +15646,7 @@
   },
   {
     "id": 12565,
-    "en": "If I'm not mistaken",
+    "en": "If (whenever) I'm not mistaken",
     "de": "Wenn ich mich nicht irre",
     "groupCode": 1
   },
@@ -15729,8 +15730,8 @@
   },
   {
     "id": 12579,
-    "en": "My roommates were mad because I didn't do the dishes.",
-    "de": "Meine Mitbewohner waren sauer, ich habe nicht abgewaschen",
+    "en": "My roommates were mad because I didn't do the dishes",
+    "de": "Meine Mitbewohner waren sauer weil ich nicht abgewaschen habe",
     "groupCode": 1
   },
   {
@@ -15743,6 +15744,127 @@
     "id": 12581,
     "en": "Do you also have a minor subject?",
     "de": "Hast du auch ein Nebenfach?",
+    "groupCode": 1
+  },
+  {
+    "id": 12582,
+    "en": "What is your major? I study history",
+    "de": "Was ist dein Hauptfach? Ich studiere Geschichte",
+    "groupCode": 1
+  },
+  {
+    "id": 12583,
+    "en": "Is your major medicine or history?",
+    "de": "Ist dein Hauptfach Medizin oder Geschichte?",
+    "groupCode": 1
+  },
+  {
+    "id": 12584,
+    "en": "Was my question not clear enough?",
+    "de": "War meine Frage nicht klar genug?",
+    "groupCode": 1
+  },
+  {
+    "id": 12585,
+    "en": "That's not fair, I have to wear my glasses",
+    "de": "Das ist nicht fair, ich muss meine Brille tragen",
+    "groupCode": 1
+  },
+  {
+    "id": 12586,
+    "en": "I'm not going to the lecture, I'm visiting my friend",
+    "de": "Ich gehe nicht zur Vorlesung, ich besuche meinen Freund",
+    "groupCode": 1
+  },
+  {
+    "id": 12587,
+    "en": "What did the professor say in the lecture? I don't know. He speaks too fast",
+    "de": "Was hat der Professor in der Vorlesung gesagt? Ich weiß nicht. Er spricht zu schnell",
+    "groupCode": 1
+  },
+  {
+    "id": 12588,
+    "en": "He always answers the professor, but I say nothing",
+    "de": "Er antwortet der Professorin immer aber ich sage nichts",
+    "groupCode": 1
+  },
+  {
+    "id": 12589,
+    "en": "My roommates never clean their bathtub",
+    "de": "Meine Mitbewohner putzen nie ihre Badewanne",
+    "groupCode": 1
+  },
+  {
+    "id": 12590,
+    "en": "How are your grades this semester?",
+    "de": "Wie sind deine Noten dieses Semester?",
+    "groupCode": 1
+  },
+  {
+    "id": 12591,
+    "en": "I'm taking (to enroll in a course) two courses this semester",
+    "de": "Ich belege dieses Semester zwei Kurse",
+    "groupCode": 1
+  },
+  {
+    "id": 12592,
+    "en": "Only studying is allowed in the library",
+    "de": "Nur Lernen ist in der Bibliothek erlaubt",
+    "groupCode": 1
+  },
+  {
+    "id": 12593,
+    "en": "Next semester is very easy for me",
+    "de": "Nächstes Semester ist ganz einfach für mich",
+    "groupCode": 1
+  },
+  {
+    "id": 12594,
+    "en": "I can only learn with many cups of coffee",
+    "de": "Ich kann nur mit vielen Tassen Kaffee lernen",
+    "groupCode": 1
+  },
+  {
+    "id": 12595,
+    "en": "Did you speak about your husband or your uncle?",
+    "de": "Hast du über deinen Mann oder deinen Onkel gesprochen?",
+    "groupCode": 1
+  },
+  {
+    "id": 12596,
+    "en": "I'm not laughing at you, I'm laughing with you",
+    "de": "Ich lache nicht über dich, ich lache mit dir",
+    "groupCode": 1
+  },
+  {
+    "id": 12597,
+    "en": "They never use their bathtub, they prefer to shower.",
+    "de": "Sie benutzen nie ihre Badewanne, sie duschen lieber",
+    "groupCode": 1
+  },
+  {
+    "id": 12598,
+    "en": "My roommates are taking (to enroll in a course) five courses together",
+    "de": "Meine Mitbewohner belegen fünf Kurse zusammen",
+    "groupCode": 1
+  },
+  {
+    "id": 12599,
+    "en": "What are your grades this semester?",
+    "de": "Wie sind deine Noten dieses Semester?",
+    "groupCode": 1
+  },
+  {
+    "id": 12600,
+    "en": "Be happy, your brother is here in the office",
+    "de": "Seien Sie glücklich, Ihr Bruder ist hier im Büro",
+    "groupCode": 1
+  },
+  {
+    "id": 12601,
+    "en": "\n 1.Looking/Searching \n 2.Talking/Thinking about",
+    "de": "\n 1.Wonach \n 2.Worüber",
+    "desc": "wonach = “after what / what for” → used when searching, asking, or looking for something\n\nWonach suchst du? → What are you looking for?\n\nworüber = “about what” → used when talking, thinking, or writing about something\n\nWorüber sprichst du? → What are you talking about?\n\n\uD83D\uDCA1 Quick trick:\n\nwonach → suchen / fragen (search / ask)\n\nworüber → sprechen / denken / schreiben (talk / think / write)",
     "groupCode": 1
   }
 ]

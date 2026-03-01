@@ -11063,8 +11063,8 @@
   },
   {
     "id": 4813,
-    "fa": "\n 1.موز رسیده \n 2.رز هوازده شده \n 3.روغن فاسد شده \n 4.سیب زمینی ها جوانه زده اند \n 5.سیب فاسد شده \n 6.پنیر کپک زده \n 7.نان بیات شده \n 8.سبزی (سبزیجات) پژمرده شده",
-    "en": "\n 1.The banana is ripe \n 2.The rose is weathered /ˈweð.ɚd/ \n 3.The oil is rancid \n 4.The potatoes are sprouted /spraʊted/ \n 5.The apple is rotten \n 6.The cheese is moldy \n 7.The bread is stale \n 8.The vegetable is wilted",
+    "fa": "\n 1.موز رسیده \n 2.رز هوازده شده \n 3.روغن فاسد شده \n 4.سیب زمینی ها جوانه زده اند \n 5.سیب فاسد شده \n 6.پنیر کپک زده \n 7.نان بیات شده \n 8.سبزی (سبزیجات) پژمرده شده \n 9.گل رز خشک شده است",
+    "en": "\n 1.The banana is ripe \n 2.The rose is weathered /ˈweð.ɚd/ \n 3.The oil is rancid \n 4.The potatoes are sprouted /spraʊted/ \n 5.The apple is rotten \n 6.The cheese is moldy \n 7.The bread is stale \n 8.The vegetable is wilted \n 9.The rose is withered",
     "groupCode": 0
   },
   {
@@ -11451,8 +11451,45 @@
   },
   {
     "id": 4877,
-    "fa": "بکن تو کونت",
+    "fa": "بکنش تو کونت",
     "en": "Shove it up your ass",
+    "groupCode": 0
+  },
+  {
+    "id": 4878,
+    "fa": "چه چیزی شما باور دارید شما می توانید به (روی) میز بیاورید اگر ما تصمیم بگیریم شما به خدمت بگیریم؟",
+    "en": "What do you believe you can bring to the table if we decide to take you on?",
+    "desc": "To hire / employ\n\nWe decided to take her on.\n→ We decided to hire her.",
+    "groupCode": 0
+  },
+  {
+    "id": 4879,
+    "fa": "ما تصمیم گرفتیم تا او (زن) را به خدمت بگیریم",
+    "en": "We decided to take her on",
+    "groupCode": 0
+  },
+  {
+    "id": 4880,
+    "fa": "بیا یه کم بیشتر تو پارک بمونیم (بچسبیم) تا لذت ببریم از آفتاب",
+    "en": "Let's stick around at the park a little longer to enjoy the sunshine",
+    "groupCode": 0
+  },
+  {
+    "id": 4881,
+    "fa": "من گرفتم اقامت دائمم را و امیدوارم من درخواست بدهم (اعمال کردن) برای شهروندی سال آینده",
+    "en": "I got my permanent residence, and hopefully I will apply for citizenship next year",
+    "groupCode": 0
+  },
+  {
+    "id": 4882,
+    "fa": "ما تصمیم گرفتیم تا به خدمت بگیریم او (مرد) را به عنوان کارآموز",
+    "en": "We decided to take him on as an intern",
+    "groupCode": 0
+  },
+  {
+    "id": 4883,
+    "fa": "بیا بمونیم (بچسبیم) بعد از فیلم و گپ بزنیم",
+    "en": "Let's stick around after the movie and chat",
     "groupCode": 0
   }
 ]
