@@ -11470,26 +11470,38 @@
   },
   {
     "id": 4880,
-    "fa": "بیا یه کم بیشتر تو پارک بمونیم (بچسبیم) تا لذت ببریم از آفتاب",
+    "fa": "بیا یه کم بیشتر تو پارک بمونیم (مدتی جایی موندن) تا لذت ببریم از آفتاب",
     "en": "Let's stick around at the park a little longer to enjoy the sunshine",
     "groupCode": 0
   },
   {
     "id": 4881,
-    "fa": "من گرفتم اقامت دائمم را و امیدوارم من درخواست بدهم (اعمال کردن) برای شهروندی سال آینده",
+    "fa": "من گرفتم اقامت دائمم را و امیدوارم من درخواست خواهم داد (اعمال کردن) برای شهروندی سال آینده",
     "en": "I got my permanent residence, and hopefully I will apply for citizenship next year",
     "groupCode": 0
   },
   {
     "id": 4882,
-    "fa": "ما تصمیم گرفتیم تا به خدمت بگیریم او (مرد) را به عنوان کارآموز",
+    "fa": "ما تصمیم گرفتیم تا به خدمت بگیریم او (مرد) را به عنوان یک کارآموز",
     "en": "We decided to take him on as an intern",
     "groupCode": 0
   },
   {
     "id": 4883,
-    "fa": "بیا بمونیم (بچسبیم) بعد از فیلم و گپ بزنیم",
+    "fa": "بیا بمونیم (مدتی جایی موندن) بعد از فیلم و گپ بزنیم",
     "en": "Let's stick around after the movie and chat",
+    "groupCode": 0
+  },
+  {
+    "id": 4884,
+    "fa": "چرا شما نمی مونی (مدتی جایی موندن) برای شام به جای رفتن به سمت خانه اینقدر زود؟",
+    "en": "Why don't you stick around for dinner instead of heading home so early?",
+    "groupCode": 0
+  },
+  {
+    "id": 4885,
+    "fa": "من احساس کردم حرفه ام قرار داشت در یک سطح ثابت و شروع کردم جستجو کردن فرصت های جدید",
+    "en": "I felt my career was at a plateau and started looking for new opportunities",
     "groupCode": 0
   }
 ]
