@@ -13353,7 +13353,7 @@
   {
     "id": 12188,
     "en": "Can you please add him to this group?",
-    "de": "Kannst du bitte ihn in diese Gruppe hinzufügen?",
+    "de": "Kannst du ihn bitte zu dieser Gruppe hinzufügen?",
     "groupCode": 1
   },
   {
@@ -15520,6 +15520,7 @@
     "id": 12544,
     "en": "Under which newspapers was my passport?",
     "de": "Unter welchen Zeitungen war mein Pass?",
+    "desc": "Because „unter“ here takes the dative case.\n\nYou’re describing a location (Where was the passport?), not movement → so it’s dative.",
     "groupCode": 1
   },
   {
@@ -15784,7 +15785,7 @@
   },
   {
     "id": 12588,
-    "en": "He always answers the professor, but I say nothing",
+    "en": "He always answers the professor (female), but I say nothing",
     "de": "Er antwortet der Professorin immer aber ich sage nichts",
     "groupCode": 1
   },
@@ -15808,13 +15809,13 @@
   },
   {
     "id": 12592,
-    "en": "Only studying is allowed in the library",
+    "en": "Only learning is allowed in the library",
     "de": "Nur Lernen ist in der Bibliothek erlaubt",
     "groupCode": 1
   },
   {
     "id": 12593,
-    "en": "Next semester is very easy for me",
+    "en": "Next semester is entire easy for me",
     "de": "Nächstes Semester ist ganz einfach für mich",
     "groupCode": 1
   },
@@ -15850,13 +15851,13 @@
   },
   {
     "id": 12599,
-    "en": "What are your grades this semester?",
+    "en": "How are your grades this semester?",
     "de": "Wie sind deine Noten dieses Semester?",
     "groupCode": 1
   },
   {
     "id": 12600,
-    "en": "Be happy, your brother is here in the office",
+    "en": "Be happy (formal), your (formal) brother is here in the office",
     "de": "Seien Sie glücklich, Ihr Bruder ist hier im Büro",
     "groupCode": 1
   },

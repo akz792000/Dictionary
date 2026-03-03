@@ -2621,7 +2621,7 @@
   },
   {
     "id": 3427,
-    "fa": "لطفاً مطمئن شوید که مزاحمتی نداری (بی مزاحم هستی) و به رایانه دسترسی دارید",
+    "fa": "لطفاً مطمئن شوید که مزاحمتی نداری (بی مزاحم هستی) و دسترسی دارید به یک رایانه",
     "en": "Please make sure you are undisturbed and have access to a computer",
     "groupCode": 0
   },
@@ -11502,6 +11502,18 @@
     "id": 4885,
     "fa": "من احساس کردم حرفه ام قرار داشت در یک سطح ثابت و شروع کردم جستجو کردن فرصت های جدید",
     "en": "I felt my career was at a plateau and started looking for new opportunities",
+    "groupCode": 0
+  },
+  {
+    "id": 4886,
+    "fa": "تو عالی (کاری رو خیلی خوب و دقیق انجام دادن) انجامش دادی",
+    "en": "You nailed it",
+    "groupCode": 0
+  },
+  {
+    "id": 4887,
+    "fa": "مدل کسب وکار ما بر نقشها و مجوزها متکی است. وقتی یک نقش جدید معرفی میشود، باید یک مجوز متناظر نیز اضافه شود؛ در غیر این صورت، آن نقش هیچ ارزش عملی نخواهد داشت. اگرچه پیاده سازی اولیه نیاز به تغییرات متعددی در سراسر پایگاه کد خواهد داشت، اما با گذشت زمان سیستم تثبیت م یشود و ما را قادر میسازد تا نقش ها و مجوزهای جدید را با حداقل به روزرسانی ها اضافه کنیم.",
+    "en": "Our business model relies on roles and permissions. When a new role is introduced, a corresponding permission must be added; otherwise, the role has no practical value. Although the initial implementation will require numerous changes across the codebase, over time the system will stabilize, enabling us to add new roles and permissions with minimal updates",
     "groupCode": 0
   }
 ]
