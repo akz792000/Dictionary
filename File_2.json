@@ -2057,7 +2057,7 @@
   {
     "id": 10336,
     "en": "Do you still have to wash these socks",
-    "de": "Musst du diese Socken noch waschen",
+    "de": "\n 1.Musst du diese Socken noch waschen \n Musst du noch diese Socken waschen",
     "desc": "Musst du diese Socken noch waschen?: Focus on still needing to wash the socks.\nMusst du noch diese Socken waschen?: Focus on these socks as additional ones.\nBoth are correct; the first is more common.",
     "groupCode": 1
   },
@@ -6230,7 +6230,7 @@
   },
   {
     "id": 11023,
-    "en": "I'm not waiting any longer, we have to go",
+    "en": "I'm not waiting any longer (more), we have to go",
     "de": "Ich warte nicht mehr, wir müssen gehen",
     "groupCode": 1
   },
@@ -8064,6 +8064,7 @@
     "id": 11324,
     "en": "Good art is surprising",
     "de": "Gute kunst ist Überraschend",
+    "desc": "überraschend = an adjective (describes something)\n\nÜberraschung = a noun meaning surprise",
     "groupCode": 1
   },
   {
@@ -15337,7 +15338,7 @@
   {
     "id": 12514,
     "en": "She said her girlfriend snored loudly",
-    "de": "Sie hat gesagt ihre Freundin hat laut geschnarcht",
+    "de": "Sie hat gesagt ihre Freundin hat laut geschnarcht /ش/",
     "groupCode": 1
   },
   {
@@ -15362,6 +15363,7 @@
     "id": 12518,
     "en": "He can't say anything, he hasn't made any plans yet",
     "de": "Er kann nichts sagen, er hat noch keine Pläne gemacht",
+    "desc": "In German, „noch“ (yet/still) usually comes before the thing that is negated.",
     "groupCode": 1
   },
   {
@@ -15434,7 +15436,7 @@
   },
   {
     "id": 12530,
-    "en": "I want to speak with your mom, is she there?",
+    "en": "I would like to speak with your mom, is she there?",
     "de": "Ich möchte mit deiner Mama sprechen, ist sie da?",
     "groupCode": 1
   },
@@ -15835,6 +15837,7 @@
     "id": 12596,
     "en": "I'm not laughing at you, I'm laughing with you",
     "de": "Ich lache nicht über dich, ich lache mit dir",
+    "desc": "„Ich lache mit dir.“ → من با تو می\u200Cخندم (man bâ to mikhandam)\n→ We laugh together.\n\n„Ich lache bei dir.“ → من پیشِ تو می\u200Cخندم (man pish-e to mikhandam)\n→ I laugh when I’m with you / at your place.",
     "groupCode": 1
   },
   {
@@ -15866,6 +15869,60 @@
     "en": "\n 1.Looking/Searching \n 2.Talking/Thinking about",
     "de": "\n 1.Wonach \n 2.Worüber",
     "desc": "wonach = “after what / what for” → used when searching, asking, or looking for something\n\nWonach suchst du? → What are you looking for?\n\nworüber = “about what” → used when talking, thinking, or writing about something\n\nWorüber sprichst du? → What are you talking about?\n\n\uD83D\uDCA1 Quick trick:\n\nwonach → suchen / fragen (search / ask)\n\nworüber → sprechen / denken / schreiben (talk / think / write)",
+    "groupCode": 1
+  },
+  {
+    "id": 12602,
+    "en": "I can't fall asleep without a piece of chocolate.",
+    "de": "Ich kann ohne ein Stück Schokolade nicht einschlafen",
+    "groupCode": 1
+  },
+  {
+    "id": 12603,
+    "en": "When do you turn off the light?",
+    "de": "Wann machst du das Licht aus?",
+    "groupCode": 1
+  },
+  {
+    "id": 12604,
+    "en": "The cats are annoying me, they sing all the time",
+    "de": "Die Katzen nerven mich, sie singen die ganze Zeit",
+    "groupCode": 1
+  },
+  {
+    "id": 12605,
+    "en": "The fish is funnier than me, his jokes are the best.",
+    "de": "Der Fisch ist lustiger als ich, seine Witze sind am besten",
+    "groupCode": 1
+  },
+  {
+    "id": 12606,
+    "en": "I'm sad, please tell me a joke",
+    "de": "Ich bin traurig, erzählt mir bitte einen Witz",
+    "groupCode": 1
+  },
+  {
+    "id": 12607,
+    "en": "What do the animals eat daily?",
+    "de": "Was essen die Tiere täglich?",
+    "groupCode": 1
+  },
+  {
+    "id": 12608,
+    "en": "The lion is sick, I'm not giving him any sweets",
+    "de": "Der Löwe ist krank, ich gebe ihm keine Süßigkeiten",
+    "groupCode": 1
+  },
+  {
+    "id": 12609,
+    "en": "Could you please drive faster? My rabbit and I are in a hurry",
+    "de": "Kannst du bitte schnell fahren? Mein Kaninchen und ich sind in Eile",
+    "groupCode": 1
+  },
+  {
+    "id": 12610,
+    "en": "Is he really breaking up with his boyfriend?",
+    "de": "Macht er wirklich mit seinem Freund Schluss?",
     "groupCode": 1
   }
 ]

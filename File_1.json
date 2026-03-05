@@ -11512,8 +11512,38 @@
   },
   {
     "id": 4887,
-    "fa": "مدل کسب وکار ما بر نقشها و مجوزها متکی است. وقتی یک نقش جدید معرفی میشود، باید یک مجوز متناظر نیز اضافه شود؛ در غیر این صورت، آن نقش هیچ ارزش عملی نخواهد داشت. اگرچه پیاده سازی اولیه نیاز به تغییرات متعددی در سراسر پایگاه کد خواهد داشت، اما با گذشت زمان سیستم تثبیت م یشود و ما را قادر میسازد تا نقش ها و مجوزهای جدید را با حداقل به روزرسانی ها اضافه کنیم.",
-    "en": "Our business model relies on roles and permissions. When a new role is introduced, a corresponding permission must be added; otherwise, the role has no practical value. Although the initial implementation will require numerous changes across the codebase, over time the system will stabilize, enabling us to add new roles and permissions with minimal updates",
+    "fa": "مدل کسب وکار ما متکی است بر نقش ها و مجوزها. وقتی یک نقش جدید معرفی می شود، یک اجازه مربوطه باید اضافه شود؛ در غیر این صورت، نقش هیچ ارزش عملی نخواهد داشت",
+    "en": "Our business model relies on roles and permissions. When a new role is introduced, a corresponding permission must be added; otherwise, the role has no practical value",
+    "groupCode": 0
+  },
+  {
+    "id": 4888,
+    "fa": "اگرچه پیاده سازی اولیه نیاز  خواهد داشت تغییرات متعددی در سراسر کدبیس، اما با گذشت زمان سیستم تثبیت خواهد شد و قادر می سازد ما را تا اضافه کنیم نقش  ها و مجوزهای جدید را با حداقل به روزرسانی ها",
+    "en": "Although the initial implementation will require numerous changes across the codebase, over time the system will stabilize, enabling us to add new roles and permissions with minimal updates",
+    "groupCode": 0
+  },
+  {
+    "id": 4889,
+    "fa": "آیا یک ترازو دارید تا وزن کنید کالای من را؟",
+    "en": "Do you have a scale to weigh my item?",
+    "groupCode": 0
+  },
+  {
+    "id": 4890,
+    "fa": "صرف نظر از این واقعیت که کد کوتاه است، هنوز هم می تواند باگ ها داشته باشد",
+    "en": "Irrespective of the fact that the code is short, it can still have bugs",
+    "groupCode": 0
+  },
+  {
+    "id": 4891,
+    "fa": "آیا شما لطفا (مودبانه) بهمون بدید سه تا صندلی کنار هم؟",
+    "en": "Would you please give us three seats next to each other?",
+    "groupCode": 0
+  },
+  {
+    "id": 4892,
+    "fa": "مهارت های برنامه نویسی او (زن) رشک برانگیز است",
+    "en": "Her programming skills are enviable",
     "groupCode": 0
   }
 ]
