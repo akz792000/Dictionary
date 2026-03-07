@@ -11524,7 +11524,7 @@
   },
   {
     "id": 4889,
-    "fa": "آیا یک ترازو دارید تا وزن کنید کالای من را؟",
+    "fa": "آیا شما یک ترازو دارید تا وزن کنید آیتم من را؟",
     "en": "Do you have a scale to weigh my item?",
     "groupCode": 0
   },
@@ -11544,6 +11544,30 @@
     "id": 4892,
     "fa": "مهارت های برنامه نویسی او (زن) رشک برانگیز است",
     "en": "Her programming skills are enviable",
+    "groupCode": 0
+  },
+  {
+    "id": 4893,
+    "fa": "چه کسی را شما می خواهید به عنوان مخاطب اضطراری خود؟",
+    "en": "Who do you want as your emergency contact?",
+    "groupCode": 0
+  },
+  {
+    "id": 4894,
+    "fa": "ما نیاز داریم یک موش آزمایشگاهی تا تست کنیم برنامه جدید را قبل از رها کردن",
+    "en": "We need a guinea pig to test the new app before release",
+    "groupCode": 0
+  },
+  {
+    "id": 4895,
+    "fa": "user.session.start: این رویداد به این معنی است که یک نشست جدید ایجاد شده است پس از اینکه کاربر به طور موفقیت آمیزی احراز هویت شده",
+    "en": "user.session.start: This event means a new session was created after the user successfully authenticated",
+    "groupCode": 0
+  },
+  {
+    "id": 4896,
+    "fa": "user.authentication.sso: این رویداد به این معنی است که کاربر استفاده کرده یک نشست موجود تا ورود کند به یک برنامه از طریق SSO بدون نیاز به ورود مجدد",
+    "en": "user.authentication.sso: This event means the user used an existing session to sign in to an application via SSO without logging in again",
     "groupCode": 0
   }
 ]

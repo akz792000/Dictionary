@@ -15021,6 +15021,7 @@
     "id": 12462,
     "en": "I go into the bed around eleven o'clock on Fridays",
     "de": "Ich gehe freitags gegen elf Uhr ins Bett",
+    "desc": "✅ Place / direction → „um“\n\nDer Supermarkt ist um die Ecke. → The supermarket is around the corner.\n\n✅ Approximate time → „gegen“\n\nIch komme gegen 11 Uhr. → I arrive around/about 11.\n\n✅ Exact time → „um“\n\nIch komme um 11 Uhr. → I arrive at 11.",
     "groupCode": 1
   },
   {
@@ -15921,8 +15922,68 @@
   },
   {
     "id": 12610,
-    "en": "Is he really breaking up with his boyfriend?",
+    "en": "Is he really breaking up (end) with his boyfriend?",
     "de": "Macht er wirklich mit seinem Freund Schluss?",
+    "groupCode": 1
+  },
+  {
+    "id": 12611,
+    "en": "He hasn't found an apartment in Munich yet",
+    "de": "Er hat noch keine Wohnung in München gefunden",
+    "groupCode": 1
+  },
+  {
+    "id": 12612,
+    "en": "I believe my sister doesn't snore",
+    "de": "Ich glaube meine Schwester schnarcht nicht",
+    "groupCode": 1
+  },
+  {
+    "id": 12613,
+    "en": "She broke up (end) with him because he always snored",
+    "de": "Sie hat mit ihm Schluss gemacht, er hat immer geschnarcht",
+    "groupCode": 1
+  },
+  {
+    "id": 12614,
+    "en": "She was strange, she had almost a thousand plants",
+    "de": "Sie war komisch, sie hatter fast eintausend Pflanzen",
+    "groupCode": 1
+  },
+  {
+    "id": 12615,
+    "en": "His job was stressful, but now he's retired",
+    "de": "Sein Job war stressig, aber jetzt ist er Rentner",
+    "groupCode": 1
+  },
+  {
+    "id": 12616,
+    "en": "They are really cool, they're hiking at the moment in Iceland",
+    "de": "Sie sind echt cool, sie wandern im Moment in Island",
+    "groupCode": 1
+  },
+  {
+    "id": 12617,
+    "en": "What's new with your parents? My mom is retired now and really glad",
+    "de": "Was gibt's Neues bei deinen Eltern? Meine Mama ist jetzt Renterin und echt froh",
+    "groupCode": 1
+  },
+  {
+    "id": 12618,
+    "en": "Why is your house away (missing)? Do you have a mouse?",
+    "de": "Warum ist dein Käse weg? Hast du eine Maus?",
+    "groupCode": 1
+  },
+  {
+    "id": 12619,
+    "en": "The milk was away (missing) and I couldn't find my cat",
+    "de": "Die Milch war weg und ich konnte meine Katze nicht finden",
+    "groupCode": 1
+  },
+  {
+    "id": 12620,
+    "en": "I couldn't come earlier, I had three appointments",
+    "de": "Ich konnte nicht früher kommen, ich hatte drei Termine",
     "groupCode": 1
   }
 ]
