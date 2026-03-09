@@ -15940,14 +15940,14 @@
   },
   {
     "id": 12613,
-    "en": "She broke up (end) with him because he always snored",
+    "en": "She broke up (end) with him, he always snored",
     "de": "Sie hat mit ihm Schluss gemacht, er hat immer geschnarcht",
     "groupCode": 1
   },
   {
     "id": 12614,
     "en": "She was strange, she had almost a thousand plants",
-    "de": "Sie war komisch, sie hatter fast eintausend Pflanzen",
+    "de": "Sie war komisch, sie hatte fast eintausend Pflanzen",
     "groupCode": 1
   },
   {
@@ -15970,7 +15970,7 @@
   },
   {
     "id": 12618,
-    "en": "Why is your house away (missing)? Do you have a mouse?",
+    "en": "Why is your cheese away (missing)? Do you have a mouse?",
     "de": "Warum ist dein Käse weg? Hast du eine Maus?",
     "groupCode": 1
   },
@@ -15984,6 +15984,66 @@
     "id": 12620,
     "en": "I couldn't come earlier, I had three appointments",
     "de": "Ich konnte nicht früher kommen, ich hatte drei Termine",
+    "groupCode": 1
+  },
+  {
+    "id": 12621,
+    "en": "The concert take places the day after tomorrow. My boyfriend and I bought tickets and are very excited",
+    "de": "Übermorgen findet das Konzert statt. Mein Freund und ich haben Karten gekauft und sind sehr aufgeregt",
+    "groupCode": 1
+  },
+  {
+    "id": 12622,
+    "en": "We're going to a concert the day after tomorrow, do you want to go along?",
+    "de": "Wir gehen übermorgen zum Konzert willst du mitgehen",
+    "groupCode": 1
+  },
+  {
+    "id": 12623,
+    "en": "Do you (formal) know, Whose card is this?",
+    "de": "Wissen Sie, wessen Karte das ist?",
+    "groupCode": 1
+  },
+  {
+    "id": 12624,
+    "en": "These seats are the best, were they expensive?",
+    "de": "Diese Sitzplatz sind am besten, waren sie teuer?",
+    "groupCode": 1
+  },
+  {
+    "id": 12625,
+    "en": "We're looking for our seats for the concert, but we can't find them. Let's ask at the box office for information",
+    "de": "Wir suchen unsere Sitzplätze für das Konzert, aber wir können sie nicht finden. Lass uns an der Kasse nach Informationen fragen",
+    "groupCode": 1
+  },
+  {
+    "id": 12626,
+    "en": "Where can I find this information?",
+    "de": "Wo kann ich diese Informationen finden?",
+    "groupCode": 1
+  },
+  {
+    "id": 12627,
+    "en": "Do you (formal) know, how much this seat costs?",
+    "de": "Wissen Sie wie viel dieser Sitzplatz kostet?",
+    "groupCode": 1
+  },
+  {
+    "id": 12628,
+    "en": "I saw the musician (in) on the television",
+    "de": "Ich habe den Musiker im Fernsehen gesehen",
+    "groupCode": 1
+  },
+  {
+    "id": 12629,
+    "en": "Nobody knows the musician because he is very famous",
+    "de": "Niemand kennt den Musiker, denn er ist sehr berühmt",
+    "groupCode": 1
+  },
+  {
+    "id": 12630,
+    "en": "We could meet the band, we were surprised",
+    "de": "Wir konnten die Band treffen, wir waren überrascht",
     "groupCode": 1
   }
 ]

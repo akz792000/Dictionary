@@ -11512,7 +11512,7 @@
   },
   {
     "id": 4887,
-    "fa": "مدل کسب وکار ما متکی است بر نقش ها و مجوزها. وقتی یک نقش جدید معرفی می شود، یک اجازه مربوطه باید اضافه شود؛ در غیر این صورت، نقش هیچ ارزش عملی نخواهد داشت",
+    "fa": "مدل کسب وکار ما متکی است بر نقش ها و مجوزها. وقتی یک نقش جدید معرفی می شود، یک اجازه مربوطه باید اضافه شود؛ در غیر این صورت، نقش هیچ ارزش عملی ندارد",
     "en": "Our business model relies on roles and permissions. When a new role is introduced, a corresponding permission must be added; otherwise, the role has no practical value",
     "groupCode": 0
   },
@@ -11568,6 +11568,30 @@
     "id": 4896,
     "fa": "user.authentication.sso: این رویداد به این معنی است که کاربر استفاده کرده یک نشست موجود تا ورود کند به یک برنامه از طریق SSO بدون نیاز به ورود مجدد",
     "en": "user.authentication.sso: This event means the user used an existing session to sign in to an application via SSO without logging in again",
+    "groupCode": 0
+  },
+  {
+    "id": 4897,
+    "fa": "او (مرد) مدام پشت فرمان چرت می زند",
+    "en": "He keeps nodding off at the wheel",
+    "groupCode": 0
+  },
+  {
+    "id": 4898,
+    "fa": "این فیلم کاملاً ( صادقانه یا صریح، بدون هیچ گونه ظاهرسازی یا فریب) اهریمنی بود",
+    "en": "This movie was straight up diabolical /dīəˈbälək(ə)l/",
+    "groupCode": 0
+  },
+  {
+    "id": 4899,
+    "fa": "بیایید شروع کنیم جلسه کدنویسی را با نوشتن یک برنامه ساده",
+    "en": "Let’s kick off the coding session by writing a simple program",
+    "groupCode": 0
+  },
+  {
+    "id": 4900,
+    "fa": "یک دام (گودال) رایج است نادیده گرفتن موارد های حاشیه ای",
+    "en": "A common pitfall is ignoring edge cases",
     "groupCode": 0
   }
 ]
