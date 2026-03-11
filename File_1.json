@@ -4131,7 +4131,7 @@
     "id": 3674,
     "fa": "چرا نمی توانند کارتونها مانند این باشند دیگر؟",
     "en": "Why can't cartoons be like this anymore?",
-    "desc": "❌ “Why can’t be cartoons like this anymore?” is wrong — because in English, the subject (“cartoons”) must come right after “can’t.”",
+    "desc": "❌ “Why can 't be cartoons like this anymore?” is wrong — because in English, the subject (“cartoons”) must come right after “can 't.”",
     "groupCode": 0
   },
   {
@@ -5400,7 +5400,7 @@
     "id": 3883,
     "fa": "چه چیزی می توانست امکان داشته باشد؟",
     "en": "What could it possibly be?",
-    "desc": "Correct: “What could it possibly be?” ✅\nIncorrect: “What could it be possible?” ❌\n\nReason: possibly (adverb) correctly modifies be; be possible doesn’t work in this structure.",
+    "desc": "Correct: “What could it possibly be?” ✅\nIncorrect: “What could it be possible?” ❌\n\nReason: possibly (adverb) correctly modifies be; be possible doesn 't work in this structure.",
     "groupCode": 0
   },
   {
@@ -6242,7 +6242,7 @@
     "id": 4021,
     "fa": "خوب است دیدن چیزهای (موارد) منسوخ شده دارن حذف میشوند",
     "en": "It's nice seeing deprecated stuff being removed",
-    "desc": "After seeing, you should use a gerund phrase (“deprecated stuff being removed”), not a full clause (“deprecated stuff are being removed”). The verb are doesn’t fit there.\n\nIf you want a version with are, you must change the sentence structure:\n\n✅ It’s nice that deprecated stuff is being removed.",
+    "desc": "After seeing, you should use a gerund phrase (“deprecated stuff being removed”), not a full clause (“deprecated stuff are being removed”). The verb are doesn 't fit there.\n\nIf you want a version with are, you must change the sentence structure:\n\n✅ It 's nice that deprecated stuff is being removed.",
     "groupCode": 0
   },
   {
@@ -10307,7 +10307,7 @@
     "id": 4689,
     "fa": "من حضور ذهن ندارم (من از بالای سرم نمی دانم)، اما من می توانم (فرضی) بروم و آن را جستجو کنم (معنی پیدا کردن)",
     "en": "I don't know off the top of my head, but I could go and look it up",
-    "desc": "✔\uFE0F 1. “I don't know off the top of my head, but I could go and look it up.”\n\n➡\uFE0F more polite / less direct / offering a possibility\nYou are saying: I don’t know right now, but if you want, I could look it up.\n\n✔\uFE0F 2. “I don't know off the top of my head, but I can go and look it up.”\n\n➡\uFE0F more direct / offering to do it right now\nYou are saying: I don’t know right now, but I’m able to go look it up and I will if needed.",
+    "desc": "✔\uFE0F 1. “I don't know off the top of my head, but I could go and look it up.”\n\n➡\uFE0F more polite / less direct / offering a possibility\nYou are saying: I don 't know right now, but if you want, I could look it up.\n\n✔\uFE0F 2. “I don't know off the top of my head, but I can go and look it up.”\n\n➡\uFE0F more direct / offering to do it right now\nYou are saying: I don 't know right now, but I 'm able to go look it up and I will if needed.",
     "groupCode": 0
   },
   {
@@ -10721,7 +10721,7 @@
   {
     "id": 4757,
     "fa": "برف می بارد بی وقفه در تهران برای تقریبا ۲۰ ساعت. من ندیده ام هیچ چیز مانند این نزدیک در حداقل ده سال. خدا را شکر",
-    "en": "It’s been snowing nonstop in Tehran for almost 20 hours. I haven't seen anything like this up close in at least ten years. Thank God!",
+    "en": "It 's been snowing nonstop in Tehran for almost 20 hours. I haven't seen anything like this up close in at least ten years. Thank God!",
     "groupCode": 0
   },
   {
@@ -11033,7 +11033,7 @@
     "id": 4808,
     "fa": "من الان دارم برخی موارد اتصال",
     "en": "I'm having some connectivity issues",
-    "desc": "The difference is aspect and immediacy:\n\n“I’m having some connectivity issues” → happening right now, temporary.\n\n“I have some connectivity issues” → more general or ongoing, not necessarily right now.\n\nIn support or live situations, “I’m having…” sounds more natural.",
+    "desc": "The difference is aspect and immediacy:\n\n“I 'm having some connectivity issues” → happening right now, temporary.\n\n“I have some connectivity issues” → more general or ongoing, not necessarily right now.\n\nIn support or live situations, “I 'm having…” sounds more natural.",
     "groupCode": 0
   },
   {
@@ -11083,7 +11083,7 @@
     "id": 4816,
     "fa": "شما می توانید چک کنید چه مقدار داده موبایل شما باقی دارید روی سیم کارت خود، اما دقیقا چگونه شما انجام بدید بستگی دارد به اپراتور موبایل شما",
     "en": "You can check how much mobile data you have left on your SIM, but exactly how you do it depends on your mobile operator",
-    "desc": "“do it”\n\nHere, “it” refers to the action of checking your data.\n\nExample: “How you do it” = how you perform the action of checking your data\n\n2\uFE0F⃣ “depends”\n\nThe verb “depends” does not need its own “it”.\n\n“Depends” is intransitive here, meaning it doesn’t take a direct object.\n\nSo you just say: “depends on your mobile operator” — no “it” needed.",
+    "desc": "“do it”\n\nHere, “it” refers to the action of checking your data.\n\nExample: “How you do it” = how you perform the action of checking your data\n\n2\uFE0F⃣ “depends”\n\nThe verb “depends” does not need its own “it”.\n\n“Depends” is intransitive here, meaning it doesn 't take a direct object.\n\nSo you just say: “depends on your mobile operator” — no “it” needed.",
     "groupCode": 0
   },
   {
@@ -11585,13 +11585,43 @@
   {
     "id": 4899,
     "fa": "بیایید شروع کنیم جلسه کدنویسی را با نوشتن یک برنامه ساده",
-    "en": "Let’s kick off the coding session by writing a simple program",
+    "en": "Let 's kick off the coding session by writing a simple program",
     "groupCode": 0
   },
   {
     "id": 4900,
     "fa": "یک دام (گودال) رایج است نادیده گرفتن موارد های حاشیه ای",
     "en": "A common pitfall is ignoring edge cases",
+    "groupCode": 0
+  },
+  {
+    "id": 4901,
+    "fa": "من توجیه نکردم او (مرد) را تا پنهان کنم حقیقت را",
+    "en": "I did not consort /کان سُرت/ with him to hide the truth",
+    "groupCode": 0
+  },
+  {
+    "id": 4902,
+    "fa": "هر که باد بکارد، طوفان درو خواهد کرد»",
+    "en": "Whoever sows the wind will reap the whirlwind /ˈwɜːlwɪnd/",
+    "groupCode": 0
+  },
+  {
+    "id": 4903,
+    "fa": "من خیلی متعجب (فرضی) می شوم اگر کسی (تاکیدی) برخورد کند به چنین فایلی",
+    "en": "I would be very surprised if anyone ever stumbled upon such a file",
+    "groupCode": 0
+  },
+  {
+    "id": 4904,
+    "fa": "من برخورد کردم به یک عکس قدیمی داخل کشو",
+    "en": "I stumbled upon an old photo in the drawer",
+    "groupCode": 0
+  },
+  {
+    "id": 4905,
+    "fa": "'Stumble upon' تأکید دارد بر یک کشف غافلگیرکننده یا تصادفی، در حالی که 'come across' است روشی خنثی تر تا بگوید شما پیدا کرده اید چیزی را به طور اتفاقی",
+    "en": "'Stumble upon' emphasizes a surprising or accidental discovery, while 'come across' is a more neutral way to say you found something by chance",
     "groupCode": 0
   }
 ]

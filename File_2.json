@@ -15638,8 +15638,9 @@
   },
   {
     "id": 12563,
-    "en": "I raise my hand",
+    "en": "I raise my (the) hand",
     "de": "Ich hebe die Hand",
+    "desc": "In German, people often use “die / der / das” (the) for body parts instead of my / your.\n\nSo:\n\nIch hebe die Hand. → I raise my hand. (natural in German)\n\nIch hebe meine Hand. → I raise my hand. but it emphasizes that it’s my hand.\n\n✅ Rule:\nFor body parts, German usually says “the”, while English says “my.”\n\nExample:\n\nIch wasche die Hände. → I wash my hands. \uD83E\uDDFC",
     "groupCode": 1
   },
   {
@@ -15994,7 +15995,7 @@
   },
   {
     "id": 12622,
-    "en": "We're going to a concert the day after tomorrow, do you want to go along?",
+    "en": "We're going to the concert the day after tomorrow, do you want to go along?",
     "de": "Wir gehen übermorgen zum Konzert willst du mitgehen",
     "groupCode": 1
   },
@@ -16007,7 +16008,7 @@
   {
     "id": 12624,
     "en": "These seats are the best, were they expensive?",
-    "de": "Diese Sitzplatz sind am besten, waren sie teuer?",
+    "de": "Diese Sitzplätze sind am besten, waren sie teuer?",
     "groupCode": 1
   },
   {
@@ -16030,13 +16031,13 @@
   },
   {
     "id": 12628,
-    "en": "I saw the musician (in) on the television",
+    "en": "I saw the musician (male) on (in) the television",
     "de": "Ich habe den Musiker im Fernsehen gesehen",
     "groupCode": 1
   },
   {
     "id": 12629,
-    "en": "Nobody knows the musician because he is very famous",
+    "en": "Nobody knows the musician (male) because he is very famous",
     "de": "Niemand kennt den Musiker, denn er ist sehr berühmt",
     "groupCode": 1
   },
@@ -16044,6 +16045,68 @@
     "id": 12630,
     "en": "We could meet the band, we were surprised",
     "de": "Wir konnten die Band treffen, wir waren überrascht",
+    "groupCode": 1
+  },
+  {
+    "id": 12631,
+    "en": "\n 1.the End \n 2.the Key \n 3.the Castle",
+    "de": "\n 1.der Schluss \n 2.die Schlüssel \n 3.das Schloss",
+    "groupCode": 1
+  },
+  {
+    "id": 12632,
+    "en": "I know who plays the drums",
+    "de": "Ich weiß wer schlagzeug spielt",
+    "groupCode": 1
+  },
+  {
+    "id": 12633,
+    "en": "I don't know which musician comes from Egypt",
+    "de": "Ich weiß nicht welche Musikerin aus Ägypten kommt",
+    "groupCode": 1
+  },
+  {
+    "id": 12634,
+    "en": "I've lost my phone! Do you see a smartphone on the ground?",
+    "de": "Ich habe mein Handy verloren! Siehst du ein Smartphone auf dem Boden?",
+    "groupCode": 1
+  },
+  {
+    "id": 12635,
+    "en": "I don't want to go to the toilet alone",
+    "de": "Ich will nicht allein auf die Toilette gehen",
+    "desc": "They use “auf” because in German some places are expressed with fixed prepositions. \uD83D\uDEBB\n\nFor toilets/bathrooms:\n\nGerman commonly says:\n\nauf die Toilette gehen\n\nHere “auf” does not literally mean “on.”\nIt’s just the natural expression Germans use for going to the toilet.\n\nCompare:\n\nauf die Toilette gehen → go to the toilet (common)\n\nzur Toilette gehen → go to the toilet (also correct, more neutral)\n\nSimple idea\n\nSome German places use auf even if it seems strange in English:\n\nauf die Party gehen → go to the party \uD83C\uDF89\n\nauf die Toilette gehen → go to the toilet \uD83D\uDEBB\n\nSo “auf” is just the standard preposition used in this expression.",
+    "groupCode": 1
+  },
+  {
+    "id": 12636,
+    "en": "Do you know who this guy with the guitar is?",
+    "de": "Weißt du wer dieser Typ mit der Gitarre ist?",
+    "groupCode": 1
+  },
+  {
+    "id": 12637,
+    "en": "Why is nobody on stage?",
+    "de": "Warum ist niemand auf der Bühne?",
+    "groupCode": 1
+  },
+  {
+    "id": 12638,
+    "en": "Sorry, I have to go to the toilet",
+    "de": "Sorry, ich muss auf die toilette gehen",
+    "desc": "They use “auf” because in German some places are expressed with fixed prepositions. \uD83D\uDEBB\n\nFor toilets/bathrooms:\n\nGerman commonly says:\n\nauf die Toilette gehen\n\nHere “auf” does not literally mean “on.”\nIt’s just the natural expression Germans use for going to the toilet.\n\nCompare:\n\nauf die Toilette gehen → go to the toilet (common)\n\nzur Toilette gehen → go to the toilet (also correct, more neutral)\n\nSimple idea\n\nSome German places use auf even if it seems strange in English:\n\nauf die Party gehen → go to the party \uD83C\uDF89\n\nauf die Toilette gehen → go to the toilet \uD83D\uDEBB\n\nSo “auf” is just the standard preposition used in this expression.",
+    "groupCode": 1
+  },
+  {
+    "id": 12639,
+    "en": "The musician (male) was very polite, I was really surprised",
+    "de": "Der Musiker war sehr höflich, ich war echt überrascht",
+    "groupCode": 1
+  },
+  {
+    "id": 12640,
+    "en": "Yesterday the concert lasted one hour. How long will it last today?",
+    "de": "Gestern hat das Konzert eine Stunde gedauert. Wie lange dauert es heute?",
     "groupCode": 1
   }
 ]
