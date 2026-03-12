@@ -11585,7 +11585,7 @@
   {
     "id": 4899,
     "fa": "بیایید شروع کنیم جلسه کدنویسی را با نوشتن یک برنامه ساده",
-    "en": "Let 's kick off the coding session by writing a simple program",
+    "en": "Let's kick off the coding session by writing a simple program",
     "groupCode": 0
   },
   {
@@ -11602,13 +11602,13 @@
   },
   {
     "id": 4902,
-    "fa": "هر که باد بکارد، طوفان درو خواهد کرد»",
+    "fa": "هر که باد بکارد، طوفان درو خواهد کرد",
     "en": "Whoever sows the wind will reap the whirlwind /ˈwɜːlwɪnd/",
     "groupCode": 0
   },
   {
     "id": 4903,
-    "fa": "من خیلی متعجب (فرضی) می شوم اگر کسی (تاکیدی) برخورد کند به چنین فایلی",
+    "fa": "من خیلی متعجب (فرضی) می شوم اگر کسی (تاکیدی) برخورد کند به یک چنین فایلی",
     "en": "I would be very surprised if anyone ever stumbled upon such a file",
     "groupCode": 0
   },
@@ -11622,6 +11622,12 @@
     "id": 4905,
     "fa": "'Stumble upon' تأکید دارد بر یک کشف غافلگیرکننده یا تصادفی، در حالی که 'come across' است روشی خنثی تر تا بگوید شما پیدا کرده اید چیزی را به طور اتفاقی",
     "en": "'Stumble upon' emphasizes a surprising or accidental discovery, while 'come across' is a more neutral way to say you found something by chance",
+    "groupCode": 0
+  },
+  {
+    "id": 4906,
+    "fa": "روی چرتکه ام، من می توانم فقط تمرکز کنم روی یک چیز در یک زمان",
+    "en": "On my abacus, I can only focus on one thing at a time",
     "groupCode": 0
   }
 ]
