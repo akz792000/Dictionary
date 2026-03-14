@@ -1814,7 +1814,7 @@
   },
   {
     "id": 10297,
-    "en": "Dana and Pablo are my friends. They also learn German",
+    "en": "Dana and Pablo are my friends. They also study (learn) German",
     "de": "Dana und Pablo sind meine Freunde. Sie lernen auch Deutsch",
     "groupCode": 1
   },
@@ -2746,7 +2746,7 @@
   },
   {
     "id": 10450,
-    "en": "I am always motivated and I learn quickly",
+    "en": "I am always motivated and I study (learn) quickly",
     "de": "Ich bin immer motiviert und Ich lerne schnell",
     "groupCode": 1
   },
@@ -4670,7 +4670,7 @@
   },
   {
     "id": 10767,
-    "en": "My grandma has no pets. I have to study, but I want to read the newspaper",
+    "en": "My grandma has no pets. I have to study (learn), but I want to read the newspaper",
     "de": "Meine Oma hat keine Haustiere. Ich muss lernen, aber ich will die Zeitung lesen",
     "groupCode": 1
   },
@@ -5378,7 +5378,7 @@
   },
   {
     "id": 10883,
-    "en": "We want to learn German together. Are you joining in (Do you participate)?",
+    "en": "We want to study (learn) German together. Are you joining in (Do you participate)?",
     "de": "Wir wollen zusammen Deutsch lernen. Machst du mit?",
     "groupCode": 1
   },
@@ -5563,7 +5563,7 @@
   },
   {
     "id": 10913,
-    "en": "We learn German, but German is a bit difficult",
+    "en": "We study (learn) German, but German is a bit difficult",
     "de": "Wir lernen Deutsch, aber Deutsch ist ein bisschen schwer",
     "groupCode": 1
   },
@@ -5575,7 +5575,7 @@
   },
   {
     "id": 10915,
-    "en": "I speak three languages: My mother tongue is Persian. I speak English well and a little German. I am currently learning German",
+    "en": "I speak three languages: My mother tongue is Persian. I speak English well and a little German. I am currently studying (learn) German",
     "de": "Ich spreche drei Sprachen: Meine Muttersprache ist Persisch. Ich spreche gut Englisch und ein bisschen Deutsch. Zurzeit lerne ich Deutsch",
     "groupCode": 1
   },
@@ -8826,7 +8826,7 @@
   },
   {
     "id": 11448,
-    "en": "I'm starting to learn",
+    "en": "I'm starting to study (learn)",
     "de": "\n 1.Ich beginne zu lernen \n 2.Ich fange zu lernen an",
     "groupCode": 1
   },
@@ -9110,7 +9110,7 @@
   },
   {
     "id": 11494,
-    "en": "She tries to learn",
+    "en": "She tries to study (learn)",
     "de": "Sie versucht zu lernen",
     "groupCode": 1
   },
@@ -9243,7 +9243,7 @@
   },
   {
     "id": 11516,
-    "en": "We have to learn (the) all night",
+    "en": "We have to study (learn) (the) all night",
     "de": "Wir müssen die ganze Nacht lernen",
     "groupCode": 1
   },
@@ -9413,7 +9413,7 @@
   },
   {
     "id": 11544,
-    "en": "I am learning. I learned. I have learned",
+    "en": "I am studying (learning). I learned. I have studied (learned)",
     "de": "Ich lerne. Ich lernte. Ich habe gelernt",
     "groupCode": 1
   },
@@ -11049,7 +11049,7 @@
   },
   {
     "id": 11811,
-    "en": "For about five years i have been learning German",
+    "en": "For about five years i have been studying (learn) German",
     "de": "Seit ungefähr fünf Jahren lerne ich Deutsch",
     "desc": "ungefähr\tabout / around\tmost common in everyday speech\netwa\tabout / roughly\tused in speech and writing, a bit more formal\ncirca (ca.)\tapproximately\tused mostly in writing, numbers, or data",
     "groupCode": 1
@@ -15082,7 +15082,7 @@
   },
   {
     "id": 12472,
-    "en": "Please lay my book on the table, I must learn",
+    "en": "Please lay my book on the table, I must study (learn)",
     "de": "Leg bitte mein Buch auf den Tisch, ich muss lernen",
     "groupCode": 1
   },
@@ -15813,7 +15813,7 @@
   },
   {
     "id": 12592,
-    "en": "Only learning is allowed in the library",
+    "en": "Only studying (learning) is allowed in the library",
     "de": "Nur Lernen ist in der Bibliothek erlaubt",
     "groupCode": 1
   },
@@ -15825,7 +15825,7 @@
   },
   {
     "id": 12594,
-    "en": "I can only learn with many cups of coffee",
+    "en": "I can only study (learn) with many cups of coffee",
     "de": "Ich kann nur mit vielen Tassen Kaffee lernen",
     "groupCode": 1
   },
@@ -16049,8 +16049,8 @@
   },
   {
     "id": 12631,
-    "en": "\n 1.the End \n 2.the Key \n 3.the Castle",
-    "de": "\n 1.der Schluss \n 2.die Schlüssel \n 3.das Schloss",
+    "en": "\n 1.the End \n 2.the Key \n 3.the Castle \n 4.the Bowl",
+    "de": "\n 1.der Schluss \n 2.die Schlüssel \n 3.das Schloss \n 4. die Schüssel",
     "groupCode": 1
   },
   {
@@ -16123,7 +16123,7 @@
   },
   {
     "id": 12643,
-    "en": "Did you speak about the appointment with the doctor?",
+    "en": "Did you speak about the appointment with the doctor (female)?",
     "de": "Hast du über den Termin bei der Ärztin gesprochen?",
     "groupCode": 1
   },
@@ -16167,6 +16167,67 @@
     "id": 12650,
     "en": "Come on, don't be mean, let's look for the passport together",
     "de": "Komm, sie nicht gemein, lass uns den Pass zusammen suchen",
+    "groupCode": 1
+  },
+  {
+    "id": 12651,
+    "en": "\n 1.I am surprised \n 2.The result is surprising",
+    "de": "\n 1.Ich bin überrascht \n 2.Das Ergebnis ist überraschend",
+    "groupCode": 1
+  },
+  {
+    "id": 12652,
+    "en": "Yes, the post office is on the right",
+    "de": "Ja, die Post ist rechts",
+    "groupCode": 1
+  },
+  {
+    "id": 12653,
+    "en": "Did you listen to her when she told you something?",
+    "de": "Hast du ihr zugehört, wenn sie die etwas erzählt hat?",
+    "groupCode": 1
+  },
+  {
+    "id": 12654,
+    "en": "Now I understand why she left you",
+    "de": "Jetzt verstehe ich warum sie dich verlassen hat",
+    "groupCode": 1
+  },
+  {
+    "id": 12655,
+    "en": "Dad, you're a great guy, but probably the worst cook in the world",
+    "de": "Papa, du bist ein super Typ, aber wahrscheinlich der schlechteste Koch der Welt",
+    "groupCode": 1
+  },
+  {
+    "id": 12656,
+    "en": "I study (learn) with many friends in the library.",
+    "de": "Ich lerne mit vielen freunden in der Bibliothek",
+    "groupCode": 1
+  },
+  {
+    "id": 12657,
+    "en": "I can speak a little German with other people",
+    "de": "Ich kann mit anderen Leuten ein bisschen Deutsch sprechen",
+    "groupCode": 1
+  },
+  {
+    "id": 12658,
+    "en": "I can use German in my everyday life",
+    "de": "Ich kann Deutsch in meinem alltäglichen Leben verwenden",
+    "groupCode": 1
+  },
+  {
+    "id": 12659,
+    "en": "\n 1.Can I use your phone? \n 2.I use this method often",
+    "de": "\n 1.Kann ich dein Telefon benutzen? \n 2.Ich verwende diese Methode oft",
+    "desc": "| Verb          | Meaning                        | Typical use               |\n| ------------- | ------------------------------ | ------------------------- |\n| **benutzen**  | to use something physically    | tools, objects, machines  |\n| **verwenden** | to use something for a purpose | materials, methods, ideas |\n",
+    "groupCode": 1
+  },
+  {
+    "id": 12660,
+    "en": "Today is Monday, tomorrow is Tuesday, and the day after tomorrow is Wednesday",
+    "de": "Heute ist Montag, morgen ist Dienstag und übermorgen ist Mittwoch",
     "groupCode": 1
   }
 ]

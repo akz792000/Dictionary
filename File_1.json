@@ -11566,7 +11566,7 @@
   },
   {
     "id": 4896,
-    "fa": "user.authentication.sso: این رویداد به این معنی است که کاربر استفاده کرده یک نشست موجود تا ورود کند به یک برنامه از طریق SSO بدون نیاز به ورود مجدد",
+    "fa": "user.authentication.sso: این رویداد به این معنی است کاربر استفاده کرده یک نشست موجود تا ورود کند به یک برنامه از طریق SSO بدون ورود مجدد",
     "en": "user.authentication.sso: This event means the user used an existing session to sign in to an application via SSO without logging in again",
     "groupCode": 0
   },
@@ -11628,6 +11628,18 @@
     "id": 4906,
     "fa": "روی چرتکه ام، من می توانم فقط تمرکز کنم روی یک چیز در یک زمان",
     "en": "On my abacus, I can only focus on one thing at a time",
+    "groupCode": 0
+  },
+  {
+    "id": 4907,
+    "fa": "اگر شما گیر کردید، شما می توانید استفاده کنید از یک راهنما (هینت)",
+    "en": "If you get stuck, you can use a hint",
+    "groupCode": 0
+  },
+  {
+    "id": 4908,
+    "fa": "من احساس می کنم یک مستی بعد از یک لیوان (گیلاس) شراب",
+    "en": "I feel a little tipsy after one glass of wine",
     "groupCode": 0
   }
 ]
