@@ -10597,7 +10597,7 @@
   },
   {
     "id": 4737,
-    "fa": "اگر او (مرد) میگفت این را در مورد هر نژاد دیگری، او کسر میشد (از حساب بانکی اش) ، حذف میشد از پلتفرمش، اعلام برائت میشد، از دست میداد تمام قراردادهای حرفه ایش را و شاید حتی دستگیر میشد",
+    "fa": "اگر او (مرد) میگفت این را در مورد هر نژاد دیگری، او کسر میشد (از حساب بانکی) ، حذف میشد از پلتفرم، اعلام برائت میشد، از دست میداد تمام قراردادهای حرفه ای را و شاید حتی دستگیر میشد",
     "en": "If he said this about any other race, he would be debanked, deplatformed, disavowed, lose all professional contracts, and maybe even be arrested",
     "groupCode": 0
   },
@@ -10816,7 +10816,7 @@
   },
   {
     "id": 4773,
-    "fa": "من خیلی خوب نیستم در والیبال. من فقط اخیراً شروعش کردم",
+    "fa": "من خیلی خوب نیستم در والیبال. من فقط (شروعش کردم) برداشتم اخیراً",
     "en": "I'm not very good at volleyball. I only took it up recently",
     "groupCode": 0
   },
@@ -11620,8 +11620,9 @@
   },
   {
     "id": 4905,
-    "fa": "'Stumble upon' تأکید دارد بر یک کشف غافلگیرکننده یا تصادفی، در حالی که 'come across' است روشی خنثی تر تا بگوید شما پیدا کرده اید چیزی را به طور اتفاقی",
-    "en": "'Stumble upon' emphasizes a surprising or accidental discovery, while 'come across' is a more neutral way to say you found something by chance",
+    "fa": "\n 1.من (به طور اتفاقی) برخوردم به یک کافه خوب \n 2.من (به طور اتفاقی) برخوردم به دوستم دیروز \n 3.من (به طور شانسی) برخوردم به یک کتاب جالب ",
+    "en": "\n 1.I stumbled upon a nice café \n 2.I ran into my friend yesterday \n 3.I came across an interesting book",
+    "desc": "| Phrase           | Short meaning                    | Farsi                                                  |\\n| ---------------- | -------------------------------- | ------------------------------------------------------ |\\n| **stumble upon** | discover something by accident   | **به طور اتفاقی پیدا کردن / کشف کردن**                 |\\n| **run into**     | meet someone unexpectedly        | **به طور اتفاقی با کسی روبه\\u200Cرو شدن**                   |\\n| **come across**  | find or meet by chance (general) | **به طور اتفاقی پیدا کردن یا برخورد کردن با چیزی/کسی** |\\n\",",
     "groupCode": 0
   },
   {
@@ -11638,7 +11639,7 @@
   },
   {
     "id": 4908,
-    "fa": "من احساس می کنم یک مستی بعد از یک لیوان (گیلاس) شراب",
+    "fa": "من احساس می کنم یه کم مستی بعد از یک لیوان (گیلاس) شراب",
     "en": "I feel a little tipsy after one glass of wine",
     "groupCode": 0
   }

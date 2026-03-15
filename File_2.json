@@ -8827,10 +8827,11 @@
   {
     "id": 11448,
     "en": "I'm starting to study (learn)",
-    "de": "\n 1.Ich beginne zu lernen \n 2.Ich fange zu lernen an",
+    "de": "\n 1.Ich beginne zu lernen \n 2.Ich fange an zu lernen",
     "groupCode": 1
   },
   {
+    ‍‍
     "id": 11449,
     "en": "I have a question about (toward) the party: Could you (formal) please tell (say) me when the party starts and when it ends?",
     "de": "Ich habe eine Frage zur (über die) Party: Könnten Sie mir bitte sagen, wann die Party anfängt und wann sie aufhört?",
@@ -8881,7 +8882,7 @@
   },
   {
     "id": 11457,
-    "en": "I arrive at the train station tomorrow at 10 a.m. I am waiting then for you in front of the café. You can call me whenever you have arrived. My phone number is...",
+    "en": "I arrive at the train station tomorrow at 10 a.m. I am waiting then for you in front of the café. You can call me if (whenever) you have arrived. My phone number is...",
     "de": "Ich komme morgen um 10 Uhr am Bahnhof an. Ich warte dann vor dem Café auf dich. Du kannst mich anrufen, wenn du angekommen bist. Meine Telefonnummer ist ...",
     "groupCode": 1
   },
@@ -8918,7 +8919,7 @@
   },
   {
     "id": 11463,
-    "en": "Call me, whenever you have time!",
+    "en": "Call me, If (whenever) you have time!",
     "de": "Ruf mich an, wenn du Zeit hast!",
     "groupCode": 1
   },
@@ -16050,12 +16051,12 @@
   {
     "id": 12631,
     "en": "\n 1.the End \n 2.the Key \n 3.the Castle \n 4.the Bowl",
-    "de": "\n 1.der Schluss \n 2.die Schlüssel \n 3.das Schloss \n 4. die Schüssel",
+    "de": "\n 1.der Schluss \n 2.der Schlüssel \n 3.das Schloss \n 4.die Schüssel",
     "groupCode": 1
   },
   {
     "id": 12632,
-    "en": "I know who plays the drums",
+    "en": "I know who plays drums",
     "de": "Ich weiß wer schlagzeug spielt",
     "groupCode": 1
   },
@@ -16183,7 +16184,7 @@
   },
   {
     "id": 12653,
-    "en": "Did you listen to her when she told you something?",
+    "en": "Did you listen to her if (whenever) she told you something?",
     "de": "Hast du ihr zugehört, wenn sie die etwas erzählt hat?",
     "groupCode": 1
   },
@@ -16195,7 +16196,7 @@
   },
   {
     "id": 12655,
-    "en": "Dad, you're a great guy, but probably the worst cook in the world",
+    "en": "Dad, you're a great guy, but probably the worst cook (in) the world",
     "de": "Papa, du bist ein super Typ, aber wahrscheinlich der schlechteste Koch der Welt",
     "groupCode": 1
   },
@@ -16228,6 +16229,67 @@
     "id": 12660,
     "en": "Today is Monday, tomorrow is Tuesday, and the day after tomorrow is Wednesday",
     "de": "Heute ist Montag, morgen ist Dienstag und übermorgen ist Mittwoch",
+    "groupCode": 1
+  },
+  {
+    "id": 12661,
+    "en": "Ali's son is screaming because he can't climb today",
+    "de": "Alis Sohn schreit, weil er heute nicht klettern kann",
+    "groupCode": 1
+  },
+  {
+    "id": 12662,
+    "en": "Ali and Fahime's son likes to skateboard",
+    "de": "Alis und Fahimes Sohn fährt gern Skateboard",
+    "groupCode": 1
+  },
+  {
+    "id": 12663,
+    "en": "Alex's child climbs like a bear",
+    "de": "Alex' Kind klettert wie ein Bär",
+    "desc": "Yes, in German, you can indicate possession with ’ for names that end in -s, -x, -z, -ß, -sch, -tz (and some others), but it’s optional in some cases. Let me explain clearly.\n\n1\uFE0F⃣ Names ending in -x\n\nExample: Alex\n\nCorrect: Alex’ Kind ✅\n(apostrophe shows possession, avoids Alexs, which looks awkward)\n\nAlso acceptable: das Kind von Alex ✅\n(very common in spoken/written German)\n\nSo the apostrophe is not strictly mandatory, but it looks cleaner in writing.",
+    "groupCode": 1
+  },
+  {
+    "id": 12664,
+    "en": "The child likes to climb and is always high (up) in a tree",
+    "de": "Das kind klettert gern und ist immer hoch in einem Baum",
+    "groupCode": 1
+  },
+  {
+    "id": 12665,
+    "en": "I can hear you good. You should not shout",
+    "de": "Ich höre dich gut. Du musst nicht schreien",
+    "groupCode": 1
+  },
+  {
+    "id": 12666,
+    "en": "Aus, bei, mit, nach, Seit, von, zu always with the dative",
+    "de": "Aus, bei, mit, nach, Seit, von, zu immer mit dem Dative",
+    "groupCode": 1
+  },
+  {
+    "id": 12667,
+    "en": "The girl is pretty and very polite",
+    "de": "Das Mädchen ist hübsch und sehr höflich",
+    "groupCode": 1
+  },
+  {
+    "id": 12668,
+    "en": "When did you last see the passport?",
+    "de": "Wann hast du den Pass zuletzt gesehen?",
+    "groupCode": 1
+  },
+  {
+    "id": 12669,
+    "en": "I last saw my passport in the bedroom, but now it's gone",
+    "de": "Ich habe meinen Pass zuletzt im Schlafzimmer gesehen, aber jetzt ist er weg",
+    "groupCode": 1
+  },
+  {
+    "id": 12670,
+    "en": "We can still look upstairs",
+    "de": "Wir können noch oben suchen",
     "groupCode": 1
   }
 ]
