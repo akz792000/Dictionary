@@ -11642,5 +11642,17 @@
     "fa": "من احساس می کنم یه کم مستی بعد از یک لیوان (گیلاس) شراب",
     "en": "I feel a little tipsy after one glass of wine",
     "groupCode": 0
+  },
+  {
+    "id": 4909,
+    "fa": "من بیرون روی گرفتم",
+    "en": "I've got the runs",
+    "groupCode": 0
+  },
+  {
+    "id": 4910,
+    "fa": "چه روندی! هر روز ادامه بده",
+    "en": "What a streak! Keep it going every day",
+    "groupCode": 0
   }
 ]
