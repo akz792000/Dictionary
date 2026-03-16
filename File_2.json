@@ -9912,8 +9912,8 @@
   },
   {
     "id": 11625,
-    "en": "\n 1.The booklet \n 2.The Ruller",
-    "de": "\n 1.Das Heft \n 2.Das Lineal",
+    "en": "\n 1.The notebook \n 2.The Ruller \n 3.The Pen \n 4.The Pencil \n 5.The Eraser \n 6.The Sharpener \n 7.The Backpack \n 8.The Book \n 9.The Scissors \n 10.The Glue",
+    "de": "\n 1.das Heft \n 2.das Lineal \n 3.der Stift \n 4.der Bleistift \n 5.der Radiergummi \n 6.der Spitzer \n 7.der Rucksack \n 8.das Buch \n 9.die Schere \n 10.der Kleber",
     "groupCode": 1
   },
   {
@@ -16238,7 +16238,7 @@
   },
   {
     "id": 12662,
-    "en": "Ali and Fahime's son likes to skateboard",
+    "en": "Ali and Fahime's son (drive) likes to skateboard",
     "de": "Alis und Fahimes Sohn fährt gern Skateboard",
     "groupCode": 1
   },
@@ -16287,8 +16287,189 @@
   },
   {
     "id": 12670,
-    "en": "We can still look upstairs",
+    "en": "We can still search upstairs",
     "de": "Wir können noch oben suchen",
+    "groupCode": 1
+  },
+  {
+    "id": 12671,
+    "en": "\n 1.The smell strange \n 2.The joke is funny",
+    "de": "\n 1.Das riecht komisch \n 2.Der Witz ist komisch",
+    "groupCode": 1
+  },
+  {
+    "id": 12672,
+    "en": "I have fun with the cats",
+    "de": "Ich habe Spaß mit den Katzen",
+    "groupCode": 1
+  },
+  {
+    "id": 12673,
+    "en": "This is my personal (private) backpack",
+    "de": "Das ist mein privater Rucksack",
+    "groupCode": 1
+  },
+  {
+    "id": 12674,
+    "en": "No, the deck chair is not broken",
+    "de": "Nein, der Liegestuhl ist nicht kaputt",
+    "groupCode": 1
+  },
+  {
+    "id": 12675,
+    "en": "All personal (private) things are in the backpack",
+    "de": "Alle privaten Sachen sind im Rucksack",
+    "groupCode": 1
+  },
+  {
+    "id": 12676,
+    "en": "Yes, that's right",
+    "de": "Ja, das stimmt",
+    "groupCode": 1
+  },
+  {
+    "id": 12677,
+    "en": "indoors or outdoors",
+    "de": "drinnen oder draußen",
+    "groupCode": 1
+  },
+  {
+    "id": 12678,
+    "en": "I am in favor of it",
+    "de": "Ich bin dafür",
+    "groupCode": 1
+  },
+  {
+    "id": 12679,
+    "en": "I like pears then apples",
+    "de": "Ich mag Brinen lieber als Äpfel",
+    "groupCode": 1
+  },
+  {
+    "id": 12680,
+    "en": "You (plural) were (emphasize) just playing",
+    "de": "Ihr habt doch gerade gespielt",
+    "desc": "a particle used to remind, contradict, or emphasize something already known",
+    "groupCode": 1
+  },
+  {
+    "id": 12681,
+    "en": "Can you see his face?",
+    "de": "Kannst du sein Gesicht sehen?",
+    "groupCode": 1
+  },
+  {
+    "id": 12682,
+    "en": "He annoys the other children",
+    "de": "Er ärgert die anderen Kinder",
+    "groupCode": 1
+  },
+  {
+    "id": 12683,
+    "en": "Why do you always annoy other children?",
+    "de": "Warum ärgerst du immer andere Kinder?",
+    "groupCode": 1
+  },
+  {
+    "id": 12684,
+    "en": "His face is just tired, not angry",
+    "de": "Sein Gesicht ist nur müde, nicht verärgert",
+    "groupCode": 1
+  },
+  {
+    "id": 12685,
+    "en": "The towel belongs to me",
+    "de": "Das Handtuch gehört mir",
+    "groupCode": 1
+  },
+  {
+    "id": 12686,
+    "en": "The children (emphasize) are not tired",
+    "de": "Die Kinder sind doch nicht müde",
+    "groupCode": 1
+  },
+  {
+    "id": 12687,
+    "en": "It's (emphasize) not raining, look (plural)!",
+    "de": "Es regnet doch nicht, schaut mal",
+    "groupCode": 1
+  },
+  {
+    "id": 12688,
+    "en": "When are you departing?",
+    "de": "Wann fährst du ab?",
+    "groupCode": 1
+  },
+  {
+    "id": 12689,
+    "en": "The lifeguard is helping my neighbor",
+    "de": "Der Bademeister hilft meinem Nachbarn",
+    "groupCode": 1
+  },
+  {
+    "id": 12690,
+    "en": "You (plural) are hungry, but on the other hand (in contrast) we are already full",
+    "de": "Ihr seid hungrig, wir sind dagegen schon satt",
+    "groupCode": 1
+  },
+  {
+    "id": 12691,
+    "en": "The changing room is very clean today",
+    "de": "Die Umkleide ist sehr sauber heute",
+    "groupCode": 1
+  },
+  {
+    "id": 12692,
+    "en": "They are staying longer, on the other hand I want to go home",
+    "de": "Sie bleiben länger, ich dagegen will nach Hause",
+    "groupCode": 1
+  },
+  {
+    "id": 12693,
+    "en": "He ran too slowly",
+    "de": "Er ist zu langsam gelaufen",
+    "groupCode": 1
+  },
+  {
+    "id": 12694,
+    "en": "The scarf was a gift and I like it",
+    "de": "Der Schal war ein Geschenk und ich mag ihn",
+    "groupCode": 1
+  },
+  {
+    "id": 12695,
+    "en": "Do you need the old raincoat?",
+    "de": "Brauchst du den alten Regenmantel?",
+    "groupCode": 1
+  },
+  {
+    "id": 12696,
+    "en": "I placed it behind the vase",
+    "de": "Ich habe es hinter die Vase gestellt",
+    "groupCode": 1
+  },
+  {
+    "id": 12697,
+    "en": "I'm giving no one the birthday cake",
+    "de": "Ich gebe den Geburtstagskuchen niemandem",
+    "groupCode": 1
+  },
+  {
+    "id": 12698,
+    "en": "I didn't read the sign.",
+    "de": "Ich habe das Schild nicht gelesen",
+    "groupCode": 1
+  },
+  {
+    "id": 12699,
+    "en": "Ali sees two beautiful deck chairs",
+    "de": "Ali sieht zwei schöne Liegestühle",
+    "groupCode": 1
+  },
+  {
+    "id": 12700,
+    "en": "I know. I read signs",
+    "de": "Ich Weiß. Ich lese Schilder",
     "groupCode": 1
   }
 ]

@@ -11654,5 +11654,17 @@
     "fa": "چه روندی! هر روز ادامه بده",
     "en": "What a streak! Keep it going every day",
     "groupCode": 0
+  },
+  {
+    "id": 4911,
+    "fa": "اگر باران نمی بارید، من پیاده به خانه می رفتم",
+    "en": "If it weren't raining, I would walk home",
+    "groupCode": 0
+  },
+  {
+    "id": 4912,
+    "fa": "من فاصله دار کردم جلسات مطالعه ام را در طول هفته تا اجتناب کنم از فشرده خوانی",
+    "en": "I spaced out my study sessions over the week to avoid cramming",
+    "groupCode": 0
   }
 ]
