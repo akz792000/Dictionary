@@ -5259,7 +5259,7 @@
   },
   {
     "id": 3860,
-    "fa": "هر فیلتر به کار می اندازد (موجب شود) یک پرس و جو جداگانه را برای استخراج داده های مرتبط",
+    "fa": "هر فیلتر به کار می اندازد (موجب شود) یک پرس و جو جداگانه تا استخراج کند داده مرتبط را",
     "en": "Each filter triggers a separate query to extract relevant data",
     "groupCode": 0
   },
@@ -10543,8 +10543,9 @@
   },
   {
     "id": 4728,
-    "fa": "کارخانه مونتاژ جدید در حال ساخت است در حومه شهر",
+    "fa": "کارخانه مونتاژ جدید در حال ساخت است در حومه های شهر",
     "en": "The new assembly plant is being built on the outskirts of town",
+    "desc": "Outskirts = correct and commonly used → outer areas of a city\n\nOutskirt = rare and unnatural → avoid using it",
     "groupCode": 0
   },
   {
@@ -11652,7 +11653,7 @@
   {
     "id": 4910,
     "fa": "چه روندی! هر روز ادامه بده",
-    "en": "What a streak! Keep it going every day",
+    "en": "What a streak! /ˈstriːk/ Keep it going every day",
     "groupCode": 0
   },
   {
@@ -11665,6 +11666,18 @@
     "id": 4912,
     "fa": "من فاصله دار کردم جلسات مطالعه ام را در طول هفته تا اجتناب کنم از فشرده خوانی",
     "en": "I spaced out my study sessions over the week to avoid cramming",
+    "groupCode": 0
+  },
+  {
+    "id": 4913,
+    "fa": " با این اوصاف (با آن گفته), بیایید جلسه را شروع کنیم",
+    "en": "With that being said, let's start the meeting",
+    "groupCode": 0
+  },
+  {
+    "id": 4914,
+    "fa": "وارد شدم (پیاده روی) داخل این کافه برای اولین بار، من حس کردم یک حس عجیبی از آشناپنداری",
+    "en": "Walking into this café for the first time, I felt a strange sense of déjà vu",
     "groupCode": 0
   }
 ]

@@ -3096,7 +3096,7 @@
   },
   {
     "id": 10507,
-    "en": "My roommate (male) is angry but why?",
+    "en": "My roommate (male) is annoyed but why?",
     "de": "Mein Mitbewohner ist verärgert aber warum?",
     "groupCode": 1
   },
@@ -3481,7 +3481,7 @@
   },
   {
     "id": 10571,
-    "en": "I am very angry",
+    "en": "I am very annoyed",
     "de": "Ich bin sehr verärgert",
     "groupCode": 1
   },
@@ -6170,7 +6170,7 @@
   },
   {
     "id": 11013,
-    "en": "I'm angry, because she never wants to wash her clothes",
+    "en": "I'm annoyed, because she never wants to wash her clothes",
     "de": "\n 1.Ich bin verärgert, denn sie will nie ihre Kleidung waschen \n 2.Ich bin verärgert, weil sie nie ihre Kleidung waschen will",
     "groupCode": 1
   },
@@ -6374,7 +6374,7 @@
   },
   {
     "id": 11047,
-    "en": "Are you angry? No, I'm not angry",
+    "en": "Are you annoyed? No, I'm not annoyed",
     "de": "Bist du verärgert? Nein, Ich bin nicht verärgert",
     "groupCode": 1
   },
@@ -11075,8 +11075,9 @@
   },
   {
     "id": 11815,
-    "en": "I'm getting money at the ATMs because the bank is closed",
+    "en": "I'm getting money at the ATM because the bank is closed",
     "de": "Ich hole Geld am Geldautomaten, weil die Bank geschlossen ist",
+    "desc": "Why:\n\nam = an dem → dative\n\nder Geldautomat → dem Geldautomaten (+ -en in dative)\n\n\uD83D\uDC49 Short: Dative after “am” → Geldautomaten",
     "groupCode": 1
   },
   {
@@ -11495,7 +11496,7 @@
   },
   {
     "id": 11884,
-    "en": "I'm not angry, we're both right",
+    "en": "I'm not annoyed, we're both right",
     "de": "Ich bin nicht verärgert, wir haben beide recht",
     "groupCode": 1
   },
@@ -16293,7 +16294,7 @@
   },
   {
     "id": 12671,
-    "en": "\n 1.The smell strange \n 2.The joke is funny",
+    "en": "\n 1.That smells strange \n 2.The joke is funny",
     "de": "\n 1.Das riecht komisch \n 2.Der Witz ist komisch",
     "groupCode": 1
   },
@@ -16341,7 +16342,7 @@
   },
   {
     "id": 12679,
-    "en": "I like pears then apples",
+    "en": "I prefer pears to (than) apples",
     "de": "Ich mag Brinen lieber als Äpfel",
     "groupCode": 1
   },
@@ -16372,7 +16373,7 @@
   },
   {
     "id": 12684,
-    "en": "His face is just tired, not angry",
+    "en": "His face is just tired, not annoyed",
     "de": "Sein Gesicht ist nur müde, nicht verärgert",
     "groupCode": 1
   },
@@ -16404,6 +16405,7 @@
     "id": 12689,
     "en": "The lifeguard is helping my neighbor",
     "de": "Der Bademeister hilft meinem Nachbarn",
+    "desc": "Why the -n?\n\nIn German, most masculine nouns get an extra -n (or -en) in the dative.\n\n\uD83D\uDC49 That’s why:\n\ndem Nachbar → dem Nachbarn\n\nmeinem Nachbar → meinem Nachbarn\n\n✅ So “meinem Nachbarn” is correct, not “meinem Nachbar.”",
     "groupCode": 1
   },
   {
@@ -16446,6 +16448,7 @@
     "id": 12696,
     "en": "I placed it behind the vase",
     "de": "Ich habe es hinter die Vase gestellt",
+    "desc": "„Ich habe es hinter die Vase gestellt.“\n\n“gestellt” → action / movement → Wohin? → accusative\n\nder Vase → die Vase (accusative feminine) → correct: “hinter die Vase”\n\n✅ Meaning: “I put it behind the vase.”",
     "groupCode": 1
   },
   {
@@ -16470,6 +16473,66 @@
     "id": 12700,
     "en": "I know. I read signs",
     "de": "Ich Weiß. Ich lese Schilder",
+    "groupCode": 1
+  },
+  {
+    "id": 12701,
+    "en": "\n 1.In the morning, in the evening, on Monday \n 2.At 8 a.m., at midnight \n 3.At Christmas, on my birthday",
+    "de": "\n 1.am Morgen, am Abend, am Montag \n 2.um 8 Uhr, um Mitternacht \n 3.an Weihnachten, an meinem Geburtstag",
+    "groupCode": 1
+  },
+  {
+    "id": 12702,
+    "en": "I give up and go to the embassy",
+    "de": "Ich gebe auf und gehe zur Botschaft",
+    "groupCode": 1
+  },
+  {
+    "id": 12703,
+    "en": "We can still search upstairs",
+    "de": "Wir können noch oben suchen",
+    "groupCode": 1
+  },
+  {
+    "id": 12704,
+    "en": "We can still search upstairs",
+    "de": "Wir können noch oben suchen",
+    "groupCode": 1
+  },
+  {
+    "id": 12705,
+    "en": "When were you born?",
+    "de": "Wann sind Sie geboren?",
+    "groupCode": 1
+  },
+  {
+    "id": 12706,
+    "en": "So I receive the passport by mail in four days",
+    "de": "Also ich bekomme den Pass per Post in vier Tagen",
+    "groupCode": 1
+  },
+  {
+    "id": 12707,
+    "en": "I was born on the second of July two thousand two",
+    "de": "Ich bin am zweiten Juli zweitausendzwei geboren",
+    "groupCode": 1
+  },
+  {
+    "id": 12708,
+    "en": "Is the passport arriving by post?",
+    "de": "Kommt der Pass per Post an?",
+    "groupCode": 1
+  },
+  {
+    "id": 12709,
+    "en": "No, I can't work any faster",
+    "de": "Nein ich kann nicht schneller arbeiten",
+    "groupCode": 1
+  },
+  {
+    "id": 12710,
+    "en": "I didn't hear you (formal) when I get my passport?",
+    "de": "Ich habe Sie nicht gehört wann bekomme ich meinen Pass?",
     "groupCode": 1
   }
 ]
