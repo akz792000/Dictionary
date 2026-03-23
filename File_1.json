@@ -1358,7 +1358,7 @@
   },
   {
     "id": 3222,
-    "fa": "خوب خواهد بود اگر ما بتوانیم از علی اطلاعات (خلاصه کلام) بگیریم",
+    "fa": "خوب خواهد بود اگر ما بتوانیم از علی اطلاعات (یک خلاصه کلام) بگیریم",
     "en": "It will be good if we can get a heads-up from Ali",
     "desc": "Heads-up: a short talk or statement about how a situation or plan is developing",
     "groupCode": 0
@@ -5084,7 +5084,7 @@
   },
   {
     "id": 3831,
-    "fa": "اگر حدس داشته باشم، من (فرضی) می گفتم که او داره (مرد) دیرش می شه",
+    "fa": "اگر من یک حدس داشته باشم، من (فرضی) می گفتم که او داره (مرد) دیرش می شه",
     "en": "If I had a guess, I'd say he's running late",
     "groupCode": 0
   },
@@ -11678,6 +11678,36 @@
     "id": 4914,
     "fa": "وارد شدم (پیاده روی) داخل این کافه برای اولین بار، من حس کردم یک حس عجیبی از آشناپنداری",
     "en": "Walking into this café for the first time, I felt a strange sense of déjà vu",
+    "groupCode": 0
+  },
+  {
+    "id": 4915,
+    "fa": "ما به شدت به کمک نیاز داریم",
+    "en": "We are in dire need of help",
+    "groupCode": 0
+  },
+  {
+    "id": 4916,
+    "fa": "مایکروسافت تیمز نقص (کار) کرد برای یک چند دقیقه",
+    "en": "Microsoft Teams glitched out for a few minutes",
+    "groupCode": 0
+  },
+  {
+    "id": 4917,
+    "fa": "مایکروسافت تیمز نقص داشت و مدام از سیستم خارج می شد برای یک چند دقیقه هایی",
+    "en": "Microsoft Teams was glitchy and kept logging me out for a few minutes",
+    "groupCode": 0
+  },
+  {
+    "id": 4918,
+    "fa": "سعی کن فروتن بمانی",
+    "en": "Try to stay humble",
+    "groupCode": 0
+  },
+  {
+    "id": 4919,
+    "fa": "ایستگاه قطار واقعاً بوی بدی می داد",
+    "en": "The train station really stank",
     "groupCode": 0
   }
 ]

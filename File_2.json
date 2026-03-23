@@ -14876,6 +14876,7 @@
     "id": 12438,
     "en": "He always wants to try on a hat",
     "de": "Er will immer einen Hut anprobieren",
+    "desc": "Briefly:\n\n    probieren = “to try” in a general sense: to taste, attempt, or test.\n        Ich probiere die Suppe. (taste)\n        Ich probiere, früher aufzustehen. (attempt)\n        Ich probiere das neue Tool aus. (test)\n    anprobieren = “to try on” clothing/shoes/accessories (separable: an + probieren).\n        Ich probiere das Kleid an. / Probier die Schuhe an! / Ich habe die Jacke anprobiert.\n",
     "groupCode": 1
   },
   {
@@ -16288,8 +16289,8 @@
   },
   {
     "id": 12670,
-    "en": "We can still search upstairs",
-    "de": "Wir können noch oben suchen",
+    "en": "Where is my phone charger for that cell phone?",
+    "de": "Wo ist mein Ladegerät für das Handy?",
     "groupCode": 1
   },
   {
@@ -16412,6 +16413,7 @@
     "id": 12690,
     "en": "You (plural) are hungry, but on the other hand (in contrast) we are already full",
     "de": "Ihr seid hungrig, wir sind dagegen schon satt",
+    "desc": "Briefly: Dagegen means “by contrast/on the other hand.” Put it early in the contrasting clause.\n\n    At the start (then verb next): Dagegen will ich nach Hause.\n    After the subject: Ich dagegen will nach Hause.\n    After the finite verb: Wir sind dagegen schon satt.\n\nNote: Dagegen can also mean “against it,” e.g., Ich bin dagegen = “I’m against it.”",
     "groupCode": 1
   },
   {
@@ -16489,8 +16491,8 @@
   },
   {
     "id": 12703,
-    "en": "We can still search upstairs",
-    "de": "Wir können noch oben suchen",
+    "en": "Your cell phone is under the blanket",
+    "de": "Dein Handy ist unter der Decke",
     "groupCode": 1
   },
   {
@@ -16501,7 +16503,7 @@
   },
   {
     "id": 12705,
-    "en": "When were you born?",
+    "en": "When were you (formal) born?",
     "de": "Wann sind Sie geboren?",
     "groupCode": 1
   },
@@ -16533,6 +16535,66 @@
     "id": 12710,
     "en": "I didn't hear you (formal) when I get my passport?",
     "de": "Ich habe Sie nicht gehört wann bekomme ich meinen Pass?",
+    "groupCode": 1
+  },
+  {
+    "id": 12711,
+    "en": "Why are you so quiet?",
+    "de": "Warum bist du so leise?",
+    "groupCode": 1
+  },
+  {
+    "id": 12712,
+    "en": "We need a basket for the picnic.",
+    "de": "Wir brauchen einen Korb für das Picknick",
+    "groupCode": 1
+  },
+  {
+    "id": 12713,
+    "en": "What do you want to borrow?",
+    "de": "Was willst du ausleihen?",
+    "groupCode": 1
+  },
+  {
+    "id": 12714,
+    "en": "What color does your favorite jacket have?",
+    "de": "Welche Farbe hat deine Lieblingsjacke?",
+    "groupCode": 1
+  },
+  {
+    "id": 12715,
+    "en": "I put it under the armchair",
+    "de": "Ich habe ihn unter den Sessel gestellt",
+    "groupCode": 1
+  },
+  {
+    "id": 12716,
+    "en": "They arrived without luggage",
+    "de": "Sie sind ohne Gepäck gekommen",
+    "groupCode": 1
+  },
+  {
+    "id": 12717,
+    "en": "The beaches were too crowded",
+    "de": "Die Strände waren zu voll",
+    "groupCode": 1
+  },
+  {
+    "id": 12718,
+    "en": "Are you keeping the black pants?",
+    "de": "Behältst du die schwarze Hose?",
+    "groupCode": 1
+  },
+  {
+    "id": 12719,
+    "en": "Is this raincoat made of leather?",
+    "de": "Ist dieser Regenmantel aus Leder?",
+    "groupCode": 1
+  },
+  {
+    "id": 12720,
+    "en": "The train station really stank",
+    "de": "Der Bahnhof hat wirklich gestunken",
     "groupCode": 1
   }
 ]

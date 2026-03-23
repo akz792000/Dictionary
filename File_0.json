@@ -697,7 +697,7 @@
   },
   {
     "id": 116,
-    "fa": "باهاش (مرد) صحبت کردی؟",
+    "fa": "آیا شما باهاش (مرد) صحبت کردی؟",
     "en": "Did you talk to him?",
     "groupCode": 0
   },
@@ -3638,7 +3638,7 @@
   },
   {
     "id": 602,
-    "fa": "گرفتی شما یه تاکسی تا اون آرایشگاه؟",
+    "fa": "آیا شما گرفتی یه تاکسی تا اون آرایشگاه؟",
     "en": "Did you take a taxi to the hairdresser?",
     "desc": "Did you take a taxi to the hairdresser? → means you traveled by taxi (neutral, standard English).\n\nDid you get a taxi to the hairdresser? → means you caught or used a taxi (more casual, common in British English).",
     "groupCode": 0
@@ -11296,7 +11296,7 @@
   },
   {
     "id": 1859,
-    "fa": "حمام کردی؟",
+    "fa": "آیا شما (یک) حمام کردی؟",
     "en": "Did you take a bath?",
     "groupCode": 0
   },
@@ -12117,7 +12117,7 @@
   },
   {
     "id": 1994,
-    "fa": "چه احمقی بودم که اینرو انجام دادم",
+    "fa": "چه احمقی من بودم (که) اینرو انجام دادم",
     "en": "What a fool I was to do this",
     "groupCode": 0
   },
@@ -16304,7 +16304,7 @@
   },
   {
     "id": 2683,
-    "fa": "فقط یک دقیقه بیشتر فرصت دارید",
+    "fa": "شما فقط داری یک دقیقه بیشتر (مانده)",
     "en": "You only have one more minute left",
     "groupCode": 0
   },
