@@ -646,7 +646,7 @@
   },
   {
     "id": 3106,
-    "fa": "او (مرد) پس از ایستادن برای مدت طولانی احساس ضعف کرد",
+    "fa": "او (مرد) احساس ضعف کرد پس از ایستادن برای مدت طولانی",
     "en": "He felt faint after standing for too long",
     "groupCode": 0
   },
@@ -4895,7 +4895,7 @@
   },
   {
     "id": 3800,
-    "fa": "استثنا برای من ناشناخته است و من مطمئن نیستم در مورد چگونگی ادامه دادن",
+    "fa": "استثنا برای من ناشناخته است و من مطمئن نیستم (قطعیت ندارم) در مورد چگونگی ادامه دادن",
     "en": "The exception is unknown to me, and I am uncertain about how to proceed",
     "groupCode": 0
   },
@@ -11652,7 +11652,7 @@
   },
   {
     "id": 4910,
-    "fa": "چه روندی! هر روز ادامه بده",
+    "fa": "چه روندی! ادامه بده (رفتن) هر روز",
     "en": "What a streak! /ˈstriːk/ Keep it going every day",
     "groupCode": 0
   },
@@ -11708,6 +11708,49 @@
     "id": 4919,
     "fa": "ایستگاه قطار واقعاً بوی بدی می داد",
     "en": "The train station really stank",
+    "groupCode": 0
+  },
+  {
+    "id": 4920,
+    "fa": "اگر خراب نیست (نشکسته)، تعمیرش نکن",
+    "en": "If it ain't broke, don't fix it",
+    "groupCode": 0
+  },
+  {
+    "id": 4921,
+    "fa": "من فکر می کنم من یک از لاستیک پنچر دارم. می توانم من بیاورم ماشین را داخل؟",
+    "en": "I think I have a puncture in one of my tires. Can I bring the car in?",
+    "groupCode": 0
+  },
+  {
+    "id": 4922,
+    "fa": "من یک لاستیک پنچر دارم و نیاز دارم تا ببرم ماشینم را به تعمیرگاه",
+    "en": "I have a flat tire and need to take my car to the garage",
+    "groupCode": 0
+  },
+  {
+    "id": 4923,
+    "fa": "در خصوص تحویل مدارک، لطفاً تأیید کنید زمان را",
+    "en": "Regarding handing over the documents, please confirm the time",
+    "groupCode": 0
+  },
+  {
+    "id": 4924,
+    "fa": "کی خواهد بود (فرضی) یک زمان مناسب برای هر دوی شما تا شروع کنیم؟",
+    "en": "When would be a suitable time for both of you to start?",
+    "groupCode": 0
+  },
+  {
+    "id": 4925,
+    "fa": "من فکر می کنم پنجشنبه و جمعه آینده ایده آل خواهد بود (فرضی)، چون ما ممکن است نیاز داشته باشیم بیش از یک روز تا اجتناب کنیم از فشرده سازی همه چیز",
+    "en": "I think next Thursday and Friday would be ideal, as we may need more than one day to avoid cramming everything",
+    "groupCode": 0
+  },
+  {
+    "id": 4926,
+    "fa": "\n 1.من می خواهم بدانم آیا لاستیک نیاز به تعویض دارد؟ \n 2.من می خواهم با همکارانم آشنا شوم",
+    "en": "\n 1.I want to know if the tire needs replacing \n 2.I want to get to know my coworkers",
+    "desc": "✅ “I want to know”\n\nUse this when you want information or an answer.\n\n“I want to know if the tire needs replacing.”\n\n“I want to know the price.”\n\uD83D\uDC49 You’re asking for facts or details.\n\n✅ “I want to get to know”\n\nUse this when you want to become familiar with a person or something over time.\n\n“I want to get to know my coworkers.”\n\n“I want to get to know the city.”\n\uD83D\uDC49 It means learning gradually through experience.\n\n⚠\uFE0F Important difference\n\n“know” = already having information\n\n“get to know” = the process of learning over time",
     "groupCode": 0
   }
 ]

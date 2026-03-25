@@ -15505,7 +15505,7 @@
   },
   {
     "id": 12541,
-    "en": "Are you taking a nap or looking for your passport?",
+    "en": "Are you taking (make) a nap or looking for your passport?",
     "de": "Machst du ein Nickerchen oder suchst du deinen Pass?",
     "groupCode": 1
   },
@@ -16186,7 +16186,7 @@
   {
     "id": 12653,
     "en": "Did you listen to her if (whenever) she told you something?",
-    "de": "Hast du ihr zugehört, wenn sie die etwas erzählt hat?",
+    "de": "Hast du ihr zugehört, wenn sie etwas erzählt hat?",
     "groupCode": 1
   },
   {
@@ -16344,7 +16344,7 @@
   {
     "id": 12679,
     "en": "I prefer pears to (than) apples",
-    "de": "Ich mag Brinen lieber als Äpfel",
+    "de": "Ich mag Birnen lieber als Äpfel",
     "groupCode": 1
   },
   {
@@ -16411,7 +16411,7 @@
   },
   {
     "id": 12690,
-    "en": "You (plural) are hungry, but on the other hand (in contrast) we are already full",
+    "en": "You (plural) are hungry, on the other hand we are (in contrast) already full",
     "de": "Ihr seid hungrig, wir sind dagegen schon satt",
     "desc": "Briefly: Dagegen means “by contrast/on the other hand.” Put it early in the contrasting clause.\n\n    At the start (then verb next): Dagegen will ich nach Hause.\n    After the subject: Ich dagegen will nach Hause.\n    After the finite verb: Wir sind dagegen schon satt.\n\nNote: Dagegen can also mean “against it,” e.g., Ich bin dagegen = “I’m against it.”",
     "groupCode": 1
@@ -16563,7 +16563,7 @@
   },
   {
     "id": 12715,
-    "en": "I put it under the armchair",
+    "en": "I put it (him) under the armchair",
     "de": "Ich habe ihn unter den Sessel gestellt",
     "groupCode": 1
   },
@@ -16575,7 +16575,7 @@
   },
   {
     "id": 12717,
-    "en": "The beaches were too crowded",
+    "en": "The beaches were too crowded (full)",
     "de": "Die Strände waren zu voll",
     "groupCode": 1
   },
@@ -16595,6 +16595,66 @@
     "id": 12720,
     "en": "The train station really stank",
     "de": "Der Bahnhof hat wirklich gestunken",
+    "groupCode": 1
+  },
+  {
+    "id": 12721,
+    "en": "That can't be right",
+    "de": "Das kann nicht stimmen",
+    "groupCode": 1
+  },
+  {
+    "id": 12722,
+    "en": "Everything is okay with the swim trunks",
+    "de": "Mit den Badenhosen ist alles okay",
+    "groupCode": 1
+  },
+  {
+    "id": 12723,
+    "en": "I mistook Ali for his brother",
+    "de": "Ich habe Ali mit seinem Bruder verwechselt",
+    "groupCode": 1
+  },
+  {
+    "id": 12724,
+    "en": "Do you (formal) need anything else?",
+    "de": "Brauchen Sie noch etwas?",
+    "groupCode": 1
+  },
+  {
+    "id": 12725,
+    "en": "No, I don't find the music romantic.",
+    "de": "Nein, ich finde die Musik nicht romantisch",
+    "groupCode": 1
+  },
+  {
+    "id": 12726,
+    "en": "My wife would like something else",
+    "de": "Meine Frau möchte noch etwas",
+    "groupCode": 1
+  },
+  {
+    "id": 12727,
+    "en": "We help the bosses in the office",
+    "de": "Wir helfen den Chefs im Büro",
+    "groupCode": 1
+  },
+  {
+    "id": 12728,
+    "en": "I have a flat tire. Could you (formal) please check it?",
+    "de": "Ich habe einen platten Reifen. Können Sie das bitte überprüfen?",
+    "groupCode": 1
+  },
+  {
+    "id": 12729,
+    "en": "I find this desk sturdy (stable) and beautiful",
+    "de": "Ich finde diesen Schreibtisch stabil und schön",
+    "groupCode": 1
+  },
+  {
+    "id": 12730,
+    "en": "Can you order the bookshelf in white?",
+    "de": "Kannst du das Bücherregal in Weiß bestellen?",
     "groupCode": 1
   }
 ]
