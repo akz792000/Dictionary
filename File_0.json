@@ -10276,8 +10276,9 @@
   },
   {
     "id": 1692,
-    "fa": "فایده ای نداشت",
+    "fa": "فایده ای نداشت (نبود)",
     "en": "It was no use",
+    "desc": "\uD83D\uDC49 “It was no use” = correct and natural → means it was pointless\n\n\uD83D\uDC49 “It has no use” = not natural → better say “It’s useless”\n\n✅ Use: “It was no use trying.”",
     "groupCode": 0
   },
   {
