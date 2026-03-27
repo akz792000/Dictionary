@@ -16656,5 +16656,77 @@
     "en": "Can you order the bookshelf in white?",
     "de": "Kannst du das Bücherregal in Weiß bestellen?",
     "groupCode": 1
+  },
+  {
+    "id": 12731,
+    "en": "Have you already checked your wallet? Was it empty?",
+    "de": "Hast du schon im Geldbeutel gesucht, war er leer?",
+    "groupCode": 1
+  },
+  {
+    "id": 12732,
+    "en": "Don't be so unhappy, I found your passport",
+    "de": "Sie nicht so unglücklich, ich habe deinen Pass gefunden",
+    "groupCode": 1
+  },
+  {
+    "id": 12733,
+    "en": "I have to look upstairs. Can you look in the bathroom?",
+    "de": "Ich muss oben suchen, Kannst du im Badezimmer suchen?",
+    "groupCode": 1
+  },
+  {
+    "id": 12734,
+    "en": "My passport is missing (gone, away). I lost it",
+    "de": "Mein Pass ist weg. Ich habe ihn verloren",
+    "groupCode": 1
+  },
+  {
+    "id": 12735,
+    "en": "When are you flying to Great Britain?",
+    "de": "Wann fliegen Sie nach Großbritannien?",
+    "groupCode": 1
+  },
+  {
+    "id": 12736,
+    "en": "Could you repeat the question? I didn't hear you",
+    "de": "Können Sie die Frage wiederholen? Ich habe Sie nicht gehört",
+    "groupCode": 1
+  },
+  {
+    "id": 12737,
+    "en": "You don't have to be stressed anymore, everything is alright",
+    "de": "Du musst keinen Stress mehr haben, alles ist in Ordnung",
+    "groupCode": 1
+  },
+  {
+    "id": 12738,
+    "en": "Are you still studying at the University of Freiburg?",
+    "de": "Studierst du noch an der Universität in Freiburg?",
+    "groupCode": 1
+  },
+  {
+    "id": 12739,
+    "en": "My roommate (female) is an exchange student from Sweden",
+    "de": "Meine Mitbewohnerin ist Austauschstudentin aus Schweden",
+    "groupCode": 1
+  },
+  {
+    "id": 12740,
+    "en": "His training starts in three weeks",
+    "de": "Seine Ausbildung fängt in drei Wochen an",
+    "groupCode": 1
+  },
+  {
+    "id": 12741,
+    "en": "Harvard University is very well known",
+    "de": "Die Harvard Universität ist sehr bekannt",
+    "groupCode": 1
+  },
+  {
+    "id": 12742,
+    "en": "I brought my car here the day before yesterday to have the engine checked and the flat tire repaired. I just wanted to ask if I can pick up my car today",
+    "de": "Ich habe mein Auto vorgestern hierher gebracht, um den Motor zu überprüfen und den platten Reifen zu reparieren. Ich wollte nur fragen, ob ich mein Auto heute abholen kann",
+    "groupCode": 1
   }
 ]

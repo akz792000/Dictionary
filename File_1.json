@@ -11520,7 +11520,7 @@
   {
     "id": 4888,
     "fa": "اگرچه پیاده سازی اولیه نیاز  خواهد داشت تغییرات متعددی در سراسر کدبیس، اما با گذشت زمان سیستم تثبیت خواهد شد و قادر می سازد ما را تا اضافه کنیم نقش  ها و مجوزهای جدید را با حداقل به روزرسانی ها",
-    "en": "Although the initial implementation will require numerous changes across the codebase, over time the system will stabilize, enabling us to add new roles and permissions with minimal updates",
+    "en": "Although the initial implementation will require numerous changes across the codebase, over time the system will stabilize /ˈsteɪbəlʌɪz//, enabling us to add new roles and permissions with minimal updates",
     "groupCode": 0
   },
   {
@@ -11725,7 +11725,7 @@
   {
     "id": 4922,
     "fa": "من یک لاستیک تخت (پنچر) دارم و نیاز دارم تا ببرم ماشینم را به تعمیرگاه",
-    "en": "I have a flat tire and need to take my car to the garage",
+    "en": "I have a flat tire and need to take my car to the garage /ga\n·\nraazh/",
     "groupCode": 0
   },
   {
@@ -11751,6 +11751,24 @@
     "fa": "\n 1.من می خواهم بدانم آیا لاستیک نیاز به تعویض دارد؟ \n 2.من می خواهم با همکارانم آشنا شوم",
     "en": "\n 1.I want to know if the tire needs replacing \n 2.I want to get to know my coworkers",
     "desc": "✅ “I want to know”\n\nUse this when you want information or an answer.\n\n“I want to know if the tire needs replacing.”\n\n“I want to know the price.”\n\uD83D\uDC49 You’re asking for facts or details.\n\n✅ “I want to get to know”\n\nUse this when you want to become familiar with a person or something over time.\n\n“I want to get to know my coworkers.”\n\n“I want to get to know the city.”\n\uD83D\uDC49 It means learning gradually through experience.\n\n⚠\uFE0F Important difference\n\n“know” = already having information\n\n“get to know” = the process of learning over time",
+    "groupCode": 0
+  },
+  {
+    "id": 4927,
+    "fa": "من آوردم ماشینم را اینجا پریروز تا موتور چک شود و لاستیک تخت (پنچر) درست شود. من فقط می خواستم بپرسم آیا من می توانم تحویل بگیرم (بلند کردن) ماشینم را امروز یا نه",
+    "en": "I brought my car here the day before yesterday to have the engine checked and the flat tire repaired. I just wanted to ask if I can pick up my car today or not",
+    "groupCode": 0
+  },
+  {
+    "id": 4928,
+    "fa": "بسته شما ترخیص شده (از) گمرک و است با DHL Paket در مسیرش رسیدن به آدرس پستی شما",
+    "en": "Your package has cleared customs and is with DHL Paket on its way to your shipping address",
+    "groupCode": 0
+  },
+  {
+    "id": 4929,
+    "fa": "وقتی یک سیستم توزیع شده مواجه می شود (با) یک پارتیشن شبکه، باید انتخاب کند بین سازگار بودن یا در دسترس بودن، اما نمی تواند تضمین کند هر دو را",
+    "en": "When a distributed system faces a network partition, it must choose between being consistent or being available, but it can't guarantee both",
     "groupCode": 0
   }
 ]
