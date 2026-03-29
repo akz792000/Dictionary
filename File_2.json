@@ -4267,7 +4267,7 @@
   },
   {
     "id": 10701,
-    "en": "What kind of (a) fish are you grilling this evening?",
+    "en": "What kind of (a) fish are you grilling tonight (this evening)?",
     "de": "Was für einen Fisch grillst du heute Abend?",
     "groupCode": 1
   },
@@ -6959,7 +6959,7 @@
   },
   {
     "id": 11143,
-    "en": "We're still going into the club this evening and want to sleep in tomorrow",
+    "en": "We're still going into the club tonight (this evening) and want to sleep in tomorrow",
     "de": "Wir gehen heute Abend noch in den Club und wollen morgen aussclafen",
     "groupCode": 1
   },
@@ -11727,7 +11727,7 @@
   },
   {
     "id": 11921,
-    "en": "I stay at home because watching TV is fun",
+    "en": "I stay at home because watching TV is (make) fun",
     "de": "Ich bleibe zu Hause, weil Fernsehen Spaß macht",
     "groupCode": 1
   },
@@ -12230,7 +12230,7 @@
   },
   {
     "id": 12004,
-    "en": "My brother is moving tomorrow and I'm helping him. I can't go in the club this evening",
+    "en": "My brother is moving tomorrow and I'm helping him. I can't go in the club tonight (this evening)",
     "de": "Mein Bruder zieht morgen um und ich helfe ihm. Ich kann heute Abend nicht in den Club gehen",
     "groupCode": 1
   },
@@ -12523,6 +12523,7 @@
     "id": 12051,
     "en": "Drive with care",
     "de": "Fahr mit Vorsicht",
+    "desc": "Vorsicht = noun → caution / warning\nvorsichtig = adjective/adverb → careful",
     "groupCode": 1
   },
   {
@@ -12633,6 +12634,7 @@
     "id": 12069,
     "en": "Speak please more slowly",
     "de": "Sprich bitte langsamer",
+    "desc": "langsam = adjective (slow)\nlangsamer = adverb in comparative form → more slowly\n\nIn German, we usually use the comparative (-er) instead of “mehr + adjective”.",
     "groupCode": 1
   },
   {
@@ -13324,8 +13326,8 @@
   },
   {
     "id": 12183,
-    "en": "Speak please more slowly",
-    "de": "Sprich bitte langsamer",
+    "en": "No comfortable chair is there",
+    "de": "Kein bequemer Stuhl ist da",
     "groupCode": 1
   },
   {
@@ -13993,7 +13995,7 @@
   },
   {
     "id": 12292,
-    "en": "I already have something to do (intend/plan) this evening. I'm going into the concert",
+    "en": "I already have something to do (intend/plan) tonight (this evening). I'm going into the concert",
     "de": "Ich habe heute Abend schon etwas vor. Ich gehe ins Konzert",
     "groupCode": 1
   },
@@ -16015,7 +16017,7 @@
   },
   {
     "id": 12625,
-    "en": "We're looking for our seats for the concert, but we can't find them. Let's ask at the box office for information",
+    "en": "We're looking for our seats for the concert, but we can't find them. Let's ask at the cash register for information",
     "de": "Wir suchen unsere Sitzplätze für das Konzert, aber wir können sie nicht finden. Lass uns an der Kasse nach Informationen fragen",
     "groupCode": 1
   },
@@ -16185,7 +16187,7 @@
   },
   {
     "id": 12653,
-    "en": "Did you listen to her if (whenever) she told you something?",
+    "en": "Did you listen to her if (whenever) she told something?",
     "de": "Hast du ihr zugehört, wenn sie etwas erzählt hat?",
     "groupCode": 1
   },
@@ -16425,7 +16427,7 @@
   {
     "id": 12692,
     "en": "They are staying longer, on the other hand I want to go home",
-    "de": "Sie bleiben länger, ich dagegen will nach Hause",
+    "de": "Sie bleiben länger, ich dagegen will nach Hause gehen",
     "groupCode": 1
   },
   {
@@ -16527,7 +16529,7 @@
   },
   {
     "id": 12709,
-    "en": "No, I can't work any faster",
+    "en": "No, I can't work (any) faster",
     "de": "Nein ich kann nicht schneller arbeiten",
     "groupCode": 1
   },
@@ -16557,7 +16559,7 @@
   },
   {
     "id": 12714,
-    "en": "What color does your favorite jacket have?",
+    "en": "Which color does your favorite jacket have?",
     "de": "Welche Farbe hat deine Lieblingsjacke?",
     "groupCode": 1
   },
@@ -16605,13 +16607,13 @@
   },
   {
     "id": 12722,
-    "en": "Everything is okay with the swim trunks",
+    "en": "Everything is okay with the swim trunks (plural)",
     "de": "Mit den Badenhosen ist alles okay",
     "groupCode": 1
   },
   {
     "id": 12723,
-    "en": "I mistook Ali for his brother",
+    "en": "I mistook (confused, change) Ali for his brother",
     "de": "Ich habe Ali mit seinem Bruder verwechselt",
     "groupCode": 1
   },
@@ -16659,7 +16661,7 @@
   },
   {
     "id": 12731,
-    "en": "Have you already checked your wallet? Was it empty?",
+    "en": "Have you already checked your wallet? Was he empty?",
     "de": "Hast du schon im Geldbeutel gesucht, war er leer?",
     "groupCode": 1
   },
@@ -16683,13 +16685,13 @@
   },
   {
     "id": 12735,
-    "en": "When are you flying to Great Britain?",
+    "en": "When are you (formal) flying to Great Britain?",
     "de": "Wann fliegen Sie nach Großbritannien?",
     "groupCode": 1
   },
   {
     "id": 12736,
-    "en": "Could you repeat the question? I didn't hear you",
+    "en": "Could you (formal) repeat the question? I didn't hear you",
     "de": "Können Sie die Frage wiederholen? Ich habe Sie nicht gehört",
     "groupCode": 1
   },
@@ -16701,7 +16703,7 @@
   },
   {
     "id": 12738,
-    "en": "Are you still studying at the University of Freiburg?",
+    "en": "Are you still studying at the University of (in) Freiburg?",
     "de": "Studierst du noch an der Universität in Freiburg?",
     "groupCode": 1
   },
@@ -16719,7 +16721,7 @@
   },
   {
     "id": 12741,
-    "en": "Harvard University is very well known",
+    "en": "The Harvard University is very well known",
     "de": "Die Harvard Universität ist sehr bekannt",
     "groupCode": 1
   },
@@ -16727,6 +16729,54 @@
     "id": 12742,
     "en": "I brought my car here the day before yesterday to have the engine checked and the flat tire repaired. I just wanted to ask if I can pick up my car today",
     "de": "Ich habe mein Auto vorgestern hierher gebracht, um den Motor zu überprüfen und den platten Reifen zu reparieren. Ich wollte nur fragen, ob ich mein Auto heute abholen kann",
+    "groupCode": 1
+  },
+  {
+    "id": 12743,
+    "en": "\n 1.I insist on the price \n 2.We're waiting for you \n 3.I'm looking forward to the vacation \n 4.He's hoping for a chance",
+    "de": "\n 1.Ich bestehe auf den Preis \n 2.Wir warten auf dich \n 3.Ich freue mich auf den Urlaub \n 4.Er hofft auf eine Chance",
+    "groupCode": 1
+  },
+  {
+    "id": 12744,
+    "en": "\n 1.I follow the rules \n 2.I answer the question \n 3.I abstain from sugar \n 4.I concentrate on my work",
+    "de": "\n 1.Ich achte auf die Regeln \n 2.Ich antworte auf die Frage \n 3.Ich verzichte auf Zucker \n 4.Ich konzentriere mich auf die Arbeit",
+    "groupCode": 1
+  },
+  {
+    "id": 12745,
+    "en": "When does the concert take place?",
+    "de": "Wann findet das Konzert statt?",
+    "groupCode": 1
+  },
+  {
+    "id": 12746,
+    "en": "You give the person at the cash register the money for the cards",
+    "de": "Du gibst der Person an der Kasse das Geld für die Karten",
+    "groupCode": 1
+  },
+  {
+    "id": 12747,
+    "en": "You pay for things like cards, clothes, and groceries with money",
+    "de": "Man bezahlt für Sachen wie Karten, Kleidung und Lebensmittel mit Geld",
+    "groupCode": 1
+  },
+  {
+    "id": 12748,
+    "en": "Have you found our seats?",
+    "de": "Hast du unsere Sitzplätze gefunden?",
+    "groupCode": 1
+  },
+  {
+    "id": 12749,
+    "en": "Do you know when the movie starts?",
+    "de": "Weißt du, wann der Film beginnt?",
+    "groupCode": 1
+  },
+  {
+    "id": 12750,
+    "en": "Do you know which band is playing tonight (this evening)?",
+    "de": "Weißt du, welche Band heute Abend spielt?",
     "groupCode": 1
   }
 ]

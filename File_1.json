@@ -3009,7 +3009,7 @@
   },
   {
     "id": 3490,
-    "fa": "من خوشحالم که امروز رهبری را بر عهده گرفتم",
+    "fa": "من خوشحالم تا بر عهده گرفتم رهبری را امروز",
     "en": "I am happy to take the lead today",
     "groupCode": 0
   },
@@ -11769,6 +11769,24 @@
     "id": 4929,
     "fa": "وقتی یک سیستم توزیع شده مواجه می شود (با) یک پارتیشن شبکه، باید انتخاب کند بین سازگار بودن یا در دسترس بودن، اما نمی تواند تضمین کند هر دو را",
     "en": "When a distributed system faces a network partition, it must choose between being consistent or being available, but it can't guarantee both",
+    "groupCode": 0
+  },
+  {
+    "id": 4930,
+    "fa": "من نمی تونم آن را درست بفهمم",
+    "en": "I can't keep that straight",
+    "groupCode": 0
+  },
+  {
+    "id": 4931,
+    "fa": "شما ممکن است نوک بشکونی",
+    "en": "You might break tip off",
+    "groupCode": 0
+  },
+  {
+    "id": 4932,
+    "fa": "این شورت های شنا ندارند یک آستر داخلی",
+    "en": "These swim trunks don't have an inner lining",
     "groupCode": 0
   }
 ]
