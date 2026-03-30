@@ -11788,5 +11788,17 @@
     "fa": "این شورت های شنا ندارند یک آستر داخلی",
     "en": "These swim trunks don't have an inner lining",
     "groupCode": 0
+  },
+  {
+    "id": 4933,
+    "fa": "این دانشمند استفاده کرد (از) ویژگی های متمایزکننده تا تمایز دهد این دو گونه را",
+    "en": "The scientist used discriminative features to tell the two species apart",
+    "groupCode": 0
+  },
+  {
+    "id": 4934,
+    "fa": "این کاپشن ساخته شده از کتان و دارد یک آستر نرمی",
+    "en": "The jacket is made of linen and has a soft lining",
+    "groupCode": 0
   }
 ]
