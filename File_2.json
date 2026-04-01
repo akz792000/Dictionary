@@ -16572,7 +16572,7 @@
   {
     "id": 12716,
     "en": "They arrived without luggage",
-    "de": "Sie sind ohne Gepäck gekommen",
+    "de": "Sie sind ohne Gepäck angekommen",
     "groupCode": 1
   },
   {
@@ -16585,6 +16585,7 @@
     "id": 12718,
     "en": "Are you keeping the black pants?",
     "de": "Behältst du die schwarze Hose?",
+    "desc": "behalten\tkeep / retain\tPossession or memory; you keep it for yourself\nhalten\thold / stop / maintain\tPhysical holding, stopping, or following rules",
     "groupCode": 1
   },
   {
@@ -16613,7 +16614,7 @@
   },
   {
     "id": 12723,
-    "en": "I mistook (confused, change) Ali for his brother",
+    "en": "I mistook (confused, change) Ali for (with) his brother",
     "de": "Ich habe Ali mit seinem Bruder verwechselt",
     "groupCode": 1
   },
@@ -16727,14 +16728,14 @@
   },
   {
     "id": 12742,
-    "en": "I brought my car here the day before yesterday to have the engine checked and the flat tire repaired. I just wanted to ask if I can pick up my car today",
-    "de": "Ich habe mein Auto vorgestern hierher gebracht, um den Motor zu überprüfen und den platten Reifen zu reparieren. Ich wollte nur fragen, ob ich mein Auto heute abholen kann",
+    "en": "I brought my car there the day before yesterday to have the engine checked and the flat tire repaired. I just wanted to ask if I can pick up my car today",
+    "de": "Ich habe mein Auto vorgestern dorthin gebracht, um den Motor zu überprüfen und den platten Reifen zu reparieren. Ich wollte nur fragen, ob ich mein Auto heute abholen kann",
     "groupCode": 1
   },
   {
     "id": 12743,
     "en": "\n 1.I insist on the price \n 2.We're waiting for you \n 3.I'm looking forward to the vacation \n 4.He's hoping for a chance",
-    "de": "\n 1.Ich bestehe auf den Preis \n 2.Wir warten auf dich \n 3.Ich freue mich auf den Urlaub \n 4.Er hofft auf eine Chance",
+    "de": "\n 1.Ich bestehe auf dem Preis \n 2.Wir warten auf dich \n 3.Ich freue mich auf den Urlaub \n 4.Er hofft auf eine Chance",
     "groupCode": 1
   },
   {
@@ -16787,7 +16788,7 @@
   },
   {
     "id": 12752,
-    "en": "We often talk about our birthplace",
+    "en": "We often speak about our birthplace",
     "de": "Wir sprechen oft über unseren Geburtsort",
     "groupCode": 1
   },
@@ -16805,7 +16806,7 @@
   },
   {
     "id": 12755,
-    "en": "The rug is only available online",
+    "en": "The carpet is only available online",
     "de": "Der Teppich ist nur online erhältlich",
     "desc": "erhältlich → you can get/buy/obtain it somewhere\nverfügbar → it is available / free / accessible",
     "groupCode": 1
@@ -16826,6 +16827,7 @@
     "id": 12758,
     "en": "Are the new sofas at the front of the store?",
     "de": "Sind die neuen Sofas vorn im Geschäft?",
+    "desc": "vor = in front of (something) → preposition, needs a noun\nvorn = at the front → adverb, no noun needed",
     "groupCode": 1
   },
   {
@@ -16850,11 +16852,12 @@
     "id": 12762,
     "en": "Narrow furniture is sometimes more practical",
     "de": "Schmale Möbel sind manchmal praktischer",
+    "desc": "Furniture is an uncountable noun in English. ✅\nThat means you never say “furnitures” — the plural is the same as the singular: furniture.",
     "groupCode": 1
   },
   {
     "id": 12763,
-    "en": "My mother was always very hardworking in the office",
+    "en": "My mother was always very hardworking (diligent) in the office",
     "de": "Meine Mutter war immer sehr fleißig im Büro",
     "groupCode": 1
   },
@@ -16862,6 +16865,7 @@
     "id": 12764,
     "en": "Is the concert on (in) TV or online?",
     "de": "Ist das Konzert im Fernsehen oder online?",
+    "desc": "Fernsehen = action (watching)\nFernseher = object (machine)",
     "groupCode": 1
   },
   {
@@ -16885,7 +16889,7 @@
   {
     "id": 12768,
     "en": "I don't know who the guy is",
-    "de": "Ich weiß nicht wer der Typ it",
+    "de": "Ich weiß nicht wer der Typ ist",
     "groupCode": 1
   },
   {

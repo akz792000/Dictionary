@@ -11497,6 +11497,7 @@
     "id": 4884,
     "fa": "چرا شما نمی مونی (مدتی جایی موندن) برای شام به جای رفتن به سمت خانه اینقدر زود؟",
     "en": "Why don't you stick around for dinner instead of heading home so early?",
+    "desc": "Key Difference (simple)\ninstead of → substitution (one replaces the other)\nrather than → preference or choice\n\uD83E\uDDE0 Easy comparison\nI took a taxi instead of the bus → I replaced the bus\nI took a taxi rather than the bus → I preferred the taxi",
     "groupCode": 0
   },
   {
@@ -11799,6 +11800,12 @@
     "id": 4934,
     "fa": "این کاپشن ساخته شده از کتان و دارد یک آستر نرمی",
     "en": "The jacket is made of linen and has a soft lining",
+    "groupCode": 0
+  },
+  {
+    "id": 4935,
+    "fa": "شما می توانید معکوس کنید هرگونه بدهی SEPA را در ظرف ۸ هفته",
+    "en": "You can reverse any SEPA debit within 8 weeks",
     "groupCode": 0
   }
 ]
