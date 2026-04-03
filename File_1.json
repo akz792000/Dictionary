@@ -11834,8 +11834,20 @@
   },
   {
     "id": 4940,
-    "fa": "سسسسس مخفف عبارت Large Language Model است. این یک نوعی مدل هوش مصنوعی است طراحی شده است تا درک و تولید متن شبیه به متن انسان",
+    "fa": "LLM مخفف عبارت Large Language Model است. این یک نوعی مدل هوش مصنوعی است طراحی شده است تا درک و تولید متن شبیه به متن انسان",
     "en": "LLM stands for Large Language Model. It's a type of artificial intelligence model designed to understand and generate human-like text",
+    "groupCode": 0
+  },
+  {
+    "id": 4941,
+    "fa": "من می توانم انجامش بدم بدون هیچ ملاحظاتی",
+    "en": "I can do it with no reservations",
+    "groupCode": 0
+  },
+  {
+    "id": 4942,
+    "fa": "آنها به اندازه کافی تأمین شدند در طول بحران ها",
+    "en": "They adequately /ˈædəkwətli/ supplied during crises",
     "groupCode": 0
   }
 ]

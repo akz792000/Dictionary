@@ -836,7 +836,7 @@
   },
   {
     "id": 10137,
-    "en": "We must eat less sugar",
+    "en": "We must eat fewer sugar",
     "de": "Wir müssen weniger Zucker essen",
     "groupCode": 1
   },
@@ -16966,7 +16966,7 @@
   },
   {
     "id": 12781,
-    "en": "Unfortunately I cannot come to work tomorrow because I am sick. I have a bad headache and need to go to the doctor. I am very sorry that I cannot come",
+    "en": "Unfortunately I cannot come to work tomorrow because I am sick. I have (a) bad headache and have to go to the doctor. I am very sorry that I cannot come",
     "de": "leider kann ich morgen nicht zur Arbeit kommen, weil ich krank bin. Ich habe starke Kopfschmerzen und muss zum Arzt gehen. Es tut mir sehr leid, dass ich nicht kommen kann",
     "groupCode": 1
   },
@@ -16974,6 +16974,54 @@
     "id": 12782,
     "en": "I hope that I am healthy (will be well) again the day after tomorrow and can come to work. Thank you for your understanding",
     "de": "Ich hoffe, dass ich übermorgen wieder gesund bin und zur Arbeit kommen kann. Vielen Dank für Ihr Verständnis",
+    "groupCode": 1
+  },
+  {
+    "id": 12783,
+    "en": "Max loves his horse and wants to have more horses",
+    "de": "Max liebt sein Pferd und will mehr Pferde haben",
+    "groupCode": 1
+  },
+  {
+    "id": 12784,
+    "en": "Does your cousin's daughter also like riding horses?",
+    "de": "Reitet die Tochter von deinem Cousin auch gern?",
+    "groupCode": 1
+  },
+  {
+    "id": 12785,
+    "en": "My niece is sitting on a horse because she wants to ride.",
+    "de": "Meine Nichte sitzt auf einem Pferd, denn sie will reiten",
+    "groupCode": 1
+  },
+  {
+    "id": 12786,
+    "en": "The colored pencils belong to me, not my baby",
+    "de": "Die Farbstifte gehören mir, nicht meinem Baby",
+    "groupCode": 1
+  },
+  {
+    "id": 12787,
+    "en": "Do the colored pencils belong to you or your son?",
+    "de": "Gehören die Farbstifte dir oder deinem Sohn?",
+    "groupCode": 1
+  },
+  {
+    "id": 12788,
+    "en": "This drawing belongs to my daughter",
+    "de": "Diese Zeichnung gehört meiner Tochter",
+    "groupCode": 1
+  },
+  {
+    "id": 12789,
+    "en": "This drawing belongs to our son",
+    "de": "Diese Zeichnung gehört unserem Sohn",
+    "groupCode": 1
+  },
+  {
+    "id": 12790,
+    "en": "The horses belong to my cousin, not us.",
+    "de": "Die Pferde gehören meinem Cousin, nicht uns",
     "groupCode": 1
   }
 ]
