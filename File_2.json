@@ -16261,7 +16261,7 @@
   },
   {
     "id": 12665,
-    "en": "I can hear you good. You should not shout",
+    "en": "I hear you good. You should not shout",
     "de": "Ich höre dich gut. Du musst nicht schreien",
     "groupCode": 1
   },
@@ -16644,7 +16644,7 @@
   },
   {
     "id": 12728,
-    "en": "I have a flat tire. Could you (formal) please check it?",
+    "en": "I have a flat tire. Could you (formal) please check that?",
     "de": "Ich habe einen platten Reifen. Können Sie das bitte überprüfen?",
     "groupCode": 1
   },
@@ -16902,6 +16902,78 @@
     "id": 12770,
     "en": "Do you know why the guy is standing behind the drums?",
     "de": "Weißt du warum der Typ hinter dem Schlagzeug steht?",
+    "groupCode": 1
+  },
+  {
+    "id": 12771,
+    "en": "Why is nobody on stage?",
+    "de": "Warum ist niemand auf der Bühne?",
+    "groupCode": 1
+  },
+  {
+    "id": 12772,
+    "en": "Do you know who has my smartphone?",
+    "de": "Weißt du, wer mein Smartphone hat?",
+    "groupCode": 1
+  },
+  {
+    "id": 12773,
+    "en": "The stage is empty, where is the band?",
+    "de": "Die Buhne ist leer, wo ist die Band?",
+    "groupCode": 1
+  },
+  {
+    "id": 12774,
+    "en": "Can you visit me in two months?",
+    "de": "Kannst du mich in zwei Monaten besuchen?",
+    "groupCode": 1
+  },
+  {
+    "id": 12775,
+    "en": "Thank you for the gift! I had no idea and I can't believe it. I'm surprised",
+    "de": "Danke für das Geschenk! Ich hatte keine Ahnung und ich kann es nicht glauben. Ich bin überrascht",
+    "groupCode": 1
+  },
+  {
+    "id": 12776,
+    "en": "Today is Thursday. Yesterday was Wednesday. The day before yesterday was Tuesday",
+    "de": "Heute ist Donnerstag. Gestern war Mittwoch. Vorgestern war Dienstag",
+    "groupCode": 1
+  },
+  {
+    "id": 12777,
+    "en": "What did you do the day before yesterday?",
+    "de": "Was hast du vorgestern gemacht?",
+    "groupCode": 1
+  },
+  {
+    "id": 12778,
+    "en": "All (Everyone) was very polite",
+    "de": "Alle waren sehr höflich",
+    "groupCode": 1
+  },
+  {
+    "id": 12779,
+    "en": "Where did you meet the band?",
+    "de": "Wo hast du die Band getroffen?",
+    "groupCode": 1
+  },
+  {
+    "id": 12780,
+    "en": "The festival lasted three days",
+    "de": "Das Fest hat drei Tage gedauert",
+    "groupCode": 1
+  },
+  {
+    "id": 12781,
+    "en": "Unfortunately I cannot come to work tomorrow because I am sick. I have a bad headache and need to go to the doctor. I am very sorry that I cannot come",
+    "de": "leider kann ich morgen nicht zur Arbeit kommen, weil ich krank bin. Ich habe starke Kopfschmerzen und muss zum Arzt gehen. Es tut mir sehr leid, dass ich nicht kommen kann",
+    "groupCode": 1
+  },
+  {
+    "id": 12782,
+    "en": "I hope that I am healthy (will be well) again the day after tomorrow and can come to work. Thank you for your understanding",
+    "de": "Ich hoffe, dass ich übermorgen wieder gesund bin und zur Arbeit kommen kann. Vielen Dank für Ihr Verständnis",
     "groupCode": 1
   }
 ]

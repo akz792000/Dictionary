@@ -6575,7 +6575,7 @@
   },
   {
     "id": 4076,
-    "fa": "آتش سوزی ممکن است یک عمل خرابکاری بوده باشد",
+    "fa": "آتش سوزی ممکنه بوده باشد یک عمل خرابکاری",
     "en": "The fire may have been an act of sabotage",
     "groupCode": 0
   },
@@ -11653,7 +11653,7 @@
   },
   {
     "id": 4910,
-    "fa": "چه روندی! ادامه بده (رفتن) هر روز",
+    "fa": "چه روندی! ادامش بده (رفتن) هر روز",
     "en": "What a streak! /ˈstriːk/ Keep it going every day",
     "groupCode": 0
   },
@@ -11695,7 +11695,7 @@
   },
   {
     "id": 4917,
-    "fa": "مایکروسافت تیمز نقص داشت و مدام از سیستم خارج می شد برای یک چند دقیقه هایی",
+    "fa": "مایکروسافت تیمز ناقص بود و مدام از سیستم خارج می شد برای یک چند دقیقه هایی",
     "en": "Microsoft Teams was glitchy and kept logging me out for a few minutes",
     "groupCode": 0
   },
@@ -11774,7 +11774,7 @@
   },
   {
     "id": 4930,
-    "fa": "من نمی تونم آن را درست بفهمم",
+    "fa": "من نمی تونم آن را درست بفهمم (صاف نگهش دارم)",
     "en": "I can't keep that straight",
     "groupCode": 0
   },
@@ -11798,7 +11798,7 @@
   },
   {
     "id": 4934,
-    "fa": "این کاپشن ساخته شده از کتان و دارد یک آستر نرمی",
+    "fa": "این کاپشن (ژاکت) ساخته شده از کتان و دارد یک آستر نرمی",
     "en": "The jacket is made of linen and has a soft lining",
     "groupCode": 0
   },
@@ -11806,6 +11806,36 @@
     "id": 4935,
     "fa": "شما می توانید معکوس کنید هرگونه بدهی SEPA را در ظرف ۸ هفته",
     "en": "You can reverse any SEPA debit within 8 weeks",
+    "groupCode": 0
+  },
+  {
+    "id": 4936,
+    "fa": "برمی داره یه بخشی ازش رو",
+    "en": "It takes a crux of it",
+    "groupCode": 0
+  },
+  {
+    "id": 4937,
+    "fa": "جدا می کند قسمتی از متن را",
+    "en": "It cuts off part of the text",
+    "groupCode": 0
+  },
+  {
+    "id": 4938,
+    "fa": "من می خواهم بگیرم بعضی تجربه عملی با این برنامه",
+    "en": "I want to get some hands-on experience with this application",
+    "groupCode": 0
+  },
+  {
+    "id": 4939,
+    "fa": "تزریق وابستگی (DI) یک الگوی طراحی است جاییکه وابستگی ها مهیا می شوند توسط کانتینر به جای دستی ایجاد شدن؛ اسپرینگ پیاده سازی می کندش از طریق تزریق سازنده، تنظیم کننده یا فیلد",
+    "en": "Dependency Injection (DI) is a design pattern where dependencies are provided by the container instead of being created manually; Spring implements it via constructor, setter, or field injection",
+    "groupCode": 0
+  },
+  {
+    "id": 4940,
+    "fa": "سسسسس مخفف عبارت Large Language Model است. این یک نوعی مدل هوش مصنوعی است طراحی شده است تا درک و تولید متن شبیه به متن انسان",
+    "en": "LLM stands for Large Language Model. It's a type of artificial intelligence model designed to understand and generate human-like text",
     "groupCode": 0
   }
 ]
