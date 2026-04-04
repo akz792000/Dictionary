@@ -17020,8 +17020,26 @@
   },
   {
     "id": 12790,
-    "en": "The horses belong to my cousin, not us.",
+    "en": "The horses belong to my cousin, not us",
     "de": "Die Pferde gehören meinem Cousin, nicht uns",
+    "groupCode": 1
+  },
+  {
+    "id": 12791,
+    "en": "Oh no, the album is sold out!",
+    "de": "Oh nein, das Album ist ausverkauft!",
+    "groupCode": 1
+  },
+  {
+    "id": 12792,
+    "en": "The musicians played really well",
+    "de": "Die Musiker haben echt gut gespielt",
+    "groupCode": 1
+  },
+  {
+    "id": 12793,
+    "en": "How was the concert the day before yesterday?",
+    "de": "Wie war das Konzert vorgestern?",
     "groupCode": 1
   }
 ]
