@@ -11861,5 +11861,23 @@
     "fa": "دولت قصد دارد ضرب کند سکه های جدید امسال",
     "en": "The government plans to mint new coins this year",
     "groupCode": 0
+  },
+  {
+    "id": 4945,
+    "fa": "من می خواهم یک لکه را پاک کنم",
+    "en": "I wanna get a stain out",
+    "groupCode": 0
+  },
+  {
+    "id": 4946,
+    "fa": "آن ها دارن حذف می شوند از روی صحنه",
+    "en": "They are being eliminated on the stage",
+    "groupCode": 0
+  },
+  {
+    "id": 4947,
+    "fa": "هر مدل هوش مصنوعی دارد یک حداکثر مقداری از متن (که) می تواند به خاطر بسپارد در یک باره",
+    "en": "Every AI model has a maximum amount of text it can ‘remember’ in one go",
+    "groupCode": 0
   }
 ]

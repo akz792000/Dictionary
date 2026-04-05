@@ -1421,7 +1421,7 @@
     "id": 10232,
     "en": "The Spanish homeworks this week are interesting, do you agree with me?",
     "de": "Die Spanisch-Hausaufgaben diese Woche sind interessant, stimmst du mir zu?",
-    "desc": "The \"zu\" is part of the separable verb \"zustimmen\" (to agree).\n\nIn \"Stimmst du mir zu?\", the prefix \"zu\" moves to the end because separable verbs split in main clauses.\n\nTranslation: \"Do you agree with me?\"",
+    "desc": "Verb\tMeaning\tExample\nstimmen\tto be correct\tDas stimmt.\nzustimmen\tto agree (with someone)\tIch stimme dir zu.",
     "groupCode": 1
   },
   {
@@ -14662,6 +14662,7 @@
     "id": 12402,
     "en": "The weather was cold, why did you hike in the forest?",
     "de": "Das Wetter war kalt, warum bist du im Wald gewandert?",
+    "desc": "im Wald = location (Wo?) → inside the forest\nin den Wald = direction (Wohin?) → into the forest\n\nSo:\n\n✅ Warum bist du im Wald gewandert?\n= You hiked inside the forest (correct)\n\nBut:\n\n✅ Warum bist du in den Wald gegangen?\n= You went into the forest (movement toward)",
     "groupCode": 1
   },
   {
@@ -16366,6 +16367,7 @@
     "id": 12682,
     "en": "He annoys the other children",
     "de": "Er ärgert die anderen Kinder",
+    "desc": "✅ Correct: „Er ärgert die anderen Kinder.“\n❌ Wrong: „Er ärgert die anderen Kindern.“\n\nBrief explanation:\n\närgern needs Akkusativ (direct object).\nKinder in Akkusativ plural = die Kinder (not Kindern).\nKindern is Dativ plural, which doesn’t fit here.\n\nRule:\n\närgern → Akkusativ → die anderen Kinder ✅\nhelfen → Dativ → den anderen Kindern ✅",
     "groupCode": 1
   },
   {
@@ -16740,7 +16742,7 @@
   },
   {
     "id": 12744,
-    "en": "\n 1.I follow the rules \n 2.I answer the question \n 3.I abstain from sugar \n 4.I concentrate on my work",
+    "en": "\n 1.I follow the rules \n 2.I answer the question \n 3.I abstain from sugar \n 4.I am concentrating (myself) on the work",
     "de": "\n 1.Ich achte auf die Regeln \n 2.Ich antworte auf die Frage \n 3.Ich verzichte auf Zucker \n 4.Ich konzentriere mich auf die Arbeit",
     "groupCode": 1
   },
@@ -16825,7 +16827,7 @@
   },
   {
     "id": 12758,
-    "en": "Are the new sofas at the front of the store?",
+    "en": "Are the new sofas at the front of (in) the store?",
     "de": "Sind die neuen Sofas vorn im Geschäft?",
     "desc": "vor = in front of (something) → preposition, needs a noun\nvorn = at the front → adverb, no noun needed",
     "groupCode": 1
@@ -16852,7 +16854,7 @@
     "id": 12762,
     "en": "Narrow furniture is sometimes more practical",
     "de": "Schmale Möbel sind manchmal praktischer",
-    "desc": "Furniture is an uncountable noun in English. ✅\nThat means you never say “furnitures” — the plural is the same as the singular: furniture.",
+    "desc": "Furniture is an uncountable noun in English. ✅\nThat means you never say “furnitures” — the plural is the same as the singular: furniture. \n\n „Möbel“ is a plural-only noun",
     "groupCode": 1
   },
   {
@@ -17040,6 +17042,49 @@
     "id": 12793,
     "en": "How was the concert the day before yesterday?",
     "de": "Wie war das Konzert vorgestern?",
+    "groupCode": 1
+  },
+  {
+    "id": 12794,
+    "en": "\n 1.I answer (reply to you) you later \n 2.I answer the question \n 3.He answers the question",
+    "de": "\n 1.Ich antworte dir später \n 2.Ich antworte auf die Frage \n 3.Er beantwortet die Frage",
+    "desc": "antworten → answer someone → dative\nantworten auf → answer something → accusative\nbeantworten → answer something directly → accusative",
+    "groupCode": 1
+  },
+  {
+    "id": 12795,
+    "en": "What did you talk to Alex about? What did you (plural) do?",
+    "de": "Worüber hast du mit Alex gesprochen? Was habt ihr gemacht",
+    "groupCode": 1
+  },
+  {
+    "id": 12796,
+    "en": "What are you talking about? I'm talking about my future",
+    "de": "Worüber sprichst du? Ich spreche über meine Zukunft",
+    "groupCode": 1
+  },
+  {
+    "id": 12797,
+    "en": "What are you looking for? I'm looking for my key",
+    "de": "Wonach suchst du? Ich suche nach meinem Schlüssel",
+    "groupCode": 1
+  },
+  {
+    "id": 12798,
+    "en": "What do you dream of? I dream of a big trip",
+    "de": "Wovon träumst du? Ich traum von einer Großen Reise",
+    "groupCode": 1
+  },
+  {
+    "id": 12799,
+    "en": "What is the film about? It's a film about friendship",
+    "de": "Worum geht es in dem Film? Es geht um Film um Freunschaft",
+    "groupCode": 1
+  },
+  {
+    "id": 12800,
+    "en": "Who are you writing to?",
+    "de": "Wem schreibst du?",
     "groupCode": 1
   }
 ]
