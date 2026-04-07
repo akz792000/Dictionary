@@ -11891,5 +11891,18 @@
     "fa": "من یک مبتدی هستم",
     "en": "\n 1.I am a noob \n 2.I am a beginner",
     "groupCode": 0
+  },
+  {
+    "id": 4950,
+    "fa": "من یک جواب تند و سریع نوشتم که باعث خنده همه شد",
+    "en": "I wrote a snappy reply that made everyone laugh",
+    "groupCode": 0
+  },
+  {
+    "id": 4951,
+    "fa": "ارتقاء پردازنده  بهبود می بخشد سرعت را، اما وجود دارد یک بده بستانی با مصرف برق بالاتر",
+    "en": "Upgrading the CPU improves speed, but there's a trade-off with higher power use",
+    "desc": "Trade-off in your tech sentence means giving up one thing to gain another.",
+    "groupCode": 0
   }
 ]
