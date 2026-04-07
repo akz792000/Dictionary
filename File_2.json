@@ -16647,7 +16647,7 @@
   },
   {
     "id": 12728,
-    "en": "I have a flat tire. Could you (formal) please check that?",
+    "en": "I have a flat tire. Can you (formal) please check that?",
     "de": "Ich habe einen platten Reifen. Können Sie das bitte überprüfen?",
     "groupCode": 1
   },
@@ -16695,7 +16695,7 @@
   },
   {
     "id": 12736,
-    "en": "Could you (formal) repeat the question? I didn't hear you",
+    "en": "Can you (formal) repeat the question? I didn't hear you",
     "de": "Können Sie die Frage wiederholen? Ich habe Sie nicht gehört",
     "groupCode": 1
   },
@@ -17086,6 +17086,126 @@
     "id": 12800,
     "en": "Who are you writing to?",
     "de": "Wem schreibst du?",
+    "groupCode": 1
+  },
+  {
+    "id": 12801,
+    "en": "Cash is usual at the cash register",
+    "de": "Bargeld ist üblich an der Kasse",
+    "groupCode": 1
+  },
+  {
+    "id": 12802,
+    "en": "That is usual",
+    "de": "Das ist üblich",
+    "groupCode": 1
+  },
+  {
+    "id": 12803,
+    "en": "I heard my favorite song the day before yesterday",
+    "de": "Ich habe vorgestern mein Lieblingslied",
+    "groupCode": 1
+  },
+  {
+    "id": 12804,
+    "en": "Did you go to the concert yesterday or the day before yesterday?",
+    "de": "Bist du gestern oder vorgestern zum Konzert gegangen?",
+    "groupCode": 1
+  },
+  {
+    "id": 12805,
+    "en": "The child uses a pencil and draws a picture of a giraffe",
+    "de": "Das Kind benutzt einen Bleistift und zeichnet ein Bild von einer Giraffe",
+    "groupCode": 1
+  },
+  {
+    "id": 12806,
+    "en": "Peter's son's favorite animal is the giraffe",
+    "de": "Das Lieblingstier von Peters Sohn ist die Giraffe",
+    "groupCode": 1
+  },
+  {
+    "id": 12807,
+    "en": "A teacher spells out a word from a dictionary. Then the student can write the word correctly",
+    "de": "Ein Lehrer buchstabiert ein Wort aus einem Wörterbuch laut. Dann kann der Schüler das Wort richtig schreiben",
+    "groupCode": 1
+  },
+  {
+    "id": 12808,
+    "en": "My nephew likes to spell words",
+    "de": "Mein Neffe buchstabiert gern Wörter",
+    "groupCode": 1
+  },
+  {
+    "id": 12809,
+    "en": "I calculate better than my parents",
+    "de": "Ich rechne besser als meine Eltern",
+    "groupCode": 1
+  },
+  {
+    "id": 12810,
+    "en": "Are you showing me the shirt or not?",
+    "de": "Zeigst du mir das Hemd oder nicht?",
+    "groupCode": 1
+  },
+  {
+    "id": 12811,
+    "en": "He worked at the department store. He came home tired",
+    "de": "Er hat im Kaufhaus gearbeitet. Er kommt müde nach Hause",
+    "groupCode": 1
+  },
+  {
+    "id": 12812,
+    "en": "My job annoys me",
+    "de": "Mein job nervt/ärgert mich",
+    "groupCode": 1
+  },
+  {
+    "id": 12813,
+    "en": "The customers complain the all day",
+    "de": "Die kunden beschweren sich den ganzen Tag",
+    "groupCode": 1
+  },
+  {
+    "id": 12814,
+    "en": "I speak clearly",
+    "de": "Ich spreche deutlich",
+    "groupCode": 1
+  },
+  {
+    "id": 12815,
+    "en": "That is clear",
+    "de": "Das ist deutlich",
+    "groupCode": 1
+  },
+  {
+    "id": 12816,
+    "en": "Our oven is cooler than your (plural) oven",
+    "de": "Unser Ofen ist cooler als euer Ofen",
+    "groupCode": 1
+  },
+  {
+    "id": 12817,
+    "en": "We can swim privately in the garden",
+    "de": "Wir können privat im Garten schwimmen",
+    "groupCode": 1
+  },
+  {
+    "id": 12818,
+    "en": "I am hardworking",
+    "de": "Ich bin fleißig",
+    "groupCode": 1
+  },
+  {
+    "id": 12819,
+    "en": "That is unfortunately not correct",
+    "de": "Das stimmt leider nicht",
+    "groupCode": 1
+  },
+  {
+    "id": 12820,
+    "en": "Is that really true?",
+    "de": "Ist das wirklich wahr?",
     "groupCode": 1
   }
 ]
