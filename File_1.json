@@ -11846,7 +11846,7 @@
   },
   {
     "id": 4942,
-    "fa": "آنها به اندازه کافی تأمین شدند در طول بحران ها",
+    "fa": "آنها به اندازه کافی مهیا کردن در طول بحران ها",
     "en": "They adequately /ˈædəkwətli/ supplied during crises",
     "groupCode": 0
   },
@@ -11858,26 +11858,38 @@
   },
   {
     "id": 4944,
-    "fa": "دولت قصد دارد ضرب کند سکه های جدید امسال",
+    "fa": "دولت نقشه دارد ضرب کند سکه های جدید امسال",
     "en": "The government plans to mint new coins this year",
     "groupCode": 0
   },
   {
     "id": 4945,
-    "fa": "من می خواهم یک لکه را پاک کنم",
-    "en": "I wanna get a stain out",
+    "fa": "من می خواهم (بگیرم یک لکه بیرون) یک لکه را از پیراهنم پاک کنم",
+    "en": "I wanna get a stain out of my shirt",
     "groupCode": 0
   },
   {
     "id": 4946,
-    "fa": "آن ها دارن حذف می شوند از روی صحنه",
+    "fa": "آن ها دارن حذف (از بین رفتن) می شوند (از) روی صحنه",
     "en": "They are being eliminated on the stage",
     "groupCode": 0
   },
   {
     "id": 4947,
-    "fa": "هر مدل هوش مصنوعی دارد یک حداکثر مقداری از متن (که) می تواند به خاطر بسپارد در یک باره",
-    "en": "Every AI model has a maximum amount of text it can ‘remember’ in one go",
+    "fa": "هر مدل هوش مصنوعی دارد یک حداکثر مقداری از متن (که) می تواند به خاطر بسپارد در یک باره (رفتن)",
+    "en": "Every AI model has a maximum amount of text it can remember in one go",
+    "groupCode": 0
+  },
+  {
+    "id": 4948,
+    "fa": "فراداده های بالادستی به این معنی است (معنی می دهد) فایل هنوز شامل می باشد اطلاعاتی از پروژه اصلی",
+    "en": "Upstream metadata means the file still contains information from the original project",
+    "groupCode": 0
+  },
+  {
+    "id": 4949,
+    "fa": "من یک مبتدی هستم",
+    "en": "\n 1.I am a noob \n 2.I am a beginner",
     "groupCode": 0
   }
 ]

@@ -6817,8 +6817,9 @@
   },
   {
     "id": 11120,
-    "en": "The street is narrow",
+    "en": "The street is tight (cramped)",
     "de": "Die Straße ist eng",
+    "desc": "eng = tight / cramped (not enough space, feels tight)\nDie Schuhe sind eng. → The shoes are tight.\nschmal = narrow (small width, thin shape)\nDie Straße ist schmal. → The street is narrow.",
     "groupCode": 1
   },
   {
@@ -9919,7 +9920,7 @@
   {
     "id": 11626,
     "en": "\n The tomato \n The cucumber \n The carrot \n The onion \n The Salat \n The bowl \n The dishes \n The Garlic",
-    "de": "\n Die Tomate \n Der Gurke \n Die Karotte \n Die Zwiebel \n Der Salat \n Die Schüssel \n Das Geschirr \n Der Knoblauch (کنوب لاوخ)",
+    "de": "\n Die Tomate \n Die Gurke \n Die Karotte \n Die Zwiebel \n Der Salat \n Die Schüssel \n Das Geschirr \n Der Knoblauch (کنوب لاوخ)",
     "desc": "the dishes / the crockery / the tableware\n\nRefers to plates, cups, bowls, and other items used for eating.\n\nExample:\n\nIch spüle das Geschirr. → I'm washing the dishes",
     "groupCode": 1
   },
