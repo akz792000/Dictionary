@@ -13622,7 +13622,7 @@
   },
   {
     "id": 12231,
-    "en": "Could you (formal) please exchange 50 euros?",
+    "en": "Could you (formal) please exchange (switch) 50 euros?",
     "de": "Könnten Sie mir bitte 50 Euro wechseln?",
     "groupCode": 1
   },
@@ -13634,7 +13634,7 @@
   },
   {
     "id": 12233,
-    "en": "Please turn the volume down to low",
+    "en": "Please change the volume down to (on) low",
     "de": "Bitte ändern Sie die Lautstärke auf leise",
     "groupCode": 1
   },
@@ -14081,7 +14081,7 @@
   },
   {
     "id": 12306,
-    "en": "He changes the job",
+    "en": "He changes (switch) the job",
     "de": "Er wechselt den Job",
     "groupCode": 1
   },
@@ -16617,7 +16617,7 @@
   },
   {
     "id": 12723,
-    "en": "I mistook (confused, change) Ali for (with) his brother",
+    "en": "I confused Ali with his brother",
     "de": "Ich habe Ali mit seinem Bruder verwechselt",
     "groupCode": 1
   },
@@ -17150,8 +17150,8 @@
   },
   {
     "id": 12811,
-    "en": "He worked at the department store. He came home tired",
-    "de": "Er hat im Kaufhaus gearbeitet. Er kommt müde nach Hause",
+    "en": "He worked in the department store. He came home tired",
+    "de": "Er hat im Kaufhaus gearbeitet. Er ist müde nach Hause gekommen",
     "groupCode": 1
   },
   {
@@ -17206,6 +17206,68 @@
     "id": 12820,
     "en": "Is that really true?",
     "de": "Ist das wirklich wahr?",
+    "groupCode": 1
+  },
+  {
+    "id": 12821,
+    "en": "I change my opinion",
+    "de": "Ich ändere meine Meinung",
+    "groupCode": 1
+  },
+  {
+    "id": 12822,
+    "en": "She changes the plan",
+    "de": "Sie ändert den Plan",
+    "groupCode": 1
+  },
+  {
+    "id": 12823,
+    "en": "We change the time",
+    "de": "Wir ändern die Zeit",
+    "groupCode": 1
+  },
+  {
+    "id": 12824,
+    "en": "I exchange (switch) the money",
+    "de": "Ich wechsle das Geld",
+    "desc": "| Person    | Conjugation   |\n| --------- | ------------- |\n| ich       | **wechsle**   |\n| du        | **wechselst** |\n| er/sie/es | **wechselt**  |\n| wir       | **wechseln**  |\n| ihr       | **wechselt**  |\n| sie/Sie   | **wechseln**  |\n",
+    "groupCode": 1
+  },
+  {
+    "id": 12825,
+    "en": "He changes (switch) his shirt",
+    "de": "Er wechselt das Hemd",
+    "groupCode": 1
+  },
+  {
+    "id": 12826,
+    "en": "I know all the countries in the world",
+    "de": "Ich kenne alle Länder der Welt",
+    "groupCode": 1
+  },
+  {
+    "id": 12827,
+    "en": "I mix up (confuse) the names",
+    "de": "Ich verwechsle die Namen",
+    "desc": "| Person    | Conjugation   |\n| --------- | ------------- |\n| ich       | **wechsle**   |\n| du        | **wechselst** |\n| er/sie/es | **wechselt**  |\n| wir       | **wechseln**  |\n| ihr       | **wechselt**  |\n| sie/Sie   | **wechseln**  |\n",
+    "groupCode": 1
+  },
+  {
+    "id": 12828,
+    "en": "He confuses me with my brother",
+    "de": "Er verwechselt mich mit meinem Bruder",
+    "groupCode": 1
+  },
+  {
+    "id": 12829,
+    "en": "I mixed (confuse) that up",
+    "de": "Ich habe das verwechselt",
+    "groupCode": 1
+  },
+  {
+    "id": 12830,
+    "en": "Are the lamps confusing for you?",
+    "de": "Sind die Lampen verwirrende für dich",
     "groupCode": 1
   }
 ]
