@@ -7599,7 +7599,7 @@
   },
   {
     "id": 4244,
-    "fa": "می بایستی تایید بشه که باشد به (در) نام شما",
+    "fa": "می بایستی تایید بشه تا باشد به (در) نام شما",
     "en": "It must be verified to be in your name",
     "groupCode": 0
   },
@@ -7637,7 +7637,8 @@
   {
     "id": 4250,
     "fa": "او (مرد) از روی کینه گوشی اش (زن) را شکست",
-    "en": "He broke her phone out of spite",
+    "en": "\n 1.He broke her phone out of spite \n 2.He broke her phone out of rage",
+    "desc": "He broke her phone out of spite → he did it on purpose to hurt or annoy her (revenge/pettiness).\nHe broke her phone out of rage → he did it because he was very angry and lost control.",
     "groupCode": 0
   },
   {
@@ -11302,6 +11303,7 @@
     "id": 4852,
     "fa": "سلام بچه ها، من شروع به سرفه و عطسه کرده ام، بنابراین من نخواهم آمد به دفتر امروز",
     "en": "Hey guys, I've started coughing and sneezing, so I won't be coming into the office today",
+    "desc": "come into the office → emphasizes entering the workplace (very common office phrasing)\ncome to the office → more literal, used but less common in daily speech",
     "groupCode": 0
   },
   {
@@ -11834,7 +11836,7 @@
   },
   {
     "id": 4940,
-    "fa": "LLM مخفف عبارت Large Language Model است. این یک نوعی مدل هوش مصنوعی است طراحی شده است تا درک و تولید متن شبیه به متن انسان",
+    "fa": "LLM مخفف عبارت مدل زبان بزرگ است. این یک نوعی مدل هوش مصنوعی است طراحی شده است تا درک و تولید متن شبیه به متن انسان",
     "en": "LLM stands for Large Language Model. It's a type of artificial intelligence model designed to understand and generate human-like text",
     "groupCode": 0
   },
@@ -11900,9 +11902,27 @@
   },
   {
     "id": 4951,
-    "fa": "ارتقاء پردازنده  بهبود می بخشد سرعت را، اما وجود دارد یک بده بستانی با مصرف برق بالاتر",
+    "fa": "ارتقاء پردازنده بهبود می بخشد سرعت را، اما وجود دارد یک بده بستانی با مصرف برق بالاتر",
     "en": "Upgrading the CPU improves speed, but there's a trade-off with higher power use",
     "desc": "Trade-off in your tech sentence means giving up one thing to gain another.",
+    "groupCode": 0
+  },
+  {
+    "id": 4952,
+    "fa": "FinOps معنی می دهد عملیات مالی",
+    "en": "FinOps means Financial Operations",
+    "groupCode": 0
+  },
+  {
+    "id": 4953,
+    "fa": "علی و من همسو شدیم درباره مسیر ادامه کار (به جلو) امروز",
+    "en": "Ali and I aligned on a way forward today",
+    "groupCode": 0
+  },
+  {
+    "id": 4954,
+    "fa": "تنها چیزی (که) من می خواهم توجه شما را به آن جلب کنم است این یکی",
+    "en": "The only thing I want to draw your attention to is this one",
     "groupCode": 0
   }
 ]

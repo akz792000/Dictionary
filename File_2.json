@@ -8629,7 +8629,7 @@
   {
     "id": 11416,
     "en": "I do my work",
-    "de": "Ich tue meine Arbeit",
+    "de": "Ich mache meine Arbeit",
     "groupCode": 1
   },
   {
@@ -11595,7 +11595,7 @@
   },
   {
     "id": 11900,
-    "en": "I don't know whose idea that was",
+    "en": "I don't know (aware) whose idea that was",
     "de": "Ich weiß nicht, wessen Idee das war",
     "groupCode": 1
   },
@@ -15729,7 +15729,7 @@
   },
   {
     "id": 12577,
-    "en": "I don't know, but he's worse than the last waiter",
+    "en": "I don't know (aware), but he's worse than the last waiter",
     "de": "Ich weiß es nicht, aber er ist schlimmer als der letzte Kellner",
     "groupCode": 1
   },
@@ -15789,7 +15789,7 @@
   },
   {
     "id": 12587,
-    "en": "What did the professor say in the lecture? I don't know. He speaks too fast",
+    "en": "What did the professor say in the lecture? I don't know (aware). He speaks too fast",
     "de": "Was hat der Professor in der Vorlesung gesagt? Ich weiß nicht. Er spricht zu schnell",
     "groupCode": 1
   },
@@ -16061,13 +16061,13 @@
   },
   {
     "id": 12632,
-    "en": "I know who plays drums",
+    "en": "I know (aware) who plays drums",
     "de": "Ich weiß wer schlagzeug spielt",
     "groupCode": 1
   },
   {
     "id": 12633,
-    "en": "I don't know which musician (female) comes from Egypt",
+    "en": "I don't know (aware) which musician (female) comes from Egypt",
     "de": "Ich weiß nicht welche Musikerin aus Ägypten kommt",
     "groupCode": 1
   },
@@ -16086,7 +16086,7 @@
   },
   {
     "id": 12636,
-    "en": "Do you know who this guy with the guitar is?",
+    "en": "Do you know (aware) who this guy with the guitar is?",
     "de": "Weißt du wer dieser Typ mit der Gitarre ist?",
     "groupCode": 1
   },
@@ -16478,7 +16478,7 @@
   },
   {
     "id": 12700,
-    "en": "I know. I read signs",
+    "en": "I know (aware). I read signs",
     "de": "Ich Weiß. Ich lese Schilder",
     "groupCode": 1
   },
@@ -16773,13 +16773,13 @@
   },
   {
     "id": 12749,
-    "en": "Do you know when the movie starts?",
+    "en": "Do you know (aware) when the movie starts?",
     "de": "Weißt du, wann der Film beginnt?",
     "groupCode": 1
   },
   {
     "id": 12750,
-    "en": "Do you know which band is playing tonight (this evening)?",
+    "en": "Do you know (aware) which band is playing tonight (this evening)?",
     "de": "Weißt du, welche Band heute Abend spielt?",
     "groupCode": 1
   },
@@ -16873,7 +16873,7 @@
   },
   {
     "id": 12765,
-    "en": "I know who plays drums and piano",
+    "en": "I know (aware) who plays drums and piano",
     "de": "Ich weiß, wer Schlagzeug und Klavier spielt",
     "groupCode": 1
   },
@@ -16891,7 +16891,7 @@
   },
   {
     "id": 12768,
-    "en": "I don't know who the guy is",
+    "en": "I don't know (aware) who the guy is",
     "de": "Ich weiß nicht wer der Typ ist",
     "groupCode": 1
   },
@@ -16903,7 +16903,7 @@
   },
   {
     "id": 12770,
-    "en": "Do you know why the guy is standing behind the drums?",
+    "en": "Do you know (aware) why the guy is standing behind the drums?",
     "de": "Weißt du warum der Typ hinter dem Schlagzeug steht?",
     "groupCode": 1
   },
@@ -16915,7 +16915,7 @@
   },
   {
     "id": 12772,
-    "en": "Do you know who has my smartphone?",
+    "en": "Do you know (aware) who has my smartphone?",
     "de": "Weißt du, wer mein Smartphone hat?",
     "groupCode": 1
   },
@@ -16987,7 +16987,7 @@
   },
   {
     "id": 12784,
-    "en": "Does your cousin's daughter also like riding horses?",
+    "en": "Does the daughter of your cousin also like riding horses?",
     "de": "Reitet die Tochter von deinem Cousin auch gern?",
     "groupCode": 1
   },
@@ -17103,7 +17103,7 @@
   {
     "id": 12803,
     "en": "I heard my favorite song the day before yesterday",
-    "de": "Ich habe vorgestern mein Lieblingslied",
+    "de": "Ich habe vorgestern mein Lieblingslied gehört",
     "groupCode": 1
   },
   {
@@ -17120,13 +17120,13 @@
   },
   {
     "id": 12806,
-    "en": "Peter's son's favorite animal is the giraffe",
+    "en": "The favorite animal of Peter's son is the giraffe",
     "de": "Das Lieblingstier von Peters Sohn ist die Giraffe",
     "groupCode": 1
   },
   {
     "id": 12807,
-    "en": "A teacher spells out a word from a dictionary. Then the student can write the word correctly",
+    "en": "A teacher spells a word laud from a dictionary. Then the student can write the word correctly",
     "de": "Ein Lehrer buchstabiert ein Wort aus einem Wörterbuch laut. Dann kann der Schüler das Wort richtig schreiben",
     "groupCode": 1
   },
@@ -17235,7 +17235,7 @@
   },
   {
     "id": 12825,
-    "en": "He changes (switch) his shirt",
+    "en": "He changes (switch) the shirt",
     "de": "Er wechselt das Hemd",
     "groupCode": 1
   },
@@ -17243,6 +17243,7 @@
     "id": 12826,
     "en": "I know all the countries in the world",
     "de": "Ich kenne alle Länder der Welt",
+    "desc": "German does have “the”, but it appears as “der” in der Welt.\n\nEnglish: I know all the countries of the world\nGerman: Ich kenne alle Länder der Welt\nKey points:\nalle Länder = all (the) countries → alle already replaces “the”, so no die is needed.\nder Welt = of the world → der means “the” here (genitive case).\n\nSimple rule:\n\nalle + plural noun → no “die” needed\n“the” appears later as “der” in “der Welt.”",
     "groupCode": 1
   },
   {
@@ -17268,6 +17269,24 @@
     "id": 12830,
     "en": "Are the lamps confusing for you?",
     "de": "Sind die Lampen verwirrende für dich",
+    "groupCode": 1
+  },
+  {
+    "id": 12831,
+    "en": "I do my best",
+    "de": "Ich tue mein Bestes",
+    "groupCode": 1
+  },
+  {
+    "id": 12832,
+    "en": "(The) Smoking is prohibited in the underground car park (garage)",
+    "de": "Das Rauchen ist in der Tiefgarage verboten",
+    "groupCode": 1
+  },
+  {
+    "id": 12833,
+    "en": "Roll down the car window when you smoke",
+    "de": "Mach das Autofenster runter, wenn du rauchst",
     "groupCode": 1
   }
 ]
