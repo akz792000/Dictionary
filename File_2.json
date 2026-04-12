@@ -13634,7 +13634,7 @@
   },
   {
     "id": 12233,
-    "en": "Please change the volume down to (on) low",
+    "en": "Please change (formal) the volume down to (on) low",
     "de": "Bitte ändern Sie die Lautstärke auf leise",
     "groupCode": 1
   },
@@ -17390,6 +17390,42 @@
     "id": 12850,
     "en": "Everyone wants to stay, he is against it and wants to go",
     "de": "Alle wollen bleiben, er ist dagegen und will gehen",
+    "groupCode": 1
+  },
+  {
+    "id": 12851,
+    "en": "I take off my jacket",
+    "de": "Ich ziehe meine Jacke aus",
+    "groupCode": 1
+  },
+  {
+    "id": 12852,
+    "en": "I am moving out tomorrow",
+    "de": "Ich ziehe morgen aus",
+    "groupCode": 1
+  },
+  {
+    "id": 12853,
+    "en": "He is moving out of the apartment today",
+    "de": "Er zieht heute aus der Wohnung aus",
+    "groupCode": 1
+  },
+  {
+    "id": 12854,
+    "en": "I change my clothes.",
+    "de": "Ich ziehe mich um",
+    "groupCode": 1
+  },
+  {
+    "id": 12855,
+    "en": "I change my clothes.",
+    "de": "Ich ziehe mich um",
+    "groupCode": 1
+  },
+  {
+    "id": 12856,
+    "en": "\n 1.take off / move out \n 2.change clothes / move (relocate)",
+    "de": "\n 1.ausziehen \n 2.umziehen",
     "groupCode": 1
   }
 ]
