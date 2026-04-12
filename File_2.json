@@ -17288,5 +17288,108 @@
     "en": "Roll down the car window when you smoke",
     "de": "Mach das Autofenster runter, wenn du rauchst",
     "groupCode": 1
+  },
+  {
+    "id": 12834,
+    "en": "Let's talk about it",
+    "de": "Lass uns darüber sprechen",
+    "groupCode": 1
+  },
+  {
+    "id": 12835,
+    "en": "This topic (Theme) is important to me",
+    "de": "Dieses Thema ist mir wichtig",
+    "groupCode": 1
+  },
+  {
+    "id": 12836,
+    "en": "I don't agree with you (I am not of your opinion)",
+    "de": "Ich bin nicht deiner meinung",
+    "groupCode": 1
+  },
+  {
+    "id": 12837,
+    "en": "I received good points, which I am very happy about",
+    "de": "Ich habe gute Punkte bekommen, worüber ich mich sehr freue",
+    "groupCode": 1
+  },
+  {
+    "id": 12838,
+    "en": "What are you (plural) laughing at? We're laughing (on) at a joke",
+    "de": "Worüber Lacht ihr? Wir lachen über einen Witz",
+    "groupCode": 1
+  },
+  {
+    "id": 12839,
+    "en": "That's right, we'll come again next time",
+    "de": "Das stimmt, wir kommen nächstes Mal wieder",
+    "groupCode": 1
+  },
+  {
+    "id": 12840,
+    "en": "I congratulate you",
+    "de": "Ich gratuliere dir",
+    "groupCode": 1
+  },
+  {
+    "id": 12841,
+    "en": "We congratulate you on your birthday",
+    "de": "Wir gratulieren dir zum Geburtstag",
+    "groupCode": 1
+  },
+  {
+    "id": 12842,
+    "en": "I get fresh bread from the baker",
+    "de": "Ich hole frisches Brot vom Bäcker",
+    "desc": "Ich hole frisches Brot vom Bäcker.\n→ I get fresh bread from the baker. (general)\nIch hole frisches Brot vom Bäcker ab.\n→ I pick up fresh bread from the baker. (already ordered / ready)\n\nSimple rule:\n\nholen = get\nabholen = pick up (something waiting)",
+    "groupCode": 1
+  },
+  {
+    "id": 12843,
+    "en": "Are they in favor of sharing fries?",
+    "de": "Sind sie dafür, Pommes zu teilen?",
+    "groupCode": 1
+  },
+  {
+    "id": 12844,
+    "en": "Hot weather makes me thirsty",
+    "de": "Heißes Wetter macht mich durstig",
+    "groupCode": 1
+  },
+  {
+    "id": 12845,
+    "en": "Have you tried the delicious pear yet?",
+    "de": "Hast du schon die leckere Birne probiert?",
+    "groupCode": 1
+  },
+  {
+    "id": 12846,
+    "en": "He sits down on the chair",
+    "de": "Er setzt sich auf den Stuhl",
+    "groupCode": 1
+  },
+  {
+    "id": 12847,
+    "en": "The birds are singing in the garden",
+    "de": "Die Vögel singen im Garten",
+    "groupCode": 1
+  },
+  {
+    "id": 12848,
+    "en": "The sun is shining on your face",
+    "de": "Die Sonne scheint auf dein Gesicht",
+    "groupCode": 1
+  },
+  {
+    "id": 12849,
+    "en": "We give the birds bread",
+    "de": "Wir geben den Vögel Brot",
+    "groupCode": 1
+  },
+  {
+    "id": 12850,
+    "en": "Everyone wants to stay, he is against it and wants to go",
+    "de": "Alle wollen bleiben, er ist dagegen und will gehen",
+    "groupCode": 1
   }
 ]
