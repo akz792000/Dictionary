@@ -11879,7 +11879,7 @@
   {
     "id": 4947,
     "fa": "هر مدل هوش مصنوعی دارد یک حداکثر مقداری از متن (که) می تواند به خاطر بسپارد در یک باره (رفتن)",
-    "en": "Every AI model has a maximum amount of text it can remember in one go",
+    "en": "Every AI model has a maximum amount of text (that) it can remember in one go",
     "groupCode": 0
   },
   {
@@ -11915,7 +11915,7 @@
   },
   {
     "id": 4953,
-    "fa": "علی و من همسو شدیم درباره مسیر ادامه کار (به جلو) امروز",
+    "fa": "علی و من همسو شدیم روی یک مسیر ادامه کار (به جلو) امروز",
     "en": "Ali and I aligned on a way forward today",
     "groupCode": 0
   },
@@ -11935,6 +11935,36 @@
     "id": 4956,
     "fa": "با من مدارا کن برای یه دقیقه",
     "en": "Bear with me for a minute",
+    "groupCode": 0
+  },
+  {
+    "id": 4957,
+    "fa": "اصلاً به تخمش هم نیست",
+    "en": "He doesn't even give a shit about me",
+    "groupCode": 0
+  },
+  {
+    "id": 4958,
+    "fa": "او (مرد) مرا جدی نمی گیرد اصلاً",
+    "en": "He doesn't take me seriously at all",
+    "groupCode": 0
+  },
+  {
+    "id": 4959,
+    "fa": "RAG مخفف Retrieval Augmented Generation است. این یک نوعی از مدل هوش مصنوعی است که ترکیب می کند پردازش زبان طبیعی و یادگیری ماشین را تا تولید کند متن بر اساس اسناد موجود .",
+    "en": "RAG stands for Retrieval Augmented Generation. It's a type of AI model that combines natural language processing and machine learning to generate text based on existing documents",
+    "groupCode": 0
+  },
+  {
+    "id": 4960,
+    "fa": "او (مرد) به من گفت یه حکایت بامزه",
+    "en": "He told a funny anecdote",
+    "groupCode": 0
+  },
+  {
+    "id": 4961,
+    "fa": "من پیشنهاد می کنم (فرضی) همچنان تاریخ را نگه داریم. هر کسی که نمی تواند بیاید به دلیل اعتصابات است بیش از پیش مورد استقبال تا ملحق شود جلسه بعدی",
+    "en": "I would suggest still keeping the date. Whoever can't come due to strikes is more than welcome to join next time",
     "groupCode": 0
   }
 ]

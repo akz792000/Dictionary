@@ -6986,7 +6986,7 @@
     "id": 11147,
     "en": "I spend the evening at home. I spend a lot (much) of money",
     "de": "Ich verbringe den Abend zu Hause. Ich gebe viel Geld aus",
-    "desc": "verbringen = spend time, ausgeben = spend money \n\n\n ✅ Why Akkusativ?\n\nBecause the verb verbringen (to spend time) always takes an accusative object.\n\nYou spend what? → the evening\nWen oder was verbringe ich? → den Abend.\n\nSo:\n\nder Abend (Nominativ)\n→ den Abend (Akkusativ)",
+    "desc": "verbringen = time ⏰\nausgeben = money \uD83D\uDCB0",
     "groupCode": 1
   },
   {
@@ -11436,7 +11436,7 @@
   },
   {
     "id": 11874,
-    "en": "You're really crazy, a cake is better than cookies",
+    "en": "You're really crazy, a (layer) cake is better than cookies",
     "de": "Du spinnst wirklich, eine Torte ist besser als Kekse",
     "groupCode": 1
   },
@@ -13720,6 +13720,7 @@
     "id": 12247,
     "en": "I always sit in the front",
     "de": "Ich sitze immer vorne",
+    "desc": "Both are correct, but there’s a small nuance:\n\n✅ Ich sitze immer vorne.\n\n→ I always sit in the front.\n\nMore common in everyday speech\nRefers to a general front area (e.g., classroom, bus)\n✅ Ich sitze immer vorn.\n\n→ I always sit in front.\n\nSlightly more formal or concise\nOften used in written German or fixed expressions\nSimple rule\nvorne → more common, natural in speaking\nvorn → shorter, a bit more formal",
     "groupCode": 1
   },
   {
@@ -16227,7 +16228,7 @@
     "id": 12659,
     "en": "\n 1.Can I use your phone? \n 2.I use this method often",
     "de": "\n 1.Kann ich dein Telefon benutzen? \n 2.Ich verwende diese Methode oft",
-    "desc": "| Verb          | Meaning                        | Typical use               |\n| ------------- | ------------------------------ | ------------------------- |\n| **benutzen**  | to use something physically    | tools, objects, machines  |\n| **verwenden** | to use something for a purpose | materials, methods, ideas |\n",
+    "desc": "benutzen = to use (very common, everyday German)\nverwenden = also to use (slightly more formal)",
     "groupCode": 1
   },
   {
@@ -16743,7 +16744,7 @@
   },
   {
     "id": 12744,
-    "en": "\n 1.I follow the rules \n 2.I answer the question \n 3.I abstain from sugar \n 4.I am concentrating (myself) on the work",
+    "en": "\n 1.I pay attention the rules \n 2.I answer the question \n 3.I abstain from sugar \n 4.I am concentrating (myself) on the work",
     "de": "\n 1.Ich achte auf die Regeln \n 2.Ich antworte auf die Frage \n 3.Ich verzichte auf Zucker \n 4.Ich konzentriere mich auf die Arbeit",
     "groupCode": 1
   },
@@ -16987,7 +16988,7 @@
   },
   {
     "id": 12784,
-    "en": "Does the daughter of your cousin also like riding horses?",
+    "en": "Does the daughter of your cousin also like riding?",
     "de": "Reitet die Tochter von deinem Cousin auch gern?",
     "groupCode": 1
   },
@@ -17321,7 +17322,7 @@
   },
   {
     "id": 12839,
-    "en": "That's right, we'll come again next time",
+    "en": "That's right, we come again next time",
     "de": "Das stimmt, wir kommen nächstes Mal wieder",
     "groupCode": 1
   },
@@ -17346,7 +17347,7 @@
   },
   {
     "id": 12843,
-    "en": "Are they in favor of sharing fries?",
+    "en": "Are they in favor of sharing fries? (Are you if favor of it, fries to share)",
     "de": "Sind sie dafür, Pommes zu teilen?",
     "groupCode": 1
   },
@@ -17364,8 +17365,8 @@
   },
   {
     "id": 12846,
-    "en": "He sits down on the chair",
-    "de": "Er setzt sich auf den Stuhl",
+    "en": "\n 1.I am sitting on the table \n 2.I sit down on the table",
+    "de": "\n 1.Ich sitze auf dem Tisch \n 2.Ich setze mich auf den Tisch",
     "groupCode": 1
   },
   {
@@ -17388,7 +17389,7 @@
   },
   {
     "id": 12850,
-    "en": "Everyone wants to stay, he is against it and wants to go",
+    "en": "All (Everyone) wants to stay, he is against it and wants to go",
     "de": "Alle wollen bleiben, er ist dagegen und will gehen",
     "groupCode": 1
   },
@@ -17412,20 +17413,165 @@
   },
   {
     "id": 12854,
-    "en": "I change my clothes.",
-    "de": "Ich ziehe mich um",
+    "en": "I change (move myself out) clothes quickly",
+    "de": "Ich ziehe mich schnell um",
     "groupCode": 1
   },
   {
     "id": 12855,
-    "en": "I change my clothes.",
-    "de": "Ich ziehe mich um",
+    "en": "I'm not taking a white blouse",
+    "de": "Ich nehme keine Weiße Bluse",
     "groupCode": 1
   },
   {
     "id": 12856,
     "en": "\n 1.take off / move out \n 2.change clothes / move (relocate)",
     "de": "\n 1.ausziehen \n 2.umziehen",
+    "groupCode": 1
+  },
+  {
+    "id": 12857,
+    "en": "The result is good",
+    "de": "Das Ergebnis ist gut",
+    "groupCode": 1
+  },
+  {
+    "id": 12858,
+    "en": "We are waiting for the result",
+    "de": "Wir warten auf das Ergebnis",
+    "groupCode": 1
+  },
+  {
+    "id": 12859,
+    "en": "The wind is annoying and cold",
+    "de": "Der Wind ist nervig und kalt",
+    "groupCode": 1
+  },
+  {
+    "id": 12860,
+    "en": "The clear water",
+    "de": "Das klare Wasser",
+    "groupCode": 1
+  },
+  {
+    "id": 12861,
+    "en": "I don't like the wind",
+    "de": "Ich mag den Wind nicht",
+    "groupCode": 1
+  },
+  {
+    "id": 12862,
+    "en": "Can we try the (layer) cake now?",
+    "de": "Können wir die Torte schon probieren?",
+    "groupCode": 1
+  },
+  {
+    "id": 12863,
+    "en": "Hopefully the water is clear",
+    "de": "Hoffentlich ist das Wasser klar",
+    "groupCode": 1
+  },
+  {
+    "id": 12864,
+    "en": "We're not looking for expensive perfume",
+    "de": "Wir suchen kein teures Parfüm",
+    "groupCode": 1
+  },
+  {
+    "id": 12865,
+    "en": "I don't like the terrible color",
+    "de": "Ich mag die schreckliche Farbe nicht",
+    "groupCode": 1
+  },
+  {
+    "id": 12866,
+    "en": "I like the silver dress",
+    "de": "Ich mag das silberne Kleid",
+    "groupCode": 1
+  },
+  {
+    "id": 12867,
+    "en": "I don't like dark shirts",
+    "de": "Ich mag keine dunklen Hemden",
+    "groupCode": 1
+  },
+  {
+    "id": 12868,
+    "en": "The shirts fit perfectly",
+    "de": "Die Hemden passen perfekt",
+    "groupCode": 1
+  },
+  {
+    "id": 12869,
+    "en": "The bags are downstairs (at the bottom)",
+    "de": "Die Taschen sind unten",
+    "groupCode": 1
+  },
+  {
+    "id": 12870,
+    "en": "He doesn't wear tight pants",
+    "de": "Er trägt keine engen Hosen",
+    "groupCode": 1
+  },
+  {
+    "id": 12871,
+    "en": "I share the food",
+    "de": "Ich teile das Essen",
+    "groupCode": 1
+  },
+  {
+    "id": 12872,
+    "en": "That is common here",
+    "de": "Das ist hier üblich",
+    "groupCode": 1
+  },
+  {
+    "id": 12873,
+    "en": "Pay attention to the traffic!",
+    "de": "Achte auf den Verkehr!",
+    "groupCode": 1
+  },
+  {
+    "id": 12874,
+    "en": "I'm borrowing a book",
+    "de": "Ich leihe mir ein Buch aus",
+    "groupCode": 1
+  },
+  {
+    "id": 12875,
+    "en": "Where is the charger?",
+    "de": "Wo ist das Ladegerät?",
+    "groupCode": 1
+  },
+  {
+    "id": 12876,
+    "en": "That is an everyday problem",
+    "de": "Das ist ein alltägliches Problem",
+    "groupCode": 1
+  },
+  {
+    "id": 12877,
+    "en": "I use my computer every day",
+    "de": "Ich benutze/verwende meinen Computer jeden Tag",
+    "desc": "benutzen = to use (very common, everyday German)\nverwenden = also to use (slightly more formal)",
+    "groupCode": 1
+  },
+  {
+    "id": 12878,
+    "en": "He spends a lot of time in the office",
+    "de": "Er verbringt viel Zeit im Büro",
+    "groupCode": 1
+  },
+  {
+    "id": 12879,
+    "en": "I extend my vacation",
+    "de": "Ich verlängere meinen Urlaub",
+    "groupCode": 1
+  },
+  {
+    "id": 12880,
+    "en": "I remember you",
+    "de": "Ich erinnere mich an dich",
     "groupCode": 1
   }
 ]
