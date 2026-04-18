@@ -126,6 +126,7 @@
     "id": 3021,
     "fa": "ما نیاز داریم این پروژه را تا پایان هفته انجام بدیم (به پایان برسانیم)",
     "en": "We need to get this project done by the end of the week",
+    "desc": "get this project done → casual, conversational\ncomplete this project → formal, professional",
     "groupCode": 0
   },
   {
@@ -9866,7 +9867,7 @@
   },
   {
     "id": 4617,
-    "fa": "کار عالیه! عاشق (این) هستم چگونه تو ترکیب کردی مهارت هایت رو تا خلق کنی یک چنین راه حل نوآورانه ای. چیزهای الهام بخش – ادامه بده!",
+    "fa": "کار عالیه! عاشق (این) هستم چگونه تو ترکیب کردی مهارت هایت رو تا خلق کنی یک چنین راه حل نوآورانه ای. چیزهای الهام بخش – ادامش بده!",
     "en": "Awesome work! Love how you combined your skills to create such an innovative solution. Inspiring stuff – keep it up!",
     "groupCode": 0
   },
@@ -11951,20 +11952,50 @@
   },
   {
     "id": 4959,
-    "fa": "RAG مخفف Retrieval Augmented Generation است. این یک نوعی از مدل هوش مصنوعی است که ترکیب می کند پردازش زبان طبیعی و یادگیری ماشین را تا تولید کند متن بر اساس اسناد موجود .",
+    "fa": "RAG مخفف Retrieval Augmented Generation است. این یک نوعی از مدل هوش مصنوعی است که ترکیب می کند پردازش زبان طبیعی و یادگیری ماشین را تا تولید کند متن بر اساس اسناد موجود",
     "en": "RAG stands for Retrieval Augmented Generation. It's a type of AI model that combines natural language processing and machine learning to generate text based on existing documents",
     "groupCode": 0
   },
   {
     "id": 4960,
     "fa": "او (مرد) به من گفت یه حکایت بامزه",
-    "en": "He told a funny anecdote",
+    "en": "He told me a funny anecdote",
     "groupCode": 0
   },
   {
     "id": 4961,
-    "fa": "من پیشنهاد می کنم (فرضی) همچنان تاریخ را نگه داریم. هر کسی که نمی تواند بیاید به دلیل اعتصابات است بیش از پیش مورد استقبال تا ملحق شود جلسه بعدی",
+    "fa": "من پیشنهاد می کنم (فرضی) همچنان نگه داریم تاریخ را. هر کسی که نمی تواند بیاید به دلیل اعتصابات است بیش از پیش مورد استقبال تا ملحق شود دفعه بعدی",
     "en": "I would suggest still keeping the date. Whoever can't come due to strikes is more than welcome to join next time",
+    "groupCode": 0
+  },
+  {
+    "id": 4962,
+    "fa": "چگونه نیروی دریایی ایالات متحده می تواند (فرضی) محاصره کند بنادر ایران را و مین روب کند؟",
+    "en": "How the US Navy could blockade Iran's ports and sweep mines?",
+    "groupCode": 0
+  },
+  {
+    "id": 4963,
+    "fa": "هر وقت من می بینم اون ویدیوی قدیمی مون رو، من از خنده منفجر میشم",
+    "en": "Every time I see that old video of us, I burst into laughter",
+    "groupCode": 0
+  },
+  {
+    "id": 4964,
+    "fa": "شما می توانی انتخاب کنی واحد پول مورد نظر خود را در دستگاه خودپرداز",
+    "en": "You can choose your preferred denominations at the ATM",
+    "groupCode": 0
+  },
+  {
+    "id": 4965,
+    "fa": "جانش (مرد) در خطر است",
+    "en": "His life is in jeopardy",
+    "groupCode": 0
+  },
+  {
+    "id": 4966,
+    "fa": "پروژه در خطر است",
+    "en": "The project is in jeopardy",
     "groupCode": 0
   }
 ]

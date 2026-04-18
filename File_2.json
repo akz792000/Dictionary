@@ -16666,7 +16666,7 @@
   },
   {
     "id": 12731,
-    "en": "Have you already checked in the wallet? Was he empty?",
+    "en": "Have you already searched in the wallet? Was he empty?",
     "de": "Hast du schon im Geldbeutel gesucht, war er leer?",
     "groupCode": 1
   },
@@ -17461,7 +17461,7 @@
   },
   {
     "id": 12862,
-    "en": "Can we try the (layer) cake now?",
+    "en": "Can we try the (layer) cake already?",
     "de": "Können wir die Torte schon probieren?",
     "groupCode": 1
   },
@@ -17560,6 +17560,7 @@
     "id": 12878,
     "en": "He spends a lot of time in the office",
     "de": "Er verbringt viel Zeit im Büro",
+    "desc": "Why “viel Zeit” is correct\nZeit (time) is an uncountable noun in German.\nWith uncountable nouns, you use viel (not viele).\n\nSo:\n\nviel → for uncountable nouns\nviele → for countable plural nouns",
     "groupCode": 1
   },
   {
@@ -17572,6 +17573,67 @@
     "id": 12880,
     "en": "I remember you",
     "de": "Ich erinnere mich an dich",
+    "groupCode": 1
+  },
+  {
+    "id": 12881,
+    "en": "The book is available online",
+    "de": "Das Buch ist online erhältlich",
+    "groupCode": 1
+  },
+  {
+    "id": 12882,
+    "en": "\n 1.I am against the plan \n 2.The plan is good, but I am against it",
+    "de": "\n 1.Ich bin gegen den Plan \n 2.Der Plan ist gut, aber ich bin dagegen",
+    "groupCode": 1
+  },
+  {
+    "id": 12883,
+    "en": "That is just an excuse",
+    "de": "Das ist nur eine Ausrede",
+    "groupCode": 1
+  },
+  {
+    "id": 12884,
+    "en": "I don't believe your excuse",
+    "de": "Ich glaube dir deine Ausrede nicht",
+    "groupCode": 1
+  },
+  {
+    "id": 12885,
+    "en": "A hard pillow",
+    "de": "Ein hartes Kissen",
+    "groupCode": 1
+  },
+  {
+    "id": 12886,
+    "en": "I was very athletic then I was a child",
+    "de": "Ich war sehr sportlich als ich ein Kind war",
+    "groupCode": 1
+  },
+  {
+    "id": 12887,
+    "en": "Why am I so weak?",
+    "de": "Warum bin ich so schwach?",
+    "groupCode": 1
+  },
+  {
+    "id": 12888,
+    "en": "The door is closed",
+    "de": "Die Tür ist zu",
+    "groupCode": 1
+  },
+  {
+    "id": 12889,
+    "en": "My dinner is light",
+    "de": "Mein Abendessen ist leicht",
+    "groupCode": 1
+  },
+  {
+    "id": 12890,
+    "en": "\n 1.Withdrawal \n 2.Deposit \n 3.Account balance \n 4.Withdrawal with preferred denominations",
+    "de": "\n 1.Auszahlung \n 2.Einzahlung \n 3.Kontostand \n 4.Auszahlung mit Wunschstückelung",
+    "desc": "Auszahlung is commonly used for taking money out, especially from an ATM or bank.\nEinzahlung means putting money into an account.\nKontostand is the current amount of money in the account.\nWunschstückelung means you can choose the bill denominations (for example: €50 + €20 + €10 instead of one €100 note)",
     "groupCode": 1
   }
 ]
