@@ -6910,8 +6910,8 @@
   },
   {
     "id": 11135,
-    "en": "With whom do you want to see TV?",
-    "de": "Mit wem willst du fernsehen?",
+    "en": "\n 1.With whom do you want to see TV? \n 2.With what do you want to watch TV?",
+    "de": "\n 1.Mit wem willst du fernsehen? \n 2.Womit willst du fernsehen?",
     "groupCode": 1
   },
   {
@@ -11224,7 +11224,7 @@
   },
   {
     "id": 11839,
-    "en": "When is the freedom of expression restricted in Germany?",
+    "en": "When is the freedom of expression restricted (limited) in Germany?",
     "de": "Wann ist die Meinungsfreiheit in Deutschland eingeschränkt?",
     "groupCode": 1
   },
@@ -13152,7 +13152,7 @@
   },
   {
     "id": 12154,
-    "en": "My freedom of movement is restricted",
+    "en": "My freedom of movement is restricted (limited)",
     "de": "Meine Bewegungsfreiheit ist eingeschränkt",
     "groupCode": 1
   },
@@ -17634,6 +17634,90 @@
     "en": "\n 1.Withdrawal \n 2.Deposit \n 3.Account balance \n 4.Withdrawal with preferred denominations",
     "de": "\n 1.Auszahlung \n 2.Einzahlung \n 3.Kontostand \n 4.Auszahlung mit Wunschstückelung",
     "desc": "Auszahlung is commonly used for taking money out, especially from an ATM or bank.\nEinzahlung means putting money into an account.\nKontostand is the current amount of money in the account.\nWunschstückelung means you can choose the bill denominations (for example: €50 + €20 + €10 instead of one €100 note)",
+    "groupCode": 1
+  },
+  {
+    "id": 12891,
+    "en": "He built a house",
+    "de": "\n 1.Er hat ein Haus gebaut \n 2.Er baute ein Haus",
+    "groupCode": 1
+  },
+  {
+    "id": 12892,
+    "en": "She built a bridge",
+    "de": "Sie  eine Brücke",
+    "groupCode": 1
+  },
+  {
+    "id": 12893,
+    "en": "She builds a bridge",
+    "de": "Sie baut eine Brücke",
+    "groupCode": 1
+  },
+  {
+    "id": 12894,
+    "en": "We built a tower",
+    "de": "Wir bauten einen Turm",
+    "groupCode": 1
+  },
+  {
+    "id": 12895,
+    "en": "The service is limited",
+    "de": "Der Service ist eingeschränkt",
+    "groupCode": 1
+  },
+  {
+    "id": 12896,
+    "en": "is time is limited",
+    "de": "Seine Zeit ist eingeschränkt",
+    "groupCode": 1
+  },
+  {
+    "id": 12897,
+    "en": "I follow you",
+    "de": "Ich folge dir",
+    "groupCode": 1
+  },
+  {
+    "id": 12898,
+    "en": "The children follow their mother",
+    "de": "Die Kinder folgen ihrer Mutter",
+    "groupCode": 1
+  },
+  {
+    "id": 12899,
+    "en": "We followed the path",
+    "de": "\n 1.Wir waren dem Weg gefolgt \n 2.Wir folgten dem Weg",
+    "groupCode": 1
+  },
+  {
+    "id": 12900,
+    "en": "I lend you my pen",
+    "de": "Ich leihe dir meinen Stift",
+    "groupCode": 1
+  },
+  {
+    "id": 12901,
+    "en": "\n 1.She picks flowers \n 2.He picks up the package",
+    "de": "\n 1.Sie pflückt Blumen \n 2.Er holt das Paket ab",
+    "groupCode": 1
+  },
+  {
+    "id": 12902,
+    "en": "I turn to you (I contact you / I reach out to you)",
+    "de": "Ich wende mich an dich",
+    "groupCode": 1
+  },
+  {
+    "id": 12903,
+    "en": "I turn left",
+    "de": "Ich biege links ab",
+    "groupCode": 1
+  },
+  {
+    "id": 12904,
+    "en": "He turns right",
+    "de": "Er biegt rechts ab",
     "groupCode": 1
   }
 ]

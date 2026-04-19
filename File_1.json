@@ -253,7 +253,7 @@
   },
   {
     "id": 3042,
-    "fa": "خواهرانش به او (مرد) گفتند او خیلی پیر شده است برای تماشای کارتون ها",
+    "fa": "خواهرانش به او (مرد) گفتند او خیلی پیر شده است تا تماشا کند کارتون ها",
     "en": "Her sisters told him he was getting too old to watch cartoons",
     "groupCode": 0
   },
@@ -10233,7 +10233,7 @@
   },
   {
     "id": 4677,
-    "fa": "ما می تونیم یک تماس کوتاه معرفی داشته باشیم (بپر بالا)",
+    "fa": "ما می تونیم یک تماس سریع معرفی داشته باشیم (بپر بالا)",
     "en": "We can hop on a quick intro call",
     "desc": "Hop in یعنی بپر تو ماشین - سوار شو - بیا بالا\nHop on هم همون معنارو میده\nالبته به جز ماشین جاهای دیگه هم استفاده میشه که خودتون منظورمو می فهمید",
     "groupCode": 0
@@ -11940,7 +11940,7 @@
   },
   {
     "id": 4957,
-    "fa": "اصلاً به تخمش هم نیست",
+    "fa": "اصلاً به (تاکید) تخمش هم نیست",
     "en": "He doesn't even give a shit about me",
     "groupCode": 0
   },
@@ -11982,7 +11982,7 @@
   },
   {
     "id": 4964,
-    "fa": "شما می توانی انتخاب کنی واحد پول مورد نظر خود را در دستگاه خودپرداز",
+    "fa": "شما می توانی انتخاب کنی واحد پول (ارز) مورد نظر خود را در دستگاه خودپرداز",
     "en": "You can choose your preferred denominations at the ATM",
     "groupCode": 0
   },
@@ -11996,6 +11996,18 @@
     "id": 4966,
     "fa": "پروژه در خطر است",
     "en": "The project is in jeopardy",
+    "groupCode": 0
+  },
+  {
+    "id": 4967,
+    "fa": "این دادخواست امضا شده بود توسط روحانیون از بیش از ۲۰ فرقه پروتستان",
+    "en": "The petition was signed by clergy from over 20 Protestant denominations",
+    "groupCode": 0
+  },
+  {
+    "id": 4968,
+    "fa": "این وب سایت منتشر می کند اخبار را به سرعت",
+    "en": "The website disseminates news quickly",
     "groupCode": 0
   }
 ]
