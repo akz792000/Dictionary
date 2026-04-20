@@ -17292,7 +17292,7 @@
   },
   {
     "id": 12834,
-    "en": "Let's talk about it",
+    "en": "Let's speak about it",
     "de": "Lass uns darüber sprechen",
     "groupCode": 1
   },
@@ -17473,7 +17473,7 @@
   },
   {
     "id": 12864,
-    "en": "We're not looking for expensive perfume",
+    "en": "We're not looking for a expensive perfume",
     "de": "Wir suchen kein teures Parfüm",
     "groupCode": 1
   },
@@ -17644,8 +17644,8 @@
   },
   {
     "id": 12892,
-    "en": "She built a bridge",
-    "de": "Sie  eine Brücke",
+    "en": "The cafeteria is sometimes very crowded (full)",
+    "de": "Die Mensa ist manchmal sehr voll",
     "groupCode": 1
   },
   {
@@ -17668,7 +17668,7 @@
   },
   {
     "id": 12896,
-    "en": "is time is limited",
+    "en": "His time is limited",
     "de": "Seine Zeit ist eingeschränkt",
     "groupCode": 1
   },
@@ -17718,6 +17718,42 @@
     "id": 12904,
     "en": "He turns right",
     "de": "Er biegt rechts ab",
+    "groupCode": 1
+  },
+  {
+    "id": 12905,
+    "en": "We talk to each other",
+    "de": "Wir sprechen miteinander",
+    "groupCode": 1
+  },
+  {
+    "id": 12906,
+    "en": "They work well to each other",
+    "de": "Sie arbeiten gut miteinander",
+    "groupCode": 1
+  },
+  {
+    "id": 12907,
+    "en": "I behave calmly",
+    "de": "Ich verhalte mich ruhig",
+    "groupCode": 1
+  },
+  {
+    "id": 12908,
+    "en": "He behaves friendly",
+    "de": "Er verhält sich freundlich",
+    "groupCode": 1
+  },
+  {
+    "id": 12909,
+    "en": "I am in a good mood",
+    "de": "Ich habe gute Laune",
+    "groupCode": 1
+  },
+  {
+    "id": 12910,
+    "en": "No, the face of Lisa isn't evil at all",
+    "de": "Nein, das gesicht von Lisa ist gar nicht böse",
     "groupCode": 1
   }
 ]

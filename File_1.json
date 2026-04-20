@@ -6314,7 +6314,7 @@
   },
   {
     "id": 4033,
-    "fa": "تیم کنترل آفات مورچه ها را نابود خواهند کرد (دفع افات کردن)",
+    "fa": "تیم کنترل آفات نابود خواهند کرد (دفع افات کردن) مورچه ها را",
     "en": "The pest control team will exterminate the ants",
     "groupCode": 0
   },
@@ -10783,8 +10783,9 @@
   },
   {
     "id": 4767,
-    "fa": "آینده شرکت در خطر است، بنابراین هر (همه) تصمیمی اهمیت دارد",
+    "fa": "آینده شرکت در خطر است (در خطر از دست رفتن است)، بنابراین هر (همه) تصمیمی اهمیت دارد",
     "en": "The future of the company is at stake, so every decision matters",
+    "desc": "Brief explanation:\n\nin jeopardy → something is in danger\n(در خطر است)\nThe project is in jeopardy. ✅\nat stake → something important could be lost\n(در میان است / در خطر از دست رفتن است)\nLives are at stake. ✅",
     "groupCode": 0
   },
   {
@@ -12008,6 +12009,37 @@
     "id": 4968,
     "fa": "این وب سایت منتشر می کند اخبار را به سرعت",
     "en": "The website disseminates news quickly",
+    "groupCode": 0
+  },
+  {
+    "id": 4969,
+    "fa": "روحانیون امروز جلسه دارند",
+    "en": "The clergy are meeting today",
+    "desc": "clergy → plural meaning (group of religious leaders)\nUsually takes a plural verb in modern English\nSingular form: clergyman (male) / clergy member (gender-neutral)",
+    "groupCode": 0
+  },
+  {
+    "id": 4970,
+    "fa": "در LibreChat، حافظه است یک قابلیتی جاییکه دستیار ذخیره می کند در آن ، حقایق قابل استفاده مجدد را یا تنظیمات و می تواند استفاده کند آنها را در چت های بعدی",
+    "en": "In LibreChat, Memory is a feature where the assistant stores reusable facts or preferences and can use them in future chats",
+    "groupCode": 0
+  },
+  {
+    "id": 4971,
+    "fa": "من حسود نیستم از کسی که مسئول این خواهد بود",
+    "en": "I'm not jealous of whoever will be responsible for this",
+    "groupCode": 0
+  },
+  {
+    "id": 4972,
+    "fa": "آن جداً یک تغییر بزرگی است",
+    "en": "That's indeed a big change",
+    "groupCode": 0
+  },
+  {
+    "id": 4973,
+    "fa": "من دارم هلش می دم (به صورت ملایم/ تلنگر زدن) که بره بیرون",
+    "en": "I'm nudging him to go outside",
     "groupCode": 0
   }
 ]
