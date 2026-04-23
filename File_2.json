@@ -7538,6 +7538,7 @@
     "id": 11238,
     "en": "Please (formal) turn around (make a U-turn)",
     "de": "Bitte wenden Sie",
+    "desc": "Used when you turn 180° or change direction on the same road/path.\n\n\uD83D\uDE97 Ich wende das Auto.\n→ I turn the car around\n\uD83D\uDEB6 Bitte wenden!\n→ Please turn around / make a U-turn\n\n\uD83D\uDC49 Think: you stay on the same road, but go the other way",
     "groupCode": 1
   },
   {
@@ -8149,7 +8150,7 @@
   },
   {
     "id": 11338,
-    "en": "I give the books (to) the friends",
+    "en": "I give the friends the books",
     "de": "Ich gebe den Freunden die Bücher",
     "desc": "به اسامی در حالت جمع داتیوی یک n به انتهایشان اضافه می شود غیر از اسامی که به n و s ختم میشود",
     "groupCode": 1
@@ -15633,8 +15634,9 @@
   },
   {
     "id": 12561,
-    "en": "I turn around",
-    "de": "Ich drehe mich um",
+    "en": "\n 1.I turn around \n 2.Turn around!",
+    "de": "\n 1.Ich drehe mich um \n 2.Dreh dich um!",
+    "desc": "More general and often used for people or objects, not specifically traffic.\n\n\uD83D\uDEB6 Ich drehe mich um.\n→ I turn around (physically)\nDreh dich um!\n→ Turn around!\n\n\uD83D\uDC49 Think: just rotating your body or object",
     "groupCode": 1
   },
   {
@@ -17334,7 +17336,7 @@
   },
   {
     "id": 12841,
-    "en": "We congratulate you on your birthday",
+    "en": "We congratulate you (on the birthday) on your birthday",
     "de": "Wir gratulieren dir zum Geburtstag",
     "groupCode": 1
   },
@@ -17359,7 +17361,7 @@
   },
   {
     "id": 12845,
-    "en": "Have you tried the delicious pear yet?",
+    "en": "Have you already tried the delicious pear?",
     "de": "Hast du schon die leckere Birne probiert?",
     "groupCode": 1
   },
@@ -17656,8 +17658,8 @@
   },
   {
     "id": 12894,
-    "en": "We built a tower",
-    "de": "Wir bauten einen Turm",
+    "en": "\n 1.We build a tower \n 2.We built a big tower",
+    "de": "\n 1.Wir bauen einen Turm \n 2.Wir bauten einen großen Turm",
     "groupCode": 1
   },
   {
@@ -17687,13 +17689,14 @@
   {
     "id": 12899,
     "en": "We followed the path",
-    "de": "\n 1.Wir waren dem Weg gefolgt \n 2.Wir folgten dem Weg",
+    "de": "\n 1.Wir sind dem Weg gefolgt \n 2.Wir folgten dem Weg",
     "groupCode": 1
   },
   {
     "id": 12900,
-    "en": "I lend you my pen",
-    "de": "Ich leihe dir meinen Stift",
+    "en": "\n 1.I lend you a pen \n 2.Ich leihe mir einen Stift aus",
+    "de": "\n 1.Ich leihe dir einen Stift \n 2.Ich leihe mir einen Stift aus",
+    "desc": "| Verb          | Meaning              | Focus            |\n| ------------- | -------------------- | ---------------- |\n| **leihen**    | lend / borrow        | neutral, simple  |\n| **ausleihen** | borrow (or lend out) | temporary “loan” |\n",
     "groupCode": 1
   },
   {
@@ -17722,7 +17725,7 @@
   },
   {
     "id": 12905,
-    "en": "We talk to each other",
+    "en": "We speak to each other",
     "de": "Wir sprechen miteinander",
     "groupCode": 1
   },
@@ -17746,7 +17749,7 @@
   },
   {
     "id": 12909,
-    "en": "I am in a good mood",
+    "en": "I am in a good mood (I have good mood)",
     "de": "Ich habe gute Laune",
     "groupCode": 1
   },
@@ -17754,6 +17757,66 @@
     "id": 12910,
     "en": "No, the face of Lisa isn't evil at all",
     "de": "Nein, das gesicht von Lisa ist gar nicht böse",
+    "groupCode": 1
+  },
+  {
+    "id": 12911,
+    "en": "My future is important",
+    "de": "Meine Zukunft ist wichtig",
+    "groupCode": 1
+  },
+  {
+    "id": 12912,
+    "en": "I come not until tomorrow (only tomorrow)",
+    "de": "Ich komme erst morgen",
+    "groupCode": 1
+  },
+  {
+    "id": 12913,
+    "en": "\n 1.I have already eaten \n 2.I am still eating",
+    "de": "\n 1.Ich habe schon gegessen \n 2.Ich esse noch",
+    "groupCode": 1
+  },
+  {
+    "id": 12914,
+    "en": "I turn left at the next street",
+    "de": "Ich biege an der nächsten Straße links ab",
+    "groupCode": 1
+  },
+  {
+    "id": 12915,
+    "en": "I turn left, then I turn the car around, and I turn around",
+    "de": "Ich biege links ab, dann wende ich das Auto und drehe mich um",
+    "groupCode": 1
+  },
+  {
+    "id": 12916,
+    "en": "I lend you a book",
+    "de": "Ich verleihe dir ein Buch",
+    "groupCode": 1
+  },
+  {
+    "id": 12917,
+    "en": "Can you pronounce the word?",
+    "de": "Kannst du das Wort aussprechen?",
+    "groupCode": 1
+  },
+  {
+    "id": 12918,
+    "en": "The task requires a lot of time",
+    "de": "Die Aufgabe erfordert viel Zeit",
+    "groupCode": 1
+  },
+  {
+    "id": 12919,
+    "en": "I would like to buy tights",
+    "de": "Ich möchte eine Strumpfhose kaufen",
+    "groupCode": 1
+  },
+  {
+    "id": 12920,
+    "en": "I don't like wide pants",
+    "de": "Ich mag weite Hosen nicht",
     "groupCode": 1
   }
 ]

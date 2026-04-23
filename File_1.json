@@ -8001,7 +8001,7 @@
   },
   {
     "id": 4310,
-    "fa": "به سادگی (با) خوردن بیشتر یا کمتر بعضی غذاها میتوان کمک کرد به تاخیر انداختن (جلوگیری کرد) زوال عقل",
+    "fa": "به سادگی (با) خوردن بیشتر یا کمتر بعضی غذاها میتوان کمک کند تاخیر انداختن (جلوگیری کرد) زوال عقل",
     "en": "Simply eating more or less of certain foods can help stave off dementia /dɪˈmɛnʃiə/",
     "groupCode": 0
   },
@@ -11941,7 +11941,7 @@
   },
   {
     "id": 4957,
-    "fa": "اصلاً به (تاکید) تخمش هم نیست",
+    "fa": "او (مرد) اصلاً من به (تاکید) تخمش هم نیست",
     "en": "He doesn't even give a shit about me",
     "groupCode": 0
   },
@@ -12013,14 +12013,14 @@
   },
   {
     "id": 4969,
-    "fa": "روحانیون امروز جلسه دارند",
+    "fa": "روحانیون دارن ملاقات می کنند امروز",
     "en": "The clergy are meeting today",
     "desc": "clergy → plural meaning (group of religious leaders)\nUsually takes a plural verb in modern English\nSingular form: clergyman (male) / clergy member (gender-neutral)",
     "groupCode": 0
   },
   {
     "id": 4970,
-    "fa": "در LibreChat، حافظه است یک قابلیتی جاییکه دستیار ذخیره می کند در آن ، حقایق قابل استفاده مجدد را یا تنظیمات و می تواند استفاده کند آنها را در چت های بعدی",
+    "fa": "در LibreChat، حافظه است یک قابلیت جاییکه دستیار ذخیره می کند حقایق قابل استفاده مجدد یا ترجیحات و می تواند استفاده کند آنها را در چت های آینده",
     "en": "In LibreChat, Memory is a feature where the assistant stores reusable facts or preferences and can use them in future chats",
     "groupCode": 0
   },
@@ -12038,8 +12038,32 @@
   },
   {
     "id": 4973,
-    "fa": "من دارم هلش می دم (به صورت ملایم/ تلنگر زدن) که بره بیرون",
+    "fa": "من دارم هلش (مرد) می دم (به صورت ملایم/ تلنگر زدن) بره بیرون",
     "en": "I'm nudging him to go outside",
+    "groupCode": 0
+  },
+  {
+    "id": 4974,
+    "fa": "من مایلم جوراب شلواری بخرم",
+    "en": "I would like to buy tights",
+    "groupCode": 0
+  },
+  {
+    "id": 4975,
+    "fa": "ممنون، کار کرد",
+    "en": "Thanks, it worked",
+    "groupCode": 0
+  },
+  {
+    "id": 4976,
+    "fa": "راه اندازی محلی در حال انجام است",
+    "en": "The local setup is WIP (work in progress)",
+    "groupCode": 0
+  },
+  {
+    "id": 4977,
+    "fa": "برای اینکه ما قبلاً (در حال حاضر) تغذیه کرده ایم Azure AI Search را با نام مشابه، به نظر می رسد که وقتی همین نام استفاده شود، سیستم به درستی کار نمی کند",
+    "en": "Because we have already fed Azure AI Search with the same name, it seems that when the same name is used, the system does not work properly",
     "groupCode": 0
   }
 ]
