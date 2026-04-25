@@ -5296,8 +5296,8 @@
   },
   {
     "id": 3866,
-    "fa": "او (مرد) داره می گوزد، غرغر می کند و آروغ می زد",
-    "en": "He is farting, gurgling /ˈɡərɡ(ə)liNG/, and burping",
+    "fa": "او (مرد) داره می گوزد، زمزمه می کند، غرغر می کند و آروغ می زد",
+    "en": "He is farting, murmuring, gurgling /ˈɡərɡ(ə)liNG/, and burping",
     "groupCode": 0
   },
   {
@@ -7664,6 +7664,7 @@
     "id": 4254,
     "fa": "(با) چه کسی تماس بگیرم برای گرفتن این حق؟",
     "en": "Who do I contact to get this right?",
+    "desc": "“Whom do I contact to get this right?” → formally correct\n“Who do I contact to get this right?” → commonly used and acceptable",
     "groupCode": 0
   },
   {
@@ -10172,7 +10173,7 @@
   },
   {
     "id": 4667,
-    "fa": "من می توانم ببینم کاربرانی را که مشتریانشان دسترسی دارند به نهادهایی (که) من مدیریت می کنم، کشورشان مطابقت دارد با کشور همان نهادها یا کسانیکه متعلق اند به گروهایی که من مدیر برنامه هستم",
+    "fa": "من می توانم ببینم کاربرانی را که مشتریانشان دسترسی دارند به نهادهایی (که) من مدیریت می کنم، کشورش مطابقت دارد با کشور همان نهادها یا کسانیکه متعلق اند به گروهایی که من مدیر برنامه هستم",
     "en": "I can see users whose customers have access to the entities I manage, whose country matches the same country of those entities, or who belong to groups for which I am the application manager",
     "groupCode": 0
   },
@@ -10277,7 +10278,7 @@
   },
   {
     "id": 4684,
-    "fa": "هر وقت خواستی شما اعتماد کنی دوباره به کسی، یادت باشه که خوندن یه کتاب عوض نخواهد کرد پایان رو",
+    "fa": "هر شما خواستی تا اعتماد کنی دوباره به کسی، یادت باشه که خوندن یه کتاب عوض نخواهد کرد پایان رو",
     "en": "Whenever you want to trust someone again, remember that reading a book won't change the ending",
     "groupCode": 0
   },
@@ -12064,6 +12065,48 @@
     "id": 4977,
     "fa": "برای اینکه ما قبلاً (در حال حاضر) تغذیه کرده ایم Azure AI Search را با نام مشابه، به نظر می رسد که وقتی همین نام استفاده شود، سیستم به درستی کار نمی کند",
     "en": "Because we have already fed Azure AI Search with the same name, it seems that when the same name is used, the system does not work properly",
+    "groupCode": 0
+  },
+  {
+    "id": 4978,
+    "fa": "\n 1.من می ترسم از عنکبوت ها \n 2.من دارم یک ترسی از ربات ها",
+    "en": "\n 1.I fear spiders \n 2.I have a fear of robots",
+    "groupCode": 0
+  },
+  {
+    "id": 4979,
+    "fa": "من نیاز دارم تا کوتاه کنم موهامو",
+    "en": "I need to trim my hair",
+    "groupCode": 0
+  },
+  {
+    "id": 4980,
+    "fa": "ارسال می کند گشتاور اضافی را به پیشرانه (ماشین)",
+    "en": "It sends extra torque /tôrk/ into the drivetrain",
+    "groupCode": 0
+  },
+  {
+    "id": 4981,
+    "fa": "این ماشین برای چه کسانی مناسب است؟",
+    "en": "\n 1.Who this car is good for? \n 2.Whom this car is good for?",
+    "groupCode": 0
+  },
+  {
+    "id": 4982,
+    "fa": "یک SUV بسیار محکم، ایمن و راحت",
+    "en": "A very solid, safe, comfortable SUV",
+    "groupCode": 0
+  },
+  {
+    "id": 4983,
+    "fa": "آیا کناف مجاز است تا نگه دارد ورژن خصوصی نرم افزار خودش را و منتشر کند به روزرسانی ها را هر زمان که بخواهد، به طور مستقل از پروژه اصلی؟",
+    "en": "Is Knauf allowed to keep its own private version of the software and release updates whenever it wants, independently of the original project?",
+    "groupCode": 0
+  },
+  {
+    "id": 4984,
+    "fa": "ماشین قدیمی بالاخره از از بین رفت (نابود شد)",
+    "en": "The old car finally bit the dust",
     "groupCode": 0
   }
 ]

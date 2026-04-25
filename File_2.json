@@ -17004,6 +17004,7 @@
     "id": 12786,
     "en": "The colored pencils belong to me, not my baby",
     "de": "Die Farbstifte gehören mir, nicht meinem Baby",
+    "desc": "Stift = a general writing tool (pen or pencil)",
     "groupCode": 1
   },
   {
@@ -17694,7 +17695,7 @@
   },
   {
     "id": 12900,
-    "en": "\n 1.I lend you a pen \n 2.Ich leihe mir einen Stift aus",
+    "en": "\n 1.I lend you a pen \n 2.I borrow a pen",
     "de": "\n 1.Ich leihe dir einen Stift \n 2.Ich leihe mir einen Stift aus",
     "desc": "| Verb          | Meaning              | Focus            |\n| ------------- | -------------------- | ---------------- |\n| **leihen**    | lend / borrow        | neutral, simple  |\n| **ausleihen** | borrow (or lend out) | temporary “loan” |\n",
     "groupCode": 1
@@ -17817,6 +17818,78 @@
     "id": 12920,
     "en": "I don't like wide pants",
     "de": "Ich mag weite Hosen nicht",
+    "groupCode": 1
+  },
+  {
+    "id": 12921,
+    "en": "\n 1.Judge \n 2.Retired",
+    "de": "\n 1.Richter \n 2.Rentner",
+    "groupCode": 1
+  },
+  {
+    "id": 12922,
+    "en": "\n 1.to be canceled / fail \n 2.to resign / terminate",
+    "de": "\n 1.ausfallen \n 2.kündigen",
+    "groupCode": 1
+  },
+  {
+    "id": 12923,
+    "en": "The fathers bought a cake",
+    "de": "Die Väter haben einen Kuchen gekauft",
+    "groupCode": 1
+  },
+  {
+    "id": 12924,
+    "en": "Where is the black briefcase?",
+    "de": "Wo ist die schwarze Aktentasche?",
+    "groupCode": 1
+  },
+  {
+    "id": 12925,
+    "en": "Just a moment, I lock the door",
+    "de": "Einen Moment, ich schließe die Tür ab",
+    "groupCode": 1
+  },
+  {
+    "id": 12926,
+    "en": "I'm donating two pairs of pants and three sweaters",
+    "de": "Ich Spende zwei Hosen und drei Pullover",
+    "groupCode": 1
+  },
+  {
+    "id": 12927,
+    "en": "Wait, we must to lock the door",
+    "de": "Warte, wir müssen die Tür abschließen",
+    "groupCode": 1
+  },
+  {
+    "id": 12928,
+    "en": "I prefer to go to the cheaper restaurant",
+    "de": "Ich gehe lieber in das günstige Restaurant",
+    "groupCode": 1
+  },
+  {
+    "id": 12929,
+    "en": "I give the book back to you",
+    "de": "Ich gebe dir das Buch zurück",
+    "groupCode": 1
+  },
+  {
+    "id": 12930,
+    "en": "Can you give me my pen back?",
+    "de": "Kannst du mir meinen Stift zurückgeben?",
+    "groupCode": 1
+  },
+  {
+    "id": 12931,
+    "en": "I must return the book to the library",
+    "de": "Ich muss die Bibliothek das Buch zurückgeben",
+    "groupCode": 1
+  },
+  {
+    "id": 12932,
+    "en": "I want to donate a few things",
+    "de": "Ich will ein paar Sachen spenden",
     "groupCode": 1
   }
 ]
