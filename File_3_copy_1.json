@@ -165,12 +165,6 @@
 {
 "id": ,
 "en": "",
-"de": "Die Kommode hat vier Schubladen und Auf der Kommode steht ein Globus",
-"groupCode": 1
-},
-{
-"id": ,
-"en": "",
 "de": "Ohne Rucksack gehe ich nicht aus dem Haus",
 "groupCode": 1
 },
@@ -749,37 +743,7 @@
 "en": "Stand",
 "de": "\n stehe \n stehst \n steht \n stehen \n steht \n stehen",
 "groupCode": 1
-},
-{
-"id": 20100,
-"en": "Get up",
-"de": "\n stehe auf \n stehst auf \n steht auf \n stehen auf \n steht auf \n stehen auf",
-"groupCode": 1
-},
-{
-"id": 20101,
-"en": "Place",
-"de": "\n stelle \n stellst \n stellt \n stellen \n stellt \n stellen",
-"groupCode": 1
-},
-{
-"id": 20102,
-"en": "Require",
-"de": "\n erfordere \n erforderst \n erfordert \n erfordern \n erfordert \n erfordern",
-"groupCode": 1
-},
-{
-"id": 20103,
-"en": "Wash off, do the dishes",
-"de": "\n wasche ab \n wäschst ab \n wäscht ab \n waschen ab \n wascht ab \n waschen ab",
-"groupCode": 1
-},
-{
-"id": 20104,
-"en": "Spend",
-"de": "\n verbringe \n verbringst \n verbringt \n verbringen \n verbringt \n verbringen",
-"groupCode": 1
-},
+}
 {
 "id": 20105,
 "en": "Clean",

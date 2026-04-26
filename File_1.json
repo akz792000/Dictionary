@@ -478,7 +478,7 @@
   {
     "id": 3078,
     "fa": "بزاق من می سازد پلاک بیشتر از (مال) یک شخص معمولی",
-    "en": "My saliva /səˈlaɪvə/ makes more plaque /ˈplæk/ than a normal person's.",
+    "en": "My saliva /səˈlaɪvə/ makes more plaque /ˈplæk/ than a normal person's",
     "groupCode": 0
   },
   {
@@ -665,7 +665,7 @@
   },
   {
     "id": 3109,
-    "fa": "او (زن) با یک پزشک ازدواج کرده است.",
+    "fa": "او (زن) با یک پزشک ازدواج کرده است",
     "en": "She is married to a doctor",
     "groupCode": 0
   },
@@ -3023,7 +3023,7 @@
   {
     "id": 3492,
     "fa": "اگه من بخاطر تو اخراج شم, خیلی ناراحت خواهم شد",
-    "en": "If I get fired because of you, I'll be very upset.",
+    "en": "If I get fired because of you, I'll be very upset",
     "groupCode": 0
   },
   {
@@ -10278,7 +10278,7 @@
   },
   {
     "id": 4684,
-    "fa": "هر شما خواستی تا اعتماد کنی دوباره به کسی، یادت باشه که خوندن یه کتاب عوض نخواهد کرد پایان رو",
+    "fa": "هر زمان که شما خواستی تا اعتماد کنی به کسی دوباره، یادت باشه که خوندن یه کتاب عوض نخواهد کرد پایان رو",
     "en": "Whenever you want to trust someone again, remember that reading a book won't change the ending",
     "groupCode": 0
   },
@@ -12075,7 +12075,7 @@
   },
   {
     "id": 4979,
-    "fa": "من نیاز دارم تا کوتاه کنم موهامو",
+    "fa": "من نیاز دارم تا مرتب کنم موهامو",
     "en": "I need to trim my hair",
     "groupCode": 0
   },
@@ -12094,7 +12094,7 @@
   {
     "id": 4982,
     "fa": "یک SUV بسیار محکم، ایمن و راحت",
-    "en": "A very solid, safe, comfortable SUV",
+    "en": "A very solid, safe and comfortable SUV",
     "groupCode": 0
   },
   {
@@ -12107,6 +12107,12 @@
     "id": 4984,
     "fa": "ماشین قدیمی بالاخره از از بین رفت (نابود شد)",
     "en": "The old car finally bit the dust",
+    "groupCode": 0
+  },
+  {
+    "id": 4985,
+    "fa": "مغز شما داره  پیر می شود روزانه",
+    "en": "Your brain is aging daily",
     "groupCode": 0
   }
 ]

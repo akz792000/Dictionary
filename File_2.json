@@ -13425,7 +13425,7 @@
   },
   {
     "id": 12199,
-    "en": "I don't like (appearance or impression) the drawers, it's too small",
+    "en": "I don't like (appearance or impression) the dressers, it's too small",
     "de": "Die kommoden gefallen mir nicht, sie sind zu klein",
     "groupCode": 1
   },
@@ -14446,7 +14446,7 @@
   },
   {
     "id": 12366,
-    "en": "\n 1.The Shelf \n 2.The Drawer \n 3.The Closet",
+    "en": "\n 1.The Shelf \n 2.The Dresser \n 3.The Closet",
     "de": "\n 1.Das Regal \n 2.Die Kommode \n 3.Der Schrank",
     "groupCode": 1
   },
@@ -17289,7 +17289,7 @@
   },
   {
     "id": 12833,
-    "en": "Roll down the car window when you smoke",
+    "en": "Roll down the car window if (whenever) you smoke",
     "de": "Mach das Autofenster runter, wenn du rauchst",
     "groupCode": 1
   },
@@ -17382,6 +17382,7 @@
     "id": 12848,
     "en": "The sun is shining on your face",
     "de": "Die Sonne scheint auf dein Gesicht",
+    "desc": "auf + Akkusativ = movement/direction (onto)\nauf + Dativ = location (on)",
     "groupCode": 1
   },
   {
@@ -17738,7 +17739,7 @@
   },
   {
     "id": 12907,
-    "en": "I behave calmly",
+    "en": "I behave (formally) calmly",
     "de": "Ich verhalte mich ruhig",
     "groupCode": 1
   },
@@ -17792,7 +17793,7 @@
   },
   {
     "id": 12916,
-    "en": "I lend you a book",
+    "en": "I lend (formally) you a book",
     "de": "Ich verleihe dir ein Buch",
     "groupCode": 1
   },
@@ -17817,7 +17818,7 @@
   {
     "id": 12920,
     "en": "I don't like wide pants",
-    "de": "Ich mag weite Hosen nicht",
+    "de": "Ich mag keine weite Hosen",
     "groupCode": 1
   },
   {
@@ -17828,8 +17829,8 @@
   },
   {
     "id": 12922,
-    "en": "\n 1.to be canceled / fail \n 2.to resign / terminate",
-    "de": "\n 1.ausfallen \n 2.kündigen",
+    "en": "\n 1.to be canceled / fail \n 2.to resign / terminate \n 3.to cancel an order/booking",
+    "de": "\n 1.ausfallen \n 2.kündigen \n 3.stornieren",
     "groupCode": 1
   },
   {
@@ -17854,6 +17855,7 @@
     "id": 12926,
     "en": "I'm donating two pairs of pants and three sweaters",
     "de": "Ich Spende zwei Hosen und drei Pullover",
+    "desc": "Pullover is a noun that has the same form in singular and plural.",
     "groupCode": 1
   },
   {
@@ -17864,7 +17866,7 @@
   },
   {
     "id": 12928,
-    "en": "I prefer to go to the cheaper restaurant",
+    "en": "I prefer to go into the cheaper restaurant",
     "de": "Ich gehe lieber in das günstige Restaurant",
     "groupCode": 1
   },
@@ -17883,13 +17885,121 @@
   {
     "id": 12931,
     "en": "I must return the book to the library",
-    "de": "Ich muss die Bibliothek das Buch zurückgeben",
+    "de": "Ich muss das Buch der Bibliothek zurückgeben",
     "groupCode": 1
   },
   {
     "id": 12932,
     "en": "I want to donate a few things",
     "de": "Ich will ein paar Sachen spenden",
+    "groupCode": 1
+  },
+  {
+    "id": 12933,
+    "en": "Do we have to return the book tomorrow?",
+    "de": "Müssen wir das Buch morgen Zurückgeben?",
+    "groupCode": 1
+  },
+  {
+    "id": 12934,
+    "en": "We can't talk privately here?",
+    "de": "Wir können hier nicht Privat reden?",
+    "groupCode": 1
+  },
+  {
+    "id": 12935,
+    "en": "We only need a few cents more",
+    "de": "Wir brauchen nur ein paar Cent mehr",
+    "groupCode": 1
+  },
+  {
+    "id": 12936,
+    "en": "We must drive carefully",
+    "de": "Wir müssen vorsichtig fahren",
+    "groupCode": 1
+  },
+  {
+    "id": 12937,
+    "en": "The furniture store has pretty sofas",
+    "de": "Das Möbelhaus hat hübsche Sofas",
+    "groupCode": 1
+  },
+  {
+    "id": 12938,
+    "en": "Do you like hard chairs?",
+    "de": "Magst du harte Stühle?",
+    "groupCode": 1
+  },
+  {
+    "id": 12939,
+    "en": "It's my turn",
+    "de": "Ich bin dran",
+    "groupCode": 1
+  },
+  {
+    "id": 12940,
+    "en": "My colleagues are running late",
+    "de": "Die Kollegen sind spät dran",
+    "groupCode": 1
+  },
+  {
+    "id": 12941,
+    "en": "He needs more drawers for his things",
+    "de": "Er braucht mehr Schubladen für seine Sachen",
+    "groupCode": 1
+  },
+  {
+    "id": 12942,
+    "en": "The dresser has four drawers and on the dresser stands a globe",
+    "de": "Die Kommode hat vier Schubladen und Auf der Kommode steht ein Globus",
+    "groupCode": 1
+  },
+  {
+    "id": 12943,
+    "en": "The table looks stupid",
+    "de": "Der Tisch sieht blöd aus",
+    "groupCode": 1
+  },
+  {
+    "id": 12944,
+    "en": "What do you think of this sofa?",
+    "de": "Was meinst du zu diesem Sofa?",
+    "groupCode": 1
+  },
+  {
+    "id": 12945,
+    "en": "This is a colorful blanket",
+    "de": "Das ist eine bunte Decke",
+    "groupCode": 1
+  },
+  {
+    "id": 12946,
+    "en": "\n 1.A stable table \n 2.The narrow table",
+    "de": "\n 1.Ein stabiler Tisch \n 2.Der schmale Tisch",
+    "groupCode": 1
+  },
+  {
+    "id": 12947,
+    "en": "Tje Tickets are starting today immediately available",
+    "de": "Die Tickets sind ab heute sofort erhältlich",
+    "groupCode": 1
+  },
+  {
+    "id": 12948,
+    "en": "She spends little money",
+    "de": "Sie gibt wenig Geld aus",
+    "groupCode": 1
+  },
+  {
+    "id": 12949,
+    "en": "The children behave very well in the restaurant because their parents taught them how to behave properly",
+    "de": "Die Kinder benehmen sich im Restaurant sehr gut, weil ihre Eltern ihnen beigebracht haben, wie man sich richtig verhält",
+    "groupCode": 1
+  },
+  {
+    "id": 12950,
+    "en": "How he behaves in stressful situations shows that he can stay very calm and professional",
+    "de": "Wie er sich in stressigen Situationen verhält, zeigt, dass er sehr ruhig und professionell bleiben kann",
     "groupCode": 1
   }
 ]
