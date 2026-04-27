@@ -17962,8 +17962,8 @@
   },
   {
     "id": 12944,
-    "en": "What do you think of this sofa?",
-    "de": "Was meinst du zu diesem Sofa?",
+    "en": "What do you mean by that (about that)?",
+    "de": "Was meinst du dazu?",
     "groupCode": 1
   },
   {
@@ -17980,7 +17980,7 @@
   },
   {
     "id": 12947,
-    "en": "Tje Tickets are starting today immediately available",
+    "en": "The Tickets are (starting) from today immediately available",
     "de": "Die Tickets sind ab heute sofort erhältlich",
     "groupCode": 1
   },
@@ -17993,13 +17993,31 @@
   {
     "id": 12949,
     "en": "The children behave very well in the restaurant because their parents taught them how to behave properly",
-    "de": "Die Kinder benehmen sich im Restaurant sehr gut, weil ihre Eltern ihnen beigebracht haben, wie man sich richtig verhält",
+    "de": "Die Kinder benehmen sich im Restaurant sehr gut weil ihre Eltern ihnen beigebracht haben, wie man sich richtig verhält",
     "groupCode": 1
   },
   {
     "id": 12950,
     "en": "How he behaves in stressful situations shows that he can stay very calm and professional",
-    "de": "Wie er sich in stressigen Situationen verhält, zeigt, dass er sehr ruhig und professionell bleiben kann",
+    "de": "Wie er sich in stressigen Situationen verhält zeigt dass er sehr ruhig und professionell bleiben kann",
+    "groupCode": 1
+  },
+  {
+    "id": 12951,
+    "en": "No problem. Say me which day you want to come?",
+    "de": "Ja kein Problem. Sag mir welcher Tag du kommen willst?",
+    "groupCode": 1
+  },
+  {
+    "id": 12952,
+    "en": "Then I come tomorrow between 4:00 and 4:15 pm",
+    "de": "Dann komme ich morgen zwischen 16:00 und 16:15 Uhr",
+    "groupCode": 1
+  },
+  {
+    "id": 12953,
+    "en": "Then I come on Wednesday between 5:00 and 5:15 pm. Is that okay?",
+    "de": "Dann komme ich am Mittwoch zwischen 17:00 und 17:15 Uhr. Is dat gut?",
     "groupCode": 1
   }
 ]

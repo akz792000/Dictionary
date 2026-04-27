@@ -12111,8 +12111,26 @@
   },
   {
     "id": 4985,
-    "fa": "مغز شما داره  پیر می شود روزانه",
+    "fa": "مغز شما داره پیر می شود روزانه",
     "en": "Your brain is aging daily",
+    "groupCode": 0
+  },
+  {
+    "id": 4986,
+    "fa": "من دوباره گول خوردم",
+    "en": "I just got duped again",
+    "groupCode": 0
+  },
+  {
+    "id": 4987,
+    "fa": "یک اسباب بازی پروانه ای که می درخشد و پرواز می کند مثل اینکه زنده است",
+    "en": "A butterfly toy that glows and flies like it's alive",
+    "groupCode": 0
+  },
+  {
+    "id": 4988,
+    "fa": "من خریدم یک بسط دهنده کوچک شیر آب",
+    "en": "I bought a little faucet extender",
     "groupCode": 0
   }
 ]
