@@ -2916,6 +2916,7 @@
     "id": 10477,
     "en": "No, my roommate (male) never has time. I have to clean the apartment without my roommate (male)",
     "de": "Nein, mein Mitbewohner hat nie Zeit. Ich muss ohne meinen Mitbewohner die Wohnung putzen",
+    "desc": "So you need:\nder Mitbewohner → den Mitbewohner (accusative singular)\n\n“meinen Mitbewohnern” is dative plural, so it doesn’t fit.",
     "groupCode": 1
   },
   {
@@ -16812,7 +16813,7 @@
   },
   {
     "id": 12755,
-    "en": "The carpet is only available online",
+    "en": "The carpet is only available (get/buy) online",
     "de": "Der Teppich ist nur online erhältlich",
     "desc": "erhältlich → you can get/buy/obtain it somewhere\nverfügbar → it is available / free / accessible",
     "groupCode": 1
@@ -17581,7 +17582,7 @@
   },
   {
     "id": 12881,
-    "en": "The book is available online",
+    "en": "The book is available (get/buy) online",
     "de": "Das Buch ist online erhältlich",
     "groupCode": 1
   },
@@ -17739,13 +17740,13 @@
   },
   {
     "id": 12907,
-    "en": "I behave (formally) calmly",
+    "en": "I behave (general behavior) calmly",
     "de": "Ich verhalte mich ruhig",
     "groupCode": 1
   },
   {
     "id": 12908,
-    "en": "He behaves friendly",
+    "en": "He behaves (general behavior) friendly",
     "de": "Er verhält sich freundlich",
     "groupCode": 1
   },
@@ -17811,7 +17812,7 @@
   },
   {
     "id": 12919,
-    "en": "I would like to buy tights",
+    "en": "I would like to buy (a) tights",
     "de": "Ich möchte eine Strumpfhose kaufen",
     "groupCode": 1
   },
@@ -17980,7 +17981,7 @@
   },
   {
     "id": 12947,
-    "en": "The Tickets are (starting) from today immediately available",
+    "en": "The Tickets are (starting) from today immediately available (get/buy)",
     "de": "Die Tickets sind ab heute sofort erhältlich",
     "groupCode": 1
   },
@@ -17992,20 +17993,21 @@
   },
   {
     "id": 12949,
-    "en": "The children behave very well in the restaurant because their parents taught them how to behave properly",
+    "en": "The children behave very well in the restaurant because their parents taught them how to behave (general behavior) properly",
     "de": "Die Kinder benehmen sich im Restaurant sehr gut weil ihre Eltern ihnen beigebracht haben, wie man sich richtig verhält",
     "groupCode": 1
   },
   {
     "id": 12950,
-    "en": "How he behaves in stressful situations shows that he can stay very calm and professional",
+    "en": "How he behaves (general behavior) in stressful situations shows that he can stay very calm and professional",
     "de": "Wie er sich in stressigen Situationen verhält zeigt dass er sehr ruhig und professionell bleiben kann",
     "groupCode": 1
   },
   {
     "id": 12951,
-    "en": "No problem. Say me which day you want to come?",
-    "de": "Ja kein Problem. Sag mir welcher Tag du kommen willst?",
+    "en": "No problem. Say me on which day you would like to come?",
+    "de": "Kein Problem. Sag mir, an welchem Tag du kommen möchtest",
+    "desc": "In a subordinate clause (after words like dass, weil, wann, welcher, etc.), the verb goes to the end.",
     "groupCode": 1
   },
   {
@@ -18018,6 +18020,121 @@
     "id": 12953,
     "en": "Then I come on Wednesday between 5:00 and 5:15 pm. Is that okay?",
     "de": "Dann komme ich am Mittwoch zwischen 17:00 und 17:15 Uhr. Is dat gut?",
+    "groupCode": 1
+  },
+  {
+    "id": 12954,
+    "en": "He means (thinks), the desk is too expensive",
+    "de": "Er meint, der Schreibtisch ist zu teuer",
+    "groupCode": 1
+  },
+  {
+    "id": 12955,
+    "en": "Is the table available (get/buy) in blue?",
+    "de": "Ist der Tisch in Blau erhältlich?",
+    "groupCode": 1
+  },
+  {
+    "id": 12956,
+    "en": "No modern lamp fits here",
+    "de": "Keine moderne Lampe passt hier",
+    "groupCode": 1
+  },
+  {
+    "id": 12957,
+    "en": "Are these sofas available (get/buy) in other colors?",
+    "de": "Sind diese Sofas in anderen Farben erhältlich?",
+    "groupCode": 1
+  },
+  {
+    "id": 12958,
+    "en": "I like the furniture at the front better",
+    "de": "Ich mag die Möbel vorn besser",
+    "groupCode": 1
+  },
+  {
+    "id": 12959,
+    "en": "I am patient",
+    "de": "Ich bin geduldig",
+    "groupCode": 1
+  },
+  {
+    "id": 12960,
+    "en": "The teacher is very patient",
+    "de": "Der Lehrer ist sehr geduldig",
+    "groupCode": 1
+  },
+  {
+    "id": 12961,
+    "en": "Why don't you unpack right away?",
+    "de": "Warum packst du nicht gleich aus?",
+    "groupCode": 1
+  },
+  {
+    "id": 12962,
+    "en": "I unpack the present",
+    "de": "Ich packe das Geschenk aus",
+    "groupCode": 1
+  },
+  {
+    "id": 12963,
+    "en": "We unpack the things",
+    "de": "Wir packen die Sachen aus",
+    "groupCode": 1
+  },
+  {
+    "id": 12964,
+    "en": "We went (make) on many excursions",
+    "de": "Wir haben viele Ausflüge gemacht",
+    "groupCode": 1
+  },
+  {
+    "id": 12965,
+    "en": "Grandma, all tables are the same. I'm tired. I wait outside",
+    "de": "Oma, alle Tische sind gleich. Ich bin müde. Ich warte draußen",
+    "groupCode": 1
+  },
+  {
+    "id": 12966,
+    "en": "She immediately sits down on the new sofa",
+    "de": "Sie setzt sich sofort auf das neue Sofa",
+    "groupCode": 1
+  },
+  {
+    "id": 12967,
+    "en": "We need sticky notes and paper for our new office",
+    "de": "Wir brauchen Notizzettel und Papier für unser neues Büro",
+    "groupCode": 1
+  },
+  {
+    "id": 12968,
+    "en": "Can I buy the note paper?",
+    "de": "Kann ich den Notizzettel kaufen?",
+    "desc": "Notiz = note\nZettel = small piece of paper / slip",
+    "groupCode": 1
+  },
+  {
+    "id": 12969,
+    "en": "I need more note paper",
+    "de": "Ich brauche mehr Notizzettel",
+    "groupCode": 1
+  },
+  {
+    "id": 12970,
+    "en": "The towels are lying on the shelf",
+    "de": "Die Handtücher liegen auf dem Regal",
+    "groupCode": 1
+  },
+  {
+    "id": 12971,
+    "en": "Without a receipt, I can't return the shirt",
+    "de": "Ohne Kassenbon kann, ich das Hemd nicht zurückgeben",
+    "groupCode": 1
+  },
+  {
+    "id": 12972,
+    "en": "\n 1.under \n 2.downward / down (movement)",
+    "de": "\n 1.unter \n 2.hinunter",
     "groupCode": 1
   }
 ]

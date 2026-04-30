@@ -71,9 +71,8 @@
   },
   {
     "id": 20011,
-    "en": "To behave",
-    "de": "sich benehmen",
-    "desc": "Präsens\n\nbenehme mich, benimmst dich, benimmt sich, benehmen uns, benehmt euch, benehmen sich\n\nPräteritum\n\nbenahm mich, benahmst dich, benahm sich, benahmen uns, benahmt euch, benahmen sich\n\nPerfekt\n\nhabe mich benommen, hast dich benommen, hat sich benommen, haben uns benommen, habt euch benommen, haben sich benommen\n\nPlusquamperfekt\n\nhatte mich benommen, hattest dich benommen, hatte sich benommen, hatten uns benommen, hattet euch benommen, hatten sich benommen\n\nFutur I\n\nwerde mich benehmen, wirst dich benehmen, wird sich benehmen, werden uns benehmen, werdet euch benehmen, werden sich benehmen\n\nFutur II\n\nwerde mich benommen haben, wirst dich benommen haben, wird sich benommen haben, werden uns benommen haben, werdet euch benommen haben, werden sich benommen haben",
+    "en": "Answer (Dativ)",
+    "de": "\n antwort \n antwortest \n antwortet \n antworten \n antwortet \n antworten",
     "groupCode": 1
   },
   {
@@ -104,6 +103,30 @@
     "id": 20016,
     "en": "Spend",
     "de": "\n verbringe \n verbringst \n verbringt \n verbringen \n verbringt \n verbringen",
+    "groupCode": 1
+  },
+  {
+    "id": 20017,
+    "en": "Read",
+    "de": "\n lese \n liest \n liest \n lesen \n lest \n lesen",
+    "groupCode": 1
+  },
+  {
+    "id": 20018,
+    "en": "Complete",
+    "de": "\n ergänze \n ergänzt \n ergänzt \n ergänzen \n ergänzt \n ergänzen",
+    "groupCode": 1
+  },
+  {
+    "id": 20019,
+    "en": "Register",
+    "de": "\n melde an \n meldest an \n meldet an \n melden an \n meldet an \n melden an",
+    "groupCode": 1
+  },
+  {
+    "id": 20020,
+    "en": "Behave",
+    "de": "\n benehme mich \n benimmst dich \n benimmt sich \n benehmen uns \n benehmt euch \n benehmen sich",
     "groupCode": 1
   }
 ]

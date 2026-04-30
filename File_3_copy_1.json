@@ -259,24 +259,6 @@
 "groupCode": 1
 },
 {
-"id": 20009,
-"en": "Read",
-"de": "\n lese \n liest \n liest \n lesen \n lest \n lesen",
-"groupCode": 1
-},
-{
-"id": 20010,
-"en": "Complete",
-"de": "\n ergänze \n ergänzt \n ergänzt \n ergänzen \n ergänzt \n ergänzen",
-"groupCode": 1
-},
-{
-"id": 20011,
-"en": "Register",
-"de": "\n melde an \n meldest an \n meldet an \n melden an \n meldet an \n melden an",
-"groupCode": 1
-},
-{
 "id": 20012,
 "en": "Write",
 "de": "\n schreibe \n schreibst \n schreibt \n schreiben \n schreibt \n schreiben",
@@ -286,12 +268,6 @@
 "id": 20013,
 "en": "Ask",
 "de": "\n frage \n fragst \n fragt \n fragen \n fragt \n fragen",
-"groupCode": 1
-},
-{
-"id": 20014,
-"en": "Answer (Dativ)",
-"de": "\n antwort \n antwortest \n antwortet \n antworten \n antwortet \n antworten",
 "groupCode": 1
 },
 {
