@@ -16735,8 +16735,8 @@
   },
   {
     "id": 12742,
-    "en": "I brought my car there the day before yesterday to have the engine checked and the flat tire repaired. I just wanted to ask if I can pick up my car today",
-    "de": "Ich habe mein Auto vorgestern dorthin gebracht, um den Motor zu überprüfen und den platten Reifen zu reparieren. Ich wollte nur fragen, ob ich mein Auto heute abholen kann",
+    "en": "I brought my car there the day before yesterday to have the engine checked and the flat tire repaired. I just wanted to ask whether I can pick up my car today",
+    "de": "Ich habe mein Auto vorgestern dorthin gebracht, um den Motor zu überprüfen und den platten Reifen zu reparieren. Ich wollte nur fragen ob ich mein Auto heute abholen kann",
     "groupCode": 1
   },
   {
@@ -17246,7 +17246,7 @@
   },
   {
     "id": 12826,
-    "en": "I know all the countries in the world",
+    "en": "I know all countries in the world",
     "de": "Ich kenne alle Länder der Welt",
     "desc": "German does have “the”, but it appears as “der” in der Welt.\n\nEnglish: I know all the countries of the world\nGerman: Ich kenne alle Länder der Welt\nKey points:\nalle Länder = all (the) countries → alle already replaces “the”, so no die is needed.\nder Welt = of the world → der means “the” here (genitive case).\n\nSimple rule:\n\nalle + plural noun → no “die” needed\n“the” appears later as “der” in “der Welt.”",
     "groupCode": 1
@@ -17430,8 +17430,8 @@
   },
   {
     "id": 12856,
-    "en": "\n 1.take off / move out \n 2.change clothes / move (relocate)",
-    "de": "\n 1.ausziehen \n 2.umziehen",
+    "en": "\n 1.take off (clothes you wear) / move out \n 2.change clothes / move (relocate) \n 3.take off (hat, accessory)",
+    "de": "\n 1.ausziehen \n 2.umziehen \n 3.abnehmen",
     "groupCode": 1
   },
   {
@@ -18128,13 +18128,62 @@
   {
     "id": 12971,
     "en": "Without a receipt, I can't return the shirt",
-    "de": "Ohne Kassenbon kann, ich das Hemd nicht zurückgeben",
+    "de": "Ohne einen Kassenbon, kann ich das Hemd nicht zurückgeben",
+    "desc": "der Kassenbon\nder Kassenzettel \n\n\n Kassenbon = standard, what you’ll hear at checkout\nKassenzettel = informal, everyday way to say it",
     "groupCode": 1
   },
   {
     "id": 12972,
-    "en": "\n 1.under \n 2.downward / down (movement)",
-    "de": "\n 1.unter \n 2.hinunter",
+    "en": "\n 1.under (position no movement) \n 2.downward (movement down - more precise) \n 3.movement down (casual, everyday)",
+    "de": "\n 1.unter \n 2.hinunter \n 3.runter",
+    "groupCode": 1
+  },
+  {
+    "id": 12973,
+    "en": "\n 1.Why don't you take off your hat? \n 2.I take off my jacket",
+    "de": "\n 1.Warum nimmst du deinen Hut nicht ab? \n 2.Ich ziehe meine Jacke aus",
+    "groupCode": 1
+  },
+  {
+    "id": 12974,
+    "en": "Help with the luggage",
+    "de": "Hilf mit dem Gepäck",
+    "groupCode": 1
+  },
+  {
+    "id": 12975,
+    "en": "Do you have both addresses?",
+    "de": "Haben Sie beide Adressen?",
+    "groupCode": 1
+  },
+  {
+    "id": 12976,
+    "en": "Take a nap every day",
+    "de": "Macht täglich ein Nickerchen",
+    "groupCode": 1
+  },
+  {
+    "id": 12977,
+    "en": "Happy Birthday!",
+    "de": "Alles Gute zum Geburtstag!",
+    "groupCode": 1
+  },
+  {
+    "id": 12978,
+    "en": "My favorite poster is hanging (at) on the door",
+    "de": "Mein Lieblingsposter hängt an der Tür",
+    "groupCode": 1
+  },
+  {
+    "id": 12979,
+    "en": "Why is your purse (handbag) hanging (at) on the door?",
+    "de": "Warum hängt deine Handtasche an der Tür?",
+    "groupCode": 1
+  },
+  {
+    "id": 12980,
+    "en": "I find a colorful blanket beautiful",
+    "de": "Ich finde eine bunte Decke schön",
     "groupCode": 1
   }
 ]

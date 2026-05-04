@@ -4377,7 +4377,7 @@
   },
   {
     "id": 3715,
-    "fa": "من در ارتباط خواهم بود با تیم برای نهایی کردن طرح",
+    "fa": "من در ارتباط خواهم بود با تیم تا نهایی کنم طرح را",
     "en": "I'll liaise with the team to finalize the plan",
     "groupCode": 0
   },
@@ -12155,6 +12155,24 @@
     "id": 4992,
     "fa": "لپ تاپ خوب است، اما معامله خوبی نیست",
     "en": "The laptop is good, but it's not a bargain",
+    "groupCode": 0
+  },
+  {
+    "id": 4993,
+    "fa": "من گذاشتم شیر را داخل گاری خرید",
+    "en": "I put the milk in the shopping cart",
+    "groupCode": 0
+  },
+  {
+    "id": 4994,
+    "fa": "چسب مرهم لب - شما فقط بچرخانید پایین تا بالا بیاید مرهم و بکار بندیدش مستقیماً به لب ها",
+    "en": "Lip balm stick – You just twist the bottom to raise the balm and apply it directly to the lips",
+    "groupCode": 0
+  },
+  {
+    "id": 4995,
+    "fa": "وجود نخواهد داشت دیگه هیچ انحرافی",
+    "en": "There will be no drift anymore",
     "groupCode": 0
   }
 ]
