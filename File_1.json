@@ -9622,7 +9622,7 @@
   {
     "id": 4576,
     "fa": "تغییر بده (شیفت) اهرم دنده را به (دنده) عقب",
-    "en": "Shift the gear lever to reverse",
+    "en": "Shift the gear lever into reverse",
     "groupCode": 0
   },
   {
@@ -10845,8 +10845,8 @@
   },
   {
     "id": 4777,
-    "fa": "قبول نکنید مسئولیت های بیشتری را که شما می توانید هندل کنید",
-    "en": "Don't take on more responsibilities that you can handle",
+    "fa": "برعهده نگیرید مسئولیت های بیشتری را از شما می توانید هندل کنید",
+    "en": "Don't take on more responsibilities than you can handle",
     "groupCode": 0
   },
   {
@@ -12087,8 +12087,8 @@
   },
   {
     "id": 4981,
-    "fa": "این ماشین برای چه کسانی مناسب است؟",
-    "en": "\n 1.Who this car is good for? \n 2.Whom this car is good for?",
+    "fa": "این ماشین برای چه کسانی خوب است؟",
+    "en": "\n 1.Who is this car good for? \n 2.Whom is this car good for?",
     "groupCode": 0
   },
   {
@@ -12141,7 +12141,7 @@
   },
   {
     "id": 4990,
-    "fa": "من نمی خواهم تا بگیرم شکایتی کدامشان از هر یک از آنها",
+    "fa": "من نمی خواهم بگیرم شکایتی از هر یک از آنها",
     "en": "I don't want to get complaints from any of them",
     "groupCode": 0
   },
@@ -12173,6 +12173,36 @@
     "id": 4995,
     "fa": "وجود نخواهد داشت دیگه هیچ انحرافی",
     "en": "There will be no drift anymore",
+    "groupCode": 0
+  },
+  {
+    "id": 4996,
+    "fa": "جوجه داره درمیاد از تخم",
+    "en": "The chick is hatching from the egg",
+    "groupCode": 0
+  },
+  {
+    "id": 4997,
+    "fa": "مرغ یک تخم می گذارد",
+    "en": "The chicken lays an egg",
+    "groupCode": 0
+  },
+  {
+    "id": 4998,
+    "fa": "امتحان مردود می شدی اگر قوانین رعایت نمی شد",
+    "en": "The exam would be failed if the rules were not followed",
+    "groupCode": 0
+  },
+  {
+    "id": 4999,
+    "fa": "ربطی نداره به تخصص یک فرد",
+    "en": "It is not related to the expertise of a person",
+    "groupCode": 0
+  },
+  {
+    "id": 5000,
+    "fa": "لاستیک قرار می گیرد (فیت) کاملاً روی رینگ",
+    "en": "The tire fits perfectly on the rim",
     "groupCode": 0
   }
 ]

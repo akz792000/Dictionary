@@ -14865,6 +14865,7 @@
     "id": 12435,
     "en": "You have already started the motor (engine)",
     "de": "Du hast den Motor schon gestartet",
+    "desc": "schon before verb phrase (hast schon gestartet) → more natural flow in many cases\nschon before object (schon den Motor) → slightly more emphasis on “already”",
     "groupCode": 1
   },
   {
@@ -17498,6 +17499,7 @@
     "id": 12867,
     "en": "I don't like dark shirts",
     "de": "Ich mag keine dunklen Hemden",
+    "desc": "In plural, after keine, adjectives take -en",
     "groupCode": 1
   },
   {
@@ -17516,6 +17518,7 @@
     "id": 12870,
     "en": "He doesn't wear tight pants",
     "de": "Er trägt keine engen Hosen",
+    "desc": "In plural, after keine, adjectives take -en",
     "groupCode": 1
   },
   {
@@ -17824,8 +17827,8 @@
   },
   {
     "id": 12921,
-    "en": "\n 1.Judge \n 2.Retired",
-    "de": "\n 1.Richter \n 2.Rentner",
+    "en": "\n 1.Judge \n 2.Retired \n 3.Waiter \n 4.Lawyer",
+    "de": "\n 1.Richter \n 2.Rentner \n 3.Kellner \n 4.Anwalt",
     "groupCode": 1
   },
   {
@@ -18050,6 +18053,7 @@
     "id": 12958,
     "en": "I like the furniture at the front better",
     "de": "Ich mag die Möbel vorn besser",
+    "desc": "| German         | English                 |\n| -------------- | ----------------------- |\n| die Möbel      | furniture (uncountable) |\n| ein Möbelstück | a piece of furniture    |\n",
     "groupCode": 1
   },
   {
@@ -18127,8 +18131,8 @@
   },
   {
     "id": 12971,
-    "en": "Without a receipt, I can't return the shirt",
-    "de": "Ohne einen Kassenbon, kann ich das Hemd nicht zurückgeben",
+    "en": "Without a receipt I can't return the shirt",
+    "de": "Ohne einen Kassenbon kann ich das Hemd nicht zurückgeben",
     "desc": "der Kassenbon\nder Kassenzettel \n\n\n Kassenbon = standard, what you’ll hear at checkout\nKassenzettel = informal, everyday way to say it",
     "groupCode": 1
   },
@@ -18152,7 +18156,7 @@
   },
   {
     "id": 12975,
-    "en": "Do you have both addresses?",
+    "en": "Do you (formal) have both addresses?",
     "de": "Haben Sie beide Adressen?",
     "groupCode": 1
   },
@@ -18184,6 +18188,67 @@
     "id": 12980,
     "en": "I find a colorful blanket beautiful",
     "de": "Ich finde eine bunte Decke schön",
+    "groupCode": 1
+  },
+  {
+    "id": 12981,
+    "en": "She's looking for a recipe",
+    "de": "Sie sucht ein Rezept",
+    "groupCode": 1
+  },
+  {
+    "id": 12982,
+    "en": "Nobody has sent me a card",
+    "de": "Niemand hat mir eine Karte geschickt",
+    "groupCode": 1
+  },
+  {
+    "id": 12983,
+    "en": "I found an egg on the floor",
+    "de": "Ich habe ein Ei auf dem Boden gefunden",
+    "groupCode": 1
+  },
+  {
+    "id": 12984,
+    "en": "The fish died in the summer",
+    "de": "Der Fisch ist im Sommer gestorben",
+    "groupCode": 1
+  },
+  {
+    "id": 12985,
+    "en": "My mother became a teacher",
+    "de": "Meine Mutter ist Lehrerin geworden",
+    "groupCode": 1
+  },
+  {
+    "id": 12986,
+    "en": "She's packing her bag, but he's not ready yet",
+    "de": "Sie packt ihre Tasche, er ist dagegen noch nicht bereit",
+    "groupCode": 1
+  },
+  {
+    "id": 12987,
+    "en": "Has anyone found my cookies?",
+    "de": "Hat jemand meine Kekse gefunden?",
+    "groupCode": 1
+  },
+  {
+    "id": 12988,
+    "en": "I see milk everywhere",
+    "de": "Ich sehe überall milch",
+    "groupCode": 1
+  },
+  {
+    "id": 12989,
+    "en": "Did Mom see anyone?",
+    "de": "Hat mama jemanden gesehen?",
+    "desc": "jemand = nominative (subject = “someone”)\njemanden = accusative (object = “someone”)",
+    "groupCode": 1
+  },
+  {
+    "id": 12990,
+    "en": "Sugar is everywhere",
+    "de": "Der Zucker ist überall",
     "groupCode": 1
   }
 ]
