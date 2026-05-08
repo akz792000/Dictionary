@@ -6481,6 +6481,7 @@
     "id": 4060,
     "fa": "باید واریز شود به حساب شما در طی 7 تا 12 روز کاری",
     "en": "It should be credited to your account in 7-12 business days",
+    "desc": "We use credited to an account, not “credited into.”",
     "groupCode": 0
   },
   {
@@ -12189,7 +12190,7 @@
   },
   {
     "id": 4998,
-    "fa": "امتحان مردود می شدی اگر قوانین رعایت نمی شد",
+    "fa": "امتحان مردود می شد اگر قوانین رعایت نمی شد",
     "en": "The exam would be failed if the rules were not followed",
     "groupCode": 0
   },
@@ -12201,8 +12202,44 @@
   },
   {
     "id": 5000,
-    "fa": "لاستیک قرار می گیرد (فیت) کاملاً روی رینگ",
+    "fa": "لاستیک قرار می گیرد (فیت) به طور عالی روی رینگ",
     "en": "The tire fits perfectly on the rim",
+    "groupCode": 0
+  },
+  {
+    "id": 5001,
+    "fa": "کدام مرحله ایجاد می کند (فرضی) بیشترین اثرِ زنجیره ای را در مراحل بعدی (پایین رود)؟",
+    "en": "Which stage would create the biggest ripple effect downstream?",
+    "groupCode": 0
+  },
+  {
+    "id": 5002,
+    "fa": "اثر موجی (آرام و کوچک) معنی میدهد یک واکنش زنجیره ای - یک چیز کوچک باعث می شود اثرات بعدی زیادی",
+    "en": "A ripple effect means a chain reaction — one small thing causes many later effects",
+    "groupCode": 0
+  },
+  {
+    "id": 5003,
+    "fa": "آن موتور قدیمی صدا می داد مانند او (بی صبرانه می خواست) داشت درد می کشید برای بازنشستگی",
+    "en": "That old engine sounded like it was aching for retirement",
+    "groupCode": 0
+  },
+  {
+    "id": 5004,
+    "fa": "او (بی صبرانه می خواست) داشت درد می کشید تا او را ببیند",
+    "en": "She was aching to see him",
+    "groupCode": 0
+  },
+  {
+    "id": 5005,
+    "fa": "شما میدانید تمرین را",
+    "en": "You know the drill",
+    "groupCode": 0
+  },
+  {
+    "id": 5006,
+    "fa": "من گذاشتم خمیر دندان را روی مسواکم",
+    "en": "I put toothpaste on my toothbrush",
     "groupCode": 0
   }
 ]
