@@ -268,7 +268,7 @@
   {
     "id": 45,
     "fa": "من اینجا به دنیا آمدم و بزرگ شدم",
-    "en": "I was born and grew up here",
+    "en": "I was born and raised here",
     "desc": "The verb \"to be grown up\" is not typically used in the passive voice, and it is not clear who or what is doing the growing up. It is more natural to use the active voice and say \"I grew up here\" to convey the same meaning. Additionally, \"born\" is not typically used in the present tense.",
     "groupCode": 0
   },
@@ -287,7 +287,7 @@
   {
     "id": 48,
     "fa": "از اینجا گم شو",
-    "en": "Get lost from here",
+    "en": "Get lost",
     "groupCode": 0
   },
   {
@@ -457,7 +457,7 @@
   {
     "id": 76,
     "fa": "یه نفر زنگ بزنه آمبولانس",
-    "en": "someone calls for Ambulance",
+    "en": "Someone calls for an ambulance",
     "groupCode": 0
   },
   {
@@ -500,8 +500,9 @@
   {
     "id": 83,
     "fa": "تا به حال تو عطسه ببر را (تاکید) دیده اید؟",
-    "en": "Have you ever seen tiger sneezing?",
-    "groupCode": 0
+    "en": "Have you ever seen a tiger sneeze?",
+    "groupCode": 0,
+    "desc": "Missing article 'a' before 'tiger', and 'sneezing' should be bare infinitive 'sneeze' after 'seen'"
   },
   {
     "id": 84,
@@ -626,7 +627,7 @@
   {
     "id": 104,
     "fa": "چه مدته که تو این علایم را داری؟",
-    "en": "How long have you had this symptoms?",
+    "en": "How long have you had these symptoms?",
     "groupCode": 0
   },
   {
@@ -650,7 +651,7 @@
   {
     "id": 108,
     "fa": "نگو که من هیچ احساسی ندارم",
-    "en": "Don't say that I have no sentiment",
+    "en": "Don't tell me I have no sentiment",
     "groupCode": 0
   },
   {
@@ -985,7 +986,7 @@
   {
     "id": 163,
     "fa": "امکان دارد برام یک چرک خشک کن بنویسید؟ (آنتی بیوتیک)",
-    "en": "Is it possible to prescribe me a pus dryer (antibiotic)?",
+    "en": "Is it possible to prescribe me an antibiotic?",
     "groupCode": 0
   },
   {
@@ -1147,7 +1148,7 @@
   {
     "id": 190,
     "fa": "به نفع خودته",
-    "en": "It's for you own good",
+    "en": "It's for your own good",
     "groupCode": 0
   },
   {
@@ -1318,7 +1319,7 @@
   {
     "id": 218,
     "fa": "\n 1.(ترجیح کلی) من چای را به قهوه ترجیح می‌دهم \n 2.(رسمی ترجیح الان) من چای را به قهوه ترجیح می‌دهم \n 3. من چای را به قهوه ترجیح می دم (ترجیح الان عامیانه)",
-    "en": "\n 1.I prefer tea to coffee \n 2.I'd prefer tea to coffee \n 3.I'd rather tea to coffee",
+    "en": "\n 1.I prefer tea to coffee \n 2.I'd prefer tea to coffee \n 3.I'd rather have tea than coffee",
     "groupCode": 0
   },
   {
@@ -1493,7 +1494,7 @@
   {
     "id": 247,
     "fa": "تا جمعه آینده آماده خواهد شد",
-    "en": "It will be ready by next friday",
+    "en": "It will be ready by next Friday",
     "groupCode": 0
   },
   {
@@ -1505,7 +1506,7 @@
   {
     "id": 249,
     "fa": "من نیاز دارم به یک رابط برق",
-    "en": "I need a power stripe",
+    "en": "I need a power strip",
     "groupCode": 0
   },
   {
@@ -1656,7 +1657,7 @@
   {
     "id": 274,
     "fa": "ماشینم تو راه خراب شده و داشتم فکر می کردم اگر به من بگویید کجا می تونم یک گاراژ پیدا کنم؟",
-    "en": "My car is broken down on the way and I was wondering if you tell me where to find a garage?",
+    "en": "My car broke down on the way and I was wondering if you could tell me where to find a garage?",
     "groupCode": 0
   },
   {
@@ -1710,7 +1711,7 @@
   {
     "id": 283,
     "fa": "من چیزی می خوام تا با شما بنوشم",
-    "en": "I want something to drink with you",
+    "en": "I want something to drink with my meal",
     "groupCode": 0
   },
   {
@@ -1759,7 +1760,7 @@
   {
     "id": 291,
     "fa": " می توانم چند لحظه وقت شما را بگیرم؟",
-    "en": "Can I take your time for a few moments?",
+    "en": "Can I have a few moments of your time?",
     "groupCode": 0
   },
   {
@@ -1891,7 +1892,7 @@
   {
     "id": 313,
     "fa": "من خواهم بود اونجا در یک نیم ساعت (دیگه)",
-    "en": "I'll be there in a half an hour",
+    "en": "I'll be there in half an hour",
     "groupCode": 0
   },
   {
@@ -1909,7 +1910,7 @@
   {
     "id": 316,
     "fa": "من بنزین تمام کردم",
-    "en": "I ran out of petrol",
+    "en": "I ran out of gas",
     "groupCode": 0
   },
   {
@@ -2008,7 +2009,7 @@
   {
     "id": 332,
     "fa": "اون (زن) تو را چطور میشناسه؟",
-    "en": "How does she know you",
+    "en": "How does she know you?",
     "groupCode": 0
   },
   {
@@ -2044,7 +2045,7 @@
   {
     "id": 338,
     "fa": "مثلا چی",
-    "en": "Like what",
+    "en": "Like what?",
     "groupCode": 0
   },
   {
@@ -2393,7 +2394,7 @@
   {
     "id": 396,
     "fa": "در مجموع چقدر هزینه دارد؟",
-    "en": "How much does it cost in sum?",
+    "en": "How much does it cost in total?",
     "groupCode": 0
   },
   {
@@ -2520,7 +2521,7 @@
   {
     "id": 417,
     "fa": "من باید کفش هایم پام باشه تا برم بیرون",
-    "en": "I have to wear my shoes in order to go outside",
+    "en": "I have to put on my shoes to go outside",
     "desc": "\"Put on\" describes the process of getting dressed.\n\"Wear\" describes the state of having clothes or shoes on.",
     "groupCode": 0
   },
@@ -2564,7 +2565,7 @@
   {
     "id": 424,
     "fa": "من قصد دارم پرش بانجی را امتحان کنم، اما می ترسم",
-    "en": "I am gonna try bungee jumping, but I get cold feet",
+    "en": "I am gonna try bungee jumping, but I'm getting cold feet",
     "groupCode": 0
   },
   {
@@ -2696,7 +2697,7 @@
   {
     "id": 446,
     "fa": "این خانه ای است که من در آن بزرگ شدم",
-    "en": "This is the house where I grew up in",
+    "en": "This is the house where I grew up",
     "groupCode": 0
   },
   {
@@ -10278,7 +10279,7 @@
     "id": 1692,
     "fa": "فایده ای نداشت (نبود)",
     "en": "It was no use",
-    "desc": "\uD83D\uDC49 “It was no use” = correct and natural → means it was pointless\n\n\uD83D\uDC49 “It has no use” = not natural → better say “It’s useless”\n\n✅ Use: “It was no use trying.”",
+    "desc": "👉 “It was no use” = correct and natural → means it was pointless\n\n👉 “It has no use” = not natural → better say “It’s useless”\n\n✅ Use: “It was no use trying.”",
     "groupCode": 0
   },
   {
@@ -16858,7 +16859,7 @@
     "id": 2772,
     "fa": "شاید یک زمانی بوده است وقتی که من خودم (فرضی) را فاش میکردم (لو دادم)",
     "en": "There might've been a time when I would give myself away",
-    "desc": "in casual conversation, people often say “would give” instead of the more formal “would have given,” especially when talking about a past tendency or emotional memory.\n\n✅ Example (casual): “There was a time I would do anything for you.”\n\uD83D\uDCD8 Formal version: “There was a time I would have done anything for you.”\n\nBoth are correct — the first just sounds more natural and conversational.",
+    "desc": "in casual conversation, people often say “would give” instead of the more formal “would have given,” especially when talking about a past tendency or emotional memory.\n\n✅ Example (casual): “There was a time I would do anything for you.”\n📘 Formal version: “There was a time I would have done anything for you.”\n\nBoth are correct — the first just sounds more natural and conversational.",
     "groupCode": 0
   },
   {
