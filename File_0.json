@@ -3167,8 +3167,8 @@
   },
   {
     "id": 524,
-    "fa": "نمیدونی کی هستم",
-    "en": "Don't you know who I am",
+    "fa": "نمیدونی کی هستم؟",
+    "en": "Don't you know who I am?",
     "groupCode": 0
   },
   {
@@ -3260,7 +3260,7 @@
   {
     "id": 539,
     "fa": "من حدس میزنم انتخاب درستیه",
-    "en": "I guess it's a right choice",
+    "en": "I guess it's the right choice",
     "groupCode": 0
   },
   {
@@ -3423,7 +3423,7 @@
   {
     "id": 566,
     "fa": "کاغذ را مچاله کن",
-    "en": "Crumble the paper",
+    "en": "Crumple the paper",
     "groupCode": 0
   },
   {
@@ -3483,8 +3483,8 @@
   },
   {
     "id": 576,
-    "fa": "چه پررویی تو؟",
-    "en": "What a nerve you are?",
+    "fa": "چه پررویی تو؟ (تو خیلی اعصاب داری)",
+    "en": "You've got a lot of nerve",
     "groupCode": 0
   },
   {
@@ -3496,7 +3496,7 @@
   {
     "id": 578,
     "fa": "این برعکس است",
-    "en": "It's other way around",
+    "en": "It's the other way around",
     "groupCode": 0
   },
   {
@@ -3508,7 +3508,7 @@
   {
     "id": 580,
     "fa": "چیزی باقی مانده؟",
-    "en": "Is there anything left",
+    "en": "Is there anything left?",
     "groupCode": 0
   },
   {
@@ -3526,7 +3526,7 @@
   {
     "id": 583,
     "fa": "من حدس می زنم این مورد نادر است",
-    "en": "I guess This is the edge case",
+    "en": "I guess this is the edge case",
     "groupCode": 0
   },
   {
@@ -3568,7 +3568,7 @@
   {
     "id": 590,
     "fa": "آن یکی کمی از بودجه من خارج است. آیا چیزی در محدوده پنجاه دلار دارید؟",
-    "en": "That one is a little out of my budget. Do you have anything in fifty-dollar range?",
+    "en": "That one is a little out of my budget. Do you have anything in the fifty-dollar range?",
     "groupCode": 0
   },
   {
@@ -3744,7 +3744,7 @@
   {
     "id": 619,
     "fa": "اگر شما دارید می سازید ۱۰۰ هزار تا در یک سال، چقدر شما انتظار دارید (فرضی) از مردتان تا بسازد؟",
-    "en": "If you are making 100k a year, how much you would expect your man to make?",
+    "en": "If you are making 100k a year, how much would you expect your man to make?",
     "groupCode": 0
   },
   {
@@ -3756,7 +3756,7 @@
   {
     "id": 621,
     "fa": "لطفاً در ارتباط با من تردید نکنید اگر شما سوالات دیگر بیشتری دارید",
-    "en": "Please don't hesitate to reach me out if you have any further questions",
+    "en": "Please don't hesitate to reach out to me if you have any further questions",
     "groupCode": 0
   },
   {
@@ -3911,7 +3911,7 @@
   {
     "id": 646,
     "fa": "آن (فرضی) از طرف من خواهد بود",
-    "en": "That would be it from my site",
+    "en": "That would be it from my side",
     "desc": "The phrase \"That would be it from my side\" is commonly used to indicate that the speaker has nothing more to add or contribute to the conversation or situation. It implies that the speaker has said or done everything they intended to and has no further input.",
     "groupCode": 0
   },
@@ -3923,8 +3923,8 @@
   },
   {
     "id": 648,
-    "fa": "چقدر می بره برای خرید یک ماشین جدید؟",
-    "en": "How much does it take to buy a new car?",
+    "fa": "چقدر میشه هزینه اش  برای خرید یک ماشین جدید؟",
+    "en": "How much does it cost to buy a new car?",
     "groupCode": 0
   },
   {
@@ -4526,7 +4526,7 @@
   {
     "id": 746,
     "fa": "گوارای وجود",
-    "en": "Good appetite",
+    "en": "Enjoy your meal",
     "groupCode": 0
   },
   {
@@ -4753,8 +4753,8 @@
   },
   {
     "id": 783,
-    "fa": "چی تو ذهنت داری؟",
-    "en": "What do you have in your mind?",
+    "fa": "چی تو ذهن داری؟",
+    "en": "What do you have in mind?",
     "groupCode": 0
   },
   {
@@ -4987,7 +4987,7 @@
   {
     "id": 821,
     "fa": "(آرزوی) موفقیت برای همه شما در مسابقات باقی ماندهتان، صرف نظر از اینکه در کدام مسیر هستید",
-    "en": "Good Luck to all of you in your remaining matches, regardless on which track your are",
+    "en": "Good Luck to all of you in your remaining matches, regardless of which track you are on",
     "groupCode": 0
   },
   {
@@ -5023,7 +5023,7 @@
   {
     "id": 827,
     "fa": "پیراهن یک نقطه لکه دار کوچک رویش داشت",
-    "en": "The shirt had a small stained spot on it",
+    "en": "The shirt had a small stain on it",
     "groupCode": 0
   },
   {
@@ -5192,7 +5192,7 @@
   {
     "id": 855,
     "fa": "در تگزاس، ما هرگز چیزی جز فقیر نبودیم",
-    "en": "in Texas, we were never anything but poor",
+    "en": "In Texas, we were never anything but poor",
     "groupCode": 0
   },
   {
@@ -5270,7 +5270,7 @@
   {
     "id": 868,
     "fa": "تو یک دروغگو هستی",
-    "en": "You're a lier",
+    "en": "You're a liar",
     "groupCode": 0
   },
   {
@@ -5393,7 +5393,7 @@
   {
     "id": 888,
     "fa": "نیاز دارم آب را داخل بطری بزارم و درب آن را بزارم تا در بسته (مهر و موم) بماند",
-    "en": "I need to put in the water into the bottle and put on the cap to keep it sealed",
+    "en": "I need to put the water into the bottle and put on the cap to keep it sealed",
     "groupCode": 0
   },
   {
@@ -5423,13 +5423,13 @@
   {
     "id": 893,
     "fa": "اگر از من بپرسی, او (مرد) پیداش خواهد شد",
-    "en": "If you ask me, He'll turn up",
+    "en": "If you ask me, he'll turn up",
     "groupCode": 0
   },
   {
     "id": 894,
-    "fa": "خیلی متاسفم, کنترلم را از دست دادم",
-    "en": "I'm very sorry, I lost my control",
+    "fa": "خیلی متاسفم, کنترل را از دست دادم",
+    "en": "I'm very sorry, I lost control",
     "groupCode": 0
   },
   {
@@ -5458,14 +5458,14 @@
   },
   {
     "id": 899,
-    "fa": "من نمی دانم مشکل شما چیست؟",
-    "en": "I don't know what your problem is?",
+    "fa": "من نمی دانم مشکل شما چیست",
+    "en": "I don't know what your problem is",
     "groupCode": 0
   },
   {
     "id": 900,
-    "fa": "من حتی نمی دانم چه بگویم؟",
-    "en": "I don't even know what to say?",
+    "fa": "من حتی نمی دانم چه بگویم",
+    "en": "I don't even know what to say",
     "desc": "In English, the standard word order for negation is to place the word \"not\" immediately after the auxiliary verb \"do.\" In this case, \"do\" is used as an auxiliary verb to form the negation, and \"even\" is an adverb modifying the verb \"know.\"",
     "groupCode": 0
   },
@@ -5568,8 +5568,8 @@
   },
   {
     "id": 917,
-    "fa": "من انجام دادم یه چیز (کار) اشتباه",
-    "en": "I did a wrong thing",
+    "fa": "من انجام دادم چیز (کار) اشتباهی",
+    "en": "I did the wrong thing",
     "groupCode": 0
   },
   {
@@ -5702,7 +5702,7 @@
   {
     "id": 939,
     "fa": "چطور انگلیسی یاد گرفتی؟",
-    "en": "How did you learn english?",
+    "en": "How did you learn English?",
     "groupCode": 0
   },
   {
@@ -5807,7 +5807,7 @@
   {
     "id": 956,
     "fa": "از راه دور انجامش بده",
-    "en": "Do it from distance",
+    "en": "Do it from a distance",
     "groupCode": 0
   },
   {
@@ -5855,7 +5855,7 @@
   {
     "id": 964,
     "fa": "من به 50 باکس رضایت خواهم داد",
-    "en": "I'll settle for 50 box",
+    "en": "I'll settle for 50 bucks",
     "groupCode": 0
   },
   {
@@ -5867,7 +5867,7 @@
   {
     "id": 966,
     "fa": "او (زن) تا چهارشنبه در تعطیلات است",
-    "en": "She is on vacation till wednesday",
+    "en": "She is on vacation till Wednesday",
     "groupCode": 0
   },
   {
@@ -6028,14 +6028,15 @@
   {
     "id": 992,
     "fa": "چگونه به آنجا رسیدم؟",
-    "en": "How I got there?",
+    "en": "How did I get there?",
     "groupCode": 0
   },
   {
     "id": 993,
     "fa": "اگر در امتحان مردود شم، باید رویای دکتر شدنم را رها می کنم",
-    "en": "If I failed the exam, I would have to give up my dream of becoming a doctor",
-    "groupCode": 0
+    "en": "If I fail the exam, I will have to give up my dream of becoming a doctor",
+    "groupCode": 0,
+    "desc": "1st conditional (real possibility): 'if + present simple, will + base verb'. The original used 2nd conditional (failed/would) which implies a hypothetical, but the meaning here is a real possibility."
   },
   {
     "id": 994,
@@ -6052,8 +6053,8 @@
   },
   {
     "id": 996,
-    "fa": "من سعی کردم یک کیک بپزم، اما اولین بار درست نشد",
-    "en": "I tried to bake a cake, but it didn't make the first time",
+    "fa": "من سعی کردم یک کیک بپزم، اما درست در نیامد اولین بار",
+    "en": "I tried to bake a cake, but it didn't turn out right the first time",
     "groupCode": 0
   },
   {
