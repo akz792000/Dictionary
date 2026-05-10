@@ -15483,13 +15483,13 @@
   },
   {
     "id": 12536,
-    "en": "You're going to the vet today, aren't you?",
+    "en": "You're going to the vet today, aren't true (factually true)?",
     "de": "Du gehst heute zum Tierarzt, nicht wahr?",
     "groupCode": 1
   },
   {
     "id": 12537,
-    "en": "Today is Monday, isn't it?",
+    "en": "Today is Monday, isn't true (factually true)?",
     "de": "Heute ist Montag, nicht wahr?",
     "groupCode": 1
   },
@@ -16135,7 +16135,7 @@
   {
     "id": 12643,
     "en": "Did you speak about the appointment with the doctor (female)?",
-    "de": "Hast du über den Termin bei der Ärztin gesprochen?",
+    "de": "Hast du mit der Ärztin über den Termin gesprochen?",
     "groupCode": 1
   },
   {
@@ -17210,7 +17210,7 @@
   },
   {
     "id": 12820,
-    "en": "Is that really true?",
+    "en": "Is that really true (factually true)?",
     "de": "Ist das wirklich wahr?",
     "groupCode": 1
   },
@@ -17603,8 +17603,8 @@
   },
   {
     "id": 12884,
-    "en": "I don't believe your excuse",
-    "de": "Ich glaube dir deine Ausrede nicht",
+    "en": "I believe neither you nor your excuse",
+    "de": "Ich glaube weder dir noch deiner Ausrede",
     "groupCode": 1
   },
   {
@@ -17823,7 +17823,7 @@
   {
     "id": 12920,
     "en": "I don't like wide pants",
-    "de": "Ich mag keine weite Hosen",
+    "de": "Ich mag keine weiten Hosen",
     "groupCode": 1
   },
   {
@@ -18223,7 +18223,7 @@
   },
   {
     "id": 12986,
-    "en": "She's packing her bag, but he's not ready yet",
+    "en": "She's packing her bag, on the other hand he's not ready yet",
     "de": "Sie packt ihre Tasche, er ist dagegen noch nicht bereit",
     "groupCode": 1
   },
@@ -18248,8 +18248,69 @@
   },
   {
     "id": 12990,
-    "en": "Sugar is everywhere",
+    "en": "The sugar is everywhere",
     "de": "Der Zucker ist überall",
+    "groupCode": 1
+  },
+  {
+    "id": 12991,
+    "en": "The leaf is green, and the leaves are also green",
+    "de": "Das Blatt ist grün, und die Blätter sind auch grün",
+    "groupCode": 1
+  },
+  {
+    "id": 12992,
+    "en": "I am ready and they are ready",
+    "de": "Ich bin bereit und sie sind bereit",
+    "groupCode": 1
+  },
+  {
+    "id": 12993,
+    "en": "That is true (factually true), and it is also true (factually true)",
+    "de": "Das ist wahr, und es ist auch wahr",
+    "groupCode": 1
+  },
+  {
+    "id": 12994,
+    "en": "We buy fresh vegetables in the supermarket",
+    "de": "Wir kaufen frisches Gemüse im Supermarkt",
+    "groupCode": 1
+  },
+  {
+    "id": 12995,
+    "en": "I find the colors confusing",
+    "de": "Ich finde die Farben verwirrend",
+    "groupCode": 1
+  },
+  {
+    "id": 12996,
+    "en": "Why don’t you have an elegant mirror?",
+    "de": "Warum haben Sie keinen eleganten Spiegel?",
+    "groupCode": 1
+  },
+  {
+    "id": 12997,
+    "en": "The hard chairs are uncomfortable",
+    "de": "Die harten Stühle sind unbequem",
+    "groupCode": 1
+  },
+  {
+    "id": 12998,
+    "en": "The dining table on offer (in the sale)",
+    "de": "Der Esstisch im Angebot",
+    "groupCode": 1
+  },
+  {
+    "id": 12999,
+    "en": "What do you think about this sofa?",
+    "de": "Was denkst du über dieses Sofa?",
+    "groupCode": 1
+  },
+  {
+    "id": 13000,
+    "en": "What was this episode about?",
+    "de": "Worum ging es in dieser Folge?",
+    "desc": "„ging“ comes from the verb „gehen“, but here it’s not “to go” in the literal sense.\n\nIn the phrase:\n\nWorum ging es in dieser Folge?\n\n\uD83D\uDC49 ging es = “it was about”\n\nThis is a fixed German expression:\n\nEs geht um … = It is about …\nEs ging um … = It was about …\nSo:\ngeht = present tense\nging = past tense\nExamples:\nWorum geht es? = What is it about?\nWorum ging es? = What was it about?",
     "groupCode": 1
   }
 ]
