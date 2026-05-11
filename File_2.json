@@ -2916,7 +2916,7 @@
     "id": 10477,
     "en": "No, my roommate (male) never has time. I have to clean the apartment without my roommate (male)",
     "de": "Nein, mein Mitbewohner hat nie Zeit. Ich muss ohne meinen Mitbewohner die Wohnung putzen",
-    "desc": "So you need:\nder Mitbewohner → den Mitbewohner (accusative singular)\n\n“meinen Mitbewohnern” is dative plural, so it doesn’t fit.",
+    "desc": "So you need:\nder Mitbewohner → den Mitbewohner (accusative singular)\n\n“meinen Mitbewohnern” is dative plural, so it doesn't fit.",
     "groupCode": 1
   },
   {
@@ -10404,7 +10404,7 @@
   },
   {
     "id": 11705,
-    "en": "\n 1.I'm really looking forward to the concert \n 2.I'm rejoice about the gift",
+    "en": "\n 1.I'm already looking forward to the concert \n 2.I'm rejoice about the gift",
     "de": "\n 1.Ich freue mich schon auf das Konzert \n 2.Ich freue mich über das Geschenk",
     "desc": "auf + accusative → looking forward to something (future)\n\nüber + accusative → happy about something (present / already happened)",
     "groupCode": 1
@@ -13722,7 +13722,7 @@
     "id": 12247,
     "en": "I always sit in the front",
     "de": "Ich sitze immer vorne",
-    "desc": "Both are correct, but there’s a small nuance:\n\n✅ Ich sitze immer vorne.\n\n→ I always sit in the front.\n\nMore common in everyday speech\nRefers to a general front area (e.g., classroom, bus)\n✅ Ich sitze immer vorn.\n\n→ I always sit in front.\n\nSlightly more formal or concise\nOften used in written German or fixed expressions\nSimple rule\nvorne → more common, natural in speaking\nvorn → shorter, a bit more formal",
+    "desc": "Both are correct, but there's a small nuance:\n\n✅ Ich sitze immer vorne.\n\n→ I always sit in the front.\n\nMore common in everyday speech\nRefers to a general front area (e.g., classroom, bus)\n✅ Ich sitze immer vorn.\n\n→ I always sit in front.\n\nSlightly more formal or concise\nOften used in written German or fixed expressions\nSimple rule\nvorne → more common, natural in speaking\nvorn → shorter, a bit more formal",
     "groupCode": 1
   },
   {
@@ -15533,7 +15533,7 @@
     "id": 12544,
     "en": "Under which newspapers was my passport?",
     "de": "Unter welchen Zeitungen war mein Pass?",
-    "desc": "Because „unter“ here takes the dative case.\n\nYou’re describing a location (Where was the passport?), not movement → so it’s dative.",
+    "desc": "Because „unter“ here takes the dative case.\n\nYou're describing a location (Where was the passport?), not movement → so it's dative.",
     "groupCode": 1
   },
   {
@@ -15651,7 +15651,7 @@
     "id": 12563,
     "en": "I raise my (the) hand",
     "de": "Ich hebe die Hand",
-    "desc": "In German, people often use “die / der / das” (the) for body parts instead of my / your.\n\nSo:\n\nIch hebe die Hand. → I raise my hand. (natural in German)\n\nIch hebe meine Hand. → I raise my hand. but it emphasizes that it’s my hand.\n\n✅ Rule:\nFor body parts, German usually says “the”, while English says “my.”\n\nExample:\n\nIch wasche die Hände. → I wash my hands. \uD83E\uDDFC",
+    "desc": "In German, people often use “die / der / das” (the) for body parts instead of my / your.\n\nSo:\n\nIch hebe die Hand. → I raise my hand. (natural in German)\n\nIch hebe meine Hand. → I raise my hand. but it emphasizes that it's my hand.\n\n✅ Rule:\nFor body parts, German usually says “the”, while English says “my.”\n\nExample:\n\nIch wasche die Hände. → I wash my hands. \uD83E\uDDFC",
     "groupCode": 1
   },
   {
@@ -15850,7 +15850,7 @@
     "id": 12596,
     "en": "I'm not laughing at you, I'm laughing with you",
     "de": "Ich lache nicht über dich, ich lache mit dir",
-    "desc": "„Ich lache mit dir.“ → من با تو می\u200Cخندم (man bâ to mikhandam)\n→ We laugh together.\n\n„Ich lache bei dir.“ → من پیشِ تو می\u200Cخندم (man pish-e to mikhandam)\n→ I laugh when I’m with you / at your place.",
+    "desc": "„Ich lache mit dir.“ → من با تو می\u200Cخندم (man bâ to mikhandam)\n→ We laugh together.\n\n„Ich lache bei dir.“ → من پیشِ تو می\u200Cخندم (man pish-e to mikhandam)\n→ I laugh when I'm with you / at your place.",
     "groupCode": 1
   },
   {
@@ -15928,7 +15928,7 @@
   },
   {
     "id": 12609,
-    "en": "Can you please drive faster? My rabbit and I are in a hurry",
+    "en": "Can you please drive fast? My rabbit and I are in a hurry",
     "de": "Kannst du bitte schnell fahren? Mein Kaninchen und ich sind in Eile",
     "groupCode": 1
   },
@@ -16086,7 +16086,7 @@
     "id": 12635,
     "en": "I don't want to go to the toilet alone",
     "de": "Ich will nicht allein auf die Toilette gehen",
-    "desc": "They use “auf” because in German some places are expressed with fixed prepositions. \uD83D\uDEBB\n\nFor toilets/bathrooms:\n\nGerman commonly says:\n\nauf die Toilette gehen\n\nHere “auf” does not literally mean “on.”\nIt’s just the natural expression Germans use for going to the toilet.\n\nCompare:\n\nauf die Toilette gehen → go to the toilet (common)\n\nzur Toilette gehen → go to the toilet (also correct, more neutral)\n\nSimple idea\n\nSome German places use auf even if it seems strange in English:\n\nauf die Party gehen → go to the party \uD83C\uDF89\n\nauf die Toilette gehen → go to the toilet \uD83D\uDEBB\n\nSo “auf” is just the standard preposition used in this expression.",
+    "desc": "They use “auf” because in German some places are expressed with fixed prepositions. \uD83D\uDEBB\n\nFor toilets/bathrooms:\n\nGerman commonly says:\n\nauf die Toilette gehen\n\nHere “auf” does not literally mean “on.”\nIt's just the natural expression Germans use for going to the toilet.\n\nCompare:\n\nauf die Toilette gehen → go to the toilet (common)\n\nzur Toilette gehen → go to the toilet (also correct, more neutral)\n\nSimple idea\n\nSome German places use auf even if it seems strange in English:\n\nauf die Party gehen → go to the party \uD83C\uDF89\n\nauf die Toilette gehen → go to the toilet \uD83D\uDEBB\n\nSo “auf” is just the standard preposition used in this expression.",
     "groupCode": 1
   },
   {
@@ -16105,7 +16105,7 @@
     "id": 12638,
     "en": "Sorry, I have to go to the toilet",
     "de": "Sorry, ich muss auf die toilette gehen",
-    "desc": "They use “auf” because in German some places are expressed with fixed prepositions. \uD83D\uDEBB\n\nFor toilets/bathrooms:\n\nGerman commonly says:\n\nauf die Toilette gehen\n\nHere “auf” does not literally mean “on.”\nIt’s just the natural expression Germans use for going to the toilet.\n\nCompare:\n\nauf die Toilette gehen → go to the toilet (common)\n\nzur Toilette gehen → go to the toilet (also correct, more neutral)\n\nSimple idea\n\nSome German places use auf even if it seems strange in English:\n\nauf die Party gehen → go to the party \uD83C\uDF89\n\nauf die Toilette gehen → go to the toilet \uD83D\uDEBB\n\nSo “auf” is just the standard preposition used in this expression.",
+    "desc": "They use “auf” because in German some places are expressed with fixed prepositions. \uD83D\uDEBB\n\nFor toilets/bathrooms:\n\nGerman commonly says:\n\nauf die Toilette gehen\n\nHere “auf” does not literally mean “on.”\nIt's just the natural expression Germans use for going to the toilet.\n\nCompare:\n\nauf die Toilette gehen → go to the toilet (common)\n\nzur Toilette gehen → go to the toilet (also correct, more neutral)\n\nSimple idea\n\nSome German places use auf even if it seems strange in English:\n\nauf die Party gehen → go to the party \uD83C\uDF89\n\nauf die Toilette gehen → go to the toilet \uD83D\uDEBB\n\nSo “auf” is just the standard preposition used in this expression.",
     "groupCode": 1
   },
   {
@@ -16257,7 +16257,7 @@
     "id": 12663,
     "en": "Alex's child climbs like a bear",
     "de": "Alex' Kind klettert wie ein Bär",
-    "desc": "Yes, in German, you can indicate possession with ’ for names that end in -s, -x, -z, -ß, -sch, -tz (and some others), but it’s optional in some cases. Let me explain clearly.\n\n1\uFE0F⃣ Names ending in -x\n\nExample: Alex\n\nCorrect: Alex’ Kind ✅\n(apostrophe shows possession, avoids Alexs, which looks awkward)\n\nAlso acceptable: das Kind von Alex ✅\n(very common in spoken/written German)\n\nSo the apostrophe is not strictly mandatory, but it looks cleaner in writing.",
+    "desc": "Yes, in German, you can indicate possession with ' for names that end in -s, -x, -z, -ß, -sch, -tz (and some others), but it's optional in some cases. Let me explain clearly.\n\n1\uFE0F⃣ Names ending in -x\n\nExample: Alex\n\nCorrect: Alex' Kind ✅\n(apostrophe shows possession, avoids Alexs, which looks awkward)\n\nAlso acceptable: das Kind von Alex ✅\n(very common in spoken/written German)\n\nSo the apostrophe is not strictly mandatory, but it looks cleaner in writing.",
     "groupCode": 1
   },
   {
@@ -16373,7 +16373,7 @@
     "id": 12682,
     "en": "He annoys the other children",
     "de": "Er ärgert die anderen Kinder",
-    "desc": "✅ Correct: „Er ärgert die anderen Kinder.“\n❌ Wrong: „Er ärgert die anderen Kindern.“\n\nBrief explanation:\n\närgern needs Akkusativ (direct object).\nKinder in Akkusativ plural = die Kinder (not Kindern).\nKindern is Dativ plural, which doesn’t fit here.\n\nRule:\n\närgern → Akkusativ → die anderen Kinder ✅\nhelfen → Dativ → den anderen Kindern ✅",
+    "desc": "✅ Correct: „Er ärgert die anderen Kinder.“\n❌ Wrong: „Er ärgert die anderen Kindern.“\n\nBrief explanation:\n\närgern needs Akkusativ (direct object).\nKinder in Akkusativ plural = die Kinder (not Kindern).\nKindern is Dativ plural, which doesn't fit here.\n\nRule:\n\närgern → Akkusativ → die anderen Kinder ✅\nhelfen → Dativ → den anderen Kindern ✅",
     "groupCode": 1
   },
   {
@@ -16416,14 +16416,14 @@
     "id": 12689,
     "en": "The lifeguard is helping my neighbor",
     "de": "Der Bademeister hilft meinem Nachbarn",
-    "desc": "Why the -n?\n\nIn German, most masculine nouns get an extra -n (or -en) in the dative.\n\n\uD83D\uDC49 That’s why:\n\ndem Nachbar → dem Nachbarn\n\nmeinem Nachbar → meinem Nachbarn\n\n✅ So “meinem Nachbarn” is correct, not “meinem Nachbar.”",
+    "desc": "Why the -n?\n\nIn German, most masculine nouns get an extra -n (or -en) in the dative.\n\n\uD83D\uDC49 That's why:\n\ndem Nachbar → dem Nachbarn\n\nmeinem Nachbar → meinem Nachbarn\n\n✅ So “meinem Nachbarn” is correct, not “meinem Nachbar.”",
     "groupCode": 1
   },
   {
     "id": 12690,
     "en": "You (plural) are hungry, on the other hand we are (in contrast) already full",
     "de": "Ihr seid hungrig, wir sind dagegen schon satt",
-    "desc": "Briefly: Dagegen means “by contrast/on the other hand.” Put it early in the contrasting clause.\n\n    At the start (then verb next): Dagegen will ich nach Hause.\n    After the subject: Ich dagegen will nach Hause.\n    After the finite verb: Wir sind dagegen schon satt.\n\nNote: Dagegen can also mean “against it,” e.g., Ich bin dagegen = “I’m against it.”",
+    "desc": "Briefly: Dagegen means “by contrast/on the other hand.” Put it early in the contrasting clause.\n\n    At the start (then verb next): Dagegen will ich nach Hause.\n    After the subject: Ich dagegen will nach Hause.\n    After the finite verb: Wir sind dagegen schon satt.\n\nNote: Dagegen can also mean “against it,” e.g., Ich bin dagegen = “I'm against it.”",
     "groupCode": 1
   },
   {
@@ -17617,7 +17617,7 @@
     "id": 12886,
     "en": "I was very athletic when I was a child",
     "de": "Ich war sehr sportlich als ich ein Kind war",
-    "desc": "In this sentence:\n\n“Ich war sehr sportlich, als ich ein Kind war.”\n\nthe word “als” was translated as:\n\n“when”\n\nSo literally:\n\nals = when\nich ein Kind war = I was a child\n\nIn German, als is used for:\n\na single event or state in the past.\n\nExamples:\n\n“Als ich jung war …” → “When I was young …”\n“Als er ankam …” → “When he arrived …”\n\nIt’s different from wenn, which is often used for:\n\nrepeated events,\nconditions,\nor future situations.",
+    "desc": "In this sentence:\n\n“Ich war sehr sportlich, als ich ein Kind war.”\n\nthe word “als” was translated as:\n\n“when”\n\nSo literally:\n\nals = when\nich ein Kind war = I was a child\n\nIn German, als is used for:\n\na single event or state in the past.\n\nExamples:\n\n“Als ich jung war …” → “When I was young …”\n“Als er ankam …” → “When he arrived …”\n\nIt's different from wenn, which is often used for:\n\nrepeated events,\nconditions,\nor future situations.",
     "groupCode": 1
   },
   {
@@ -17937,8 +17937,8 @@
   },
   {
     "id": 12939,
-    "en": "It's my turn",
-    "de": "Ich bin dran",
+    "en": "Whose turn is it now? It's my turn",
+    "de": "Wer ist jetzt dran? Ich bin dran",
     "groupCode": 1
   },
   {
@@ -18107,7 +18107,7 @@
   },
   {
     "id": 12967,
-    "en": "We need sticky notes and paper for our new office",
+    "en": "We need sticky note and paper for our new office",
     "de": "Wir brauchen Notizzettel und Papier für unser neues Büro",
     "groupCode": 1
   },
@@ -18134,7 +18134,7 @@
     "id": 12971,
     "en": "Without a receipt I can't return the shirt",
     "de": "Ohne einen Kassenbon kann ich das Hemd nicht zurückgeben",
-    "desc": "der Kassenbon\nder Kassenzettel \n\n\n Kassenbon = standard, what you’ll hear at checkout\nKassenzettel = informal, everyday way to say it",
+    "desc": "der Kassenbon\nder Kassenzettel \n\n\n Kassenbon = standard, what you'll hear at checkout\nKassenzettel = informal, everyday way to say it",
     "groupCode": 1
   },
   {
@@ -18284,7 +18284,7 @@
   },
   {
     "id": 12996,
-    "en": "Why don’t you have an elegant mirror?",
+    "en": "Why don't you have an elegant mirror?",
     "de": "Warum haben Sie keinen eleganten Spiegel?",
     "groupCode": 1
   },
@@ -18310,7 +18310,67 @@
     "id": 13000,
     "en": "What was this episode about?",
     "de": "Worum ging es in dieser Folge?",
-    "desc": "„ging“ comes from the verb „gehen“, but here it’s not “to go” in the literal sense.\n\nIn the phrase:\n\nWorum ging es in dieser Folge?\n\n\uD83D\uDC49 ging es = “it was about”\n\nThis is a fixed German expression:\n\nEs geht um … = It is about …\nEs ging um … = It was about …\nSo:\ngeht = present tense\nging = past tense\nExamples:\nWorum geht es? = What is it about?\nWorum ging es? = What was it about?",
+    "desc": "„ging“ comes from the verb „gehen“, but here it's not “to go” in the literal sense.\n\nIn the phrase:\n\nWorum ging es in dieser Folge?\n\n\uD83D\uDC49 ging es = “it was about”\n\nThis is a fixed German expression:\n\nEs geht um … = It is about …\nEs ging um … = It was about …\nSo:\ngeht = present tense\nging = past tense\nExamples:\nWorum geht es? = What is it about?\nWorum ging es? = What was it about?",
+    "groupCode": 1
+  },
+  {
+    "id": 13001,
+    "en": "The candles are on the dresser",
+    "de": "Die Kerzen stehen auf der Kommode",
+    "groupCode": 1
+  },
+  {
+    "id": 13002,
+    "en": "The recipient of the package lives in Berlin",
+    "de": "Der Empfänger des Pakets wohnt in Berlin",
+    "groupCode": 1
+  },
+  {
+    "id": 13003,
+    "en": "The mattress looks cozy",
+    "de": "Die Matratze sieht gemütlich aus",
+    "groupCode": 1
+  },
+  {
+    "id": 13004,
+    "en": "The sofa has no soft blanket",
+    "de": "Das Sofa hat keine weiche Decke",
+    "groupCode": 1
+  },
+  {
+    "id": 13005,
+    "en": "Is this shelf stable enough?",
+    "de": "Ist dieses Regal stabil genug?",
+    "groupCode": 1
+  },
+  {
+    "id": 13006,
+    "en": "Choose the option with the meaning “front/in front”",
+    "de": "Wähle die Option mit der Bedeutung „vorne“",
+    "groupCode": 1
+  },
+  {
+    "id": 13007,
+    "en": "Look. Isn't that the same desk?",
+    "de": "Schau mal. Ist das nicht der gleiche Schreibtisch?",
+    "groupCode": 1
+  },
+  {
+    "id": 13008,
+    "en": "My father has died",
+    "de": "Mein Vater ist gestorben",
+    "groupCode": 1
+  },
+  {
+    "id": 13009,
+    "en": "We didn't stay long",
+    "de": "Wir sind nicht lange geblieben",
+    "groupCode": 1
+  },
+  {
+    "id": 13010,
+    "en": "Anna's shoes stank (smelled bad)",
+    "de": "Die Schuhe von Anna haben gestunken",
     "groupCode": 1
   }
 ]

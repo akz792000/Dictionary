@@ -12247,5 +12247,23 @@
     "fa": "آن فیلم موفق نبود (خیلی بد از آب درآمد)",
     "en": "The movie was a flop",
     "groupCode": 0
+  },
+  {
+    "id": 5008,
+    "fa": "مقادیر کسری پشتیبانی نمی شوند",
+    "en": "Fractional values are not supported",
+    "groupCode": 0
+  },
+  {
+    "id": 5009,
+    "fa": "ببخشید، اما شما سر راه من هستید. میتونی (مودبانه) شما حرکت کنی, لطفا؟",
+    "en": "Excuse me, but you're in my way. Could you move, please?",
+    "groupCode": 0
+  },
+  {
+    "id": 5010,
+    "fa": "کی آنها خواهند رسید؟ آنها در راهند الان",
+    "en": "When will they arrive? They're on the way now",
+    "groupCode": 0
   }
 ]
