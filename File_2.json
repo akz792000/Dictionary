@@ -17615,7 +17615,7 @@
   },
   {
     "id": 12886,
-    "en": "I was very athletic when I was a child",
+    "en": "I was very athletic when (as) I was a child",
     "de": "Ich war sehr sportlich als ich ein Kind war",
     "desc": "In this sentence:\n\n“Ich war sehr sportlich, als ich ein Kind war.”\n\nthe word “als” was translated as:\n\n“when”\n\nSo literally:\n\nals = when\nich ein Kind war = I was a child\n\nIn German, als is used for:\n\na single event or state in the past.\n\nExamples:\n\n“Als ich jung war …” → “When I was young …”\n“Als er ankam …” → “When he arrived …”\n\nIt's different from wenn, which is often used for:\n\nrepeated events,\nconditions,\nor future situations.",
     "groupCode": 1
@@ -18284,7 +18284,7 @@
   },
   {
     "id": 12996,
-    "en": "Why don't you have an elegant mirror?",
+    "en": "Why don't you (formal) have an elegant mirror?",
     "de": "Warum haben Sie keinen eleganten Spiegel?",
     "groupCode": 1
   },
@@ -18315,7 +18315,7 @@
   },
   {
     "id": 13001,
-    "en": "The candles are on the dresser",
+    "en": "The candles stand on the dresser",
     "de": "Die Kerzen stehen auf der Kommode",
     "groupCode": 1
   },
@@ -18369,8 +18369,71 @@
   },
   {
     "id": 13010,
-    "en": "Anna's shoes stank (smelled bad)",
+    "en": "The shoes from Anna stank (smelled bad)",
     "de": "Die Schuhe von Anna haben gestunken",
+    "groupCode": 1
+  },
+  {
+    "id": 13011,
+    "en": "I find plastic in shoes impractical",
+    "de": "Ich finde Plastik in Schuhen unpraktisch",
+    "groupCode": 1
+  },
+  {
+    "id": 13012,
+    "en": "I lost the receipt",
+    "de": "Ich habe den Kassenbon verloren",
+    "groupCode": 1
+  },
+  {
+    "id": 13013,
+    "en": "I am holding the dress for you",
+    "de": "Ich halte das Kleid für dich",
+    "groupCode": 1
+  },
+  {
+    "id": 13014,
+    "en": "I am looking for silver earrings",
+    "de": "Ich suche silberne Ohrringe",
+    "groupCode": 1
+  },
+  {
+    "id": 13015,
+    "en": "I am looking for shirts with long sleeves",
+    "de": "Ich suche Hemden mit langen Ärmeln",
+    "groupCode": 1
+  },
+  {
+    "id": 13016,
+    "en": "Can I try on the cardigan?",
+    "de": "Kann ich die Strickjacke anprobieren?",
+    "desc": "cardigan = ژاکت کش باف پشمی",
+    "groupCode": 1
+  },
+  {
+    "id": 13017,
+    "en": "I am looking for a warm winter coat",
+    "de": "Ich suche einen warmen Wintermantel",
+    "groupCode": 1
+  },
+  {
+    "id": 13018,
+    "en": "She is not looking for long belts",
+    "de": "Sie sucht keine langen Gürtel",
+    "desc": "„Gürtel“ can be both — singular and plural in German.\n\n\uD83D\uDD39 Singular:\n\nder Gürtel = one belt\nExample: Ich trage einen Gürtel. (I wear a belt)\n\n\uD83D\uDD39 Plural:\n\ndie Gürtel = belts (more than one)\nExample: Ich habe zwei Gürtel. (I have two belts)",
+    "groupCode": 1
+  },
+  {
+    "id": 13019,
+    "en": "I am wearing a belt",
+    "de": "Ich trage einen Gürtel",
+    "desc": "„Gürtel“ can be both — singular and plural in German.\n\n\uD83D\uDD39 Singular:\n\nder Gürtel = one belt\nExample: Ich trage einen Gürtel. (I wear a belt)\n\n\uD83D\uDD39 Plural:\n\ndie Gürtel = belts (more than one)\nExample: Ich habe zwei Gürtel. (I have two belts)",
+    "groupCode": 1
+  },
+  {
+    "id": 13020,
+    "en": "I would like to wear pajamas",
+    "de": "Ich möchte einen Pyjama tragen",
     "groupCode": 1
   }
 ]

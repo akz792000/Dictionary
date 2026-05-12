@@ -12208,7 +12208,7 @@
   },
   {
     "id": 5001,
-    "fa": "کدام مرحله ایجاد می کند (فرضی) بیشترین اثرِ زنجیره ای را در مراحل بعدی (پایین رود)؟",
+    "fa": "کدام مرحله (صحنه) ایجاد می کند (فرضی) بزرگترین اثرِ زنجیره ای (در) مراحل بعدی (پایین رود)؟",
     "en": "Which stage would create the biggest ripple effect downstream?",
     "groupCode": 0
   },
@@ -12244,7 +12244,7 @@
   },
   {
     "id": 5007,
-    "fa": "آن فیلم موفق نبود (خیلی بد از آب درآمد)",
+    "fa": "آن فیلم یک شکست بود (خیلی بد از آب درآمد)",
     "en": "The movie was a flop",
     "groupCode": 0
   },
@@ -12264,6 +12264,79 @@
     "id": 5010,
     "fa": "کی آنها خواهند رسید؟ آنها در راهند الان",
     "en": "When will they arrive? They're on the way now",
+    "groupCode": 0
+  },
+  {
+    "id": 5011,
+    "fa": "«فلاپ» اشاره دارد به یک شکست کامل یا یک سقوط سنگین و ناشیانه اغلب استفاده می شود تا توصیف کند فیلم ها، محصولات یا برنامه های ناموفق",
+    "en": "\"Flop\" refers to a complete failure or a heavy, clumsy fall, often used to describe unsuccessful films, products, or plans",
+    "groupCode": 0
+  },
+  {
+    "id": 5012,
+    "fa": "من خریدم دمپایی لاانگشتی جدید برای تابستان",
+    "en": "I bought new flip-flops for summer",
+    "desc": "Because normally you wear or buy two sandals — one for each foot — so English usually uses the plural form:\n\n✅ flip-flops = normal/common\n⚠\uFE0F flip-flop = one single sandal",
+    "groupCode": 0
+  },
+  {
+    "id": 5013,
+    "fa": "من عجله دارم. میتونم من جلو بزنم ازت؟",
+    "en": "I'm in a hurry. Can I go ahead of you?",
+    "groupCode": 0
+  },
+  {
+    "id": 5014,
+    "fa": "صف بهم نزن (خط را نبر). صف (خط) شروع می شود عقب آنجا",
+    "en": "Don't cut in line. the line starts back there",
+    "groupCode": 0
+  },
+  {
+    "id": 5015,
+    "fa": "میتونی (مودبانه) لطفا نگه داری جای منو؟",
+    "en": "Could you please hold my spot?",
+    "groupCode": 0
+  },
+  {
+    "id": 5016,
+    "fa": "هی علی، من میخواهم بگیرم مرخصی از اول ژوئن تا پنجم ژوئن",
+    "en": "Hey Ali, I want to take vacation from June 1st to June 5th",
+    "groupCode": 0
+  },
+  {
+    "id": 5017,
+    "fa": "شاید ما بتوانیم (جستجو کنیم) به دنبال برای جایگزین هایی (به سمت جلو) از این به بعد باشیم",
+    "en": "Perhaps we can look for alternatives going forward",
+    "groupCode": 0
+  },
+  {
+    "id": 5018,
+    "fa": "من برگرداندمش به ورژن قبلی تا بلاک نکند تست را",
+    "en": "I reverted it back to the previous version so it does not block testing",
+    "groupCode": 0
+  },
+  {
+    "id": 5019,
+    "fa": "من دارم کار می کنم روی مورد و به محض اینکه من پیدا کنم علت را، من ایجاد خواهم کرد یک PR",
+    "en": "I'm working on the issue and as soon as I find the cause, I'll create a PR",
+    "groupCode": 0
+  },
+  {
+    "id": 5020,
+    "fa": "ما تصمیم گرفتیم سوییچ کنیم دهیم به یک سیستم جدید ماه بعدی",
+    "en": "We decided to switch over to a new system next month",
+    "groupCode": 0
+  },
+  {
+    "id": 5021,
+    "fa": "یک هشدار است محدودیت زمانی",
+    "en": "A caveat is the time limit",
+    "groupCode": 0
+  },
+  {
+    "id": 5022,
+    "fa": "بگذارید من چک کنم پیکربندی rollup را تا ببینم آیا MongoDB داره بقچه بندی میشه یا خارجی میشه",
+    "en": "Let me check the rollup config to see whether MongoDB is being bundled or externalized",
     "groupCode": 0
   }
 ]
