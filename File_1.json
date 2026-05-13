@@ -7279,9 +7279,9 @@
   },
   {
     "id": 4191,
-    "fa": "من پرداخت می کنم از جیب هر هفته، تا ضرر قابل توجهی از حساب پس اندازهایم",
+    "fa": "من پرداخت می کنم از جیب هر هفته، که ضرر قابل توجهی است از حساب پس اندازهایم",
     "en": "I pay out of pocket each week, to the considerable detriment of my savings account",
-    "desc": "The main verb is \"pay.\"\nThe rest (\"to the considerable detriment...\") is a prepositional phrase, giving extra information about the consequences of your action — but it has no verb inside it.",
+    "desc": "The second part:\n\n“to the considerable detriment of my savings account”\n\nis not a separate sentence.\nIt’s a prepositional phrase explaining the consequence/result of the action.\n\nThink of it like:\n\nI pay out of pocket each week\n→ and this harms my savings account.\n\nBut instead of using another verb like “harms,” English uses the noun phrase:\n\nto the detriment of\n\nwhich means:\n\n“causing harm to”",
     "groupCode": 0
   },
   {
@@ -7390,8 +7390,8 @@
   },
   {
     "id": 4209,
-    "fa": "کنجکاوی است خود ماندگار",
-    "en": "Curiosity is self-perpetuating",
+    "fa": "بوروکراسی می تواند بشود خود پایدار در طول زمان",
+    "en": "Bureaucracy can become self-perpetuating over time",
     "groupCode": 0
   },
   {
@@ -7881,8 +7881,8 @@
   },
   {
     "id": 4290,
-    "fa": "اکثریت ندادن هیچ منطقی برای تصمیمشان",
-    "en": "The majority gave no rationale for its decision",
+    "fa": "اکثریت دادن هیچ منطقی برای تصمیمشان",
+    "en": "The majority /məˈjärədē/ gave no rationale for its decision",
     "groupCode": 0
   },
   {
@@ -12337,6 +12337,24 @@
     "id": 5022,
     "fa": "بگذارید من چک کنم پیکربندی rollup را تا ببینم آیا MongoDB داره بقچه بندی میشه یا خارجی میشه",
     "en": "Let me check the rollup config to see whether MongoDB is being bundled or externalized",
+    "groupCode": 0
+  },
+  {
+    "id": 5023,
+    "fa": "او (مرد) کار می کند بیش از حد، که ضرری است به سلامتی اش",
+    "en": "He works too much, to the detriment of his health",
+    "groupCode": 0
+  },
+  {
+    "id": 5024,
+    "fa": "او (زن) نادیده گرفت این مورد را، که ضرری به پروژه",
+    "en": "She ignored the issue, to the detriment of the project",
+    "groupCode": 0
+  },
+  {
+    "id": 5025,
+    "fa": "یک ضرب المثل فارسی می گوید: اگر وجود داشته باشد بیش از یک آشپز، سوپ می شود یا خیلی شور یا خیلی بی مزه",
+    "en": "There is a Persian saying: if there is more than one cook, the soup becomes either too salty or too bland",
     "groupCode": 0
   }
 ]
