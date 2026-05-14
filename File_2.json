@@ -9588,7 +9588,7 @@
   },
   {
     "id": 11571,
-    "en": "\n 1.With cold tea it doesn't taste good \n 2.With cold soup I am not happy \n 3.With large boat we travel (drive) across (above) the lake \n 4.With long journeys I'm tired",
+    "en": "\n 1.With cold tea it doesn't taste good \n 2.With cold soup I am not happy \n 3.With large boat we travel (drive) across (above) the lake \n 4.With long ways I'm tired",
     "de": "\n 1.Mit kaltem Tee schmeckt es nicht gut \n 2.Mit kalter Suppe bin ich nicht glücklich \n 3.Mit großem Boot fahren wir über den See \n 4.Mit langen Wegen bin ich müde",
     "desc": "Adjective With No Article Dative \n mal: adj -em \n fem: adj -er \n neut: adj -em \n plur: adj -en \n\n\n Why den See?\n\nSee = lake (masculine noun: der See)\n\nThe preposition über can take accusative or dative:\n\nAccusative → motion toward / across (direction)\n\nDative → location / no movement\n\nHere, you are moving across the lake → motion toward/across → accusative\n\nAccusative masculine of der See = den See",
     "groupCode": 1
@@ -14845,7 +14845,7 @@
   },
   {
     "id": 12432,
-    "en": "Did you (plural) travel (drive) by the boat on a lake?",
+    "en": "Did you (plural) travel (drive) (with) by the boat on a lake?",
     "de": "Seid ihr mit dem Boot auf einem See gefahren?",
     "groupCode": 1
   },
@@ -18432,7 +18432,7 @@
   },
   {
     "id": 13020,
-    "en": "I would like to wear pajamas",
+    "en": "I would like to wear a pajamas",
     "de": "Ich möchte einen Pyjama tragen",
     "groupCode": 1
   },
@@ -18440,6 +18440,60 @@
     "id": 13021,
     "en": "Where did you grow up? I grew up in Tehran",
     "de": "Wo bist du aufgewachsen? Ich bin in Tehran aufgewachsen",
+    "groupCode": 1
+  },
+  {
+    "id": 13022,
+    "en": "I thought I would surprise you",
+    "de": "Ich dachte, ich würde dich überraschen",
+    "groupCode": 1
+  },
+  {
+    "id": 13023,
+    "en": "Noramlly, I read a book",
+    "de": "Normalerweise lese ich ein Buch",
+    "groupCode": 1
+  },
+  {
+    "id": 13024,
+    "en": "Until next time",
+    "de": "Bis zum nächsten Mal",
+    "groupCode": 1
+  },
+  {
+    "id": 13025,
+    "en": "I am placing very heavy books on the shelf. The bookcase is wobbling",
+    "de": "Ich stelle zehn schwere Bücher auf das Bücherregal. Das Bücherregal wackelt",
+    "groupCode": 1
+  },
+  {
+    "id": 13026,
+    "en": "A blue winter coat",
+    "de": "Ein blauer Wintermantel",
+    "groupCode": 1
+  },
+  {
+    "id": 13027,
+    "en": "I don't have a new skirt",
+    "de": "Ich habe keinen neuen Rock",
+    "groupCode": 1
+  },
+  {
+    "id": 13028,
+    "en": "Is this winter coat on sale?",
+    "de": "Ist dieser Wintermantel im Angebot?",
+    "groupCode": 1
+  },
+  {
+    "id": 13029,
+    "en": "A soft pair of pajamas",
+    "de": "Ein weicher Pyjama",
+    "groupCode": 1
+  },
+  {
+    "id": 13030,
+    "en": "This shirt must be somewhere",
+    "de": "Dieses Hemd muss irgendwo sein",
     "groupCode": 1
   }
 ]

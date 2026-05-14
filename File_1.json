@@ -3566,8 +3566,8 @@
   },
   {
     "id": 3581,
-    "fa": "من PR مربوطه را ادغام کرده ام، بنابراین شما می تونید برید جلو و الان شروع کنید",
-    "en": "I've merged the relevant PR, so you can go ahead and start now",
+    "fa": "من PR مربوطه را ادغام کرده ام، بنابراین شما می تونید الان شروع کنید و برید جلو",
+    "en": "I've merged the relevant PR, so you can start now and go ahead",
     "groupCode": 0
   },
   {
@@ -12311,7 +12311,7 @@
   },
   {
     "id": 5018,
-    "fa": "من برگرداندمش به ورژن قبلی تا بلاک نکند تست را",
+    "fa": "من برگرداندمش به ورژن قبلی بنابراین بلاک نمی کند تست را",
     "en": "I reverted it back to the previous version so it does not block testing",
     "groupCode": 0
   },
@@ -12347,7 +12347,7 @@
   },
   {
     "id": 5024,
-    "fa": "او (زن) نادیده گرفت این مورد را، که ضرری به پروژه",
+    "fa": "او (زن) نادیده گرفت این مورد را، که ضرری است به پروژه",
     "en": "She ignored the issue, to the detriment of the project",
     "groupCode": 0
   },
@@ -12355,6 +12355,36 @@
     "id": 5025,
     "fa": "یک ضرب المثل فارسی می گوید: اگر وجود داشته باشد بیش از یک آشپز، سوپ می شود یا خیلی شور یا خیلی بی مزه",
     "en": "There is a Persian saying: if there is more than one cook, the soup becomes either too salty or too bland",
+    "groupCode": 0
+  },
+  {
+    "id": 5026,
+    "fa": "ببخشید برای وقفه. من احتمالاً مایلم تا مرخصی بگیرم از اول ژوئن تا پنجم ژوئن. اوکی خواهد بود (فرضی) آن؟",
+    "en": "Sorry for the interruption. I would probably like to take time off from June 1st to June 5th. Would that be okay?",
+    "groupCode": 0
+  },
+  {
+    "id": 5027,
+    "fa": "مطمئناً، من سعی خواهم کرد تا کامل کنم وظایفی محول شده به من تا آن موقع",
+    "en": "Sure, I'll try to complete the tasks assigned to me by then",
+    "groupCode": 0
+  },
+  {
+    "id": 5028,
+    "fa": "او (زن) نشسته بود به طور آرام و تامل می کرد آینده اش را",
+    "en": "She sat quietly and contemplated her future",
+    "groupCode": 0
+  },
+  {
+    "id": 5029,
+    "fa": "من در حال حاضر (قبلا) چک کردم، اما لطفاً دوباره چکش کنید",
+    "en": "I've already checked, but please double-check it again",
+    "groupCode": 0
+  },
+  {
+    "id": 5030,
+    "fa": "بچه ها، سرویس های agentic توی بخش توسعه هستن یه کم نامرتب (شلخته) همین الان. قبل از اینکه من بسازم سرویس های جدید توی بخش تولید، من فقط می خوام تا تمیزشون کنم یه کم. بنابراین محیط توسعه ممکنه باشه یه غیرقابل اعتماد (کم ناپایدار) تا من بهتون بگم (بزارم بدونید) من کارم تموم شده، فقط آن را در ذهن داشته باشید",
+    "en": "Guys, the agentic services in dev are a bit sloppy right now. Before I create new services in prod, I just want to clean them up a bit. So the dev env might be a bit flaky until I let you know I'm done, just keep that in mind",
     "groupCode": 0
   }
 ]
