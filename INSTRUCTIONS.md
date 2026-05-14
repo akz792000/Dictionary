@@ -20,8 +20,8 @@ Each entry has:
 - Some sentences may be intentional quotes or cultural references from movies/TV series — do not correct their grammar as it may be stylistic on purpose
 
 ## Progress
-- Batches 1–10 (ids 1–1000) completed and reviewed
-- Next batch to process: ids 1001–1100
+- Batches 1–11 (ids 1–1100) completed and reviewed
+- Next batch to process: ids 1101–1200
 - When confirming each change, give 4 options: "Correct it" (apply the fix), "Correct it with desc" (apply the fix + add a desc field explaining the reason), "Don't touch it" (keep original), or "Give my opinion" (user types their preferred version)
 - After each batch, save the changes to the file before moving to the next batch
 - Any new advice or instructions from the user should be added here in INSTRUCTIONS.md
