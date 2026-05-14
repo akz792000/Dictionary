@@ -24,5 +24,6 @@ Each entry has:
 - Next batch to process: ids 1201–1300
 - When confirming each change, give 4 options: "Correct it" (apply the fix), "Correct it with desc" (apply the fix + add a desc field explaining the reason), "Don't touch it" (keep original), or "Give my opinion" (user types their preferred version)
 - After each batch, save the changes to the file before moving to the next batch
+- Do NOT create git commits — the user handles all commits manually
 - Any new advice or instructions from the user should be added here in INSTRUCTIONS.md
 
