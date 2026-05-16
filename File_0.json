@@ -8014,8 +8014,9 @@
   {
     "id": 1317,
     "fa": "این قدر پررو نباش",
-    "en": "Don't be so cheeky",
-    "groupCode": 0
+    "en": "Don't be so sassy",
+    "groupCode": 0,
+    "desc": "\"Cheeky\" is standard British English for being boldly rude or disrespectful. In American English, \"fresh\" (as in impudent or disrespectful) is the natural equivalent. Other American options include \"smart\" (as in smart-aleck) or \"sassy\"."
   },
   {
     "id": 1318,
@@ -8163,8 +8164,8 @@
   },
   {
     "id": 1342,
-    "fa": "بوی بدی می ده، نمیده",
-    "en": "It smells bad, doesn't it",
+    "fa": "بوی بدی می ده، نمیده؟",
+    "en": "It smells bad, doesn't it?",
     "groupCode": 0
   },
   {
@@ -8254,8 +8255,7 @@
   {
     "id": 1357,
     "fa": "من یک فنجان قهوه می خواهم",
-    "en": "I wanna cup of coffee",
-    "desc": "I want a cup of coffee",
+    "en": "I want a cup of coffee",
     "groupCode": 0
   },
   {
@@ -8273,7 +8273,7 @@
   {
     "id": 1360,
     "fa": "با لباس زیرم نمیتونم بخوابم. خوب، تو مجبوری",
-    "en": "I can't sleep in my underwear. Well, your gonna",
+    "en": "I can't sleep in my underwear. Well, you're gonna",
     "groupCode": 0
   },
   {
@@ -8290,8 +8290,8 @@
   },
   {
     "id": 1363,
-    "fa": "فکر میکنی امکان داشته باشد (فرضی) اگر من ۱۰۰ $ از حقوقم رو جلوتر بگیرم",
-    "en": "Do you think it would be possible if I got 100$ advance on my salary?",
+    "fa": "فکر میکنی امکان داشته باشد (فرضی) اگر من بگیرم یک ۱۰۰ $ جلوتر از حقوقم",
+    "en": "Do you think it would be possible if I got a $100 advance on my salary?",
     "groupCode": 0
   },
   {
@@ -8338,8 +8338,8 @@
   },
   {
     "id": 1371,
-    "fa": "من خریدم یک کفپوش (ها) جدید ماشین برای محافظت کردن فرش در خودروم",
-    "en": "I bought a new car floor mats to protect the carpet in my vehicle",
+    "fa": "من خریدم کفپوش های جدید ماشین برای محافظت کردن فرش در خودروم",
+    "en": "I bought new car floor mats to protect the carpet in my vehicle",
     "groupCode": 0
   },
   {
@@ -8441,9 +8441,10 @@
   },
   {
     "id": 1388,
-    "fa": "از من دلخوری؟",
-    "en": "Are you cross with me?",
-    "groupCode": 0
+    "fa": "از من عصبانی؟",
+    "en": "Are you mad at me?",
+    "groupCode": 0,
+    "desc": "\"Cross\" meaning annoyed or upset is standard British English. In American English, \"mad at\" is the natural equivalent. You can also say \"upset with me\" for a slightly softer tone."
   },
   {
     "id": 1389,
@@ -8478,8 +8479,9 @@
   {
     "id": 1394,
     "fa": "او (مرد) سه روز زیر سرم بود",
-    "en": "He was on a drip for three days",
-    "groupCode": 0
+    "en": "He was on an IV drip for three days",
+    "groupCode": 0,
+    "desc": "\"On a drip\" is British English for receiving intravenous fluids or medication. In American English, the standard term is \"on an IV\" or \"on an IV drip\" (IV = intravenous)."
   },
   {
     "id": 1395,
@@ -8503,8 +8505,9 @@
   {
     "id": 1398,
     "fa": "بینیم گرفته",
-    "en": "My nose is blocked up",
-    "groupCode": 0
+    "en": "My nose is stuffed up",
+    "groupCode": 0,
+    "desc": "\"Blocked up\" is British English for nasal congestion. In American English, \"stuffed up\" is the natural equivalent. You can also say \"My nose is congested\" or \"I have a stuffy nose\"."
   },
   {
     "id": 1399,
@@ -8515,8 +8518,9 @@
   {
     "id": 1400,
     "fa": "هر روز تا کی کار می کنی؟",
-    "en": "How late do you work everyday?",
-    "groupCode": 0
+    "en": "How late do you work every day?",
+    "groupCode": 0,
+    "desc": "\"Everyday\" (one word) is an adjective meaning ordinary or routine (e.g., \"an everyday task\"). When used as an adverb meaning \"each day\", it must be written as two words: \"every day\" (e.g., \"I work every day\")."
   },
   {
     "id": 1401,
