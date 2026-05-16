@@ -12311,7 +12311,7 @@
   },
   {
     "id": 5018,
-    "fa": "من برگرداندمش به ورژن قبلی بنابراین بلاک نمی کند تست را",
+    "fa": "من برگرداندمش به ورژن قبلی بنابراین بلاک نمی کند تست کردن را",
     "en": "I reverted it back to the previous version so it does not block testing",
     "groupCode": 0
   },

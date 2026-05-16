@@ -7347,8 +7347,8 @@
   },
   {
     "id": 1208,
-    "fa": "آیا دوست دارید (مودبانه) مقداری مواد اضافی روی پیتزای خود؟",
-    "en": "Would you like some extra ingredients on your pizza?",
+    "fa": "آیا دوست دارید (مودبانه) مقداری مواد اضافی (بالا) روی پیتزای خود؟",
+    "en": "Would you like some extra toppings on your pizza?",
     "groupCode": 0
   },
   {
@@ -7402,9 +7402,10 @@
   },
   {
     "id": 1217,
-    "fa": "ساعات کاری (ساعتهای که باز هستید) شما چیست؟",
-    "en": "What are your opening hours?",
-    "groupCode": 0
+    "fa": "ساعات کاری (ساعتهای بیزنسی) شما چیست؟",
+    "en": "What are your business hours?",
+    "groupCode": 0,
+    "desc": "\"Opening hours\" is standard British English. In American English, \"business hours\" or \"hours of operation\" are the preferred terms."
   },
   {
     "id": 1218,
@@ -7426,8 +7427,8 @@
   },
   {
     "id": 1221,
-    "fa": "آن دسته گل جداً تک به نظر می رسد",
-    "en": "That bouquet looks indeed unique",
+    "fa": "آن دسته گل جداً به نظر می رسد تک",
+    "en": "That bouquet does indeed look unique",
     "groupCode": 0
   },
   {
@@ -7580,8 +7581,9 @@
   {
     "id": 1246,
     "fa": "او (مرد) اصرار داشت که ما شما را با همه تجهیزات پیشرفته تجهیز کنیم",
-    "en": "He insisted that we set you up with all state-of-the-art equipments",
-    "groupCode": 0
+    "en": "He insisted that we set you up with all state-of-the-art equipment",
+    "groupCode": 0,
+    "desc": "\"Equipment\" is an uncountable (mass) noun in English and has no plural form. You cannot say \"equipments\" — it is always \"equipment\" regardless of quantity."
   },
   {
     "id": 1247,
@@ -7653,7 +7655,7 @@
   {
     "id": 1258,
     "fa": "آیا این کفش ها را در 45 دارید؟ بله بفرمایید. آیا می خواهید آنها را امتحان کنید؟",
-    "en": "Do you have these shoes in 45? Yes, Here you are. Do you wanna try them on?",
+    "en": "Do you have these shoes in 45? Yes, here you are. Do you wanna try them on?",
     "groupCode": 0
   },
   {
@@ -7695,8 +7697,8 @@
   },
   {
     "id": 1265,
-    "fa": "من شاید دارم مبتلا به یک آنفولانزا یا چیز دیگری می شم",
-    "en": "I might be coming down with a flu or something else",
+    "fa": "من شاید دارم مبتلا به آنفولانزا یا چیز دیگری می شم",
+    "en": "I might be coming down with the flu or something",
     "groupCode": 0
   },
   {
@@ -7732,7 +7734,7 @@
   {
     "id": 1271,
     "fa": "تا به حال چه تفاوت هایی را تو متوجه شده ای؟",
-    "en": "What differences have you been noticed so far?",
+    "en": "What differences have you noticed so far?",
     "groupCode": 0
   },
   {
@@ -7756,7 +7758,7 @@
   {
     "id": 1275,
     "fa": "من عاشق در اطراف طبیعت بودن هستم. صداهای آرامش بخش و هوای تازه همیشه مرا جوان می کند",
-    "en": "I love to be around nature. the soothing /ˈsuːðɪŋ/ sounds and fresh air always rejuvenate me",
+    "en": "I love to be around nature. The soothing /ˈsuːðɪŋ/ sounds and fresh air always rejuvenate me",
     "groupCode": 0
   },
   {
@@ -7819,7 +7821,7 @@
   {
     "id": 1285,
     "fa": "آیا می دانید چقدر تاریک اقیانوس می شود در شب؟",
-    "en": "Do you know how dark ocean gets at night?",
+    "en": "Do you know how dark the ocean gets at night?",
     "groupCode": 0
   },
   {

@@ -9782,7 +9782,7 @@
   },
   {
     "id": 11603,
-    "en": "I hit. I hit. I have hit",
+    "en": "I meet/hit. I met/hit. I have met/hit",
     "de": "Ich treffe. Ich traf. Ich habe getroffen",
     "groupCode": 1
   },
@@ -10754,7 +10754,7 @@
   },
   {
     "id": 11762,
-    "en": "You don't still want to go soon (shortly) again? What's wrong?",
+    "en": "You don't (emphasis) want to go soon (shortly) again? What's wrong?",
     "de": "Du willst doch nicht gleich wieder gehen? Was ist denn los?",
     "groupCode": 1
   },
@@ -16779,7 +16779,7 @@
   {
     "id": 12749,
     "en": "Do you know (aware) when the movie starts?",
-    "de": "Weißt du, wann der Film beginnt?",
+    "de": "Weißt du, wann der Film anfängt?",
     "groupCode": 1
   },
   {
@@ -18456,13 +18456,13 @@
   },
   {
     "id": 13024,
-    "en": "Until next time",
+    "en": "Until to the next time",
     "de": "Bis zum nächsten Mal",
     "groupCode": 1
   },
   {
     "id": 13025,
-    "en": "I am placing very heavy books on the shelf. The bookcase is wobbling",
+    "en": "I am placing ten heavy books on the shelf. The bookcase is wobbling",
     "de": "Ich stelle zehn schwere Bücher auf das Bücherregal. Das Bücherregal wackelt",
     "groupCode": 1
   },
@@ -18494,6 +18494,66 @@
     "id": 13030,
     "en": "This shirt must be somewhere",
     "de": "Dieses Hemd muss irgendwo sein",
+    "groupCode": 1
+  },
+  {
+    "id": 13031,
+    "en": "I hit the target (disk)",
+    "de": "Ich treffe die Scheibe",
+    "groupCode": 1
+  },
+  {
+    "id": 13032,
+    "en": "The disk is clean",
+    "de": "Die Scheibe ist sauber",
+    "groupCode": 1
+  },
+  {
+    "id": 13033,
+    "en": "My stomach hurts",
+    "de": "Mein Magen tut weh",
+    "groupCode": 1
+  },
+  {
+    "id": 13034,
+    "en": "The recipient is missing",
+    "de": "Der Empfänger fehlt",
+    "groupCode": 1
+  },
+  {
+    "id": 13035,
+    "en": "My keys are missing",
+    "de": "Mir fehlen meine Schlüssel",
+    "groupCode": 1
+  },
+  {
+    "id": 13036,
+    "en": "Words are missing in the text",
+    "de": "Im Text fehlen Wörter",
+    "groupCode": 1
+  },
+  {
+    "id": 13037,
+    "en": "You're bothering people, honey",
+    "de": "Du störst die Leute, Schatz",
+    "groupCode": 1
+  },
+  {
+    "id": 13038,
+    "en": "The other rooms stink too",
+    "de": "Die anderen Zimmer stinken auch",
+    "groupCode": 1
+  },
+  {
+    "id": 13039,
+    "en": "My friend did not come on time",
+    "de": "Mein Freund ist nicht pünktlich gekommen",
+    "groupCode": 1
+  },
+  {
+    "id": 13040,
+    "en": "Suddenly, a lot has happened",
+    "de": "Plötzlich ist viel passiert",
     "groupCode": 1
   }
 ]
