@@ -9130,9 +9130,10 @@
   },
   {
     "id": 1501,
-    "fa": "اگر شما از عنکبوت نمی ترسیدید، شما آن را برداشته بودید و بیرون گذاشته بودید",
-    "en": "If you weren't afraid of spider, you would have picked it up and put it outside",
-    "groupCode": 0
+    "fa": "اگر شما از عنکبوت ها نمی ترسیدید، شما آن را برداشته بودید و بیرون گذاشته بودید",
+    "en": "If you weren't afraid of spiders, you would have picked it up and put it outside",
+    "groupCode": 0,
+    "desc": "When expressing a general fear of a type of creature or thing, English uses the plural form: \"afraid of spiders\", \"afraid of dogs\", \"afraid of heights\". The singular would only be used for a specific spider: \"afraid of that spider\"."
   },
   {
     "id": 1502,
@@ -9265,7 +9266,7 @@
   {
     "id": 1523,
     "fa": "کاش دانسته بودم که اصغر بیمار بود. من رفته بودم تا ببینمش",
-    "en": "I wish I'd known that Asghar was ill. I would have gone to see him",
+    "en": "I wish I'd known that Asghar was sick. I would have gone to see him",
     "groupCode": 0
   },
   {
@@ -9318,8 +9319,8 @@
   },
   {
     "id": 1532,
-    "fa": "من همه پولم را احمقانه تلف کردن",
-    "en": "I have fooled away all my money",
+    "fa": "من تمام پولم را کم کم (ولخرجی) هدر داده ام",
+    "en": "I have frittered away all my money",
     "desc": "\"I have fooled away all my money\" is a general statement about wasting money.\n\"I have fooled away all of my money\" emphasizes that every bit of money has been wasted.",
     "groupCode": 0
   },
@@ -9452,8 +9453,8 @@
   },
   {
     "id": 1554,
-    "fa": "چیزها را شخصی نکن",
-    "en": "Don't make things personally",
+    "fa": "مسائل را شخصی نکنید (چیزها را نگیر شخصی)",
+    "en": "Don't take things personally",
     "groupCode": 0
   },
   {
@@ -9659,13 +9660,13 @@
   {
     "id": 1588,
     "fa": "دارم التماست می کنم, در را قفل کن",
-    "en": "\n 1.I'm begging you, Lock the door \n 2.I'm pleading with you, Lock the door",
+    "en": "\n 1.I'm begging you, lock the door \n 2.I'm pleading with you, lock the door",
     "groupCode": 0
   },
   {
     "id": 1589,
     "fa": "اگه حق با من باشد چی؟",
-    "en": "What if I'm right",
+    "en": "What if I'm right?",
     "groupCode": 0
   },
   {
@@ -9785,7 +9786,7 @@
   {
     "id": 1609,
     "fa": "به خدا قسم میخورم",
-    "en": "I swear to god",
+    "en": "I swear to God",
     "groupCode": 0
   },
   {
@@ -9948,14 +9949,15 @@
   {
     "id": 1636,
     "fa": "چه كسی پردرآمدترین كارمند آمازون است؟",
-    "en": "Who is Amazon's highest paid employee?",
+    "en": "Who is Amazon's highest-paid employee?",
     "groupCode": 0
   },
   {
     "id": 1637,
     "fa": "وقت زیادی نداریم",
-    "en": "We don't have so much time",
-    "groupCode": 0
+    "en": "We don't have much time",
+    "groupCode": 0,
+    "desc": "\"So much\" is typically used in comparisons or to express excess (e.g., \"I don't have so much time as I used to\"). For a simple statement meaning time is limited, \"We don't have much time\" is the natural and correct phrasing."
   },
   {
     "id": 1638,
@@ -9966,7 +9968,7 @@
   {
     "id": 1639,
     "fa": "شماره های ناشناس رو پاسخ نده",
-    "en": "Don't answer unknown number",
+    "en": "Don't answer unknown numbers",
     "groupCode": 0
   },
   {
@@ -9996,7 +9998,7 @@
   {
     "id": 1644,
     "fa": "کیک در حال درست شدن است",
-    "en": "Cake has been being made",
+    "en": "The cake has been being made",
     "groupCode": 0
   },
   {
@@ -10019,8 +10021,8 @@
   },
   {
     "id": 1648,
-    "fa": "کیک در حال درست شدن بود",
-    "en": "Cake had been being made",
+    "fa": "او (مرد) در تیم یک تازه کار است",
+    "en": "He is a rookie on the team",
     "groupCode": 0
   },
   {
@@ -10141,13 +10143,13 @@
   {
     "id": 1668,
     "fa": "یک خیار هستش، انتخاب شده تا خرد شود برای سالاد",
-    "en": "It is a cucumber, It has been chosen to be chopped for salad",
+    "en": "It is a cucumber, it has been chosen to be chopped for salad",
     "groupCode": 0
   },
   {
     "id": 1669,
     "fa": "رئیس جمهور سوگند یاد کرد که از قانون اساسی حمایت کند",
-    "en": "The President swore to uphold the constitution",
+    "en": "The President swore to uphold the Constitution",
     "groupCode": 0
   },
   {
@@ -10213,7 +10215,7 @@
   {
     "id": 1680,
     "fa": "آیا نمی خواهی او (زن) را به جشن تولدت دعوت کنی؟",
-    "en": "Don't you want to invite her to your birthday party",
+    "en": "Don't you want to invite her to your birthday party?",
     "groupCode": 0
   },
   {
@@ -10243,7 +10245,7 @@
   {
     "id": 1685,
     "fa": "به نظر شما او (زن) می تواند دوست خوبی برای من باشد؟",
-    "en": "Do you think she can be a good friend for me?",
+    "en": "Do you think she can be a good friend to me?",
     "groupCode": 0
   },
   {
@@ -10292,8 +10294,8 @@
   },
   {
     "id": 1693,
-    "fa": "او (مرد) هرگز اشتباهش را اذعان نمی کند",
-    "en": "He never admits his mistake",
+    "fa": "او (مرد) هرگز اشتباهاتش را اذعان نمی کند",
+    "en": "He never admits his mistakes",
     "groupCode": 0
   },
   {
@@ -10378,7 +10380,7 @@
   {
     "id": 1707,
     "fa": "او (زن) اجازه داد بهش (مرد) مخ دوستش (زن) را بزند برای بیش از 5 دقیقه",
-    "en": "She let him hitting on her friend for over 5 minutes",
+    "en": "She let him hit on her friend for over 5 minutes",
     "groupCode": 0
   },
   {
@@ -10443,8 +10445,8 @@
   },
   {
     "id": 1718,
-    "fa": "ممنون از سوار کردنتان",
-    "en": "Thanks for the lift",
+    "fa": "ممنون از سواری",
+    "en": "Thanks for the ride",
     "groupCode": 0
   },
   {
@@ -10569,8 +10571,8 @@
   },
   {
     "id": 1739,
-    "fa": "من دارم چیزی را آموزش می دهم که هیچ کس در اینجا علاقه ندارد",
-    "en": "I'm teaching something that no one here is interested of",
+    "fa": "من دارم چیزی را آموزش می دهم که هیچ کس اینجا علاقه ندارد",
+    "en": "I'm teaching something that no one here is interested in",
     "groupCode": 0
   },
   {
@@ -10722,8 +10724,8 @@
   },
   {
     "id": 1764,
-    "fa": "لطفا عجولانه نتیجه گیری نکن",
-    "en": "Please don't jump to conclusion",
+    "fa": "لطفا عجولانه نتیجه گیری (ها) نکن",
+    "en": "Please don't jump to conclusions",
     "desc": "\"Don't make rash decisions\": Avoid impulsive actions.\n\"Don't jump to conclusions\": Avoid making assumptions too quickly.",
     "groupCode": 0
   },
@@ -10760,8 +10762,8 @@
   },
   {
     "id": 1770,
-    "fa": "دوستان باید بدون هیچ انتظاری به یکدیگر کمک کنند",
-    "en": "Friends must help each other without any expectation",
+    "fa": "دوستان باید بدون هیچ انتظاراتی به یکدیگر کمک کنند",
+    "en": "Friends must help each other without any expectations",
     "groupCode": 0
   },
   {
@@ -10904,13 +10906,13 @@
   {
     "id": 1793,
     "fa": "یه چیزی هست که میخوام باهات صحبت کنم",
-    "en": "There's something that I want to talk you about",
+    "en": "There's something I want to talk to you about",
     "groupCode": 0
   },
   {
     "id": 1794,
     "fa": "من خیلی چیز زیادی در موردش نمی دانم",
-    "en": "I don't know so much about it",
+    "en": "I don't know much about it",
     "groupCode": 0
   },
   {
