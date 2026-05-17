@@ -10969,7 +10969,8 @@
   {
     "id": 1803,
     "fa": "من شما را مسئول این مشکل می دانم",
-    "en": "I hold your responsible for this problem",
+    "en": "I hold you responsible for this problem",
+    "desc": "Why:\nyou = object (the person you blame)\nyour = shows possession (your car, your book) → not correct here\n\nSo:\n\n✔ you responsible\n✘ your responsible",
     "groupCode": 0
   },
   {
@@ -11081,8 +11082,8 @@
   },
   {
     "id": 1821,
-    "fa": "من قلبا تاجر هستم",
-    "en": "I'm businessman at heart",
+    "fa": "من هستم یک تاجر قلبا",
+    "en": "I'm a businessman at heart",
     "groupCode": 0
   },
   {
@@ -11185,7 +11186,7 @@
   {
     "id": 1838,
     "fa": "من وقت فراغت این تابستان دارم",
-    "en": "I've spare time this summer",
+    "en": "I have spare time this summer",
     "groupCode": 0
   },
   {
@@ -11251,8 +11252,8 @@
   },
   {
     "id": 1849,
-    "fa": "چرا در اینجا به مهاجران نیاز است وقتی بسیاری از ما شغل نداریم؟",
-    "en": "Why are immigrants needed in here when many of us don't have jobs?",
+    "fa": "چرا نیاز است مهاجران اینجا وقتی بسیاری از ما شغل نداریم؟",
+    "en": "Why are immigrants needed here when many of us don't have jobs?",
     "groupCode": 0
   },
   {
@@ -11294,7 +11295,7 @@
   {
     "id": 1856,
     "fa": "من دارم نقشه می ریزم تا در ماه آگوست یک سفر به اروپا داشته باشم",
-    "en": "I'm planning to take a trip to europe in August",
+    "en": "I'm planning to take a trip to Europe in August",
     "groupCode": 0
   },
   {
@@ -11353,8 +11354,8 @@
   },
   {
     "id": 1866,
-    "fa": "او (مرد) مرا به شک انداخت",
-    "en": "He made me doubt",
+    "fa": "او (مرد) خودم را به شک انداخت",
+    "en": "He made me doubt myself",
     "groupCode": 0
   },
   {
@@ -11384,7 +11385,7 @@
   {
     "id": 1871,
     "fa": "از خودت خوب مراقب کن",
-    "en": "Take a good care of yourself",
+    "en": "Take good care of yourself",
     "groupCode": 0
   },
   {
@@ -11509,8 +11510,8 @@
   },
   {
     "id": 1892,
-    "fa": "چرا هیچ یک از تماس های من را  جواب نمی دی (نمی گیری)؟",
-    "en": "Why don't you take any of my call?",
+    "fa": "چرا هیچ یک از تماس های من را جواب نمی دی (نمی گیری)؟",
+    "en": "Why don't you take any of my calls?",
     "groupCode": 0
   },
   {
@@ -11683,8 +11684,8 @@
   },
   {
     "id": 1921,
-    "fa": "من بلیط باز دارم و مایلم یک تاریخ خروج را زمانبندی کنم",
-    "en": "I have open ended ticket and I would like to schedule a departure date",
+    "fa": "من یک بلیط باز دارم و مایلم یک تاریخ خروج را زمانبندی کنم",
+    "en": "I have an open-ended ticket and I would like to schedule a departure date",
     "groupCode": 0
   },
   {
@@ -11721,7 +11722,7 @@
   {
     "id": 1927,
     "fa": "جاه طلبی یک مرد هرگز نباید از ارزش او فراتر رود",
-    "en": "A man ambition should never exceed his worth",
+    "en": "A man's ambition should never exceed his worth",
     "groupCode": 0
   },
   {
@@ -11745,7 +11746,7 @@
   {
     "id": 1931,
     "fa": "کنجکاو باش نه قضاوت کننده",
-    "en": "Be curious not judgemental",
+    "en": "Be curious not judgmental",
     "groupCode": 0
   },
   {
@@ -11916,7 +11917,7 @@
   {
     "id": 1959,
     "fa": "بایدن اعلام می کند ایده جدید برای کم کردن وابستگی اروپا از انرژی روسیه",
-    "en": "Biden announces new plan to wean europe off russian energy",
+    "en": "Biden announces new plan to wean Europe off Russian energy",
     "groupCode": 0
   },
   {
@@ -11928,7 +11929,7 @@
   {
     "id": 1961,
     "fa": "خون روی زمین ریخته شد. نبود؟",
-    "en": "The blood was spilt on the ground. Wasn't it?",
+    "en": "The blood was spilled on the ground. Wasn't it?",
     "desc": "The first one, \"Was it not?\" is more formal, while the second one, \"Wasn't it?\" is less formal and more conversational. Either can be used depending on the context and the tone you want to convey.",
     "groupCode": 0
   },
@@ -11952,8 +11953,8 @@
   },
   {
     "id": 1965,
-    "fa": "چانه ام را با تیغ (خراش) بریدم",
-    "en": "I nick my chin with razor",
+    "fa": "چانه ام را با یک تیغ (خراش) بریدم",
+    "en": "I nicked my chin with a razor",
     "desc": "nick=a small cut or notch",
     "groupCode": 0
   },
@@ -12010,7 +12011,7 @@
   {
     "id": 1974,
     "fa": "او (مرد) از مدرسه اخراج شده برای رفتار مختل کننده",
-    "en": "He was expelled from school for disruptive behaviour",
+    "en": "He was expelled from school for disruptive behavior",
     "groupCode": 0
   },
   {
