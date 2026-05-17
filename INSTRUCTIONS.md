@@ -1,4 +1,4 @@
-# Processing Instructions for Dictionary JSON Files
+i# Processing Instructions for Dictionary JSON Files
 
 ## Target Files
 - File_0.json (and others as needed)
@@ -20,19 +20,10 @@ Each entry has:
 - Some sentences may be intentional quotes or cultural references from movies/TV series — do not correct their grammar as it may be stylistic on purpose
 
 ## Progress
-- Batches 1–12 (ids 1–1200) completed and reviewed
 - Next batch to process: ids 2001–2100
-- Batch 1201–1300 completed: fixed ids 1204, 1231, 1259, 1287; left 1221 unchanged
-- Batch 1301–1400 completed: fixed ids 1303, 1378; rest unchanged
-- Batch 1401–1500 completed: fixed ids 1450, 1461; rest unchanged
-- Batch 1501–1600 completed: fixed id 1595; rest unchanged
-- Batch 1601–1700 completed: fixed id 1658; left 1644 unchanged; rest unchanged
-- Batch 1701–1800 completed: fixed ids 1754, 1783; rest unchanged
-- Batch 1801–1900 completed: fixed ids 1803, 1821, 1838, 1849, 1856, 1866, 1871, 1892; rest unchanged
-- Batch 1901–2000 completed: fixed ids 1921, 1927, 1931, 1959, 1961, 1965, 1974; rest unchanged
 - When confirming each change, give 4 options as selectable choices (not numbered): "Correct it" (apply the fix), "Correct it with desc" (apply the fix + add a desc field explaining the reason), "Don't touch it" (keep original), or "Give my opinion" (user types their preferred version) — user picks from the choice UI, no need to type a number
 - After each batch, save the changes to the file before moving to the next batch
 - Do NOT create git commits — the user handles all commits manually
 - Any new advice or instructions from the user should be added here in INSTRUCTIONS.md
-- After every step taken (e.g., completing a batch, applying a fix, saving a file), update the Progress section in this INSTRUCTIONS.md to reflect what was done
+- After every step taken, update the "Next batch to process" line to reflect what's coming next
 
