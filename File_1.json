@@ -7304,7 +7304,7 @@
   },
   {
     "id": 4195,
-    "fa": "او (مرد) داشت به سختی جور می کرد (چنگ می زند) پول کافی برای پرداخت کردن اجاره",
+    "fa": "او (مرد) داشت به سختی جور می کرد (چنگ می زند) پول کافی تا پرداخت کند اجاره",
     "en": "He was barely scraping enough money to pay the rent",
     "groupCode": 0
   },
@@ -9851,7 +9851,7 @@
   },
   {
     "id": 4614,
-    "fa": "خوشبختانه، فیلم برداری شده است؛ در غیر این صورت، هیچ کس آن را باور نکرده بود",
+    "fa": "خوشبختانه، فیلم برداری شده است؛ در غیر این صورت، هیچ کس باورش نکرده بود",
     "en": "Luckily, it was filmed; otherwise, no one would have believed it",
     "groupCode": 0
   },
@@ -10029,6 +10029,7 @@
     "id": 4643,
     "fa": "وقتی من دیدم ایمان دروغین تو را، من شروع کردم تا عاشق گناهانم شوم",
     "en": "When I saw your false faith, I started to love my sins",
+    "desc": "\n\nto + verb → often after verbs like:\nwant, need, hope, plan, decide\nExample:\n\n\nI want to sleep.\n\n\n\n\nverb + ing (gerund) → often after prepositions:\nin, on, at, about, for\nExample:\n\n\nI am interested in learning.\n\n\n\n\nAfter start/begin/like/love/hate, both are usually correct:\n\n\nI started to read.\n\n\nI started reading.",
     "groupCode": 0
   },
   {

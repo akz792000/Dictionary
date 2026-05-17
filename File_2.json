@@ -10655,7 +10655,7 @@
   },
   {
     "id": 11746,
-    "en": "You are twice as old as me, but (you) still always behave like a child",
+    "en": "You are twice as old as me, but (you) still always behave (emphasis) like a child",
     "de": "Du bist doppelt so alt wie ich, aber (du) benimmst dich immer noch wie ein Kind",
     "desc": "so … wie → comparison structure = as … as",
     "groupCode": 1
@@ -16974,7 +16974,7 @@
   },
   {
     "id": 12781,
-    "en": "Unfortunately I cannot come to work tomorrow because I am sick. I have (a) bad headache and have to go to the doctor. I am very sorry that I cannot come",
+    "en": "Unfortunately I cannot come to work tomorrow because I am sick. I have (a) strong headache and have to go to the doctor. I am very sorry that I cannot come",
     "de": "leider kann ich morgen nicht zur Arbeit kommen, weil ich krank bin. Ich habe starke Kopfschmerzen und muss zum Arzt gehen. Es tut mir sehr leid, dass ich nicht kommen kann",
     "groupCode": 1
   },
@@ -18554,6 +18554,66 @@
     "id": 13040,
     "en": "Suddenly, a lot has happened",
     "de": "Plötzlich ist viel passiert",
+    "groupCode": 1
+  },
+  {
+    "id": 13041,
+    "en": "Could you please bring out the trash?",
+    "de": "Kannst du bitte den Müll rausbringen?",
+    "groupCode": 1
+  },
+  {
+    "id": 13042,
+    "en": "I place my handbag under the armchair",
+    "de": "Ich stelle meine Handtasche unter den Sessel",
+    "groupCode": 1
+  },
+  {
+    "id": 13043,
+    "en": "He ran too slowly",
+    "de": "Er ist zu langsam gelaufen",
+    "groupCode": 1
+  },
+  {
+    "id": 13044,
+    "en": "I traveled by train",
+    "de": "Ich bin mit dem Zug gereist",
+    "groupCode": 1
+  },
+  {
+    "id": 13045,
+    "en": "When are you coming back?",
+    "de": "Wann kommst du zurück?",
+    "groupCode": 1
+  },
+  {
+    "id": 13046,
+    "en": "Do you prefer rock music or pop music?",
+    "de": "Magst du Rockmusik oder Popmusik lieber?",
+    "groupCode": 1
+  },
+  {
+    "id": 13047,
+    "en": "We are rehearsing rock music today",
+    "de": "Wir proben heute Rockmusik",
+    "groupCode": 1
+  },
+  {
+    "id": 13048,
+    "en": "He is really musical and plays the guitar",
+    "de": "Er ist wirklich musikalisch und spielt Gitarre",
+    "groupCode": 1
+  },
+  {
+    "id": 13049,
+    "en": "She brings the jacket back",
+    "de": "Sie bringt die Jacke zurück",
+    "groupCode": 1
+  },
+  {
+    "id": 13050,
+    "en": "They always come back on time",
+    "de": "Sie kommen immer pünktlich zurück",
     "groupCode": 1
   }
 ]
