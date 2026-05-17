@@ -7324,8 +7324,9 @@
   {
     "id": 1204,
     "fa": "میتوانی کلیدها را به من پرتاب کنی؟",
-    "en": "Can you chuck me the keys?",
-    "groupCode": 0
+    "en": "Can you toss me the keys?",
+    "groupCode": 0,
+    "desc": "\"Chuck\" is primarily British/Australian informal English. In American English, \"toss\" is the natural equivalent when asking someone to throw something to you."
   },
   {
     "id": 1205,
@@ -7488,8 +7489,8 @@
   },
   {
     "id": 1231,
-    "fa": "حدود دو هفته شده و می خوام بدونم چقدر طول خواهد کشید برای من تا ماشینم را بگیرم",
-    "en": "It has been around two weeks and I want to know how long it will take for me to get my car",
+    "fa": "حدود دو هفته شده و می خوام بدونم چقدر طول خواهد کشید برای من تا ماشینم را پس بگیرم",
+    "en": "It has been around two weeks and I want to know how long it will take for me to get my car back",
     "groupCode": 0
   },
   {
@@ -7660,8 +7661,8 @@
   },
   {
     "id": 1259,
-    "fa": "من نمی خواهم پول را پس بدهم. من این جفت (کفش) را خواهم برد",
-    "en": "I don't wanna refund. I'll take this pair",
+    "fa": "من نمی خواهم یک بازپرداخت. من این جفت (کفش) را خواهم برد",
+    "en": "I don't want a refund. I'll take this pair",
     "groupCode": 0
   },
   {
@@ -7833,7 +7834,7 @@
   {
     "id": 1287,
     "fa": "آیا می توانم سوالات را بپرسم(شلیک کنم)؟",
-    "en": "Can I shoot questions?",
+    "en": "Can I shoot you some questions?",
     "groupCode": 0
   },
   {

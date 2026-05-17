@@ -21,9 +21,11 @@ Each entry has:
 
 ## Progress
 - Batches 1–12 (ids 1–1200) completed and reviewed
-- Next batch to process: ids 1201–1300
-- When confirming each change, give 4 options: "Correct it" (apply the fix), "Correct it with desc" (apply the fix + add a desc field explaining the reason), "Don't touch it" (keep original), or "Give my opinion" (user types their preferred version)
+- Next batch to process: ids 1301–1400
+- Batch 1201–1300 completed: fixed ids 1204, 1231, 1259, 1287; left 1221 unchanged
+- When confirming each change, give 4 options as selectable choices (not numbered): "Correct it" (apply the fix), "Correct it with desc" (apply the fix + add a desc field explaining the reason), "Don't touch it" (keep original), or "Give my opinion" (user types their preferred version) — user picks from the choice UI, no need to type a number
 - After each batch, save the changes to the file before moving to the next batch
 - Do NOT create git commits — the user handles all commits manually
 - Any new advice or instructions from the user should be added here in INSTRUCTIONS.md
+- After every step taken (e.g., completing a batch, applying a fix, saving a file), update the Progress section in this INSTRUCTIONS.md to reflect what was done
 
