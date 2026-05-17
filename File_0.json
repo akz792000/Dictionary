@@ -7929,8 +7929,8 @@
   },
   {
     "id": 1303,
-    "fa": "صبح مه آلود تبدیل شد به یک روز گرم و مرطوب با یک نم نم باران",
-    "en": "The foggy morning turned into a muggy day with a drizzle of rain",
+    "fa": "صبح مه آلود تبدیل شد به یک روز گرم و مرطوب با یک نم نم سبک (باران)",
+    "en": "The foggy morning turned into a muggy day with a light drizzle",
     "groupCode": 0
   },
   {
@@ -8382,8 +8382,9 @@
   {
     "id": 1378,
     "fa": "چقدر احتمال برای انتخاب مجدد او (مرد) وجود دارد؟",
-    "en": "What are the odds on him being re-elected?",
-    "groupCode": 0
+    "en": "What are the odds of him being re-elected?",
+    "groupCode": 0,
+    "desc": "\"Odds on\" is British English (e.g., \"odds-on favorite\"). In American English, \"odds of\" is the natural preposition when asking about probability: \"What are the odds of something happening?\""
   },
   {
     "id": 1379,
@@ -8825,7 +8826,7 @@
   {
     "id": 1450,
     "fa": "من از قبل سفارش دادم, من الان اومدم تحویلش بگیرم",
-    "en": "I pre-ordered, I have just come to pick it up",
+    "en": "I pre-ordered, I just came to pick it up",
     "groupCode": 0
   },
   {
@@ -8891,7 +8892,7 @@
   {
     "id": 1461,
     "fa": "اختلاف در سن آن ها به نظر رسید مهم نباشه",
-    "en": "The discrepancy in their ages seemed not to matter",
+    "en": "The difference in their ages didn't seem to matter",
     "groupCode": 0
   },
   {
@@ -9702,8 +9703,8 @@
   },
   {
     "id": 1595,
-    "fa": "مثل یک بچه رفتار نکن",
-    "en": "Don't behave like a child",
+    "fa": "مثل یک بچه عمل نکن",
+    "en": "Don't act like a child",
     "groupCode": 0
   },
   {
@@ -10083,8 +10084,8 @@
   },
   {
     "id": 1658,
-    "fa": "کی میای دنبال من؟",
-    "en": "When do you come for me?",
+    "fa": "کی داری میای منو ببری (بلند کنی)؟",
+    "en": "When are you coming to pick me up?",
     "groupCode": 0
   },
   {
@@ -10666,8 +10667,9 @@
   {
     "id": 1754,
     "fa": "حوله را بگیر و آب را جذب کن",
-    "en": "Take the towel and sop (/ˈsɑːp/) water up",
-    "groupCode": 0
+    "en": "Take the towel and sop (/ˈsɑːp/) up the water",
+    "groupCode": 0,
+    "desc": "With phrasal verbs like \"sop up\", when the object is a noun with an article (\"the water\"), it can go after the particle: \"sop up the water\". Without an article, the object must go between the verb and the particle: \"sop the water up\"."
   },
   {
     "id": 1755,
@@ -10846,7 +10848,7 @@
   {
     "id": 1783,
     "fa": "خجالت میکشم بپرسم",
-    "en": "I'm ashamed to ask",
+    "en": "I'm embarrassed to ask",
     "groupCode": 0
   },
   {
