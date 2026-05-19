@@ -12387,5 +12387,17 @@
     "fa": "بچه ها، سرویس های agentic توی بخش توسعه هستن یه کم نامرتب (شلخته) همین الان. قبل از اینکه من بسازم سرویس های جدید توی بخش تولید، من فقط می خوام تا تمیزشون کنم یه کم. بنابراین محیط توسعه ممکنه باشه یه غیرقابل اعتماد (کم ناپایدار) تا من بهتون بگم (بزارم بدونید) من کارم تموم شده، فقط آن را در ذهن داشته باشید",
     "en": "Guys, the agentic services in dev are a bit sloppy right now. Before I create new services in prod, I just want to clean them up a bit. So the dev env might be a bit flaky until I let you know I'm done, just keep that in mind",
     "groupCode": 0
+  },
+  {
+    "id": 5031,
+    "fa": "او (مرد) باعث شد شک کنم در تصمیمم",
+    "en": "He made me doubt my decision",
+    "groupCode": 0
+  },
+  {
+    "id": 5032,
+    "fa": "این ربات تزریق شده با ژن های انسانی و خون انسان پمپ شده است داخل سیستمش",
+    "en": "This robot was injected with human genes and human blood was pumped into its system",
+    "groupCode": 0
   }
 ]

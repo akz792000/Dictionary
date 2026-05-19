@@ -6069,7 +6069,7 @@
   },
   {
     "id": 10996,
-    "en": "Would you like to go to a cafe? No, I would like to sleep now",
+    "en": "Would you like to go in a cafe? No, I would like to sleep now",
     "de": "Möchtest du in ein Café gehen? Nein, Ich möchte jetzt schlafen",
     "groupCode": 1
   },
@@ -9506,7 +9506,7 @@
   },
   {
     "id": 11559,
-    "en": "Do you guess your girlfriend can come along?",
+    "en": "Do you believe your girlfriend can come along?",
     "de": "Glaubst du deine Freundin kann mitkommen?",
     "groupCode": 1
   },
@@ -9595,7 +9595,7 @@
   },
   {
     "id": 11572,
-    "en": "\n 1.The water of the small lakes is clear \n 2.The light of the new lamp is bright \n 3.The window of the tall buildings is clean \n 4.The names of beautiful cities are known",
+    "en": "\n 1.The water of the small lake is clear \n 2.The light of the new lamp is bright \n 3.The window of the tall buildings is clean \n 4.The names of beautiful cities are known",
     "de": "\n 1.Das Wasser des kleinen Sees ist klar \n 2.Das Licht der neuen Lampe ist hell \n 3.Das Fenster des hohen (plural of hoch) Gebäudes ist sauber \n 4.Die Namen schöner Städte sind bekannt",
     "desc": "Adjective With No Article Genitive \n mal: adj -en \n fem: adj -er \n neut: adj -en \n plur: adj -er \n Dative \n\n\n 1.Das Wasser von einem kleinen See ist klar \n 2.Das Licht von einer neuen Lampe ist hell \n 3.Die Fenster von dem hohen Gebäude sind sauber \n 4.Die Namen von schönen Städten sind bekannt",
     "groupCode": 1
@@ -15651,7 +15651,7 @@
     "id": 12563,
     "en": "I raise my (the) hand",
     "de": "Ich hebe die Hand",
-    "desc": "In German, people often use “die / der / das” (the) for body parts instead of my / your.\n\nSo:\n\nIch hebe die Hand. → I raise my hand. (natural in German)\n\nIch hebe meine Hand. → I raise my hand. but it emphasizes that it's my hand.\n\n✅ Rule:\nFor body parts, German usually says “the”, while English says “my.”\n\nExample:\n\nIch wasche die Hände. → I wash my hands. \uD83E\uDDFC",
+    "desc": "German uses dative person + accusative body part mainly when something is being done to the body part.\n\nExamples:\n\nIch wasche mir die Hände.\nMir tut der Kopf weh.\n\nHere:\n\nmir = the affected person\ndie Hände / der Kopf = the body part\n\nBut with normal body movements like:\n\nIch hebe die Hand\nIch bewege den Arm\n\nGerman usually treats the body part simply as the direct object, so no dative pronoun is needed.\n\nSo:\n\nactions on the body part → often dative\nordinary movement of the body part → usually just accusative",
     "groupCode": 1
   },
   {
@@ -16617,7 +16617,7 @@
   {
     "id": 12722,
     "en": "Everything is okay with the swim trunks (plural)",
-    "de": "Mit den Badenhosen ist alles okay",
+    "de": "Mit der Badenhose ist alles okay",
     "groupCode": 1
   },
   {
@@ -18511,7 +18511,7 @@
   {
     "id": 13033,
     "en": "My stomach hurts",
-    "de": "Mein Magen tut weh",
+    "de": "\n 1.Mein Magen tut weh \n 2.Mir tut der Magen weh",
     "groupCode": 1
   },
   {
@@ -18576,7 +18576,7 @@
   },
   {
     "id": 13044,
-    "en": "I traveled by train",
+    "en": "I traveled by the train",
     "de": "Ich bin mit dem Zug gereist",
     "groupCode": 1
   },
@@ -18614,6 +18614,12 @@
     "id": 13050,
     "en": "They always come back on time",
     "de": "Sie kommen immer pünktlich zurück",
+    "groupCode": 1
+  },
+  {
+    "id": 13051,
+    "en": "Your Mazda CX-5 is still waiting for you!",
+    "de": "Dein Mazda CX-5 wartet noch auf dich!",
     "groupCode": 1
   }
 ]
