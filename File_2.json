@@ -16617,7 +16617,7 @@
   {
     "id": 12722,
     "en": "Everything is okay with the swim trunks (plural)",
-    "de": "Mit der Badenhose ist alles okay",
+    "de": "Mit der Badehose ist alles okay",
     "groupCode": 1
   },
   {
@@ -17822,8 +17822,8 @@
   },
   {
     "id": 12920,
-    "en": "I don't like wide pants",
-    "de": "Ich mag keine weiten Hosen",
+    "en": "\n 1.I don't like wide (a pair of) pants \n 2.I don't like wide pants",
+    "de": "\n 1.Ich mag keine weite Hose \n 2.Ich mag keine weiten Hosen",
     "groupCode": 1
   },
   {
@@ -18363,8 +18363,9 @@
   },
   {
     "id": 13009,
-    "en": "We didn't stay long",
+    "en": "We didn't stay (for a long time) long",
     "de": "Wir sind nicht lange geblieben",
+    "desc": "lange = adverb meaning “for a long time” → correct here\nlang = adjective meaning “long” (length), not time duration → incorrect in this context",
     "groupCode": 1
   },
   {
@@ -18620,6 +18621,90 @@
     "id": 13051,
     "en": "Your Mazda CX-5 is still waiting for you!",
     "de": "Dein Mazda CX-5 wartet noch auf dich!",
+    "groupCode": 1
+  },
+  {
+    "id": 13052,
+    "en": "The coat in my size is downstairs",
+    "de": "Der Mantel in meiner Größe ist unten",
+    "groupCode": 1
+  },
+  {
+    "id": 13053,
+    "en": "I saw this bag somewhere online",
+    "de": "Diese Tasche habe ich irgendwo online gesehen",
+    "groupCode": 1
+  },
+  {
+    "id": 13054,
+    "en": "I didn't buy a long sweater",
+    "de": "Ich habe keinen langen Pullover gekauft",
+    "groupCode": 1
+  },
+  {
+    "id": 13055,
+    "en": "Can I hear the choir /ˈkwīər/ today?",
+    "de": "Kann ich den Chor heute hören?",
+    "groupCode": 1
+  },
+  {
+    "id": 13056,
+    "en": "Are you starting soon?",
+    "de": "Fängst du bald an?",
+    "groupCode": 1
+  },
+  {
+    "id": 13057,
+    "en": "What time does it start?",
+    "de": "Um wie viel Uhr fängt es an?",
+    "groupCode": 1
+  },
+  {
+    "id": 13058,
+    "en": "I want to become a singer",
+    "de": "Ich möchte Sänger werden?",
+    "groupCode": 1
+  },
+  {
+    "id": 13059,
+    "en": "Is this song also in German?",
+    "de": "Gibt es dieses Lied auch auf Deutsch?",
+    "groupCode": 1
+  },
+  {
+    "id": 13060,
+    "en": "I have to tidy up / clean up",
+    "de": "Ich muss aufräumen",
+    "groupCode": 1
+  },
+  {
+    "id": 13061,
+    "en": "Rehearse regularly",
+    "de": "regelmäßig proben",
+    "groupCode": 1
+  },
+  {
+    "id": 13062,
+    "en": "We want to prepare the concert",
+    "de": "Wir wollen das Konzert vorbereiten",
+    "groupCode": 1
+  },
+  {
+    "id": 13063,
+    "en": "I would like to rehearse with you",
+    "de": "Ich möchte mit euch proben",
+    "groupCode": 1
+  },
+  {
+    "id": 13064,
+    "en": "I am introducing the choir /ˈkwīər/",
+    "de": "Ich stelle den Chor vor",
+    "groupCode": 1
+  },
+  {
+    "id": 13065,
+    "en": "Have you already sung in the choir /ˈkwīər/?",
+    "de": "Hast du schon im Chor gesungen?",
     "groupCode": 1
   }
 ]
