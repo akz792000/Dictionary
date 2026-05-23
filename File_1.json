@@ -11327,6 +11327,7 @@
     "id": 4855,
     "fa": "من همچنین دارم فکر می کنم در رابطه با فروش ماشین فعلی ام. آیا شما می خرید ماشین ها مستقیماً یا می فروشیدش (فرضی) با کمیسیون؟ و چقدر خواهد بود (فرضی) قیمت یا کمیسیون در هر مورد؟",
     "en": "I'm also thinking about selling my current car. Do you buy cars directly, or would you sell it on commission? And what would the price or commission be in each case?",
+    "desc": "We usually use “in each case” when comparing different scenarios, situations, or options",
     "groupCode": 0
   },
   {
@@ -12384,8 +12385,9 @@
   },
   {
     "id": 5030,
-    "fa": "بچه ها، سرویس های agentic توی بخش توسعه هستن یه کم نامرتب (شلخته) همین الان. قبل از اینکه من بسازم سرویس های جدید توی بخش تولید، من فقط می خوام تا تمیزشون کنم یه کم. بنابراین محیط توسعه ممکنه باشه یه غیرقابل اعتماد (کم ناپایدار) تا من بهتون بگم (بزارم بدونید) من کارم تموم شده، فقط آن را در ذهن داشته باشید",
-    "en": "Guys, the agentic services in dev are a bit sloppy right now. Before I create new services in prod, I just want to clean them up a bit. So the dev env might be a bit flaky until I let you know I'm done, just keep that in mind",
+    "fa": "بچه ها، سرویس های agentic توی محیط توسعه هستن یه کم نامرتب (شلخته) همین الان. قبل از اینکه من بسازم سرویس های جدید توی محیط تولید، من فقط می خوام تا تمیزشون کنم یه کم. بنابراین محیط توسعه ممکنه باشه یه غیرقابل اعتماد (کم ناپایدار) تا من بهتون بگم (بزارم بدونید) من کارم تموم شده، فقط آن را در ذهن داشته باشید",
+    "en": "Guys, the agentic services in dev environment are a bit sloppy right now. Before I create new services in prod environment, I just want to clean them up a bit. So the dev environment might be a bit flaky until I let you know I'm done, just keep that in mind",
+    "desc": "Use “in dev” because dev refers to an environment/state (development environment).\n\n✅ The agentic services in dev are a bit sloppy right now.\n\n“On dev” is less natural unless you mean a specific server or machine. \n\n\n\n It works on dev but not on prod.",
     "groupCode": 0
   },
   {
@@ -12410,6 +12412,18 @@
     "id": 5034,
     "fa": "من شنیدم یک صدای خش خش وقتی من گذاشتم (پامو) روی برگ ها",
     "en": "I heard a crunch when I stepped on the leaves",
+    "groupCode": 0
+  },
+  {
+    "id": 5035,
+    "fa": "او (زن) مدام غر میزنه تا تمیز کنم اتاقمو",
+    "en": "She keeps nagging me to clean my room",
+    "groupCode": 0
+  },
+  {
+    "id": 5036,
+    "fa": "بگذار چک کنم تاریخچه جلسه تا بفهمم چه چیزی داشته (روش) کار می شده قبلاً",
+    "en": "Let me check the session history to understand what was being worked on previously",
     "groupCode": 0
   }
 ]

@@ -17943,7 +17943,7 @@
   },
   {
     "id": 12940,
-    "en": "My colleagues are running late",
+    "en": "My colleagues are running late (behind schedule)",
     "de": "Die Kollegen sind spät dran",
     "groupCode": 1
   },
@@ -18661,13 +18661,13 @@
   },
   {
     "id": 13058,
-    "en": "I want to become a singer",
+    "en": "I would like to become singer",
     "de": "Ich möchte Sänger werden?",
     "groupCode": 1
   },
   {
     "id": 13059,
-    "en": "Is this song also in German?",
+    "en": "Is there this song also in (on) German?",
     "de": "Gibt es dieses Lied auch auf Deutsch?",
     "groupCode": 1
   },
@@ -18691,7 +18691,7 @@
   },
   {
     "id": 13063,
-    "en": "I would like to rehearse with you",
+    "en": "I would like to rehearse with you (plural)",
     "de": "Ich möchte mit euch proben",
     "groupCode": 1
   },
@@ -18705,6 +18705,96 @@
     "id": 13065,
     "en": "Have you already sung in the choir /ˈkwīər/?",
     "de": "Hast du schon im Chor gesungen?",
+    "groupCode": 1
+  },
+  {
+    "id": 13066,
+    "en": "We have definitely (specifically) fun",
+    "de": "Wir haben bestimmt Spaß",
+    "groupCode": 1
+  },
+  {
+    "id": 13067,
+    "en": "I must go to the police immediately",
+    "de": "Ich muss sofort zur Polizei gehen",
+    "groupCode": 1
+  },
+  {
+    "id": 13068,
+    "en": "They find the report boring",
+    "de": "Sie finden den Bericht langweilig",
+    "groupCode": 1
+  },
+  {
+    "id": 13069,
+    "en": "My ice cream doesn't smell good",
+    "de": "Mein Eis riecht nicht gut",
+    "groupCode": 1
+  },
+  {
+    "id": 13070,
+    "en": "I was suddenly sick",
+    "de": "Ich war Plötzlich krank",
+    "groupCode": 1
+  },
+  {
+    "id": 13071,
+    "en": "The report is for History",
+    "de": "Der Bericht ist für Geschichte",
+    "groupCode": 1
+  },
+  {
+    "id": 13072,
+    "en": "You can read the report",
+    "de": "Du kannst den Bericht lesen",
+    "groupCode": 1
+  },
+  {
+    "id": 13073,
+    "en": "I am enjoying the coffee",
+    "de": "Ich genieße den Kaffee",
+    "groupCode": 1
+  },
+  {
+    "id": 13074,
+    "en": "What did you (plural) watch?",
+    "de": "Was habt ihr geschaut?",
+    "groupCode": 1
+  },
+  {
+    "id": 13075,
+    "en": "Suddenly my calendar was full",
+    "de": "Plötzlich war mein Kalender voll",
+    "groupCode": 1
+  },
+  {
+    "id": 13076,
+    "en": "What do you recommend?",
+    "de": "Was empfehlen Sie?",
+    "groupCode": 1
+  },
+  {
+    "id": 13077,
+    "en": "I went to school in Frankfurt",
+    "de": "Ich bin in Frankfurt zur Schule gegangen",
+    "groupCode": 1
+  },
+  {
+    "id": 13078,
+    "en": "The Leaning Bookshelf",
+    "de": "Das schiefe Bücherregal",
+    "groupCode": 1
+  },
+  {
+    "id": 13079,
+    "en": "A loose shirt",
+    "de": "Ein weites Hemd",
+    "groupCode": 1
+  },
+  {
+    "id": 13080,
+    "en": "What color is the cardigan?",
+    "de": "Welche Farbe hat die Strickjacke?",
     "groupCode": 1
   }
 ]
