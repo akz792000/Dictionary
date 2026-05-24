@@ -7391,7 +7391,7 @@
   {
     "id": 4209,
     "fa": "بوروکراسی می تواند بشود خود پایدار در طول زمان",
-    "en": "Bureaucracy can become self-perpetuating over time",
+    "en": "Bureaucracy /byo͝oˈräkrəsē/ can become self-perpetuating over time",
     "groupCode": 0
   },
   {
@@ -8197,7 +8197,7 @@
   },
   {
     "id": 4342,
-    "fa": "میتونیم (مودبانه) ما چک (صورتحساب) رو بگیریم, لطفا؟",
+    "fa": "آیا ما می تونیم (مودبانه) ما چک (صورتحساب) رو بگیریم, لطفا؟",
     "en": "Could we get the check (bill), please?",
     "groupCode": 0
   },
@@ -12416,14 +12416,38 @@
   },
   {
     "id": 5035,
-    "fa": "او (زن) مدام غر میزنه تا تمیز کنم اتاقمو",
+    "fa": "او (زن) مدام به من غر میزنه تا تمیز کنم اتاقمو",
     "en": "She keeps nagging me to clean my room",
     "groupCode": 0
   },
   {
     "id": 5036,
-    "fa": "بگذار چک کنم تاریخچه جلسه تا بفهمم چه چیزی داشته (روش) کار می شده قبلاً",
+    "fa": "بگذار چک کنم تاریخچه جلسه تا بفهمم چه چیزی داشته (روش) کار می شده سابقا",
     "en": "Let me check the session history to understand what was being worked on previously",
+    "groupCode": 0
+  },
+  {
+    "id": 5037,
+    "fa": "پارچه روی قسمت تابستانی کلاه ساخته شده است کاملاً از پلاستیک. من فکر کردم ساخته شده است از نی و پنبه",
+    "en": "The fabric on the summer part of the cap is completely made of plastic. I thought it was made of straw and cotton",
+    "groupCode": 0
+  },
+  {
+    "id": 5038,
+    "fa": "نازل پمپ فیت نیست با دستگاه بادی من",
+    "en": "The pump nozzle does not fit my inflatable device",
+    "groupCode": 0
+  },
+  {
+    "id": 5039,
+    "fa": "بگذار بررسی کنم موضوع را اول",
+    "en": "Let me investigate the issue first",
+    "groupCode": 0
+  },
+  {
+    "id": 5040,
+    "fa": "چه تمهیداتی وجود دارد تا زیرساخت های مشترک تبدیل نشوند به یک ریسک مشترک؟",
+    "en": "What safeguards exist so shared infrastructure does not become a shared risk?",
     "groupCode": 0
   }
 ]
