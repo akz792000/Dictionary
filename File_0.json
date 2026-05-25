@@ -7390,7 +7390,7 @@
 	},
 	{
 		"id": 1215,
-		"fa": "من خیلی وقته موهام رو کوتاه نکردم (سررسید شده)",
+		"fa": "من خیلی وقته موهام رو کوتاه نکردم (سررسید شده برای یک کوتاهی مو)",
 		"en": "I'm way overdue for a haircut",
 		"desc": "The person has not had a haircut for a long time and it is now overdue or past the appropriate time for them to have gotten one.",
 		"groupCode": 0
@@ -12784,7 +12784,7 @@
 	},
 	{
 		"id": 2101,
-		"fa": "من مایلم موها را کوتاه کنم",
+		"fa": "من مایلم موها را (یک کوتاهی مو) کوتاه کنم",
 		"en": "I'd like to get a haircut",
 		"groupCode": 0
 	},
@@ -16167,7 +16167,7 @@
 	},
 	{
 		"id": 2657,
-		"fa": "من می خواهم موهای همسرم کوتاه شود",
+		"fa": "من می خواهم موهای همسرم (یک کوتاهی مو) کوتاه شود",
 		"en": "I want my wife to get a haircut",
 		"groupCode": 0
 	},

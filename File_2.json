@@ -17944,7 +17944,7 @@
   {
     "id": 12940,
     "en": "My colleagues are running late (behind schedule)",
-    "de": "Die Kollegen sind spät dran",
+    "de": "Meine Kollegen sind spät dran",
     "groupCode": 1
   },
   {
@@ -18517,8 +18517,8 @@
   },
   {
     "id": 13034,
-    "en": "The recipient is missing",
-    "de": "Der Empfänger fehlt",
+    "en": "\n 1.The recipient is missing \n 2.The recipient is away (gone/away)",
+    "de": "\n 1.Der Empfänger fehlt \n 2.Der Empfänger ist weg",
     "groupCode": 1
   },
   {
@@ -18715,7 +18715,7 @@
   },
   {
     "id": 13067,
-    "en": "I must go to the police immediately",
+    "en": "I must go to the police (female) immediately",
     "de": "Ich muss sofort zur Polizei gehen",
     "groupCode": 1
   },
@@ -18769,7 +18769,7 @@
   },
   {
     "id": 13076,
-    "en": "What do you recommend?",
+    "en": "What do you (formal) recommend?",
     "de": "Was empfehlen Sie?",
     "groupCode": 1
   },
@@ -18781,20 +18781,80 @@
   },
   {
     "id": 13078,
-    "en": "The Leaning Bookshelf",
+    "en": "The leaning bookshelf",
     "de": "Das schiefe Bücherregal",
     "groupCode": 1
   },
   {
     "id": 13079,
-    "en": "A loose shirt",
-    "de": "Ein weites Hemd",
+    "en": "A loose and soft shirt",
+    "de": "Ein weites und weiches Hemd",
     "groupCode": 1
   },
   {
     "id": 13080,
     "en": "What color is the cardigan?",
     "de": "Welche Farbe hat die Strickjacke?",
+    "groupCode": 1
+  },
+  {
+    "id": 13081,
+    "en": "Where is my cap?",
+    "de": "Wo ist meine Mütze?",
+    "groupCode": 1
+  },
+  {
+    "id": 13082,
+    "en": "Our heating was broken",
+    "de": "Unsere Heizung war kaputt",
+    "groupCode": 1
+  },
+  {
+    "id": 13083,
+    "en": "Is the hat uncomfortable?",
+    "de": "Ist der Hut unbequem?",
+    "groupCode": 1
+  },
+  {
+    "id": 13084,
+    "en": "Why do you have three caps, Ali?",
+    "de": "Warum hast du drei Mützen , Ali?",
+    "groupCode": 1
+  },
+  {
+    "id": 13085,
+    "en": "Are you fall in love?",
+    "de": "Bist du verliebt?",
+    "groupCode": 1
+  },
+  {
+    "id": 13086,
+    "en": "I fell in love with her",
+    "de": "Ich habe mich in sie verliebt",
+    "groupCode": 1
+  },
+  {
+    "id": 13087,
+    "en": "He falls in love quickly",
+    "de": "Er verliebt sich schnell",
+    "groupCode": 1
+  },
+  {
+    "id": 13088,
+    "en": "Do you have boots?",
+    "de": "Hast du Stiefel?",
+    "groupCode": 1
+  },
+  {
+    "id": 13089,
+    "en": "When do you go into bed normally?",
+    "de": "Wann gehst du normalerweise ins Bett?",
+    "groupCode": 1
+  },
+  {
+    "id": 13090,
+    "en": "I share nothing with Anna",
+    "de": "Ich teile nichts mit Anna",
     "groupCode": 1
   }
 ]

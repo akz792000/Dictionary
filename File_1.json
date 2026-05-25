@@ -12428,8 +12428,8 @@
   },
   {
     "id": 5037,
-    "fa": "پارچه روی قسمت تابستانی کلاه ساخته شده است کاملاً از پلاستیک. من فکر کردم ساخته شده است از نی و پنبه",
-    "en": "The fabric on the summer part of the cap is completely made of plastic. I thought it was made of straw and cotton",
+    "fa": "پارچه روی قسمت تابستانی کلاه ساخته شده است کاملاً از پلاستیک. من فکر کردم ساخته شده است از پنبه",
+    "en": "The fabric on the summer part of the cap is completely made of plastic. I thought it was made of cotton",
     "groupCode": 0
   },
   {
@@ -12448,6 +12448,18 @@
     "id": 5040,
     "fa": "چه تمهیداتی وجود دارد تا زیرساخت های مشترک تبدیل نشوند به یک ریسک مشترک؟",
     "en": "What safeguards exist so shared infrastructure does not become a shared risk?",
+    "groupCode": 0
+  },
+  {
+    "id": 5041,
+    "fa": "به محض اینکه یکی از این مدل های هوش مصنوعی می شوند خودآگاه، ما محکوم شکست خوردن هستیم",
+    "en": "As soon as one of these AI models becomes conscious, we are doomed to fail",
+    "groupCode": 0
+  },
+  {
+    "id": 5042,
+    "fa": "چگونه شعاع انفجار  کنترل می شود بین تیم هایی (که) اشتراک می گذارند اشتراک یکسان؟",
+    "en": "How blast radius is controlled between teams sharing the same subscription?",
     "groupCode": 0
   }
 ]
