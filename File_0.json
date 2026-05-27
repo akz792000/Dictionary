@@ -1320,6 +1320,7 @@
 		"id": 218,
 		"fa": "\n 1.(ترجیح کلی) من چای را به قهوه ترجیح می‌دهم \n 2.(رسمی ترجیح الان) من چای را به قهوه ترجیح می‌دهم \n 3. من چای را به قهوه ترجیح می دم (ترجیح الان عامیانه)",
 		"en": "\n 1.I prefer tea to coffee \n 2.I'd prefer tea to coffee \n 3.I'd rather have tea than coffee",
+		"desc": "With prefer, you use different patterns:\n\nI prefer tea to coffee. ✅\n(This is the standard structure: prefer A to B)\nI prefer tea over coffee. ✅\n(Also common and natural)\n\nBut:\n\nI’d rather have tea than coffee. ✅\n(Different structure: would rather + than)\n\nSo:\n\nprefer → to / over\nwould rather → than\n\nExamples:\n\nI prefer walking to driving.\nI prefer walking over driving.\nI’d rather walk than drive.",
 		"groupCode": 0
 	},
 	{
@@ -8293,6 +8294,7 @@
 		"id": 1363,
 		"fa": "فکر میکنی امکان داشته باشد (فرضی) اگر من بگیرم یک ۱۰۰ $ جلوتر از حقوقم",
 		"en": "Do you think it would be possible if I got a $100 advance on my salary?",
+		"desc": "“one hundred dollars” (plural) ✅",
 		"groupCode": 0
 	},
 	{
@@ -13095,7 +13097,7 @@
 	},
 	{
 		"id": 2152,
-		"fa": "عذرخواهی می کنم برای پاسخ دیرم",
+		"fa": "من عذرخواهی می کنم برای پاسخ دیرم",
 		"en": "I apologize for my late response",
 		"groupCode": 0
 	},
@@ -14381,7 +14383,7 @@
 	{
 		"id": 2364,
 		"fa": "من یک انحراف تیغه بینی دارم",
-		"en": "I have a deviated septum",
+		"en": "I have a deviated septum /ˈseptəm/",
 		"groupCode": 0
 	},
 	{

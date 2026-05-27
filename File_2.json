@@ -6889,6 +6889,7 @@
     "id": 11131,
     "en": "On the bed lie two pillows",
     "de": "Auf dem Bett liegen zwei Kissen",
+    "desc": "Kissen in German is both singular and plural.",
     "groupCode": 1
   },
   {
@@ -7862,6 +7863,7 @@
     "id": 11291,
     "en": "Whom do I pick up?",
     "de": "Wen hole ich ab?",
+    "desc": "Wen hole ich ab? = correct\nwen = accusative (“who” as the direct object)\nabholen needs an accusative object.\nWem hole ich ab? = incorrect/incomplete in standard German\nwem = dative\nused with verbs that take dative objects, not abholen.\n\nExample:\n\nWen sehe ich? (accusative)\nWem helfe ich? (dative)",
     "groupCode": 1
   },
   {
@@ -8412,6 +8414,7 @@
     "id": 11380,
     "en": "You do that right (thing)",
     "de": "Du tust das Richtige",
+    "desc": "ich tue\ndu tust\ner/sie/es tut",
     "groupCode": 1
   },
   {
@@ -13365,8 +13368,8 @@
   },
   {
     "id": 12189,
-    "en": "What are you asking about (for)?",
-    "de": "Wonach fragst du?",
+    "en": "\n 1.What are you asking about (for)? \n 2.What are you asking about?",
+    "de": "\n 1.Wonach fragst du? \n 2.Worüber fragst du?",
     "desc": "Use wonach when you want to ask “what… about?” or “for what?” in relation to a preposition + thing (not a person).",
     "groupCode": 1
   },
@@ -16616,7 +16619,7 @@
   },
   {
     "id": 12722,
-    "en": "Everything is okay with the swim trunks (plural)",
+    "en": "Everything is okay with the swim trunks",
     "de": "Mit der Badehose ist alles okay",
     "groupCode": 1
   },
@@ -17516,7 +17519,7 @@
   },
   {
     "id": 12870,
-    "en": "He doesn't wear tight pants",
+    "en": "He doesn't wear tight pants (plural)",
     "de": "Er trägt keine engen Hosen",
     "desc": "In plural, after keine, adjectives take -en",
     "groupCode": 1
@@ -18535,7 +18538,7 @@
   },
   {
     "id": 13037,
-    "en": "You're bothering people, honey",
+    "en": "You're bothering (the) people, honey",
     "de": "Du störst die Leute, Schatz",
     "groupCode": 1
   },
@@ -18793,7 +18796,7 @@
   },
   {
     "id": 13080,
-    "en": "What color is the cardigan?",
+    "en": "Which color does the cardigan have?",
     "de": "Welche Farbe hat die Strickjacke?",
     "groupCode": 1
   },
@@ -18855,6 +18858,66 @@
     "id": 13090,
     "en": "I share nothing with Anna",
     "de": "Ich teile nichts mit Anna",
+    "groupCode": 1
+  },
+  {
+    "id": 13091,
+    "en": "\n 1.one / people / you (in general) \n 2.someone / somebody \n 3.everyone / each person",
+    "de": "\n 1.man \n 2.jemand \n 3.jeder",
+    "groupCode": 1
+  },
+  {
+    "id": 13092,
+    "en": "The boots are black",
+    "de": "Die Stiefel sind schwarz",
+    "groupCode": 1
+  },
+  {
+    "id": 13093,
+    "en": "Do you (formal) sell stamps?",
+    "de": "Verkaufen Sie Briefmarken?",
+    "groupCode": 1
+  },
+  {
+    "id": 13094,
+    "en": "She never shares her snacks with us",
+    "de": "Sie teilt nie ihre Snacks mit uns",
+    "groupCode": 1
+  },
+  {
+    "id": 13095,
+    "en": "What do you think of the boots?",
+    "de": "Wie findest du die Stiefel?",
+    "groupCode": 1
+  },
+  {
+    "id": 13096,
+    "en": "\n 1.die Police \n 2.the police officer (male) \n 3.the police officer (female)",
+    "de": "\n 1.die Polizei \n 2.der Polizist \n 3.die Polizistin",
+    "groupCode": 1
+  },
+  {
+    "id": 13097,
+    "en": "Why am I becoming so weak?",
+    "de": "Warum werde ich so schwach?",
+    "groupCode": 1
+  },
+  {
+    "id": 13098,
+    "en": "Why were you suddenly so busy?",
+    "de": "Warum warst du Plötzlich so beschäftigt?",
+    "groupCode": 1
+  },
+  {
+    "id": 13099,
+    "en": "Where are the boots?",
+    "de": "Wo sind die Stiefel?",
+    "groupCode": 1
+  },
+  {
+    "id": 13100,
+    "en": "Is this the solution?",
+    "de": "Ist das die Lösung?",
     "groupCode": 1
   }
 ]

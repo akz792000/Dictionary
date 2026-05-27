@@ -8592,7 +8592,7 @@
   },
   {
     "id": 4407,
-    "fa": "انتقاد بجا نبود (بی مورد بود)",
+    "fa": "آن انتقاد بود نابجا(بی مورد بود)",
     "en": "\n 1.That criticism was uncalled for \n 2.The criticism was not justified",
     "groupCode": 0
   },
@@ -10727,7 +10727,7 @@
   {
     "id": 4757,
     "fa": "برف می بارد بی وقفه در تهران برای تقریبا ۲۰ ساعت. من ندیده ام هیچ چیز مانند این نزدیک در حداقل ده سال. خدا را شکر",
-    "en": "It 's been snowing nonstop in Tehran for almost 20 hours. I haven't seen anything like this up close in at least ten years. Thank God!",
+    "en": "It's been snowing nonstop in Tehran for almost 20 hours. I haven't seen anything like this close up in at least ten years. Thank God!",
     "groupCode": 0
   },
   {
@@ -12460,6 +12460,24 @@
     "id": 5042,
     "fa": "چگونه شعاع انفجار  کنترل می شود بین تیم هایی (که) اشتراک می گذارند اشتراک یکسان؟",
     "en": "How blast radius is controlled between teams sharing the same subscription?",
+    "groupCode": 0
+  },
+  {
+    "id": 5043,
+    "fa": "k3d است یک ابزاری سبک که اجازه به شما می دهد اجرا کنید خوشه های Kubernetes را درون Docker",
+    "en": "k3d is a lightweight tool that lets you run Kubernetes clusters inside Docker",
+    "groupCode": 0
+  },
+  {
+    "id": 5044,
+    "fa": "ما عقب هستیم نسبتا (پشت) از مهلت های",
+    "en": "We are lagging quite behind the deadlines",
+    "groupCode": 0
+  },
+  {
+    "id": 5045,
+    "fa": "زیادی لاف نزن",
+    "en": "Don't brag too much",
     "groupCode": 0
   }
 ]
