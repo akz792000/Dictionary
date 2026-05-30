@@ -9021,7 +9021,7 @@
   {
     "id": 4477,
     "fa": "من بستنی پسته ای دوست دارم",
-    "en": "I like pistachio ice cream",
+    "en": "I like pistachio /pəˈstaSHēō/ ice cream",
     "groupCode": 0
   },
   {
@@ -12385,8 +12385,8 @@
   },
   {
     "id": 5030,
-    "fa": "بچه ها، سرویس های agentic توی محیط توسعه هستن یه کم نامرتب (شلخته) همین الان. قبل از اینکه من بسازم سرویس های جدید توی محیط تولید، من فقط می خوام تا تمیزشون کنم یه کم. بنابراین محیط توسعه ممکنه باشه یه غیرقابل اعتماد (کم ناپایدار) تا من بهتون بگم (بزارم بدونید) من کارم تموم شده، فقط آن را در ذهن داشته باشید",
-    "en": "Guys, the agentic services in dev environment are a bit sloppy right now. Before I create new services in prod environment, I just want to clean them up a bit. So the dev environment might be a bit flaky until I let you know I'm done, just keep that in mind",
+    "fa": "بچه ها، سرویس های agentic توی محیط توسعه هستن یه کم نامرتب (شلخته) همین الان و من می خوام تا تمیزشون کنم یه کم. بنابراین محیط توسعه ممکنه باشه یه غیرقابل اعتماد (کم ناپایدار) تا من بهتون بگم (بزارم بدونید) من کارم تموم شده، فقط آن را در ذهن داشته باشید",
+    "en": "Guys, the agentic services in dev environment are a bit sloppy right now and I want to clean them up a bit. So the dev environment might be a bit flaky until I let you know I'm done, just keep that in mind",
     "desc": "Use “in dev” because dev refers to an environment/state (development environment).\n\n✅ The agentic services in dev are a bit sloppy right now.\n\n“On dev” is less natural unless you mean a specific server or machine. \n\n\n\n It works on dev but not on prod.",
     "groupCode": 0
   },
@@ -12458,7 +12458,7 @@
   },
   {
     "id": 5042,
-    "fa": "چگونه شعاع انفجار  کنترل می شود بین تیم هایی (که) اشتراک می گذارند اشتراک یکسان؟",
+    "fa": "چگونه شعاع انفجار کنترل می شود بین تیم هایی (که) اشتراک می گذارند اشتراک یکسان؟",
     "en": "How blast radius is controlled between teams sharing the same subscription?",
     "groupCode": 0
   },
@@ -12478,6 +12478,36 @@
     "id": 5045,
     "fa": "زیادی لاف نزن",
     "en": "Don't brag too much",
+    "groupCode": 0
+  },
+  {
+    "id": 5046,
+    "fa": "استقرار ها قناری به حداقل می رساند شعاع انفجار را",
+    "en": "Canary deployments minimize blast radius",
+    "groupCode": 0
+  },
+  {
+    "id": 5047,
+    "fa": "شما دارید متصل می شوید از طریق VPN از دستگاه محلی خود، نه از داخل AKS",
+    "en": "You're connecting from your local machine over VPN, not from inside AKS",
+    "groupCode": 0
+  },
+  {
+    "id": 5048,
+    "fa": "من فکر می کنم من مورد را شناسایی کرده ام",
+    "en": "I think I've spotted the issue",
+    "groupCode": 0
+  },
+  {
+    "id": 5049,
+    "fa": "شما صریحاً به من گفتید commit نکنم بدون تأیید شما",
+    "en": "You explicitly told me not to commit without your approval",
+    "groupCode": 0
+  },
+  {
+    "id": 5050,
+    "fa": "من نقض کرده ام آن قانون را مکررا",
+    "en": "I've been violating that rule repeatedly",
     "groupCode": 0
   }
 ]

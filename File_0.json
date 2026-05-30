@@ -1318,7 +1318,7 @@
 	},
 	{
 		"id": 218,
-		"fa": "\n 1.(ترجیح کلی) من چای را به قهوه ترجیح می‌دهم \n 2.(رسمی ترجیح الان) من چای را به قهوه ترجیح می‌دهم \n 3. من چای را به قهوه ترجیح می دم (ترجیح الان عامیانه)",
+		"fa": "\n 1.(ترجیح کلی) من چای را به قهوه ترجیح می‌دهم \n 2.(رسمی ترجیح الان) من چای را به قهوه ترجیح می‌دهم \n 3. من داشتن چای را به قهوه ترجیح می دم (ترجیح الان عامیانه)",
 		"en": "\n 1.I prefer tea to coffee \n 2.I'd prefer tea to coffee \n 3.I'd rather have tea than coffee",
 		"desc": "With prefer, you use different patterns:\n\nI prefer tea to coffee. ✅\n(This is the standard structure: prefer A to B)\nI prefer tea over coffee. ✅\n(Also common and natural)\n\nBut:\n\nI’d rather have tea than coffee. ✅\n(Different structure: would rather + than)\n\nSo:\n\nprefer → to / over\nwould rather → than\n\nExamples:\n\nI prefer walking to driving.\nI prefer walking over driving.\nI’d rather walk than drive.",
 		"groupCode": 0
@@ -1657,7 +1657,7 @@
 	},
 	{
 		"id": 274,
-		"fa": "ماشینم تو راه خراب شده و داشتم فکر می کردم اگر به من بگویید کجا می تونم یک گاراژ پیدا کنم؟",
+		"fa": "ماشینم تو راه خراب شده و من داشتم فکر می کردم اگر شما بتونی به من بگی کجا پیدا کنم یک گاراژ؟",
 		"en": "My car broke down on the way and I was wondering if you could tell me where to find a garage?",
 		"groupCode": 0
 	},
@@ -13607,7 +13607,7 @@
 	},
 	{
 		"id": 2236,
-		"fa": "15 دقیقه در یک روز می تواند به شما یک زبان یاد دهد. 15 دقیقه شبکه اجتماعی چه کاری می تواند انجام دهند؟",
+		"fa": "15 دقیقه یک روز می تواند یاد دهد به شما یک زبان. چه می تواند 15 دقیقه شبکه اجتماعی  کاری انجام دهند؟",
 		"en": "15 minutes a day can teach you a language. What can 15 minutes of social media do?",
 		"groupCode": 0
 	},
@@ -14443,7 +14443,7 @@
 	},
 	{
 		"id": 2374,
-		"fa": "او (زن) پرداخت کرد به یک پلیس مخفی (ژست گرفتن) به عنوان آدم کش (حرفه ای) تا شوهرش را بکشد",
+		"fa": "او (زن) پرداخت کرد به یک پلیس مخفی (ژست گرفتن) به عنوان یک آدم کش (حرفه ای) تا شوهرش را بکشد",
 		"en": "She paid an undercover cop posing as a hitman to kill her husband",
 		"groupCode": 0
 	},

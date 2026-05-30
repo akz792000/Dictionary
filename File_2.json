@@ -18886,13 +18886,13 @@
   },
   {
     "id": 13095,
-    "en": "What do you think of the boots?",
+    "en": "How do you find the boots?",
     "de": "Wie findest du die Stiefel?",
     "groupCode": 1
   },
   {
     "id": 13096,
-    "en": "\n 1.die Police \n 2.the police officer (male) \n 3.the police officer (female)",
+    "en": "\n 1.the Police \n 2.the police officer (male) \n 3.the police officer (female)",
     "de": "\n 1.die Polizei \n 2.der Polizist \n 3.die Polizistin",
     "groupCode": 1
   },
@@ -18905,7 +18905,7 @@
   {
     "id": 13098,
     "en": "Why were you suddenly so busy?",
-    "de": "Warum warst du Plötzlich so beschäftigt?",
+    "de": "Warum warst du plötzlich so beschäftigt?",
     "groupCode": 1
   },
   {
