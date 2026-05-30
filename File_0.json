@@ -15860,8 +15860,8 @@
   },
   {
     "id": 2606,
-    "fa": "شما را با کسی اشتباه گرفتم",
-    "en": "I mistook you for someone",
+    "fa": "شما را با کسی دیگر اشتباه گرفتم",
+    "en": "I mistook you for someone else",
     "groupCode": 0
   },
   {
@@ -16047,8 +16047,8 @@
   },
   {
     "id": 2637,
-    "fa": "این بدان معنی است که ما نیاز داریم دو نقطه پایانی جدید را معرفی کنیم تا اجتناب کنیم از هرگونه تغییر مسدود کننده",
-    "en": "It means that we need to introduce two new endpoints to avoid any blocking changes",
+    "fa": "این بدان معنی است که ما نیاز داریم دو نقطه پایانی جدید را معرفی کنیم تا اجتناب کنیم از هرگونه تغییر شکسته کننده",
+    "en": "It means that we need to introduce two new endpoints to avoid any breaking changes",
     "groupCode": 0
   },
   {
@@ -16133,8 +16133,9 @@
   {
     "id": 2651,
     "fa": "اون هست یکی از بدخلق ترین گربه هایی که تا به حال (تاکید) دیده ام",
-    "en": "That is one of the grumpiest cat I have ever seen",
-    "groupCode": 0
+    "en": "That is one of the grumpiest cats I have ever seen",
+    "groupCode": 0,
+    "desc": "After \"one of the + superlative,\" the noun must be plural (e.g., \"one of the best movies\")."
   },
   {
     "id": 2652,
@@ -16150,8 +16151,8 @@
   },
   {
     "id": 2654,
-    "fa": "پس از این ما می دانیم احتمال انجام (ساختن) این ضربه در تورنمنت چقدر است",
-    "en": "After this we know what's the likelihood of making this shot in the tournament",
+    "fa": "پس از این ما خواهیم دانست احتمال انجام (ساختن) این شوت در تورنمنت",
+    "en": "After this we'll know the likelihood of making this shot in the tournament",
     "groupCode": 0
   },
   {
@@ -16241,8 +16242,8 @@
   },
   {
     "id": 2669,
-    "fa": "همه پول شما کجا رفته؟",
-    "en": "Where is your all money gone?",
+    "fa": "همه پول شما کجا رفته است؟",
+    "en": "Where has all your money gone?",
     "groupCode": 0
   },
   {
@@ -16307,8 +16308,8 @@
   },
   {
     "id": 2680,
-    "fa": "آیا مرا هنوز دوست داشتی اگر به دنیا نمی آمدم؟",
-    "en": "Would you still love me if I wasn't born?",
+    "fa": "آیا مرا هنوز دوست داشتی اگر به دنیا نیامده بودم؟",
+    "en": "Would you still love me if I hadn't been born?",
     "groupCode": 0
   },
   {
@@ -16339,8 +16340,9 @@
   {
     "id": 2685,
     "fa": "حقوق خوب در انگلستان چقدر است؟",
-    "en": "What's a good salary in UK?",
-    "groupCode": 0
+    "en": "What's a good salary in the UK?",
+    "groupCode": 0,
+    "desc": "Country names that are acronyms or contain common nouns (UK, USA, Netherlands) require the definite article \"the\"."
   },
   {
     "id": 2686,
@@ -16572,14 +16574,14 @@
   {
     "id": 2722,
     "fa": "دهانش (زن) بو می ده",
-    "en": "She has smelly breath",
+    "en": "She has bad breath",
     "desc": "This confusion arises because in English, whether to use \"a\" or not depends on the nature of the noun you're describing: countable vs. uncountable nouns. Here’s a quick guide to help you understand:\n\n1. Use \"a\" with singular, countable nouns\nThese are things you can count individually.\n\nExample:\n\"I have a toothache.\" (You can think of \"toothache\" as one specific condition.)\n\"I have a headache.\" (A single, specific headache.)\n2. Do NOT use \"a\" with uncountable nouns\nThese are things you can’t count or divide into individual units.\n\nExample:\n\"I have smelly breath.\" (\"Breath\" is uncountable; it's a general state.)\n\"I have bad news.\" (\"News\" is uncountable, so no article.)\nWhy the difference?\nToothache is treated as one singular, countable problem.\nBreath refers to a state or quality, which is uncountable.\nWhen you're unsure\nHere are some tips:\n\nCan you count it?\n\nIf yes, use \"a\" for one thing (e.g., a cold, a toothache, a fever).\nIf no, don’t use \"a\" (e.g., pain, breath, news).\nDoes it describe a state/condition or an object?\n\nStates/conditions like \"breath,\" \"pain,\" \"health\" are often uncountable.\nLook for patterns in similar phrases:\n\nSingular countable: \"a cough,\" \"a sore throat,\" \"a bruise.\"\nUncountable: \"hunger,\" \"fatigue,\" \"energy.\"",
     "groupCode": 0
   },
   {
     "id": 2723,
-    "fa": "ما تکرار می کنیم این درس را دوباره",
-    "en": "We repeat this lesson again",
+    "fa": "ما مرور می کنیم این درس را دوباره",
+    "en": "We're going over this lesson again",
     "groupCode": 0
   },
   {
@@ -16780,7 +16782,7 @@
   {
     "id": 2756,
     "fa": "من معمولاً از اشتباه پسرم چشم پوشی می کنم",
-    "en": "I usually turn a blind eye about my son's mistake",
+    "en": "I usually turn a blind eye to my son's mistakes",
     "groupCode": 0
   },
   {
@@ -16833,8 +16835,8 @@
   },
   {
     "id": 2765,
-    "fa": "این باید محبوب ترین دسر من در تمام دوران باشد",
-    "en": "This has got to be my most favorite dessert of all time",
+    "fa": "این باید دسر محبوب من در تمام دوران باشد",
+    "en": "This has got to be my favorite dessert of all time",
     "groupCode": 0
   },
   {
@@ -16852,7 +16854,7 @@
   {
     "id": 2768,
     "fa": "من از کاری که قرار است انجام دهم گیج شده ام",
-    "en": "I'm confused of what I'm supposed to be doing",
+    "en": "I'm confused about what I'm supposed to be doing",
     "groupCode": 0
   },
   {
@@ -17011,14 +17013,14 @@
   },
   {
     "id": 2794,
-    "fa": "اونجا عمقش چقدره؟",
-    "en": "How deep is there?",
+    "fa": "عمقش چقدره؟",
+    "en": "How deep is it?",
     "groupCode": 0
   },
   {
     "id": 2795,
     "fa": "چقدر سودمند است داشتن یک کانال یوتیوب با بازدیدهای زیاد؟",
-    "en": "How profitable is having a Youtube channel with a lot of views?",
+    "en": "How profitable is having a YouTube channel with a lot of views?",
     "groupCode": 0
   },
   {
@@ -17296,8 +17298,8 @@
   {
     "id": 2841,
     "fa": "به تدریج, او (زن) پذیرفت او (مرد) را به عنوان یکی از اعضای خانواده",
-    "en": "Gradually, she accepted him as one of the family member",
-    "desc": "We don't put adverb between the verb and its object",
+    "en": "Gradually, she accepted him as one of the family members",
+    "desc": "After \"one of the,\" the noun must be plural (e.g., \"one of the family members,\" \"one of the best players\").",
     "groupCode": 0
   },
   {
@@ -17394,8 +17396,8 @@
   },
   {
     "id": 2857,
-    "fa": "او (مرد) یک توانایی عجیبی (عجیب و غریب) در چاپلوسی دارد",
-    "en": "He has an uncanny ability in flattery",
+    "fa": "او (مرد) یک توانایی عجیبی (عجیب و غریب) برای چاپلوسی دارد",
+    "en": "He has an uncanny ability for flattery",
     "groupCode": 0
   },
   {
@@ -17519,7 +17521,7 @@
   {
     "id": 2877,
     "fa": "آن فقط قرار نیست اتفاق بیفتد",
-    "en": "That is not just supposed to be happen",
+    "en": "That is not just supposed to happen",
     "desc": "❌ \"That is not just supposed to be happened\"\nThis is incorrect because \"happen\" is intransitive (it doesn’t take a direct object), and you can't say \"be happened\" in passive voice.",
     "groupCode": 0
   },
@@ -17643,7 +17645,7 @@
   {
     "id": 2897,
     "fa": "او (مرد) آبله مرغان گرفته",
-    "en": "He has got chicken pox",
+    "en": "He has got chickenpox",
     "desc": "In English, \"fever\" is a countable noun when referring to an instance of the condition, hence \"a fever\" is correct. On the other hand, \"chicken pox\" is treated as an uncountable noun referring to the disease in general, so we do not use an article.",
     "groupCode": 0
   },
@@ -17711,7 +17713,7 @@
   {
     "id": 2908,
     "fa": "من واقعاً نیاز دارم انگلیسی خود را تقویت کنم زیرا من در حدود 10 سال به این زبان صحبت نمی کنم",
-    "en": "I really need to brush up on my english because I haven't spoken the language in about 10 years",
+    "en": "I really need to brush up on my English because I haven't spoken the language in about 10 years",
     "groupCode": 0
   },
   {
@@ -18063,8 +18065,8 @@
   },
   {
     "id": 2966,
-    "fa": "آنها توسط افراد مسلح نقابدار به اسارت گرفته شدند",
-    "en": "They were taken captive by masked gunman",
+    "fa": "آنها به اسارت گرفته شدند توسط یک فرد مسلح نقابدار",
+    "en": "They were taken captive by a masked gunman",
     "groupCode": 0
   },
   {
@@ -18129,8 +18131,8 @@
   },
   {
     "id": 2977,
-    "fa": "این خواننده (زن) انرژی و اشتیاق زیادی در اجراهایش می گذارد",
-    "en": "The singer puts a lot of energy and enthusiasm in her performances",
+    "fa": "خواننده می گذارد (زن) یک عالمه انرژی و اشتیاق در اجراهایش",
+    "en": "The singer puts a lot of energy and enthusiasm into her performances",
     "groupCode": 0
   },
   {
@@ -18368,14 +18370,14 @@
   },
   {
     "id": 3016,
-    "fa": "من این مشکل را از زمانی که یادم می آید داشتم",
-    "en": "I have had this problem as long as I remember",
+    "fa": "من این مشکل داشته بودم از زمانی که من می توانم یادم بیاید",
+    "en": "I have had this problem as long as I can remember",
     "groupCode": 0
   },
   {
     "id": 3017,
-    "fa": "آیا می توانم فردا با شلوارک به آفیس بیام؟",
-    "en": "Can I come to office wearing shorts tomorrow?",
+    "fa": "آیا می توانم بیام به آفیس (با) پوشیدن شلوارک فردا؟",
+    "en": "Can I come to the office wearing shorts tomorrow?",
     "groupCode": 0
   },
   {
@@ -18510,7 +18512,7 @@
   {
     "id": 3039,
     "fa": "او (مرد) نه شراب می نوشد و نه آبجو",
-    "en": "He doesn't drink neither wine nor beer",
+    "en": "He drinks neither wine nor beer",
     "groupCode": 0
   },
   {
@@ -18776,7 +18778,7 @@
   {
     "id": 3082,
     "fa": "یک شانس کمی (باریک) است برای گرفتن یک جای پارک در مرکز شهر",
-    "en": "It's a slim chance of getting a parking spot downtown",
+    "en": "There's a slim chance of getting a parking spot downtown",
     "groupCode": 0
   },
   {
@@ -20476,7 +20478,7 @@
     "id": 3359,
     "fa": "من همیشه این دو کلمه را با هم اشتباه (گیج) می گیرم",
     "en": "I always confuse these two words",
-    "desc": "✔\uFE0F confuse A and B → natural and modern\n\n✔\uFE0F mistake A for B → correct but a different structure",
+    "desc": "✔️ confuse A and B → natural and modern\n\n✔️ mistake A for B → correct but a different structure",
     "groupCode": 0
   },
   {
@@ -20562,7 +20564,7 @@
     "id": 3373,
     "fa": "من با همسرم زمان های پیشنهادی را چک خواهیم کرد و اگر آنها با برنامه (زمانی) ما مطابقت داشته باشد، من به شما بر خواهم گرداند",
     "en": "I will check the offered time slots with my wife, and if they match our schedule, I will get back to you",
-    "desc": "The correct and more natural phrasing is:\n\n\uD83D\uDC49 \"if they match our schedule\"\n\nThe word \"with\" is unnecessary here.",
+    "desc": "The correct and more natural phrasing is:\n\n👉 \"if they match our schedule\"\n\nThe word \"with\" is unnecessary here.",
     "groupCode": 0
   },
   {
@@ -24953,7 +24955,7 @@
     "id": 4092,
     "fa": "صدها از مردم حضور پیدا کردن تا ببینند رژه را",
     "en": "Hundreds of people turned out to see the parade",
-    "desc": "✅ Turned out\n= Emphasizes the number of people who came, often for a public event.\n\uD83D\uDD39 Hundreds of people turned out to see the parade.\n→ Suggests a big crowd came, maybe unexpectedly.\n\n✅ Turned up\n= Means came or arrived, more neutral or casual.\n\uD83D\uDD39 Hundreds of people turned up to see the parade.\n→ Just states that people came.",
+    "desc": "✅ Turned out\n= Emphasizes the number of people who came, often for a public event.\n🔹 Hundreds of people turned out to see the parade.\n→ Suggests a big crowd came, maybe unexpectedly.\n\n✅ Turned up\n= Means came or arrived, more neutral or casual.\n🔹 Hundreds of people turned up to see the parade.\n→ Just states that people came.",
     "groupCode": 0
   },
   {
@@ -26695,7 +26697,7 @@
     "id": 4379,
     "fa": "هر جور حسابش کنی, این یک پیشنهاد باخت است",
     "en": "Anyway you slice it, it's a losing proposition",
-    "desc": "“Propose” has two main meanings:\n\n\uD83D\uDC8D Ask someone to marry you\n\nHe proposed to her last night.\n\n\uD83D\uDCAC Suggest an idea or plan\n\nThey proposed a new law.\n\nI propose we take a break.",
+    "desc": "“Propose” has two main meanings:\n\n💍 Ask someone to marry you\n\nHe proposed to her last night.\n\n💬 Suggest an idea or plan\n\nThey proposed a new law.\n\nI propose we take a break.",
     "groupCode": 0
   },
   {
@@ -27161,7 +27163,7 @@
     "id": 4455,
     "fa": "شما چه فکر می‌کنی شما انجام خواهی داد پنج سال از حالا؟",
     "en": "What do you think you'll be doing five years from now?",
-    "desc": "“What do you think you'll be doing five years since now?”\n\uD83D\uDC49 since is used for the past, never the future.",
+    "desc": "“What do you think you'll be doing five years since now?”\n👉 since is used for the past, never the future.",
     "groupCode": 0
   },
   {
@@ -27180,7 +27182,7 @@
     "id": 4458,
     "fa": "من نشان دادم (بیان احساسات) از روی یک حس اجبار نسبت به انتخاب",
     "en": "I acted out of a sense of compulsion rather than choice",
-    "desc": "\uD83D\uDC49 “out of a sense” = because of / motivated by a feeling.",
+    "desc": "👉 “out of a sense” = because of / motivated by a feeling.",
     "groupCode": 0
   },
   {
@@ -28586,7 +28588,7 @@
     "id": 4689,
     "fa": "من حضور ذهن ندارم (من از بالای سرم نمی دانم)، اما من می توانم (فرضی) بروم و آن را جستجو کنم (معنی پیدا کردن)",
     "en": "I don't know off the top of my head, but I could go and look it up",
-    "desc": "✔\uFE0F 1. “I don't know off the top of my head, but I could go and look it up.”\n\n➡\uFE0F more polite / less direct / offering a possibility\nYou are saying: I don 't know right now, but if you want, I could look it up.\n\n✔\uFE0F 2. “I don't know off the top of my head, but I can go and look it up.”\n\n➡\uFE0F more direct / offering to do it right now\nYou are saying: I don 't know right now, but I 'm able to go look it up and I will if needed.",
+    "desc": "✔️ 1. “I don't know off the top of my head, but I could go and look it up.”\n\n➡️ more polite / less direct / offering a possibility\nYou are saying: I don 't know right now, but if you want, I could look it up.\n\n✔️ 2. “I don't know off the top of my head, but I can go and look it up.”\n\n➡️ more direct / offering to do it right now\nYou are saying: I don 't know right now, but I 'm able to go look it up and I will if needed.",
     "groupCode": 0
   },
   {
@@ -29364,7 +29366,7 @@
     "id": 4816,
     "fa": "شما می توانید چک کنید چه مقدار داده موبایل شما باقی دارید روی سیم کارت خود، اما دقیقا چگونه شما انجام بدید بستگی دارد به اپراتور موبایل شما",
     "en": "You can check how much mobile data you have left on your SIM, but exactly how you do it depends on your mobile operator",
-    "desc": "“do it”\n\nHere, “it” refers to the action of checking your data.\n\nExample: “How you do it” = how you perform the action of checking your data\n\n2\uFE0F⃣ “depends”\n\nThe verb “depends” does not need its own “it”.\n\n“Depends” is intransitive here, meaning it doesn 't take a direct object.\n\nSo you just say: “depends on your mobile operator” — no “it” needed.",
+    "desc": "“do it”\n\nHere, “it” refers to the action of checking your data.\n\nExample: “How you do it” = how you perform the action of checking your data\n\n2️⃣ “depends”\n\nThe verb “depends” does not need its own “it”.\n\n“Depends” is intransitive here, meaning it doesn 't take a direct object.\n\nSo you just say: “depends on your mobile operator” — no “it” needed.",
     "groupCode": 0
   },
   {
@@ -29779,7 +29781,7 @@
     "id": 4884,
     "fa": "چرا شما نمی مونی (مدتی جایی موندن) برای شام به جای رفتن به سمت خانه اینقدر زود؟",
     "en": "Why don't you stick around for dinner instead of heading home so early?",
-    "desc": "Key Difference (simple)\ninstead of → substitution (one replaces the other)\nrather than → preference or choice\n\uD83E\uDDE0 Easy comparison\nI took a taxi instead of the bus → I replaced the bus\nI took a taxi rather than the bus → I preferred the taxi",
+    "desc": "Key Difference (simple)\ninstead of → substitution (one replaces the other)\nrather than → preference or choice\n🧠 Easy comparison\nI took a taxi instead of the bus → I replaced the bus\nI took a taxi rather than the bus → I preferred the taxi",
     "groupCode": 0
   },
   {
@@ -30033,7 +30035,7 @@
     "id": 4926,
     "fa": "\n 1.من می خواهم بدانم آیا لاستیک نیاز به تعویض دارد؟ \n 2.من می خواهم با همکارانم آشنا شوم",
     "en": "\n 1.I want to know if the tire needs replacing \n 2.I want to get to know my coworkers",
-    "desc": "✅ “I want to know”\n\nUse this when you want information or an answer.\n\n“I want to know if the tire needs replacing.”\n\n“I want to know the price.”\n\uD83D\uDC49 You’re asking for facts or details.\n\n✅ “I want to get to know”\n\nUse this when you want to become familiar with a person or something over time.\n\n“I want to get to know my coworkers.”\n\n“I want to get to know the city.”\n\uD83D\uDC49 It means learning gradually through experience.\n\n⚠\uFE0F Important difference\n\n“know” = already having information\n\n“get to know” = the process of learning over time",
+    "desc": "✅ “I want to know”\n\nUse this when you want information or an answer.\n\n“I want to know if the tire needs replacing.”\n\n“I want to know the price.”\n👉 You’re asking for facts or details.\n\n✅ “I want to get to know”\n\nUse this when you want to become familiar with a person or something over time.\n\n“I want to get to know my coworkers.”\n\n“I want to get to know the city.”\n👉 It means learning gradually through experience.\n\n⚠️ Important difference\n\n“know” = already having information\n\n“get to know” = the process of learning over time",
     "groupCode": 0
   },
   {

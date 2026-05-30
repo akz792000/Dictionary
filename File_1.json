@@ -300,5 +300,17 @@
     "fa": "من نقض کرده ام آن قانون را مکررا",
     "en": "I've been violating that rule repeatedly",
     "groupCode": 0
+  },
+  {
+    "id": 5051,
+    "fa": "گیاهان نیاز دارند به آب تا حفظ کنند رشد",
+    "en": "Plants need water to sustain growth",
+    "groupCode": 0
+  },
+  {
+    "id": 5052,
+    "fa": "ما مجبور بودیم تا خرج کنیم یه عالمه تلاش تا تمام کنیم پروژه",
+    "en": "We had to expend a lot of effort to finish the project",
+    "groupCode": 0
   }
 ]

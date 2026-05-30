@@ -20,7 +20,7 @@ Each entry has:
 - Some sentences may be intentional quotes or cultural references from movies/TV series — do not correct their grammar as it may be stylistic on purpose
 
 ## Progress
-- Next batch to process: ids 2601–2700
+- Next batch to process: ids 3101–3200
 - When confirming each change, give 4 options as selectable choices (not numbered): "Correct it" (apply the fix), "Correct it with desc" (apply the fix + add a desc field explaining the reason), "Don't touch it" (keep original), or "Give my opinion" (user types their preferred version) — user picks from the choice UI, no need to type a number
 - After each batch, save the changes to the file before moving to the next batch
 - Do NOT create git commits — the user handles all commits manually
