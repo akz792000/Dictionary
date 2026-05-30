@@ -18919,5 +18919,65 @@
     "en": "Is this the solution?",
     "de": "Ist das die Lösung?",
     "groupCode": 1
+  },
+  {
+    "id": 13101,
+    "en": "A Terrible Hat",
+    "de": "Ein schrecklicher Hut",
+    "groupCode": 1
+  },
+  {
+    "id": 13102,
+    "en": "I like the long sleeves",
+    "de": "Ich mag die langen Ärmel",
+    "groupCode": 1
+  },
+  {
+    "id": 13103,
+    "en": "The T-shirt is really terrible",
+    "de": "Das T-Shirt ist wirklich schrecklich",
+    "groupCode": 1
+  },
+  {
+    "id": 13104,
+    "en": "I absolutely want this hat",
+    "de": "Unbedingt will ich diesen Hut",
+    "groupCode": 1
+  },
+  {
+    "id": 13105,
+    "en": "The colleagues are running late",
+    "de": "Die Kollegen sind spät dran",
+    "groupCode": 1
+  },
+  {
+    "id": 13106,
+    "en": "Can you hold the bag?",
+    "de": "Kannst du die Tasche halten?",
+    "groupCode": 1
+  },
+  {
+    "id": 13107,
+    "en": "They are talking to the students",
+    "de": "Sie reden mit den Schülern",
+    "groupCode": 1
+  },
+  {
+    "id": 13108,
+    "en": "Hang the mirror on the door?",
+    "de": "Hang den Spiegel an die Tür?",
+    "groupCode": 1
+  },
+  {
+    "id": 13109,
+    "en": "I was quite happy",
+    "de": "Ich bin ganz glücklich gewesen",
+    "groupCode": 1
+  },
+  {
+    "id": 13110,
+    "en": "Did you find the shoes somewhere?",
+    "de": "Hast du die Schuhe irgendwo gefunden?",
+    "groupCode": 1
   }
 ]
