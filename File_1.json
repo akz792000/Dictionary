@@ -225,7 +225,7 @@
   },
   {
     "id": 5038,
-    "fa": "نازل پمپ فیت نیست با دستگاه بادی من",
+    "fa": "نازل پمپ فیت دستگاه بادی من نیست",
     "en": "The pump nozzle does not fit my inflatable device",
     "groupCode": 0
   },
@@ -279,7 +279,7 @@
   },
   {
     "id": 5047,
-    "fa": "شما دارید متصل می شوید از طریق VPN از دستگاه محلی خود، نه از داخل AKS",
+    "fa": "شما دارید متصل می شوید از دستگاه محلی خود از طریق VPN، نه از داخل AKS",
     "en": "You're connecting from your local machine over VPN, not from inside AKS",
     "groupCode": 0
   },

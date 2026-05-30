@@ -1657,7 +1657,7 @@
   },
   {
     "id": 274,
-    "fa": "ماشینم تو راه خراب شده و من داشتم فکر می کردم اگر شما بتونی به من بگی کجا پیدا کنم یک گاراژ؟",
+    "fa": "ماشینم تو راه خراب شد و من داشتم فکر می کردم اگر شما بتونی (فرضی) به من بگی کجا پیدا کنم یک گاراژ؟",
     "en": "My car broke down on the way and I was wondering if you could tell me where to find a garage?",
     "groupCode": 0
   },
@@ -15363,7 +15363,7 @@
   },
   {
     "id": 2524,
-    "fa": "می تونی به من بگی کی این عکس گرفته شده",
+    "fa": "می تونی شما به من بگی کی این عکس گرفته شده؟",
     "en": "Can you tell me when this photo was taken?",
     "groupCode": 0
   },
@@ -15667,8 +15667,8 @@
   },
   {
     "id": 2574,
-    "fa": "من می توانم ببینم شما بزرگتر شدی از زمانی که او (زن) به دنیا آمده",
-    "en": "I can see you've grown wiser since she was born",
+    "fa": "من می توانم ببینم شما عاقل تر شدی از زمانی که او (زن) به دنیا آمد",
+    "en": "I can see you’ve become wiser since she was born",
     "groupCode": 0
   },
   {
@@ -15709,8 +15709,8 @@
   },
   {
     "id": 2581,
-    "fa": "بیایید ایده شما را مطرح کنیم (رو میز بزاریم) و ببینیم چگونه همه بهش پاسخ می دهند",
-    "en": "Let's put our idea on the table and see how everyone responds to it",
+    "fa": "بیایید ایده شما را مطرح کنیم (رو میز بزاریم) و ببینیم چگونه همه پاسخ می دهند بهش",
+    "en": "Let's put your idea on the table and see how everyone responds to it",
     "groupCode": 0
   },
   {
@@ -15860,7 +15860,7 @@
   },
   {
     "id": 2606,
-    "fa": "شما را با کسی دیگر اشتباه گرفتم",
+    "fa": "من اشتباه گرفتم شما را با کسی دیگر",
     "en": "I mistook you for someone else",
     "groupCode": 0
   },
@@ -16339,7 +16339,7 @@
   },
   {
     "id": 2685,
-    "fa": "حقوق خوب در انگلستان چقدر است؟",
+    "fa": "چه است یک حقوق خوب در انگلستان؟",
     "en": "What's a good salary in the UK?",
     "groupCode": 0,
     "desc": "Country names that are acronyms or contain common nouns (UK, USA, Netherlands) require the definite article \"the\"."
@@ -18370,7 +18370,7 @@
   },
   {
     "id": 3016,
-    "fa": "من این مشکل داشته بودم از زمانی که من می توانم یادم بیاید",
+    "fa": "من این مشکل داشته بودم از زمانی که من می توانم به یاد بیاورم",
     "en": "I have had this problem as long as I can remember",
     "groupCode": 0
   },
@@ -19501,7 +19501,7 @@
   },
   {
     "id": 3200,
-    "fa": "شما خیلی مناسب (یک گزینه عالی) خواهید بود (فرضی) برای یک سمت مهندس نرم افزار",
+    "fa": "شما یک گزینه عالی خواهید بود (فرضی) برای یک سمت مهندس نرم افزار",
     "en": "You'd be a great fit for a Software Engineer position",
     "groupCode": 0
   },
