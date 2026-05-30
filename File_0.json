@@ -18917,8 +18917,8 @@
   },
   {
     "id": 3105,
-    "fa": "من نمی توانم راحت برم بخواب به خاطر بی خوابیم",
-    "en": "I can't get to sleep well because of my insomnia",
+    "fa": "من نمی توانم راحت بخواب به خاطر بی خوابیم",
+    "en": "I can't sleep well because of my insomnia",
     "groupCode": 0
   },
   {
@@ -19170,8 +19170,9 @@
   {
     "id": 3146,
     "fa": "هر بار که سرت را می چرخانی، موهایت به صورتم ضربه می زنه",
-    "en": "Every time you turn your head, your hair flick my face",
-    "groupCode": 0
+    "en": "Every time you turn your head, your hair flicks my face",
+    "groupCode": 0,
+    "desc": "\"Hair\" is an uncountable/singular noun, so the verb takes the third-person singular \"s\": flicks, not flick."
   },
   {
     "id": 3147,
@@ -19336,8 +19337,8 @@
   },
   {
     "id": 3173,
-    "fa": "من اینطور بیانش می کنم (میزارمش این راه): سخت کوشی در نهایت نتیجه می دهد",
-    "en": "I put it this way: hard work pays off in the end",
+    "fa": "بزار من اینطور بیانش کنم (میزارمش این راه): سخت کوشی در نهایت نتیجه می دهد",
+    "en": "Let me put it this way: hard work pays off in the end",
     "groupCode": 0
   },
   {
@@ -19373,7 +19374,7 @@
   {
     "id": 3179,
     "fa": "اگر تو در آن دام بمانی، خواهی مرد",
-    "en": "If you stay in that snare, You'll die",
+    "en": "If you stay in that snare, you'll die",
     "groupCode": 0
   },
   {
@@ -19409,14 +19410,14 @@
   },
   {
     "id": 3185,
-    "fa": "در این لحظه بود (که) علی دانست او دیگه نمی‌خواست تاکو بخورد",
-    "en": "It was at this moment Ali knew he didn't want to eat taco anymore",
+    "fa": "در این لحظه بود (که) علی دانست او دیگه نمی‌خواست تاکوها بخورد",
+    "en": "It was at this moment Ali knew he didn't want to eat tacos anymore",
     "groupCode": 0
   },
   {
     "id": 3186,
     "fa": "من اعتقاد داشتم به خودم زمانی که هیچ کس دیگری نداشت",
-    "en": "I believed in me when no one else did",
+    "en": "I believed in myself when no one else did",
     "groupCode": 0
   },
   {
@@ -19500,8 +19501,8 @@
   },
   {
     "id": 3200,
-    "fa": "شما خیلی مناسب (یک گزینه عالی) خواهید بود (فرضی) برای سمت مهندس نرم افزار",
-    "en": "You'd be a great fit for Software Engineer position",
+    "fa": "شما خیلی مناسب (یک گزینه عالی) خواهید بود (فرضی) برای یک سمت مهندس نرم افزار",
+    "en": "You'd be a great fit for a Software Engineer position",
     "groupCode": 0
   },
   {
