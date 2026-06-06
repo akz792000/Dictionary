@@ -176,7 +176,7 @@
   },
   {
     "id": 5030,
-    "fa": "بچه ها، سرویس های agentic توی محیط توسعه هستن یه کم نامرتب (شلخته) همین الان و من می خوام تا تمیزشون کنم یه کم. بنابراین محیط توسعه ممکنه باشه یه غیرقابل اعتماد (کم ناپایدار) تا من بهتون بگم (بزارم بدونید) من کارم تموم شده، فقط آن را در ذهن داشته باشید",
+    "fa": "بچه ها، سرویس های agentic توی محیط توسعه هستن یه کم نامرتب هستند (شلخته) همین الان و من می خوام تا تمیز کنم آنها را یه کم. بنابراین محیط توسعه ممکنه باشه یه کم غیرقابل اعتماد (کم ناپایدار) تا من بهتون بگم (بزارم بدونید) من کارم تموم شده، فقط آن را در ذهن داشته باشید",
     "en": "Guys, the agentic services in dev environment are a bit sloppy right now and I want to clean them up a bit. So the dev environment might be a bit flaky until I let you know I'm done, just keep that in mind",
     "desc": "Use “in dev” because dev refers to an environment/state (development environment).\n\n✅ The agentic services in dev are a bit sloppy right now.\n\n“On dev” is less natural unless you mean a specific server or machine. \n\n\n\n It works on dev but not on prod.",
     "groupCode": 0
@@ -297,7 +297,7 @@
   },
   {
     "id": 5050,
-    "fa": "من نقض کرده ام آن قانون را مکررا",
+    "fa": "من نقض کرده ام (مدتی) آن قانون را مکررا",
     "en": "I've been violating that rule repeatedly",
     "groupCode": 0
   },
@@ -311,6 +311,12 @@
     "id": 5052,
     "fa": "ما مجبور بودیم تا خرج کنیم یه عالمه تلاش تا تمام کنیم پروژه",
     "en": "We had to expend a lot of effort to finish the project",
+    "groupCode": 0
+  },
+  {
+    "id": 5052,
+    "fa": "\n 1.بیایید نقشه (نگاهی سریع) را بررسی کنیم \n 2.بیایید نقشه را بررسی کنیم \n 3.او (مرد) توسط یک ماشین زیر گرفته شد",
+    "en": "\n 1.Let's run over the plan \n 2.Let's go over the plan \n 3.He was run over by a car",
     "groupCode": 0
   }
 ]
