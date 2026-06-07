@@ -3634,7 +3634,7 @@
   },
   {
     "id": 601,
-    "fa": "اگر جای تو بودم این را انجام نمی دادم",
+    "fa": "اگر من جای تو بودم, من این را انجام نمی دادم",
     "en": "If I were you, I would not do this",
     "groupCode": 0
   },
@@ -10254,8 +10254,8 @@
   },
   {
     "id": 1686,
-    "fa": "اگر جای تو بودم با او (مرد) دوست نمی شدم",
-    "en": "If I were you I wouldn't make friends with him",
+    "fa": "اگر من جای تو بودم, من با او (مرد) دوست نمی شدم",
+    "en": "If I were you, I wouldn't make friends with him",
     "desc": "In this sentence, \"friends\" is the plural form of the noun because it refers to the idea of forming a relationship with someone.",
     "groupCode": 0
   },
@@ -13085,7 +13085,7 @@
   },
   {
     "id": 2150,
-    "fa": "آیا می توانید با آن کفش ها زیاد راه بروید؟ خوب، نه برای مدت طولانی",
+    "fa": "آیا شما می توانید راه بروی زیاد در این کفش ها؟ خوب، نه برای مدت طولانی",
     "en": "Can you walk much in those shoes? Well, not for long",
     "groupCode": 0
   },
@@ -16580,7 +16580,7 @@
   },
   {
     "id": 2723,
-    "fa": "ما مرور می کنیم این درس را دوباره",
+    "fa": "ما داریم مرور می کنیم این درس را دوباره",
     "en": "We're going over this lesson again",
     "groupCode": 0
   },
