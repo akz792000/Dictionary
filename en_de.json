@@ -1,5 +1,620 @@
 [
   {
+    "id": 10001,
+    "en": "A B C D E F G H I J K L M N O P Q R S T U V W X Y Z",
+    "de": "ah beh tseh deh eh(اِ) eff geh(گِ) hah(ها) ee(ای) yott(یُت) kah ell emm enn oh peh kuh(کو) err ess teh uh(او) fau(فآو) veh(وِ) iks ypsilon(اُپسیلُن) tsett",
+    "groupCode": "EN_DE"
+  },
+  {
+    "id": 10002,
+    "en": "How are you doing (informal)? Thank you, I'm doing well, and you?",
+    "de": "Wie geht es dir? (1.Wie geht's dir? 2.Wie geht's?) Danke, es geht mir gut, und dir?",
+    "groupCode": "EN_DE"
+  },
+  {
+    "id": 10003,
+    "en": "Do you want to do yoga in forty minutes?",
+    "de": "Willst du in vierzig Minuten Yoga machen?",
+    "groupCode": "EN_DE"
+  },
+  {
+    "id": 10004,
+    "en": "Where stands the lamp? The lamp stands next to the bed",
+    "de": "Wo steht die Lampe? Die Lampe steht neben dem Bett",
+    "groupCode": "EN_DE"
+  },
+  {
+    "id": 10005,
+    "en": "Excuse (formal) me please. My roommate (female) is often messy",
+    "de": "Entschuldigung Sie bitte. Meine Mitbewohnerin ist oft unordentlich",
+    "groupCode": "EN_DE"
+  },
+  {
+    "id": 10006,
+    "en": "Hope to see you",
+    "de": "Auf Wiedersehen",
+    "groupCode": "EN_DE"
+  },
+  {
+    "id": 10007,
+    "en": "zero one two three four five six seven eight nine ten",
+    "de": "null eins zwei drei vier fünf sechs sieben acht neun zehn",
+    "groupCode": "EN_DE"
+  },
+  {
+    "id": 10008,
+    "en": "Another one time slowly please",
+    "de": "Noch einmal langsam bitte",
+    "desc": "\n noch = more \n einmal = once",
+    "groupCode": "EN_DE"
+  },
+  {
+    "id": 10009,
+    "en": "Get well soon!",
+    "de": "Gute Besserung!",
+    "groupCode": "EN_DE"
+  },
+  {
+    "id": 10010,
+    "en": "See you later",
+    "de": "Bis Später",
+    "groupCode": "EN_DE"
+  },
+  {
+    "id": 10011,
+    "en": "Good night",
+    "de": "Gute Nacht",
+    "desc": "\"denn\" here makes the question sound softer or more friendly.",
+    "groupCode": "EN_DE"
+  },
+  {
+    "id": 10012,
+    "en": "You make my bed and I make your bed",
+    "de": "Du machst mein Bett und ich mache dein Bett",
+    "groupCode": "EN_DE"
+  },
+  {
+    "id": 10013,
+    "en": "\n Monday \n Tuesday \n Wednesday \n Thursday \n Friday \n Saturday \n Sunday",
+    "de": "\n Montag \n Dienstag \n Mittwoch \n Donnerstag \n Freitag \n Samstag \n Sonntag",
+    "groupCode": "EN_DE"
+  },
+  {
+    "id": 10014,
+    "en": "You are Mr. Bieber! You (formal) never pay their bills",
+    "de": "Sie sind Herr Bieber! Sie zahlen nie Ihre Rechnungen",
+    "groupCode": "EN_DE"
+  },
+  {
+    "id": 10015,
+    "en": "You're lazy, you never paint a picture for me",
+    "de": " Du bist faul, du malst nie ein Bild für mich",
+    "groupCode": "EN_DE"
+  },
+  {
+    "id": 10016,
+    "en": "Ali is at home. He opens the door",
+    "de": "Ali ist zu Hause. Er öffnet die Tür",
+    "groupCode": "EN_DE"
+  },
+  {
+    "id": 10017,
+    "en": "\n Subject pronoun \n\n I, you, he(M)/she(F)/it(N), we, you, they",
+    "de": "\n Subjektpronomen \n\n ich, du, er(M)/sie(F)/es(N), wir, ihr, sie-Sie",
+    "groupCode": "EN_DE"
+  },
+  {
+    "id": 10018,
+    "en": "Where does your (formal) partner (male) come from?",
+    "de": "Woher kommt Ihr Partner?",
+    "desc": "\"Woher kommt Ihr Partner?\"\nThis is correct if you're using the formal \"Sie\" (you), addressing someone politely and referring to their partner (formal possessive form).\n\n\"Woher kommt ihr Partner?\"\nThis is correct if you're using the informal \"ihr\" (you all), addressing a group informally and referring to their partner (informal possessive form).\n\n",
+    "groupCode": "EN_DE"
+  },
+  {
+    "id": 10019,
+    "en": "Where do you come from? I come from Germany. Funny, I do too",
+    "de": "Wo kommst du her? (Woher kommst du?) Ich komme aus Deutschland. Witzig/lustig, ich auch (هیِ) (ویتزیگ ایش آوخ)",
+    "desc": "Woher kommst du? ← That's the verb kommen.\n\nWo kommst du her? ← That's the verb herkommen.\n\nThe meaning is similar.",
+    "groupCode": "EN_DE"
+  },
+  {
+    "id": 10020,
+    "en": "Where do the persons come from?",
+    "de": "Woher kommen die Personen?",
+    "groupCode": "EN_DE"
+  },
+  {
+    "id": 10021,
+    "en": "Where do you live now? Do you currently live alone?",
+    "de": "Wo wohnst du jetzt? Wohnst du zurzeit allein?",
+    "groupCode": "EN_DE"
+  },
+  {
+    "id": 10022,
+    "en": "Who says that?",
+    "de": "Wer sagt das?",
+    "groupCode": "EN_DE"
+  },
+  {
+    "id": 10023,
+    "en": "\n Object pronoun - Akkusative \n me, you, him(M)/her(F)/it(N), us, you, them",
+    "de": "\n Objektpronomen - Akkusative \n mich, dich, ihn(M)/sie(F)/es(N), uns, euch, sie-Sie",
+    "desc": "بی واسطه - چه چیزی را - چه کسی را",
+    "groupCode": "EN_DE"
+  },
+  {
+    "id": 10024,
+    "en": "\n Object pronoun - Dativ \n me, you, him(M)/her(F)/it(N), us, you, them",
+    "de": "\n Objektpronomen - Dativ \n mir, dir, ihm(M)/ihr(F)/ihm(N), uns, euch, ihnen-Ihnen",
+    "desc": "با واسطه - به چه چیزی - به چه کسی",
+    "groupCode": "EN_DE"
+  },
+  {
+    "id": 10025,
+    "en": "I am sorry, I can't now",
+    "de": "Es tut mir leid, Ich kann jetzt nicht",
+    "groupCode": "EN_DE"
+  },
+  {
+    "id": 10026,
+    "en": "Pardon? (question) Why do I have to buy everything every time?",
+    "de": "Wie bitte? Warum muss ich jedes Mal alles kaufen?",
+    "groupCode": "EN_DE"
+  },
+  {
+    "id": 10027,
+    "en": "Once again, please",
+    "de": "Noch einmal, bitte",
+    "groupCode": "EN_DE"
+  },
+  {
+    "id": 10028,
+    "en": "Please repeat (formal)!",
+    "de": "Bitte wiederholen Sie!",
+    "groupCode": "EN_DE"
+  },
+  {
+    "id": 10029,
+    "en": "Do you (formal) speak German? No, I speak no German",
+    "de": "Sprechen Sie Deutsch? Nein, Ich spreche kein Deutsch",
+    "groupCode": "EN_DE"
+  },
+  {
+    "id": 10030,
+    "en": "Where do you live? I live in France",
+    "de": "Wo lebst du? Ich lebe in Frankreich",
+    "groupCode": "EN_DE"
+  },
+  {
+    "id": 10031,
+    "en": "I speak a bit of German",
+    "de": "Ich spreche ein bisschen Deutsch",
+    "groupCode": "EN_DE"
+  },
+  {
+    "id": 10032,
+    "en": "A moment, please",
+    "de": "Einen Moment, bitte",
+    "groupCode": "EN_DE"
+  },
+  {
+    "id": 10033,
+    "en": "Which activities are better?",
+    "de": "Welche Aktivitäten sind besser?",
+    "groupCode": "EN_DE"
+  },
+  {
+    "id": 10034,
+    "en": "Yes / No / maybe. What are you drawing right now? Oh, you draw me",
+    "de": "Ja / Nein / Vielleicht. Was zeichnest du gerade? Oh, Du zeichnest mich",
+    "desc": "So use \"gerade\" for now, and \"gleich\" for soon/in a moment.",
+    "groupCode": "EN_DE"
+  },
+  {
+    "id": 10035,
+    "en": "Complete (formal) the dialog",
+    "de": "Ergänzen Sie den Dialog",
+    "groupCode": "EN_DE"
+  },
+  {
+    "id": 10036,
+    "en": "Write down (Note) (formal) the names",
+    "de": "Notieren Sie die Namen",
+    "groupCode": "EN_DE"
+  },
+  {
+    "id": 10037,
+    "en": "That is my pen. I have a pencil",
+    "de": "Das ist mein (der) Kuli/Kugelschreiber. Ich habe einen (der) Bleistift",
+    "groupCode": "EN_DE"
+  },
+  {
+    "id": 10038,
+    "en": "Can you do your chore tomorrow?",
+    "de": "Kannst du morgen deine Hausarbeit machen?",
+    "groupCode": "EN_DE"
+  },
+  {
+    "id": 10039,
+    "en": "I am very nice",
+    "de": "Ich bin sehr nett",
+    "groupCode": "EN_DE"
+  },
+  {
+    "id": 10040,
+    "en": "Is that you? You speak so loudly, be quieter, please",
+    "de": "Bist du das? Du sprichst so laut, sie leiser, bitte",
+    "desc": "\"Das\" can be translated to \"this\" when it refers to something nearby or within close proximity.\n\"Das\" can be translated to \"that\" when it refers to something more distant or not immediately close.",
+    "groupCode": "EN_DE"
+  },
+  {
+    "id": 10041,
+    "en": "The task is simple",
+    "de": "Die Aufgabe ist einfach",
+    "groupCode": "EN_DE"
+  },
+  {
+    "id": 10042,
+    "en": "The USA (come from USA)",
+    "de": "Die USA (komme aus den USA)",
+    "desc": "\"USA\" is plural in German (die Vereinigten Staaten von Amerika → plural).\nWith \"aus\", which takes the Dativ case, \"die\" (plural) changes to \"den\".",
+    "groupCode": "EN_DE"
+  },
+  {
+    "id": 10043,
+    "en": "The cheese bread is for her. Don't eat it please! There's cheese and bread in the fridge for you",
+    "de": "Das Käsebrot ist für sie. Iss es bitte nicht! Es gibt Käse und Brot im Kuhlschrank für dich",
+    "groupCode": "EN_DE"
+  },
+  {
+    "id": 10044,
+    "en": "Hear (formal) the numbers (pay)",
+    "de": "Hören Sie die Zahlen",
+    "groupCode": "EN_DE"
+  },
+  {
+    "id": 10045,
+    "en": "Speak out (formal) loud",
+    "de": "Sprechen Sie laut",
+    "desc": "laut = loud",
+    "groupCode": "EN_DE"
+  },
+  {
+    "id": 10046,
+    "en": "Is that your (formal) cell phone number? Yes, my cell phone number is...",
+    "de": "Ist das Ihre Handynummer? Ja, meine Handynummer ist ...",
+    "groupCode": "EN_DE"
+  },
+  {
+    "id": 10047,
+    "en": "Read (formal) the sentences",
+    "de": "Lesen Sie die Sätze",
+    "groupCode": "EN_DE"
+  },
+  {
+    "id": 10048,
+    "en": "Is French easy or difficult? It's beautiful but difficult",
+    "de": "Ist Französisch einfach oder schwer? Es ist schön, aber schwer",
+    "groupCode": "EN_DE"
+  },
+  {
+    "id": 10049,
+    "en": "Are you angry? No, I'm not angry",
+    "de": "Bist du wütend? Nein, Ich bin nicht wütend",
+    "desc": "wütend = angry to the point of rage (like yelling or losing control)\n\nverärgert = irritated or upset, but still calm and reasonable",
+    "groupCode": "EN_DE"
+  },
+  {
+    "id": 10050,
+    "en": "I am so tired",
+    "de": "Ich bin so müde",
+    "groupCode": "EN_DE"
+  },
+  {
+    "id": 10051,
+    "en": "How old are you (formal)?",
+    "de": "Wie alt sind Sie?",
+    "groupCode": "EN_DE"
+  },
+  {
+    "id": 10052,
+    "en": "Do you like going into clubs? No, I prefer going into cafes",
+    "de": "Gehst du gern in Clubs? Nein, Ich gehe lieber in Cafés",
+    "desc": "Both \"I prefer going to cafes\" and \"I prefer to go to cafes\" are correct. The first uses a gerund (\"going\"), while the second uses an infinitive (\"to go\"). They mean the same thing but might be used in different contexts or for stylistic variation.",
+    "groupCode": "EN_DE"
+  },
+  {
+    "id": 10053,
+    "en": "Can you (formal) help me?",
+    "de": "Können sie mir helfen?",
+    "groupCode": "EN_DE"
+  },
+  {
+    "id": 10054,
+    "en": "The closet is cool. Do you like the closet?",
+    "de": "Der Schrank ist cool. Magst du den Schrank?",
+    "groupCode": "EN_DE"
+  },
+  {
+    "id": 10055,
+    "en": "Mia is my cat. She is old and sleeps the entire day! I also have a dog. He is very loud and sleep too little!",
+    "de": "Mia ist meine Katze. Sie ist alt und schläft den ganzen Tag! Ich habe auch einen Hund. Er ist sehr laut und schläft zu wenig!",
+    "groupCode": "EN_DE"
+  },
+  {
+    "id": 10056,
+    "en": "A bear runs in the forest",
+    "de": "Ein Bär läuft im Wald",
+    "desc": "\n Bär = bear \n läuft = run \n im = in the \n Wald = forest",
+    "groupCode": "EN_DE"
+  },
+  {
+    "id": 10057,
+    "en": "My brother is doing the Abitur (final school exam (for university entrance in Germany))",
+    "de": "Mein Bruder macht das Abitur",
+    "groupCode": "EN_DE"
+  },
+  {
+    "id": 10058,
+    "en": "Do you like the bedroom or not?",
+    "de": "Magst du das Schlafzimmer oder nicht?",
+    "groupCode": "EN_DE"
+  },
+  {
+    "id": 10059,
+    "en": "My daughter is very smart",
+    "de": "Meine Tochter ist sehr klug",
+    "groupCode": "EN_DE"
+  },
+  {
+    "id": 10060,
+    "en": "The pizza with cheese is cold",
+    "de": "Die Pizza mit Käse ist kalt",
+    "groupCode": "EN_DE"
+  },
+  {
+    "id": 10061,
+    "en": "Where is the restaurant and the library?",
+    "de": "Wo ist das Restaurant und die Bibliothek?",
+    "groupCode": "EN_DE"
+  },
+  {
+    "id": 10062,
+    "en": "The food is here",
+    "de": "Das Essen ist hier",
+    "groupCode": "EN_DE"
+  },
+  {
+    "id": 10063,
+    "en": "I come from Italy, I speak Italian, and I am Italian",
+    "de": "Ich komme aus Italien, Ich spreche Italienisch und Ich bin Italiener/Italienerin",
+    "groupCode": "EN_DE"
+  },
+  {
+    "id": 10064,
+    "en": "I come from Portugal, I speak Portuguese, and I am Portuguese",
+    "de": "Ich komme aus Portugal, Ich spreche Portugiesisch und Ich bin Portugiese/Portugiesin",
+    "groupCode": "EN_DE"
+  },
+  {
+    "id": 10065,
+    "en": "I come from Syria, I speak Arabic, and I am Syrian",
+    "de": "Ich komme aus Syrien, Ich spreche Arabisch und Ich bin Syrer/Syrerin",
+    "groupCode": "EN_DE"
+  },
+  {
+    "id": 10066,
+    "en": "Romania is also great",
+    "de": "Rumänien ist auch super",
+    "groupCode": "EN_DE"
+  },
+  {
+    "id": 10067,
+    "en": "I drink coffee",
+    "de": "Ich trinke Kaffee",
+    "groupCode": "EN_DE"
+  },
+  {
+    "id": 10068,
+    "en": "My bag is blue",
+    "de": "Meine Tasche ist blau",
+    "groupCode": "EN_DE"
+  },
+  {
+    "id": 10069,
+    "en": "He is a college student. She is a college student",
+    "de": "Er ist Student. Sie ist Studentin",
+    "groupCode": "EN_DE"
+  },
+  {
+    "id": 10070,
+    "en": "Berlin is also loud",
+    "de": "Berlin ist auch laud",
+    "groupCode": "EN_DE"
+  },
+  {
+    "id": 10071,
+    "en": "Is the boy Ilia?",
+    "de": "Ist der Junge Ilia?",
+    "groupCode": "EN_DE"
+  },
+  {
+    "id": 10072,
+    "en": "My son is young",
+    "de": "Mein Sohn ist jung",
+    "groupCode": "EN_DE"
+  },
+  {
+    "id": 10073,
+    "en": "You're welcome",
+    "de": "Gern geschehen",
+    "groupCode": "EN_DE"
+  },
+  {
+    "id": 10074,
+    "en": "Ali is not a doctor. Fahimeh ist not a doctor",
+    "de": "Ali ist kein Arzt. Fahimeh ist keine Ärztin",
+    "groupCode": "EN_DE"
+  },
+  {
+    "id": 10075,
+    "en": "I am very rich. He is not very rich",
+    "de": "Ich bin sehr reich. Er ist nicht sehr reich",
+    "desc": "In German, \"nicht\" (not) typically goes before adjectives like \"sehr reich\" (very rich). The alternative, \"Es ist sehr reich nicht,\" is incorrect in standard German word order.",
+    "groupCode": "EN_DE"
+  },
+  {
+    "id": 10076,
+    "en": "A man needs a doctor now",
+    "de": "Ein Mann braucht jetzt einen Arzt / eine Ärztin",
+    "groupCode": "EN_DE"
+  },
+  {
+    "id": 10077,
+    "en": "Your mother is a doctor",
+    "de": "Deine Mutter ist Ärztin",
+    "groupCode": "EN_DE"
+  },
+  {
+    "id": 10078,
+    "en": "Cool, is your work stressful?",
+    "de": "Cool, ist deine Arbeit stressig?",
+    "groupCode": "EN_DE"
+  },
+  {
+    "id": 10079,
+    "en": "Is he a waiter? Yes, he is a waiter and serves food",
+    "de": "Ist er Kellner? Ja, er ist a Kellner und serviert Essen",
+    "groupCode": "EN_DE"
+  },
+  {
+    "id": 10080,
+    "en": "My father is also a doctor",
+    "de": "Mein Vater ist auch Arzt",
+    "groupCode": "EN_DE"
+  },
+  {
+    "id": 10081,
+    "en": "The cinema closes at eleven o'clock",
+    "de": "Das Kino schließt um elf Uhr",
+    "groupCode": "EN_DE"
+  },
+  {
+    "id": 10082,
+    "en": "The woman is a waitress",
+    "de": "Die Frau ist Kellnerin",
+    "groupCode": "EN_DE"
+  },
+  {
+    "id": 10083,
+    "en": "I need a new jacket",
+    "de": "Ich brauche eine neue Jacke",
+    "groupCode": "EN_DE"
+  },
+  {
+    "id": 10084,
+    "en": "I never paint",
+    "de": "Ich male nie",
+    "groupCode": "EN_DE"
+  },
+  {
+    "id": 10085,
+    "en": "He paints sometimes",
+    "de": "Er malt manchmal",
+    "groupCode": "EN_DE"
+  },
+  {
+    "id": 10086,
+    "en": "The schnitzel is very delicious! You cook very well",
+    "de": "Das Schnitzel ist sehr lecker. Du kochst sehr gut",
+    "groupCode": "EN_DE"
+  },
+  {
+    "id": 10087,
+    "en": "Do you swim sometimes? No, I always swim",
+    "de": "Schwimmst du manchmal? Nein, Ich schwimme immer",
+    "groupCode": "EN_DE"
+  },
+  {
+    "id": 10088,
+    "en": "Do you (formal) paint sometimes?",
+    "de": "Malen Sie manchmal?",
+    "groupCode": "EN_DE"
+  },
+  {
+    "id": 10089,
+    "en": "I would like a new video game",
+    "de": "Ich möchte ein neues Videospiel",
+    "groupCode": "EN_DE"
+  },
+  {
+    "id": 10090,
+    "en": "I don't go into the school on Monday",
+    "de": "Ich gehe am Montag nicht in die Schule",
+    "groupCode": "EN_DE"
+  },
+  {
+    "id": 10091,
+    "en": "That's easy",
+    "de": "Das ist einfach",
+    "groupCode": "EN_DE"
+  },
+  {
+    "id": 10092,
+    "en": "My father, my brother, my mother and my sister",
+    "de": "Mein Vater, mein bruder, meine Mutter und meine Schwester",
+    "groupCode": "EN_DE"
+  },
+  {
+    "id": 10093,
+    "en": "She is the new student (college). He is the new student (college)",
+    "de": "Sie ist die neue Schülerin. Er ist der neue Schüler",
+    "desc": "❌ Not \"neuer\" — that form is used:\nwith no article → e.g., neuer Schüler kommt.\n\n\uD83D\uDCCC Quick rule:\nAfter der/die/das → adjective ends in -e\n\nLet me know if you want a few examples to practice!",
+    "groupCode": "EN_DE"
+  },
+  {
+    "id": 10094,
+    "en": "They don't want to stay",
+    "de": "Sie wollen nicht bleiben",
+    "groupCode": "EN_DE"
+  },
+  {
+    "id": 10095,
+    "en": "I don't want to drink something",
+    "de": "Ich will etwas nicht trinken",
+    "groupCode": "EN_DE"
+  },
+  {
+    "id": 10096,
+    "en": "Are you (plural) coming to the party later?",
+    "de": "Kommt ihr später zur Party?",
+    "groupCode": "EN_DE"
+  },
+  {
+    "id": 10097,
+    "en": "The train always comes too late",
+    "de": "Der Zug kommt immer zu spät",
+    "groupCode": "EN_DE"
+  },
+  {
+    "id": 10098,
+    "en": "What does this cost?",
+    "de": "Was kostet das?",
+    "groupCode": "EN_DE"
+  },
+  {
+    "id": 10099,
+    "en": "Peter says the man",
+    "de": "Peter sagt dem Mann",
+    "groupCode": "EN_DE"
+  },
+  {
+    "id": 10100,
+    "en": "Are you (plural) coming? The teaching starts soon (shortly)",
+    "de": "Kommt ihr? Der Unterricht fängt gleich an",
+    "groupCode": "EN_DE"
+  },
+  {
     "id": 13101,
     "en": "A Terrible Hat",
     "de": "Ein schrecklicher Hut",
