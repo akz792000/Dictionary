@@ -8274,6 +8274,7 @@
     "id": 11457,
     "en": "I arrive at the train station tomorrow at 10 a.m. I am waiting then for you in front of the café. You can call me if (whenever) you have arrived. My phone number is...",
     "de": "Ich komme morgen um 10 Uhr am Bahnhof an. Ich warte dann vor dem Café auf dich. Du kannst mich anrufen, wenn du angekommen bist. Meine Telefonnummer ist ...",
+    "desc": "So you have two correct options with slightly different meanings:\n\nDu kannst mich anrufen, wenn du ankommst. = You can call me when you arrive.\nDu kannst mich anrufen, wenn du angekommen bist. = You can call me once you have arrived.\n\nThe second version emphasizes that the arrival is already completed before the call. In everyday conversation, both are common and natural.",
     "groupCode": 1
   },
   {
@@ -11025,7 +11026,7 @@
   },
   {
     "id": 11906,
-    "en": "I'm not going on Monday, but (negative statement) on Tuesday",
+    "en": "I'm not going on Monday, but (rather - negative statement) on Tuesday",
     "de": "Ich gehe nicht am Montag, sondern am Dienstag",
     "groupCode": 1
   },
@@ -11043,7 +11044,7 @@
   },
   {
     "id": 11909,
-    "en": "\n 1.I don't drink coffee, but (negative statement) tea \n 2.I drink coffee, but no tea",
+    "en": "\n 1.I don't drink coffee, but (rather - negative statement) tea \n 2.I drink coffee, but no tea",
     "de": "\n 1.Ich trinke keinen Kaffee, sondern Tee \n 2.Ich trinke Kaffee, aber keinen Tee",
     "desc": "“sondern” = “but rather / instead”\n\nYou use sondern when the first part of the sentence is negative (with nicht, kein, or nie) and you want to correct it with something else.",
     "groupCode": 1
@@ -13829,7 +13830,7 @@
   },
   {
     "id": 12365,
-    "en": "\n 1.rarely \n 2.but (negative statement) \n 3.quite \n 4.even \n 5.probably \n 6.actually \n 7.hereby \n 8.Although \n 9.suddenly",
+    "en": "\n 1.rarely \n 2.but (rather - negative statement) \n 3.quite \n 4.even \n 5.probably \n 6.actually \n 7.hereby \n 8.Although \n 9.suddenly",
     "de": "\n 1.selten \n 2.sondern \n 3.ziemlich \n 4.sogar \n 5.wahrscheinlich \n 6.eigentlich \n 7.hiermit \n 8.obwohl \n 9.Plötzlich",
     "groupCode": 1
   },
@@ -17277,8 +17278,9 @@
   },
   {
     "id": 12931,
-    "en": "I must return the book to the library",
-    "de": "Ich muss das Buch der Bibliothek zurückgeben",
+    "en": "\n 1.I must return the book to the library \n 2.I have to bring the book back into the library",
+    "de": "\n 1.Ich muss das Buch der Bibliothek zurückgeben \n 2.Ich muss das Buch in die Bibliothek zurückbringen",
+    "desc": "This sounds unnatural because zur Bibliothek (\"to the library\") expresses movement toward a place, but zurückgeben usually takes the person or institution receiving the item in the dative:",
     "groupCode": 1
   },
   {
@@ -18301,7 +18303,7 @@
   },
   {
     "id": 13100,
-    "en": "Is this the solution?",
+    "en": "Is that the solution?",
     "de": "Ist das die Lösung?",
     "groupCode": 1
   }

@@ -736,6 +736,66 @@
     "groupCode": "EN_DE"
   },
   {
+    "id": 13121,
+    "en": "\n 1.The knife is sharp \n 2.The knives are sharp.",
+    "de": "\n 1.Das Messer ist scharf \n 2.Die Messer sind scharf",
+    "groupCode": "EN_DE"
+  },
+  {
+    "id": 13122,
+    "en": "\n 1.The explanation is confusing \n 2.a confusing question",
+    "de": "\n 1.Die Erklärung ist verwirrend \n 2.eine verwirrende Frage",
+    "groupCode": "EN_DE"
+  },
+  {
+    "id": 13123,
+    "en": "That is not a tomato, but (rather - negative statement) a strawberry",
+    "de": "Das ist keine Tomate, sondern eine Erdbeere",
+    "groupCode": "EN_DE"
+  },
+  {
+    "id": 13124,
+    "en": "Do you have the paper for the printer?",
+    "de": "Hast du das Papier für den Drucker?",
+    "groupCode": "EN_DE"
+  },
+  {
+    "id": 13125,
+    "en": "Don't you miss me?",
+    "de": "vermisst du mich nicht?",
+    "groupCode": "EN_DE"
+  },
+  {
+    "id": 13126,
+    "en": "The park is not safe at night",
+    "de": "Der Park ist abends nicht sicher",
+    "groupCode": "EN_DE"
+  },
+  {
+    "id": 13127,
+    "en": "I am crying, but I am not hurt",
+    "de": "Ich weine, aber ich bin nicht verletzt",
+    "groupCode": "EN_DE"
+  },
+  {
+    "id": 13128,
+    "en": "Our flight was extremely full",
+    "de": "Unser Flug was extrem voll",
+    "groupCode": "EN_DE"
+  },
+  {
+    "id": 13129,
+    "en": "My neighborhood is quiet and safe",
+    "de": "Mein Viertel ist ruhig und sicher",
+    "groupCode": "EN_DE"
+  },
+  {
+    "id": 13130,
+    "en": "My shoes are terrible",
+    "de": "Meine Schuhe sind furchtbar",
+    "groupCode": "EN_DE"
+  },
+  {
     "id": 20001,
     "en": "Have",
     "de": "Haben",
