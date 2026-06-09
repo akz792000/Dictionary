@@ -615,6 +615,610 @@
     "groupCode": "EN_DE"
   },
   {
+    "id": 13001,
+    "en": "The candles stand on the dresser",
+    "de": "Die Kerzen stehen auf der Kommode",
+    "groupCode": "EN_DE"
+  },
+  {
+    "id": 13002,
+    "en": "The recipient of the package lives in Berlin",
+    "de": "Der Empfänger des Pakets wohnt in Berlin",
+    "groupCode": "EN_DE"
+  },
+  {
+    "id": 13003,
+    "en": "The mattress looks cozy",
+    "de": "Die Matratze sieht gemütlich aus",
+    "groupCode": "EN_DE"
+  },
+  {
+    "id": 13004,
+    "en": "The sofa has no soft blanket",
+    "de": "Das Sofa hat keine weiche Decke",
+    "groupCode": "EN_DE"
+  },
+  {
+    "id": 13005,
+    "en": "Is this shelf stable enough?",
+    "de": "Ist dieses Regal stabil genug?",
+    "groupCode": "EN_DE"
+  },
+  {
+    "id": 13006,
+    "en": "Choose the option with the meaning “front/in front”",
+    "de": "Wähle die Option mit der Bedeutung „vorne“",
+    "groupCode": "EN_DE"
+  },
+  {
+    "id": 13007,
+    "en": "Look. Isn't that the same desk?",
+    "de": "Schau mal. Ist das nicht der gleiche Schreibtisch?",
+    "groupCode": "EN_DE"
+  },
+  {
+    "id": 13008,
+    "en": "My father has died",
+    "de": "Mein Vater ist gestorben",
+    "groupCode": "EN_DE"
+  },
+  {
+    "id": 13009,
+    "en": "We didn't stay (for a long time) long",
+    "de": "Wir sind nicht lange geblieben",
+    "desc": "lange = adverb meaning “for a long time” → correct here\nlang = adjective meaning “long” (length), not time duration → incorrect in this context",
+    "groupCode": "EN_DE"
+  },
+  {
+    "id": 13010,
+    "en": "The shoes from Anna stank (smelled bad)",
+    "de": "Die Schuhe von Anna haben gestunken",
+    "groupCode": "EN_DE"
+  },
+  {
+    "id": 13011,
+    "en": "I find plastic in shoes impractical",
+    "de": "Ich finde Plastik in Schuhen unpraktisch",
+    "groupCode": "EN_DE"
+  },
+  {
+    "id": 13012,
+    "en": "I lost the receipt",
+    "de": "Ich habe den Kassenbon verloren",
+    "groupCode": "EN_DE"
+  },
+  {
+    "id": 13013,
+    "en": "I am holding the dress for you",
+    "de": "Ich halte das Kleid für dich",
+    "groupCode": "EN_DE"
+  },
+  {
+    "id": 13014,
+    "en": "I am looking for silver earrings",
+    "de": "Ich suche silberne Ohrringe",
+    "groupCode": "EN_DE"
+  },
+  {
+    "id": 13015,
+    "en": "I am looking for shirts with long sleeves",
+    "de": "Ich suche Hemden mit langen Ärmeln",
+    "groupCode": "EN_DE"
+  },
+  {
+    "id": 13016,
+    "en": "Can I try on the cardigan?",
+    "de": "Kann ich die Strickjacke anprobieren?",
+    "desc": "cardigan = ژاکت کش باف پشمی",
+    "groupCode": "EN_DE"
+  },
+  {
+    "id": 13017,
+    "en": "I am looking for a warm winter coat",
+    "de": "Ich suche einen warmen Wintermantel",
+    "groupCode": "EN_DE"
+  },
+  {
+    "id": 13018,
+    "en": "She is not looking for long belts",
+    "de": "Sie sucht keine langen Gürtel",
+    "desc": "„Gürtel“ can be both — singular and plural in German.\n\n\uD83D\uDD39 Singular:\n\nder Gürtel = one belt\nExample: Ich trage einen Gürtel. (I wear a belt)\n\n\uD83D\uDD39 Plural:\n\ndie Gürtel = belts (more than one)\nExample: Ich habe zwei Gürtel. (I have two belts)",
+    "groupCode": "EN_DE"
+  },
+  {
+    "id": 13019,
+    "en": "I am wearing a belt",
+    "de": "Ich trage einen Gürtel",
+    "desc": "„Gürtel“ can be both — singular and plural in German.\n\n\uD83D\uDD39 Singular:\n\nder Gürtel = one belt\nExample: Ich trage einen Gürtel. (I wear a belt)\n\n\uD83D\uDD39 Plural:\n\ndie Gürtel = belts (more than one)\nExample: Ich habe zwei Gürtel. (I have two belts)",
+    "groupCode": "EN_DE"
+  },
+  {
+    "id": 13020,
+    "en": "I would like to wear a pajamas",
+    "de": "Ich möchte einen Pyjama tragen",
+    "groupCode": "EN_DE"
+  },
+  {
+    "id": 13021,
+    "en": "Where did you grow up? I grew up in Tehran",
+    "de": "Wo bist du aufgewachsen? Ich bin in Tehran aufgewachsen",
+    "groupCode": "EN_DE"
+  },
+  {
+    "id": 13022,
+    "en": "I thought I would surprise you",
+    "de": "Ich dachte, ich würde dich überraschen",
+    "groupCode": "EN_DE"
+  },
+  {
+    "id": 13023,
+    "en": "Noramlly, I read a book",
+    "de": "Normalerweise lese ich ein Buch",
+    "groupCode": "EN_DE"
+  },
+  {
+    "id": 13024,
+    "en": "Until to the next time",
+    "de": "Bis zum nächsten Mal",
+    "groupCode": "EN_DE"
+  },
+  {
+    "id": 13025,
+    "en": "I am placing ten heavy books on the shelf. The bookcase is wobbling",
+    "de": "Ich stelle zehn schwere Bücher auf das Bücherregal. Das Bücherregal wackelt",
+    "groupCode": "EN_DE"
+  },
+  {
+    "id": 13026,
+    "en": "A blue winter coat",
+    "de": "Ein blauer Wintermantel",
+    "groupCode": "EN_DE"
+  },
+  {
+    "id": 13027,
+    "en": "I don't have a new skirt",
+    "de": "Ich habe keinen neuen Rock",
+    "groupCode": "EN_DE"
+  },
+  {
+    "id": 13028,
+    "en": "Is this winter coat on sale?",
+    "de": "Ist dieser Wintermantel im Angebot?",
+    "groupCode": "EN_DE"
+  },
+  {
+    "id": 13029,
+    "en": "A soft pair of pajamas",
+    "de": "Ein weicher Pyjama",
+    "groupCode": "EN_DE"
+  },
+  {
+    "id": 13030,
+    "en": "This shirt must be somewhere",
+    "de": "Dieses Hemd muss irgendwo sein",
+    "groupCode": "EN_DE"
+  },
+  {
+    "id": 13031,
+    "en": "I hit the target (disk)",
+    "de": "Ich treffe die Scheibe",
+    "groupCode": "EN_DE"
+  },
+  {
+    "id": 13032,
+    "en": "The disk is clean",
+    "de": "Die Scheibe ist sauber",
+    "groupCode": "EN_DE"
+  },
+  {
+    "id": 13033,
+    "en": "My stomach hurts",
+    "de": "\n 1.Mein Magen tut weh \n 2.Mir tut der Magen weh",
+    "groupCode": "EN_DE"
+  },
+  {
+    "id": 13034,
+    "en": "\n 1.The recipient is missing \n 2.The recipient is away (gone/away)",
+    "de": "\n 1.Der Empfänger fehlt \n 2.Der Empfänger ist weg",
+    "groupCode": "EN_DE"
+  },
+  {
+    "id": 13035,
+    "en": "My keys are missing",
+    "de": "Mir fehlen meine Schlüssel",
+    "groupCode": "EN_DE"
+  },
+  {
+    "id": 13036,
+    "en": "Words are missing in the text",
+    "de": "Im Text fehlen Wörter",
+    "groupCode": "EN_DE"
+  },
+  {
+    "id": 13037,
+    "en": "You're bothering (the) people, honey",
+    "de": "Du störst die Leute, Schatz",
+    "groupCode": "EN_DE"
+  },
+  {
+    "id": 13038,
+    "en": "The other rooms stink too",
+    "de": "Die anderen Zimmer stinken auch",
+    "groupCode": "EN_DE"
+  },
+  {
+    "id": 13039,
+    "en": "My friend did not come on time",
+    "de": "Mein Freund ist nicht pünktlich gekommen",
+    "groupCode": "EN_DE"
+  },
+  {
+    "id": 13040,
+    "en": "Suddenly, a lot has happened",
+    "de": "Plötzlich ist viel passiert",
+    "groupCode": "EN_DE"
+  },
+  {
+    "id": 13041,
+    "en": "Could you please bring out the trash?",
+    "de": "Kannst du bitte den Müll rausbringen?",
+    "groupCode": "EN_DE"
+  },
+  {
+    "id": 13042,
+    "en": "I place my handbag under the armchair",
+    "de": "Ich stelle meine Handtasche unter den Sessel",
+    "groupCode": "EN_DE"
+  },
+  {
+    "id": 13043,
+    "en": "He ran too slowly",
+    "de": "Er ist zu langsam gelaufen",
+    "groupCode": "EN_DE"
+  },
+  {
+    "id": 13044,
+    "en": "I traveled by the train",
+    "de": "Ich bin mit dem Zug gereist",
+    "groupCode": "EN_DE"
+  },
+  {
+    "id": 13045,
+    "en": "When are you coming back?",
+    "de": "Wann kommst du zurück?",
+    "groupCode": "EN_DE"
+  },
+  {
+    "id": 13046,
+    "en": "Do you prefer rock music or pop music?",
+    "de": "Magst du Rockmusik oder Popmusik lieber?",
+    "groupCode": "EN_DE"
+  },
+  {
+    "id": 13047,
+    "en": "We are rehearsing rock music today",
+    "de": "Wir proben heute Rockmusik",
+    "groupCode": "EN_DE"
+  },
+  {
+    "id": 13048,
+    "en": "He is really musical and plays the guitar",
+    "de": "Er ist wirklich musikalisch und spielt Gitarre",
+    "groupCode": "EN_DE"
+  },
+  {
+    "id": 13049,
+    "en": "She brings the jacket back",
+    "de": "Sie bringt die Jacke zurück",
+    "groupCode": "EN_DE"
+  },
+  {
+    "id": 13050,
+    "en": "They always come back on time",
+    "de": "Sie kommen immer pünktlich zurück",
+    "groupCode": "EN_DE"
+  },
+  {
+    "id": 13051,
+    "en": "Your Mazda CX-5 is still waiting for you!",
+    "de": "Dein Mazda CX-5 wartet noch auf dich!",
+    "groupCode": "EN_DE"
+  },
+  {
+    "id": 13052,
+    "en": "The coat in my size is downstairs",
+    "de": "Der Mantel in meiner Größe ist unten",
+    "groupCode": "EN_DE"
+  },
+  {
+    "id": 13053,
+    "en": "I saw this bag somewhere online",
+    "de": "Diese Tasche habe ich irgendwo online gesehen",
+    "groupCode": "EN_DE"
+  },
+  {
+    "id": 13054,
+    "en": "I didn't buy a long sweater",
+    "de": "Ich habe keinen langen Pullover gekauft",
+    "groupCode": "EN_DE"
+  },
+  {
+    "id": 13055,
+    "en": "Can I hear the choir /ˈkwīər/ today?",
+    "de": "Kann ich den Chor heute hören?",
+    "groupCode": "EN_DE"
+  },
+  {
+    "id": 13056,
+    "en": "Are you starting soon?",
+    "de": "Fängst du bald an?",
+    "groupCode": "EN_DE"
+  },
+  {
+    "id": 13057,
+    "en": "What time does it start?",
+    "de": "Um wie viel Uhr fängt es an?",
+    "groupCode": "EN_DE"
+  },
+  {
+    "id": 13058,
+    "en": "I would like to become singer",
+    "de": "Ich möchte Sänger werden?",
+    "groupCode": "EN_DE"
+  },
+  {
+    "id": 13059,
+    "en": "Is there this song also in (on) German?",
+    "de": "Gibt es dieses Lied auch auf Deutsch?",
+    "groupCode": "EN_DE"
+  },
+  {
+    "id": 13060,
+    "en": "I have to tidy up / clean up",
+    "de": "Ich muss aufräumen",
+    "groupCode": "EN_DE"
+  },
+  {
+    "id": 13061,
+    "en": "Rehearse regularly",
+    "de": "regelmäßig proben",
+    "groupCode": "EN_DE"
+  },
+  {
+    "id": 13062,
+    "en": "We want to prepare the concert",
+    "de": "Wir wollen das Konzert vorbereiten",
+    "groupCode": "EN_DE"
+  },
+  {
+    "id": 13063,
+    "en": "I would like to rehearse with you (plural)",
+    "de": "Ich möchte mit euch proben",
+    "groupCode": "EN_DE"
+  },
+  {
+    "id": 13064,
+    "en": "I am introducing the choir /ˈkwīər/",
+    "de": "Ich stelle den Chor vor",
+    "groupCode": "EN_DE"
+  },
+  {
+    "id": 13065,
+    "en": "Have you already sung in the choir /ˈkwīər/?",
+    "de": "Hast du schon im Chor gesungen?",
+    "groupCode": "EN_DE"
+  },
+  {
+    "id": 13066,
+    "en": "We have definitely (specifically) fun",
+    "de": "Wir haben bestimmt Spaß",
+    "groupCode": "EN_DE"
+  },
+  {
+    "id": 13067,
+    "en": "I must go to the police (female) immediately",
+    "de": "Ich muss sofort zur Polizei gehen",
+    "groupCode": "EN_DE"
+  },
+  {
+    "id": 13068,
+    "en": "They find the report boring",
+    "de": "Sie finden den Bericht langweilig",
+    "groupCode": "EN_DE"
+  },
+  {
+    "id": 13069,
+    "en": "My ice cream doesn't smell good",
+    "de": "Mein Eis riecht nicht gut",
+    "groupCode": "EN_DE"
+  },
+  {
+    "id": 13070,
+    "en": "I was suddenly sick",
+    "de": "Ich war Plötzlich krank",
+    "groupCode": "EN_DE"
+  },
+  {
+    "id": 13071,
+    "en": "The report is for History",
+    "de": "Der Bericht ist für Geschichte",
+    "groupCode": "EN_DE"
+  },
+  {
+    "id": 13072,
+    "en": "You can read the report",
+    "de": "Du kannst den Bericht lesen",
+    "groupCode": "EN_DE"
+  },
+  {
+    "id": 13073,
+    "en": "I am enjoying the coffee",
+    "de": "Ich genieße den Kaffee",
+    "groupCode": "EN_DE"
+  },
+  {
+    "id": 13074,
+    "en": "What did you (plural) watch?",
+    "de": "Was habt ihr geschaut?",
+    "groupCode": "EN_DE"
+  },
+  {
+    "id": 13075,
+    "en": "Suddenly my calendar was full",
+    "de": "Plötzlich war mein Kalender voll",
+    "groupCode": "EN_DE"
+  },
+  {
+    "id": 13076,
+    "en": "What do you (formal) recommend?",
+    "de": "Was empfehlen Sie?",
+    "groupCode": "EN_DE"
+  },
+  {
+    "id": 13077,
+    "en": "I went to school in Frankfurt",
+    "de": "Ich bin in Frankfurt zur Schule gegangen",
+    "groupCode": "EN_DE"
+  },
+  {
+    "id": 13078,
+    "en": "The leaning bookshelf",
+    "de": "Das schiefe Bücherregal",
+    "groupCode": "EN_DE"
+  },
+  {
+    "id": 13079,
+    "en": "A loose and soft shirt",
+    "de": "Ein weites und weiches Hemd",
+    "groupCode": "EN_DE"
+  },
+  {
+    "id": 13080,
+    "en": "Which color does the cardigan have?",
+    "de": "Welche Farbe hat die Strickjacke?",
+    "groupCode": "EN_DE"
+  },
+  {
+    "id": 13081,
+    "en": "Where is my cap?",
+    "de": "Wo ist meine Mütze?",
+    "groupCode": "EN_DE"
+  },
+  {
+    "id": 13082,
+    "en": "Our heating was broken",
+    "de": "Unsere Heizung war kaputt",
+    "groupCode": "EN_DE"
+  },
+  {
+    "id": 13083,
+    "en": "Is the hat uncomfortable?",
+    "de": "Ist der Hut unbequem?",
+    "groupCode": "EN_DE"
+  },
+  {
+    "id": 13084,
+    "en": "Why do you have three caps, Ali?",
+    "de": "Warum hast du drei Mützen , Ali?",
+    "groupCode": "EN_DE"
+  },
+  {
+    "id": 13085,
+    "en": "Are you fall in love?",
+    "de": "Bist du verliebt?",
+    "groupCode": "EN_DE"
+  },
+  {
+    "id": 13086,
+    "en": "I fell in love with her",
+    "de": "Ich habe mich in sie verliebt",
+    "groupCode": "EN_DE"
+  },
+  {
+    "id": 13087,
+    "en": "He falls in love quickly",
+    "de": "Er verliebt sich schnell",
+    "groupCode": "EN_DE"
+  },
+  {
+    "id": 13088,
+    "en": "Do you have boots?",
+    "de": "Hast du Stiefel?",
+    "groupCode": "EN_DE"
+  },
+  {
+    "id": 13089,
+    "en": "When do you go into bed normally?",
+    "de": "Wann gehst du normalerweise ins Bett?",
+    "groupCode": "EN_DE"
+  },
+  {
+    "id": 13090,
+    "en": "I share nothing with Anna",
+    "de": "Ich teile nichts mit Anna",
+    "groupCode": "EN_DE"
+  },
+  {
+    "id": 13091,
+    "en": "\n 1.one / people / you (in general) \n 2.someone / somebody \n 3.everyone / each person",
+    "de": "\n 1.man \n 2.jemand \n 3.jeder",
+    "groupCode": "EN_DE"
+  },
+  {
+    "id": 13092,
+    "en": "The boots are black",
+    "de": "Die Stiefel sind schwarz",
+    "groupCode": "EN_DE"
+  },
+  {
+    "id": 13093,
+    "en": "Do you (formal) sell stamps?",
+    "de": "Verkaufen Sie Briefmarken?",
+    "groupCode": "EN_DE"
+  },
+  {
+    "id": 13094,
+    "en": "She never shares her snacks with us",
+    "de": "Sie teilt nie ihre Snacks mit uns",
+    "groupCode": "EN_DE"
+  },
+  {
+    "id": 13095,
+    "en": "How do you find the boots?",
+    "de": "Wie findest du die Stiefel?",
+    "groupCode": "EN_DE"
+  },
+  {
+    "id": 13096,
+    "en": "\n 1.the Police \n 2.the police officer (male) \n 3.the police officer (female)",
+    "de": "\n 1.die Polizei \n 2.der Polizist \n 3.die Polizistin",
+    "groupCode": "EN_DE"
+  },
+  {
+    "id": 13097,
+    "en": "Why am I becoming so weak?",
+    "de": "Warum werde ich so schwach?",
+    "groupCode": "EN_DE"
+  },
+  {
+    "id": 13098,
+    "en": "Why were you suddenly so busy?",
+    "de": "Warum warst du plötzlich so beschäftigt?",
+    "groupCode": "EN_DE"
+  },
+  {
+    "id": 13099,
+    "en": "Where are the boots?",
+    "de": "Wo sind die Stiefel?",
+    "groupCode": "EN_DE"
+  },
+  {
+    "id": 13100,
+    "en": "Is that the solution?",
+    "de": "Ist das die Lösung?",
+    "groupCode": "EN_DE"
+  },
+  {
     "id": 13101,
     "en": "A Terrible Hat",
     "de": "Ein schrecklicher Hut",
@@ -793,6 +1397,66 @@
     "id": 13130,
     "en": "My shoes are terrible",
     "de": "Meine Schuhe sind furchtbar",
+    "groupCode": "EN_DE"
+  },
+  {
+    "id": 13131,
+    "en": "She works in a large company",
+    "de": "Sie arbeitet in einer großen Firma",
+    "groupCode": "EN_DE"
+  },
+  {
+    "id": 13132,
+    "en": "This chaotic week",
+    "de": "Diese chaotische Woche",
+    "groupCode": "EN_DE"
+  },
+  {
+    "id": 13133,
+    "en": "Our company has a good team",
+    "de": "Unsere Firma hat ein gutes Team",
+    "groupCode": "EN_DE"
+  },
+  {
+    "id": 13134,
+    "en": "There is good news from the boss",
+    "de": "Es gibt gute Nachrichten vom Chef",
+    "groupCode": "EN_DE"
+  },
+  {
+    "id": 13135,
+    "en": "Why aren't we hiring anyone?",
+    "de": "Warum stellen wir niemanden ein?",
+    "groupCode": "EN_DE"
+  },
+  {
+    "id": 13136,
+    "en": "It will (becomes) be difficult",
+    "de": "Es wird schwierig sein",
+    "groupCode": "EN_DE"
+  },
+  {
+    "id": 13137,
+    "en": "Can we do that differently?",
+    "de": "Können wir das anders machen?",
+    "groupCode": "EN_DE"
+  },
+  {
+    "id": 13138,
+    "en": "I see it differently",
+    "de": "Ich sehe das anders",
+    "groupCode": "EN_DE"
+  },
+  {
+    "id": 13139,
+    "en": "They want to hire three new people",
+    "de": "Sie wollen drei neue Leute einstellen",
+    "groupCode": "EN_DE"
+  },
+  {
+    "id": 13140,
+    "en": "The striped chairs are interesting",
+    "de": "Die gestreiften Stühle sind interessant",
     "groupCode": "EN_DE"
   },
   {

@@ -937,5 +937,18 @@
     "fa": "بنابراین برای سفر فردای شما، من وقتم صرف نمی کنم نگران بودن درباره جریمه ها",
     "en": "So for your trip tomorrow, I would not spend time worrying about fines",
     "groupCode": "FA_EN"
+  },
+  {
+    "id": 5056,
+    "fa": "من ساده ترش خواهم کرد چون دیگه (از اینرو) بدونِ نگهدارنده مونده (یتیم شده)",
+    "en": "I'll strip it down since it's orphaned",
+    "groupCode": "FA_EN"
+  },
+  {
+    "id": 5057,
+    "fa": "برگردانید متد را به طرح بندی اصلی مبتنی بر Scaffold",
+    "en": "Revert the method back to the original Scaffold-based layout",
+    "desc": "Scaffold is a UI layout component commonly used in Flutter.\n\nIn Flutter, Flutter Scaffold provides the basic structure of a screen. It gives you ready-made places for common UI elements such as:\n\nAppBar (top bar)\nDrawer (side menu)\nBottomNavigationBar (bottom navigation)\nFloatingActionButton (floating action button)\nBody (main content area)",
+    "groupCode": "FA_EN"
   }
 ]
