@@ -2,946 +2,790 @@
   {
     "id": 1,
     "fa": "من مطمئنم که تو رقابت را پشت سر خواهی گذاشت",
-    "en": "I'm sure you will pull off the competition",
-    "groupCode": "FA_EN"
+    "en": "I'm sure you will pull off the competition"
   },
   {
     "id": 2,
     "fa": "چه چیزی شد اینقدر طولش دادی؟",
-    "en": "What took you so long?",
-    "groupCode": "FA_EN"
+    "en": "What took you so long?"
   },
   {
     "id": 3,
     "fa": "بیا یک چیزی را رک مشخص کنیم",
-    "en": "Let's get something straight",
-    "groupCode": "FA_EN"
+    "en": "Let's get something straight"
   },
   {
     "id": 4,
     "fa": "چترت را ببر، ممکن است باران بباره",
-    "en": "Take your umbrella, it might rain",
-    "groupCode": "FA_EN"
+    "en": "Take your umbrella, it might rain"
   },
   {
     "id": 5,
     "fa": "هرجور شده",
-    "en": "One way or another",
-    "groupCode": "FA_EN"
+    "en": "One way or another"
   },
   {
     "id": 6,
     "fa": "همینه که هست",
-    "en": "It is what it is",
-    "groupCode": "FA_EN"
+    "en": "It is what it is"
   },
   {
     "id": 7,
     "fa": "دست از سرم بردار",
-    "en": "Get off my back",
-    "groupCode": "FA_EN"
+    "en": "Get off my back"
   },
   {
     "id": 8,
     "fa": "فکر میکنی چی گفتم؟",
-    "en": "What do you think I said?",
-    "groupCode": "FA_EN"
+    "en": "What do you think I said?"
   },
   {
     "id": 9,
     "fa": "برای یک زمان زیادی تو اینجا منتظری؟",
-    "en": "Have you been waiting here for a long time?",
-    "groupCode": "FA_EN"
+    "en": "Have you been waiting here for a long time?"
   },
   {
     "id": 10,
     "fa": "من یه سری مسائل شخصی دارم",
-    "en": "I have some personal issues",
-    "groupCode": "FA_EN"
+    "en": "I have some personal issues"
   },
   {
     "id": 11,
     "fa": "اون را برای چی انجام دادی؟",
-    "en": "What did you do that for?",
-    "groupCode": "FA_EN"
+    "en": "What did you do that for?"
   },
   {
     "id": 12,
     "fa": "یک کمی سوء تفاهم وجود دارد",
-    "en": "There is a little misunderstanding",
-    "groupCode": "FA_EN"
+    "en": "There is a little misunderstanding"
   },
   {
     "id": 13,
     "fa": "اگه میدونستم بهت میگفتم",
-    "en": "If I knew I would tell you",
-    "groupCode": "FA_EN"
+    "en": "If I knew I would tell you"
   },
   {
     "id": 14,
     "fa": "من تازه برای خرید مواد غذایی بیرون بودم",
-    "en": "I was just out for grocery shopping",
-    "groupCode": "FA_EN"
+    "en": "I was just out for grocery shopping"
   },
   {
     "id": 15,
     "fa": "حالا که بحثش شد- در ضمن",
-    "en": "\n 1.Speaking of which \n 2.By the way",
-    "groupCode": "FA_EN"
+    "en": "\n 1.Speaking of which \n 2.By the way"
   },
   {
     "id": 16,
     "fa": "مدرسه شما تا اینجا چقدر فاصله دارد؟",
-    "en": "How far is your school from here?",
-    "groupCode": "FA_EN"
+    "en": "How far is your school from here?"
   },
   {
     "id": 17,
     "fa": "چه کسی را باور کنیم؟",
-    "en": "Who do we believe?",
-    "groupCode": "FA_EN"
+    "en": "Who do we believe?"
   },
   {
     "id": 18,
     "fa": "چه کسی تماس گرفته؟",
-    "en": "Who has called?",
-    "groupCode": "FA_EN"
+    "en": "Who has called?"
   },
   {
     "id": 19,
     "fa": "او (زن) با تو چه صنمی داره؟",
-    "en": "Who is she to you?",
-    "groupCode": "FA_EN"
+    "en": "Who is she to you?"
   },
   {
     "id": 20,
     "fa": "متاسفانه ما به درخواست شما ادامه نخواهیم داد",
-    "en": "Unfortunately, we will not be moving forward with your request",
-    "groupCode": "FA_EN"
+    "en": "Unfortunately, we will not be moving forward with your request"
   },
   {
     "id": 21,
     "fa": "لطفا پنجره را پایین بیار",
-    "en": "Please roll down the window",
-    "groupCode": "FA_EN"
+    "en": "Please roll down the window"
   },
   {
     "id": 22,
     "fa": "من به هیچ وجه شک ندارم که چقدر قوی هستی",
-    "en": "I don't doubt how strong you are by any means",
-    "groupCode": "FA_EN"
+    "en": "I don't doubt how strong you are by any means"
   },
   {
     "id": 23,
     "fa": "آیا میتوانم در صورت امکان بردارم دو تا از اون بشقاب ها (وزنه) را از شما؟",
-    "en": "Can I possibly take two of those plates from you?",
-    "groupCode": "FA_EN"
+    "en": "Can I possibly take two of those plates from you?"
   },
   {
     "id": 24,
     "fa": "ازدواج کردم",
-    "en": "I got married",
-    "groupCode": "FA_EN"
+    "en": "I got married"
   },
   {
     "id": 25,
     "fa": "طلاق گرفتم",
-    "en": "I got divorced",
-    "groupCode": "FA_EN"
+    "en": "I got divorced"
   },
   {
     "id": 26,
     "fa": "مریض شدم",
-    "en": "I got sick",
-    "groupCode": "FA_EN"
+    "en": "I got sick"
   },
   {
     "id": 27,
     "fa": "خجالتی شدم",
-    "en": "I got shy",
-    "groupCode": "FA_EN"
+    "en": "I got shy"
   },
   {
     "id": 28,
     "fa": "بزرگتر شدم",
-    "en": "I got older",
-    "groupCode": "FA_EN"
+    "en": "I got older"
   },
   {
     "id": 29,
     "fa": "اخراج شدم",
-    "en": "I got fired",
-    "groupCode": "FA_EN"
+    "en": "I got fired"
   },
   {
     "id": 30,
     "fa": "استخدام شدم",
-    "en": "I got hired",
-    "groupCode": "FA_EN"
+    "en": "I got hired"
   },
   {
     "id": 31,
     "fa": "ناراحت شدم",
-    "en": "I got upset",
-    "groupCode": "FA_EN"
+    "en": "I got upset"
   },
   {
     "id": 32,
     "fa": "خوشحال شدم",
-    "en": "I got happy",
-    "groupCode": "FA_EN"
+    "en": "I got happy"
   },
   {
     "id": 33,
     "fa": "اومدم خانه",
-    "en": "I got home",
-    "groupCode": "FA_EN"
+    "en": "I got home"
   },
   {
     "id": 34,
     "fa": "چند بار باید بهت بگم؟",
-    "en": "How many times do I have to tell you?",
-    "groupCode": "FA_EN"
+    "en": "How many times do I have to tell you?"
   },
   {
     "id": 35,
     "fa": "از روم بلند شو",
-    "en": "Get off me",
-    "groupCode": "FA_EN"
+    "en": "Get off me"
   },
   {
     "id": 36,
     "fa": "از اینجا برو بیرون",
-    "en": "Get out of here",
-    "groupCode": "FA_EN"
+    "en": "Get out of here"
   },
   {
     "id": 37,
     "fa": "(مواظب باش) چشمهایت رو باز کن",
-    "en": "Keep your eyes open",
-    "groupCode": "FA_EN"
+    "en": "Keep your eyes open"
   },
   {
     "id": 38,
     "fa": "تصمیم نگیر وقتی شما عصبانی هستی",
-    "en": "Do not make decisions when you are angry",
-    "groupCode": "FA_EN"
+    "en": "Do not make decisions when you are angry"
   },
   {
     "id": 39,
     "fa": "من ترجیح می دم خانه بمانم",
     "en": "\n 1.I'd rather stay at home \n 2.I'd prefer to stay at home",
-    "desc": "\"I would rather stay at home\" and \"I would prefer to stay at home\" have a similar meaning and both express a preference for staying at home. However, \"rather\" implies a stronger preference than \"prefer to\".",
-    "groupCode": "FA_EN"
+    "desc": "\"I would rather stay at home\" and \"I would prefer to stay at home\" have a similar meaning and both express a preference for staying at home. However, \"rather\" implies a stronger preference than \"prefer to\"."
   },
   {
     "id": 40,
     "fa": "آیا میز شما مشکلی دارد؟",
-    "en": "Is there something wrong with your table?",
-    "groupCode": "FA_EN"
+    "en": "Is there something wrong with your table?"
   },
   {
     "id": 41,
     "fa": "من هر کاری تونستم کردم",
-    "en": "I did everything I could",
-    "groupCode": "FA_EN"
+    "en": "I did everything I could"
   },
   {
     "id": 42,
     "fa": "اگر ناراحت نمیشی, به محض اینکه رسیدی خونه با من تماس بگیر",
     "en": "If you don't mind, call me once you get home",
-    "desc": "\"Call me once you get home\" implies a prompt or immediate action, while \"Call me when you get home\" allows for a more flexible timeframe.",
-    "groupCode": "FA_EN"
+    "desc": "\"Call me once you get home\" implies a prompt or immediate action, while \"Call me when you get home\" allows for a more flexible timeframe."
   },
   {
     "id": 43,
     "fa": "چگونه می توانم با شما در تماس باشم؟",
-    "en": "How can I get in touch with you?",
-    "groupCode": "FA_EN"
+    "en": "How can I get in touch with you?"
   },
   {
     "id": 44,
     "fa": "دیگه چی می تونم بهت بگم؟",
-    "en": "What else can I tell you?",
-    "groupCode": "FA_EN"
+    "en": "What else can I tell you?"
   },
   {
     "id": 45,
     "fa": "من اینجا به دنیا آمدم و بزرگ شدم",
     "en": "I was born and raised here",
-    "desc": "The verb \"to be grown up\" is not typically used in the passive voice, and it is not clear who or what is doing the growing up. It is more natural to use the active voice and say \"I grew up here\" to convey the same meaning. Additionally, \"born\" is not typically used in the present tense.",
-    "groupCode": "FA_EN"
+    "desc": "The verb \"to be grown up\" is not typically used in the passive voice, and it is not clear who or what is doing the growing up. It is more natural to use the active voice and say \"I grew up here\" to convey the same meaning. Additionally, \"born\" is not typically used in the present tense."
   },
   {
     "id": 46,
     "fa": "چگونه میدونی بهش (زن) داری نگاه نمیکنی؟",
-    "en": "How do you know you are not looking at her?",
-    "groupCode": "FA_EN"
+    "en": "How do you know you are not looking at her?"
   },
   {
     "id": 47,
     "fa": "ممنون که مراقب پسرم بودی",
-    "en": "Thanks for taking care of my son",
-    "groupCode": "FA_EN"
+    "en": "Thanks for taking care of my son"
   },
   {
     "id": 48,
     "fa": "گم شو",
-    "en": "Get lost",
-    "groupCode": "FA_EN"
+    "en": "Get lost"
   },
   {
     "id": 49,
     "fa": "مجبورم نکن از ماشین پیاده شم",
     "en": "Don't make me get out of the car",
-    "desc": "\"Make + object + (to) + verb\": In this construction, the word \"to\" is optional. It can be used after the object if the following verb requires it",
-    "groupCode": "FA_EN"
+    "desc": "\"Make + object + (to) + verb\": In this construction, the word \"to\" is optional. It can be used after the object if the following verb requires it"
   },
   {
     "id": 50,
     "fa": "پس تا جایی که بتونم کمکت خواهم کرد",
-    "en": "So I will help you as much as I can",
-    "groupCode": "FA_EN"
+    "en": "So I will help you as much as I can"
   },
   {
     "id": 51,
     "fa": "این پول بادآورده است",
-    "en": "It's easy money",
-    "groupCode": "FA_EN"
+    "en": "It's easy money"
   },
   {
     "id": 52,
     "fa": "در نظر داشته باش من دست تنهام",
-    "en": "Keep in mind I am short-handed",
-    "groupCode": "FA_EN"
+    "en": "Keep in mind I am short-handed"
   },
   {
     "id": 53,
     "fa": "کاش یک خواهر داشتم",
-    "en": "I wish I had a sister",
-    "groupCode": "FA_EN"
+    "en": "I wish I had a sister"
   },
   {
     "id": 54,
     "fa": "اینا رو مشکی داری؟",
-    "en": "Do you have these in black?",
-    "groupCode": "FA_EN"
+    "en": "Do you have these in black?"
   },
   {
     "id": 55,
     "fa": "همیشه یک راهی وجود دارد",
-    "en": "There is always a way",
-    "groupCode": "FA_EN"
+    "en": "There is always a way"
   },
   {
     "id": 56,
     "fa": "این ماشین برای فروش هست؟",
-    "en": "Is this car for sale?",
-    "groupCode": "FA_EN"
+    "en": "Is this car for sale?"
   },
   {
     "id": 57,
     "fa": "به ریسکش می ارزید",
-    "en": "It was worth the risk",
-    "groupCode": "FA_EN"
+    "en": "It was worth the risk"
   },
   {
     "id": 58,
     "fa": "هیچ ارزشی نداره",
-    "en": "It's worth nothing",
-    "groupCode": "FA_EN"
+    "en": "It's worth nothing"
   },
   {
     "id": 59,
     "fa": "اگر گم شیم چی؟",
-    "en": "What if we get lost?",
-    "groupCode": "FA_EN"
+    "en": "What if we get lost?"
   },
   {
     "id": 60,
     "fa": "او (مرد) به نظر می رسه پیرتر از چیزی که او هست",
-    "en": "He looks older than he is",
-    "groupCode": "FA_EN"
+    "en": "He looks older than he is"
   },
   {
     "id": 61,
     "fa": "دیگه چی (مرد) بهت گفت در مورد من؟",
-    "en": "What else did he tell you about me?",
-    "groupCode": "FA_EN"
+    "en": "What else did he tell you about me?"
   },
   {
     "id": 62,
     "fa": "کسی اینجا شماره تلفن علی رو میدونه؟",
-    "en": "Does anybody here know Ali's phone number?",
-    "groupCode": "FA_EN"
+    "en": "Does anybody here know Ali's phone number?"
   },
   {
     "id": 63,
     "fa": "هر بار که به اینجا میام، چیز جدیدی یاد می گیرم",
-    "en": "Each time I come here, I learn something new",
-    "groupCode": "FA_EN"
+    "en": "Each time I come here, I learn something new"
   },
   {
     "id": 64,
     "fa": "بیخیال",
-    "en": "Never mind",
-    "groupCode": "FA_EN"
+    "en": "Never mind"
   },
   {
     "id": 65,
     "fa": "اون (مرد) دهن لقه",
-    "en": "He has got a big mouth",
-    "groupCode": "FA_EN"
+    "en": "He has got a big mouth"
   },
   {
     "id": 66,
     "fa": "تا جایی که به من مربوط می شه",
-    "en": "As far as I am concerned",
-    "groupCode": "FA_EN"
+    "en": "As far as I am concerned"
   },
   {
     "id": 67,
     "fa": "دانستن آن ضرری ندارد",
-    "en": "It can't hurt to know",
-    "groupCode": "FA_EN"
+    "en": "It can't hurt to know"
   },
   {
     "id": 68,
     "fa": "جدی میگم",
-    "en": "I mean it",
-    "groupCode": "FA_EN"
+    "en": "I mean it"
   },
   {
     "id": 69,
     "fa": "قصدی نداشتم",
-    "en": "I didn't mean it",
-    "groupCode": "FA_EN"
+    "en": "I didn't mean it"
   },
   {
     "id": 70,
     "fa": "هیجان زده نشو",
-    "en": "Don't get excited",
-    "groupCode": "FA_EN"
+    "en": "Don't get excited"
   },
   {
     "id": 71,
     "fa": "ما حرفهای زیادی برای گفتن داریم",
-    "en": "We have so much to talk about",
-    "groupCode": "FA_EN"
+    "en": "We have so much to talk about"
   },
   {
     "id": 72,
     "fa": "ازش پشیمان نخواهید شد",
     "en": "You won't regret it",
-    "desc": "You won't be regret: This is grammatically incorrect. The word \"regret\" is a verb and a noun, but it is not used as an adjective. The correct adjective form is \"regretful.\"",
-    "groupCode": "FA_EN"
+    "desc": "You won't be regret: This is grammatically incorrect. The word \"regret\" is a verb and a noun, but it is not used as an adjective. The correct adjective form is \"regretful.\""
   },
   {
     "id": 73,
     "fa": "من نمی توانم به اندازه کافی از شما تشکر کنم",
-    "en": "I can't thank you enough",
-    "groupCode": "FA_EN"
+    "en": "I can't thank you enough"
   },
   {
     "id": 74,
     "fa": "مرا در جریان بزار",
-    "en": "Keep me posted",
-    "groupCode": "FA_EN"
+    "en": "Keep me posted"
   },
   {
     "id": 75,
     "fa": "آیا الان داری هر دارویی را مصرف میکنی؟",
-    "en": "Are you taking any medicine now?",
-    "groupCode": "FA_EN"
+    "en": "Are you taking any medicine now?"
   },
   {
     "id": 76,
     "fa": "یه نفر زنگ بزنه برای یک آمبولانس",
-    "en": "Someone calls for an ambulance",
-    "groupCode": "FA_EN"
+    "en": "Someone calls for an ambulance"
   },
   {
     "id": 77,
     "fa": "من یک تب دارم",
-    "en": "I've got a fever",
-    "groupCode": "FA_EN"
+    "en": "I've got a fever"
   },
   {
     "id": 78,
     "fa": "من یک گلوم درد میکنه",
     "en": "I've got a sore throat",
-    "desc": "We say 'a sore throat' because we're referring to one instance of discomfort",
-    "groupCode": "FA_EN"
+    "desc": "We say 'a sore throat' because we're referring to one instance of discomfort"
   },
   {
     "id": 79,
     "fa": "من یک گوش درد دارم",
-    "en": "I've got an earache",
-    "groupCode": "FA_EN"
+    "en": "I've got an earache"
   },
   {
     "id": 80,
     "fa": "من یک بینی گرفتگی دارم",
-    "en": "I've got a blocked nose",
-    "groupCode": "FA_EN"
+    "en": "I've got a blocked nose"
   },
   {
     "id": 81,
     "fa": "من یک آب ریزش بینی دارم",
-    "en": "I've got a runny nose",
-    "groupCode": "FA_EN"
+    "en": "I've got a runny nose"
   },
   {
     "id": 82,
     "fa": "سرفه میکنم",
-    "en": "I cough",
-    "groupCode": "FA_EN"
+    "en": "I cough"
   },
   {
     "id": 83,
     "fa": "تا به حال تو عطسه ببر را (تاکید) دیده اید؟",
     "en": "Have you ever seen a tiger sneeze?",
-    "groupCode": "FA_EN",
     "desc": "Missing article 'a' before 'tiger', and 'sneezing' should be bare infinitive 'sneeze' after 'seen'"
   },
   {
     "id": 84,
     "fa": "میتونی (مودبانه) آستین تان را بالا بزنید؟",
-    "en": "Could you roll up your sleeves?",
-    "groupCode": "FA_EN"
+    "en": "Could you roll up your sleeves?"
   },
   {
     "id": 85,
     "fa": "من قصد دارم فشار خونتون را بگیرم",
-    "en": "I'm gonna take your blood pressure",
-    "groupCode": "FA_EN"
+    "en": "I'm gonna take your blood pressure"
   },
   {
     "id": 86,
     "fa": "دو تا از این قرصها رو ۳ بار در روز بخورید",
-    "en": "Take two of these pills three times a day",
-    "groupCode": "FA_EN"
+    "en": "Take two of these pills three times a day"
   },
   {
     "id": 87,
     "fa": "برو سر اصل مطلب",
-    "en": "\n 1.Get to the point \n 2.Cut to the chase",
-    "groupCode": "FA_EN"
+    "en": "\n 1.Get to the point \n 2.Cut to the chase"
   },
   {
     "id": 88,
     "fa": "فقط یک شایعه است",
-    "en": "It's only a rumor",
-    "groupCode": "FA_EN"
+    "en": "It's only a rumor"
   },
   {
     "id": 89,
     "fa": "فقط همین؟",
-    "en": "Is that all?",
-    "groupCode": "FA_EN"
+    "en": "Is that all?"
   },
   {
     "id": 90,
     "fa": "عجله کن",
-    "en": "Hurry up",
-    "groupCode": "FA_EN"
+    "en": "Hurry up"
   },
   {
     "id": 91,
     "fa": "عجله نکن",
-    "en": "Take your time",
-    "groupCode": "FA_EN"
+    "en": "Take your time"
   },
   {
     "id": 92,
     "fa": "چقدر طول میکشه تا گرفتن یک پاسپورت؟",
-    "en": "How long does it take to get a passport?",
-    "groupCode": "FA_EN"
+    "en": "How long does it take to get a passport?"
   },
   {
     "id": 93,
     "fa": "چه اتفاقی افتاد برای بقیش؟",
-    "en": "What happened to the rest of it?",
-    "groupCode": "FA_EN"
+    "en": "What happened to the rest of it?"
   },
   {
     "id": 94,
     "fa": "دوباره اون موضوع را شروع نکن",
-    "en": "Don't get started on that again",
-    "groupCode": "FA_EN"
+    "en": "Don't get started on that again"
   },
   {
     "id": 95,
     "fa": "خودت رو دست کم نگیر",
-    "en": "Don't underestimate yourself",
-    "groupCode": "FA_EN"
+    "en": "Don't underestimate yourself"
   },
   {
     "id": 96,
     "fa": "از جلوی چشمام گم شو",
-    "en": "Get out of my sight",
-    "groupCode": "FA_EN"
+    "en": "Get out of my sight"
   },
   {
     "id": 97,
     "fa": "چرا داری اینجوری رفتار می کنی؟",
-    "en": "Why are you behaving like this?",
-    "groupCode": "FA_EN"
+    "en": "Why are you behaving like this?"
   },
   {
     "id": 98,
     "fa": "خیلی داری بزرگش میکنی. سخت نگیر",
-    "en": "You are making a big deal out of it. Take it easy",
-    "groupCode": "FA_EN"
+    "en": "You are making a big deal out of it. Take it easy"
   },
   {
     "id": 99,
     "fa": "جایی ندارم برم",
-    "en": "I have nowhere to go",
-    "groupCode": "FA_EN"
+    "en": "I have nowhere to go"
   },
   {
     "id": 100,
     "fa": "تو راه خونم",
-    "en": "I am on my way home",
-    "groupCode": "FA_EN"
+    "en": "I am on my way home"
   },
   {
     "id": 5001,
     "fa": "کدام مرحله (صحنه) ایجاد می کند (فرضی) بزرگترین اثرِ زنجیره ای (در) مراحل بعدی (پایین رود)؟",
-    "en": "Which stage would create the biggest ripple effect downstream?",
-    "groupCode": "FA_EN"
+    "en": "Which stage would create the biggest ripple effect downstream?"
   },
   {
     "id": 5002,
     "fa": "اثر موجی (آرام و کوچک) معنی میدهد یک واکنش زنجیره ای - یک چیز کوچک باعث می شود اثرات بعدی زیادی",
-    "en": "A ripple effect means a chain reaction — one small thing causes many later effects",
-    "groupCode": "FA_EN"
+    "en": "A ripple effect means a chain reaction — one small thing causes many later effects"
   },
   {
     "id": 5003,
     "fa": "آن موتور قدیمی صدا می داد مانند او (بی صبرانه می خواست) داشت درد می کشید برای بازنشستگی",
-    "en": "That old engine sounded like it was aching for retirement",
-    "groupCode": "FA_EN"
+    "en": "That old engine sounded like it was aching for retirement"
   },
   {
     "id": 5004,
     "fa": "او (زن) (بی صبرانه می خواست) داشت درد می کشید تا (مرد) او را ببیند",
-    "en": "She was aching to see him",
-    "groupCode": "FA_EN"
+    "en": "She was aching to see him"
   },
   {
     "id": 5005,
     "fa": "شما میدانید تمرین را",
-    "en": "You know the drill",
-    "groupCode": "FA_EN"
+    "en": "You know the drill"
   },
   {
     "id": 5006,
     "fa": "من گذاشتم خمیر دندان را روی مسواکم",
-    "en": "I put toothpaste on my toothbrush",
-    "groupCode": "FA_EN"
+    "en": "I put toothpaste on my toothbrush"
   },
   {
     "id": 5007,
     "fa": "آن فیلم یک شکست بود (خیلی بد از آب درآمد)",
-    "en": "The movie was a flop",
-    "groupCode": "FA_EN"
+    "en": "The movie was a flop"
   },
   {
     "id": 5008,
     "fa": "مقادیر کسری پشتیبانی نمی شوند",
-    "en": "Fractional values are not supported",
-    "groupCode": "FA_EN"
+    "en": "Fractional values are not supported"
   },
   {
     "id": 5009,
     "fa": "ببخشید، اما شما سر راه من هستید. میتونی (مودبانه) شما حرکت کنی, لطفا؟",
-    "en": "Excuse me, but you're in my way. Could you move, please?",
-    "groupCode": "FA_EN"
+    "en": "Excuse me, but you're in my way. Could you move, please?"
   },
   {
     "id": 5010,
     "fa": "کی آنها خواهند رسید؟ آنها در راهند الان",
-    "en": "When will they arrive? They're on the way now",
-    "groupCode": "FA_EN"
+    "en": "When will they arrive? They're on the way now"
   },
   {
     "id": 5011,
     "fa": "«فلاپ» اشاره دارد به یک شکست کامل یا یک سقوط سنگین و ناشیانه اغلب استفاده می شود تا توصیف کند فیلم ها، محصولات یا برنامه ها ناموفق",
-    "en": "\"Flop\" refers to a complete failure or a heavy and clumsy fall, often used to describe unsuccessful films, products, or plans",
-    "groupCode": "FA_EN"
+    "en": "\"Flop\" refers to a complete failure or a heavy and clumsy fall, often used to describe unsuccessful films, products, or plans"
   },
   {
     "id": 5012,
     "fa": "من خریدم دمپایی لاانگشتی جدید برای تابستان",
     "en": "I bought new flip-flops for summer",
-    "desc": "Because normally you wear or buy two sandals — one for each foot — so English usually uses the plural form:\n\n✅ flip-flops = normal/common\n⚠\uFE0F flip-flop = one single sandal",
-    "groupCode": "FA_EN"
+    "desc": "Because normally you wear or buy two sandals — one for each foot — so English usually uses the plural form:\n\n✅ flip-flops = normal/common\n⚠️ flip-flop = one single sandal"
   },
   {
     "id": 5013,
     "fa": "من عجله دارم. میتونم من جلو بزنم ازت؟",
-    "en": "I'm in a hurry. Can I go ahead of you?",
-    "groupCode": "FA_EN"
+    "en": "I'm in a hurry. Can I go ahead of you?"
   },
   {
     "id": 5014,
     "fa": "صف بهم نزن (خط را نبر). صف (خط) شروع می شود عقب آنجا",
-    "en": "Don't cut in line. the line starts back there",
-    "groupCode": "FA_EN"
+    "en": "Don't cut in line. the line starts back there"
   },
   {
     "id": 5015,
     "fa": "میتونی (مودبانه) لطفا نگه داری جای منو؟",
-    "en": "Could you please hold my spot?",
-    "groupCode": "FA_EN"
+    "en": "Could you please hold my spot?"
   },
   {
     "id": 5016,
     "fa": "هی علی، من میخواهم بگیرم مرخصی از اول ژوئن تا پنجم ژوئن",
-    "en": "Hey Ali, I want to take vacation from June 1st to June 5th",
-    "groupCode": "FA_EN"
+    "en": "Hey Ali, I want to take vacation from June 1st to June 5th"
   },
   {
     "id": 5017,
     "fa": "شاید ما بتوانیم (جستجو کنیم) به دنبال برای جایگزین هایی (به سمت جلو) از این به بعد باشیم",
-    "en": "Perhaps we can look for alternatives going forward",
-    "groupCode": "FA_EN"
+    "en": "Perhaps we can look for alternatives going forward"
   },
   {
     "id": 5018,
     "fa": "من برگرداندمش به ورژن قبلی بنابراین بلاک نمی کند تست کردن را",
-    "en": "I reverted it back to the previous version so it does not block testing",
-    "groupCode": "FA_EN"
+    "en": "I reverted it back to the previous version so it does not block testing"
   },
   {
     "id": 5019,
     "fa": "من دارم کار می کنم روی مورد و به محض اینکه من پیدا کنم علت را، من ایجاد خواهم کرد یک PR",
-    "en": "I'm working on the issue and as soon as I find the cause, I'll create a PR",
-    "groupCode": "FA_EN"
+    "en": "I'm working on the issue and as soon as I find the cause, I'll create a PR"
   },
   {
     "id": 5020,
     "fa": "ما تصمیم گرفتیم سوییچ کنیم دهیم به یک سیستم جدید ماه بعدی",
-    "en": "We decided to switch over to a new system next month",
-    "groupCode": "FA_EN"
+    "en": "We decided to switch over to a new system next month"
   },
   {
     "id": 5021,
     "fa": "یک هشدار است محدودیت زمانی",
-    "en": "A caveat is the time limit",
-    "groupCode": "FA_EN"
+    "en": "A caveat is the time limit"
   },
   {
     "id": 5022,
     "fa": "بگذارید من چک کنم پیکربندی rollup را تا ببینم آیا MongoDB داره بقچه بندی میشه یا خارجی میشه",
-    "en": "Let me check the rollup config to see whether MongoDB is being bundled or externalized",
-    "groupCode": "FA_EN"
+    "en": "Let me check the rollup config to see whether MongoDB is being bundled or externalized"
   },
   {
     "id": 5023,
     "fa": "او (مرد) کار می کند بیش از حد، که ضرری است به سلامتی اش",
-    "en": "He works too much, to the detriment of his health",
-    "groupCode": "FA_EN"
+    "en": "He works too much, to the detriment of his health"
   },
   {
     "id": 5024,
     "fa": "او (زن) نادیده گرفت این مورد را، که ضرری است به پروژه",
-    "en": "She ignored the issue, to the detriment of the project",
-    "groupCode": "FA_EN"
+    "en": "She ignored the issue, to the detriment of the project"
   },
   {
     "id": 5025,
     "fa": "یک ضرب المثل فارسی می گوید: اگر وجود داشته باشد بیش از یک آشپز، سوپ می شود یا خیلی شور یا خیلی بی مزه",
-    "en": "There is a Persian saying: if there is more than one cook, the soup becomes either too salty or too bland",
-    "groupCode": "FA_EN"
+    "en": "There is a Persian saying: if there is more than one cook, the soup becomes either too salty or too bland"
   },
   {
     "id": 5026,
     "fa": "ببخشید برای وقفه. من احتمالاً مایلم تا مرخصی بگیرم از اول ژوئن تا پنجم ژوئن. اوکی خواهد بود (فرضی) آن؟",
-    "en": "Sorry for the interruption. I would probably like to take time off from June 1st to June 5th. Would that be okay?",
-    "groupCode": "FA_EN"
+    "en": "Sorry for the interruption. I would probably like to take time off from June 1st to June 5th. Would that be okay?"
   },
   {
     "id": 5027,
     "fa": "مطمئناً، من سعی خواهم کرد تا کامل کنم وظایفی محول شده به من تا آن موقع",
-    "en": "Sure, I'll try to complete the tasks assigned to me by then",
-    "groupCode": "FA_EN"
+    "en": "Sure, I'll try to complete the tasks assigned to me by then"
   },
   {
     "id": 5028,
     "fa": "او (زن) نشسته بود به طور آرام و تامل می کرد آینده اش را",
-    "en": "She sat quietly and contemplated her future",
-    "groupCode": "FA_EN"
+    "en": "She sat quietly and contemplated her future"
   },
   {
     "id": 5029,
     "fa": "من در حال حاضر (قبلا) چک کردم، اما لطفاً دوباره چکش کنید",
-    "en": "I've already checked, but please double-check it again",
-    "groupCode": "FA_EN"
+    "en": "I've already checked, but please double-check it again"
   },
   {
     "id": 5030,
     "fa": "بچه ها، سرویس های agentic توی محیط توسعه هستن یه کم نامرتب هستند (شلخته) همین الان و من می خوام تا تمیز کنم آنها را یه کم. بنابراین محیط توسعه ممکنه باشه یه کم غیرقابل اعتماد (کم ناپایدار) تا من بهتون بگم (بزارم بدونید) من کارم تموم شده، فقط آن را در ذهن داشته باشید",
     "en": "Guys, the agentic services in dev environment are a bit sloppy right now and I want to clean them up a bit. So the dev environment might be a bit flaky until I let you know I'm done, just keep that in mind",
-    "desc": "Use “in dev” because dev refers to an environment/state (development environment).\n\n✅ The agentic services in dev are a bit sloppy right now.\n\n“On dev” is less natural unless you mean a specific server or machine. \n\n\n\n It works on dev but not on prod.",
-    "groupCode": "FA_EN"
+    "desc": "Use “in dev” because dev refers to an environment/state (development environment).\n\n✅ The agentic services in dev are a bit sloppy right now.\n\n“On dev” is less natural unless you mean a specific server or machine. \n\n\n\n It works on dev but not on prod."
   },
   {
     "id": 5031,
     "fa": "او (مرد) باعث شد شک کنم در تصمیمم",
-    "en": "He made me doubt my decision",
-    "groupCode": "FA_EN"
+    "en": "He made me doubt my decision"
   },
   {
     "id": 5032,
     "fa": "این ربات تزریق شده با ژن های انسانی و خون انسان پمپ شده است داخل سیستمش",
-    "en": "This robot was injected with human genes and human blood was pumped into its system",
-    "groupCode": "FA_EN"
+    "en": "This robot was injected with human genes and human blood was pumped into its system"
   },
   {
     "id": 5033,
     "fa": "فقط از روی کنجکاوی، من مایلم بفهمم چرا این رویکرد دنبال نشد برای تیم های دیگر، چون تا جایی که من میدانم آنها در حال حاضر دارند اشتراک های خودشان را",
-    "en": "Just out of curiosity, I would like to understand why this approach was not followed for the other teams, since as far as I know they currently have their own subscriptions",
-    "groupCode": "FA_EN"
+    "en": "Just out of curiosity, I would like to understand why this approach was not followed for the other teams, since as far as I know they currently have their own subscriptions"
   },
   {
     "id": 5034,
     "fa": "من شنیدم یک صدای خش خش وقتی من گذاشتم (پامو) روی برگ ها",
-    "en": "I heard a crunch when I stepped on the leaves",
-    "groupCode": "FA_EN"
+    "en": "I heard a crunch when I stepped on the leaves"
   },
   {
     "id": 5035,
     "fa": "او (زن) مدام به من غر میزنه تا تمیز کنم اتاقمو",
-    "en": "She keeps nagging me to clean my room",
-    "groupCode": "FA_EN"
+    "en": "She keeps nagging me to clean my room"
   },
   {
     "id": 5036,
     "fa": "بگذار چک کنم تاریخچه جلسه تا بفهمم چه چیزی داشته (روش) کار می شده سابقا",
-    "en": "Let me check the session history to understand what was being worked on previously",
-    "groupCode": "FA_EN"
+    "en": "Let me check the session history to understand what was being worked on previously"
   },
   {
     "id": 5037,
     "fa": "پارچه روی قسمت تابستانی کلاه ساخته شده است کاملاً از پلاستیک. من فکر کردم ساخته شده است از پنبه",
-    "en": "The fabric on the summer part of the cap is completely made of plastic. I thought it was made of cotton",
-    "groupCode": "FA_EN"
+    "en": "The fabric on the summer part of the cap is completely made of plastic. I thought it was made of cotton"
   },
   {
     "id": 5038,
     "fa": "نازل پمپ فیت دستگاه بادی من نیست",
-    "en": "The pump nozzle does not fit my inflatable device",
-    "groupCode": "FA_EN"
+    "en": "The pump nozzle does not fit my inflatable device"
   },
   {
     "id": 5039,
     "fa": "بگذار بررسی کنم موضوع را اول",
-    "en": "Let me investigate the issue first",
-    "groupCode": "FA_EN"
+    "en": "Let me investigate the issue first"
   },
   {
     "id": 5040,
     "fa": "چه تمهیداتی وجود دارد تا زیرساخت های مشترک تبدیل نشوند به یک ریسک مشترک؟",
-    "en": "What safeguards exist so shared infrastructure does not become a shared risk?",
-    "groupCode": "FA_EN"
+    "en": "What safeguards exist so shared infrastructure does not become a shared risk?"
   },
   {
     "id": 5041,
     "fa": "به محض اینکه یکی از این مدل های هوش مصنوعی می شوند خودآگاه، ما محکوم شکست خوردن هستیم",
-    "en": "As soon as one of these AI models becomes conscious, we are doomed to fail",
-    "groupCode": "FA_EN"
+    "en": "As soon as one of these AI models becomes conscious, we are doomed to fail"
   },
   {
     "id": 5042,
     "fa": "چگونه شعاع انفجار کنترل می شود بین تیم هایی (که) اشتراک می گذارند اشتراک یکسان؟",
-    "en": "How blast radius is controlled between teams sharing the same subscription?",
-    "groupCode": "FA_EN"
+    "en": "How blast radius is controlled between teams sharing the same subscription?"
   },
   {
     "id": 5043,
     "fa": "k3d است یک ابزاری سبک که اجازه به شما می دهد اجرا کنید خوشه های Kubernetes را درون Docker",
-    "en": "k3d is a lightweight tool that lets you run Kubernetes clusters inside Docker",
-    "groupCode": "FA_EN"
+    "en": "k3d is a lightweight tool that lets you run Kubernetes clusters inside Docker"
   },
   {
     "id": 5044,
     "fa": "ما عقب هستیم نسبتا (پشت) از مهلت های",
-    "en": "We are lagging quite behind the deadlines",
-    "groupCode": "FA_EN"
+    "en": "We are lagging quite behind the deadlines"
   },
   {
     "id": 5045,
     "fa": "زیادی لاف نزن",
-    "en": "Don't brag too much",
-    "groupCode": "FA_EN"
+    "en": "Don't brag too much"
   },
   {
     "id": 5046,
     "fa": "استقرار ها قناری به حداقل می رساند شعاع انفجار را",
-    "en": "Canary deployments minimize blast radius",
-    "groupCode": "FA_EN"
+    "en": "Canary deployments minimize blast radius"
   },
   {
     "id": 5047,
     "fa": "شما دارید متصل می شوید از دستگاه محلی خود از طریق VPN، نه از داخل AKS",
-    "en": "You're connecting from your local machine over VPN, not from inside AKS",
-    "groupCode": "FA_EN"
+    "en": "You're connecting from your local machine over VPN, not from inside AKS"
   },
   {
     "id": 5048,
     "fa": "من فکر می کنم من مورد را شناسایی کرده ام",
-    "en": "I think I've spotted the issue",
-    "groupCode": "FA_EN"
+    "en": "I think I've spotted the issue"
   },
   {
     "id": 5049,
     "fa": "شما صریحاً به من گفتید commit نکنم بدون تأیید شما",
-    "en": "You explicitly told me not to commit without your approval",
-    "groupCode": "FA_EN"
+    "en": "You explicitly told me not to commit without your approval"
   },
   {
     "id": 5050,
     "fa": "من نقض کرده ام (مدتی) آن قانون را مکررا",
-    "en": "I've been violating that rule repeatedly",
-    "groupCode": "FA_EN"
+    "en": "I've been violating that rule repeatedly"
   },
   {
     "id": 5051,
     "fa": "گیاهان نیاز دارند به آب تا حفظ کنند رشد",
-    "en": "Plants need water to sustain growth",
-    "groupCode": "FA_EN"
+    "en": "Plants need water to sustain growth"
   },
   {
     "id": 5052,
     "fa": "ما مجبور بودیم تا خرج کنیم یه عالمه تلاش تا تمام کنیم پروژه",
-    "en": "We had to expend a lot of effort to finish the project",
-    "groupCode": "FA_EN"
+    "en": "We had to expend a lot of effort to finish the project"
   },
   {
     "id": 5053,
     "fa": "\n 1.بیایید نقشه (نگاهی سریع) را بررسی کنیم \n 2.بیایید نقشه را بررسی کنیم \n 3.او (مرد) توسط یک ماشین زیر گرفته شد",
-    "en": "\n 1.Let's run over the plan \n 2.Let's go over the plan \n 3.He was run over by a car",
-    "groupCode": "FA_EN"
+    "en": "\n 1.Let's run over the plan \n 2.Let's go over the plan \n 3.He was run over by a car"
   },
   {
     "id": 5054,
     "fa": "وجود ندارد هیچ وب سایت عمومی جاییکه شما بتوانید وارد کنید پلاک خودروی خود را و ببینید آیا شما جریمه شده اید",
-    "en": "There is no public website where you can enter your license plate and see whether you've been fined",
-    "groupCode": "FA_EN"
+    "en": "There is no public website where you can enter your license plate and see whether you've been fined"
   },
   {
     "id": 5055,
     "fa": "بنابراین برای سفر فردای شما، من (فرضی) وقت صرف نمی کنم نگران بودن درباره جریمه ها",
-    "en": "So for your trip tomorrow, I would not spend time worrying about fines",
-    "groupCode": "FA_EN"
+    "en": "So for your trip tomorrow, I would not spend time worrying about fines"
   },
   {
     "id": 5056,
     "fa": "من ساده ترش خواهم کرد (لختش می کنم) چون دیگه (از اینرو) بدونِ نگهدارنده مونده (یتیم شده)",
-    "en": "I'll strip it down since it's orphaned",
-    "groupCode": "FA_EN"
+    "en": "I'll strip it down since it's orphaned"
   }
 ]
