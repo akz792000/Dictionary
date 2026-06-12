@@ -554,7 +554,7 @@
   },
   {
     "id": 92,
-    "fa": "گرفتن پاسپورت چقدر طول میکشه؟",
+    "fa": "چقدر طول میکشه تا گرفتن یک پاسپورت؟",
     "en": "How long does it take to get a passport?",
     "groupCode": "FA_EN"
   },
@@ -668,8 +668,8 @@
   },
   {
     "id": 5011,
-    "fa": "«فلاپ» اشاره دارد به یک شکست کامل یا یک سقوط سنگین و ناشیانه اغلب استفاده می شود تا توصیف کند فیلم ها، محصولات یا برنامه های ناموفق",
-    "en": "\"Flop\" refers to a complete failure or a heavy, clumsy fall, often used to describe unsuccessful films, products, or plans",
+    "fa": "«فلاپ» اشاره دارد به یک شکست کامل یا یک سقوط سنگین و ناشیانه اغلب استفاده می شود تا توصیف کند فیلم ها، محصولات یا برنامه ها ناموفق",
+    "en": "\"Flop\" refers to a complete failure or a heavy and clumsy fall, often used to describe unsuccessful films, products, or plans",
     "groupCode": "FA_EN"
   },
   {
@@ -934,21 +934,14 @@
   },
   {
     "id": 5055,
-    "fa": "بنابراین برای سفر فردای شما، من وقتم صرف نمی کنم نگران بودن درباره جریمه ها",
+    "fa": "بنابراین برای سفر فردای شما، من (فرضی) وقت صرف نمی کنم نگران بودن درباره جریمه ها",
     "en": "So for your trip tomorrow, I would not spend time worrying about fines",
     "groupCode": "FA_EN"
   },
   {
     "id": 5056,
-    "fa": "من ساده ترش خواهم کرد چون دیگه (از اینرو) بدونِ نگهدارنده مونده (یتیم شده)",
+    "fa": "من ساده ترش خواهم کرد (لختش می کنم) چون دیگه (از اینرو) بدونِ نگهدارنده مونده (یتیم شده)",
     "en": "I'll strip it down since it's orphaned",
-    "groupCode": "FA_EN"
-  },
-  {
-    "id": 5057,
-    "fa": "برگردانید متد را به طرح بندی اصلی مبتنی بر Scaffold",
-    "en": "Revert the method back to the original Scaffold-based layout",
-    "desc": "Scaffold is a UI layout component commonly used in Flutter.\n\nIn Flutter, Flutter Scaffold provides the basic structure of a screen. It gives you ready-made places for common UI elements such as:\n\nAppBar (top bar)\nDrawer (side menu)\nBottomNavigationBar (bottom navigation)\nFloatingActionButton (floating action button)\nBody (main content area)",
     "groupCode": "FA_EN"
   }
 ]

@@ -1371,7 +1371,7 @@
   },
   {
     "id": 13126,
-    "en": "The park is not safe at night",
+    "en": "The park is not safe at evenings",
     "de": "Der Park ist abends nicht sicher",
     "groupCode": "EN_DE"
   },
@@ -1437,13 +1437,13 @@
   },
   {
     "id": 13137,
-    "en": "Can we do that differently?",
+    "en": "Can we do (make) that differently?",
     "de": "Können wir das anders machen?",
     "groupCode": "EN_DE"
   },
   {
     "id": 13138,
-    "en": "I see it differently",
+    "en": "I see that differently",
     "de": "Ich sehe das anders",
     "groupCode": "EN_DE"
   },
@@ -1457,6 +1457,66 @@
     "id": 13140,
     "en": "The striped chairs are interesting",
     "de": "Die gestreiften Stühle sind interessant",
+    "groupCode": "EN_DE"
+  },
+  {
+    "id": 13141,
+    "en": "Your Volkswagen is still available",
+    "de": "Dein Volkswagen ist noch verfügbar",
+    "groupCode": "EN_DE"
+  },
+  {
+    "id": 13142,
+    "en": "I am preparing dinner",
+    "de": "Ich bereite das Abendessen vor",
+    "groupCode": "EN_DE"
+  },
+  {
+    "id": 13143,
+    "en": "We are preparing for the exam",
+    "de": "Wir bereiten uns auf die Prüfung vor",
+    "groupCode": "EN_DE"
+  },
+  {
+    "id": 13144,
+    "en": "She is preparing the presentation for tomorrow",
+    "de": "Sie bereitet die Präsentation für morgen vor",
+    "groupCode": "EN_DE"
+  },
+  {
+    "id": 13145,
+    "en": "How are you preparing for the job interview?",
+    "de": "Wie bereitest du dich auf das Vorstellungsgespräch vor?",
+    "groupCode": "EN_DE"
+  },
+  {
+    "id": 13146,
+    "en": "Can we show the teacher the letter?",
+    "de": "Können wir der Lehrerin den Brief zeigen?",
+    "groupCode": "EN_DE"
+  },
+  {
+    "id": 13147,
+    "en": "Can I borrow this book?",
+    "de": "Kann ich dieses Buch ausleihen?",
+    "groupCode": "EN_DE"
+  },
+  {
+    "id": 13148,
+    "en": "I repeat",
+    "de": "Ich wiederhole",
+    "groupCode": "EN_DE"
+  },
+  {
+    "id": 13149,
+    "en": "Ali can you type fast?",
+    "de": "Ali kannst du schnell tippen?",
+    "groupCode": "EN_DE"
+  },
+  {
+    "id": 13150,
+    "en": "Do you like the yellow skirt?",
+    "de": "Magst du den gelben Rock?",
     "groupCode": "EN_DE"
   },
   {

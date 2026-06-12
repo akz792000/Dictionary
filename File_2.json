@@ -4232,7 +4232,7 @@
   },
   {
     "id": 10796,
-    "en": "You are still learning German, aren't you (or)?",
+    "en": "You are (emphasis) learning German, aren't you (or)?",
     "de": "Du lernst doch Deutsch, oder?",
     "desc": "Explanation:\ndoch: Adds emphasis, implying the speaker expects the answer to be \"yes.\"\noder: A tag question to",
     "groupCode": 1
@@ -13055,7 +13055,7 @@
   },
   {
     "id": 12238,
-    "en": "I don't want to buy a sofa. I'm not going to the furniture store",
+    "en": "I don't want to buy a sofa. I'm not going into the furniture store",
     "de": "Ich will kein Sofa kaufen. Ich gehe nicht ins Möbelhaus",
     "groupCode": 1
   },
@@ -17692,8 +17692,8 @@
   },
   {
     "id": 12999,
-    "en": "What do you think about this sofa?",
-    "de": "Was denkst du über dieses Sofa?",
+    "en": "\n 1.What do you think about this sofa? \n 2.What do you think about?",
+    "de": "\n 1.Was denkst du über dieses Sofa? \n 2.Worüber denkst du nach?",
     "groupCode": 1
   },
   {
