@@ -207,7 +207,7 @@
   },
   {
     "id": 42,
-    "fa": "اگر ناراحت نمیشی, به محض اینکه رسیدی خونه با من تماس بگیر",
+    "fa": "اگر شما ناراحت نمیشی,  تماس بگیر با من به محض اینکه شما رسیدی خونه",
     "en": "If you don't mind, call me once you get home",
     "desc": "\"Call me once you get home\" implies a prompt or immediate action, while \"Call me when you get home\" allows for a more flexible timeframe."
   },
@@ -740,7 +740,7 @@
   },
   {
     "id": 5047,
-    "fa": "شما دارید متصل می شوید از دستگاه محلی خود از طریق VPN، نه از داخل AKS",
+    "fa": "شما دارید متصل می شوید از دستگاه (ماشین) محلی خود از طریق VPN، نه از داخل AKS",
     "en": "You're connecting from your local machine over VPN, not from inside AKS"
   },
   {

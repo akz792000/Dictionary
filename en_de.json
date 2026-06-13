@@ -515,6 +515,514 @@
     "de": "Kommt ihr? Der Unterricht fängt gleich an"
   },
   {
+    "id": 12901,
+    "en": "\n 1.She picks flowers \n 2.He picks up the package",
+    "de": "\n 1.Sie pflückt Blumen \n 2.Er holt das Paket ab"
+  },
+  {
+    "id": 12902,
+    "en": "I turn to you (I contact you / I reach out to you)",
+    "de": "Ich wende mich an dich"
+  },
+  {
+    "id": 12903,
+    "en": "I turn left",
+    "de": "Ich biege links ab"
+  },
+  {
+    "id": 12904,
+    "en": "He turns right",
+    "de": "Er biegt rechts ab"
+  },
+  {
+    "id": 12905,
+    "en": "We speak to each other",
+    "de": "Wir sprechen miteinander"
+  },
+  {
+    "id": 12906,
+    "en": "They work well to each other",
+    "de": "Sie arbeiten gut miteinander"
+  },
+  {
+    "id": 12907,
+    "en": "I behave (general behavior) calmly",
+    "de": "Ich verhalte mich ruhig"
+  },
+  {
+    "id": 12908,
+    "en": "He behaves (general behavior) friendly",
+    "de": "Er verhält sich freundlich"
+  },
+  {
+    "id": 12909,
+    "en": "I am in a good mood (I have good mood)",
+    "de": "Ich habe gute Laune"
+  },
+  {
+    "id": 12910,
+    "en": "No, the face of Lisa isn't evil at all",
+    "de": "Nein, das gesicht von Lisa ist gar nicht böse"
+  },
+  {
+    "id": 12911,
+    "en": "My future is important",
+    "de": "Meine Zukunft ist wichtig"
+  },
+  {
+    "id": 12912,
+    "en": "I come not until tomorrow (only tomorrow)",
+    "de": "Ich komme erst morgen"
+  },
+  {
+    "id": 12913,
+    "en": "\n 1.I have already eaten \n 2.I am still eating",
+    "de": "\n 1.Ich habe schon gegessen \n 2.Ich esse noch"
+  },
+  {
+    "id": 12914,
+    "en": "I turn left at the next street",
+    "de": "Ich biege an der nächsten Straße links ab"
+  },
+  {
+    "id": 12915,
+    "en": "I turn left, then I turn the car around, and I turn around",
+    "de": "Ich biege links ab, dann wende ich das Auto und drehe mich um"
+  },
+  {
+    "id": 12916,
+    "en": "I lend (formally) you a book",
+    "de": "Ich verleihe dir ein Buch"
+  },
+  {
+    "id": 12917,
+    "en": "Can you pronounce the word?",
+    "de": "Kannst du das Wort aussprechen?"
+  },
+  {
+    "id": 12918,
+    "en": "The task requires a lot of time",
+    "de": "Die Aufgabe erfordert viel Zeit"
+  },
+  {
+    "id": 12919,
+    "en": "I would like to buy (a) tights",
+    "de": "Ich möchte eine Strumpfhose kaufen"
+  },
+  {
+    "id": 12920,
+    "en": "\n 1.I don't like wide (a pair of) pants \n 2.I don't like wide pants",
+    "de": "\n 1.Ich mag keine weite Hose \n 2.Ich mag keine weiten Hosen"
+  },
+  {
+    "id": 12921,
+    "en": "\n 1.Judge \n 2.Retired \n 3.Waiter \n 4.Lawyer",
+    "de": "\n 1.Richter \n 2.Rentner \n 3.Kellner \n 4.Anwalt"
+  },
+  {
+    "id": 12922,
+    "en": "\n 1.to be canceled / fail \n 2.to resign / terminate \n 3.to cancel an order/booking",
+    "de": "\n 1.ausfallen \n 2.kündigen \n 3.stornieren"
+  },
+  {
+    "id": 12923,
+    "en": "The fathers bought a cake",
+    "de": "Die Väter haben einen Kuchen gekauft"
+  },
+  {
+    "id": 12924,
+    "en": "Where is the black briefcase?",
+    "de": "Wo ist die schwarze Aktentasche?"
+  },
+  {
+    "id": 12925,
+    "en": "Just a moment, I lock the door",
+    "de": "Einen Moment, ich schließe die Tür ab"
+  },
+  {
+    "id": 12926,
+    "en": "I'm donating two pairs of pants and three sweaters",
+    "de": "Ich Spende zwei Hosen und drei Pullover",
+    "desc": "Pullover is a noun that has the same form in singular and plural."
+  },
+  {
+    "id": 12927,
+    "en": "Wait, we must to lock the door",
+    "de": "Warte, wir müssen die Tür abschließen"
+  },
+  {
+    "id": 12928,
+    "en": "I prefer to go into the cheaper restaurant",
+    "de": "Ich gehe lieber in das günstige Restaurant"
+  },
+  {
+    "id": 12929,
+    "en": "I give the book back to you",
+    "de": "Ich gebe dir das Buch zurück"
+  },
+  {
+    "id": 12930,
+    "en": "Can you give me my pen back?",
+    "de": "Kannst du mir meinen Stift zurückgeben?"
+  },
+  {
+    "id": 12931,
+    "en": "\n 1.I must return the book to the library \n 2.I have to bring the book back into the library",
+    "de": "\n 1.Ich muss das Buch der Bibliothek zurückgeben \n 2.Ich muss das Buch in die Bibliothek zurückbringen",
+    "desc": "This sounds unnatural because zur Bibliothek (\"to the library\") expresses movement toward a place, but zurückgeben usually takes the person or institution receiving the item in the dative:"
+  },
+  {
+    "id": 12932,
+    "en": "I want to donate a few things",
+    "de": "Ich will ein paar Sachen spenden"
+  },
+  {
+    "id": 12933,
+    "en": "Do we have to return the book tomorrow?",
+    "de": "Müssen wir das Buch morgen Zurückgeben?"
+  },
+  {
+    "id": 12934,
+    "en": "We can't talk privately here?",
+    "de": "Wir können hier nicht Privat reden?"
+  },
+  {
+    "id": 12935,
+    "en": "We only need a few cents more",
+    "de": "Wir brauchen nur ein paar Cent mehr"
+  },
+  {
+    "id": 12936,
+    "en": "We must drive carefully",
+    "de": "Wir müssen vorsichtig fahren"
+  },
+  {
+    "id": 12937,
+    "en": "The furniture store has pretty sofas",
+    "de": "Das Möbelhaus hat hübsche Sofas"
+  },
+  {
+    "id": 12938,
+    "en": "Do you like hard chairs?",
+    "de": "Magst du harte Stühle?"
+  },
+  {
+    "id": 12939,
+    "en": "Whose turn is it now? It's my turn",
+    "de": "Wer ist jetzt dran? Ich bin dran"
+  },
+  {
+    "id": 12940,
+    "en": "My colleagues are running late (behind schedule)",
+    "de": "Meine Kollegen sind spät dran"
+  },
+  {
+    "id": 12941,
+    "en": "He needs more drawers for his things",
+    "de": "Er braucht mehr Schubladen für seine Sachen"
+  },
+  {
+    "id": 12942,
+    "en": "The dresser has four drawers and on the dresser stands a globe",
+    "de": "Die Kommode hat vier Schubladen und Auf der Kommode steht ein Globus"
+  },
+  {
+    "id": 12943,
+    "en": "The table looks stupid",
+    "de": "Der Tisch sieht blöd aus"
+  },
+  {
+    "id": 12944,
+    "en": "What do you mean by that (about that)?",
+    "de": "Was meinst du dazu?"
+  },
+  {
+    "id": 12945,
+    "en": "This is a colorful blanket",
+    "de": "Das ist eine bunte Decke"
+  },
+  {
+    "id": 12946,
+    "en": "\n 1.A stable table \n 2.The narrow table",
+    "de": "\n 1.Ein stabiler Tisch \n 2.Der schmale Tisch"
+  },
+  {
+    "id": 12947,
+    "en": "The Tickets are (starting) from today immediately available (get/buy)",
+    "de": "Die Tickets sind ab heute sofort erhältlich"
+  },
+  {
+    "id": 12948,
+    "en": "She spends little money",
+    "de": "Sie gibt wenig Geld aus"
+  },
+  {
+    "id": 12949,
+    "en": "The children behave very well in the restaurant because their parents taught them how to behave (general behavior) properly",
+    "de": "Die Kinder benehmen sich im Restaurant sehr gut weil ihre Eltern ihnen beigebracht haben, wie man sich richtig verhält"
+  },
+  {
+    "id": 12950,
+    "en": "How he behaves (general behavior) in stressful situations shows that he can stay very calm and professional",
+    "de": "Wie er sich in stressigen Situationen verhält zeigt dass er sehr ruhig und professionell bleiben kann"
+  },
+  {
+    "id": 12951,
+    "en": "No problem. Say me on which day you would like to come?",
+    "de": "Kein Problem. Sag mir, an welchem Tag du kommen möchtest",
+    "desc": "In a subordinate clause (after words like dass, weil, wann, welcher, etc.), the verb goes to the end."
+  },
+  {
+    "id": 12952,
+    "en": "Then I come tomorrow between 4:00 and 4:15 pm",
+    "de": "Dann komme ich morgen zwischen 16:00 und 16:15 Uhr"
+  },
+  {
+    "id": 12953,
+    "en": "Then I come on Wednesday between 5:00 and 5:15 pm. Is that okay?",
+    "de": "Dann komme ich am Mittwoch zwischen 17:00 und 17:15 Uhr. Is dat gut?"
+  },
+  {
+    "id": 12954,
+    "en": "He means (thinks), the desk is too expensive",
+    "de": "Er meint, der Schreibtisch ist zu teuer"
+  },
+  {
+    "id": 12955,
+    "en": "Is the table available (get/buy) in blue?",
+    "de": "Ist der Tisch in Blau erhältlich?"
+  },
+  {
+    "id": 12956,
+    "en": "No modern lamp fits here",
+    "de": "Keine moderne Lampe passt hier"
+  },
+  {
+    "id": 12957,
+    "en": "Are these sofas available (get/buy) in other colors?",
+    "de": "Sind diese Sofas in anderen Farben erhältlich?"
+  },
+  {
+    "id": 12958,
+    "en": "I like the furniture at the front better",
+    "de": "Ich mag die Möbel vorn besser",
+    "desc": "| German         | English                 |\n| -------------- | ----------------------- |\n| die Möbel      | furniture (uncountable) |\n| ein Möbelstück | a piece of furniture    |\n"
+  },
+  {
+    "id": 12959,
+    "en": "I am patient",
+    "de": "Ich bin geduldig"
+  },
+  {
+    "id": 12960,
+    "en": "The teacher is very patient",
+    "de": "Der Lehrer ist sehr geduldig"
+  },
+  {
+    "id": 12961,
+    "en": "Why don't you unpack right away?",
+    "de": "Warum packst du nicht gleich aus?"
+  },
+  {
+    "id": 12962,
+    "en": "I unpack the present",
+    "de": "Ich packe das Geschenk aus"
+  },
+  {
+    "id": 12963,
+    "en": "We unpack the things",
+    "de": "Wir packen die Sachen aus"
+  },
+  {
+    "id": 12964,
+    "en": "We went (make) on many excursions",
+    "de": "Wir haben viele Ausflüge gemacht"
+  },
+  {
+    "id": 12965,
+    "en": "Grandma, all tables are the same. I'm tired. I wait outside",
+    "de": "Oma, alle Tische sind gleich. Ich bin müde. Ich warte draußen"
+  },
+  {
+    "id": 12966,
+    "en": "She immediately sits down on the new sofa",
+    "de": "Sie setzt sich sofort auf das neue Sofa"
+  },
+  {
+    "id": 12967,
+    "en": "We need sticky note and paper for our new office",
+    "de": "Wir brauchen Notizzettel und Papier für unser neues Büro"
+  },
+  {
+    "id": 12968,
+    "en": "Can I buy the note paper?",
+    "de": "Kann ich den Notizzettel kaufen?",
+    "desc": "Notiz = note\nZettel = small piece of paper / slip"
+  },
+  {
+    "id": 12969,
+    "en": "I need more note paper",
+    "de": "Ich brauche mehr Notizzettel"
+  },
+  {
+    "id": 12970,
+    "en": "The towels are lying on the shelf",
+    "de": "Die Handtücher liegen auf dem Regal"
+  },
+  {
+    "id": 12971,
+    "en": "Without a receipt I can't return the shirt",
+    "de": "Ohne einen Kassenbon kann ich das Hemd nicht zurückgeben",
+    "desc": "der Kassenbon\nder Kassenzettel \n\n\n Kassenbon = standard, what you'll hear at checkout\nKassenzettel = informal, everyday way to say it"
+  },
+  {
+    "id": 12972,
+    "en": "\n 1.under (position no movement) \n 2.downward (movement down - more precise) \n 3.movement down (casual, everyday)",
+    "de": "\n 1.unter \n 2.hinunter \n 3.runter"
+  },
+  {
+    "id": 12973,
+    "en": "\n 1.Why don't you take off your hat? \n 2.I take off my jacket",
+    "de": "\n 1.Warum nimmst du deinen Hut nicht ab? \n 2.Ich ziehe meine Jacke aus"
+  },
+  {
+    "id": 12974,
+    "en": "Help with the luggage",
+    "de": "Hilf mit dem Gepäck"
+  },
+  {
+    "id": 12975,
+    "en": "Do you (formal) have both addresses?",
+    "de": "Haben Sie beide Adressen?"
+  },
+  {
+    "id": 12976,
+    "en": "Take a nap every day",
+    "de": "Macht täglich ein Nickerchen"
+  },
+  {
+    "id": 12977,
+    "en": "Happy Birthday!",
+    "de": "Alles Gute zum Geburtstag!"
+  },
+  {
+    "id": 12978,
+    "en": "My favorite poster is hanging (at) on the door",
+    "de": "Mein Lieblingsposter hängt an der Tür"
+  },
+  {
+    "id": 12979,
+    "en": "Why is your purse (handbag) hanging (at) on the door?",
+    "de": "Warum hängt deine Handtasche an der Tür?"
+  },
+  {
+    "id": 12980,
+    "en": "I find a colorful blanket beautiful",
+    "de": "Ich finde eine bunte Decke schön"
+  },
+  {
+    "id": 12981,
+    "en": "She's looking for a recipe",
+    "de": "Sie sucht ein Rezept"
+  },
+  {
+    "id": 12982,
+    "en": "Nobody has sent me a card",
+    "de": "Niemand hat mir eine Karte geschickt"
+  },
+  {
+    "id": 12983,
+    "en": "I found an egg on the floor",
+    "de": "Ich habe ein Ei auf dem Boden gefunden"
+  },
+  {
+    "id": 12984,
+    "en": "The fish died in the summer",
+    "de": "Der Fisch ist im Sommer gestorben"
+  },
+  {
+    "id": 12985,
+    "en": "My mother became a teacher",
+    "de": "\n 1.Meine Mutter ist Lehrerin geworden \n 2.Meine Mutter wurde Lehrerin"
+  },
+  {
+    "id": 12986,
+    "en": "She's packing her bag, on the other hand he's not ready yet",
+    "de": "Sie packt ihre Tasche, er ist dagegen noch nicht bereit"
+  },
+  {
+    "id": 12987,
+    "en": "Has anyone found my cookies?",
+    "de": "Hat jemand meine Kekse gefunden?"
+  },
+  {
+    "id": 12988,
+    "en": "I see milk everywhere",
+    "de": "Ich sehe überall milch"
+  },
+  {
+    "id": 12989,
+    "en": "Did Mom see anyone?",
+    "de": "Hat mama jemanden gesehen?",
+    "desc": "jemand = nominative (subject = “someone”)\njemanden = accusative (object = “someone”)"
+  },
+  {
+    "id": 12990,
+    "en": "The sugar is everywhere",
+    "de": "Der Zucker ist überall"
+  },
+  {
+    "id": 12991,
+    "en": "The leaf is green, and the leaves are also green",
+    "de": "Das Blatt ist grün, und die Blätter sind auch grün"
+  },
+  {
+    "id": 12992,
+    "en": "I am ready and they are ready",
+    "de": "Ich bin bereit und sie sind bereit"
+  },
+  {
+    "id": 12993,
+    "en": "That is true (factually true), and it is also true (factually true)",
+    "de": "Das ist wahr, und es ist auch wahr"
+  },
+  {
+    "id": 12994,
+    "en": "We buy fresh vegetables in the supermarket",
+    "de": "Wir kaufen frisches Gemüse im Supermarkt"
+  },
+  {
+    "id": 12995,
+    "en": "I find the colors confusing",
+    "de": "Ich finde die Farben verwirrend"
+  },
+  {
+    "id": 12996,
+    "en": "Why don't you (formal) have an elegant mirror?",
+    "de": "Warum haben Sie keinen eleganten Spiegel?"
+  },
+  {
+    "id": 12997,
+    "en": "The hard chairs are uncomfortable",
+    "de": "Die harten Stühle sind unbequem"
+  },
+  {
+    "id": 12998,
+    "en": "The dining table on offer (in the sale)",
+    "de": "Der Esstisch im Angebot"
+  },
+  {
+    "id": 12999,
+    "en": "\n 1.What do you think about this sofa? \n 2.What do you think about?",
+    "de": "\n 1.Was denkst du über dieses Sofa? \n 2.Worüber denkst du nach?"
+  },
+  {
+    "id": 13000,
+    "en": "What was this episode about?",
+    "de": "Worum ging es in dieser Folge?",
+    "desc": "„ging“ comes from the verb „gehen“, but here it's not “to go” in the literal sense.\n\nIn the phrase:\n\nWorum ging es in dieser Folge?\n\n👉 ging es = “it was about”\n\nThis is a fixed German expression:\n\nEs geht um … = It is about …\nEs ging um … = It was about …\nSo:\ngeht = present tense\nging = past tense\nExamples:\nWorum geht es? = What is it about?\nWorum ging es? = What was it about?"
+  },
+  {
     "id": 13001,
     "en": "The candles stand on the dresser",
     "de": "Die Kerzen stehen auf der Kommode"
@@ -675,7 +1183,7 @@
   },
   {
     "id": 13032,
-    "en": "The disk is clean",
+    "en": "The target (disk) is clean",
     "de": "Die Scheibe ist sauber"
   },
   {
@@ -866,7 +1374,7 @@
   {
     "id": 13070,
     "en": "I was suddenly sick",
-    "de": "Ich war Plötzlich krank"
+    "de": "Ich war plötzlich krank"
   },
   {
     "id": 13071,
@@ -1035,7 +1543,7 @@
   },
   {
     "id": 13104,
-    "en": "I absolutely want this hat",
+    "en": "I absolutely/definitely want this hat",
     "de": "Unbedingt will ich diesen Hut"
   },
   {
@@ -1231,7 +1739,7 @@
   },
   {
     "id": 13143,
-    "en": "We are preparing for the exam",
+    "en": "We are preparing ourselves for the exam",
     "de": "Wir bereiten uns auf die Prüfung vor"
   },
   {
@@ -1246,7 +1754,7 @@
   },
   {
     "id": 13146,
-    "en": "Can we show the teacher the letter?",
+    "en": "Can we show the teacher (female) the letter?",
     "de": "Können wir der Lehrerin den Brief zeigen?"
   },
   {
@@ -1268,5 +1776,55 @@
     "id": 13150,
     "en": "Do you like the yellow skirt?",
     "de": "Magst du den gelben Rock?"
+  },
+  {
+    "id": 13151,
+    "en": "\n 1.The exam was hard \n 2.The task was difficult",
+    "de": "\n 1.Die Prüfung war schwer \n 2.Die Aufgabe war schwierig"
+  },
+  {
+    "id": 13152,
+    "en": "I'm keeping the old raincoat",
+    "de": "Ich behalte den alten Regenmantel"
+  },
+  {
+    "id": 13153,
+    "en": "I absolutely/definitely need new shoes",
+    "de": "Ich brauche unbedingt neue Schuhe"
+  },
+  {
+    "id": 13154,
+    "en": "Would you like long sleeves or short?",
+    "de": "Möchtest du lange Ärmel oder kurze?"
+  },
+  {
+    "id": 13155,
+    "en": "I absolutely/definitely have to buy this bag",
+    "de": "Ich muss unbedingt diese Tasche kaufen"
+  },
+  {
+    "id": 13156,
+    "en": "Do you absolutely/definitely want to have this jacket?",
+    "de": "Willst du unbedingt diese Jacke haben?"
+  },
+  {
+    "id": 13157,
+    "en": "Would you like a nice (beautiful) bracelet?",
+    "de": "Möchtest du ein schönes Armband?"
+  },
+  {
+    "id": 13158,
+    "en": "Are we putting the jackets on downstairs?",
+    "de": "Ziehen wir die Jacken unten an?"
+  },
+  {
+    "id": 13159,
+    "en": "The silver hat suits you well",
+    "de": "Der silberne Hut passt gut zu dir"
+  },
+  {
+    "id": 13160,
+    "en": "Why are the shirts here so colorful?",
+    "de": "Warum sind die Hemden hier so bunt?"
   }
 ]
