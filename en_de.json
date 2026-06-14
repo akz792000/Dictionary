@@ -1084,8 +1084,8 @@
   },
   {
     "id": 10212,
-    "en": "What (How) is your (formal) zip code?",
-    "de": "Wie ist Ihr Postleitzahl/Ort?"
+    "en": "\n 1.What (How) is your (formal) zip code? \n 2.What (How) is your (formal) location?",
+    "de": "\n 1.Wie ist Ihre Postleitzahl? \n 2.Wie ist Ihr Ort?"
   },
   {
     "id": 10213,
@@ -2836,8 +2836,8 @@
   },
   {
     "id": 13158,
-    "en": "Are we putting the jackets on downstairs?",
-    "de": "Ziehen wir die Jacken unten an?"
+    "en": "Should we put on or take off our jackets?",
+    "de": "Sollen wir die Jacken anziehen oder ausziehen?"
   },
   {
     "id": 13159,
