@@ -996,7 +996,7 @@
   {
     "id": 10195,
     "en": "Say your (formal) names?",
-    "de": "Sagen Sie Ihren Namen?",
+    "de": "Sagen Sie Ihren Name?",
     "desc": "The N-declension Rule:\nCertain masculine nouns in German, like \"Name\", follow a special pattern called the N-declension. These nouns take an extra -n or -en ending in cases other than the nominative singular.\n\nApplication to \"Name\":\nNominative Singular: der Name (The name)\nAccusative Singular: den Namen (The name)\nDative Singular: dem Namen (To/for the name)\nGenitive Singular: des Namens (Of the name)\nWhy does this happen?\nThis is a historical feature of German grammar for a small group of masculine nouns, mostly those of foreign origin or with specific endings like -e, -ist, or -ent.\n\nExamples:\nNominative: \"Der Name ist schön.\" (The name is nice.)\nAccusative: \"Ich schreibe den Namen.\" (I write the name.)\nSummary:\n\"Name\" changes to \"Namen\" in the accusative because it follows the N-declension rule for masculine nouns.\nArticles still follow the normal accusative rules: der → den."
   },
   {
@@ -2380,7 +2380,7 @@
   },
   {
     "id": 13067,
-    "en": "I must go to the police (female) immediately",
+    "en": "I must go to the police immediately",
     "de": "Ich muss sofort zur Polizei gehen"
   },
   {
@@ -2416,7 +2416,8 @@
   {
     "id": 13074,
     "en": "What did you (plural) watch?",
-    "de": "Was habt ihr geschaut?"
+    "de": "Was habt ihr geschaut?",
+    "desc": "Both mean “What did you watch?”\n\n“Was habt ihr geguckt?” = informal, everyday spoken German\n“Was habt ihr geschaut?” = more neutral/standard, slightly more formal or regional (south German)\n\nSame meaning, just different style."
   },
   {
     "id": 13075,

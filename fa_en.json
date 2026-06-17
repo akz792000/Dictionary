@@ -493,7 +493,7 @@
   },
   {
     "id": 98,
-    "fa": "خیلی داری بزرگش میکنی. سخت نگیر",
+    "fa": "شما خیلی داری بزرگش میکنی. سخت نگیر",
     "en": "You are making a big deal out of it. Take it easy"
   },
   {
@@ -792,5 +792,21 @@
     "id": 5057,
     "fa": "ساخت های بعدی خواهند بود بسیار سریع تر زیرا (در حافظه) ذخیره شده اند",
     "en": "Subsequent builds will be much faster since it's cached"
+  },
+  {
+    "id": 5058,
+    "fa": "الکس، فردا من دارم یک قرار ملاقات ساعت ۹:۳۰، اما من فکر می کنم نتونم (فرضی) به دیلی (جلسه روزانه) برسم",
+    "en": "Alex, tomorrow I have an appointment at 9:30, but I think I couldn't catch up on the daily"
+  },
+  {
+    "id": 5059,
+    "fa": "برلین است پرجمعیت تر از پاریس، اگر شما مقایسه کنید فقط خودِ شهر (بدون حومه) را",
+    "en": "Berlin is more populous than Paris if you compare the city proper",
+    "desc": "Here, “city proper” means the official city limits — the area that is legally defined as the city itself.\n\nSo it excludes:\n\nsuburbs\nsurrounding metropolitan areas\nnearby towns that are part of the wider urban region\nIn simple terms:\n\ncity proper = the city only (administrative boundaries)"
+  },
+  {
+    "id": 5060,
+    "fa": "مانیتور من گاهی اوقات یک تصویر \"شبح\" ضعیف از آنچه یک ثانیه قبل روی صفحه بوده است را نشان می دهد. به نظر می رسد فریم قبلی روی صفحه نمایش چسبیده و روی تصویر فعلی قابل مشاهده است. تنها راهی که برای پاک کردن آن پیدا کرده ام، خاموش کردن مانیتور برای چند ساعت، گاهی تا یک روز است.",
+    "en": "My monitor sometimes shows a faint 'ghost' image of what was on the screen a second earlier. The previous frame seems to stick on the display and remains visible on top of the current image. The only way I've found to clear it is to turn the monitor off for several hours, sometimes up to a day"
   }
 ]
