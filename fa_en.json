@@ -795,8 +795,8 @@
   },
   {
     "id": 5058,
-    "fa": "الکس، فردا من دارم یک قرار ملاقات ساعت ۹:۳۰، اما من فکر می کنم نتونم (فرضی) به دیلی (جلسه روزانه) برسم",
-    "en": "Alex, tomorrow I have an appointment at 9:30, but I think I couldn't catch up on the daily"
+    "fa": "علی، فردا من دارم یک قرار ملاقات ساعت ۹:۳۰، اما من فکر می کنم من نتونم (فرضی) به دیلی (جلسه روزانه) برسم",
+    "en": "Ali, tomorrow I have an appointment at 9:30, but I think I couldn't catch up on the daily"
   },
   {
     "id": 5059,
@@ -808,5 +808,30 @@
     "id": 5060,
     "fa": "مانیتور من گاهی اوقات یک تصویر \"شبح\" ضعیف از آنچه یک ثانیه قبل روی صفحه بوده است را نشان می دهد. به نظر می رسد فریم قبلی روی صفحه نمایش چسبیده و روی تصویر فعلی قابل مشاهده است. تنها راهی که برای پاک کردن آن پیدا کرده ام، خاموش کردن مانیتور برای چند ساعت، گاهی تا یک روز است.",
     "en": "My monitor sometimes shows a faint 'ghost' image of what was on the screen a second earlier. The previous frame seems to stick on the display and remains visible on top of the current image. The only way I've found to clear it is to turn the monitor off for several hours, sometimes up to a day"
+  },
+  {
+    "id": 5061,
+    "fa": "هر چه بیشتر من یاد می گیرم، بیشتر فروتن من می شوم",
+    "en": "The more I learn, the more humble I become"
+  },
+  {
+    "id": 5062,
+    "fa": "langfuse-web — رابط کاربری و API. کاربران باز می کنند این را در مرورگر تا ببینند تمام ردیابی ها LLM، هزینه ها و ارزیابی های خود را",
+    "en": "langfuse-web — The UI and API. Users open this in the browser to see all their LLM traces, costs, and evaluations"
+  },
+  {
+    "id": 5063,
+    "fa": "langfuse-worker — موتور پس زمینه. پردازش می کنه رویدادهای خام که می آیند داخل Karl و می نویسد آنها را داخل ClickHouse برای تحلیل ",
+    "en": "langfuse-worker — The background engine. It processes the raw events that come in from Karl and writes them into ClickHouse for analysis"
+  },
+  {
+    "id": 5064,
+    "fa": "کلیک هاوس — پایگاه داده تحلیلی. ساخته شده است برای پرس وجوهای پرسرعت روی حجم عظیمی از داده های رویداد - مثلاً «چند توکن خرج کردیم این هفته برای هر مدل؟»",
+    "en": "ClickHouse — The analytics database. It's built for high-speed queries on huge amounts of event data — think \"how many tokens did we spend this week per model?\""
+  },
+  {
+    "id": 5065,
+    "fa": "وقتی کارل ارسال می کند یک ردیاب، می رود داخل Redis ابتدا، سپس worker برداشت می کند - این جدا می کند بلعیدن از پردازش، بنابراین هیچ چیزی از دست نمی رود زیر بار",
+    "en": "When Karl sends a trace, it goes into Redis first, then the worker picks it up — this decouples ingestion from processing so nothing gets lost under load"
   }
 ]

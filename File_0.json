@@ -5460,7 +5460,7 @@
   },
   {
     "id": 998,
-    "fa": "عصبی به نظر می رسی",
+    "fa": "تو عصبی به نظر می رسی",
     "en": "You seem tense",
     "groupCode": 0
   },
@@ -5847,7 +5847,7 @@
   },
   {
     "id": 1061,
-    "fa": "من می توانم توضیح مختصری در مورد فرآیند به شما بدهم، آنچنان زمانی نخواهد برد",
+    "fa": "من می توانم بدهم به شما یک توضیح مختصری از فرآیند، آنچنان زمانی نخواهد برد",
     "en": "I can give you a brief explanation of the process, it won't take that much time",
     "groupCode": 0
   },
@@ -8710,7 +8710,7 @@
   },
   {
     "id": 1531,
-    "fa": "نیش پشه را روی بازویم خاراندم",
+    "fa": "من خاراندم نیش پشه را روی بازویم",
     "en": "I scratched the mosquito bite on my arm",
     "groupCode": 0
   },
@@ -10309,7 +10309,7 @@
   },
   {
     "id": 1794,
-    "fa": "من خیلی چیز زیادی در موردش نمی دانم",
+    "fa": "من چیز زیادی در موردش نمی دانم",
     "en": "I don't know much about it",
     "groupCode": 0
   },
@@ -12959,7 +12959,7 @@
   {
     "id": 2229,
     "fa": "دارو برای چه کسی است؟",
-    "en": "Who is the medicine for?",
+    "en": "\n 1.Who is the medicine for? \n 2.Whose medicine is this? ",
     "groupCode": 0
   },
   {
@@ -14976,7 +14976,7 @@
   },
   {
     "id": 2560,
-    "fa": "این کیک رایحه ای دلپذیر از توت فرنگی ها ساطع می کند",
+    "fa": "این کیک ساطع می کند یک رایحه ای دلپذیر از توت فرنگی ها",
     "en": "This cake emanates a delightful aroma (əˈrōmə) of strawberries",
     "groupCode": 0
   },
