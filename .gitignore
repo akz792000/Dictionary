@@ -4,3 +4,5 @@
 *.iml
 *.ipr
 B1
+python/resume/.venv
+python/samples/myenv
