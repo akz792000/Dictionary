@@ -115,5 +115,5 @@ Sie haben nach rechts abgebogen.
 - After every batch, update the progress line below
 
 ### Progress
-- Next batch to process: ids 20021–20040
+- ✅ **COMPLETED** — All 305 entries (ids 20001–20305) have been transformed to simple example sentences. English translations also reviewed and corrected where needed.
 
