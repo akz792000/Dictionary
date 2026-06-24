@@ -5,4 +5,4 @@
 *.ipr
 B1
 python/resume/.venv
-python/samples/myenv
+python/samples/myenvTemp.json
