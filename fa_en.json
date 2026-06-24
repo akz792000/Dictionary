@@ -592,7 +592,7 @@
   },
   {
     "id": 115,
-    "fa": "امیدوارم هرچه زودتر خوب شی",
+    "fa": "من امیدوارم شما خوب شی زود",
     "en": "I hope you get well soon",
     "groupCode": 0
   },
@@ -909,7 +909,7 @@
   },
   {
     "id": 167,
-    "fa": "خیلی خوش شانسم که تو رو تو زندگیم دارم",
+    "fa": "من خیلی خوش شانسم (که) دارم تو را در زندگیم",
     "en": "I am so lucky to have you in my life",
     "groupCode": 0
   },
@@ -1065,7 +1065,7 @@
   },
   {
     "id": 193,
-    "fa": "همه اش رو می خوام",
+    "fa": "من می خوام همه اش رو",
     "en": "I want all of it",
     "groupCode": 0
   },
@@ -1101,7 +1101,7 @@
   },
   {
     "id": 199,
-    "fa": "همش به تو فکر می کنم",
+    "fa": "من فکر می کنم در رابطه با تو تمام زمان",
     "en": "I think about you all the time",
     "groupCode": 0
   },
@@ -6488,7 +6488,7 @@
   },
   {
     "id": 1083,
-    "fa": "میشه به رستوران هندی برویم یا (مودبانه) غذاهای چینی را ترجیح می دهید؟ برای من فرقی نمیکنه",
+    "fa": "میشه ما برویم به رستوران هندی یا ترجیح می دهید (مودبانه) غذاهای چینی را؟ برای من فرقی نمیکنه",
     "en": "Shall we go to the Indian restaurant, or would you prefer Chinese food? I'm easy",
     "groupCode": 0
   },
@@ -22181,6 +22181,7 @@
     "id": 3653,
     "fa": "من مطمئن خواهم شد جملات مختصر و ساده هستند برای به خاطر سپاری راحتتر",
     "en": "I'll ensure the sentences are concise and straightforward for easier memorization",
+    "desc": "Briefly = in a short way.\n\nConcisely = in a short and clear way, using only the necessary words.\n\nExample:\n\nExplain briefly: \"Give me a short explanation.\"\nExplain concisely: \"Give me a short explanation with no unnecessary details.\"\n\nSo concisely is usually a bit stronger than briefly because it emphasizes efficiency and clarity, not just length.",
     "groupCode": 0
   },
   {
@@ -30675,8 +30676,8 @@
   },
   {
     "id": 5058,
-    "fa": "علی، فردا من دارم یک قرار ملاقات ساعت ۹:۳۰، اما من فکر می کنم من نتونم (فرضی) به دیلی (جلسه روزانه) برسم",
-    "en": "Ali, tomorrow I have an appointment at 9:30, but I think I couldn't catch up on the daily"
+    "fa": "علی، فردا من دارم یک قرار ملاقات ساعت ۹:۳۰، اما من فکر نمی کنم من بتونم (فرضی) به دیلی (جلسه روزانه) برسم",
+    "en": "Ali, tomorrow I have an appointment at 9:30, so I don't think I can catch up with the daily"
   },
   {
     "id": 5059,
@@ -30686,7 +30687,7 @@
   },
   {
     "id": 5060,
-    "fa": "مانیتور من گاهی اوقات یک تصویر \"شبح\" ضعیف از آنچه یک ثانیه قبل روی صفحه بوده است را نشان می دهد. به نظر می رسد فریم قبلی روی صفحه نمایش چسبیده و روی تصویر فعلی قابل مشاهده است. تنها راهی که برای پاک کردن آن پیدا کرده ام، خاموش کردن مانیتور برای چند ساعت، گاهی تا یک روز است.",
+    "fa": "مانیتور من گاهی اوقات نشان می دهد یک تصویر \"شبح\" ضعیف از آنچه بوده روی صفحه یک ثانیه زودتر. فریم قبلی به نظر می رسد چسبیده روی صفحه نمایش و باقی می ماند قابل مشاهده روی تصویر فعلی. تنها راهی که من پیدا کردم تا پاک کنمش است تا خاموش کنم مانیتور برای چند ساعت، گاهی تا یک روز",
     "en": "My monitor sometimes shows a faint 'ghost' image of what was on the screen a second earlier. The previous frame seems to stick on the display and remains visible on top of the current image. The only way I've found to clear it is to turn the monitor off for several hours, sometimes up to a day"
   },
   {
@@ -30723,5 +30724,10 @@
     "id": 5067,
     "fa": "به نظر می رسد پیام قطع شده بود",
     "en": "It looks like the message got cut off"
+  },
+  {
+    "id": 5068,
+    "fa": "\n 1.من نیاز دارم به تو برسم \n 2.من نیاز دارم به کار هایم برسم",
+    "en": "\n 1.I need to catch up with you \n 2.I need to catch up on my work"
   }
 ]

@@ -1006,8 +1006,8 @@
   },
   {
     "id": 10197,
-    "en": "Who knows (aware) most (of the) names?",
-    "de": "Wer weiß meisten Namen?"
+    "en": "Who knows (aware) the most names?",
+    "de": "Wer kennt die meisten Namen?"
   },
   {
     "id": 10198,
@@ -1757,7 +1757,7 @@
   {
     "id": 10336,
     "en": "Do you still have to wash these socks",
-    "de": "\n 1.Musst du diese Socken noch waschen \n Musst du noch diese Socken waschen",
+    "de": "\n 1.Musst du diese Socken noch waschen \n 2.Musst du noch diese Socken waschen",
     "desc": "Musst du diese Socken noch waschen?: Focus on still needing to wash the socks.\nMusst du noch diese Socken waschen?: Focus on these socks as additional ones.\nBoth are correct; the first is more common.",
     "groupCode": 1
   },
@@ -2036,7 +2036,7 @@
   },
   {
     "id": 10382,
-    "en": "I have my birthday tomorrow and we're having (make) a party. Go inside the supermarket and buy five bottles of white wine",
+    "en": "I have birthday tomorrow and we're having (make) a party. Go inside the supermarket and buy five bottles of white wine",
     "de": "Ich habe morgen Geburtstag und wir machen eine Party. Geh in den Supermarkt und kauf fünf Flaschen Weißwein",
     "groupCode": 1
   },
@@ -9210,8 +9210,8 @@
   },
   {
     "id": 11559,
-    "en": "Do you believe your girlfriend can come along?",
-    "de": "Glaubst du deine Freundin kann mitkommen?",
+    "en": "Do you believe, that your girlfriend can come along?",
+    "de": "Glaubst du, dass deine Freundin mitkommen kann?",
     "groupCode": 1
   },
   {
@@ -9866,6 +9866,7 @@
     "id": 11665,
     "en": "Where is my glass of champagne?",
     "de": "Wo ist mein Glas Sekt?",
+    "desc": "das Glas = a drinking glass (most common meaning)",
     "groupCode": 1
   },
   {
@@ -15972,7 +15973,7 @@
   },
   {
     "id": 12665,
-    "en": "I hear you good. You should not shout",
+    "en": "I hear you good. You do not have to shout",
     "de": "Ich höre dich gut. Du musst nicht schreien",
     "groupCode": 1
   },
@@ -18728,5 +18729,15 @@
     "id": 13161,
     "en": "The door isn't locked, so (then) I lock it",
     "de": "Die Tür ist nicht verschlossen, dann schließe ich die Tür ab"
+  },
+  {
+    "id": 13162,
+    "en": "I sent my job application yesterday and submitted the application/request for a work permit today",
+    "de": "Ich habe gestern meine Bewerbung für die Stelle abgeschickt und heute den Antrag auf eine Arbeitserlaubnis gestellt"
+  },
+  {
+    "id": 13163,
+    "en": "The forest is an important part of the world",
+    "de": "Der Wald ist ein wichtiger Teil der Welt"
   }
 ]
