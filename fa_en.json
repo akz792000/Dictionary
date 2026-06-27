@@ -1113,7 +1113,7 @@
   },
   {
     "id": 201,
-    "fa": "زود بهش عادت خواهی کرد",
+    "fa": "شما زود عادت خواهی کرد بهش",
     "en": "You'll soon get used to it",
     "desc": "\n be used to = عادت داشتن \n get used to = عادت کردن \n",
     "groupCode": 0
@@ -1279,7 +1279,7 @@
   },
   {
     "id": 228,
-    "fa": "آیا داری برای وامها بهره میدی؟",
+    "fa": "آیا تو داری روی وامها بهره میدی؟",
     "en": "Are you paying interest on the loans?",
     "groupCode": 0
   },
@@ -1327,7 +1327,7 @@
   },
   {
     "id": 236,
-    "fa": "او (زن) سینی نوشیدنی را حمل می کرد",
+    "fa": "او (زن) حمل می کرد یک سینی از نوشیدنی ها",
     "en": "She was carrying a tray of drinks",
     "groupCode": 0
   },
@@ -1569,7 +1569,7 @@
   },
   {
     "id": 276,
-    "fa": "دیروز به خاطر بارون نتونستم بیام",
+    "fa": "من نتونستم بیام دیروز به خاطر بارون",
     "en": "I couldn't come yesterday because of the rain",
     "groupCode": 0
   },
@@ -2288,7 +2288,7 @@
   },
   {
     "id": 395,
-    "fa": "در صورت دریافت وام می توانم به موقع پرداخت کنم",
+    "fa": "اگر من یک وام دریافت کنم من می توانم پرداخت انجام دهم به موقع",
     "en": "If I get a loan I can make the payment on time",
     "groupCode": 0
   },
@@ -30676,7 +30676,7 @@
   },
   {
     "id": 5058,
-    "fa": "علی، فردا من دارم یک قرار ملاقات ساعت ۹:۳۰، اما من فکر نمی کنم من بتونم (فرضی) به دیلی (جلسه روزانه) برسم",
+    "fa": "علی، فردا من دارم یک قرار ملاقات ساعت ۹:۳۰، اما من فکر نمی کنم من بتونم به دیلی (جلسه روزانه) برسم",
     "en": "Ali, tomorrow I have an appointment at 9:30, so I don't think I can catch up with the daily"
   },
   {
@@ -30702,7 +30702,7 @@
   },
   {
     "id": 5063,
-    "fa": "langfuse-worker — موتور پس زمینه. پردازش می کنه رویدادهای خام که می آیند داخل Karl و می نویسد آنها را داخل ClickHouse برای تحلیل ",
+    "fa": "langfuse-worker — موتور پس زمینه. پردازش می کنه رویدادهای خام که می آیند داخل Karl و می نویسد آنها را داخل ClickHouse برای تحلیل",
     "en": "langfuse-worker — The background engine. It processes the raw events that come in from Karl and writes them into ClickHouse for analysis"
   },
   {
@@ -30722,8 +30722,8 @@
   },
   {
     "id": 5067,
-    "fa": "به نظر می رسد پیام قطع شده بود",
-    "en": "It looks like the message got cut off"
+    "fa": "انگار (به نظر می رسد شبیه) پیام قطع شده بود",
+    "en": "Seems like the message got cut off"
   },
   {
     "id": 5068,

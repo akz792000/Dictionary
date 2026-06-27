@@ -18739,5 +18739,45 @@
     "id": 13163,
     "en": "The forest is an important part of the world",
     "de": "Der Wald ist ein wichtiger Teil der Welt"
+  },
+  {
+    "id": 13164,
+    "en": "Could you (formal) cut that for me?",
+    "de": "Könnten Sie das für mich schneiden?"
+  },
+  {
+    "id": 13165,
+    "en": "Do you agree (are you agreed) with the contract?",
+    "de": "Bist du mit dem Vertrag einverstanden?"
+  },
+  {
+    "id": 13166,
+    "en": "Can I get your signature?",
+    "de": "Kann ich deine Unterschrift bekommen?"
+  },
+  {
+    "id": 13167,
+    "en": "I do not agree (am not agreed) with the contract",
+    "de": "Ich bin nicht mit dem Vertrag einverstanden"
+  },
+  {
+    "id": 13168,
+    "en": "Please sign (formal) the contract",
+    "de": "Bitte unterschreiben Sie den Vertrag"
+  },
+  {
+    "id": 13169,
+    "en": "The boss does not agree (is not agreed)",
+    "de": "Die Chefin ist nicht einverstanden"
+  },
+  {
+    "id": 13170,
+    "en": "They always try to answer all questions",
+    "de": "Sie versuchen immer alle Fragen zu beantworten"
+  },
+  {
+    "id": 13171,
+    "en": "We can decide together",
+    "de": "Wir können zusammen entscheiden"
   }
 ]
